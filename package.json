@@ -1,0 +1,26 @@
+{
+    "name": "dev-resources-api",
+    "version": "1.0.0",
+    "description": "The API for the resources listed on Dev Resources.",
+    "main": "index.js",
+    "scripts": {
+        "update-db": "node utils/update-db.js",
+        "update-readme": "node utils/readme/update-readme.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/marcelscruz/dev-resources-api.git"
+    },
+    "author": "Marcel Cruz",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/marcelscruz/dev-resources-api/issues"
+    },
+    "homepage": "https://github.com/marcelscruz/dev-resources-api#readme",
+    "dependencies": {
+        "lodash.deburr": "^4.1.0"
+    },
+    "devDependencies": {
+        "eslint": "^7.18.0"
+    }
+}
