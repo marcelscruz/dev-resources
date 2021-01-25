@@ -14,4 +14,4 @@ jobs:
             - run: npm run update-readme
             - run: git add .
             - run: git commit -m "Auto updating resources list and README.md"
-            - run: git push origin HEAD:master
+            - run: git push origin HEAD:main
