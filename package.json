@@ -1,26 +1,47 @@
 {
     "name": "dev-resources-api",
+    "author": "Marcel Cruz",
     "version": "1.0.0",
     "description": "The API for the resources listed on Dev Resources.",
-    "main": "index.js",
     "scripts": {
         "update-db": "node utils/update-db.js",
-        "update-readme": "node utils/readme/update-readme.js"
+        "update-readme": "node utils/readme/update-readme.js",
+        "___GATSBY___": "________________",
+        "dev": "gatsby develop -H 0.0.0.0 -p 8001",
+        "clear-cache": "rm -rf .cache & rm -rf public",
+        "build": "gatsby build",
+        "develop": "gatsby develop",
+        "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+        "start": "npm run develop",
+        "serve": "gatsby serve",
+        "clean": "gatsby clean"
+    },
+    "dependencies": {
+        "gatsby": "^2.26.1",
+        "gatsby-image": "^2.5.0",
+        "gatsby-plugin-manifest": "^2.6.1",
+        "gatsby-plugin-offline": "^3.4.0",
+        "gatsby-plugin-react-helmet": "^3.4.0",
+        "gatsby-plugin-sharp": "^2.8.0",
+        "gatsby-source-filesystem": "^2.5.0",
+        "gatsby-transformer-sharp": "^2.6.0",
+        "lodash.deburr": "^4.1.0",
+        "prop-types": "^15.7.2",
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0",
+        "react-helmet": "^6.1.0"
+    },
+    "devDependencies": {
+        "eslint": "^7.18.0",
+        "prettier": "2.2.1"
     },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/marcelscruz/dev-resources-api.git"
     },
-    "author": "Marcel Cruz",
     "license": "ISC",
+    "homepage": "https://github.com/marcelscruz/dev-resources-api#readme",
     "bugs": {
         "url": "https://github.com/marcelscruz/dev-resources-api/issues"
-    },
-    "homepage": "https://github.com/marcelscruz/dev-resources-api#readme",
-    "dependencies": {
-        "lodash.deburr": "^4.1.0"
-    },
-    "devDependencies": {
-        "eslint": "^7.18.0"
     }
 }

@@ -1,0 +1,7 @@
+.cache
+.next
+.vercel
+package.json
+package-lock.json
+yarn.lock
+public
