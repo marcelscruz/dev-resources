@@ -6,7 +6,7 @@ const { main, instagram, spotify, npm, linkedin, facebook, applePodcasts } = lin
 
 module.exports = [
     {
-        name: 'A It works! Hosting',
+        name: 'A Hosting',
         description: 'yep!',
         categories: [infrastructure.hosting],
         links: {
@@ -15,7 +15,7 @@ module.exports = [
         },
     },
     {
-        name: '1001 Fonts!!!',
+        name: '1001 Fonts',
         description:
             '24,262 free fonts in 13,112 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux.',
         links: {
