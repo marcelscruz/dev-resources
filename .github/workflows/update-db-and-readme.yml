@@ -1,0 +1,17 @@
+name: update-db-and-readme
+
+on:
+    push: { branches: master }
+
+jobs:
+    update-db-and-readme:
+        runs-on: macos-latest
+        steps:
+            - uses: actions/checkout@v2
+            - uses: actions/setup-node@v1
+            - run: npm install
+            - run: npm run update-db
+            - run: npm run update-readme
+            - run: git add .
+            - run: git commit -m "Auto updating resources list and README.md"
+            - run: git push origin HEAD:master
