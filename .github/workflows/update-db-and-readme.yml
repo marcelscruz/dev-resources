@@ -1,7 +1,7 @@
 name: update-db-and-readme
 
 on:
-    push: { branches: master }
+    push: { branches: main }
 
 jobs:
     update-db-and-readme:
