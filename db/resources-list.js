@@ -1,6 +1,6 @@
 module.exports = [
     {
-        "name": "1001 Fonts!!!",
+        "name": "1001 Fonts",
         "description": "24,262 free fonts in 13,112 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux.",
         "links": {
             "Main": "https://1forge.com/forex-data-api/api-documentation",
@@ -68,7 +68,7 @@ module.exports = [
         }
     },
     {
-        "name": "A It works! Hosting",
+        "name": "A Hosting",
         "description": "yep!",
         "categories": [
             "Infrastructure/Hosting"
