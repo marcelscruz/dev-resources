@@ -7,7 +7,7 @@ const { main } = links
 
 module.exports = async function () {
     try {
-        const publicApis = await axios.get('https://api.publicapis.org/entries?category=animals&https=true')
+        const publicApis = await axios.get('https://api.publicapis.org/entries')
 
         const parsedResult = publicApis.data.entries.map((api) => {
             const parsedApi = {
