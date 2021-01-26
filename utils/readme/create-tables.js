@@ -1,7 +1,10 @@
 const normalize = require('../normalize-strings')
 const truncate = require('../truncate')
 const links = require('../../constants/links')
+const validateExternalResources = require('../validate-external-resource')
+
 const { main } = links
+const { isPublicApis } = validateExternalResources
 
 const backToIndex = `\n**[⬆ Back to Index](#index)**`
 
@@ -39,6 +42,11 @@ function createRow(nodes) {
     if (nodes.children.length === 0) {
         const { name, data, id } = nodes
         const anchor = createAnchor({ name, id })
+
+        if (isPublicApis(id)) {
+            return `\n\n### ${anchor}\nThis section is powered by [Public APIs](https://github.com/public-apis/public-apis).`
+        }
+
         const tableHeadings = `| &nbsp; | Name | Description | Links | Keywords |\n|---|---|---|---|---|`
 
         const heading = `\n\n### ${anchor}\n${tableHeadings}\n`
