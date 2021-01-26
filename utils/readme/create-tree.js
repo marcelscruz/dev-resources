@@ -20,7 +20,7 @@ module.exports = function (metadata) {
             const ids = []
             let children = result
 
-            for (i = 0; parents.length > 0; i++) {
+            for (let i = 0; parents.length > 0; i++) {
                 const parent = parents.pop()
                 let foundParent = false
 

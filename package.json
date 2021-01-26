@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "description": "The API for the resources listed on Dev Resources.",
     "scripts": {
-        "update-db": "node utils/update-db.js",
+        "update-db": "node utils/db/update-db.js",
         "update-readme": "node utils/readme/update-readme.js",
         "___GATSBY___": "________________",
         "dev": "gatsby develop -H 0.0.0.0 -p 8001",
