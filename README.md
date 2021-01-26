@@ -7,7 +7,9 @@
   * [Hosting](#infrastructure-hosting)
 * [Programming](#programming) 
   * [JavaScript](#programming-javascript) 
-    * [React](#programming-javascript-react) 
+    * [React](#programming-javascript-react)
+* [Tools & Utilities](#tools-utilities) 
+  * [Public APIs](#tools-utilities-public-apis) - Powered by [Public APIs](https://github.com/public-apis/public-apis) 
 
 
 ## <a name="assets">Assets</a> 
@@ -47,3 +49,7 @@
  &nbsp; | B Icons, Fonts and React |  | [Main](https://1forge.com/forex-data-api/api-documentation)<br />[npm](https://test.com) |  |
 
 **[⬆ Back to Index](#index)**
+## <a name="tools-utilities">Tools & Utilities</a> 
+
+### <a name="public-apis"><a name="tools-utilities-public-apis">Public APIs</a></a>
+This section is powered by [Public APIs](https://github.com/public-apis/public-apis).
