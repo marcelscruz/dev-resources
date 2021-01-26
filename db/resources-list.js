@@ -100,5 +100,159 @@ module.exports = [
             "Assets/Fonts",
             "Programming/JavaScript/React"
         ]
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Main": "https://alexwohlbruck.github.io/cat-facts/"
+        },
+        "name": "Cat Facts",
+        "description": "Daily cat facts",
+        "auth": "",
+        "https": true,
+        "cors": "no",
+        "apiCategory": "Animals"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Main": "https://docs.thecatapi.com/"
+        },
+        "name": "Cats",
+        "description": "Pictures of cats from Tumblr",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Animals"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Main": "https://dog.ceo/dog-api/"
+        },
+        "name": "Dogs",
+        "description": "Based on the Stanford Dogs Dataset",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Animals"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Main": "https://http.cat/"
+        },
+        "name": "HTTPCat",
+        "description": "Cat for every HTTP Status",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Animals"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Main": "https://github.com/movebank/movebank-api-doc"
+        },
+        "name": "Movebank",
+        "description": "Movement and Migration data of animals",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Animals"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Main": "https://placegoat.com/"
+        },
+        "name": "PlaceGOAT",
+        "description": "Placeholder goat images",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Animals"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Main": "https://aws.random.cat/meow"
+        },
+        "name": "RandomCat",
+        "description": "Random pictures of cats",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Animals"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Main": "https://random.dog/woof.json"
+        },
+        "name": "RandomDog",
+        "description": "Random pictures of dogs",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Animals"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Main": "https://randomfox.ca/floof/"
+        },
+        "name": "RandomFox",
+        "description": "Random pictures of foxes",
+        "auth": "",
+        "https": true,
+        "cors": "no",
+        "apiCategory": "Animals"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Main": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home"
+        },
+        "name": "RescueGroups",
+        "description": "Adoption",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Animals"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Main": "http://shibe.online/"
+        },
+        "name": "Shibe.Online",
+        "description": "Random pictures of Shibu Inu, cats or birds",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Animals"
     }
 ]

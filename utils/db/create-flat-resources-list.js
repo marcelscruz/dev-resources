@@ -1,5 +1,5 @@
-module.exports = function (files) {
-    const flattenedResources = []
+module.exports = function ({ files, externalResources }) {
+    const flattenedResources = [...externalResources]
 
     files.forEach((file) => {
         const content = require(`../../resources/${file}`)
