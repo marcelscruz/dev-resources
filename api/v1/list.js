@@ -7,7 +7,7 @@ function list(req, res) {
 
     res.status(200).json({
         count: result.length,
-        data: result,
+        resources: result,
     })
 }
 
