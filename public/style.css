@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    align-items: center;
+    background-color: #0A0B0D;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Inter', sans-serif;
+    height: 100vh;
+    justify-content: center;
+    padding: 20px;
+    width: 100vw;
+}
+
+a,
+a:visited,
+a:active {
+    color: #FFFFFF;
+}
+
+
+img {
+    height: 20px;
+    margin-bottom: 50px;
+}
+
+p {
+    text-align: center;
+}
+
+@media screen and (min-width: 500px) {
+    img {
+        height: 40px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+}
