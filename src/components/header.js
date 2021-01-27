@@ -1,42 +1,55 @@
-import { Link } from "gatsby"
-import PropTypes from "prop-types"
-import React from "react"
+import React, { useContext } from 'react'
+import { Flex, Box } from '@chakra-ui/react'
+// import { Button, Logo, MobileMenu } from 'components'
+import Logo from './logo'
+import colours from 'constants/ui/colours'
+import sizes from 'constants/ui/sizes'
+// import preventFocus from 'utils/prevent-focus'
+// import siteMetadata from 'constants/site-metadata'
 
-const Header = ({ siteTitle }) => (
-  <header
-    style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
-    }}
-  >
-    <div
-      style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
-      }}
-    >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
+const { contentXPadding, headerHeight } = sizes
+
+export function Header() {
+    return (
+        <Flex
+            as="header"
+            borderBottom={`1px solid ${colours.grey4}`}
+            background={colours.black}
+            height={headerHeight}
+            justify="center"
+            position="fixed"
+            top="0"
+            width="100vw"
+            zIndex="999"
         >
-          {siteTitle}
-        </Link>
-      </h1>
-    </div>
-  </header>
-)
+            <Flex flex="1" align="center" justify="space-between" paddingX={contentXPadding}>
+                <Logo />
 
-Header.propTypes = {
-  siteTitle: PropTypes.string,
-}
+                {/* <Box display={{ lg: 'none' }}>
+                    <MobileMenu />
+                </Box> */}
 
-Header.defaultProps = {
-  siteTitle: ``,
+                {/* <Box display={{ base: 'none', lg: 'block' }}>
+                    <Button
+                        as="a"
+                        href={patreonUrl}
+                        target="_blank"
+                        rel="noopener"
+                        variant="outline"
+                        marginRight="25px"
+                        onMouseDown={preventFocus}
+                        width="180px"
+                    >
+                        Sponsor
+                    </Button>
+
+                    <Button width="180px" flex="1" variant="blue" onMouseDown={preventFocus} onClick={onOpen}>
+                        Submit Resource
+                    </Button>
+                </Box> */}
+            </Flex>
+        </Flex>
+    )
 }
 
 export default Header

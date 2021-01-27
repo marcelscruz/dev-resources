@@ -15,6 +15,13 @@ async function updateReadme() {
             data: `${index} ${tables}`,
             filePath: './README.md',
         })
+
+        const readmeFrontmatter = `---\nslug: '/'\n---\n\n`
+
+        await writeToFile({
+            data: `${readmeFrontmatter}${index} ${tables}`,
+            filePath: './src/markdown-pages/README.md',
+        })
     } catch (error) {
         throw new Error(error)
     }
