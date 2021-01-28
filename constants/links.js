@@ -1,7 +1,4 @@
 module.exports = {
-    main: 'Main',
-
-    // Platforms
     applePodcasts: 'Apple Podcasts',
     facebook: 'Facebook',
     github: 'GitHub',
@@ -14,5 +11,6 @@ module.exports = {
     spotify: 'Spotify',
     twitch: 'Twitch',
     twitter: 'Twitter',
+    website: 'Website',
     youtube: 'YouTube',
 }

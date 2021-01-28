@@ -3,5 +3,7 @@ module.exports = [
     "tools-utilities-public-apis",
     "assets-icons",
     "assets-fonts",
-    "programming-javascript-react"
+    "programming-javascript-react",
+    "programming-learn",
+    "programming-code-challenges"
 ]

@@ -1,17 +1,18 @@
 const categories = require('../constants/categories')
 const links = require('../constants/links')
 
-const { infrastructure } = categories
-const { main, instagram, spotify, npm, linkedin, facebook, applePodcasts } = links
+const { infrastructure, programming } = categories
+const { website, twitter, spotify, npm, linkedin, facebook, applePodcasts } = links
 
 module.exports = [
     {
-        name: 'A Hosting',
-        description: 'yep!',
-        categories: [infrastructure.hosting],
+        name: 'Indie Hackers',
+        description:
+            'Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.',
+        categories: [programming.learn, programming.codeChallenges],
         links: {
-            [main]: 'https://1forge.com/forex-data-api/api-documentation',
-            [instagram]: 'https://test.com',
+            [website]: 'https://www.indiehackers.com/',
+            [twitter]: 'https://twitter.com/indiehackers',
         },
     },
     {
@@ -19,7 +20,7 @@ module.exports = [
         description:
             '24,262 free fonts in 13,112 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux.',
         links: {
-            [main]: 'https://1forge.com/forex-data-api/api-documentation',
+            [website]: 'https://1forge.com/forex-data-api/api-documentation',
             [linkedin]: 'https://test.com',
             [facebook]: 'https://test.com',
             [applePodcasts]: 'https://test.com',
@@ -32,7 +33,7 @@ module.exports = [
         name: '18F Accessibility Guide',
         description: 'A simple checklist for determining if your site is accessible.',
         links: {
-            [main]: 'https://1forge.com/forex-data-api/api-documentation',
+            [website]: 'https://1forge.com/forex-data-api/api-documentation',
             [npm]: 'https://test.com',
         },
         icon: 'https://accessibility.18f.gov/checklist/favicon.ico',
@@ -74,7 +75,7 @@ module.exports = [
         icon: 'https://1forge.com/forex-data-api/favicon.ico',
         categories: [infrastructure.hosting],
         links: {
-            [main]: 'https://1forge.com/forex-data-api/api-documentation',
+            [website]: 'https://1forge.com/forex-data-api/api-documentation',
             [spotify]: 'https://test.com',
         },
     },

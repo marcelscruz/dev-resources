@@ -3,7 +3,7 @@ const categories = require('../../constants/categories')
 const links = require('../../constants/links')
 
 const { toolsAndUtilities } = categories
-const { main } = links
+const { website } = links
 
 module.exports = async function () {
     try {
@@ -21,7 +21,7 @@ module.exports = async function () {
                         parsedApi.name = value
                         break
                     case 'Link':
-                        parsedApi.links[main] = value
+                        parsedApi.links[website] = value
                         break
                     case 'Category':
                         parsedApi.apiCategory = value

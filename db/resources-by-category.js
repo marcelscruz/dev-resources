@@ -4,7 +4,7 @@ module.exports = {
             "name": "1001 Fonts",
             "description": "24,262 free fonts in 13,112 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux.",
             "links": {
-                "Main": "https://1forge.com/forex-data-api/api-documentation",
+                "Website": "https://1forge.com/forex-data-api/api-documentation",
                 "LinkedIn": "https://test.com",
                 "Facebook": "https://test.com",
                 "Apple Podcasts": "https://test.com"
@@ -19,7 +19,7 @@ module.exports = {
             "name": "18F Accessibility Guide",
             "description": "A simple checklist for determining if your site is accessible.",
             "links": {
-                "Main": "https://1forge.com/forex-data-api/api-documentation",
+                "Website": "https://1forge.com/forex-data-api/api-documentation",
                 "npm": "https://test.com"
             },
             "icon": "https://accessibility.18f.gov/checklist/favicon.ico",
@@ -64,25 +64,14 @@ module.exports = {
                 "Infrastructure/Hosting"
             ],
             "links": {
-                "Main": "https://1forge.com/forex-data-api/api-documentation",
+                "Website": "https://1forge.com/forex-data-api/api-documentation",
                 "Spotify": "https://test.com"
-            }
-        },
-        {
-            "name": "A Hosting",
-            "description": "yep!",
-            "categories": [
-                "Infrastructure/Hosting"
-            ],
-            "links": {
-                "Main": "https://1forge.com/forex-data-api/api-documentation",
-                "Instagram": "https://test.com"
             }
         },
         {
             "name": "B Icons and Hosting",
             "links": {
-                "Main": "https://1forge.com/forex-data-api/api-documentation",
+                "Website": "https://1forge.com/forex-data-api/api-documentation",
                 "npm": "https://test.com"
             },
             "categories": [
@@ -97,7 +86,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://18f.github.io/API-All-the-X/"
+                "Website": "http://18f.github.io/API-All-the-X/"
             },
             "name": "18F",
             "description": "Unofficial US Federal Government API Development",
@@ -111,7 +100,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://1forge.com/forex-data-api/api-documentation"
+                "Website": "https://1forge.com/forex-data-api/api-documentation"
             },
             "name": "1Forge",
             "description": "Forex currency market data",
@@ -125,7 +114,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://24pullrequests.com/api"
+                "Website": "https://24pullrequests.com/api"
             },
             "name": "24 Pull Requests",
             "description": "Project to promote open source collaboration during December",
@@ -139,7 +128,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.7timer.info/doc.php?lang=en"
+                "Website": "http://www.7timer.info/doc.php?lang=en"
             },
             "name": "7Timer!",
             "description": "Weather, especially for Astroweather",
@@ -153,7 +142,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.abuseipdb.com/"
+                "Website": "https://docs.abuseipdb.com/"
             },
             "name": "AbuseIPDB",
             "description": "IP/domain/URL reputation",
@@ -167,7 +156,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://adresse.data.gouv.fr"
+                "Website": "https://adresse.data.gouv.fr"
             },
             "name": "adresse.data.gouv.fr",
             "description": "Address database of France, geocoding and reverse",
@@ -181,7 +170,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.adsbexchange.com/data/"
+                "Website": "https://www.adsbexchange.com/data/"
             },
             "name": "ADS-B Exchange",
             "description": "Access real-time and historical data of any and all airborne aircraft",
@@ -195,7 +184,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://api.adviceslip.com/"
+                "Website": "http://api.adviceslip.com/"
             },
             "name": "Advice Slip",
             "description": "Generate random advice slips",
@@ -209,7 +198,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.adzuna.com/overview"
+                "Website": "https://developer.adzuna.com/overview"
             },
             "name": "Adzuna",
             "description": "Job board aggregator",
@@ -223,7 +212,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://age-of-empires-2-api.herokuapp.com"
+                "Website": "https://age-of-empires-2-api.herokuapp.com"
             },
             "name": "Age of Empires II",
             "description": "Get information about Age of Empires II resources",
@@ -237,7 +226,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://agify.io"
+                "Website": "https://agify.io"
             },
             "name": "Agify.io",
             "description": "Estimates the age from a first name",
@@ -251,7 +240,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://aimastering.com/api_docs/"
+                "Website": "https://aimastering.com/api_docs/"
             },
             "name": "AI Mastering",
             "description": "Automated Music Mastering",
@@ -265,7 +254,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://airvisual.com/api"
+                "Website": "https://airvisual.com/api"
             },
             "name": "AirVisual",
             "description": "Air quality and weather data",
@@ -279,7 +268,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.aishub.net/api"
+                "Website": "http://www.aishub.net/api"
             },
             "name": "AIS Hub",
             "description": "Real-time data of any marine and inland vessel equipped with AIS tracking system",
@@ -293,7 +282,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://otx.alienvault.com/api"
+                "Website": "https://otx.alienvault.com/api"
             },
             "name": "AlienVault Open Threat Exchange (OTX)",
             "description": "IP/domain/URL reputation",
@@ -307,7 +296,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.alphavantage.co/"
+                "Website": "https://www.alphavantage.co/"
             },
             "name": "Alpha Vantage",
             "description": "Realtime and historical stock data",
@@ -321,7 +310,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://sandbox.amadeus.com/"
+                "Website": "https://sandbox.amadeus.com/"
             },
             "name": "Amadeus Travel Innovation Sandbox",
             "description": "Travel Search - Limited usage",
@@ -335,7 +324,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://amiiboapi.com/"
+                "Website": "https://amiiboapi.com/"
             },
             "name": "AmiiboAPI",
             "description": "Nintendo Amiibo Information",
@@ -349,7 +338,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://anapioficeandfire.com/"
+                "Website": "https://anapioficeandfire.com/"
             },
             "name": "An API of Ice And Fire",
             "description": "Game Of Thrones API",
@@ -363,7 +352,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/AniList/ApiV2-GraphQL-Docs"
+                "Website": "https://github.com/AniList/ApiV2-GraphQL-Docs"
             },
             "name": "AniList",
             "description": "Anime discovery & tracking",
@@ -377,7 +366,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.animenewsnetwork.com/encyclopedia/api.php"
+                "Website": "https://www.animenewsnetwork.com/encyclopedia/api.php"
             },
             "name": "AnimeNewsNetwork",
             "description": "Anime industry news",
@@ -391,7 +380,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://apiflash.com/"
+                "Website": "https://apiflash.com/"
             },
             "name": "ApiFlash",
             "description": "Chrome based screenshot API for developers",
@@ -405,7 +394,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://apility.io/apidocs/"
+                "Website": "https://apility.io/apidocs/"
             },
             "name": "Apility.io",
             "description": "IP, Domains and Emails anti-abuse API blocklist",
@@ -419,7 +408,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://apis.guru/api-doc/"
+                "Website": "https://apis.guru/api-doc/"
             },
             "name": "APIs.guru",
             "description": "Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs",
@@ -433,7 +422,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.apixu.com/doc/request.aspx"
+                "Website": "https://www.apixu.com/doc/request.aspx"
             },
             "name": "APIXU",
             "description": "Weather",
@@ -447,7 +436,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://archive.readme.io/docs"
+                "Website": "https://archive.readme.io/docs"
             },
             "name": "Archive.org",
             "description": "The Internet Archive",
@@ -461,7 +450,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.arcsecond.io/"
+                "Website": "https://api.arcsecond.io/"
             },
             "name": "arcsecond.io",
             "description": "Multiple astronomy data sources",
@@ -475,7 +464,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.ap.org/"
+                "Website": "https://developer.ap.org/"
             },
             "name": "Associated Press",
             "description": "Search for news and metadata from Associated Press",
@@ -489,7 +478,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://docs.aylien.com/"
+                "Website": "http://docs.aylien.com/"
             },
             "name": "Aylien Text Analysis",
             "description": "A collection of information retrieval and natural language APIs",
@@ -503,7 +492,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://baconipsum.com/json-api/"
+                "Website": "https://baconipsum.com/json-api/"
             },
             "name": "Bacon Ipsum",
             "description": "A Meatier Lorem Ipsum Generator",
@@ -517,7 +506,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://balldontlie.io"
+                "Website": "https://balldontlie.io"
             },
             "name": "balldontlie",
             "description": "Balldontlie provides access to stats data from the NBA",
@@ -531,7 +520,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0"
+                "Website": "https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0"
             },
             "name": "Bandsintown",
             "description": "Music Events",
@@ -545,7 +534,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://battuta.medunes.net"
+                "Website": "http://battuta.medunes.net"
             },
             "name": "Battuta",
             "description": "A (country/region/city) in-cascade location API",
@@ -559,7 +548,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://api.bart.gov"
+                "Website": "http://api.bart.gov"
             },
             "name": "Bay Area Rapid Transit",
             "description": "Stations and predicted arrivals for BART",
@@ -573,7 +562,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.bclaws.ca/civix/template/complete/api/index.html"
+                "Website": "http://www.bclaws.ca/civix/template/complete/api/index.html"
             },
             "name": "BCLaws",
             "description": "Access to the laws of British Columbia",
@@ -587,7 +576,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.behance.net/dev"
+                "Website": "https://www.behance.net/dev"
             },
             "name": "Behance",
             "description": "Design",
@@ -601,7 +590,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://bestbuyapis.github.io/api-documentation/#overview"
+                "Website": "https://bestbuyapis.github.io/api-documentation/#overview"
             },
             "name": "Best Buy",
             "description": "Products, Buying Options, Categories, Recommendations, Stores and Commerce",
@@ -615,7 +604,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.betterdoctor.com/"
+                "Website": "https://developer.betterdoctor.com/"
             },
             "name": "BetterDoctor",
             "description": "Detailed information about doctors in your area",
@@ -629,7 +618,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://bettermeta.io"
+                "Website": "http://bettermeta.io"
             },
             "name": "BetterMeta",
             "description": "Return a site's meta tags in JSON format",
@@ -643,7 +632,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://bhagavadgita.io/api"
+                "Website": "https://bhagavadgita.io/api"
             },
             "name": "Bhagavad Gita",
             "description": "Bhagavad Gita text",
@@ -657,7 +646,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.bikewise.org/documentation/api_v2"
+                "Website": "https://www.bikewise.org/documentation/api_v2"
             },
             "name": "BikeWise",
             "description": "Bikewise is a place to learn about and report bike crashes, hazards and thefts",
@@ -671,7 +660,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/binance/binance-spot-api-docs"
+                "Website": "https://github.com/binance/binance-spot-api-docs"
             },
             "name": "Binance",
             "description": "Exchange for Trading Cryptocurrencies based in China",
@@ -685,7 +674,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.microsoft.com/maps/"
+                "Website": "https://www.microsoft.com/maps/"
             },
             "name": "Bing Maps",
             "description": "Create/customize digital maps based on Bing Maps data",
@@ -699,7 +688,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.atlassian.com/bitbucket/api/2/reference/"
+                "Website": "https://developer.atlassian.com/bitbucket/api/2/reference/"
             },
             "name": "Bitbucket",
             "description": "Bitbucket API",
@@ -713,7 +702,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://apiv2.bitcoinaverage.com/"
+                "Website": "https://apiv2.bitcoinaverage.com/"
             },
             "name": "BitcoinAverage",
             "description": "Digital Asset Price Data for the blockchain industry",
@@ -727,7 +716,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://bitcoincharts.com/about/exchanges/"
+                "Website": "https://bitcoincharts.com/about/exchanges/"
             },
             "name": "BitcoinCharts",
             "description": "Financial and Technical Data related to the Bitcoin Network",
@@ -741,7 +730,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.bitfinex.com/docs"
+                "Website": "https://docs.bitfinex.com/docs"
             },
             "name": "Bitfinex",
             "description": "Cryptocurrency Trading Platform",
@@ -755,7 +744,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://dev.bitly.com/get_started.html"
+                "Website": "http://dev.bitly.com/get_started.html"
             },
             "name": "Bitly",
             "description": "URL shortener and link management",
@@ -769,7 +758,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.bitmex.com/app/apiOverview"
+                "Website": "https://www.bitmex.com/app/apiOverview"
             },
             "name": "Bitmex",
             "description": "Real-Time Cryptocurrency derivatives trading platform based in Hong Kong",
@@ -783,7 +772,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://bittrex.com/Home/Api"
+                "Website": "https://bittrex.com/Home/Api"
             },
             "name": "Bittrex",
             "description": "Next Generation Crypto Trading Platform",
@@ -797,7 +786,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://dev.blablacar.com"
+                "Website": "https://dev.blablacar.com"
             },
             "name": "BlaBlaCar",
             "description": "Search car sharing trips",
@@ -811,7 +800,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.block.io/docs/basic"
+                "Website": "https://www.block.io/docs/basic"
             },
             "name": "Block",
             "description": "Bitcoin Payment, Wallet & Transaction Data",
@@ -825,7 +814,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.blockchain.info/api"
+                "Website": "https://www.blockchain.info/api"
             },
             "name": "Blockchain",
             "description": "Bitcoin Payment, Wallet & Transaction Data",
@@ -839,7 +828,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.getthedata.com/bng2latlong"
+                "Website": "https://www.getthedata.com/bng2latlong"
             },
             "name": "bng2latlong",
             "description": "Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude",
@@ -853,7 +842,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.boredapi.com/"
+                "Website": "https://www.boredapi.com/"
             },
             "name": "Bored",
             "description": "Find random activities to fight boredom",
@@ -867,7 +856,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.box.com/"
+                "Website": "https://developer.box.com/"
             },
             "name": "Box",
             "description": "File Sharing and Storage",
@@ -881,7 +870,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.bratabase.com/"
+                "Website": "https://developers.bratabase.com/"
             },
             "name": "Bratabase",
             "description": "Database of different types of Bra Sizes",
@@ -895,7 +884,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://deividfortuna.github.io/fipe/"
+                "Website": "https://deividfortuna.github.io/fipe/"
             },
             "name": "Brazilian Vehicles and Prices",
             "description": "Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe",
@@ -909,7 +898,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://breakingbadapi.com/documentation"
+                "Website": "https://breakingbadapi.com/documentation"
             },
             "name": "Breaking Bad",
             "description": "Breaking Bad API",
@@ -923,7 +912,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/shevabam/breaking-bad-quotes"
+                "Website": "https://github.com/shevabam/breaking-bad-quotes"
             },
             "name": "Breaking Bad Quotes",
             "description": "Some Breaking Bad quotes",
@@ -937,7 +926,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://bnb.data.bl.uk/"
+                "Website": "http://bnb.data.bl.uk/"
             },
             "name": "British National Bibliography",
             "description": "Books",
@@ -951,7 +940,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://browshot.com/api/documentation"
+                "Website": "https://browshot.com/api/documentation"
             },
             "name": "Browshot",
             "description": "Easily make screenshots of web pages in any screen size, as any device",
@@ -965,7 +954,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://buffer.com/developers/api"
+                "Website": "https://buffer.com/developers/api"
             },
             "name": "Buffer",
             "description": "Access to pending and sent updates in Buffer",
@@ -979,7 +968,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://business.usa.gov/developer"
+                "Website": "https://business.usa.gov/developer"
             },
             "name": "BusinessUSA",
             "description": "Authoritative information on U.S. programs, events, services and more",
@@ -993,7 +982,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.calendarindex.com/"
+                "Website": "https://www.calendarindex.com/"
             },
             "name": "Calendar Index",
             "description": "Worldwide Holidays and Working Days",
@@ -1007,7 +996,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://callook.info"
+                "Website": "https://callook.info"
             },
             "name": "Callook.info",
             "description": "United States ham radio callsigns",
@@ -1021,7 +1010,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://api.cfl.ca/"
+                "Website": "http://api.cfl.ca/"
             },
             "name": "Canadian Football League (CFL)",
             "description": "Official JSON API providing real-time league, team and player statistics about the CFL",
@@ -1035,7 +1024,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.careerjet.com/partners/api/"
+                "Website": "https://www.careerjet.com/partners/api/"
             },
             "name": "Careerjet",
             "description": "Job search engine",
@@ -1049,7 +1038,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.score.getcarro.com/"
+                "Website": "https://docs.score.getcarro.com/"
             },
             "name": "Carro Score",
             "description": "Social Media Influence Rating",
@@ -1063,7 +1052,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://carto.com/"
+                "Website": "https://carto.com/"
             },
             "name": "CARTO",
             "description": "Location Information Prediction",
@@ -1077,7 +1066,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://alexwohlbruck.github.io/cat-facts/"
+                "Website": "https://alexwohlbruck.github.io/cat-facts/"
             },
             "name": "Cat Facts",
             "description": "Daily cat facts",
@@ -1091,7 +1080,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.thecatapi.com/"
+                "Website": "https://docs.thecatapi.com/"
             },
             "name": "Cats",
             "description": "Pictures of cats from Tumblr",
@@ -1105,7 +1094,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.cdnjs.com/libraries/jquery"
+                "Website": "https://api.cdnjs.com/libraries/jquery"
             },
             "name": "CDNJS",
             "description": "Library info on CDNJS",
@@ -1119,7 +1108,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.census.gov/data/developers/data-sets.html"
+                "Website": "https://www.census.gov/data/developers/data-sets.html"
             },
             "name": "Census.gov",
             "description": "The US Census Bureau provides various APIs and data sets on demographics and businesses",
@@ -1133,7 +1122,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://censys.io/api"
+                "Website": "https://censys.io/api"
             },
             "name": "Censys.io",
             "description": "Search engine for Internet connected host and devices",
@@ -1147,7 +1136,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://changelogs.md"
+                "Website": "https://changelogs.md"
             },
             "name": "Changelogs.md",
             "description": "Structured changelog metadata from open source projects",
@@ -1161,7 +1150,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://charityapi.orghunter.com/"
+                "Website": "http://charityapi.orghunter.com/"
             },
             "name": "Charity Search",
             "description": "Non-profit charity data",
@@ -1175,7 +1164,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.cheapshark.com/api"
+                "Website": "https://www.cheapshark.com/api"
             },
             "name": "CheapShark",
             "description": "Steam/PC Game Prices and Deals",
@@ -1189,7 +1178,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://chroniclingamerica.loc.gov/about/api/"
+                "Website": "http://chroniclingamerica.loc.gov/about/api/"
             },
             "name": "Chronicling America",
             "description": "Provides access to millions of pages of historic US newspapers from the Library of Congress",
@@ -1203,7 +1192,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.icndb.com/api/"
+                "Website": "http://www.icndb.com/api/"
             },
             "name": "Chuck Norris Database",
             "description": "Jokes",
@@ -1217,7 +1206,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.chucknorris.io"
+                "Website": "https://api.chucknorris.io"
             },
             "name": "chucknorris.io",
             "description": "JSON API for hand curated Chuck Norris jokes",
@@ -1231,7 +1220,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://calapi.inadiutorium.cz/"
+                "Website": "http://calapi.inadiutorium.cz/"
             },
             "name": "Church Calendar",
             "description": "Catholic liturgical calendar",
@@ -1245,7 +1234,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://circleci.com/docs/api/v1-reference/"
+                "Website": "https://circleci.com/docs/api/v1-reference/"
             },
             "name": "CircleCI",
             "description": "Automate the software development process using continuous integration and continuous delivery",
@@ -1259,7 +1248,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.ciscospark.com"
+                "Website": "https://developer.ciscospark.com"
             },
             "name": "Cisco Spark",
             "description": "Team Collaboration Software",
@@ -1273,7 +1262,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://api.citybik.es/v2/"
+                "Website": "http://api.citybik.es/v2/"
             },
             "name": "City Bikes",
             "description": "City Bikes around the world",
@@ -1287,7 +1276,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://data.beta.grandlyon.com/fr/accueil"
+                "Website": "https://data.beta.grandlyon.com/fr/accueil"
             },
             "name": "City, Lyon Opendata",
             "description": "Lyon(FR) City Open Data",
@@ -1301,7 +1290,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://data.nantesmetropole.fr/pages/home/"
+                "Website": "https://data.nantesmetropole.fr/pages/home/"
             },
             "name": "City, Nantes Opendata",
             "description": "Nantes(FR) City Open Data",
@@ -1315,7 +1304,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://opendata.cityofnewyork.us/"
+                "Website": "https://opendata.cityofnewyork.us/"
             },
             "name": "City, New York Opendata",
             "description": "New York (US) City Open Data",
@@ -1329,7 +1318,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://opendata.praha.eu/en"
+                "Website": "http://opendata.praha.eu/en"
             },
             "name": "City, Prague Opendata",
             "description": "Prague(CZ) City Open Data",
@@ -1343,7 +1332,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.citysdk.eu/citysdk-toolkit/"
+                "Website": "http://www.citysdk.eu/citysdk-toolkit/"
             },
             "name": "CitySDK",
             "description": "Open APIs for select European cities",
@@ -1357,7 +1346,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.civicfeed.com/"
+                "Website": "https://developers.civicfeed.com/"
             },
             "name": "CivicFeed",
             "description": "News articles and public datasets",
@@ -1371,7 +1360,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.clarifai.com/"
+                "Website": "https://developer.clarifai.com/"
             },
             "name": "Clarifai",
             "description": "Computer Vision",
@@ -1385,7 +1374,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.clashofclans.com"
+                "Website": "https://developer.clashofclans.com"
             },
             "name": "Clash of Clans",
             "description": "Clash of Clans Game Information",
@@ -1399,7 +1388,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.clashroyale.com"
+                "Website": "https://developer.clashroyale.com"
             },
             "name": "Clash Royale",
             "description": "Clash Royale Game Information",
@@ -1413,7 +1402,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://cleanuri.com/docs"
+                "Website": "https://cleanuri.com/docs"
             },
             "name": "CleanURI",
             "description": "URL shortener service",
@@ -1427,7 +1416,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://clearbit.com/docs#logo-api"
+                "Website": "https://clearbit.com/docs#logo-api"
             },
             "name": "Clearbit Logo",
             "description": "Search for company logos and embed them in your projects",
@@ -1441,7 +1430,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://support.clickmeter.com/hc/en-us/categories/201474986"
+                "Website": "https://support.clickmeter.com/hc/en-us/categories/201474986"
             },
             "name": "ClickMeter",
             "description": "Monitor, compare and optimize your marketing links",
@@ -1455,7 +1444,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.cloudmersive.com/image-recognition-and-processing-api"
+                "Website": "https://www.cloudmersive.com/image-recognition-and-processing-api"
             },
             "name": "Cloudmersive",
             "description": "Image captioning, face recognition, NSFW classification",
@@ -1469,7 +1458,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://cloudmersive.com/convert-api"
+                "Website": "https://cloudmersive.com/convert-api"
             },
             "name": "Cloudmersive Document and Data Conversion",
             "description": "HTML/URL to PDF/PNG, Office documents to PDF, image conversion",
@@ -1483,7 +1472,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.cloudmersive.com/nlp-api"
+                "Website": "https://www.cloudmersive.com/nlp-api"
             },
             "name": "Cloudmersive Natural Language Processing",
             "description": "Natural language processing and text analysis",
@@ -1497,7 +1486,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://cloudmersive.com/validate-api"
+                "Website": "https://cloudmersive.com/validate-api"
             },
             "name": "Cloudmersive Validate",
             "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
@@ -1511,7 +1500,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://code.gov"
+                "Website": "https://code.gov"
             },
             "name": "Code.gov",
             "description": "The primary platform for Open Source and code sharing for the U.S. Federal Government",
@@ -1525,7 +1514,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://apidocs.codeship.com/"
+                "Website": "https://apidocs.codeship.com/"
             },
             "name": "Codeship",
             "description": "Codeship is a Continuous Integration Platform in the cloud",
@@ -1539,7 +1528,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.coinapi.io/"
+                "Website": "https://docs.coinapi.io/"
             },
             "name": "CoinAPI",
             "description": "All Currency Exchanges integrate under a single api",
@@ -1553,7 +1542,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.coinbase.com"
+                "Website": "https://developers.coinbase.com"
             },
             "name": "Coinbase",
             "description": "Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices",
@@ -1567,7 +1556,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.pro.coinbase.com/#api"
+                "Website": "https://docs.pro.coinbase.com/#api"
             },
             "name": "Coinbase Pro",
             "description": "Cryptocurrency Trading Platform",
@@ -1581,7 +1570,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.coindesk.com/api/"
+                "Website": "http://www.coindesk.com/api/"
             },
             "name": "CoinDesk",
             "description": "Bitcoin Price Index",
@@ -1595,7 +1584,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.coingecko.com/api"
+                "Website": "http://www.coingecko.com/api"
             },
             "name": "CoinGecko",
             "description": "Cryptocurrency Price, Market, and Developer/Social Data",
@@ -1609,7 +1598,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://coinigy.docs.apiary.io"
+                "Website": "https://coinigy.docs.apiary.io"
             },
             "name": "Coinigy",
             "description": "Interacting with Coinigy Accounts and Exchange Directly",
@@ -1623,7 +1612,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://coinlayer.com"
+                "Website": "https://coinlayer.com"
             },
             "name": "CoinLayer",
             "description": "Real-time Crypto Currency Exchange Rates",
@@ -1637,7 +1626,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://coinlib.io/apidocs"
+                "Website": "https://coinlib.io/apidocs"
             },
             "name": "Coinlib",
             "description": "Crypto Currency Prices",
@@ -1651,7 +1640,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.coinlore.com/cryptocurrency-data-api"
+                "Website": "https://www.coinlore.com/cryptocurrency-data-api"
             },
             "name": "Coinlore",
             "description": "Cryptocurrencies prices, volume and more",
@@ -1665,7 +1654,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://coinmarketcap.com/api/"
+                "Website": "https://coinmarketcap.com/api/"
             },
             "name": "CoinMarketCap",
             "description": "Cryptocurrencies Prices",
@@ -1679,7 +1668,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.coinpaprika.com"
+                "Website": "https://api.coinpaprika.com"
             },
             "name": "Coinpaprika",
             "description": "Cryptocurrencies prices, volume and more",
@@ -1693,7 +1682,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.coinranking.com/"
+                "Website": "https://docs.coinranking.com/"
             },
             "name": "CoinRanking",
             "description": "Live Cryptocurrency data",
@@ -1707,7 +1696,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://codataengine.org/"
+                "Website": "http://codataengine.org/"
             },
             "name": "Colorado Data Engine",
             "description": "Formatted and geolocated Colorado public data",
@@ -1721,7 +1710,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://data.colorado.gov/"
+                "Website": "https://data.colorado.gov/"
             },
             "name": "Colorado Information Marketplace",
             "description": "Colorado State Government Open Data",
@@ -1735,7 +1724,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://comicvine.gamespot.com/api/documentation"
+                "Website": "https://comicvine.gamespot.com/api/documentation"
             },
             "name": "Comic Vine",
             "description": "Comics",
@@ -1749,7 +1738,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints"
+                "Website": "https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints"
             },
             "name": "Community Transit",
             "description": "Transitland API",
@@ -1763,7 +1752,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://collection.cooperhewitt.org/api"
+                "Website": "https://collection.cooperhewitt.org/api"
             },
             "name": "Cooper Hewitt",
             "description": "Smithsonian Design Museum",
@@ -1777,7 +1766,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://core.ac.uk/services#api"
+                "Website": "https://core.ac.uk/services#api"
             },
             "name": "CORE",
             "description": "Access the world's Open Access research papers",
@@ -1791,7 +1780,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://countapi.xyz"
+                "Website": "https://countapi.xyz"
             },
             "name": "CountAPI",
             "description": "Free and simple counting service. You can use it to track page hits and specific events",
@@ -1805,7 +1794,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.count.ly/reference"
+                "Website": "https://api.count.ly/reference"
             },
             "name": "Countly",
             "description": "Countly web analytics",
@@ -1819,7 +1808,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
             "description": "Covid 19 cases, deaths and recovery per country",
@@ -1833,7 +1822,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://covid19api.com/"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
             "description": "Covid 19 spread, infection and recovery",
@@ -1847,7 +1836,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://covidtracker.bsg.ox.ac.uk"
+                "Website": "https://covidtracker.bsg.ox.ac.uk"
             },
             "name": "Covid-19 Government Response",
             "description": "Government measures tracker to fight against the Covid-19 pandemic",
@@ -1861,7 +1850,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.creativecommons.engineering/"
+                "Website": "https://api.creativecommons.engineering/"
             },
             "name": "Creative Commons Catalog",
             "description": "Search among openly licensed and public domain works",
@@ -1875,7 +1864,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://crxcavator.io/apidocs"
+                "Website": "https://crxcavator.io/apidocs"
             },
             "name": "CRXcavator",
             "description": "Chrome extension risk scoring",
@@ -1889,7 +1878,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.cryptocompare.com/api#"
+                "Website": "https://www.cryptocompare.com/api#"
             },
             "name": "CryptoCompare",
             "description": "Cryptocurrencies Comparison",
@@ -1903,7 +1892,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.cryptonator.com/api/"
+                "Website": "https://www.cryptonator.com/api/"
             },
             "name": "Cryptonator",
             "description": "Cryptocurrencies Exchange Rates",
@@ -1917,7 +1906,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://currencylayer.com/documentation"
+                "Website": "https://currencylayer.com/documentation"
             },
             "name": "Currencylayer",
             "description": "Exchange rates and currency conversion",
@@ -1931,7 +1920,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://currentsapi.services/"
+                "Website": "https://currentsapi.services/"
             },
             "name": "Currents",
             "description": "Latest news published in various news sources, blogs and forums",
@@ -1945,7 +1934,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://svatky.adresa.info"
+                "Website": "https://svatky.adresa.info"
             },
             "name": "Czech Namedays Calendar",
             "description": "Lookup for a name and returns nameday date",
@@ -1959,7 +1948,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml"
+                "Website": "https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml"
             },
             "name": "Czech National Bank",
             "description": "A collection of exchange rates",
@@ -1973,7 +1962,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.ceskatelevize.cz/xml/tv-program/"
+                "Website": "http://www.ceskatelevize.cz/xml/tv-program/"
             },
             "name": "Czech Television",
             "description": "TV programme of Czech TV",
@@ -1987,7 +1976,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.dailymotion.com/"
+                "Website": "https://developer.dailymotion.com/"
             },
             "name": "Dailymotion",
             "description": "Dailymotion Developer API",
@@ -2001,7 +1990,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://datausa.io/about/api/"
+                "Website": "https://datausa.io/about/api/"
             },
             "name": "Data USA",
             "description": "US Public Data",
@@ -2015,7 +2004,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.data.gov/"
+                "Website": "https://api.data.gov/"
             },
             "name": "Data.gov",
             "description": "US Government Data",
@@ -2029,7 +2018,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.data.parliament.uk/developers/"
+                "Website": "http://www.data.parliament.uk/developers/"
             },
             "name": "Data.parliament.uk",
             "description": "Contains live datasets including information about petitions, bills, MP votes, attendance and more",
@@ -2043,7 +2032,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://apis.map.daum.net/"
+                "Website": "http://apis.map.daum.net/"
             },
             "name": "Daum Maps",
             "description": "Daum Maps provide multiple APIs for Korean maps",
@@ -2057,7 +2046,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://deckofcardsapi.com/"
+                "Website": "http://deckofcardsapi.com/"
             },
             "name": "Deck of Cards",
             "description": "Deck of Cards",
@@ -2071,7 +2060,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.deepcode.ai/docs/Overview%252FOverview"
+                "Website": "https://www.deepcode.ai/docs/Overview%252FOverview"
             },
             "name": "Deepcode",
             "description": "AI for code review",
@@ -2085,7 +2074,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.deezer.com/api"
+                "Website": "https://developers.deezer.com/api"
             },
             "name": "Deezer",
             "description": "Music",
@@ -2099,7 +2088,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/Bungie-net/api"
+                "Website": "https://github.com/Bungie-net/api"
             },
             "name": "Destiny The Game",
             "description": "Bungie Platform API",
@@ -2113,7 +2102,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://detectlanguage.com/"
+                "Website": "https://detectlanguage.com/"
             },
             "name": "Detect Language",
             "description": "Detects text language",
@@ -2127,7 +2116,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://predictbgl.com/api/"
+                "Website": "http://predictbgl.com/api/"
             },
             "name": "Diabetes",
             "description": "Logging and retrieving diabetes information",
@@ -2141,7 +2130,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://dialogflow.com"
+                "Website": "https://dialogflow.com"
             },
             "name": "Dialogflow",
             "description": "Natural Language Processing",
@@ -2155,7 +2144,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://avatars.dicebear.com/"
+                "Website": "https://avatars.dicebear.com/"
             },
             "name": "Dicebear Avatars",
             "description": "Generate random pixel-art avatars",
@@ -2169,7 +2158,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://status.digitalocean.com/api"
+                "Website": "https://status.digitalocean.com/api"
             },
             "name": "DigitalOcean Status",
             "description": "Status of all DigitalOcean services",
@@ -2183,7 +2172,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.discogs.com/developers/"
+                "Website": "https://www.discogs.com/developers/"
             },
             "name": "Discogs",
             "description": "Music",
@@ -2197,7 +2186,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://discordapp.com/developers/docs/intro"
+                "Website": "https://discordapp.com/developers/docs/intro"
             },
             "name": "Discord",
             "description": "Make bots for Discord, integrate Discord onto an external platform",
@@ -2211,7 +2200,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://disqus.com/api/docs/auth/"
+                "Website": "https://disqus.com/api/docs/auth/"
             },
             "name": "Disqus",
             "description": "Communicate with Disqus data",
@@ -2225,7 +2214,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://opendata.dc.gov/pages/using-apis"
+                "Website": "http://opendata.dc.gov/pages/using-apis"
             },
             "name": "District of Columbia Open Data",
             "description": "Contains D.C. government public datasets, including crime, GIS, financial data, and so on",
@@ -2239,7 +2228,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://dog.ceo/dog-api/"
+                "Website": "https://dog.ceo/dog-api/"
             },
             "name": "Dogs",
             "description": "Based on the Stanford Dogs Dataset",
@@ -2253,7 +2242,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.domainsdb.info/"
+                "Website": "https://api.domainsdb.info/"
             },
             "name": "DomainDb Info",
             "description": "Domain name search to find all domains containing particular words/phrases/etc",
@@ -2267,7 +2256,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://domainsdb.info/"
+                "Website": "https://domainsdb.info/"
             },
             "name": "Domainsdb.info",
             "description": "Registered Domain Names Search",
@@ -2281,7 +2270,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.opendota.com/"
+                "Website": "https://docs.opendota.com/"
             },
             "name": "Dota 2",
             "description": "Provides information about Player stats , Match stats, Rankings for Dota 2",
@@ -2295,7 +2284,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://developer.dribbble.com/v2/"
+                "Website": "http://developer.dribbble.com/v2/"
             },
             "name": "Dribbble",
             "description": "Design",
@@ -2309,7 +2298,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.dropbox.com/developers"
+                "Website": "https://www.dropbox.com/developers"
             },
             "name": "Dropbox",
             "description": "File Sharing and Storage",
@@ -2323,7 +2312,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.drupal.org/drupalorg/docs/api"
+                "Website": "https://www.drupal.org/drupalorg/docs/api"
             },
             "name": "Drupal.org",
             "description": "Drupal.org",
@@ -2337,7 +2326,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.dnd5eapi.co/"
+                "Website": "http://www.dnd5eapi.co/"
             },
             "name": "Dungeons and Dragons",
             "description": "Reference for 5th edition spells, classes, monsters, and more",
@@ -2351,7 +2340,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://go.developer.ebay.com/"
+                "Website": "https://go.developer.ebay.com/"
             },
             "name": "eBay",
             "description": "Sell and Buy on eBay",
@@ -2365,7 +2354,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.edamam.com/edamam-docs-nutrition-api"
+                "Website": "https://developer.edamam.com/edamam-docs-nutrition-api"
             },
             "name": "Edamam nutrition",
             "description": "Nutrition Analysis",
@@ -2379,7 +2368,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.edamam.com/edamam-docs-recipe-api"
+                "Website": "https://developer.edamam.com/edamam-docs-recipe-api"
             },
             "name": "Edamam recipes",
             "description": "Recipe Search",
@@ -2393,7 +2382,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://docs.enigma.com/public/public_v20_api_about"
+                "Website": "http://docs.enigma.com/public/public_v20_api_about"
             },
             "name": "Enigma Public",
             "description": "Broadest collection of public data",
@@ -2407,7 +2396,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.epa.gov/category/apis/"
+                "Website": "https://developer.epa.gov/category/apis/"
             },
             "name": "EPA",
             "description": "Web services and data sets from the US Environmental Protection Agency",
@@ -2421,7 +2410,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.epo.org/"
+                "Website": "https://developers.epo.org/"
             },
             "name": "EPO",
             "description": "European patent search system api",
@@ -2435,7 +2424,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://ergast.com/mrd/"
+                "Website": "http://ergast.com/mrd/"
             },
             "name": "Ergast F1",
             "description": "F1 data from the beginning of the world championships in 1950",
@@ -2449,7 +2438,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://esi.evetech.net/ui"
+                "Website": "https://esi.evetech.net/ui"
             },
             "name": "Eve Online",
             "description": "Third-Party Developer Documentation",
@@ -2463,7 +2452,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.eventbrite.com/developer/v3/"
+                "Website": "https://www.eventbrite.com/developer/v3/"
             },
             "name": "Eventbrite",
             "description": "Find events",
@@ -2477,7 +2466,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://evilinsult.com/api"
+                "Website": "https://evilinsult.com/api"
             },
             "name": "Evil Insult Generator",
             "description": "Evil Insults",
@@ -2491,7 +2480,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.exchangerate-api.com"
+                "Website": "https://www.exchangerate-api.com"
             },
             "name": "ExchangeRate-API",
             "description": "Free currency conversion",
@@ -2505,7 +2494,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://exchangeratesapi.io"
+                "Website": "https://exchangeratesapi.io"
             },
             "name": "Exchangeratesapi.io",
             "description": "Exchange rates with currency conversion",
@@ -2519,7 +2508,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.facebook.com/"
+                "Website": "https://developers.facebook.com/"
             },
             "name": "Facebook",
             "description": "Facebook Login, Share on FB, Social Plugins, Analytics and more",
@@ -2533,7 +2522,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://fakejson.com"
+                "Website": "https://fakejson.com"
             },
             "name": "FakeJSON",
             "description": "Service to generate test and fake data",
@@ -2547,7 +2536,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://favqs.com/api"
+                "Website": "https://favqs.com/api"
             },
             "name": "FavQs.com",
             "description": "FavQs allows you to collect, discover and share your favorite quotes",
@@ -2561,7 +2550,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.fbi.gov/wanted/api"
+                "Website": "https://www.fbi.gov/wanted/api"
             },
             "name": "FBI Wanted",
             "description": "Access information on the FBI Wanted program",
@@ -2575,7 +2564,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.open.fec.gov/developers/"
+                "Website": "https://api.open.fec.gov/developers/"
             },
             "name": "FEC",
             "description": "Information on campaign donations in federal elections",
@@ -2589,7 +2578,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.federalregister.gov/reader-aids/developer-resources"
+                "Website": "https://www.federalregister.gov/reader-aids/developer-resources"
             },
             "name": "Federal Register",
             "description": "The Daily Journal of the United States Government",
@@ -2603,7 +2592,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/feedbin/feedbin-api"
+                "Website": "https://github.com/feedbin/feedbin-api"
             },
             "name": "Feedbin",
             "description": "RSS reader",
@@ -2617,7 +2606,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.file.io"
+                "Website": "https://www.file.io"
             },
             "name": "File.io",
             "description": "File Sharing",
@@ -2631,7 +2620,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://filterlists.com"
+                "Website": "https://filterlists.com"
             },
             "name": "FilterLists",
             "description": "Lists of filters for adblockers and firewalls",
@@ -2645,7 +2634,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://xivapi.com/"
+                "Website": "https://xivapi.com/"
             },
             "name": "Final Fantasy XIV",
             "description": "Final Fantasy XIV Game data API",
@@ -2659,7 +2648,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://finalspaceapi.com/docs/"
+                "Website": "https://finalspaceapi.com/docs/"
             },
             "name": "Final Space",
             "description": "Final Space API",
@@ -2673,7 +2662,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://dev.fitbit.com/"
+                "Website": "https://dev.fitbit.com/"
             },
             "name": "Fitbit",
             "description": "Fitbit Information",
@@ -2687,7 +2676,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://fixer.io"
+                "Website": "http://fixer.io"
             },
             "name": "Fixer.io",
             "description": "Exchange rates and currency conversion",
@@ -2701,7 +2690,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.flickr.com/services/api/"
+                "Website": "https://www.flickr.com/services/api/"
             },
             "name": "Flickr",
             "description": "Flickr Services",
@@ -2715,7 +2704,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.foaas.com/"
+                "Website": "http://www.foaas.com/"
             },
             "name": "FOAAS",
             "description": "Fuck Off As A Service",
@@ -2729,7 +2718,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://ratings.food.gov.uk/open-data/en-GB"
+                "Website": "http://ratings.food.gov.uk/open-data/en-GB"
             },
             "name": "Food Standards Agency",
             "description": "UK food hygiene rating data API",
@@ -2743,7 +2732,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/surhud004/Foodish#readme"
+                "Website": "https://github.com/surhud004/Foodish#readme"
             },
             "name": "Foodish",
             "description": "Random pictures of food dishes",
@@ -2757,7 +2746,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.scorebat.com/video-api/"
+                "Website": "https://www.scorebat.com/video-api/"
             },
             "name": "Football (Soccer) Videos",
             "description": "Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more",
@@ -2771,7 +2760,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://boggio-analytics.com/fp-api/"
+                "Website": "https://boggio-analytics.com/fp-api/"
             },
             "name": "Football Prediction",
             "description": "Predictions for upcoming football matches, odds, results and stats",
@@ -2785,7 +2774,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://api.football-data.org/index"
+                "Website": "http://api.football-data.org/index"
             },
             "name": "Football-Data.org",
             "description": "Football Data",
@@ -2799,7 +2788,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://forismatic.com/en/api/"
+                "Website": "http://forismatic.com/en/api/"
             },
             "name": "Forismatic",
             "description": "Inspirational Quotes",
@@ -2813,7 +2802,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://fortnitetracker.com/site-api"
+                "Website": "https://fortnitetracker.com/site-api"
             },
             "name": "Fortnite",
             "description": "Fortnite Stats",
@@ -2827,7 +2816,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.foursquare.com/"
+                "Website": "https://developer.foursquare.com/"
             },
             "name": "Foursquare",
             "description": "Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc)",
@@ -2841,7 +2830,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.frankfurter.app/docs"
+                "Website": "https://www.frankfurter.app/docs"
             },
             "name": "Frankfurter",
             "description": "Exchange rates, currency conversion and time series",
@@ -2855,7 +2844,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.fraudlabspro.com/developer/api/screen-order"
+                "Website": "https://www.fraudlabspro.com/developer/api/screen-order"
             },
             "name": "FraudLabs Pro",
             "description": "Screen order information using AI to detect frauds",
@@ -2869,7 +2858,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://freegeoip.app/"
+                "Website": "https://freegeoip.app/"
             },
             "name": "FreeGeoIP",
             "description": "Free geo ip information, no registration required. 15k/hour rate limit",
@@ -2883,7 +2872,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.freelancer.com"
+                "Website": "https://developers.freelancer.com"
             },
             "name": "Freelancer",
             "description": "Hire freelancers to get work done",
@@ -2897,7 +2886,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://geo.api.gouv.fr/adresse"
+                "Website": "https://geo.api.gouv.fr/adresse"
             },
             "name": "French Address Search",
             "description": "Address search via the French Government",
@@ -2911,7 +2900,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.foaas.com"
+                "Website": "https://www.foaas.com"
             },
             "name": "Fuck Off as a Service",
             "description": "Asks someone to fuck off",
@@ -2925,7 +2914,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.fullcontact.com/developer/docs/"
+                "Website": "https://www.fullcontact.com/developer/docs/"
             },
             "name": "Full Contact",
             "description": "Get Social Media profiles and contact Information",
@@ -2939,7 +2928,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://api.gbif.org/v1/"
+                "Website": "http://api.gbif.org/v1/"
             },
             "name": "GBIF",
             "description": "Global Biodiversity Information Facility",
@@ -2953,7 +2942,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.gemini.com/rest-api/"
+                "Website": "https://docs.gemini.com/rest-api/"
             },
             "name": "Gemini",
             "description": "Cryptocurrencies Exchange",
@@ -2967,7 +2956,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://genderize.io"
+                "Website": "https://genderize.io"
             },
             "name": "Genderize.io",
             "description": "Estimates a gender from a first name",
@@ -2981,7 +2970,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.genius.com/"
+                "Website": "https://docs.genius.com/"
             },
             "name": "Genius",
             "description": "Crowdsourced lyrics and music knowledge",
@@ -2995,7 +2984,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://binaryjazz.us/genrenator-api/"
+                "Website": "https://binaryjazz.us/genrenator-api/"
             },
             "name": "Genrenator",
             "description": "Music genre generator",
@@ -3009,7 +2998,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.gouv.fr/api/geoapi.html"
+                "Website": "https://api.gouv.fr/api/geoapi.html"
             },
             "name": "GeoApi",
             "description": "French geographical data",
@@ -3023,7 +3012,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.geocod.io/"
+                "Website": "https://www.geocod.io/"
             },
             "name": "Geocod.io",
             "description": "Address geocoding / reverse geocoding in bulk",
@@ -3037,7 +3026,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://geocode.xyz/"
+                "Website": "https://geocode.xyz/"
             },
             "name": "Geocode.xyz",
             "description": "Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing",
@@ -3051,7 +3040,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.geodatasource.com/web-service"
+                "Website": "https://www.geodatasource.com/web-service"
             },
             "name": "GeoDataSource",
             "description": "Geocoding of city name by using latitude and longitude coordinates",
@@ -3065,7 +3054,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://geojs.io/"
+                "Website": "https://geojs.io/"
             },
             "name": "GeoJS",
             "description": "IP geolocation with ChatOps integration",
@@ -3079,7 +3068,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.geonames.org/export/web-services.html"
+                "Website": "http://www.geonames.org/export/web-services.html"
             },
             "name": "GeoNames",
             "description": "Place names and other geographical data",
@@ -3093,7 +3082,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.geoplugin.com"
+                "Website": "https://www.geoplugin.com"
             },
             "name": "geoPlugin",
             "description": "IP geolocation and currency conversion",
@@ -3107,7 +3096,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://developers.gettyimages.com/en/"
+                "Website": "http://developers.gettyimages.com/en/"
             },
             "name": "Getty Images",
             "description": "Build applications using the world's most powerful imagery",
@@ -3121,7 +3110,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.gfycat.com/api/"
+                "Website": "https://developers.gfycat.com/api/"
             },
             "name": "Gfycat",
             "description": "Jiffier GIFs",
@@ -3135,7 +3124,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.giantbomb.com/api/documentation"
+                "Website": "https://www.giantbomb.com/api/documentation"
             },
             "name": "Giant Bomb",
             "description": "Video Games",
@@ -3149,7 +3138,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.giphy.com/docs/"
+                "Website": "https://developers.giphy.com/docs/"
             },
             "name": "Giphy",
             "description": "Get all your gifs",
@@ -3163,7 +3152,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.github.com/en/free-pro-team@latest/rest"
+                "Website": "https://docs.github.com/en/free-pro-team@latest/rest"
             },
             "name": "GitHub",
             "description": "Make use of GitHub repositories, code and user info programmatically",
@@ -3177,7 +3166,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://jobs.github.com/api"
+                "Website": "https://jobs.github.com/api"
             },
             "name": "Github Jobs",
             "description": "Jobs for software developers",
@@ -3191,7 +3180,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.gitlab.com/ee/api/"
+                "Website": "https://docs.gitlab.com/ee/api/"
             },
             "name": "Gitlab",
             "description": "Automate GitLab interaction programmatically",
@@ -3205,7 +3194,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.gitter.im/docs/welcome"
+                "Website": "https://developer.gitter.im/docs/welcome"
             },
             "name": "Gitter",
             "description": "Chat for Developers",
@@ -3219,7 +3208,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.google.com/gmail/api/"
+                "Website": "https://developers.google.com/gmail/api/"
             },
             "name": "Gmail",
             "description": "Flexible, RESTful access to the user's inbox",
@@ -3233,7 +3222,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.google.com/analytics/"
+                "Website": "https://developers.google.com/analytics/"
             },
             "name": "Google Analytics",
             "description": "Collect, configure and analyze your data to reach the right audience",
@@ -3247,7 +3236,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.google.com/books/"
+                "Website": "https://developers.google.com/books/"
             },
             "name": "Google Books",
             "description": "Books",
@@ -3261,7 +3250,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.google.com/google-apps/calendar/"
+                "Website": "https://developers.google.com/google-apps/calendar/"
             },
             "name": "Google Calendar",
             "description": "Display, create and modify Google calendar events",
@@ -3275,7 +3264,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://cloud.google.com/natural-language/docs/"
+                "Website": "https://cloud.google.com/natural-language/docs/"
             },
             "name": "Google Cloud Natural",
             "description": "Natural language understanding technology, including sentiment, entity and syntax analysis",
@@ -3289,7 +3278,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.google.com/drive/"
+                "Website": "https://developers.google.com/drive/"
             },
             "name": "Google Drive",
             "description": "File Sharing and Storage",
@@ -3303,7 +3292,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.google.com/earth-engine/"
+                "Website": "https://developers.google.com/earth-engine/"
             },
             "name": "Google Earth Engine",
             "description": "A cloud-based platform for planetary-scale environmental data analysis",
@@ -3317,7 +3306,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.google.com/maps/"
+                "Website": "https://developers.google.com/maps/"
             },
             "name": "Google Maps",
             "description": "Create/customize digital maps based on Google Maps data",
@@ -3331,7 +3320,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.google.com/safe-browsing/"
+                "Website": "https://developers.google.com/safe-browsing/"
             },
             "name": "Google Safe Browsing",
             "description": "Google Link/Domain Flagging",
@@ -3345,7 +3334,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://graphhopper.com/api/1/docs/"
+                "Website": "https://graphhopper.com/api/1/docs/"
             },
             "name": "GraphHopper",
             "description": "A-to-B routing with turn-by-turn instructions",
@@ -3359,7 +3348,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.graphql.jobs"
+                "Website": "https://api.graphql.jobs"
             },
             "name": "GraphQL Jobs",
             "description": "Jobs with GraphQL",
@@ -3373,7 +3362,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.corrently.de/hintergrund/gruenstromindex/index.html"
+                "Website": "https://www.corrently.de/hintergrund/gruenstromindex/index.html"
             },
             "name": "GrünstromIndex",
             "description": "Green Power Index for Germany (Grünstromindex/GSI)",
@@ -3387,7 +3376,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://wiki.guildwars2.com/wiki/API:Main"
+                "Website": "https://wiki.guildwars2.com/wiki/API:Main"
             },
             "name": "Guild Wars 2",
             "description": "Guild Wars 2 Game Information",
@@ -3401,7 +3390,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://gyazo.com/api/docs"
+                "Website": "https://gyazo.com/api/docs"
             },
             "name": "Gyazo",
             "description": "Upload images",
@@ -3415,7 +3404,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/HackerNews/API"
+                "Website": "https://github.com/HackerNews/API"
             },
             "name": "HackerNews",
             "description": "Social news for CS and entrepreneurship",
@@ -3429,7 +3418,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.haloapi.com/"
+                "Website": "https://developer.haloapi.com/"
             },
             "name": "Halo",
             "description": "Halo 5 and Halo Wars 2 Information",
@@ -3443,7 +3432,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.potterapi.com/"
+                "Website": "https://www.potterapi.com/"
             },
             "name": "Harry Potter",
             "description": "Harry Potter API",
@@ -3457,7 +3446,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/harvardartmuseums/api-docs"
+                "Website": "https://github.com/harvardartmuseums/api-docs"
             },
             "name": "Harvard Art Museums",
             "description": "Art",
@@ -3471,7 +3460,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://haveibeenpwned.com/API/v3"
+                "Website": "https://haveibeenpwned.com/API/v3"
             },
             "name": "HaveIBeenPwned",
             "description": "Passwords which have previously been exposed in data breaches",
@@ -3485,7 +3474,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.healthcare.gov/developers/"
+                "Website": "https://www.healthcare.gov/developers/"
             },
             "name": "Healthcare.gov",
             "description": "Educational content about the US Health Insurance Marketplace",
@@ -3499,7 +3488,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://hearthstoneapi.com/"
+                "Website": "http://hearthstoneapi.com/"
             },
             "name": "Hearthstone",
             "description": "Hearthstone Cards Information",
@@ -3513,7 +3502,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.hebcal.com/home/developer-apis"
+                "Website": "https://www.hebcal.com/home/developer-apis"
             },
             "name": "Hebrew Calendar",
             "description": "Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc",
@@ -3527,7 +3516,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.fourtonfish.com/hellosalut/hello/"
+                "Website": "https://www.fourtonfish.com/hellosalut/hello/"
             },
             "name": "HelloSalut",
             "description": "Get hello translation following user language",
@@ -3541,7 +3530,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.here.com"
+                "Website": "https://developer.here.com"
             },
             "name": "HERE Maps",
             "description": "Create/customize digital maps based on HERE Maps data",
@@ -3555,7 +3544,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://holidayapi.com/"
+                "Website": "https://holidayapi.com/"
             },
             "name": "Holidays",
             "description": "Historical data regarding holidays",
@@ -3569,7 +3558,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://http2.pro/doc/api"
+                "Website": "https://http2.pro/doc/api"
             },
             "name": "HTTP2.Pro",
             "description": "Test endpoints for client and server HTTP/2 protocol support",
@@ -3583,7 +3572,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://http.cat/"
+                "Website": "https://http.cat/"
             },
             "name": "HTTPCat",
             "description": "Cat for every HTTP Status",
@@ -3597,7 +3586,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.hypixel.net/"
+                "Website": "https://api.hypixel.net/"
             },
             "name": "Hypixel",
             "description": "Hypixel player stats",
@@ -3611,7 +3600,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://hytale-api.com/"
+                "Website": "https://hytale-api.com/"
             },
             "name": "Hytale",
             "description": "Hytale blog posts and jobs",
@@ -3625,7 +3614,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://cloud.ibm.com/docs/text-to-speech/getting-started.html"
+                "Website": "https://cloud.ibm.com/docs/text-to-speech/getting-started.html"
             },
             "name": "IBM Text to Speech",
             "description": "Convert text to speech",
@@ -3639,7 +3628,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://cloud.ibm.com/apidocs/visual-recognition/visual-recognition-v3"
+                "Website": "https://cloud.ibm.com/apidocs/visual-recognition/visual-recognition-v3"
             },
             "name": "IBM Visual Recognition",
             "description": "Visual Recognition with pretrained or user trained model",
@@ -3653,7 +3642,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://icanhazdadjoke.com/api"
+                "Website": "https://icanhazdadjoke.com/api"
             },
             "name": "icanhazdadjoke",
             "description": "The largest selection of dad jokes on the internet",
@@ -3667,7 +3656,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://docs.apis.is/"
+                "Website": "http://docs.apis.is/"
             },
             "name": "Icelandic APIs",
             "description": "Open APIs that deliver services in or regarding Iceland",
@@ -3681,7 +3670,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://icobench.com/developers"
+                "Website": "https://icobench.com/developers"
             },
             "name": "ICObench",
             "description": "Various information on listing, ratings, stats, and more",
@@ -3695,7 +3684,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.iconfinder.com"
+                "Website": "https://developer.iconfinder.com"
             },
             "name": "Iconfinder",
             "description": "Icons",
@@ -3709,7 +3698,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://docs.icons8.apiary.io/#reference/0/meta"
+                "Website": "http://docs.icons8.apiary.io/#reference/0/meta"
             },
             "name": "Icons8",
             "description": "Icons",
@@ -3723,7 +3712,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/idigbio/idigbio-search-api/wiki"
+                "Website": "https://github.com/idigbio/idigbio-search-api/wiki"
             },
             "name": "iDigBio",
             "description": "Access millions of museum specimens from organizations around the world",
@@ -3737,7 +3726,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://iexcloud.io/"
+                "Website": "https://iexcloud.io/"
             },
             "name": "IEX Cloud",
             "description": "Realtime & Historical Stock and Market Data",
@@ -3751,7 +3740,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://platform.ifttt.com/docs/connect_api"
+                "Website": "https://platform.ifttt.com/docs/connect_api"
             },
             "name": "IFTTT",
             "description": "IFTTT Connect API",
@@ -3765,7 +3754,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://labs.ig.com/gettingstarted"
+                "Website": "https://labs.ig.com/gettingstarted"
             },
             "name": "IG",
             "description": "Spreadbetting and CFD Market Data",
@@ -3779,7 +3768,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.igdb.com/"
+                "Website": "https://api.igdb.com/"
             },
             "name": "IGDB.com",
             "description": "Video Game Database",
@@ -3793,7 +3782,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://documentation.image-charts.com/"
+                "Website": "https://documentation.image-charts.com/"
             },
             "name": "Image-Charts",
             "description": "Generate charts, QR codes and graph images",
@@ -3807,7 +3796,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://apidocs.imgur.com/"
+                "Website": "https://apidocs.imgur.com/"
             },
             "name": "Imgur",
             "description": "Images",
@@ -3821,7 +3810,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://api.docs.import.io/"
+                "Website": "http://api.docs.import.io/"
             },
             "name": "import.io",
             "description": "Retrieve structured data from a website or RSS feed",
@@ -3835,7 +3824,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.indeed.com/publisher"
+                "Website": "https://www.indeed.com/publisher"
             },
             "name": "Indeed",
             "description": "Job board aggregator",
@@ -3849,7 +3838,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://inspirehep.net/info/hep/api?ln=en"
+                "Website": "https://inspirehep.net/info/hep/api?ln=en"
             },
             "name": "inspirehep.net",
             "description": "High Energy Physics info. system",
@@ -3863,7 +3852,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.instagram.com/developer/"
+                "Website": "https://www.instagram.com/developer/"
             },
             "name": "Instagram",
             "description": "Instagram Login, Share on Instagram, Social Plugins and more",
@@ -3877,7 +3866,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf"
+                "Website": "https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf"
             },
             "name": "Intelligence X",
             "description": "Perform OSINT via Intelligence X",
@@ -3891,7 +3880,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://ip2country.info"
+                "Website": "https://ip2country.info"
             },
             "name": "IP 2 Country",
             "description": "Map an IP to a country",
@@ -3905,7 +3894,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://ipinfo.io/"
+                "Website": "https://ipinfo.io/"
             },
             "name": "IP Address Details",
             "description": "Find geolocation with ip address",
@@ -3919,7 +3908,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://ipapi.co/"
+                "Website": "https://ipapi.co/"
             },
             "name": "IP Location",
             "description": "Find IP address location information",
@@ -3933,7 +3922,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://ip-api.com/"
+                "Website": "http://ip-api.com/"
             },
             "name": "IP Location",
             "description": "Find location with ip address",
@@ -3947,7 +3936,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://ipsidekick.com"
+                "Website": "https://ipsidekick.com"
             },
             "name": "IP Sidekick",
             "description": "Geolocation API that returns extra information about an IP address",
@@ -3961,7 +3950,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.ipvigilante.com/"
+                "Website": "https://www.ipvigilante.com/"
             },
             "name": "IP Vigilante",
             "description": "Free IP Geolocation API",
@@ -3975,7 +3964,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.ip2location.com/web-service/ip2location"
+                "Website": "https://www.ip2location.com/web-service/ip2location"
             },
             "name": "IP2Location",
             "description": "IP geolocation web service to get more than 55 parameters",
@@ -3989,7 +3978,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.ip2location.com/web-service/ip2proxy"
+                "Website": "https://www.ip2location.com/web-service/ip2proxy"
             },
             "name": "IP2Proxy",
             "description": "Detect proxy and VPN using IP address",
@@ -4003,7 +3992,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://ipgeolocationapi.com/"
+                "Website": "https://ipgeolocationapi.com/"
             },
             "name": "IPGeolocationAPI.com",
             "description": "Locate your visitors by IP with country details",
@@ -4017,7 +4006,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.ipify.org/"
+                "Website": "https://www.ipify.org/"
             },
             "name": "IPify",
             "description": "A simple IP Address API",
@@ -4031,7 +4020,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://ipinfo.io/developers"
+                "Website": "https://ipinfo.io/developers"
             },
             "name": "IPinfo",
             "description": "Another simple IP Address API",
@@ -4045,7 +4034,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://ipinfodb.com/api"
+                "Website": "https://ipinfodb.com/api"
             },
             "name": "IPInfoDB",
             "description": "Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address",
@@ -4059,7 +4048,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://ipstack.com/"
+                "Website": "https://ipstack.com/"
             },
             "name": "ipstack",
             "description": "Locate and identify website visitors by IP address",
@@ -4073,7 +4062,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.itis.gov/ws_description.html"
+                "Website": "https://www.itis.gov/ws_description.html"
             },
             "name": "ITIS",
             "description": "Integrated Taxonomic Information System",
@@ -4087,7 +4076,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/"
+                "Website": "https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/"
             },
             "name": "iTunes Search",
             "description": "Software products",
@@ -4101,7 +4090,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://apiv3.iucnredlist.org/api/v3/docs"
+                "Website": "http://apiv3.iucnredlist.org/api/v3/docs"
             },
             "name": "IUCN",
             "description": "IUCN Red List of Threatened Species",
@@ -4115,7 +4104,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://api-docs.izi.travel/"
+                "Website": "http://api-docs.izi.travel/"
             },
             "name": "Izi",
             "description": "Audio guide for travellers",
@@ -4129,7 +4118,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.jamendo.com/v3.0/docs"
+                "Website": "https://developer.jamendo.com/v3.0/docs"
             },
             "name": "Jamendo",
             "description": "Music",
@@ -4143,7 +4132,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.jcdecaux.com/"
+                "Website": "https://developer.jcdecaux.com/"
             },
             "name": "JCDecaux Bike",
             "description": "JCDecaux's self-service bicycles",
@@ -4157,7 +4146,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://jikan.moe"
+                "Website": "https://jikan.moe"
             },
             "name": "Jikan",
             "description": "Unofficial MyAnimeList API",
@@ -4171,7 +4160,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://api.jobs2careers.com/api/spec.pdf"
+                "Website": "http://api.jobs2careers.com/api/spec.pdf"
             },
             "name": "Jobs2Careers",
             "description": "Job aggregator",
@@ -4185,7 +4174,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://sv443.net/jokeapi/v2/"
+                "Website": "https://sv443.net/jokeapi/v2/"
             },
             "name": "JokeAPI",
             "description": "Programming, Miscellaneous and Dark Jokes",
@@ -4199,7 +4188,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/15Dkatz/official_joke_api"
+                "Website": "https://github.com/15Dkatz/official_joke_api"
             },
             "name": "Jokes",
             "description": "Programming and general jokes",
@@ -4213,7 +4202,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://us.jooble.org/api/about"
+                "Website": "https://us.jooble.org/api/about"
             },
             "name": "Jooble",
             "description": "Job search engine",
@@ -4227,7 +4216,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://jservice.io"
+                "Website": "http://jservice.io"
             },
             "name": "Jservice",
             "description": "Jeopardy Question Database",
@@ -4241,7 +4230,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://json2jsonp.com/"
+                "Website": "https://json2jsonp.com/"
             },
             "name": "JSON 2 JSONP",
             "description": "Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript",
@@ -4255,7 +4244,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://jsonprettyprint.org/api"
+                "Website": "https://jsonprettyprint.org/api"
             },
             "name": "JSON Pretty Print",
             "description": "Pretty Prints JSON data",
@@ -4269,7 +4258,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://jsonbin.io"
+                "Website": "https://jsonbin.io"
             },
             "name": "JSONbin.io",
             "description": "Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps",
@@ -4283,7 +4272,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://jsonplaceholder.typicode.com/"
+                "Website": "http://jsonplaceholder.typicode.com/"
             },
             "name": "JSONPlaceholder",
             "description": "Fake data for testing and prototyping",
@@ -4297,7 +4286,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.judge0.com/"
+                "Website": "https://api.judge0.com/"
             },
             "name": "Judge0",
             "description": "Compile and run source code",
@@ -4311,7 +4300,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.juju.com/publisher/spec/"
+                "Website": "http://www.juju.com/publisher/spec/"
             },
             "name": "Juju",
             "description": "Job search engine",
@@ -4325,7 +4314,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://kanye.rest"
+                "Website": "https://kanye.rest"
             },
             "name": "kanye.rest",
             "description": "REST API for random Kanye West quotes",
@@ -4339,7 +4328,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://keen.io/"
+                "Website": "https://keen.io/"
             },
             "name": "Keen IO",
             "description": "Data Analytics",
@@ -4353,7 +4342,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://developer.kbb.com/#!/data/1-Default"
+                "Website": "http://developer.kbb.com/#!/data/1-Default"
             },
             "name": "Kelley Blue Book",
             "description": "Vehicle info, pricing, configuration, plus much more",
@@ -4367,7 +4356,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://kitsu.docs.apiary.io/"
+                "Website": "https://kitsu.docs.apiary.io/"
             },
             "name": "Kitsu",
             "description": "Anime discovery platform",
@@ -4381,7 +4370,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.kkbox.com"
+                "Website": "https://developer.kkbox.com"
             },
             "name": "KKBOX",
             "description": "Get music libraries, playlists, charts, and perform out of KKBOX's platform",
@@ -4395,7 +4384,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://languagelayer.com"
+                "Website": "https://languagelayer.com"
             },
             "name": "languagelayer",
             "description": "Language detection",
@@ -4409,7 +4398,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.last.fm/api"
+                "Website": "https://www.last.fm/api"
             },
             "name": "LastFm",
             "description": "Music",
@@ -4423,7 +4412,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://ll.thespacedevs.com/2.1.0/swagger"
+                "Website": "https://ll.thespacedevs.com/2.1.0/swagger"
             },
             "name": "Launch Library 2",
             "description": "Spaceflight launches and events database",
@@ -4437,7 +4426,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://lcboapi.com/"
+                "Website": "https://lcboapi.com/"
             },
             "name": "LCBO",
             "description": "Alcohol",
@@ -4451,7 +4440,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.lectserve.com"
+                "Website": "http://www.lectserve.com"
             },
             "name": "LectServe",
             "description": "Protestant liturgical calendar",
@@ -4465,7 +4454,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.lexigram.io/v1/welcome"
+                "Website": "https://docs.lexigram.io/v1/welcome"
             },
             "name": "Lexigram",
             "description": "NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology",
@@ -4479,7 +4468,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://garbage.world/posts/libgen/"
+                "Website": "https://garbage.world/posts/libgen/"
             },
             "name": "LibGen",
             "description": "Library Genesis search engine",
@@ -4493,7 +4482,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/cmccandless/license-api/blob/master/README.md"
+                "Website": "https://github.com/cmccandless/license-api/blob/master/README.md"
             },
             "name": "License-API",
             "description": "Unofficial REST API for choosealicense.com",
@@ -4507,7 +4496,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.linguarobot.io"
+                "Website": "https://www.linguarobot.io"
             },
             "name": "Lingua Robot",
             "description": "Word definitions, pronunciations, synonyms, antonyms and others",
@@ -4521,7 +4510,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.linkedin.com/docs/rest-api"
+                "Website": "https://developer.linkedin.com/docs/rest-api"
             },
             "name": "LinkedIn",
             "description": "The foundation of all digital integrations with LinkedIn",
@@ -4535,7 +4524,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.linkpreview.net"
+                "Website": "https://www.linkpreview.net"
             },
             "name": "LinkPreview",
             "description": "Get JSON formatted summary with title, description and preview image for any requested URL",
@@ -4549,7 +4538,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://lob.com/"
+                "Website": "https://lob.com/"
             },
             "name": "Lob.com",
             "description": "US Address Verification",
@@ -4563,7 +4552,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://locationiq.org/docs/"
+                "Website": "https://locationiq.org/docs/"
             },
             "name": "LocationIQ",
             "description": "Provides forward/reverse geocoding and batch geocoding",
@@ -4577,7 +4566,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://picsum.photos/"
+                "Website": "https://picsum.photos/"
             },
             "name": "Lorem Picsum",
             "description": "Images from Unsplash",
@@ -4591,7 +4580,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://loripsum.net/"
+                "Website": "http://loripsum.net/"
             },
             "name": "Loripsum",
             "description": "The \"lorem ipsum\" generator that doesn't suck",
@@ -4605,7 +4594,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://docs.lyricsovh.apiary.io/"
+                "Website": "http://docs.lyricsovh.apiary.io/"
             },
             "name": "Lyrics.ovh",
             "description": "Simple API to retrieve the lyrics of a song",
@@ -4619,7 +4608,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://macaddress.io/api"
+                "Website": "https://macaddress.io/api"
             },
             "name": "MAC address vendor lookup",
             "description": "Retrieve vendor details and other information regarding a given MAC address or an OUI",
@@ -4633,7 +4622,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://magicthegathering.io/"
+                "Website": "http://magicthegathering.io/"
             },
             "name": "Magic The Gathering",
             "description": "Magic The Gathering Game Information",
@@ -4647,7 +4636,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://mailboxlayer.com"
+                "Website": "https://mailboxlayer.com"
             },
             "name": "mailboxlayer",
             "description": "Email address validation",
@@ -4661,7 +4650,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.mailboxvalidator.com/api-single-validation"
+                "Website": "https://www.mailboxvalidator.com/api-single-validation"
             },
             "name": "MailboxValidator",
             "description": "Validate email address to improve deliverability",
@@ -4675,7 +4664,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.mailgun.com/"
+                "Website": "https://www.mailgun.com/"
             },
             "name": "mailgun",
             "description": "Email Service",
@@ -4689,7 +4678,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://makeup-api.herokuapp.com/"
+                "Website": "http://makeup-api.herokuapp.com/"
             },
             "name": "Makeup",
             "description": "Makeup Information",
@@ -4703,7 +4692,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.mapbox.com/developers/"
+                "Website": "https://www.mapbox.com/developers/"
             },
             "name": "Mapbox",
             "description": "Create/customize beautiful digital maps",
@@ -4717,7 +4706,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://strains.evanbusse.com/"
+                "Website": "http://strains.evanbusse.com/"
             },
             "name": "Marijuana Strains",
             "description": "Marijuana strains, races, flavors and effects",
@@ -4731,7 +4720,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.markerapi.com/"
+                "Website": "http://www.markerapi.com/"
             },
             "name": "markerapi",
             "description": "Trademark Search",
@@ -4745,7 +4734,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://developer.marvel.com"
+                "Website": "http://developer.marvel.com"
             },
             "name": "Marvel",
             "description": "Marvel Comics",
@@ -4759,7 +4748,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://data.medicare.gov/developers"
+                "Website": "https://data.medicare.gov/developers"
             },
             "name": "Medicare",
             "description": "Access to the data from the CMS - medicare.gov",
@@ -4773,7 +4762,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/Medium/medium-api-docs"
+                "Website": "https://github.com/Medium/medium-api-docs"
             },
             "name": "Medium",
             "description": "Community of readers and writers offering unique perspectives on ideas",
@@ -4787,7 +4776,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.meetup.com/meetup_api/"
+                "Website": "https://www.meetup.com/meetup_api/"
             },
             "name": "Meetup.com",
             "description": "Data about Meetups from Meetup.com",
@@ -4801,7 +4790,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.mercadobitcoin.net/api-doc/"
+                "Website": "https://www.mercadobitcoin.net/api-doc/"
             },
             "name": "MercadoBitcoin",
             "description": "Brazilian Cryptocurrency Information",
@@ -4815,7 +4804,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.mercedes-benz.com/apis"
+                "Website": "https://developer.mercedes-benz.com/apis"
             },
             "name": "Mercedes-Benz",
             "description": "Telematics data, remotely access vehicle functions, car configurator, locate service dealers",
@@ -4829,7 +4818,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://mercury.postlight.com/web-parser/"
+                "Website": "https://mercury.postlight.com/web-parser/"
             },
             "name": "Mercury",
             "description": "Web parser",
@@ -4843,7 +4832,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://dictionaryapi.com/"
+                "Website": "https://dictionaryapi.com/"
             },
             "name": "Merriam-Webster",
             "description": "Dictionary and Thesaurus Data",
@@ -4857,7 +4846,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://metacert.com/"
+                "Website": "https://metacert.com/"
             },
             "name": "Metacert",
             "description": "Metacert Link Flagging",
@@ -4871,7 +4860,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.metaweather.com/api/"
+                "Website": "https://www.metaweather.com/api/"
             },
             "name": "MetaWeather",
             "description": "Weather",
@@ -4885,7 +4874,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.met.no/weatherapi/documentation"
+                "Website": "https://api.met.no/weatherapi/documentation"
             },
             "name": "Meteorologisk Institutt",
             "description": "Weather and climate data",
@@ -4899,7 +4888,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://app.metrolisboa.pt/status/getLinhas.php"
+                "Website": "http://app.metrolisboa.pt/status/getLinhas.php"
             },
             "name": "Metro Lisboa",
             "description": "Delays in subway lines",
@@ -4913,7 +4902,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/IcaliaLabs/sepomex"
+                "Website": "https://github.com/IcaliaLabs/sepomex"
             },
             "name": "Mexico",
             "description": "Mexico RESTful zip codes API",
@@ -4927,7 +4916,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://microlink.io"
+                "Website": "https://microlink.io"
             },
             "name": "Microlink.io",
             "description": "Extract structured data from any website",
@@ -4941,7 +4930,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.asterank.com/mpc"
+                "Website": "http://www.asterank.com/mpc"
             },
             "name": "Minor Planet Center",
             "description": "Asterank.com Information",
@@ -4955,7 +4944,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.mixcloud.com/developers/"
+                "Website": "https://www.mixcloud.com/developers/"
             },
             "name": "Mixcloud",
             "description": "Music",
@@ -4969,7 +4958,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.mod.io"
+                "Website": "https://docs.mod.io"
             },
             "name": "mod.io",
             "description": "Cross Platform Mod API",
@@ -4983,7 +4972,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/movebank/movebank-api-doc"
+                "Website": "https://github.com/movebank/movebank-api-doc"
             },
             "name": "Movebank",
             "description": "Movement and Migration data of animals",
@@ -4997,7 +4986,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2"
+                "Website": "https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2"
             },
             "name": "MusicBrainz",
             "description": "Music",
@@ -5011,7 +5000,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.musixmatch.com/"
+                "Website": "https://developer.musixmatch.com/"
             },
             "name": "Musixmatch",
             "description": "Music",
@@ -5025,7 +5014,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://myanimelist.net/clubs.php?cid=13727"
+                "Website": "https://myanimelist.net/clubs.php?cid=13727"
             },
             "name": "MyAnimeList",
             "description": "Anime and Manga Database and Community",
@@ -5039,7 +5028,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://mysocialapp.io"
+                "Website": "https://mysocialapp.io"
             },
             "name": "MySocialApp",
             "description": "Seamless Social Networking features, API, SDK to any app",
@@ -5053,7 +5042,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://date.nager.at"
+                "Website": "https://date.nager.at"
             },
             "name": "Nager.Date",
             "description": "Public holidays for more than 90 countries",
@@ -5067,7 +5056,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.abalin.net/"
+                "Website": "https://api.abalin.net/"
             },
             "name": "Namedays Calendar",
             "description": "Provides namedays for multiple countries",
@@ -5081,7 +5070,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/theIYD/NaMoMemes"
+                "Website": "https://github.com/theIYD/NaMoMemes"
             },
             "name": "NaMoMemes",
             "description": "Memes on Narendra Modi",
@@ -5095,7 +5084,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.nasa.gov"
+                "Website": "https://api.nasa.gov"
             },
             "name": "NASA",
             "description": "NASA data, including imagery",
@@ -5109,7 +5098,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://apodapi.herokuapp.com/"
+                "Website": "https://apodapi.herokuapp.com/"
             },
             "name": "NASA APOD (unofficial API)",
             "description": "API for getting APOD (Astronomy Image of the Day) images along with metadata",
@@ -5123,7 +5112,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog"
+                "Website": "https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog"
             },
             "name": "National Vulnerability Database",
             "description": "U.S. National Vulnerability Database",
@@ -5137,7 +5126,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://nationalize.io"
+                "Website": "https://nationalize.io"
             },
             "name": "Nationalize.io",
             "description": "Estimate the nationality of a first name",
@@ -5151,7 +5140,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.navitia.io/"
+                "Website": "https://api.navitia.io/"
             },
             "name": "Navitia",
             "description": "The open API for building cool stuff with transport data",
@@ -5165,7 +5154,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://any-api.com/nba_com/nba_com/docs/API_Description"
+                "Website": "https://any-api.com/nba_com/nba_com/docs/API_Description"
             },
             "name": "NBA Stats",
             "description": "Current and historical NBA Statistics",
@@ -5179,7 +5168,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.nytimes.com/"
+                "Website": "https://developer.nytimes.com/"
             },
             "name": "New York Times",
             "description": "Provides news",
@@ -5193,7 +5182,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://newsapi.org/"
+                "Website": "https://newsapi.org/"
             },
             "name": "News",
             "description": "Headlines currently published on a range of news sources and blogs",
@@ -5207,7 +5196,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://newton.now.sh/"
+                "Website": "https://newton.now.sh/"
             },
             "name": "Newton",
             "description": "Symbolic and Arithmetic Math Calculator",
@@ -5221,7 +5210,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://nexchange2.docs.apiary.io/"
+                "Website": "https://nexchange2.docs.apiary.io/"
             },
             "name": "Nexchange",
             "description": "Automated cryptocurrency exchange service",
@@ -5235,7 +5224,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://gitlab.com/dword4/nhlapi"
+                "Website": "https://gitlab.com/dword4/nhlapi"
             },
             "name": "NHL Records and Stats",
             "description": "NHL historical data and statistics",
@@ -5249,7 +5238,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://vpic.nhtsa.dot.gov/api/"
+                "Website": "https://vpic.nhtsa.dot.gov/api/"
             },
             "name": "NHTSA",
             "description": "NHTSA Product Information Catalog and Vehicle Listing",
@@ -5263,7 +5252,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.ncdc.noaa.gov/cdo-web/"
+                "Website": "https://www.ncdc.noaa.gov/cdo-web/"
             },
             "name": "NOAA Climate Data",
             "description": "Weather and climate data",
@@ -5277,7 +5266,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/gadael/icsdb"
+                "Website": "https://github.com/gadael/icsdb"
             },
             "name": "Non-Working Days",
             "description": "Database of ICS files for non working days",
@@ -5291,7 +5280,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://api.thenounproject.com/index.html"
+                "Website": "http://api.thenounproject.com/index.html"
             },
             "name": "Noun Project",
             "description": "Icons",
@@ -5305,7 +5294,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://npiregistry.cms.hhs.gov/registry/help-api"
+                "Website": "https://npiregistry.cms.hhs.gov/registry/help-api"
             },
             "name": "NPPES",
             "description": "National Plan & Provider Enumeration System, info on healthcare providers registered in US",
@@ -5319,7 +5308,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://dev.npr.org/api/"
+                "Website": "http://dev.npr.org/api/"
             },
             "name": "NPR One",
             "description": "Personalized news listening experience from NPR",
@@ -5333,7 +5322,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://numbersapi.com"
+                "Website": "http://numbersapi.com"
             },
             "name": "Numbers",
             "description": "Facts about numbers",
@@ -5347,7 +5336,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://numvalidate.com"
+                "Website": "https://numvalidate.com"
             },
             "name": "NumValidate",
             "description": "Open Source phone number validation",
@@ -5361,7 +5350,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://numverify.com"
+                "Website": "https://numverify.com"
             },
             "name": "numverify",
             "description": "Phone number validation",
@@ -5375,7 +5364,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.nutritionix.com/"
+                "Website": "https://developer.nutritionix.com/"
             },
             "name": "Nutritionix",
             "description": "Worlds largest verified nutrition database",
@@ -5389,7 +5378,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://objectcut.com/"
+                "Website": "https://objectcut.com/"
             },
             "name": "ObjectCut",
             "description": "Image Background removal",
@@ -5403,7 +5392,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://api.oceandrivers.com/static/docs.html"
+                "Website": "http://api.oceandrivers.com/static/docs.html"
             },
             "name": "ODWeather",
             "description": "Weather and weather webcams",
@@ -5417,7 +5406,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.onemap.sg/"
+                "Website": "https://docs.onemap.sg/"
             },
             "name": "One Map, Singapore",
             "description": "Singapore Land Authority REST API services for Singapore addresses",
@@ -5431,7 +5420,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://dev.onedrive.com/"
+                "Website": "https://dev.onedrive.com/"
             },
             "name": "OneDrive",
             "description": "File Sharing and Storage",
@@ -5445,7 +5434,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://onwater.io/"
+                "Website": "https://onwater.io/"
             },
             "name": "OnWater",
             "description": "Determine if a lat/lon is on water or land",
@@ -5459,7 +5448,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://oopspam.com/"
+                "Website": "https://oopspam.com/"
             },
             "name": "OOPSpam",
             "description": "Multiple spam filtering service",
@@ -5473,7 +5462,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.openbrewerydb.org"
+                "Website": "https://www.openbrewerydb.org"
             },
             "name": "Open Brewery DB",
             "description": "Breweries, Cideries and Craft Beer Bottle Shops",
@@ -5487,7 +5476,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://openchargemap.org/site/develop/api"
+                "Website": "https://openchargemap.org/site/develop/api"
             },
             "name": "Open Charge Map",
             "description": "Global public registry of electric vehicle charging locations",
@@ -5501,7 +5490,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.opencollective.com/help/developers/api"
+                "Website": "https://docs.opencollective.com/help/developers/api"
             },
             "name": "Open Collective",
             "description": "Get Open Collective data",
@@ -5515,7 +5504,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://world.openfoodfacts.org/data"
+                "Website": "https://world.openfoodfacts.org/data"
             },
             "name": "Open Food Facts",
             "description": "Food Products Database",
@@ -5529,7 +5518,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.data.gov.au/"
+                "Website": "https://www.data.gov.au/"
             },
             "name": "Open Government, Australia",
             "description": "Australian Government Open Data",
@@ -5543,7 +5532,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://data.gov.be/"
+                "Website": "https://data.gov.be/"
             },
             "name": "Open Government, Belgium",
             "description": "Belgium Government Open Data",
@@ -5557,7 +5546,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://open.canada.ca/en"
+                "Website": "http://open.canada.ca/en"
             },
             "name": "Open Government, Canada",
             "description": "Canadian Government Open Data",
@@ -5571,7 +5560,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.data.gouv.fr/"
+                "Website": "https://www.data.gouv.fr/"
             },
             "name": "Open Government, France",
             "description": "French Government Open Data",
@@ -5585,7 +5574,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://data.gov.in/"
+                "Website": "https://data.gov.in/"
             },
             "name": "Open Government, India",
             "description": "Indian Government Open Data",
@@ -5599,7 +5588,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.dati.gov.it/"
+                "Website": "https://www.dati.gov.it/"
             },
             "name": "Open Government, Italy",
             "description": "Italy Government Open Data",
@@ -5613,7 +5602,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.data.govt.nz/"
+                "Website": "https://www.data.govt.nz/"
             },
             "name": "Open Government, New Zealand",
             "description": "New Zealand Government Open Data",
@@ -5627,7 +5616,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://data.gov.ro/"
+                "Website": "http://data.gov.ro/"
             },
             "name": "Open Government, Romania",
             "description": "Romania Government Open Data",
@@ -5641,7 +5630,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://data.gov.tw/"
+                "Website": "https://data.gov.tw/"
             },
             "name": "Open Government, Taiwan",
             "description": "Taiwan Government Open Data",
@@ -5655,7 +5644,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.data.gov/"
+                "Website": "https://www.data.gov/"
             },
             "name": "Open Government, USA",
             "description": "United States Government Open Data",
@@ -5669,7 +5658,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://openlibrary.org/developers/api"
+                "Website": "https://openlibrary.org/developers/api"
             },
             "name": "Open Library",
             "description": "Books, book covers and related data",
@@ -5683,7 +5672,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.omdbapi.com/"
+                "Website": "http://www.omdbapi.com/"
             },
             "name": "Open Movie Database",
             "description": "Movie information",
@@ -5697,7 +5686,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://open-notify.org/Open-Notify-API/"
+                "Website": "http://open-notify.org/Open-Notify-API/"
             },
             "name": "Open Notify",
             "description": "ISS astronauts, current location, etc",
@@ -5711,7 +5700,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.osf.io"
+                "Website": "https://developer.osf.io"
             },
             "name": "Open Science Framework",
             "description": "Repository and archive for study designs, research materials, data, manuscripts, etc",
@@ -5725,7 +5714,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview"
+                "Website": "https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview"
             },
             "name": "Open Skills",
             "description": "Job titles, skills and related jobs data",
@@ -5739,7 +5728,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://opentdb.com/api_config.php"
+                "Website": "https://opentdb.com/api_config.php"
             },
             "name": "Open Trivia",
             "description": "Trivia Questions",
@@ -5753,7 +5742,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.openaq.org/"
+                "Website": "https://docs.openaq.org/"
             },
             "name": "OpenAQ",
             "description": "Open air quality data",
@@ -5767,7 +5756,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://opencagedata.com"
+                "Website": "https://opencagedata.com"
             },
             "name": "OpenCage",
             "description": "Forward and reverse geocoding using open data",
@@ -5781,7 +5770,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://api.opencorporates.com/documentation/API-Reference"
+                "Website": "http://api.opencorporates.com/documentation/API-Reference"
             },
             "name": "OpenCorporates",
             "description": "Data on corporate entities and directors in many countries",
@@ -5795,7 +5784,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://open.fda.gov"
+                "Website": "https://open.fda.gov"
             },
             "name": "openFDA",
             "description": "Public FDA data about drugs, devices and foods",
@@ -5809,7 +5798,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://wiki.openstreetmap.org/wiki/API"
+                "Website": "http://wiki.openstreetmap.org/wiki/API"
             },
             "name": "OpenStreetMap",
             "description": "Navigation, geolocation and geographical data",
@@ -5823,7 +5812,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.openuv.io"
+                "Website": "https://www.openuv.io"
             },
             "name": "OpenUV",
             "description": "Real-time UV Index Forecast",
@@ -5837,7 +5826,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://openweathermap.org/api"
+                "Website": "https://openweathermap.org/api"
             },
             "name": "OpenWeatherMap",
             "description": "Weather",
@@ -5851,7 +5840,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://openwhyd.github.io/openwhyd/API"
+                "Website": "https://openwhyd.github.io/openwhyd/API"
             },
             "name": "Openwhyd",
             "description": "Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)",
@@ -5865,7 +5854,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.orionhealth.io/"
+                "Website": "https://developer.orionhealth.io/"
             },
             "name": "Orion Health",
             "description": "Medical platform which allows the development of applications for different healthcare scenarios",
@@ -5879,7 +5868,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://owlbot.info/"
+                "Website": "https://owlbot.info/"
             },
             "name": "OwlBot",
             "description": "Definitions with example sentence and photo if available",
@@ -5893,7 +5882,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.oxforddictionaries.com/"
+                "Website": "https://developer.oxforddictionaries.com/"
             },
             "name": "Oxford",
             "description": "Dictionary Data",
@@ -5907,7 +5896,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://pandascore.co"
+                "Website": "https://pandascore.co"
             },
             "name": "PandaScore",
             "description": "E-sports games and results",
@@ -5921,7 +5910,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://pastebin.com/api/"
+                "Website": "https://pastebin.com/api/"
             },
             "name": "Pastebin",
             "description": "Plain Text Storage",
@@ -5935,7 +5924,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://pdflayer.com"
+                "Website": "https://pdflayer.com"
             },
             "name": "pdflayer",
             "description": "HTML/URL to PDF",
@@ -5949,7 +5938,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.penguinrandomhouse.biz/webservices/rest/"
+                "Website": "http://www.penguinrandomhouse.biz/webservices/rest/"
             },
             "name": "Penguin Publishing",
             "description": "Books, book covers and related data",
@@ -5963,7 +5952,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.pexels.com/api/"
+                "Website": "https://www.pexels.com/api/"
             },
             "name": "Pexels",
             "description": "Free Stock Photos and Videos",
@@ -5977,7 +5966,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://developer.picatic.com/?utm_medium=web&utm_source=github&utm_campaign=public-apis%20repo&utm_content=toddmotto"
+                "Website": "http://developer.picatic.com/?utm_medium=web&utm_source=github&utm_campaign=public-apis%20repo&utm_content=toddmotto"
             },
             "name": "Picatic",
             "description": "Sell tickets anywhere",
@@ -5991,7 +5980,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.pinterest.com/"
+                "Website": "https://developers.pinterest.com/"
             },
             "name": "Pinterest",
             "description": "The world's catalog of ideas",
@@ -6005,7 +5994,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://pipl.ir/"
+                "Website": "https://pipl.ir/"
             },
             "name": "PIPL",
             "description": "Free and public API that generates random and fake people's data in JSON",
@@ -6019,7 +6008,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://pixabay.com/sk/service/about/api/"
+                "Website": "https://pixabay.com/sk/service/about/api/"
             },
             "name": "Pixabay",
             "description": "Photography",
@@ -6033,7 +6022,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://placegoat.com/"
+                "Website": "https://placegoat.com/"
             },
             "name": "PlaceGOAT",
             "description": "Placeholder goat images",
@@ -6047,7 +6036,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://placekitten.com/"
+                "Website": "https://placekitten.com/"
             },
             "name": "PlaceKitten",
             "description": "Resizable kitten placeholder images",
@@ -6061,7 +6050,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://plaid.com/"
+                "Website": "https://plaid.com/"
             },
             "name": "Plaid",
             "description": "Connect with users’ bank accounts and access transaction data",
@@ -6075,7 +6064,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://pubgtracker.com/site-api"
+                "Website": "https://pubgtracker.com/site-api"
             },
             "name": "PlayerUnknown's Battlegrounds",
             "description": "PUBG Stats",
@@ -6089,7 +6078,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://plino.herokuapp.com/"
+                "Website": "https://plino.herokuapp.com/"
             },
             "name": "Plino",
             "description": "Spam filtering system",
@@ -6103,7 +6092,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.pm25.in/api_doc"
+                "Website": "http://www.pm25.in/api_doc"
             },
             "name": "PM25.in",
             "description": "Air quality of China",
@@ -6117,7 +6106,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://getpocket.com/developer/"
+                "Website": "https://getpocket.com/developer/"
             },
             "name": "Pocket",
             "description": "Bookmarking service",
@@ -6131,7 +6120,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://pokeapi.co"
+                "Website": "https://pokeapi.co"
             },
             "name": "Pokéapi",
             "description": "Pokémon Information",
@@ -6145,7 +6134,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://pokemontcg.io"
+                "Website": "https://pokemontcg.io"
             },
             "name": "Pokémon TCG",
             "description": "Pokémon TCG Information",
@@ -6159,7 +6148,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://poloniex.com/support/api/"
+                "Website": "https://poloniex.com/support/api/"
             },
             "name": "Poloniex",
             "description": "US based digital asset exchange",
@@ -6173,7 +6162,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json"
+                "Website": "http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json"
             },
             "name": "PostcodeData.nl",
             "description": "Provide geolocation data based on postcode for Dutch addresses",
@@ -6187,7 +6176,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://postcodes.io"
+                "Website": "https://postcodes.io"
             },
             "name": "Postcodes.io",
             "description": "Postcode lookup & Geolocation for the UK",
@@ -6201,7 +6190,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.api.getpostman.com/"
+                "Website": "https://docs.api.getpostman.com/"
             },
             "name": "Postman",
             "description": "Tool for testing APIs",
@@ -6215,7 +6204,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://postmon.com.br"
+                "Website": "http://postmon.com.br"
             },
             "name": "Postmon",
             "description": "An API to query Brazilian ZIP codes and orders easily, quickly and free",
@@ -6229,7 +6218,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://prexview.com"
+                "Website": "https://prexview.com"
             },
             "name": "PrexView",
             "description": "Data from XML or JSON to PDF, HTML or Image",
@@ -6243,7 +6232,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/skolakoda/programming-quotes-api"
+                "Website": "https://github.com/skolakoda/programming-quotes-api"
             },
             "name": "Programming Quotes",
             "description": "Programming Quotes API for open source projects",
@@ -6257,7 +6246,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://proxycrawl.com"
+                "Website": "https://proxycrawl.com"
             },
             "name": "ProxyCrawl",
             "description": "Scraping and crawling anticaptcha service",
@@ -6271,7 +6260,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/davemachado/public-api"
+                "Website": "https://github.com/davemachado/public-api"
             },
             "name": "Public APIs",
             "description": "A collective list of free JSON APIs for use in web development",
@@ -6285,7 +6274,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://pulsedive.com/api/"
+                "Website": "https://pulsedive.com/api/"
             },
             "name": "Pulsedive",
             "description": "Scan, search and collect threat intelligence data in real-time",
@@ -6299,7 +6288,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://punkapi.com/"
+                "Website": "https://punkapi.com/"
             },
             "name": "PunkAPI",
             "description": "Brewdog Beer Recipes",
@@ -6313,7 +6302,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.purgomalum.com"
+                "Website": "http://www.purgomalum.com"
             },
             "name": "PurgoMalum",
             "description": "Content validator against profanity & obscenity",
@@ -6327,7 +6316,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://pusher.com/beams"
+                "Website": "https://pusher.com/beams"
             },
             "name": "Pusher Beams",
             "description": "Push notifications for Android & iOS",
@@ -6341,7 +6330,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.nrel.gov/docs/solar/pvwatts/v6/"
+                "Website": "https://developer.nrel.gov/docs/solar/pvwatts/v6/"
             },
             "name": "PVWatts",
             "description": "Energy production photovoltaic (PV) energy systems",
@@ -6355,21 +6344,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://qrtag.net/api/"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Main": "http://goqr.me/api/"
+                "Website": "http://goqr.me/api/"
             },
             "name": "QR code",
             "description": "Generate and decode / read QR code graphics",
@@ -6383,7 +6358,21 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.quandl.com/"
+                "Website": "http://qrtag.net/api/"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.quandl.com/"
             },
             "name": "Quandl",
             "description": "Stock Market Data",
@@ -6397,7 +6386,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://quickchart.io/"
+                "Website": "https://quickchart.io/"
             },
             "name": "QuickChart",
             "description": "Generate chart and graph images",
@@ -6411,7 +6400,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/lukePeavey/quotable"
+                "Website": "https://github.com/lukePeavey/quotable"
             },
             "name": "Quotable Quotes",
             "description": "Quotable is a free, open source quotations API",
@@ -6425,7 +6414,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://pprathameshmore.github.io/QuoteGarden/"
+                "Website": "https://pprathameshmore.github.io/QuoteGarden/"
             },
             "name": "Quote Garden",
             "description": "REST API for more than 5000 famous quotes",
@@ -6439,7 +6428,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://quotesondesign.com/api/"
+                "Website": "https://quotesondesign.com/api/"
             },
             "name": "Quotes on Design",
             "description": "Inspirational Quotes",
@@ -6453,7 +6442,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://aws.random.cat/meow"
+                "Website": "https://aws.random.cat/meow"
             },
             "name": "RandomCat",
             "description": "Random pictures of cats",
@@ -6467,7 +6456,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://random.dog/woof.json"
+                "Website": "https://random.dog/woof.json"
             },
             "name": "RandomDog",
             "description": "Random pictures of dogs",
@@ -6481,7 +6470,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://randomfox.ca/floof/"
+                "Website": "https://randomfox.ca/floof/"
             },
             "name": "RandomFox",
             "description": "Random pictures of foxes",
@@ -6495,7 +6484,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://randomuser.me"
+                "Website": "https://randomuser.me"
             },
             "name": "RandomUser",
             "description": "Generates random user data",
@@ -6509,7 +6498,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://ratesapi.io"
+                "Website": "https://ratesapi.io"
             },
             "name": "ratesapi",
             "description": "Free exchange rates and historical rates",
@@ -6523,7 +6512,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://ifsc.razorpay.com/"
+                "Website": "https://ifsc.razorpay.com/"
             },
             "name": "Razorpay IFSC",
             "description": "Indian Financial Systems Code (Bank Branch Codes)",
@@ -6537,7 +6526,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.rebrandly.com/v1/docs"
+                "Website": "https://developers.rebrandly.com/v1/docs"
             },
             "name": "Rebrandly",
             "description": "Custom URL shortener for sharing branded links",
@@ -6551,7 +6540,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.recipepuppy.com/about/api/"
+                "Website": "http://www.recipepuppy.com/about/api/"
             },
             "name": "Recipe Puppy",
             "description": "Food",
@@ -6565,7 +6554,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://ridb.recreation.gov/"
+                "Website": "https://ridb.recreation.gov/"
             },
             "name": "Recreation Information Database",
             "description": "Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)",
@@ -6579,7 +6568,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.reddit.com/dev/api"
+                "Website": "https://www.reddit.com/dev/api"
             },
             "name": "Reddit",
             "description": "Homepage of the internet",
@@ -6593,7 +6582,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.reed.co.uk/developers"
+                "Website": "https://www.reed.co.uk/developers"
             },
             "name": "Reed",
             "description": "Job board aggregator",
@@ -6607,7 +6596,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.refugerestrooms.org/api/docs/#!/restrooms"
+                "Website": "https://www.refugerestrooms.org/api/docs/#!/restrooms"
             },
             "name": "REFUGE Restrooms",
             "description": "Provides safe restroom access for transgender, intersex and gender nonconforming individuals",
@@ -6621,7 +6610,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://regulationsgov.github.io/developers/"
+                "Website": "https://regulationsgov.github.io/developers/"
             },
             "name": "Regulations.gov",
             "description": "Federal regulatory materials to increase understanding of the Federal rule making process",
@@ -6635,7 +6624,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://represent.opennorth.ca/"
+                "Website": "https://represent.opennorth.ca/"
             },
             "name": "Represent by Open North",
             "description": "Find Canadian Government Representatives",
@@ -6649,7 +6638,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://reqres.in/ "
+                "Website": "https://reqres.in/ "
             },
             "name": "ReqRes",
             "description": "A hosted REST-API ready to respond to your AJAX requests",
@@ -6663,7 +6652,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://joshwcomeau.github.io/RequestKittensDocs/public/"
+                "Website": "http://joshwcomeau.github.io/RequestKittensDocs/public/"
             },
             "name": "Request Kittens",
             "description": "Provides a way to return various cat images",
@@ -6677,7 +6666,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home"
+                "Website": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home"
             },
             "name": "RescueGroups",
             "description": "Adoption",
@@ -6691,7 +6680,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://restcountries.eu"
+                "Website": "https://restcountries.eu"
             },
             "name": "REST Countries",
             "description": "Get information about countries via a RESTful API",
@@ -6705,7 +6694,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://restpack.io/"
+                "Website": "https://restpack.io/"
             },
             "name": "Restpack",
             "description": "Provides screenshot, HTML to PDF and content extraction APIs",
@@ -6719,7 +6708,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://rickandmortyapi.com"
+                "Website": "https://rickandmortyapi.com"
             },
             "name": "Rick and Morty",
             "description": "All the Rick and Morty information, including images",
@@ -6733,7 +6722,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://aninditabasu.github.io/indica/html/rv.html"
+                "Website": "https://aninditabasu.github.io/indica/html/rv.html"
             },
             "name": "Rig Veda",
             "description": "Gods and poets, their categories, and the verse meters, with the mandal and sukta number",
@@ -6747,7 +6736,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.rijksmuseum.nl/en/api"
+                "Website": "https://www.rijksmuseum.nl/en/api"
             },
             "name": "Rijksmuseum",
             "description": "Art",
@@ -6761,7 +6750,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.riotgames.com/"
+                "Website": "https://developer.riotgames.com/"
             },
             "name": "Riot Games",
             "description": "League of Legends Game Information",
@@ -6775,7 +6764,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://robohash.org/"
+                "Website": "https://robohash.org/"
             },
             "name": "RoboHash",
             "description": "Generate random robot/alien avatars",
@@ -6789,7 +6778,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api"
+                "Website": "https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api"
             },
             "name": "Ron Swanson Quotes",
             "description": "Television",
@@ -6803,7 +6792,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/egno/work-calendar"
+                "Website": "https://github.com/egno/work-calendar"
             },
             "name": "Russian Calendar",
             "description": "Check if a date is a Russian holiday or not",
@@ -6817,7 +6806,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.saidit.net/dev/api"
+                "Website": "https://www.saidit.net/dev/api"
             },
             "name": "Saidit",
             "description": "Open Source Reddit Clone",
@@ -6831,7 +6820,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.schiphol.nl/"
+                "Website": "https://developer.schiphol.nl/"
             },
             "name": "Schiphol Airport",
             "description": "Schiphol",
@@ -6845,7 +6834,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.scoop.it/dev"
+                "Website": "http://www.scoop.it/dev"
             },
             "name": "Scoop.it",
             "description": "Content Curation Service",
@@ -6859,7 +6848,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.scraper.ai/#/"
+                "Website": "https://docs.scraper.ai/#/"
             },
             "name": "Scraper.AI",
             "description": "Extract and monitor data from any website",
@@ -6873,7 +6862,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.scraperapi.com"
+                "Website": "https://www.scraperapi.com"
             },
             "name": "ScraperApi",
             "description": "Easily build scalable web scrapers",
@@ -6887,7 +6876,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://screenshotapi.net/"
+                "Website": "https://screenshotapi.net/"
             },
             "name": "ScreenshotAPI.net",
             "description": "Create pixel-perfect website screenshots",
@@ -6901,7 +6890,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://screenshotlayer.com"
+                "Website": "https://screenshotlayer.com"
             },
             "name": "ScreenShotLayer",
             "description": "URL 2 Image",
@@ -6915,7 +6904,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://scryfall.com/docs/api"
+                "Website": "https://scryfall.com/docs/api"
             },
             "name": "Scryfall",
             "description": "Magic: The Gathering database",
@@ -6929,7 +6918,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://securitytrails.com/corp/apidocs"
+                "Website": "https://securitytrails.com/corp/apidocs"
             },
             "name": "SecurityTrails",
             "description": "Domain and IP related information such as current and historical WHOIS and DNS records",
@@ -6943,7 +6932,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://semantria.readme.io/docs"
+                "Website": "https://semantria.readme.io/docs"
             },
             "name": "Semantira",
             "description": "Text Analytics with sentiment analysis, categorization & named entity extraction",
@@ -6957,7 +6946,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://sentim-api.herokuapp.com"
+                "Website": "https://sentim-api.herokuapp.com"
             },
             "name": "Sentim-API",
             "description": "Text sentiment analysis",
@@ -6971,7 +6960,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://share.osf.io/api/v2/"
+                "Website": "https://share.osf.io/api/v2/"
             },
             "name": "SHARE",
             "description": "A free, open, dataset about research and scholarly activities",
@@ -6985,7 +6974,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://shibe.online/"
+                "Website": "http://shibe.online/"
             },
             "name": "Shibe.Online",
             "description": "Random pictures of Shibu Inu, cats or birds",
@@ -6999,7 +6988,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.shodan.io/"
+                "Website": "https://developer.shodan.io/"
             },
             "name": "Shodan",
             "description": "Search engine for Internet connected devices",
@@ -7013,7 +7002,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://shoutcloud.io/"
+                "Website": "http://shoutcloud.io/"
             },
             "name": "SHOUTCLOUD",
             "description": "ALL-CAPS AS A SERVICE",
@@ -7027,7 +7016,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.slack.com/"
+                "Website": "https://api.slack.com/"
             },
             "name": "Slack",
             "description": "Team Instant Messaging",
@@ -7041,7 +7030,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://smartcar.com/docs/"
+                "Website": "https://smartcar.com/docs/"
             },
             "name": "Smartcar",
             "description": "Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars",
@@ -7055,7 +7044,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.songkick.com/developer/"
+                "Website": "https://www.songkick.com/developer/"
             },
             "name": "Songkick",
             "description": "Music Events",
@@ -7069,7 +7058,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.songsterr.com/a/wa/api/"
+                "Website": "https://www.songsterr.com/a/wa/api/"
             },
             "name": "Songsterr",
             "description": "Provides guitar, bass and drums tabs and chords",
@@ -7083,7 +7072,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.soundcloud.com/"
+                "Website": "https://developers.soundcloud.com/"
             },
             "name": "SoundCloud",
             "description": "Allow users to upload and share sounds",
@@ -7097,7 +7086,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://spaceflightnewsapi.net"
+                "Website": "https://spaceflightnewsapi.net"
             },
             "name": "Spaceflight News",
             "description": "Spaceflight related news 🚀",
@@ -7111,7 +7100,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/r-spacex/SpaceX-API"
+                "Website": "https://github.com/r-spacex/SpaceX-API"
             },
             "name": "SpaceX",
             "description": "Company, vehicle, launchpad and launch data",
@@ -7125,7 +7114,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://beta.developer.spotify.com/documentation/web-api/"
+                "Website": "https://beta.developer.spotify.com/documentation/web-api/"
             },
             "name": "Spotify",
             "description": "View Spotify music catalog, manage users' libraries, get recommendations and more",
@@ -7139,7 +7128,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.stackexchange.com/"
+                "Website": "https://api.stackexchange.com/"
             },
             "name": "StackExchange",
             "description": "Q&A forum for developers",
@@ -7153,7 +7142,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://stapi.co"
+                "Website": "http://stapi.co"
             },
             "name": "STAPI",
             "description": "Information on all things Star Trek",
@@ -7167,7 +7156,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.valvesoftware.com/wiki/Steam_Web_API"
+                "Website": "https://developer.valvesoftware.com/wiki/Steam_Web_API"
             },
             "name": "Steam",
             "description": "Steam Client Interaction",
@@ -7181,7 +7170,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://stormglass.io/"
+                "Website": "https://stormglass.io/"
             },
             "name": "Storm Glass",
             "description": "Global marine weather from multiple sources",
@@ -7195,7 +7184,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://strava.github.io/api/"
+                "Website": "https://strava.github.io/api/"
             },
             "name": "Strava",
             "description": "Connect with athletes, activities and more",
@@ -7209,7 +7198,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://ghibliapi.herokuapp.com"
+                "Website": "https://ghibliapi.herokuapp.com"
             },
             "name": "Studio Ghibli",
             "description": "Resources from Studio Ghibli films",
@@ -7223,7 +7212,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://sunrise-sunset.org/api"
+                "Website": "https://sunrise-sunset.org/api"
             },
             "name": "Sunrise and Sunset",
             "description": "Sunset and sunrise times for a given latitude and longitude",
@@ -7237,7 +7226,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://superheroapi.com"
+                "Website": "https://superheroapi.com"
             },
             "name": "SuperHeroes",
             "description": "All SuperHeroes and Villains data from all universes under a single API",
@@ -7251,7 +7240,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://suredbits.com/api/"
+                "Website": "https://suredbits.com/api/"
             },
             "name": "SuredBits",
             "description": "Query sports data, including teams, players, games, scores and statistics",
@@ -7265,7 +7254,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.swapi.tech"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
             "description": "All things Star Wars",
@@ -7279,7 +7268,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.postnord.com/docs2"
+                "Website": "https://developer.postnord.com/docs2"
             },
             "name": "Sweden",
             "description": "Provides information about parcels in transport",
@@ -7293,7 +7282,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/evz/tacofancy-api"
+                "Website": "https://github.com/evz/tacofancy-api"
             },
             "name": "TacoFancy",
             "description": "Community-driven taco database",
@@ -7307,7 +7296,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://tastedive.com/read/api"
+                "Website": "https://tastedive.com/read/api"
             },
             "name": "TasteDive",
             "description": "Similar artist API (also works for movies and TV shows)",
@@ -7321,7 +7310,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://taylor.rest"
+                "Website": "https://taylor.rest"
             },
             "name": "taylor.rest",
             "description": "REST API for random Taylor Swift quotes",
@@ -7335,7 +7324,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://core.telegram.org/bots/api"
+                "Website": "https://core.telegram.org/bots/api"
             },
             "name": "Telegram Bot",
             "description": "Simplified HTTP version of the MTProto API for bots",
@@ -7349,7 +7338,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://core.telegram.org/api#getting-started"
+                "Website": "https://core.telegram.org/api#getting-started"
             },
             "name": "Telegram MTProto",
             "description": "Read and write Telegram data",
@@ -7363,7 +7352,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.teleport.org/"
+                "Website": "https://developers.teleport.org/"
             },
             "name": "Teleport",
             "description": "Quality of Life Data",
@@ -7377,7 +7366,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://gateway.temporal.cloud/ipns/docs.api.temporal.cloud"
+                "Website": "https://gateway.temporal.cloud/ipns/docs.api.temporal.cloud"
             },
             "name": "Temporal",
             "description": "IPFS based file storage and sharing with optional IPNS naming",
@@ -7391,7 +7380,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://open-platform.theguardian.com/"
+                "Website": "http://open-platform.theguardian.com/"
             },
             "name": "The Guardian",
             "description": "Access all the content the Guardian creates, categorised by tags and section",
@@ -7405,7 +7394,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://the-one-api.dev/"
+                "Website": "https://the-one-api.dev/"
             },
             "name": "The Lord of the Rings",
             "description": "The Lord of the Rings API",
@@ -7419,7 +7408,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.themuse.com/developers/api/v2"
+                "Website": "https://www.themuse.com/developers/api/v2"
             },
             "name": "The Muse",
             "description": "Job board and company profiles",
@@ -7433,7 +7422,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/theoldreader/api"
+                "Website": "https://github.com/theoldreader/api"
             },
             "name": "The Old Reader",
             "description": "RSS reader",
@@ -7447,7 +7436,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/andyklimczak/TheReportOfTheWeek-API"
+                "Website": "https://github.com/andyklimczak/TheReportOfTheWeek-API"
             },
             "name": "The Report of the Week",
             "description": "Food & Drink Reviews",
@@ -7461,7 +7450,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.theaudiodb.com/api_guide.php"
+                "Website": "https://www.theaudiodb.com/api_guide.php"
             },
             "name": "TheAudioDB",
             "description": "Music",
@@ -7475,7 +7464,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.thecocktaildb.com/api.php"
+                "Website": "https://www.thecocktaildb.com/api.php"
             },
             "name": "TheCocktailDB",
             "description": "Cocktail Recipes",
@@ -7489,7 +7478,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.themealdb.com/api.php"
+                "Website": "https://www.themealdb.com/api.php"
             },
             "name": "TheMealDB",
             "description": "Meal Recipes",
@@ -7503,7 +7492,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.thesportsdb.com/api.php"
+                "Website": "https://www.thesportsdb.com/api.php"
             },
             "name": "TheSportsDB",
             "description": "Crowd-Sourced Sports Data and Artwork",
@@ -7517,7 +7506,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://thispersondoesnotexist.com"
+                "Website": "https://thispersondoesnotexist.com"
             },
             "name": "This Person Does not Exist",
             "description": "Generates real-life faces of people who do not exist",
@@ -7531,7 +7520,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://developer.ticketmaster.com/products-and-docs/apis/getting-started/"
+                "Website": "http://developer.ticketmaster.com/products-and-docs/apis/getting-started/"
             },
             "name": "Ticketmaster",
             "description": "Search events, attractions, or venues",
@@ -7545,7 +7534,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://ticksel.com"
+                "Website": "https://ticksel.com"
             },
             "name": "Ticksel",
             "description": "Friendly website analytics made for humans",
@@ -7559,7 +7548,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://timedoor.io"
+                "Website": "https://timedoor.io"
             },
             "name": "Time Door",
             "description": "A time series analysis API",
@@ -7573,7 +7562,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00"
+                "Website": "https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00"
             },
             "name": "TIPO",
             "description": "Taiwan patent search system api",
@@ -7587,7 +7576,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.themoviedb.org/documentation/api"
+                "Website": "https://www.themoviedb.org/documentation/api"
             },
             "name": "TMDb",
             "description": "Community-based movie data",
@@ -7601,7 +7590,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.todoist.com"
+                "Website": "https://developer.todoist.com"
             },
             "name": "Todoist",
             "description": "Todo Lists",
@@ -7615,7 +7604,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.tradier.com"
+                "Website": "https://developer.tradier.com"
             },
             "name": "Tradier",
             "description": "US equity/option market data (delayed, intraday, historical)",
@@ -7629,7 +7618,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://app.traitify.com/developer"
+                "Website": "https://app.traitify.com/developer"
             },
             "name": "Traitify",
             "description": "Assess, collect and analyze Personality",
@@ -7643,7 +7632,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://trakt.tv/b/api-docs"
+                "Website": "https://trakt.tv/b/api-docs"
             },
             "name": "Trakt",
             "description": "Movie and TV Data",
@@ -7657,7 +7646,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://transit.land/documentation/datastore/api-endpoints.html"
+                "Website": "https://transit.land/documentation/datastore/api-endpoints.html"
             },
             "name": "TransitLand",
             "description": "Transit Aggregation",
@@ -7671,7 +7660,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.itsmarta.com/app-developer-resources.aspx"
+                "Website": "http://www.itsmarta.com/app-developer-resources.aspx"
             },
             "name": "Transport for Atlanta, US",
             "description": "Marta",
@@ -7685,7 +7674,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.at.govt.nz/"
+                "Website": "https://api.at.govt.nz/"
             },
             "name": "Transport for Auckland, New Zealand",
             "description": "Auckland Transport",
@@ -7699,7 +7688,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://hello.irail.be/api/"
+                "Website": "https://hello.irail.be/api/"
             },
             "name": "Transport for Belgium",
             "description": "Belgian transport API",
@@ -7713,7 +7702,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md"
+                "Website": "https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md"
             },
             "name": "Transport for Berlin, Germany",
             "description": "Third-party VBB API",
@@ -7727,7 +7716,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://opendata.bordeaux-metropole.fr/explore/"
+                "Website": "https://opendata.bordeaux-metropole.fr/explore/"
             },
             "name": "Transport for Bordeaux, France",
             "description": "Bordeaux Métropole public transport and more (France)",
@@ -7741,7 +7730,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://mbta.com/developers/v3-api"
+                "Website": "https://mbta.com/developers/v3-api"
             },
             "name": "Transport for Boston, US",
             "description": "MBTA API",
@@ -7755,7 +7744,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://bkkfutar.docs.apiary.io"
+                "Website": "https://bkkfutar.docs.apiary.io"
             },
             "name": "Transport for Budapest, Hungary",
             "description": "Budapest public transport API",
@@ -7769,7 +7758,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.transitchicago.com/developers/"
+                "Website": "http://www.transitchicago.com/developers/"
             },
             "name": "Transport for Chicago, US",
             "description": "CTA",
@@ -7783,7 +7772,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.chaps.cz/eng/products/idos-internet"
+                "Website": "https://www.chaps.cz/eng/products/idos-internet"
             },
             "name": "Transport for Czech Republic",
             "description": "Czech transport API",
@@ -7797,7 +7786,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.rtd-denver.com/gtfs-developer-guide.shtml"
+                "Website": "http://www.rtd-denver.com/gtfs-developer-guide.shtml"
             },
             "name": "Transport for Denver, US",
             "description": "RTD",
@@ -7811,7 +7800,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://digitransit.fi/en/developers/ "
+                "Website": "https://digitransit.fi/en/developers/ "
             },
             "name": "Transport for Finland",
             "description": "Finnish transport API",
@@ -7825,7 +7814,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://data.deutschebahn.com/dataset/api-fahrplan"
+                "Website": "http://data.deutschebahn.com/dataset/api-fahrplan"
             },
             "name": "Transport for Germany",
             "description": "Deutsche Bahn (DB) API",
@@ -7839,7 +7828,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.metromobilite.fr/pages/opendata/OpenDataApi.html"
+                "Website": "https://www.metromobilite.fr/pages/opendata/OpenDataApi.html"
             },
             "name": "Transport for Grenoble, France",
             "description": "Grenoble public transport",
@@ -7853,7 +7842,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://hea.thebus.org/api_info.asp"
+                "Website": "http://hea.thebus.org/api_info.asp"
             },
             "name": "Transport for Honolulu, US",
             "description": "Honolulu Transportation Information",
@@ -7867,7 +7856,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://data.gov.in/sector/transport"
+                "Website": "https://data.gov.in/sector/transport"
             },
             "name": "Transport for India",
             "description": "India Public Transport API",
@@ -7881,7 +7870,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://emel.city-platform.com/opendata/"
+                "Website": "https://emel.city-platform.com/opendata/"
             },
             "name": "Transport for Lisbon, Portugal",
             "description": "Data about buses routes, parking and traffic",
@@ -7895,7 +7884,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.tfl.gov.uk"
+                "Website": "https://api.tfl.gov.uk"
             },
             "name": "Transport for London, England",
             "description": "TfL API",
@@ -7909,7 +7898,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.tfgm.com/"
+                "Website": "https://developer.tfgm.com/"
             },
             "name": "Transport for Manchester, England",
             "description": "TfGM transport network data",
@@ -7923,21 +7912,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://restratpws.azurewebsites.net/swagger/"
-            },
-            "name": "Transport for Paris, France",
-            "description": "Live schedules made simple",
-            "auth": "",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Transportation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Main": "http://data.ratp.fr/api/v1/console/datasets/1.0/search/"
+                "Website": "http://data.ratp.fr/api/v1/console/datasets/1.0/search/"
             },
             "name": "Transport for Paris, France",
             "description": "RATP Open Data API",
@@ -7951,7 +7926,21 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www3.septa.org/hackathon/"
+                "Website": "http://restratpws.azurewebsites.net/swagger/"
+            },
+            "name": "Transport for Paris, France",
+            "description": "Live schedules made simple",
+            "auth": "",
+            "https": false,
+            "cors": "unknown",
+            "apiCategory": "Transportation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://www3.septa.org/hackathon/"
             },
             "name": "Transport for Philadelphia, US",
             "description": "SEPTA APIs",
@@ -7965,7 +7954,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/"
+                "Website": "http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/"
             },
             "name": "Transport for Sao Paulo, Brazil",
             "description": "SPTrans",
@@ -7979,7 +7968,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.trafiklab.se/api"
+                "Website": "https://www.trafiklab.se/api"
             },
             "name": "Transport for Sweden",
             "description": "Public Transport consumer",
@@ -7993,21 +7982,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://opentransportdata.swiss/en/"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Transportation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Main": "https://transport.opendata.ch/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
             "description": "Swiss public transport API",
@@ -8021,7 +7996,21 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "https://opentransportdata.swiss/en/"
+            },
+            "name": "Transport for Switzerland",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Transportation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
             "name": "Transport for The Netherlands",
             "description": "OVAPI, country-wide public transport",
@@ -8035,7 +8024,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
             },
             "name": "Transport for The Netherlands",
             "description": "NS, only trains",
@@ -8049,7 +8038,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://myttc.ca/developers"
+                "Website": "https://myttc.ca/developers"
             },
             "name": "Transport for Toronto, Canada",
             "description": "TTC",
@@ -8063,7 +8052,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf"
+                "Website": "http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf"
             },
             "name": "Transport for United States",
             "description": "NextBus API",
@@ -8077,7 +8066,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.translink.ca/"
+                "Website": "https://developer.translink.ca/"
             },
             "name": "Transport for Vancouver, Canada",
             "description": "TransLink",
@@ -8091,7 +8080,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.wmata.com/"
+                "Website": "https://developer.wmata.com/"
             },
             "name": "Transport for Washington, US",
             "description": "Washington Metro transport API",
@@ -8105,7 +8094,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://trashnothing.com/developer"
+                "Website": "https://trashnothing.com/developer"
             },
             "name": "Trash Nothing",
             "description": "A freecycling community with thousands of free items posted every day",
@@ -8119,7 +8108,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://docs.travis-ci.com/api/"
+                "Website": "https://docs.travis-ci.com/api/"
             },
             "name": "Travis CI",
             "description": "Sync your GitHub projects with Travis CI to test your code in minutes",
@@ -8133,7 +8122,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://trefle.io/"
+                "Website": "https://trefle.io/"
             },
             "name": "Trefle",
             "description": "Botanical data for plant species",
@@ -8147,7 +8136,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.trello.com/"
+                "Website": "https://developers.trello.com/"
             },
             "name": "Trello",
             "description": "Boards, lists and cards to help you organize and prioritize your projects",
@@ -8161,7 +8150,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.tronalddump.io/"
+                "Website": "https://www.tronalddump.io/"
             },
             "name": "Tronald Dump",
             "description": "The dumbest things Donald Trump has ever said",
@@ -8175,7 +8164,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.tronalddump.io"
+                "Website": "https://www.tronalddump.io"
             },
             "name": "tronalddump.io",
             "description": "Api & web archive for the things Donald Trump has said",
@@ -8189,7 +8178,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.tumblr.com/docs/en/api/v2"
+                "Website": "https://www.tumblr.com/docs/en/api/v2"
             },
             "name": "Tumblr",
             "description": "Read and write Tumblr Data",
@@ -8203,7 +8192,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.thetvdb.com/swagger"
+                "Website": "https://api.thetvdb.com/swagger"
             },
             "name": "TVDB",
             "description": "Television data",
@@ -8217,7 +8206,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.tvmaze.com/api"
+                "Website": "http://www.tvmaze.com/api"
             },
             "name": "TVMaze",
             "description": "TV Show Data",
@@ -8231,7 +8220,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://dev.twitch.tv/docs"
+                "Website": "https://dev.twitch.tv/docs"
             },
             "name": "Twitch",
             "description": "Game Streaming API",
@@ -8245,7 +8234,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.twitter.com/en/docs"
+                "Website": "https://developer.twitter.com/en/docs"
             },
             "name": "Twitter",
             "description": "Read and write Twitter data",
@@ -8259,7 +8248,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.uber.com/products"
+                "Website": "https://developer.uber.com/products"
             },
             "name": "Uber",
             "description": "Uber ride requests and price estimation",
@@ -8273,7 +8262,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://uebermaps.com/api/v2"
+                "Website": "https://uebermaps.com/api/v2"
             },
             "name": "Uebermaps",
             "description": "Discover and share maps with friends",
@@ -8287,7 +8276,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/thm/uinames"
+                "Website": "https://github.com/thm/uinames"
             },
             "name": "UI Names",
             "description": "Generate random fake names",
@@ -8301,7 +8290,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0"
+                "Website": "https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0"
             },
             "name": "UK Carbon Intensity",
             "description": "The Official Carbon Intensity API for Great Britain developed by National Grid",
@@ -8315,7 +8304,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://data.police.uk/docs/"
+                "Website": "https://data.police.uk/docs/"
             },
             "name": "UK Police",
             "description": "UK Police data",
@@ -8329,7 +8318,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://github.com/Hipo/university-domains-list"
+                "Website": "https://github.com/Hipo/university-domains-list"
             },
             "name": "Universities List",
             "description": "University names, countries and domains",
@@ -8343,7 +8332,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://data.uio.no/"
+                "Website": "https://data.uio.no/"
             },
             "name": "University of Oslo",
             "description": "Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)",
@@ -8357,7 +8346,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://unplu.gg/test_api.html"
+                "Website": "https://unplu.gg/test_api.html"
             },
             "name": "Unplugg",
             "description": "Forecasting API for timeseries data",
@@ -8371,7 +8360,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://unsplash.com/developers"
+                "Website": "https://unsplash.com/developers"
             },
             "name": "Unsplash",
             "description": "Photography",
@@ -8385,7 +8374,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://upcdatabase.org/api"
+                "Website": "https://upcdatabase.org/api"
             },
             "name": "UPC database",
             "description": "More than 1.5 million barcode numbers from all around the world",
@@ -8399,7 +8388,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.ups.com/upsdeveloperkit"
+                "Website": "https://www.ups.com/upsdeveloperkit"
             },
             "name": "UPS",
             "description": "Shipment and Address information",
@@ -8413,7 +8402,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.upwork.com/"
+                "Website": "https://developers.upwork.com/"
             },
             "name": "Upwork",
             "description": "Freelance job board and management system",
@@ -8427,7 +8416,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://urlscan.io/about-api/"
+                "Website": "https://urlscan.io/about-api/"
             },
             "name": "URLScan.io",
             "description": "Scan and Analyse URLs",
@@ -8441,7 +8430,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://smartystreets.com/docs/cloud/us-autocomplete-api"
+                "Website": "https://smartystreets.com/docs/cloud/us-autocomplete-api"
             },
             "name": "US Autocomplete",
             "description": "Enter address data quickly with real-time address suggestions",
@@ -8455,7 +8444,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://smartystreets.com/products/apis/us-extract-api"
+                "Website": "https://smartystreets.com/products/apis/us-extract-api"
             },
             "name": "US Extract",
             "description": "Extract postal addresses from any text including emails",
@@ -8469,7 +8458,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://smartystreets.com/docs/cloud/us-street-api"
+                "Website": "https://smartystreets.com/docs/cloud/us-street-api"
             },
             "name": "US Street Address",
             "description": "Validate and append data for any US postal address",
@@ -8483,7 +8472,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://smartystreets.com/docs/cloud/us-zipcode-api"
+                "Website": "https://smartystreets.com/docs/cloud/us-zipcode-api"
             },
             "name": "US ZipCode",
             "description": "Validate and append data for any US ZipCode",
@@ -8497,7 +8486,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.usajobs.gov/"
+                "Website": "https://developer.usajobs.gov/"
             },
             "name": "USAJOBS",
             "description": "US government job board",
@@ -8511,7 +8500,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.usaspending.gov/"
+                "Website": "https://api.usaspending.gov/"
             },
             "name": "USAspending.gov",
             "description": "US federal spending data",
@@ -8525,7 +8514,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://fdc.nal.usda.gov/"
+                "Website": "https://fdc.nal.usda.gov/"
             },
             "name": "USDA Nutrients",
             "description": "National Nutrient Database for Standard Reference",
@@ -8539,7 +8528,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://earthquake.usgs.gov/fdsnws/event/1/"
+                "Website": "https://earthquake.usgs.gov/fdsnws/event/1/"
             },
             "name": "USGS Earthquake Hazards Program",
             "description": "Earthquakes data real-time",
@@ -8553,7 +8542,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://waterservices.usgs.gov/"
+                "Website": "https://waterservices.usgs.gov/"
             },
             "name": "USGS Water Services",
             "description": "Water quality and level info for rivers and lakes",
@@ -8567,7 +8556,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.uspto.gov/learning-and-resources/open-data-and-mobility"
+                "Website": "https://www.uspto.gov/learning-and-resources/open-data-and-mobility"
             },
             "name": "USPTO",
             "description": "USA patent api services",
@@ -8581,7 +8570,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.mapserv.utah.gov"
+                "Website": "https://api.mapserv.utah.gov"
             },
             "name": "Utah AGRC",
             "description": "Utah Web API for geocoding Utah addresses",
@@ -8595,7 +8584,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.vagalume.com.br/docs/"
+                "Website": "https://api.vagalume.com.br/docs/"
             },
             "name": "Vagalume",
             "description": "Crowdsourced lyrics and music knowledge",
@@ -8609,7 +8598,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.vatcomply.com/documentation"
+                "Website": "https://www.vatcomply.com/documentation"
             },
             "name": "VATComply.com",
             "description": "Exchange rates, geolocation and VAT number validation",
@@ -8623,7 +8612,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://vatlayer.com"
+                "Website": "https://vatlayer.com"
             },
             "name": "vatlayer",
             "description": "VAT number validation",
@@ -8637,7 +8626,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://vector.express"
+                "Website": "http://vector.express"
             },
             "name": "Vector Express",
             "description": "Free vector file converting API",
@@ -8651,7 +8640,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://aninditabasu.github.io/indica/html/vs.html"
+                "Website": "https://aninditabasu.github.io/indica/html/vs.html"
             },
             "name": "Vedic Society",
             "description": "Descriptions of all nouns (names, places, animals, things) from vedic literature",
@@ -8665,7 +8654,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://viacep.com.br"
+                "Website": "https://viacep.com.br"
             },
             "name": "ViaCep",
             "description": "Brazil RESTful zip codes API",
@@ -8679,7 +8668,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.vimeo.com/"
+                "Website": "https://developer.vimeo.com/"
             },
             "name": "Vimeo",
             "description": "Vimeo Developer API",
@@ -8693,7 +8682,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.virustotal.com/en/documentation/public-api/"
+                "Website": "https://www.virustotal.com/en/documentation/public-api/"
             },
             "name": "VirusTotal",
             "description": "VirusTotal File/URL Analysis",
@@ -8707,7 +8696,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://vk.com/dev/sites"
+                "Website": "https://vk.com/dev/sites"
             },
             "name": "vk",
             "description": "Read and write vk data",
@@ -8721,7 +8710,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://wakatime.com/developers"
+                "Website": "https://wakatime.com/developers"
             },
             "name": "WakaTime",
             "description": "Automated time tracking leaderboards for programmers",
@@ -8735,7 +8724,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.walmartlabs.com/docs"
+                "Website": "https://developer.walmartlabs.com/docs"
             },
             "name": "Wal-Mart",
             "description": "Item price and availability",
@@ -8749,7 +8738,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://wallhaven.cc/help/api"
+                "Website": "https://wallhaven.cc/help/api"
             },
             "name": "Wallhaven",
             "description": "Wallpapers",
@@ -8763,7 +8752,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.wargaming.net/"
+                "Website": "https://developers.wargaming.net/"
             },
             "name": "Wargaming.net",
             "description": "Wargaming.net info and stats",
@@ -8777,7 +8766,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding"
+                "Website": "https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding"
             },
             "name": "Watson Natural Language Understanding",
             "description": "Natural language processing for advanced text analysis",
@@ -8791,7 +8780,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.weatherbit.io/api"
+                "Website": "https://www.weatherbit.io/api"
             },
             "name": "Weatherbit",
             "description": "Weather",
@@ -8805,7 +8794,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://support.mywot.com/hc/en-us/articles/360024398673-3-Using-the-API"
+                "Website": "https://support.mywot.com/hc/en-us/articles/360024398673-3-Using-the-API"
             },
             "name": "Web Of Trust (WOT)",
             "description": "Website reputation",
@@ -8819,7 +8808,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://dev.wegmans.io"
+                "Website": "https://dev.wegmans.io"
             },
             "name": "Wegmans",
             "description": "Wegmans Food Markets",
@@ -8833,7 +8822,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://wger.de/en/software/api"
+                "Website": "https://wger.de/en/software/api"
             },
             "name": "Wger",
             "description": "Workout manager data as exercises, muscles or equipment",
@@ -8847,7 +8836,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://soruly.github.io/trace.moe/"
+                "Website": "https://soruly.github.io/trace.moe/"
             },
             "name": "What Anime",
             "description": "Scan anime image to get specific detail",
@@ -8861,7 +8850,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://nypl.github.io/menus-api/"
+                "Website": "http://nypl.github.io/menus-api/"
             },
             "name": "What's on the menu?",
             "description": "NYPL human-transcribed historical menu collection",
@@ -8875,7 +8864,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://whatpulse.org/pages/webapi/"
+                "Website": "https://whatpulse.org/pages/webapi/"
             },
             "name": "WhatPulse",
             "description": "Small application that measures your keyboard/mouse usage",
@@ -8889,7 +8878,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.whereismytransport.com/"
+                "Website": "https://developer.whereismytransport.com/"
             },
             "name": "WhereIsMyTransport",
             "description": "Platform for public transport data in emerging cities",
@@ -8903,7 +8892,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.wikidata.org/w/api.php?action=help"
+                "Website": "https://www.wikidata.org/w/api.php?action=help"
             },
             "name": "Wikidata",
             "description": "Collaboratively edited knowledge base operated by the Wikimedia Foundation",
@@ -8917,7 +8906,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.mediawiki.org/wiki/API:Main_page"
+                "Website": "https://www.mediawiki.org/wiki/API:Main_page"
             },
             "name": "Wikipedia",
             "description": "Mediawiki Encyclopedia",
@@ -8931,7 +8920,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://wit.ai/"
+                "Website": "https://wit.ai/"
             },
             "name": "Wit.ai",
             "description": "Natural Language Processing",
@@ -8945,7 +8934,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://developer.wordnik.com"
+                "Website": "http://developer.wordnik.com"
             },
             "name": "Wordnik",
             "description": "Dictionary Data",
@@ -8959,7 +8948,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.wordsapi.com/"
+                "Website": "https://www.wordsapi.com/"
             },
             "name": "Words",
             "description": "Definitions and synonyms for more than 150,000 words",
@@ -8973,7 +8962,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://datahelpdesk.worldbank.org/knowledgebase/topics/125589"
+                "Website": "https://datahelpdesk.worldbank.org/knowledgebase/topics/125589"
             },
             "name": "World Bank",
             "description": "World Data",
@@ -8987,7 +8976,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.worldcoinindex.com/apiservice"
+                "Website": "https://www.worldcoinindex.com/apiservice"
             },
             "name": "WorldCoinIndex",
             "description": "Cryptocurrencies Prices",
@@ -9001,7 +8990,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://xkcd.com/json.html"
+                "Website": "https://xkcd.com/json.html"
             },
             "name": "xkcd",
             "description": "Retrieve xkcd comics as JSON",
@@ -9015,7 +9004,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developer.yahoo.com/weather/"
+                "Website": "https://developer.yahoo.com/weather/"
             },
             "name": "Yahoo! Weather",
             "description": "Weather",
@@ -9029,7 +9018,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.yelp.com/developers/documentation/v3"
+                "Website": "https://www.yelp.com/developers/documentation/v3"
             },
             "name": "Yelp",
             "description": "Find Local Business",
@@ -9043,7 +9032,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://yesno.wtf/api"
+                "Website": "https://yesno.wtf/api"
             },
             "name": "Yes No",
             "description": "Generate yes or no randomly",
@@ -9057,7 +9046,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://api.youneedabudget.com/"
+                "Website": "https://api.youneedabudget.com/"
             },
             "name": "YNAB",
             "description": "Budgeting & Planning",
@@ -9071,7 +9060,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.google.com/youtube/"
+                "Website": "https://developers.google.com/youtube/"
             },
             "name": "YouTube",
             "description": "Add YouTube functionality to your sites and apps",
@@ -9085,7 +9074,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.zipcodeapi.com"
+                "Website": "https://www.zipcodeapi.com"
             },
             "name": "ZipCodeAPI",
             "description": "US zip code distance, radius and location API",
@@ -9099,7 +9088,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "http://www.zippopotam.us"
+                "Website": "http://www.zippopotam.us"
             },
             "name": "Zippopotam",
             "description": "Get information about place such as country, city, state, etc",
@@ -9113,7 +9102,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://www.ziprecruiter.com/publishers"
+                "Website": "https://www.ziprecruiter.com/publishers"
             },
             "name": "ZipRecruiter",
             "description": "Job search app and website",
@@ -9127,7 +9116,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Main": "https://developers.zomato.com/api"
+                "Website": "https://developers.zomato.com/api"
             },
             "name": "Zomato",
             "description": "Discover restaurants",
@@ -9141,7 +9130,7 @@ module.exports = {
         {
             "name": "B Icons and Hosting",
             "links": {
-                "Main": "https://1forge.com/forex-data-api/api-documentation",
+                "Website": "https://1forge.com/forex-data-api/api-documentation",
                 "npm": "https://test.com"
             },
             "categories": [
@@ -9152,7 +9141,7 @@ module.exports = {
         {
             "name": "B Icons, Fonts and React",
             "links": {
-                "Main": "https://1forge.com/forex-data-api/api-documentation",
+                "Website": "https://1forge.com/forex-data-api/api-documentation",
                 "npm": "https://test.com"
             },
             "categories": [
@@ -9166,7 +9155,7 @@ module.exports = {
         {
             "name": "B Icons, Fonts and React",
             "links": {
-                "Main": "https://1forge.com/forex-data-api/api-documentation",
+                "Website": "https://1forge.com/forex-data-api/api-documentation",
                 "npm": "https://test.com"
             },
             "categories": [
@@ -9180,7 +9169,7 @@ module.exports = {
         {
             "name": "B Icons, Fonts and React",
             "links": {
-                "Main": "https://1forge.com/forex-data-api/api-documentation",
+                "Website": "https://1forge.com/forex-data-api/api-documentation",
                 "npm": "https://test.com"
             },
             "categories": [
@@ -9188,6 +9177,34 @@ module.exports = {
                 "Assets/Fonts",
                 "Programming/JavaScript/React"
             ]
+        }
+    ],
+    "programming-learn": [
+        {
+            "name": "Indie Hackers",
+            "description": "Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.",
+            "categories": [
+                "Programming/Learn",
+                "Programming/Code Challenges"
+            ],
+            "links": {
+                "Website": "https://www.indiehackers.com/",
+                "Twitter": "https://twitter.com/indiehackers"
+            }
+        }
+    ],
+    "programming-code-challenges": [
+        {
+            "name": "Indie Hackers",
+            "description": "Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.",
+            "categories": [
+                "Programming/Learn",
+                "Programming/Code Challenges"
+            ],
+            "links": {
+                "Website": "https://www.indiehackers.com/",
+                "Twitter": "https://twitter.com/indiehackers"
+            }
         }
     ]
 }

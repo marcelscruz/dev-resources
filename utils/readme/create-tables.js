@@ -3,7 +3,7 @@ const truncate = require('../truncate')
 const links = require('../../constants/links')
 const validateExternalResources = require('../validate-external-resource')
 
-const { main } = links
+const { website } = links
 const { isPublicApis } = validateExternalResources
 
 const backToIndex = `\n**[⬆ Back to Index](#index)**`
@@ -25,11 +25,11 @@ function createLinks(links) {
         .sort((a, b) => {
             const nameA = a[0].toLowerCase()
             const nameB = b[0].toLowerCase()
-            const lowerCaseMain = main.toLowerCase()
+            const lowerCaseWebsite = website.toLowerCase()
 
             if (nameA === nameB) return 0
-            if (nameA === lowerCaseMain) return -1
-            if (nameB === lowerCaseMain) return 1
+            if (nameA === lowerCaseWebsite) return -1
+            if (nameB === lowerCaseWebsite) return 1
 
             if (nameA < nameB) return -1
             if (nameA > nameB) return 1
