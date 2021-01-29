@@ -4,6 +4,7 @@ Everyone is encouraged to collaborate and add new resources to the list, but ple
 
 -   the resource should align with the purpose of the project
 -   the resource isn't a duplicate; a text search on the README file should be enough to find this answer
+-   the resources lists are written in JavaScript; if you need assistance on this matter, please open an issue with the resource's information
 
 ## Adding a resource
 
@@ -42,13 +43,23 @@ Observe that:
     3. open the result image in a new tab by right clicking followed by "Open in new tab" or dragging it to the browser's tab bar
     4. use the new tab's URL
 
+### Choosing the category
+
+Renaming a category or changing the tree structure should be avoided, as it can lead to inconsistent data being delivered through the public API, although it is allowed if the current structure can be improved. Please open an issue before doing so.
+
+Opening a new category is fine, as long as there isn't another category that could serve the same purpose.
+
+## Other contributions
+
+Contributions not related to adding resources are also welcome, but please open an issue explaining the changes you have in mind before making a pull request.
+
 ## Code formatting and linting
 
 This project relies on [Prettier](https://prettier.io/) and [ESLint](https://eslint.org/) for code formatting and error/standards checking, so please ensure you have both installed globally or run `npm install` in order to install them in the project directory.
 
 ## Need assistance?
 
-The resources list is created in JavaScript, and if you're unable to make a contribution for this or any other reason, feel free to open an issue explaininig your situation, so another developer can help you getting your resource in the lists.
+The resources lists are created in JavaScript, and if you're unable to make a contribution for this or any other reason, feel free to open an issue explaining your situation, so another developer can help you getting your resource in the lists.
 
 ---
 
