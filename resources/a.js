@@ -6,6 +6,23 @@ const { website, twitter, spotify, npm, linkedin, facebook, applePodcasts } = li
 
 module.exports = [
     {
+        name: 'A11Y Style Guide',
+        description: 'Style guide and pattern library promoting accessible components and WCAG compliance criteria.',
+        url: 'https://a11y-style-guide.com/style-guide/',
+        icon: 'https://a11y-style-guide.com/favicons/favicon-96x96.png',
+    },
+    {
+        name: 'A11ygator',
+        url: 'https://a11ygator.chialab.io/',
+        icon: 'https://a11ygator.chialab.io/favicon.png',
+    },
+    {
+        name: 'A11yWeekly',
+        description: 'A weekly dose of web accessibility to help you bring it into your every day work.',
+        url: 'https://a11yweekly.com/',
+        icon: 'https://a11yweekly.com/favicon.ico',
+    },
+    {
         name: 'Accessibility Engineer',
         url: 'https://a11yengineer.com/',
         icon: 'https://a11yengineer.com/assets/images/favicons/favicon-32x32.png',

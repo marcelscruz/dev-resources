@@ -1,6 +1,14 @@
+const { toolsAndUtilities } = require('../constants/categories')
+const categories = require('../constants/categories')
+const links = require('../constants/links')
+
+const { assets, infrastructure, programming } = categories
+const { website, twitter, spotify, npm, linkedin, facebook, applePodcasts } = links
+
 module.exports = [
     {
         name: '1001 Fonts',
+        categories: [assets.fonts],
         description:
             '24,262 free fonts in 13,112 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux.',
         url: 'https://www.1001fonts.com/',
@@ -8,6 +16,7 @@ module.exports = [
     },
     {
         name: '18F Accessibility Guide',
+        categories: [toolsAndUtilities.accessibility],
         description: 'A simple checklist for determining if your site is accessible.',
         url: 'https://accessibility.18f.gov/checklist/',
         icon: 'https://accessibility.18f.gov/checklist/favicon.ico',
@@ -25,22 +34,5 @@ module.exports = [
         keywords: ['crowdsource', 'graphic design', 'design'],
         url: 'https://99designs.com/',
         icon: 'https://99designs.com/touch-icon-ipad.png',
-    },
-    {
-        name: 'A11Y Style Guide',
-        description: 'Style guide and pattern library promoting accessible components and WCAG compliance criteria.',
-        url: 'https://a11y-style-guide.com/style-guide/',
-        icon: 'https://a11y-style-guide.com/favicons/favicon-96x96.png',
-    },
-    {
-        name: 'A11ygator',
-        url: 'https://a11ygator.chialab.io/',
-        icon: 'https://a11ygator.chialab.io/favicon.png',
-    },
-    {
-        name: 'A11yWeekly',
-        description: 'A weekly dose of web accessibility to help you bring it into your every day work.',
-        url: 'https://a11yweekly.com/',
-        icon: 'https://a11yweekly.com/favicon.ico',
     },
 ]
