@@ -45,7 +45,7 @@ Observe that:
 
 ### Choosing the category
 
-Renaming a category or changing the tree structure should be avoided, as it can lead to inconsistent data being delivered through the public API, although it is allowed if the current structure can be improved. Please open an issue before doing so.
+Renaming a category or changing the tree structure should be avoided, as it can lead to inconsistent data being delivered through our public API, although it is allowed if the current structure can be improved. Please open an issue before doing so.
 
 Opening a new category is fine, as long as there isn't another category that could serve the same purpose.
 
@@ -59,7 +59,7 @@ This project relies on [Prettier](https://prettier.io/) and [ESLint](https://esl
 
 ## Updating README and DB
 
-This repository uses a GitHub action to automatically update `README.md` and `db` (which serves the API), so no action is required from you.
+This repository uses a GitHub action to automatically update `README.md` and `db` (which serves our API), so no action is required from you.
 
 ## Need assistance?
 
