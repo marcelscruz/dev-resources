@@ -1,83 +1,13 @@
 module.exports = {
-    "infrastructure-hosting": [
+    "assets-fonts": [
         {
             "name": "1001 Fonts",
+            "categories": [
+                "Assets/Fonts"
+            ],
             "description": "24,262 free fonts in 13,112 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux.",
-            "links": {
-                "Website": "https://1forge.com/forex-data-api/api-documentation",
-                "LinkedIn": "https://test.com",
-                "Facebook": "https://test.com",
-                "Apple Podcasts": "https://test.com"
-            },
-            "icon": "https://themes.static.1001fonts.net/netefx/img/1001fonts-avatar-32x32.png",
-            "image": "https://txt.static.1001fonts.net/og/wraa/otf/lovey-dovey.regular.png",
-            "categories": [
-                "Infrastructure/Hosting"
-            ]
-        },
-        {
-            "name": "18F Accessibility Guide",
-            "description": "A simple checklist for determining if your site is accessible.",
-            "links": {
-                "Website": "https://1forge.com/forex-data-api/api-documentation",
-                "npm": "https://test.com"
-            },
-            "icon": "https://accessibility.18f.gov/checklist/favicon.ico",
-            "categories": [
-                "Infrastructure/Hosting"
-            ]
-        },
-        {
-            "name": "1Forge",
-            "description": "Documentation for real-time Forex quotes and Cryptocurrency quotes. 1Forge is a live Forex trading API and currency directory, offering live currency quotes.",
-            "keywords": [
-                "forex quotes",
-                "live forex quotes",
-                "cryptocurrency quotes",
-                "forex trading quotes",
-                "forex directory quotes",
-                "real time forex quotes",
-                "forex api python",
-                "quotes on cryptocurrency",
-                "quotes about forex",
-                "forex java api",
-                "forex market quotes",
-                "forex trading api python",
-                "cryptocurrency real time quotes",
-                "famous cryptocurrency quotes",
-                "cryptocurrency market quotes",
-                "cryptocurrency streaming quotes",
-                "cryptocurrency quotes live",
-                "real time cryptocurrency quotes",
-                "current forex quotes",
-                "pre market forex quotes",
-                "best forex trader quotes",
-                "forex premarket quotes",
-                "currency forward quotes",
-                "quotes for forex traders",
-                "forex live quotes free",
-                "forex broker python api",
-                "jforex api documentation"
-            ],
-            "icon": "https://1forge.com/forex-data-api/favicon.ico",
-            "categories": [
-                "Infrastructure/Hosting"
-            ],
-            "links": {
-                "Website": "https://1forge.com/forex-data-api/api-documentation",
-                "Spotify": "https://test.com"
-            }
-        },
-        {
-            "name": "B Icons and Hosting",
-            "links": {
-                "Website": "https://1forge.com/forex-data-api/api-documentation",
-                "npm": "https://test.com"
-            },
-            "categories": [
-                "Assets/Icons",
-                "Infrastructure/Hosting"
-            ]
+            "url": "https://www.1001fonts.com/",
+            "icon": "https://themes.static.1001fonts.net/netefx/img/1001fonts-avatar-32x32.png"
         }
     ],
     "tools-utilities-public-apis": [
@@ -1808,10 +1738,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -1822,10 +1752,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -9126,85 +9056,15 @@ module.exports = {
             "apiCategory": "Food & Drink"
         }
     ],
-    "assets-icons": [
+    "tools-utilities-accessibility": [
         {
-            "name": "B Icons and Hosting",
-            "links": {
-                "Website": "https://1forge.com/forex-data-api/api-documentation",
-                "npm": "https://test.com"
-            },
+            "name": "18F Accessibility Guide",
             "categories": [
-                "Assets/Icons",
-                "Infrastructure/Hosting"
-            ]
-        },
-        {
-            "name": "B Icons, Fonts and React",
-            "links": {
-                "Website": "https://1forge.com/forex-data-api/api-documentation",
-                "npm": "https://test.com"
-            },
-            "categories": [
-                "Assets/Icons",
-                "Assets/Fonts",
-                "Programming/JavaScript/React"
-            ]
-        }
-    ],
-    "assets-fonts": [
-        {
-            "name": "B Icons, Fonts and React",
-            "links": {
-                "Website": "https://1forge.com/forex-data-api/api-documentation",
-                "npm": "https://test.com"
-            },
-            "categories": [
-                "Assets/Icons",
-                "Assets/Fonts",
-                "Programming/JavaScript/React"
-            ]
-        }
-    ],
-    "programming-javascript-react": [
-        {
-            "name": "B Icons, Fonts and React",
-            "links": {
-                "Website": "https://1forge.com/forex-data-api/api-documentation",
-                "npm": "https://test.com"
-            },
-            "categories": [
-                "Assets/Icons",
-                "Assets/Fonts",
-                "Programming/JavaScript/React"
-            ]
-        }
-    ],
-    "programming-learn": [
-        {
-            "name": "Indie Hackers",
-            "description": "Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.",
-            "categories": [
-                "Programming/Learn",
-                "Programming/Code Challenges"
+                "Tools & Utilities/Accessibility"
             ],
-            "links": {
-                "Website": "https://www.indiehackers.com/",
-                "Twitter": "https://twitter.com/indiehackers"
-            }
-        }
-    ],
-    "programming-code-challenges": [
-        {
-            "name": "Indie Hackers",
-            "description": "Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.",
-            "categories": [
-                "Programming/Learn",
-                "Programming/Code Challenges"
-            ],
-            "links": {
-                "Website": "https://www.indiehackers.com/",
-                "Twitter": "https://twitter.com/indiehackers"
-            }
+            "description": "A simple checklist for determining if your site is accessible.",
+            "url": "https://accessibility.18f.gov/checklist/",
+            "icon": "https://accessibility.18f.gov/checklist/favicon.ico"
         }
     ]
 }

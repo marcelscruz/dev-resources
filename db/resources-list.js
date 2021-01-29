@@ -1,6 +1,9 @@
 module.exports = [
     {
         "name": "1001 Fonts",
+        "categories": [
+            "Assets/Fonts"
+        ],
         "description": "24,262 free fonts in 13,112 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux.",
         "url": "https://www.1001fonts.com/",
         "icon": "https://themes.static.1001fonts.net/netefx/img/1001fonts-avatar-32x32.png"
@@ -21,6 +24,9 @@ module.exports = [
     },
     {
         "name": "18F Accessibility Guide",
+        "categories": [
+            "Tools & Utilities/Accessibility"
+        ],
         "description": "A simple checklist for determining if your site is accessible.",
         "url": "https://accessibility.18f.gov/checklist/",
         "icon": "https://accessibility.18f.gov/checklist/favicon.ico"
