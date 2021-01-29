@@ -43,7 +43,11 @@ Observe that:
     3. open the result image in a new tab by right clicking followed by "Open in new tab" or dragging it to the browser's tab bar
     4. use the new tab's URL
 
-### Choosing the category
+## Editing a resource
+
+If you find that an existing resource could benefit from some editing, feel free to make modifications.
+
+## Choosing the category
 
 Renaming a category or changing the tree structure should happen as infrequently as possible, although it is allowed if the current structure can be improved.
 
