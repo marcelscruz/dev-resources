@@ -57,6 +57,10 @@ Contributions not related to adding resources are also welcome, but please open 
 
 This project relies on [Prettier](https://prettier.io/) and [ESLint](https://eslint.org/) for code formatting and error/standards checking, so please ensure you have both installed globally or run `npm install` in order to install them in the project directory.
 
+## Updating README and DB
+
+This repository uses a GitHub action to automatically update `README.md` and `db` (which serves the API), so no action is required from you.
+
 ## Need assistance?
 
 The resources lists are created in JavaScript, and if you're unable to make a contribution for this or any other reason, feel free to open an issue explaining your situation, so another developer can help you getting your resource in the lists.
