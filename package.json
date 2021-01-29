@@ -1,5 +1,5 @@
 {
-    "name": "dev-resources-api",
+    "name": "dev-resources",
     "author": "Marcel Cruz",
     "version": "1.0.0",
     "description": "The API for the resources listed on Dev Resources.",
@@ -17,11 +17,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/marcelscruz/dev-resources-api.git"
+        "url": "git+https://github.com/marcelscruz/dev-resources.git"
     },
     "license": "ISC",
-    "homepage": "https://github.com/marcelscruz/dev-resources-api#readme",
+    "homepage": "https://github.com/marcelscruz/dev-resources#readme",
     "bugs": {
-        "url": "https://github.com/marcelscruz/dev-resources-api/issues"
+        "url": "https://github.com/marcelscruz/dev-resources/issues"
     }
 }
