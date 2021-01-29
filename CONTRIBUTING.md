@@ -45,7 +45,7 @@ Observe that:
 
 ### Choosing the category
 
-Renaming a category or changing the tree structure should be avoided, as it can lead to inconsistent data being delivered through our public API, although it is allowed if the current structure can be improved. Please open an issue before doing so.
+Renaming a category or changing the tree structure should happen as infrequently as possible, although it is allowed if the current structure can be improved.
 
 Opening a new category is fine, as long as there isn't another category that could serve the same purpose.
 
