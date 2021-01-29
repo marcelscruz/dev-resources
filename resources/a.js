@@ -6,77 +6,170 @@ const { website, twitter, spotify, npm, linkedin, facebook, applePodcasts } = li
 
 module.exports = [
     {
-        name: 'Indie Hackers',
-        description:
-            'Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.',
-        categories: [programming.learn, programming.codeChallenges],
-        links: {
-            [website]: 'https://www.indiehackers.com/',
-            [twitter]: 'https://twitter.com/indiehackers',
-        },
+        name: 'Accessibility Engineer',
+        url: 'https://a11yengineer.com/',
+        icon: 'https://a11yengineer.com/assets/images/favicons/favicon-32x32.png',
     },
     {
-        name: '1001 Fonts',
-        description:
-            '24,262 free fonts in 13,112 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux.',
-        links: {
-            [website]: 'https://1forge.com/forex-data-api/api-documentation',
-            [linkedin]: 'https://test.com',
-            [facebook]: 'https://test.com',
-            [applePodcasts]: 'https://test.com',
-        },
-        icon: 'https://themes.static.1001fonts.net/netefx/img/1001fonts-avatar-32x32.png',
-        image: 'https://txt.static.1001fonts.net/og/wraa/otf/lovey-dovey.regular.png',
-        categories: [infrastructure.hosting],
+        name: 'Accessibility Resources',
+        description: 'A growing list of accessibility tools and resources.',
+        url: 'https://a11yresources.webflow.io/',
+        icon: 'https://uploads-ssl.webflow.com/5f47cec00744f533cf1b42cb/5f48bf20e685fcb903e66d96_touchicon.png',
     },
     {
-        name: '18F Accessibility Guide',
-        description: 'A simple checklist for determining if your site is accessible.',
-        links: {
-            [website]: 'https://1forge.com/forex-data-api/api-documentation',
-            [npm]: 'https://test.com',
-        },
-        icon: 'https://accessibility.18f.gov/checklist/favicon.ico',
-        categories: [infrastructure.hosting],
+        name: 'accessibilityjs',
+        description:
+            'Client side accessibility error scanner. Contribute to github/accessibilityjs development by creating an account on GitHub.',
+        url: 'https://github.com/github/accessibilityjs',
+        icon: 'https://github.githubassets.com/favicons/favicon-dark.svg',
     },
     {
-        name: '1Forge',
+        name: 'Accessible Color Generator',
         description:
-            'Documentation for real-time Forex quotes and Cryptocurrency quotes. 1Forge is a live Forex trading API and currency directory, offering live currency quotes.',
+            'A tool for creating color variations on a base color to meet WCAG AA or AAA color contrast ratio guidelines.',
+        url: 'https://learnui.design/tools/accessible-color-generator.html',
+        icon: 'https://learnui.design/tools/favicon.ico',
+    },
+    {
+        name: 'AChecker',
+        description:
+            'AChecker is a Web accessibility evalution tool designed to help Web content developers and Web application developers ensure their Web content is accessible to everyone regardless to the technology they may be using, or their abilities or disabilities.',
         keywords: [
-            'forex quotes',
-            'live forex quotes',
-            'cryptocurrency quotes',
-            'forex trading quotes',
-            'forex directory quotes',
-            'real time forex quotes',
-            'forex api python',
-            'quotes on cryptocurrency',
-            'quotes about forex',
-            'forex java api',
-            'forex market quotes',
-            'forex trading api python',
-            'cryptocurrency real time quotes',
-            'famous cryptocurrency quotes',
-            'cryptocurrency market quotes',
-            'cryptocurrency streaming quotes',
-            'cryptocurrency quotes live',
-            'real time cryptocurrency quotes',
-            'current forex quotes',
-            'pre market forex quotes',
-            'best forex trader quotes',
-            'forex premarket quotes',
-            'currency forward quotes',
-            'quotes for forex traders',
-            'forex live quotes free',
-            'forex broker python api',
-            'jforex api documentation',
+            'achecker',
+            'free',
+            'open source',
+            'accessibility checker',
+            'accessibility reviewer',
+            'accessibility evaluator',
+            'accessibility evaluation',
+            'WCAG evaluation',
+            '508 evaluation',
+            'BITV evaluation',
+            'evaluate accessibility',
+            'test accessibility',
+            'review accessibility',
+            'ATRC',
+            'WCAG 2',
+            'STANCA',
+            'BITV',
+            'Section 508.',
         ],
-        icon: 'https://1forge.com/forex-data-api/favicon.ico',
-        categories: [infrastructure.hosting],
-        links: {
-            [website]: 'https://1forge.com/forex-data-api/api-documentation',
-            [spotify]: 'https://test.com',
-        },
+        url: 'https://achecker.ca/checker/index.php',
+        icon: 'https://achecker.ca/images/favicon.ico',
+    },
+    {
+        name: 'Adobe Color',
+        description:
+            'Create color palettes with the color wheel or image, browse thousands of color combinations from the Adobe Color community.',
+        url: 'https://color.adobe.com/create/color-wheel',
+        icon: 'https://color.adobe.com/create/favicon.ico',
+    },
+    {
+        name: 'Adobe XD',
+        description:
+            'Adobe XD is a fast & powerful UI/UX design solution for websites, apps & more. Design, wireframe, animate, prototype, collaborate & share  — all in one place.',
+        url: 'https://www.adobe.com/products/xd.html',
+        icon: 'https://www.adobe.com/content/dam/cc/Adobe_favicon.ico',
+    },
+    {
+        name: 'Adrian Twarog',
+        description:
+            "I'm Adrian from Australia, a designer and developer who makes websites and apps using platforms like React Native. I'm hoping to share some of the things I've learnt over the years about my career and hobbies for coding, user interface and experience!\n\nSome of the things we will cover will include:\n- Development for React, React Native, Javascript, HTML, CSS, etc\n- Small changes to improve UI & UX, like the use of colour, positioning and size\n- Large changes like websites or apps, like entire re-designs\n- Techniques on creating style-guides\n- Reviews of existing businesses online presence and tips on improving them\n\n#coding #programming #ui #ux #webdevelopment #development #react #reactnative #design #userexperience #userinterface.",
+        keywords: [
+            'HTML CSS JS UI UX WordPress "React Native" "User Interface Design" Website JavaScript "Graphics design"',
+        ],
+        url: 'https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ',
+        icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
+    },
+    {
+        name: 'Ahrefs',
+        description:
+            "You don't have to be an SEO pro to rank higher and get more traffic. Join Ahrefs – we're a powerful but easy to learn SEO toolset with a passionate community.",
+        url: 'https://ahrefs.com/',
+        icon: 'https://static.ahrefs.com/favicon-32x32.png?v=2',
+    },
+    {
+        name: 'Airtable',
+        description:
+            'Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.',
+        url: 'https://airtable.com/',
+        icon: 'https://airtable.com/images/favicon/baymax/favicon-32x32.png',
+    },
+    {
+        name: 'ally.js',
+        url: 'https://allyjs.io/index.html',
+        icon: 'https://allyjs.io/favicon.ico',
+    },
+    {
+        name: 'AngelList',
+        description:
+            'Apply privately to 130,000+ remote jobs and startup jobs near you with one application. See salary and equity upfront.',
+        url: 'https://angel.co/',
+        icon: 'https://angel.co/images/icons/iOS/UpdatedFavicon_72x72.png',
+    },
+    {
+        name: 'Apigee',
+        description:
+            'Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.',
+        url: 'https://cloud.google.com/apigee',
+        icon:
+            'https://www.gstatic.com/devrel-devsite/prod/vbd4700e58d826f0eab371eadc20e0e343567df356800794a790eebf2ac059db2/cloud/images/favicons/onecloud/super_cloud.png',
+    },
+    {
+        name: 'AppCode',
+        description:
+            'An intelligent IDE for iOS/macOS development focused on code quality, efficient code navigation, smart code completion, on-the-fly code analysis with quick-fixes and superior code refactorings.',
+        url: 'https://www.jetbrains.com/objc/',
+        icon: 'https://www.jetbrains.com/favicon-32x32.png',
+    },
+    {
+        name: 'AppMockUp',
+        description:
+            "Use AppMockUp, the world's most powerful screenshot builder to create the most compelling screenshots for your app.",
+        url: 'https://app-mockup.com/',
+        icon: 'https://app-mockup.com/icons/icon-96x96.png?v=59619132456a4be05090b0bf15d7fa12',
+    },
+    {
+        name: 'Atom',
+        description:
+            'At GitHub, we’re building the text editor we’ve always wanted: hackable to the core, but approachable on the first day without ever touching a config file. We can’t wait to see what you build with it.',
+        url: 'https://atom.io/',
+        icon: 'https://atom.io/favicon.ico',
+    },
+    {
+        name: 'Authentic Jobs',
+        url: 'https://authenticjobs.com/',
+        icon: 'https://authenticjobs.com/wp-content/uploads/2020/04/cropped-aj-site-favicon-32x32.png',
+    },
+    {
+        name: 'Awesome a11y',
+        description:
+            ':wheelchair: A curate list about A11Y. Contribute to brunopulis/awesome-a11y development by creating an account on GitHub.',
+        url: 'https://github.com/brunopulis/awesome-a11y',
+        icon: 'https://github.githubassets.com/favicons/favicon-dark.svg',
+    },
+    {
+        name: 'AWS',
+        description:
+            'Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use.',
+        url: 'https://aws.amazon.com/',
+        icon: 'https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png',
+    },
+    {
+        name: 'Awwwards',
+        description:
+            'Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.',
+        keywords: ['Website Awards', 'Web Design Inspiration', 'Webdesign Trends'],
+        url: 'https://www.awwwards.com/',
+        icon: 'https://www.awwwards.com/apple-touch-icon.png',
+    },
+    {
+        name: 'Azure',
+        description:
+            'Invent with purpose, realise cost savings and make your organisation more efficient with Microsoft Azure’s open and flexible cloud computing platform.',
+        keywords: ['Azure', 'Windows Azure', 'Cloud Service', 'Cloud Computing Companies'],
+        url: 'https://azure.microsoft.com/',
+        icon:
+            'https://azurecomcdn.azureedge.net/cvt-1e062bfe62b371303d7ba3612723f5e334cd5f56fd4e3ea4c0f6e8138bf366b5/images/icon/apple-touch/72x72.png',
     },
 ]
