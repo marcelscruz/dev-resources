@@ -20,7 +20,7 @@ function createAnchor({ name, id }) {
     }
 }
 
-function createLinks(links) {
+function createLinks(links = {}) {
     return Object.entries(links)
         .sort((a, b) => {
             const nameA = a[0].toLowerCase()
