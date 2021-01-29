@@ -14,7 +14,9 @@ module.exports = function (metadata) {
     const result = []
 
     for (const item of metadata) {
-        for (const category of item.categories) {
+        const categories = item.categories || []
+
+        for (const category of categories) {
             const parents = category.split('/').reverse()
 
             const ids = []
@@ -35,7 +37,11 @@ module.exports = function (metadata) {
                 }
 
                 if (!foundParent) {
-                    const data = metadata.filter((item) => item.categories.includes(category))
+                    const data = metadata.filter((item) => {
+                        const innerCategories = item.categories || []
+
+                        return innerCategories.includes(category)
+                    })
 
                     const newChild = { name: parent, id: ids.join('-'), data, depth: i, children: [] }
                     children.push(newChild)
