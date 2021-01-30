@@ -2,9 +2,9 @@
 
  The list and public API of the resources that power [Dev Resources](https://devresourc.es).
 
- For information on contributing, please see the [contributing guide](CONTRIBUTING.md).
+ For information on contributing, please see the [contributing guide](docs/CONTRIBUTING.md).
 
- For information on using the public API, please see the [API usage guide](API_USAGE.md).
+ For information on using the public API, please see the [API usage guide](docs/API_USAGE.md).
 
  ## Index
 
