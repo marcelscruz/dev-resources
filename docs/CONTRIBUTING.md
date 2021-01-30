@@ -5,6 +5,7 @@ Everyone is encouraged to collaborate and add new resources to the list, but ple
 -   the resource should align with the purpose of the project
 -   the resource isn't a duplicate; a text search on the README file should be enough to find this answer
 -   the resources lists are written in JavaScript; if you need assistance on this matter, please open an issue with the resource's information
+-   make sure to check all items listed on the [pull request template](PULL_REQUEST_TEMPLATE.md) before submitting your contribution
 
 ## Adding a resource
 
