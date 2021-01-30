@@ -8,9 +8,10 @@ const title = '# Dev Resources\n\n'
 
 const description = 'The list and public API of the resources that power [Dev Resources](https://devresourc.es).\n\n'
 
-const contributionGuide = 'For information on contributing, please see the [contributing guide](CONTRIBUTING.md).\n\n'
+const contributionGuide =
+    'For information on contributing, please see the [contributing guide](docs/CONTRIBUTING.md).\n\n'
 
-const usageGuide = 'For information on using the public API, please see the [API usage guide](API_USAGE.md).\n\n'
+const usageGuide = 'For information on using the public API, please see the [API usage guide](docs/API_USAGE.md).\n\n'
 
 async function updateReadme() {
     try {
