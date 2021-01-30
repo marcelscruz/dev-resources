@@ -1,11 +1,15 @@
+const { readingAndWriting, programming } = require('../constants/categories')
+
 module.exports = [
     {
         name: 'XDA-Developers',
+        categories: [readingAndWriting.platforms],
         url: 'https://www.xda-developers.com/',
         icon: 'https://www.xda-developers.com/favicon-32x32.png',
     },
     {
         name: 'Xray',
+        categories: [programming.testing],
         description:
             'The #1 Manual & Automated Testing App for Jira. Plan, Execute and Track your Quality Assurance with Requirements Traceability.',
         url: 'https://www.getxray.app/',
@@ -13,6 +17,7 @@ module.exports = [
     },
     {
         name: 'XServer',
+        categories: [programming.databases],
         description: 'XServer - JSON-based backend for Mobile apps, Websites and Unity games.',
         keywords: [
             'iOS',
@@ -36,6 +41,7 @@ module.exports = [
     },
     {
         name: 'XState Guide',
+        categories: [programming.codeSnippets],
         description: 'Minimal code examples of XState concepts.',
         url: 'https://bradwoods.io/guides/xstate',
         icon: 'https://bradwoods.io/icons-ac8e8fb7acba0bf710955dec094dc16c/apple-touch-icon-76x76.png',

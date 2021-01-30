@@ -1,6 +1,9 @@
+const { programming, toolsAndUtilities, uiDesign, jobs, assets } = require('../constants/categories')
+
 module.exports = [
     {
         name: 'EASEOUT',
+        categories: [programming.learn],
         description:
             'Coding tutorials about CSS, HTML, JavaScript, and articles about design creativity & modern web development technology.',
         url: 'https://www.easeout.co/',
@@ -8,6 +11,7 @@ module.exports = [
     },
     {
         name: 'Eclipse',
+        categories: [toolsAndUtilities.editorsAndExtensions],
         description:
             'The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 375 open source projects, including runtimes, tools and frameworks.',
         keywords: [
@@ -32,6 +36,7 @@ module.exports = [
     },
     {
         name: 'ecomm.design',
+        categories: [uiDesign.inspiration],
         description:
             'Browse the most complete and up-to-date gallery for fantastic ecommerce websites design inspiration and the best ecommerce solutions and marketing tools.',
         url: 'https://ecomm.design/',
@@ -39,6 +44,7 @@ module.exports = [
     },
     {
         name: 'Edabit',
+        categories: [programming.codeChallenges],
         description:
             "Learn to code with fun, bite-sized challenges. Gain XP, unlock achievements and level up. It's like Duolingo for learning to code.",
         keywords: ['learn to code', 'learn programming', 'how to code'],
@@ -47,6 +53,7 @@ module.exports = [
     },
     {
         name: 'Edge',
+        categories: [toolsAndUtilities.browsersAndExtensions],
         description:
             "See what's new on the latest version of the Microsoft Edge browser. Explore features, rewards, and more before you download the new browser today.",
         keywords: [
@@ -62,16 +69,19 @@ module.exports = [
     },
     {
         name: 'Edge Canary',
+        categories: [toolsAndUtilities.browsersAndExtensions],
         url: 'https://www.microsoftedgeinsider.com/en-us/welcome?channel=canary',
         icon: 'https://edgetipscdn.microsoft.com/insider-site/images/favicon.fbd89822.png',
     },
     {
         name: 'Edge Dev',
+        categories: [toolsAndUtilities.browsersAndExtensions],
         url: 'https://www.microsoftedgeinsider.com/en-us/welcome?channel=dev',
         icon: 'https://edgetipscdn.microsoft.com/insider-site/images/favicon.fbd89822.png',
     },
     {
         name: 'Eleventy High Performance Blog',
+        categories: [programming.templates],
         description:
             "I'm excited to announce the beta-release of eleventy-high-performance-blog–a high-performance blog template for 11ty based on this very...",
         url: 'https://www.industrialempathy.com/posts/eleventy-high-performance-blog/',
@@ -79,16 +89,19 @@ module.exports = [
     },
     {
         name: 'Eloquent JavaScript',
+        categories: [programming.books],
         url: 'https://eloquentjavascript.net/',
         icon: 'https://eloquentjavascript.net/favicon.ico',
     },
     {
         name: 'Emacs',
+        categories: [toolsAndUtilities.editorsAndExtensions],
         url: 'https://www.gnu.org/software/emacs/',
         icon: 'https://www.gnu.org/software/emacs/favicon.png',
     },
     {
         name: 'EMBERWORK',
+        categories: [jobs.boards],
         description:
             "Whether you're actively looking for a new job or just always open to new opportunities you'll always have access to the best Ember.js jobs- here at EMBERWORK.",
         url: 'https://emberwork.com/',
@@ -96,37 +109,34 @@ module.exports = [
     },
     {
         name: 'Enhance UI',
+        categories: [uiDesign.learn],
         description: 'Learn Design for Developers wanting to know UI, UX and more.',
         url: 'https://www.enhanceui.com/',
         icon: 'https://uploads-ssl.webflow.com/5f718e7b0d482ef36d2c8417/5f79490f65ebcb7fdfdd3826_favicon-256.png',
     },
     {
         name: 'Envato Elements',
-        description:
-            'Find stock video footage for your next video project. Stunning HD and 4K video clips from professional videographers handpicked by Envato Elements.',
-        url: 'https://elements.envato.com/stock-video',
+        categories: [assets.images, assets.videos],
+        description: 'Find stock video footages and photos for your next video project.',
+        url: 'https://elements.envato.com/',
         icon: 'https://elements.envato.com/favicon.ico',
     },
     {
-        name: 'Envato Elements',
-        description:
-            'Royalty free stock photos and stock images for a single monthly fee. Browse our collections to find the perfect stock photo for you. #probablysomefilters.',
-        url: 'https://elements.envato.com/photos/',
-        icon: 'https://elements.envato.com/photos/favicon.ico',
-    },
-    {
         name: 'Epic React',
+        categories: [programming.learn],
         description: 'Strap in and take your React applications to the next level.',
         url: 'https://epicreact.dev/',
         icon: 'https://epicreact.dev/icons/icon-96x96.png?v=4fc004c2d47bff97350bf9ba653e0bdd',
     },
     {
         name: 'Error 404 Illustrations',
+        categories: [assets.illustrations],
         url: 'https://error404.fun/',
         icon: 'https://error404.fun/img/favicon-32x32.png',
     },
     {
         name: 'Exercism',
+        categories: [programming.codeChallenges],
         description:
             'Code Practice and Mentorship for Everyone. Level up your programming skills with 1,879 exercises across 38 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.',
         url: 'https://exercism.io/',

@@ -1,9 +1,4 @@
-const { toolsAndUtilities } = require('../constants/categories')
-const categories = require('../constants/categories')
-const links = require('../constants/links')
-
-const { assets, infrastructure, programming } = categories
-const { website, twitter, spotify, npm, linkedin, facebook, applePodcasts } = links
+const { assets, programming, toolsAndUtilities, jobs } = require('../constants/categories')
 
 module.exports = [
     {
@@ -23,12 +18,14 @@ module.exports = [
     },
     {
         name: '30 seconds of code',
+        categories: [programming.codeSnippets],
         description: 'Browse 1078 short code snippets for all your development needs on 30 seconds of code.',
         url: 'https://www.30secondsofcode.org/',
         icon: 'https://www.30secondsofcode.org/icons/icon-96x96.png?v=bd273ecf29b2666f8d7669cf855707df',
     },
     {
         name: '99designs',
+        categories: [jobs.freelancing],
         description:
             'The global creative platform for custom graphic design: logos, websites and more. Hire a talented designer or start a design contest. 500k+ happy customers have used 99designs to grow their business.',
         keywords: ['crowdsource', 'graphic design', 'design'],

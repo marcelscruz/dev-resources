@@ -1,6 +1,9 @@
+const { toolsAndUtilities, assets, uiDesign, infrastructure, programming, jobs } = require('../constants/categories')
+
 module.exports = [
     {
         name: 'Fathom',
+        categories: [toolsAndUtilities.analytics],
         description:
             'Fathom Analytics is simple, GDPR + CCPA + PECR compliant website analytics tool, no cookie notice required. No tracking or storing personal data of your users.',
         url: 'https://usefathom.com/',
@@ -8,6 +11,7 @@ module.exports = [
     },
     {
         name: 'Feather',
+        categories: [assets.icons],
         description:
             'Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.',
         url: 'https://feathericons.com/',
@@ -15,6 +19,7 @@ module.exports = [
     },
     {
         name: 'Figma',
+        categories: [uiDesign.prototyping],
         description:
             'Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.',
         keywords: [
@@ -36,6 +41,7 @@ module.exports = [
     },
     {
         name: 'FigmaCrush',
+        categories: [uiDesign.inspiration],
         description:
             'FigmaCrush is a curated collection of Figma resources: UI kits, icons, website templates and all sorts of freebies created and shared by the Figma community.',
         url: 'https://www.figmacrush.com/',
@@ -43,6 +49,7 @@ module.exports = [
     },
     {
         name: 'Firebase',
+        categories: [infrastructure.hosting, programming.databases],
         description:
             'Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.',
         url: 'https://firebase.google.com/',
@@ -50,21 +57,15 @@ module.exports = [
             'https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png',
     },
     {
-        name: 'Firebase',
-        description:
-            'Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.',
-        url: 'https://firebase.google.com/',
-        icon:
-            'https://www.gstatic.com/devrel-devsite/prod/veaa02889f0c07424beaa31d9bac1e874b6464e7ed7987fde4c94a59ace9487fa/firebase/images/touchicon-180.png',
-    },
-    {
         name: 'Firefox',
+        categories: [toolsAndUtilities.browsersAndExtensions],
         description: 'Faster page loading, less memory usage and packed with features, the new Firefox is here.',
         url: 'https://www.mozilla.org/en-US/firefox/new/',
         icon: 'https://www.mozilla.org/media/img/favicons/firefox/browser/favicon-196x196.59e3822720be.png',
     },
     {
         name: 'Firefox Developer',
+        categories: [toolsAndUtilities.browsersAndExtensions],
         description:
             'Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging.',
         url: 'https://www.mozilla.org/en-US/firefox/developer/',
@@ -72,11 +73,13 @@ module.exports = [
     },
     {
         name: 'Firefox Nightly',
+        categories: [toolsAndUtilities.browsersAndExtensions],
         url: 'https://www.mozilla.org/en-US/firefox/69.0a1/releasenotes/',
         icon: 'https://www.mozilla.org/media/img/favicons/firefox/browser/nightly/favicon-196x196.f6d874cabab4.png',
     },
     {
         name: 'Fiverr',
+        categories: [jobs.freelancing],
         description: 'One marketplace, millions of professional services. Browse. Buy. Done.',
         url: 'https://www.fiverr.com/',
         icon:
@@ -84,12 +87,14 @@ module.exports = [
     },
     {
         name: 'Flaticon',
+        categories: [assets.icons],
         description: 'Download all icons in SVG, PSD, PNG, EPS format or as webfonts.',
         url: 'https://www.flaticon.com',
         icon: 'https://media.flaticon.com/dist/min/img/apple-icon-76x76-precomposed.png',
     },
     {
         name: 'Flexbox Defense',
+        categories: [programming.learn],
         description:
             'Your job is to stop the incoming enemies from getting past\n                   your defenses. Unlike other tower defense games, you must\n                   position your towers using CSS!',
         url: 'http://www.flexboxdefense.com/',
@@ -97,12 +102,14 @@ module.exports = [
     },
     {
         name: 'Flexbox Froggy',
+        categories: [programming.learn],
         description: 'A game for learning CSS flexbox.',
         url: 'http://flexboxfroggy.com/',
         icon: 'http://flexboxfroggy.com/favicon.ico',
     },
     {
         name: 'FlexJobs',
+        categories: [jobs.remoteOnly],
         description:
             'The #1 job site to find hand-screened, remote work from home & flexible jobs since 2007. Find a better way to work in 50+ career categories today!',
         keywords: [
@@ -120,6 +127,7 @@ module.exports = [
     },
     {
         name: 'Fluid UI',
+        categories: [uiDesign.prototyping],
         description:
             'Free lifetime account. Simple to learn, quick to master. Design interactive prototypes for Android, iOS, web and desktop in minutes.',
         url: 'https://www.fluidui.com/',
@@ -127,6 +135,7 @@ module.exports = [
     },
     {
         name: 'Flutter Jobs',
+        categories: [jobs.boards],
         description:
             'A job board dedicated to Flutter, the mobile cross platform SDK. We have jobs in Africa, the\n    Americas, Asia, Europe, Oceania, and remote.',
         url: 'https://flutterjobs.info/',
@@ -134,6 +143,7 @@ module.exports = [
     },
     {
         name: 'Font Awesome',
+        categories: [assets.icons],
         description:
             'The world’s most popular and easiest to use icon set just got an upgrade. More icons. More styles. More Options.',
         keywords: [
@@ -154,6 +164,7 @@ module.exports = [
     },
     {
         name: 'Font Space',
+        categories: [assets.fonts],
         description:
             'Free downloads of legally licensed fonts that are perfect for your design projects. The best place in the universe to search for amazing fonts.',
         url: 'https://www.fontspace.com/',
@@ -161,6 +172,7 @@ module.exports = [
     },
     {
         name: 'Font Squirrel',
+        categories: [assets.fonts],
         description: 'Handpicked free fonts for graphic designers with commercial-use licenses.',
         keywords: [
             'free fonts',
@@ -178,6 +190,7 @@ module.exports = [
     },
     {
         name: 'Fontjoy',
+        categories: [assets.fonts],
         description:
             'Fontjoy helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing.',
         url: 'https://fontjoy.com/',
@@ -185,6 +198,7 @@ module.exports = [
     },
     {
         name: 'FontPair',
+        categories: [assets.fonts],
         description: 'FontPair is a typography tool that inspires the creative community to design better.',
         keywords: [
             'FontPair',
@@ -202,12 +216,14 @@ module.exports = [
     },
     {
         name: 'Fonts In Use',
+        categories: [assets.fonts],
         description: 'A searchable archive of typographic design, indexed by typeface, format, and topic.',
         url: 'https://fontsinuse.com/',
         icon: 'https://assets.fontsinuse.com/images/icons/apple-touch-icon-76x76.png',
     },
     {
         name: 'Fonts2u',
+        categories: [assets.fonts],
         description: 'Fonts2u offers a large collection of free fonts. Download free fonts for Windows and Macintosh.',
         keywords: [
             'free fonts',
@@ -233,12 +249,14 @@ module.exports = [
     },
     {
         name: 'FontSpark',
+        categories: [assets.fonts],
         description: 'Helping designers discover the perfect font for their next design project.',
         url: 'https://fontspark.app/',
         icon: 'https://fontspark.app/favicon.ico',
     },
     {
         name: 'Free Illustrations',
+        categories: [assets.illustrations],
         description:
             'Collection of high-resolution vector or illustrations background images for modern websites and landing pages. Updated every week with new illustrations with different topics. You can contact us to suggest new topics for illustration background images as per your need.',
         url: 'https://freellustrations.com',
@@ -246,33 +264,9 @@ module.exports = [
     },
     {
         name: 'freeCodeCamp',
+        categories: [programming.learn],
         description:
-            'Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.',
-        keywords: [
-            'freeCodeCamp',
-            'programming',
-            'front-end',
-            'programmer',
-            'article',
-            'regular expressions',
-            'Python',
-            'JavaScript',
-            'AWS',
-            'JSON',
-            'HTML',
-            'CSS',
-            'Bootstrap',
-            'React',
-            'Vue',
-            'Webpack',
-        ],
-        url: 'https://www.freecodecamp.org/news/',
-        icon: 'https://www.freecodecamp.org/news/favicon.png',
-    },
-    {
-        name: 'freeCodeCamp',
-        description:
-            'Learn to code at home. Build projects. Earn certifications. Since 2014,\n                 more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech\n                 companies including Google, Apple, Amazon, and Microsoft.',
+            'Learn to code at home. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including Google, Apple, Amazon, and Microsoft.',
         keywords: [
             'javascript',
             'js',
@@ -301,6 +295,7 @@ module.exports = [
     },
     {
         name: 'FreeHTML5',
+        categories: [programming.templates],
         description:
             'Free website templates, free HTML5 templates using Bootstrap framework. High quality free website templates for all.',
         url: 'https://freehtml5.co/',
@@ -308,6 +303,7 @@ module.exports = [
     },
     {
         name: 'Freeicons',
+        categories: [assets.icons],
         description:
             "Freeicons is  a free platform for download vector icons in SVG, PNG, EPS, AI and PSD format. Here You'll Find Wide Selection Of Icons In A Variety Of Different Styles, Sizes, Formats And Themes. All Of These Icon Sets Are Completely Free For Personal and Commercial Use Under Our Iconshock License. Enjoy!",
         keywords: [
@@ -339,6 +335,7 @@ module.exports = [
     },
     {
         name: 'Freelancer',
+        categories: [jobs.freelancing],
         description:
             "Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 48m. Receive quotes in seconds. Post your job online now.",
         url: 'https://www.freelancer.com/',
@@ -346,6 +343,7 @@ module.exports = [
     },
     {
         name: 'FreePhotos.cc',
+        categories: [assets.images],
         description:
             'Find free beautiful stock photos with Creative Commons (CC) licensing. Download royalty free images and use them on your website or print!',
         url: 'https://freephotos.cc/en',
@@ -353,6 +351,7 @@ module.exports = [
     },
     {
         name: 'Front End Happy Hour',
+        categories: [programming.podcasts],
         description:
             'A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development.',
         url: 'https://frontendhappyhour.com/',
@@ -360,17 +359,20 @@ module.exports = [
     },
     {
         name: 'Frontend Focus',
+        categories: [programming.newsletters],
         url: 'https://frontendfoc.us/',
         icon: 'https://frontendfoc.us/favicon.png',
     },
     {
         name: 'Frontend Masters',
+        categories: [programming.learn],
         description: 'Advance your skills with in-depth, modern JavaScript and front-end engineering courses.',
         url: 'https://frontendmasters.com/',
         icon: 'https://frontendmasters.com/favicon-32x32.png',
     },
     {
         name: 'Frontend Mentor',
+        categories: [programming.learn],
         description:
             'Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.',
         url: 'https://www.frontendmentor.io/',
@@ -378,6 +380,7 @@ module.exports = [
     },
     {
         name: 'Frontendor',
+        categories: [programming.templates],
         description:
             'Reusable HTML templates and blocks to help you build beautiful and professional landing pages quickly and easily by COPY-PASTE.',
         url: 'https://frontendor.com/',
@@ -385,6 +388,7 @@ module.exports = [
     },
     {
         name: 'Full Stack Radio',
+        categories: [programming.podcasts],
         description: 'A podcast for developers interested in building great software products. Hosted by Adam Wathan.',
         keywords: ['technology', 'software', 'web', 'development', 'product', 'startup'],
         url: 'https://fullstackradio.com/',
@@ -392,6 +396,7 @@ module.exports = [
     },
     {
         name: 'Fun Fun Function',
+        categories: [programming.youtubeChannels],
         description:
             "I’m Mattias Petter Johansson, mpj for short. I’ve been a full-time programmer for about ten years. Among others, I've worked for Absolut Vodka, Blackberry and Spotify.  \n\nVideos are released on MONDAYS at 08:00 GMT. For the love of 🗿, watch them!\n\n❤️ Support the show on Patreon: https://patreon.com/funfunfunction:\n\n⛱ Pledge $2/month and get access to the Fun Fun Forum where I and other inspiring patrons hang out and talk about everything more or less related to programming.\n\nBecome a SUPER PATRON 🦹‍♀️🦸‍♂️ for $9/month and get access to the Forum AND random LOOT (like stickers and private live streams)\n\nCheck out the sister channel DevTips: https://www.youtube.com/user/DevTipsForDesigners.",
         keywords: [
@@ -402,6 +407,7 @@ module.exports = [
     },
     {
         name: 'FusionCharts',
+        categories: [programming.charts],
         description:
             'JavaScript charts for web and mobile apps. 95+ chart types, 1400+ maps and 20+ business dashboards with pre-built themes for any business use-case. Build fast, responsive and highly customizable data visualizations trusted by over 28,000 customers and 750,000 developers worldwide...',
         url: 'https://www.fusioncharts.com/',

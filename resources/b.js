@@ -1,12 +1,9 @@
-const categories = require('../constants/categories')
-const links = require('../constants/links')
-
-const { assets, infrastructure, programming } = categories
-const { website, npm } = links
+const { toolsAndUtilities, uiDesign, programming, assets, indieHacking } = require('../constants/categories')
 
 module.exports = [
     {
         name: 'Backlink Checker',
+        categories: [toolsAndUtilities.seo],
         description:
             "With the world's biggest index of live backlinks (over 15 trillion), Ahrefs Backlink Checker will show you the most complete backlink profile for any website.",
         url: 'https://ahrefs.com/backlink-checker',
@@ -14,6 +11,7 @@ module.exports = [
     },
     {
         name: 'Balsamiq',
+        categories: [uiDesign.prototyping],
         description:
             'Balsamiq is the company behind Balsamiq Wireframes, the industry standard low-fidelity wireframing tool.',
         url: 'https://balsamiq.com/',
@@ -21,6 +19,7 @@ module.exports = [
     },
     {
         name: 'beampipe',
+        categories: [toolsAndUtilities.analytics],
         description:
             'Beampipe is a simple, privacy-focussed alternative to Google Analytics with a free tier for small sites.',
         url: 'https://beampipe.io/',
@@ -28,6 +27,7 @@ module.exports = [
     },
     {
         name: "Beginner's guide to web security",
+        categories: [toolsAndUtilities.general],
         description:
             'A 100+ page ebook that talks about the basics of web security, various types of web security attacks and how to avoid/fix them.',
         url: 'https://gokul.site/book/',
@@ -35,6 +35,7 @@ module.exports = [
     },
     {
         name: 'Behance',
+        categories: [uiDesign.inspiration],
         description: "Behance is the world's largest creative network for showcasing and discovering creative work.",
         keywords: [
             'online portfolio',
@@ -50,6 +51,7 @@ module.exports = [
     },
     {
         name: 'Ben Awad',
+        categories: [programming.youtubeChannels],
         description:
             "I'm a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding.",
         keywords: ['react graphql typescript'],
@@ -58,6 +60,7 @@ module.exports = [
     },
     {
         name: 'Better Coding Academy',
+        categories: [programming.youtubeChannels],
         description:
             'Learn to code. Get a job. No longwinded lectures, no tantalising tutorials. Fast and efficient, for the impulsive millennial.',
         keywords: ['programming "web development" javascript react node.js'],
@@ -66,6 +69,7 @@ module.exports = [
     },
     {
         name: 'Big Heads',
+        categories: [assets.illustrations],
         description:
             'Combine expressions, clothing, hair styles and colors into billions of different unique characters.',
         url: 'https://bigheads.io/',
@@ -73,6 +77,7 @@ module.exports = [
     },
     {
         name: 'Biteable',
+        categories: [assets.videos],
         description:
             'Make standout videos in a snap with the Biteable video maker. Sparkle with studio-quality animation, footage, and effects. Start now, share in minutes.',
         url: 'https://biteable.com/',
@@ -80,6 +85,7 @@ module.exports = [
     },
     {
         name: 'Black Illustrations',
+        categories: [assets.illustrations],
         description:
             'Black illustrations is a series of FREE digital designs of black people for your next online project. Free for commercial and personal use.',
         url: 'https://www.blackillustrations.com/',
@@ -88,6 +94,7 @@ module.exports = [
     },
     {
         name: 'Blisk',
+        categories: [toolsAndUtilities.browsersAndExtensions],
         description:
             'Download Blisk - a browser for web developers. Blisk - is a developer oriented browser with devices, URL and scroll sync, auto-refresh, screenshots and screen recorder.',
         keywords: [
@@ -107,6 +114,7 @@ module.exports = [
     },
     {
         name: 'Blush',
+        categories: [assets.illustrations],
         description:
             'Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe.',
         url: 'https://blush.design/',
@@ -114,6 +122,7 @@ module.exports = [
     },
     {
         name: 'Bootsnipp',
+        categories: [programming.codeSnippets],
         description:
             'A design element gallery for web designers and web developers. Find snippets using HTML, CSS, Javascript, jQuery, and Bootstrap.',
         url: 'https://bootsnipp.com/',
@@ -121,18 +130,15 @@ module.exports = [
     },
     {
         name: 'Bootstrap',
-        description: 'The most popular HTML, CSS, and JS library in the world.',
+        categories: [programming.uiKitsAndLibraries, assets.icons],
+        description:
+            'Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.',
         url: 'https://getbootstrap.com/',
         icon: 'https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png',
     },
     {
-        name: 'Bootstrap',
-        description: 'Official open source SVG icon library for Bootstrap.',
-        url: 'https://icons.getbootstrap.com/',
-        icon: 'https://icons.getbootstrap.com/assets/img/favicons/favicon-32x32.png',
-    },
-    {
         name: 'BootstrapMade',
+        categories: [programming.templates],
         description:
             'At BootstrapMade, we create beautiful website templates and bootstrap themes using Bootstrap, the most popular HTML, CSS and JavaScript framework.',
         keywords: [
@@ -149,6 +155,7 @@ module.exports = [
     },
     {
         name: 'Bootstrapped',
+        categories: [indieHacking.podcasts],
         description:
             'Listen to 100+ helpful podcast episodes for software bootstrappers. Interviews with experts, open discussions between bootstrappers, and solo episodes, with one person digging deeply into a topic.',
         url: 'https://bootstrapped.fm/',
@@ -156,6 +163,7 @@ module.exports = [
     },
     {
         name: 'BootstrapTaste',
+        categories: [programming.templates],
         description:
             '100+ Best Bootstrap templates and HTML Website Templates collections to build your website or app in 2020.',
         keywords: [
@@ -171,6 +179,7 @@ module.exports = [
     },
     {
         name: 'Boxicons',
+        categories: [assets.icons],
         description:
             'Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.',
         keywords: [
@@ -193,6 +202,7 @@ module.exports = [
     },
     {
         name: 'Brackets',
+        categories: [toolsAndUtilities.editorsAndExtensions],
         description:
             "Brackets is a lightweight, yet powerful, modern text editor. We blend visual tools into the editor so you get the right amount of help when you want it. With new features and extensions released every 3-4 weeks, it's like getting presents all year long.",
         url: 'http://brackets.io/',
@@ -200,6 +210,7 @@ module.exports = [
     },
     {
         name: 'Brave',
+        categories: [toolsAndUtilities.browsersAndExtensions],
         description:
             'The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to enjoy a faster ad-free browsing experience that saves data and battery life by blocking tracking software.',
         url: 'https://brave.com/',
@@ -207,6 +218,7 @@ module.exports = [
     },
     {
         name: 'Browserling',
+        categories: [programming.testing],
         description:
             'Try for free now! Cross browser test your website immediately in all web browsers - Internet Explorer, Edge, Chrome, Safari, Firefox, and Opera.',
         url: 'https://www.browserling.com/',
@@ -214,6 +226,7 @@ module.exports = [
     },
     {
         name: 'BrowserStack',
+        categories: [programming.testing],
         description:
             'Instant access to 2000+ browsers and real iOS and Android devices for cross browser testing. Ship apps and websites that work for everyone, every time. Get Free Trial.',
         url: 'https://www.browserstack.com/',
@@ -222,6 +235,7 @@ module.exports = [
     },
     {
         name: 'Bulma',
+        categories: [programming.uiKitsAndLibraries],
         description:
             "Bulma is a free, open source CSS framework based on Flexbox and built with Sass. It's 100% responsive, fully modular, and available for free.",
         url: 'https://bulma.io/',

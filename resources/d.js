@@ -1,6 +1,9 @@
+const { programming, assets, readingAndWriting, jobs, uiDesign, toolsAndUtilities } = require('../constants/categories')
+
 module.exports = [
     {
         name: 'D3.js',
+        categories: [programming.charts],
         description: 'D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.',
         keywords: ['d3', 'd3.js', 'visualization', 'dom', 'javascript'],
         url: 'https://d3js.org/',
@@ -8,6 +11,7 @@ module.exports = [
     },
     {
         name: 'DaFont',
+        categories: [assets.fonts],
         description:
             'Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.',
         keywords: [
@@ -28,6 +32,7 @@ module.exports = [
     },
     {
         name: 'daily.dev',
+        categories: [readingAndWriting.utilities],
         description:
             'Daily.dev is the easiest way to stay updated on the latest programming news. Get the hottest dev news from the best tech blogs on any topic you can think of. Stay updated daily, and unlock more time to do fun stuff, relax, or just code.',
         url: 'https://daily.dev/',
@@ -36,6 +41,7 @@ module.exports = [
     },
     {
         name: 'DailyRemote',
+        categories: [jobs.remoteOnly],
         description:
             'Find and apply for top remote jobs in Software Development, Design, Support, Sales, Writing, Product, and Others. Start telecommuting & working from home today!',
         url: 'https://dailyremote.com/',
@@ -43,6 +49,7 @@ module.exports = [
     },
     {
         name: 'Dart Cheatsheet Codelab',
+        categories: [programming.docsAndCheatsheets],
         description: "Interactively learn (or relearn) some of Dart's unique features.",
         url: 'https://dart.dev/codelabs/dart-cheatsheet',
         icon:
@@ -50,18 +57,21 @@ module.exports = [
     },
     {
         name: 'Data Viz Color Picker',
+        categories: [uiDesign.colorPalettes],
         description: 'A color palette generator for data visualizations.',
         url: 'https://learnui.design/tools/data-color-picker.html',
         icon: 'https://learnui.design/tools/favicon.ico',
     },
     {
         name: 'DataGrip',
+        categories: [toolsAndUtilities.editorsAndExtensions],
         description: 'A powerful IDE from JetBrains for SQL on macOS, Windows, and Linux.',
         url: 'https://www.jetbrains.com/datagrip/',
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
         name: 'Delesign',
+        categories: [assets.illustrations],
         description:
             "We've created a collection of free illustrations and more. Fully customizable and completely free illustrations that you can use for your business.",
         url: 'https://delesign.com/free-designs/graphics.php',
@@ -69,6 +79,7 @@ module.exports = [
     },
     {
         name: 'DesignCourse',
+        categories: [uiDesign.youtubeChannels],
         description:
             "Https://coursetro.com\n\nNew videos weekly from Monday to Thursday @ 10:30 AM ET!\n\nHi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlus.com, DigitalTutors.com, Pluralsight.com, LinkedIn Learning & Lynda.com.\n\nI teach full stack development! Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more!\n\nInterested in a sponsorship opportunity or review?  Contact me: contact@coursetro.com.",
         keywords: [
@@ -79,6 +90,7 @@ module.exports = [
     },
     {
         name: 'DEV',
+        categories: [readingAndWriting.platforms],
         description:
             'A constructive and inclusive social network for software developers. With you every step of your journey.',
         keywords: ['software development', 'engineering', 'rails', 'javascript', 'ruby'],
@@ -88,6 +100,7 @@ module.exports = [
     },
     {
         name: 'Dev Ed',
+        categories: [programming.youtubeChannels],
         description:
             'Learn web development, web design, 3d modelling, tools like figma and more without getting bored!\n\nThe goes of this channel is to get you to become as creative you can be!\n\nSo if you like to create video games in Unity or develop an application in node.js, stick around and have fun!',
         keywords: ['web development design javascript tutorials'],
@@ -96,6 +109,7 @@ module.exports = [
     },
     {
         name: 'DevDocs',
+        categories: [programming.docsAndCheatsheets],
         description:
             'Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app including HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, and many more.',
         url: 'https://devdocs.io',
@@ -103,12 +117,14 @@ module.exports = [
     },
     {
         name: 'Devhints',
+        categories: [programming.docsAndCheatsheets],
         description: 'A ridiculous collection of web development cheatsheets · One-page guide to.',
         url: 'https://devhints.io/',
         icon: 'https://devhints.io/assets/favicon.png',
     },
     {
         name: 'DevNews',
+        categories: [programming.podcasts],
         description:
             'DevNews is the news show for developers by developers, hosted by Saron Yitbarek, founder of CodeNewbie, and DEV senior engineers Josh Puetz and Vaidehi Joshi. Each season these experienced devs cover the latest in the world of tech, and speak with diverse guests from a variety of backgrounds to dig deep into meaty topics such as security, the pros and cons of outsourcing your authentication, and the latest bugs and hacks.',
         keywords: ['software development', 'engineering', 'rails', 'javascript', 'ruby'],
@@ -118,6 +134,7 @@ module.exports = [
     },
     {
         name: 'DevSamples',
+        categories: [programming.codeSnippets],
         description:
             'DevSamples is a list of code samples for you to copy and paste into your projects as needed. The primary focus is on web development, but there are samples from a variety of languages.',
         url: 'http://www.devsamples.com/',
@@ -125,6 +142,7 @@ module.exports = [
     },
     {
         name: 'DevTips',
+        categories: [programming.youtubeChannels],
         description:
             "DevTips is slowly opening back up! We're excited to start working with a long-time community member, Jay of iEatWebsites, on bringing back top-tier, front-end development content with designers in mind to the subscribers. \n\n--\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nEverything you see and hear are the opinions and preferences of the individual who said them, and no one else's.",
         keywords: ['HTML CSS Javascript "Web Development" Coding Design'],
@@ -133,12 +151,14 @@ module.exports = [
     },
     {
         name: 'Divjoy',
+        categories: [programming.templates],
         description: 'The React codebase generator.',
         url: 'https://divjoy.com/',
         icon: 'https://divjoy.com/static/images/favicon/favicon-32x32.png',
     },
     {
         name: 'Dracula theme',
+        categories: [toolsAndUtilities.general],
         description:
             'Dracula is a color scheme for code editors and terminal emulators such as Vim, Notepad++, iTerm, VSCode, Terminal.app, ZSH, and much more.',
         url: 'https://draculatheme.com/',
@@ -146,6 +166,7 @@ module.exports = [
     },
     {
         name: 'DrawKit',
+        categories: [assets.illustrations],
         description:
             'Free vector SVG illustrations for you to use on your next project, no attribution required! Vector illustrations, packs, icons and more.',
         url: 'https://www.drawkit.io/',
@@ -153,6 +174,7 @@ module.exports = [
     },
     {
         name: 'DreamHost',
+        categories: [toolsAndUtilities.websiteBuilders],
         description:
             "What's better than WordPress? A Website and Page Builder for WordPress. Choose a theme, add content, images and more with ZERO code!",
         url: 'https://www.dreamhost.com/website-builder/',
@@ -161,6 +183,7 @@ module.exports = [
     },
     {
         name: 'Dribbble',
+        categories: [uiDesign.inspiration],
         description:
             'Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.',
         url: 'https://dribbble.com/',
@@ -169,6 +192,7 @@ module.exports = [
     },
     {
         name: 'dygraphs',
+        categories: [programming.charts],
         url: 'https://dygraphs.com/',
         icon: 'https://dygraphs.com/favicon.ico',
     },

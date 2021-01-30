@@ -1,6 +1,17 @@
+const {
+    indieHacking,
+    programming,
+    assets,
+    uiDesign,
+    toolsAndUtilities,
+    readingAndWriting,
+    jobs,
+} = require('../constants/categories')
+
 module.exports = [
     {
         name: 'Mailchimp',
+        categories: [indieHacking.utilities],
         description:
             'Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.',
         url: 'https://mailchimp.com/',
@@ -8,6 +19,7 @@ module.exports = [
     },
     {
         name: 'Majestic',
+        categories: [programming.testing],
         description:
             '⚡ Zero config GUI for Jest. Contribute to Raathigesh/majestic development by creating an account on GitHub.',
         url: 'https://github.com/Raathigesh/majestic',
@@ -15,12 +27,14 @@ module.exports = [
     },
     {
         name: "MAKE: Bootstrapper's Handbook",
+        categories: [indieHacking.books],
         description: 'Learn to bootstrap profitable startups the indie way — $14.99.',
         url: 'https://makebook.io/',
         icon: 'https://makebook.io/favicon-32x32.png?2',
     },
     {
         name: 'ManyPixels',
+        categories: [assets.illustrations],
         description:
             'Each week, discover royalty-free illustrations to power up your projects. Use them in a commercial or non-commercial way.',
         url: 'https://www.manypixels.co/gallery/',
@@ -28,11 +42,13 @@ module.exports = [
     },
     {
         name: 'Mastery Games',
+        categories: [programming.learn],
         url: 'https://mastery.games/',
         icon: 'https://mastery.games/favicon.ico?v=2.3',
     },
     {
         name: 'Material Design',
+        categories: [programming.uiKitsAndLibraries],
         description:
             'Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.',
         url: 'https://material.io/',
@@ -40,12 +56,14 @@ module.exports = [
     },
     {
         name: 'Material Design',
+        categories: [assets.icons],
         description: 'Get Material Icons.',
         url: 'https://material.io/resources/icons',
         icon: 'https://material.io/favicon.ico',
     },
     {
         name: 'Material Design Palette',
+        categories: [uiDesign.colorPalettes],
         description: 'Choose your favorite colors and get your Material Design palette generated and downloadable.',
         url: 'https://www.materialpalette.com/',
         icon:
@@ -53,6 +71,7 @@ module.exports = [
     },
     {
         name: 'Material-UI',
+        categories: [programming.uiKitsAndLibraries],
         description:
             'React components for faster and easier web development. Build your own design system, or start with Material Design.',
         url: 'https://material-ui.com/',
@@ -60,12 +79,14 @@ module.exports = [
     },
     {
         name: 'Materialize',
+        categories: [programming.uiKitsAndLibraries],
         description: 'Materialize is a modern responsive CSS framework based on Material Design by Google.',
         url: 'https://materializecss.com/',
         icon: 'https://materializecss.com/images/favicon/favicon-32x32.png',
     },
     {
         name: 'Matomo',
+        categories: [toolsAndUtilities.analytics],
         description:
             "Matomo's the Google Analytics alternative that protects your data and your customer's privacy. A powerful web analytics platform with 100% data ownership.",
         url: 'https://matomo.org/',
@@ -74,6 +95,7 @@ module.exports = [
     },
     {
         name: 'MDN Web Docs',
+        categories: [programming.docsAndCheatsheets],
         description:
             'The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps. It also has some developer-oriented documentation for Mozilla products, such as Firefox Developer Tools.',
         url: 'https://developer.mozilla.org/en-US/',
@@ -81,6 +103,7 @@ module.exports = [
     },
     {
         name: 'Medium',
+        categories: [readingAndWriting.platforms],
         description:
             'Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.',
         url: 'http://medium.com/',
@@ -88,6 +111,7 @@ module.exports = [
     },
     {
         name: 'Metrical',
+        categories: [toolsAndUtilities.analytics],
         description:
             "Metrical is web analytics tool that is easy to use, privacy oriented and where you don't have to have a marketing degree to know how to use it.",
         url: 'https://metrical.xyz/',
@@ -95,6 +119,7 @@ module.exports = [
     },
     {
         name: 'Mobbin',
+        categories: [uiDesign.inspiration],
         description:
             'Check out the hand-picked collection of latest mobile design patterns from apps that reflect the best in design.',
         keywords: [
@@ -131,6 +156,7 @@ module.exports = [
     },
     {
         name: 'Mobirise',
+        categories: [programming.templates],
         description:
             'Drag and drop website builder. Create awesome responsive websites. Easy & fast - No coding! 2500+ Templates. Free for commercial use.',
         url: 'https://mobirise.com/',
@@ -138,11 +164,13 @@ module.exports = [
     },
     {
         name: 'Mocha',
+        categories: [programming.testing],
         url: 'https://mochajs.org/',
         icon: 'https://mochajs.org/static/favicon.copy.f17f048f84.ico',
     },
     {
         name: 'Modern Web',
+        categories: [programming.podcasts],
         description:
             'We host podcasts and events in Raleigh and the Bay Area on various topics across the web platform. Learn from others building modern web applications.',
         url: 'https://www.thisdot.co/modern-web',
@@ -150,6 +178,7 @@ module.exports = [
     },
     {
         name: 'Moqups',
+        categories: [uiDesign.prototyping],
         description:
             'Moqups is a streamlined and intuitive web app that helps you create and collaborate on wireframes, mockups, diagrams and prototypes — for any type of project.',
         url: 'https://moqups.com/',
@@ -157,11 +186,13 @@ module.exports = [
     },
     {
         name: 'morris.js',
+        categories: [programming.charts],
         url: 'https://morrisjs.github.io/morris.js/',
         icon: 'https://morrisjs.github.io/morris.js/favicon.ico',
     },
     {
         name: 'MyPerfectResume',
+        categories: [jobs.resumeBuilders],
         description:
             "Create a perfect resume in just minutes and land the job you deserve. It's fast and easy. Pick a template, customize and download it. Try it now.",
         url: 'https://www.myperfectresume.com/',

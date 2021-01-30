@@ -1,6 +1,17 @@
+const {
+    uiDesign,
+    readingAndWriting,
+    programming,
+    assets,
+    infrastructure,
+    jobs,
+    toolsAndUtilities,
+} = require('../constants/categories')
+
 module.exports = [
     {
         name: 'Hack Design',
+        categories: [uiDesign.learn],
         description:
             'An easy to follow design course for people who do amazing things. Receive a design lesson in your inbox each week, hand crafted by a design pro. Learn at your own pace, and apply it to your real life work – no fake projects here.',
         url: 'https://hackdesign.org/',
@@ -8,11 +19,13 @@ module.exports = [
     },
     {
         name: 'Hacker News',
+        categories: [readingAndWriting.platforms],
         url: 'https://news.ycombinator.com/',
         icon: 'https://news.ycombinator.com/favicon.ico',
     },
     {
         name: 'Hacker Noon',
+        categories: [readingAndWriting.platforms],
         description: 'How hackers start their afternoons.',
         keywords: ['blockchain', 'bitcoin', 'tech', 'crypto', 'software-development', 'react', 'vue'],
         url: 'https://hackernoon.com/',
@@ -20,6 +33,7 @@ module.exports = [
     },
     {
         name: 'HackerRank',
+        categories: [programming.codeChallenges],
         description:
             'HackerRank is the market-leading technical assessment and remote interview solution for hiring developers. Learn how to hire technical talent from anywhere!',
         url: 'https://www.hackerrank.com/',
@@ -27,6 +41,7 @@ module.exports = [
     },
     {
         name: 'Hackr.io',
+        categories: [programming.learn],
         description:
             'Google search shows you hundreds of Programming courses/tutorials, but Hackr.io tells you which is the best one. Find the best online courses &amp; tutorials recommended by the Programming community. Pick the most upvoted tutorials as per your learning style: video-based, book, free, paid, for beginners, advanced, etc.',
         url: 'https://hackr.io/',
@@ -34,6 +49,7 @@ module.exports = [
     },
     {
         name: 'Happy Hues',
+        categories: [uiDesign.colorPalettes],
         description:
             'See color palette inspiration on a real example website. As you click on different palettes every color on this site updates to give you context of how that color could be used for your design or illustration projects.',
         url: 'https://www.happyhues.co/',
@@ -42,6 +58,7 @@ module.exports = [
     },
     {
         name: 'Hashnode',
+        categories: [readingAndWriting.platforms],
         description:
             'Hashnode is a free content creation platform and community that allows you to publish articles on your own domain and helps you stay connected with a growing developer community.',
         url: 'https://hashnode.com/',
@@ -49,6 +66,7 @@ module.exports = [
     },
     {
         name: 'Hatchful',
+        categories: [assets.logos],
         description: 'Create stunning logos in seconds - no design skills required!',
         url: 'https://hatchful.shopify.com/',
         icon:
@@ -56,23 +74,27 @@ module.exports = [
     },
     {
         name: 'Hemingway App',
+        categories: [readingAndWriting.utilities],
         url: 'https://hemingwayapp.com/',
         icon: 'https://hemingwayapp.com/img/favicon/favicon-96x96.png',
     },
     {
         name: 'Hero Patterns',
+        categories: [assets.images],
         description: 'Zondicons.',
         url: 'http://www.heropatterns.com/',
         icon: 'http://www.heropatterns.com/favicon.ico',
     },
     {
         name: 'Heroicons',
+        categories: [assets.icons],
         description: 'Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.',
         url: 'https://heroicons.com/',
         icon: 'https://heroicons.com/_next/static/media/favicon-32x32.eee32601ba9d4702f841835990ed3801.png',
     },
     {
         name: 'Heroku',
+        categories: [infrastructure.hosting],
         description:
             'Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.',
         url: 'https://www.heroku.com/',
@@ -80,11 +102,13 @@ module.exports = [
     },
     {
         name: 'High Compress',
+        categories: [assets.images],
         url: 'https://www.highcompress.com/online-compress',
         icon: 'https://www.highcompress.com/apple-touch-icon.html',
     },
     {
         name: 'Highcharts',
+        categories: [programming.charts],
         description: 'Highcharts - Interactive JavaScript charts for your web pages.',
         keywords: [
             'highcharts',
@@ -103,6 +127,7 @@ module.exports = [
     },
     {
         name: 'hire.AR',
+        categories: [jobs.boards],
         description:
             'Search augmented reality jobs, AR Jobs, Virtual Reality Jobs, VR Jobs. Jobs in AR. The best AR jobs for engineers, developers, designers, artists, & more.',
         url: 'https://hire.ar/',
@@ -110,6 +135,7 @@ module.exports = [
     },
     {
         name: 'Hired',
+        categories: [jobs.boards],
         description:
             'With Hired your job search has never been easier! Simply create a profile & vetted companies compete for you, reaching out with salary & equity upfront.',
         url: 'https://hired.com/',
@@ -117,6 +143,7 @@ module.exports = [
     },
     {
         name: 'Hloom',
+        categories: [jobs.resumeBuilders],
         description:
             'We have the largest library of free Microsoft Office and Google Doc resume templates, paired with a professional resume builder and additional writing features.',
         url: 'https://www.hloom.com/',
@@ -124,6 +151,7 @@ module.exports = [
     },
     {
         name: 'Hoppscotch',
+        categories: [programming.apiBuilding],
         description: 'Helps you create requests faster, saving precious time on development.',
         keywords: [
             'hoppscotch',
@@ -159,17 +187,20 @@ module.exports = [
     },
     {
         name: 'Hostman',
+        categories: [infrastructure.hosting],
         description: 'Cloud hosting for startups and developers.',
         url: 'https://hostman.com/',
         icon: 'https://hostman.com/favicon.ico',
     },
     {
         name: 'HTML5 Accessibility',
+        categories: [toolsAndUtilities.accessibility],
         url: 'https://www.html5accessibility.com/',
         icon: 'https://www.html5accessibility.com/favicon.ico',
     },
     {
         name: 'HTML5 UP',
+        categories: [programming.templates],
         description:
             'Responsive HTML5 and CSS3 site templates designed by @ajlkn and released under the Creative Commons license.',
         keywords: ['html5', 'css3', 'responsive', 'site template', 'website template'],
@@ -178,6 +209,7 @@ module.exports = [
     },
     {
         name: 'humaaans',
+        categories: [assets.illustrations],
         description: 'Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.',
         url: 'https://www.humaaans.com/',
         icon: 'https://assets.website-files.com/5bff8886c3964a992e90d465/5c00a0ce59aa851331d34687_favicon-256.png',

@@ -1,5 +1,6 @@
 module.exports = {
     assets: {
+        audio: 'Assets/Audio',
         fonts: 'Assets/Fonts',
         icons: 'Assets/Icons',
         illustrations: 'Assets/Illustrations',
@@ -33,6 +34,7 @@ module.exports = {
 
     programming: {
         animations: 'Programming/Animations',
+        apiBuilding: 'Programming/API Building',
         books: 'Programming/Books',
         charts: 'Programming/Charts',
         codeChallenges: 'Programming/Code Challenges',
@@ -46,7 +48,7 @@ module.exports = {
         newsletters: 'Programming/Newsletters',
         podcasts: 'Programming/Podcasts',
         templates: 'Programming/Templates',
-        Testing: 'Programming/Testing',
+        testing: 'Programming/Testing',
         uiKitsAndLibraries: 'Programming/UI Kits & Libraries',
         youtubeChannels: 'Programming/YouTube Channels',
     },
@@ -66,6 +68,7 @@ module.exports = {
         imageAndVideoEditing: 'Tools & Utilities/Image & Video Editing',
         performance: 'Tools & Utilities/Performance',
         publicApis: 'Tools & Utilities/Public APIs',
+        seo: 'Tools & Utilities/SEO',
         typing: 'Tools & Utilities/Typing',
         websiteBuilders: 'Tools & Utilities/Website Builders',
     },

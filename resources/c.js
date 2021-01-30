@@ -1,6 +1,9 @@
+const { jobs, uiDesign, assets, programming, toolsAndUtilities } = require('../constants/categories')
+
 module.exports = [
     {
         name: 'CakeResume',
+        categories: [jobs.resumeBuilders],
         description:
             'Build an impressive resume and land that dream job. View online or download the PDF for FREE! CakeResume provides more than 50 resume templates and 1,000+ resume samples to help you make a professional resume in 10 minutes.',
         url: 'https://www.cakeresume.com/',
@@ -8,26 +11,15 @@ module.exports = [
     },
     {
         name: 'Canva',
-        description: 'Easily generate awesome color palettes from an image.',
-        url: 'https://www.canva.com/colors/color-palette-generator/',
+        categories: [uiDesign.colorPalettes, assets.fonts, programming.templates],
+        description:
+            'Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content. ',
+        url: 'https://www.canva.com/',
         icon: 'https://www.canva.com/favicon.ico',
     },
     {
-        name: 'Canva',
-        description:
-            'Canva has taken the pain out of font pairing by putting together great font combos for your designs. Find the best matches to your favourite typeface.',
-        url: 'https://www.canva.com/font-combinations/',
-        icon: 'https://www.canva.com/font-combinations/assets/favicon-ae7c26f3feb26f16d1c40ab01d487388.ico',
-    },
-    {
-        name: 'Canva',
-        description:
-            "Create beautiful designs with your team. Use Canva's drag-and-drop feature and layouts to design, share and print business cards, logos, presentations and more.",
-        url: 'https://www.canva.com/',
-        icon: 'https://static.canva.com/static/images/android-192x192.png',
-    },
-    {
         name: 'CanvasJs',
+        categories: [programming.charts],
         description:
             'HTML5 JavaScript Charts built on top of HTML5 Canvas Element. Renders across devices & is 10x faster than JavaScript Charting libraries based on SVG.',
         url: 'https://canvasjs.com/',
@@ -35,18 +27,21 @@ module.exports = [
     },
     {
         name: 'Carbon',
+        categories: [programming.codeSnippets],
         description: 'Carbon is the easiest way to create and share beautiful images of your source code.',
         url: 'https://carbon.now.sh',
         icon: 'https://carbon.now.sh/static/brand/apple-touch-icon.png',
     },
     {
         name: 'Chakra',
+        categories: [programming.uiKitsAndLibraries],
         description: 'Simple, Modular and Accessible UI Components for your React Applications.',
         url: 'https://chakra-ui.com/',
         icon: 'https://chakra-ui.com/favicon.png',
     },
     {
         name: 'Chart.js',
+        categories: [programming.charts],
         description:
             'Simple, clean and engaging HTML5 based JavaScript charts. Chart.js is an easy way to include animated, interactive graphs on your website for free.',
         url: 'https://www.chartjs.org/',
@@ -54,30 +49,35 @@ module.exports = [
     },
     {
         name: 'Chartist',
+        categories: [programming.charts],
         description: 'Create responsive, scalable and good looking charts with chartist.js.',
         url: 'https://gionkunz.github.io/chartist-js/',
         icon: 'https://gionkunz.github.io/chartist-js/favicon.ico',
     },
     {
         name: 'Cheatography',
+        categories: [programming.docsAndCheatsheets],
         description: 'Find thousands of incredible, original programming cheat sheets, all free to download.',
         url: 'https://cheatography.com/',
         icon: 'https://cheatography.com/images/cheatography-iphone.png',
     },
     {
         name: 'Check My Links',
+        categories: [toolsAndUtilities.browsersAndExtensions],
         description: 'Check My Links is a link checker that crawls through your webpage and looks for broken links.',
         url: 'https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en',
         icon: 'https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png',
     },
     {
         name: 'Checka11y.css',
+        categories: [toolsAndUtilities.accessibility],
         description: 'A CSS stylesheet to quickly highlight a11y concerns. - jackdomleo7/Checka11y.css.',
         url: 'https://github.com/jackdomleo7/Checka11y.css',
         icon: 'https://github.githubassets.com/favicons/favicon-dark.svg',
     },
     {
         name: 'Checklist Design',
+        categories: [toolsAndUtilities.general],
         description:
             'Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets.',
         url: 'https://www.checklist.design/',
@@ -86,6 +86,7 @@ module.exports = [
     },
     {
         name: 'Chrome',
+        categories: [toolsAndUtilities.browsersAndExtensions],
         description:
             'Get more done with the new Google Chrome. A more simple, secure, and faster web browser than ever, with Google’s smarts built-in. Download now.',
         url: 'https://www.google.com/chrome/',
@@ -93,6 +94,7 @@ module.exports = [
     },
     {
         name: 'Chrome Canary',
+        categories: [toolsAndUtilities.browsersAndExtensions],
         description:
             'Get on the bleeding edge of the web with Chrome Canary designed for experienced developers and updated nightly.',
         url: 'https://www.google.com/chrome/canary/',
@@ -100,6 +102,7 @@ module.exports = [
     },
     {
         name: 'Chrome Dev',
+        categories: [toolsAndUtilities.browsersAndExtensions],
         description:
             'Google Chrome for developers was built for the open web. Test cutting-edge web platform APIs and developer tools that are updated weekly.',
         url: 'https://www.google.com/chrome/dev/',
@@ -107,6 +110,7 @@ module.exports = [
     },
     {
         name: 'Clideo',
+        categories: [assets.videos],
         description:
             "Make a video by combining photos, videos, GIFs and music together — it's free & online. Use it as a Facebook or YouTube Cover, post it on Instagram or Twitter.",
         keywords: [
@@ -133,18 +137,21 @@ module.exports = [
     },
     {
         name: 'CLion',
+        categories: [toolsAndUtilities.editorsAndExtensions],
         description: 'A powerful IDE from JetBrains helps you develop in C and C++ on Linux, macOS and Windows.',
         url: 'https://www.jetbrains.com/clion/',
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
         name: 'Code to go',
+        categories: [programming.codeSnippets],
         description: 'Javascript code to go: Find updated snippets for common JavaScript use cases.',
         url: 'https://codetogo.io/',
         icon: 'https://codetogo.io/favicons/favicon-32x32.png',
     },
     {
         name: 'Code Winds',
+        categories: [programming.podcasts],
         description:
             'CodeWinds - Leading edge live and online developer training - in-person, public or private classes, webinars, video courses, resources, tutorials for fullstack web developers. Featuring javascript, React.js, Node.js, Redux, Functional programming, Reactive programming, RxJS, and related topics.',
         keywords: [
@@ -184,6 +191,7 @@ module.exports = [
     },
     {
         name: 'Codecademy',
+        categories: [programming.learn],
         description:
             'Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more.',
         url: 'https://www.codecademy.com/',
@@ -191,6 +199,7 @@ module.exports = [
     },
     {
         name: 'CodeChef',
+        categories: [programming.codeChallenges],
         description: 'CodeChef | Competitive Programming | Participate & Learn | CodeChef.',
         keywords: [
             'programming competition',
@@ -203,6 +212,7 @@ module.exports = [
     },
     {
         name: 'CodeKit',
+        categories: [toolsAndUtilities.general],
         description:
             'CodeKit is a Mac app that makes it easy to use modern web development tools like npm, Babel, Sass, JavaScript bundling, image optimization, and ESLint.',
         url: 'https://codekitapp.com/',
@@ -210,6 +220,7 @@ module.exports = [
     },
     {
         name: 'Codementor',
+        categories: [jobs.freelancing],
         description:
             'Codementor is the largest community for developer\n      mentorship and an on-demand marketplace for software developers.\n      Get instant coding help, build projects faster, and read programming\n      tutorials from our community of developers.',
         url: 'https://www.codementor.io/',
@@ -217,6 +228,7 @@ module.exports = [
     },
     {
         name: 'CodeMyUI',
+        categories: [programming.codeSnippets],
         description:
             'Handpicked collection of Web Design & UI Inspiration with Code Snippets. ✅ GIF preview ✅ HTML CSS copy paste code.',
         url: 'https://codemyui.com/',
@@ -224,43 +236,7 @@ module.exports = [
     },
     {
         name: 'CodePen',
-        description:
-            'An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets, projects, and web applications.',
-        keywords: [
-            'javascript',
-            'css',
-            'editor',
-            'code',
-            'community',
-            'social',
-            'frontend',
-            'front',
-            'end',
-            'developer',
-            'designer',
-            'jobs',
-            'hiring',
-            'deploy',
-            'test',
-            'demo',
-            'spa',
-            'single',
-            'page',
-            'application',
-            'web',
-            'html',
-            'modern',
-            'ide',
-            'browser',
-            'pen',
-            'codepen',
-        ],
-        url: 'https://codepen.io/',
-        icon:
-            'https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png',
-    },
-    {
-        name: 'CodePen',
+        categories: [programming.codeSnippets, toolsAndUtilities.editorsAndExtensions],
         description:
             'An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets, projects, and web applications.',
         keywords: [
@@ -298,17 +274,20 @@ module.exports = [
     },
     {
         name: 'CodePen Radio',
+        categories: [programming.podcasts],
         url: 'https://blog.codepen.io/radio/',
         icon: 'https://blog.codepen.io/favicon.ico',
     },
     {
         name: 'Codepip',
+        categories: [programming.learn],
         description: 'Learn to code by playing games.',
         url: 'https://codepip.com',
         icon: 'https://codepip.com/favicon.ico',
     },
     {
         name: 'Coderbyte',
+        categories: [programming.codeChallenges],
         description:
             'Improve your coding skills with our library of 300+ challenges and prepare for coding interviews with content from leading technology companies.',
         keywords: [
@@ -331,34 +310,7 @@ module.exports = [
     },
     {
         name: 'CodeSandbox',
-        description:
-            'CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.',
-        keywords: [
-            'react',
-            'codesandbox',
-            'editor',
-            'vue',
-            'angular',
-            'ide',
-            'code',
-            'javascript',
-            'playground',
-            'sharing',
-            'spa',
-            'single',
-            'page',
-            'application',
-            'web',
-            'application',
-            'frontend',
-            'front',
-            'end',
-        ],
-        url: 'https://codesandbox.io/',
-        icon: 'https://codesandbox.io/favicon.ico',
-    },
-    {
-        name: 'CodeSandbox',
+        categories: [programming.codeSnippets, toolsAndUtilities.editorsAndExtensions],
         description:
             'CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.',
         keywords: [
@@ -387,6 +339,7 @@ module.exports = [
     },
     {
         name: 'Codeshare',
+        categories: [toolsAndUtilities.editorsAndExtensions],
         description:
             'Share code in real-time with developers in your browser. An online code editor for interviews, troubleshooting, teaching.',
         url: 'https://codeshare.io/',
@@ -394,6 +347,7 @@ module.exports = [
     },
     {
         name: 'Codewars',
+        categories: [programming.codeChallenges],
         description:
             'Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.',
         keywords: [
@@ -415,6 +369,7 @@ module.exports = [
     },
     {
         name: 'Coding Tech',
+        categories: [programming.youtubeChannels],
         description:
             "Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here's the list of Conferences that provided Coding Tech with EXPLICIT written publication permissions: PyData, MLConf, Build Stuff, Code::dive, PolyConf, AmsterdamJS, React Amsterdam, ReactiveConf, Jazoon Tech Days, SFNode, CppCon, Infinite Red, GDG Lviv, Mibuso.com, You Gotta Love Frontend, React Native EU, Node Summit, NodeConfEU, ConFoo, Pixels Camp, JavaScriptLA, The Linux Foundation, Oredev Conference, Techlahoma, fitcevents. Coding Tech also re-posts content which was originally published with the Creative Commons Attribution license (reuse allowed).\n\nFor business inquiries, please connect on Twitter: https://twitter.com/yuriymatso.",
         keywords: [
@@ -425,6 +380,7 @@ module.exports = [
     },
     {
         name: 'CodinGame',
+        categories: [programming.codeChallenges],
         description:
             'CodinGame is a challenge-based training platform for programmers where you can improve your coding skills with fun exercises (25+ languages supported).',
         url: 'https://www.codingame.com/',
@@ -432,6 +388,7 @@ module.exports = [
     },
     {
         name: 'Codrops',
+        categories: [uiDesign.inspiration],
         description:
             'Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.',
         url: 'https://tympanus.net/codrops/',
@@ -439,6 +396,7 @@ module.exports = [
     },
     {
         name: 'Collect UI',
+        categories: [uiDesign.inspiration],
         description:
             'Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.',
         keywords: ['dailyui', 'daily ui', 'ui challenge', 'daily inspiration', 'ui inspiration'],
@@ -447,6 +405,7 @@ module.exports = [
     },
     {
         name: 'Color Hunt',
+        categories: [uiDesign.colorPalettes],
         description:
             'Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.',
         url: 'https://colorhunt.co/',
@@ -454,6 +413,7 @@ module.exports = [
     },
     {
         name: 'Color-hex',
+        categories: [uiDesign.colorPalettes],
         description:
             'Color hex is a easy to use tool to get the color codes information including color models (RGB,HSL,HSV and CMYK), css and html color codes.',
         url: 'https://www.color-hex.com/',
@@ -461,6 +421,7 @@ module.exports = [
     },
     {
         name: 'Color.review',
+        categories: [toolsAndUtilities.accessibility],
         description:
             'A modern tool for exploring and finding accessible colors. Make sure that everyone can see your creations.',
         url: 'https://color.review/',
@@ -468,6 +429,7 @@ module.exports = [
     },
     {
         name: 'Colorlib',
+        categories: [programming.templates],
         description:
             "Colorlib is the ONLY resource you'll need to start a blog using WordPress! We offer comprehensive yet easy to follow guides well suited for beginner bloggers.",
         url: 'https://colorlib.com/',
@@ -475,6 +437,7 @@ module.exports = [
     },
     {
         name: 'Colormind',
+        categories: [uiDesign.colorPalettes],
         description:
             'Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.',
         url: 'http://colormind.io/',
@@ -482,12 +445,14 @@ module.exports = [
     },
     {
         name: 'colors.lol',
+        categories: [uiDesign.colorPalettes],
         description: 'A fun way to discover interesting color combinations.',
         url: 'https://colors.lol/',
         icon: 'https://colors.lol/assets/favicon/favicon-32x32.png',
     },
     {
         name: 'Colorsinspo',
+        categories: [uiDesign.colorPalettes],
         description:
             'Colorsinspo is all in one resource to find everything about colors with extreme ease. Also, you will get Freebies, Inspirations, Color Tools, Gradients, and thousands of trendy hand-picked color palettes.',
         url: 'https://colorsinspo.com/',
@@ -495,6 +460,7 @@ module.exports = [
     },
     {
         name: 'ColorSpace',
+        categories: [uiDesign.colorPalettes],
         description:
             'Here you can find the perfect matching color scheme for your next project! Generate nice color palettes, color gradients and much more! Your space for everything that has to do with color!',
         url: 'https://mycolor.space/',
@@ -502,12 +468,14 @@ module.exports = [
     },
     {
         name: 'ColorZilla',
+        categories: [toolsAndUtilities.browsersAndExtensions],
         description: 'Advanced Eyedropper, Color Picker, Gradient Generator and more.',
         url: 'https://www.colorzilla.com/',
         icon: 'https://www.colorzilla.com/favicon.ico',
     },
     {
         name: 'Commit Your Code!',
+        categories: [programming.podcasts],
         description:
             'Commit Your Code is about motivating and inspiring developers of all levels to reach their goals in tech. We will be sharing stories and interviewing developers that have gone through this and made it to their dream jobs!',
         keywords: [
@@ -545,6 +513,7 @@ module.exports = [
     },
     {
         name: 'Compare pixels',
+        categories: [uiDesign.utilities],
         description: 'Use this tool to quickly check differences between design mockups and the live website.',
         keywords: [
             'feedback',
@@ -565,6 +534,7 @@ module.exports = [
     },
     {
         name: 'Compressor',
+        categories: [assets.images],
         description:
             'Optimize and compress your jpeg and png images online. Compressor is a lossy and lossless photo compression tool.',
         url: 'https://compressor.io/',
@@ -572,17 +542,20 @@ module.exports = [
     },
     {
         name: 'Contrast Ratio',
+        categories: [toolsAndUtilities.accessibility],
         url: 'https://contrast-ratio.com/',
         icon:
             'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAJUlEQVQ4T2P8////fwY8gJGRcQte+VEDGBhHw2A0DBgYhkMYAAA6UEtB82XtEAAAAABJRU5ErkJggg==',
     },
     {
         name: 'Control',
+        categories: [assets.illustrations],
         url: 'https://control.rocks/',
         icon: 'https://control.rocks/img/favicon-32x32.png',
     },
     {
         name: 'Coolors',
+        categories: [uiDesign.colorPalettes],
         description: 'Generate or browse beautiful color combinations for your designs.',
         keywords: [
             'color scheme',
@@ -617,20 +590,15 @@ module.exports = [
     },
     {
         name: 'CoreUI',
+        categories: [programming.templates, assets.icons],
         description:
             'Time is our most valuable asset, that’s why we want to help you save it by creating simple, customizable, easy to learn UI components and Admin Templates which significantly cut development time. CoreUI lets you save thousands of priceless hours because it offers everything you need to create modern, beautiful, and responsive applications.',
         url: 'https://coreui.io/',
         icon: 'https://coreui.io/images/favicons/favicon-96x96.png',
     },
     {
-        name: 'CoreUI Icons',
-        description:
-            'Premium designed free icon set with marks in SVG, Webfont and raster formats. CoreUI Icons are beautifully crafted symbols for common actions and items. You can use them in your digital products for web or mobile app.',
-        url: 'https://icons.coreui.io/icons/',
-        icon: 'https://icons.coreui.io/images/favicons/favicon-96x96.png',
-    },
-    {
         name: 'Coursera',
+        categories: [programming.learn],
         description:
             'Join Coursera for free and learn online. Build skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM. Advance your career with degrees, certificates, Specializations, &amp; MOOCs in data science, computer science, business, and dozens of other topics.',
         url: 'https://www.coursera.org/',
@@ -638,6 +606,7 @@ module.exports = [
     },
     {
         name: 'CreativesFeed',
+        categories: [programming.codeSnippets],
         description:
             'CreativesFeed works to share the best free code snippets and web development resources online. We create free, downloadable code snippets and provide tutorials on web design and development to help agencies and individuals learn and grow!',
         url: 'https://creativesfeed.com/topics/code-snippets/',
@@ -645,6 +614,7 @@ module.exports = [
     },
     {
         name: 'Cruip',
+        categories: [programming.templates],
         description:
             'Cruip is a gallery of premium and free HTML, Vue.js and React landing page templates for startups and SaaS.',
         url: 'https://cruip.com/',
@@ -652,6 +622,7 @@ module.exports = [
     },
     {
         name: 'CS50',
+        categories: [programming.youtubeChannels],
         description:
             "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard (and Yale!) course.",
         keywords: ['cs50 harvard computer science david j. malan'],
@@ -660,12 +631,14 @@ module.exports = [
     },
     {
         name: 'CSS Diner',
+        categories: [programming.learn],
         description: 'A fun game to help you learn and practice CSS selectors.',
         url: 'https://flukeout.github.io/',
         icon: 'https://flukeout.github.io/favicon.png',
     },
     {
         name: 'CSS Layout News',
+        categories: [programming.newsletters],
         description: 'A weekly collection of tutorials, news and information on all things CSS Layout.',
         url: 'https://csslayout.news/',
         icon:
@@ -673,6 +646,7 @@ module.exports = [
     },
     {
         name: 'CSS Nectar',
+        categories: [uiDesign.inspiration],
         description:
             'CSS Nectar is a css website design showcase for web designers and developers. Every day we select the best of the web design and add it to our gallery. Submit or suggest a website.',
         url: 'https://cssnectar.com//',
@@ -680,30 +654,21 @@ module.exports = [
     },
     {
         name: 'CSS Weekly',
+        categories: [programming.newsletters],
         description: 'Weekly e-mail roundup of latest css articles, tutorials, tools and experiments.',
         url: 'https://css-weekly.com/',
         icon: 'https://css-weekly.com/favicon.ico',
     },
     {
         name: 'CSS-Tricks',
-        url: 'https://css-tricks.com/newsletters/',
-        icon: 'https://css-tricks.com/apple-touch-icon.png',
-    },
-    {
-        name: 'CSS-Tricks',
+        categories: [programming.learn, programming.newsletters, programming.codeSnippets],
         description: 'CSS-Tricks is a website about websites.',
         url: 'https://css-tricks.com',
         icon: 'https://css-tricks.com/apple-touch-icon.png',
     },
     {
-        name: 'CSS-Tricks',
-        description:
-            'A collection of code snippets for web developers, including code for HTML, CSS, JavaScript, PHP, WordPress, jQuery, HTAccess, and more!',
-        url: 'https://css-tricks.com/snippets/',
-        icon: 'https://css-tricks.com/apple-touch-icon.png',
-    },
-    {
         name: 'css.gg',
+        categories: [assets.icons],
         description:
             'Pure CSS icons library, Customizable & Retina-Ready built 100% in pure CSS, SVG, SVG Sprite, styled-components, Figma and Adobe XD. Easy integration: Embed, NPM & API.',
         url: 'https://css.gg/',
@@ -711,18 +676,21 @@ module.exports = [
     },
     {
         name: 'CSSBattle',
+        categories: [programming.learn],
         description: 'CSS Code Golfing is Here!',
         url: 'https://cssbattle.dev/',
         icon: 'https://cssbattle.dev/images/logo-square.png',
     },
     {
         name: 'CSSViewer',
+        categories: [toolsAndUtilities.browsersAndExtensions],
         description: 'A simple CSS property viewer.',
         url: 'https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce',
         icon: 'https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png',
     },
     {
         name: 'Cypress',
+        categories: [programming.testing],
         description:
             'Fast, easy and reliable testing for anything that runs in a browser. Install Cypress in seconds and take the pain out of front-end testing.',
         url: 'https://www.cypress.io/',
@@ -730,6 +698,7 @@ module.exports = [
     },
     {
         name: 'Cytoscape.js',
+        categories: [programming.charts],
         description:
             'Graph theory / network library for analysis and visualisation - compatible with CommonJS/Node.js/Browserify/Webpack, AMD/Require.js, npm, Bower, jspm, Meteor/Atmosphere, jQuery, and plain JS/JavaScript.',
         url: 'https://js.cytoscape.org/',

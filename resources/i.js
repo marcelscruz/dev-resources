@@ -1,33 +1,24 @@
+const { assets, toolsAndUtilities, jobs, indieHacking, programming } = require('../constants/categories')
+
 module.exports = [
     {
         name: 'iconmonstr',
+        categories: [assets.icons],
         description: 'Free simple icons for your next project.',
         url: 'https://iconmonstr.com',
         icon: 'https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico',
     },
     {
         name: 'Icons8',
+        categories: [assets.icons, assets.illustrations, assets.images, assets.audio],
         description:
-            'Beautiful library of royalty free images and stock photos for personal and commercial use. Download the most consistent set of photography and backgrounds.',
-        url: 'https://photos.icons8.com/',
-        icon: 'https://photos.icons8.com/vue-static/moose/favs/favicon.ico',
-    },
-    {
-        name: 'Icons8',
-        description:
-            'Explore a beautiful library of royalty free illustrations, vector images and clipart graphics. Download illustration images  in PNG and SVG formats for free.',
-        url: 'https://icons8.com/illustrations',
-        icon: 'https://icons8.com/vue-static/ouch/seo/favicon.png',
-    },
-    {
-        name: 'Icons8',
-        description:
-            '⬇️ Get free icons for graphic design, UI, social media, and mobile. Search for static and animated icons with consistent quality. PNG, SVG, GIF, AE formats.',
-        url: 'https://icons8.com/icons',
+            'Download design elements for free: icons, photos, vector illustrations, and music for your videos.',
+        url: 'https://icons8.com',
         icon: 'https://icons8.com/vue-static/icon/favicon/favicon_16.png',
     },
     {
         name: 'Iconscout',
+        categories: [assets.icons],
         description:
             'Pixel-perfect vector icons and Icon Fonts available in Line, Monochrome, and Solid style for your next project.',
         url: 'https://iconscout.com/unicons',
@@ -35,6 +26,7 @@ module.exports = [
     },
     {
         name: 'Iconshock',
+        categories: [assets.icons],
         description:
             'Free icons and premium icon packs.  Flat icons, Material icons, Glyph icons, iOS icons, Font icons, and more design styles. Vector files, including PNG and SVG icons. Ready for apps, web or social media projects.',
         keywords: [
@@ -63,21 +55,25 @@ module.exports = [
     },
     {
         name: 'IconSweets',
+        categories: [assets.icons],
         url: 'https://www.designbombs.com/iconsweets2/',
         icon: 'https://www.designbombs.com/iconsweets2/favicon-96x96.png',
     },
     {
         name: 'Icônes',
+        categories: [assets.icons],
         url: 'https://icones.netlify.app/',
         icon: 'https://icones.netlify.app/favicon.svg',
     },
     {
         name: 'Image Optimizer',
+        categories: [assets.images],
         url: 'http://www.imageoptimizer.net/Pages/Home.aspx',
         icon: 'data:image/x-icon;,',
     },
     {
         name: 'Inclusive Components',
+        categories: [toolsAndUtilities.accessibility],
         description:
             'A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece.',
         url: 'https://inclusive-components.design/',
@@ -85,24 +81,21 @@ module.exports = [
     },
     {
         name: 'Indeed',
+        categories: [jobs.resumeBuilders],
         description: 'Build and upload your resume to Indeed and let your next job find you.',
         url: 'https://www.indeed.com/create-resume',
         icon: 'https://www.indeed.com/profile/gatsby-assets/icons/icon-96x96.png?v=d69338e3b43810840b9a84d69dbaa30e',
     },
     {
         name: 'Indie Drops',
+        categories: [indieHacking.utilities],
         description: 'Secure unbelivably good deals on early-stage products before they take off.',
         url: 'http://indiedrops.com/',
         icon: 'http://indiedrops.com/apple-touch-icon.png',
     },
     {
         name: 'Indie Hackers',
-        description: 'Get the latest tactics, opportunities, and stories from the best podcasts in the industry.',
-        url: 'https://www.indiehackers.com/podcast',
-        icon: 'https://www.indiehackers.com/images/favicons/favicon--32x32.png',
-    },
-    {
-        name: 'Indie Hackers',
+        categories: [indieHacking.platforms, indieHacking.podcasts],
         description:
             'Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.',
         url: 'https://www.indiehackers.com/',
@@ -110,6 +103,7 @@ module.exports = [
     },
     {
         name: 'Inovatik',
+        categories: [programming.templates],
         description:
             'HTML templates designed to power up your online projects with responsive layout, included reusable images and simple licensing.',
         url: 'https://inovatik.com/',
@@ -117,18 +111,21 @@ module.exports = [
     },
     {
         name: 'Insomnia',
+        categories: [programming.apiBuilding],
         description: 'Design & Debug APIs like a human, not a robot.',
         url: 'https://insomnia.rest/',
         icon: 'https://insomnia.rest/icons/icon-96x96.png?v=b68a1a35ee1565b759a2d4edb26074be',
     },
     {
         name: 'IntelliJ IDEA',
+        categories: [toolsAndUtilities.editorsAndExtensions],
         description: 'A Capable and Ergonomic Java IDE for Enterprise Java, Scala, Kotlin and much more...',
         url: 'https://www.jetbrains.com/idea/',
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
         name: 'Interfacer',
+        categories: [assets.illustrations],
         description: 'Interfacer is a collection of 300+ free design resources found on the Web.',
         keywords: [
             'design resources',
@@ -157,6 +154,7 @@ module.exports = [
     },
     {
         name: 'iOS Dev Jobs',
+        categories: [jobs.boards],
         description:
             'Browse the very best iOS development jobs available, or sign up and get a weekly digest delivered by email every Monday.',
         url: 'https://iosdevjobs.com/',
@@ -164,6 +162,7 @@ module.exports = [
     },
     {
         name: 'IRA Design',
+        categories: [assets.illustrations],
         description: 'Open-source illustrations that fits perfectly for any project you desire.',
         keywords: [
             'illustration',
@@ -184,6 +183,7 @@ module.exports = [
     },
     {
         name: 'Isometriclove',
+        categories: [assets.illustrations],
         url: 'https://isometriclove.com/',
         icon: 'https://isometriclove.com/favicon.ico',
     },

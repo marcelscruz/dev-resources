@@ -1,11 +1,15 @@
+const { toolsAndUtilities, uiDesign, programming, jobs, assets, indieHacking } = require('../constants/categories')
+
 module.exports = [
     {
         name: 'PageSpeed Insights',
+        categories: [toolsAndUtilities.performance],
         url: 'https://developers.google.com/speed/pagespeed/insights/',
         icon: 'https://developers.google.com/speed/pagespeed/insights/favicon.ico',
     },
     {
         name: 'Palette List',
+        categories: [uiDesign.colorPalettes],
         description: 'Palette List is a dynamic palette generator.',
         keywords: ['palette', 'colors', 'designer tools', 'developer tools', 'hex', 'rgb'],
         url: 'https://www.palettelist.com/',
@@ -13,6 +17,7 @@ module.exports = [
     },
     {
         name: 'Paw',
+        categories: [programming.apiBuilding],
         description:
             'Paw is a full-featured HTTP client that lets you test and describe the APIs you build or consume. It has a beautiful native macOS interface to compose requests, inspect server responses, generate client code and export API definitions.',
         url: 'https://paw.cloud/',
@@ -20,6 +25,7 @@ module.exports = [
     },
     {
         name: 'PeoplePerHour',
+        categories: [jobs.freelancing],
         description:
             'Get any project done on PeoplePerHour - the #1 freelancing community. Post a project for free to find professional freelancers and find freelance jobs in minutes!',
         url: 'https://www.peopleperhour.com/',
@@ -27,23 +33,16 @@ module.exports = [
     },
     {
         name: 'Pexels',
-        description:
-            'Pexels Videos makes it easy to find free stock footage for your website, promo video or anything else. All videos are free for personal and commercial use.',
+        categories: [assets.videos, assets.images],
+        description: "Finding the perfect photo or video shouldn't take forever.",
         keywords: ['free stock videos', 'pexels', 'videos', 'design resource', 'footage', 'hd'],
-        url: 'https://www.pexels.com/videos/',
-        icon:
-            'https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png',
-    },
-    {
-        name: 'Pexels',
-        description: 'Free stock photos you can use everywhere. ✓ Free for commercial use ✓ No attribution required.',
-        keywords: ['free stock photos', 'pexels', 'design resource', 'high quality'],
         url: 'https://www.pexels.com/',
         icon:
             'https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png',
     },
     {
         name: 'PhpStorm',
+        categories: [toolsAndUtilities.editorsAndExtensions],
         description:
             'PhpStorm is a perfect PHP IDE for working with Symfony, Laravel, Drupal, WordPress, Laminas, Magento, Joomla!, CakePHP, Yii, and other frameworks.',
         url: 'https://www.jetbrains.com/phpstorm/',
@@ -51,33 +50,22 @@ module.exports = [
     },
     {
         name: 'Pingdom',
+        categories: [toolsAndUtilities.performance],
         description: 'Full Page Test Analysis.',
         url: 'https://tools.pingdom.com/',
         icon: 'https://tools.pingdom.com/favicon.ico',
     },
     {
         name: 'Pixabay',
+        categories: [assets.videos, assets.images, assets.illustrations],
         description:
-            'Find the perfect free stock video footage for your next project. ✓ Free for commercial use ✓ HD & 4K video available ✓ No attribution required.',
-        url: 'https://pixabay.com/videos/',
-        icon: 'https://pixabay.com/favicon-32x32.png',
-    },
-    {
-        name: 'Pixabay',
-        description:
-            'Find high quality royalty free photos for your next project. ✓ Free for commercial use ✓ No attribution required ✓ Photos handpicked by staff.',
-        url: 'https://pixabay.com/photos/',
-        icon: 'https://pixabay.com/favicon-32x32.png',
-    },
-    {
-        name: 'Pixabay',
-        description:
-            'Find your perfect free illustration for your next project. Illustrations at Canva are: ✓ Free for commercial use ✓ No attribution required.',
-        url: 'https://pixabay.com/illustrations/',
+            'Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.',
+        url: 'https://pixabay.com/',
         icon: 'https://pixabay.com/favicon-32x32.png',
     },
     {
         name: 'Pixel Love',
+        categories: [assets.icons],
         description: 'Download 15,000 icons in 6 distictive styles made for professionals.',
         keywords: ['icons', 'line icons', 'vector icons', 'iOS icons', 'Android icons'],
         url: 'https://www.pixellove.com/',
@@ -85,6 +73,7 @@ module.exports = [
     },
     {
         name: 'Plausible',
+        categories: [toolsAndUtilities.analytics],
         description:
             'Plausible is a lightweight and open-source web analytics tool. Your website data is 100% yours and the privacy of your visitors is respected.',
         url: 'https://plausible.io/',
@@ -92,12 +81,14 @@ module.exports = [
     },
     {
         name: 'Plottable',
+        categories: [programming.charts],
         description: 'Flexible, interactive, performant charts for the web made easy.',
         url: 'http://plottablejs.org/',
         icon: 'http://plottablejs.org/favicon.ico',
     },
     {
         name: 'Pluralsight',
+        categories: [programming.learn],
         description:
             'Build your IT toolkit with the skills you need to excel in your job, including security best practices, server infrastructure and virtualization. Explore our IT courses now.',
         url: 'https://www.pluralsight.com/',
@@ -105,6 +96,7 @@ module.exports = [
     },
     {
         name: 'Polypane',
+        categories: [toolsAndUtilities.browsersAndExtensions],
         description:
             'A browser for web developers and designers with all the tools you need to build responsive, accessible and fast sites five times faster.',
         url: 'https://polypane.app/',
@@ -112,6 +104,7 @@ module.exports = [
     },
     {
         name: 'Postman',
+        categories: [programming.apiBuilding],
         description:
             'Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.',
         url: 'https://www.postman.com/',
@@ -119,12 +112,14 @@ module.exports = [
     },
     {
         name: 'Prime',
+        categories: [programming.uiKitsAndLibraries],
         description: 'Ultimate UI Framework.',
         url: 'https://www.primefaces.org/',
         icon: 'https://www.primefaces.org/wp-content/uploads/fbrfg/favicon-32x32.png',
     },
     {
         name: 'Product Hunt',
+        categories: [indieHacking.platforms],
         description:
             "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
         url: 'https://www.producthunt.com/',
@@ -132,6 +127,7 @@ module.exports = [
     },
     {
         name: 'Programiz',
+        categories: [programming.learn],
         description:
             'Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references.',
         url: 'https://www.programiz.com/',
@@ -139,6 +135,7 @@ module.exports = [
     },
     {
         name: 'Project Euler',
+        categories: [programming.codeChallenges],
         description: 'A website dedicated to the fascinating world of mathematics and programming.',
         keywords: ['programming', 'mathematics', 'problems', 'puzzles'],
         url: 'https://projecteuler.net/',
@@ -146,6 +143,7 @@ module.exports = [
     },
     {
         name: 'ProjectLearn',
+        categories: [programming.learn],
         description:
             'A project-based learning approach in web development, mobile development, game development, machine learning and artificial intelligence. Learn code the right way!',
         keywords: [
@@ -165,6 +163,7 @@ module.exports = [
     },
     {
         name: 'Pttrns',
+        categories: [uiDesign.inspiration],
         description: 'Check out the finest collection of design patterns, resources, mobile apps and inspiration.',
         keywords: [
             'apps',
@@ -201,11 +200,13 @@ module.exports = [
     },
     {
         name: 'Puppeteer',
+        categories: [programming.testing],
         url: 'https://pptr.dev/',
         icon: 'https://pptr.dev/favicons/favicon-32x32.png',
     },
     {
         name: 'Pxfuel',
+        categories: [assets.images],
         description:
             'Millions of public domain stock photos released under creative common zero lincense, all are free for commercial use.',
         keywords: [
@@ -228,6 +229,7 @@ module.exports = [
     },
     {
         name: 'PyCharm',
+        categories: [toolsAndUtilities.editorsAndExtensions],
         description:
             'The Python & Django IDE with intelligent code completion, on-the-fly error checking, quick-fixes, and much more...',
         url: 'https://www.jetbrains.com/pycharm/',
@@ -235,6 +237,7 @@ module.exports = [
     },
     {
         name: 'Python Developer Jobs',
+        categories: [jobs.boards],
         description:
             'Find specific Python Developer Jobs, including Remote Jobs. You are looking for Python Developers? Submit your position for free.',
         url: 'https://pythonjob.xyz/',
