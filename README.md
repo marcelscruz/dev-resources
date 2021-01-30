@@ -1,6 +1,7 @@
 # Dev Resources
 
  The list and public API of the resources that power [Dev Resources](https://devresourc.es).
+  The list and public API of the resources that power <a href="https://devresourc.es" target="_blank" rel="noopener">Dev Resources</a>.
 
  For information on contributing, please see the [contributing guide](docs/CONTRIBUTING.md).
 
