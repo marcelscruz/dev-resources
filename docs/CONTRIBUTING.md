@@ -27,17 +27,18 @@ Each resource belongs to an object, as such:
         [youtube]: 'https://www.youtube.com/c/freecodecamp',
     },
     icon: 'https://www.freecodecamp.org/news/favicon.png', // Optional
-    keywords: ['html', 'css', 'javascript', 'development', ...], // Optional
+    keywords: ['html', 'css', 'javascript', 'development'], // Optional
 },
 ```
 
 Observe that:
 
--   `name`, `description` and `icon` are strings
--   `categories` is an array, meaning the resource can belong to multiple categories
--   `links` is an object, where multiple platforms can be added
--   `categories` values (e.g. `programming.learn`) and `links` key properties (e.g. `[youtube]`) should be used from the `constants/categories.js` and `constants/links.js` files respectively; due to the dynamic nature of these values, they can receive updates and additions, so this ensures organization and avoids misspellings
--   `keywords` is an array of strings
+-   `name`, `description` and `icon` are strings, where:
+    -   `name` and `description` should not include line breaks `(\n)` and alike
+    -   `icon` should be a URL
+-   `categories` is an array, meaning the resource can belong to multiple categories; its values (e.g. `programming.learn`) should be used from `constants/categories.js`, as this ensures organization and avoids misspellings
+-   `links` is an object, where multiple platforms can be added; again, its key properties (e.g. `[youtube]`) should be used from `constants/links.js`
+-   `keywords` is an array of strings, which also should not include line breaks `(\n)` and alike
 -   `icon` and `keywords` are the only optional properties, all others are required, with `categories` and `links` containing at least one value
 -   the `description` property can be custom or grabbed from the resource's metadata included in the `<head>` tag of the website's HTML document
 -   the `icon` property can also be grabbed from the resource's metadata included in the `<head>` tag or by doing the following:
@@ -71,7 +72,7 @@ This repository uses a GitHub action to automatically update `README.md` and `db
 
 ## Need assistance?
 
-The resources lists are created in JavaScript, and if you're unable to make a contribution for this or any other reason, feel free to open an issue explaining your situation, so another developer can help you getting your resource in the lists.
+The resources lists are created in JavaScript, and if you're unable to make a contribution for this or any other reason, feel free to open an issue explaining your situation, so another developer can help you get your resource in the lists.
 
 ---
 
