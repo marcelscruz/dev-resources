@@ -544,8 +544,6 @@ module.exports = [
         name: 'Contrast Ratio',
         categories: [toolsAndUtilities.accessibility],
         url: 'https://contrast-ratio.com/',
-        icon:
-            'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAJUlEQVQ4T2P8////fwY8gJGRcQte+VEDGBhHw2A0DBgYhkMYAAA6UEtB82XtEAAAAABJRU5ErkJggg==',
     },
     {
         name: 'Control',
