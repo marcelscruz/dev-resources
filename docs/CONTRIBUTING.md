@@ -21,21 +21,24 @@ Each resource belongs to an object, as such:
     name: 'freeCodeCamp',
     description:
         'Learn to code at home. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including Google, Apple, Amazon, and Microsoft.',
-    icon: 'https://www.freecodecamp.org/news/favicon.png',
     categories: [programming.learn, programming.codeChallenges],
     links: {
         [website]: 'https://www.freecodecamp.org',
         [youtube]: 'https://www.youtube.com/c/freecodecamp',
     },
+    icon: 'https://www.freecodecamp.org/news/favicon.png', // Optional
+    keywords: ['html', 'css', 'javascript', 'development', ...], // Optional
 },
 ```
 
 Observe that:
 
+-   `name`, `description` and `icon` are strings
 -   `categories` is an array, meaning the resource can belong to multiple categories
 -   `links` is an object, where multiple platforms can be added
 -   `categories` values (e.g. `programming.learn`) and `links` key properties (e.g. `[youtube]`) should be used from the `constants/categories.js` and `constants/links.js` files respectively; due to the dynamic nature of these values, they can receive updates and additions, so this ensures organization and avoids misspellings
--   `icon` is the only optional property, all others are required, with `categories` and `links` containing at least one value
+-   `keywords` is an array of strings
+-   `icon` and `keywords` are the only optional properties, all others are required, with `categories` and `links` containing at least one value
 -   the `description` property can be custom or grabbed from the resource's metadata included in the `<head>` tag of the website's HTML document
 -   the `icon` property can also be grabbed from the resource's metadata included in the `<head>` tag or by doing the following:
 
