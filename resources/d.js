@@ -81,7 +81,7 @@ module.exports = [
         name: 'DesignCourse',
         categories: [uiDesign.youtubeChannels],
         description:
-            "Https://coursetro.com\n\nNew videos weekly from Monday to Thursday @ 10:30 AM ET!\n\nHi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlus.com, DigitalTutors.com, Pluralsight.com, LinkedIn Learning & Lynda.com.\n\nI teach full stack development! Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more!\n\nInterested in a sponsorship opportunity or review?  Contact me: contact@coursetro.com.",
+            "New videos weekly from Monday to Thursday @ 10:30 AM ET! Hi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlus.com, DigitalTutors.com, Pluralsight.com, LinkedIn Learning & Lynda.com. I teach full stack development! Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more! Interested in a sponsorship opportunity or review?  Contact me: contact@coursetro.com.",
         keywords: [
             '"web design" "logo design" "illustrator tutorials" "website design" free ui ux "user experience design" "ux design" "frontend development" "frontend developer"',
         ],
@@ -102,7 +102,7 @@ module.exports = [
         name: 'Dev Ed',
         categories: [programming.youtubeChannels],
         description:
-            'Learn web development, web design, 3d modelling, tools like figma and more without getting bored!\n\nThe goes of this channel is to get you to become as creative you can be!\n\nSo if you like to create video games in Unity or develop an application in node.js, stick around and have fun!',
+            'Learn web development, web design, 3d modelling, tools like figma and more without getting bored! The goes of this channel is to get you to become as creative you can be! So if you like to create video games in Unity or develop an application in node.js, stick around and have fun!',
         keywords: ['web development design javascript tutorials'],
         url: 'https://www.youtube.com/c/DevEd/',
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',

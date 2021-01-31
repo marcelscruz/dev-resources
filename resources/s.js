@@ -428,7 +428,7 @@ module.exports = [
         name: 'SVGBox',
         categories: [assets.icons],
         description:
-            'SVGBox allows you to add any of the 3,405 icons we have to your project by using simple tags. \n    Instead of using downloading and uploading icons, simply copy tag and start using it. We are constantly adding \n    more and more icons to serve different use cases.',
+            'SVGBox allows you to add any of the 3,405 icons we have to your project by using simple tags. Instead of using downloading and uploading icons, simply copy tag and start using it. We are constantly adding more and more icons to serve different use cases.',
         url: 'https://svgbox.net/',
         icon: 'https://svgbox.net/assets/favicon.svg',
     },

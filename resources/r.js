@@ -34,7 +34,7 @@ module.exports = [
         name: 'React DevTools',
         categories: [toolsAndUtilities.browsersAndExtensions],
         description:
-            'Adds React debugging tools to the Chrome Developer Tools.\n\nCreated from revision f160547f47 on 12/4/2020.',
+            'Adds React debugging tools to the Chrome Developer Tools. Created from revision f160547f47 on 12/4/2020.',
         url: 'https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en',
         icon: 'https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png',
     },

@@ -96,7 +96,7 @@ module.exports = [
         name: 'Flexbox Defense',
         categories: [programming.learn],
         description:
-            'Your job is to stop the incoming enemies from getting past\n                   your defenses. Unlike other tower defense games, you must\n                   position your towers using CSS!',
+            'Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!',
         url: 'http://www.flexboxdefense.com/',
         icon: 'http://www.flexboxdefense.com/images/favicon.ico',
     },
@@ -137,7 +137,7 @@ module.exports = [
         name: 'Flutter Jobs',
         categories: [jobs.boards],
         description:
-            'A job board dedicated to Flutter, the mobile cross platform SDK. We have jobs in Africa, the\n    Americas, Asia, Europe, Oceania, and remote.',
+            'A job board dedicated to Flutter, the mobile cross platform SDK. We have jobs in Africa, the Americas, Asia, Europe, Oceania, and remote.',
         url: 'https://flutterjobs.info/',
         icon: 'https://flutterjobs.info/favicon.png',
     },

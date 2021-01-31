@@ -222,7 +222,7 @@ module.exports = [
         name: 'Codementor',
         categories: [jobs.freelancing],
         description:
-            'Codementor is the largest community for developer\n      mentorship and an on-demand marketplace for software developers.\n      Get instant coding help, build projects faster, and read programming\n      tutorials from our community of developers.',
+            'Codementor is the largest community for developer mentorship and an on-demand marketplace for software developers. Get instant coding help, build projects faster, and read programming tutorials from our community of developers.',
         url: 'https://www.codementor.io/',
         icon: 'https://assets.codementor.io/icons/favicon-96x96.png',
     },
