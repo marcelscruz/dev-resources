@@ -132,8 +132,7 @@
  <img src="https://smashicons.com/assets/img/favicon/new/favicon-96x96.png" width="16" /> | Smashicons | Download the world's largest and most complete icon set. Smashicons includes over 335,975 icons for Designers and Developers. |  | free icons, vector icon, SVG, png icon, free Ui kits, free fonts, illustrations, graphic resources, ... |
  <img src="https://uploads-ssl.webflow.com/5e08877ced2a2771907388a9/5e2d9bc8d2e0671a88b1658b_smplkit-icon-3.png" width="16" /> | Smplkit | An open source, do-whatever-you-want icon font to use in your projects. |  |  |
  <img src="https://streamlineicons.com/_assets/img/favicon-light.png" width="16" /> | Streamline Icons | Download 30,000 free PNG icons for website, web app, software, web design. Buy our SVG vector icon pack, the world’s largest icon library for professionals. |  | Free icons, Download icons, Web icons, Vector, SVG, Royalty free icons, Open source icons, Professio... |
- <img src="https://svgbox.net/assets/favicon.svg" width="16" /> | SVGBox | SVGBox allows you to add any of the 3,405 icons we have to your project by using simple tags. 
-    Instead of using downloading and uploading icons, simply copy tag and start using it. We are constant... |  |  |
+ <img src="https://svgbox.net/assets/favicon.svg" width="16" /> | SVGBox | SVGBox allows you to add any of the 3,405 icons we have to your project by using simple tags. Instead of using downloading and uploading icons, simply copy tag and start using it. We are constantly ad... |  |  |
  <img src="https://tablericons.com/favicon.png" width="16" /> | Tabler Icons | 800+ Highly customizable & free SVG icons. |  |  |
  <img src="https://www.uplabs.com/logos/uplabs/icons/favicon-96x96.png" width="16" /> | UpLabs | UpLabs curates the best of design & development inspiration, resources and freebies. Every day! |  |  |
 
@@ -280,8 +279,7 @@
  <img src="https://angel.co/images/icons/iOS/UpdatedFavicon_72x72.png" width="16" /> | AngelList | Apply privately to 130,000+ remote jobs and startup jobs near you with one application. See salary and equity upfront. |  |  |
  <img src="https://authenticjobs.com/wp-content/uploads/2020/04/cropped-aj-site-favicon-32x32.png" width="16" /> | Authentic Jobs |  |  |  |
  <img src="https://emberwork.com/apple-touch-icon-76x76.png" width="16" /> | EMBERWORK | Whether you're actively looking for a new job or just always open to new opportunities you'll always have access to the best Ember.js jobs- here at EMBERWORK. |  |  |
- <img src="https://flutterjobs.info/favicon.png" width="16" /> | Flutter Jobs | A job board dedicated to Flutter, the mobile cross platform SDK. We have jobs in Africa, the
-    Americas, Asia, Europe, Oceania, and remote. |  |  |
+ <img src="https://flutterjobs.info/favicon.png" width="16" /> | Flutter Jobs | A job board dedicated to Flutter, the mobile cross platform SDK. We have jobs in Africa, the Americas, Asia, Europe, Oceania, and remote. |  |  |
  <img src="https://golangjob.xyz/img/icons/favicon-32x32.png" width="16" /> | Golang Developer Jobs | Find specific Golang Developer Jobs, including Remote Jobs. You are looking for Golang Developers? Submit your position for free. |  |  |
  <img src="https://uploads-ssl.webflow.com/5fb34e1a86110331f179e419/5fba8ba82dc21a86d020bff8_hire%20.AR%20(1).png" width="16" /> | hire.AR | Search augmented reality jobs, AR Jobs, Virtual Reality Jobs, VR Jobs. Jobs in AR. The best AR jobs for engineers, developers, designers, artists, & more. |  |  |
  <img src="https://hired.com/assets/favicon-f8bba6617971bf8553966d715a950b9b12988ec72984a3c3453c404cda6f2377.ico" width="16" /> | Hired | With Hired your job search has never been easier! Simply create a profile & vetted companies compete for you, reaching out with salary & equity upfront. |  |  |
@@ -300,10 +298,7 @@
 | &nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://99designs.com/touch-icon-ipad.png" width="16" /> | 99designs | The global creative platform for custom graphic design: logos, websites and more. Hire a talented designer or start a design contest. 500k+ happy customers have used 99designs to grow their business. |  | crowdsource, graphic design, design |
- <img src="https://assets.codementor.io/icons/favicon-96x96.png" width="16" /> | Codementor | Codementor is the largest community for developer
-      mentorship and an on-demand marketplace for software developers.
-      Get instant coding help, build projects faster, and read programming
-    ... |  |  |
+ <img src="https://assets.codementor.io/icons/favicon-96x96.png" width="16" /> | Codementor | Codementor is the largest community for developer mentorship and an on-demand marketplace for software developers. Get instant coding help, build projects faster, and read programming tutorials from o... |  |  |
  <img src="https://assetsv2.fiverrcdn.com/assets/v2_globals/apple-touch-icon-76x76-e74f7616f5a5f00eb18aa6426eeac69c.png" width="16" /> | Fiverr | One marketplace, millions of professional services. Browse. Buy. Done. |  |  |
  <img src="https://www.f-cdn.com/assets/main/en/app-icons/apple-touch-icon.png" width="16" /> | Freelancer | Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 48m. Receive quotes in seconds. Post your job online now. |  |  |
  <img src="https://www.guru.com/favicon-32x32.png" width="16" /> | Guru | Guru is one of the best freelance websites to find & hire Freelancers online and get work done. Freelancers can also search jobs for freelance work and get hired. |  |  |
@@ -466,9 +461,7 @@
  <img src="https://cssbattle.dev/images/logo-square.png" width="16" /> | CSSBattle | CSS Code Golfing is Here! |  |  |
  <img src="https://www.easeout.co/favicon.ico" width="16" /> | EASEOUT | Coding tutorials about CSS, HTML, JavaScript, and articles about design creativity & modern web development technology. |  |  |
  <img src="https://epicreact.dev/icons/icon-96x96.png?v=4fc004c2d47bff97350bf9ba653e0bdd" width="16" /> | Epic React | Strap in and take your React applications to the next level. |  |  |
- <img src="http://www.flexboxdefense.com/images/favicon.ico" width="16" /> | Flexbox Defense | Your job is to stop the incoming enemies from getting past
-                   your defenses. Unlike other tower defense games, you must
-                   position your towers using CSS! |  |  |
+ <img src="http://www.flexboxdefense.com/images/favicon.ico" width="16" /> | Flexbox Defense | Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS! |  |  |
  <img src="http://flexboxfroggy.com/favicon.ico" width="16" /> | Flexbox Froggy | A game for learning CSS flexbox. |  |  |
  <img src="https://www.freecodecamp.org/icons/icon-96x96.png?v=6cba562cbd10e31af925a976f3db73f7" width="16" /> | freeCodeCamp | Learn to code at home. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including Google, Apple, Amazon, and Microsoft. |  | javascript, js, website, web, development, free, code, camp, course, courses, html, css, react, redu... |
  <img src="https://frontendmasters.com/favicon-32x32.png" width="16" /> | Frontend Masters | Advance your skills with in-depth, modern JavaScript and front-end engineering courses. |  |  |
@@ -613,11 +606,7 @@
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | Better Coding Academy | Learn to code. Get a job. No longwinded lectures, no tantalising tutorials. Fast and efficient, for the impulsive millennial. |  | programming "web development" javascript react node.js |
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | Coding Tech | Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here's the list of Conferences that provi... |  | javascript python css html "machine learning" "artificial intelligence" "software development" progr... |
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | CS50 | This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused top... |  | cs50 harvard computer science david j. malan |
- <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | Dev Ed | Learn web development, web design, 3d modelling, tools like figma and more without getting bored!
-
-The goes of this channel is to get you to become as creative you can be!
-
-So if you like to create vi... |  | web development design javascript tutorials |
+ <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | Dev Ed | Learn web development, web design, 3d modelling, tools like figma and more without getting bored! The goes of this channel is to get you to become as creative you can be! So if you like to create vide... |  | web development design javascript tutorials |
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | DevTips | DevTips is slowly opening back up! We're excited to start working with a long-time community member, Jay of iEatWebsites, on bringing back top-tier, front-end development content with designers in min... |  | HTML CSS Javascript "Web Development" Coding Design |
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | Fun Fun Function | I’m Mattias Petter Johansson, mpj for short. I’ve been a full-time programmer for about ten years. Among others, I've worked for Absolut Vodka, Blackberry and Spotify.  
 
@@ -740,9 +729,7 @@ Level Up Tutorials was created in March of 2012 by Scott Tolinski & Ben Schaaf w
  <img src="https://www.octotree.io/favicon-32x32.png" width="16" /> | Octotree | GitHub on steroids. |  |  |
  <img src="https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/favicon/favicon-32x32.d80e4bdc6a9f.png" width="16" /> | Opera | Get a faster, better browser. Opera's free VPN, Ad Blocker, integrated messengers and private mode help you browse securely and smoothly. Share files instantly between your desktop and mobile browsers... |  |  |
  <img src="https://polypane.app/icons/icon-96x96.png?v=5df5528946772487a6ab462ff2125f26" width="16" /> | Polypane | A browser for web developers and designers with all the tools you need to build responsive, accessible and fast sites five times faster. |  |  |
- <img src="https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png" width="16" /> | React DevTools | Adds React debugging tools to the Chrome Developer Tools.
-
-Created from revision f160547f47 on 12/4/2020. |  |  |
+ <img src="https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png" width="16" /> | React DevTools | Adds React debugging tools to the Chrome Developer Tools. Created from revision f160547f47 on 12/4/2020. |  |  |
  <img src="https://responsively.app/icons/icon-96x96.png?v=a7d0de524bb1ca8ac597715219a3760c" width="16" /> | Responsively | A dev-tool that aids faster and precise responsive web development. |  |  |
  <img src="https://developer.apple.com/favicon.ico?51002006191" width="16" /> | Safari Technology Preview | Safari is the best way to see the sites on iPhone, iPad, and Mac. Safari Technology Preview gives you an early look at upcoming web technologies in macOS and iOS. |  |  |
  <img src="https://sizzy.co/favicon.ico" width="16" /> | Sizzy | Stop wasting time and speed up your development workflow. |  |  |
@@ -939,10 +926,6 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
 ### <a name="youtube-channels"><a name="ui-design-youtube-channels">YouTube Channels</a></a>
 | &nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
- <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | DesignCourse | Https://coursetro.com
-
-New videos weekly from Monday to Thursday @ 10:30 AM ET!
-
-Hi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with ... |  | "web design" "logo design" "illustrator tutorials" "website design" free ui ux "user experience desi... |
+ <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | DesignCourse | New videos weekly from Monday to Thursday @ 10:30 AM ET! Hi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlu... |  | "web design" "logo design" "illustrator tutorials" "website design" free ui ux "user experience desi... |
 
 **[⬆ Back to Index](#index)**

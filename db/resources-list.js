@@ -2233,7 +2233,7 @@ module.exports = [
         "categories": [
             "Jobs/Freelancing"
         ],
-        "description": "Codementor is the largest community for developer\n      mentorship and an on-demand marketplace for software developers.\n      Get instant coding help, build projects faster, and read programming\n      tutorials from our community of developers.",
+        "description": "Codementor is the largest community for developer mentorship and an on-demand marketplace for software developers. Get instant coding help, build projects faster, and read programming tutorials from our community of developers.",
         "url": "https://www.codementor.io/",
         "icon": "https://assets.codementor.io/icons/favicon-96x96.png"
     },
@@ -3452,7 +3452,7 @@ module.exports = [
         "categories": [
             "UI Design/YouTube Channels"
         ],
-        "description": "Https://coursetro.com\n\nNew videos weekly from Monday to Thursday @ 10:30 AM ET!\n\nHi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlus.com, DigitalTutors.com, Pluralsight.com, LinkedIn Learning & Lynda.com.\n\nI teach full stack development! Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more!\n\nInterested in a sponsorship opportunity or review?  Contact me: contact@coursetro.com.",
+        "description": "New videos weekly from Monday to Thursday @ 10:30 AM ET! Hi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlus.com, DigitalTutors.com, Pluralsight.com, LinkedIn Learning & Lynda.com. I teach full stack development! Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more! Interested in a sponsorship opportunity or review?  Contact me: contact@coursetro.com.",
         "keywords": [
             "\"web design\" \"logo design\" \"illustrator tutorials\" \"website design\" free ui ux \"user experience design\" \"ux design\" \"frontend development\" \"frontend developer\""
         ],
@@ -3508,7 +3508,7 @@ module.exports = [
         "categories": [
             "Programming/YouTube Channels"
         ],
-        "description": "Learn web development, web design, 3d modelling, tools like figma and more without getting bored!\n\nThe goes of this channel is to get you to become as creative you can be!\n\nSo if you like to create video games in Unity or develop an application in node.js, stick around and have fun!",
+        "description": "Learn web development, web design, 3d modelling, tools like figma and more without getting bored! The goes of this channel is to get you to become as creative you can be! So if you like to create video games in Unity or develop an application in node.js, stick around and have fun!",
         "keywords": [
             "web development design javascript tutorials"
         ],
@@ -4476,7 +4476,7 @@ module.exports = [
         "categories": [
             "Programming/Learn"
         ],
-        "description": "Your job is to stop the incoming enemies from getting past\n                   your defenses. Unlike other tower defense games, you must\n                   position your towers using CSS!",
+        "description": "Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!",
         "url": "http://www.flexboxdefense.com/",
         "icon": "http://www.flexboxdefense.com/images/favicon.ico"
     },
@@ -4536,7 +4536,7 @@ module.exports = [
         "categories": [
             "Jobs/Boards"
         ],
-        "description": "A job board dedicated to Flutter, the mobile cross platform SDK. We have jobs in Africa, the\n    Americas, Asia, Europe, Oceania, and remote.",
+        "description": "A job board dedicated to Flutter, the mobile cross platform SDK. We have jobs in Africa, the Americas, Asia, Europe, Oceania, and remote.",
         "url": "https://flutterjobs.info/",
         "icon": "https://flutterjobs.info/favicon.png"
     },
@@ -10526,7 +10526,7 @@ module.exports = [
         "categories": [
             "Tools & Utilities/Browsers & Extensions"
         ],
-        "description": "Adds React debugging tools to the Chrome Developer Tools.\n\nCreated from revision f160547f47 on 12/4/2020.",
+        "description": "Adds React debugging tools to the Chrome Developer Tools. Created from revision f160547f47 on 12/4/2020.",
         "url": "https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en",
         "icon": "https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png"
     },
@@ -11956,7 +11956,7 @@ module.exports = [
         "categories": [
             "Assets/Icons"
         ],
-        "description": "SVGBox allows you to add any of the 3,405 icons we have to your project by using simple tags. \n    Instead of using downloading and uploading icons, simply copy tag and start using it. We are constantly adding \n    more and more icons to serve different use cases.",
+        "description": "SVGBox allows you to add any of the 3,405 icons we have to your project by using simple tags. Instead of using downloading and uploading icons, simply copy tag and start using it. We are constantly adding more and more icons to serve different use cases.",
         "url": "https://svgbox.net/",
         "icon": "https://svgbox.net/assets/favicon.svg"
     },
