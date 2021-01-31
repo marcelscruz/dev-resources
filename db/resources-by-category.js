@@ -9365,8 +9365,7 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/Accessibility"
             ],
-            "url": "https://contrast-ratio.com/",
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAJUlEQVQ4T2P8////fwY8gJGRcQte+VEDGBhHw2A0DBgYhkMYAAA6UEtB82XtEAAAAABJRU5ErkJggg=="
+            "url": "https://contrast-ratio.com/"
         },
         {
             "name": "HTML5 Accessibility",
@@ -14932,8 +14931,7 @@ module.exports = {
                 "Assets/Logos"
             ],
             "description": "Create stunning logos in seconds - no design skills required!",
-            "url": "https://hatchful.shopify.com/",
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABZVBMVEVHcEygCKmlC63/vwCgCKqlCK7/wgDz1sv/vwCyKor/////vwD/vwChB6ugCKqhCaufB6qgB6r/vwDNhYiqIrv/vwD/vwD/wAD/2wCqF6KgCKqjB66gB6mfCar/vwD/wwCfB6mgB6r/vgChCKujCaz/vwD/vwD/wQD/vwChCan/wACgB6qgB6rkr76yKYv/vgCgB6n/wQD/vgD/vwD/vwDXjrCfC6qlDqygCKmhCKmfCKr/vgCfB6n///8hKzb8/Pz/zDn/2m7prwbGbszQhdWoHbH69Pvw2fJaYWrWlNpCS1TX2Nr/wAb/+/CgCKr/yS3//fn/xRv/5ZvwtASbfRmsiBXNf9K6TsHhs+Teq+H/xySvMrhqcXirr7Ofo6jv8PHsz+7x8fL58fpyeYAnMDtTW2P79vuzPLv/6q//1Ff/34P/2Gb/23P/+OX/+Ob/3XrLedD/6Kf/89H/wxf/8cr/8Mf/1mKF0nczAAAAO3RSTlMAwhb+6B0u9kfWAZp7aOBJsvnrAwfSuk8HEJkiynjWCP2M8YI4b1dGr3eF7/vuttzWYkNz4+gwJadcqEU7V3YAAAFcSURBVHjaxZLj2iNBGET7M2LbWdt4axw7Wds2bz/s8T77N2c8ddrN1sg1f+X/wg1k/x0UUofL506x5MqS+558mQ5C50tX51++nUAuYyvqLdOCAwCD6zuM3QSCljxxmX79/fH7z1IAtqtspxIMmLl3azwZCT8nCl35/g5zQlVmxUMf+l+/jWnOniA07y3q2LTkl+jz6GOPiAuCUAOQNvOLW5/6MpFFEDTgtDGGSH74heeG0KgDJ3ThAr0fklXgjWzowjlZIavQbbWeCc+BbZ7vktIjUm8bQkd8JUgvgWKETwE9JKI7osoFSRRfv+m+BUKHKyG+Cm4ZNTwWxY7UBPy8iRhPDEF68vSF0DZXIuwUljwCfFw4tr/AYxfmFZxKMSsJm3B/AOQcuyVsCo27ALJRZucoF8480OoA/JvMyZEtY0cBG7acs3tcF7Z9fBJdysl47OxGOsCbd3PI1sEM2eljzimeIKwAAAAASUVORK5CYII="
+            "url": "https://hatchful.shopify.com/"
         },
         {
             "name": "LogoTaco",
