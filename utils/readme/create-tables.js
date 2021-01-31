@@ -55,7 +55,7 @@ function createRow(nodes) {
         data.forEach((resource) => {
             const { name, description = '', links: resourceLinks, icon, keywords = [] } = resource
 
-            const favicon = icon ? `<img src="${icon}" width="16" />` : '&nbsp;'
+            const favicon = icon ? `<img src="${icon}" width="16" style="max-width: unset;"  />` : '&nbsp;'
             const truncatedDescription = truncate({
                 text: description,
                 limit: 200,
