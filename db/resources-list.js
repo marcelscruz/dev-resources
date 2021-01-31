@@ -237,7 +237,7 @@ module.exports = [
         "categories": [
             "Programming/YouTube Channels"
         ],
-        "description": "I'm Adrian from Australia, a designer and developer who makes websites and apps using platforms like React Native. I'm hoping to share some of the things I've learnt over the years about my career and hobbies for coding, user interface and experience!\n\nSome of the things we will cover will include:\n- Development for React, React Native, Javascript, HTML, CSS, etc\n- Small changes to improve UI & UX, like the use of colour, positioning and size\n- Large changes like websites or apps, like entire re-designs\n- Techniques on creating style-guides\n- Reviews of existing businesses online presence and tips on improving them\n\n#coding #programming #ui #ux #webdevelopment #development #react #reactnative #design #userexperience #userinterface.",
+        "description": "I'm Adrian from Australia, a designer and developer who makes websites and apps using platforms like React Native. I'm hoping to share some of the things I've learnt over the years about my career and hobbies for coding, user interface and experience! Some of the things we will cover will include: - Development for React, React Native, Javascript, HTML, CSS, etc - Small changes to improve UI & UX, like the use of colour, positioning and size - Large changes like websites or apps, like entire re-designs - Techniques on creating style-guides - Reviews of existing businesses online presence and tips on improving them. #coding #programming #ui #ux #webdevelopment #development #react #reactnative #design #userexperience #userinterface.",
         "keywords": [
             "HTML CSS JS UI UX WordPress \"React Native\" \"User Interface Design\" Website JavaScript \"Graphics design\""
         ],
@@ -2408,7 +2408,7 @@ module.exports = [
         "categories": [
             "Programming/YouTube Channels"
         ],
-        "description": "Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here's the list of Conferences that provided Coding Tech with EXPLICIT written publication permissions: PyData, MLConf, Build Stuff, Code::dive, PolyConf, AmsterdamJS, React Amsterdam, ReactiveConf, Jazoon Tech Days, SFNode, CppCon, Infinite Red, GDG Lviv, Mibuso.com, You Gotta Love Frontend, React Native EU, Node Summit, NodeConfEU, ConFoo, Pixels Camp, JavaScriptLA, The Linux Foundation, Oredev Conference, Techlahoma, fitcevents. Coding Tech also re-posts content which was originally published with the Creative Commons Attribution license (reuse allowed).\n\nFor business inquiries, please connect on Twitter: https://twitter.com/yuriymatso.",
+        "description": "Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here's the list of Conferences that provided Coding Tech with EXPLICIT written publication permissions: PyData, MLConf, Build Stuff, Code::dive, PolyConf, AmsterdamJS, React Amsterdam, ReactiveConf, Jazoon Tech Days, SFNode, CppCon, Infinite Red, GDG Lviv, Mibuso.com, You Gotta Love Frontend, React Native EU, Node Summit, NodeConfEU, ConFoo, Pixels Camp, JavaScriptLA, The Linux Foundation, Oredev Conference, Techlahoma, fitcevents. Coding Tech also re-posts content which was originally published with the Creative Commons Attribution license (reuse allowed). For business inquiries, please connect on Twitter: https://twitter.com/yuriymatso.",
         "keywords": [
             "javascript python css html \"machine learning\" \"artificial intelligence\" \"software development\" programming"
         ],
@@ -3563,7 +3563,7 @@ module.exports = [
         "categories": [
             "Programming/YouTube Channels"
         ],
-        "description": "DevTips is slowly opening back up! We're excited to start working with a long-time community member, Jay of iEatWebsites, on bringing back top-tier, front-end development content with designers in mind to the subscribers. \n\n--\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nEverything you see and hear are the opinions and preferences of the individual who said them, and no one else's.",
+        "description": "DevTips is slowly opening back up! We're excited to start working with a long-time community member, Jay of iEatWebsites, on bringing back top-tier, front-end development content with designers in mind to the subscribers. DevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay! Everything you see and hear are the opinions and preferences of the individual who said them, and no one else's.",
         "keywords": [
             "HTML CSS Javascript \"Web Development\" Coding Design"
         ],
@@ -5057,7 +5057,7 @@ module.exports = [
         "categories": [
             "Programming/YouTube Channels"
         ],
-        "description": "I’m Mattias Petter Johansson, mpj for short. I’ve been a full-time programmer for about ten years. Among others, I've worked for Absolut Vodka, Blackberry and Spotify.  \n\nVideos are released on MONDAYS at 08:00 GMT. For the love of 🗿, watch them!\n\n❤️ Support the show on Patreon: https://patreon.com/funfunfunction:\n\n⛱ Pledge $2/month and get access to the Fun Fun Forum where I and other inspiring patrons hang out and talk about everything more or less related to programming.\n\nBecome a SUPER PATRON 🦹‍♀️🦸‍♂️ for $9/month and get access to the Forum AND random LOOT (like stickers and private live streams)\n\nCheck out the sister channel DevTips: https://www.youtube.com/user/DevTipsForDesigners.",
+        "description": "I’m Mattias Petter Johansson, mpj for short. I’ve been a full-time programmer for about ten years. Among others, I've worked for Absolut Vodka, Blackberry and Spotify.   Videos are released on MONDAYS at 08:00 GMT. For the love of 🗿, watch them! ❤️ Support the show on Patreon: https://patreon.com/funfunfunction: ⛱ Pledge $2/month and get access to the Fun Fun Forum where I and other inspiring patrons hang out and talk about everything more or less related to programming. Become a SUPER PATRON 🦹‍♀️🦸‍♂️ for $9/month and get access to the Forum AND random LOOT (like stickers and private live streams) Check out the sister channel DevTips: https://www.youtube.com/user/DevTipsForDesigners.",
         "keywords": [
             "javascript \"web development\" programming software development technology computer science engineering developer creativity productivity"
         ],
@@ -7353,7 +7353,7 @@ module.exports = [
         "categories": [
             "Programming/YouTube Channels"
         ],
-        "description": "An animated, collaborative coding live stream by David Khourshid (@davidkpiano) & Stephen Shaw (@shshaw). We bring imaginative user interfaces to life every Monday @ 17:00 EST/21:00 GMT at https://twitch.tv/keyframers\n\nSupport us at https://patreon.com/keyframers\nFind developer shirts, stickers & more at https://keyframe.rs/merch\n\nhttps://keyframe.rs.",
+        "description": "An animated, collaborative coding live stream by David Khourshid (@davidkpiano) & Stephen Shaw (@shshaw). We bring imaginative user interfaces to life every Monday @ 17:00 EST/21:00 GMT at https://twitch.tv/keyframers Support us at https://patreon.com/keyframers Find developer shirts, stickers & more at https://keyframe.rs/merch https://keyframe.rs.",
         "keywords": [
             "code \"live stream\" css html javascript animation"
         ],
@@ -7582,7 +7582,7 @@ module.exports = [
         "categories": [
             "Programming/YouTube Channels"
         ],
-        "description": "100% FREE Web Development tutorials, web site design tutorials and more.\n\nIncluding, but not limited to:\nHTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev Ops, Server Administration, Deployment Strategies.",
+        "description": "100% FREE Web Development tutorials, web site design tutorials and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev Ops, Server Administration, Deployment Strategies.",
         "keywords": [
             "\"web development\" \"web design\" tutorials web development tutorial learn html css javascript"
         ],
@@ -7626,7 +7626,7 @@ module.exports = [
         "categories": [
             "Programming/YouTube Channels"
         ],
-        "description": "TLDR;\n\n840+ free video tutorials created, recorded, edited, published and maintained by Scott Tolinski.\n\nThe Story\n\nLevel Up Tutorials was created in March of 2012 by Scott Tolinski & Ben Schaaf while working together at Q LTD in Ann Arbor, MI. In February of 2012, Scott suffered a concussion after an injury while breakdancing. Stuck inside and unable to be active, Scott & Ben plotted to try and ease the pain of poor or outdated documentation and training on web projects. Although Ben enjoyed creating tutorials, due to time constraints he was unable to continue and Scott took on the project by himself.\n\nThe Philosophy\n\nBuilding websites is frustrating, or at least it can be. Level Up Tutorials sets how to help fix a major problem in learning technologies. The lack of in-depth, basic tutorials that teach more than just what to type when. Videos created for Level Up Tutorials are aimed to be accessible and easy to follow while maintaining high production values.",
+        "description": "TLDR; 840+ free video tutorials created, recorded, edited, published and maintained by Scott Tolinski. The Story: Level Up Tutorials was created in March of 2012 by Scott Tolinski & Ben Schaaf while working together at Q LTD in Ann Arbor, MI. In February of 2012, Scott suffered a concussion after an injury while breakdancing. Stuck inside and unable to be active, Scott & Ben plotted to try and ease the pain of poor or outdated documentation and training on web projects. Although Ben enjoyed creating tutorials, due to time constraints he was unable to continue and Scott took on the project by himself. The Philosophy: Building websites is frustrating, or at least it can be. Level Up Tutorials sets how to help fix a major problem in learning technologies. The lack of in-depth, basic tutorials that teach more than just what to type when. Videos created for Level Up Tutorials are aimed to be accessible and easy to follow while maintaining high production values.",
         "keywords": [
             "meteor angularjs angular drupal wordpress expression engine sass compass css cms drupal7 tutorials education web development websites html html5 css3 jquery ..."
         ],
