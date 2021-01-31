@@ -20,7 +20,7 @@ module.exports = [
         name: 'keyframers',
         categories: [programming.youtubeChannels],
         description:
-            'An animated, collaborative coding live stream by David Khourshid (@davidkpiano) & Stephen Shaw (@shshaw). We bring imaginative user interfaces to life every Monday @ 17:00 EST/21:00 GMT at https://twitch.tv/keyframers\n\nSupport us at https://patreon.com/keyframers\nFind developer shirts, stickers & more at https://keyframe.rs/merch\n\nhttps://keyframe.rs.',
+            'An animated, collaborative coding live stream by David Khourshid (@davidkpiano) & Stephen Shaw (@shshaw). We bring imaginative user interfaces to life every Monday @ 17:00 EST/21:00 GMT at https://twitch.tv/keyframers Support us at https://patreon.com/keyframers Find developer shirts, stickers & more at https://keyframe.rs/merch https://keyframe.rs.',
         keywords: ['code "live stream" css html javascript animation'],
         url: 'https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA',
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',

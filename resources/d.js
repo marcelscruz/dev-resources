@@ -144,7 +144,7 @@ module.exports = [
         name: 'DevTips',
         categories: [programming.youtubeChannels],
         description:
-            "DevTips is slowly opening back up! We're excited to start working with a long-time community member, Jay of iEatWebsites, on bringing back top-tier, front-end development content with designers in mind to the subscribers. \n\n--\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nEverything you see and hear are the opinions and preferences of the individual who said them, and no one else's.",
+            "DevTips is slowly opening back up! We're excited to start working with a long-time community member, Jay of iEatWebsites, on bringing back top-tier, front-end development content with designers in mind to the subscribers. DevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay! Everything you see and hear are the opinions and preferences of the individual who said them, and no one else's.",
         keywords: ['HTML CSS Javascript "Web Development" Coding Design'],
         url: 'https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ',
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',

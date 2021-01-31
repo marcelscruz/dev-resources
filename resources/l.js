@@ -107,7 +107,7 @@ module.exports = [
         name: 'LearnCode.academy',
         categories: [programming.youtubeChannels],
         description:
-            '100% FREE Web Development tutorials, web site design tutorials and more.\n\nIncluding, but not limited to:\nHTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev Ops, Server Administration, Deployment Strategies.',
+            '100% FREE Web Development tutorials, web site design tutorials and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev Ops, Server Administration, Deployment Strategies.',
         keywords: ['"web development" "web design" tutorials web development tutorial learn html css javascript'],
         url: 'https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw',
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
@@ -132,7 +132,7 @@ module.exports = [
         name: 'LevelUpTuts',
         categories: [programming.youtubeChannels],
         description:
-            'TLDR;\n\n840+ free video tutorials created, recorded, edited, published and maintained by Scott Tolinski.\n\nThe Story\n\nLevel Up Tutorials was created in March of 2012 by Scott Tolinski & Ben Schaaf while working together at Q LTD in Ann Arbor, MI. In February of 2012, Scott suffered a concussion after an injury while breakdancing. Stuck inside and unable to be active, Scott & Ben plotted to try and ease the pain of poor or outdated documentation and training on web projects. Although Ben enjoyed creating tutorials, due to time constraints he was unable to continue and Scott took on the project by himself.\n\nThe Philosophy\n\nBuilding websites is frustrating, or at least it can be. Level Up Tutorials sets how to help fix a major problem in learning technologies. The lack of in-depth, basic tutorials that teach more than just what to type when. Videos created for Level Up Tutorials are aimed to be accessible and easy to follow while maintaining high production values.',
+            'TLDR; 840+ free video tutorials created, recorded, edited, published and maintained by Scott Tolinski. The Story: Level Up Tutorials was created in March of 2012 by Scott Tolinski & Ben Schaaf while working together at Q LTD in Ann Arbor, MI. In February of 2012, Scott suffered a concussion after an injury while breakdancing. Stuck inside and unable to be active, Scott & Ben plotted to try and ease the pain of poor or outdated documentation and training on web projects. Although Ben enjoyed creating tutorials, due to time constraints he was unable to continue and Scott took on the project by himself. The Philosophy: Building websites is frustrating, or at least it can be. Level Up Tutorials sets how to help fix a major problem in learning technologies. The lack of in-depth, basic tutorials that teach more than just what to type when. Videos created for Level Up Tutorials are aimed to be accessible and easy to follow while maintaining high production values.',
         keywords: [
             'meteor angularjs angular drupal wordpress expression engine sass compass css cms drupal7 tutorials education web development websites html html5 css3 jquery ...',
         ],
