@@ -1,11 +1,12 @@
 # Contributing
 
-Everyone is encouraged to collaborate and add new resources to the list, but please take into consideration the following:
+Everyone is welcome to collaborate to this project, but please take into consideration the following:
 
--   the resource should align with the purpose of the project
--   the resource isn't a duplicate; a text search on the README file should be enough to find this answer
--   the resources lists are written in JavaScript; if you need assistance on this matter, please open an issue with the resource's information
+-   resources should align with the purpose of the project
+-   resources shouldn't be a duplicate; a text search on the README file should be enough to find this answer
+-   the list of resources is written in JavaScript; if you need assistance on this matter, please open an issue with the resource's information
 -   make sure to check all items listed on the [pull request template](PULL_REQUEST_TEMPLATE.md) before submitting your contribution
+-   the [website](https://devresourc.es) is synchronized with this repository every Wednesday
 
 ## Adding a resource
 
