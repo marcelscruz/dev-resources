@@ -4,7 +4,7 @@ const createIndex = require('./create-index')
 const createTables = require('./create-tables')
 const writeToFile = require('../write-to-file')
 
-const title = '# Dev Resources\n\n'
+const logo = '<p align="center"><img width="700" src="./public/assets/images/logo-with-bg.png" /></p>\n\n'
 
 const description = 'The list and public API of the resources that power [Dev Resources](https://devresourc.es).\n\n'
 
@@ -20,7 +20,7 @@ async function updateReadme() {
         const tables = createTables(resourcesTree)
 
         await writeToFile({
-            data: `${title} ${description} ${contributionGuide} ${usageGuide} ${index} ${tables}`,
+            data: `${logo} ${description} ${contributionGuide} ${usageGuide} ${index} ${tables}`,
             filePath: './README.md',
         })
     } catch (error) {
