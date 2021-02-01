@@ -81,6 +81,8 @@ module.exports = [
     {
         name: 'Edge Canary',
         categories: [toolsAndUtilities.browsersAndExtensions],
+        description:
+            'Want to see what we were working on yesterday? Canary will be released automatically almost every night to keep you up to date on our progress.',
         links: {
             [website]: 'https://www.microsoftedgeinsider.com/en-us/welcome?channel=canary',
         },
@@ -89,6 +91,8 @@ module.exports = [
     {
         name: 'Edge Dev',
         categories: [toolsAndUtilities.browsersAndExtensions],
+        description:
+            'Our dev builds are the best representation of our improvements in the past week. They have been tested by the Microsoft Edge team, and are generally more stable than Canary.',
         links: {
             [website]: 'https://www.microsoftedgeinsider.com/en-us/welcome?channel=dev',
         },
@@ -107,6 +111,7 @@ module.exports = [
     {
         name: 'Eloquent JavaScript',
         categories: [programming.books],
+        description: 'This is a book about JavaScript, programming, and the wonders of the digital.',
         links: {
             [website]: 'https://eloquentjavascript.net/',
         },
@@ -115,6 +120,8 @@ module.exports = [
     {
         name: 'Emacs',
         categories: [toolsAndUtilities.editorsAndExtensions],
+        description:
+            'Emacs or EMACS is a family of text editors that are characterized by their extensibility. The manual for the most widely used variant, GNU Emacs, describes it as "the extensible, customizable, self-documenting, real-time display editor".',
         links: {
             [website]: 'https://www.gnu.org/software/emacs/',
         },
@@ -160,6 +167,8 @@ module.exports = [
     {
         name: 'Error 404 Illustrations',
         categories: [assets.illustrations],
+        description:
+            'Make a unique journey through 404 error pages on your website. Use these illustrations that describe better than words.',
         links: {
             [website]: 'https://error404.fun/',
         },

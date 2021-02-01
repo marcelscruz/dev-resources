@@ -24,6 +24,7 @@ module.exports = [
     {
         name: 'JAMstacked',
         categories: [programming.newsletters],
+        description: 'An email update on the evolving JAMstack ecosystem.',
         links: {
             [website]: 'https://jamstack.email/',
         },
@@ -72,6 +73,7 @@ module.exports = [
     {
         name: 'JavaScript Jabber',
         categories: [programming.podcasts],
+        description: 'A podcast about JavaScript.',
         links: {
             [website]: 'https://devchat.tv/podcasts/js-jabber/',
         },
@@ -80,6 +82,7 @@ module.exports = [
     {
         name: 'JavaScript Weekly',
         categories: [programming.newsletters],
+        description: 'A newsletter of JavaScript articles, news and cool projects.',
         links: {
             [website]: 'https://javascriptweekly.com/',
         },

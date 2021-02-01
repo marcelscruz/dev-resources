@@ -5,6 +5,8 @@ module.exports = [
     {
         name: 'PageSpeed Insights',
         categories: [toolsAndUtilities.performance],
+        description:
+            'PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster.',
         links: {
             [website]: 'https://developers.google.com/speed/pagespeed/insights/',
         },
@@ -242,6 +244,8 @@ module.exports = [
     {
         name: 'Puppeteer',
         categories: [programming.testing],
+        description:
+            'Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.',
         links: {
             [website]: 'https://pptr.dev/',
         },

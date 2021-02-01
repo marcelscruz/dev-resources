@@ -236,6 +236,8 @@ module.exports = [
     {
         name: 'dygraphs',
         categories: [programming.charts],
+        description:
+            'dygraphs is a fast, flexible open source JavaScript charting library. It allows users to explore and interpret dense data sets.',
         links: {
             [website]: 'https://dygraphs.com/',
         },

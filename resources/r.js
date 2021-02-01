@@ -24,6 +24,7 @@ module.exports = [
     {
         name: 'React 30',
         categories: [programming.podcasts],
+        description: 'A podcast about React.',
         links: {
             [website]: 'https://react30.com/',
         },
@@ -32,6 +33,8 @@ module.exports = [
     {
         name: 'React Bootstrap',
         categories: [programming.uiKitsAndLibraries],
+        description:
+            'React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built from scratch as a true React component, without unneeded dependencies like jQuery.',
         links: {
             [website]: 'https://react-bootstrap.github.io/',
         },
@@ -100,6 +103,8 @@ module.exports = [
     {
         name: 'Refactoring UI',
         categories: [uiDesign.learn],
+        description:
+            "Tired of relying on Bootstrap? Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view.",
         links: {
             [website]: 'https://refactoringui.com/',
         },
@@ -129,6 +134,7 @@ module.exports = [
     {
         name: 'Remote.co',
         categories: [jobs.remoteOnly],
+        description: 'Remote.co is a resource for companies that see remote work as an opportunity.',
         links: {
             [website]: 'https://remote.co/',
         },

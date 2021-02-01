@@ -25,6 +25,8 @@ module.exports = [
     {
         name: 'Vim',
         categories: [toolsAndUtilities.editorsAndExtensions],
+        description:
+            'Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.',
         keywords: ['Vim', 'Vi IMproved', 'text editor', 'home', 'documentation', 'tips', 'scripts', 'news'],
         links: {
             [website]: 'https://www.vim.org/',

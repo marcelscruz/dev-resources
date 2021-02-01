@@ -13,6 +13,7 @@ module.exports = [
     {
         name: 'Ladybug',
         categories: [programming.podcasts],
+        description: 'We’re debugging the tech industry. Every Monday.',
         links: {
             [website]: 'https://www.ladybug.dev/',
         },
@@ -81,6 +82,7 @@ module.exports = [
     {
         name: 'Larajobs',
         categories: [jobs.boards],
+        description: 'Since 2014, the #1 Laravel job board connecting the best jobs with top talent.',
         links: {
             [website]: 'https://larajobs.com/',
         },
@@ -119,6 +121,7 @@ module.exports = [
     {
         name: 'Learn X in Y minutes',
         categories: [programming.learn],
+        description: 'Take a whirlwind tour of your next favorite language. Community-driven!',
         links: {
             [website]: 'https://learnxinyminutes.com/',
         },
@@ -211,6 +214,7 @@ module.exports = [
     {
         name: 'Lobsters',
         categories: [readingAndWriting.platforms],
+        description: 'Lobsters is a computing-focused community centered around link aggregation and discussion.',
         links: {
             [website]: 'https://lobste.rs/',
         },
@@ -249,6 +253,7 @@ module.exports = [
     {
         name: 'Lost Type Co-op',
         categories: [assets.fonts],
+        description: 'Lost Type is a collaborative digital type foundry.',
         links: {
             [website]: 'http://losttype.com/',
         },

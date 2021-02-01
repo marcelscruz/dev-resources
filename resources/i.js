@@ -65,6 +65,8 @@ module.exports = [
     {
         name: 'IconSweets',
         categories: [assets.icons],
+        description:
+            'IconSweets is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.',
         links: {
             [website]: 'https://www.designbombs.com/iconsweets2/',
         },
@@ -73,6 +75,7 @@ module.exports = [
     {
         name: 'Icônes',
         categories: [assets.icons],
+        description: 'Icon Explorer with Instant searching, powered by Iconify',
         links: {
             [website]: 'https://icones.netlify.app/',
         },
@@ -81,8 +84,9 @@ module.exports = [
     {
         name: 'Image Optimizer',
         categories: [assets.images],
+        description: 'Compress and resize photos.',
         links: {
-            [website]: 'http://www.imageoptimizer.net/Pages/Home.aspx',
+            [website]: 'http://www.imageoptimizer.net/',
         },
         icon: 'data:image/x-icon;,',
     },
@@ -218,6 +222,7 @@ module.exports = [
     },
     {
         name: 'Isometriclove',
+        description: 'Cute isometric objects for your design.',
         categories: [assets.illustrations],
         links: {
             [website]: 'https://isometriclove.com/',

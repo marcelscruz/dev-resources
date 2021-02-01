@@ -23,6 +23,7 @@ module.exports = [
     {
         name: 'Hacker News',
         categories: [readingAndWriting.platforms],
+        description: 'Hacker News is a social news website focusing on computer science and entrepreneurship.',
         links: {
             [website]: 'https://news.ycombinator.com/',
         },
@@ -90,6 +91,8 @@ module.exports = [
     {
         name: 'Hemingway App',
         categories: [readingAndWriting.utilities],
+        description:
+            'Hemingway App makes your writing bold and clear. The app highlights lengthy, complex sentences and common errors.',
         links: {
             [website]: 'https://hemingwayapp.com/',
         },
@@ -126,8 +129,10 @@ module.exports = [
     {
         name: 'High Compress',
         categories: [assets.images],
+        description:
+            'HighCompress is an incredibly powerful tool that can compress images upto 95%. Make your website load faster, optimize your images and boost SEO.',
         links: {
-            [website]: 'https://www.highcompress.com/online-compress',
+            [website]: 'https://www.highcompress.com/',
         },
         icon: 'https://www.highcompress.com/apple-touch-icon.html',
     },
@@ -232,6 +237,7 @@ module.exports = [
     {
         name: 'HTML5 Accessibility',
         categories: [toolsAndUtilities.accessibility],
+        description: 'Get the current accessibility support status of HTML5 features across major browsers',
         links: {
             [website]: 'https://www.html5accessibility.com/',
         },

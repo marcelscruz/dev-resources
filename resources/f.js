@@ -89,6 +89,8 @@ module.exports = [
     {
         name: 'Firefox Nightly',
         categories: [toolsAndUtilities.browsersAndExtensions],
+        description:
+            'Get a sneak peek at our next generation web browser, and help us make it the best browser it can be',
         links: {
             [website]: 'https://www.mozilla.org/en-US/firefox/69.0a1/releasenotes/',
         },
@@ -421,6 +423,8 @@ module.exports = [
     {
         name: 'Frontend Focus',
         categories: [programming.newsletters],
+        description:
+            'A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.',
         links: {
             [website]: 'https://frontendfoc.us/',
         },

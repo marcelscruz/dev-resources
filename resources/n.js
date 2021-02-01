@@ -5,6 +5,7 @@ module.exports = [
     {
         name: 'n3-charts',
         categories: [programming.charts],
+        description: 'Awesome charts for Angular.',
         links: {
             [website]: 'https://n3-charts.github.io/line-chart/#/home',
         },
@@ -33,6 +34,8 @@ module.exports = [
     {
         name: 'Notepad++',
         categories: [toolsAndUtilities.editorsAndExtensions],
+        description:
+            'Notepad++ is a text and source code editor for use with Microsoft Windows. It supports tabbed editing, which allows working with multiple open files in a single window.',
         links: {
             [website]: 'https://notepad-plus-plus.org/',
         },

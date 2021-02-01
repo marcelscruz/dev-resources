@@ -52,6 +52,8 @@ module.exports = [
     {
         name: 'Mastery Games',
         categories: [programming.learn],
+        description:
+            'Learn frontend development through play, repetition, and sleep. Each game builds up your skills from the ground up using the educational process of scaffolding. You learn one new concept at a time, and leverage spaced repetition to solidify each concept.',
         links: {
             [website]: 'https://mastery.games/',
         },
@@ -198,6 +200,7 @@ module.exports = [
     {
         name: 'Mocha',
         categories: [programming.testing],
+        description: ' Simple, flexible, fun JavaScript test framework for Node.js and the browser.',
         links: {
             [website]: 'https://mochajs.org/',
         },
@@ -226,6 +229,8 @@ module.exports = [
     {
         name: 'morris.js',
         categories: [programming.charts],
+        description:
+            "Morris.js is the library that powers the graphs on http://howmanyleft.co.uk/. It's a very simple API for drawing line, bar, area and donut charts.",
         links: {
             [website]: 'https://morrisjs.github.io/morris.js/',
         },

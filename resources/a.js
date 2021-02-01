@@ -21,6 +21,8 @@ module.exports = [
     {
         name: 'A11ygator',
         categories: [toolsAndUtilities.accessibility],
+        description:
+            'An application, a Twitter bot and a browser extension that bites websites to taste their accessibility.',
         links: {
             [website]: 'https://a11ygator.chialab.io/',
         },
@@ -38,6 +40,8 @@ module.exports = [
     {
         name: 'Accessibility Engineer',
         categories: [toolsAndUtilities.accessibility],
+        description:
+            'Accessibility Engineer · Web Checklist · Native App Checklist. Accessibility Acceptance Criteria. Web Accessibility Checklist · Native Accessibility Checklist.',
         links: {
             [website]: 'https://a11yengineer.com/',
         },
@@ -158,8 +162,10 @@ module.exports = [
     {
         name: 'ally.js',
         categories: [toolsAndUtilities.accessibility],
+        description:
+            'JavaScript library to help modern web applications with accessibility concerns by making accessibility simpler.',
         links: {
-            [website]: 'https://allyjs.io/index.html',
+            [website]: 'https://allyjs.io/',
         },
         icon: 'https://allyjs.io/favicon.ico',
     },
@@ -217,6 +223,7 @@ module.exports = [
     {
         name: 'Authentic Jobs',
         categories: [jobs.boards],
+        description: 'The leading job board for designers, developers, and creative pros.',
         links: {
             [website]: 'https://authenticjobs.com/',
         },

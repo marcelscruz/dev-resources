@@ -43,6 +43,8 @@ module.exports = [
     {
         name: 'GoatCounter',
         categories: [toolsAndUtilities.analytics],
+        description:
+            'GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app.',
         links: {
             [website]: 'https://www.goatcounter.com/',
         },
@@ -122,8 +124,10 @@ module.exports = [
     {
         name: 'Google Technical Writing',
         categories: [readingAndWriting.learn],
+        description:
+            'This collection of courses and learning resources aims to improve your technical documentation. Learn how to plan and author technical documents. You can also learn about the role of technical writers at Google.',
         links: {
-            [website]: 'https://developers.google.com/tech-writing/overview',
+            [website]: 'https://developers.google.com/tech-writing',
         },
         icon:
             'https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/developers/images/touchicon-180.png',

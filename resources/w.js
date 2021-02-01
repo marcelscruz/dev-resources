@@ -5,6 +5,7 @@ module.exports = [
     {
         name: 'W3Layouts',
         categories: [programming.templates],
+        description: 'W3layouts is an online store to download website templates for all types of businesses.',
         links: {
             [website]: 'https://w3layouts.com/',
         },
@@ -13,6 +14,8 @@ module.exports = [
     {
         name: 'W3Schools',
         categories: [programming.learn],
+        description:
+            'W3Schools is a training website for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, C# and Java.',
         keywords: [
             'HTML',
             'CSS',
@@ -71,6 +74,8 @@ module.exports = [
     {
         name: 'WAVE',
         categories: [toolsAndUtilities.accessibility],
+        description:
+            'WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content.',
         links: {
             [website]: 'https://wave.webaim.org/',
         },

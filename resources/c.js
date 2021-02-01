@@ -325,6 +325,8 @@ module.exports = [
     {
         name: 'CodePen Radio',
         categories: [programming.podcasts],
+        description:
+            "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
         links: {
             [website]: 'https://blog.codepen.io/radio/',
         },
@@ -637,6 +639,7 @@ module.exports = [
     {
         name: 'Contrast Ratio',
         categories: [toolsAndUtilities.accessibility],
+        description: 'Easily calculate color contrast ratios.',
         links: {
             [website]: 'https://contrast-ratio.com/',
         },
@@ -644,6 +647,7 @@ module.exports = [
     {
         name: 'Control',
         categories: [assets.illustrations],
+        description: 'Combo set of 108 customizable illustrations.',
         links: {
             [website]: 'https://control.rocks/',
         },

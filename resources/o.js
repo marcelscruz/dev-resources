@@ -86,6 +86,7 @@ module.exports = [
     {
         name: 'Open Vim',
         categories: [toolsAndUtilities.typing],
+        description: 'An interactive Vim tutorial.',
         links: {
             [website]: 'https://openvim.com/',
         },

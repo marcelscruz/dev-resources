@@ -44,6 +44,7 @@ module.exports = [
     {
         name: 'Selenium',
         categories: [programming.testing],
+        description: 'Selenium is a suite of tools for automating web browsers.',
         links: {
             [website]: 'https://www.selenium.dev/',
         },
@@ -126,6 +127,8 @@ module.exports = [
     {
         name: 'sigma.js',
         categories: [programming.charts],
+        description:
+            'Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.',
         links: {
             [website]: 'http://sigmajs.org/',
         },
@@ -302,6 +305,8 @@ module.exports = [
     {
         name: 'Smashing Magazine',
         categories: [readingAndWriting.platforms],
+        description:
+            'Smashing Magazine is a website and eBook publisher that offers editorial content and professional resources for web developers and web designers.',
         links: {
             [website]: 'https://www.smashingmagazine.com/',
         },
