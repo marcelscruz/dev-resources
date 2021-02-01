@@ -6,6 +6,8 @@
 
  For information on using the public API, please see the [API usage guide](docs/API_USAGE.md).
 
+ ## Resources count: <strong>1151</strong>
+
  ## Index
 
 * [Assets](#assets) 
