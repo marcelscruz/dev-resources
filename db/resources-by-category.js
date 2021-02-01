@@ -182,6 +182,7 @@ module.exports = {
             "categories": [
                 "Assets/Fonts"
             ],
+            "description": "Lost Type is a collaborative digital type foundry.",
             "links": {
                 "Website": "http://losttype.com/"
             },
@@ -9288,6 +9289,7 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/Accessibility"
             ],
+            "description": "An application, a Twitter bot and a browser extension that bites websites to taste their accessibility.",
             "links": {
                 "Website": "https://a11ygator.chialab.io/"
             },
@@ -9298,6 +9300,7 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/Accessibility"
             ],
+            "description": "Accessibility Engineer · Web Checklist · Native App Checklist. Accessibility Acceptance Criteria. Web Accessibility Checklist · Native Accessibility Checklist.",
             "links": {
                 "Website": "https://a11yengineer.com/"
             },
@@ -9372,8 +9375,9 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/Accessibility"
             ],
+            "description": "JavaScript library to help modern web applications with accessibility concerns by making accessibility simpler.",
             "links": {
-                "Website": "https://allyjs.io/index.html"
+                "Website": "https://allyjs.io/"
             },
             "icon": "https://allyjs.io/favicon.ico"
         },
@@ -9415,6 +9419,7 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/Accessibility"
             ],
+            "description": "Easily calculate color contrast ratios.",
             "links": {
                 "Website": "https://contrast-ratio.com/"
             }
@@ -9424,6 +9429,7 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/Accessibility"
             ],
+            "description": "Get the current accessibility support status of HTML5 features across major browsers",
             "links": {
                 "Website": "https://www.html5accessibility.com/"
             },
@@ -9472,6 +9478,7 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/Accessibility"
             ],
+            "description": "WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content.",
             "links": {
                 "Website": "https://wave.webaim.org/"
             },
@@ -9814,6 +9821,7 @@ module.exports = {
             "categories": [
                 "Programming/Newsletters"
             ],
+            "description": "A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.",
             "links": {
                 "Website": "https://frontendfoc.us/"
             },
@@ -9824,6 +9832,7 @@ module.exports = {
             "categories": [
                 "Programming/Newsletters"
             ],
+            "description": "An email update on the evolving JAMstack ecosystem.",
             "links": {
                 "Website": "https://jamstack.email/"
             },
@@ -9834,6 +9843,7 @@ module.exports = {
             "categories": [
                 "Programming/Newsletters"
             ],
+            "description": "A newsletter of JavaScript articles, news and cool projects.",
             "links": {
                 "Website": "https://javascriptweekly.com/"
             },
@@ -10581,6 +10591,7 @@ module.exports = {
             "categories": [
                 "Jobs/Boards"
             ],
+            "description": "The leading job board for designers, developers, and creative pros.",
             "links": {
                 "Website": "https://authenticjobs.com/"
             },
@@ -10679,6 +10690,7 @@ module.exports = {
             "categories": [
                 "Jobs/Boards"
             ],
+            "description": "Since 2014, the #1 Laravel job board connecting the best jobs with top talent.",
             "links": {
                 "Website": "https://larajobs.com/"
             },
@@ -11000,6 +11012,7 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/Editors & Extensions"
             ],
+            "description": "Emacs or EMACS is a family of text editors that are characterized by their extensibility. The manual for the most widely used variant, GNU Emacs, describes it as \"the extensible, customizable, self-documenting, real-time display editor\".",
             "links": {
                 "Website": "https://www.gnu.org/software/emacs/"
             },
@@ -11043,6 +11056,7 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/Editors & Extensions"
             ],
+            "description": "Notepad++ is a text and source code editor for use with Microsoft Windows. It supports tabbed editing, which allows working with multiple open files in a single window.",
             "links": {
                 "Website": "https://notepad-plus-plus.org/"
             },
@@ -11119,6 +11133,7 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/Editors & Extensions"
             ],
+            "description": "Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as \"vi\" with most UNIX systems and with Apple OS X.",
             "keywords": [
                 "Vim",
                 "Vi IMproved",
@@ -11652,6 +11667,7 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/Analytics"
             ],
+            "description": "GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app.",
             "links": {
                 "Website": "https://www.goatcounter.com/"
             },
@@ -11875,6 +11891,7 @@ module.exports = {
             "categories": [
                 "Assets/Illustrations"
             ],
+            "description": "Combo set of 108 customizable illustrations.",
             "links": {
                 "Website": "https://control.rocks/"
             },
@@ -11907,6 +11924,7 @@ module.exports = {
             "categories": [
                 "Assets/Illustrations"
             ],
+            "description": "Make a unique journey through 404 error pages on your website. Use these illustrations that describe better than words.",
             "links": {
                 "Website": "https://error404.fun/"
             },
@@ -12008,6 +12026,7 @@ module.exports = {
         },
         {
             "name": "Isometriclove",
+            "description": "Cute isometric objects for your design.",
             "categories": [
                 "Assets/Illustrations"
             ],
@@ -12345,6 +12364,7 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/Browsers & Extensions"
             ],
+            "description": "Want to see what we were working on yesterday? Canary will be released automatically almost every night to keep you up to date on our progress.",
             "links": {
                 "Website": "https://www.microsoftedgeinsider.com/en-us/welcome?channel=canary"
             },
@@ -12355,6 +12375,7 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/Browsers & Extensions"
             ],
+            "description": "Our dev builds are the best representation of our improvements in the past week. They have been tested by the Microsoft Edge team, and are generally more stable than Canary.",
             "links": {
                 "Website": "https://www.microsoftedgeinsider.com/en-us/welcome?channel=dev"
             },
@@ -12387,6 +12408,7 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/Browsers & Extensions"
             ],
+            "description": "Get a sneak peek at our next generation web browser, and help us make it the best browser it can be",
             "links": {
                 "Website": "https://www.mozilla.org/en-US/firefox/69.0a1/releasenotes/"
             },
@@ -12647,6 +12669,7 @@ module.exports = {
             "categories": [
                 "Programming/UI Kits & Libraries"
             ],
+            "description": "React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built from scratch as a true React component, without unneeded dependencies like jQuery.",
             "links": {
                 "Website": "https://react-bootstrap.github.io/"
             },
@@ -12942,6 +12965,7 @@ module.exports = {
             "categories": [
                 "Assets/Icons"
             ],
+            "description": "IconSweets is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.",
             "links": {
                 "Website": "https://www.designbombs.com/iconsweets2/"
             },
@@ -12952,6 +12976,7 @@ module.exports = {
             "categories": [
                 "Assets/Icons"
             ],
+            "description": "Icon Explorer with Instant searching, powered by Iconify",
             "links": {
                 "Website": "https://icones.netlify.app/"
             },
@@ -13545,6 +13570,7 @@ module.exports = {
             "categories": [
                 "Programming/Templates"
             ],
+            "description": "W3layouts is an online store to download website templates for all types of businesses.",
             "links": {
                 "Website": "https://w3layouts.com/"
             },
@@ -13681,6 +13707,7 @@ module.exports = {
             "categories": [
                 "Programming/Testing"
             ],
+            "description": " Simple, flexible, fun JavaScript test framework for Node.js and the browser.",
             "links": {
                 "Website": "https://mochajs.org/"
             },
@@ -13691,6 +13718,7 @@ module.exports = {
             "categories": [
                 "Programming/Testing"
             ],
+            "description": "Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.",
             "links": {
                 "Website": "https://pptr.dev/"
             },
@@ -13701,6 +13729,7 @@ module.exports = {
             "categories": [
                 "Programming/Testing"
             ],
+            "description": "Selenium is a suite of tools for automating web browsers.",
             "links": {
                 "Website": "https://www.selenium.dev/"
             },
@@ -13936,6 +13965,7 @@ module.exports = {
             "categories": [
                 "Programming/Charts"
             ],
+            "description": "dygraphs is a fast, flexible open source JavaScript charting library. It allows users to explore and interpret dense data sets.",
             "links": {
                 "Website": "https://dygraphs.com/"
             },
@@ -13980,6 +14010,7 @@ module.exports = {
             "categories": [
                 "Programming/Charts"
             ],
+            "description": "Morris.js is the library that powers the graphs on http://howmanyleft.co.uk/. It's a very simple API for drawing line, bar, area and donut charts.",
             "links": {
                 "Website": "https://morrisjs.github.io/morris.js/"
             },
@@ -13990,6 +14021,7 @@ module.exports = {
             "categories": [
                 "Programming/Charts"
             ],
+            "description": "Awesome charts for Angular.",
             "links": {
                 "Website": "https://n3-charts.github.io/line-chart/#/home"
             },
@@ -14011,6 +14043,7 @@ module.exports = {
             "categories": [
                 "Programming/Charts"
             ],
+            "description": "Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.",
             "links": {
                 "Website": "http://sigmajs.org/"
             },
@@ -14123,6 +14156,7 @@ module.exports = {
             "categories": [
                 "Programming/Podcasts"
             ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
             "links": {
                 "Website": "https://blog.codepen.io/radio/"
             },
@@ -14244,6 +14278,7 @@ module.exports = {
             "categories": [
                 "Programming/Podcasts"
             ],
+            "description": "A podcast about JavaScript.",
             "links": {
                 "Website": "https://devchat.tv/podcasts/js-jabber/"
             },
@@ -14254,6 +14289,7 @@ module.exports = {
             "categories": [
                 "Programming/Podcasts"
             ],
+            "description": "We’re debugging the tech industry. Every Monday.",
             "links": {
                 "Website": "https://www.ladybug.dev/"
             },
@@ -14275,6 +14311,7 @@ module.exports = {
             "categories": [
                 "Programming/Podcasts"
             ],
+            "description": "A podcast about React.",
             "links": {
                 "Website": "https://react30.com/"
             },
@@ -14565,6 +14602,7 @@ module.exports = {
             "categories": [
                 "Programming/Learn"
             ],
+            "description": "Take a whirlwind tour of your next favorite language. Community-driven!",
             "links": {
                 "Website": "https://learnxinyminutes.com/"
             },
@@ -14586,6 +14624,7 @@ module.exports = {
             "categories": [
                 "Programming/Learn"
             ],
+            "description": "Learn frontend development through play, repetition, and sleep. Each game builds up your skills from the ground up using the educational process of scaffolding. You learn one new concept at a time, and leverage spaced repetition to solidify each concept.",
             "links": {
                 "Website": "https://mastery.games/"
             },
@@ -14750,6 +14789,7 @@ module.exports = {
             "categories": [
                 "Programming/Learn"
             ],
+            "description": "W3Schools is a training website for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, C# and Java.",
             "keywords": [
                 "HTML",
                 "CSS",
@@ -15012,8 +15052,9 @@ module.exports = {
             "categories": [
                 "Assets/Images"
             ],
+            "description": "HighCompress is an incredibly powerful tool that can compress images upto 95%. Make your website load faster, optimize your images and boost SEO.",
             "links": {
-                "Website": "https://www.highcompress.com/online-compress"
+                "Website": "https://www.highcompress.com/"
             },
             "icon": "https://www.highcompress.com/apple-touch-icon.html"
         },
@@ -15036,8 +15077,9 @@ module.exports = {
             "categories": [
                 "Assets/Images"
             ],
+            "description": "Compress and resize photos.",
             "links": {
-                "Website": "http://www.imageoptimizer.net/Pages/Home.aspx"
+                "Website": "http://www.imageoptimizer.net/"
             },
             "icon": "data:image/x-icon;,"
         },
@@ -15241,6 +15283,7 @@ module.exports = {
             "categories": [
                 "Reading & Writing/Utilities"
             ],
+            "description": "Hemingway App makes your writing bold and clear. The app highlights lengthy, complex sentences and common errors.",
             "links": {
                 "Website": "https://hemingwayapp.com/"
             },
@@ -15355,6 +15398,7 @@ module.exports = {
             "categories": [
                 "Jobs/Remote Only"
             ],
+            "description": "Remote.co is a resource for companies that see remote work as an opportunity.",
             "links": {
                 "Website": "https://remote.co/"
             },
@@ -15465,6 +15509,7 @@ module.exports = {
             "categories": [
                 "Reading & Writing/Platforms"
             ],
+            "description": "Hacker News is a social news website focusing on computer science and entrepreneurship.",
             "links": {
                 "Website": "https://news.ycombinator.com/"
             },
@@ -15506,6 +15551,7 @@ module.exports = {
             "categories": [
                 "Reading & Writing/Platforms"
             ],
+            "description": "Lobsters is a computing-focused community centered around link aggregation and discussion.",
             "links": {
                 "Website": "https://lobste.rs/"
             },
@@ -15538,6 +15584,7 @@ module.exports = {
             "categories": [
                 "Reading & Writing/Platforms"
             ],
+            "description": "Smashing Magazine is a website and eBook publisher that offers editorial content and professional resources for web developers and web designers.",
             "links": {
                 "Website": "https://www.smashingmagazine.com/"
             },
@@ -15559,6 +15606,7 @@ module.exports = {
             "categories": [
                 "Reading & Writing/Platforms"
             ],
+            "description": "XDA Developers is a mobile software development community launched on 20 December 2002. Although discussion primarily revolves around Android, members also talk about many other operating systems and mobile development topics.",
             "links": {
                 "Website": "https://www.xda-developers.com/"
             },
@@ -15676,6 +15724,7 @@ module.exports = {
             "categories": [
                 "Programming/Books"
             ],
+            "description": "This is a book about JavaScript, programming, and the wonders of the digital.",
             "links": {
                 "Website": "https://eloquentjavascript.net/"
             },
@@ -15732,6 +15781,7 @@ module.exports = {
             "categories": [
                 "UI Design/Learn"
             ],
+            "description": "Tired of relying on Bootstrap? Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view.",
             "links": {
                 "Website": "https://refactoringui.com/"
             },
@@ -15849,8 +15899,9 @@ module.exports = {
             "categories": [
                 "Reading & Writing/Learn"
             ],
+            "description": "This collection of courses and learning resources aims to improve your technical documentation. Learn how to plan and author technical documents. You can also learn about the role of technical writers at Google.",
             "links": {
-                "Website": "https://developers.google.com/tech-writing/overview"
+                "Website": "https://developers.google.com/tech-writing"
             },
             "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/developers/images/touchicon-180.png"
         }
@@ -15872,6 +15923,7 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/Performance"
             ],
+            "description": "PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster.",
             "links": {
                 "Website": "https://developers.google.com/speed/pagespeed/insights/"
             },
@@ -16078,6 +16130,7 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/Typing"
             ],
+            "description": "An interactive Vim tutorial.",
             "links": {
                 "Website": "https://openvim.com/"
             },
