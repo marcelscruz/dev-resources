@@ -4,7 +4,7 @@ const createIndex = require('./create-index')
 const createTables = require('./create-tables')
 const writeToFile = require('../write-to-file')
 
-const logo = '<p align="center"><img width="500" src="./public/assets/images/logo-with-bg.png" /></p>\n\n'
+const logo = '[![Dev Resources](./public/assets/images/logo-with-bg.png | width=500)](https://devresourc.es)'
 
 const description = 'The list and public API of the resources that power [Dev Resources](https://devresourc.es).\n\n'
 
