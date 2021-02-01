@@ -14,7 +14,7 @@ const contributionGuide =
 
 const usageGuide = 'For information on using the public API, please see the [API usage guide](docs/API_USAGE.md).\n\n'
 
-const resourcesCount = `### Resources count: <strong>${resourcesList.length}</strong>\n\n`
+const resourcesCount = `### Total resources: ${resourcesList.length}\n\n`
 
 async function updateReadme() {
     try {
