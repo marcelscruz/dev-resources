@@ -47,7 +47,7 @@ function createRow(nodes) {
             return `\n\n### ${anchor}\nThis section is powered by [Public APIs](https://github.com/public-apis/public-apis).`
         }
 
-        const tableHeadings = `| &nbsp; | Name | Description | Links | Keywords |\n|---|---|---|---|---|`
+        const tableHeadings = `| &nbsp;&nbsp; | Name | Description | Links | Keywords |\n|---|---|---|---|---|`
 
         const heading = `\n\n### ${anchor}\n${tableHeadings}\n`
         let table = ``
