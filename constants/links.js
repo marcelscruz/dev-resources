@@ -3,6 +3,7 @@ module.exports = {
     facebook: 'Facebook',
     github: 'GitHub',
     googlePodcasts: 'Google Podcasts',
+    gumroad: 'Gumroad',
     indieHackers: 'Indie Hackers',
     instagram: 'Instagram',
     linkedin: 'LinkedIn',

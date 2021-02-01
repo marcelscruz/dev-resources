@@ -7,7 +7,7 @@ const {
     assets,
     readingAndWriting,
 } = require('../constants/categories')
-const { website, youtube } = require('../constants/links')
+const { website, youtube, gumroad } = require('../constants/links')
 
 module.exports = [
     {
@@ -54,7 +54,7 @@ module.exports = [
         description:
             'The Landing Page Hot Tips Ebook features 100 digestible lessons to implement into your Landing Pages. Each tip features a few paragraphs, visual references and related resources. Additional features include: PDF Ebook (180-pages), Rich Media Ebook (adapts to any device), Category filter (eg. UX tips), Component filter (eg. Testimonials), Audiobook (54mins) and interactive launch checklists.',
         links: {
-            [website]: 'https://gumroad.com/a/124908659',
+            [gumroad]: 'https://gumroad.com/a/124908659',
         },
         icon: 'https://gumroad.com/favicon.ico',
     },
