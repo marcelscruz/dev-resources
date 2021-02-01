@@ -1,6 +1,4 @@
-<p align="center"><img width="500" src="./public/assets/images/logo-with-bg.png" /></p>
-
- The list and public API of the resources that power [Dev Resources](https://devresourc.es).
+[![Dev Resources](./public/assets/images/logo-with-bg.png | width=500)](https://devresourc.es) The list and public API of the resources that power [Dev Resources](https://devresourc.es).
 
  For information on contributing, please see the [contributing guide](docs/CONTRIBUTING.md).
 
