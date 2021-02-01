@@ -74,14 +74,14 @@
 ## <a name="assets">Assets</a> 
 
 ### <a name="audio"><a name="assets-audio">Audio</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://icons8.com/vue-static/icon/favicon/favicon_16.png" width="16" style="max-width: unset;"  /> | Icons8 | Download design elements for free: icons, photos, vector illustrations, and music for your videos. |  |  |
 
 **[⬆ Back to Index](#index)**
 
 ### <a name="fonts"><a name="assets-fonts">Fonts</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://themes.static.1001fonts.net/netefx/img/1001fonts-avatar-32x32.png" width="16" style="max-width: unset;"  /> | 1001 Fonts | 24,262 free fonts in 13,112 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux. |  |  |
  <img src="https://www.canva.com/favicon.ico" width="16" style="max-width: unset;"  /> | Canva | Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.  |  |  |
@@ -100,7 +100,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="icons"><a name="assets-icons">Icons</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" width="16" style="max-width: unset;"  /> | Bootstrap | Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons,... |  |  |
  <img src="https://boxicons.com/static/img/favicon.ico?v=11" width="16" style="max-width: unset;"  /> | Boxicons | Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines. |  | boxicons, free icons, open source icons, royalty free icons, google icons, icon, line icon, sharp ic... |
@@ -139,7 +139,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="illustrations"><a name="assets-illustrations">Illustrations</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://bigheads.io/icons/icon-96x96.png?v=8a6c92a73bc4d9aed0d3fd163a7e3e07" width="16" style="max-width: unset;"  /> | Big Heads | Combine expressions, clothing, hair styles and colors into billions of different unique characters. |  |  |
  <img src="https://assets.website-files.com/5f0a234d1293a2f4eb599bb5/5f4550325567b37a486e00eb_black%20illustrations%20logo.png" width="16" style="max-width: unset;"  /> | Black Illustrations | Black illustrations is a series of FREE digital designs of black people for your next online project. Free for commercial and personal use. |  |  |
@@ -166,7 +166,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="images"><a name="assets-images">Images</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://compressor.io/favicon.ico" width="16" style="max-width: unset;"  /> | Compressor | Optimize and compress your jpeg and png images online. Compressor is a lossy and lossless photo compression tool. |  |  |
  <img src="https://elements.envato.com/favicon.ico" width="16" style="max-width: unset;"  /> | Envato Elements | Find stock video footages and photos for your next video project. |  |  |
@@ -191,7 +191,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="logos"><a name="assets-logos">Logos</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Hatchful | Create stunning logos in seconds - no design skills required! |  |  |
  <img src="https://cdn.shortpixel.ai/client/q_lossless,ret_img,w_32,h_32/https://www.logotaco.com/wp-content/uploads/2019/05/favicon_100.png" width="16" style="max-width: unset;"  /> | LogoTaco | Create or make your own logo design from our resource of free downloads and templates for businesses, companies, MVP's and startups. No online login required. |  |  |
@@ -202,7 +202,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="videos"><a name="assets-videos">Videos</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://biteable.com/favicon.ico" width="16" style="max-width: unset;"  /> | Biteable | Make standout videos in a snap with the Biteable video maker. Sparkle with studio-quality animation, footage, and effects. Start now, share in minutes. |  |  |
  <img src="https://static.clideo.com/assets/images/favicon/64x64.png" width="16" style="max-width: unset;"  /> | Clideo | Make a video by combining photos, videos, GIFs and music together — it's free & online. Use it as a Facebook or YouTube Cover, post it on Instagram or Twitter. |  | free video maker, youtube, video creator, how to make a video, online video maker, music, windows, d... |
@@ -216,7 +216,7 @@
 ## <a name="indie-hacking">Indie Hacking</a> 
 
 ### <a name="books"><a name="indie-hacking-books">Books</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://gumroad.com/favicon.ico" width="16" style="max-width: unset;"  /> | Landing Page Hot Tips | The Landing Page Hot Tips Ebook features 100 digestible lessons to implement into your Landing Pages. Each tip features a few paragraphs, visual references and related resources. Additional features i... |  |  |
  <img src="https://makebook.io/favicon-32x32.png?2" width="16" style="max-width: unset;"  /> | MAKE: Bootstrapper's Handbook | Learn to bootstrap profitable startups the indie way — $14.99. |  |  |
@@ -225,7 +225,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="platforms"><a name="indie-hacking-platforms">Platforms</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.indiehackers.com/images/favicons/favicon--32x32.png" width="16" style="max-width: unset;"  /> | Indie Hackers | Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects. |  |  |
  <img src="https://ph-static.imgix.net/ph-ios-icon.png?auto=format&auto=compress" width="16" style="max-width: unset;"  /> | Product Hunt | Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about. |  |  |
@@ -234,7 +234,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="podcasts"><a name="indie-hacking-podcasts">Podcasts</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://bootstrapped.fm/icon.png" width="16" style="max-width: unset;"  /> | Bootstrapped | Listen to 100+ helpful podcast episodes for software bootstrappers. Interviews with experts, open discussions between bootstrappers, and solo episodes, with one person digging deeply into a topic. |  |  |
  <img src="https://www.indiehackers.com/images/favicons/favicon--32x32.png" width="16" style="max-width: unset;"  /> | Indie Hackers | Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects. |  |  |
@@ -244,7 +244,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="utilities"><a name="indie-hacking-utilities">Utilities</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://airtable.com/images/favicon/baymax/favicon-32x32.png" width="16" style="max-width: unset;"  /> | Airtable | Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free. |  |  |
  <img src="http://indiedrops.com/apple-touch-icon.png" width="16" style="max-width: unset;"  /> | Indie Drops | Secure unbelivably good deals on early-stage products before they take off. |  |  |
@@ -255,7 +255,7 @@
 ## <a name="infrastructure">Infrastructure</a> 
 
 ### <a name="hosting"><a name="infrastructure-hosting">Hosting</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png" width="16" style="max-width: unset;"  /> | AWS | Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use. |  |  |
  <img src="https://azurecomcdn.azureedge.net/cvt-1e062bfe62b371303d7ba3612723f5e334cd5f56fd4e3ea4c0f6e8138bf366b5/images/icon/apple-touch/72x72.png" width="16" style="max-width: unset;"  /> | Azure | Invent with purpose, realise cost savings and make your organisation more efficient with Microsoft Azure’s open and flexible cloud computing platform. |  | Azure, Windows Azure, Cloud Service, Cloud Computing Companies |
@@ -274,7 +274,7 @@
 ## <a name="jobs">Jobs</a> 
 
 ### <a name="boards"><a name="jobs-boards">Boards</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://angel.co/images/icons/iOS/UpdatedFavicon_72x72.png" width="16" style="max-width: unset;"  /> | AngelList | Apply privately to 130,000+ remote jobs and startup jobs near you with one application. See salary and equity upfront. |  |  |
  <img src="https://authenticjobs.com/wp-content/uploads/2020/04/cropped-aj-site-favicon-32x32.png" width="16" style="max-width: unset;"  /> | Authentic Jobs |  |  |  |
@@ -295,7 +295,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="freelancing"><a name="jobs-freelancing">Freelancing</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://99designs.com/touch-icon-ipad.png" width="16" style="max-width: unset;"  /> | 99designs | The global creative platform for custom graphic design: logos, websites and more. Hire a talented designer or start a design contest. 500k+ happy customers have used 99designs to grow their business. |  | crowdsource, graphic design, design |
  <img src="https://assets.codementor.io/icons/favicon-96x96.png" width="16" style="max-width: unset;"  /> | Codementor | Codementor is the largest community for developer mentorship and an on-demand marketplace for software developers. Get instant coding help, build projects faster, and read programming tutorials from o... |  |  |
@@ -309,14 +309,14 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="interviews"><a name="jobs-interviews">Interviews</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://iq.js.org/favicon.ico" width="16" style="max-width: unset;"  /> | JavaScript Interview Questions | Collection of questions that can help you improve your JavaScript knowledge and prepare to an interview. |  |  |
 
 **[⬆ Back to Index](#index)**
 
 ### <a name="remote-only"><a name="jobs-remote-only">Remote Only</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://dailyremote.com/assets/favicon/favicon-96.png" width="16" style="max-width: unset;"  /> | DailyRemote | Find and apply for top remote jobs in Software Development, Design, Support, Sales, Writing, Product, and Others. Start telecommuting & working from home today! |  |  |
  <img src="https://www.flexjobs.com/favicon-32x32.png" width="16" style="max-width: unset;"  /> | FlexJobs | The #1 job site to find hand-screened, remote work from home & flexible jobs since 2007. Find a better way to work in 50+ career categories today! |  | remote jobs, remote work, telecommuting jobs, telecommute jobs, part-time jobs, freelance jobs, flex... |
@@ -334,7 +334,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="resume-builders"><a name="jobs-resume-builders">Resume Builders</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.cakeresume.com/favicons/favicon-96x96.png" width="16" style="max-width: unset;"  /> | CakeResume | Build an impressive resume and land that dream job. View online or download the PDF for FREE! CakeResume provides more than 50 resume templates and 1,000+ resume samples to help you make a professiona... |  |  |
  <img src="https://cdn.gotresumebuilder.com/favicon.ico" width="16" style="max-width: unset;"  /> | GotResumeBuilder | Resume Builder – Free and easy to use. Sample resumes and tips on how to write a resume available. |  | resume builder, free resume builder, how to write a resume, how to make a resume, sample resumes |
@@ -351,7 +351,7 @@
 ## <a name="programming">Programming</a> 
 
 ### <a name="api-building"><a name="programming-api-building">API Building</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.gstatic.com/devrel-devsite/prod/vbd4700e58d826f0eab371eadc20e0e343567df356800794a790eebf2ac059db2/cloud/images/favicons/onecloud/super_cloud.png" width="16" style="max-width: unset;"  /> | Apigee | Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free. |  |  |
  <img src="https://hoppscotch.io/_nuxt/icons/icon_512x512.9834b3.png" width="16" style="max-width: unset;"  /> | Hoppscotch | Helps you create requests faster, saving precious time on development. |  | hoppscotch, hopp scotch, hoppscotch online, hoppscotch app, postwoman, postwoman chrome, postwoman o... |
@@ -363,14 +363,14 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="books"><a name="programming-books">Books</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://eloquentjavascript.net/favicon.ico" width="16" style="max-width: unset;"  /> | Eloquent JavaScript |  |  |  |
 
 **[⬆ Back to Index](#index)**
 
 ### <a name="charts"><a name="programming-charts">Charts</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://canvasjs.com/wp-content/uploads/images/favicon/canvasjs-favicon-16x16.png?v=1.1" width="16" style="max-width: unset;"  /> | CanvasJs | HTML5 JavaScript Charts built on top of HTML5 Canvas Element. Renders across devices & is 10x faster than JavaScript Charting libraries based on SVG. |  |  |
  <img src="https://www.chartjs.org/favicon.ico" width="16" style="max-width: unset;"  /> | Chart.js | Simple, clean and engaging HTML5 based JavaScript charts. Chart.js is an easy way to include animated, interactive graphs on your website for free. |  |  |
@@ -388,7 +388,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="code-challenges"><a name="programming-code-challenges">Code Challenges</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.codechef.com/misc/favicon.ico" width="16" style="max-width: unset;"  /> | CodeChef | CodeChef | Competitive Programming | Participate & Learn | CodeChef. |  | programming competition, programming contest, online programming, online computer programming |
  <img src="https://coderbytestaticimages.s3.amazonaws.com/favicon_2.png" width="16" style="max-width: unset;"  /> | Coderbyte | Improve your coding skills with our library of 300+ challenges and prepare for coding interviews with content from leading technology companies. |  | coderbyte, coder byte, coding, coding, bootcamp, code school, programming challenges, practice codin... |
@@ -403,7 +403,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="code-snippets"><a name="programming-code-snippets">Code Snippets</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.30secondsofcode.org/icons/icon-96x96.png?v=bd273ecf29b2666f8d7669cf855707df" width="16" style="max-width: unset;"  /> | 30 seconds of code | Browse 1078 short code snippets for all your development needs on 30 seconds of code. |  |  |
  <img src="https://d2d3qesrx8xj6s.cloudfront.net/apple-touch-icon-precomposed.png" width="16" style="max-width: unset;"  /> | Bootsnipp | A design element gallery for web designers and web developers. Find snippets using HTML, CSS, Javascript, jQuery, and Bootstrap. |  |  |
@@ -421,7 +421,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="databases"><a name="programming-databases">Databases</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png" width="16" style="max-width: unset;"  /> | Firebase | Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. |  |  |
  <img src="https://xserver.app/assets/img/favicon.png" width="16" style="max-width: unset;"  /> | XServer | XServer - JSON-based backend for Mobile apps, Websites and Unity games. |  | iOS, Android, JavaScript, apps, backend, mobile, website, baas, parse, firebase, database, json, php... |
@@ -429,7 +429,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="docs-cheatsheets"><a name="programming-docs-cheatsheets">Docs & Cheatsheets</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://cheatography.com/images/cheatography-iphone.png" width="16" style="max-width: unset;"  /> | Cheatography | Find thousands of incredible, original programming cheat sheets, all free to download. |  |  |
  <img src="https://dart.dev/assets/touch-icon-ipad-d0181720760b3912858b6d40da1d5586b1e92c7c8656a485ea41005674401e6b.png" width="16" style="max-width: unset;"  /> | Dart Cheatsheet Codelab | Interactively learn (or relearn) some of Dart's unique features. |  |  |
@@ -441,7 +441,7 @@
 ## <a name="javascript"><a name="programming-javascript">JavaScript</a></a> 
 
 ### <a name="react"><a name="programming-javascript-react">React</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.gatsbyjs.com/icons/icon-96x96.png?v=3ad5294f3fa6c06e2d07ab07c76df2cf" width="16" style="max-width: unset;"  /> | Gatsby | Gatsby is a React-based open source framework with performance, scalability and security built-in. Collaborate, build and deploy 1000x faster with Gatsby Cloud. |  | gatsby, javascript, react, graphql, fast |
  <img src="https://nextjs.org/static/favicon/favicon-32x32.png" width="16" style="max-width: unset;"  /> | Next.js | Production grade React applications that scale. The world’s leading companies use Next.js by Vercel to build static and dynamic websites and web applications. |  |  |
@@ -451,7 +451,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="learn"><a name="programming-learn">Learn</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.codecademy.com/favicon.ico" width="16" style="max-width: unset;"  /> | Codecademy | Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning... |  |  |
  <img src="https://codepip.com/favicon.ico" width="16" style="max-width: unset;"  /> | Codepip | Learn to code by playing games. |  |  |
@@ -489,7 +489,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="newsletters"><a name="programming-newsletters">Newsletters</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://a11yweekly.com/favicon.ico" width="16" style="max-width: unset;"  /> | A11yWeekly | A weekly dose of web accessibility to help you bring it into your every day work. |  |  |
  <img src="https://dxj7eshgz03ln.cloudfront.net/production/publication/publication_icon/1883/apple_touch_76_c13a8beb-a086-4874-b39b-98081897f1fc.png" width="16" style="max-width: unset;"  /> | CSS Layout News | A weekly collection of tutorials, news and information on all things CSS Layout. |  |  |
@@ -507,7 +507,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="podcasts"><a name="programming-podcasts">Podcasts</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="http://codewinds.com/assets/favicon-64.png" width="16" style="max-width: unset;"  /> | Code Winds | CodeWinds - Leading edge live and online developer training - in-person, public or private classes, webinars, video courses, resources, tutorials for fullstack web developers. Featuring javascript, Re... |  | web, developer, training, fullstack, live classes, private classes, custom classes, webinars, screen... |
  <img src="https://blog.codepen.io/favicon.ico" width="16" style="max-width: unset;"  /> | CodePen Radio |  |  |  |
@@ -531,7 +531,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="templates"><a name="programming-templates">Templates</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://bootstrapmade.com/theme/img/apple-touch-icon.png" width="16" style="max-width: unset;"  /> | BootstrapMade | At BootstrapMade, we create beautiful website templates and bootstrap themes using Bootstrap, the most popular HTML, CSS and JavaScript framework. |  | Bootstrap templates, Bootstrap themes, Bootstrap, Free Bootstrap Templates, Free Bootstrap Themes, W... |
  <img src="https://bootstraptaste.com/assets/img/apple-touch-icon.png" width="16" style="max-width: unset;"  /> | BootstrapTaste | 100+ Best Bootstrap templates and HTML Website Templates collections to build your website or app in 2020. |  | Bootstrap themes, Bootstrap templates, Bootstrap, Free Bootstrap Templates, Website Templates, Templ... |
@@ -560,7 +560,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="testing"><a name="programming-testing">Testing</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.browserling.com/favicon.ico" width="16" style="max-width: unset;"  /> | Browserling | Try for free now! Cross browser test your website immediately in all web browsers - Internet Explorer, Edge, Chrome, Safari, Firefox, and Opera. |  |  |
  <img src="https://3fxtqy18kygf3on3bu39kh93-wpengine.netdna-ssl.com/wp-content/themes/browserstack/img/favicons/apple-touch-icon.png" width="16" style="max-width: unset;"  /> | BrowserStack | Instant access to 2000+ browsers and real iOS and Android devices for cross browser testing. Ship apps and websites that work for everyone, every time. Get Free Trial. |  |  |
@@ -578,7 +578,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="ui-kits-libraries"><a name="programming-ui-kits-libraries">UI Kits & Libraries</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" width="16" style="max-width: unset;"  /> | Bootstrap | Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons,... |  |  |
  <img src="https://bulma.io/favicons/favicon-32x32.png?v=201701041855" width="16" style="max-width: unset;"  /> | Bulma | Bulma is a free, open source CSS framework based on Flexbox and built with Sass. It's 100% responsive, fully modular, and available for free. |  |  |
@@ -599,7 +599,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="youtube-channels"><a name="programming-youtube-channels">YouTube Channels</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" style="max-width: unset;"  /> | Adrian Twarog | I'm Adrian from Australia, a designer and developer who makes websites and apps using platforms like React Native. I'm hoping to share some of the things I've learnt over the years about my career and... |  | HTML CSS JS UI UX WordPress "React Native" "User Interface Design" Website JavaScript "Graphics desi... |
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" style="max-width: unset;"  /> | Ben Awad | I'm a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding. |  | react graphql typescript |
@@ -624,14 +624,14 @@
 ## <a name="reading-writing">Reading & Writing</a> 
 
 ### <a name="learn"><a name="reading-writing-learn">Learn</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/developers/images/touchicon-180.png" width="16" style="max-width: unset;"  /> | Google Technical Writing |  |  |  |
 
 **[⬆ Back to Index](#index)**
 
 ### <a name="platforms"><a name="reading-writing-platforms">Platforms</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--t7tVouP9--/c_limit,f_png,fl_progressive,q_80,w_192/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" width="16" style="max-width: unset;"  /> | DEV | A constructive and inclusive social network for software developers. With you every step of your journey. |  | software development, engineering, rails, javascript, ruby |
  <img src="https://news.ycombinator.com/favicon.ico" width="16" style="max-width: unset;"  /> | Hacker News |  |  |  |
@@ -647,7 +647,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="utilities"><a name="reading-writing-utilities">Utilities</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://assets.website-files.com/5e0a5d9d743608d0f3ea6753/5f35091372cfa97ba7438461_daily.dev%20-%20Favicon%4030x.ico" width="16" style="max-width: unset;"  /> | daily.dev | Daily.dev is the easiest way to stay updated on the latest programming news. Get the hottest dev news from the best tech blogs on any topic you can think of. Stay updated daily, and unlock more time t... |  |  |
  <img src="https://gramara.com/icons/icon-96x96.png?v=36fedff97b311c405df1c8fff551eb82" width="16" style="max-width: unset;"  /> | Gramara | Write fluent English in a snap! |  |  |
@@ -659,7 +659,7 @@
 ## <a name="tools-utilities">Tools & Utilities</a> 
 
 ### <a name="accessibility"><a name="tools-utilities-accessibility">Accessibility</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://accessibility.18f.gov/checklist/favicon.ico" width="16" style="max-width: unset;"  /> | 18F Accessibility Guide | A simple checklist for determining if your site is accessible. |  |  |
  <img src="https://a11y-style-guide.com/favicons/favicon-96x96.png" width="16" style="max-width: unset;"  /> | A11Y Style Guide | Style guide and pattern library promoting accessible components and WCAG compliance criteria. |  |  |
@@ -683,7 +683,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="analytics"><a name="tools-utilities-analytics">Analytics</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://beampipe.io/favicon-32x32.png" width="16" style="max-width: unset;"  /> | beampipe | Beampipe is a simple, privacy-focussed alternative to Google Analytics with a free tier for small sites. |  |  |
  <img src="https://usefathom.com/assets/favicon.svg?v=3" width="16" style="max-width: unset;"  /> | Fathom | Fathom Analytics is simple, GDPR + CCPA + PECR compliant website analytics tool, no cookie notice required. No tracking or storing personal data of your users. |  |  |
@@ -698,7 +698,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="browsers-extensions"><a name="tools-utilities-browsers-extensions">Browsers & Extensions</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://cdn.blisk.io/favicons/favicon-96x96.png?v=d9954ab765a2471d985e27862d3d940c" width="16" style="max-width: unset;"  /> | Blisk | Download Blisk - a browser for web developers. Blisk - is a developer oriented browser with devices, URL and scroll sync, auto-refresh, screenshots and screen recorder. |  | Blisk, browser, download, developer, actions synchronization, sync, devices, analytics, screenshots,... |
  <img src="https://brave.com/static-assets/images/brave-favicon.png" width="16" style="max-width: unset;"  /> | Brave | The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to enjoy a faster ad-free browsing experience that saves data and battery life by blocking tracking sof... |  |  |
@@ -730,7 +730,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="editors-extensions"><a name="tools-utilities-editors-extensions">Editors & Extensions</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.jetbrains.com/favicon-32x32.png" width="16" style="max-width: unset;"  /> | AppCode | An intelligent IDE for iOS/macOS development focused on code quality, efficient code navigation, smart code completion, on-the-fly code analysis with quick-fixes and superior code refactorings. |  |  |
  <img src="https://atom.io/favicon.ico" width="16" style="max-width: unset;"  /> | Atom | At GitHub, we’re building the text editor we’ve always wanted: hackable to the core, but approachable on the first day without ever touching a config file. We can’t wait to see what you build with it. |  |  |
@@ -759,7 +759,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="general"><a name="tools-utilities-general">General</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://gokul.site/icons/icon-96x96.png?v=2d9998c4e1e6c7960b943ee0d4373742" width="16" style="max-width: unset;"  /> | Beginner's guide to web security | A 100+ page ebook that talks about the basics of web security, various types of web security attacks and how to avoid/fix them. |  |  |
  <img src="https://uploads-ssl.webflow.com/5ba4b3c973b5d218459f7e6f/5f33ce7fe8e7463f6c74c26f_checklist-web-image.png" width="16" style="max-width: unset;"  /> | Checklist Design | Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets. |  |  |
@@ -775,14 +775,14 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="image-video-editing"><a name="tools-utilities-image-video-editing">Image & Video Editing</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://letsenhance.io/static/favicon/icon-96.png" width="16" style="max-width: unset;"  /> | Let's Enhance | Simple machine learning software to enlarge images with no quality loss, enhance colors and photo resolution, automatically retouch product photos. Free trial. |  |  |
 
 **[⬆ Back to Index](#index)**
 
 ### <a name="performance"><a name="tools-utilities-performance">Performance</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://gtmetrix.com/favicon.ico" width="16" style="max-width: unset;"  /> | GTmetrix | GTmetrix is a free tool that analyzes your page's speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them. |  |  |
  <img src="https://developers.google.com/speed/pagespeed/insights/favicon.ico" width="16" style="max-width: unset;"  /> | PageSpeed Insights |  |  |  |
@@ -797,7 +797,7 @@
 This section is powered by [Public APIs](https://github.com/public-apis/public-apis).
 
 ### <a name="seo"><a name="tools-utilities-seo">SEO</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://static.ahrefs.com/favicon-32x32.png?v=2" width="16" style="max-width: unset;"  /> | Ahrefs | You don't have to be an SEO pro to rank higher and get more traffic. Join Ahrefs – we're a powerful but easy to learn SEO toolset with a passionate community. |  |  |
  <img src="https://cdn.ahrefs.com/favicon-32x32.png?v=2" width="16" style="max-width: unset;"  /> | Backlink Checker | With the world's biggest index of live backlinks (over 15 trillion), Ahrefs Backlink Checker will show you the most complete backlink profile for any website. |  |  |
@@ -809,7 +809,7 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
 **[⬆ Back to Index](#index)**
 
 ### <a name="typing"><a name="tools-utilities-typing">Typing</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.keybr.com/assets/934c99d37fc250c3.png" width="16" style="max-width: unset;"  /> | Keybr | Teaching the world to type at the speed of thought! Typing lessons that work. |  |  |
  <img src="https://openvim.com/icon.png" width="16" style="max-width: unset;"  /> | Open Vim |  |  |  |
@@ -820,7 +820,7 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
 **[⬆ Back to Index](#index)**
 
 ### <a name="website-builders"><a name="tools-utilities-website-builders">Website Builders</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.dreamhost.com/assets/favicons/apple-touch-icon-76x76-18c4bd5a860942003494cecf3aa217b02285f57f5525c0e4985dcb77f0125d91.png" width="16" style="max-width: unset;"  /> | DreamHost | What's better than WordPress? A Website and Page Builder for WordPress. Choose a theme, add content, images and more with ZERO code! |  |  |
  <img src="https://img6.wsimg.com/ux/favicon/favicon-96x96.png" width="16" style="max-width: unset;"  /> | GoDaddy Website Builder | Learn How to Make a Website Quickly and Easily with our Highly Acclaimed Website Builder. Our easy to use Web Design software will let you Create a Website in no time at all! |  |  |
@@ -836,7 +836,7 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
 ## <a name="ui-design">UI Design</a> 
 
 ### <a name="color-palettes"><a name="ui-design-color-palettes">Color Palettes</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://color.adobe.com/create/favicon.ico" width="16" style="max-width: unset;"  /> | Adobe Color | Create color palettes with the color wheel or image, browse thousands of color combinations from the Adobe Color community. |  |  |
  <img src="https://www.canva.com/favicon.ico" width="16" style="max-width: unset;"  /> | Canva | Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.  |  |  |
@@ -856,7 +856,7 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
 **[⬆ Back to Index](#index)**
 
 ### <a name="inspiration"><a name="ui-design-inspiration">Inspiration</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.awwwards.com/apple-touch-icon.png" width="16" style="max-width: unset;"  /> | Awwwards | Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world. |  | Website Awards, Web Design Inspiration, Webdesign Trends |
  <img src="https://a5.behance.net/2acd763b00852cc6bd4375598dba21e22bfa71e3/img/site/apple-touch-icon.png?cb=264615658" width="16" style="max-width: unset;"  /> | Behance | Behance is the world's largest creative network for showcasing and discovering creative work. |  | online portfolio, online portfolio site, creative professional platform, creative network, creative ... |
@@ -881,7 +881,7 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
 **[⬆ Back to Index](#index)**
 
 ### <a name="learn"><a name="ui-design-learn">Learn</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://uploads-ssl.webflow.com/5f718e7b0d482ef36d2c8417/5f79490f65ebcb7fdfdd3826_favicon-256.png" width="16" style="max-width: unset;"  /> | Enhance UI | Learn Design for Developers wanting to know UI, UX and more. |  |  |
  <img src="https://hackdesign.org/favicon.ico" width="16" style="max-width: unset;"  /> | Hack Design | An easy to follow design course for people who do amazing things. Receive a design lesson in your inbox each week, hand crafted by a design pro. Learn at your own pace, and apply it to your real life ... |  |  |
@@ -892,7 +892,7 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
 **[⬆ Back to Index](#index)**
 
 ### <a name="prototyping"><a name="ui-design-prototyping">Prototyping</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.adobe.com/content/dam/cc/Adobe_favicon.ico" width="16" style="max-width: unset;"  /> | Adobe XD | Adobe XD is a fast & powerful UI/UX design solution for websites, apps & more. Design, wireframe, animate, prototype, collaborate & share  — all in one place. |  |  |
  <img src="https://app-mockup.com/icons/icon-96x96.png?v=59619132456a4be05090b0bf15d7fa12" width="16" style="max-width: unset;"  /> | AppMockUp | Use AppMockUp, the world's most powerful screenshot builder to create the most compelling screenshots for your app. |  |  |
@@ -906,14 +906,14 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
 **[⬆ Back to Index](#index)**
 
 ### <a name="utilities"><a name="ui-design-utilities">Utilities</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://usepastel.com/static/images/favicon.png" width="16" style="max-width: unset;"  /> | Compare pixels | Use this tool to quickly check differences between design mockups and the live website. |  | feedback, website, share, link, live, visual, comment, sticky, note, pin, server, web |
 
 **[⬆ Back to Index](#index)**
 
 ### <a name="youtube-channels"><a name="ui-design-youtube-channels">YouTube Channels</a></a>
-| &nbsp; | Name | Description | Links | Keywords |
+| &nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" style="max-width: unset;"  /> | DesignCourse | New videos weekly from Monday to Thursday @ 10:30 AM ET! Hi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlu... |  | "web design" "logo design" "illustrator tutorials" "website design" free ui ux "user experience desi... |
 
