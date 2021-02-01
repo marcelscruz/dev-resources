@@ -388,7 +388,8 @@ module.exports = [
     {
         name: 'Stack Overflow',
         categories: [toolsAndUtilities.general],
-        description: 'Stack Overflow | The World’s Largest Online Community for Developers.',
+        description:
+            'Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.',
         links: {
             [website]: 'http://stackoverflow.com/',
         },

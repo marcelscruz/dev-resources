@@ -240,7 +240,8 @@ module.exports = [
     {
         name: 'CodeChef',
         categories: [programming.codeChallenges],
-        description: 'CodeChef | Competitive Programming | Participate & Learn | CodeChef.',
+        description:
+            "Learn competitive programming with the help of CodeChef's coding competitions. Take part in these online coding contests to level up your skills.",
         keywords: [
             'programming competition',
             'programming contest',

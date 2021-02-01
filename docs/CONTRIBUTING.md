@@ -34,11 +34,11 @@ Each resource belongs to an object, as such:
 Observe that:
 
 -   `name`, `description` and `icon` are strings, where:
-    -   `name` and `description` should not include line breaks `(\n)` and alike
+    -   `name` and `description` should not include line breaks `(\n)` nor the pipe symbol `(|)`
     -   `icon` should be a URL
 -   `categories` is an array, meaning the resource can belong to multiple categories; its values (e.g. `programming.learn`) should be used from `constants/categories.js`, as this ensures organization and avoids misspellings
 -   `links` is an object, where multiple platforms can be added; again, its key properties (e.g. `[youtube]`) should be used from `constants/links.js`
--   `keywords` is an array of strings, which also should not include line breaks `(\n)` and alike
+-   `keywords` is an array of strings, which also should not include line breaks `(\n)` nor the pipe symbol `(|)`
 -   `icon` and `keywords` are the only optional properties, all others are required, with `categories` and `links` containing at least one value
 -   the `description` property can be custom or grabbed from the resource's metadata included in the `<head>` tag of the website's HTML document
 -   the `icon` property can also be grabbed from the resource's metadata included in the `<head>` tag or by doing the following:
