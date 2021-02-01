@@ -6,39 +6,50 @@ const {
     jobs,
     infrastructure,
 } = require('../constants/categories')
+const { website } = require('../constants/links')
 
 module.exports = [
     {
         name: 'A11Y Style Guide',
         categories: [toolsAndUtilities.accessibility],
         description: 'Style guide and pattern library promoting accessible components and WCAG compliance criteria.',
-        url: 'https://a11y-style-guide.com/style-guide/',
+        links: {
+            [website]: 'https://a11y-style-guide.com/style-guide/',
+        },
         icon: 'https://a11y-style-guide.com/favicons/favicon-96x96.png',
     },
     {
         name: 'A11ygator',
         categories: [toolsAndUtilities.accessibility],
-        url: 'https://a11ygator.chialab.io/',
+        links: {
+            [website]: 'https://a11ygator.chialab.io/',
+        },
         icon: 'https://a11ygator.chialab.io/favicon.png',
     },
     {
         name: 'A11yWeekly',
         categories: [programming.newsletters],
         description: 'A weekly dose of web accessibility to help you bring it into your every day work.',
-        url: 'https://a11yweekly.com/',
+        links: {
+            [website]: 'https://a11yweekly.com/',
+        },
         icon: 'https://a11yweekly.com/favicon.ico',
     },
     {
         name: 'Accessibility Engineer',
         categories: [toolsAndUtilities.accessibility],
-        url: 'https://a11yengineer.com/',
+        links: {
+            [website]: 'https://a11yengineer.com/',
+        },
         icon: 'https://a11yengineer.com/assets/images/favicons/favicon-32x32.png',
     },
     {
         name: 'Accessibility Resources',
         categories: [toolsAndUtilities.accessibility],
         description: 'A growing list of accessibility tools and resources.',
-        url: 'https://a11yresources.webflow.io/',
+        links: {
+            [website]: 'https://a11yresources.webflow.io/',
+        },
         icon: 'https://uploads-ssl.webflow.com/5f47cec00744f533cf1b42cb/5f48bf20e685fcb903e66d96_touchicon.png',
     },
     {
@@ -46,7 +57,9 @@ module.exports = [
         categories: [toolsAndUtilities.accessibility],
         description:
             'Client side accessibility error scanner. Contribute to github/accessibilityjs development by creating an account on GitHub.',
-        url: 'https://github.com/github/accessibilityjs',
+        links: {
+            [website]: 'https://github.com/github/accessibilityjs',
+        },
         icon: 'https://github.githubassets.com/favicons/favicon-dark.svg',
     },
     {
@@ -54,7 +67,9 @@ module.exports = [
         categories: [toolsAndUtilities.accessibility],
         description:
             'A tool for creating color variations on a base color to meet WCAG AA or AAA color contrast ratio guidelines.',
-        url: 'https://learnui.design/tools/accessible-color-generator.html',
+        links: {
+            [website]: 'https://learnui.design/tools/accessible-color-generator.html',
+        },
         icon: 'https://learnui.design/tools/favicon.ico',
     },
     {
@@ -82,7 +97,9 @@ module.exports = [
             'BITV',
             'Section 508.',
         ],
-        url: 'https://achecker.ca/checker/index.php',
+        links: {
+            [website]: 'https://achecker.ca/checker/index.php',
+        },
         icon: 'https://achecker.ca/images/favicon.ico',
     },
     {
@@ -90,7 +107,9 @@ module.exports = [
         categories: [uiDesign.colorPalettes],
         description:
             'Create color palettes with the color wheel or image, browse thousands of color combinations from the Adobe Color community.',
-        url: 'https://color.adobe.com/create/color-wheel',
+        links: {
+            [website]: 'https://color.adobe.com/create/color-wheel',
+        },
         icon: 'https://color.adobe.com/create/favicon.ico',
     },
     {
@@ -98,7 +117,9 @@ module.exports = [
         categories: [uiDesign.prototyping],
         description:
             'Adobe XD is a fast & powerful UI/UX design solution for websites, apps & more. Design, wireframe, animate, prototype, collaborate & share  — all in one place.',
-        url: 'https://www.adobe.com/products/xd.html',
+        links: {
+            [website]: 'https://www.adobe.com/products/xd.html',
+        },
         icon: 'https://www.adobe.com/content/dam/cc/Adobe_favicon.ico',
     },
     {
@@ -109,7 +130,9 @@ module.exports = [
         keywords: [
             'HTML CSS JS UI UX WordPress "React Native" "User Interface Design" Website JavaScript "Graphics design"',
         ],
-        url: 'https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ',
+        links: {
+            [website]: 'https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ',
+        },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
@@ -117,7 +140,9 @@ module.exports = [
         categories: [toolsAndUtilities.seo],
         description:
             "You don't have to be an SEO pro to rank higher and get more traffic. Join Ahrefs – we're a powerful but easy to learn SEO toolset with a passionate community.",
-        url: 'https://ahrefs.com/',
+        links: {
+            [website]: 'https://ahrefs.com/',
+        },
         icon: 'https://static.ahrefs.com/favicon-32x32.png?v=2',
     },
     {
@@ -125,13 +150,17 @@ module.exports = [
         categories: [indieHacking.utilities],
         description:
             'Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.',
-        url: 'https://airtable.com/',
+        links: {
+            [website]: 'https://airtable.com/',
+        },
         icon: 'https://airtable.com/images/favicon/baymax/favicon-32x32.png',
     },
     {
         name: 'ally.js',
         categories: [toolsAndUtilities.accessibility],
-        url: 'https://allyjs.io/index.html',
+        links: {
+            [website]: 'https://allyjs.io/index.html',
+        },
         icon: 'https://allyjs.io/favicon.ico',
     },
     {
@@ -139,7 +168,9 @@ module.exports = [
         categories: [jobs.boards],
         description:
             'Apply privately to 130,000+ remote jobs and startup jobs near you with one application. See salary and equity upfront.',
-        url: 'https://angel.co/',
+        links: {
+            [website]: 'https://angel.co/',
+        },
         icon: 'https://angel.co/images/icons/iOS/UpdatedFavicon_72x72.png',
     },
     {
@@ -147,7 +178,9 @@ module.exports = [
         categories: [programming.apiBuilding],
         description:
             'Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.',
-        url: 'https://cloud.google.com/apigee',
+        links: {
+            [website]: 'https://cloud.google.com/apigee',
+        },
         icon:
             'https://www.gstatic.com/devrel-devsite/prod/vbd4700e58d826f0eab371eadc20e0e343567df356800794a790eebf2ac059db2/cloud/images/favicons/onecloud/super_cloud.png',
     },
@@ -156,7 +189,9 @@ module.exports = [
         categories: [toolsAndUtilities.editorsAndExtensions],
         description:
             'An intelligent IDE for iOS/macOS development focused on code quality, efficient code navigation, smart code completion, on-the-fly code analysis with quick-fixes and superior code refactorings.',
-        url: 'https://www.jetbrains.com/objc/',
+        links: {
+            [website]: 'https://www.jetbrains.com/objc/',
+        },
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
@@ -164,7 +199,9 @@ module.exports = [
         categories: [uiDesign.prototyping],
         description:
             "Use AppMockUp, the world's most powerful screenshot builder to create the most compelling screenshots for your app.",
-        url: 'https://app-mockup.com/',
+        links: {
+            [website]: 'https://app-mockup.com/',
+        },
         icon: 'https://app-mockup.com/icons/icon-96x96.png?v=59619132456a4be05090b0bf15d7fa12',
     },
     {
@@ -172,13 +209,17 @@ module.exports = [
         categories: [toolsAndUtilities.editorsAndExtensions],
         description:
             'At GitHub, we’re building the text editor we’ve always wanted: hackable to the core, but approachable on the first day without ever touching a config file. We can’t wait to see what you build with it.',
-        url: 'https://atom.io/',
+        links: {
+            [website]: 'https://atom.io/',
+        },
         icon: 'https://atom.io/favicon.ico',
     },
     {
         name: 'Authentic Jobs',
         categories: [jobs.boards],
-        url: 'https://authenticjobs.com/',
+        links: {
+            [website]: 'https://authenticjobs.com/',
+        },
         icon: 'https://authenticjobs.com/wp-content/uploads/2020/04/cropped-aj-site-favicon-32x32.png',
     },
     {
@@ -186,7 +227,9 @@ module.exports = [
         categories: [toolsAndUtilities.accessibility],
         description:
             ':wheelchair: A curate list about A11Y. Contribute to brunopulis/awesome-a11y development by creating an account on GitHub.',
-        url: 'https://github.com/brunopulis/awesome-a11y',
+        links: {
+            [website]: 'https://github.com/brunopulis/awesome-a11y',
+        },
         icon: 'https://github.githubassets.com/favicons/favicon-dark.svg',
     },
     {
@@ -194,7 +237,9 @@ module.exports = [
         categories: [infrastructure.hosting],
         description:
             'Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use.',
-        url: 'https://aws.amazon.com/',
+        links: {
+            [website]: 'https://aws.amazon.com/',
+        },
         icon: 'https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png',
     },
     {
@@ -203,7 +248,9 @@ module.exports = [
         description:
             'Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.',
         keywords: ['Website Awards', 'Web Design Inspiration', 'Webdesign Trends'],
-        url: 'https://www.awwwards.com/',
+        links: {
+            [website]: 'https://www.awwwards.com/',
+        },
         icon: 'https://www.awwwards.com/apple-touch-icon.png',
     },
     {
@@ -212,7 +259,9 @@ module.exports = [
         description:
             'Invent with purpose, realise cost savings and make your organisation more efficient with Microsoft Azure’s open and flexible cloud computing platform.',
         keywords: ['Azure', 'Windows Azure', 'Cloud Service', 'Cloud Computing Companies'],
-        url: 'https://azure.microsoft.com/',
+        links: {
+            [website]: 'https://azure.microsoft.com/',
+        },
         icon:
             'https://azurecomcdn.azureedge.net/cvt-1e062bfe62b371303d7ba3612723f5e334cd5f56fd4e3ea4c0f6e8138bf366b5/images/icon/apple-touch/72x72.png',
     },

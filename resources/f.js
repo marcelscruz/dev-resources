@@ -1,4 +1,5 @@
 const { toolsAndUtilities, assets, uiDesign, infrastructure, programming, jobs } = require('../constants/categories')
+const { website } = require('../constants/links')
 
 module.exports = [
     {
@@ -6,7 +7,9 @@ module.exports = [
         categories: [toolsAndUtilities.analytics],
         description:
             'Fathom Analytics is simple, GDPR + CCPA + PECR compliant website analytics tool, no cookie notice required. No tracking or storing personal data of your users.',
-        url: 'https://usefathom.com/',
+        links: {
+            [website]: 'https://usefathom.com/',
+        },
         icon: 'https://usefathom.com/assets/favicon.svg?v=3',
     },
     {
@@ -14,7 +17,9 @@ module.exports = [
         categories: [assets.icons],
         description:
             'Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.',
-        url: 'https://feathericons.com/',
+        links: {
+            [website]: 'https://feathericons.com/',
+        },
         icon: 'https://feathericons.com/icons/icon-96x96.png',
     },
     {
@@ -36,7 +41,9 @@ module.exports = [
             'svg',
             'user interface design',
         ],
-        url: 'https://www.figma.com/',
+        links: {
+            [website]: 'https://www.figma.com/',
+        },
         icon: 'https://static.figma.com/app/icon/1/touch-76.png',
     },
     {
@@ -44,7 +51,9 @@ module.exports = [
         categories: [uiDesign.inspiration],
         description:
             'FigmaCrush is a curated collection of Figma resources: UI kits, icons, website templates and all sorts of freebies created and shared by the Figma community.',
-        url: 'https://www.figmacrush.com/',
+        links: {
+            [website]: 'https://www.figmacrush.com/',
+        },
         icon: 'https://www.figmacrush.com/wp-content/uploads/2019/09/favicon_FM.ico',
     },
     {
@@ -52,7 +61,9 @@ module.exports = [
         categories: [infrastructure.hosting, programming.databases],
         description:
             'Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.',
-        url: 'https://firebase.google.com/',
+        links: {
+            [website]: 'https://firebase.google.com/',
+        },
         icon:
             'https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png',
     },
@@ -60,7 +71,9 @@ module.exports = [
         name: 'Firefox',
         categories: [toolsAndUtilities.browsersAndExtensions],
         description: 'Faster page loading, less memory usage and packed with features, the new Firefox is here.',
-        url: 'https://www.mozilla.org/en-US/firefox/new/',
+        links: {
+            [website]: 'https://www.mozilla.org/en-US/firefox/new/',
+        },
         icon: 'https://www.mozilla.org/media/img/favicons/firefox/browser/favicon-196x196.59e3822720be.png',
     },
     {
@@ -68,20 +81,26 @@ module.exports = [
         categories: [toolsAndUtilities.browsersAndExtensions],
         description:
             'Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging.',
-        url: 'https://www.mozilla.org/en-US/firefox/developer/',
+        links: {
+            [website]: 'https://www.mozilla.org/en-US/firefox/developer/',
+        },
         icon: 'https://www.mozilla.org/media/img/favicons/firefox/browser/developer/favicon-196x196.b8d17dd1dda2.png',
     },
     {
         name: 'Firefox Nightly',
         categories: [toolsAndUtilities.browsersAndExtensions],
-        url: 'https://www.mozilla.org/en-US/firefox/69.0a1/releasenotes/',
+        links: {
+            [website]: 'https://www.mozilla.org/en-US/firefox/69.0a1/releasenotes/',
+        },
         icon: 'https://www.mozilla.org/media/img/favicons/firefox/browser/nightly/favicon-196x196.f6d874cabab4.png',
     },
     {
         name: 'Fiverr',
         categories: [jobs.freelancing],
         description: 'One marketplace, millions of professional services. Browse. Buy. Done.',
-        url: 'https://www.fiverr.com/',
+        links: {
+            [website]: 'https://www.fiverr.com/',
+        },
         icon:
             'https://assetsv2.fiverrcdn.com/assets/v2_globals/apple-touch-icon-76x76-e74f7616f5a5f00eb18aa6426eeac69c.png',
     },
@@ -89,7 +108,9 @@ module.exports = [
         name: 'Flaticon',
         categories: [assets.icons],
         description: 'Download all icons in SVG, PSD, PNG, EPS format or as webfonts.',
-        url: 'https://www.flaticon.com',
+        links: {
+            [website]: 'https://www.flaticon.com',
+        },
         icon: 'https://media.flaticon.com/dist/min/img/apple-icon-76x76-precomposed.png',
     },
     {
@@ -97,14 +118,18 @@ module.exports = [
         categories: [programming.learn],
         description:
             'Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!',
-        url: 'http://www.flexboxdefense.com/',
+        links: {
+            [website]: 'http://www.flexboxdefense.com/',
+        },
         icon: 'http://www.flexboxdefense.com/images/favicon.ico',
     },
     {
         name: 'Flexbox Froggy',
         categories: [programming.learn],
         description: 'A game for learning CSS flexbox.',
-        url: 'http://flexboxfroggy.com/',
+        links: {
+            [website]: 'http://flexboxfroggy.com/',
+        },
         icon: 'http://flexboxfroggy.com/favicon.ico',
     },
     {
@@ -122,7 +147,9 @@ module.exports = [
             'flexible jobs',
             'flexible schedule jobs',
         ],
-        url: 'https://www.flexjobs.com/',
+        links: {
+            [website]: 'https://www.flexjobs.com/',
+        },
         icon: 'https://www.flexjobs.com/favicon-32x32.png',
     },
     {
@@ -130,7 +157,9 @@ module.exports = [
         categories: [uiDesign.prototyping],
         description:
             'Free lifetime account. Simple to learn, quick to master. Design interactive prototypes for Android, iOS, web and desktop in minutes.',
-        url: 'https://www.fluidui.com/',
+        links: {
+            [website]: 'https://www.fluidui.com/',
+        },
         icon: 'https://www.fluidui.com/favicon-96x96.png',
     },
     {
@@ -138,7 +167,9 @@ module.exports = [
         categories: [jobs.boards],
         description:
             'A job board dedicated to Flutter, the mobile cross platform SDK. We have jobs in Africa, the Americas, Asia, Europe, Oceania, and remote.',
-        url: 'https://flutterjobs.info/',
+        links: {
+            [website]: 'https://flutterjobs.info/',
+        },
         icon: 'https://flutterjobs.info/favicon.png',
     },
     {
@@ -159,7 +190,9 @@ module.exports = [
             'font awesome free',
             'font awesome pro',
         ],
-        url: 'https://fontawesome.com',
+        links: {
+            [website]: 'https://fontawesome.com',
+        },
         icon: 'https://fontawesome.com/images/favicons/favicon-96x96.png',
     },
     {
@@ -167,7 +200,9 @@ module.exports = [
         categories: [assets.fonts],
         description:
             'Free downloads of legally licensed fonts that are perfect for your design projects. The best place in the universe to search for amazing fonts.',
-        url: 'https://www.fontspace.com/',
+        links: {
+            [website]: 'https://www.fontspace.com/',
+        },
         icon: 'https://www.fontspace.com/favicon-32x32.png?v=00Bdv4Q5g6',
     },
     {
@@ -185,7 +220,9 @@ module.exports = [
             'script fonts',
             'typewriter fonts',
         ],
-        url: 'https://www.fontsquirrel.com/',
+        links: {
+            [website]: 'https://www.fontsquirrel.com/',
+        },
         icon: 'https://www.fontsquirrel.com/favicon-32x32.png?v=2',
     },
     {
@@ -193,7 +230,9 @@ module.exports = [
         categories: [assets.fonts],
         description:
             'Fontjoy helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing.',
-        url: 'https://fontjoy.com/',
+        links: {
+            [website]: 'https://fontjoy.com/',
+        },
         icon: 'https://fontjoy.com/favicon32.gif',
     },
     {
@@ -211,14 +250,18 @@ module.exports = [
             'fonts',
             'typefaces',
         ],
-        url: 'https://fontpair.co/',
+        links: {
+            [website]: 'https://fontpair.co/',
+        },
         icon: 'https://fontpair.co/img/favicon.png',
     },
     {
         name: 'Fonts In Use',
         categories: [assets.fonts],
         description: 'A searchable archive of typographic design, indexed by typeface, format, and topic.',
-        url: 'https://fontsinuse.com/',
+        links: {
+            [website]: 'https://fontsinuse.com/',
+        },
         icon: 'https://assets.fontsinuse.com/images/icons/apple-touch-icon-76x76.png',
     },
     {
@@ -244,14 +287,18 @@ module.exports = [
             'mac fonts',
             'macintosh fonts',
         ],
-        url: 'https://fonts2u.com/',
+        links: {
+            [website]: 'https://fonts2u.com/',
+        },
         icon: 'https://ycdn.space/f7/apple-touch-icon.png',
     },
     {
         name: 'FontSpark',
         categories: [assets.fonts],
         description: 'Helping designers discover the perfect font for their next design project.',
-        url: 'https://fontspark.app/',
+        links: {
+            [website]: 'https://fontspark.app/',
+        },
         icon: 'https://fontspark.app/favicon.ico',
     },
     {
@@ -259,7 +306,9 @@ module.exports = [
         categories: [assets.illustrations],
         description:
             'Collection of high-resolution vector or illustrations background images for modern websites and landing pages. Updated every week with new illustrations with different topics. You can contact us to suggest new topics for illustration background images as per your need.',
-        url: 'https://freellustrations.com',
+        links: {
+            [website]: 'https://freellustrations.com',
+        },
         icon: 'https://freellustrustrations.s3.us-east-2.amazonaws.com/static/favicon.png',
     },
     {
@@ -290,7 +339,9 @@ module.exports = [
             'tutorial',
             'programming',
         ],
-        url: 'https://www.freecodecamp.org/',
+        links: {
+            [website]: 'https://www.freecodecamp.org/',
+        },
         icon: 'https://www.freecodecamp.org/icons/icon-96x96.png?v=6cba562cbd10e31af925a976f3db73f7',
     },
     {
@@ -298,7 +349,9 @@ module.exports = [
         categories: [programming.templates],
         description:
             'Free website templates, free HTML5 templates using Bootstrap framework. High quality free website templates for all.',
-        url: 'https://freehtml5.co/',
+        links: {
+            [website]: 'https://freehtml5.co/',
+        },
         icon: 'https://freehtml5.co/wp-content/uploads/2019/03/favicon-32x32.png',
     },
     {
@@ -330,7 +383,9 @@ module.exports = [
             'material icons',
             'office style icons',
         ],
-        url: 'https://freeicons.io/',
+        links: {
+            [website]: 'https://freeicons.io/',
+        },
         icon: 'https://freeicons.io/asset/images/favicon.png',
     },
     {
@@ -338,7 +393,9 @@ module.exports = [
         categories: [jobs.freelancing],
         description:
             "Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 48m. Receive quotes in seconds. Post your job online now.",
-        url: 'https://www.freelancer.com/',
+        links: {
+            [website]: 'https://www.freelancer.com/',
+        },
         icon: 'https://www.f-cdn.com/assets/main/en/app-icons/apple-touch-icon.png',
     },
     {
@@ -346,7 +403,9 @@ module.exports = [
         categories: [assets.images],
         description:
             'Find free beautiful stock photos with Creative Commons (CC) licensing. Download royalty free images and use them on your website or print!',
-        url: 'https://freephotos.cc/en',
+        links: {
+            [website]: 'https://freephotos.cc/en',
+        },
         icon: 'https://freephotos.cc/favicon.ico',
     },
     {
@@ -354,20 +413,26 @@ module.exports = [
         categories: [programming.podcasts],
         description:
             'A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development.',
-        url: 'https://frontendhappyhour.com/',
+        links: {
+            [website]: 'https://frontendhappyhour.com/',
+        },
         icon: 'https://frontendhappyhour.com/favicon.ico',
     },
     {
         name: 'Frontend Focus',
         categories: [programming.newsletters],
-        url: 'https://frontendfoc.us/',
+        links: {
+            [website]: 'https://frontendfoc.us/',
+        },
         icon: 'https://frontendfoc.us/favicon.png',
     },
     {
         name: 'Frontend Masters',
         categories: [programming.learn],
         description: 'Advance your skills with in-depth, modern JavaScript and front-end engineering courses.',
-        url: 'https://frontendmasters.com/',
+        links: {
+            [website]: 'https://frontendmasters.com/',
+        },
         icon: 'https://frontendmasters.com/favicon-32x32.png',
     },
     {
@@ -375,7 +440,9 @@ module.exports = [
         categories: [programming.learn],
         description:
             'Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.',
-        url: 'https://www.frontendmentor.io/',
+        links: {
+            [website]: 'https://www.frontendmentor.io/',
+        },
         icon: 'https://www.frontendmentor.io/static/favicon/favicon-32x32.png',
     },
     {
@@ -383,7 +450,9 @@ module.exports = [
         categories: [programming.templates],
         description:
             'Reusable HTML templates and blocks to help you build beautiful and professional landing pages quickly and easily by COPY-PASTE.',
-        url: 'https://frontendor.com/',
+        links: {
+            [website]: 'https://frontendor.com/',
+        },
         icon: 'https://frontendor.com/preview/images/favicon/favicon-32x32.png',
     },
     {
@@ -391,7 +460,9 @@ module.exports = [
         categories: [programming.podcasts],
         description: 'A podcast for developers interested in building great software products. Hosted by Adam Wathan.',
         keywords: ['technology', 'software', 'web', 'development', 'product', 'startup'],
-        url: 'https://fullstackradio.com/',
+        links: {
+            [website]: 'https://fullstackradio.com/',
+        },
         icon: 'https://fullstackradio.com/favicon-32x32.png',
     },
     {
@@ -402,7 +473,9 @@ module.exports = [
         keywords: [
             'javascript "web development" programming software development technology computer science engineering developer creativity productivity',
         ],
-        url: 'https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q',
+        links: {
+            [website]: 'https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q',
+        },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
@@ -410,7 +483,9 @@ module.exports = [
         categories: [programming.charts],
         description:
             'JavaScript charts for web and mobile apps. 95+ chart types, 1400+ maps and 20+ business dashboards with pre-built themes for any business use-case. Build fast, responsive and highly customizable data visualizations trusted by over 28,000 customers and 750,000 developers worldwide...',
-        url: 'https://www.fusioncharts.com/',
+        links: {
+            [website]: 'https://www.fusioncharts.com/',
+        },
         icon: 'https://www.fusioncharts.com/public/favicon/favicon-32x32.png',
     },
 ]

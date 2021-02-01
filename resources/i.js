@@ -1,11 +1,14 @@
 const { assets, toolsAndUtilities, jobs, indieHacking, programming } = require('../constants/categories')
+const { website } = require('../constants/links')
 
 module.exports = [
     {
         name: 'iconmonstr',
         categories: [assets.icons],
         description: 'Free simple icons for your next project.',
-        url: 'https://iconmonstr.com',
+        links: {
+            [website]: 'https://iconmonstr.com',
+        },
         icon: 'https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico',
     },
     {
@@ -13,7 +16,9 @@ module.exports = [
         categories: [assets.icons, assets.illustrations, assets.images, assets.audio],
         description:
             'Download design elements for free: icons, photos, vector illustrations, and music for your videos.',
-        url: 'https://icons8.com',
+        links: {
+            [website]: 'https://icons8.com',
+        },
         icon: 'https://icons8.com/vue-static/icon/favicon/favicon_16.png',
     },
     {
@@ -21,7 +26,9 @@ module.exports = [
         categories: [assets.icons],
         description:
             'Pixel-perfect vector icons and Icon Fonts available in Line, Monochrome, and Solid style for your next project.',
-        url: 'https://iconscout.com/unicons',
+        links: {
+            [website]: 'https://iconscout.com/unicons',
+        },
         icon: 'https://iconscout.com/favicon-96x96.png',
     },
     {
@@ -50,25 +57,33 @@ module.exports = [
             'web icon packs',
             'web icone',
         ],
-        url: 'https://www.iconshock.com/',
+        links: {
+            [website]: 'https://www.iconshock.com/',
+        },
         icon: 'https://www.iconshock.com/img/favicon.ico',
     },
     {
         name: 'IconSweets',
         categories: [assets.icons],
-        url: 'https://www.designbombs.com/iconsweets2/',
+        links: {
+            [website]: 'https://www.designbombs.com/iconsweets2/',
+        },
         icon: 'https://www.designbombs.com/iconsweets2/favicon-96x96.png',
     },
     {
         name: 'Icônes',
         categories: [assets.icons],
-        url: 'https://icones.netlify.app/',
+        links: {
+            [website]: 'https://icones.netlify.app/',
+        },
         icon: 'https://icones.netlify.app/favicon.svg',
     },
     {
         name: 'Image Optimizer',
         categories: [assets.images],
-        url: 'http://www.imageoptimizer.net/Pages/Home.aspx',
+        links: {
+            [website]: 'http://www.imageoptimizer.net/Pages/Home.aspx',
+        },
         icon: 'data:image/x-icon;,',
     },
     {
@@ -76,21 +91,27 @@ module.exports = [
         categories: [toolsAndUtilities.accessibility],
         description:
             'A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece.',
-        url: 'https://inclusive-components.design/',
+        links: {
+            [website]: 'https://inclusive-components.design/',
+        },
         icon: 'https://inclusive-components.design/favicon.ico',
     },
     {
         name: 'Indeed',
         categories: [jobs.resumeBuilders],
         description: 'Build and upload your resume to Indeed and let your next job find you.',
-        url: 'https://www.indeed.com/create-resume',
+        links: {
+            [website]: 'https://www.indeed.com/create-resume',
+        },
         icon: 'https://www.indeed.com/profile/gatsby-assets/icons/icon-96x96.png?v=d69338e3b43810840b9a84d69dbaa30e',
     },
     {
         name: 'Indie Drops',
         categories: [indieHacking.utilities],
         description: 'Secure unbelivably good deals on early-stage products before they take off.',
-        url: 'http://indiedrops.com/',
+        links: {
+            [website]: 'http://indiedrops.com/',
+        },
         icon: 'http://indiedrops.com/apple-touch-icon.png',
     },
     {
@@ -98,7 +119,9 @@ module.exports = [
         categories: [indieHacking.platforms, indieHacking.podcasts],
         description:
             'Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.',
-        url: 'https://www.indiehackers.com/',
+        links: {
+            [website]: 'https://www.indiehackers.com/',
+        },
         icon: 'https://www.indiehackers.com/images/favicons/favicon--32x32.png',
     },
     {
@@ -106,21 +129,27 @@ module.exports = [
         categories: [programming.templates],
         description:
             'HTML templates designed to power up your online projects with responsive layout, included reusable images and simple licensing.',
-        url: 'https://inovatik.com/',
+        links: {
+            [website]: 'https://inovatik.com/',
+        },
         icon: 'https://inovatik.com/images/favicon.png',
     },
     {
         name: 'Insomnia',
         categories: [programming.apiBuilding],
         description: 'Design & Debug APIs like a human, not a robot.',
-        url: 'https://insomnia.rest/',
+        links: {
+            [website]: 'https://insomnia.rest/',
+        },
         icon: 'https://insomnia.rest/icons/icon-96x96.png?v=b68a1a35ee1565b759a2d4edb26074be',
     },
     {
         name: 'IntelliJ IDEA',
         categories: [toolsAndUtilities.editorsAndExtensions],
         description: 'A Capable and Ergonomic Java IDE for Enterprise Java, Scala, Kotlin and much more...',
-        url: 'https://www.jetbrains.com/idea/',
+        links: {
+            [website]: 'https://www.jetbrains.com/idea/',
+        },
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
@@ -149,7 +178,9 @@ module.exports = [
             'Interfacer resources',
             'Interfacer design resources',
         ],
-        url: 'https://interfacer.xyz/',
+        links: {
+            [website]: 'https://interfacer.xyz/',
+        },
         icon: 'https://interfacer.xyz/assets/site_assets/interfacelogo-icon.png',
     },
     {
@@ -157,7 +188,9 @@ module.exports = [
         categories: [jobs.boards],
         description:
             'Browse the very best iOS development jobs available, or sign up and get a weekly digest delivered by email every Monday.',
-        url: 'https://iosdevjobs.com/',
+        links: {
+            [website]: 'https://iosdevjobs.com/',
+        },
         icon: 'https://iosdevjobs.com/wp-content/uploads/2019/01/cropped-favicon-32x32.png',
     },
     {
@@ -178,13 +211,17 @@ module.exports = [
             'best illustrations',
             'colorful illustrations',
         ],
-        url: 'https://iradesign.io/gallery/illustrations',
+        links: {
+            [website]: 'https://iradesign.io/gallery/illustrations',
+        },
         icon: 'https://iradesign.io/assets/img/favicon.png',
     },
     {
         name: 'Isometriclove',
         categories: [assets.illustrations],
-        url: 'https://isometriclove.com/',
+        links: {
+            [website]: 'https://isometriclove.com/',
+        },
         icon: 'https://isometriclove.com/favicon.ico',
     },
 ]

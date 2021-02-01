@@ -1,10 +1,13 @@
 const { readingAndWriting, programming } = require('../constants/categories')
+const { website } = require('../constants/links')
 
 module.exports = [
     {
         name: 'XDA-Developers',
         categories: [readingAndWriting.platforms],
-        url: 'https://www.xda-developers.com/',
+        links: {
+            [website]: 'https://www.xda-developers.com/',
+        },
         icon: 'https://www.xda-developers.com/favicon-32x32.png',
     },
     {
@@ -12,7 +15,9 @@ module.exports = [
         categories: [programming.testing],
         description:
             'The #1 Manual & Automated Testing App for Jira. Plan, Execute and Track your Quality Assurance with Requirements Traceability.',
-        url: 'https://www.getxray.app/',
+        links: {
+            [website]: 'https://www.getxray.app/',
+        },
         icon: 'https://www.getxray.app/wp-content/themes/xpandit/dist/images/favicons/android-chrome-512x512.png',
     },
     {
@@ -36,14 +41,18 @@ module.exports = [
             'javascript',
             'jquery',
         ],
-        url: 'https://xserver.app/',
+        links: {
+            [website]: 'https://xserver.app/',
+        },
         icon: 'https://xserver.app/assets/img/favicon.png',
     },
     {
         name: 'XState Guide',
         categories: [programming.codeSnippets],
         description: 'Minimal code examples of XState concepts.',
-        url: 'https://bradwoods.io/guides/xstate',
+        links: {
+            [website]: 'https://bradwoods.io/guides/xstate',
+        },
         icon: 'https://bradwoods.io/icons-ac8e8fb7acba0bf710955dec094dc16c/apple-touch-icon-76x76.png',
     },
 ]

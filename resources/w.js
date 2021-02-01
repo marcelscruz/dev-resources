@@ -1,10 +1,13 @@
 const { programming, toolsAndUtilities, jobs, uiDesign, readingAndWriting } = require('../constants/categories')
+const { website } = require('../constants/links')
 
 module.exports = [
     {
         name: 'W3Layouts',
         categories: [programming.templates],
-        url: 'https://w3layouts.com/',
+        links: {
+            [website]: 'https://w3layouts.com/',
+        },
         icon: 'https://w3lcdn.w3layouts.com/wp-content/uploads/2020/11/cropped-w3layouts-logo-512-32x32.png',
     },
     {
@@ -41,7 +44,9 @@ module.exports = [
             'tips',
             'w3c',
         ],
-        url: 'https://www.w3schools.com/',
+        links: {
+            [website]: 'https://www.w3schools.com/',
+        },
         icon: 'https://www.w3schools.com/favicon.ico',
     },
     {
@@ -49,20 +54,26 @@ module.exports = [
         categories: [toolsAndUtilities.browsersAndExtensions],
         description:
             'Find out the technology stack of any website. Create lists of websites and contacts by the technologies they use.',
-        url: 'https://www.wappalyzer.com/',
+        links: {
+            [website]: 'https://www.wappalyzer.com/',
+        },
         icon: 'https://www.wappalyzer.com/apple-touch-icon.png',
     },
     {
         name: 'Wave',
         categories: [toolsAndUtilities.general],
         description: 'Free invoicing & accounting software with credit card processing & payroll services.',
-        url: 'https://www.waveapps.com/',
+        links: {
+            [website]: 'https://www.waveapps.com/',
+        },
         icon: 'https://www.waveapps.com/assets/img/icons/favicon-32x32.png',
     },
     {
         name: 'WAVE',
         categories: [toolsAndUtilities.accessibility],
-        url: 'https://wave.webaim.org/',
+        links: {
+            [website]: 'https://wave.webaim.org/',
+        },
         icon: 'https://wave.webaim.org/favicon.ico',
     },
     {
@@ -70,28 +81,37 @@ module.exports = [
         categories: [jobs.remoteOnly],
         description:
             "Find the most qualified people in the most unexpected places: Hire remote! We Work Remotely is the best place to find and list remote jobs that aren't restricted by commutes or a particular geographic area. Browse thousands of remote work jobs today.",
-        url: 'https://weworkremotely.com/',
+        links: {
+            [website]: 'https://weworkremotely.com/',
+        },
         icon: 'https://weworkremotely.com/favicon-96x96.png',
     },
     {
         name: 'Web Developer',
         categories: [toolsAndUtilities.browsersAndExtensions],
         description: 'Download the Web Developer extension for Chrome and Firefox.',
-        url: 'https://chrispederick.com/work/web-developer/',
+        links: {
+            [website]: 'https://chrispederick.com/work/web-developer/',
+        },
         icon: 'https://cdn.chrispederick.net/images/7.2/logos/256.png',
     },
     {
         name: 'Web Developer Checklist',
         categories: [toolsAndUtilities.browsersAndExtensions],
         description: 'Analyses any web page for violations of best practices.',
-        url: 'https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en',
+        links: {
+            [website]:
+                'https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en',
+        },
         icon: 'https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png',
     },
     {
         name: 'web.dev - Lighthouse',
         categories: [toolsAndUtilities.performance],
         description: 'See how well your website performs. Then, get tips to improve your user experience.',
-        url: 'https://web.dev/measure',
+        links: {
+            [website]: 'https://web.dev/measure',
+        },
         icon: 'https://web.dev/images/favicon-32x32.png',
     },
     {
@@ -99,7 +119,9 @@ module.exports = [
         categories: [toolsAndUtilities.websiteBuilders],
         description:
             'Build responsive websites in your browser, then launch with our world-class hosting or export your code. Discover the professional website platform built for your business.',
-        url: 'https://webflow.com/',
+        links: {
+            [website]: 'https://webflow.com/',
+        },
         icon:
             'https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5d5595354de4fbdd8c554dba_default_webclip.png',
     },
@@ -108,7 +130,9 @@ module.exports = [
         categories: [uiDesign.inspiration],
         description:
             'A showcase of beautiful and well designed web app screens for design inspiration. Including screens from behind signup/paywalls! 😱.',
-        url: 'https://webframe.xyz/',
+        links: {
+            [website]: 'https://webframe.xyz/',
+        },
         icon: 'https://webframe.xyz/favicon.ico',
     },
     {
@@ -117,7 +141,9 @@ module.exports = [
         description:
             'Run a free website speed test from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations.',
         keywords: ['WebPageTest', 'Website Speed Test', 'Page Speed'],
-        url: 'https://www.webpagetest.org/',
+        links: {
+            [website]: 'https://www.webpagetest.org/',
+        },
         icon: 'https://www.webpagetest.org/images/favicon/favicon-32x32.png',
     },
     {
@@ -125,7 +151,9 @@ module.exports = [
         categories: [toolsAndUtilities.seo],
         description:
             'Free tool to check the "authority" of any website based on the quality and quantity of its external backlinks.',
-        url: 'https://ahrefs.com/website-authority-checker',
+        links: {
+            [website]: 'https://ahrefs.com/website-authority-checker',
+        },
         icon: 'https://cdn.ahrefs.com/favicon-32x32.png?v=2',
     },
     {
@@ -133,7 +161,9 @@ module.exports = [
         categories: [toolsAndUtilities.editorsAndExtensions],
         description:
             'A powerful IDE for modern JavaScript development with code completion and refactoring for JavaScript, TypeScript, and the most popular web frameworks.',
-        url: 'https://www.jetbrains.com/webstorm/',
+        links: {
+            [website]: 'https://www.jetbrains.com/webstorm/',
+        },
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
@@ -141,7 +171,9 @@ module.exports = [
         categories: [toolsAndUtilities.websiteBuilders],
         description:
             'Weebly’s free website builder makes it easy to build a website, blog, or online store. Find customizable designs, domains, and eCommerce tools for any type of business using our website builder.',
-        url: 'https://www.weebly.com/',
+        links: {
+            [website]: 'https://www.weebly.com/',
+        },
         icon: 'https://www.weebly.com/favicon.ico',
     },
     {
@@ -149,14 +181,18 @@ module.exports = [
         categories: [programming.youtubeChannels],
         description: 'HTML, CSS, JavaScript and WordPress web development tutorials!',
         keywords: ['JavaScript jQuery HTML5 CSS3 development web design css php wordpress'],
-        url: 'https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA',
+        links: {
+            [website]: 'https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA',
+        },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
         name: 'WhatFont',
         categories: [toolsAndUtilities.browsersAndExtensions],
         description: 'The easiest way to identify fonts on web pages.',
-        url: 'https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en',
+        links: {
+            [website]: 'https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en',
+        },
         icon: 'https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png',
     },
     {
@@ -164,7 +200,9 @@ module.exports = [
         categories: [toolsAndUtilities.websiteBuilders],
         description:
             'Create a free website with Wix.com. Choose a stunning template and customize anything with the Wix website builder—no coding skills needed. Create yours today!',
-        url: 'https://www.wix.com/',
+        links: {
+            [website]: 'https://www.wix.com/',
+        },
         icon: 'https://www.wix.com/favicon.ico',
     },
     {
@@ -172,7 +210,9 @@ module.exports = [
         categories: [toolsAndUtilities.websiteBuilders],
         description:
             'Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.',
-        url: 'https://wordpress.com/',
+        links: {
+            [website]: 'https://wordpress.com/',
+        },
         icon: 'https://s1.wp.com/i/favicon.ico?v=1447321881',
     },
     {
@@ -189,7 +229,9 @@ module.exports = [
             'virtual',
             'working nomads',
         ],
-        url: 'https://www.workingnomads.co/jobs',
+        links: {
+            [website]: 'https://www.workingnomads.co/jobs',
+        },
         icon: 'https://www.workingnomads.co/static/jobs/assets/favicon.ico',
     },
     {
@@ -197,7 +239,9 @@ module.exports = [
         categories: [readingAndWriting.utilities],
         description: 'A simple writing app and text editor to help you focus on what matters.',
         keywords: ['writing app', 'text editor', 'wysiwyg'],
-        url: 'https://writtyapp.com/',
+        links: {
+            [website]: 'https://writtyapp.com/',
+        },
         icon: 'https://writtyapp.com/images/favicon.png',
     },
 ]
