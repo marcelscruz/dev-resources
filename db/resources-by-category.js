@@ -11823,7 +11823,7 @@ module.exports = {
             "categories": [
                 "Tools & Utilities/General"
             ],
-            "description": "Stack Overflow | The World’s Largest Online Community for Developers.",
+            "description": "Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.",
             "links": {
                 "Website": "http://stackoverflow.com/"
             },
@@ -14833,7 +14833,7 @@ module.exports = {
             "categories": [
                 "Programming/Code Challenges"
             ],
-            "description": "CodeChef | Competitive Programming | Participate & Learn | CodeChef.",
+            "description": "Learn competitive programming with the help of CodeChef's coding competitions. Take part in these online coding contests to level up your skills.",
             "keywords": [
                 "programming competition",
                 "programming contest",
