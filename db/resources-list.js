@@ -270,7 +270,7 @@ module.exports = [
             "HTML CSS JS UI UX WordPress \"React Native\" \"User Interface Design\" Website JavaScript \"Graphics design\""
         ],
         "links": {
-            "Website": "https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ"
+            "YouTube": "https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -919,7 +919,7 @@ module.exports = [
             "react graphql typescript"
         ],
         "links": {
-            "Website": "https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw"
+            "YouTube": "https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -947,7 +947,7 @@ module.exports = [
             "programming \"web development\" javascript react node.js"
         ],
         "links": {
-            "Website": "https://www.youtube.com/channel/UCTD_PLq3KAUwkIIs9fk3pAA"
+            "YouTube": "https://www.youtube.com/channel/UCTD_PLq3KAUwkIIs9fk3pAA"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -2575,7 +2575,7 @@ module.exports = [
             "javascript python css html \"machine learning\" \"artificial intelligence\" \"software development\" programming"
         ],
         "links": {
-            "Website": "https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ"
+            "YouTube": "https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -3286,7 +3286,7 @@ module.exports = [
             "cs50 harvard computer science david j. malan"
         ],
         "links": {
-            "Website": "https://www.youtube.com/user/cs50tv"
+            "YouTube": "https://www.youtube.com/user/cs50tv"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -3702,7 +3702,7 @@ module.exports = [
             "\"web design\" \"logo design\" \"illustrator tutorials\" \"website design\" free ui ux \"user experience design\" \"ux design\" \"frontend development\" \"frontend developer\""
         ],
         "links": {
-            "Website": "https://www.youtube.com/user/DesignCourse"
+            "YouTube": "https://www.youtube.com/user/DesignCourse"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -3762,7 +3762,7 @@ module.exports = [
             "web development design javascript tutorials"
         ],
         "links": {
-            "Website": "https://www.youtube.com/c/DevEd/"
+            "YouTube": "https://www.youtube.com/c/DevEd/"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -3827,7 +3827,7 @@ module.exports = [
             "HTML CSS Javascript \"Web Development\" Coding Design"
         ],
         "links": {
-            "Website": "https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ"
+            "YouTube": "https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -5437,7 +5437,7 @@ module.exports = [
             "javascript \"web development\" programming software development technology computer science engineering developer creativity productivity"
         ],
         "links": {
-            "Website": "https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q"
+            "YouTube": "https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -5881,7 +5881,7 @@ module.exports = [
             "Google Chrome Developers Web CSS Framweorks"
         ],
         "links": {
-            "Website": "https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw"
+            "YouTube": "https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -5909,7 +5909,7 @@ module.exports = [
             "\"google developers\" developers \"Google developers videos\" \"google developer tutorials\" \"developer tutorials\" \"developer news\" android firebase tensorflow chr..."
         ],
         "links": {
-            "Website": "https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw"
+            "YouTube": "https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -7867,7 +7867,7 @@ module.exports = [
             "JavaScript Programming"
         ],
         "links": {
-            "Website": "https://www.youtube.com/user/kentdoddsfamily"
+            "YouTube": "https://www.youtube.com/user/kentdoddsfamily"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -7892,7 +7892,7 @@ module.exports = [
             "code \"live stream\" css html javascript animation"
         ],
         "links": {
-            "Website": "https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA"
+            "YouTube": "https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -8005,7 +8005,7 @@ module.exports = [
         ],
         "description": "The Landing Page Hot Tips Ebook features 100 digestible lessons to implement into your Landing Pages. Each tip features a few paragraphs, visual references and related resources. Additional features include: PDF Ebook (180-pages), Rich Media Ebook (adapts to any device), Category filter (eg. UX tips), Component filter (eg. Testimonials), Audiobook (54mins) and interactive launch checklists.",
         "links": {
-            "Website": "https://gumroad.com/a/124908659"
+            "Gumroad": "https://gumroad.com/a/124908659"
         },
         "icon": "https://gumroad.com/favicon.ico"
     },
@@ -8149,7 +8149,7 @@ module.exports = [
             "\"web development\" \"web design\" tutorials web development tutorial learn html css javascript"
         ],
         "links": {
-            "Website": "https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw"
+            "YouTube": "https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -8199,7 +8199,7 @@ module.exports = [
             "meteor angularjs angular drupal wordpress expression engine sass compass css cms drupal7 tutorials education web development websites html html5 css3 jquery ..."
         ],
         "links": {
-            "Website": "https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg"
+            "YouTube": "https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -13135,7 +13135,7 @@ module.exports = [
             "java javascript processing teaching programming beginner tutorial coding challenges art"
         ],
         "links": {
-            "Website": "https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw"
+            "YouTube": "https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -13937,7 +13937,7 @@ module.exports = [
             "\"Programming Tutorials\" \"Web Development Tutorials\" \"Web Development Videos\" \"Web Design Tutorials\" \"Learn Web Design\" \"Learn Programming\""
         ],
         "links": {
-            "Website": "https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA"
+            "YouTube": "https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
@@ -15213,7 +15213,7 @@ module.exports = [
             "JavaScript jQuery HTML5 CSS3 development web design css php wordpress"
         ],
         "links": {
-            "Website": "https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA"
+            "YouTube": "https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
