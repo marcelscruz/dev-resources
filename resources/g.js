@@ -7,7 +7,7 @@ const {
     readingAndWriting,
     uiDesign,
 } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, youtube } = require('../constants/links')
 
 module.exports = [
     {
@@ -83,7 +83,7 @@ module.exports = [
         description: 'Making the web more awesome.',
         keywords: ['Google Chrome Developers Web CSS Framweorks'],
         links: {
-            [website]: 'https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw',
+            [youtube]: 'https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
@@ -96,7 +96,7 @@ module.exports = [
             '"google developers" developers "Google developers videos" "google developer tutorials" "developer tutorials" "developer news" android firebase tensorflow chr...',
         ],
         links: {
-            [website]: 'https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw',
+            [youtube]: 'https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },

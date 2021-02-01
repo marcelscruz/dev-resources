@@ -7,7 +7,7 @@ const {
     assets,
     readingAndWriting,
 } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, youtube } = require('../constants/links')
 
 module.exports = [
     {
@@ -131,7 +131,7 @@ module.exports = [
             '100% FREE Web Development tutorials, web site design tutorials and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev Ops, Server Administration, Deployment Strategies.',
         keywords: ['"web development" "web design" tutorials web development tutorial learn html css javascript'],
         links: {
-            [website]: 'https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw',
+            [youtube]: 'https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
@@ -164,7 +164,7 @@ module.exports = [
             'meteor angularjs angular drupal wordpress expression engine sass compass css cms drupal7 tutorials education web development websites html html5 css3 jquery ...',
         ],
         links: {
-            [website]: 'https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg',
+            [youtube]: 'https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },

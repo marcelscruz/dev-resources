@@ -1,5 +1,5 @@
 const { jobs, uiDesign, assets, programming, toolsAndUtilities } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, youtube } = require('../constants/links')
 
 module.exports = [
     {
@@ -438,7 +438,7 @@ module.exports = [
             'javascript python css html "machine learning" "artificial intelligence" "software development" programming',
         ],
         links: {
-            [website]: 'https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ',
+            [youtube]: 'https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
@@ -733,7 +733,7 @@ module.exports = [
             "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard (and Yale!) course.",
         keywords: ['cs50 harvard computer science david j. malan'],
         links: {
-            [website]: 'https://www.youtube.com/user/cs50tv',
+            [youtube]: 'https://www.youtube.com/user/cs50tv',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },

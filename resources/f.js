@@ -1,5 +1,5 @@
 const { toolsAndUtilities, assets, uiDesign, infrastructure, programming, jobs } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, youtube } = require('../constants/links')
 
 module.exports = [
     {
@@ -474,7 +474,7 @@ module.exports = [
             'javascript "web development" programming software development technology computer science engineering developer creativity productivity',
         ],
         links: {
-            [website]: 'https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q',
+            [youtube]: 'https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },

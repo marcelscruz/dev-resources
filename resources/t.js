@@ -160,7 +160,7 @@ module.exports = [
             'All aboard! The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to algorithmic art, machine learning, simulation, generative poetry, and more. Choo choo!',
         keywords: ['java javascript processing teaching programming beginner tutorial coding challenges art'],
         links: {
-            [website]: 'https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw',
+            [youtube]: 'https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
@@ -228,7 +228,7 @@ module.exports = [
             '"Programming Tutorials" "Web Development Tutorials" "Web Development Videos" "Web Design Tutorials" "Learn Web Design" "Learn Programming"',
         ],
         links: {
-            [website]: 'https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA',
+            [youtube]: 'https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },

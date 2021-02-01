@@ -1,5 +1,5 @@
 const { programming, assets, readingAndWriting, jobs, uiDesign, toolsAndUtilities } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, youtube } = require('../constants/links')
 
 module.exports = [
     {
@@ -103,7 +103,7 @@ module.exports = [
             '"web design" "logo design" "illustrator tutorials" "website design" free ui ux "user experience design" "ux design" "frontend development" "frontend developer"',
         ],
         links: {
-            [website]: 'https://www.youtube.com/user/DesignCourse',
+            [youtube]: 'https://www.youtube.com/user/DesignCourse',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
@@ -126,7 +126,7 @@ module.exports = [
             'Learn web development, web design, 3d modelling, tools like figma and more without getting bored! The goes of this channel is to get you to become as creative you can be! So if you like to create video games in Unity or develop an application in node.js, stick around and have fun!',
         keywords: ['web development design javascript tutorials'],
         links: {
-            [website]: 'https://www.youtube.com/c/DevEd/',
+            [youtube]: 'https://www.youtube.com/c/DevEd/',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
@@ -178,7 +178,7 @@ module.exports = [
             "DevTips is slowly opening back up! We're excited to start working with a long-time community member, Jay of iEatWebsites, on bringing back top-tier, front-end development content with designers in mind to the subscribers. DevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay! Everything you see and hear are the opinions and preferences of the individual who said them, and no one else's.",
         keywords: ['HTML CSS Javascript "Web Development" Coding Design'],
         links: {
-            [website]: 'https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ',
+            [youtube]: 'https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },

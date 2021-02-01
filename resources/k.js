@@ -1,5 +1,5 @@
 const { programming, toolsAndUtilities } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, youtube } = require('../constants/links')
 
 module.exports = [
     {
@@ -8,7 +8,7 @@ module.exports = [
         description: "Hi, I'm Kent C. Dodds. I help people make the world better through quality software.",
         keywords: ['JavaScript Programming'],
         links: {
-            [website]: 'https://www.youtube.com/user/kentdoddsfamily',
+            [youtube]: 'https://www.youtube.com/user/kentdoddsfamily',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
@@ -28,7 +28,7 @@ module.exports = [
             'An animated, collaborative coding live stream by David Khourshid (@davidkpiano) & Stephen Shaw (@shshaw). We bring imaginative user interfaces to life every Monday @ 17:00 EST/21:00 GMT at https://twitch.tv/keyframers Support us at https://patreon.com/keyframers Find developer shirts, stickers & more at https://keyframe.rs/merch https://keyframe.rs.',
         keywords: ['code "live stream" css html javascript animation'],
         links: {
-            [website]: 'https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA',
+            [youtube]: 'https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },

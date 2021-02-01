@@ -1,5 +1,5 @@
 const { programming, toolsAndUtilities, jobs, uiDesign, readingAndWriting } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, youtube } = require('../constants/links')
 
 module.exports = [
     {
@@ -182,7 +182,7 @@ module.exports = [
         description: 'HTML, CSS, JavaScript and WordPress web development tutorials!',
         keywords: ['JavaScript jQuery HTML5 CSS3 development web design css php wordpress'],
         links: {
-            [website]: 'https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA',
+            [youtube]: 'https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },

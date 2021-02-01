@@ -1,5 +1,5 @@
 const { toolsAndUtilities, uiDesign, programming, assets, indieHacking } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, youtube } = require('../constants/links')
 
 module.exports = [
     {
@@ -67,7 +67,7 @@ module.exports = [
             "I'm a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding.",
         keywords: ['react graphql typescript'],
         links: {
-            [website]: 'https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw',
+            [youtube]: 'https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
@@ -78,7 +78,7 @@ module.exports = [
             'Learn to code. Get a job. No longwinded lectures, no tantalising tutorials. Fast and efficient, for the impulsive millennial.',
         keywords: ['programming "web development" javascript react node.js'],
         links: {
-            [website]: 'https://www.youtube.com/channel/UCTD_PLq3KAUwkIIs9fk3pAA',
+            [youtube]: 'https://www.youtube.com/channel/UCTD_PLq3KAUwkIIs9fk3pAA',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },

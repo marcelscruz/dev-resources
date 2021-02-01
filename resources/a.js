@@ -6,7 +6,7 @@ const {
     jobs,
     infrastructure,
 } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, youtube } = require('../constants/links')
 
 module.exports = [
     {
@@ -131,7 +131,7 @@ module.exports = [
             'HTML CSS JS UI UX WordPress "React Native" "User Interface Design" Website JavaScript "Graphics design"',
         ],
         links: {
-            [website]: 'https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ',
+            [youtube]: 'https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
