@@ -185,7 +185,8 @@ module.exports = [
     {
         name: 'Divjoy',
         categories: [programming.templates],
-        description: 'The React codebase generator.',
+        description:
+            "The React codebase generator. Divjoy handles all the integration details. From routing to React hooks, you'll have everything you need to build something great.",
         links: {
             [website]: 'https://divjoy.com/',
         },
