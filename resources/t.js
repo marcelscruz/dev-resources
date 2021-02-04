@@ -200,6 +200,16 @@ module.exports = [
             'https://images.squarespace-cdn.com/content/v1/5c3f602b96e76f6da92e8ded/1547762430194-TCY13GQ3WL1GEQQCNIBJ/ke17ZwdGBToddI8pDm48kDaNRrNi77yKIgWxrt8GYAFZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7WT60LcluGrsDtzPCYop9hMAtVe_QtwQD93aIXqwqJR_bmnO89YJVTj9tmrodtnPlQ/favicon.ico?format=100w',
     },
     {
+        name: 'tl;dr Marketing',
+        categories: [toolsAndUtilities.seo],
+        description:
+            'Get the latest breaking news and trends about SEO, paid media and social media without all the fluff.',
+        links: {
+            [website]: 'https://tldrmarketing.com/',
+        },
+        icon: 'https://tldrmarketing.com/wp-content/uploads/2020/05/cropped-tldr-logo-1000-32x32.png',
+    },
+    {
         name: 'Tooplate',
         categories: [programming.templates],
         description:
