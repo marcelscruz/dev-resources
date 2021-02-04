@@ -1,4 +1,4 @@
-const { toolsAndUtilities, uiDesign, programming, assets, indieHacking } = require('../constants/categories')
+const { toolsAndUtilities, uiDesign, programming, assets, indieHacking, jobs } = require('../constants/categories')
 const { website, youtube } = require('../constants/links')
 
 module.exports = [
@@ -70,6 +70,16 @@ module.exports = [
             [youtube]: 'https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
+    },
+    {
+        name: 'Bergamot',
+        categories: [jobs.remoteOnly],
+        description:
+            "Bergamot - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required.",
+        links: {
+            [website]: 'https://bergamot.io/',
+        },
+        icon: 'https://bergamot.io/favicon.ico',
     },
     {
         name: 'Better Coding Academy',
