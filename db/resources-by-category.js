@@ -4043,12 +4043,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://ip-api.com/"
+                "Website": "https://ipapi.co/"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4057,12 +4057,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/"
+                "Website": "http://ip-api.com/"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -11852,6 +11852,180 @@ module.exports = {
             "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
         }
     ],
+    "jobs-remote-only": [
+        {
+            "name": "Bergamot",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Bergamot - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required.",
+            "links": {
+                "Website": "https://bergamot.io/"
+            },
+            "icon": "https://bergamot.io/favicon.ico"
+        },
+        {
+            "name": "DailyRemote",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Find and apply for top remote jobs in Software Development, Design, Support, Sales, Writing, Product, and Others. Start telecommuting & working from home today!",
+            "links": {
+                "Website": "https://dailyremote.com/"
+            },
+            "icon": "https://dailyremote.com/assets/favicon/favicon-96.png"
+        },
+        {
+            "name": "FlexJobs",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "The #1 job site to find hand-screened, remote work from home & flexible jobs since 2007. Find a better way to work in 50+ career categories today!",
+            "keywords": [
+                "remote jobs",
+                "remote work",
+                "telecommuting jobs",
+                "telecommute jobs",
+                "part-time jobs",
+                "freelance jobs",
+                "flexible jobs",
+                "flexible schedule jobs"
+            ],
+            "links": {
+                "Website": "https://www.flexjobs.com/"
+            },
+            "icon": "https://www.flexjobs.com/favicon-32x32.png"
+        },
+        {
+            "name": "Jobspresso",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Jobspresso is the easiest way to find remote jobs and careers at interesting and innovative companies.",
+            "links": {
+                "Website": "https://jobspresso.co/"
+            },
+            "icon": "https://jobspresso.co/wp-content/uploads/2015/04/Favicon-iOS.jpg"
+        },
+        {
+            "name": "JS Remotely",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Welcome to JS Remotely, the job board with all JavaScript remote jobs in the world. More than 200 remote Node.js, Meteor, Angular, React and Electron jobs are waiting for you. Find your perfect remote job now!",
+            "keywords": [
+                "javascript jobs",
+                "js jobs",
+                "remote jobs",
+                "remote",
+                "jobs",
+                "react jobs",
+                "angular jobs",
+                "vue jobs"
+            ],
+            "links": {
+                "Website": "https://jsremotely.com/"
+            },
+            "icon": "https://jsremotely.com/static/media/favicon-32x32.png"
+        },
+        {
+            "name": "JustRemote",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Discover Remote Jobs from around the world. Give up the commute, work remotely and do what you love, daily, from anywhere. Find your perfect remote development, design, sales or marketing job today.",
+            "links": {
+                "Website": "https://justremote.co/"
+            },
+            "icon": "https://justremote.co/favicon.ico"
+        },
+        {
+            "name": "Remote Leaf",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Remote Leaf aggregates remote jobs in one organized place from 60+ remote job boards, company career pages, AngelList, Linkedin, Reddit, Twitter, Facebook groups and Hacker news hiring.",
+            "links": {
+                "Website": "https://remoteleaf.com/"
+            },
+            "icon": "https://remoteleaf.com/static/leaf/img/Favicon%402x.png"
+        },
+        {
+            "name": "Remote.co",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Remote.co is a resource for companies that see remote work as an opportunity.",
+            "links": {
+                "Website": "https://remote.co/"
+            },
+            "icon": "https://remote.co/wp-content/uploads/2017/02/retina_favicon_32.png"
+        },
+        {
+            "name": "RemoteLeads",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Freelancers get your next highly-qualified remote web development project lead sent to your inbox. We search 100s of sources daily to find your next freelance web development project.",
+            "links": {
+                "Website": "http://remoteleads.io/"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5faec1ddb9d25e78916f2423/5fc54bdf027e3b778c588959_favicon-256x256.png"
+        },
+        {
+            "name": "RemoteOK",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Looking for a remote job? Remote OK® has 43,534+ remote jobs as a Developer, Designer, Copywriter, Customer Support Rep, Sales Professional, Project Manager and more! Find a career where you can work remotely from anywhere.",
+            "links": {
+                "Website": "https://remoteok.io/"
+            },
+            "icon": "https://remoteok.io/assets/favicon-96x96.png?2"
+        },
+        {
+            "name": "Remotive",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Find the best remote job, working as a developer, customer support rep, product or sales professional... See openings in our categories. All jobs are hand curated and allow remote work. We serve the best work from home jobs in popular categories. Talent is everywhere, work remotely today!",
+            "links": {
+                "Website": "https://remotive.io/"
+            },
+            "icon": "https://remotive.io/web/image/website/1/favicon/"
+        },
+        {
+            "name": "We Work Remotely",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Find the most qualified people in the most unexpected places: Hire remote! We Work Remotely is the best place to find and list remote jobs that aren't restricted by commutes or a particular geographic area. Browse thousands of remote work jobs today.",
+            "links": {
+                "Website": "https://weworkremotely.com/"
+            },
+            "icon": "https://weworkremotely.com/favicon-96x96.png"
+        },
+        {
+            "name": "Working Nomads",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Remote jobs for digital working nomads. Start your telecommuting career and work remotely from home or places around the world.",
+            "keywords": [
+                "remote jobs",
+                "telecommuting jobs",
+                "work from home jobs",
+                "remote",
+                "telecommuting",
+                "virtual",
+                "working nomads"
+            ],
+            "links": {
+                "Website": "https://www.workingnomads.co/jobs"
+            },
+            "icon": "https://www.workingnomads.co/static/jobs/assets/favicon.ico"
+        }
+    ],
     "assets-illustrations": [
         {
             "name": "Big Heads",
@@ -15304,169 +15478,6 @@ module.exports = {
                 "Website": "https://writtyapp.com/"
             },
             "icon": "https://writtyapp.com/images/favicon.png"
-        }
-    ],
-    "jobs-remote-only": [
-        {
-            "name": "DailyRemote",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Find and apply for top remote jobs in Software Development, Design, Support, Sales, Writing, Product, and Others. Start telecommuting & working from home today!",
-            "links": {
-                "Website": "https://dailyremote.com/"
-            },
-            "icon": "https://dailyremote.com/assets/favicon/favicon-96.png"
-        },
-        {
-            "name": "FlexJobs",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "The #1 job site to find hand-screened, remote work from home & flexible jobs since 2007. Find a better way to work in 50+ career categories today!",
-            "keywords": [
-                "remote jobs",
-                "remote work",
-                "telecommuting jobs",
-                "telecommute jobs",
-                "part-time jobs",
-                "freelance jobs",
-                "flexible jobs",
-                "flexible schedule jobs"
-            ],
-            "links": {
-                "Website": "https://www.flexjobs.com/"
-            },
-            "icon": "https://www.flexjobs.com/favicon-32x32.png"
-        },
-        {
-            "name": "Jobspresso",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Jobspresso is the easiest way to find remote jobs and careers at interesting and innovative companies.",
-            "links": {
-                "Website": "https://jobspresso.co/"
-            },
-            "icon": "https://jobspresso.co/wp-content/uploads/2015/04/Favicon-iOS.jpg"
-        },
-        {
-            "name": "JS Remotely",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Welcome to JS Remotely, the job board with all JavaScript remote jobs in the world. More than 200 remote Node.js, Meteor, Angular, React and Electron jobs are waiting for you. Find your perfect remote job now!",
-            "keywords": [
-                "javascript jobs",
-                "js jobs",
-                "remote jobs",
-                "remote",
-                "jobs",
-                "react jobs",
-                "angular jobs",
-                "vue jobs"
-            ],
-            "links": {
-                "Website": "https://jsremotely.com/"
-            },
-            "icon": "https://jsremotely.com/static/media/favicon-32x32.png"
-        },
-        {
-            "name": "JustRemote",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Discover Remote Jobs from around the world. Give up the commute, work remotely and do what you love, daily, from anywhere. Find your perfect remote development, design, sales or marketing job today.",
-            "links": {
-                "Website": "https://justremote.co/"
-            },
-            "icon": "https://justremote.co/favicon.ico"
-        },
-        {
-            "name": "Remote Leaf",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Remote Leaf aggregates remote jobs in one organized place from 60+ remote job boards, company career pages, AngelList, Linkedin, Reddit, Twitter, Facebook groups and Hacker news hiring.",
-            "links": {
-                "Website": "https://remoteleaf.com/"
-            },
-            "icon": "https://remoteleaf.com/static/leaf/img/Favicon%402x.png"
-        },
-        {
-            "name": "Remote.co",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Remote.co is a resource for companies that see remote work as an opportunity.",
-            "links": {
-                "Website": "https://remote.co/"
-            },
-            "icon": "https://remote.co/wp-content/uploads/2017/02/retina_favicon_32.png"
-        },
-        {
-            "name": "RemoteLeads",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Freelancers get your next highly-qualified remote web development project lead sent to your inbox. We search 100s of sources daily to find your next freelance web development project.",
-            "links": {
-                "Website": "http://remoteleads.io/"
-            },
-            "icon": "https://uploads-ssl.webflow.com/5faec1ddb9d25e78916f2423/5fc54bdf027e3b778c588959_favicon-256x256.png"
-        },
-        {
-            "name": "RemoteOK",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Looking for a remote job? Remote OK® has 43,534+ remote jobs as a Developer, Designer, Copywriter, Customer Support Rep, Sales Professional, Project Manager and more! Find a career where you can work remotely from anywhere.",
-            "links": {
-                "Website": "https://remoteok.io/"
-            },
-            "icon": "https://remoteok.io/assets/favicon-96x96.png?2"
-        },
-        {
-            "name": "Remotive",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Find the best remote job, working as a developer, customer support rep, product or sales professional... See openings in our categories. All jobs are hand curated and allow remote work. We serve the best work from home jobs in popular categories. Talent is everywhere, work remotely today!",
-            "links": {
-                "Website": "https://remotive.io/"
-            },
-            "icon": "https://remotive.io/web/image/website/1/favicon/"
-        },
-        {
-            "name": "We Work Remotely",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Find the most qualified people in the most unexpected places: Hire remote! We Work Remotely is the best place to find and list remote jobs that aren't restricted by commutes or a particular geographic area. Browse thousands of remote work jobs today.",
-            "links": {
-                "Website": "https://weworkremotely.com/"
-            },
-            "icon": "https://weworkremotely.com/favicon-96x96.png"
-        },
-        {
-            "name": "Working Nomads",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Remote jobs for digital working nomads. Start your telecommuting career and work remotely from home or places around the world.",
-            "keywords": [
-                "remote jobs",
-                "telecommuting jobs",
-                "work from home jobs",
-                "remote",
-                "telecommuting",
-                "virtual",
-                "working nomads"
-            ],
-            "links": {
-                "Website": "https://www.workingnomads.co/jobs"
-            },
-            "icon": "https://www.workingnomads.co/static/jobs/assets/favicon.ico"
         }
     ],
     "ui-design-youtube-channels": [

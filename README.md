@@ -6,7 +6,7 @@
 
  For information on using the public API, please see the [API usage guide](API_USAGE.md).
 
- ### Total resources: 1151
+ ### Total resources: 1152
 
  ## Index
 
@@ -320,6 +320,7 @@
 ### <a name="remote-only"><a name="jobs-remote-only">Remote Only</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
+ <img src="https://bergamot.io/favicon.ico" width="16" /> | Bergamot | Bergamot - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required. | [Website](https://bergamot.io/) |  |
  <img src="https://dailyremote.com/assets/favicon/favicon-96.png" width="16" /> | DailyRemote | Find and apply for top remote jobs in Software Development, Design, Support, Sales, Writing, Product, and Others. Start telecommuting & working from home today! | [Website](https://dailyremote.com/) |  |
  <img src="https://www.flexjobs.com/favicon-32x32.png" width="16" /> | FlexJobs | The #1 job site to find hand-screened, remote work from home & flexible jobs since 2007. Find a better way to work in 50+ career categories today! | [Website](https://www.flexjobs.com/) | remote jobs, remote work, telecommuting jobs, telecommute jobs, part-time jobs, freelance jobs, flex... |
  <img src="https://jobspresso.co/wp-content/uploads/2015/04/Favicon-iOS.jpg" width="16" /> | Jobspresso | Jobspresso is the easiest way to find remote jobs and careers at interesting and innovative companies. | [Website](https://jobspresso.co/) |  |
