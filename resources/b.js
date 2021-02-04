@@ -72,6 +72,16 @@ module.exports = [
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
+        name: 'Bergamot',
+        categories: [jobs.remoteOnly],
+        description:
+            "Bergamot - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required.",
+        links: {
+            [website]: 'https://bergamot.io/',
+        },
+        icon: 'https://bergamot.io/favicon.ico',
+    },
+    {
         name: 'Better Coding Academy',
         categories: [programming.youtubeChannels],
         description:
