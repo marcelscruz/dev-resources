@@ -1943,10 +1943,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -1957,10 +1957,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -8047,10 +8047,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://restratpws.azurewebsites.net/swagger/"
+                "Website": "http://data.ratp.fr/api/v1/console/datasets/1.0/search/"
             },
             "name": "Transport for Paris, France",
-            "description": "Live schedules made simple",
+            "description": "RATP Open Data API",
             "auth": "",
             "https": false,
             "cors": "unknown",
@@ -8061,10 +8061,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://data.ratp.fr/api/v1/console/datasets/1.0/search/"
+                "Website": "http://restratpws.azurewebsites.net/swagger/"
             },
             "name": "Transport for Paris, France",
-            "description": "RATP Open Data API",
+            "description": "Live schedules made simple",
             "auth": "",
             "https": false,
             "cors": "unknown",
@@ -8117,11 +8117,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -8131,11 +8131,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -9815,6 +9815,42 @@ module.exports = {
                 "Website": "https://css-tricks.com"
             },
             "icon": "https://css-tricks.com/apple-touch-icon.png"
+        },
+        {
+            "name": "Dev Weekly",
+            "categories": [
+                "Programming/Newsletters"
+            ],
+            "description": "A no nonsense newsletter delivered every Sunday with more than 50 resources ranging from mobile to web, UI/UX, Python, database, career, life, challenges and more without any ads or sponsors. It also features one creator per week!",
+            "keywords": [
+                "web",
+                "html",
+                "css",
+                "javascript",
+                "code",
+                "python",
+                "data",
+                "ai",
+                "mobile",
+                "apps",
+                "flutter",
+                "android",
+                "ios",
+                "design",
+                "work",
+                "culture",
+                "job",
+                "challenges",
+                "tools",
+                "software",
+                "creators",
+                "tips",
+                "resources"
+            ],
+            "links": {
+                "Website": "https://mailchi.mp/f59beeac6b9b/devupdates"
+            },
+            "icon": "https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png"
         },
         {
             "name": "Frontend Focus",
@@ -11828,6 +11864,42 @@ module.exports = {
                 "Website": "http://stackoverflow.com/"
             },
             "icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a"
+        },
+        {
+            "name": "Transform Tools",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "A polyglot web converter.",
+            "keywords": [
+                "Big Query",
+                "Flow",
+                "Go Bson",
+                "Go",
+                "GraphQL",
+                "HTML",
+                "JSDoc",
+                "JSON Schema",
+                "JSON",
+                "Kotlin",
+                "MobX-State-Tree Model",
+                "Mongoose Schema",
+                "MySQL",
+                "React Native",
+                "React PropTypes",
+                "Rust Serde",
+                "SVG",
+                "Sarcastic",
+                "Scala Case Class",
+                "TailwindCSS",
+                "TypeScript",
+                "YAML",
+                "io-ts"
+            ],
+            "links": {
+                "GitHub": "https://github.com/ritz078/transform",
+                "Website": "https://transform.tools"
+            }
         },
         {
             "name": "Untools",

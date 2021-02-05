@@ -6,7 +6,7 @@ const {
     indieHacking,
     jobs,
 } = require('../constants/categories')
-const { website, youtube } = require('../constants/links')
+const { website, youtube, github } = require('../constants/links')
 
 module.exports = [
     {
@@ -241,6 +241,40 @@ module.exports = [
             [youtube]: 'https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
+    },
+    {
+        name: 'Transform Tools',
+        categories: [toolsAndUtilities.general],
+        description: 'A polyglot web converter.',
+        keywords: [
+            'Big Query',
+            'Flow',
+            'Go Bson',
+            'Go',
+            'GraphQL',
+            'HTML',
+            'JSDoc',
+            'JSON Schema',
+            'JSON',
+            'Kotlin',
+            'MobX-State-Tree Model',
+            'Mongoose Schema',
+            'MySQL',
+            'React Native',
+            'React PropTypes',
+            'Rust Serde',
+            'SVG',
+            'Sarcastic',
+            'Scala Case Class',
+            'TailwindCSS',
+            'TypeScript',
+            'YAML',
+            'io-ts',
+        ],
+        links: {
+            [github]: 'https://github.com/ritz078/transform',
+            [website]: 'https://transform.tools',
+        },
     },
     {
         name: 'Treehouse',

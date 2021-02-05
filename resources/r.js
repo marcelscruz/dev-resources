@@ -122,6 +122,15 @@ module.exports = [
         icon: 'https://remixicon.com/favicon.ico',
     },
     {
+        name: 'Remote Impact',
+        categories: [jobs.remoteOnly],
+        description:
+            'Remote dev jobs to save the world. Find a job with social impact in a company tackling the UNs Sustainable Development Goals. We add jobs daily in 17 key impact areas such as climate change, poverty, education + many more',
+        links: {
+            [website]: 'https://www.remoteimpact.io/',
+        },
+    },
+    {
         name: 'Remote Leaf',
         categories: [jobs.remoteOnly],
         description:
