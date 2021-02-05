@@ -105,7 +105,7 @@ module.exports = [
         name: 'Umbler',
         categories: [infrastructure.hosting],
         description:
-            'Somos a hospedagem de sites e aplicações que você pode confiar. Perfeito para as necessidades atuais das agências, desenvolvedores e empreendedores.',
+            'We are the website and applications hosting that you can trust. Perfect for the current needs of agencies, developers and entrepreneurs.',
         links: {
             [website]: 'https://www.umbler.com/',
         },
