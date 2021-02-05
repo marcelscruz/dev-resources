@@ -103,6 +103,28 @@ module.exports = [
         icon: 'https://bigheads.io/icons/icon-96x96.png?v=8a6c92a73bc4d9aed0d3fd163a7e3e07',
     },
     {
+        name: 'BigsonDev',
+        categories: [programming.learn],
+        description:
+            'Master React faster with a seasoned Mentor. Get out of tutorials hell - learn HTML, CSS, JS, React. Become a Frontend Developer, find a well-paid job, and feel the real progress.',
+        links: {
+            [website]: 'https://bigsondev.com/',
+        },
+        icon: 'https://bigsondev.com/icons/icon-96x96.png',
+        keywords: [
+            'Frontend Mentor',
+            'React Expert',
+            'React',
+            'Frontend Developer',
+            'Frontend projects',
+            'Frontend blog',
+            'Software Engineer',
+            'JavaScript',
+            'HTML',
+            'CSS',
+        ],
+    },
+    {
         name: 'Biteable',
         categories: [assets.videos],
         description:
