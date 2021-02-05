@@ -1943,10 +1943,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -1957,10 +1957,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -4043,12 +4043,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/"
+                "Website": "http://ip-api.com/"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4057,12 +4057,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://ip-api.com/"
+                "Website": "https://ipapi.co/"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -6479,20 +6479,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://qrtag.net/api/"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "name": "QR code",
@@ -6500,6 +6486,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://qrtag.net/api/"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Development"
         },
         {
@@ -8047,10 +8047,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://data.ratp.fr/api/v1/console/datasets/1.0/search/"
+                "Website": "http://restratpws.azurewebsites.net/swagger/"
             },
             "name": "Transport for Paris, France",
-            "description": "RATP Open Data API",
+            "description": "Live schedules made simple",
             "auth": "",
             "https": false,
             "cors": "unknown",
@@ -8061,10 +8061,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://restratpws.azurewebsites.net/swagger/"
+                "Website": "http://data.ratp.fr/api/v1/console/datasets/1.0/search/"
             },
             "name": "Transport for Paris, France",
-            "description": "Live schedules made simple",
+            "description": "RATP Open Data API",
             "auth": "",
             "https": false,
             "cors": "unknown",
@@ -8145,12 +8145,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
             },
             "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
+            "description": "NS, only trains",
+            "auth": "apiKey",
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -8159,12 +8159,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
             "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
-            "auth": "apiKey",
-            "https": false,
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -10542,6 +10542,17 @@ module.exports = {
             "icon": "https://uploads-ssl.webflow.com/5e0849b50d37a13ecd286934/5e085e49ad6badd7d7b3439f_favicon-256.png"
         },
         {
+            "name": "tl;dr Marketing",
+            "categories": [
+                "Tools & Utilities/SEO"
+            ],
+            "description": "Get the latest breaking news and trends about SEO, paid media and social media without all the fluff.",
+            "links": {
+                "Website": "https://tldrmarketing.com/"
+            },
+            "icon": "https://tldrmarketing.com/wp-content/uploads/2020/05/cropped-tldr-logo-1000-32x32.png"
+        },
+        {
             "name": "Ubersuggest",
             "categories": [
                 "Tools & Utilities/SEO"
@@ -12010,6 +12021,16 @@ module.exports = {
                 "Website": "https://justremote.co/"
             },
             "icon": "https://justremote.co/favicon.ico"
+        },
+        {
+            "name": "Remote Impact",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Remote dev jobs to save the world. Find a job with social impact in a company tackling the UNs Sustainable Development Goals. We add jobs daily in 17 key impact areas such as climate change, poverty, education + many more",
+            "links": {
+                "Website": "https://www.remoteimpact.io/"
+            }
         },
         {
             "name": "Remote Leaf",
