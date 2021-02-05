@@ -6,7 +6,7 @@
 
  For information on using the public API, please see the [API usage guide](API_USAGE.md).
 
- ### Total resources: 1152
+ ### Total resources: 1153
 
  ## Index
 
@@ -498,6 +498,7 @@
  <img src="https://dxj7eshgz03ln.cloudfront.net/production/publication/publication_icon/1883/apple_touch_76_c13a8beb-a086-4874-b39b-98081897f1fc.png" width="16" /> | CSS Layout News | A weekly collection of tutorials, news and information on all things CSS Layout. | [Website](https://csslayout.news/) |  |
  <img src="https://css-weekly.com/favicon.ico" width="16" /> | CSS Weekly | Weekly e-mail roundup of latest css articles, tutorials, tools and experiments. | [Website](https://css-weekly.com/) |  |
  <img src="https://css-tricks.com/apple-touch-icon.png" width="16" /> | CSS-Tricks | CSS-Tricks is a website about websites. | [Website](https://css-tricks.com) |  |
+ <img src="https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png" width="16" /> | Dev Weekly | A no nonsense newsletter delivered every Sunday with more than 50 resources ranging from mobile to web, UI/UX, Python, database, career, life, challenges and more without any ads or sponsors. It also ... | [Website](https://mailchi.mp/f59beeac6b9b/devupdates) | web, html, css, javascript, code, python, data, ai, mobile, apps, flutter, android, ios, design, wor... |
  <img src="https://frontendfoc.us/favicon.png" width="16" /> | Frontend Focus | A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more. | [Website](https://frontendfoc.us/) |  |
  <img src="https://jamstack.email/favicon.png" width="16" /> | JAMstacked | An email update on the evolving JAMstack ecosystem. | [Website](https://jamstack.email/) |  |
  <img src="https://javascriptweekly.com/favicon.png" width="16" /> | JavaScript Weekly | A newsletter of JavaScript articles, news and cool projects. | [Website](https://javascriptweekly.com/) |  |
