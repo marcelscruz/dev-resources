@@ -1943,10 +1943,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -1957,10 +1957,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -8117,11 +8117,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -8131,11 +8131,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -12394,6 +12394,472 @@ module.exports = {
             "icon": "https://www.uplabs.com/logos/uplabs/icons/favicon-96x96.png"
         }
     ],
+    "programming-learn": [
+        {
+            "name": "BigsonDev",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Master React faster with a seasoned Mentor. Get out of tutorials hell - learn HTML, CSS, JS, React. Become a Frontend Developer, find a well-paid job, and feel the real progress.",
+            "links": {
+                "Website": "https://bigsondev.com/"
+            },
+            "icon": "https://bigsondev.com/icons/icon-96x96.png",
+            "keywords": [
+                "Frontend Mentor",
+                "React Expert",
+                "React",
+                "Frontend Developer",
+                "Frontend projects",
+                "Frontend blog",
+                "Software Engineer",
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "name": "Codecademy",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more.",
+            "links": {
+                "Website": "https://www.codecademy.com/"
+            },
+            "icon": "https://www.codecademy.com/favicon.ico"
+        },
+        {
+            "name": "Codepip",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn to code by playing games.",
+            "links": {
+                "Website": "https://codepip.com"
+            },
+            "icon": "https://codepip.com/favicon.ico"
+        },
+        {
+            "name": "Coursera",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Join Coursera for free and learn online. Build skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM. Advance your career with degrees, certificates, Specializations, &amp; MOOCs in data science, computer science, business, and dozens of other topics.",
+            "links": {
+                "Website": "https://www.coursera.org/"
+            },
+            "icon": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/v2/favicon-v2-96x96.png"
+        },
+        {
+            "name": "CSS Diner",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "A fun game to help you learn and practice CSS selectors.",
+            "links": {
+                "Website": "https://flukeout.github.io/"
+            },
+            "icon": "https://flukeout.github.io/favicon.png"
+        },
+        {
+            "name": "CSS-Tricks",
+            "categories": [
+                "Programming/Learn",
+                "Programming/Newsletters",
+                "Programming/Code Snippets"
+            ],
+            "description": "CSS-Tricks is a website about websites.",
+            "links": {
+                "Website": "https://css-tricks.com"
+            },
+            "icon": "https://css-tricks.com/apple-touch-icon.png"
+        },
+        {
+            "name": "CSSBattle",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "CSS Code Golfing is Here!",
+            "links": {
+                "Website": "https://cssbattle.dev/"
+            },
+            "icon": "https://cssbattle.dev/images/logo-square.png"
+        },
+        {
+            "name": "EASEOUT",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Coding tutorials about CSS, HTML, JavaScript, and articles about design creativity & modern web development technology.",
+            "links": {
+                "Website": "https://www.easeout.co/"
+            },
+            "icon": "https://www.easeout.co/favicon.ico"
+        },
+        {
+            "name": "Epic React",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Strap in and take your React applications to the next level.",
+            "links": {
+                "Website": "https://epicreact.dev/"
+            },
+            "icon": "https://epicreact.dev/icons/icon-96x96.png?v=4fc004c2d47bff97350bf9ba653e0bdd"
+        },
+        {
+            "name": "Flexbox Defense",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!",
+            "links": {
+                "Website": "http://www.flexboxdefense.com/"
+            },
+            "icon": "http://www.flexboxdefense.com/images/favicon.ico"
+        },
+        {
+            "name": "Flexbox Froggy",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "A game for learning CSS flexbox.",
+            "links": {
+                "Website": "http://flexboxfroggy.com/"
+            },
+            "icon": "http://flexboxfroggy.com/favicon.ico"
+        },
+        {
+            "name": "freeCodeCamp",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn to code at home. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including Google, Apple, Amazon, and Microsoft.",
+            "keywords": [
+                "javascript",
+                "js",
+                "website",
+                "web",
+                "development",
+                "free",
+                "code",
+                "camp",
+                "course",
+                "courses",
+                "html",
+                "css",
+                "react",
+                "redux",
+                "api",
+                "front",
+                "back",
+                "end",
+                "learn",
+                "tutorial",
+                "programming"
+            ],
+            "links": {
+                "Website": "https://www.freecodecamp.org/"
+            },
+            "icon": "https://www.freecodecamp.org/icons/icon-96x96.png?v=6cba562cbd10e31af925a976f3db73f7"
+        },
+        {
+            "name": "Frontend Masters",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Advance your skills with in-depth, modern JavaScript and front-end engineering courses.",
+            "links": {
+                "Website": "https://frontendmasters.com/"
+            },
+            "icon": "https://frontendmasters.com/favicon-32x32.png"
+        },
+        {
+            "name": "Frontend Mentor",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.",
+            "links": {
+                "Website": "https://www.frontendmentor.io/"
+            },
+            "icon": "https://www.frontendmentor.io/static/favicon/favicon-32x32.png"
+        },
+        {
+            "name": "Hackr.io",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Google search shows you hundreds of Programming courses/tutorials, but Hackr.io tells you which is the best one. Find the best online courses &amp; tutorials recommended by the Programming community. Pick the most upvoted tutorials as per your learning style: video-based, book, free, paid, for beginners, advanced, etc.",
+            "links": {
+                "Website": "https://hackr.io/"
+            },
+            "icon": "https://hackr.io/assets/images/programming-images/programming-favicon-32x32.png"
+        },
+        {
+            "name": "JavaScript Info",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.",
+            "links": {
+                "Website": "https://javascript.info/"
+            },
+            "icon": "https://javascript.info/img/favicon/apple-touch-icon-precomposed.png"
+        },
+        {
+            "name": "JavaScript30",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Build 30 things with vanilla JS in 30 days with 30 tutorials.",
+            "links": {
+                "Website": "https://javascript30.com/"
+            },
+            "icon": "https://javascript30.com/images/favion-JS3.png"
+        },
+        {
+            "name": "Khan Academy",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere.",
+            "links": {
+                "Website": "https://www.khanacademy.org/"
+            },
+            "icon": "https://cdn.kastatic.org/images/apple-touch-icon-72x72-precomposed.new.png"
+        },
+        {
+            "name": "Learn X in Y minutes",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Take a whirlwind tour of your next favorite language. Community-driven!",
+            "links": {
+                "Website": "https://learnxinyminutes.com/"
+            },
+            "icon": "https://learnxinyminutes.com/favicon.ico"
+        },
+        {
+            "name": "LinkedIn Learning",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn business, creative, and technology skills to achieve your personal and professional goals. Join LinkedIn Learning today to get access to thousands of courses.",
+            "links": {
+                "Website": "https://www.linkedin.com/learning"
+            },
+            "icon": "https://static-exp1.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico"
+        },
+        {
+            "name": "Mastery Games",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn frontend development through play, repetition, and sleep. Each game builds up your skills from the ground up using the educational process of scaffolding. You learn one new concept at a time, and leverage spaced repetition to solidify each concept.",
+            "links": {
+                "Website": "https://mastery.games/"
+            },
+            "icon": "https://mastery.games/favicon.ico?v=2.3"
+        },
+        {
+            "name": "Pluralsight",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Build your IT toolkit with the skills you need to excel in your job, including security best practices, server infrastructure and virtualization. Explore our IT courses now.",
+            "links": {
+                "Website": "https://www.pluralsight.com/"
+            },
+            "icon": "https://www.pluralsight.com/etc/clientlibs/pluralsight/main/images/favicons/favicon-96x96.png"
+        },
+        {
+            "name": "Programiz",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references.",
+            "links": {
+                "Website": "https://www.programiz.com/"
+            },
+            "icon": "https://www.programiz.com/sites/all/themes/programiz/assets/favicon.png"
+        },
+        {
+            "name": "ProjectLearn",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "A project-based learning approach in web development, mobile development, game development, machine learning and artificial intelligence. Learn code the right way!",
+            "keywords": [
+                "project",
+                "tutorial",
+                "learn code by doing",
+                "project based learning",
+                "learn code free",
+                "web development",
+                "app development",
+                "game development",
+                "machine learning",
+                "artificial intelligence"
+            ],
+            "links": {
+                "Website": "https://projectlearn.io/"
+            },
+            "icon": "https://projectlearn.io/projectlearn.png"
+        },
+        {
+            "name": "Scrimba",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Scrimba is a fun and fast way of learning to code! Our interactive courses and tutorials will teach you React, Vue, Angular, JavaScript, HTML, CSS, and more.",
+            "links": {
+                "Website": "https://scrimba.com/"
+            },
+            "icon": "https://scrimba.com/favicon.ico"
+        },
+        {
+            "name": "SoloLearn",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Join Now to learn the basics or advance your existing skills.",
+            "keywords": [
+                "SoloLearn",
+                "Coding",
+                "Code",
+                "Learn how to code",
+                "Learn to code",
+                "Learn coding",
+                "C++",
+                "Java",
+                "Python",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "C#"
+            ],
+            "links": {
+                "Website": "https://www.sololearn.com/"
+            },
+            "icon": "https://www.sololearn.com/Images/favicon-192x192.png"
+        },
+        {
+            "name": "Test Automation University",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Become a test automation superstar! 🌟.",
+            "links": {
+                "Website": "https://testautomationu.applitools.com/"
+            },
+            "icon": "https://testautomationu.applitools.com/TAU-Green.png"
+        },
+        {
+            "name": "Testing JavaScript",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "This course will teach you the fundamentals of testing your JavaScript applications using ESlint, TypeScript, Jest, and Cypress.",
+            "links": {
+                "Website": "https://testingjavascript.com/"
+            },
+            "icon": "https://testingjavascript.com/icons/icon-96x96.png?v=7f31b6d20f32956d41d48e0891d645c4"
+        },
+        {
+            "name": "The Net Ninja",
+            "categories": [
+                "Programming/YouTube Channels",
+                "Programming/Learn"
+            ],
+            "links": {
+                "Website": "https://www.thenetninja.co.uk/",
+                "YouTube": "https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg"
+            },
+            "description": "Black-belt your web skills. Learn JavaScript, CSS, Node.js, React, Vue.js, Firebase, HTML & more.",
+            "keywords": [
+                "html css javascript tutorials \"web design\" \"web development\" development \"front-end development\" wordpress mvc \"responsive design\" \"beginner html\" \"beginner ..."
+            ],
+            "icon": "https://www.thenetninja.co.uk/favicon.ico"
+        },
+        {
+            "name": "Treehouse",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "High-quality, affordable video courses for coding and design. Build a website, learn a new coding language, and more.",
+            "links": {
+                "Website": "https://teamtreehouse.com/"
+            },
+            "icon": "https://static.teamtreehouse.com/assets/apple-touch-icon-76x76-precomposed-7283cd247847d1f21be0e79c52e3524c89adabf69cfc331046319f4ab19be058.png"
+        },
+        {
+            "name": "Udemy",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Udemy is an online learning and teaching marketplace with over 130,000 courses and 35 million students. Learn programming, marketing, data science and more.",
+            "links": {
+                "Website": "https://www.udemy.com/"
+            },
+            "icon": "https://www.udemy.com/staticx/udemy/images/v6/favicon-96x96.png"
+        },
+        {
+            "name": "ui.dev",
+            "categories": [
+                "Programming/Newsletters",
+                "Programming/Learn"
+            ],
+            "description": "Comprehensive learning resources for mastering the JavaScript ecosystem.",
+            "links": {
+                "Website": "https://ui.dev/"
+            },
+            "icon": "https://ui.dev/icons/icon-96x96.png?v=bafaaa088cd219915cf56ed1d1dff86a"
+        },
+        {
+            "name": "W3Schools",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "W3Schools is a training website for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, C# and Java.",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "DOM",
+                "jQuery",
+                "PHP",
+                "SQL",
+                "XML",
+                "Python",
+                "Java",
+                "Bootstrap",
+                "Web",
+                "W3CSS",
+                "W3C",
+                "tutorials",
+                "programming",
+                "development",
+                "training",
+                "learning",
+                "quiz",
+                "primer",
+                "lessons",
+                "reference",
+                "examples",
+                "source code",
+                "colors",
+                "demos",
+                "tips",
+                "w3c"
+            ],
+            "links": {
+                "Website": "https://www.w3schools.com/"
+            },
+            "icon": "https://www.w3schools.com/favicon.ico"
+        }
+    ],
     "assets-videos": [
         {
             "name": "Biteable",
@@ -14649,449 +15115,6 @@ module.exports = {
                 "Website": "https://undefined.fm/"
             },
             "icon": "https://undefined.fm/icons-570a917d807d23df1ae43c8aa270336f/apple-touch-icon-76x76.png"
-        }
-    ],
-    "programming-learn": [
-        {
-            "name": "Codecademy",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more.",
-            "links": {
-                "Website": "https://www.codecademy.com/"
-            },
-            "icon": "https://www.codecademy.com/favicon.ico"
-        },
-        {
-            "name": "Codepip",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Learn to code by playing games.",
-            "links": {
-                "Website": "https://codepip.com"
-            },
-            "icon": "https://codepip.com/favicon.ico"
-        },
-        {
-            "name": "Coursera",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Join Coursera for free and learn online. Build skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM. Advance your career with degrees, certificates, Specializations, &amp; MOOCs in data science, computer science, business, and dozens of other topics.",
-            "links": {
-                "Website": "https://www.coursera.org/"
-            },
-            "icon": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/v2/favicon-v2-96x96.png"
-        },
-        {
-            "name": "CSS Diner",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "A fun game to help you learn and practice CSS selectors.",
-            "links": {
-                "Website": "https://flukeout.github.io/"
-            },
-            "icon": "https://flukeout.github.io/favicon.png"
-        },
-        {
-            "name": "CSS-Tricks",
-            "categories": [
-                "Programming/Learn",
-                "Programming/Newsletters",
-                "Programming/Code Snippets"
-            ],
-            "description": "CSS-Tricks is a website about websites.",
-            "links": {
-                "Website": "https://css-tricks.com"
-            },
-            "icon": "https://css-tricks.com/apple-touch-icon.png"
-        },
-        {
-            "name": "CSSBattle",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "CSS Code Golfing is Here!",
-            "links": {
-                "Website": "https://cssbattle.dev/"
-            },
-            "icon": "https://cssbattle.dev/images/logo-square.png"
-        },
-        {
-            "name": "EASEOUT",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Coding tutorials about CSS, HTML, JavaScript, and articles about design creativity & modern web development technology.",
-            "links": {
-                "Website": "https://www.easeout.co/"
-            },
-            "icon": "https://www.easeout.co/favicon.ico"
-        },
-        {
-            "name": "Epic React",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Strap in and take your React applications to the next level.",
-            "links": {
-                "Website": "https://epicreact.dev/"
-            },
-            "icon": "https://epicreact.dev/icons/icon-96x96.png?v=4fc004c2d47bff97350bf9ba653e0bdd"
-        },
-        {
-            "name": "Flexbox Defense",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!",
-            "links": {
-                "Website": "http://www.flexboxdefense.com/"
-            },
-            "icon": "http://www.flexboxdefense.com/images/favicon.ico"
-        },
-        {
-            "name": "Flexbox Froggy",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "A game for learning CSS flexbox.",
-            "links": {
-                "Website": "http://flexboxfroggy.com/"
-            },
-            "icon": "http://flexboxfroggy.com/favicon.ico"
-        },
-        {
-            "name": "freeCodeCamp",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Learn to code at home. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including Google, Apple, Amazon, and Microsoft.",
-            "keywords": [
-                "javascript",
-                "js",
-                "website",
-                "web",
-                "development",
-                "free",
-                "code",
-                "camp",
-                "course",
-                "courses",
-                "html",
-                "css",
-                "react",
-                "redux",
-                "api",
-                "front",
-                "back",
-                "end",
-                "learn",
-                "tutorial",
-                "programming"
-            ],
-            "links": {
-                "Website": "https://www.freecodecamp.org/"
-            },
-            "icon": "https://www.freecodecamp.org/icons/icon-96x96.png?v=6cba562cbd10e31af925a976f3db73f7"
-        },
-        {
-            "name": "Frontend Masters",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Advance your skills with in-depth, modern JavaScript and front-end engineering courses.",
-            "links": {
-                "Website": "https://frontendmasters.com/"
-            },
-            "icon": "https://frontendmasters.com/favicon-32x32.png"
-        },
-        {
-            "name": "Frontend Mentor",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.",
-            "links": {
-                "Website": "https://www.frontendmentor.io/"
-            },
-            "icon": "https://www.frontendmentor.io/static/favicon/favicon-32x32.png"
-        },
-        {
-            "name": "Hackr.io",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Google search shows you hundreds of Programming courses/tutorials, but Hackr.io tells you which is the best one. Find the best online courses &amp; tutorials recommended by the Programming community. Pick the most upvoted tutorials as per your learning style: video-based, book, free, paid, for beginners, advanced, etc.",
-            "links": {
-                "Website": "https://hackr.io/"
-            },
-            "icon": "https://hackr.io/assets/images/programming-images/programming-favicon-32x32.png"
-        },
-        {
-            "name": "JavaScript Info",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.",
-            "links": {
-                "Website": "https://javascript.info/"
-            },
-            "icon": "https://javascript.info/img/favicon/apple-touch-icon-precomposed.png"
-        },
-        {
-            "name": "JavaScript30",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Build 30 things with vanilla JS in 30 days with 30 tutorials.",
-            "links": {
-                "Website": "https://javascript30.com/"
-            },
-            "icon": "https://javascript30.com/images/favion-JS3.png"
-        },
-        {
-            "name": "Khan Academy",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere.",
-            "links": {
-                "Website": "https://www.khanacademy.org/"
-            },
-            "icon": "https://cdn.kastatic.org/images/apple-touch-icon-72x72-precomposed.new.png"
-        },
-        {
-            "name": "Learn X in Y minutes",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Take a whirlwind tour of your next favorite language. Community-driven!",
-            "links": {
-                "Website": "https://learnxinyminutes.com/"
-            },
-            "icon": "https://learnxinyminutes.com/favicon.ico"
-        },
-        {
-            "name": "LinkedIn Learning",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Learn business, creative, and technology skills to achieve your personal and professional goals. Join LinkedIn Learning today to get access to thousands of courses.",
-            "links": {
-                "Website": "https://www.linkedin.com/learning"
-            },
-            "icon": "https://static-exp1.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico"
-        },
-        {
-            "name": "Mastery Games",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Learn frontend development through play, repetition, and sleep. Each game builds up your skills from the ground up using the educational process of scaffolding. You learn one new concept at a time, and leverage spaced repetition to solidify each concept.",
-            "links": {
-                "Website": "https://mastery.games/"
-            },
-            "icon": "https://mastery.games/favicon.ico?v=2.3"
-        },
-        {
-            "name": "Pluralsight",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Build your IT toolkit with the skills you need to excel in your job, including security best practices, server infrastructure and virtualization. Explore our IT courses now.",
-            "links": {
-                "Website": "https://www.pluralsight.com/"
-            },
-            "icon": "https://www.pluralsight.com/etc/clientlibs/pluralsight/main/images/favicons/favicon-96x96.png"
-        },
-        {
-            "name": "Programiz",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references.",
-            "links": {
-                "Website": "https://www.programiz.com/"
-            },
-            "icon": "https://www.programiz.com/sites/all/themes/programiz/assets/favicon.png"
-        },
-        {
-            "name": "ProjectLearn",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "A project-based learning approach in web development, mobile development, game development, machine learning and artificial intelligence. Learn code the right way!",
-            "keywords": [
-                "project",
-                "tutorial",
-                "learn code by doing",
-                "project based learning",
-                "learn code free",
-                "web development",
-                "app development",
-                "game development",
-                "machine learning",
-                "artificial intelligence"
-            ],
-            "links": {
-                "Website": "https://projectlearn.io/"
-            },
-            "icon": "https://projectlearn.io/projectlearn.png"
-        },
-        {
-            "name": "Scrimba",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Scrimba is a fun and fast way of learning to code! Our interactive courses and tutorials will teach you React, Vue, Angular, JavaScript, HTML, CSS, and more.",
-            "links": {
-                "Website": "https://scrimba.com/"
-            },
-            "icon": "https://scrimba.com/favicon.ico"
-        },
-        {
-            "name": "SoloLearn",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Join Now to learn the basics or advance your existing skills.",
-            "keywords": [
-                "SoloLearn",
-                "Coding",
-                "Code",
-                "Learn how to code",
-                "Learn to code",
-                "Learn coding",
-                "C++",
-                "Java",
-                "Python",
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "C#"
-            ],
-            "links": {
-                "Website": "https://www.sololearn.com/"
-            },
-            "icon": "https://www.sololearn.com/Images/favicon-192x192.png"
-        },
-        {
-            "name": "Test Automation University",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Become a test automation superstar! 🌟.",
-            "links": {
-                "Website": "https://testautomationu.applitools.com/"
-            },
-            "icon": "https://testautomationu.applitools.com/TAU-Green.png"
-        },
-        {
-            "name": "Testing JavaScript",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "This course will teach you the fundamentals of testing your JavaScript applications using ESlint, TypeScript, Jest, and Cypress.",
-            "links": {
-                "Website": "https://testingjavascript.com/"
-            },
-            "icon": "https://testingjavascript.com/icons/icon-96x96.png?v=7f31b6d20f32956d41d48e0891d645c4"
-        },
-        {
-            "name": "The Net Ninja",
-            "categories": [
-                "Programming/YouTube Channels",
-                "Programming/Learn"
-            ],
-            "links": {
-                "Website": "https://www.thenetninja.co.uk/",
-                "YouTube": "https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg"
-            },
-            "description": "Black-belt your web skills. Learn JavaScript, CSS, Node.js, React, Vue.js, Firebase, HTML & more.",
-            "keywords": [
-                "html css javascript tutorials \"web design\" \"web development\" development \"front-end development\" wordpress mvc \"responsive design\" \"beginner html\" \"beginner ..."
-            ],
-            "icon": "https://www.thenetninja.co.uk/favicon.ico"
-        },
-        {
-            "name": "Treehouse",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "High-quality, affordable video courses for coding and design. Build a website, learn a new coding language, and more.",
-            "links": {
-                "Website": "https://teamtreehouse.com/"
-            },
-            "icon": "https://static.teamtreehouse.com/assets/apple-touch-icon-76x76-precomposed-7283cd247847d1f21be0e79c52e3524c89adabf69cfc331046319f4ab19be058.png"
-        },
-        {
-            "name": "Udemy",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Udemy is an online learning and teaching marketplace with over 130,000 courses and 35 million students. Learn programming, marketing, data science and more.",
-            "links": {
-                "Website": "https://www.udemy.com/"
-            },
-            "icon": "https://www.udemy.com/staticx/udemy/images/v6/favicon-96x96.png"
-        },
-        {
-            "name": "ui.dev",
-            "categories": [
-                "Programming/Newsletters",
-                "Programming/Learn"
-            ],
-            "description": "Comprehensive learning resources for mastering the JavaScript ecosystem.",
-            "links": {
-                "Website": "https://ui.dev/"
-            },
-            "icon": "https://ui.dev/icons/icon-96x96.png?v=bafaaa088cd219915cf56ed1d1dff86a"
-        },
-        {
-            "name": "W3Schools",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "W3Schools is a training website for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, C# and Java.",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "DOM",
-                "jQuery",
-                "PHP",
-                "SQL",
-                "XML",
-                "Python",
-                "Java",
-                "Bootstrap",
-                "Web",
-                "W3CSS",
-                "W3C",
-                "tutorials",
-                "programming",
-                "development",
-                "training",
-                "learning",
-                "quiz",
-                "primer",
-                "lessons",
-                "reference",
-                "examples",
-                "source code",
-                "colors",
-                "demos",
-                "tips",
-                "w3c"
-            ],
-            "links": {
-                "Website": "https://www.w3schools.com/"
-            },
-            "icon": "https://www.w3schools.com/favicon.ico"
         }
     ],
     "programming-code-challenges": [

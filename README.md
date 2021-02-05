@@ -6,7 +6,7 @@
 
  For information on using the public API, please see the [API usage guide](API_USAGE.md).
 
- ### Total resources: 1156
+ ### Total resources: 1157
 
  ## Index
 
@@ -457,6 +457,7 @@
 ### <a name="learn"><a name="programming-learn">Learn</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
+ <img src="https://bigsondev.com/icons/icon-96x96.png" width="16" /> | BigsonDev | Master React faster with a seasoned Mentor. Get out of tutorials hell - learn HTML, CSS, JS, React. Become a Frontend Developer, find a well-paid job, and feel the real progress. | [Website](https://bigsondev.com/) | Frontend Mentor, React Expert, React, Frontend Developer, Frontend projects, Frontend blog, Software... |
  <img src="https://www.codecademy.com/favicon.ico" width="16" /> | Codecademy | Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning... | [Website](https://www.codecademy.com/) |  |
  <img src="https://codepip.com/favicon.ico" width="16" /> | Codepip | Learn to code by playing games. | [Website](https://codepip.com) |  |
  <img src="https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/v2/favicon-v2-96x96.png" width="16" /> | Coursera | Join Coursera for free and learn online. Build skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM. Advance your career with degrees, cer... | [Website](https://www.coursera.org/) |  |
