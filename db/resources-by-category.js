@@ -4043,12 +4043,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://ip-api.com/"
+                "Website": "https://ipapi.co/"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4057,12 +4057,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/"
+                "Website": "http://ip-api.com/"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -6479,20 +6479,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://goqr.me/api/"
-            },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://qrtag.net/api/"
             },
             "name": "QR code",
@@ -6500,6 +6486,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://goqr.me/api/"
+            },
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -8047,10 +8047,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://restratpws.azurewebsites.net/swagger/"
+                "Website": "http://data.ratp.fr/api/v1/console/datasets/1.0/search/"
             },
             "name": "Transport for Paris, France",
-            "description": "Live schedules made simple",
+            "description": "RATP Open Data API",
             "auth": "",
             "https": false,
             "cors": "unknown",
@@ -8061,10 +8061,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://data.ratp.fr/api/v1/console/datasets/1.0/search/"
+                "Website": "http://restratpws.azurewebsites.net/swagger/"
             },
             "name": "Transport for Paris, France",
-            "description": "RATP Open Data API",
+            "description": "Live schedules made simple",
             "auth": "",
             "https": false,
             "cors": "unknown",
@@ -11864,6 +11864,42 @@ module.exports = {
                 "Website": "http://stackoverflow.com/"
             },
             "icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a"
+        },
+        {
+            "name": "Transform Tools",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "A polyglot web converter.",
+            "keywords": [
+                "Big Query",
+                "Flow",
+                "Go Bson",
+                "Go",
+                "GraphQL",
+                "HTML",
+                "JSDoc",
+                "JSON Schema",
+                "JSON",
+                "Kotlin",
+                "MobX-State-Tree Model",
+                "Mongoose Schema",
+                "MySQL",
+                "React Native",
+                "React PropTypes",
+                "Rust Serde",
+                "SVG",
+                "Sarcastic",
+                "Scala Case Class",
+                "TailwindCSS",
+                "TypeScript",
+                "YAML",
+                "io-ts"
+            ],
+            "links": {
+                "GitHub": "https://github.com/ritz078/transform",
+                "Website": "https://transform.tools"
+            }
         },
         {
             "name": "Untools",
