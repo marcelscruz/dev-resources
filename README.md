@@ -269,7 +269,7 @@
  <img src="https://render.com/icons/icon-96x96.png?v=4ab9a3fc5e06e2253bb579a9609a1ecc" width="16" /> | Render | Render is a unified platform to build and run all your apps and websites with free SSL, global CDN, private networks and auto deploys from Git. | [Website](https://render.com/) |  |
  <img src="https://www.stormkit.io/favicon.png" width="16" /> | Stormkit | Stormkit integrates perfectly with your git flow. It builds, deploys and scales your javascript apps seamlessly. | [Website](https://www.stormkit.io/) |  |
  <img src="https://surge.sh/favicon.ico" width="16" /> | Surge | Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI. | [Website](https://surge.sh/) |  |
- <img src="https://assets.umbler.com/site/favicons/favicon-96x96.png?v=20201212010736" width="16" /> | Umbler | Somos a hospedagem de sites e aplicações que você pode confiar. Perfeito para as necessidades atuais das agências, desenvolvedores e empreendedores. | [Website](https://www.umbler.com/) |  |
+ <img src="https://assets.umbler.com/site/favicons/favicon-96x96.png?v=20201212010736" width="16" /> | Umbler | We are the website and applications hosting that you can trust. Perfect for the current needs of agencies, developers and entrepreneurs. | [Website](https://www.umbler.com/) |  |
  <img src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/76x76.png" width="16" /> | Vercel | Deploy web projects with the best frontend developer experience and highest end-user performance. | [Website](https://vercel.com/) |  |
 
 **[⬆ Back to Index](#index)**

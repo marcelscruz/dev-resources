@@ -11342,7 +11342,7 @@ module.exports = {
             "categories": [
                 "Infrastructure/Hosting"
             ],
-            "description": "Somos a hospedagem de sites e aplicações que você pode confiar. Perfeito para as necessidades atuais das agências, desenvolvedores e empreendedores.",
+            "description": "We are the website and applications hosting that you can trust. Perfect for the current needs of agencies, developers and entrepreneurs.",
             "links": {
                 "Website": "https://www.umbler.com/"
             },
