@@ -6,7 +6,7 @@
 
  For information on using the public API, please see the [API usage guide](API_USAGE.md).
 
- ### Total resources: 1157
+ ### Total resources: 1158
 
  ## Index
 
@@ -249,6 +249,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://airtable.com/images/favicon/baymax/favicon-32x32.png" width="16" /> | Airtable | Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free. | [Website](https://airtable.com/) |  |
+ <img src="https://thehiveindex.com/icons/icon-96x96.png" width="16" /> | Hive Index | Find online communities, across all platforms, for any topic. | [Website](https://thehiveindex.com/)<br />[Twitter](https://twitter.com/thehiveindex) |  |
  <img src="http://indiedrops.com/apple-touch-icon.png" width="16" /> | Indie Drops | Secure unbelivably good deals on early-stage products before they take off. | [Website](http://indiedrops.com/) |  |
  <img src="https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png" width="16" /> | Mailchimp | Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way. | [Website](https://mailchimp.com/) |  |
  <img src="https://saas4devs.tech/logo192.png" width="16" /> | SaaS4Devs | An awesome collection of content for developers trying to bootstrap their SaaS business. Free & Open source from day one. | [Website](https://saas4devs.tech/) |  |

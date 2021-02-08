@@ -1943,10 +1943,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -1957,10 +1957,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -6479,20 +6479,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://goqr.me/api/"
-            },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://qrtag.net/api/"
             },
             "name": "QR code",
@@ -6500,6 +6486,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://goqr.me/api/"
+            },
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -8145,12 +8145,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
             "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
-            "auth": "apiKey",
-            "https": false,
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -8159,12 +8159,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
             },
             "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
+            "description": "NS, only trains",
+            "auth": "apiKey",
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -10586,6 +10586,18 @@ module.exports = {
                 "Website": "https://airtable.com/"
             },
             "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
+        },
+        {
+            "name": "Hive Index",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "Find online communities, across all platforms, for any topic.",
+            "links": {
+                "Website": "https://thehiveindex.com/",
+                "Twitter": "https://twitter.com/thehiveindex"
+            },
+            "icon": "https://thehiveindex.com/icons/icon-96x96.png"
         },
         {
             "name": "Indie Drops",
