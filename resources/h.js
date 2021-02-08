@@ -6,8 +6,9 @@ const {
     infrastructure,
     jobs,
     toolsAndUtilities,
+    indieHacking,
 } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, twitter } = require('../constants/links')
 
 module.exports = [
     {
@@ -176,6 +177,16 @@ module.exports = [
             [website]: 'https://hired.com/',
         },
         icon: 'https://hired.com/assets/favicon-f8bba6617971bf8553966d715a950b9b12988ec72984a3c3453c404cda6f2377.ico',
+    },
+    {
+        name: 'Hive Index',
+        categories: [indieHacking.utilities],
+        description: 'Find online communities, across all platforms, for any topic.',
+        links: {
+            [website]: 'https://thehiveindex.com/',
+            [twitter]: 'https://twitter.com/thehiveindex',
+        },
+        icon: 'https://thehiveindex.com/icons/icon-96x96.png',
     },
     {
         name: 'Hloom',
