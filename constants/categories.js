@@ -67,7 +67,7 @@ module.exports = {
         general: 'Tools & Utilities/General',
         imageAndVideoEditing: 'Tools & Utilities/Image & Video Editing',
         performance: 'Tools & Utilities/Performance',
-        publicApis: 'Tools & Utilities/Public APIs',
+        publicApis: 'Tools & Utilities/Public APIs', // Internal use only; powered by the Public APIs project
         seo: 'Tools & Utilities/SEO',
         typing: 'Tools & Utilities/Typing',
         websiteBuilders: 'Tools & Utilities/Website Builders',
