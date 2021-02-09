@@ -59,6 +59,10 @@ Renaming a category or changing the tree structure should happen as infrequently
 
 Opening a new category is fine, as long as there isn't another category that could serve the same purpose.
 
+## External integrations
+
+As of now, the "Public APIs" section is powered by the [Public APIs project](https://github.com/public-apis/public-apis), so any additions to this section should be done to their repository.
+
 ## Other contributions
 
 Contributions not related to adding resources are also welcome, but please open an issue explaining the changes you have in mind before making a pull request.
