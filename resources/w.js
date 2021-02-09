@@ -192,6 +192,16 @@ module.exports = [
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
+        name: 'WeatherApi',
+        categories: [toolsAndUtilities.publicApis],
+        description: 'Free Weather API with 1.000.000 calls/month',
+        keywords: ['Api free resources web development'],
+        links: {
+            [website]: 'https://www.weatherapi.com/',
+        },
+        icon: 'https://cdn.weatherapi.com/v4/images/weatherapi_logo.png',
+    },
+    {
         name: 'WhatFont',
         categories: [toolsAndUtilities.browsersAndExtensions],
         description: 'The easiest way to identify fonts on web pages.',
