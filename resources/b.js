@@ -106,7 +106,7 @@ module.exports = [
         name: 'BigsonDev',
         categories: [programming.learn],
         description:
-            'Master React faster with a seasoned Mentor. Get out of tutorials hell - learn HTML, CSS, JS, React. Become a Frontend Developer, find a well-paid job, and feel the real progress.',
+            'HTML, CSS, JS, React - blog articles, knowledge pills, projects with high-quality designs. Get out of tutorials hell and learn Frontend the right way.',
         links: {
             [website]: 'https://bigsondev.com/',
         },
