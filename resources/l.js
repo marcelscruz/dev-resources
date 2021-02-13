@@ -89,6 +89,17 @@ module.exports = [
         icon: 'https://larajobs.com/favicon-32x32.png',
     },
     {
+        name: 'Learn JavaScript',
+        description:
+            'Learn JavaScript in an interactive environment. Read short lessons, take notes, and complete challenges directly in your browser.',
+    categories: [programming.learn, programming.codeChallenges],
+        links: {
+            [website]: 'https://learnjavascript.online',
+        },
+        icon: 'https://learnjavascript.online/assets/favicons/favicon-32x32.png',
+        keywords: ['learn javascript', 'learn javascript online', 'interactive course'],
+    },
+    {
         name: 'Learn Programmatic SEO',
         categories: [toolsAndUtilities.seo],
         description:
