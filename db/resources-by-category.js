@@ -1943,10 +1943,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -1957,10 +1957,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -12643,6 +12643,23 @@ module.exports = {
             "icon": "https://cdn.kastatic.org/images/apple-touch-icon-72x72-precomposed.new.png"
         },
         {
+            "name": "Learn JavaScript",
+            "description": "Learn JavaScript in an interactive environment. Read short lessons, take notes, and complete challenges directly in your browser.",
+            "categories": [
+                "Programming/Learn",
+                "Programming/Code Challenges"
+            ],
+            "links": {
+                "Website": "https://learnjavascript.online"
+            },
+            "icon": "https://learnjavascript.online/assets/favicons/favicon-32x32.png",
+            "keywords": [
+                "learn javascript",
+                "learn javascript online",
+                "interactive course"
+            ]
+        },
+        {
             "name": "Learn X in Y minutes",
             "categories": [
                 "Programming/Learn"
@@ -15246,6 +15263,23 @@ module.exports = {
                 "Website": "https://www.hackerrank.com/"
             },
             "icon": "https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_cursor_favicon_480px-150x150.png"
+        },
+        {
+            "name": "Learn JavaScript",
+            "description": "Learn JavaScript in an interactive environment. Read short lessons, take notes, and complete challenges directly in your browser.",
+            "categories": [
+                "Programming/Learn",
+                "Programming/Code Challenges"
+            ],
+            "links": {
+                "Website": "https://learnjavascript.online"
+            },
+            "icon": "https://learnjavascript.online/assets/favicons/favicon-32x32.png",
+            "keywords": [
+                "learn javascript",
+                "learn javascript online",
+                "interactive course"
+            ]
         },
         {
             "name": "LeetCode",

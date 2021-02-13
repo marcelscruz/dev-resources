@@ -6,7 +6,7 @@
 
  For information on using the public API, please see the [API usage guide](API_USAGE.md).
 
- ### Total resources: 1158
+ ### Total resources: 1159
 
  ## Index
 
@@ -402,6 +402,7 @@
  <img src="https://s3.amazonaws.com/edabit-images/logo_main_medium.png" width="16" /> | Edabit | Learn to code with fun, bite-sized challenges. Gain XP, unlock achievements and level up. It's like Duolingo for learning to code. | [Website](https://edabit.com/) | learn to code, learn programming, how to code |
  <img src="https://assets.exercism.io/assets/favicon/apple-touch-icon-72x72-4ebeea76fc0ae80d3bb77a59752c5caf5d7debce078764ef95d6b69caa5e9c0b.png" width="16" /> | Exercism | Code Practice and Mentorship for Everyone. Level up your programming skills with 1,879 exercises across 38 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism i... | [Website](https://exercism.io/) |  |
  <img src="https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_cursor_favicon_480px-150x150.png" width="16" /> | HackerRank | HackerRank is the market-leading technical assessment and remote interview solution for hiring developers. Learn how to hire technical talent from anywhere! | [Website](https://www.hackerrank.com/) |  |
+ <img src="https://learnjavascript.online/assets/favicons/favicon-32x32.png" width="16" /> | Learn JavaScript | Learn JavaScript in an interactive environment. Read short lessons, take notes, and complete challenges directly in your browser. | [Website](https://learnjavascript.online) | learn javascript, learn javascript online, interactive course |
  <img src="https://leetcode.com/favicon-96x96.png" width="16" /> | LeetCode | Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview. | [Website](https://leetcode.com/) |  |
  <img src="https://projecteuler.net/favicon.ico" width="16" /> | Project Euler | A website dedicated to the fascinating world of mathematics and programming. | [Website](https://projecteuler.net/) | programming, mathematics, problems, puzzles |
 
@@ -476,6 +477,7 @@
  <img src="https://javascript.info/img/favicon/apple-touch-icon-precomposed.png" width="16" /> | JavaScript Info | Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more. | [Website](https://javascript.info/) |  |
  <img src="https://javascript30.com/images/favion-JS3.png" width="16" /> | JavaScript30 | Build 30 things with vanilla JS in 30 days with 30 tutorials. | [Website](https://javascript30.com/) |  |
  <img src="https://cdn.kastatic.org/images/apple-touch-icon-72x72-precomposed.new.png" width="16" /> | Khan Academy | Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, wo... | [Website](https://www.khanacademy.org/) |  |
+ <img src="https://learnjavascript.online/assets/favicons/favicon-32x32.png" width="16" /> | Learn JavaScript | Learn JavaScript in an interactive environment. Read short lessons, take notes, and complete challenges directly in your browser. | [Website](https://learnjavascript.online) | learn javascript, learn javascript online, interactive course |
  <img src="https://learnxinyminutes.com/favicon.ico" width="16" /> | Learn X in Y minutes | Take a whirlwind tour of your next favorite language. Community-driven! | [Website](https://learnxinyminutes.com/) |  |
  <img src="https://static-exp1.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico" width="16" /> | LinkedIn Learning | Learn business, creative, and technology skills to achieve your personal and professional goals. Join LinkedIn Learning today to get access to thousands of courses. | [Website](https://www.linkedin.com/learning) |  |
  <img src="https://mastery.games/favicon.ico?v=2.3" width="16" /> | Mastery Games | Learn frontend development through play, repetition, and sleep. Each game builds up your skills from the ground up using the educational process of scaffolding. You learn one new concept at a time, an... | [Website](https://mastery.games/) |  |
