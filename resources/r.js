@@ -81,6 +81,17 @@ module.exports = [
         icon: 'https://rsuitejs.com/favicon.ico',
     },
     {
+        name: 'React Tutorial',
+        description:
+            'Learn React in an interactive environment. Understand how React works not just how to build with React.',
+    categories: [programming.learn, programming.codeChallenges],
+        links: {
+            [website]: 'https://react-tutorial.app',
+        },
+        icon: 'https://react-tutorial.app/assets/favicons/favicon-32x32.png',
+        keywords: ['react tutorial', 'interactive react course'],
+    },
+    {
         name: 'ReactJobsBoard',
         categories: [jobs.boards],
         description:
