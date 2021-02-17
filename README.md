@@ -6,7 +6,7 @@
 
  For information on using the public API, please see the [API usage guide](API_USAGE.md).
 
- ### Total resources: 1159
+ ### Total resources: 1160
 
  ## Index
 
@@ -405,6 +405,7 @@
  <img src="https://learnjavascript.online/assets/favicons/favicon-32x32.png" width="16" /> | Learn JavaScript | Learn JavaScript in an interactive environment. Read short lessons, take notes, and complete challenges directly in your browser. | [Website](https://learnjavascript.online) | learn javascript, learn javascript online, interactive course |
  <img src="https://leetcode.com/favicon-96x96.png" width="16" /> | LeetCode | Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview. | [Website](https://leetcode.com/) |  |
  <img src="https://projecteuler.net/favicon.ico" width="16" /> | Project Euler | A website dedicated to the fascinating world of mathematics and programming. | [Website](https://projecteuler.net/) | programming, mathematics, problems, puzzles |
+ <img src="https://react-tutorial.app/assets/favicons/favicon-32x32.png" width="16" /> | React Tutorial | Learn React in an interactive environment. Understand how React works not just how to build with React. | [Website](https://react-tutorial.app) | react tutorial, interactive react course |
 
 **[⬆ Back to Index](#index)**
 
@@ -484,6 +485,7 @@
  <img src="https://www.pluralsight.com/etc/clientlibs/pluralsight/main/images/favicons/favicon-96x96.png" width="16" /> | Pluralsight | Build your IT toolkit with the skills you need to excel in your job, including security best practices, server infrastructure and virtualization. Explore our IT courses now. | [Website](https://www.pluralsight.com/) |  |
  <img src="https://www.programiz.com/sites/all/themes/programiz/assets/favicon.png" width="16" /> | Programiz | Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references. | [Website](https://www.programiz.com/) |  |
  <img src="https://projectlearn.io/projectlearn.png" width="16" /> | ProjectLearn | A project-based learning approach in web development, mobile development, game development, machine learning and artificial intelligence. Learn code the right way! | [Website](https://projectlearn.io/) | project, tutorial, learn code by doing, project based learning, learn code free, web development, ap... |
+ <img src="https://react-tutorial.app/assets/favicons/favicon-32x32.png" width="16" /> | React Tutorial | Learn React in an interactive environment. Understand how React works not just how to build with React. | [Website](https://react-tutorial.app) | react tutorial, interactive react course |
  <img src="https://scrimba.com/favicon.ico" width="16" /> | Scrimba | Scrimba is a fun and fast way of learning to code! Our interactive courses and tutorials will teach you React, Vue, Angular, JavaScript, HTML, CSS, and more. | [Website](https://scrimba.com/) |  |
  <img src="https://www.sololearn.com/Images/favicon-192x192.png" width="16" /> | SoloLearn | Join Now to learn the basics or advance your existing skills. | [Website](https://www.sololearn.com/) | SoloLearn, Coding, Code, Learn how to code, Learn to code, Learn coding, C++, Java, Python, HTML, CS... |
  <img src="https://testautomationu.applitools.com/TAU-Green.png" width="16" /> | Test Automation University | Become a test automation superstar! 🌟. | [Website](https://testautomationu.applitools.com/) |  |
