@@ -11,5 +11,7 @@ module.exports = function (resourcesList) {
         })
     })
 
+    categoriesList.sort((a, b) => (a > b ? 1 : -1))
+
     return [...new Set(categoriesList)]
 }
