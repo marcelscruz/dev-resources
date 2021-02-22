@@ -8117,11 +8117,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -8131,11 +8131,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -14828,6 +14828,147 @@ module.exports = {
             "icon": "http://sigmajs.org/assets/images/apple-touch-icon-72x72.png"
         }
     ],
+    "programming-databases": [
+        {
+            "name": "Cassandra",
+            "categories": [
+                "Programming/Databases"
+            ],
+            "description": "Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters.",
+            "links": {
+                "Website": "http://cassandra.apache.org/"
+            },
+            "icon": "https://cassandra.apache.org/favicon.ico"
+        },
+        {
+            "name": "CouchDB",
+            "categories": [
+                "Programming/Databases"
+            ],
+            "description": "CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice.",
+            "links": {
+                "Website": "https://couchdb.apache.org/"
+            },
+            "icon": "https://couchdb.apache.org/favicon-32x32.png"
+        },
+        {
+            "name": "DynamoDB",
+            "categories": [
+                "Programming/Databases"
+            ],
+            "description": "Amazon DynamoDB is a nonrelational database. This database system provides consistent latency and offers built-in security and in-memory caching. DynamoDB is a serverless database which scales automatically and backs up your data for protection.",
+            "links": {
+                "Website": "https://aws.amazon.com/dynamodb/"
+            },
+            "icon": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"
+        },
+        {
+            "name": "Firebase",
+            "categories": [
+                "Infrastructure/Hosting",
+                "Programming/Databases"
+            ],
+            "description": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
+            "links": {
+                "Website": "https://firebase.google.com/"
+            },
+            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
+        },
+        {
+            "name": "Firestore",
+            "categories": [
+                "Programming/Databases"
+            ],
+            "description": "Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps through realtime listeners and offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity. Cloud Firestore also offers seamless integration with other Firebase and Google Cloud products, including Cloud Functions.",
+            "links": {
+                "Website": "https://firebase.google.com/docs/firestore"
+            },
+            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
+        },
+        {
+            "name": "Microsoft SQL Server",
+            "categories": [
+                "Programming/Databases"
+            ],
+            "description": "Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge.",
+            "links": {
+                "Website": "https://www.microsoft.com/en-us/sql-server"
+            },
+            "icon": "https://www.microsoft.com/favicon.ico"
+        },
+        {
+            "name": "MongoDB",
+            "categories": [
+                "Programming/Databases"
+            ],
+            "description": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.",
+            "links": {
+                "Website": "https://www.mongodb.com/"
+            },
+            "icon": "https://www.mongodb.com/assets/images/global/favicon.ico"
+        },
+        {
+            "name": "MySQL",
+            "categories": [
+                "Programming/Databases"
+            ],
+            "description": "MySQL Database Service is a fully managed database service to deploy cloud-native applications.",
+            "links": {
+                "Website": "https://www.mysql.com/"
+            },
+            "icon": "https://labs.mysql.com/common/themes/sakila/favicon.ico"
+        },
+        {
+            "name": "PostgreSQL",
+            "categories": [
+                "Programming/Databases"
+            ],
+            "description": "PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.",
+            "links": {
+                "Website": "https://www.postgresql.org/"
+            },
+            "icon": "https://www.postgresql.org/favicon.ico"
+        },
+        {
+            "name": "SQLite",
+            "categories": [
+                "Programming/Databases"
+            ],
+            "description": "SQLite is an open-source, embedded, relational database management system, designed circa 2000. It is a database, with zero configuration, no requirements of a server or installation. Despite its simplicity, it is laden with popular features of database management systems.",
+            "links": {
+                "Website": "https://www.sqlite.org/index.html"
+            },
+            "icon": "https://www.sqlite.org/favicon.ico"
+        },
+        {
+            "name": "XServer",
+            "categories": [
+                "Programming/Databases"
+            ],
+            "description": "XServer - JSON-based backend for Mobile apps, Websites and Unity games.",
+            "keywords": [
+                "iOS",
+                "Android",
+                "JavaScript",
+                "apps",
+                "backend",
+                "mobile",
+                "website",
+                "baas",
+                "parse",
+                "firebase",
+                "database",
+                "json",
+                "php",
+                "javascript",
+                "jquery"
+            ],
+            "links": {
+                "Website": "https://xserver.app/"
+            },
+            "icon": "https://xserver.app/assets/img/favicon.png"
+        }
+    ],
     "programming-docs-cheatsheets": [
         {
             "name": "Cheatography",
@@ -15991,48 +16132,6 @@ module.exports = {
                 "Website": "https://refactoringui.com/"
             },
             "icon": "https://refactoringui.com/favicon-32x32.png"
-        }
-    ],
-    "programming-databases": [
-        {
-            "name": "Firebase",
-            "categories": [
-                "Infrastructure/Hosting",
-                "Programming/Databases"
-            ],
-            "description": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
-            "links": {
-                "Website": "https://firebase.google.com/"
-            },
-            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
-        },
-        {
-            "name": "XServer",
-            "categories": [
-                "Programming/Databases"
-            ],
-            "description": "XServer - JSON-based backend for Mobile apps, Websites and Unity games.",
-            "keywords": [
-                "iOS",
-                "Android",
-                "JavaScript",
-                "apps",
-                "backend",
-                "mobile",
-                "website",
-                "baas",
-                "parse",
-                "firebase",
-                "database",
-                "json",
-                "php",
-                "javascript",
-                "jquery"
-            ],
-            "links": {
-                "Website": "https://xserver.app/"
-            },
-            "icon": "https://xserver.app/assets/img/favicon.png"
         }
     ],
     "programming-javascript-react": [

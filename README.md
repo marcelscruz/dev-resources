@@ -6,7 +6,7 @@
 
  For information on using the public API, please see the [API usage guide](API_USAGE.md).
 
- ### Total resources: 1160
+ ### Total resources: 1169
 
  ## Index
 
@@ -430,7 +430,16 @@
 ### <a name="databases"><a name="programming-databases">Databases</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
+ <img src="https://cassandra.apache.org/favicon.ico" width="16" /> | Cassandra | Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters. | [Website](http://cassandra.apache.org/) |  |
+ <img src="https://couchdb.apache.org/favicon-32x32.png" width="16" /> | CouchDB | CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice. | [Website](https://couchdb.apache.org/) |  |
+ <img src="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico" width="16" /> | DynamoDB | Amazon DynamoDB is a nonrelational database. This database system provides consistent latency and offers built-in security and in-memory caching. DynamoDB is a serverless database which scales automat... | [Website](https://aws.amazon.com/dynamodb/) |  |
  <img src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png" width="16" /> | Firebase | Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. | [Website](https://firebase.google.com/) |  |
+ <img src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png" width="16" /> | Firestore | Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps ... | [Website](https://firebase.google.com/docs/firestore) |  |
+ <img src="https://www.microsoft.com/favicon.ico" width="16" /> | Microsoft SQL Server | Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge. | [Website](https://www.microsoft.com/en-us/sql-server) |  |
+ <img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="16" /> | MongoDB | MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. | [Website](https://www.mongodb.com/) |  |
+ <img src="https://labs.mysql.com/common/themes/sakila/favicon.ico" width="16" /> | MySQL | MySQL Database Service is a fully managed database service to deploy cloud-native applications. | [Website](https://www.mysql.com/) |  |
+ <img src="https://www.postgresql.org/favicon.ico" width="16" /> | PostgreSQL | PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries. | [Website](https://www.postgresql.org/) |  |
+ <img src="https://www.sqlite.org/favicon.ico" width="16" /> | SQLite | SQLite is an open-source, embedded, relational database management system, designed circa 2000. It is a database, with zero configuration, no requirements of a server or installation. Despite its simp... | [Website](https://www.sqlite.org/index.html) |  |
  <img src="https://xserver.app/assets/img/favicon.png" width="16" /> | XServer | XServer - JSON-based backend for Mobile apps, Websites and Unity games. | [Website](https://xserver.app/) | iOS, Android, JavaScript, apps, backend, mobile, website, baas, parse, firebase, database, json, php... |
 
 **[⬆ Back to Index](#index)**

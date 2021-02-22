@@ -1719,6 +1719,17 @@ module.exports = [
         "apiCategory": "Open Data"
     },
     {
+        "name": "Cassandra",
+        "categories": [
+            "Programming/Databases"
+        ],
+        "description": "Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters.",
+        "links": {
+            "Website": "http://cassandra.apache.org/"
+        },
+        "icon": "https://cassandra.apache.org/favicon.ico"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -3159,6 +3170,17 @@ module.exports = [
         "icon": "https://coreui.io/images/favicons/favicon-96x96.png"
     },
     {
+        "name": "CouchDB",
+        "categories": [
+            "Programming/Databases"
+        ],
+        "description": "CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice.",
+        "links": {
+            "Website": "https://couchdb.apache.org/"
+        },
+        "icon": "https://couchdb.apache.org/favicon-32x32.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -4121,17 +4143,6 @@ module.exports = [
         "icon": "https://www.dreamhost.com/assets/favicons/apple-touch-icon-76x76-18c4bd5a860942003494cecf3aa217b02285f57f5525c0e4985dcb77f0125d91.png"
     },
     {
-        "name": "Dribbble",
-        "categories": [
-            "UI Design/Inspiration"
-        ],
-        "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
-        "links": {
-            "Website": "https://dribbble.com/"
-        },
-        "icon": "https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -4144,6 +4155,17 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Dribbble",
+        "categories": [
+            "UI Design/Inspiration"
+        ],
+        "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
+        "links": {
+            "Website": "https://dribbble.com/"
+        },
+        "icon": "https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png"
     },
     {
         "categories": [
@@ -4197,6 +4219,17 @@ module.exports = [
             "Website": "https://dygraphs.com/"
         },
         "icon": "https://dygraphs.com/favicon.ico"
+    },
+    {
+        "name": "DynamoDB",
+        "categories": [
+            "Programming/Databases"
+        ],
+        "description": "Amazon DynamoDB is a nonrelational database. This database system provides consistent latency and offers built-in security and in-memory caching. DynamoDB is a serverless database which scales automatically and backs up your data for protection.",
+        "links": {
+            "Website": "https://aws.amazon.com/dynamodb/"
+        },
+        "icon": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"
     },
     {
         "name": "EASEOUT",
@@ -4829,6 +4862,17 @@ module.exports = [
             "Website": "https://www.mozilla.org/en-US/firefox/69.0a1/releasenotes/"
         },
         "icon": "https://www.mozilla.org/media/img/favicons/firefox/browser/nightly/favicon-196x196.f6d874cabab4.png"
+    },
+    {
+        "name": "Firestore",
+        "categories": [
+            "Programming/Databases"
+        ],
+        "description": "Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps through realtime listeners and offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity. Cloud Firestore also offers seamless integration with other Firebase and Google Cloud products, including Cloud Functions.",
+        "links": {
+            "Website": "https://firebase.google.com/docs/firestore"
+        },
+        "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
     },
     {
         "categories": [
@@ -6887,20 +6931,6 @@ module.exports = [
         "icon": "https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico"
     },
     {
-        "name": "Icons8",
-        "categories": [
-            "Assets/Icons",
-            "Assets/Illustrations",
-            "Assets/Images",
-            "Assets/Audio"
-        ],
-        "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
-        "links": {
-            "Website": "https://icons8.com"
-        },
-        "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -6913,6 +6943,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Icons8",
+        "categories": [
+            "Assets/Icons",
+            "Assets/Illustrations",
+            "Assets/Images",
+            "Assets/Audio"
+        ],
+        "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
+        "links": {
+            "Website": "https://icons8.com"
+        },
+        "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
     },
     {
         "name": "Iconscout",
@@ -9074,6 +9118,17 @@ module.exports = [
         "apiCategory": "Open Data"
     },
     {
+        "name": "Microsoft SQL Server",
+        "categories": [
+            "Programming/Databases"
+        ],
+        "description": "Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge.",
+        "links": {
+            "Website": "https://www.microsoft.com/en-us/sql-server"
+        },
+        "icon": "https://www.microsoft.com/favicon.ico"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -9189,6 +9244,17 @@ module.exports = [
         "icon": "https://uploads-ssl.webflow.com/5a9e6c4d3dd0520001f5b761/5ab8c9dfe92abfbae46d72b8_256%20original.png"
     },
     {
+        "name": "MongoDB",
+        "categories": [
+            "Programming/Databases"
+        ],
+        "description": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.",
+        "links": {
+            "Website": "https://www.mongodb.com/"
+        },
+        "icon": "https://www.mongodb.com/assets/images/global/favicon.ico"
+    },
+    {
         "name": "Moqups",
         "categories": [
             "UI Design/Prototyping"
@@ -9290,6 +9356,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Social"
+    },
+    {
+        "name": "MySQL",
+        "categories": [
+            "Programming/Databases"
+        ],
+        "description": "MySQL Database Service is a fully managed database service to deploy cloud-native applications.",
+        "links": {
+            "Website": "https://www.mysql.com/"
+        },
+        "icon": "https://labs.mysql.com/common/themes/sakila/favicon.ico"
     },
     {
         "name": "n3-charts",
@@ -9574,17 +9651,6 @@ module.exports = [
         "icon": "https://notepad-plus-plus.org/favicon.ico"
     },
     {
-        "name": "Noun Project",
-        "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
-        "links": {
-            "Website": "https://thenounproject.com/"
-        },
-        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -9597,6 +9663,17 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Noun Project",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
+        "links": {
+            "Website": "https://thenounproject.com/"
+        },
+        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
     },
     {
         "name": "Novorésumé",
@@ -10557,6 +10634,19 @@ module.exports = [
         "apiCategory": "Test Data"
     },
     {
+        "name": "Pixabay",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Illustrations"
+        ],
+        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
+        "links": {
+            "Website": "https://pixabay.com/"
+        },
+        "icon": "https://pixabay.com/favicon-32x32.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -10569,19 +10659,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Photography"
-    },
-    {
-        "name": "Pixabay",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Illustrations"
-        ],
-        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
-        "links": {
-            "Website": "https://pixabay.com/"
-        },
-        "icon": "https://pixabay.com/favicon-32x32.png"
     },
     {
         "name": "Pixel Love",
@@ -10814,6 +10891,28 @@ module.exports = [
         "apiCategory": "Geocoding"
     },
     {
+        "name": "PostgreSQL",
+        "categories": [
+            "Programming/Databases"
+        ],
+        "description": "PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.",
+        "links": {
+            "Website": "https://www.postgresql.org/"
+        },
+        "icon": "https://www.postgresql.org/favicon.ico"
+    },
+    {
+        "name": "Postman",
+        "categories": [
+            "Programming/API Building"
+        ],
+        "description": "Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.",
+        "links": {
+            "Website": "https://www.postman.com/"
+        },
+        "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -10826,17 +10925,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Development"
-    },
-    {
-        "name": "Postman",
-        "categories": [
-            "Programming/API Building"
-        ],
-        "description": "Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.",
-        "links": {
-            "Website": "https://www.postman.com/"
-        },
-        "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
     },
     {
         "categories": [
@@ -11499,6 +11587,17 @@ module.exports = [
         "apiCategory": "Open Data"
     },
     {
+        "name": "reddit",
+        "categories": [
+            "Reading & Writing/Platforms"
+        ],
+        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
+        "links": {
+            "Website": "https://www.reddit.com/"
+        },
+        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -11511,17 +11610,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Social"
-    },
-    {
-        "name": "reddit",
-        "categories": [
-            "Reading & Writing/Platforms"
-        ],
-        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
-        "links": {
-            "Website": "https://www.reddit.com/"
-        },
-        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
     },
     {
         "categories": [
@@ -12687,6 +12775,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Music"
+    },
+    {
+        "name": "SQLite",
+        "categories": [
+            "Programming/Databases"
+        ],
+        "description": "SQLite is an open-source, embedded, relational database management system, designed circa 2000. It is a database, with zero configuration, no requirements of a server or installation. Despite its simplicity, it is laden with popular features of database management systems.",
+        "links": {
+            "Website": "https://www.sqlite.org/index.html"
+        },
+        "icon": "https://www.sqlite.org/favicon.ico"
     },
     {
         "name": "Squarespace",
@@ -14026,11 +14125,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://opentransportdata.swiss/en/"
+            "Website": "https://transport.opendata.ch/"
         },
         "name": "Transport for Switzerland",
-        "description": "Official Swiss Public Transport Open Data",
-        "auth": "apiKey",
+        "description": "Swiss public transport API",
+        "auth": "",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
@@ -14040,11 +14139,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://transport.opendata.ch/"
+            "Website": "https://opentransportdata.swiss/en/"
         },
         "name": "Transport for Switzerland",
-        "description": "Swiss public transport API",
-        "auth": "",
+        "description": "Official Swiss Public Transport Open Data",
+        "auth": "apiKey",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
@@ -14612,17 +14711,6 @@ module.exports = [
         "icon": "https://www.unscreen.com/favicon-96x96.png"
     },
     {
-        "name": "Unsplash",
-        "categories": [
-            "Assets/Images"
-        ],
-        "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
-        "links": {
-            "Website": "https://unsplash.com/"
-        },
-        "icon": "https://unsplash.com/favicon-32x32.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -14635,6 +14723,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Photography"
+    },
+    {
+        "name": "Unsplash",
+        "categories": [
+            "Assets/Images"
+        ],
+        "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
+        "links": {
+            "Website": "https://unsplash.com/"
+        },
+        "icon": "https://unsplash.com/favicon-32x32.png"
     },
     {
         "name": "Untools",
