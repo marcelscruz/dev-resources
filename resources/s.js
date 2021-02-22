@@ -366,6 +366,16 @@ module.exports = [
         icon: 'https://www.sololearn.com/Images/favicon-192x192.png',
     },
     {
+        name: 'SQLite',
+        categories: [programming.databases],
+        description:
+            'SQLite is an open-source, embedded, relational database management system, designed circa 2000. It is a database, with zero configuration, no requirements of a server or installation. Despite its simplicity, it is laden with popular features of database management systems.',
+        links: {
+            [website]: 'https://www.sqlite.org/index.html',
+        },
+        icon: 'https://www.sqlite.org/favicon.ico',
+    },
+    {
         name: 'Squarespace',
         categories: [toolsAndUtilities.websiteBuilders],
         description:

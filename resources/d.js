@@ -277,4 +277,14 @@ module.exports = [
         },
         icon: 'https://dygraphs.com/favicon.ico',
     },
+    {
+        name: 'DynamoDB',
+        categories: [programming.databases],
+        description:
+            'Amazon DynamoDB is a nonrelational database. This database system provides consistent latency and offers built-in security and in-memory caching. DynamoDB is a serverless database which scales automatically and backs up your data for protection.',
+        links: {
+            [website]: 'https://aws.amazon.com/dynamodb/',
+        },
+        icon: 'https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico',
+    },
 ]

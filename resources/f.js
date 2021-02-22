@@ -68,6 +68,17 @@ module.exports = [
             'https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png',
     },
     {
+        name: 'Firestore',
+        categories: [programming.databases],
+        description:
+            'Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps through realtime listeners and offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity. Cloud Firestore also offers seamless integration with other Firebase and Google Cloud products, including Cloud Functions.',
+        links: {
+            [website]: 'https://firebase.google.com/docs/firestore',
+        },
+        icon:
+            'https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png',
+    },
+    {
         name: 'Firefox',
         categories: [toolsAndUtilities.browsersAndExtensions],
         description: 'Faster page loading, less memory usage and packed with features, the new Firefox is here.',

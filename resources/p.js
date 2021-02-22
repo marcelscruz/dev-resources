@@ -132,6 +132,16 @@ module.exports = [
         icon: 'https://polypane.app/icons/icon-96x96.png?v=5df5528946772487a6ab462ff2125f26',
     },
     {
+        name: 'PostgreSQL',
+        categories: [programming.databases],
+        description:
+            'PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.',
+        links: {
+            [website]: 'https://www.postgresql.org/',
+        },
+        icon: 'https://www.postgresql.org/favicon.ico',
+    },
+    {
         name: 'Postman',
         categories: [programming.apiBuilding],
         description:

@@ -42,6 +42,16 @@ module.exports = [
         icon: 'https://carbon.now.sh/static/brand/apple-touch-icon.png',
     },
     {
+        name: 'Cassandra',
+        categories: [programming.databases],
+        description:
+            'Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters.',
+        links: {
+            [website]: 'http://cassandra.apache.org/',
+        },
+        icon: 'https://cassandra.apache.org/favicon.ico',
+    },
+    {
         name: 'Chakra',
         categories: [programming.uiKitsAndLibraries],
         description: 'Simple, Modular and Accessible UI Components for your React Applications.',
@@ -700,6 +710,16 @@ module.exports = [
             [website]: 'https://coreui.io/',
         },
         icon: 'https://coreui.io/images/favicons/favicon-96x96.png',
+    },
+    {
+        name: 'CouchDB',
+        categories: [programming.databases],
+        description:
+            'CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice.',
+        links: {
+            [website]: 'https://couchdb.apache.org/',
+        },
+        icon: 'https://couchdb.apache.org/favicon-32x32.png',
     },
     {
         name: 'Coursera',

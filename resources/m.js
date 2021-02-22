@@ -149,6 +149,16 @@ module.exports = [
         icon: 'https://metrical.xyz/icons/icon-96x96.png?v=783621c4a822f77387baf5d580f65aeb',
     },
     {
+        name: 'Microsoft SQL Server',
+        categories: [programming.databases],
+        description:
+            'Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge.',
+        links: {
+            [website]: 'https://www.microsoft.com/en-us/sql-server',
+        },
+        icon: 'https://www.microsoft.com/favicon.ico',
+    },
+    {
         name: 'Mobbin',
         categories: [uiDesign.inspiration],
         description:
@@ -217,6 +227,16 @@ module.exports = [
         icon: 'https://uploads-ssl.webflow.com/5a9e6c4d3dd0520001f5b761/5ab8c9dfe92abfbae46d72b8_256%20original.png',
     },
     {
+        name: 'MongoDB',
+        categories: [programming.databases],
+        description:
+            'MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.',
+        links: {
+            [website]: 'https://www.mongodb.com/',
+        },
+        icon: 'https://www.mongodb.com/assets/images/global/favicon.ico',
+    },
+    {
         name: 'Moqups',
         categories: [uiDesign.prototyping],
         description:
@@ -245,5 +265,14 @@ module.exports = [
             [website]: 'https://www.myperfectresume.com/',
         },
         icon: 'https://www.myperfectresume.com/wp-content/uploads/2018/07/touch-icon-ipad.png',
+    },
+    {
+        name: 'MySQL',
+        categories: [programming.databases],
+        description: 'MySQL Database Service is a fully managed database service to deploy cloud-native applications.',
+        links: {
+            [website]: 'https://www.mysql.com/',
+        },
+        icon: 'https://labs.mysql.com/common/themes/sakila/favicon.ico',
     },
 ]
