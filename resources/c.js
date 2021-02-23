@@ -729,6 +729,17 @@ module.exports = [
         icon: 'https://coolors.co/assets/img/favicon.png',
     },
     {
+        name: 'CopyAI',
+        categories: [readingAndWriting.utilities, indieHacking.utilities],
+        description:
+            "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds!",
+        links: {
+            [website]: 'https://www.copy.ai/',
+        },
+        icon:
+            'https://assets-global.website-files.com/5f4ec532319820f7c2ccd7a3/5f55620b7b806770e6becea2_32x32%20favico.png',
+    },
+    {
         name: 'CoreUI',
         categories: [programming.templates, assets.icons],
         description:
