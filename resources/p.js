@@ -133,7 +133,7 @@ module.exports = [
     },
     {
         name: 'PostgreSQL',
-        categories: [programming.databases],
+        categories: [infrastructure.databases],
         description:
             'PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.',
         links: {

@@ -21,7 +21,9 @@ module.exports = {
     },
 
     infrastructure: {
+        databases: 'Infrastructure/Databases',
         hosting: 'Infrastructure/Hosting',
+        serverless: 'Infrastructure/Serverless',
     },
 
     jobs: {
@@ -39,7 +41,6 @@ module.exports = {
         charts: 'Programming/Charts',
         codeChallenges: 'Programming/Code Challenges',
         codeSnippets: 'Programming/Code Snippets',
-        databases: 'Programming/Databases',
         docsAndCheatsheets: 'Programming/Docs & Cheatsheets',
         javascript: {
             react: 'Programming/JavaScript/React',

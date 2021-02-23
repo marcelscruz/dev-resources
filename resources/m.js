@@ -150,7 +150,7 @@ module.exports = [
     },
     {
         name: 'Microsoft SQL Server',
-        categories: [programming.databases],
+        categories: [infrastructure.databases],
         description:
             'Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge.',
         links: {
@@ -228,7 +228,7 @@ module.exports = [
     },
     {
         name: 'MongoDB',
-        categories: [programming.databases],
+        categories: [infrastructure.databases],
         description:
             'MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.',
         links: {
@@ -268,7 +268,7 @@ module.exports = [
     },
     {
         name: 'MySQL',
-        categories: [programming.databases],
+        categories: [infrastructure.databases],
         description: 'MySQL Database Service is a fully managed database service to deploy cloud-native applications.',
         links: {
             [website]: 'https://www.mysql.com/',

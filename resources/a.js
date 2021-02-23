@@ -6,7 +6,7 @@ const {
     jobs,
     infrastructure,
 } = require('../constants/categories')
-const { website, youtube } = require('../constants/links')
+const { website, youtube, github } = require('../constants/links')
 
 module.exports = [
     {
@@ -230,6 +230,16 @@ module.exports = [
         icon: 'https://authenticjobs.com/wp-content/uploads/2020/04/cropped-aj-site-favicon-32x32.png',
     },
     {
+        name: 'AWS',
+        categories: [infrastructure.hosting],
+        description:
+            'Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use.',
+        links: {
+            [website]: 'https://aws.amazon.com/',
+        },
+        icon: 'https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png',
+    },
+    {
         name: 'Awesome a11y',
         categories: [toolsAndUtilities.accessibility],
         description:
@@ -240,14 +250,13 @@ module.exports = [
         icon: 'https://github.githubassets.com/favicons/favicon-dark.svg',
     },
     {
-        name: 'AWS',
-        categories: [infrastructure.hosting],
-        description:
-            'Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use.',
+        name: 'Awesome Courses',
+        categories: [programming.learn],
+        description: 'List of awesome university courses for learning Computer Science.',
         links: {
-            [website]: 'https://aws.amazon.com/',
+            [github]: 'https://github.com/prakhar1989/awesome-courses',
         },
-        icon: 'https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png',
+        icon: 'https://github.githubassets.com/apple-touch-icon-114x114.png',
     },
     {
         name: 'Awwwards',

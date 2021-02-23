@@ -22,6 +22,15 @@ module.exports = [
         icon: 'https://www.ratatype.com/browser/safari/apple-touch-icon-76x76.png',
     },
     {
+        name: 'Ray.so',
+        categories: [programming.codeSnippets],
+        description: 'Create beautiful code.',
+        links: {
+            [website]: 'https://ray.so/',
+        },
+        icon: 'https://ray.so/img/icons/favicon-32x32.png',
+    },
+    {
         name: 'React 30',
         categories: [programming.podcasts],
         description: 'A podcast about React.',
@@ -84,7 +93,7 @@ module.exports = [
         name: 'React Tutorial',
         description:
             'Learn React in an interactive environment. Understand how React works not just how to build with React.',
-    categories: [programming.learn, programming.codeChallenges],
+        categories: [programming.learn, programming.codeChallenges],
         links: {
             [website]: 'https://react-tutorial.app',
         },

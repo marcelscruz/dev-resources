@@ -43,6 +43,15 @@ module.exports = [
         icon: 'https://uidesigndaily.com/public/img/favicon-32x32.png',
     },
     {
+        name: 'UI Design for Developers',
+        categories: [uiDesign.learn],
+        description: 'Learn just enough visual design to be dangerous as a developer.',
+        links: {
+            [website]: 'https://designcode.io/ui-design-for-developers',
+        },
+        icon: 'https://designcode.io/icons/icon-96x96.png',
+    },
+    {
         name: 'UI Garage',
         categories: [uiDesign.inspiration],
         description:
@@ -178,6 +187,15 @@ module.exports = [
             [website]: 'https://www.upwork.com/',
         },
         icon: 'https://www.upwork.com/ab/brontes/favicon.ico',
+    },
+    {
+        name: 'Useful Colours',
+        categories: [uiDesign.colorPalettes],
+        description: 'Super quick, eye-pleasing colours for your UI design.',
+        links: {
+            [website]: 'https://usefulcolours.com/',
+        },
+        icon: 'https://usefulcolours.com/favicon.png',
     },
     {
         name: 'useHooks',

@@ -29,6 +29,16 @@ module.exports = [
         icon: 'https://www.tailorbrands.com/wp-content/uploads/2016/07/cropped-icon_red-32x32.png',
     },
     {
+        name: 'TailwindComponents',
+        categories: [programming.uiKitsAndLibraries],
+        description:
+            'Tailwind CSS examples from components by the community. Tailwind chart, grids, inputs, forms, templates and much more.',
+        links: {
+            [website]: 'https://tailwindcomponents.com/',
+        },
+        icon: 'https://tailwindcomponents.com/favicon-32x32.png',
+    },
+    {
         name: 'Tailwind CSS',
         categories: [programming.uiKitsAndLibraries],
         description: 'Documentation for the Tailwind CSS framework.',
@@ -36,6 +46,16 @@ module.exports = [
             [website]: 'https://tailwindcss.com/',
         },
         icon: 'https://tailwindcss.com/favicon-32x32.png',
+    },
+    {
+        name: 'Tailwind Toolbox',
+        categories: [programming.templates],
+        description:
+            'Open source starter templates and components, a directory of handy building kits, generators, plugins and useful tools to kick start your Tailwind CSS project.',
+        links: {
+            [website]: 'https://tailwindtoolbox.com/',
+        },
+        icon: 'https://tailwindtoolbox.com/favicon-32x32.png',
     },
     {
         name: 'TechCrunch',

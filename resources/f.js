@@ -58,7 +58,7 @@ module.exports = [
     },
     {
         name: 'Firebase',
-        categories: [infrastructure.hosting, programming.databases],
+        categories: [infrastructure.hosting, infrastructure.databases, infrastructure.serverless],
         description:
             'Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.',
         links: {
@@ -69,7 +69,7 @@ module.exports = [
     },
     {
         name: 'Firestore',
-        categories: [programming.databases],
+        categories: [infrastructure.databases],
         description:
             'Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps through realtime listeners and offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity. Cloud Firestore also offers seamless integration with other Firebase and Google Cloud products, including Cloud Functions.',
         links: {

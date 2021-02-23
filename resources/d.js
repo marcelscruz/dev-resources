@@ -126,6 +126,15 @@ module.exports = [
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
+        name: 'DesignJoy',
+        categories: [uiDesign.utilities],
+        description: 'The #1 unlimited product design subscription service for agencies, startups, and entrepreneurs.',
+        links: {
+            [website]: 'https://www.designjoy.co/',
+        },
+        icon: 'https://uploads-ssl.webflow.com/5837424ae11409586f837994/5e2fb217d4837e75854462c9_Small.png',
+    },
+    {
         name: 'DEV',
         categories: [readingAndWriting.platforms],
         description:
@@ -297,7 +306,7 @@ module.exports = [
     },
     {
         name: 'DynamoDB',
-        categories: [programming.databases],
+        categories: [infrastructure.databases],
         description:
             'Amazon DynamoDB is a nonrelational database. This database system provides consistent latency and offers built-in security and in-memory caching. DynamoDB is a serverless database which scales automatically and backs up your data for protection.',
         links: {

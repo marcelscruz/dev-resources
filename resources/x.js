@@ -24,7 +24,7 @@ module.exports = [
     },
     {
         name: 'XServer',
-        categories: [programming.databases],
+        categories: [infrastructure.databases],
         description: 'XServer - JSON-based backend for Mobile apps, Websites and Unity games.',
         keywords: [
             'iOS',

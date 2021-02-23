@@ -62,4 +62,14 @@ module.exports = [
         },
         icon: 'https://www.kite.com/wp-content/themes/kite/favicon.ico',
     },
+    {
+        name: 'Kometa UI Kit',
+        categories: [programming.uiKitsAndLibraries],
+        description:
+            'A marketplace of fully responsive, multi-purpose UI kits, built with Tailwind CSS, for start-ups and products of any kind.',
+        links: {
+            [website]: 'https://kitwind.io/products/kometa',
+        },
+        icon: 'https://kitwind.io/icons/icon-96x96.png',
+    },
 ]

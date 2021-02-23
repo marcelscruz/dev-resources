@@ -1,5 +1,13 @@
-const { jobs, uiDesign, assets, programming, toolsAndUtilities } = require('../constants/categories')
-const { website, youtube } = require('../constants/links')
+const {
+    jobs,
+    uiDesign,
+    assets,
+    programming,
+    toolsAndUtilities,
+    indieHacking,
+    readingAndWriting,
+} = require('../constants/categories')
+const { website, youtube, github } = require('../constants/links')
 
 module.exports = [
     {
@@ -43,7 +51,7 @@ module.exports = [
     },
     {
         name: 'Cassandra',
-        categories: [programming.databases],
+        categories: [infrastructure.databases],
         description:
             'Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters.',
         links: {
@@ -262,6 +270,15 @@ module.exports = [
             [website]: 'https://www.codechef.com/',
         },
         icon: 'https://www.codechef.com/misc/favicon.ico',
+    },
+    {
+        name: 'Codeconia',
+        categories: [readingAndWriting.platforms],
+        description: 'Learn programming with Codeconia.',
+        links: {
+            [website]: 'https://codeconia.com/',
+        },
+        icon: 'https://codeconia.com/wp-content/uploads/2020/11/cropped-favicon-32x32.png',
     },
     {
         name: 'CodeKit',
@@ -648,6 +665,15 @@ module.exports = [
         icon: 'https://compressor.io/favicon.ico',
     },
     {
+        name: 'Computer Science courses with video lectures',
+        categories: [programming.learn],
+        description: 'List of Computer Science courses with video lectures.',
+        links: {
+            [github]: 'https://github.com/Developer-Y/cs-video-courses',
+        },
+        icon: 'https://github.githubassets.com/apple-touch-icon-114x114.png',
+    },
+    {
         name: 'Contrast Ratio',
         categories: [toolsAndUtilities.accessibility],
         description: 'Easily calculate color contrast ratios.',
@@ -713,7 +739,7 @@ module.exports = [
     },
     {
         name: 'CouchDB',
-        categories: [programming.databases],
+        categories: [infrastructure.databases],
         description:
             'CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice.',
         links: {
@@ -836,6 +862,16 @@ module.exports = [
             [website]: 'https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce',
         },
         icon: 'https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png',
+    },
+    {
+        name: 'Customer.io',
+        categories: [indieHacking.utilities],
+        description:
+            'With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions.',
+        links: {
+            [website]: 'https://customer.io/',
+        },
+        icon: 'https://customer.io/wp-content/uploads/2019/01/customer-io-touchicon-180.png',
     },
     {
         name: 'Cypress',

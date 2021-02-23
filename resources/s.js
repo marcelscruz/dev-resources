@@ -61,6 +61,15 @@ module.exports = [
         icon: 'https://semantic-ui.com/favicon.ico',
     },
     {
+        name: 'Serverless Stack',
+        categories: [programming.apiBuilding, infrastructure.serverless],
+        description: 'Serverless Stack (SST) is a framework that makes it easy to build serverless applications.',
+        links: {
+            [website]: 'https://serverless-stack.com/',
+        },
+        icon: 'https://serverless-stack.com/assets/favicon-32x32.png',
+    },
+    {
         name: 'Shape',
         categories: [assets.icons],
         description:
@@ -343,6 +352,15 @@ module.exports = [
         icon: 'https://uploads-ssl.webflow.com/5e08877ced2a2771907388a9/5e2d9bc8d2e0671a88b1658b_smplkit-icon-3.png',
     },
     {
+        name: 'Snipit',
+        categories: [programming.codeSnippets],
+        description: 'Save and organize your code snippets in the cloud. Share and collaborate with your team members.',
+        links: {
+            [website]: 'https://snipit.io/',
+        },
+        icon: 'https://cdn.snipit.io/favicon.png',
+    },
+    {
         name: 'Soft Skills Engineering',
         categories: [programming.podcasts],
         description:
@@ -388,8 +406,18 @@ module.exports = [
         icon: 'https://www.sololearn.com/Images/favicon-192x192.png',
     },
     {
+        name: 'Soundstripe',
+        categories: [assets.audio],
+        description:
+            "Every creator's one-stop shop for the best royalty free music, SFX, and stock video. Purchase a license for one file, or subscribe for unlimited access.",
+        links: {
+            [website]: 'https://www.soundstripe.com/',
+        },
+        icon: 'https://www.soundstripe.com/hubfs/favicon-1.png',
+    },
+    {
         name: 'SQLite',
-        categories: [programming.databases],
+        categories: [infrastructure.databases],
         description:
             'SQLite is an open-source, embedded, relational database management system, designed circa 2000. It is a database, with zero configuration, no requirements of a server or installation. Despite its simplicity, it is laden with popular features of database management systems.',
         links: {
@@ -511,6 +539,16 @@ module.exports = [
         icon: 'https://www.sublimetext.com/images/icon.png',
     },
     {
+        name: 'Supabase',
+        categories: [infrastructure.serverless, infrastructure.databases],
+        description:
+            'Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.',
+        links: {
+            [website]: 'https://supabase.io/',
+        },
+        icon: 'https://supabase.io/new/favicon/favicon-32x32.png',
+    },
+    {
         name: 'Surge',
         categories: [infrastructure.hosting],
         description:
@@ -548,6 +586,15 @@ module.exports = [
             [website]: 'https://svgbox.net/',
         },
         icon: 'https://svgbox.net/assets/favicon.svg',
+    },
+    {
+        name: 'SVGX',
+        categories: [uiDesign.utilities, toolsAndUtilities.imageAndVideoEditing],
+        description: 'SVGX is the desktop SVG asset manager designers and developers wished they had.',
+        links: {
+            [website]: 'https://svgx.app/',
+        },
+        icon: 'https://svgx.app/assets/favicons/favicon-96x96.png',
     },
     {
         name: 'Swagger',
