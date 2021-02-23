@@ -6,7 +6,7 @@
 
  For information on using the public API, please see the [API usage guide](API_USAGE.md).
 
- ### Total resources: 1169
+ ### Total resources: 1167
 
  ## Index
 
@@ -239,7 +239,11 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://bootstrapped.fm/icon.png" width="16" /> | Bootstrapped | Listen to 100+ helpful podcast episodes for software bootstrappers. Interviews with experts, open discussions between bootstrappers, and solo episodes, with one person digging deeply into a topic. | [Website](https://bootstrapped.fm/) |  |
+ &nbsp; | Bootstrapped Web | The podcast for founders bootstrapping their startups online. | [Website](http://bootstrappedweb.com/) |  |
+ <img src="https://images.transistor.fm/file/transistor/images/favicons/site/6/x64_1541522941-favicon.png" width="16" /> | Build you SaaS | Can you bootstrap a profitable startup in 2021? Thousands of entrepreneurs, developers, designers, and product people have tried to launch their own web apps. But with so many venture-backed startups ... | [Website](https://saas.transistor.fm/) |  |
  <img src="https://www.indiehackers.com/images/favicons/favicon--32x32.png" width="16" /> | Indie Hackers | Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects. | [Website](https://www.indiehackers.com/) |  |
+ <img src="https://assets.transistor.fm/assets/favicon-6e847568a3fbd949ba82be5cb10951e28b51f7f58d6e573235b0cddf494de2c0.ico" width="16" /> | Slow & Steady | Join us as we share what it's like to build and launch a bootstrapped startup while working for yourself full-time. Benedikt is working on Userlist with two other co-founders and Brian is running solo... | [Website](https://www.slowandsteadypodcast.com/) |  |
+ <img src="https://assets.transistor.fm/assets/favicon-6e847568a3fbd949ba82be5cb10951e28b51f7f58d6e573235b0cddf494de2c0.ico" width="16" /> | Software Social | Two bootstrapped software founders -- one transitioning from freelancing, and one with an established business -- invite you to join their weekly chats about their businesses. | [Website](https://softwaresocial.dev/) |  |
  <img src="https://www.startupsfortherestofus.com/wp-content/themes/sftrou/assets/images/favicon.png" width="16" /> | Startups For the Rest of Us | The startup podcast with more than 500 episodes to help you launch and grow. 10 million+ downloads. 500+ five-star reviews. | [Website](https://www.startupsfortherestofus.com/) |  |
  <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/6fccc249-743a-4298-a664-d8d863346db9/touch_icon_ipad.png?v=2" width="16" /> | The Art of Product | Ben and Derrick chat weekly about building software companies. | [Website](https://artofproductpodcast.com/) |  |
 

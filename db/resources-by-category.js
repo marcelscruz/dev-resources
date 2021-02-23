@@ -445,11 +445,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://sandbox.amadeus.com/"
+                "Website": "https://developers.amadeus.com/self-service"
             },
-            "name": "Amadeus Travel Innovation Sandbox",
+            "name": "Amadeus for Developers",
             "description": "Travel Search - Limited usage",
-            "auth": "apiKey",
+            "auth": "OAuth",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -613,7 +613,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://docs.aylien.com/"
+                "Website": "https://docs.aylien.com/textapi/#getting-started"
             },
             "name": "Aylien Text Analysis",
             "description": "A collection of information retrieval and natural language APIs",
@@ -1495,7 +1495,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://developer.clarifai.com/"
+                "Website": "https://docs.clarifai.com"
             },
             "name": "Clarifai",
             "description": "Computer Vision",
@@ -1817,7 +1817,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://docs.coinranking.com/"
+                "Website": "https://developers.coinranking.com/api/documentation/"
             },
             "name": "CoinRanking",
             "description": "Live Cryptocurrency data",
@@ -1825,20 +1825,6 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Cryptocurrency"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "http://codataengine.org/"
-            },
-            "name": "Colorado Data Engine",
-            "description": "Formatted and geolocated Colorado public data",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Government"
         },
         {
             "categories": [
@@ -2153,7 +2139,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://www.data.parliament.uk/developers/"
+                "Website": "https://explore.data.parliament.uk/?learnmore=Members"
             },
             "name": "Data.parliament.uk",
             "description": "Contains live datasets including information about petitions, bills, MP votes, attendance and more",
@@ -2923,6 +2909,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://developer.foreca.com"
+            },
+            "name": "Foreca",
+            "description": "Weather",
+            "auth": "OAuth",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Weather"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "http://forismatic.com/en/api/"
             },
             "name": "Forismatic",
@@ -3063,7 +3063,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://api.gbif.org/v1/"
+                "Website": "https://www.gbif.org/developer/summary"
             },
             "name": "GBIF",
             "description": "Global Biodiversity Information Facility",
@@ -3161,7 +3161,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://geocode.xyz/"
+                "Website": "https://geocode.xyz/api"
             },
             "name": "Geocode.xyz",
             "description": "Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing",
@@ -3483,7 +3483,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://api.graphql.jobs"
+                "Website": "https://graphql.jobs/docs/api/"
             },
             "name": "GraphQL Jobs",
             "description": "Jobs with GraphQL",
@@ -3861,7 +3861,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://iexcloud.io/"
+                "Website": "https://iexcloud.io/docs/api/"
             },
             "name": "IEX Cloud",
             "description": "Realtime & Historical Stock and Market Data",
@@ -4043,12 +4043,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/"
+                "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4057,12 +4057,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://ip-api.com/"
+                "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4379,20 +4379,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://jsonprettyprint.org/api"
-            },
-            "name": "JSON Pretty Print",
-            "description": "Pretty Prints JSON data",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://jsonbin.io"
             },
             "name": "JSONbin.io",
@@ -4547,7 +4533,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ll.thespacedevs.com/2.1.0/swagger"
+                "Website": "https://thespacedevs.com/llapi"
             },
             "name": "Launch Library 2",
             "description": "Spaceflight launches and events database",
@@ -5311,6 +5297,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "News"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://developer.nytimes.com/docs/books-product/1/overview"
+            },
+            "name": "New York Times Books",
+            "description": "Book reviews and The New York Times Best Sellers lists",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Books"
         },
         {
             "categories": [
@@ -6787,20 +6787,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://joshwcomeau.github.io/RequestKittensDocs/public/"
-            },
-            "name": "Request Kittens",
-            "description": "Provides a way to return various cat images",
-            "auth": "apiKey",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Animals"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home"
             },
             "name": "RescueGroups",
@@ -7501,20 +7487,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://gateway.temporal.cloud/ipns/docs.api.temporal.cloud"
-            },
-            "name": "Temporal",
-            "description": "IPFS based file storage and sharing with optional IPNS naming",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "no",
-            "apiCategory": "Cloud Storage & File Sharing"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://open-platform.theguardian.com/"
             },
             "name": "The Guardian",
@@ -8047,20 +8019,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://restratpws.azurewebsites.net/swagger/"
-            },
-            "name": "Transport for Paris, France",
-            "description": "Live schedules made simple",
-            "auth": "",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Transportation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://data.ratp.fr/api/v1/console/datasets/1.0/search/"
             },
             "name": "Transport for Paris, France",
@@ -8145,12 +8103,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
             "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
-            "auth": "apiKey",
-            "https": false,
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -8159,12 +8117,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
             },
             "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
+            "description": "NS, only trains",
+            "auth": "apiKey",
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -8299,20 +8257,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.tronalddump.io"
-            },
-            "name": "tronalddump.io",
-            "description": "Api & web archive for the things Donald Trump has said",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Personality"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://www.tumblr.com/docs/en/api/v2"
             },
             "name": "Tumblr",
@@ -8405,20 +8349,6 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://github.com/thm/uinames"
-            },
-            "name": "UI Names",
-            "description": "Generate random fake names",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Test Data"
         },
         {
             "categories": [
@@ -9133,20 +9063,6 @@ module.exports = {
             "https": true,
             "cors": "no",
             "apiCategory": "Games & Comics"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://developer.yahoo.com/weather/"
-            },
-            "name": "Yahoo! Weather",
-            "description": "Weather",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Weather"
         },
         {
             "categories": [
@@ -14379,6 +14295,28 @@ module.exports = {
             "icon": "https://bootstrapped.fm/icon.png"
         },
         {
+            "name": "Bootstrapped Web",
+            "categories": [
+                "Indie Hacking/Podcasts"
+            ],
+            "description": "The podcast for founders bootstrapping their startups online.",
+            "links": {
+                "Website": "http://bootstrappedweb.com/"
+            },
+            "icon": ""
+        },
+        {
+            "name": "Build you SaaS",
+            "categories": [
+                "Indie Hacking/Podcasts"
+            ],
+            "description": "Can you bootstrap a profitable startup in 2021? Thousands of entrepreneurs, developers, designers, and product people have tried to launch their own web apps. But with so many venture-backed startups now, is it still possible? Follow Jon and Justin as they build their podcasting SaaS, Transistor.fm.",
+            "links": {
+                "Website": "https://saas.transistor.fm/"
+            },
+            "icon": "https://images.transistor.fm/file/transistor/images/favicons/site/6/x64_1541522941-favicon.png"
+        },
+        {
             "name": "Indie Hackers",
             "categories": [
                 "Indie Hacking/Platforms",
@@ -14389,6 +14327,28 @@ module.exports = {
                 "Website": "https://www.indiehackers.com/"
             },
             "icon": "https://www.indiehackers.com/images/favicons/favicon--32x32.png"
+        },
+        {
+            "name": "Slow & Steady",
+            "categories": [
+                "Indie Hacking/Podcasts"
+            ],
+            "description": "Join us as we share what it's like to build and launch a bootstrapped startup while working for yourself full-time. Benedikt is working on Userlist with two other co-founders and Brian is running solo on a product to combat loneliness on remote teams.",
+            "links": {
+                "Website": "https://www.slowandsteadypodcast.com/"
+            },
+            "icon": "https://assets.transistor.fm/assets/favicon-6e847568a3fbd949ba82be5cb10951e28b51f7f58d6e573235b0cddf494de2c0.ico"
+        },
+        {
+            "name": "Software Social",
+            "categories": [
+                "Indie Hacking/Podcasts"
+            ],
+            "description": "Two bootstrapped software founders -- one transitioning from freelancing, and one with an established business -- invite you to join their weekly chats about their businesses.",
+            "links": {
+                "Website": "https://softwaresocial.dev/"
+            },
+            "icon": "https://assets.transistor.fm/assets/favicon-6e847568a3fbd949ba82be5cb10951e28b51f7f58d6e573235b0cddf494de2c0.ico"
         },
         {
             "name": "Startups For the Rest of Us",
