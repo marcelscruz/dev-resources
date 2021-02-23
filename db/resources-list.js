@@ -695,6 +695,17 @@ module.exports = [
         "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
     },
     {
+        "name": "Awesome Courses",
+        "categories": [
+            "Programming/Learn"
+        ],
+        "description": "List of awesome university courses for learning Computer Science.",
+        "links": {
+            "GitHub": "https://github.com/prakhar1989/awesome-courses"
+        },
+        "icon": "https://github.githubassets.com/apple-touch-icon-114x114.png"
+    },
+    {
         "name": "AWS",
         "categories": [
             "Infrastructure/Hosting"
@@ -1743,7 +1754,7 @@ module.exports = [
     {
         "name": "Cassandra",
         "categories": [
-            "Programming/Databases"
+            "Infrastructure/Databases"
         ],
         "description": "Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters.",
         "links": {
@@ -2433,6 +2444,17 @@ module.exports = [
         "icon": "https://www.codechef.com/misc/favicon.ico"
     },
     {
+        "name": "Codeconia",
+        "categories": [
+            "Reading & Writing/Platforms"
+        ],
+        "description": "Learn programming with Codeconia.",
+        "links": {
+            "Website": "https://codeconia.com/"
+        },
+        "icon": "https://codeconia.com/wp-content/uploads/2020/11/cropped-favicon-32x32.png"
+    },
+    {
         "name": "CodeKit",
         "categories": [
             "Tools & Utilities/General"
@@ -3078,6 +3100,17 @@ module.exports = [
         "icon": "https://compressor.io/favicon.ico"
     },
     {
+        "name": "Computer Science courses with video lectures",
+        "categories": [
+            "Programming/Learn"
+        ],
+        "description": "List of Computer Science courses with video lectures.",
+        "links": {
+            "GitHub": "https://github.com/Developer-Y/cs-video-courses"
+        },
+        "icon": "https://github.githubassets.com/apple-touch-icon-114x114.png"
+    },
+    {
         "name": "Contrast Ratio",
         "categories": [
             "Tools & Utilities/Accessibility"
@@ -3180,7 +3213,7 @@ module.exports = [
     {
         "name": "CouchDB",
         "categories": [
-            "Programming/Databases"
+            "Infrastructure/Databases"
         ],
         "description": "CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice.",
         "links": {
@@ -3232,10 +3265,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/M-Media-Group/Covid-19-API"
+            "Website": "https://covid19api.com/"
         },
         "name": "Covid-19",
-        "description": "Covid 19 cases, deaths and recovery per country",
+        "description": "Covid 19 spread, infection and recovery",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -3246,10 +3279,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://covid19api.com/"
+            "Website": "https://github.com/M-Media-Group/Covid-19-API"
         },
         "name": "Covid-19",
-        "description": "Covid 19 spread, infection and recovery",
+        "description": "Covid 19 cases, deaths and recovery per country",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -3478,6 +3511,17 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "News"
+    },
+    {
+        "name": "Customer.io",
+        "categories": [
+            "Indie Hacking/Utilities"
+        ],
+        "description": "With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions.",
+        "links": {
+            "Website": "https://customer.io/"
+        },
+        "icon": "https://customer.io/wp-content/uploads/2019/01/customer-io-touchicon-180.png"
     },
     {
         "name": "Cypress",
@@ -3753,6 +3797,17 @@ module.exports = [
         "apiCategory": "Music"
     },
     {
+        "name": "Default Alive",
+        "categories": [
+            "Indie Hacking/Podcasts"
+        ],
+        "description": "Two founders share an unedited look at what it's like to bootstrap a startup through weekly updates. Chris Spags is the founder of Jetboost, a suite of no-code plugins for Webflow. Corey Haines is the founder of Swipe Files, a membership site for marketers built with no-code tools. They chronicle their journeys getting to and staying \"default alive\": profitable, self-sustaining, with infinite runway. – Listen to Default Alive instantly on your tablet, phone or browser - no downloads needed.",
+        "links": {
+            "Website": "https://podtail.com/en/podcast/default-alive/"
+        },
+        "icon": "https://podtail.com/favicon.ico"
+    },
+    {
         "name": "Delesign",
         "categories": [
             "Assets/Illustrations"
@@ -3776,6 +3831,17 @@ module.exports = [
             "YouTube": "https://www.youtube.com/user/DesignCourse"
         },
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
+    },
+    {
+        "name": "DesignJoy",
+        "categories": [
+            "UI Design/Utilities"
+        ],
+        "description": "The #1 unlimited product design subscription service for agencies, startups, and entrepreneurs.",
+        "links": {
+            "Website": "https://www.designjoy.co/"
+        },
+        "icon": "https://uploads-ssl.webflow.com/5837424ae11409586f837994/5e2fb217d4837e75854462c9_Small.png"
     },
     {
         "categories": [
@@ -4151,17 +4217,6 @@ module.exports = [
         "icon": "https://www.dreamhost.com/assets/favicons/apple-touch-icon-76x76-18c4bd5a860942003494cecf3aa217b02285f57f5525c0e4985dcb77f0125d91.png"
     },
     {
-        "name": "Dribbble",
-        "categories": [
-            "UI Design/Inspiration"
-        ],
-        "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
-        "links": {
-            "Website": "https://dribbble.com/"
-        },
-        "icon": "https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -4174,6 +4229,17 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Dribbble",
+        "categories": [
+            "UI Design/Inspiration"
+        ],
+        "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
+        "links": {
+            "Website": "https://dribbble.com/"
+        },
+        "icon": "https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png"
     },
     {
         "categories": [
@@ -4231,7 +4297,7 @@ module.exports = [
     {
         "name": "DynamoDB",
         "categories": [
-            "Programming/Databases"
+            "Infrastructure/Databases"
         ],
         "description": "Amazon DynamoDB is a nonrelational database. This database system provides consistent latency and offers built-in security and in-memory caching. DynamoDB is a serverless database which scales automatically and backs up your data for protection.",
         "links": {
@@ -4830,7 +4896,8 @@ module.exports = [
         "name": "Firebase",
         "categories": [
             "Infrastructure/Hosting",
-            "Programming/Databases"
+            "Infrastructure/Databases",
+            "Infrastructure/Serverless"
         ],
         "description": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
         "links": {
@@ -4874,7 +4941,7 @@ module.exports = [
     {
         "name": "Firestore",
         "categories": [
-            "Programming/Databases"
+            "Infrastructure/Databases"
         ],
         "description": "Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps through realtime listeners and offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity. Cloud Firestore also offers seamless integration with other Firebase and Google Cloud products, including Cloud Functions.",
         "links": {
@@ -6953,20 +7020,6 @@ module.exports = [
         "icon": "https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico"
     },
     {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "http://docs.icons8.apiary.io/#reference/0/meta"
-        },
-        "name": "Icons8",
-        "description": "Icons",
-        "auth": "OAuth",
-        "https": true,
-        "cors": "unknown",
-        "apiCategory": "Art & Design"
-    },
-    {
         "name": "Icons8",
         "categories": [
             "Assets/Icons",
@@ -6979,6 +7032,20 @@ module.exports = [
             "Website": "https://icons8.com"
         },
         "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "http://docs.icons8.apiary.io/#reference/0/meta"
+        },
+        "name": "Icons8",
+        "description": "Icons",
+        "auth": "OAuth",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Art & Design"
     },
     {
         "name": "Iconscout",
@@ -7379,12 +7446,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://ip-api.com/docs"
+            "Website": "https://ipapi.co/api/#introduction"
         },
         "name": "IP Location",
-        "description": "Find location with ip address",
+        "description": "Find IP address location information",
         "auth": "",
-        "https": false,
+        "https": true,
         "cors": "unknown",
         "apiCategory": "Geocoding"
     },
@@ -7393,12 +7460,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://ipapi.co/api/#introduction"
+            "Website": "https://ip-api.com/docs"
         },
         "name": "IP Location",
-        "description": "Find IP address location information",
+        "description": "Find location with ip address",
         "auth": "",
-        "https": true,
+        "https": false,
         "cors": "unknown",
         "apiCategory": "Geocoding"
     },
@@ -8118,6 +8185,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Music"
+    },
+    {
+        "name": "Kometa UI Kit",
+        "categories": [
+            "Programming/UI Kits & Libraries"
+        ],
+        "description": "A marketplace of fully responsive, multi-purpose UI kits, built with Tailwind CSS, for start-ups and products of any kind.",
+        "links": {
+            "Website": "https://kitwind.io/products/kometa"
+        },
+        "icon": "https://kitwind.io/icons/icon-96x96.png"
     },
     {
         "name": "Ladybug",
@@ -8847,17 +8925,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Programming/UI Kits & Libraries"
-        ],
-        "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
-        "links": {
-            "Website": "https://material.io/"
-        },
-        "icon": "https://material.io/static/assets/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Assets/Icons"
         ],
         "description": "Get Material Icons.",
@@ -8865,6 +8932,17 @@ module.exports = [
             "Website": "https://material.io/resources/icons"
         },
         "icon": "https://material.io/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Programming/UI Kits & Libraries"
+        ],
+        "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
+        "links": {
+            "Website": "https://material.io/"
+        },
+        "icon": "https://material.io/static/assets/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -8936,17 +9014,6 @@ module.exports = [
         "apiCategory": "Health"
     },
     {
-        "name": "Medium",
-        "categories": [
-            "Reading & Writing/Platforms"
-        ],
-        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
-        "links": {
-            "Website": "http://medium.com/"
-        },
-        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -8959,6 +9026,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Personality"
+    },
+    {
+        "name": "Medium",
+        "categories": [
+            "Reading & Writing/Platforms"
+        ],
+        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
+        "links": {
+            "Website": "http://medium.com/"
+        },
+        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
     },
     {
         "categories": [
@@ -9128,7 +9206,7 @@ module.exports = [
     {
         "name": "Microsoft SQL Server",
         "categories": [
-            "Programming/Databases"
+            "Infrastructure/Databases"
         ],
         "description": "Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge.",
         "links": {
@@ -9254,7 +9332,7 @@ module.exports = [
     {
         "name": "MongoDB",
         "categories": [
-            "Programming/Databases"
+            "Infrastructure/Databases"
         ],
         "description": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.",
         "links": {
@@ -9368,7 +9446,7 @@ module.exports = [
     {
         "name": "MySQL",
         "categories": [
-            "Programming/Databases"
+            "Infrastructure/Databases"
         ],
         "description": "MySQL Database Service is a fully managed database service to deploy cloud-native applications.",
         "links": {
@@ -10558,6 +10636,20 @@ module.exports = [
         "icon": "https://www.peopleperhour.com/img/pph-mobile-banner.png"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.pexels.com/api/"
+        },
+        "name": "Pexels",
+        "description": "Free Stock Photos and Videos",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Photography"
+    },
+    {
         "name": "Pexels",
         "categories": [
             "Assets/Videos",
@@ -10576,20 +10668,6 @@ module.exports = [
             "Website": "https://www.pexels.com/"
         },
         "icon": "https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://www.pexels.com/api/"
-        },
-        "name": "Pexels",
-        "description": "Free Stock Photos and Videos",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Photography"
     },
     {
         "name": "PhpStorm",
@@ -10656,6 +10734,19 @@ module.exports = [
         "apiCategory": "Test Data"
     },
     {
+        "name": "Pixabay",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Illustrations"
+        ],
+        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
+        "links": {
+            "Website": "https://pixabay.com/"
+        },
+        "icon": "https://pixabay.com/favicon-32x32.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -10668,19 +10759,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Photography"
-    },
-    {
-        "name": "Pixabay",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Illustrations"
-        ],
-        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
-        "links": {
-            "Website": "https://pixabay.com/"
-        },
-        "icon": "https://pixabay.com/favicon-32x32.png"
     },
     {
         "name": "Pixel Love",
@@ -10915,24 +10993,13 @@ module.exports = [
     {
         "name": "PostgreSQL",
         "categories": [
-            "Programming/Databases"
+            "Infrastructure/Databases"
         ],
         "description": "PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.",
         "links": {
             "Website": "https://www.postgresql.org/"
         },
         "icon": "https://www.postgresql.org/favicon.ico"
-    },
-    {
-        "name": "Postman",
-        "categories": [
-            "Programming/API Building"
-        ],
-        "description": "Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.",
-        "links": {
-            "Website": "https://www.postman.com/"
-        },
-        "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
     },
     {
         "categories": [
@@ -10947,6 +11014,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Development"
+    },
+    {
+        "name": "Postman",
+        "categories": [
+            "Programming/API Building"
+        ],
+        "description": "Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.",
+        "links": {
+            "Website": "https://www.postman.com/"
+        },
+        "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
     },
     {
         "categories": [
@@ -11460,6 +11538,17 @@ module.exports = [
         "apiCategory": "Currency Exchange"
     },
     {
+        "name": "Ray.so",
+        "categories": [
+            "Programming/Code Snippets"
+        ],
+        "description": "Create beautiful code.",
+        "links": {
+            "Website": "https://ray.so/"
+        },
+        "icon": "https://ray.so/img/icons/favicon-32x32.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -11609,6 +11698,17 @@ module.exports = [
         "apiCategory": "Open Data"
     },
     {
+        "name": "reddit",
+        "categories": [
+            "Reading & Writing/Platforms"
+        ],
+        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
+        "links": {
+            "Website": "https://www.reddit.com/"
+        },
+        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -11621,17 +11721,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Social"
-    },
-    {
-        "name": "reddit",
-        "categories": [
-            "Reading & Writing/Platforms"
-        ],
-        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
-        "links": {
-            "Website": "https://www.reddit.com/"
-        },
-        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
     },
     {
         "categories": [
@@ -12281,6 +12370,18 @@ module.exports = [
         "apiCategory": "Machine Learning"
     },
     {
+        "name": "Serverless Stack",
+        "categories": [
+            "Programming/API Building",
+            "Infrastructure/Serverless"
+        ],
+        "description": "Serverless Stack (SST) is a framework that makes it easy to build serverless applications.",
+        "links": {
+            "Website": "https://serverless-stack.com/"
+        },
+        "icon": "https://serverless-stack.com/assets/favicon-32x32.png"
+    },
+    {
         "name": "Shape",
         "categories": [
             "Assets/Icons"
@@ -12675,6 +12776,17 @@ module.exports = [
         "icon": "https://uploads-ssl.webflow.com/5e08877ced2a2771907388a9/5e2d9bc8d2e0671a88b1658b_smplkit-icon-3.png"
     },
     {
+        "name": "Snipit",
+        "categories": [
+            "Programming/Code Snippets"
+        ],
+        "description": "Save and organize your code snippets in the cloud. Share and collaborate with your team members.",
+        "links": {
+            "Website": "https://snipit.io/"
+        },
+        "icon": "https://cdn.snipit.io/favicon.png"
+    },
+    {
         "name": "Soft Skills Engineering",
         "categories": [
             "Programming/Podcasts"
@@ -12765,6 +12877,17 @@ module.exports = [
         "apiCategory": "Music"
     },
     {
+        "name": "Soundstripe",
+        "categories": [
+            "Assets/Audio"
+        ],
+        "description": "Every creator's one-stop shop for the best royalty free music, SFX, and stock video. Purchase a license for one file, or subscribe for unlimited access.",
+        "links": {
+            "Website": "https://www.soundstripe.com/"
+        },
+        "icon": "https://www.soundstripe.com/hubfs/favicon-1.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -12809,7 +12932,7 @@ module.exports = [
     {
         "name": "SQLite",
         "categories": [
-            "Programming/Databases"
+            "Infrastructure/Databases"
         ],
         "description": "SQLite is an open-source, embedded, relational database management system, designed circa 2000. It is a database, with zero configuration, no requirements of a server or installation. Despite its simplicity, it is laden with popular features of database management systems.",
         "links": {
@@ -13039,6 +13162,18 @@ module.exports = [
         "apiCategory": "Science & Math"
     },
     {
+        "name": "Supabase",
+        "categories": [
+            "Infrastructure/Serverless",
+            "Infrastructure/Databases"
+        ],
+        "description": "Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.",
+        "links": {
+            "Website": "https://supabase.io/"
+        },
+        "icon": "https://supabase.io/new/favicon/favicon-32x32.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -13109,6 +13244,18 @@ module.exports = [
             "Website": "https://svgbox.net/"
         },
         "icon": "https://svgbox.net/assets/favicon.svg"
+    },
+    {
+        "name": "SVGX",
+        "categories": [
+            "UI Design/Utilities",
+            "Tools & Utilities/Image & Video Editing"
+        ],
+        "description": "SVGX is the desktop SVG asset manager designers and developers wished they had.",
+        "links": {
+            "Website": "https://svgx.app/"
+        },
+        "icon": "https://svgx.app/assets/favicons/favicon-96x96.png"
     },
     {
         "name": "Swagger",
@@ -13206,6 +13353,28 @@ module.exports = [
             "Website": "https://tailwindcss.com/"
         },
         "icon": "https://tailwindcss.com/favicon-32x32.png"
+    },
+    {
+        "name": "Tailwind Toolbox",
+        "categories": [
+            "Programming/Templates"
+        ],
+        "description": "Open source starter templates and components, a directory of handy building kits, generators, plugins and useful tools to kick start your Tailwind CSS project.",
+        "links": {
+            "Website": "https://tailwindtoolbox.com/"
+        },
+        "icon": "https://tailwindtoolbox.com/favicon-32x32.png"
+    },
+    {
+        "name": "TailwindComponents",
+        "categories": [
+            "Programming/UI Kits & Libraries"
+        ],
+        "description": "Tailwind CSS examples from components by the community. Tailwind chart, grids, inputs, forms, templates and much more.",
+        "links": {
+            "Website": "https://tailwindcomponents.com/"
+        },
+        "icon": "https://tailwindcomponents.com/favicon-32x32.png"
     },
     {
         "categories": [
@@ -13440,6 +13609,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "News"
+    },
+    {
+        "name": "The Hammerstone Podcast",
+        "categories": [
+            "Indie Hacking/Podcasts"
+        ],
+        "description": "Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm!",
+        "links": {
+            "Website": "https://hammerstone.dev/podcast"
+        },
+        "icon": ""
     },
     {
         "categories": [
@@ -14127,11 +14307,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://transport.opendata.ch/"
+            "Website": "https://opentransportdata.swiss/en/"
         },
         "name": "Transport for Switzerland",
-        "description": "Swiss public transport API",
-        "auth": "",
+        "description": "Official Swiss Public Transport Open Data",
+        "auth": "apiKey",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
@@ -14141,11 +14321,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://opentransportdata.swiss/en/"
+            "Website": "https://transport.opendata.ch/"
         },
         "name": "Transport for Switzerland",
-        "description": "Official Swiss Public Transport Open Data",
-        "auth": "apiKey",
+        "description": "Swiss public transport API",
+        "auth": "",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
@@ -14493,6 +14673,17 @@ module.exports = [
             "Website": "https://uidesigndaily.com/"
         },
         "icon": "https://uidesigndaily.com/public/img/favicon-32x32.png"
+    },
+    {
+        "name": "UI Design for Developers",
+        "categories": [
+            "UI Design/Learn"
+        ],
+        "description": "Learn just enough visual design to be dangerous as a developer.",
+        "links": {
+            "Website": "https://designcode.io/ui-design-for-developers"
+        },
+        "icon": "https://designcode.io/icons/icon-96x96.png"
     },
     {
         "name": "UI Garage",
@@ -14896,6 +15087,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Health"
+    },
+    {
+        "name": "Useful Colours",
+        "categories": [
+            "UI Design/Color Palettes"
+        ],
+        "description": "Super quick, eye-pleasing colours for your UI design.",
+        "links": {
+            "Website": "https://usefulcolours.com/"
+        },
+        "icon": "https://usefulcolours.com/favicon.png"
     },
     {
         "name": "useHooks",
@@ -15790,7 +15992,7 @@ module.exports = [
     {
         "name": "XServer",
         "categories": [
-            "Programming/Databases"
+            "Infrastructure/Databases"
         ],
         "description": "XServer - JSON-based backend for Mobile apps, Websites and Unity games.",
         "keywords": [

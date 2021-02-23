@@ -1929,10 +1929,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -1943,10 +1943,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -4043,12 +4043,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
+                "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4057,12 +4057,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
+                "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -8075,11 +8075,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -8089,11 +8089,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -9567,6 +9567,28 @@ module.exports = {
             "icon": "http://www.devsamples.com/favicon.ico"
         },
         {
+            "name": "Ray.so",
+            "categories": [
+                "Programming/Code Snippets"
+            ],
+            "description": "Create beautiful code.",
+            "links": {
+                "Website": "https://ray.so/"
+            },
+            "icon": "https://ray.so/img/icons/favicon-32x32.png"
+        },
+        {
+            "name": "Snipit",
+            "categories": [
+                "Programming/Code Snippets"
+            ],
+            "description": "Save and organize your code snippets in the cloud. Share and collaborate with your team members.",
+            "links": {
+                "Website": "https://snipit.io/"
+            },
+            "icon": "https://cdn.snipit.io/favicon.png"
+        },
+        {
             "name": "Start Bootstrap",
             "categories": [
                 "Programming/Templates",
@@ -10050,6 +10072,17 @@ module.exports = {
                 "Website": "https://www.palettelist.com/"
             },
             "icon": "https://www.palettelist.com/favicon.ico"
+        },
+        {
+            "name": "Useful Colours",
+            "categories": [
+                "UI Design/Color Palettes"
+            ],
+            "description": "Super quick, eye-pleasing colours for your UI design.",
+            "links": {
+                "Website": "https://usefulcolours.com/"
+            },
+            "icon": "https://usefulcolours.com/favicon.png"
         }
     ],
     "ui-design-prototyping": [
@@ -10504,6 +10537,17 @@ module.exports = {
             "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
         },
         {
+            "name": "Customer.io",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions.",
+            "links": {
+                "Website": "https://customer.io/"
+            },
+            "icon": "https://customer.io/wp-content/uploads/2019/01/customer-io-touchicon-180.png"
+        },
+        {
             "name": "Hive Index",
             "categories": [
                 "Indie Hacking/Utilities"
@@ -10800,6 +10844,18 @@ module.exports = {
                 "Website": "https://www.postman.com/"
             },
             "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
+        },
+        {
+            "name": "Serverless Stack",
+            "categories": [
+                "Programming/API Building",
+                "Infrastructure/Serverless"
+            ],
+            "description": "Serverless Stack (SST) is a framework that makes it easy to build serverless applications.",
+            "links": {
+                "Website": "https://serverless-stack.com/"
+            },
+            "icon": "https://serverless-stack.com/assets/favicon-32x32.png"
         },
         {
             "name": "Swagger",
@@ -11147,6 +11203,527 @@ module.exports = {
             "icon": "https://www.jetbrains.com/favicon-32x32.png"
         }
     ],
+    "programming-learn": [
+        {
+            "name": "Awesome Courses",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "List of awesome university courses for learning Computer Science.",
+            "links": {
+                "GitHub": "https://github.com/prakhar1989/awesome-courses"
+            },
+            "icon": "https://github.githubassets.com/apple-touch-icon-114x114.png"
+        },
+        {
+            "name": "BigsonDev",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "HTML, CSS, JS, React - blog articles, knowledge pills, projects with high-quality designs. Get out of tutorials hell and learn Frontend the right way.",
+            "links": {
+                "Website": "https://bigsondev.com/"
+            },
+            "icon": "https://bigsondev.com/icons/icon-96x96.png",
+            "keywords": [
+                "Frontend Mentor",
+                "React Expert",
+                "React",
+                "Frontend Developer",
+                "Frontend projects",
+                "Frontend blog",
+                "Software Engineer",
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "name": "Codecademy",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more.",
+            "links": {
+                "Website": "https://www.codecademy.com/"
+            },
+            "icon": "https://www.codecademy.com/favicon.ico"
+        },
+        {
+            "name": "Codepip",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn to code by playing games.",
+            "links": {
+                "Website": "https://codepip.com"
+            },
+            "icon": "https://codepip.com/favicon.ico"
+        },
+        {
+            "name": "Computer Science courses with video lectures",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "List of Computer Science courses with video lectures.",
+            "links": {
+                "GitHub": "https://github.com/Developer-Y/cs-video-courses"
+            },
+            "icon": "https://github.githubassets.com/apple-touch-icon-114x114.png"
+        },
+        {
+            "name": "Coursera",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Join Coursera for free and learn online. Build skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM. Advance your career with degrees, certificates, Specializations, &amp; MOOCs in data science, computer science, business, and dozens of other topics.",
+            "links": {
+                "Website": "https://www.coursera.org/"
+            },
+            "icon": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/v2/favicon-v2-96x96.png"
+        },
+        {
+            "name": "CSS Diner",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "A fun game to help you learn and practice CSS selectors.",
+            "links": {
+                "Website": "https://flukeout.github.io/"
+            },
+            "icon": "https://flukeout.github.io/favicon.png"
+        },
+        {
+            "name": "CSS-Tricks",
+            "categories": [
+                "Programming/Learn",
+                "Programming/Newsletters",
+                "Programming/Code Snippets"
+            ],
+            "description": "CSS-Tricks is a website about websites.",
+            "links": {
+                "Website": "https://css-tricks.com"
+            },
+            "icon": "https://css-tricks.com/apple-touch-icon.png"
+        },
+        {
+            "name": "CSSBattle",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "CSS Code Golfing is Here!",
+            "links": {
+                "Website": "https://cssbattle.dev/"
+            },
+            "icon": "https://cssbattle.dev/images/logo-square.png"
+        },
+        {
+            "name": "EASEOUT",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Coding tutorials about CSS, HTML, JavaScript, and articles about design creativity & modern web development technology.",
+            "links": {
+                "Website": "https://www.easeout.co/"
+            },
+            "icon": "https://www.easeout.co/favicon.ico"
+        },
+        {
+            "name": "Epic React",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Strap in and take your React applications to the next level.",
+            "links": {
+                "Website": "https://epicreact.dev/"
+            },
+            "icon": "https://epicreact.dev/icons/icon-96x96.png?v=4fc004c2d47bff97350bf9ba653e0bdd"
+        },
+        {
+            "name": "Flexbox Defense",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!",
+            "links": {
+                "Website": "http://www.flexboxdefense.com/"
+            },
+            "icon": "http://www.flexboxdefense.com/images/favicon.ico"
+        },
+        {
+            "name": "Flexbox Froggy",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "A game for learning CSS flexbox.",
+            "links": {
+                "Website": "http://flexboxfroggy.com/"
+            },
+            "icon": "http://flexboxfroggy.com/favicon.ico"
+        },
+        {
+            "name": "freeCodeCamp",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn to code at home. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including Google, Apple, Amazon, and Microsoft.",
+            "keywords": [
+                "javascript",
+                "js",
+                "website",
+                "web",
+                "development",
+                "free",
+                "code",
+                "camp",
+                "course",
+                "courses",
+                "html",
+                "css",
+                "react",
+                "redux",
+                "api",
+                "front",
+                "back",
+                "end",
+                "learn",
+                "tutorial",
+                "programming"
+            ],
+            "links": {
+                "Website": "https://www.freecodecamp.org/"
+            },
+            "icon": "https://www.freecodecamp.org/icons/icon-96x96.png?v=6cba562cbd10e31af925a976f3db73f7"
+        },
+        {
+            "name": "Frontend Masters",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Advance your skills with in-depth, modern JavaScript and front-end engineering courses.",
+            "links": {
+                "Website": "https://frontendmasters.com/"
+            },
+            "icon": "https://frontendmasters.com/favicon-32x32.png"
+        },
+        {
+            "name": "Frontend Mentor",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.",
+            "links": {
+                "Website": "https://www.frontendmentor.io/"
+            },
+            "icon": "https://www.frontendmentor.io/static/favicon/favicon-32x32.png"
+        },
+        {
+            "name": "Hackr.io",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Google search shows you hundreds of Programming courses/tutorials, but Hackr.io tells you which is the best one. Find the best online courses &amp; tutorials recommended by the Programming community. Pick the most upvoted tutorials as per your learning style: video-based, book, free, paid, for beginners, advanced, etc.",
+            "links": {
+                "Website": "https://hackr.io/"
+            },
+            "icon": "https://hackr.io/assets/images/programming-images/programming-favicon-32x32.png"
+        },
+        {
+            "name": "JavaScript Info",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.",
+            "links": {
+                "Website": "https://javascript.info/"
+            },
+            "icon": "https://javascript.info/img/favicon/apple-touch-icon-precomposed.png"
+        },
+        {
+            "name": "JavaScript30",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Build 30 things with vanilla JS in 30 days with 30 tutorials.",
+            "links": {
+                "Website": "https://javascript30.com/"
+            },
+            "icon": "https://javascript30.com/images/favion-JS3.png"
+        },
+        {
+            "name": "Khan Academy",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere.",
+            "links": {
+                "Website": "https://www.khanacademy.org/"
+            },
+            "icon": "https://cdn.kastatic.org/images/apple-touch-icon-72x72-precomposed.new.png"
+        },
+        {
+            "name": "Learn JavaScript",
+            "description": "Learn JavaScript in an interactive environment. Read short lessons, take notes, and complete challenges directly in your browser.",
+            "categories": [
+                "Programming/Learn",
+                "Programming/Code Challenges"
+            ],
+            "links": {
+                "Website": "https://learnjavascript.online"
+            },
+            "icon": "https://learnjavascript.online/assets/favicons/favicon-32x32.png",
+            "keywords": [
+                "learn javascript",
+                "learn javascript online",
+                "interactive course"
+            ]
+        },
+        {
+            "name": "Learn X in Y minutes",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Take a whirlwind tour of your next favorite language. Community-driven!",
+            "links": {
+                "Website": "https://learnxinyminutes.com/"
+            },
+            "icon": "https://learnxinyminutes.com/favicon.ico"
+        },
+        {
+            "name": "LinkedIn Learning",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn business, creative, and technology skills to achieve your personal and professional goals. Join LinkedIn Learning today to get access to thousands of courses.",
+            "links": {
+                "Website": "https://www.linkedin.com/learning"
+            },
+            "icon": "https://static-exp1.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico"
+        },
+        {
+            "name": "Mastery Games",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn frontend development through play, repetition, and sleep. Each game builds up your skills from the ground up using the educational process of scaffolding. You learn one new concept at a time, and leverage spaced repetition to solidify each concept.",
+            "links": {
+                "Website": "https://mastery.games/"
+            },
+            "icon": "https://mastery.games/favicon.ico?v=2.3"
+        },
+        {
+            "name": "Pluralsight",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Build your IT toolkit with the skills you need to excel in your job, including security best practices, server infrastructure and virtualization. Explore our IT courses now.",
+            "links": {
+                "Website": "https://www.pluralsight.com/"
+            },
+            "icon": "https://www.pluralsight.com/etc/clientlibs/pluralsight/main/images/favicons/favicon-96x96.png"
+        },
+        {
+            "name": "Programiz",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references.",
+            "links": {
+                "Website": "https://www.programiz.com/"
+            },
+            "icon": "https://www.programiz.com/sites/all/themes/programiz/assets/favicon.png"
+        },
+        {
+            "name": "ProjectLearn",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "A project-based learning approach in web development, mobile development, game development, machine learning and artificial intelligence. Learn code the right way!",
+            "keywords": [
+                "project",
+                "tutorial",
+                "learn code by doing",
+                "project based learning",
+                "learn code free",
+                "web development",
+                "app development",
+                "game development",
+                "machine learning",
+                "artificial intelligence"
+            ],
+            "links": {
+                "Website": "https://projectlearn.io/"
+            },
+            "icon": "https://projectlearn.io/projectlearn.png"
+        },
+        {
+            "name": "React Tutorial",
+            "description": "Learn React in an interactive environment. Understand how React works not just how to build with React.",
+            "categories": [
+                "Programming/Learn",
+                "Programming/Code Challenges"
+            ],
+            "links": {
+                "Website": "https://react-tutorial.app"
+            },
+            "icon": "https://react-tutorial.app/assets/favicons/favicon-32x32.png",
+            "keywords": [
+                "react tutorial",
+                "interactive react course"
+            ]
+        },
+        {
+            "name": "Scrimba",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Scrimba is a fun and fast way of learning to code! Our interactive courses and tutorials will teach you React, Vue, Angular, JavaScript, HTML, CSS, and more.",
+            "links": {
+                "Website": "https://scrimba.com/"
+            },
+            "icon": "https://scrimba.com/favicon.ico"
+        },
+        {
+            "name": "SoloLearn",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Join Now to learn the basics or advance your existing skills.",
+            "keywords": [
+                "SoloLearn",
+                "Coding",
+                "Code",
+                "Learn how to code",
+                "Learn to code",
+                "Learn coding",
+                "C++",
+                "Java",
+                "Python",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "C#"
+            ],
+            "links": {
+                "Website": "https://www.sololearn.com/"
+            },
+            "icon": "https://www.sololearn.com/Images/favicon-192x192.png"
+        },
+        {
+            "name": "Test Automation University",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Become a test automation superstar! 🌟.",
+            "links": {
+                "Website": "https://testautomationu.applitools.com/"
+            },
+            "icon": "https://testautomationu.applitools.com/TAU-Green.png"
+        },
+        {
+            "name": "Testing JavaScript",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "This course will teach you the fundamentals of testing your JavaScript applications using ESlint, TypeScript, Jest, and Cypress.",
+            "links": {
+                "Website": "https://testingjavascript.com/"
+            },
+            "icon": "https://testingjavascript.com/icons/icon-96x96.png?v=7f31b6d20f32956d41d48e0891d645c4"
+        },
+        {
+            "name": "The Net Ninja",
+            "categories": [
+                "Programming/YouTube Channels",
+                "Programming/Learn"
+            ],
+            "links": {
+                "Website": "https://www.thenetninja.co.uk/",
+                "YouTube": "https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg"
+            },
+            "description": "Black-belt your web skills. Learn JavaScript, CSS, Node.js, React, Vue.js, Firebase, HTML & more.",
+            "keywords": [
+                "html css javascript tutorials \"web design\" \"web development\" development \"front-end development\" wordpress mvc \"responsive design\" \"beginner html\" \"beginner ..."
+            ],
+            "icon": "https://www.thenetninja.co.uk/favicon.ico"
+        },
+        {
+            "name": "Treehouse",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "High-quality, affordable video courses for coding and design. Build a website, learn a new coding language, and more.",
+            "links": {
+                "Website": "https://teamtreehouse.com/"
+            },
+            "icon": "https://static.teamtreehouse.com/assets/apple-touch-icon-76x76-precomposed-7283cd247847d1f21be0e79c52e3524c89adabf69cfc331046319f4ab19be058.png"
+        },
+        {
+            "name": "Udemy",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Udemy is an online learning and teaching marketplace with over 130,000 courses and 35 million students. Learn programming, marketing, data science and more.",
+            "links": {
+                "Website": "https://www.udemy.com/"
+            },
+            "icon": "https://www.udemy.com/staticx/udemy/images/v6/favicon-96x96.png"
+        },
+        {
+            "name": "ui.dev",
+            "categories": [
+                "Programming/Newsletters",
+                "Programming/Learn"
+            ],
+            "description": "Comprehensive learning resources for mastering the JavaScript ecosystem.",
+            "links": {
+                "Website": "https://ui.dev/"
+            },
+            "icon": "https://ui.dev/icons/icon-96x96.png?v=bafaaa088cd219915cf56ed1d1dff86a"
+        },
+        {
+            "name": "W3Schools",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "W3Schools is a training website for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, C# and Java.",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "DOM",
+                "jQuery",
+                "PHP",
+                "SQL",
+                "XML",
+                "Python",
+                "Java",
+                "Bootstrap",
+                "Web",
+                "W3CSS",
+                "W3C",
+                "tutorials",
+                "programming",
+                "development",
+                "training",
+                "learning",
+                "quiz",
+                "primer",
+                "lessons",
+                "reference",
+                "examples",
+                "source code",
+                "colors",
+                "demos",
+                "tips",
+                "w3c"
+            ],
+            "links": {
+                "Website": "https://www.w3schools.com/"
+            },
+            "icon": "https://www.w3schools.com/favicon.ico"
+        }
+    ],
     "infrastructure-hosting": [
         {
             "name": "AWS",
@@ -11180,7 +11757,8 @@ module.exports = {
             "name": "Firebase",
             "categories": [
                 "Infrastructure/Hosting",
-                "Programming/Databases"
+                "Infrastructure/Databases",
+                "Infrastructure/Serverless"
             ],
             "description": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
             "links": {
@@ -12322,505 +12900,6 @@ module.exports = {
             "icon": "https://www.uplabs.com/logos/uplabs/icons/favicon-96x96.png"
         }
     ],
-    "programming-learn": [
-        {
-            "name": "BigsonDev",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "HTML, CSS, JS, React - blog articles, knowledge pills, projects with high-quality designs. Get out of tutorials hell and learn Frontend the right way.",
-            "links": {
-                "Website": "https://bigsondev.com/"
-            },
-            "icon": "https://bigsondev.com/icons/icon-96x96.png",
-            "keywords": [
-                "Frontend Mentor",
-                "React Expert",
-                "React",
-                "Frontend Developer",
-                "Frontend projects",
-                "Frontend blog",
-                "Software Engineer",
-                "JavaScript",
-                "HTML",
-                "CSS"
-            ]
-        },
-        {
-            "name": "Codecademy",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more.",
-            "links": {
-                "Website": "https://www.codecademy.com/"
-            },
-            "icon": "https://www.codecademy.com/favicon.ico"
-        },
-        {
-            "name": "Codepip",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Learn to code by playing games.",
-            "links": {
-                "Website": "https://codepip.com"
-            },
-            "icon": "https://codepip.com/favicon.ico"
-        },
-        {
-            "name": "Coursera",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Join Coursera for free and learn online. Build skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM. Advance your career with degrees, certificates, Specializations, &amp; MOOCs in data science, computer science, business, and dozens of other topics.",
-            "links": {
-                "Website": "https://www.coursera.org/"
-            },
-            "icon": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/v2/favicon-v2-96x96.png"
-        },
-        {
-            "name": "CSS Diner",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "A fun game to help you learn and practice CSS selectors.",
-            "links": {
-                "Website": "https://flukeout.github.io/"
-            },
-            "icon": "https://flukeout.github.io/favicon.png"
-        },
-        {
-            "name": "CSS-Tricks",
-            "categories": [
-                "Programming/Learn",
-                "Programming/Newsletters",
-                "Programming/Code Snippets"
-            ],
-            "description": "CSS-Tricks is a website about websites.",
-            "links": {
-                "Website": "https://css-tricks.com"
-            },
-            "icon": "https://css-tricks.com/apple-touch-icon.png"
-        },
-        {
-            "name": "CSSBattle",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "CSS Code Golfing is Here!",
-            "links": {
-                "Website": "https://cssbattle.dev/"
-            },
-            "icon": "https://cssbattle.dev/images/logo-square.png"
-        },
-        {
-            "name": "EASEOUT",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Coding tutorials about CSS, HTML, JavaScript, and articles about design creativity & modern web development technology.",
-            "links": {
-                "Website": "https://www.easeout.co/"
-            },
-            "icon": "https://www.easeout.co/favicon.ico"
-        },
-        {
-            "name": "Epic React",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Strap in and take your React applications to the next level.",
-            "links": {
-                "Website": "https://epicreact.dev/"
-            },
-            "icon": "https://epicreact.dev/icons/icon-96x96.png?v=4fc004c2d47bff97350bf9ba653e0bdd"
-        },
-        {
-            "name": "Flexbox Defense",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!",
-            "links": {
-                "Website": "http://www.flexboxdefense.com/"
-            },
-            "icon": "http://www.flexboxdefense.com/images/favicon.ico"
-        },
-        {
-            "name": "Flexbox Froggy",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "A game for learning CSS flexbox.",
-            "links": {
-                "Website": "http://flexboxfroggy.com/"
-            },
-            "icon": "http://flexboxfroggy.com/favicon.ico"
-        },
-        {
-            "name": "freeCodeCamp",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Learn to code at home. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including Google, Apple, Amazon, and Microsoft.",
-            "keywords": [
-                "javascript",
-                "js",
-                "website",
-                "web",
-                "development",
-                "free",
-                "code",
-                "camp",
-                "course",
-                "courses",
-                "html",
-                "css",
-                "react",
-                "redux",
-                "api",
-                "front",
-                "back",
-                "end",
-                "learn",
-                "tutorial",
-                "programming"
-            ],
-            "links": {
-                "Website": "https://www.freecodecamp.org/"
-            },
-            "icon": "https://www.freecodecamp.org/icons/icon-96x96.png?v=6cba562cbd10e31af925a976f3db73f7"
-        },
-        {
-            "name": "Frontend Masters",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Advance your skills with in-depth, modern JavaScript and front-end engineering courses.",
-            "links": {
-                "Website": "https://frontendmasters.com/"
-            },
-            "icon": "https://frontendmasters.com/favicon-32x32.png"
-        },
-        {
-            "name": "Frontend Mentor",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.",
-            "links": {
-                "Website": "https://www.frontendmentor.io/"
-            },
-            "icon": "https://www.frontendmentor.io/static/favicon/favicon-32x32.png"
-        },
-        {
-            "name": "Hackr.io",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Google search shows you hundreds of Programming courses/tutorials, but Hackr.io tells you which is the best one. Find the best online courses &amp; tutorials recommended by the Programming community. Pick the most upvoted tutorials as per your learning style: video-based, book, free, paid, for beginners, advanced, etc.",
-            "links": {
-                "Website": "https://hackr.io/"
-            },
-            "icon": "https://hackr.io/assets/images/programming-images/programming-favicon-32x32.png"
-        },
-        {
-            "name": "JavaScript Info",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.",
-            "links": {
-                "Website": "https://javascript.info/"
-            },
-            "icon": "https://javascript.info/img/favicon/apple-touch-icon-precomposed.png"
-        },
-        {
-            "name": "JavaScript30",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Build 30 things with vanilla JS in 30 days with 30 tutorials.",
-            "links": {
-                "Website": "https://javascript30.com/"
-            },
-            "icon": "https://javascript30.com/images/favion-JS3.png"
-        },
-        {
-            "name": "Khan Academy",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere.",
-            "links": {
-                "Website": "https://www.khanacademy.org/"
-            },
-            "icon": "https://cdn.kastatic.org/images/apple-touch-icon-72x72-precomposed.new.png"
-        },
-        {
-            "name": "Learn JavaScript",
-            "description": "Learn JavaScript in an interactive environment. Read short lessons, take notes, and complete challenges directly in your browser.",
-            "categories": [
-                "Programming/Learn",
-                "Programming/Code Challenges"
-            ],
-            "links": {
-                "Website": "https://learnjavascript.online"
-            },
-            "icon": "https://learnjavascript.online/assets/favicons/favicon-32x32.png",
-            "keywords": [
-                "learn javascript",
-                "learn javascript online",
-                "interactive course"
-            ]
-        },
-        {
-            "name": "Learn X in Y minutes",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Take a whirlwind tour of your next favorite language. Community-driven!",
-            "links": {
-                "Website": "https://learnxinyminutes.com/"
-            },
-            "icon": "https://learnxinyminutes.com/favicon.ico"
-        },
-        {
-            "name": "LinkedIn Learning",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Learn business, creative, and technology skills to achieve your personal and professional goals. Join LinkedIn Learning today to get access to thousands of courses.",
-            "links": {
-                "Website": "https://www.linkedin.com/learning"
-            },
-            "icon": "https://static-exp1.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico"
-        },
-        {
-            "name": "Mastery Games",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Learn frontend development through play, repetition, and sleep. Each game builds up your skills from the ground up using the educational process of scaffolding. You learn one new concept at a time, and leverage spaced repetition to solidify each concept.",
-            "links": {
-                "Website": "https://mastery.games/"
-            },
-            "icon": "https://mastery.games/favicon.ico?v=2.3"
-        },
-        {
-            "name": "Pluralsight",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Build your IT toolkit with the skills you need to excel in your job, including security best practices, server infrastructure and virtualization. Explore our IT courses now.",
-            "links": {
-                "Website": "https://www.pluralsight.com/"
-            },
-            "icon": "https://www.pluralsight.com/etc/clientlibs/pluralsight/main/images/favicons/favicon-96x96.png"
-        },
-        {
-            "name": "Programiz",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references.",
-            "links": {
-                "Website": "https://www.programiz.com/"
-            },
-            "icon": "https://www.programiz.com/sites/all/themes/programiz/assets/favicon.png"
-        },
-        {
-            "name": "ProjectLearn",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "A project-based learning approach in web development, mobile development, game development, machine learning and artificial intelligence. Learn code the right way!",
-            "keywords": [
-                "project",
-                "tutorial",
-                "learn code by doing",
-                "project based learning",
-                "learn code free",
-                "web development",
-                "app development",
-                "game development",
-                "machine learning",
-                "artificial intelligence"
-            ],
-            "links": {
-                "Website": "https://projectlearn.io/"
-            },
-            "icon": "https://projectlearn.io/projectlearn.png"
-        },
-        {
-            "name": "React Tutorial",
-            "description": "Learn React in an interactive environment. Understand how React works not just how to build with React.",
-            "categories": [
-                "Programming/Learn",
-                "Programming/Code Challenges"
-            ],
-            "links": {
-                "Website": "https://react-tutorial.app"
-            },
-            "icon": "https://react-tutorial.app/assets/favicons/favicon-32x32.png",
-            "keywords": [
-                "react tutorial",
-                "interactive react course"
-            ]
-        },
-        {
-            "name": "Scrimba",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Scrimba is a fun and fast way of learning to code! Our interactive courses and tutorials will teach you React, Vue, Angular, JavaScript, HTML, CSS, and more.",
-            "links": {
-                "Website": "https://scrimba.com/"
-            },
-            "icon": "https://scrimba.com/favicon.ico"
-        },
-        {
-            "name": "SoloLearn",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Join Now to learn the basics or advance your existing skills.",
-            "keywords": [
-                "SoloLearn",
-                "Coding",
-                "Code",
-                "Learn how to code",
-                "Learn to code",
-                "Learn coding",
-                "C++",
-                "Java",
-                "Python",
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "C#"
-            ],
-            "links": {
-                "Website": "https://www.sololearn.com/"
-            },
-            "icon": "https://www.sololearn.com/Images/favicon-192x192.png"
-        },
-        {
-            "name": "Test Automation University",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Become a test automation superstar! 🌟.",
-            "links": {
-                "Website": "https://testautomationu.applitools.com/"
-            },
-            "icon": "https://testautomationu.applitools.com/TAU-Green.png"
-        },
-        {
-            "name": "Testing JavaScript",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "This course will teach you the fundamentals of testing your JavaScript applications using ESlint, TypeScript, Jest, and Cypress.",
-            "links": {
-                "Website": "https://testingjavascript.com/"
-            },
-            "icon": "https://testingjavascript.com/icons/icon-96x96.png?v=7f31b6d20f32956d41d48e0891d645c4"
-        },
-        {
-            "name": "The Net Ninja",
-            "categories": [
-                "Programming/YouTube Channels",
-                "Programming/Learn"
-            ],
-            "links": {
-                "Website": "https://www.thenetninja.co.uk/",
-                "YouTube": "https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg"
-            },
-            "description": "Black-belt your web skills. Learn JavaScript, CSS, Node.js, React, Vue.js, Firebase, HTML & more.",
-            "keywords": [
-                "html css javascript tutorials \"web design\" \"web development\" development \"front-end development\" wordpress mvc \"responsive design\" \"beginner html\" \"beginner ..."
-            ],
-            "icon": "https://www.thenetninja.co.uk/favicon.ico"
-        },
-        {
-            "name": "Treehouse",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "High-quality, affordable video courses for coding and design. Build a website, learn a new coding language, and more.",
-            "links": {
-                "Website": "https://teamtreehouse.com/"
-            },
-            "icon": "https://static.teamtreehouse.com/assets/apple-touch-icon-76x76-precomposed-7283cd247847d1f21be0e79c52e3524c89adabf69cfc331046319f4ab19be058.png"
-        },
-        {
-            "name": "Udemy",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "Udemy is an online learning and teaching marketplace with over 130,000 courses and 35 million students. Learn programming, marketing, data science and more.",
-            "links": {
-                "Website": "https://www.udemy.com/"
-            },
-            "icon": "https://www.udemy.com/staticx/udemy/images/v6/favicon-96x96.png"
-        },
-        {
-            "name": "ui.dev",
-            "categories": [
-                "Programming/Newsletters",
-                "Programming/Learn"
-            ],
-            "description": "Comprehensive learning resources for mastering the JavaScript ecosystem.",
-            "links": {
-                "Website": "https://ui.dev/"
-            },
-            "icon": "https://ui.dev/icons/icon-96x96.png?v=bafaaa088cd219915cf56ed1d1dff86a"
-        },
-        {
-            "name": "W3Schools",
-            "categories": [
-                "Programming/Learn"
-            ],
-            "description": "W3Schools is a training website for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, C# and Java.",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "DOM",
-                "jQuery",
-                "PHP",
-                "SQL",
-                "XML",
-                "Python",
-                "Java",
-                "Bootstrap",
-                "Web",
-                "W3CSS",
-                "W3C",
-                "tutorials",
-                "programming",
-                "development",
-                "training",
-                "learning",
-                "quiz",
-                "primer",
-                "lessons",
-                "reference",
-                "examples",
-                "source code",
-                "colors",
-                "demos",
-                "tips",
-                "w3c"
-            ],
-            "links": {
-                "Website": "https://www.w3schools.com/"
-            },
-            "icon": "https://www.w3schools.com/favicon.ico"
-        }
-    ],
     "assets-videos": [
         {
             "name": "Biteable",
@@ -13304,6 +13383,17 @@ module.exports = {
             "icon": "https://v2.grommet.io/img/mobile-app-icon.png"
         },
         {
+            "name": "Kometa UI Kit",
+            "categories": [
+                "Programming/UI Kits & Libraries"
+            ],
+            "description": "A marketplace of fully responsive, multi-purpose UI kits, built with Tailwind CSS, for start-ups and products of any kind.",
+            "links": {
+                "Website": "https://kitwind.io/products/kometa"
+            },
+            "icon": "https://kitwind.io/icons/icon-96x96.png"
+        },
+        {
             "name": "Material Design",
             "categories": [
                 "Programming/UI Kits & Libraries"
@@ -13419,6 +13509,17 @@ module.exports = {
                 "Website": "https://tailwindcss.com/"
             },
             "icon": "https://tailwindcss.com/favicon-32x32.png"
+        },
+        {
+            "name": "TailwindComponents",
+            "categories": [
+                "Programming/UI Kits & Libraries"
+            ],
+            "description": "Tailwind CSS examples from components by the community. Tailwind chart, grids, inputs, forms, templates and much more.",
+            "links": {
+                "Website": "https://tailwindcomponents.com/"
+            },
+            "icon": "https://tailwindcomponents.com/favicon-32x32.png"
         },
         {
             "name": "UIkit",
@@ -14195,6 +14296,17 @@ module.exports = {
             "icon": "https://www.styleshout.com/favicon-32x32.png"
         },
         {
+            "name": "Tailwind Toolbox",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Open source starter templates and components, a directory of handy building kits, generators, plugins and useful tools to kick start your Tailwind CSS project.",
+            "links": {
+                "Website": "https://tailwindtoolbox.com/"
+            },
+            "icon": "https://tailwindtoolbox.com/favicon-32x32.png"
+        },
+        {
             "name": "Templated",
             "categories": [
                 "Programming/Templates"
@@ -14317,6 +14429,17 @@ module.exports = {
             "icon": "https://images.transistor.fm/file/transistor/images/favicons/site/6/x64_1541522941-favicon.png"
         },
         {
+            "name": "Default Alive",
+            "categories": [
+                "Indie Hacking/Podcasts"
+            ],
+            "description": "Two founders share an unedited look at what it's like to bootstrap a startup through weekly updates. Chris Spags is the founder of Jetboost, a suite of no-code plugins for Webflow. Corey Haines is the founder of Swipe Files, a membership site for marketers built with no-code tools. They chronicle their journeys getting to and staying \"default alive\": profitable, self-sustaining, with infinite runway. – Listen to Default Alive instantly on your tablet, phone or browser - no downloads needed.",
+            "links": {
+                "Website": "https://podtail.com/en/podcast/default-alive/"
+            },
+            "icon": "https://podtail.com/favicon.ico"
+        },
+        {
             "name": "Indie Hackers",
             "categories": [
                 "Indie Hacking/Platforms",
@@ -14371,6 +14494,17 @@ module.exports = {
                 "Website": "https://artofproductpodcast.com/"
             },
             "icon": "https://assets.fireside.fm/file/fireside-images/podcasts/images/6/6fccc249-743a-4298-a664-d8d863346db9/touch_icon_ipad.png?v=2"
+        },
+        {
+            "name": "The Hammerstone Podcast",
+            "categories": [
+                "Indie Hacking/Podcasts"
+            ],
+            "description": "Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm!",
+            "links": {
+                "Website": "https://hammerstone.dev/podcast"
+            },
+            "icon": ""
         }
     ],
     "programming-testing": [
@@ -14788,11 +14922,11 @@ module.exports = {
             "icon": "http://sigmajs.org/assets/images/apple-touch-icon-72x72.png"
         }
     ],
-    "programming-databases": [
+    "infrastructure-databases": [
         {
             "name": "Cassandra",
             "categories": [
-                "Programming/Databases"
+                "Infrastructure/Databases"
             ],
             "description": "Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters.",
             "links": {
@@ -14803,7 +14937,7 @@ module.exports = {
         {
             "name": "CouchDB",
             "categories": [
-                "Programming/Databases"
+                "Infrastructure/Databases"
             ],
             "description": "CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice.",
             "links": {
@@ -14814,7 +14948,7 @@ module.exports = {
         {
             "name": "DynamoDB",
             "categories": [
-                "Programming/Databases"
+                "Infrastructure/Databases"
             ],
             "description": "Amazon DynamoDB is a nonrelational database. This database system provides consistent latency and offers built-in security and in-memory caching. DynamoDB is a serverless database which scales automatically and backs up your data for protection.",
             "links": {
@@ -14826,7 +14960,8 @@ module.exports = {
             "name": "Firebase",
             "categories": [
                 "Infrastructure/Hosting",
-                "Programming/Databases"
+                "Infrastructure/Databases",
+                "Infrastructure/Serverless"
             ],
             "description": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
             "links": {
@@ -14837,7 +14972,7 @@ module.exports = {
         {
             "name": "Firestore",
             "categories": [
-                "Programming/Databases"
+                "Infrastructure/Databases"
             ],
             "description": "Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps through realtime listeners and offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity. Cloud Firestore also offers seamless integration with other Firebase and Google Cloud products, including Cloud Functions.",
             "links": {
@@ -14848,7 +14983,7 @@ module.exports = {
         {
             "name": "Microsoft SQL Server",
             "categories": [
-                "Programming/Databases"
+                "Infrastructure/Databases"
             ],
             "description": "Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge.",
             "links": {
@@ -14859,7 +14994,7 @@ module.exports = {
         {
             "name": "MongoDB",
             "categories": [
-                "Programming/Databases"
+                "Infrastructure/Databases"
             ],
             "description": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.",
             "links": {
@@ -14870,7 +15005,7 @@ module.exports = {
         {
             "name": "MySQL",
             "categories": [
-                "Programming/Databases"
+                "Infrastructure/Databases"
             ],
             "description": "MySQL Database Service is a fully managed database service to deploy cloud-native applications.",
             "links": {
@@ -14881,7 +15016,7 @@ module.exports = {
         {
             "name": "PostgreSQL",
             "categories": [
-                "Programming/Databases"
+                "Infrastructure/Databases"
             ],
             "description": "PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.",
             "links": {
@@ -14892,7 +15027,7 @@ module.exports = {
         {
             "name": "SQLite",
             "categories": [
-                "Programming/Databases"
+                "Infrastructure/Databases"
             ],
             "description": "SQLite is an open-source, embedded, relational database management system, designed circa 2000. It is a database, with zero configuration, no requirements of a server or installation. Despite its simplicity, it is laden with popular features of database management systems.",
             "links": {
@@ -14901,9 +15036,21 @@ module.exports = {
             "icon": "https://www.sqlite.org/favicon.ico"
         },
         {
+            "name": "Supabase",
+            "categories": [
+                "Infrastructure/Serverless",
+                "Infrastructure/Databases"
+            ],
+            "description": "Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.",
+            "links": {
+                "Website": "https://supabase.io/"
+            },
+            "icon": "https://supabase.io/new/favicon/favicon-32x32.png"
+        },
+        {
             "name": "XServer",
             "categories": [
-                "Programming/Databases"
+                "Infrastructure/Databases"
             ],
             "description": "XServer - JSON-based backend for Mobile apps, Websites and Unity games.",
             "keywords": [
@@ -15443,6 +15590,145 @@ module.exports = {
             ]
         }
     ],
+    "reading-writing-platforms": [
+        {
+            "name": "Codeconia",
+            "categories": [
+                "Reading & Writing/Platforms"
+            ],
+            "description": "Learn programming with Codeconia.",
+            "links": {
+                "Website": "https://codeconia.com/"
+            },
+            "icon": "https://codeconia.com/wp-content/uploads/2020/11/cropped-favicon-32x32.png"
+        },
+        {
+            "name": "DEV",
+            "categories": [
+                "Reading & Writing/Platforms"
+            ],
+            "description": "A constructive and inclusive social network for software developers. With you every step of your journey.",
+            "keywords": [
+                "software development",
+                "engineering",
+                "rails",
+                "javascript",
+                "ruby"
+            ],
+            "links": {
+                "Website": "https://dev.to/"
+            },
+            "icon": "https://res.cloudinary.com/practicaldev/image/fetch/s--t7tVouP9--/c_limit,f_png,fl_progressive,q_80,w_192/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png"
+        },
+        {
+            "name": "Hacker News",
+            "categories": [
+                "Reading & Writing/Platforms"
+            ],
+            "description": "Hacker News is a social news website focusing on computer science and entrepreneurship.",
+            "links": {
+                "Website": "https://news.ycombinator.com/"
+            },
+            "icon": "https://news.ycombinator.com/favicon.ico"
+        },
+        {
+            "name": "Hacker Noon",
+            "categories": [
+                "Reading & Writing/Platforms"
+            ],
+            "description": "How hackers start their afternoons.",
+            "keywords": [
+                "blockchain",
+                "bitcoin",
+                "tech",
+                "crypto",
+                "software-development",
+                "react",
+                "vue"
+            ],
+            "links": {
+                "Website": "https://hackernoon.com/"
+            },
+            "icon": "https://hackernoon.com/favicon-32x32.png"
+        },
+        {
+            "name": "Hashnode",
+            "categories": [
+                "Reading & Writing/Platforms"
+            ],
+            "description": "Hashnode is a free content creation platform and community that allows you to publish articles on your own domain and helps you stay connected with a growing developer community.",
+            "links": {
+                "Website": "https://hashnode.com/"
+            },
+            "icon": "https://cdn.hashnode.com/res/hashnode/image/upload/v1592400819640/7VL8RW7wc.png"
+        },
+        {
+            "name": "Lobsters",
+            "categories": [
+                "Reading & Writing/Platforms"
+            ],
+            "description": "Lobsters is a computing-focused community centered around link aggregation and discussion.",
+            "links": {
+                "Website": "https://lobste.rs/"
+            },
+            "icon": "https://lobste.rs/apple-touch-icon-144.png"
+        },
+        {
+            "name": "Medium",
+            "categories": [
+                "Reading & Writing/Platforms"
+            ],
+            "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
+            "links": {
+                "Website": "http://medium.com/"
+            },
+            "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
+        },
+        {
+            "name": "reddit",
+            "categories": [
+                "Reading & Writing/Platforms"
+            ],
+            "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
+            "links": {
+                "Website": "https://www.reddit.com/"
+            },
+            "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
+        },
+        {
+            "name": "Smashing Magazine",
+            "categories": [
+                "Reading & Writing/Platforms"
+            ],
+            "description": "Smashing Magazine is a website and eBook publisher that offers editorial content and professional resources for web developers and web designers.",
+            "links": {
+                "Website": "https://www.smashingmagazine.com/"
+            },
+            "icon": "https://www.smashingmagazine.com/images/favicon/apple-touch-icon-ipad-76x76.png"
+        },
+        {
+            "name": "TechCrunch",
+            "categories": [
+                "Reading & Writing/Platforms"
+            ],
+            "description": "TechCrunch - Reporting on the business of technology, startups, venture capital funding, and Silicon Valley.",
+            "links": {
+                "Website": "https://techcrunch.com/"
+            },
+            "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
+        },
+        {
+            "name": "XDA-Developers",
+            "categories": [
+                "Reading & Writing/Platforms"
+            ],
+            "description": "XDA Developers is a mobile software development community launched on 20 December 2002. Although discussion primarily revolves around Android, members also talk about many other operating systems and mobile development topics.",
+            "links": {
+                "Website": "https://www.xda-developers.com/"
+            },
+            "icon": "https://www.xda-developers.com/favicon-32x32.png"
+        }
+    ],
     "ui-design-utilities": [
         {
             "name": "Compare pixels",
@@ -15468,6 +15754,29 @@ module.exports = {
                 "Website": "https://usepastel.com/compare-pixels"
             },
             "icon": "https://usepastel.com/static/images/favicon.png"
+        },
+        {
+            "name": "DesignJoy",
+            "categories": [
+                "UI Design/Utilities"
+            ],
+            "description": "The #1 unlimited product design subscription service for agencies, startups, and entrepreneurs.",
+            "links": {
+                "Website": "https://www.designjoy.co/"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5837424ae11409586f837994/5e2fb217d4837e75854462c9_Small.png"
+        },
+        {
+            "name": "SVGX",
+            "categories": [
+                "UI Design/Utilities",
+                "Tools & Utilities/Image & Video Editing"
+            ],
+            "description": "SVGX is the desktop SVG asset manager designers and developers wished they had.",
+            "links": {
+                "Website": "https://svgx.app/"
+            },
+            "icon": "https://svgx.app/assets/favicons/favicon-96x96.png"
         }
     ],
     "assets-images": [
@@ -15791,134 +16100,6 @@ module.exports = {
             "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
         }
     ],
-    "reading-writing-platforms": [
-        {
-            "name": "DEV",
-            "categories": [
-                "Reading & Writing/Platforms"
-            ],
-            "description": "A constructive and inclusive social network for software developers. With you every step of your journey.",
-            "keywords": [
-                "software development",
-                "engineering",
-                "rails",
-                "javascript",
-                "ruby"
-            ],
-            "links": {
-                "Website": "https://dev.to/"
-            },
-            "icon": "https://res.cloudinary.com/practicaldev/image/fetch/s--t7tVouP9--/c_limit,f_png,fl_progressive,q_80,w_192/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png"
-        },
-        {
-            "name": "Hacker News",
-            "categories": [
-                "Reading & Writing/Platforms"
-            ],
-            "description": "Hacker News is a social news website focusing on computer science and entrepreneurship.",
-            "links": {
-                "Website": "https://news.ycombinator.com/"
-            },
-            "icon": "https://news.ycombinator.com/favicon.ico"
-        },
-        {
-            "name": "Hacker Noon",
-            "categories": [
-                "Reading & Writing/Platforms"
-            ],
-            "description": "How hackers start their afternoons.",
-            "keywords": [
-                "blockchain",
-                "bitcoin",
-                "tech",
-                "crypto",
-                "software-development",
-                "react",
-                "vue"
-            ],
-            "links": {
-                "Website": "https://hackernoon.com/"
-            },
-            "icon": "https://hackernoon.com/favicon-32x32.png"
-        },
-        {
-            "name": "Hashnode",
-            "categories": [
-                "Reading & Writing/Platforms"
-            ],
-            "description": "Hashnode is a free content creation platform and community that allows you to publish articles on your own domain and helps you stay connected with a growing developer community.",
-            "links": {
-                "Website": "https://hashnode.com/"
-            },
-            "icon": "https://cdn.hashnode.com/res/hashnode/image/upload/v1592400819640/7VL8RW7wc.png"
-        },
-        {
-            "name": "Lobsters",
-            "categories": [
-                "Reading & Writing/Platforms"
-            ],
-            "description": "Lobsters is a computing-focused community centered around link aggregation and discussion.",
-            "links": {
-                "Website": "https://lobste.rs/"
-            },
-            "icon": "https://lobste.rs/apple-touch-icon-144.png"
-        },
-        {
-            "name": "Medium",
-            "categories": [
-                "Reading & Writing/Platforms"
-            ],
-            "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
-            "links": {
-                "Website": "http://medium.com/"
-            },
-            "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
-        },
-        {
-            "name": "reddit",
-            "categories": [
-                "Reading & Writing/Platforms"
-            ],
-            "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
-            "links": {
-                "Website": "https://www.reddit.com/"
-            },
-            "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
-        },
-        {
-            "name": "Smashing Magazine",
-            "categories": [
-                "Reading & Writing/Platforms"
-            ],
-            "description": "Smashing Magazine is a website and eBook publisher that offers editorial content and professional resources for web developers and web designers.",
-            "links": {
-                "Website": "https://www.smashingmagazine.com/"
-            },
-            "icon": "https://www.smashingmagazine.com/images/favicon/apple-touch-icon-ipad-76x76.png"
-        },
-        {
-            "name": "TechCrunch",
-            "categories": [
-                "Reading & Writing/Platforms"
-            ],
-            "description": "TechCrunch - Reporting on the business of technology, startups, venture capital funding, and Silicon Valley.",
-            "links": {
-                "Website": "https://techcrunch.com/"
-            },
-            "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
-        },
-        {
-            "name": "XDA-Developers",
-            "categories": [
-                "Reading & Writing/Platforms"
-            ],
-            "description": "XDA Developers is a mobile software development community launched on 20 December 2002. Although discussion primarily revolves around Android, members also talk about many other operating systems and mobile development topics.",
-            "links": {
-                "Website": "https://www.xda-developers.com/"
-            },
-            "icon": "https://www.xda-developers.com/favicon-32x32.png"
-        }
-    ],
     "tools-utilities-website-builders": [
         {
             "name": "DreamHost",
@@ -16092,6 +16273,56 @@ module.exports = {
                 "Website": "https://refactoringui.com/"
             },
             "icon": "https://refactoringui.com/favicon-32x32.png"
+        },
+        {
+            "name": "UI Design for Developers",
+            "categories": [
+                "UI Design/Learn"
+            ],
+            "description": "Learn just enough visual design to be dangerous as a developer.",
+            "links": {
+                "Website": "https://designcode.io/ui-design-for-developers"
+            },
+            "icon": "https://designcode.io/icons/icon-96x96.png"
+        }
+    ],
+    "infrastructure-serverless": [
+        {
+            "name": "Firebase",
+            "categories": [
+                "Infrastructure/Hosting",
+                "Infrastructure/Databases",
+                "Infrastructure/Serverless"
+            ],
+            "description": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
+            "links": {
+                "Website": "https://firebase.google.com/"
+            },
+            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
+        },
+        {
+            "name": "Serverless Stack",
+            "categories": [
+                "Programming/API Building",
+                "Infrastructure/Serverless"
+            ],
+            "description": "Serverless Stack (SST) is a framework that makes it easy to build serverless applications.",
+            "links": {
+                "Website": "https://serverless-stack.com/"
+            },
+            "icon": "https://serverless-stack.com/assets/favicon-32x32.png"
+        },
+        {
+            "name": "Supabase",
+            "categories": [
+                "Infrastructure/Serverless",
+                "Infrastructure/Databases"
+            ],
+            "description": "Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.",
+            "links": {
+                "Website": "https://supabase.io/"
+            },
+            "icon": "https://supabase.io/new/favicon/favicon-32x32.png"
         }
     ],
     "programming-javascript-react": [
@@ -16326,6 +16557,17 @@ module.exports = {
                 "Website": "https://icons8.com"
             },
             "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
+        },
+        {
+            "name": "Soundstripe",
+            "categories": [
+                "Assets/Audio"
+            ],
+            "description": "Every creator's one-stop shop for the best royalty free music, SFX, and stock video. Purchase a license for one file, or subscribe for unlimited access.",
+            "links": {
+                "Website": "https://www.soundstripe.com/"
+            },
+            "icon": "https://www.soundstripe.com/hubfs/favicon-1.png"
         }
     ],
     "indie-hacking-platforms": [
@@ -16495,6 +16737,18 @@ module.exports = {
                 "Website": "https://letsenhance.io/"
             },
             "icon": "https://letsenhance.io/static/favicon/icon-96.png"
+        },
+        {
+            "name": "SVGX",
+            "categories": [
+                "UI Design/Utilities",
+                "Tools & Utilities/Image & Video Editing"
+            ],
+            "description": "SVGX is the desktop SVG asset manager designers and developers wished they had.",
+            "links": {
+                "Website": "https://svgx.app/"
+            },
+            "icon": "https://svgx.app/assets/favicons/favicon-96x96.png"
         }
     ]
 }

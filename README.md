@@ -6,7 +6,7 @@
 
  For information on using the public API, please see the [API usage guide](API_USAGE.md).
 
- ### Total resources: 1167
+ ### Total resources: 1185
 
  ## Index
 
@@ -24,7 +24,9 @@
   * [Podcasts](#indie-hacking-podcasts)
   * [Utilities](#indie-hacking-utilities)
 * [Infrastructure](#infrastructure) 
+  * [Databases](#infrastructure-databases)
   * [Hosting](#infrastructure-hosting)
+  * [Serverless](#infrastructure-serverless)
 * [Jobs](#jobs) 
   * [Boards](#jobs-boards)
   * [Freelancing](#jobs-freelancing)
@@ -37,7 +39,6 @@
   * [Charts](#programming-charts)
   * [Code Challenges](#programming-code-challenges)
   * [Code Snippets](#programming-code-snippets)
-  * [Databases](#programming-databases)
   * [Docs & Cheatsheets](#programming-docs-cheatsheets)
   * [JavaScript](#programming-javascript) 
     * [React](#programming-javascript-react)
@@ -79,6 +80,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://icons8.com/vue-static/icon/favicon/favicon_16.png" width="16" /> | Icons8 | Download design elements for free: icons, photos, vector illustrations, and music for your videos. | [Website](https://icons8.com) |  |
+ <img src="https://www.soundstripe.com/hubfs/favicon-1.png" width="16" /> | Soundstripe | Every creator's one-stop shop for the best royalty free music, SFX, and stock video. Purchase a license for one file, or subscribe for unlimited access. | [Website](https://www.soundstripe.com/) |  |
 
 **[⬆ Back to Index](#index)**
 
@@ -241,11 +243,13 @@
  <img src="https://bootstrapped.fm/icon.png" width="16" /> | Bootstrapped | Listen to 100+ helpful podcast episodes for software bootstrappers. Interviews with experts, open discussions between bootstrappers, and solo episodes, with one person digging deeply into a topic. | [Website](https://bootstrapped.fm/) |  |
  &nbsp; | Bootstrapped Web | The podcast for founders bootstrapping their startups online. | [Website](http://bootstrappedweb.com/) |  |
  <img src="https://images.transistor.fm/file/transistor/images/favicons/site/6/x64_1541522941-favicon.png" width="16" /> | Build you SaaS | Can you bootstrap a profitable startup in 2021? Thousands of entrepreneurs, developers, designers, and product people have tried to launch their own web apps. But with so many venture-backed startups ... | [Website](https://saas.transistor.fm/) |  |
+ <img src="https://podtail.com/favicon.ico" width="16" /> | Default Alive | Two founders share an unedited look at what it's like to bootstrap a startup through weekly updates. Chris Spags is the founder of Jetboost, a suite of no-code plugins for Webflow. Corey Haines is the... | [Website](https://podtail.com/en/podcast/default-alive/) |  |
  <img src="https://www.indiehackers.com/images/favicons/favicon--32x32.png" width="16" /> | Indie Hackers | Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects. | [Website](https://www.indiehackers.com/) |  |
  <img src="https://assets.transistor.fm/assets/favicon-6e847568a3fbd949ba82be5cb10951e28b51f7f58d6e573235b0cddf494de2c0.ico" width="16" /> | Slow & Steady | Join us as we share what it's like to build and launch a bootstrapped startup while working for yourself full-time. Benedikt is working on Userlist with two other co-founders and Brian is running solo... | [Website](https://www.slowandsteadypodcast.com/) |  |
  <img src="https://assets.transistor.fm/assets/favicon-6e847568a3fbd949ba82be5cb10951e28b51f7f58d6e573235b0cddf494de2c0.ico" width="16" /> | Software Social | Two bootstrapped software founders -- one transitioning from freelancing, and one with an established business -- invite you to join their weekly chats about their businesses. | [Website](https://softwaresocial.dev/) |  |
  <img src="https://www.startupsfortherestofus.com/wp-content/themes/sftrou/assets/images/favicon.png" width="16" /> | Startups For the Rest of Us | The startup podcast with more than 500 episodes to help you launch and grow. 10 million+ downloads. 500+ five-star reviews. | [Website](https://www.startupsfortherestofus.com/) |  |
  <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/6/6fccc249-743a-4298-a664-d8d863346db9/touch_icon_ipad.png?v=2" width="16" /> | The Art of Product | Ben and Derrick chat weekly about building software companies. | [Website](https://artofproductpodcast.com/) |  |
+ &nbsp; | The Hammerstone Podcast | Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm! | [Website](https://hammerstone.dev/podcast) |  |
 
 **[⬆ Back to Index](#index)**
 
@@ -253,6 +257,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://airtable.com/images/favicon/baymax/favicon-32x32.png" width="16" /> | Airtable | Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free. | [Website](https://airtable.com/) |  |
+ <img src="https://customer.io/wp-content/uploads/2019/01/customer-io-touchicon-180.png" width="16" /> | Customer.io | With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions. | [Website](https://customer.io/) |  |
  <img src="https://thehiveindex.com/icons/icon-96x96.png" width="16" /> | Hive Index | Find online communities, across all platforms, for any topic. | [Website](https://thehiveindex.com/)<br />[Twitter](https://twitter.com/thehiveindex) |  |
  <img src="http://indiedrops.com/apple-touch-icon.png" width="16" /> | Indie Drops | Secure unbelivably good deals on early-stage products before they take off. | [Website](http://indiedrops.com/) |  |
  <img src="https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png" width="16" /> | Mailchimp | Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way. | [Website](https://mailchimp.com/) |  |
@@ -260,6 +265,24 @@
 
 **[⬆ Back to Index](#index)**
 ## <a name="infrastructure">Infrastructure</a> 
+
+### <a name="databases"><a name="infrastructure-databases">Databases</a></a>
+| &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
+|---|---|---|---|---|
+ <img src="https://cassandra.apache.org/favicon.ico" width="16" /> | Cassandra | Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters. | [Website](http://cassandra.apache.org/) |  |
+ <img src="https://couchdb.apache.org/favicon-32x32.png" width="16" /> | CouchDB | CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice. | [Website](https://couchdb.apache.org/) |  |
+ <img src="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico" width="16" /> | DynamoDB | Amazon DynamoDB is a nonrelational database. This database system provides consistent latency and offers built-in security and in-memory caching. DynamoDB is a serverless database which scales automat... | [Website](https://aws.amazon.com/dynamodb/) |  |
+ <img src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png" width="16" /> | Firebase | Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. | [Website](https://firebase.google.com/) |  |
+ <img src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png" width="16" /> | Firestore | Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps ... | [Website](https://firebase.google.com/docs/firestore) |  |
+ <img src="https://www.microsoft.com/favicon.ico" width="16" /> | Microsoft SQL Server | Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge. | [Website](https://www.microsoft.com/en-us/sql-server) |  |
+ <img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="16" /> | MongoDB | MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. | [Website](https://www.mongodb.com/) |  |
+ <img src="https://labs.mysql.com/common/themes/sakila/favicon.ico" width="16" /> | MySQL | MySQL Database Service is a fully managed database service to deploy cloud-native applications. | [Website](https://www.mysql.com/) |  |
+ <img src="https://www.postgresql.org/favicon.ico" width="16" /> | PostgreSQL | PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries. | [Website](https://www.postgresql.org/) |  |
+ <img src="https://www.sqlite.org/favicon.ico" width="16" /> | SQLite | SQLite is an open-source, embedded, relational database management system, designed circa 2000. It is a database, with zero configuration, no requirements of a server or installation. Despite its simp... | [Website](https://www.sqlite.org/index.html) |  |
+ <img src="https://supabase.io/new/favicon/favicon-32x32.png" width="16" /> | Supabase | Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions. | [Website](https://supabase.io/) |  |
+ <img src="https://xserver.app/assets/img/favicon.png" width="16" /> | XServer | XServer - JSON-based backend for Mobile apps, Websites and Unity games. | [Website](https://xserver.app/) | iOS, Android, JavaScript, apps, backend, mobile, website, baas, parse, firebase, database, json, php... |
+
+**[⬆ Back to Index](#index)**
 
 ### <a name="hosting"><a name="infrastructure-hosting">Hosting</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
@@ -276,6 +299,15 @@
  <img src="https://surge.sh/favicon.ico" width="16" /> | Surge | Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI. | [Website](https://surge.sh/) |  |
  <img src="https://assets.umbler.com/site/favicons/favicon-96x96.png?v=20201212010736" width="16" /> | Umbler | We are the website and applications hosting that you can trust. Perfect for the current needs of agencies, developers and entrepreneurs. | [Website](https://www.umbler.com/) |  |
  <img src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/76x76.png" width="16" /> | Vercel | Deploy web projects with the best frontend developer experience and highest end-user performance. | [Website](https://vercel.com/) |  |
+
+**[⬆ Back to Index](#index)**
+
+### <a name="serverless"><a name="infrastructure-serverless">Serverless</a></a>
+| &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
+|---|---|---|---|---|
+ <img src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png" width="16" /> | Firebase | Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. | [Website](https://firebase.google.com/) |  |
+ <img src="https://serverless-stack.com/assets/favicon-32x32.png" width="16" /> | Serverless Stack | Serverless Stack (SST) is a framework that makes it easy to build serverless applications. | [Website](https://serverless-stack.com/) |  |
+ <img src="https://supabase.io/new/favicon/favicon-32x32.png" width="16" /> | Supabase | Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions. | [Website](https://supabase.io/) |  |
 
 **[⬆ Back to Index](#index)**
 ## <a name="jobs">Jobs</a> 
@@ -367,6 +399,7 @@
  <img src="https://insomnia.rest/icons/icon-96x96.png?v=b68a1a35ee1565b759a2d4edb26074be" width="16" /> | Insomnia | Design & Debug APIs like a human, not a robot. | [Website](https://insomnia.rest/) |  |
  <img src="https://cdn-static.paw.cloud/img/favicons/favicon-96x96-f769fad588.png" width="16" /> | Paw | Paw is a full-featured HTTP client that lets you test and describe the APIs you build or consume. It has a beautiful native macOS interface to compose requests, inspect server responses, generate clie... | [Website](https://paw.cloud/) |  |
  <img src="https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441" width="16" /> | Postman | Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster. | [Website](https://www.postman.com/) |  |
+ <img src="https://serverless-stack.com/assets/favicon-32x32.png" width="16" /> | Serverless Stack | Serverless Stack (SST) is a framework that makes it easy to build serverless applications. | [Website](https://serverless-stack.com/) |  |
  <img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" width="16" /> | Swagger | Simplify API development for users, teams, and enterprises with our open source and professional toolset. Find out how Swagger can help you and get started today. | [Website](https://swagger.io/) |  |
 
 **[⬆ Back to Index](#index)**
@@ -426,25 +459,10 @@
  <img src="https://creativesfeed.com/icons/apple-icon-76x76.png" width="16" /> | CreativesFeed | CreativesFeed works to share the best free code snippets and web development resources online. We create free, downloadable code snippets and provide tutorials on web design and development to help ag... | [Website](https://creativesfeed.com/topics/code-snippets/) |  |
  <img src="https://css-tricks.com/apple-touch-icon.png" width="16" /> | CSS-Tricks | CSS-Tricks is a website about websites. | [Website](https://css-tricks.com) |  |
  <img src="http://www.devsamples.com/favicon.ico" width="16" /> | DevSamples | DevSamples is a list of code samples for you to copy and paste into your projects as needed. The primary focus is on web development, but there are samples from a variety of languages. | [Website](http://www.devsamples.com/) |  |
+ <img src="https://ray.so/img/icons/favicon-32x32.png" width="16" /> | Ray.so | Create beautiful code. | [Website](https://ray.so/) |  |
+ <img src="https://cdn.snipit.io/favicon.png" width="16" /> | Snipit | Save and organize your code snippets in the cloud. Share and collaborate with your team members. | [Website](https://snipit.io/) |  |
  <img src="https://assets.startbootstrap.com/img/icons/favicon-32x32.png" width="16" /> | Start Bootstrap | Trusted by tens of millions of users worldwide since 2013, Start Bootstrap develops website themes, templates, snippets, and more to help you get started on your next project! | [Website](https://startbootstrap.com/snippets/) |  |
  <img src="https://bradwoods.io/icons-ac8e8fb7acba0bf710955dec094dc16c/apple-touch-icon-76x76.png" width="16" /> | XState Guide | Minimal code examples of XState concepts. | [Website](https://bradwoods.io/guides/xstate) |  |
-
-**[⬆ Back to Index](#index)**
-
-### <a name="databases"><a name="programming-databases">Databases</a></a>
-| &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
-|---|---|---|---|---|
- <img src="https://cassandra.apache.org/favicon.ico" width="16" /> | Cassandra | Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters. | [Website](http://cassandra.apache.org/) |  |
- <img src="https://couchdb.apache.org/favicon-32x32.png" width="16" /> | CouchDB | CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice. | [Website](https://couchdb.apache.org/) |  |
- <img src="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico" width="16" /> | DynamoDB | Amazon DynamoDB is a nonrelational database. This database system provides consistent latency and offers built-in security and in-memory caching. DynamoDB is a serverless database which scales automat... | [Website](https://aws.amazon.com/dynamodb/) |  |
- <img src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png" width="16" /> | Firebase | Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. | [Website](https://firebase.google.com/) |  |
- <img src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png" width="16" /> | Firestore | Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps ... | [Website](https://firebase.google.com/docs/firestore) |  |
- <img src="https://www.microsoft.com/favicon.ico" width="16" /> | Microsoft SQL Server | Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge. | [Website](https://www.microsoft.com/en-us/sql-server) |  |
- <img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="16" /> | MongoDB | MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. | [Website](https://www.mongodb.com/) |  |
- <img src="https://labs.mysql.com/common/themes/sakila/favicon.ico" width="16" /> | MySQL | MySQL Database Service is a fully managed database service to deploy cloud-native applications. | [Website](https://www.mysql.com/) |  |
- <img src="https://www.postgresql.org/favicon.ico" width="16" /> | PostgreSQL | PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries. | [Website](https://www.postgresql.org/) |  |
- <img src="https://www.sqlite.org/favicon.ico" width="16" /> | SQLite | SQLite is an open-source, embedded, relational database management system, designed circa 2000. It is a database, with zero configuration, no requirements of a server or installation. Despite its simp... | [Website](https://www.sqlite.org/index.html) |  |
- <img src="https://xserver.app/assets/img/favicon.png" width="16" /> | XServer | XServer - JSON-based backend for Mobile apps, Websites and Unity games. | [Website](https://xserver.app/) | iOS, Android, JavaScript, apps, backend, mobile, website, baas, parse, firebase, database, json, php... |
 
 **[⬆ Back to Index](#index)**
 
@@ -473,9 +491,11 @@
 ### <a name="learn"><a name="programming-learn">Learn</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
+ <img src="https://github.githubassets.com/apple-touch-icon-114x114.png" width="16" /> | Awesome Courses | List of awesome university courses for learning Computer Science. | [GitHub](https://github.com/prakhar1989/awesome-courses) |  |
  <img src="https://bigsondev.com/icons/icon-96x96.png" width="16" /> | BigsonDev | HTML, CSS, JS, React - blog articles, knowledge pills, projects with high-quality designs. Get out of tutorials hell and learn Frontend the right way. | [Website](https://bigsondev.com/) | Frontend Mentor, React Expert, React, Frontend Developer, Frontend projects, Frontend blog, Software... |
  <img src="https://www.codecademy.com/favicon.ico" width="16" /> | Codecademy | Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning... | [Website](https://www.codecademy.com/) |  |
  <img src="https://codepip.com/favicon.ico" width="16" /> | Codepip | Learn to code by playing games. | [Website](https://codepip.com) |  |
+ <img src="https://github.githubassets.com/apple-touch-icon-114x114.png" width="16" /> | Computer Science courses with video lectures | List of Computer Science courses with video lectures. | [GitHub](https://github.com/Developer-Y/cs-video-courses) |  |
  <img src="https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/v2/favicon-v2-96x96.png" width="16" /> | Coursera | Join Coursera for free and learn online. Build skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM. Advance your career with degrees, cer... | [Website](https://www.coursera.org/) |  |
  <img src="https://flukeout.github.io/favicon.png" width="16" /> | CSS Diner | A fun game to help you learn and practice CSS selectors. | [Website](https://flukeout.github.io/) |  |
  <img src="https://css-tricks.com/apple-touch-icon.png" width="16" /> | CSS-Tricks | CSS-Tricks is a website about websites. | [Website](https://css-tricks.com) |  |
@@ -573,6 +593,7 @@
  <img src="https://mobirise.com/assets5/images/logo.png" width="16" /> | Mobirise | Drag and drop website builder. Create awesome responsive websites. Easy & fast - No coding! 2500+ Templates. Free for commercial use. | [Website](https://mobirise.com/) |  |
  <img src="https://assets.startbootstrap.com/img/icons/favicon-32x32.png" width="16" /> | Start Bootstrap | Trusted by tens of millions of users worldwide since 2013, Start Bootstrap develops website themes, templates, snippets, and more to help you get started on your next project! | [Website](https://startbootstrap.com/snippets/) |  |
  <img src="https://www.styleshout.com/favicon-32x32.png" width="16" /> | StyleShout | Browse our collection of premium-like high-quality free website templates. Beautifully handcrafted designs. The best free website templates you can download. | [Website](https://www.styleshout.com/) |  |
+ <img src="https://tailwindtoolbox.com/favicon-32x32.png" width="16" /> | Tailwind Toolbox | Open source starter templates and components, a directory of handy building kits, generators, plugins and useful tools to kick start your Tailwind CSS project. | [Website](https://tailwindtoolbox.com/) |  |
  <img src="https://templated.co/assets/icons/apple-touch-icon-precomposed.png" width="16" /> | Templated | A collection of 867 Creative Commons-licensed CSS, HTML5 and Responsive site templates created by Cherry, Doni, AJ, and co. | [Website](https://templated.co/) | templates, site templates, website templates, freebies, html5, css, responsive, creative commons |
  <img src="https://templatemo.com/favicon.ico" width="16" /> | TemplateMo | Download 548+ free HTML CSS website templates that included 140+ responsive Bootstrap themes from templatemo and use them for your sites. | [Website](https://templatemo.com/) |  |
  <img src="https://www.tooplate.com/favicon.ico" width="16" /> | Tooplate | Download free HTML CSS website templates from Tooplate and use them for any purpose. Our templates are easy to modify and use for any website. | [Website](https://www.tooplate.com/) |  |
@@ -608,6 +629,7 @@
  <img src="https://bulma.io/favicons/favicon-32x32.png?v=201701041855" width="16" /> | Bulma | Bulma is a free, open source CSS framework based on Flexbox and built with Sass. It's 100% responsive, fully modular, and available for free. | [Website](https://bulma.io/) |  |
  <img src="https://chakra-ui.com/favicon.png" width="16" /> | Chakra | Simple, Modular and Accessible UI Components for your React Applications. | [Website](https://chakra-ui.com/) |  |
  <img src="https://v2.grommet.io/img/mobile-app-icon.png" width="16" /> | Grommet | Grommet documentation. | [Website](https://v2.grommet.io/) | React, UI Kit, Grommet, Grommet Design, UI/UX Framework |
+ <img src="https://kitwind.io/icons/icon-96x96.png" width="16" /> | Kometa UI Kit | A marketplace of fully responsive, multi-purpose UI kits, built with Tailwind CSS, for start-ups and products of any kind. | [Website](https://kitwind.io/products/kometa) |  |
  <img src="https://material.io/static/assets/favicon.ico" width="16" /> | Material Design | Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences. | [Website](https://material.io/) |  |
  <img src="https://material-ui.com/static/icons/180x180.png" width="16" /> | Material-UI | React components for faster and easier web development. Build your own design system, or start with Material Design. | [Website](https://material-ui.com/) |  |
  <img src="https://materializecss.com/images/favicon/favicon-32x32.png" width="16" /> | Materialize | Materialize is a modern responsive CSS framework based on Material Design by Google. | [Website](https://materializecss.com/) |  |
@@ -618,6 +640,7 @@
  <img src="https://semantic-ui.com/favicon.ico" width="16" /> | Semantic UI | Semantic empowers designers and developers by creating a shared vocabulary for UI. | [Website](https://semantic-ui.com/) | html5, ui, library, framework, javascript |
  <img src="https://designrevision.com/favicons/favicon-32x32.png?v=1.5.0" width="16" /> | Shards React | Download Shards React a High-Quality & FREE React UI Kit based on Bootstrap 4 Featuring a Modern Design System and Dozens of Components. | [Website](https://designrevision.com/downloads/shards-react/) |  |
  <img src="https://tailwindcss.com/favicon-32x32.png" width="16" /> | Tailwind CSS | Documentation for the Tailwind CSS framework. | [Website](https://tailwindcss.com/) |  |
+ <img src="https://tailwindcomponents.com/favicon-32x32.png" width="16" /> | TailwindComponents | Tailwind CSS examples from components by the community. Tailwind chart, grids, inputs, forms, templates and much more. | [Website](https://tailwindcomponents.com/) |  |
  <img src="https://getuikit.com/images/apple-touch-icon.png" width="16" /> | UIkit | UIkit, a lightweight and modular front-end framework for developing fast and powerful web interfaces. | [Website](https://getuikit.com/) |  |
 
 **[⬆ Back to Index](#index)**
@@ -657,6 +680,7 @@
 ### <a name="platforms"><a name="reading-writing-platforms">Platforms</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
+ <img src="https://codeconia.com/wp-content/uploads/2020/11/cropped-favicon-32x32.png" width="16" /> | Codeconia | Learn programming with Codeconia. | [Website](https://codeconia.com/) |  |
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--t7tVouP9--/c_limit,f_png,fl_progressive,q_80,w_192/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" width="16" /> | DEV | A constructive and inclusive social network for software developers. With you every step of your journey. | [Website](https://dev.to/) | software development, engineering, rails, javascript, ruby |
  <img src="https://news.ycombinator.com/favicon.ico" width="16" /> | Hacker News | Hacker News is a social news website focusing on computer science and entrepreneurship. | [Website](https://news.ycombinator.com/) |  |
  <img src="https://hackernoon.com/favicon-32x32.png" width="16" /> | Hacker Noon | How hackers start their afternoons. | [Website](https://hackernoon.com/) | blockchain, bitcoin, tech, crypto, software-development, react, vue |
@@ -803,6 +827,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://letsenhance.io/static/favicon/icon-96.png" width="16" /> | Let's Enhance | Simple machine learning software to enlarge images with no quality loss, enhance colors and photo resolution, automatically retouch product photos. Free trial. | [Website](https://letsenhance.io/) |  |
+ <img src="https://svgx.app/assets/favicons/favicon-96x96.png" width="16" /> | SVGX | SVGX is the desktop SVG asset manager designers and developers wished they had. | [Website](https://svgx.app/) |  |
 
 **[⬆ Back to Index](#index)**
 
@@ -878,6 +903,7 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
  <img src="https://assets.website-files.com/5dd40aa8049df8748c72d0ee/5dd9b92056a2d6ed5e537c61_happy-hues-apple-icon.png" width="16" /> | Happy Hues | See color palette inspiration on a real example website. As you click on different palettes every color on this site updates to give you context of how that color could be used for your design or illu... | [Website](https://www.happyhues.co/) |  |
  <img src="https://www.materialpalette.com/assets/favicon-0f3eb1b9f6d525e848b1dca6db1cabd2a3e9e843749cb9ad72222b80ab9fdf19.ico" width="16" /> | Material Design Palette | Choose your favorite colors and get your Material Design palette generated and downloadable. | [Website](https://www.materialpalette.com/) |  |
  <img src="https://www.palettelist.com/favicon.ico" width="16" /> | Palette List | Palette List is a dynamic palette generator. | [Website](https://www.palettelist.com/) | palette, colors, designer tools, developer tools, hex, rgb |
+ <img src="https://usefulcolours.com/favicon.png" width="16" /> | Useful Colours | Super quick, eye-pleasing colours for your UI design. | [Website](https://usefulcolours.com/) |  |
 
 **[⬆ Back to Index](#index)**
 
@@ -914,6 +940,7 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
  <img src="https://learnui.design/favicon.ico" width="16" /> | Learn UI Design | Learn UI Design is a full-length online course on user interface and web design: color, typography, layout, design process, and more. Includes downloadable resources, homework, and a student community... | [Website](https://learnui.design/) |  |
  <img src="https://learnui.design/teachable/img/luxd-favicon.png" width="16" /> | Learn UX Design | Learn UX Design is a full-length online video course on user experience design covering interaction design, user research, usability testing, and more. Includes downloadable resources, homework, and a... | [Website](https://learnui.design/courses/learn-ux-design.html) |  |
  <img src="https://refactoringui.com/favicon-32x32.png" width="16" /> | Refactoring UI | Tired of relying on Bootstrap? Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view. | [Website](https://refactoringui.com/) |  |
+ <img src="https://designcode.io/icons/icon-96x96.png" width="16" /> | UI Design for Developers | Learn just enough visual design to be dangerous as a developer. | [Website](https://designcode.io/ui-design-for-developers) |  |
 
 **[⬆ Back to Index](#index)**
 
@@ -935,6 +962,8 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://usepastel.com/static/images/favicon.png" width="16" /> | Compare pixels | Use this tool to quickly check differences between design mockups and the live website. | [Website](https://usepastel.com/compare-pixels) | feedback, website, share, link, live, visual, comment, sticky, note, pin, server, web |
+ <img src="https://uploads-ssl.webflow.com/5837424ae11409586f837994/5e2fb217d4837e75854462c9_Small.png" width="16" /> | DesignJoy | The #1 unlimited product design subscription service for agencies, startups, and entrepreneurs. | [Website](https://www.designjoy.co/) |  |
+ <img src="https://svgx.app/assets/favicons/favicon-96x96.png" width="16" /> | SVGX | SVGX is the desktop SVG asset manager designers and developers wished they had. | [Website](https://svgx.app/) |  |
 
 **[⬆ Back to Index](#index)**
 
