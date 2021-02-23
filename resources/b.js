@@ -227,6 +227,15 @@ module.exports = [
         icon: 'https://bootstrapped.fm/icon.png',
     },
     {
+        name: 'Bootstrapped Web',
+        categories: [indieHacking.podcasts],
+        description: 'The podcast for founders bootstrapping their startups online.',
+        links: {
+            [website]: 'http://bootstrappedweb.com/',
+        },
+        icon: '',
+    },
+    {
         name: 'BootstrapTaste',
         categories: [programming.templates],
         description:
@@ -309,6 +318,16 @@ module.exports = [
         },
         icon:
             'https://3fxtqy18kygf3on3bu39kh93-wpengine.netdna-ssl.com/wp-content/themes/browserstack/img/favicons/apple-touch-icon.png',
+    },
+    {
+        name: 'Build you SaaS',
+        categories: [indieHacking.podcasts],
+        description:
+            'Can you bootstrap a profitable startup in 2021? Thousands of entrepreneurs, developers, designers, and product people have tried to launch their own web apps. But with so many venture-backed startups now, is it still possible? Follow Jon and Justin as they build their podcasting SaaS, Transistor.fm.',
+        links: {
+            [website]: 'https://saas.transistor.fm/',
+        },
+        icon: 'https://images.transistor.fm/file/transistor/images/favicons/site/6/x64_1541522941-favicon.png',
     },
     {
         name: 'Bulma',

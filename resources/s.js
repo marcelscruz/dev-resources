@@ -239,6 +239,17 @@ module.exports = [
         icon: 'https://www.sketch.com/images/components/icons/favicon@2x.png',
     },
     {
+        name: 'Slow & Steady',
+        categories: [indieHacking.podcasts],
+        description:
+            "Join us as we share what it's like to build and launch a bootstrapped startup while working for yourself full-time. Benedikt is working on Userlist with two other co-founders and Brian is running solo on a product to combat loneliness on remote teams.",
+        links: {
+            [website]: 'https://www.slowandsteadypodcast.com/',
+        },
+        icon:
+            'https://assets.transistor.fm/assets/favicon-6e847568a3fbd949ba82be5cb10951e28b51f7f58d6e573235b0cddf494de2c0.ico',
+    },
+    {
         name: 'Smash',
         categories: [assets.illustrations],
         description: 'Changing and overlapping them, you can quickly illustrate an idea of your startup.',
@@ -340,6 +351,17 @@ module.exports = [
             [website]: 'https://softskills.audio/',
         },
         icon: 'https://softskills.audio/apple-touch-icon-76x76.png',
+    },
+    {
+        name: 'Software Social',
+        categories: [indieHacking.podcasts],
+        description:
+            'Two bootstrapped software founders -- one transitioning from freelancing, and one with an established business -- invite you to join their weekly chats about their businesses.',
+        links: {
+            [website]: 'https://softwaresocial.dev/',
+        },
+        icon:
+            'https://assets.transistor.fm/assets/favicon-6e847568a3fbd949ba82be5cb10951e28b51f7f58d6e573235b0cddf494de2c0.ico',
     },
     {
         name: 'SoloLearn',
