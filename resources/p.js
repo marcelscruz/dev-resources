@@ -1,4 +1,12 @@
-const { toolsAndUtilities, uiDesign, programming, jobs, assets, indieHacking } = require('../constants/categories')
+const {
+    toolsAndUtilities,
+    uiDesign,
+    programming,
+    jobs,
+    assets,
+    indieHacking,
+    infrastructure,
+} = require('../constants/categories')
 const { website } = require('../constants/links')
 
 module.exports = [

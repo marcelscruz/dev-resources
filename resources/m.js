@@ -6,6 +6,7 @@ const {
     toolsAndUtilities,
     readingAndWriting,
     jobs,
+    infrastructure,
 } = require('../constants/categories')
 const { website } = require('../constants/links')
 

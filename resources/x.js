@@ -1,4 +1,4 @@
-const { readingAndWriting, programming } = require('../constants/categories')
+const { readingAndWriting, programming, infrastructure } = require('../constants/categories')
 const { website } = require('../constants/links')
 
 module.exports = [

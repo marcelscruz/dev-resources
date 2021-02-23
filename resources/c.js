@@ -2,6 +2,7 @@ const {
     jobs,
     uiDesign,
     assets,
+    infrastructure,
     programming,
     toolsAndUtilities,
     indieHacking,

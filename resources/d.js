@@ -6,6 +6,7 @@ const {
     uiDesign,
     toolsAndUtilities,
     indieHacking,
+    infrastructure,
 } = require('../constants/categories')
 const { website, youtube } = require('../constants/links')
 
