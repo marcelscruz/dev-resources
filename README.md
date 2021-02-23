@@ -6,7 +6,7 @@
 
  For information on using the public API, please see the [API usage guide](API_USAGE.md).
 
- ### Total resources: 1185
+ ### Total resources: 1186
 
  ## Index
 
@@ -257,6 +257,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://airtable.com/images/favicon/baymax/favicon-32x32.png" width="16" /> | Airtable | Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free. | [Website](https://airtable.com/) |  |
+ <img src="https://assets-global.website-files.com/5f4ec532319820f7c2ccd7a3/5f55620b7b806770e6becea2_32x32%20favico.png" width="16" /> | CopyAI | We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds! | [Website](https://www.copy.ai/) |  |
  <img src="https://customer.io/wp-content/uploads/2019/01/customer-io-touchicon-180.png" width="16" /> | Customer.io | With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions. | [Website](https://customer.io/) |  |
  <img src="https://thehiveindex.com/icons/icon-96x96.png" width="16" /> | Hive Index | Find online communities, across all platforms, for any topic. | [Website](https://thehiveindex.com/)<br />[Twitter](https://twitter.com/thehiveindex) |  |
  <img src="http://indiedrops.com/apple-touch-icon.png" width="16" /> | Indie Drops | Secure unbelivably good deals on early-stage products before they take off. | [Website](http://indiedrops.com/) |  |
@@ -697,6 +698,7 @@
 ### <a name="utilities"><a name="reading-writing-utilities">Utilities</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
+ <img src="https://assets-global.website-files.com/5f4ec532319820f7c2ccd7a3/5f55620b7b806770e6becea2_32x32%20favico.png" width="16" /> | CopyAI | We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds! | [Website](https://www.copy.ai/) |  |
  <img src="https://assets.website-files.com/5e0a5d9d743608d0f3ea6753/5f35091372cfa97ba7438461_daily.dev%20-%20Favicon%4030x.ico" width="16" /> | daily.dev | Daily.dev is the easiest way to stay updated on the latest programming news. Get the hottest dev news from the best tech blogs on any topic you can think of. Stay updated daily, and unlock more time t... | [Website](https://daily.dev/) |  |
  <img src="https://gramara.com/icons/icon-96x96.png?v=36fedff97b311c405df1c8fff551eb82" width="16" /> | Gramara | Write fluent English in a snap! | [Website](https://gramara.com/) |  |
  <img src="https://static.grammarly.com/assets/files/efe57d016d9efff36da7884c193b646b/favicon-32x32.png" width="16" /> | Grammarly | Grammarly makes sure everything you type is easy to read, effective, and mistake-free. Try it today:. | [Website](https://grammarly.com) |  |

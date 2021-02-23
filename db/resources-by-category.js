@@ -1929,10 +1929,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -1943,10 +1943,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -4043,12 +4043,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
+                "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4057,12 +4057,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
+                "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -8075,11 +8075,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -8089,11 +8089,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -10535,6 +10535,18 @@ module.exports = {
                 "Website": "https://airtable.com/"
             },
             "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
+        },
+        {
+            "name": "CopyAI",
+            "categories": [
+                "Reading & Writing/Utilities",
+                "Indie Hacking/Utilities"
+            ],
+            "description": "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds!",
+            "links": {
+                "Website": "https://www.copy.ai/"
+            },
+            "icon": "https://assets-global.website-files.com/5f4ec532319820f7c2ccd7a3/5f55620b7b806770e6becea2_32x32%20favico.png"
         },
         {
             "name": "Customer.io",
@@ -16023,6 +16035,18 @@ module.exports = {
         }
     ],
     "reading-writing-utilities": [
+        {
+            "name": "CopyAI",
+            "categories": [
+                "Reading & Writing/Utilities",
+                "Indie Hacking/Utilities"
+            ],
+            "description": "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds!",
+            "links": {
+                "Website": "https://www.copy.ai/"
+            },
+            "icon": "https://assets-global.website-files.com/5f4ec532319820f7c2ccd7a3/5f55620b7b806770e6becea2_32x32%20favico.png"
+        },
         {
             "name": "daily.dev",
             "categories": [
