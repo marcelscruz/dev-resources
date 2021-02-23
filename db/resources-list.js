@@ -531,6 +531,17 @@ module.exports = [
         "apiCategory": "Anime"
     },
     {
+        "name": "Animista",
+        "categories": [
+            "UI Design/Utilities"
+        ],
+        "description": "Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use.",
+        "links": {
+            "Website": "https://animista.net/"
+        },
+        "icon": "https://animista.net/favicon.ico"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -892,20 +903,6 @@ module.exports = [
         "icon": "https://gokul.site/icons/icon-96x96.png?v=2d9998c4e1e6c7960b943ee0d4373742"
     },
     {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://www.behance.net/dev"
-        },
-        "name": "Behance",
-        "description": "Design",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "unknown",
-        "apiCategory": "Art & Design"
-    },
-    {
         "name": "Behance",
         "categories": [
             "UI Design/Inspiration"
@@ -923,6 +920,20 @@ module.exports = [
             "Website": "https://www.behance.net/"
         },
         "icon": "https://a5.behance.net/2acd763b00852cc6bd4375598dba21e22bfa71e3/img/site/apple-touch-icon.png?cb=264615658"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.behance.net/dev"
+        },
+        "name": "Behance",
+        "description": "Design",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Art & Design"
     },
     {
         "name": "Ben Awad",
@@ -3277,10 +3288,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/M-Media-Group/Covid-19-API"
+            "Website": "https://covid19api.com/"
         },
         "name": "Covid-19",
-        "description": "Covid 19 cases, deaths and recovery per country",
+        "description": "Covid 19 spread, infection and recovery",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -3291,10 +3302,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://covid19api.com/"
+            "Website": "https://github.com/M-Media-Group/Covid-19-API"
         },
         "name": "Covid-19",
-        "description": "Covid 19 spread, infection and recovery",
+        "description": "Covid 19 cases, deaths and recovery per country",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -4229,17 +4240,6 @@ module.exports = [
         "icon": "https://www.dreamhost.com/assets/favicons/apple-touch-icon-76x76-18c4bd5a860942003494cecf3aa217b02285f57f5525c0e4985dcb77f0125d91.png"
     },
     {
-        "name": "Dribbble",
-        "categories": [
-            "UI Design/Inspiration"
-        ],
-        "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
-        "links": {
-            "Website": "https://dribbble.com/"
-        },
-        "icon": "https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -4252,6 +4252,17 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Dribbble",
+        "categories": [
+            "UI Design/Inspiration"
+        ],
+        "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
+        "links": {
+            "Website": "https://dribbble.com/"
+        },
+        "icon": "https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png"
     },
     {
         "categories": [
@@ -7259,17 +7270,6 @@ module.exports = [
         "icon": "https://inclusive-components.design/favicon.ico"
     },
     {
-        "name": "Indeed",
-        "categories": [
-            "Jobs/Resume Builders"
-        ],
-        "description": "Build and upload your resume to Indeed and let your next job find you.",
-        "links": {
-            "Website": "https://www.indeed.com/create-resume"
-        },
-        "icon": "https://www.indeed.com/profile/gatsby-assets/icons/icon-96x96.png?v=d69338e3b43810840b9a84d69dbaa30e"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -7282,6 +7282,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Jobs"
+    },
+    {
+        "name": "Indeed",
+        "categories": [
+            "Jobs/Resume Builders"
+        ],
+        "description": "Build and upload your resume to Indeed and let your next job find you.",
+        "links": {
+            "Website": "https://www.indeed.com/create-resume"
+        },
+        "icon": "https://www.indeed.com/profile/gatsby-assets/icons/icon-96x96.png?v=d69338e3b43810840b9a84d69dbaa30e"
     },
     {
         "name": "Indie Drops",
@@ -8937,17 +8948,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Programming/UI Kits & Libraries"
-        ],
-        "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
-        "links": {
-            "Website": "https://material.io/"
-        },
-        "icon": "https://material.io/static/assets/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Assets/Icons"
         ],
         "description": "Get Material Icons.",
@@ -8955,6 +8955,17 @@ module.exports = [
             "Website": "https://material.io/resources/icons"
         },
         "icon": "https://material.io/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Programming/UI Kits & Libraries"
+        ],
+        "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
+        "links": {
+            "Website": "https://material.io/"
+        },
+        "icon": "https://material.io/static/assets/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -9026,6 +9037,17 @@ module.exports = [
         "apiCategory": "Health"
     },
     {
+        "name": "Medium",
+        "categories": [
+            "Reading & Writing/Platforms"
+        ],
+        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
+        "links": {
+            "Website": "http://medium.com/"
+        },
+        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -9038,17 +9060,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Personality"
-    },
-    {
-        "name": "Medium",
-        "categories": [
-            "Reading & Writing/Platforms"
-        ],
-        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
-        "links": {
-            "Website": "http://medium.com/"
-        },
-        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
     },
     {
         "categories": [
@@ -10648,20 +10659,6 @@ module.exports = [
         "icon": "https://www.peopleperhour.com/img/pph-mobile-banner.png"
     },
     {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://www.pexels.com/api/"
-        },
-        "name": "Pexels",
-        "description": "Free Stock Photos and Videos",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Photography"
-    },
-    {
         "name": "Pexels",
         "categories": [
             "Assets/Videos",
@@ -10680,6 +10677,20 @@ module.exports = [
             "Website": "https://www.pexels.com/"
         },
         "icon": "https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.pexels.com/api/"
+        },
+        "name": "Pexels",
+        "description": "Free Stock Photos and Videos",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Photography"
     },
     {
         "name": "PhpStorm",
@@ -11356,20 +11367,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://qrtag.net/api/"
-        },
-        "name": "QR code",
-        "description": "Create an easy to read QR code and URL shortener",
-        "auth": "",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Development"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "http://goqr.me/api/"
         },
         "name": "QR code",
@@ -11377,6 +11374,20 @@ module.exports = [
         "auth": "",
         "https": true,
         "cors": "unknown",
+        "apiCategory": "Development"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "http://qrtag.net/api/"
+        },
+        "name": "QR code",
+        "description": "Create an easy to read QR code and URL shortener",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
         "apiCategory": "Development"
     },
     {
@@ -14319,20 +14330,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://transport.opendata.ch/"
-        },
-        "name": "Transport for Switzerland",
-        "description": "Swiss public transport API",
-        "auth": "",
-        "https": true,
-        "cors": "unknown",
-        "apiCategory": "Transportation"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://opentransportdata.swiss/en/"
         },
         "name": "Transport for Switzerland",
@@ -14347,10 +14344,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            "Website": "https://transport.opendata.ch/"
         },
-        "name": "Transport for The Netherlands",
-        "description": "OVAPI, country-wide public transport",
+        "name": "Transport for Switzerland",
+        "description": "Swiss public transport API",
         "auth": "",
         "https": true,
         "cors": "unknown",
@@ -14367,6 +14364,20 @@ module.exports = [
         "description": "NS, only trains",
         "auth": "apiKey",
         "https": false,
+        "cors": "unknown",
+        "apiCategory": "Transportation"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+        },
+        "name": "Transport for The Netherlands",
+        "description": "OVAPI, country-wide public transport",
+        "auth": "",
+        "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
     },
@@ -15536,17 +15547,6 @@ module.exports = [
         "apiCategory": "Text Analysis"
     },
     {
-        "name": "WAVE",
-        "categories": [
-            "Tools & Utilities/Accessibility"
-        ],
-        "description": "WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content.",
-        "links": {
-            "Website": "https://wave.webaim.org/"
-        },
-        "icon": "https://wave.webaim.org/favicon.ico"
-    },
-    {
         "name": "Wave",
         "categories": [
             "Tools & Utilities/General"
@@ -15556,6 +15556,17 @@ module.exports = [
             "Website": "https://www.waveapps.com/"
         },
         "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
+    },
+    {
+        "name": "WAVE",
+        "categories": [
+            "Tools & Utilities/Accessibility"
+        ],
+        "description": "WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content.",
+        "links": {
+            "Website": "https://wave.webaim.org/"
+        },
+        "icon": "https://wave.webaim.org/favicon.ico"
     },
     {
         "name": "We Work Remotely",

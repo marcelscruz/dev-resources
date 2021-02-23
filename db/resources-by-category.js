@@ -1929,10 +1929,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -1943,10 +1943,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -6479,20 +6479,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://qrtag.net/api/"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "name": "QR code",
@@ -6500,6 +6486,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://qrtag.net/api/"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Development"
         },
         {
@@ -8075,20 +8075,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Transportation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
@@ -8103,10 +8089,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "https://transport.opendata.ch/"
             },
-            "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
+            "name": "Transport for Switzerland",
+            "description": "Swiss public transport API",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -8123,6 +8109,20 @@ module.exports = {
             "description": "NS, only trains",
             "auth": "apiKey",
             "https": false,
+            "cors": "unknown",
+            "apiCategory": "Transportation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -10770,6 +10770,67 @@ module.exports = {
                 "Website": "https://vuejobs.com/"
             },
             "icon": "https://vuejobs.com/img/favicon/favicon-96x96.png"
+        }
+    ],
+    "ui-design-utilities": [
+        {
+            "name": "Animista",
+            "categories": [
+                "UI Design/Utilities"
+            ],
+            "description": "Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use.",
+            "links": {
+                "Website": "https://animista.net/"
+            },
+            "icon": "https://animista.net/favicon.ico"
+        },
+        {
+            "name": "Compare pixels",
+            "categories": [
+                "UI Design/Utilities"
+            ],
+            "description": "Use this tool to quickly check differences between design mockups and the live website.",
+            "keywords": [
+                "feedback",
+                "website",
+                "share",
+                "link",
+                "live",
+                "visual",
+                "comment",
+                "sticky",
+                "note",
+                "pin",
+                "server",
+                "web"
+            ],
+            "links": {
+                "Website": "https://usepastel.com/compare-pixels"
+            },
+            "icon": "https://usepastel.com/static/images/favicon.png"
+        },
+        {
+            "name": "DesignJoy",
+            "categories": [
+                "UI Design/Utilities"
+            ],
+            "description": "The #1 unlimited product design subscription service for agencies, startups, and entrepreneurs.",
+            "links": {
+                "Website": "https://www.designjoy.co/"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5837424ae11409586f837994/5e2fb217d4837e75854462c9_Small.png"
+        },
+        {
+            "name": "SVGX",
+            "categories": [
+                "UI Design/Utilities",
+                "Tools & Utilities/Image & Video Editing"
+            ],
+            "description": "SVGX is the desktop SVG asset manager designers and developers wished they had.",
+            "links": {
+                "Website": "https://svgx.app/"
+            },
+            "icon": "https://svgx.app/assets/favicons/favicon-96x96.png"
         }
     ],
     "programming-api-building": [
@@ -15739,56 +15800,6 @@ module.exports = {
                 "Website": "https://www.xda-developers.com/"
             },
             "icon": "https://www.xda-developers.com/favicon-32x32.png"
-        }
-    ],
-    "ui-design-utilities": [
-        {
-            "name": "Compare pixels",
-            "categories": [
-                "UI Design/Utilities"
-            ],
-            "description": "Use this tool to quickly check differences between design mockups and the live website.",
-            "keywords": [
-                "feedback",
-                "website",
-                "share",
-                "link",
-                "live",
-                "visual",
-                "comment",
-                "sticky",
-                "note",
-                "pin",
-                "server",
-                "web"
-            ],
-            "links": {
-                "Website": "https://usepastel.com/compare-pixels"
-            },
-            "icon": "https://usepastel.com/static/images/favicon.png"
-        },
-        {
-            "name": "DesignJoy",
-            "categories": [
-                "UI Design/Utilities"
-            ],
-            "description": "The #1 unlimited product design subscription service for agencies, startups, and entrepreneurs.",
-            "links": {
-                "Website": "https://www.designjoy.co/"
-            },
-            "icon": "https://uploads-ssl.webflow.com/5837424ae11409586f837994/5e2fb217d4837e75854462c9_Small.png"
-        },
-        {
-            "name": "SVGX",
-            "categories": [
-                "UI Design/Utilities",
-                "Tools & Utilities/Image & Video Editing"
-            ],
-            "description": "SVGX is the desktop SVG asset manager designers and developers wished they had.",
-            "links": {
-                "Website": "https://svgx.app/"
-            },
-            "icon": "https://svgx.app/assets/favicons/favicon-96x96.png"
         }
     ],
     "assets-images": [
