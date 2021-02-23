@@ -165,6 +165,16 @@ module.exports = [
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
+        name: 'The Hammerstone Podcast',
+        categories: [indieHacking.podcasts],
+        description:
+            "Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm!",
+        links: {
+            [website]: 'https://hammerstone.dev/podcast',
+        },
+        icon: '',
+    },
+    {
         name: 'The Net Ninja',
         categories: [programming.youtubeChannels, programming.learn],
         links: {

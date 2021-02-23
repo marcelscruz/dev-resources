@@ -1,4 +1,12 @@
-const { programming, assets, readingAndWriting, jobs, uiDesign, toolsAndUtilities } = require('../constants/categories')
+const {
+    programming,
+    assets,
+    readingAndWriting,
+    jobs,
+    uiDesign,
+    toolsAndUtilities,
+    indieHacking,
+} = require('../constants/categories')
 const { website, youtube } = require('../constants/links')
 
 module.exports = [
@@ -83,6 +91,16 @@ module.exports = [
             [website]: 'https://www.jetbrains.com/datagrip/',
         },
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
+    },
+    {
+        name: 'Default Alive',
+        categories: [indieHacking.podcasts],
+        description:
+            'Two founders share an unedited look at what it\'s like to bootstrap a startup through weekly updates. Chris Spags is the founder of Jetboost, a suite of no-code plugins for Webflow. Corey Haines is the founder of Swipe Files, a membership site for marketers built with no-code tools. They chronicle their journeys getting to and staying "default alive": profitable, self-sustaining, with infinite runway. – Listen to Default Alive instantly on your tablet, phone or browser - no downloads needed.',
+        links: {
+            [website]: 'https://podtail.com/en/podcast/default-alive/',
+        },
+        icon: 'https://podtail.com/favicon.ico',
     },
     {
         name: 'Delesign',
