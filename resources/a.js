@@ -180,6 +180,16 @@ module.exports = [
         icon: 'https://angel.co/images/icons/iOS/UpdatedFavicon_72x72.png',
     },
     {
+        name: 'Animista',
+        categories: [uiDesign.utilities],
+        description:
+            'Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use.',
+        links: {
+            [website]: 'https://animista.net/',
+        },
+        icon: 'https://animista.net/favicon.ico',
+    },
+    {
         name: 'Apigee',
         categories: [programming.apiBuilding],
         description:
