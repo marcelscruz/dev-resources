@@ -92,7 +92,7 @@ module.exports = [
         name: 'Learn JavaScript',
         description:
             'Learn JavaScript in an interactive environment. Read short lessons, take notes, and complete challenges directly in your browser.',
-    categories: [programming.learn, programming.codeChallenges],
+        categories: [programming.learn, programming.codeChallenges],
         links: {
             [website]: 'https://learnjavascript.online',
         },
@@ -230,6 +230,16 @@ module.exports = [
             [website]: 'https://lobste.rs/',
         },
         icon: 'https://lobste.rs/apple-touch-icon-144.png',
+    },
+    {
+        name: 'Logology',
+        categories: [assets.logos],
+        description:
+            'No random generation and no symbols from a free database. Everything was crafted from the ground-up!',
+        links: {
+            [website]: 'https://www.logology.co/',
+        },
+        icon: 'https://www.logology.co/images/favicon-32x32.png',
     },
     {
         name: 'LogoTaco',
