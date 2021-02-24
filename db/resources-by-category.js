@@ -1929,10 +1929,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -1943,10 +1943,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -16532,6 +16532,17 @@ module.exports = {
             "links": {
                 "Website": "https://hatchful.shopify.com/"
             }
+        },
+        {
+            "name": "Logology",
+            "categories": [
+                "Assets/Logos"
+            ],
+            "description": "No random generation and no symbols from a free database. Everything was crafted from the ground-up!",
+            "links": {
+                "Website": "https://www.logology.co/"
+            },
+            "icon": "https://www.logology.co/images/favicon-32x32.png"
         },
         {
             "name": "LogoTaco",

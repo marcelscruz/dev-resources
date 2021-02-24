@@ -6,7 +6,7 @@
 
  For information on using the public API, please see the [API usage guide](API_USAGE.md).
 
- ### Total resources: 1187
+ ### Total resources: 1188
 
  ## Index
 
@@ -198,6 +198,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | Hatchful | Create stunning logos in seconds - no design skills required! | [Website](https://hatchful.shopify.com/) |  |
+ <img src="https://www.logology.co/images/favicon-32x32.png" width="16" /> | Logology | No random generation and no symbols from a free database. Everything was crafted from the ground-up! | [Website](https://www.logology.co/) |  |
  <img src="https://cdn.shortpixel.ai/client/q_lossless,ret_img,w_32,h_32/https://www.logotaco.com/wp-content/uploads/2019/05/favicon_100.png" width="16" /> | LogoTaco | Create or make your own logo design from our resource of free downloads and templates for businesses, companies, MVP's and startups. No online login required. | [Website](https://www.logotaco.com/) |  |
  <img src="https://cdn.logojoy.com/wp-content/uploads/20190607113635/cropped-favicon-32x32.png" width="16" /> | Looka | Make a logo and build a brand you love with Looka. | [Website](https://looka.com) |  |
  <img src="https://www.tailorbrands.com/wp-content/uploads/2016/07/cropped-icon_red-32x32.png" width="16" /> | Tailor Brands | Tailor Brands AI logo maker allows you to create a logo design that's a perfect match for your business. No pre-made logo templates. Unique designs only. | [Website](https://www.tailorbrands.com/logo-maker) |  |
