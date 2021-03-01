@@ -21,7 +21,7 @@ module.exports = [
         },
         icon: 'https://saas4devs.tech/logo192.png',
     },
-        {
+    {
         name: 'SaaS Design',
         categories: [uiDesign.inspiration],
         description:
