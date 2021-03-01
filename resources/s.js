@@ -21,6 +21,17 @@ module.exports = [
         },
         icon: 'https://saas4devs.tech/logo192.png',
     },
+        {
+        name: 'SaaS Design',
+        categories: [uiDesign.inspiration],
+        description:
+            'For developers looking to create user-friendly designs in Figma: Free & open source Figma templates and UI kits to help kickstart your next project.',
+        keywords: ['design', 'ui', 'figma', 'free-figma-templates', 'uiKitsAndLibraries'],
+        links: {
+            [website]: 'https://www.saasdesign.io/free-figma-templates/',
+        },
+        icon: 'https://i.ibb.co/G0scJVX/transparent-icon.png',
+    },
     {
         name: 'Safari Technology Preview',
         categories: [toolsAndUtilities.browsersAndExtensions],
