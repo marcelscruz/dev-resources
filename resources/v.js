@@ -1,4 +1,4 @@
-const { uiDesign, infrastructure, toolsAndUtilities, assets, jobs } = require('../constants/categories')
+const { uiDesign, infrastructure, toolsAndUtilities, assets, jobs, programming } = require('../constants/categories')
 const { website } = require('../constants/links')
 
 module.exports = [
@@ -14,7 +14,7 @@ module.exports = [
     },
     {
         name: 'Vemto',
-        categories: [toolsAndUtilities.general],
+        categories: [programming.codeGenerators],
         description:
             'Design and generate Laravel/PHP applications in minutes with this desktop tool',
         links: {
