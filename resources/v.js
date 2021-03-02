@@ -13,6 +13,16 @@ module.exports = [
         icon: 'https://vectr.com/images/temp-favicon.png',
     },
     {
+        name: 'Vemto',
+        categories: [toolsAndUtilities.general],
+        description:
+            'Design and generate Laravel/PHP applications in minutes with this desktop tool',
+        links: {
+            [website]: 'https://vemto.app/',
+        },
+        icon: 'https://vemto.app/favicon.png',
+    },
+    {
         name: 'Vercel',
         categories: [infrastructure.hosting],
         description:
