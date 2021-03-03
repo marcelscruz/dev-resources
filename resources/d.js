@@ -148,6 +148,15 @@ module.exports = [
             'https://res.cloudinary.com/practicaldev/image/fetch/s--t7tVouP9--/c_limit,f_png,fl_progressive,q_80,w_192/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png',
     },
     {
+        name: 'Design Resources',
+        categories: [uiDesign.utilities],
+        description: 'A curated list of the best design resources handpicked from around the web.',
+        links: {
+            [website]: 'https://www.designresourc.es/',
+        },
+        icon: 'https://uploads-ssl.webflow.com/5e8b094d33bd3056d4901e70/5e946e20071f2f592ba85f7e_dr.png',
+    },
+    {
         name: 'Dev Ed',
         categories: [programming.youtubeChannels],
         description:
