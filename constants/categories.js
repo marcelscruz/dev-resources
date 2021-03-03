@@ -40,7 +40,7 @@ module.exports = {
         books: 'Programming/Books',
         charts: 'Programming/Charts',
         codeChallenges: 'Programming/Code Challenges',
-        codeGenerators: 'Code Generators',
+        codeGenerators: 'Programming/Code Generators',
         codeSnippets: 'Programming/Code Snippets',
         docsAndCheatsheets: 'Programming/Docs & Cheatsheets',
         javascript: {
