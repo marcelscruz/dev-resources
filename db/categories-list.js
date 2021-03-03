@@ -22,6 +22,7 @@ module.exports = [
     "programming-books",
     "programming-charts",
     "programming-code-challenges",
+    "programming-code-generators",
     "programming-code-snippets",
     "programming-docs-cheatsheets",
     "programming-javascript-react",
