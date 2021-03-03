@@ -6,7 +6,7 @@
 
  For information on using the public API, please see the [API usage guide](API_USAGE.md).
 
- ### Total resources: 1188
+ ### Total resources: 1189
 
  ## Index
 
@@ -926,6 +926,7 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
  <img src="https://mobbin.design/favicon-152.png" width="16" /> | Mobbin | Check out the hand-picked collection of latest mobile design patterns from apps that reflect the best in design. | [Website](https://mobbin.design/) | apps, mobbin, ios, ios ui inspiration, ios11, iphone, iphone X, ui, design, retina, screenshots, ins... |
  <img src="https://onepagelove.com/wp-content/themes/onepagelove/frontend/img/favicon/favicon-32x32.png" width="16" /> | One Page Love | One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources. | [Website](https://onepagelove.com/) |  |
  <img src="https://s3.amazonaws.com/pttrns-2-0-static/assets/img/favicons/favicon-96x96.png" width="16" /> | Pttrns | Check out the finest collection of design patterns, resources, mobile apps and inspiration. | [Website](https://pttrns.com/) | apps, ios, ui, design, visual design, patterns, pttrns, iphone, retina, screenshots, inspiration, mo... |
+ <img src="https://i.ibb.co/G0scJVX/transparent-icon.png" width="16" /> | SaaS Design | For developers looking to create user-friendly designs in Figma: Free & open source Figma templates and UI kits to help kickstart your next project. | [Website](https://www.saasdesign.io/free-figma-templates/) | design, ui, figma, free-figma-templates, uiKitsAndLibraries |
  <img src="https://www.siteinspire.com/favicon.png" width="16" /> | siteInspire | A CSS gallery and showcase of the best web design inspiration, featuring over 2,500 websites searchable by type, subject, and style. | [Website](https://www.siteinspire.com/) |  |
  <img src="https://d3alngem7je9z2.cloudfront.net/favi-64.ico" width="16" /> | SiteSee | A curated gallery of beautiful, modern websites meant to inspire web developers and designers. | [Website](https://sitesee.co/) | website inspiration, website design inspiration, web design gallery, web design, webdesign, inspirat... |
  <img src="https://uidesigndaily.com/public/img/favicon-32x32.png" width="16" /> | UI Design Daily | Weekly FREE UI resources straight to your inbox. | [Website](https://uidesigndaily.com/) | UI Resources, UI Design, Open-Source Design |

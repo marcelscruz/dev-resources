@@ -1929,10 +1929,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -1943,10 +1943,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -4043,12 +4043,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
+                "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4057,12 +4057,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
+                "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -12171,6 +12171,24 @@ module.exports = {
                 "Website": "https://pttrns.com/"
             },
             "icon": "https://s3.amazonaws.com/pttrns-2-0-static/assets/img/favicons/favicon-96x96.png"
+        },
+        {
+            "name": "SaaS Design",
+            "categories": [
+                "UI Design/Inspiration"
+            ],
+            "description": "For developers looking to create user-friendly designs in Figma: Free & open source Figma templates and UI kits to help kickstart your next project.",
+            "keywords": [
+                "design",
+                "ui",
+                "figma",
+                "free-figma-templates",
+                "uiKitsAndLibraries"
+            ],
+            "links": {
+                "Website": "https://www.saasdesign.io/free-figma-templates/"
+            },
+            "icon": "https://i.ibb.co/G0scJVX/transparent-icon.png"
         },
         {
             "name": "siteInspire",
