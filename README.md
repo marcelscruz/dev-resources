@@ -6,7 +6,7 @@
 
  For information on using the public API, please see the [API usage guide](API_USAGE.md).
 
- ### Total resources: 1190
+ ### Total resources: 1191
 
  ## Index
 
@@ -975,6 +975,7 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
 |---|---|---|---|---|
  <img src="https://animista.net/favicon.ico" width="16" /> | Animista | Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use. | [Website](https://animista.net/) |  |
  <img src="https://usepastel.com/static/images/favicon.png" width="16" /> | Compare pixels | Use this tool to quickly check differences between design mockups and the live website. | [Website](https://usepastel.com/compare-pixels) | feedback, website, share, link, live, visual, comment, sticky, note, pin, server, web |
+ <img src="https://uploads-ssl.webflow.com/5e8b094d33bd3056d4901e70/5e946e20071f2f592ba85f7e_dr.png" width="16" /> | Design Resources | A curated list of the best design resources handpicked from around the web. | [Website](https://www.designresourc.es/) |  |
  <img src="https://uploads-ssl.webflow.com/5837424ae11409586f837994/5e2fb217d4837e75854462c9_Small.png" width="16" /> | DesignJoy | The #1 unlimited product design subscription service for agencies, startups, and entrepreneurs. | [Website](https://www.designjoy.co/) |  |
  <img src="https://svgx.app/assets/favicons/favicon-96x96.png" width="16" /> | SVGX | SVGX is the desktop SVG asset manager designers and developers wished they had. | [Website](https://svgx.app/) |  |
 
