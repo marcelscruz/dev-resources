@@ -1,4 +1,4 @@
-const { uiDesign, infrastructure, toolsAndUtilities, assets, jobs } = require('../constants/categories')
+const { uiDesign, infrastructure, toolsAndUtilities, assets, jobs, programming } = require('../constants/categories')
 const { website } = require('../constants/links')
 
 module.exports = [
@@ -11,6 +11,16 @@ module.exports = [
             [website]: 'https://vectr.com/',
         },
         icon: 'https://vectr.com/images/temp-favicon.png',
+    },
+    {
+        name: 'Vemto',
+        categories: [programming.codeGenerators],
+        description:
+            'Design and generate Laravel/PHP applications in minutes with this desktop tool',
+        links: {
+            [website]: 'https://vemto.app/',
+        },
+        icon: 'https://vemto.app/favicon.png',
     },
     {
         name: 'Vercel',
