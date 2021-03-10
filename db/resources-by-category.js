@@ -9571,7 +9571,7 @@ module.exports = {
             "categories": [
                 "Programming/Code Snippets"
             ],
-            "description": "Create beautiful code.",
+            "description": "Turn your code into beautiful images. Choose from a range of syntax colors, hide or show the background, and toggle between a dark and light window.",
             "links": {
                 "Website": "https://ray.so/"
             },
