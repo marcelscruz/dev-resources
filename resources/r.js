@@ -24,7 +24,8 @@ module.exports = [
     {
         name: 'Ray.so',
         categories: [programming.codeSnippets],
-        description: 'Create beautiful code.',
+        description:
+            'Turn your code into beautiful images. Choose from a range of syntax colors, hide or show the background, and toggle between a dark and light window.',
         links: {
             [website]: 'https://ray.so/',
         },
