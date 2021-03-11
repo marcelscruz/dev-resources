@@ -18,12 +18,12 @@ function createLinks(nodes) {
 
         const children = nodes.children.map(createLinks).join('')
 
-        return `<li style="margin: 0px !important;"><details style="margin: 0px !important;"><summary id="${id}">${name}</summary><ul style="list-style-type: none;">${children}</ul></details></li>`
+        return `<details><summary id="${id}">${name}</summary><ul>${children}</ul></details>`
     }
 }
 
 module.exports = function (resources) {
     const links = resources.map(createLinks).join('')
 
-    return `## Index\n<ul style="list-style-type: none; padding: 0;">${links}</ul>`
+    return `## Index\n${links}`
 }
