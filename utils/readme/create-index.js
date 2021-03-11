@@ -12,14 +12,14 @@ function createLinks(nodes) {
             credit = ` - Powered by <a href="https://github.com/public-apis/public-apis">Public APIs</a>`
         }
 
-        return `<br/><a href="#${id}">${name}${credit}</a>`
-        // return `<li id="${id}"><a href="#${id}">${name}${credit}</a></li>`
+        // return `<br/><a href="#${id}">${name}${credit}</a>`
+        return `<li id="${id}"><a href="#${id}">${name}${credit}</a></li>`
     } else {
         const { name, id } = nodes
 
         const children = nodes.children.map(createLinks).join('')
 
-        return `<br/><details><summary id="${id}">${name}</summary>${children}</details>`
+        return `<details><summary id="${id}">${name}</summary>${children}</details><br/>`
     }
 }
 
