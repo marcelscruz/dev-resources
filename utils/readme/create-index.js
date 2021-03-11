@@ -12,7 +12,7 @@ function createLinks(nodes) {
             credit = ` - Powered by <a href="https://github.com/public-apis/public-apis">Public APIs</a>`
         }
 
-        return `<li id="${id}"><a href="#${id}">${name}${credit}</a></li>`
+        return `<li><a href="#${id}">${name}${credit}</a></li>`
     } else {
         const { name, id } = nodes
 
