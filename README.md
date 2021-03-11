@@ -9,70 +9,7 @@
  ### Total resources: 1191
 
  ## Index
-
-<details><br/><summary id="assets">Assets</summary><br/><br/><ul>
-<li id="assets-audio">Audio</li>
-<li id="assets-fonts">Fonts</li>
-<li id="assets-icons">Icons</li>
-<li id="assets-illustrations">Illustrations</li>
-<li id="assets-images">Images</li>
-<li id="assets-logos">Logos</li>
-<li id="assets-videos">Videos</li></ul><br/></details>
-<details><br/><summary id="indie-hacking">Indie Hacking</summary><br/><br/><ul>
-<li id="indie-hacking-books">Books</li>
-<li id="indie-hacking-platforms">Platforms</li>
-<li id="indie-hacking-podcasts">Podcasts</li>
-<li id="indie-hacking-utilities">Utilities</li></ul><br/></details>
-<details><br/><summary id="infrastructure">Infrastructure</summary><br/><br/><ul>
-<li id="infrastructure-databases">Databases</li>
-<li id="infrastructure-hosting">Hosting</li>
-<li id="infrastructure-serverless">Serverless</li></ul><br/></details>
-<details><br/><summary id="jobs">Jobs</summary><br/><br/><ul>
-<li id="jobs-boards">Boards</li>
-<li id="jobs-freelancing">Freelancing</li>
-<li id="jobs-interviews">Interviews</li>
-<li id="jobs-remote-only">Remote Only</li>
-<li id="jobs-resume-builders">Resume Builders</li></ul><br/></details>
-<details><br/><summary id="programming">Programming</summary><br/><br/><ul>
-<li id="programming-api-building">API Building</li>
-<li id="programming-books">Books</li>
-<li id="programming-charts">Charts</li>
-<li id="programming-code-challenges">Code Challenges</li>
-<li id="programming-code-generators">Code Generators</li>
-<li id="programming-code-snippets">Code Snippets</li>
-<li id="programming-docs-cheatsheets">Docs & Cheatsheets</li>
-<details><br/><summary id="programming-javascript">JavaScript</summary><br/><br/><ul>
-<li id="programming-javascript-react">React</li></ul><br/></details>
-<li id="programming-learn">Learn</li>
-<li id="programming-newsletters">Newsletters</li>
-<li id="programming-podcasts">Podcasts</li>
-<li id="programming-templates">Templates</li>
-<li id="programming-testing">Testing</li>
-<li id="programming-ui-kits-libraries">UI Kits & Libraries</li>
-<li id="programming-youtube-channels">YouTube Channels</li></ul><br/></details>
-<details><br/><summary id="reading-writing">Reading & Writing</summary><br/><br/><ul>
-<li id="reading-writing-learn">Learn</li>
-<li id="reading-writing-platforms">Platforms</li>
-<li id="reading-writing-utilities">Utilities</li></ul><br/></details>
-<details><br/><summary id="tools-utilities">Tools & Utilities</summary><br/><br/><ul>
-<li id="tools-utilities-accessibility">Accessibility</li>
-<li id="tools-utilities-analytics">Analytics</li>
-<li id="tools-utilities-browsers-extensions">Browsers & Extensions</li>
-<li id="tools-utilities-editors-extensions">Editors & Extensions</li>
-<li id="tools-utilities-general">General</li>
-<li id="tools-utilities-image-video-editing">Image & Video Editing</li>
-<li id="tools-utilities-performance">Performance</li>
-<li id="tools-utilities-public-apis">Public APIs - Powered by [Public APIs](https://github.com/public-apis/public-apis)</li>
-<li id="tools-utilities-seo">SEO</li>
-<li id="tools-utilities-typing">Typing</li>
-<li id="tools-utilities-website-builders">Website Builders</li></ul><br/></details>
-<details><br/><summary id="ui-design">UI Design</summary><br/><br/><ul>
-<li id="ui-design-color-palettes">Color Palettes</li>
-<li id="ui-design-inspiration">Inspiration</li>
-<li id="ui-design-learn">Learn</li>
-<li id="ui-design-prototyping">Prototyping</li>
-<li id="ui-design-utilities">Utilities</li>
-<li id="ui-design-youtube-channels">YouTube Channels</li></ul><br/></details> 
+<details><summary id="assets">Assets</summary><ul><li id="assets-audio">Audio</li><li id="assets-fonts">Fonts</li><li id="assets-icons">Icons</li><li id="assets-illustrations">Illustrations</li><li id="assets-images">Images</li><li id="assets-logos">Logos</li><li id="assets-videos">Videos</li></ul></details><details><summary id="indie-hacking">Indie Hacking</summary><ul><li id="indie-hacking-books">Books</li><li id="indie-hacking-platforms">Platforms</li><li id="indie-hacking-podcasts">Podcasts</li><li id="indie-hacking-utilities">Utilities</li></ul></details><details><summary id="infrastructure">Infrastructure</summary><ul><li id="infrastructure-databases">Databases</li><li id="infrastructure-hosting">Hosting</li><li id="infrastructure-serverless">Serverless</li></ul></details><details><summary id="jobs">Jobs</summary><ul><li id="jobs-boards">Boards</li><li id="jobs-freelancing">Freelancing</li><li id="jobs-interviews">Interviews</li><li id="jobs-remote-only">Remote Only</li><li id="jobs-resume-builders">Resume Builders</li></ul></details><details><summary id="programming">Programming</summary><ul><li id="programming-api-building">API Building</li><li id="programming-books">Books</li><li id="programming-charts">Charts</li><li id="programming-code-challenges">Code Challenges</li><li id="programming-code-generators">Code Generators</li><li id="programming-code-snippets">Code Snippets</li><li id="programming-docs-cheatsheets">Docs & Cheatsheets</li><details><summary id="programming-javascript">JavaScript</summary><ul><li id="programming-javascript-react">React</li></ul></details><li id="programming-learn">Learn</li><li id="programming-newsletters">Newsletters</li><li id="programming-podcasts">Podcasts</li><li id="programming-templates">Templates</li><li id="programming-testing">Testing</li><li id="programming-ui-kits-libraries">UI Kits & Libraries</li><li id="programming-youtube-channels">YouTube Channels</li></ul></details><details><summary id="reading-writing">Reading & Writing</summary><ul><li id="reading-writing-learn">Learn</li><li id="reading-writing-platforms">Platforms</li><li id="reading-writing-utilities">Utilities</li></ul></details><details><summary id="tools-utilities">Tools & Utilities</summary><ul><li id="tools-utilities-accessibility">Accessibility</li><li id="tools-utilities-analytics">Analytics</li><li id="tools-utilities-browsers-extensions">Browsers & Extensions</li><li id="tools-utilities-editors-extensions">Editors & Extensions</li><li id="tools-utilities-general">General</li><li id="tools-utilities-image-video-editing">Image & Video Editing</li><li id="tools-utilities-performance">Performance</li><li id="tools-utilities-public-apis">Public APIs - Powered by [Public APIs](https://github.com/public-apis/public-apis)</li><li id="tools-utilities-seo">SEO</li><li id="tools-utilities-typing">Typing</li><li id="tools-utilities-website-builders">Website Builders</li></ul></details><details><summary id="ui-design">UI Design</summary><ul><li id="ui-design-color-palettes">Color Palettes</li><li id="ui-design-inspiration">Inspiration</li><li id="ui-design-learn">Learn</li><li id="ui-design-prototyping">Prototyping</li><li id="ui-design-utilities">Utilities</li><li id="ui-design-youtube-channels">YouTube Channels</li></ul></details> 
 
 
 ## <a name="assets">Assets</a> 
