@@ -312,6 +312,16 @@ module.exports = [
         icon: 'https://i1.wp.com/codemyui.com/wp-content/uploads/2017/02/cropped-logo-1.png?fit=32%2C32&ssl=1',
     },
     {
+        name: 'CodeNewbie',
+        keywords: ['careers', 'development', 'jobs'],
+        categories: [programming.podcasts],
+        description: 'Stories from people on their coding journey.',
+        links: {
+            [website]: 'https://www.codenewbie.org/podcast/',
+        },
+        icon: 'https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png',
+    },
+    {
         name: 'CodePen',
         categories: [programming.codeSnippets, toolsAndUtilities.editorsAndExtensions],
         description:
@@ -360,6 +370,16 @@ module.exports = [
             [website]: 'https://blog.codepen.io/radio/',
         },
         icon: 'https://blog.codepen.io/favicon.ico',
+    },
+    {
+        name: 'Codepen radio',
+        categories: [programming.podcasts],
+        description: "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+        links: {
+            [website]: 'https://blog.codepen.io/radio/',
+        },
+        icon: 'https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png',
+
     },
     {
         name: 'Codepip',

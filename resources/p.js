@@ -189,6 +189,15 @@ module.exports = [
         icon: 'https://www.programiz.com/sites/all/themes/programiz/assets/favicon.png',
     },
     {
+        name: 'Programming podcast',
+        categories: [programming.podcasts],
+        description: "The \"Programming\" podcast with Minko Gechev is a weekly show that aims to make us better software engineers! With each new episode, you'll get exposed to a new idea in a brief and accessible way",
+        links: {
+            [website]: 'https://podcast.mgechev.com/',
+        },
+        icon: 'https://podcast.mgechev.com/favicon.ico'
+    },
+    {
         name: 'Project Euler',
         categories: [programming.codeChallenges],
         description: 'A website dedicated to the fascinating world of mathematics and programming.',

@@ -136,6 +136,15 @@ module.exports = [
         icon: 'https://uploads-ssl.webflow.com/5837424ae11409586f837994/5e2fb217d4837e75854462c9_Small.png',
     },
     {
+        name: 'Design Modo',
+        categories: [jobs.boards],
+        description: 'Remote and full time jobs for web designers and developers.',
+        links: {
+            [website]: 'https://designmodo.com/jobs/',
+        },
+        icon: 'https://designmodo.com/wp-content/themes/designmodo/assets/favicon/apple-touch-icon-114x114.png',
+    },
+    {
         name: 'DEV',
         categories: [readingAndWriting.platforms],
         description:
@@ -166,6 +175,15 @@ module.exports = [
             [youtube]: 'https://www.youtube.com/c/DevEd/',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
+    },
+    {
+        name: 'Developer tea',
+        categories: [programming.podcasts],
+        description: 'A podcast for developers designed to fit inside your tea break',
+        links: {
+            [website]: 'https://spec.fm/podcasts/developer-tea',
+        },
+        icon: 'https://spec.fm/static/meta/android-chrome-192x192.png'
     },
     {
         name: 'DevDocs',

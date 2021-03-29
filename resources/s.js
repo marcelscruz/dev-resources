@@ -126,6 +126,16 @@ module.exports = [
         icon: 'https://designrevision.com/favicons/favicon-32x32.png?v=1.5.0',
     },
     {
+        name: 'ShopTalkShow',
+        keywords: ['product', 'apps'],
+        categories: [programming.podcasts],
+        description: 'A weekly podcast about just building websites from Dave Rupert and Chris Coyier.',
+        links: {
+            [website]: 'https://shoptalkshow.com/',
+        },
+        icon: 'https://shoptalkshow.com/favicon.ico',
+    },
+    {
         name: 'Shutterstock',
         categories: [assets.videos, assets.images, assets.icons],
         description:
