@@ -51,6 +51,15 @@ module.exports = [
         icon: 'https://javascriptjob.xyz/img/icons/favicon-32x32.png',
     },
     {
+        name: 'JavaScript for impatient programmers',
+        categories: [programming.books],
+        description:
+            'This book makes JavaScript less challenging to learn for newcomers, by offering a modern view that is as consistent as possible.',
+        links: {
+            [website]: 'https://exploringjs.com/impatient-js/toc.html',
+        },
+    },
+    {
         name: 'JavaScript Info',
         categories: [programming.learn],
         description:
