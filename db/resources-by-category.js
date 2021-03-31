@@ -17869,13 +17869,11 @@ module.exports = {
             "icon": "https://svgx.app/assets/favicons/favicon-96x96.png"
         }
     ],
-    "-object-object-": [
+    "programming-javascript-tooling": [
         {
             "name": "Rome",
             "categories": [
-                {
-                    "react": "Programming/JavaScript/React"
-                }
+                "Programming/JavaScript/Tooling"
             ],
             "description": "Rome is a linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS.",
             "links": {

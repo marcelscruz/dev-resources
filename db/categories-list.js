@@ -1,5 +1,4 @@
 module.exports = [
-    "-object-object-",
     "assets-audio",
     "assets-fonts",
     "assets-icons",
@@ -27,6 +26,7 @@ module.exports = [
     "programming-code-snippets",
     "programming-docs-cheatsheets",
     "programming-javascript-react",
+    "programming-javascript-tooling",
     "programming-learn",
     "programming-newsletters",
     "programming-podcasts",
