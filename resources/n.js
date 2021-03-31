@@ -32,7 +32,7 @@ module.exports = [
         icon: 'https://nextjs.org/static/favicon/favicon-32x32.png',
     },
     {
-        name: 'Nomadist',
+        name: 'Nomad List',
         categories: [jobs.boards, jobs.remoteOnly],
         description: 'Best places to live for a digital nomad',
         links: {
