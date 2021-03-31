@@ -10336,7 +10336,7 @@ module.exports = [
         "apiCategory": "Weather"
     },
     {
-        "name": "Nomadist",
+        "name": "Nomad List",
         "categories": [
             "Jobs/Boards",
             "Jobs/Remote Only"

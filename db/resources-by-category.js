@@ -11646,7 +11646,7 @@ module.exports = {
             "icon": "https://larajobs.com/favicon-32x32.png"
         },
         {
-            "name": "Nomadist",
+            "name": "Nomad List",
             "categories": [
                 "Jobs/Boards",
                 "Jobs/Remote Only"
@@ -13561,7 +13561,7 @@ module.exports = {
             "icon": "https://justremote.co/favicon.ico"
         },
         {
-            "name": "Nomadist",
+            "name": "Nomad List",
             "categories": [
                 "Jobs/Boards",
                 "Jobs/Remote Only"
