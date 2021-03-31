@@ -32,6 +32,15 @@ module.exports = [
         icon: 'https://nextjs.org/static/favicon/favicon-32x32.png',
     },
     {
+        name: 'Nomadist',
+        categories: [jobs.boards, jobs.remoteOnly],
+        description: 'Best places to live for a digital nomad',
+        links: {
+            [website]: 'https://nomadlist.com/',
+        },
+        icon: 'https://nomadlist.com/assets/logo.svg',
+    },
+    {
         name: 'Notepad++',
         categories: [toolsAndUtilities.editorsAndExtensions],
         description:

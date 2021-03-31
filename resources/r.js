@@ -270,6 +270,15 @@ module.exports = [
         icon: 'https://resumegenius.com/wp-content/uploads/2020/02/resume-genius-favicon-1-150x150.png',
     },
     {
+        name: 'Resume maker',
+        categories: [jobs.resumeBuilders],
+        description: '',
+        links: {
+            [website]: 'https://www.resumemaker.online/'
+        },
+        icon: 'https://www.resumemaker.online/favicon-32x32.png'
+    },
+    {
         name: 'Resume Now',
         categories: [jobs.resumeBuilders],
         description:
@@ -287,6 +296,15 @@ module.exports = [
             [website]: 'https://www.jetbrains.com/rider/',
         },
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
+    },
+    {
+        name: 'Rome',
+        categories: [programming.javascript],
+        description: 'Rome is a linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS.',
+        links: {
+            [website]: 'https://rome.tools/',
+        },
+        icon: 'https://rome.tools/img/pinned-rome-logo.svg',
     },
     {
         name: 'RubyMine',

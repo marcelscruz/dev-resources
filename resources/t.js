@@ -185,6 +185,15 @@ module.exports = [
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
+        name: 'The Future of Programming Languages at the Confluence of Paradigms',
+        categories: [programming.youtubeChannels],
+        description: 'Talk on The Future of Programming Languages at the Confluence of Paradigms by Robert "Uncle Bob" Martin',
+        links: {
+            [youtube]: 'https://www.youtube.com/watch?v=ya1xDCCMh7g',
+        },
+        icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
+    }
+    {
         name: 'The Hammerstone Podcast',
         categories: [indieHacking.podcasts],
         description:
