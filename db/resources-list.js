@@ -1015,6 +1015,20 @@ module.exports = [
         "icon": "https://gokul.site/icons/icon-96x96.png?v=2d9998c4e1e6c7960b943ee0d4373742"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.behance.net/dev"
+        },
+        "name": "Behance",
+        "description": "Design",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Art & Design"
+    },
+    {
         "name": "Behance",
         "categories": [
             "UI Design/Inspiration"
@@ -1032,20 +1046,6 @@ module.exports = [
             "Website": "https://www.behance.net/"
         },
         "icon": "https://a5.behance.net/2acd763b00852cc6bd4375598dba21e22bfa71e3/img/site/apple-touch-icon.png?cb=264615658"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://www.behance.net/dev"
-        },
-        "name": "Behance",
-        "description": "Design",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "unknown",
-        "apiCategory": "Art & Design"
     },
     {
         "name": "Ben Awad",
@@ -1126,6 +1126,20 @@ module.exports = [
         "auth": "OAuth",
         "https": true,
         "cors": "yes",
+        "apiCategory": "Books"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://bibleapi.co/"
+        },
+        "name": "Bible",
+        "description": "RESTful Bible API with 7 versions, 4 languages and multiple features",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
         "apiCategory": "Books"
     },
     {
@@ -2653,6 +2667,22 @@ module.exports = [
         "icon": "https://i1.wp.com/codemyui.com/wp-content/uploads/2017/02/cropped-logo-1.png?fit=32%2C32&ssl=1"
     },
     {
+        "name": "CodeNewbie",
+        "keywords": [
+            "careers",
+            "development",
+            "jobs"
+        ],
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "Stories from people on their coding journey.",
+        "links": {
+            "Website": "https://www.codenewbie.org/podcast/"
+        },
+        "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
+    },
+    {
         "name": "CodePen",
         "categories": [
             "Programming/Code Snippets",
@@ -2690,6 +2720,17 @@ module.exports = [
         ],
         "links": {
             "Website": "https://codepen.io/"
+        },
+        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
+    },
+    {
+        "name": "Codepen radio",
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+        "links": {
+            "Website": "https://blog.codepen.io/radio/"
         },
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
@@ -4024,6 +4065,17 @@ module.exports = [
         "icon": "https://s3-us-west-1.amazonaws.com/files.delesign/www/images/32x32.png"
     },
     {
+        "name": "Design Modo",
+        "categories": [
+            "Jobs/Boards"
+        ],
+        "description": "Remote and full time jobs for web designers and developers.",
+        "links": {
+            "Website": "https://designmodo.com/jobs/"
+        },
+        "icon": "https://designmodo.com/wp-content/themes/designmodo/assets/favicon/apple-touch-icon-114x114.png"
+    },
+    {
         "name": "Design Resources",
         "categories": [
             "UI Design/Utilities"
@@ -4165,6 +4217,17 @@ module.exports = [
             "Website": "https://devdocs.io"
         },
         "icon": "https://cdn.devdocs.io/images/apple-icon-76.png"
+    },
+    {
+        "name": "Developer tea",
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "A podcast for developers designed to fit inside your tea break",
+        "links": {
+            "Website": "https://spec.fm/podcasts/developer-tea"
+        },
+        "icon": "https://spec.fm/static/meta/android-chrome-192x192.png"
     },
     {
         "name": "Devhints",
@@ -4309,7 +4372,7 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://discordapp.com/developers/docs/intro"
+            "Website": "https://discord.com/developers/docs/intro"
         },
         "name": "Discord",
         "description": "Make bots for Discord, integrate Discord onto an external platform",
@@ -5766,6 +5829,17 @@ module.exports = [
         "icon": "https://freeicons.io/asset/images/favicon.png"
     },
     {
+        "name": "Freelancer",
+        "categories": [
+            "Jobs/Freelancing"
+        ],
+        "description": "Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 48m. Receive quotes in seconds. Post your job online now.",
+        "links": {
+            "Website": "https://www.freelancer.com/"
+        },
+        "icon": "https://www.f-cdn.com/assets/main/en/app-icons/apple-touch-icon.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -5778,17 +5852,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Business"
-    },
-    {
-        "name": "Freelancer",
-        "categories": [
-            "Jobs/Freelancing"
-        ],
-        "description": "Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 48m. Receive quotes in seconds. Post your job online now.",
-        "links": {
-            "Website": "https://www.freelancer.com/"
-        },
-        "icon": "https://www.f-cdn.com/assets/main/en/app-icons/apple-touch-icon.png"
     },
     {
         "name": "FreePhotos.cc",
@@ -5850,6 +5913,22 @@ module.exports = [
             "Website": "https://frontendfoc.us/"
         },
         "icon": "https://frontendfoc.us/favicon.png"
+    },
+    {
+        "name": "Frontend Happy Hour",
+        "keywords": [
+            "frontend",
+            "web",
+            "web development"
+        ],
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development.",
+        "links": {
+            "Website": "https://frontendhappyhour.com/"
+        },
+        "icon": "https://frontendhappyhour.com/favicon.ico"
     },
     {
         "name": "Frontend Masters",
@@ -5955,6 +6034,20 @@ module.exports = [
             "Website": "https://www.fusioncharts.com/"
         },
         "icon": "https://www.fusioncharts.com/public/favicon/favicon-32x32.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://gameofthronesquotes.xyz/"
+        },
+        "name": "Game of Thrones Quotes",
+        "description": "Some Game of Thrones quotes",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Video"
     },
     {
         "name": "Gatsby",
@@ -6091,6 +6184,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://geocodify.com/"
+        },
+        "name": "Geocodify.com",
+        "description": "Worldwide geocoding, geoparsing and autocomplete for addresses",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Geocoding"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://www.geodatasource.com/web-service"
         },
         "name": "GeoDataSource",
@@ -6141,6 +6248,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Geocoding"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.getping.info"
+        },
+        "name": "GETPing",
+        "description": "Trigger an email notification with a simple GET request",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Development"
     },
     {
         "name": "GetTerms.io",
@@ -6208,6 +6329,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Photography"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://api.gitguardian.com/doc"
+        },
+        "name": "GitGuardian",
+        "description": "Scan files for secrets (API Keys, database credentials, ...)",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "no",
+        "apiCategory": "Security"
     },
     {
         "categories": [
@@ -6557,6 +6692,20 @@ module.exports = [
             "Website": "https://grammarly.com"
         },
         "icon": "https://static.grammarly.com/assets/files/efe57d016d9efff36da7884c193b646b/favicon-32x32.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://github.com/lennertVanSever/graphcountries"
+        },
+        "name": "Graph Countries",
+        "description": "Country-related data like currencies, languages, flags, regions+subregions and bordering countries",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Geocoding"
     },
     {
         "categories": [
@@ -7064,6 +7213,20 @@ module.exports = [
         "apiCategory": "Calendar"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://geodata.gov.hk/gs/"
+        },
+        "name": "Hong Kong GeoData Store",
+        "description": "API for accessing geo-data of Hong Kong",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Geocoding"
+    },
+    {
         "name": "Hoppscotch",
         "categories": [
             "Programming/API Building"
@@ -7102,6 +7265,20 @@ module.exports = [
             "Website": "https://hoppscotch.io/"
         },
         "icon": "https://hoppscotch.io/_nuxt/icons/icon_512x512.9834b3.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://host.io"
+        },
+        "name": "Host.io",
+        "description": "Domains Data API for Developers",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Development"
     },
     {
         "name": "Hostman",
@@ -7292,20 +7469,6 @@ module.exports = [
         "icon": "https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico"
     },
     {
-        "name": "Icons8",
-        "categories": [
-            "Assets/Icons",
-            "Assets/Illustrations",
-            "Assets/Images",
-            "Assets/Audio"
-        ],
-        "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
-        "links": {
-            "Website": "https://icons8.com"
-        },
-        "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -7318,6 +7481,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Icons8",
+        "categories": [
+            "Assets/Icons",
+            "Assets/Illustrations",
+            "Assets/Images",
+            "Assets/Audio"
+        ],
+        "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
+        "links": {
+            "Website": "https://icons8.com"
+        },
+        "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
     },
     {
         "name": "Iconscout",
@@ -8983,6 +9160,20 @@ module.exports = [
         "apiCategory": "Geocoding"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.loginradius.com/docs/"
+        },
+        "name": "LoginRadius",
+        "description": "Managed User Authentication Service",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Security"
+    },
+    {
         "name": "Logology",
         "categories": [
             "Assets/Logos"
@@ -9364,6 +9555,20 @@ module.exports = [
             "Website": "https://matomo.org/"
         },
         "icon": "https://img.matomo.org/spai/q_lossless+ret_img/https://static.matomo.org/wp-content/uploads/2018/11/cropped-DefaultIcon-32x32.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://github.com/DiljotSG/MCU-Countdown"
+        },
+        "name": "MCU Countdown",
+        "description": "A Countdown to the next MCU Film",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Video"
     },
     {
         "name": "MDN Web Docs",
@@ -10131,18 +10336,16 @@ module.exports = [
         "apiCategory": "Weather"
     },
     {
+        "name": "Nomadist",
         "categories": [
-            "Tools & Utilities/Public APIs"
+            "Jobs/Boards",
+            "Jobs/Remote Only"
         ],
+        "description": "Best places to live for a digital nomad",
         "links": {
-            "Website": "https://isdayoff.ru"
+            "Website": "https://nomadlist.com/"
         },
-        "name": "Non-Working Days",
-        "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-        "auth": "",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Calendar"
+        "icon": "https://nomadlist.com/assets/logo.svg"
     },
     {
         "categories": [
@@ -10159,6 +10362,20 @@ module.exports = [
         "apiCategory": "Calendar"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://isdayoff.ru"
+        },
+        "name": "Non-Working Days",
+        "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Calendar"
+    },
+    {
         "name": "Notepad++",
         "categories": [
             "Tools & Utilities/Editors & Extensions"
@@ -10168,6 +10385,17 @@ module.exports = [
             "Website": "https://notepad-plus-plus.org/"
         },
         "icon": "https://notepad-plus-plus.org/favicon.ico"
+    },
+    {
+        "name": "Noun Project",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
+        "links": {
+            "Website": "https://thenounproject.com/"
+        },
+        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
     },
     {
         "categories": [
@@ -10182,17 +10410,6 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
-    },
-    {
-        "name": "Noun Project",
-        "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
-        "links": {
-            "Website": "https://thenounproject.com/"
-        },
-        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
     },
     {
         "name": "Novorésumé",
@@ -10658,6 +10875,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://data.go.th/"
+        },
+        "name": "Open Government, Thailand",
+        "description": "Thailand Government Open Data",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Government"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://www.data.gov/"
         },
         "name": "Open Government, USA",
@@ -11097,6 +11328,20 @@ module.exports = [
         "icon": "https://www.peopleperhour.com/img/pph-mobile-banner.png"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.pexels.com/api/"
+        },
+        "name": "Pexels",
+        "description": "Free Stock Photos and Videos",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Photography"
+    },
+    {
         "name": "Pexels",
         "categories": [
             "Assets/Videos",
@@ -11115,20 +11360,6 @@ module.exports = [
             "Website": "https://www.pexels.com/"
         },
         "icon": "https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://www.pexels.com/api/"
-        },
-        "name": "Pexels",
-        "description": "Free Stock Photos and Videos",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Photography"
     },
     {
         "name": "PhpStorm",
@@ -11244,6 +11475,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://pixe.la"
+        },
+        "name": "Pixela",
+        "description": "API for recording and tracking habits or effort, routines",
+        "auth": "X-Mashape-Key",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Tracking"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://placekitten.com/"
         },
         "name": "PlaceKitten",
@@ -11327,6 +11572,20 @@ module.exports = [
             "Website": "https://www.pluralsight.com/"
         },
         "icon": "https://www.pluralsight.com/etc/clientlibs/pluralsight/main/images/favicons/favicon-96x96.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://pm25.lass-net.org/#apis"
+        },
+        "name": "PM2.5 Open Data Portal",
+        "description": "Open low-cost PM2.5 sensor data",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Environment"
     },
     {
         "categories": [
@@ -11463,17 +11722,6 @@ module.exports = [
         "icon": "https://www.postgresql.org/favicon.ico"
     },
     {
-        "name": "Postman",
-        "categories": [
-            "Programming/API Building"
-        ],
-        "description": "Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.",
-        "links": {
-            "Website": "https://www.postman.com/"
-        },
-        "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -11486,6 +11734,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Development"
+    },
+    {
+        "name": "Postman",
+        "categories": [
+            "Programming/API Building"
+        ],
+        "description": "Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.",
+        "links": {
+            "Website": "https://www.postman.com/"
+        },
+        "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
     },
     {
         "categories": [
@@ -11547,6 +11806,17 @@ module.exports = [
             "Website": "https://www.programiz.com/"
         },
         "icon": "https://www.programiz.com/sites/all/themes/programiz/assets/favicon.png"
+    },
+    {
+        "name": "Programming podcast",
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "The \"Programming\" podcast with Minko Gechev is a weekly show that aims to make us better software engineers! With each new episode, you'll get exposed to a new idea in a brief and accessible way",
+        "links": {
+            "Website": "https://podcast.mgechev.com/"
+        },
+        "icon": "https://podcast.mgechev.com/favicon.ico"
     },
     {
         "categories": [
@@ -11805,13 +12075,13 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://fungenerators.com/api/qrcode/"
+            "Website": "http://goqr.me/api/"
         },
-        "name": "QR Code",
-        "description": "Create new QR Code or decode existing one",
-        "auth": "apiKey",
+        "name": "QR code",
+        "description": "Generate and decode / read QR code graphics",
+        "auth": "",
         "https": true,
-        "cors": "yes",
+        "cors": "unknown",
         "apiCategory": "Development"
     },
     {
@@ -11833,13 +12103,13 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://goqr.me/api/"
+            "Website": "https://fungenerators.com/api/qrcode/"
         },
-        "name": "QR code",
-        "description": "Generate and decode / read QR code graphics",
-        "auth": "",
+        "name": "QR Code",
+        "description": "Create new QR Code or decode existing one",
+        "auth": "apiKey",
         "https": true,
-        "cors": "unknown",
+        "cors": "yes",
         "apiCategory": "Development"
     },
     {
@@ -11855,6 +12125,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Open Data"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://quarantine.country/coronavirus/api/"
+        },
+        "name": "Quarantine",
+        "description": "Coronavirus API with free COVID-19 live updates",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Health"
     },
     {
         "categories": [
@@ -11978,6 +12262,20 @@ module.exports = [
         "https": true,
         "cors": "no",
         "apiCategory": "Animals"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://randommer.io/randommer-api"
+        },
+        "name": "Randommer",
+        "description": "Random data generator",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Test Data"
     },
     {
         "categories": [
@@ -12501,6 +12799,17 @@ module.exports = [
         "icon": "https://resumegenius.com/wp-content/uploads/2020/02/resume-genius-favicon-1-150x150.png"
     },
     {
+        "name": "Resume maker",
+        "categories": [
+            "Jobs/Resume Builders"
+        ],
+        "description": "",
+        "links": {
+            "Website": "https://www.resumemaker.online/"
+        },
+        "icon": "https://www.resumemaker.online/favicon-32x32.png"
+    },
+    {
         "name": "Resume Now",
         "categories": [
             "Jobs/Resume Builders"
@@ -12591,6 +12900,19 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Test Data"
+    },
+    {
+        "name": "Rome",
+        "categories": [
+            {
+                "react": "Programming/JavaScript/React"
+            }
+        ],
+        "description": "Rome is a linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS.",
+        "links": {
+            "Website": "https://rome.tools/"
+        },
+        "icon": "https://rome.tools/img/pinned-rome-logo.svg"
     },
     {
         "categories": [
@@ -12869,7 +13191,7 @@ module.exports = [
         "links": {
             "Website": "https://semantria.readme.io/docs"
         },
-        "name": "Semantira",
+        "name": "Semantria",
         "description": "Text Analytics with sentiment analysis, categorization & named entity extraction",
         "auth": "OAuth",
         "https": true,
@@ -13004,6 +13326,21 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Security"
+    },
+    {
+        "name": "ShopTalkShow",
+        "keywords": [
+            "product",
+            "apps"
+        ],
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "A weekly podcast about just building websites from Dave Rupert and Chris Coyier.",
+        "links": {
+            "Website": "https://shoptalkshow.com/"
+        },
+        "icon": "https://shoptalkshow.com/favicon.ico"
     },
     {
         "categories": [
@@ -13857,6 +14194,20 @@ module.exports = [
         "icon": "https://syntax.fm/static/favicon.png"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://t.ly/docs"
+        },
+        "name": "T.LY",
+        "description": "URL shortener API",
+        "auth": "",
+        "https": true,
+        "cors": "no",
+        "apiCategory": "URL Shorteners"
+    },
+    {
         "name": "Tabler Icons",
         "categories": [
             "Assets/Icons"
@@ -14146,6 +14497,17 @@ module.exports = [
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
     {
+        "name": "The Future of Programming Languages at the Confluence of Paradigms",
+        "categories": [
+            "Programming/YouTube Channels"
+        ],
+        "description": "Talk on The Future of Programming Languages at the Confluence of Paradigms by Robert \"Uncle Bob\" Martin",
+        "links": {
+            "YouTube": "https://www.youtube.com/watch?v=ya1xDCCMh7g"
+        },
+        "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -14241,6 +14603,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Food & Drink"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://vampire-diaries-api.netlify.app/"
+        },
+        "name": "The Vampire Diaries",
+        "description": "TV Show Data",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Video"
     },
     {
         "categories": [
@@ -14403,6 +14779,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Patent"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://tisane.ai/"
+        },
+        "name": "Tisane",
+        "description": "Text Analytics with focus on detection of abusive content and law enforcement applications",
+        "auth": "OAuth",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Text Analysis"
     },
     {
         "name": "tl;dr Marketing",
@@ -15329,6 +15719,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://www.gov.uk/bank-holidays.json"
+        },
+        "name": "UK Bank Holidays",
+        "description": "Bank holidays in England and Wales, Scotland and Northern Ireland",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Calendar"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0"
         },
         "name": "UK Carbon Intensity",
@@ -15453,17 +15857,6 @@ module.exports = [
         "icon": "https://www.unscreen.com/favicon-96x96.png"
     },
     {
-        "name": "Unsplash",
-        "categories": [
-            "Assets/Images"
-        ],
-        "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
-        "links": {
-            "Website": "https://unsplash.com/"
-        },
-        "icon": "https://unsplash.com/favicon-32x32.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -15476,6 +15869,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Photography"
+    },
+    {
+        "name": "Unsplash",
+        "categories": [
+            "Assets/Images"
+        ],
+        "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
+        "links": {
+            "Website": "https://unsplash.com/"
+        },
+        "icon": "https://unsplash.com/favicon-32x32.png"
     },
     {
         "name": "Untools",
@@ -16168,17 +16572,6 @@ module.exports = [
         "apiCategory": "Text Analysis"
     },
     {
-        "name": "Wave",
-        "categories": [
-            "Tools & Utilities/General"
-        ],
-        "description": "Free invoicing & accounting software with credit card processing & payroll services.",
-        "links": {
-            "Website": "https://www.waveapps.com/"
-        },
-        "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
-    },
-    {
         "name": "WAVE",
         "categories": [
             "Tools & Utilities/Accessibility"
@@ -16188,6 +16581,17 @@ module.exports = [
             "Website": "https://wave.webaim.org/"
         },
         "icon": "https://wave.webaim.org/favicon.ico"
+    },
+    {
+        "name": "Wave",
+        "categories": [
+            "Tools & Utilities/General"
+        ],
+        "description": "Free invoicing & accounting software with credit card processing & payroll services.",
+        "links": {
+            "Website": "https://www.waveapps.com/"
+        },
+        "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
     },
     {
         "name": "We Work Remotely",
@@ -16838,7 +17242,7 @@ module.exports = [
         "links": {
             "Website": "http://www.zippopotam.us"
         },
-        "name": "Zippopotam",
+        "name": "Zippopotam.us",
         "description": "Get information about place such as country, city, state, etc",
         "auth": "",
         "https": false,

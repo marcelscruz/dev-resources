@@ -879,6 +879,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://bibleapi.co/"
+            },
+            "name": "Bible",
+            "description": "RESTful Bible API with 7 versions, 4 languages and multiple features",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Books"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://www.bikewise.org/documentation/api_v2"
             },
             "name": "BikeWise",
@@ -2503,7 +2517,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://discordapp.com/developers/docs/intro"
+                "Website": "https://discord.com/developers/docs/intro"
             },
             "name": "Discord",
             "description": "Make bots for Discord, integrate Discord onto an external platform",
@@ -3315,6 +3329,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://gameofthronesquotes.xyz/"
+            },
+            "name": "Game of Thrones Quotes",
+            "description": "Some Game of Thrones quotes",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Video"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://www.gbif.org/developer/summary"
             },
             "name": "GBIF",
@@ -3427,6 +3455,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://geocodify.com/"
+            },
+            "name": "Geocodify.com",
+            "description": "Worldwide geocoding, geoparsing and autocomplete for addresses",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://www.geodatasource.com/web-service"
             },
             "name": "GeoDataSource",
@@ -3483,6 +3525,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://www.getping.info"
+            },
+            "name": "GETPing",
+            "description": "Trigger an email notification with a simple GET request",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "http://developers.gettyimages.com/en/"
             },
             "name": "Getty Images",
@@ -3533,6 +3589,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Photography"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://api.gitguardian.com/doc"
+            },
+            "name": "GitGuardian",
+            "description": "Scan files for secrets (API Keys, database credentials, ...)",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Security"
         },
         {
             "categories": [
@@ -3715,6 +3785,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Anti-Malware"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/lennertVanSever/graphcountries"
+            },
+            "name": "Graph Countries",
+            "description": "Country-related data like currencies, languages, flags, regions+subregions and bordering countries",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Geocoding"
         },
         {
             "categories": [
@@ -3939,6 +4023,34 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Calendar"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://geodata.gov.hk/gs/"
+            },
+            "name": "Hong Kong GeoData Store",
+            "description": "API for accessing geo-data of Hong Kong",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://host.io"
+            },
+            "name": "Host.io",
+            "description": "Domains Data API for Developers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Development"
         },
         {
             "categories": [
@@ -4995,6 +5107,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://www.loginradius.com/docs/"
+            },
+            "name": "LoginRadius",
+            "description": "Managed User Authentication Service",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Security"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://picsum.photos/"
             },
             "name": "Lorem Picsum",
@@ -5185,6 +5311,20 @@ module.exports = {
             "https": false,
             "cors": "unknown",
             "apiCategory": "Games & Comics"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/DiljotSG/MCU-Countdown"
+            },
+            "name": "MCU Countdown",
+            "description": "A Countdown to the next MCU Film",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Video"
         },
         {
             "categories": [
@@ -5751,20 +5891,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://isdayoff.ru"
-            },
-            "name": "Non-Working Days",
-            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Calendar"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://github.com/gadael/icsdb"
             },
             "name": "Non-Working Days",
@@ -5772,6 +5898,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Calendar"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://isdayoff.ru"
+            },
+            "name": "Non-Working Days",
+            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Calendar"
         },
         {
@@ -6148,6 +6288,20 @@ module.exports = {
             "name": "Open Government, Taiwan",
             "description": "Taiwan Government Open Data",
             "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Government"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://data.go.th/"
+            },
+            "name": "Open Government, Thailand",
+            "description": "Thailand Government Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Government"
@@ -6563,6 +6717,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://pixe.la"
+            },
+            "name": "Pixela",
+            "description": "API for recording and tracking habits or effort, routines",
+            "auth": "X-Mashape-Key",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Tracking"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://placekitten.com/"
             },
             "name": "PlaceKitten",
@@ -6613,6 +6781,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://pm25.lass-net.org/#apis"
+            },
+            "name": "PM2.5 Open Data Portal",
+            "description": "Open low-cost PM2.5 sensor data",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Environment"
         },
         {
             "categories": [
@@ -6885,13 +7067,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
+                "Website": "http://goqr.me/api/"
             },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
+            "auth": "",
             "https": true,
-            "cors": "yes",
+            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -6913,13 +7095,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://goqr.me/api/"
+                "Website": "https://fungenerators.com/api/qrcode/"
             },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "auth": "",
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
             "https": true,
-            "cors": "unknown",
+            "cors": "yes",
             "apiCategory": "Development"
         },
         {
@@ -6935,6 +7117,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Open Data"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://quarantine.country/coronavirus/api/"
+            },
+            "name": "Quarantine",
+            "description": "Coronavirus API with free COVID-19 live updates",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Health"
         },
         {
             "categories": [
@@ -7047,6 +7243,20 @@ module.exports = {
             "https": true,
             "cors": "no",
             "apiCategory": "Animals"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://randommer.io/randommer-api"
+            },
+            "name": "Randommer",
+            "description": "Random data generator",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Test Data"
         },
         {
             "categories": [
@@ -7503,7 +7713,7 @@ module.exports = {
             "links": {
                 "Website": "https://semantria.readme.io/docs"
             },
-            "name": "Semantira",
+            "name": "Semantria",
             "description": "Text Analytics with sentiment analysis, categorization & named entity extraction",
             "auth": "OAuth",
             "https": true,
@@ -7879,6 +8089,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://t.ly/docs"
+            },
+            "name": "T.LY",
+            "description": "URL shortener API",
+            "auth": "",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "URL Shorteners"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://github.com/evz/tacofancy-api"
             },
             "name": "TacoFancy",
@@ -8033,6 +8257,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://vampire-diaries-api.netlify.app/"
+            },
+            "name": "The Vampire Diaries",
+            "description": "TV Show Data",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Video"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://www.theaudiodb.com/api_guide.php"
             },
             "name": "TheAudioDB",
@@ -8167,6 +8405,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Patent"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://tisane.ai/"
+            },
+            "name": "Tisane",
+            "description": "Text Analytics with focus on detection of abusive content and law enforcement applications",
+            "auth": "OAuth",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Text Analysis"
         },
         {
             "categories": [
@@ -8839,6 +9091,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.gov.uk/bank-holidays.json"
+            },
+            "name": "UK Bank Holidays",
+            "description": "Bank holidays in England and Wales, Scotland and Northern Ireland",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Calendar"
         },
         {
             "categories": [
@@ -9757,7 +10023,7 @@ module.exports = {
             "links": {
                 "Website": "http://www.zippopotam.us"
             },
-            "name": "Zippopotam",
+            "name": "Zippopotam.us",
             "description": "Get information about place such as country, city, state, etc",
             "auth": "",
             "https": false,
@@ -11031,6 +11297,17 @@ module.exports = {
             "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
         },
         {
+            "name": "The Future of Programming Languages at the Confluence of Paradigms",
+            "categories": [
+                "Programming/YouTube Channels"
+            ],
+            "description": "Talk on The Future of Programming Languages at the Confluence of Paradigms by Robert \"Uncle Bob\" Martin",
+            "links": {
+                "YouTube": "https://www.youtube.com/watch?v=ya1xDCCMh7g"
+            },
+            "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
+        },
+        {
             "name": "The Net Ninja",
             "categories": [
                 "Programming/YouTube Channels",
@@ -11259,6 +11536,17 @@ module.exports = {
             "icon": "https://authenticjobs.com/wp-content/uploads/2020/04/cropped-aj-site-favicon-32x32.png"
         },
         {
+            "name": "Design Modo",
+            "categories": [
+                "Jobs/Boards"
+            ],
+            "description": "Remote and full time jobs for web designers and developers.",
+            "links": {
+                "Website": "https://designmodo.com/jobs/"
+            },
+            "icon": "https://designmodo.com/wp-content/themes/designmodo/assets/favicon/apple-touch-icon-114x114.png"
+        },
+        {
             "name": "EMBERWORK",
             "categories": [
                 "Jobs/Boards"
@@ -11356,6 +11644,18 @@ module.exports = {
                 "Website": "https://larajobs.com/"
             },
             "icon": "https://larajobs.com/favicon-32x32.png"
+        },
+        {
+            "name": "Nomadist",
+            "categories": [
+                "Jobs/Boards",
+                "Jobs/Remote Only"
+            ],
+            "description": "Best places to live for a digital nomad",
+            "links": {
+                "Website": "https://nomadlist.com/"
+            },
+            "icon": "https://nomadlist.com/assets/logo.svg"
         },
         {
             "name": "Python Developer Jobs",
@@ -13259,6 +13559,18 @@ module.exports = {
                 "Website": "https://justremote.co/"
             },
             "icon": "https://justremote.co/favicon.ico"
+        },
+        {
+            "name": "Nomadist",
+            "categories": [
+                "Jobs/Boards",
+                "Jobs/Remote Only"
+            ],
+            "description": "Best places to live for a digital nomad",
+            "links": {
+                "Website": "https://nomadlist.com/"
+            },
+            "icon": "https://nomadlist.com/assets/logo.svg"
         },
         {
             "name": "Remote Impact",
@@ -15479,6 +15791,17 @@ module.exports = {
             "icon": "https://resumegenius.com/wp-content/uploads/2020/02/resume-genius-favicon-1-150x150.png"
         },
         {
+            "name": "Resume maker",
+            "categories": [
+                "Jobs/Resume Builders"
+            ],
+            "description": "",
+            "links": {
+                "Website": "https://www.resumemaker.online/"
+            },
+            "icon": "https://www.resumemaker.online/favicon-32x32.png"
+        },
+        {
             "name": "Resume Now",
             "categories": [
                 "Jobs/Resume Builders"
@@ -15910,6 +16233,33 @@ module.exports = {
             "icon": "http://codewinds.com/assets/favicon-64.png"
         },
         {
+            "name": "CodeNewbie",
+            "keywords": [
+                "careers",
+                "development",
+                "jobs"
+            ],
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "Stories from people on their coding journey.",
+            "links": {
+                "Website": "https://www.codenewbie.org/podcast/"
+            },
+            "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
+        },
+        {
+            "name": "Codepen radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
+        },
+        {
             "name": "CodePen Radio",
             "categories": [
                 "Programming/Podcasts"
@@ -15962,6 +16312,17 @@ module.exports = {
             "icon": "https://d12xoj7p9moygp.cloudfront.net/favicon/favicon-96x96.png"
         },
         {
+            "name": "Developer tea",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast for developers designed to fit inside your tea break",
+            "links": {
+                "Website": "https://spec.fm/podcasts/developer-tea"
+            },
+            "icon": "https://spec.fm/static/meta/android-chrome-192x192.png"
+        },
+        {
             "name": "DevNews",
             "categories": [
                 "Programming/Podcasts"
@@ -15981,6 +16342,22 @@ module.exports = {
         },
         {
             "name": "Front End Happy Hour",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development.",
+            "links": {
+                "Website": "https://frontendhappyhour.com/"
+            },
+            "icon": "https://frontendhappyhour.com/favicon.ico"
+        },
+        {
+            "name": "Frontend Happy Hour",
+            "keywords": [
+                "frontend",
+                "web",
+                "web development"
+            ],
             "categories": [
                 "Programming/Podcasts"
             ],
@@ -16065,6 +16442,17 @@ module.exports = {
             "icon": "https://uploads-ssl.webflow.com/5a9e6c4d3dd0520001f5b761/5ab8c9dfe92abfbae46d72b8_256%20original.png"
         },
         {
+            "name": "Programming podcast",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "The \"Programming\" podcast with Minko Gechev is a weekly show that aims to make us better software engineers! With each new episode, you'll get exposed to a new idea in a brief and accessible way",
+            "links": {
+                "Website": "https://podcast.mgechev.com/"
+            },
+            "icon": "https://podcast.mgechev.com/favicon.ico"
+        },
+        {
             "name": "React 30",
             "categories": [
                 "Programming/Podcasts"
@@ -16096,6 +16484,21 @@ module.exports = {
                 "Website": "https://reactpodcast.simplecast.com/"
             },
             "icon": "https://image.simplecastcdn.com/images/7672009f-32a0-470f-81b8-77a9748d560e/82cc2a41-1a7b-4c91-b6f0-a461c50830ed/simplecast-logo-32.jpg"
+        },
+        {
+            "name": "ShopTalkShow",
+            "keywords": [
+                "product",
+                "apps"
+            ],
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A weekly podcast about just building websites from Dave Rupert and Chris Coyier.",
+            "links": {
+                "Website": "https://shoptalkshow.com/"
+            },
+            "icon": "https://shoptalkshow.com/favicon.ico"
         },
         {
             "name": "Soft Skills Engineering",
@@ -17464,6 +17867,21 @@ module.exports = {
                 "Website": "https://svgx.app/"
             },
             "icon": "https://svgx.app/assets/favicons/favicon-96x96.png"
+        }
+    ],
+    "-object-object-": [
+        {
+            "name": "Rome",
+            "categories": [
+                {
+                    "react": "Programming/JavaScript/React"
+                }
+            ],
+            "description": "Rome is a linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS.",
+            "links": {
+                "Website": "https://rome.tools/"
+            },
+            "icon": "https://rome.tools/img/pinned-rome-logo.svg"
         }
     ],
     "programming-code-generators": [

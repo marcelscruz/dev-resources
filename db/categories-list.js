@@ -1,4 +1,5 @@
 module.exports = [
+    "-object-object-",
     "assets-audio",
     "assets-fonts",
     "assets-icons",
