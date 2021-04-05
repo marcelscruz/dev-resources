@@ -6,6 +6,7 @@ module.exports = [
     "assets-images",
     "assets-logos",
     "assets-videos",
+    "community-personal-websites",
     "indie-hacking-books",
     "indie-hacking-platforms",
     "indie-hacking-podcasts",
