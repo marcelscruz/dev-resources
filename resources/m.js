@@ -9,7 +9,7 @@ const {
     jobs,
     infrastructure,
 } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, twitter, youtube, instagram, linkedin, github, codepen } = require('../constants/links')
 
 module.exports = [
     {
@@ -57,6 +57,12 @@ module.exports = [
         description: 'Web Developer, Public speaker, IT trainer and consultant.',
         links: {
             [website]: 'https://markodenic.com/',
+            [twitter]: 'https://twitter.com/denicmarko',
+            [youtube]: 'https://www.youtube.com/channel/UCRgyPAKycnp_kkpny_uZBcQ',
+            [instagram]: 'https://www.instagram.com/markodenic1/',
+            [linkedin]: 'https://www.linkedin.com/in/marko-denic-full-stack-developer/',
+            [github]: 'https://github.com/markodenic',
+            [codepen]: 'https://codepen.io/denic',
         },
         icon: 'https://markodenic.com/wp-content/themes/blog/favicon/favicon-32x32.png',
     },
