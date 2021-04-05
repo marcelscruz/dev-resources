@@ -161,7 +161,7 @@
 ### <a name="personal-websites"><a name="community-personal-websites">Personal Websites</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
- <img src="https://markodenic.com/wp-content/themes/blog/favicon/favicon-32x32.png" width="16" /> | Marko Denic | Web Developer, Public speaker, IT trainer and consultant. | [Website](https://markodenic.com/) |  |
+ <img src="https://markodenic.com/wp-content/themes/blog/favicon/favicon-32x32.png" width="16" /> | Marko Denic | Web Developer, Public speaker, IT trainer and consultant. | [Website](https://markodenic.com/)<br />[CodePen](https://codepen.io/denic)<br />[GitHub](https://github.com/markodenic)<br />[Instagram](https://www.instagram.com/markodenic1/)<br />[LinkedIn](https://www.linkedin.com/in/marko-denic-full-stack-developer/)<br />[Twitter](https://twitter.com/denicmarko)<br />[YouTube](https://www.youtube.com/channel/UCRgyPAKycnp_kkpny_uZBcQ) |  |
 
 **[⬆ Back to Index](#index)**
 ## <a name="indie-hacking">Indie Hacking</a> 

@@ -18073,7 +18073,13 @@ module.exports = {
             ],
             "description": "Web Developer, Public speaker, IT trainer and consultant.",
             "links": {
-                "Website": "https://markodenic.com/"
+                "Website": "https://markodenic.com/",
+                "Twitter": "https://twitter.com/denicmarko",
+                "YouTube": "https://www.youtube.com/channel/UCRgyPAKycnp_kkpny_uZBcQ",
+                "Instagram": "https://www.instagram.com/markodenic1/",
+                "LinkedIn": "https://www.linkedin.com/in/marko-denic-full-stack-developer/",
+                "GitHub": "https://github.com/markodenic",
+                "CodePen": "https://codepen.io/denic"
             },
             "icon": "https://markodenic.com/wp-content/themes/blog/favicon/favicon-32x32.png"
         }
