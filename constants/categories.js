@@ -13,6 +13,10 @@ module.exports = {
         podcasts: 'Blockchain/Podcasts',
     },
 
+    community: {
+        personalWebsites: 'Community/Personal Websites',
+    },
+
     indieHacking: {
         books: 'Indie Hacking/Books',
         platforms: 'Indie Hacking/Platforms',

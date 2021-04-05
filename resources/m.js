@@ -1,4 +1,5 @@
 const {
+    community,
     indieHacking,
     programming,
     assets,
@@ -49,6 +50,15 @@ module.exports = [
             [website]: 'https://www.manypixels.co/gallery/',
         },
         icon: 'https://www.manypixels.co/gallery/icons/icon-96x96.png?v=1e107cc4927fb83a24c4d7a99f010d8d',
+    },
+    {
+        name: 'Marko Denic',
+        categories: [community.personalWebsites],
+        description: 'Web Developer, Public speaker, IT trainer and consultant.',
+        links: {
+            [website]: 'https://markodenic.com/',
+        },
+        icon: 'https://markodenic.com/wp-content/themes/blog/favicon/favicon-32x32.png',
     },
     {
         name: 'Mastery Games',
