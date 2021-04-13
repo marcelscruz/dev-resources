@@ -641,6 +641,48 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "http://fixer.io"
+            },
+            "name": "apilayer fixer.io",
+            "description": "Exchange rates and currency conversion",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Currency Exchange"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://ipstack.com/"
+            },
+            "name": "apilayer ipstack",
+            "description": "Locate and identify website visitors by IP address",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://numverify.com"
+            },
+            "name": "apilayer numverify",
+            "description": "Phone number validation",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Phone"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://apis.guru/api-doc/"
             },
             "name": "APIs.guru",
@@ -1397,6 +1439,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://github.com/ThatCopy/catAPI/wiki/Usage"
+            },
+            "name": "catAPI",
+            "description": "Random pictures of cats",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Animals"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://docs.thecatapi.com/"
             },
             "name": "Cats",
@@ -1737,7 +1793,7 @@ module.exports = {
             },
             "name": "CleanURI",
             "description": "URL shortener service",
-            "auth": "No",
+            "auth": "",
             "https": true,
             "cors": "yes",
             "apiCategory": "URL Shorteners"
@@ -2069,6 +2125,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://open.caiyunapp.com/ColorfulClouds_Weather_API"
+            },
+            "name": "ColorfulClouds",
+            "description": "Weather",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Weather"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://comicvine.gamespot.com/api/documentation"
             },
             "name": "Comic Vine",
@@ -2371,6 +2441,34 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Video"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://darksky.net/dev/"
+            },
+            "name": "Dark Sky",
+            "description": "Weather",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Weather"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://blog.mugenmonkey.com/2017/09/10/ds3-api.html"
+            },
+            "name": "Dark Souls 3",
+            "description": "Information about Dark Souls 3 Items",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Games & Comics"
         },
         {
             "categories": [
@@ -2735,6 +2833,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Open Source Projects"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://api.duma.gov.ru"
+            },
+            "name": "duma.gov.ru",
+            "description": "Russian State Duma Open Data",
+            "auth": "apiKey",
+            "https": false,
+            "cors": "unknown",
+            "apiCategory": "Government"
         },
         {
             "categories": [
@@ -3155,20 +3267,6 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Sports & Fitness"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "http://fixer.io"
-            },
-            "name": "Fixer.io",
-            "description": "Exchange rates and currency conversion",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Currency Exchange"
         },
         {
             "categories": [
@@ -4547,12 +4645,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
+                "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4561,12 +4659,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
+                "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4625,6 +4723,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.ip2whois.com/"
+            },
+            "name": "IP2WHOIS Information Lookup",
+            "description": "WHOIS domain name lookup",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Development"
         },
         {
             "categories": [
@@ -4705,20 +4817,6 @@ module.exports = {
             },
             "name": "IPInfoDB",
             "description": "Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Geocoding"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://ipstack.com/"
-            },
-            "name": "ipstack",
-            "description": "Locate and identify website visitors by IP address",
             "auth": "apiKey",
             "https": true,
             "cors": "unknown",
@@ -5247,6 +5345,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://docs.localizr.xyz"
+            },
+            "name": "Localizr",
+            "description": "Get a list of countries,currencies or locales translated from a locale/language code",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://locationiq.org/docs/"
             },
             "name": "LocationIQ",
@@ -5465,6 +5577,20 @@ module.exports = {
             "https": false,
             "cors": "unknown",
             "apiCategory": "Games & Comics"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://mpds.io"
+            },
+            "name": "Materials Platform for Data Science",
+            "description": "Curated experimental data for materials science",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Science & Math"
         },
         {
             "categories": [
@@ -6129,20 +6255,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "name": "Numbers",
@@ -6157,24 +6269,24 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://numvalidate.com"
+                "Website": "https://math.tools/api/numbers/"
             },
-            "name": "NumValidate",
-            "description": "Open Source phone number validation",
-            "auth": "",
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "auth": "apiKey",
             "https": true,
-            "cors": "unknown",
-            "apiCategory": "Phone"
+            "cors": "yes",
+            "apiCategory": "Science & Math"
         },
         {
             "categories": [
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://numverify.com"
+                "Website": "https://numvalidate.com"
             },
-            "name": "numverify",
-            "description": "Phone number validation",
+            "name": "NumValidate",
+            "description": "Open Source phone number validation",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -6707,7 +6819,7 @@ module.exports = {
             },
             "name": "Openwhyd",
             "description": "Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)",
-            "auth": "No",
+            "auth": "",
             "https": true,
             "cors": "no",
             "apiCategory": "Music"
@@ -7375,6 +7487,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://dev.qweather.com/"
+            },
+            "name": "QWeather",
+            "description": "Location-based weather data",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Weather"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://fungenerators.com/api/facts/"
             },
             "name": "Random Facts",
@@ -7767,6 +7893,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://satellites.fly.dev"
+            },
+            "name": "Satellite Passes",
+            "description": "Query next satellite passes above you",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://developer.schiphol.nl/"
             },
             "name": "Schiphol Airport",
@@ -7971,6 +8111,20 @@ module.exports = {
             "https": false,
             "cors": "unknown",
             "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://shrtlnk.dev/developer"
+            },
+            "name": "Shrtlnk",
+            "description": "Simple and efficient short link creation",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "URL Shorteners"
         },
         {
             "categories": [
@@ -8999,11 +9153,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -9013,11 +9167,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -9217,6 +9371,20 @@ module.exports = {
             "https": false,
             "cors": "unknown",
             "apiCategory": "Video"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://twelvedata.com/"
+            },
+            "name": "Twelve Data",
+            "description": "Stock market data (real-time & historical)",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Finance"
         },
         {
             "categories": [
@@ -9657,6 +9825,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://docs.valr.com/"
+            },
+            "name": "VALR",
+            "description": "Cryptocurrency Exchange based in South Africa",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Cryptocurrency"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://www.vatcomply.com/documentation"
             },
             "name": "VATComply.com",
@@ -9685,13 +9867,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://vector.express"
+                "Website": "https://vector.express"
             },
-            "name": "Vector Express",
+            "name": "Vector Express v2.0",
             "description": "Free vector file converting API",
             "auth": "",
-            "https": false,
-            "cors": "yes",
+            "https": true,
+            "cors": "no",
             "apiCategory": "Documents & Productivity"
         },
         {
@@ -9861,6 +10043,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Text Analysis"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/robertoduessmann/weather-api"
+            },
+            "name": "weather-api",
+            "description": "A RESTful free API to check the weather",
+            "auth": "",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Weather"
         },
         {
             "categories": [
@@ -10166,6 +10362,20 @@ module.exports = {
             "name": "YouTube",
             "description": "Add YouTube functionality to your sites and apps",
             "auth": "OAuth",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Video"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://yts.mx/api"
+            },
+            "name": "YTS",
+            "description": "Movie Data",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Video"
@@ -13519,6 +13729,17 @@ module.exports = {
                 "Website": "https://simpleanalytics.com/"
             },
             "icon": "https://simpleanalytics.com/favicon-32x32.png"
+        },
+        {
+            "name": "Splitbee",
+            "categories": [
+                "Tools & Utilities/Analytics"
+            ],
+            "description": "Splitbee provides Analytics, Automation, User Funnel and A/B Testing.",
+            "links": {
+                "Website": "https://splitbee.io"
+            },
+            "icon": "https://splitbee.io/icons/favicon-32x32.png"
         }
     ],
     "tools-utilities-general": [
@@ -16445,17 +16666,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "Codepen radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-        },
-        {
             "name": "CodePen Radio",
             "categories": [
                 "Programming/Podcasts"
@@ -16465,6 +16675,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://blog.codepen.io/favicon.ico"
+        },
+        {
+            "name": "Codepen radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
         },
         {
             "name": "Commit Your Code!",
