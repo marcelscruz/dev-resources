@@ -437,6 +437,16 @@ module.exports = [
         icon: 'https://www.soundstripe.com/hubfs/favicon-1.png',
     },
     {
+        name: 'Splitbee',
+        categories: [toolsAndUtilities.analytics],
+        description:
+            'Splitbee provides Analytics, Automation, User Funnel and A/B Testing.',
+        links: {
+            [website]: 'https://splitbee.io'
+        },
+        icon: 'https://splitbee.io/icons/favicon-32x32.png'
+    },
+    {
         name: 'SQLite',
         categories: [infrastructure.databases],
         description:
