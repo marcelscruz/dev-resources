@@ -439,7 +439,7 @@ module.exports = [
     {
         name: 'Splitbee',
         categories: [toolsAndUtilities.analytics],
-        descriptions:
+        description:
             'Splitbee provides Analytics, Automation, User Funnel and A/B Testing.',
         links: {
             [website]: 'https://splitbee.io'
