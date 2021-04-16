@@ -298,6 +298,16 @@ module.exports = [
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
+        name: 'Roadmap SH',
+        categories: [toolsAndUtilities.general],
+        description:
+            'Step by step guides and paths to learn different tools or technologies',
+        links: {
+            [website]: 'https://roadmap.sh/',
+        },
+        icon: 'https://roadmap.sh/brand.png',
+    },
+    {
         name: 'Rome',
         categories: [programming.javascript.tooling],
         description:
