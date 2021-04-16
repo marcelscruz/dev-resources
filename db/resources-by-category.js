@@ -1915,20 +1915,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/validate-api"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Data Validation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/phone-number-validation-API"
             },
             "name": "Cloudmersive Validate",
@@ -1937,6 +1923,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Phone"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/validate-api"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Data Validation"
         },
         {
             "categories": [
@@ -2293,10 +2293,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -2307,10 +2307,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -4729,12 +4729,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
+                "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4743,12 +4743,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
+                "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -6269,20 +6269,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://isdayoff.ru"
-            },
-            "name": "Non-Working Days",
-            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Calendar"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://github.com/gadael/icsdb"
             },
             "name": "Non-Working Days",
@@ -6290,6 +6276,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Calendar"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://isdayoff.ru"
+            },
+            "name": "Non-Working Days",
+            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Calendar"
         },
         {
@@ -7459,13 +7459,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://goqr.me/api/"
+                "Website": "https://fungenerators.com/api/qrcode/"
             },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "auth": "",
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
             "https": true,
-            "cors": "unknown",
+            "cors": "yes",
             "apiCategory": "Development"
         },
         {
@@ -7487,13 +7487,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
+                "Website": "http://goqr.me/api/"
             },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
+            "auth": "",
             "https": true,
-            "cors": "yes",
+            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -9279,11 +9279,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -9293,11 +9293,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -11006,6 +11006,17 @@ module.exports = {
             "icon": "https://ray.so/img/icons/favicon-32x32.png"
         },
         {
+            "name": "snappify",
+            "categories": [
+                "Programming/Code Snippets"
+            ],
+            "description": "Snappify helps you to create beautiful code snippets with ease.",
+            "links": {
+                "Website": "https://snappify.io/"
+            },
+            "icon": "https://snappify.io/images/favicon-196.png"
+        },
+        {
             "name": "Snipit",
             "categories": [
                 "Programming/Code Snippets"
@@ -12306,11 +12317,11 @@ module.exports = {
             "icon": "https://svgx.app/assets/favicons/favicon-96x96.png"
         }
     ],
-    "programming-api-building": [
+    "tools-utilities-api-building": [
         {
             "name": "Apigee",
             "categories": [
-                "Programming/API Building"
+                "Tools & Utilities/API Building"
             ],
             "description": "Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.",
             "links": {
@@ -12321,7 +12332,7 @@ module.exports = {
         {
             "name": "Hoppscotch",
             "categories": [
-                "Programming/API Building"
+                "Tools & Utilities/API Building"
             ],
             "description": "Helps you create requests faster, saving precious time on development.",
             "keywords": [
@@ -12361,7 +12372,7 @@ module.exports = {
         {
             "name": "Insomnia",
             "categories": [
-                "Programming/API Building"
+                "Tools & Utilities/API Building"
             ],
             "description": "Design & Debug APIs like a human, not a robot.",
             "links": {
@@ -12372,7 +12383,7 @@ module.exports = {
         {
             "name": "Paw",
             "categories": [
-                "Programming/API Building"
+                "Tools & Utilities/API Building"
             ],
             "description": "Paw is a full-featured HTTP client that lets you test and describe the APIs you build or consume. It has a beautiful native macOS interface to compose requests, inspect server responses, generate client code and export API definitions.",
             "links": {
@@ -12383,7 +12394,7 @@ module.exports = {
         {
             "name": "Postman",
             "categories": [
-                "Programming/API Building"
+                "Tools & Utilities/API Building"
             ],
             "description": "Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.",
             "links": {
@@ -12392,9 +12403,23 @@ module.exports = {
             "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
         },
         {
+            "name": "Retool",
+            "categories": [
+                "Tools & Utilities/API Building",
+                "Tools & Utilities/General"
+            ],
+            "description": "Retool is the fast way to build internal tools. Drag-and-drop our building blocks and connect them to your databases and APIs to build your own tools, instantly. Connects with Postgres, REST APIs, GraphQL, Firebase, Google Sheets, and more.  Built by developers, for developers. Trusted by startups and Fortune 500s. Sign up for free.",
+            "links": {
+                "Website": "https://retool.com/",
+                "Twitter": "https://twitter.com/retool",
+                "LinkedIn": "https://www.linkedin.com/company/tryretool"
+            },
+            "icon": "https://retool.com/favicon.png"
+        },
+        {
             "name": "Serverless Stack",
             "categories": [
-                "Programming/API Building",
+                "Tools & Utilities/API Building",
                 "Infrastructure/Serverless"
             ],
             "description": "Serverless Stack (SST) is a framework that makes it easy to build serverless applications.",
@@ -12406,7 +12431,7 @@ module.exports = {
         {
             "name": "Swagger",
             "categories": [
-                "Programming/API Building"
+                "Tools & Utilities/API Building"
             ],
             "description": "Simplify API development for users, teams, and enterprises with our open source and professional toolset. Find out how Swagger can help you and get started today.",
             "links": {
@@ -12962,6 +12987,17 @@ module.exports = {
                 "Website": "https://www.frontendmentor.io/"
             },
             "icon": "https://www.frontendmentor.io/static/favicon/favicon-32x32.png"
+        },
+        {
+            "name": "Frontend Practice",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "A collection of real websites for developers to recreate to improve and test their skills.",
+            "links": {
+                "Website": "https://www.frontendpractice.com/"
+            },
+            "icon": "https://www.frontendpractice.com/icons/icon-96x96.png"
         },
         {
             "name": "Hackr.io",
@@ -13725,6 +13761,23 @@ module.exports = {
             "icon": "https://assets.uigarage.net/content/uploads/2019/05/favicon-50x50.png"
         },
         {
+            "name": "UI HUT",
+            "categories": [
+                "UI Design/Inspiration",
+                "Assets/Icons",
+                "Assets/Illustrations"
+            ],
+            "description": "Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices.",
+            "links": {
+                "Website": "https://www.uihut.com/",
+                "Twitter": "https://twitter.com/uihutofficial",
+                "Facebook": "https://www.facebook.com/uihutofficial",
+                "Instagram": "https://www.instagram.com/uihutofficial/",
+                "LinkedIn": "https://www.linkedin.com/company/uihutofficial"
+            },
+            "icon": "https://www.uihut.com/favicon.jpg"
+        },
+        {
             "name": "UI Movement",
             "categories": [
                 "UI Design/Inspiration"
@@ -13743,6 +13796,17 @@ module.exports = {
                 "Website": "https://uimovement.com/"
             },
             "icon": "https://uimovement.com/static/website/images/icons/favicon-96x96.png"
+        },
+        {
+            "name": "Web Design Inspiration",
+            "categories": [
+                "UI Design/Inspiration"
+            ],
+            "description": "Visit the #1 Inspiration Gallery. Everyday, we help Webdesigners, Agencies and Entrepreneurs to be inspired for their next web design project.",
+            "links": {
+                "Website": "https://www.webdesign-inspiration.com/"
+            },
+            "icon": "https://www.webdesign-inspiration.com/favicon.ico"
         },
         {
             "name": "Webframe",
@@ -13945,6 +14009,32 @@ module.exports = {
                 "Website": "https://opensource.builders/"
             },
             "icon": "https://opensource.builders/icons/icon-96x96.png?v=e7a352862c009ec6682391b2e58d6469"
+        },
+        {
+            "name": "readme.so",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "Use readme.so's markdown editor and ready made templates to easily create a simple README for your repositories",
+            "links": {
+                "Website": "https://readme.so/",
+                "GitHub": "https://github.com/katherinepeterson/readme.so"
+            },
+            "icon": "https://readme.so/favicon.ico"
+        },
+        {
+            "name": "Retool",
+            "categories": [
+                "Tools & Utilities/API Building",
+                "Tools & Utilities/General"
+            ],
+            "description": "Retool is the fast way to build internal tools. Drag-and-drop our building blocks and connect them to your databases and APIs to build your own tools, instantly. Connects with Postgres, REST APIs, GraphQL, Firebase, Google Sheets, and more.  Built by developers, for developers. Trusted by startups and Fortune 500s. Sign up for free.",
+            "links": {
+                "Website": "https://retool.com/",
+                "Twitter": "https://twitter.com/retool",
+                "LinkedIn": "https://www.linkedin.com/company/tryretool"
+            },
+            "icon": "https://retool.com/favicon.png"
         },
         {
             "name": "Roadmap SH",
@@ -14475,6 +14565,23 @@ module.exports = {
             "icon": "https://usesmash.com/images/favicon32.png"
         },
         {
+            "name": "UI HUT",
+            "categories": [
+                "UI Design/Inspiration",
+                "Assets/Icons",
+                "Assets/Illustrations"
+            ],
+            "description": "Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices.",
+            "links": {
+                "Website": "https://www.uihut.com/",
+                "Twitter": "https://twitter.com/uihutofficial",
+                "Facebook": "https://www.facebook.com/uihutofficial",
+                "Instagram": "https://www.instagram.com/uihutofficial/",
+                "LinkedIn": "https://www.linkedin.com/company/uihutofficial"
+            },
+            "icon": "https://www.uihut.com/favicon.jpg"
+        },
+        {
             "name": "unDraw",
             "categories": [
                 "Assets/Illustrations"
@@ -14963,6 +15070,20 @@ module.exports = {
             "icon": "https://chakra-ui.com/favicon.png"
         },
         {
+            "name": "Choc UI",
+            "categories": [
+                "Programming/UI Kits & Libraries"
+            ],
+            "description": "Choc UI is a set of accessible and reusable components that are commonly used in web applications.",
+            "links": {
+                "Website": "https://choc-ui.tech/",
+                "Twitter": "https://twitter.com/choc_ui",
+                "Discord": "https://discord.gg/XcD8bNv7Ne",
+                "GitHub": "https://github.com/anubra266/choc-ui"
+            },
+            "icon": "https://choc-ui.tech/favicon-32x32.png"
+        },
+        {
             "name": "Grommet",
             "categories": [
                 "Programming/UI Kits & Libraries"
@@ -15036,6 +15157,18 @@ module.exports = {
             "icon": "https://onsen.io/icons/favicon.ico"
         },
         {
+            "name": "OpenChakra",
+            "categories": [
+                "Programming/UI Kits & Libraries"
+            ],
+            "description": "React JSX visual editor for Chakra UI.",
+            "links": {
+                "Website": "https://openchakra.app/",
+                "GitHub": "https://github.com/premieroctet/openchakra"
+            },
+            "icon": "https://openchakra.app/favicon.ico"
+        },
+        {
             "name": "Prime",
             "categories": [
                 "Programming/UI Kits & Libraries"
@@ -15096,6 +15229,18 @@ module.exports = {
                 "Website": "https://designrevision.com/downloads/shards-react/"
             },
             "icon": "https://designrevision.com/favicons/favicon-32x32.png?v=1.5.0"
+        },
+        {
+            "name": "Supabase UI",
+            "categories": [
+                "Programming/UI Kits & Libraries"
+            ],
+            "description": "An open-source UI component library inspired by Tailwind and AntDesign.",
+            "links": {
+                "Website": "https://ui.supabase.io/",
+                "GitHub": "GitHub"
+            },
+            "icon": "https://ui.supabase.io/favicon.ico"
         },
         {
             "name": "Tailwind CSS",
@@ -15674,6 +15819,23 @@ module.exports = {
                 "Website": "https://tablericons.com/"
             },
             "icon": "https://tablericons.com/favicon.png"
+        },
+        {
+            "name": "UI HUT",
+            "categories": [
+                "UI Design/Inspiration",
+                "Assets/Icons",
+                "Assets/Illustrations"
+            ],
+            "description": "Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices.",
+            "links": {
+                "Website": "https://www.uihut.com/",
+                "Twitter": "https://twitter.com/uihutofficial",
+                "Facebook": "https://www.facebook.com/uihutofficial",
+                "Instagram": "https://www.instagram.com/uihutofficial/",
+                "LinkedIn": "https://www.linkedin.com/company/uihutofficial"
+            },
+            "icon": "https://www.uihut.com/favicon.jpg"
         },
         {
             "name": "UpLabs",
@@ -16698,6 +16860,17 @@ module.exports = {
             "icon": "https://cheatography.com/images/cheatography-iphone.png"
         },
         {
+            "name": "CSS Reference",
+            "categories": [
+                "Programming/Docs & Cheatsheets"
+            ],
+            "description": "CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.",
+            "links": {
+                "Website": "https://cssreference.io/"
+            },
+            "icon": "https://cssreference.io/favicons/favicon-32x32.png"
+        },
+        {
             "name": "Dart Cheatsheet Codelab",
             "categories": [
                 "Programming/Docs & Cheatsheets"
@@ -16729,6 +16902,17 @@ module.exports = {
                 "Website": "https://devhints.io/"
             },
             "icon": "https://devhints.io/assets/favicon.png"
+        },
+        {
+            "name": "HTML Reference",
+            "categories": [
+                "Programming/Docs & Cheatsheets"
+            ],
+            "description": "A free guide to all HTML elements and attributes.",
+            "links": {
+                "Website": "https://htmlreference.io/"
+            },
+            "icon": "https://htmlreference.io/favicons/favicon-32x32.png"
         },
         {
             "name": "MDN Web Docs",
@@ -16803,17 +16987,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "CodePen Radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://blog.codepen.io/favicon.ico"
-        },
-        {
             "name": "Codepen radio",
             "categories": [
                 "Programming/Podcasts"
@@ -16823,6 +16996,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
+        },
+        {
+            "name": "CodePen Radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://blog.codepen.io/favicon.ico"
         },
         {
             "name": "Commit Your Code!",
@@ -17751,6 +17935,30 @@ module.exports = {
             "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
         }
     ],
+    "tools-utilities-domains": [
+        {
+            "name": "domain.garden",
+            "categories": [
+                "Tools & Utilities/Domains"
+            ],
+            "description": "Instantly search across 1000+ new domain name extensions. Generate clever names, compare registry prices, and list popular examples per TLD.",
+            "links": {
+                "Website": "https://domain.garden/"
+            },
+            "icon": "https://domain.garden/favicon.ico"
+        },
+        {
+            "name": "Escrow",
+            "categories": [
+                "Tools & Utilities/Domains"
+            ],
+            "description": "Secure online payment processing from the world’s largest online escrow service since 1999. Trusted by 1M+ users. Priced as low as 0.89%. For transactions $100 to $10M+.",
+            "links": {
+                "Website": "https://www.escrow.com/"
+            },
+            "icon": "https://www.escrow.com/build/images/favicons/favicon-32x32.png"
+        }
+    ],
     "tools-utilities-website-builders": [
         {
             "name": "DreamHost",
@@ -17947,6 +18155,22 @@ module.exports = {
             "icon": "https://designcode.io/icons/icon-96x96.png"
         }
     ],
+    "indie-hacking-marketing": [
+        {
+            "name": "Everyone Hates Marketers",
+            "categories": [
+                "Indie Hacking/Marketing"
+            ],
+            "description": "It's the antidote to marketing bullshit. Receive a free, 8-lesson video course + a super practical, no-bullshit essay in your inbox every Tuesday.",
+            "links": {
+                "Website": "https://www.everyonehatesmarketers.com/",
+                "YouTube": "https://www.youtube.com/channel/UCOeHlb7boJXbQLExb7_ia3w",
+                "Apple Podcasts": "https://podcasts.apple.com/us/podcast/everyone-hates-marketers/id1221256195",
+                "Spotify": "https://open.spotify.com/show/7iEF1qovZZiaP1iRtxGARo?si=ZrxDGNEnRzegia-NOgLn-Q"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5f5b3208b507493089d50445/5fa0382a02da241b9adae56e_favicon-32x32.png"
+        }
+    ],
     "infrastructure-serverless": [
         {
             "name": "Firebase",
@@ -17964,7 +18188,7 @@ module.exports = {
         {
             "name": "Serverless Stack",
             "categories": [
-                "Programming/API Building",
+                "Tools & Utilities/API Building",
                 "Infrastructure/Serverless"
             ],
             "description": "Serverless Stack (SST) is a framework that makes it easy to build serverless applications.",

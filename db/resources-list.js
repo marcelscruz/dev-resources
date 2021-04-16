@@ -670,7 +670,7 @@ module.exports = [
     {
         "name": "Apigee",
         "categories": [
-            "Programming/API Building"
+            "Tools & Utilities/API Building"
         ],
         "description": "Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.",
         "links": {
@@ -2257,6 +2257,20 @@ module.exports = [
         "icon": "https://uploads-ssl.webflow.com/5ba4b3c973b5d218459f7e6f/5f33ce7fe8e7463f6c74c26f_checklist-web-image.png"
     },
     {
+        "name": "Choc UI",
+        "categories": [
+            "Programming/UI Kits & Libraries"
+        ],
+        "description": "Choc UI is a set of accessible and reusable components that are commonly used in web applications.",
+        "links": {
+            "Website": "https://choc-ui.tech/",
+            "Twitter": "https://twitter.com/choc_ui",
+            "Discord": "https://discord.gg/XcD8bNv7Ne",
+            "GitHub": "https://github.com/anubra266/choc-ui"
+        },
+        "icon": "https://choc-ui.tech/favicon-32x32.png"
+    },
+    {
         "name": "Chrome",
         "categories": [
             "Tools & Utilities/Browsers & Extensions"
@@ -2643,20 +2657,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://cloudmersive.com/validate-api"
-        },
-        "name": "Cloudmersive Validate",
-        "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Data Validation"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://cloudmersive.com/phone-number-validation-API"
         },
         "name": "Cloudmersive Validate",
@@ -2665,6 +2665,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Phone"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://cloudmersive.com/validate-api"
+        },
+        "name": "Cloudmersive Validate",
+        "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Data Validation"
     },
     {
         "name": "Code to go",
@@ -2878,17 +2892,6 @@ module.exports = [
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
-        "name": "CodePen Radio",
-        "categories": [
-            "Programming/Podcasts"
-        ],
-        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-        "links": {
-            "Website": "https://blog.codepen.io/radio/"
-        },
-        "icon": "https://blog.codepen.io/favicon.ico"
-    },
-    {
         "name": "Codepen radio",
         "categories": [
             "Programming/Podcasts"
@@ -2898,6 +2901,17 @@ module.exports = [
             "Website": "https://blog.codepen.io/radio/"
         },
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
+    },
+    {
+        "name": "CodePen Radio",
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+        "links": {
+            "Website": "https://blog.codepen.io/radio/"
+        },
+        "icon": "https://blog.codepen.io/favicon.ico"
     },
     {
         "name": "Codepip",
@@ -3679,10 +3693,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://covid19api.com/"
+            "Website": "https://github.com/M-Media-Group/Covid-19-API"
         },
         "name": "Covid-19",
-        "description": "Covid 19 spread, infection and recovery",
+        "description": "Covid 19 cases, deaths and recovery per country",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -3693,10 +3707,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/M-Media-Group/Covid-19-API"
+            "Website": "https://covid19api.com/"
         },
         "name": "Covid-19",
-        "description": "Covid 19 cases, deaths and recovery per country",
+        "description": "Covid 19 spread, infection and recovery",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -3854,6 +3868,17 @@ module.exports = [
             "Website": "https://cssnectar.com//"
         },
         "icon": "https://i0.wp.com/cssnectar.com/wp-content/uploads/2016/04/favicon.png?fit=47%2C47&ssl=1"
+    },
+    {
+        "name": "CSS Reference",
+        "categories": [
+            "Programming/Docs & Cheatsheets"
+        ],
+        "description": "CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.",
+        "links": {
+            "Website": "https://cssreference.io/"
+        },
+        "icon": "https://cssreference.io/favicons/favicon-32x32.png"
     },
     {
         "name": "CSS Weekly",
@@ -4673,6 +4698,17 @@ module.exports = [
         "apiCategory": "Animals"
     },
     {
+        "name": "domain.garden",
+        "categories": [
+            "Tools & Utilities/Domains"
+        ],
+        "description": "Instantly search across 1000+ new domain name extensions. Generate clever names, compare registry prices, and list popular examples per TLD.",
+        "links": {
+            "Website": "https://domain.garden/"
+        },
+        "icon": "https://domain.garden/favicon.ico"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -5159,6 +5195,17 @@ module.exports = [
         "icon": "https://error404.fun/img/favicon-32x32.png"
     },
     {
+        "name": "Escrow",
+        "categories": [
+            "Tools & Utilities/Domains"
+        ],
+        "description": "Secure online payment processing from the world’s largest online escrow service since 1999. Trusted by 1M+ users. Priced as low as 0.89%. For transactions $100 to $10M+.",
+        "links": {
+            "Website": "https://www.escrow.com/"
+        },
+        "icon": "https://www.escrow.com/build/images/favicons/favicon-32x32.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -5213,6 +5260,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Events"
+    },
+    {
+        "name": "Everyone Hates Marketers",
+        "categories": [
+            "Indie Hacking/Marketing"
+        ],
+        "description": "It's the antidote to marketing bullshit. Receive a free, 8-lesson video course + a super practical, no-bullshit essay in your inbox every Tuesday.",
+        "links": {
+            "Website": "https://www.everyonehatesmarketers.com/",
+            "YouTube": "https://www.youtube.com/channel/UCOeHlb7boJXbQLExb7_ia3w",
+            "Apple Podcasts": "https://podcasts.apple.com/us/podcast/everyone-hates-marketers/id1221256195",
+            "Spotify": "https://open.spotify.com/show/7iEF1qovZZiaP1iRtxGARo?si=ZrxDGNEnRzegia-NOgLn-Q"
+        },
+        "icon": "https://uploads-ssl.webflow.com/5f5b3208b507493089d50445/5fa0382a02da241b9adae56e_favicon-32x32.png"
     },
     {
         "categories": [
@@ -6123,17 +6184,6 @@ module.exports = [
         "icon": "https://freeicons.io/asset/images/favicon.png"
     },
     {
-        "name": "Freelancer",
-        "categories": [
-            "Jobs/Freelancing"
-        ],
-        "description": "Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 48m. Receive quotes in seconds. Post your job online now.",
-        "links": {
-            "Website": "https://www.freelancer.com/"
-        },
-        "icon": "https://www.f-cdn.com/assets/main/en/app-icons/apple-touch-icon.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -6146,6 +6196,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Business"
+    },
+    {
+        "name": "Freelancer",
+        "categories": [
+            "Jobs/Freelancing"
+        ],
+        "description": "Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 48m. Receive quotes in seconds. Post your job online now.",
+        "links": {
+            "Website": "https://www.freelancer.com/"
+        },
+        "icon": "https://www.f-cdn.com/assets/main/en/app-icons/apple-touch-icon.png"
     },
     {
         "name": "FreePhotos.cc",
@@ -6245,6 +6306,17 @@ module.exports = [
             "Website": "https://www.frontendmentor.io/"
         },
         "icon": "https://www.frontendmentor.io/static/favicon/favicon-32x32.png"
+    },
+    {
+        "name": "Frontend Practice",
+        "categories": [
+            "Programming/Learn"
+        ],
+        "description": "A collection of real websites for developers to recreate to improve and test their skills.",
+        "links": {
+            "Website": "https://www.frontendpractice.com/"
+        },
+        "icon": "https://www.frontendpractice.com/icons/icon-96x96.png"
     },
     {
         "name": "Frontendor",
@@ -7537,7 +7609,7 @@ module.exports = [
     {
         "name": "Hoppscotch",
         "categories": [
-            "Programming/API Building"
+            "Tools & Utilities/API Building"
         ],
         "description": "Helps you create requests faster, saving precious time on development.",
         "keywords": [
@@ -7598,6 +7670,17 @@ module.exports = [
             "Website": "https://hostman.com/"
         },
         "icon": "https://hostman.com/favicon.ico"
+    },
+    {
+        "name": "HTML Reference",
+        "categories": [
+            "Programming/Docs & Cheatsheets"
+        ],
+        "description": "A free guide to all HTML elements and attributes.",
+        "links": {
+            "Website": "https://htmlreference.io/"
+        },
+        "icon": "https://htmlreference.io/favicons/favicon-32x32.png"
     },
     {
         "name": "HTML5 Accessibility",
@@ -8079,7 +8162,7 @@ module.exports = [
     {
         "name": "Insomnia",
         "categories": [
-            "Programming/API Building"
+            "Tools & Utilities/API Building"
         ],
         "description": "Design & Debug APIs like a human, not a robot.",
         "links": {
@@ -8231,12 +8314,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://ipapi.co/api/#introduction"
+            "Website": "https://ip-api.com/docs"
         },
         "name": "IP Location",
-        "description": "Find IP address location information",
+        "description": "Find location with ip address",
         "auth": "",
-        "https": true,
+        "https": false,
         "cors": "unknown",
         "apiCategory": "Geocoding"
     },
@@ -8245,12 +8328,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://ip-api.com/docs"
+            "Website": "https://ipapi.co/api/#introduction"
         },
         "name": "IP Location",
-        "description": "Find location with ip address",
+        "description": "Find IP address location information",
         "auth": "",
-        "https": false,
+        "https": true,
         "cors": "unknown",
         "apiCategory": "Geocoding"
     },
@@ -9991,17 +10074,6 @@ module.exports = [
         "apiCategory": "Health"
     },
     {
-        "name": "Medium",
-        "categories": [
-            "Reading & Writing/Platforms"
-        ],
-        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
-        "links": {
-            "Website": "http://medium.com/"
-        },
-        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -10014,6 +10086,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Personality"
+    },
+    {
+        "name": "Medium",
+        "categories": [
+            "Reading & Writing/Platforms"
+        ],
+        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
+        "links": {
+            "Website": "http://medium.com/"
+        },
+        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
     },
     {
         "categories": [
@@ -10747,20 +10830,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://isdayoff.ru"
-        },
-        "name": "Non-Working Days",
-        "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-        "auth": "",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Calendar"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://github.com/gadael/icsdb"
         },
         "name": "Non-Working Days",
@@ -10768,6 +10837,20 @@ module.exports = [
         "auth": "",
         "https": true,
         "cors": "unknown",
+        "apiCategory": "Calendar"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://isdayoff.ru"
+        },
+        "name": "Non-Working Days",
+        "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
         "apiCategory": "Calendar"
     },
     {
@@ -11428,6 +11511,18 @@ module.exports = [
         "apiCategory": "Geocoding"
     },
     {
+        "name": "OpenChakra",
+        "categories": [
+            "Programming/UI Kits & Libraries"
+        ],
+        "description": "React JSX visual editor for Chakra UI.",
+        "links": {
+            "Website": "https://openchakra.app/",
+            "GitHub": "https://github.com/premieroctet/openchakra"
+        },
+        "icon": "https://openchakra.app/favicon.ico"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -11703,7 +11798,7 @@ module.exports = [
     {
         "name": "Paw",
         "categories": [
-            "Programming/API Building"
+            "Tools & Utilities/API Building"
         ],
         "description": "Paw is a full-featured HTTP client that lets you test and describe the APIs you build or consume. It has a beautiful native macOS interface to compose requests, inspect server responses, generate client code and export API definitions.",
         "links": {
@@ -11751,20 +11846,6 @@ module.exports = [
         "icon": "https://www.peopleperhour.com/img/pph-mobile-banner.png"
     },
     {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://www.pexels.com/api/"
-        },
-        "name": "Pexels",
-        "description": "Free Stock Photos and Videos",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Photography"
-    },
-    {
         "name": "Pexels",
         "categories": [
             "Assets/Videos",
@@ -11783,6 +11864,20 @@ module.exports = [
             "Website": "https://www.pexels.com/"
         },
         "icon": "https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.pexels.com/api/"
+        },
+        "name": "Pexels",
+        "description": "Free Stock Photos and Videos",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Photography"
     },
     {
         "name": "PhpStorm",
@@ -11849,6 +11944,19 @@ module.exports = [
         "apiCategory": "Test Data"
     },
     {
+        "name": "Pixabay",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Illustrations"
+        ],
+        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
+        "links": {
+            "Website": "https://pixabay.com/"
+        },
+        "icon": "https://pixabay.com/favicon-32x32.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -11861,19 +11969,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Photography"
-    },
-    {
-        "name": "Pixabay",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Illustrations"
-        ],
-        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
-        "links": {
-            "Website": "https://pixabay.com/"
-        },
-        "icon": "https://pixabay.com/favicon-32x32.png"
     },
     {
         "name": "Pixel Love",
@@ -12131,17 +12226,6 @@ module.exports = [
         "icon": "https://www.postgresql.org/favicon.ico"
     },
     {
-        "name": "Postman",
-        "categories": [
-            "Programming/API Building"
-        ],
-        "description": "Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.",
-        "links": {
-            "Website": "https://www.postman.com/"
-        },
-        "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -12154,6 +12238,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Development"
+    },
+    {
+        "name": "Postman",
+        "categories": [
+            "Tools & Utilities/API Building"
+        ],
+        "description": "Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.",
+        "links": {
+            "Website": "https://www.postman.com/"
+        },
+        "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
     },
     {
         "categories": [
@@ -12484,13 +12579,13 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://goqr.me/api/"
+            "Website": "https://fungenerators.com/api/qrcode/"
         },
-        "name": "QR code",
-        "description": "Generate and decode / read QR code graphics",
-        "auth": "",
+        "name": "QR Code",
+        "description": "Create new QR Code or decode existing one",
+        "auth": "apiKey",
         "https": true,
-        "cors": "unknown",
+        "cors": "yes",
         "apiCategory": "Development"
     },
     {
@@ -12512,13 +12607,13 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://fungenerators.com/api/qrcode/"
+            "Website": "http://goqr.me/api/"
         },
-        "name": "QR Code",
-        "description": "Create new QR Code or decode existing one",
-        "auth": "apiKey",
+        "name": "QR code",
+        "description": "Generate and decode / read QR code graphics",
+        "auth": "",
         "https": true,
-        "cors": "yes",
+        "cors": "unknown",
         "apiCategory": "Development"
     },
     {
@@ -12866,6 +12961,18 @@ module.exports = [
         "icon": "https://reactjobsboard.com/images/apple-touch-icon.png"
     },
     {
+        "name": "readme.so",
+        "categories": [
+            "Tools & Utilities/General"
+        ],
+        "description": "Use readme.so's markdown editor and ready made templates to easily create a simple README for your repositories",
+        "links": {
+            "Website": "https://readme.so/",
+            "GitHub": "https://github.com/katherinepeterson/readme.so"
+        },
+        "icon": "https://readme.so/favicon.ico"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -12908,6 +13015,17 @@ module.exports = [
         "apiCategory": "Open Data"
     },
     {
+        "name": "reddit",
+        "categories": [
+            "Reading & Writing/Platforms"
+        ],
+        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
+        "links": {
+            "Website": "https://www.reddit.com/"
+        },
+        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -12920,17 +13038,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Social"
-    },
-    {
-        "name": "reddit",
-        "categories": [
-            "Reading & Writing/Platforms"
-        ],
-        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
-        "links": {
-            "Website": "https://www.reddit.com/"
-        },
-        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
     },
     {
         "categories": [
@@ -13242,6 +13349,20 @@ module.exports = [
             "Website": "https://www.resume-now.com/"
         },
         "icon": "https://www.resume-now.com/favicon.png"
+    },
+    {
+        "name": "Retool",
+        "categories": [
+            "Tools & Utilities/API Building",
+            "Tools & Utilities/General"
+        ],
+        "description": "Retool is the fast way to build internal tools. Drag-and-drop our building blocks and connect them to your databases and APIs to build your own tools, instantly. Connects with Postgres, REST APIs, GraphQL, Firebase, Google Sheets, and more.  Built by developers, for developers. Trusted by startups and Fortune 500s. Sign up for free.",
+        "links": {
+            "Website": "https://retool.com/",
+            "Twitter": "https://twitter.com/retool",
+            "LinkedIn": "https://www.linkedin.com/company/tryretool"
+        },
+        "icon": "https://retool.com/favicon.png"
     },
     {
         "categories": [
@@ -13661,7 +13782,7 @@ module.exports = [
     {
         "name": "Serverless Stack",
         "categories": [
-            "Programming/API Building",
+            "Tools & Utilities/API Building",
             "Infrastructure/Serverless"
         ],
         "description": "Serverless Stack (SST) is a framework that makes it easy to build serverless applications.",
@@ -14106,6 +14227,17 @@ module.exports = [
             "Website": "https://www.smplkit.com/"
         },
         "icon": "https://uploads-ssl.webflow.com/5e08877ced2a2771907388a9/5e2d9bc8d2e0671a88b1658b_smplkit-icon-3.png"
+    },
+    {
+        "name": "snappify",
+        "categories": [
+            "Programming/Code Snippets"
+        ],
+        "description": "Snappify helps you to create beautiful code snippets with ease.",
+        "links": {
+            "Website": "https://snappify.io/"
+        },
+        "icon": "https://snappify.io/images/favicon-196.png"
     },
     {
         "name": "Snipit",
@@ -14559,6 +14691,18 @@ module.exports = [
         "icon": "https://supabase.io/new/favicon/favicon-32x32.png"
     },
     {
+        "name": "Supabase UI",
+        "categories": [
+            "Programming/UI Kits & Libraries"
+        ],
+        "description": "An open-source UI component library inspired by Tailwind and AntDesign.",
+        "links": {
+            "Website": "https://ui.supabase.io/",
+            "GitHub": "GitHub"
+        },
+        "icon": "https://ui.supabase.io/favicon.ico"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -14645,7 +14789,7 @@ module.exports = [
     {
         "name": "Swagger",
         "categories": [
-            "Programming/API Building"
+            "Tools & Utilities/API Building"
         ],
         "description": "Simplify API development for users, teams, and enterprises with our open source and professional toolset. Find out how Swagger can help you and get started today.",
         "links": {
@@ -15759,11 +15903,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://opentransportdata.swiss/en/"
+            "Website": "https://transport.opendata.ch/"
         },
         "name": "Transport for Switzerland",
-        "description": "Official Swiss Public Transport Open Data",
-        "auth": "apiKey",
+        "description": "Swiss public transport API",
+        "auth": "",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
@@ -15773,11 +15917,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://transport.opendata.ch/"
+            "Website": "https://opentransportdata.swiss/en/"
         },
         "name": "Transport for Switzerland",
-        "description": "Swiss public transport API",
-        "auth": "",
+        "description": "Official Swiss Public Transport Open Data",
+        "auth": "apiKey",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
@@ -16163,6 +16307,23 @@ module.exports = [
         "icon": "https://assets.uigarage.net/content/uploads/2019/05/favicon-50x50.png"
     },
     {
+        "name": "UI HUT",
+        "categories": [
+            "UI Design/Inspiration",
+            "Assets/Icons",
+            "Assets/Illustrations"
+        ],
+        "description": "Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices.",
+        "links": {
+            "Website": "https://www.uihut.com/",
+            "Twitter": "https://twitter.com/uihutofficial",
+            "Facebook": "https://www.facebook.com/uihutofficial",
+            "Instagram": "https://www.instagram.com/uihutofficial/",
+            "LinkedIn": "https://www.linkedin.com/company/uihutofficial"
+        },
+        "icon": "https://www.uihut.com/favicon.jpg"
+    },
+    {
         "name": "UI Movement",
         "categories": [
             "UI Design/Inspiration"
@@ -16460,17 +16621,6 @@ module.exports = [
         "apiCategory": "Tracking"
     },
     {
-        "name": "Upwork",
-        "categories": [
-            "Jobs/Freelancing"
-        ],
-        "description": "Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.",
-        "links": {
-            "Website": "https://www.upwork.com/"
-        },
-        "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -16483,6 +16633,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Jobs"
+    },
+    {
+        "name": "Upwork",
+        "categories": [
+            "Jobs/Freelancing"
+        ],
+        "description": "Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.",
+        "links": {
+            "Website": "https://www.upwork.com/"
+        },
+        "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
     },
     {
         "categories": [
@@ -17113,17 +17274,6 @@ module.exports = [
         "apiCategory": "Text Analysis"
     },
     {
-        "name": "Wave",
-        "categories": [
-            "Tools & Utilities/General"
-        ],
-        "description": "Free invoicing & accounting software with credit card processing & payroll services.",
-        "links": {
-            "Website": "https://www.waveapps.com/"
-        },
-        "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
-    },
-    {
         "name": "WAVE",
         "categories": [
             "Tools & Utilities/Accessibility"
@@ -17133,6 +17283,17 @@ module.exports = [
             "Website": "https://wave.webaim.org/"
         },
         "icon": "https://wave.webaim.org/favicon.ico"
+    },
+    {
+        "name": "Wave",
+        "categories": [
+            "Tools & Utilities/General"
+        ],
+        "description": "Free invoicing & accounting software with credit card processing & payroll services.",
+        "links": {
+            "Website": "https://www.waveapps.com/"
+        },
+        "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
     },
     {
         "name": "We Work Remotely",
@@ -17186,6 +17347,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Weather"
+    },
+    {
+        "name": "Web Design Inspiration",
+        "categories": [
+            "UI Design/Inspiration"
+        ],
+        "description": "Visit the #1 Inspiration Gallery. Everyday, we help Webdesigners, Agencies and Entrepreneurs to be inspired for their next web design project.",
+        "links": {
+            "Website": "https://www.webdesign-inspiration.com/"
+        },
+        "icon": "https://www.webdesign-inspiration.com/favicon.ico"
     },
     {
         "name": "Web Developer",
