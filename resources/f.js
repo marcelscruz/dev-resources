@@ -445,7 +445,8 @@ module.exports = [
         name: 'Frontend Happy Hour',
         keywords: ['frontend', 'web', 'web development'],
         categories: [programming.podcasts],
-        description: 'A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development.',
+        description:
+            'A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development.',
         links: {
             [website]: 'https://frontendhappyhour.com/',
         },
@@ -469,6 +470,15 @@ module.exports = [
             [website]: 'https://www.frontendmentor.io/',
         },
         icon: 'https://www.frontendmentor.io/static/favicon/favicon-32x32.png',
+    },
+    {
+        name: 'Frontend Practice',
+        categories: [programming.learn],
+        description: 'A collection of real websites for developers to recreate to improve and test their skills.',
+        links: {
+            [website]: 'https://www.frontendpractice.com/',
+        },
+        icon: 'https://www.frontendpractice.com/icons/icon-96x96.png',
     },
     {
         name: 'Frontendor',

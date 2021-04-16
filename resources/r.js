@@ -7,7 +7,7 @@ const {
     assets,
     infrastructure,
 } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, twitter, linkedin, github } = require('../constants/links')
 
 module.exports = [
     {
@@ -110,6 +110,17 @@ module.exports = [
             [website]: 'https://reactjobsboard.com/',
         },
         icon: 'https://reactjobsboard.com/images/apple-touch-icon.png',
+    },
+    {
+        name: 'readme.so',
+        categories: [toolsAndUtilities.general],
+        description:
+            "Use readme.so's markdown editor and ready made templates to easily create a simple README for your repositories",
+        links: {
+            [website]: 'https://readme.so/',
+            [github]: 'https://github.com/katherinepeterson/readme.so',
+        },
+        icon: 'https://readme.so/favicon.ico',
     },
     {
         name: 'reddit',
@@ -287,6 +298,18 @@ module.exports = [
             [website]: 'https://www.resume-now.com/',
         },
         icon: 'https://www.resume-now.com/favicon.png',
+    },
+    {
+        name: 'Retool',
+        categories: [toolsAndUtilities.apiBuilding, toolsAndUtilities.general],
+        description:
+            'Retool is the fast way to build internal tools. Drag-and-drop our building blocks and connect them to your databases and APIs to build your own tools, instantly. Connects with Postgres, REST APIs, GraphQL, Firebase, Google Sheets, and more.  Built by developers, for developers. Trusted by startups and Fortune 500s. Sign up for free.',
+        links: {
+            [website]: 'https://retool.com/',
+            [twitter]: 'https://twitter.com/retool',
+            [linkedin]: 'https://www.linkedin.com/company/tryretool',
+        },
+        icon: 'https://retool.com/favicon.png',
     },
     {
         name: 'Rider',

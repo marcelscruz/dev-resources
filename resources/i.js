@@ -140,7 +140,7 @@ module.exports = [
     },
     {
         name: 'Insomnia',
-        categories: [programming.apiBuilding],
+        categories: [toolsAndUtilities.apiBuilding],
         description: 'Design & Debug APIs like a human, not a robot.',
         links: {
             [website]: 'https://insomnia.rest/',

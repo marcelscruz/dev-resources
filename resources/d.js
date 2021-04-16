@@ -183,7 +183,7 @@ module.exports = [
         links: {
             [website]: 'https://spec.fm/podcasts/developer-tea',
         },
-        icon: 'https://spec.fm/static/meta/android-chrome-192x192.png'
+        icon: 'https://spec.fm/static/meta/android-chrome-192x192.png',
     },
     {
         name: 'DevDocs',
@@ -279,6 +279,16 @@ module.exports = [
             [website]: 'https://divjoy.com/',
         },
         icon: 'https://divjoy.com/static/images/favicon/favicon-32x32.png',
+    },
+    {
+        name: 'domain.garden',
+        categories: [toolsAndUtilities.domains],
+        description:
+            'Instantly search across 1000+ new domain name extensions. Generate clever names, compare registry prices, and list popular examples per TLD.',
+        links: {
+            [website]: 'https://domain.garden/',
+        },
+        icon: 'https://domain.garden/favicon.ico',
     },
     {
         name: 'Dracula theme',

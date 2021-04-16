@@ -200,7 +200,7 @@ module.exports = [
     },
     {
         name: 'Hoppscotch',
-        categories: [programming.apiBuilding],
+        categories: [toolsAndUtilities.apiBuilding],
         description: 'Helps you create requests faster, saving precious time on development.',
         keywords: [
             'hoppscotch',
@@ -244,6 +244,15 @@ module.exports = [
             [website]: 'https://hostman.com/',
         },
         icon: 'https://hostman.com/favicon.ico',
+    },
+    {
+        name: 'HTML Reference',
+        categories: [programming.docsAndCheatsheets],
+        description: 'A free guide to all HTML elements and attributes.',
+        links: {
+            [website]: 'https://htmlreference.io/',
+        },
+        icon: 'https://htmlreference.io/favicons/favicon-32x32.png',
     },
     {
         name: 'HTML5 Accessibility',

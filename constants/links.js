@@ -1,6 +1,7 @@
 module.exports = {
     applePodcasts: 'Apple Podcasts',
     codepen: 'CodePen',
+    discord: 'Discord',
     facebook: 'Facebook',
     github: 'GitHub',
     googlePodcasts: 'Google Podcasts',

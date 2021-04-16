@@ -1,5 +1,5 @@
 const { toolsAndUtilities, assets, programming, uiDesign, infrastructure, jobs } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, twitter, facebook, instagram, linkedin } = require('../constants/links')
 
 module.exports = [
     {
@@ -60,6 +60,20 @@ module.exports = [
             [website]: 'https://uigarage.net/',
         },
         icon: 'https://assets.uigarage.net/content/uploads/2019/05/favicon-50x50.png',
+    },
+    {
+        name: 'UI HUT',
+        categories: [uiDesign.inspiration, assets.icons, assets.illustrations],
+        description:
+            'Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices.',
+        links: {
+            [website]: 'https://www.uihut.com/',
+            [twitter]: 'https://twitter.com/uihutofficial',
+            [facebook]: 'https://www.facebook.com/uihutofficial',
+            [instagram]: 'https://www.instagram.com/uihutofficial/',
+            [linkedin]: 'https://www.linkedin.com/company/uihutofficial',
+        },
+        icon: 'https://www.uihut.com/favicon.jpg',
     },
     {
         name: 'UI Movement',

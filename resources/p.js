@@ -32,7 +32,7 @@ module.exports = [
     },
     {
         name: 'Paw',
-        categories: [programming.apiBuilding],
+        categories: [toolsAndUtilities.apiBuilding],
         description:
             'Paw is a full-featured HTTP client that lets you test and describe the APIs you build or consume. It has a beautiful native macOS interface to compose requests, inspect server responses, generate client code and export API definitions.',
         links: {
@@ -151,7 +151,7 @@ module.exports = [
     },
     {
         name: 'Postman',
-        categories: [programming.apiBuilding],
+        categories: [toolsAndUtilities.apiBuilding],
         description:
             'Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.',
         links: {
@@ -191,11 +191,12 @@ module.exports = [
     {
         name: 'Programming podcast',
         categories: [programming.podcasts],
-        description: "The \"Programming\" podcast with Minko Gechev is a weekly show that aims to make us better software engineers! With each new episode, you'll get exposed to a new idea in a brief and accessible way",
+        description:
+            'The "Programming" podcast with Minko Gechev is a weekly show that aims to make us better software engineers! With each new episode, you\'ll get exposed to a new idea in a brief and accessible way',
         links: {
             [website]: 'https://podcast.mgechev.com/',
         },
-        icon: 'https://podcast.mgechev.com/favicon.ico'
+        icon: 'https://podcast.mgechev.com/favicon.ico',
     },
     {
         name: 'Project Euler',

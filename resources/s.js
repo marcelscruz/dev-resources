@@ -8,7 +8,7 @@ const {
     jobs,
     infrastructure,
 } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, github } = require('../constants/links')
 
 module.exports = [
     {
@@ -73,7 +73,7 @@ module.exports = [
     },
     {
         name: 'Serverless Stack',
-        categories: [programming.apiBuilding, infrastructure.serverless],
+        categories: [toolsAndUtilities.apiBuilding, infrastructure.serverless],
         description: 'Serverless Stack (SST) is a framework that makes it easy to build serverless applications.',
         links: {
             [website]: 'https://serverless-stack.com/',
@@ -373,6 +373,15 @@ module.exports = [
         icon: 'https://uploads-ssl.webflow.com/5e08877ced2a2771907388a9/5e2d9bc8d2e0671a88b1658b_smplkit-icon-3.png',
     },
     {
+        name: 'snappify',
+        categories: [programming.codeSnippets],
+        description: 'Snappify helps you to create beautiful code snippets with ease.',
+        links: {
+            [website]: 'https://snappify.io/',
+        },
+        icon: 'https://snappify.io/images/favicon-196.png',
+    },
+    {
         name: 'Snipit',
         categories: [programming.codeSnippets],
         description: 'Save and organize your code snippets in the cloud. Share and collaborate with your team members.',
@@ -439,12 +448,11 @@ module.exports = [
     {
         name: 'Splitbee',
         categories: [toolsAndUtilities.analytics],
-        description:
-            'Splitbee provides Analytics, Automation, User Funnel and A/B Testing.',
+        description: 'Splitbee provides Analytics, Automation, User Funnel and A/B Testing.',
         links: {
-            [website]: 'https://splitbee.io'
+            [website]: 'https://splitbee.io',
         },
-        icon: 'https://splitbee.io/icons/favicon-32x32.png'
+        icon: 'https://splitbee.io/icons/favicon-32x32.png',
     },
     {
         name: 'SQLite',
@@ -580,6 +588,16 @@ module.exports = [
         icon: 'https://supabase.io/new/favicon/favicon-32x32.png',
     },
     {
+        name: 'Supabase UI',
+        categories: [programming.uiKitsAndLibraries],
+        description: 'An open-source UI component library inspired by Tailwind and AntDesign.',
+        links: {
+            [website]: 'https://ui.supabase.io/',
+            [github]: 'GitHub',
+        },
+        icon: 'https://ui.supabase.io/favicon.ico',
+    },
+    {
         name: 'Surge',
         categories: [infrastructure.hosting],
         description:
@@ -629,7 +647,7 @@ module.exports = [
     },
     {
         name: 'Swagger',
-        categories: [programming.apiBuilding],
+        categories: [toolsAndUtilities.apiBuilding],
         description:
             'Simplify API development for users, teams, and enterprises with our open source and professional toolset. Find out how Swagger can help you and get started today.',
         links: {

@@ -1,5 +1,5 @@
-const { programming, toolsAndUtilities, uiDesign, jobs, assets } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { programming, toolsAndUtilities, uiDesign, jobs, assets, indieHacking } = require('../constants/categories')
+const { website, youtube, applePodcasts, spotify } = require('../constants/links')
 
 module.exports = [
     {
@@ -173,6 +173,29 @@ module.exports = [
             [website]: 'https://error404.fun/',
         },
         icon: 'https://error404.fun/img/favicon-32x32.png',
+    },
+    {
+        name: 'Escrow',
+        categories: [toolsAndUtilities.domains],
+        description:
+            'Secure online payment processing from the world’s largest online escrow service since 1999. Trusted by 1M+ users. Priced as low as 0.89%. For transactions $100 to $10M+.',
+        links: {
+            [website]: 'https://www.escrow.com/',
+        },
+        icon: 'https://www.escrow.com/build/images/favicons/favicon-32x32.png',
+    },
+    {
+        name: 'Everyone Hates Marketers',
+        categories: [indieHacking.marketing],
+        description:
+            "It's the antidote to marketing bullshit. Receive a free, 8-lesson video course + a super practical, no-bullshit essay in your inbox every Tuesday.",
+        links: {
+            [website]: 'https://www.everyonehatesmarketers.com/',
+            [youtube]: 'https://www.youtube.com/channel/UCOeHlb7boJXbQLExb7_ia3w',
+            [applePodcasts]: 'https://podcasts.apple.com/us/podcast/everyone-hates-marketers/id1221256195',
+            [spotify]: 'https://open.spotify.com/show/7iEF1qovZZiaP1iRtxGARo?si=ZrxDGNEnRzegia-NOgLn-Q',
+        },
+        icon: 'https://uploads-ssl.webflow.com/5f5b3208b507493089d50445/5fa0382a02da241b9adae56e_favicon-32x32.png',
     },
     {
         name: 'Exercism',

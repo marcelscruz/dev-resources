@@ -82,6 +82,16 @@ module.exports = [
         icon: 'https://wave.webaim.org/favicon.ico',
     },
     {
+        name: 'Web Design Inspiration',
+        categories: [uiDesign.inspiration],
+        description:
+            'Visit the #1 Inspiration Gallery. Everyday, we help Webdesigners, Agencies and Entrepreneurs to be inspired for their next web design project.',
+        links: {
+            [website]: 'https://www.webdesign-inspiration.com/',
+        },
+        icon: 'https://www.webdesign-inspiration.com/favicon.ico',
+    },
+    {
         name: 'We Work Remotely',
         categories: [jobs.remoteOnly],
         description:

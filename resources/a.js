@@ -191,7 +191,7 @@ module.exports = [
     },
     {
         name: 'Apigee',
-        categories: [programming.apiBuilding],
+        categories: [toolsAndUtilities.apiBuilding],
         description:
             'Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.',
         links: {

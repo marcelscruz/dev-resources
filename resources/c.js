@@ -8,7 +8,7 @@ const {
     indieHacking,
     readingAndWriting,
 } = require('../constants/categories')
-const { website, youtube, github } = require('../constants/links')
+const { website, youtube, github, twitter, discord } = require('../constants/links')
 
 module.exports = [
     {
@@ -126,6 +126,19 @@ module.exports = [
         },
         icon:
             'https://uploads-ssl.webflow.com/5ba4b3c973b5d218459f7e6f/5f33ce7fe8e7463f6c74c26f_checklist-web-image.png',
+    },
+    {
+        name: 'Choc UI',
+        categories: [programming.uiKitsAndLibraries],
+        description:
+            'Choc UI is a set of accessible and reusable components that are commonly used in web applications.',
+        links: {
+            [website]: 'https://choc-ui.tech/',
+            [twitter]: 'https://twitter.com/choc_ui',
+            [discord]: 'https://discord.gg/XcD8bNv7Ne',
+            [github]: 'https://github.com/anubra266/choc-ui',
+        },
+        icon: 'https://choc-ui.tech/favicon-32x32.png',
     },
     {
         name: 'Chrome',
@@ -374,12 +387,13 @@ module.exports = [
     {
         name: 'Codepen radio',
         categories: [programming.podcasts],
-        description: "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+        description:
+            "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
         links: {
             [website]: 'https://blog.codepen.io/radio/',
         },
-        icon: 'https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png',
-
+        icon:
+            'https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png',
     },
     {
         name: 'Codepip',
@@ -848,6 +862,16 @@ module.exports = [
             [website]: 'https://cssnectar.com//',
         },
         icon: 'https://i0.wp.com/cssnectar.com/wp-content/uploads/2016/04/favicon.png?fit=47%2C47&ssl=1',
+    },
+    {
+        name: 'CSS Reference',
+        categories: [programming.docsAndCheatsheets],
+        description:
+            'CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.',
+        links: {
+            [website]: 'https://cssreference.io/',
+        },
+        icon: 'https://cssreference.io/favicons/favicon-32x32.png',
     },
     {
         name: 'CSS Weekly',

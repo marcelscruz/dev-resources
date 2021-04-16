@@ -1,5 +1,5 @@
 const { toolsAndUtilities, uiDesign, assets, programming } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, github } = require('../constants/links')
 
 module.exports = [
     {
@@ -91,6 +91,16 @@ module.exports = [
             [website]: 'https://openvim.com/',
         },
         icon: 'https://openvim.com/icon.png',
+    },
+    {
+        name: 'OpenChakra',
+        categories: [programming.uiKitsAndLibraries],
+        description: 'React JSX visual editor for Chakra UI.',
+        links: {
+            [website]: 'https://openchakra.app/',
+            [github]: 'https://github.com/premieroctet/openchakra',
+        },
+        icon: 'https://openchakra.app/favicon.ico',
     },
     {
         name: 'Opensource.Builders',

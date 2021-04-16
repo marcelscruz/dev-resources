@@ -19,6 +19,7 @@ module.exports = {
 
     indieHacking: {
         books: 'Indie Hacking/Books',
+        marketing: 'Indie Hacking/Marketing',
         platforms: 'Indie Hacking/Platforms',
         podcasts: 'Indie Hacking/Podcasts',
         utilities: 'Indie Hacking/Utilities',
@@ -40,7 +41,6 @@ module.exports = {
 
     programming: {
         animations: 'Programming/Animations',
-        apiBuilding: 'Programming/API Building',
         books: 'Programming/Books',
         charts: 'Programming/Charts',
         codeChallenges: 'Programming/Code Challenges',
@@ -67,9 +67,11 @@ module.exports = {
     },
 
     toolsAndUtilities: {
+        apiBuilding: 'Tools & Utilities/API Building',
         accessibility: 'Tools & Utilities/Accessibility',
         analytics: 'Tools & Utilities/Analytics',
         browsersAndExtensions: 'Tools & Utilities/Browsers & Extensions',
+        domains: 'Tools & Utilities/Domains',
         editorsAndExtensions: 'Tools & Utilities/Editors & Extensions',
         general: 'Tools & Utilities/General',
         imageAndVideoEditing: 'Tools & Utilities/Image & Video Editing',
