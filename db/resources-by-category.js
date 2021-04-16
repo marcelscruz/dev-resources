@@ -1173,6 +1173,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://boardgamegeek.com/wiki/page/BGG_XML_API2"
+            },
+            "name": "Board Game Geek",
+            "description": "Board games, RPG and videogames",
+            "auth": "",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Games & Comics"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://www.boredapi.com/"
             },
             "name": "Bored",
@@ -1181,6 +1195,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.mbta.com/developers/v3-api"
+            },
+            "name": "Boston MBTA Transit",
+            "description": "Stations and predicted arrivals for MBTA",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Transportation"
         },
         {
             "categories": [
@@ -1377,6 +1405,20 @@ module.exports = {
             "https": true,
             "cors": "no",
             "apiCategory": "Sports & Fitness"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://docs.carboninterface.com/"
+            },
+            "name": "Carbon Interface",
+            "description": "API to calculate carbon (C02) emissions estimates for common C02 emitting activities",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Environment"
         },
         {
             "categories": [
@@ -2195,6 +2237,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://coronavirus.data.gov.uk/details/developers-guide"
+            },
+            "name": "Coronavirus in the UK",
+            "description": "UK Government coronavirus data, including deaths and cases by region",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Health"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://countapi.xyz"
             },
             "name": "CountAPI",
@@ -2847,6 +2903,20 @@ module.exports = {
             "https": false,
             "cors": "unknown",
             "apiCategory": "Government"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://dummyproducts-api.herokuapp.com/"
+            },
+            "name": "Dummy Products",
+            "description": "An api to fetch dummy e-commerce products JSON data with placeholder images",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Shopping"
         },
         {
             "categories": [
@@ -4317,6 +4387,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Animals"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://hubblesite.org/api/documentation/"
+            },
+            "name": "hubblesite",
+            "description": "Space Telescope News Releases",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Science & Math"
         },
         {
             "categories": [
@@ -6759,6 +6843,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://openrouteservice.org/"
+            },
+            "name": "openrouteservice.org",
+            "description": "Directions, POIs, isochrones, geocoding (+reverse), elevation, and more",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://api.opensensemap.org/"
             },
             "name": "openSenseMap",
@@ -7361,20 +7459,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
-            },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "name": "QR code",
@@ -7394,6 +7478,20 @@ module.exports = {
             "name": "QR code",
             "description": "Create an easy to read QR code and URL shortener",
             "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://fungenerators.com/api/qrcode/"
+            },
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
@@ -8117,6 +8215,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://vedicscriptures.github.io/"
+            },
+            "name": "Shrimad Bhagavad Gita",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Books"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://shrtlnk.dev/developer"
             },
             "name": "Shrtlnk",
@@ -8265,6 +8377,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Music"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.spotsense.io"
+            },
+            "name": "SpotSense",
+            "description": "Add location based interactions to your mobile app",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Geocoding"
         },
         {
             "categories": [
@@ -9153,11 +9279,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -9167,11 +9293,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -13819,6 +13945,17 @@ module.exports = {
                 "Website": "https://opensource.builders/"
             },
             "icon": "https://opensource.builders/icons/icon-96x96.png?v=e7a352862c009ec6682391b2e58d6469"
+        },
+        {
+            "name": "Roadmap SH",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "Step by step guides and paths to learn different tools or technologies",
+            "links": {
+                "Website": "https://roadmap.sh/"
+            },
+            "icon": "https://roadmap.sh/brand.png"
         },
         {
             "name": "Stack Overflow",
