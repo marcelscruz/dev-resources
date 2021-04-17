@@ -1,4 +1,4 @@
-const { toolsAndUtilities, uiDesign, assets, programming } = require('../constants/categories')
+const { toolsAndUtilities, uiDesign, assets, programming, indieHacking } = require('../constants/categories')
 const { website, github } = require('../constants/links')
 
 module.exports = [
@@ -121,6 +121,15 @@ module.exports = [
         },
         icon:
             'https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/favicon/favicon-32x32.d80e4bdc6a9f.png',
+    },
+    {
+        name: 'Orapa - Sales Templates',
+        categories: [indieHacking.marketing],
+        description: 'Categorized by industry, job title and department. So you can reach you dream customers faster.',
+        links: {
+            [website]: 'https://www.orapa.co/data',
+        },
+        icon: 'https://uploads-ssl.webflow.com/5fe0663168984aa818b74ba5/5fe368f5753d1170023baf41_icon.png',
     },
     {
         name: 'Orion',

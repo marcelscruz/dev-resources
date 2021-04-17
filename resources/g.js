@@ -7,7 +7,7 @@ const {
     readingAndWriting,
     uiDesign,
 } = require('../constants/categories')
-const { website, youtube } = require('../constants/links')
+const { website, youtube, github } = require('../constants/links')
 
 module.exports = [
     {
@@ -196,6 +196,16 @@ module.exports = [
             [website]: 'http://grid.guide/',
         },
         icon: 'http://grid.guide/assets/favicons/favicon-96x96.png',
+    },
+    {
+        name: 'Grid Garden',
+        categories: [programming.learn],
+        description: 'A game for learning CSS grid layout.',
+        links: {
+            [website]: 'https://cssgridgarden.com/',
+            [github]: 'https://github.com/thomaspark/gridgarden/',
+        },
+        icon: 'http://cssgridgarden.com/favicon.ico',
     },
     {
         name: 'Grommet',

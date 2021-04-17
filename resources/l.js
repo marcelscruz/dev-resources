@@ -7,7 +7,7 @@ const {
     assets,
     readingAndWriting,
 } = require('../constants/categories')
-const { website, youtube, gumroad } = require('../constants/links')
+const { website, youtube, gumroad, github } = require('../constants/links')
 
 module.exports = [
     {
@@ -87,6 +87,17 @@ module.exports = [
             [website]: 'https://larajobs.com/',
         },
         icon: 'https://larajobs.com/favicon-32x32.png',
+    },
+    {
+        name: 'Layoutit Grid',
+        categories: [programming.codeGenerators],
+        description:
+            'Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.',
+        links: {
+            [website]: 'https://grid.layoutit.com/',
+            [github]: 'https://github.com/Leniolabs/layoutit-grid',
+        },
+        icon: 'https://grid.layoutit.com/img/icons/icon-128x128.png',
     },
     {
         name: 'Learn JavaScript',

@@ -8,7 +8,7 @@ const {
     indieHacking,
     readingAndWriting,
 } = require('../constants/categories')
-const { website, youtube, github, twitter, discord } = require('../constants/links')
+const { website, youtube, github, twitter, discord, instagram, productHunt } = require('../constants/links')
 
 module.exports = [
     {
@@ -537,6 +537,19 @@ module.exports = [
             [website]: 'http://collectui.com/',
         },
         icon: 'http://collectui.com/img/favicon.ico',
+    },
+    {
+        name: 'Colorffy',
+        categories: [uiDesign.colorPalettes],
+        description:
+            'Create many gradients and palettes or save one of many color schemes, for everyone who needs colors.',
+        links: {
+            [website]: 'https://colorffy.com/',
+            [twitter]: 'https://twitter.com/colorffy',
+            [instagram]: 'https://www.instagram.com/colorffyweb/',
+            [productHunt]: 'https://www.producthunt.com/posts/colorffy',
+        },
+        icon: 'https://colorffy.com/img/icons/msapplication-icon-144x144.png',
     },
     {
         name: 'Color Hunt',

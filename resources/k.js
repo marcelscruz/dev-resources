@@ -1,5 +1,5 @@
-const { programming, toolsAndUtilities } = require('../constants/categories')
-const { website, youtube } = require('../constants/links')
+const { programming, toolsAndUtilities, community } = require('../constants/categories')
+const { website, youtube, twitch, twitter, codepen, discord, github } = require('../constants/links')
 
 module.exports = [
     {
@@ -11,6 +11,22 @@ module.exports = [
             [youtube]: 'https://www.youtube.com/user/kentdoddsfamily',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
+    },
+    {
+        name: 'Kevin Powell',
+        categories: [programming.youtubeChannels, community.personalWebsites],
+        description:
+            "Helping you learn how to make the web, and make it look good while you're at it. With videos every Tuesday and Thursday, I'll be bringing you How Tos and Tutorials, as well as simple tips and tricks, with a big focus on helping people see how wonderful CSS is!",
+        links: {
+            [website]: 'https://www.kevinpowell.co/',
+            [youtube]: 'https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw',
+            [twitch]: 'https://twitch.com/kevinpowellcss',
+            [twitter]: 'https://twitter.com/kevinJPowell',
+            [codepen]: 'https://codepen.io/kevinpowell/',
+            [discord]: 'https://discord.gg/GaBdxcE',
+            [github]: 'https://github.com/kevin-powell',
+        },
+        icon: 'https://www.kevinpowell.co/favicon.ico',
     },
     {
         name: 'Keybr',
