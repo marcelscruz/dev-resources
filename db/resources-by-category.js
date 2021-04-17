@@ -739,6 +739,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://api.artic.edu/docs/"
+            },
+            "name": "Art Institute of Chicago",
+            "description": "Art",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Art & Design"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://developer.ap.org/"
             },
             "name": "Associated Press",
@@ -2293,10 +2307,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -2307,10 +2321,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -3933,7 +3947,7 @@ module.exports = {
             "links": {
                 "Website": "https://jobs.github.com/api"
             },
-            "name": "Github Jobs",
+            "name": "GitHub Jobs",
             "description": "Jobs for software developers",
             "auth": "",
             "https": true,
@@ -3981,6 +3995,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Business"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://gofile.io/api"
+            },
+            "name": "GoFile",
+            "description": "Unlimited size file uploads for free",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Cloud Storage & File Sharing"
         },
         {
             "categories": [
@@ -4317,6 +4345,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://hexabin.herokuapp.com/"
+            },
+            "name": "Hexabin",
+            "description": "Convert and retrieve hexadecimal, binary, decimal, and octal values with ease",
+            "auth": "",
+            "https": false,
+            "cors": "unknown",
+            "apiCategory": "Development"
         },
         {
             "categories": [
@@ -5177,6 +5219,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://www.kaggle.com/docs/api"
+            },
+            "name": "Kaggle",
+            "description": "Create and interact with Datasets, Notebooks, and connect with Kaggle",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Open Data"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://kanye.rest"
             },
             "name": "kanye.rest",
@@ -5381,20 +5437,6 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Dictionaries"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://developer.linkedin.com/docs/rest-api"
-            },
-            "name": "LinkedIn",
-            "description": "The foundation of all digital integrations with LinkedIn",
-            "auth": "OAuth",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Social"
         },
         {
             "categories": [
@@ -5969,6 +6011,34 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Animals"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md"
+            },
+            "name": "Mozilla http scanner",
+            "description": "Mozilla observatory http scanner",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Security"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/mozilla/tls-observatory#api-endpoints"
+            },
+            "name": "Mozilla tls scanner",
+            "description": "Mozilla observatory tls scanner",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Security"
         },
         {
             "categories": [
@@ -7067,6 +7137,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://phishstats.info/"
+            },
+            "name": "PhishStats",
+            "description": "Phishing database",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Security"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "http://developer.picatic.com/?utm_medium=web&utm_source=github&utm_campaign=public-apis%20repo&utm_content=toddmotto"
             },
             "name": "Picatic",
@@ -8075,6 +8159,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://www.scrapingdog.com/"
+            },
+            "name": "ScrapingDog",
+            "description": "Proxy API for Web scraping",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://screenshotapi.net/"
             },
             "name": "ScreenshotAPI.net",
@@ -8136,6 +8234,20 @@ module.exports = {
             "name": "Semantria",
             "description": "Text Analytics with sentiment analysis, categorization & named entity extraction",
             "auth": "OAuth",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Text Analysis"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://sentim-api.herokuapp.com/"
+            },
+            "name": "Sentium",
+            "description": "Free API for Text Sentimental analysis",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Text Analysis"
@@ -8523,6 +8635,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://swapi.dev/"
+            },
+            "name": "SWAPI",
+            "description": "All the Star Wars data you've ever wanted",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Video"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
@@ -8601,6 +8727,20 @@ module.exports = {
             "https": true,
             "cors": "no",
             "apiCategory": "Personality"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://technical-analysis-api.com"
+            },
+            "name": "Technical Analysis",
+            "description": "Cryptocurrency prices and technical analysis",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Cryptocurrency"
         },
         {
             "categories": [
@@ -11367,6 +11507,20 @@ module.exports = {
             "icon": "https://www.color-hex.com/favicon.ico"
         },
         {
+            "name": "Colorffy",
+            "categories": [
+                "UI Design/Color Palettes"
+            ],
+            "description": "Create many gradients and palettes or save one of many color schemes, for everyone who needs colors.",
+            "links": {
+                "Website": "https://colorffy.com/",
+                "Twitter": "https://twitter.com/colorffy",
+                "Instagram": "https://www.instagram.com/colorffyweb/",
+                "Product Hunt": "https://www.producthunt.com/posts/colorffy"
+            },
+            "icon": "https://colorffy.com/img/icons/msapplication-icon-144x144.png"
+        },
+        {
             "name": "Colormind",
             "categories": [
                 "UI Design/Color Palettes"
@@ -11782,6 +11936,24 @@ module.exports = {
                 "YouTube": "https://www.youtube.com/user/kentdoddsfamily"
             },
             "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
+        },
+        {
+            "name": "Kevin Powell",
+            "categories": [
+                "Programming/YouTube Channels",
+                "Community/Personal Websites"
+            ],
+            "description": "Helping you learn how to make the web, and make it look good while you're at it. With videos every Tuesday and Thursday, I'll be bringing you How Tos and Tutorials, as well as simple tips and tricks, with a big focus on helping people see how wonderful CSS is!",
+            "links": {
+                "Website": "https://www.kevinpowell.co/",
+                "YouTube": "https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw",
+                "Twitch": "https://twitch.com/kevinpowellcss",
+                "Twitter": "https://twitter.com/kevinJPowell",
+                "CodePen": "https://codepen.io/kevinpowell/",
+                "Discord": "https://discord.gg/GaBdxcE",
+                "GitHub": "https://github.com/kevin-powell"
+            },
+            "icon": "https://www.kevinpowell.co/favicon.ico"
         },
         {
             "name": "keyframers",
@@ -12998,6 +13170,18 @@ module.exports = {
                 "Website": "https://www.frontendpractice.com/"
             },
             "icon": "https://www.frontendpractice.com/icons/icon-96x96.png"
+        },
+        {
+            "name": "Grid Garden",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "A game for learning CSS grid layout.",
+            "links": {
+                "Website": "https://cssgridgarden.com/",
+                "GitHub": "https://github.com/thomaspark/gridgarden/"
+            },
+            "icon": "http://cssgridgarden.com/favicon.ico"
         },
         {
             "name": "Hackr.io",
@@ -18169,6 +18353,17 @@ module.exports = {
                 "Spotify": "https://open.spotify.com/show/7iEF1qovZZiaP1iRtxGARo?si=ZrxDGNEnRzegia-NOgLn-Q"
             },
             "icon": "https://uploads-ssl.webflow.com/5f5b3208b507493089d50445/5fa0382a02da241b9adae56e_favicon-32x32.png"
+        },
+        {
+            "name": "Orapa - Sales Templates",
+            "categories": [
+                "Indie Hacking/Marketing"
+            ],
+            "description": "Categorized by industry, job title and department. So you can reach you dream customers faster.",
+            "links": {
+                "Website": "https://www.orapa.co/data"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5fe0663168984aa818b74ba5/5fe368f5753d1170023baf41_icon.png"
         }
     ],
     "infrastructure-serverless": [
@@ -18515,6 +18710,43 @@ module.exports = {
             "icon": "https://iq.js.org/favicon.ico"
         }
     ],
+    "community-personal-websites": [
+        {
+            "name": "Kevin Powell",
+            "categories": [
+                "Programming/YouTube Channels",
+                "Community/Personal Websites"
+            ],
+            "description": "Helping you learn how to make the web, and make it look good while you're at it. With videos every Tuesday and Thursday, I'll be bringing you How Tos and Tutorials, as well as simple tips and tricks, with a big focus on helping people see how wonderful CSS is!",
+            "links": {
+                "Website": "https://www.kevinpowell.co/",
+                "YouTube": "https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw",
+                "Twitch": "https://twitch.com/kevinpowellcss",
+                "Twitter": "https://twitter.com/kevinJPowell",
+                "CodePen": "https://codepen.io/kevinpowell/",
+                "Discord": "https://discord.gg/GaBdxcE",
+                "GitHub": "https://github.com/kevin-powell"
+            },
+            "icon": "https://www.kevinpowell.co/favicon.ico"
+        },
+        {
+            "name": "Marko Denic",
+            "categories": [
+                "Community/Personal Websites"
+            ],
+            "description": "Web Developer, Public speaker, IT trainer and consultant.",
+            "links": {
+                "Website": "https://markodenic.com/",
+                "Twitter": "https://twitter.com/denicmarko",
+                "YouTube": "https://www.youtube.com/channel/UCRgyPAKycnp_kkpny_uZBcQ",
+                "Instagram": "https://www.instagram.com/markodenic1/",
+                "LinkedIn": "https://www.linkedin.com/in/marko-denic-full-stack-developer/",
+                "GitHub": "https://github.com/markodenic",
+                "CodePen": "https://codepen.io/denic"
+            },
+            "icon": "https://markodenic.com/wp-content/themes/blog/favicon/favicon-32x32.png"
+        }
+    ],
     "tools-utilities-typing": [
         {
             "name": "Keybr",
@@ -18622,6 +18854,31 @@ module.exports = {
             "icon": "https://i0.wp.com/thebootstrappedfounder.com/wp-content/uploads/2019/11/cropped-Untitled-1.png?fit=32%2C32&ssl=1"
         }
     ],
+    "programming-code-generators": [
+        {
+            "name": "Layoutit Grid",
+            "categories": [
+                "Programming/Code Generators"
+            ],
+            "description": "Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.",
+            "links": {
+                "Website": "https://grid.layoutit.com/",
+                "GitHub": "https://github.com/Leniolabs/layoutit-grid"
+            },
+            "icon": "https://grid.layoutit.com/img/icons/icon-128x128.png"
+        },
+        {
+            "name": "Vemto",
+            "categories": [
+                "Programming/Code Generators"
+            ],
+            "description": "Design and generate Laravel/PHP applications in minutes with this desktop tool",
+            "links": {
+                "Website": "https://vemto.app/"
+            },
+            "icon": "https://vemto.app/favicon.png"
+        }
+    ],
     "tools-utilities-image-video-editing": [
         {
             "name": "Let's Enhance",
@@ -18647,25 +18904,6 @@ module.exports = {
             "icon": "https://svgx.app/assets/favicons/favicon-96x96.png"
         }
     ],
-    "community-personal-websites": [
-        {
-            "name": "Marko Denic",
-            "categories": [
-                "Community/Personal Websites"
-            ],
-            "description": "Web Developer, Public speaker, IT trainer and consultant.",
-            "links": {
-                "Website": "https://markodenic.com/",
-                "Twitter": "https://twitter.com/denicmarko",
-                "YouTube": "https://www.youtube.com/channel/UCRgyPAKycnp_kkpny_uZBcQ",
-                "Instagram": "https://www.instagram.com/markodenic1/",
-                "LinkedIn": "https://www.linkedin.com/in/marko-denic-full-stack-developer/",
-                "GitHub": "https://github.com/markodenic",
-                "CodePen": "https://codepen.io/denic"
-            },
-            "icon": "https://markodenic.com/wp-content/themes/blog/favicon/favicon-32x32.png"
-        }
-    ],
     "programming-javascript-tooling": [
         {
             "name": "Rome",
@@ -18677,19 +18915,6 @@ module.exports = {
                 "Website": "https://rome.tools/"
             },
             "icon": "https://rome.tools/img/pinned-rome-logo.svg"
-        }
-    ],
-    "programming-code-generators": [
-        {
-            "name": "Vemto",
-            "categories": [
-                "Programming/Code Generators"
-            ],
-            "description": "Design and generate Laravel/PHP applications in minutes with this desktop tool",
-            "links": {
-                "Website": "https://vemto.app/"
-            },
-            "icon": "https://vemto.app/favicon.png"
         }
     ]
 }
