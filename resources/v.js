@@ -15,8 +15,7 @@ module.exports = [
     {
         name: 'Vemto',
         categories: [programming.codeGenerators],
-        description:
-            'Design and generate Laravel/PHP applications in minutes with this desktop tool',
+        description: 'Design and generate Laravel/PHP applications in minutes with this desktop tool',
         links: {
             [website]: 'https://vemto.app/',
         },
@@ -52,6 +51,16 @@ module.exports = [
             [website]: 'https://vim-adventures.com/',
         },
         icon: 'https://vim-adventures.com/favicon.ico',
+    },
+    {
+        name: 'Visiwig',
+        categories: [assets.icons, assets.illustrations],
+        description:
+            'We provide visuals for busy designers. Visiwig is a place to find design inspiration, explore creative tools, and shop for timesaving graphics.',
+        links: {
+            [website]: 'https://www.visiwig.com/',
+        },
+        icon: 'https://www.visiwig.com/favicon-32x32.png',
     },
     {
         name: 'Visual Studio Code',

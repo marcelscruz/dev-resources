@@ -174,6 +174,16 @@ module.exports = [
         icon: 'https://changelog.com/favicon.ico',
     },
     {
+        name: 'The Coding Interview',
+        categories: [jobs.interviews],
+        description:
+            'Everything you need to ace the coding interview all in one place. Crack the coding interview with just 5 minutes of preparation a day.',
+        links: {
+            [website]: 'https://www.thecodinginterview.com/',
+        },
+        icon: 'https://uploads-ssl.webflow.com/5f17477084d0f15f5288e7d1/5f23f0b1139fc4dfad8b714f_favicon.png',
+    },
+    {
         name: 'The Coding Train',
         categories: [programming.youtubeChannels],
         description:

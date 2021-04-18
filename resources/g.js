@@ -6,6 +6,7 @@ const {
     assets,
     readingAndWriting,
     uiDesign,
+    indieHacking,
 } = require('../constants/categories')
 const { website, youtube, github } = require('../constants/links')
 
@@ -216,6 +217,17 @@ module.exports = [
             [website]: 'https://v2.grommet.io/',
         },
         icon: 'https://v2.grommet.io/img/mobile-app-icon.png',
+    },
+    {
+        name: 'Growth List',
+        categories: [indieHacking.marketing],
+        description:
+            'GrowthList is the go-to resource hub for tech-savvy marketers in fast-growing companies. Find hundred of Growth Hacks to boost your startup !',
+        links: {
+            [website]: 'https://www.thegrowthlist.co/',
+        },
+        icon:
+            'https://uploads-ssl.webflow.com/5e5918651c2c93508dd3bab8/5fae8f6c16320938da6c33f8_Webp.net-resizeimage%20(9).png',
     },
     {
         name: 'GTmetrix',
