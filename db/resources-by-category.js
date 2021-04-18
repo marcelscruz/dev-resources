@@ -1495,6 +1495,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://cataas.com/"
+            },
+            "name": "Cataas",
+            "description": "Cat as a service (cats pictures and gifs)",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Animals"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://github.com/ThatCopy/catAPI/wiki/Usage"
             },
             "name": "catAPI",
@@ -4771,12 +4785,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
+                "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4785,12 +4799,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
+                "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -5451,6 +5465,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Open Data"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://litelink.ml/"
+            },
+            "name": "LiteLink",
+            "description": "Simple URL Shortener",
+            "auth": "No",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "URL Shorteners"
         },
         {
             "categories": [
@@ -6409,20 +6437,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://numbersapi.com"
-            },
-            "name": "Numbers",
-            "description": "Facts about numbers",
-            "auth": "",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://math.tools/api/numbers/"
             },
             "name": "Numbers",
@@ -6430,6 +6444,20 @@ module.exports = {
             "auth": "apiKey",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://numbersapi.com"
+            },
+            "name": "Numbers",
+            "description": "Facts about numbers",
+            "auth": "",
+            "https": false,
+            "cors": "unknown",
             "apiCategory": "Science & Math"
         },
         {
@@ -7543,13 +7571,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
+                "Website": "http://goqr.me/api/"
             },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
+            "auth": "",
             "https": true,
-            "cors": "yes",
+            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -7571,13 +7599,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://goqr.me/api/"
+                "Website": "https://fungenerators.com/api/qrcode/"
             },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "auth": "",
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
             "https": true,
-            "cors": "unknown",
+            "cors": "yes",
             "apiCategory": "Development"
         },
         {
@@ -8635,10 +8663,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://swapi.dev/"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
+            "description": "All things Star Wars",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -8649,10 +8677,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.swapi.tech"
+                "Website": "https://swapi.dev/"
             },
             "name": "SWAPI",
-            "description": "All things Star Wars",
+            "description": "All the Star Wars data you've ever wanted",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -9419,11 +9447,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -9433,11 +9461,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -14787,6 +14815,18 @@ module.exports = {
                 "Website": "https://www.uplabs.com/"
             },
             "icon": "https://www.uplabs.com/logos/uplabs/icons/favicon-96x96.png"
+        },
+        {
+            "name": "Visiwig",
+            "categories": [
+                "Assets/Icons",
+                "Assets/Illustrations"
+            ],
+            "description": "We provide visuals for busy designers. Visiwig is a place to find design inspiration, explore creative tools, and shop for timesaving graphics.",
+            "links": {
+                "Website": "https://www.visiwig.com/"
+            },
+            "icon": "https://www.visiwig.com/favicon-32x32.png"
         }
     ],
     "assets-videos": [
@@ -16032,6 +16072,18 @@ module.exports = {
                 "Website": "https://www.uplabs.com/"
             },
             "icon": "https://www.uplabs.com/logos/uplabs/icons/favicon-96x96.png"
+        },
+        {
+            "name": "Visiwig",
+            "categories": [
+                "Assets/Icons",
+                "Assets/Illustrations"
+            ],
+            "description": "We provide visuals for busy designers. Visiwig is a place to find design inspiration, explore creative tools, and shop for timesaving graphics.",
+            "links": {
+                "Website": "https://www.visiwig.com/"
+            },
+            "icon": "https://www.visiwig.com/favicon-32x32.png"
         }
     ],
     "programming-templates": [
@@ -18269,6 +18321,18 @@ module.exports = {
             "links": {
                 "Website": "https://exploringjs.com/impatient-js/toc.html"
             }
+        },
+        {
+            "name": "JSbooks",
+            "categories": [
+                "Programming/Books"
+            ],
+            "description": "Directory of free JavaScript ebooks. Contribute to revolunet/JSbooks development by creating an account on GitHub.",
+            "links": {
+                "Website": "https://jsbooks.revolunet.com/",
+                "GitHub": "https://github.com/revolunet/JSbooks"
+            },
+            "icon": "https://jsbooks.revolunet.com/img/ico/apple-touch-icon-114-precomposed.png"
         }
     ],
     "ui-design-learn": [
@@ -18353,6 +18417,17 @@ module.exports = {
                 "Spotify": "https://open.spotify.com/show/7iEF1qovZZiaP1iRtxGARo?si=ZrxDGNEnRzegia-NOgLn-Q"
             },
             "icon": "https://uploads-ssl.webflow.com/5f5b3208b507493089d50445/5fa0382a02da241b9adae56e_favicon-32x32.png"
+        },
+        {
+            "name": "Growth List",
+            "categories": [
+                "Indie Hacking/Marketing"
+            ],
+            "description": "GrowthList is the go-to resource hub for tech-savvy marketers in fast-growing companies. Find hundred of Growth Hacks to boost your startup !",
+            "links": {
+                "Website": "https://www.thegrowthlist.co/"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5e5918651c2c93508dd3bab8/5fae8f6c16320938da6c33f8_Webp.net-resizeimage%20(9).png"
         },
         {
             "name": "Orapa - Sales Templates",
@@ -18708,6 +18783,17 @@ module.exports = {
                 "Website": "https://iq.js.org/"
             },
             "icon": "https://iq.js.org/favicon.ico"
+        },
+        {
+            "name": "The Coding Interview",
+            "categories": [
+                "Jobs/Interviews"
+            ],
+            "description": "Everything you need to ace the coding interview all in one place. Crack the coding interview with just 5 minutes of preparation a day.",
+            "links": {
+                "Website": "https://www.thecodinginterview.com/"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5f17477084d0f15f5288e7d1/5f23f0b1139fc4dfad8b714f_favicon.png"
         }
     ],
     "community-personal-websites": [

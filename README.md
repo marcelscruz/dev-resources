@@ -6,7 +6,7 @@
 
  For information on using the public API, please see the [API usage guide](API_USAGE.md).
 
- ### Total resources: 1337
+ ### Total resources: 1343
 
  ## Index
 <details><summary id="assets">Assets</summary><li><a href="#assets-audio">Audio</a></li><li><a href="#assets-fonts">Fonts</a></li><li><a href="#assets-icons">Icons</a></li><li><a href="#assets-illustrations">Illustrations</a></li><li><a href="#assets-images">Images</a></li><li><a href="#assets-logos">Logos</a></li><li><a href="#assets-videos">Videos</a></li></details><details><summary id="community">Community</summary><li><a href="#community-personal-websites">Personal Websites</a></li></details><details><summary id="indie-hacking">Indie Hacking</summary><li><a href="#indie-hacking-books">Books</a></li><li><a href="#indie-hacking-marketing">Marketing</a></li><li><a href="#indie-hacking-platforms">Platforms</a></li><li><a href="#indie-hacking-podcasts">Podcasts</a></li><li><a href="#indie-hacking-utilities">Utilities</a></li></details><details><summary id="infrastructure">Infrastructure</summary><li><a href="#infrastructure-databases">Databases</a></li><li><a href="#infrastructure-hosting">Hosting</a></li><li><a href="#infrastructure-serverless">Serverless</a></li></details><details><summary id="jobs">Jobs</summary><li><a href="#jobs-boards">Boards</a></li><li><a href="#jobs-freelancing">Freelancing</a></li><li><a href="#jobs-interviews">Interviews</a></li><li><a href="#jobs-remote-only">Remote Only</a></li><li><a href="#jobs-resume-builders">Resume Builders</a></li></details><details><summary id="programming">Programming</summary><li><a href="#programming-books">Books</a></li><li><a href="#programming-charts">Charts</a></li><li><a href="#programming-code-challenges">Code Challenges</a></li><li><a href="#programming-code-generators">Code Generators</a></li><li><a href="#programming-code-snippets">Code Snippets</a></li><li><a href="#programming-docs-cheatsheets">Docs & Cheatsheets</a></li><details><summary id="programming-javascript">JavaScript</summary><li><a href="#programming-javascript-react">React</a></li><li><a href="#programming-javascript-tooling">Tooling</a></li></details><li><a href="#programming-learn">Learn</a></li><li><a href="#programming-newsletters">Newsletters</a></li><li><a href="#programming-podcasts">Podcasts</a></li><li><a href="#programming-templates">Templates</a></li><li><a href="#programming-testing">Testing</a></li><li><a href="#programming-ui-kits-libraries">UI Kits & Libraries</a></li><li><a href="#programming-youtube-channels">YouTube Channels</a></li></details><details><summary id="reading-writing">Reading & Writing</summary><li><a href="#reading-writing-learn">Learn</a></li><li><a href="#reading-writing-platforms">Platforms</a></li><li><a href="#reading-writing-utilities">Utilities</a></li></details><details><summary id="tools-utilities">Tools & Utilities</summary><li><a href="#tools-utilities-accessibility">Accessibility</a></li><li><a href="#tools-utilities-analytics">Analytics</a></li><li><a href="#tools-utilities-api-building">API Building</a></li><li><a href="#tools-utilities-browsers-extensions">Browsers & Extensions</a></li><li><a href="#tools-utilities-domains">Domains</a></li><li><a href="#tools-utilities-editors-extensions">Editors & Extensions</a></li><li><a href="#tools-utilities-general">General</a></li><li><a href="#tools-utilities-image-video-editing">Image & Video Editing</a></li><li><a href="#tools-utilities-performance">Performance</a></li><li><a href="#tools-utilities-public-apis">Public APIs - Powered by <a href="https://github.com/public-apis/public-apis">Public APIs</a></a></li><li><a href="#tools-utilities-seo">SEO</a></li><li><a href="#tools-utilities-typing">Typing</a></li><li><a href="#tools-utilities-website-builders">Website Builders</a></li></details><details><summary id="ui-design">UI Design</summary><li><a href="#ui-design-color-palettes">Color Palettes</a></li><li><a href="#ui-design-inspiration">Inspiration</a></li><li><a href="#ui-design-learn">Learn</a></li><li><a href="#ui-design-prototyping">Prototyping</a></li><li><a href="#ui-design-utilities">Utilities</a></li><li><a href="#ui-design-youtube-channels">YouTube Channels</a></li></details> 
@@ -78,6 +78,7 @@
  <img src="https://tablericons.com/favicon.png" width="16" /> | Tabler Icons | 800+ Highly customizable & free SVG icons. | [Website](https://tablericons.com/) |  |
  <img src="https://www.uihut.com/favicon.jpg" width="16" /> | UI HUT | Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices. | [Website](https://www.uihut.com/)<br />[Facebook](https://www.facebook.com/uihutofficial)<br />[Instagram](https://www.instagram.com/uihutofficial/)<br />[LinkedIn](https://www.linkedin.com/company/uihutofficial)<br />[Twitter](https://twitter.com/uihutofficial) |  |
  <img src="https://www.uplabs.com/logos/uplabs/icons/favicon-96x96.png" width="16" /> | UpLabs | UpLabs curates the best of design & development inspiration, resources and freebies. Every day! | [Website](https://www.uplabs.com/) |  |
+ <img src="https://www.visiwig.com/favicon-32x32.png" width="16" /> | Visiwig | We provide visuals for busy designers. Visiwig is a place to find design inspiration, explore creative tools, and shop for timesaving graphics. | [Website](https://www.visiwig.com/) |  |
 
 **[⬆ Back to Index](#index)**
 
@@ -106,6 +107,7 @@
  <img src="https://www.uihut.com/favicon.jpg" width="16" /> | UI HUT | Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices. | [Website](https://www.uihut.com/)<br />[Facebook](https://www.facebook.com/uihutofficial)<br />[Instagram](https://www.instagram.com/uihutofficial/)<br />[LinkedIn](https://www.linkedin.com/company/uihutofficial)<br />[Twitter](https://twitter.com/uihutofficial) |  |
  <img src="https://undraw.co/favicon-32x32.png" width="16" /> | unDraw | The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free. | [Website](https://undraw.co/) |  |
  <img src="https://www.uplabs.com/logos/uplabs/icons/favicon-96x96.png" width="16" /> | UpLabs | UpLabs curates the best of design & development inspiration, resources and freebies. Every day! | [Website](https://www.uplabs.com/) |  |
+ <img src="https://www.visiwig.com/favicon-32x32.png" width="16" /> | Visiwig | We provide visuals for busy designers. Visiwig is a place to find design inspiration, explore creative tools, and shop for timesaving graphics. | [Website](https://www.visiwig.com/) |  |
 
 **[⬆ Back to Index](#index)**
 
@@ -182,6 +184,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://uploads-ssl.webflow.com/5f5b3208b507493089d50445/5fa0382a02da241b9adae56e_favicon-32x32.png" width="16" /> | Everyone Hates Marketers | It's the antidote to marketing bullshit. Receive a free, 8-lesson video course + a super practical, no-bullshit essay in your inbox every Tuesday. | [Website](https://www.everyonehatesmarketers.com/)<br />[Apple Podcasts](https://podcasts.apple.com/us/podcast/everyone-hates-marketers/id1221256195)<br />[Spotify](https://open.spotify.com/show/7iEF1qovZZiaP1iRtxGARo?si=ZrxDGNEnRzegia-NOgLn-Q)<br />[YouTube](https://www.youtube.com/channel/UCOeHlb7boJXbQLExb7_ia3w) |  |
+ <img src="https://uploads-ssl.webflow.com/5e5918651c2c93508dd3bab8/5fae8f6c16320938da6c33f8_Webp.net-resizeimage%20(9).png" width="16" /> | Growth List | GrowthList is the go-to resource hub for tech-savvy marketers in fast-growing companies. Find hundred of Growth Hacks to boost your startup ! | [Website](https://www.thegrowthlist.co/) |  |
  <img src="https://uploads-ssl.webflow.com/5fe0663168984aa818b74ba5/5fe368f5753d1170023baf41_icon.png" width="16" /> | Orapa - Sales Templates | Categorized by industry, job title and department. So you can reach you dream customers faster. | [Website](https://www.orapa.co/data) |  |
 
 **[⬆ Back to Index](#index)**
@@ -312,6 +315,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://iq.js.org/favicon.ico" width="16" /> | JavaScript Interview Questions | Collection of questions that can help you improve your JavaScript knowledge and prepare to an interview. | [Website](https://iq.js.org/) |  |
+ <img src="https://uploads-ssl.webflow.com/5f17477084d0f15f5288e7d1/5f23f0b1139fc4dfad8b714f_favicon.png" width="16" /> | The Coding Interview | Everything you need to ace the coding interview all in one place. Crack the coding interview with just 5 minutes of preparation a day. | [Website](https://www.thecodinginterview.com/) |  |
 
 **[⬆ Back to Index](#index)**
 
@@ -359,6 +363,7 @@
 |---|---|---|---|---|
  <img src="https://eloquentjavascript.net/favicon.ico" width="16" /> | Eloquent JavaScript | This is a book about JavaScript, programming, and the wonders of the digital. | [Website](https://eloquentjavascript.net/) |  |
  &nbsp; | JavaScript for impatient programmers | This book makes JavaScript less challenging to learn for newcomers, by offering a modern view that is as consistent as possible. | [Website](https://exploringjs.com/impatient-js/toc.html) |  |
+ <img src="https://jsbooks.revolunet.com/img/ico/apple-touch-icon-114-precomposed.png" width="16" /> | JSbooks | Directory of free JavaScript ebooks. Contribute to revolunet/JSbooks development by creating an account on GitHub. | [Website](https://jsbooks.revolunet.com/)<br />[GitHub](https://github.com/revolunet/JSbooks) |  |
 
 **[⬆ Back to Index](#index)**
 
