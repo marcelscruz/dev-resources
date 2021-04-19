@@ -178,6 +178,16 @@ module.exports = [
         icon: 'https://blush.design/favicon-32x32.png',
     },
     {
+        name: 'Bootify',
+        categories: [programming.codeGenerators],
+        description:
+            'Generate Spring Boot prototypes in your browser - with custom database, REST API and best practices applied.',
+        links: {
+            [website]: 'https://bootify.io/',
+        },
+        icon: 'https://bootify.io/apple-touch-icon.png',
+    },
+    {
         name: 'Bootsnipp',
         categories: [programming.codeSnippets],
         description:
