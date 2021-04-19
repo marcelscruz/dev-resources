@@ -1943,20 +1943,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/phone-number-validation-API"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate international phone numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Phone"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/validate-api"
             },
             "name": "Cloudmersive Validate",
@@ -1965,6 +1951,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Data Validation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/phone-number-validation-API"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate international phone numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Phone"
         },
         {
             "categories": [
@@ -2046,6 +2046,20 @@ module.exports = {
             "name": "Coinbase Pro",
             "description": "Cryptocurrency Trading Platform",
             "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Cryptocurrency"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://docs.coincap.io/"
+            },
+            "name": "CoinCap",
+            "description": "Real time Cryptocurrency prices through a RESTful API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Cryptocurrency"
@@ -2203,6 +2217,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Weather"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://www.colourlovers.com/api"
+            },
+            "name": "ColourLovers",
+            "description": "Get various patterns, palettes and images",
+            "auth": "",
+            "https": false,
+            "cors": "unknown",
+            "apiCategory": "Art & Design"
         },
         {
             "categories": [
@@ -2371,6 +2399,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Open Source Projects"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/CrossRef/rest-api-doc"
+            },
+            "name": "Crossref Metadata Search",
+            "description": "Books & Articles Metadata",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Books"
         },
         {
             "categories": [
@@ -4491,6 +4533,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://github.com/gadhagod/Hyrule-Compendium-API"
+            },
+            "name": "Hyrule Compendium",
+            "description": "Data on all interactive items from The Legend of Zelda: BOTW",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Games & Comics"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://hytale-api.com/"
             },
             "name": "Hytale",
@@ -4785,12 +4841,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
+                "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4799,12 +4855,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
+                "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4961,6 +5017,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://isevenapi.xyz/"
+            },
+            "name": "isEven (humor)",
+            "description": "Check if a number is even",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Science & Math"
         },
         {
             "categories": [
@@ -5437,6 +5507,20 @@ module.exports = {
             "https": true,
             "cors": "no",
             "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://lichess.org/api"
+            },
+            "name": "Lichess",
+            "description": "Access to all data of users, games, puzzles and etc on Lichess",
+            "auth": "OAuth",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Games & Comics"
         },
         {
             "categories": [
@@ -6745,6 +6829,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://data.gov.sa"
+            },
+            "name": "Open Government, Saudi Arabia",
+            "description": "Saudi Arabia Government Open Data",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Government"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://data.gov.tw/"
             },
             "name": "Open Government, Taiwan",
@@ -7571,13 +7669,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://goqr.me/api/"
+                "Website": "https://fungenerators.com/api/qrcode/"
             },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "auth": "",
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
             "https": true,
-            "cors": "unknown",
+            "cors": "yes",
             "apiCategory": "Development"
         },
         {
@@ -7599,13 +7697,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
+                "Website": "http://goqr.me/api/"
             },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
+            "auth": "",
             "https": true,
-            "cors": "yes",
+            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -8663,10 +8761,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.swapi.tech"
+                "Website": "https://swapi.dev/"
             },
             "name": "SWAPI",
-            "description": "All things Star Wars",
+            "description": "All the Star Wars data you've ever wanted",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -8677,10 +8775,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://swapi.dev/"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
+            "description": "All things Star Wars",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -9447,11 +9545,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -9461,11 +9559,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -12189,7 +12287,7 @@ module.exports = {
         {
             "name": "CopyAI",
             "categories": [
-                "Reading & Writing/Utilities",
+                "Tools & Utilities/Writing",
                 "Indie Hacking/Utilities"
             ],
             "description": "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds!",
@@ -13109,6 +13207,17 @@ module.exports = {
                 "Website": "https://epicreact.dev/"
             },
             "icon": "https://epicreact.dev/icons/icon-96x96.png?v=4fc004c2d47bff97350bf9ba653e0bdd"
+        },
+        {
+            "name": "Flexbox Adventure",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Flexbox layout has a lot of properties and nuances that are hard to remember, learn it in the fun and interesting way that works – a CSS RPG game!",
+            "links": {
+                "Website": "https://codingfantasy.com/games/flexboxadventure"
+            },
+            "icon": "https://codingfantasy.com/favicon.ico"
         },
         {
             "name": "Flexbox Defense",
@@ -15258,6 +15367,42 @@ module.exports = {
             "icon": "https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png"
         }
     ],
+    "programming-code-generators": [
+        {
+            "name": "Bootify",
+            "categories": [
+                "Programming/Code Generators"
+            ],
+            "description": "Generate Spring Boot prototypes in your browser - with custom database, REST API and best practices applied.",
+            "links": {
+                "Website": "https://bootify.io/"
+            },
+            "icon": "https://bootify.io/apple-touch-icon.png"
+        },
+        {
+            "name": "Layoutit Grid",
+            "categories": [
+                "Programming/Code Generators"
+            ],
+            "description": "Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.",
+            "links": {
+                "Website": "https://grid.layoutit.com/",
+                "GitHub": "https://github.com/Leniolabs/layoutit-grid"
+            },
+            "icon": "https://grid.layoutit.com/img/icons/icon-128x128.png"
+        },
+        {
+            "name": "Vemto",
+            "categories": [
+                "Programming/Code Generators"
+            ],
+            "description": "Design and generate Laravel/PHP applications in minutes with this desktop tool",
+            "links": {
+                "Website": "https://vemto.app/"
+            },
+            "icon": "https://vemto.app/favicon.png"
+        }
+    ],
     "programming-ui-kits-libraries": [
         {
             "name": "Bootstrap",
@@ -15498,6 +15643,18 @@ module.exports = {
                 "Website": "https://getuikit.com/"
             },
             "icon": "https://getuikit.com/images/apple-touch-icon.png"
+        },
+        {
+            "name": "xstyled",
+            "categories": [
+                "Programming/UI Kits & Libraries"
+            ],
+            "description": "A utility-first CSS-in-JS framework built for React.",
+            "links": {
+                "Website": "https://xstyled.dev/",
+                "GitHub": "https://github.com/gregberge/xstyled"
+            },
+            "icon": "https://xstyled.dev/favicon-32x32.png?v=35747667c057871bf481acaf8d249528"
         }
     ],
     "assets-icons": [
@@ -16434,6 +16591,20 @@ module.exports = {
                 "Website": "https://podtail.com/en/podcast/default-alive/"
             },
             "icon": "https://podtail.com/favicon.ico"
+        },
+        {
+            "name": "Indie Bits",
+            "categories": [
+                "Indie Hacking/Podcasts"
+            ],
+            "description": "Short, bite-sized conversations (15 mins) with indie hackers that have started small, profitable and bootstrapped businesses. You'll learn how they come up with ideas, what they do to validate, find those first customers and make a sustainable income.",
+            "links": {
+                "Website": "https://indiebites.co/",
+                "Spotify": "https://open.spotify.com/show/1MY9XdVViRwfaO8giM4fXO",
+                "Apple Podcasts": "https://podcasts.apple.com/gb/podcast/indie-bites/id1530577069",
+                "Google Podcasts": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2luZGllLWJpdGVz"
+            },
+            "icon": "https://s3.amazonaws.com/super-notion/images/26707ca1-dc44-44e8-90ce-9e6220840f71.png"
         },
         {
             "name": "Indie Hackers",
@@ -17699,11 +17870,11 @@ module.exports = {
             ]
         }
     ],
-    "reading-writing-platforms": [
+    "community-blogs-and-forums": [
         {
             "name": "Codeconia",
             "categories": [
-                "Reading & Writing/Platforms"
+                "Community/Blogs and Forums"
             ],
             "description": "Learn programming with Codeconia.",
             "links": {
@@ -17712,9 +17883,20 @@ module.exports = {
             "icon": "https://codeconia.com/wp-content/uploads/2020/11/cropped-favicon-32x32.png"
         },
         {
+            "name": "daily.dev",
+            "categories": [
+                "Community/Blogs and Forums"
+            ],
+            "description": "Daily.dev is the easiest way to stay updated on the latest programming news. Get the hottest dev news from the best tech blogs on any topic you can think of. Stay updated daily, and unlock more time to do fun stuff, relax, or just code.",
+            "links": {
+                "Website": "https://daily.dev/"
+            },
+            "icon": "https://assets.website-files.com/5e0a5d9d743608d0f3ea6753/5f35091372cfa97ba7438461_daily.dev%20-%20Favicon%4030x.ico"
+        },
+        {
             "name": "DEV",
             "categories": [
-                "Reading & Writing/Platforms"
+                "Community/Blogs and Forums"
             ],
             "description": "A constructive and inclusive social network for software developers. With you every step of your journey.",
             "keywords": [
@@ -17732,7 +17914,7 @@ module.exports = {
         {
             "name": "Hacker News",
             "categories": [
-                "Reading & Writing/Platforms"
+                "Community/Blogs and Forums"
             ],
             "description": "Hacker News is a social news website focusing on computer science and entrepreneurship.",
             "links": {
@@ -17743,7 +17925,7 @@ module.exports = {
         {
             "name": "Hacker Noon",
             "categories": [
-                "Reading & Writing/Platforms"
+                "Community/Blogs and Forums"
             ],
             "description": "How hackers start their afternoons.",
             "keywords": [
@@ -17763,7 +17945,7 @@ module.exports = {
         {
             "name": "Hashnode",
             "categories": [
-                "Reading & Writing/Platforms"
+                "Community/Blogs and Forums"
             ],
             "description": "Hashnode is a free content creation platform and community that allows you to publish articles on your own domain and helps you stay connected with a growing developer community.",
             "links": {
@@ -17774,7 +17956,7 @@ module.exports = {
         {
             "name": "Lobsters",
             "categories": [
-                "Reading & Writing/Platforms"
+                "Community/Blogs and Forums"
             ],
             "description": "Lobsters is a computing-focused community centered around link aggregation and discussion.",
             "links": {
@@ -17785,7 +17967,7 @@ module.exports = {
         {
             "name": "Medium",
             "categories": [
-                "Reading & Writing/Platforms"
+                "Community/Blogs and Forums"
             ],
             "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
             "links": {
@@ -17796,7 +17978,7 @@ module.exports = {
         {
             "name": "reddit",
             "categories": [
-                "Reading & Writing/Platforms"
+                "Community/Blogs and Forums"
             ],
             "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
             "links": {
@@ -17807,7 +17989,7 @@ module.exports = {
         {
             "name": "Smashing Magazine",
             "categories": [
-                "Reading & Writing/Platforms"
+                "Community/Blogs and Forums"
             ],
             "description": "Smashing Magazine is a website and eBook publisher that offers editorial content and professional resources for web developers and web designers.",
             "links": {
@@ -17816,9 +17998,21 @@ module.exports = {
             "icon": "https://www.smashingmagazine.com/images/favicon/apple-touch-icon-ipad-76x76.png"
         },
         {
+            "name": "Tech Blogs",
+            "categories": [
+                "Community/Blogs and Forums"
+            ],
+            "description": "This is a list of Awesome Tech Blogs. Add yourself.",
+            "links": {
+                "Website": "https://tech-blogs.dev/",
+                "GitHub": "https://github.com/MarkoDenic/awesome-tech-blogs"
+            },
+            "icon": "https://tech-blogs.dev/favicon-32x32.png"
+        },
+        {
             "name": "TechCrunch",
             "categories": [
-                "Reading & Writing/Platforms"
+                "Community/Blogs and Forums"
             ],
             "description": "TechCrunch - Reporting on the business of technology, startups, venture capital funding, and Silicon Valley.",
             "links": {
@@ -17829,7 +18023,7 @@ module.exports = {
         {
             "name": "XDA-Developers",
             "categories": [
-                "Reading & Writing/Platforms"
+                "Community/Blogs and Forums"
             ],
             "description": "XDA Developers is a mobile software development community launched on 20 December 2002. Although discussion primarily revolves around Android, members also talk about many other operating systems and mobile development topics.",
             "links": {
@@ -18081,11 +18275,11 @@ module.exports = {
             "icon": "https://visualhunt.com/favicon.ico"
         }
     ],
-    "reading-writing-utilities": [
+    "tools-utilities-writing": [
         {
             "name": "CopyAI",
             "categories": [
-                "Reading & Writing/Utilities",
+                "Tools & Utilities/Writing",
                 "Indie Hacking/Utilities"
             ],
             "description": "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds!",
@@ -18095,20 +18289,20 @@ module.exports = {
             "icon": "https://assets-global.website-files.com/5f4ec532319820f7c2ccd7a3/5f55620b7b806770e6becea2_32x32%20favico.png"
         },
         {
-            "name": "daily.dev",
+            "name": "Google Technical Writing",
             "categories": [
-                "Reading & Writing/Utilities"
+                "Tools & Utilities/Writing"
             ],
-            "description": "Daily.dev is the easiest way to stay updated on the latest programming news. Get the hottest dev news from the best tech blogs on any topic you can think of. Stay updated daily, and unlock more time to do fun stuff, relax, or just code.",
+            "description": "This collection of courses and learning resources aims to improve your technical documentation. Learn how to plan and author technical documents. You can also learn about the role of technical writers at Google.",
             "links": {
-                "Website": "https://daily.dev/"
+                "Website": "https://developers.google.com/tech-writing"
             },
-            "icon": "https://assets.website-files.com/5e0a5d9d743608d0f3ea6753/5f35091372cfa97ba7438461_daily.dev%20-%20Favicon%4030x.ico"
+            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/developers/images/touchicon-180.png"
         },
         {
             "name": "Gramara",
             "categories": [
-                "Reading & Writing/Utilities"
+                "Tools & Utilities/Writing"
             ],
             "description": "Write fluent English in a snap!",
             "links": {
@@ -18119,7 +18313,7 @@ module.exports = {
         {
             "name": "Grammarly",
             "categories": [
-                "Reading & Writing/Utilities"
+                "Tools & Utilities/Writing"
             ],
             "description": "Grammarly makes sure everything you type is easy to read, effective, and mistake-free. Try it today:.",
             "links": {
@@ -18130,7 +18324,7 @@ module.exports = {
         {
             "name": "Hemingway App",
             "categories": [
-                "Reading & Writing/Utilities"
+                "Tools & Utilities/Writing"
             ],
             "description": "Hemingway App makes your writing bold and clear. The app highlights lengthy, complex sentences and common errors.",
             "links": {
@@ -18141,7 +18335,7 @@ module.exports = {
         {
             "name": "Writty",
             "categories": [
-                "Reading & Writing/Utilities"
+                "Tools & Utilities/Writing"
             ],
             "description": "A simple writing app and text editor to help you focus on what matters.",
             "keywords": [
@@ -18511,6 +18705,17 @@ module.exports = {
             "icon": "https://nextjs.org/static/favicon/favicon-32x32.png"
         },
         {
+            "name": "React Resources",
+            "categories": [
+                "Programming/JavaScript/React"
+            ],
+            "description": "Keep up with the growing React ecosystem! We cover the latest React learning resources, libraries and jobs.",
+            "links": {
+                "Website": "https://reactresources.com/"
+            },
+            "icon": "https://reactresources.com/static/favicon.ico"
+        },
+        {
             "name": "SVG to JSX",
             "categories": [
                 "Programming/JavaScript/React"
@@ -18541,19 +18746,6 @@ module.exports = {
                 "Website": "https://usehooks.com/"
             },
             "icon": "https://usehooks.com/favicon.ico"
-        }
-    ],
-    "reading-writing-learn": [
-        {
-            "name": "Google Technical Writing",
-            "categories": [
-                "Reading & Writing/Learn"
-            ],
-            "description": "This collection of courses and learning resources aims to improve your technical documentation. Learn how to plan and author technical documents. You can also learn about the role of technical writers at Google.",
-            "links": {
-                "Website": "https://developers.google.com/tech-writing"
-            },
-            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/developers/images/touchicon-180.png"
         }
     ],
     "tools-utilities-performance": [
@@ -18938,31 +19130,6 @@ module.exports = {
                 "Website": "https://thebootstrappedfounder.com/zero-to-sold/"
             },
             "icon": "https://i0.wp.com/thebootstrappedfounder.com/wp-content/uploads/2019/11/cropped-Untitled-1.png?fit=32%2C32&ssl=1"
-        }
-    ],
-    "programming-code-generators": [
-        {
-            "name": "Layoutit Grid",
-            "categories": [
-                "Programming/Code Generators"
-            ],
-            "description": "Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.",
-            "links": {
-                "Website": "https://grid.layoutit.com/",
-                "GitHub": "https://github.com/Leniolabs/layoutit-grid"
-            },
-            "icon": "https://grid.layoutit.com/img/icons/icon-128x128.png"
-        },
-        {
-            "name": "Vemto",
-            "categories": [
-                "Programming/Code Generators"
-            ],
-            "description": "Design and generate Laravel/PHP applications in minutes with this desktop tool",
-            "links": {
-                "Website": "https://vemto.app/"
-            },
-            "icon": "https://vemto.app/favicon.png"
         }
     ],
     "tools-utilities-image-video-editing": [
