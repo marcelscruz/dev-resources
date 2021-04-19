@@ -1,10 +1,10 @@
-const { readingAndWriting, programming, infrastructure } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { community, programming, infrastructure } = require('../constants/categories')
+const { website, github } = require('../constants/links')
 
 module.exports = [
     {
         name: 'XDA-Developers',
-        categories: [readingAndWriting.platforms],
+        categories: [community.blogsAndForums],
         description:
             'XDA Developers is a mobile software development community launched on 20 December 2002. Although discussion primarily revolves around Android, members also talk about many other operating systems and mobile development topics.',
         links: {
@@ -56,5 +56,15 @@ module.exports = [
             [website]: 'https://bradwoods.io/guides/xstate',
         },
         icon: 'https://bradwoods.io/icons-ac8e8fb7acba0bf710955dec094dc16c/apple-touch-icon-76x76.png',
+    },
+    {
+        name: 'xstyled',
+        categories: [programming.uiKitsAndLibraries],
+        description: 'A utility-first CSS-in-JS framework built for React.',
+        links: {
+            [website]: 'https://xstyled.dev/',
+            [github]: 'https://github.com/gregberge/xstyled',
+        },
+        icon: 'https://xstyled.dev/favicon-32x32.png?v=35747667c057871bf481acaf8d249528',
     },
 ]

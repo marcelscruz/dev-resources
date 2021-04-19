@@ -1,12 +1,12 @@
 const {
     programming,
     assets,
-    readingAndWriting,
     jobs,
     uiDesign,
     toolsAndUtilities,
     indieHacking,
     infrastructure,
+    community,
 } = require('../constants/categories')
 const { website, youtube } = require('../constants/links')
 
@@ -46,7 +46,7 @@ module.exports = [
     },
     {
         name: 'daily.dev',
-        categories: [readingAndWriting.utilities],
+        categories: [community.blogsAndForums],
         description:
             'Daily.dev is the easiest way to stay updated on the latest programming news. Get the hottest dev news from the best tech blogs on any topic you can think of. Stay updated daily, and unlock more time to do fun stuff, relax, or just code.',
         links: {
@@ -146,7 +146,7 @@ module.exports = [
     },
     {
         name: 'DEV',
-        categories: [readingAndWriting.platforms],
+        categories: [community.blogsAndForums],
         description:
             'A constructive and inclusive social network for software developers. With you every step of your journey.',
         keywords: ['software development', 'engineering', 'rails', 'javascript', 'ruby'],

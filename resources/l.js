@@ -5,7 +5,7 @@ const {
     indieHacking,
     jobs,
     assets,
-    readingAndWriting,
+    community,
 } = require('../constants/categories')
 const { website, youtube, gumroad, github } = require('../constants/links')
 
@@ -235,7 +235,7 @@ module.exports = [
     },
     {
         name: 'Lobsters',
-        categories: [readingAndWriting.platforms],
+        categories: [community.blogsAndForums],
         description: 'Lobsters is a computing-focused community centered around link aggregation and discussion.',
         links: {
             [website]: 'https://lobste.rs/',

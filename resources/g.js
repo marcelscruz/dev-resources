@@ -4,7 +4,6 @@ const {
     infrastructure,
     jobs,
     assets,
-    readingAndWriting,
     uiDesign,
     indieHacking,
 } = require('../constants/categories')
@@ -124,7 +123,7 @@ module.exports = [
     },
     {
         name: 'Google Technical Writing',
-        categories: [readingAndWriting.learn],
+        categories: [toolsAndUtilities.writing],
         description:
             'This collection of courses and learning resources aims to improve your technical documentation. Learn how to plan and author technical documents. You can also learn about the role of technical writers at Google.',
         links: {
@@ -162,7 +161,7 @@ module.exports = [
     },
     {
         name: 'Gramara',
-        categories: [readingAndWriting.utilities],
+        categories: [toolsAndUtilities.writing],
         description: 'Write fluent English in a snap!',
         links: {
             [website]: 'https://gramara.com/',
@@ -171,7 +170,7 @@ module.exports = [
     },
     {
         name: 'Grammarly',
-        categories: [readingAndWriting.utilities],
+        categories: [toolsAndUtilities.writing],
         description:
             'Grammarly makes sure everything you type is easy to read, effective, and mistake-free. Try it today:.',
         links: {

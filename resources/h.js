@@ -1,6 +1,6 @@
 const {
     uiDesign,
-    readingAndWriting,
+    community,
     programming,
     assets,
     infrastructure,
@@ -23,7 +23,7 @@ module.exports = [
     },
     {
         name: 'Hacker News',
-        categories: [readingAndWriting.platforms],
+        categories: [community.blogsAndForums],
         description: 'Hacker News is a social news website focusing on computer science and entrepreneurship.',
         links: {
             [website]: 'https://news.ycombinator.com/',
@@ -32,7 +32,7 @@ module.exports = [
     },
     {
         name: 'Hacker Noon',
-        categories: [readingAndWriting.platforms],
+        categories: [community.blogsAndForums],
         description: 'How hackers start their afternoons.',
         keywords: ['blockchain', 'bitcoin', 'tech', 'crypto', 'software-development', 'react', 'vue'],
         links: {
@@ -73,7 +73,7 @@ module.exports = [
     },
     {
         name: 'Hashnode',
-        categories: [readingAndWriting.platforms],
+        categories: [community.blogsAndForums],
         description:
             'Hashnode is a free content creation platform and community that allows you to publish articles on your own domain and helps you stay connected with a growing developer community.',
         links: {
@@ -91,7 +91,7 @@ module.exports = [
     },
     {
         name: 'Hemingway App',
-        categories: [readingAndWriting.utilities],
+        categories: [toolsAndUtilities.writing],
         description:
             'Hemingway App makes your writing bold and clear. The app highlights lengthy, complex sentences and common errors.',
         links: {

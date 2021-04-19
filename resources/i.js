@@ -1,5 +1,5 @@
 const { assets, toolsAndUtilities, jobs, indieHacking, programming } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, spotify, applePodcasts, googlePodcasts } = require('../constants/links')
 
 module.exports = [
     {
@@ -108,6 +108,19 @@ module.exports = [
             [website]: 'https://www.indeed.com/create-resume',
         },
         icon: 'https://www.indeed.com/profile/gatsby-assets/icons/icon-96x96.png?v=d69338e3b43810840b9a84d69dbaa30e',
+    },
+    {
+        name: 'Indie Bits',
+        categories: [indieHacking.podcasts],
+        description:
+            "Short, bite-sized conversations (15 mins) with indie hackers that have started small, profitable and bootstrapped businesses. You'll learn how they come up with ideas, what they do to validate, find those first customers and make a sustainable income.",
+        links: {
+            [website]: 'https://indiebites.co/',
+            [spotify]: 'https://open.spotify.com/show/1MY9XdVViRwfaO8giM4fXO',
+            [applePodcasts]: 'https://podcasts.apple.com/gb/podcast/indie-bites/id1530577069',
+            [googlePodcasts]: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2luZGllLWJpdGVz',
+        },
+        icon: 'https://s3.amazonaws.com/super-notion/images/26707ca1-dc44-44e8-90ce-9e6220840f71.png',
     },
     {
         name: 'Indie Drops',

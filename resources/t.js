@@ -1,11 +1,4 @@
-const {
-    assets,
-    programming,
-    readingAndWriting,
-    toolsAndUtilities,
-    indieHacking,
-    jobs,
-} = require('../constants/categories')
+const { assets, programming, community, toolsAndUtilities, indieHacking, jobs } = require('../constants/categories')
 const { website, youtube, github } = require('../constants/links')
 
 module.exports = [
@@ -59,13 +52,23 @@ module.exports = [
     },
     {
         name: 'TechCrunch',
-        categories: [readingAndWriting.platforms],
+        categories: [community.blogsAndForums],
         description:
             'TechCrunch - Reporting on the business of technology, startups, venture capital funding, and Silicon Valley.',
         links: {
             [website]: 'https://techcrunch.com/',
         },
         icon: 'https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32',
+    },
+    {
+        name: 'Tech Blogs',
+        categories: [community.blogsAndForums],
+        description: 'This is a list of Awesome Tech Blogs. Add yourself.',
+        links: {
+            [website]: 'https://tech-blogs.dev/',
+            [github]: 'https://github.com/MarkoDenic/awesome-tech-blogs',
+        },
+        icon: 'https://tech-blogs.dev/favicon-32x32.png',
     },
     {
         name: 'Templated',

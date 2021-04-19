@@ -2,7 +2,7 @@ const {
     toolsAndUtilities,
     programming,
     jobs,
-    readingAndWriting,
+    community,
     uiDesign,
     assets,
     infrastructure,
@@ -82,6 +82,16 @@ module.exports = [
             'https://image.simplecastcdn.com/images/7672009f-32a0-470f-81b8-77a9748d560e/82cc2a41-1a7b-4c91-b6f0-a461c50830ed/simplecast-logo-32.jpg',
     },
     {
+        name: 'React Resources',
+        categories: [programming.javascript.react],
+        description:
+            'Keep up with the growing React ecosystem! We cover the latest React learning resources, libraries and jobs.',
+        links: {
+            [website]: 'https://reactresources.com/',
+        },
+        icon: 'https://reactresources.com/static/favicon.ico',
+    },
+    {
         name: 'React Suite',
         categories: [programming.uiKitsAndLibraries],
         description: 'A suite of React components, sensible UI design, and a friendly development experience.',
@@ -124,7 +134,7 @@ module.exports = [
     },
     {
         name: 'reddit',
-        categories: [readingAndWriting.platforms],
+        categories: [community.blogsAndForums],
         description:
             "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
         links: {
@@ -323,8 +333,7 @@ module.exports = [
     {
         name: 'Roadmap SH',
         categories: [toolsAndUtilities.general],
-        description:
-            'Step by step guides and paths to learn different tools or technologies',
+        description: 'Step by step guides and paths to learn different tools or technologies',
         links: {
             [website]: 'https://roadmap.sh/',
         },

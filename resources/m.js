@@ -5,7 +5,6 @@ const {
     assets,
     uiDesign,
     toolsAndUtilities,
-    readingAndWriting,
     jobs,
     infrastructure,
 } = require('../constants/categories')
@@ -147,7 +146,7 @@ module.exports = [
     },
     {
         name: 'Medium',
-        categories: [readingAndWriting.platforms],
+        categories: [community.blogsAndForums],
         description:
             'Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.',
         links: {

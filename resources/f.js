@@ -127,6 +127,16 @@ module.exports = [
         icon: 'https://media.flaticon.com/dist/min/img/apple-icon-76x76-precomposed.png',
     },
     {
+        name: 'Flexbox Adventure',
+        categories: [programming.learn],
+        description:
+            'Flexbox layout has a lot of properties and nuances that are hard to remember, learn it in the fun and interesting way that works – a CSS RPG game!',
+        links: {
+            [website]: 'https://codingfantasy.com/games/flexboxadventure',
+        },
+        icon: 'https://codingfantasy.com/favicon.ico',
+    },
+    {
         name: 'Flexbox Defense',
         categories: [programming.learn],
         description:

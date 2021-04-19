@@ -251,7 +251,7 @@ module.exports = [
     },
     {
         name: 'Writty',
-        categories: [readingAndWriting.utilities],
+        categories: [toolsAndUtilities.writing],
         description: 'A simple writing app and text editor to help you focus on what matters.',
         keywords: ['writing app', 'text editor', 'wysiwyg'],
         links: {

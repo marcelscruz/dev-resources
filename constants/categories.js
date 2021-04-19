@@ -14,6 +14,7 @@ module.exports = {
     },
 
     community: {
+        blogsAndForums: 'Community/Blogs and Forums',
         personalWebsites: 'Community/Personal Websites',
     },
 
@@ -60,12 +61,6 @@ module.exports = {
         youtubeChannels: 'Programming/YouTube Channels',
     },
 
-    readingAndWriting: {
-        learn: 'Reading & Writing/Learn',
-        platforms: 'Reading & Writing/Platforms',
-        utilities: 'Reading & Writing/Utilities',
-    },
-
     toolsAndUtilities: {
         apiBuilding: 'Tools & Utilities/API Building',
         accessibility: 'Tools & Utilities/Accessibility',
@@ -80,6 +75,7 @@ module.exports = {
         seo: 'Tools & Utilities/SEO',
         typing: 'Tools & Utilities/Typing',
         websiteBuilders: 'Tools & Utilities/Website Builders',
+        writing: 'Tools & Utilities/Writing',
     },
 
     uiDesign: {

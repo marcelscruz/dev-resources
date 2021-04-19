@@ -4,7 +4,7 @@ const {
     programming,
     assets,
     uiDesign,
-    readingAndWriting,
+    community,
     jobs,
     infrastructure,
 } = require('../constants/categories')
@@ -345,7 +345,7 @@ module.exports = [
     },
     {
         name: 'Smashing Magazine',
-        categories: [readingAndWriting.platforms],
+        categories: [community.blogsAndForums],
         description:
             'Smashing Magazine is a website and eBook publisher that offers editorial content and professional resources for web developers and web designers.',
         links: {

@@ -6,7 +6,7 @@ const {
     programming,
     toolsAndUtilities,
     indieHacking,
-    readingAndWriting,
+    community,
 } = require('../constants/categories')
 const { website, youtube, github, twitter, discord, instagram, productHunt } = require('../constants/links')
 
@@ -287,7 +287,7 @@ module.exports = [
     },
     {
         name: 'Codeconia',
-        categories: [readingAndWriting.platforms],
+        categories: [community.blogsAndForums],
         description: 'Learn programming with Codeconia.',
         links: {
             [website]: 'https://codeconia.com/',
@@ -777,7 +777,7 @@ module.exports = [
     },
     {
         name: 'CopyAI',
-        categories: [readingAndWriting.utilities, indieHacking.utilities],
+        categories: [toolsAndUtilities.writing, indieHacking.utilities],
         description:
             "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds!",
         links: {
