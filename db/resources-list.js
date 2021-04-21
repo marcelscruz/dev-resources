@@ -771,6 +771,23 @@ module.exports = [
         "icon": "https://app-mockup.com/icons/icon-96x96.png?v=59619132456a4be05090b0bf15d7fa12"
     },
     {
+        "name": "Appwrite",
+        "categories": [
+            "Tools & Utilities/API Building",
+            "Tools & Utilities/General"
+        ],
+        "description": "Appwrite provides web and mobile developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs.",
+        "links": {
+            "Website": "https://appwrite.io/",
+            "GitHub": "https://github.com/appwrite/appwrite",
+            "Twitter": "https://twitter.com/appwrite_io",
+            "Facebook": "https://www.facebook.com/appwrite.io",
+            "LinkedIn": "https://www.linkedin.com/company/appwrite",
+            "Discord": "https://appwrite.io/discord"
+        },
+        "icon": "https://appwrite.io/images/favicon.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -4879,6 +4896,17 @@ module.exports = [
         "icon": "https://www.dreamhost.com/assets/favicons/apple-touch-icon-76x76-18c4bd5a860942003494cecf3aa217b02285f57f5525c0e4985dcb77f0125d91.png"
     },
     {
+        "name": "Dribbble",
+        "categories": [
+            "UI Design/Inspiration"
+        ],
+        "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
+        "links": {
+            "Website": "https://dribbble.com/"
+        },
+        "icon": "https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -4891,17 +4919,6 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
-    },
-    {
-        "name": "Dribbble",
-        "categories": [
-            "UI Design/Inspiration"
-        ],
-        "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
-        "links": {
-            "Website": "https://dribbble.com/"
-        },
-        "icon": "https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png"
     },
     {
         "categories": [
@@ -8059,20 +8076,6 @@ module.exports = [
         "icon": "https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico"
     },
     {
-        "name": "Icons8",
-        "categories": [
-            "Assets/Icons",
-            "Assets/Illustrations",
-            "Assets/Images",
-            "Assets/Audio"
-        ],
-        "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
-        "links": {
-            "Website": "https://icons8.com"
-        },
-        "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -8085,6 +8088,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Icons8",
+        "categories": [
+            "Assets/Icons",
+            "Assets/Illustrations",
+            "Assets/Images",
+            "Assets/Audio"
+        ],
+        "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
+        "links": {
+            "Website": "https://icons8.com"
+        },
+        "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
     },
     {
         "name": "Iconscout",
@@ -8332,6 +8349,21 @@ module.exports = [
             "Website": "https://www.indiehackers.com/"
         },
         "icon": "https://www.indiehackers.com/images/favicons/favicon--32x32.png"
+    },
+    {
+        "name": "Indie Worldwide",
+        "categories": [
+            "Indie Hacking/Platforms"
+        ],
+        "description": "The worldwide virtual meetup of indie hackers, founders, and makers.",
+        "links": {
+            "Website": "https://indieworldwide.co/",
+            "YouTube": "https://www.youtube.com/channel/UCMps9pFrqetqXMCEZqkiQ-g/",
+            "Facebook": "https://www.facebook.com/groups/indie.worldwide/",
+            "Slack": "https://join.slack.com/t/indieworldwide/shared_invite/enQtNzYzNTUwMjc2ODgyLTBjNTRiMmMwYWQ2MmQ5OGYyNTk2OWIwN2Q1OTcyOGJjM2M3MzEwYjc5OThjNTlmMWZhNTU0NDAyYjRkNDQ0Zjk",
+            "Indie Hackers": "https://www.indiehackers.com/product/worldwide"
+        },
+        "icon": "https://indieworldwide.co/icons/icon-96x96.png"
     },
     {
         "name": "Inovatik",
@@ -9734,6 +9766,17 @@ module.exports = [
         "apiCategory": "Games & Comics"
     },
     {
+        "name": "Like I Am Five",
+        "categories": [
+            "Programming/Learn"
+        ],
+        "description": "Learn to code through real-life projects in less than 4 hours.",
+        "links": {
+            "Website": "https://www.likeiamfive.com/"
+        },
+        "icon": "https://uploads-ssl.webflow.com/5f663366aa4dbb5f5ba60eb6/600f0002c4e610106b7a2dc8_Favicon.png"
+    },
+    {
         "name": "Line Icon Pack",
         "categories": [
             "Assets/Icons"
@@ -10212,17 +10255,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Get Material Icons.",
-        "links": {
-            "Website": "https://material.io/resources/icons"
-        },
-        "icon": "https://material.io/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Programming/UI Kits & Libraries"
         ],
         "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
@@ -10230,6 +10262,17 @@ module.exports = [
             "Website": "https://material.io/"
         },
         "icon": "https://material.io/static/assets/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Get Material Icons.",
+        "links": {
+            "Website": "https://material.io/resources/icons"
+        },
+        "icon": "https://material.io/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -10343,17 +10386,6 @@ module.exports = [
         "apiCategory": "Health"
     },
     {
-        "name": "Medium",
-        "categories": [
-            "Community/Blogs and Forums"
-        ],
-        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
-        "links": {
-            "Website": "http://medium.com/"
-        },
-        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -10366,6 +10398,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Personality"
+    },
+    {
+        "name": "Medium",
+        "categories": [
+            "Community/Blogs and Forums"
+        ],
+        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
+        "links": {
+            "Website": "http://medium.com/"
+        },
+        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
     },
     {
         "categories": [
@@ -10531,6 +10574,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Geocoding"
+    },
+    {
+        "name": "MicroAcquire",
+        "categories": [
+            "Indie Hacking/Utilities"
+        ],
+        "description": "MicroAcquire helps startups find buyers. Simple as that. We’ll help you start conversations that lead to an acquisition in just 30 days – for free.",
+        "links": {
+            "Website": "https://microacquire.com/",
+            "Twitter": "https://twitter.com/microacquire",
+            "LinkedIn": "https://www.linkedin.com/company/microacquire/about",
+            "Facebook": "https://facebook.com/microacquire"
+        },
+        "icon": "https://microacquire.com/assets/img/favicon-32x32.png"
     },
     {
         "categories": [
@@ -11162,17 +11219,6 @@ module.exports = [
         "icon": "https://notepad-plus-plus.org/favicon.ico"
     },
     {
-        "name": "Noun Project",
-        "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
-        "links": {
-            "Website": "https://thenounproject.com/"
-        },
-        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -11185,6 +11231,17 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Noun Project",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
+        "links": {
+            "Website": "https://thenounproject.com/"
+        },
+        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
     },
     {
         "name": "Novorésumé",
@@ -11979,6 +12036,19 @@ module.exports = [
         "icon": "https://uploads-ssl.webflow.com/5fe0663168984aa818b74ba5/5fe368f5753d1170023baf41_icon.png"
     },
     {
+        "name": "Orbit",
+        "categories": [
+            "Indie Hacking/Utilities"
+        ],
+        "description": "Orbit is the community experience platform for developers, helping organizations build enthusiastic communities of technology adopters.",
+        "links": {
+            "Website": "https://orbit.love/",
+            "GitHub": "https://github.com/orbit-love/",
+            "Twitter": "https://twitter.com/OrbitModel"
+        },
+        "icon": "https://orbit.love/assets/images/favicon/32x32.png"
+    },
+    {
         "name": "Orion",
         "categories": [
             "Assets/Icons"
@@ -12280,6 +12350,19 @@ module.exports = [
         "apiCategory": "Test Data"
     },
     {
+        "name": "Pixabay",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Illustrations"
+        ],
+        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
+        "links": {
+            "Website": "https://pixabay.com/"
+        },
+        "icon": "https://pixabay.com/favicon-32x32.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -12292,19 +12375,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Photography"
-    },
-    {
-        "name": "Pixabay",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Illustrations"
-        ],
-        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
-        "links": {
-            "Website": "https://pixabay.com/"
-        },
-        "icon": "https://pixabay.com/favicon-32x32.png"
     },
     {
         "name": "Pixel Love",
@@ -12915,11 +12985,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://fungenerators.com/api/qrcode/"
+            "Website": "http://qrtag.net/api/"
         },
-        "name": "QR Code",
-        "description": "Create new QR Code or decode existing one",
-        "auth": "apiKey",
+        "name": "QR code",
+        "description": "Create an easy to read QR code and URL shortener",
+        "auth": "",
         "https": true,
         "cors": "yes",
         "apiCategory": "Development"
@@ -12929,11 +12999,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://qrtag.net/api/"
+            "Website": "https://fungenerators.com/api/qrcode/"
         },
-        "name": "QR code",
-        "description": "Create an easy to read QR code and URL shortener",
-        "auth": "",
+        "name": "QR Code",
+        "description": "Create new QR Code or decode existing one",
+        "auth": "apiKey",
         "https": true,
         "cors": "yes",
         "apiCategory": "Development"
@@ -13144,6 +13214,22 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Test Data"
+    },
+    {
+        "name": "RapidAPI",
+        "categories": [
+            "Tools & Utilities/API Building",
+            "Tools & Utilities/General"
+        ],
+        "description": "Use RapidAPI to Find, Connect, & Share 1000s of APIs using our Multi-cloud platform. Improve Developer Experience with API Design, Testing, Monitoring, & More!",
+        "links": {
+            "Website": "https://rapidapi.com/",
+            "Facebook": "https://www.facebook.com/Rapid-API-860822767286196",
+            "Twitter": "https://twitter.com/rapid_api",
+            "YouTube": "https://www.youtube.com/channel/UCk-vgkXZUzwd5hmpQ2it9_g",
+            "LinkedIn": "https://www.linkedin.com/company/rapidapi"
+        },
+        "icon": "https://rapidapi.com/wp-content/uploads/2020/07/favicon-2.png"
     },
     {
         "name": "Ratatype",
@@ -14007,6 +14093,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://scrapingant.com"
+        },
+        "name": "ScrapingAnt",
+        "description": "Headless Chrome scraping with a simple API",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Development"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://www.scrapingdog.com/"
         },
         "name": "ScrapingDog",
@@ -14240,6 +14340,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Animals"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://shikimori.one/api/doc"
+        },
+        "name": "Shikimori",
+        "description": "Anime discovery, tracking, forum, rates",
+        "auth": "OAuth",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Anime"
     },
     {
         "categories": [
@@ -16329,6 +16443,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://opentransportdata.swiss/en/"
+        },
+        "name": "Transport for Switzerland",
+        "description": "Official Swiss Public Transport Open Data",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Transportation"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://transport.opendata.ch/"
         },
         "name": "Transport for Switzerland",
@@ -16343,11 +16471,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://opentransportdata.swiss/en/"
+            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
         },
-        "name": "Transport for Switzerland",
-        "description": "Official Swiss Public Transport Open Data",
-        "auth": "apiKey",
+        "name": "Transport for The Netherlands",
+        "description": "OVAPI, country-wide public transport",
+        "auth": "",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
@@ -16363,20 +16491,6 @@ module.exports = [
         "description": "NS, only trains",
         "auth": "apiKey",
         "https": false,
-        "cors": "unknown",
-        "apiCategory": "Transportation"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
-        },
-        "name": "Transport for The Netherlands",
-        "description": "OVAPI, country-wide public transport",
-        "auth": "",
-        "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
     },
@@ -16530,6 +16644,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Games & Comics"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.troposphere.io/developer"
+        },
+        "name": "Troposphere",
+        "description": "Global weather and climate data",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Weather"
     },
     {
         "categories": [
@@ -17047,6 +17175,17 @@ module.exports = [
         "apiCategory": "Tracking"
     },
     {
+        "name": "Upwork",
+        "categories": [
+            "Jobs/Freelancing"
+        ],
+        "description": "Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.",
+        "links": {
+            "Website": "https://www.upwork.com/"
+        },
+        "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -17059,17 +17198,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Jobs"
-    },
-    {
-        "name": "Upwork",
-        "categories": [
-            "Jobs/Freelancing"
-        ],
-        "description": "Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.",
-        "links": {
-            "Website": "https://www.upwork.com/"
-        },
-        "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
     },
     {
         "categories": [
@@ -17712,17 +17840,6 @@ module.exports = [
         "apiCategory": "Text Analysis"
     },
     {
-        "name": "Wave",
-        "categories": [
-            "Tools & Utilities/General"
-        ],
-        "description": "Free invoicing & accounting software with credit card processing & payroll services.",
-        "links": {
-            "Website": "https://www.waveapps.com/"
-        },
-        "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
-    },
-    {
         "name": "WAVE",
         "categories": [
             "Tools & Utilities/Accessibility"
@@ -17732,6 +17849,17 @@ module.exports = [
             "Website": "https://wave.webaim.org/"
         },
         "icon": "https://wave.webaim.org/favicon.ico"
+    },
+    {
+        "name": "Wave",
+        "categories": [
+            "Tools & Utilities/General"
+        ],
+        "description": "Free invoicing & accounting software with credit card processing & payroll services.",
+        "links": {
+            "Website": "https://www.waveapps.com/"
+        },
+        "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
     },
     {
         "name": "We Work Remotely",
@@ -17820,20 +17948,6 @@ module.exports = [
         "icon": "https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png"
     },
     {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://support.mywot.com/hc/en-us/articles/360024398673-3-Using-the-API"
-        },
-        "name": "Web Of Trust (WOT)",
-        "description": "Website reputation",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "unknown",
-        "apiCategory": "Anti-Malware"
-    },
-    {
         "name": "web.dev - Lighthouse",
         "categories": [
             "Tools & Utilities/Performance"
@@ -17881,6 +17995,20 @@ module.exports = [
             "Website": "https://www.webpagetest.org/"
         },
         "icon": "https://www.webpagetest.org/images/favicon/favicon-32x32.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://webscraping.ai/"
+        },
+        "name": "WebScraping.AI",
+        "description": "Web Scraping API with built-in proxies and JS rendering",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Development"
     },
     {
         "name": "Website Authority Checker",

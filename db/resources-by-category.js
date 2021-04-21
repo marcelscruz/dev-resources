@@ -7669,11 +7669,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
+                "Website": "http://qrtag.net/api/"
             },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
+            "auth": "",
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
@@ -7683,11 +7683,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://qrtag.net/api/"
+                "Website": "https://fungenerators.com/api/qrcode/"
             },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "auth": "",
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
@@ -8285,6 +8285,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://scrapingant.com"
+            },
+            "name": "ScrapingAnt",
+            "description": "Headless Chrome scraping with a simple API",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://www.scrapingdog.com/"
             },
             "name": "ScrapingDog",
@@ -8419,6 +8433,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Animals"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://shikimori.one/api/doc"
+            },
+            "name": "Shikimori",
+            "description": "Anime discovery, tracking, forum, rates",
+            "auth": "OAuth",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Anime"
         },
         {
             "categories": [
@@ -9545,6 +9573,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://opentransportdata.swiss/en/"
+            },
+            "name": "Transport for Switzerland",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Transportation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
@@ -9559,11 +9601,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
-            "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "name": "Transport for The Netherlands",
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -9579,20 +9621,6 @@ module.exports = {
             "description": "NS, only trains",
             "auth": "apiKey",
             "https": false,
-            "cors": "unknown",
-            "apiCategory": "Transportation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
-            },
-            "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -9721,6 +9749,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Games & Comics"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.troposphere.io/developer"
+            },
+            "name": "Troposphere",
+            "description": "Global weather and climate data",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Weather"
         },
         {
             "categories": [
@@ -10483,14 +10525,14 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://support.mywot.com/hc/en-us/articles/360024398673-3-Using-the-API"
+                "Website": "https://webscraping.ai/"
             },
-            "name": "Web Of Trust (WOT)",
-            "description": "Website reputation",
+            "name": "WebScraping.AI",
+            "description": "Web Scraping API with built-in proxies and JS rendering",
             "auth": "apiKey",
             "https": true,
-            "cors": "unknown",
-            "apiCategory": "Anti-Malware"
+            "cors": "yes",
+            "apiCategory": "Development"
         },
         {
             "categories": [
@@ -12342,6 +12384,33 @@ module.exports = {
             "icon": "https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png"
         },
         {
+            "name": "MicroAcquire",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "MicroAcquire helps startups find buyers. Simple as that. We’ll help you start conversations that lead to an acquisition in just 30 days – for free.",
+            "links": {
+                "Website": "https://microacquire.com/",
+                "Twitter": "https://twitter.com/microacquire",
+                "LinkedIn": "https://www.linkedin.com/company/microacquire/about",
+                "Facebook": "https://facebook.com/microacquire"
+            },
+            "icon": "https://microacquire.com/assets/img/favicon-32x32.png"
+        },
+        {
+            "name": "Orbit",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "Orbit is the community experience platform for developers, helping organizations build enthusiastic communities of technology adopters.",
+            "links": {
+                "Website": "https://orbit.love/",
+                "GitHub": "https://github.com/orbit-love/",
+                "Twitter": "https://twitter.com/OrbitModel"
+            },
+            "icon": "https://orbit.love/assets/images/favicon/32x32.png"
+        },
+        {
             "name": "SaaS4Devs",
             "categories": [
                 "Indie Hacking/Utilities"
@@ -12628,6 +12697,23 @@ module.exports = {
             "icon": "https://www.gstatic.com/devrel-devsite/prod/vbd4700e58d826f0eab371eadc20e0e343567df356800794a790eebf2ac059db2/cloud/images/favicons/onecloud/super_cloud.png"
         },
         {
+            "name": "Appwrite",
+            "categories": [
+                "Tools & Utilities/API Building",
+                "Tools & Utilities/General"
+            ],
+            "description": "Appwrite provides web and mobile developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs.",
+            "links": {
+                "Website": "https://appwrite.io/",
+                "GitHub": "https://github.com/appwrite/appwrite",
+                "Twitter": "https://twitter.com/appwrite_io",
+                "Facebook": "https://www.facebook.com/appwrite.io",
+                "LinkedIn": "https://www.linkedin.com/company/appwrite",
+                "Discord": "https://appwrite.io/discord"
+            },
+            "icon": "https://appwrite.io/images/favicon.png"
+        },
+        {
             "name": "Hoppscotch",
             "categories": [
                 "Tools & Utilities/API Building"
@@ -12699,6 +12785,22 @@ module.exports = {
                 "Website": "https://www.postman.com/"
             },
             "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
+        },
+        {
+            "name": "RapidAPI",
+            "categories": [
+                "Tools & Utilities/API Building",
+                "Tools & Utilities/General"
+            ],
+            "description": "Use RapidAPI to Find, Connect, & Share 1000s of APIs using our Multi-cloud platform. Improve Developer Experience with API Design, Testing, Monitoring, & More!",
+            "links": {
+                "Website": "https://rapidapi.com/",
+                "Facebook": "https://www.facebook.com/Rapid-API-860822767286196",
+                "Twitter": "https://twitter.com/rapid_api",
+                "YouTube": "https://www.youtube.com/channel/UCk-vgkXZUzwd5hmpQ2it9_g",
+                "LinkedIn": "https://www.linkedin.com/company/rapidapi"
+            },
+            "icon": "https://rapidapi.com/wp-content/uploads/2020/07/favicon-2.png"
         },
         {
             "name": "Retool",
@@ -13072,6 +13174,224 @@ module.exports = {
             "icon": "https://www.jetbrains.com/favicon-32x32.png"
         }
     ],
+    "tools-utilities-general": [
+        {
+            "name": "Appwrite",
+            "categories": [
+                "Tools & Utilities/API Building",
+                "Tools & Utilities/General"
+            ],
+            "description": "Appwrite provides web and mobile developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs.",
+            "links": {
+                "Website": "https://appwrite.io/",
+                "GitHub": "https://github.com/appwrite/appwrite",
+                "Twitter": "https://twitter.com/appwrite_io",
+                "Facebook": "https://www.facebook.com/appwrite.io",
+                "LinkedIn": "https://www.linkedin.com/company/appwrite",
+                "Discord": "https://appwrite.io/discord"
+            },
+            "icon": "https://appwrite.io/images/favicon.png"
+        },
+        {
+            "name": "Beginner's guide to web security",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "A 100+ page ebook that talks about the basics of web security, various types of web security attacks and how to avoid/fix them.",
+            "links": {
+                "Website": "https://gokul.site/book/"
+            },
+            "icon": "https://gokul.site/icons/icon-96x96.png?v=2d9998c4e1e6c7960b943ee0d4373742"
+        },
+        {
+            "name": "Checklist Design",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets.",
+            "links": {
+                "Website": "https://www.checklist.design/"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5ba4b3c973b5d218459f7e6f/5f33ce7fe8e7463f6c74c26f_checklist-web-image.png"
+        },
+        {
+            "name": "CodeKit",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "CodeKit is a Mac app that makes it easy to use modern web development tools like npm, Babel, Sass, JavaScript bundling, image optimization, and ESLint.",
+            "links": {
+                "Website": "https://codekitapp.com/"
+            },
+            "icon": "https://codekitapp.com/images/favicon-32.png?ckcachebust=627961015"
+        },
+        {
+            "name": "Dracula theme",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "Dracula is a color scheme for code editors and terminal emulators such as Vim, Notepad++, iTerm, VSCode, Terminal.app, ZSH, and much more.",
+            "links": {
+                "Website": "https://draculatheme.com/"
+            },
+            "icon": "https://draculatheme.com/static/img/favicon.ico"
+        },
+        {
+            "name": "GetTerms.io",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "Generate a simple Terms of Service and Privacy Policy statement for your website.",
+            "links": {
+                "Website": "https://getterms.io/"
+            },
+            "icon": "https://getterms.io/img/apple-touch-icon-72x72.png"
+        },
+        {
+            "name": "Grid.Guide",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "Create pixel perfect grids for the web.",
+            "links": {
+                "Website": "http://grid.guide/"
+            },
+            "icon": "http://grid.guide/assets/favicons/favicon-96x96.png"
+        },
+        {
+            "name": "Opensource.Builders",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "Find open-source alternatives to popular software.",
+            "links": {
+                "Website": "https://opensource.builders/"
+            },
+            "icon": "https://opensource.builders/icons/icon-96x96.png?v=e7a352862c009ec6682391b2e58d6469"
+        },
+        {
+            "name": "RapidAPI",
+            "categories": [
+                "Tools & Utilities/API Building",
+                "Tools & Utilities/General"
+            ],
+            "description": "Use RapidAPI to Find, Connect, & Share 1000s of APIs using our Multi-cloud platform. Improve Developer Experience with API Design, Testing, Monitoring, & More!",
+            "links": {
+                "Website": "https://rapidapi.com/",
+                "Facebook": "https://www.facebook.com/Rapid-API-860822767286196",
+                "Twitter": "https://twitter.com/rapid_api",
+                "YouTube": "https://www.youtube.com/channel/UCk-vgkXZUzwd5hmpQ2it9_g",
+                "LinkedIn": "https://www.linkedin.com/company/rapidapi"
+            },
+            "icon": "https://rapidapi.com/wp-content/uploads/2020/07/favicon-2.png"
+        },
+        {
+            "name": "readme.so",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "Use readme.so's markdown editor and ready made templates to easily create a simple README for your repositories",
+            "links": {
+                "Website": "https://readme.so/",
+                "GitHub": "https://github.com/katherinepeterson/readme.so"
+            },
+            "icon": "https://readme.so/favicon.ico"
+        },
+        {
+            "name": "Retool",
+            "categories": [
+                "Tools & Utilities/API Building",
+                "Tools & Utilities/General"
+            ],
+            "description": "Retool is the fast way to build internal tools. Drag-and-drop our building blocks and connect them to your databases and APIs to build your own tools, instantly. Connects with Postgres, REST APIs, GraphQL, Firebase, Google Sheets, and more.  Built by developers, for developers. Trusted by startups and Fortune 500s. Sign up for free.",
+            "links": {
+                "Website": "https://retool.com/",
+                "Twitter": "https://twitter.com/retool",
+                "LinkedIn": "https://www.linkedin.com/company/tryretool"
+            },
+            "icon": "https://retool.com/favicon.png"
+        },
+        {
+            "name": "Roadmap SH",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "Step by step guides and paths to learn different tools or technologies",
+            "links": {
+                "Website": "https://roadmap.sh/"
+            },
+            "icon": "https://roadmap.sh/brand.png"
+        },
+        {
+            "name": "Stack Overflow",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.",
+            "links": {
+                "Website": "http://stackoverflow.com/"
+            },
+            "icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a"
+        },
+        {
+            "name": "Transform Tools",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "A polyglot web converter.",
+            "keywords": [
+                "Big Query",
+                "Flow",
+                "Go Bson",
+                "Go",
+                "GraphQL",
+                "HTML",
+                "JSDoc",
+                "JSON Schema",
+                "JSON",
+                "Kotlin",
+                "MobX-State-Tree Model",
+                "Mongoose Schema",
+                "MySQL",
+                "React Native",
+                "React PropTypes",
+                "Rust Serde",
+                "SVG",
+                "Sarcastic",
+                "Scala Case Class",
+                "TailwindCSS",
+                "TypeScript",
+                "YAML",
+                "io-ts"
+            ],
+            "links": {
+                "GitHub": "https://github.com/ritz078/transform",
+                "Website": "https://transform.tools"
+            }
+        },
+        {
+            "name": "Untools",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.",
+            "links": {
+                "Website": "https://untools.co/"
+            },
+            "icon": "https://untools.co/icons/icon-96x96.png?v=48b6eb2cd872327651861e831bd90577"
+        },
+        {
+            "name": "Wave",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "Free invoicing & accounting software with credit card processing & payroll services.",
+            "links": {
+                "Website": "https://www.waveapps.com/"
+            },
+            "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
+        }
+    ],
     "programming-learn": [
         {
             "name": "Awesome Courses",
@@ -13391,6 +13711,17 @@ module.exports = {
                 "Website": "https://learnxinyminutes.com/"
             },
             "icon": "https://learnxinyminutes.com/favicon.ico"
+        },
+        {
+            "name": "Like I Am Five",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn to code through real-life projects in less than 4 hours.",
+            "links": {
+                "Website": "https://www.likeiamfive.com/"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5f663366aa4dbb5f5ba60eb6/600f0002c4e610106b7a2dc8_Favicon.png"
         },
         {
             "name": "LinkedIn Learning",
@@ -14251,191 +14582,6 @@ module.exports = {
                 "Website": "https://splitbee.io"
             },
             "icon": "https://splitbee.io/icons/favicon-32x32.png"
-        }
-    ],
-    "tools-utilities-general": [
-        {
-            "name": "Beginner's guide to web security",
-            "categories": [
-                "Tools & Utilities/General"
-            ],
-            "description": "A 100+ page ebook that talks about the basics of web security, various types of web security attacks and how to avoid/fix them.",
-            "links": {
-                "Website": "https://gokul.site/book/"
-            },
-            "icon": "https://gokul.site/icons/icon-96x96.png?v=2d9998c4e1e6c7960b943ee0d4373742"
-        },
-        {
-            "name": "Checklist Design",
-            "categories": [
-                "Tools & Utilities/General"
-            ],
-            "description": "Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets.",
-            "links": {
-                "Website": "https://www.checklist.design/"
-            },
-            "icon": "https://uploads-ssl.webflow.com/5ba4b3c973b5d218459f7e6f/5f33ce7fe8e7463f6c74c26f_checklist-web-image.png"
-        },
-        {
-            "name": "CodeKit",
-            "categories": [
-                "Tools & Utilities/General"
-            ],
-            "description": "CodeKit is a Mac app that makes it easy to use modern web development tools like npm, Babel, Sass, JavaScript bundling, image optimization, and ESLint.",
-            "links": {
-                "Website": "https://codekitapp.com/"
-            },
-            "icon": "https://codekitapp.com/images/favicon-32.png?ckcachebust=627961015"
-        },
-        {
-            "name": "Dracula theme",
-            "categories": [
-                "Tools & Utilities/General"
-            ],
-            "description": "Dracula is a color scheme for code editors and terminal emulators such as Vim, Notepad++, iTerm, VSCode, Terminal.app, ZSH, and much more.",
-            "links": {
-                "Website": "https://draculatheme.com/"
-            },
-            "icon": "https://draculatheme.com/static/img/favicon.ico"
-        },
-        {
-            "name": "GetTerms.io",
-            "categories": [
-                "Tools & Utilities/General"
-            ],
-            "description": "Generate a simple Terms of Service and Privacy Policy statement for your website.",
-            "links": {
-                "Website": "https://getterms.io/"
-            },
-            "icon": "https://getterms.io/img/apple-touch-icon-72x72.png"
-        },
-        {
-            "name": "Grid.Guide",
-            "categories": [
-                "Tools & Utilities/General"
-            ],
-            "description": "Create pixel perfect grids for the web.",
-            "links": {
-                "Website": "http://grid.guide/"
-            },
-            "icon": "http://grid.guide/assets/favicons/favicon-96x96.png"
-        },
-        {
-            "name": "Opensource.Builders",
-            "categories": [
-                "Tools & Utilities/General"
-            ],
-            "description": "Find open-source alternatives to popular software.",
-            "links": {
-                "Website": "https://opensource.builders/"
-            },
-            "icon": "https://opensource.builders/icons/icon-96x96.png?v=e7a352862c009ec6682391b2e58d6469"
-        },
-        {
-            "name": "readme.so",
-            "categories": [
-                "Tools & Utilities/General"
-            ],
-            "description": "Use readme.so's markdown editor and ready made templates to easily create a simple README for your repositories",
-            "links": {
-                "Website": "https://readme.so/",
-                "GitHub": "https://github.com/katherinepeterson/readme.so"
-            },
-            "icon": "https://readme.so/favicon.ico"
-        },
-        {
-            "name": "Retool",
-            "categories": [
-                "Tools & Utilities/API Building",
-                "Tools & Utilities/General"
-            ],
-            "description": "Retool is the fast way to build internal tools. Drag-and-drop our building blocks and connect them to your databases and APIs to build your own tools, instantly. Connects with Postgres, REST APIs, GraphQL, Firebase, Google Sheets, and more.  Built by developers, for developers. Trusted by startups and Fortune 500s. Sign up for free.",
-            "links": {
-                "Website": "https://retool.com/",
-                "Twitter": "https://twitter.com/retool",
-                "LinkedIn": "https://www.linkedin.com/company/tryretool"
-            },
-            "icon": "https://retool.com/favicon.png"
-        },
-        {
-            "name": "Roadmap SH",
-            "categories": [
-                "Tools & Utilities/General"
-            ],
-            "description": "Step by step guides and paths to learn different tools or technologies",
-            "links": {
-                "Website": "https://roadmap.sh/"
-            },
-            "icon": "https://roadmap.sh/brand.png"
-        },
-        {
-            "name": "Stack Overflow",
-            "categories": [
-                "Tools & Utilities/General"
-            ],
-            "description": "Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.",
-            "links": {
-                "Website": "http://stackoverflow.com/"
-            },
-            "icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a"
-        },
-        {
-            "name": "Transform Tools",
-            "categories": [
-                "Tools & Utilities/General"
-            ],
-            "description": "A polyglot web converter.",
-            "keywords": [
-                "Big Query",
-                "Flow",
-                "Go Bson",
-                "Go",
-                "GraphQL",
-                "HTML",
-                "JSDoc",
-                "JSON Schema",
-                "JSON",
-                "Kotlin",
-                "MobX-State-Tree Model",
-                "Mongoose Schema",
-                "MySQL",
-                "React Native",
-                "React PropTypes",
-                "Rust Serde",
-                "SVG",
-                "Sarcastic",
-                "Scala Case Class",
-                "TailwindCSS",
-                "TypeScript",
-                "YAML",
-                "io-ts"
-            ],
-            "links": {
-                "GitHub": "https://github.com/ritz078/transform",
-                "Website": "https://transform.tools"
-            }
-        },
-        {
-            "name": "Untools",
-            "categories": [
-                "Tools & Utilities/General"
-            ],
-            "description": "Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.",
-            "links": {
-                "Website": "https://untools.co/"
-            },
-            "icon": "https://untools.co/icons/icon-96x96.png?v=48b6eb2cd872327651861e831bd90577"
-        },
-        {
-            "name": "Wave",
-            "categories": [
-                "Tools & Utilities/General"
-            ],
-            "description": "Free invoicing & accounting software with credit card processing & payroll services.",
-            "links": {
-                "Website": "https://www.waveapps.com/"
-            },
-            "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
         }
     ],
     "jobs-remote-only": [
@@ -18940,6 +19086,21 @@ module.exports = {
                 "Website": "https://www.indiehackers.com/"
             },
             "icon": "https://www.indiehackers.com/images/favicons/favicon--32x32.png"
+        },
+        {
+            "name": "Indie Worldwide",
+            "categories": [
+                "Indie Hacking/Platforms"
+            ],
+            "description": "The worldwide virtual meetup of indie hackers, founders, and makers.",
+            "links": {
+                "Website": "https://indieworldwide.co/",
+                "YouTube": "https://www.youtube.com/channel/UCMps9pFrqetqXMCEZqkiQ-g/",
+                "Facebook": "https://www.facebook.com/groups/indie.worldwide/",
+                "Slack": "https://join.slack.com/t/indieworldwide/shared_invite/enQtNzYzNTUwMjc2ODgyLTBjNTRiMmMwYWQ2MmQ5OGYyNTk2OWIwN2Q1OTcyOGJjM2M3MzEwYjc5OThjNTlmMWZhNTU0NDAyYjRkNDQ0Zjk",
+                "Indie Hackers": "https://www.indiehackers.com/product/worldwide"
+            },
+            "icon": "https://indieworldwide.co/icons/icon-96x96.png"
         },
         {
             "name": "Product Hunt",
