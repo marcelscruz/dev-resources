@@ -11,6 +11,7 @@ module.exports = {
     linkedin: 'LinkedIn',
     npm: 'npm',
     productHunt: 'Product Hunt',
+    slack: 'Slack',
     spotify: 'Spotify',
     twitch: 'Twitch',
     twitter: 'Twitter',

@@ -1,5 +1,14 @@
 const { assets, toolsAndUtilities, jobs, indieHacking, programming } = require('../constants/categories')
-const { website, spotify, applePodcasts, googlePodcasts } = require('../constants/links')
+const {
+    website,
+    spotify,
+    applePodcasts,
+    googlePodcasts,
+    youtube,
+    facebook,
+    slack,
+    indieHackers,
+} = require('../constants/links')
 
 module.exports = [
     {
@@ -140,6 +149,20 @@ module.exports = [
             [website]: 'https://www.indiehackers.com/',
         },
         icon: 'https://www.indiehackers.com/images/favicons/favicon--32x32.png',
+    },
+    {
+        name: 'Indie Worldwide',
+        categories: [indieHacking.platforms],
+        description: 'The worldwide virtual meetup of indie hackers, founders, and makers.',
+        links: {
+            [website]: 'https://indieworldwide.co/',
+            [youtube]: 'https://www.youtube.com/channel/UCMps9pFrqetqXMCEZqkiQ-g/',
+            [facebook]: 'https://www.facebook.com/groups/indie.worldwide/',
+            [slack]:
+                'https://join.slack.com/t/indieworldwide/shared_invite/enQtNzYzNTUwMjc2ODgyLTBjNTRiMmMwYWQ2MmQ5OGYyNTk2OWIwN2Q1OTcyOGJjM2M3MzEwYjc5OThjNTlmMWZhNTU0NDAyYjRkNDQ0Zjk',
+            [indieHackers]: 'https://www.indiehackers.com/product/worldwide',
+        },
+        icon: 'https://indieworldwide.co/icons/icon-96x96.png',
     },
     {
         name: 'Inovatik',

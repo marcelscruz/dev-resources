@@ -204,6 +204,15 @@ module.exports = [
         icon: 'https://librestock.com/static/images/favicon-96x96.png',
     },
     {
+        name: 'Like I Am Five',
+        categories: [programming.learn],
+        description: 'Learn to code through real-life projects in less than 4 hours.',
+        links: {
+            [website]: 'https://www.likeiamfive.com/',
+        },
+        icon: 'https://uploads-ssl.webflow.com/5f663366aa4dbb5f5ba60eb6/600f0002c4e610106b7a2dc8_Favicon.png',
+    },
+    {
         name: 'Line Icon Pack',
         categories: [assets.icons],
         description:

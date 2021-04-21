@@ -6,7 +6,7 @@ const {
     jobs,
     infrastructure,
 } = require('../constants/categories')
-const { website, youtube, github } = require('../constants/links')
+const { website, youtube, github, twitter, facebook, linkedin, discord } = require('../constants/links')
 
 module.exports = [
     {
@@ -219,6 +219,21 @@ module.exports = [
             [website]: 'https://app-mockup.com/',
         },
         icon: 'https://app-mockup.com/icons/icon-96x96.png?v=59619132456a4be05090b0bf15d7fa12',
+    },
+    {
+        name: 'Appwrite',
+        categories: [toolsAndUtilities.apiBuilding, toolsAndUtilities.general],
+        description:
+            'Appwrite provides web and mobile developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs.',
+        links: {
+            [website]: 'https://appwrite.io/',
+            [github]: 'https://github.com/appwrite/appwrite',
+            [twitter]: 'https://twitter.com/appwrite_io',
+            [facebook]: 'https://www.facebook.com/appwrite.io',
+            [linkedin]: 'https://www.linkedin.com/company/appwrite',
+            [discord]: 'https://appwrite.io/discord',
+        },
+        icon: 'https://appwrite.io/images/favicon.png',
     },
     {
         name: 'Atom',

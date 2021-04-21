@@ -1,5 +1,5 @@
 const { toolsAndUtilities, uiDesign, assets, programming, indieHacking } = require('../constants/categories')
-const { website, github } = require('../constants/links')
+const { website, github, twitter } = require('../constants/links')
 
 module.exports = [
     {
@@ -130,6 +130,18 @@ module.exports = [
             [website]: 'https://www.orapa.co/data',
         },
         icon: 'https://uploads-ssl.webflow.com/5fe0663168984aa818b74ba5/5fe368f5753d1170023baf41_icon.png',
+    },
+    {
+        name: 'Orbit',
+        categories: [indieHacking.utilities],
+        description:
+            'Orbit is the community experience platform for developers, helping organizations build enthusiastic communities of technology adopters.',
+        links: {
+            [website]: 'https://orbit.love/',
+            [github]: 'https://github.com/orbit-love/',
+            [twitter]: 'https://twitter.com/OrbitModel',
+        },
+        icon: 'https://orbit.love/assets/images/favicon/32x32.png',
     },
     {
         name: 'Orion',

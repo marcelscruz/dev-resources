@@ -8,7 +8,7 @@ const {
     jobs,
     infrastructure,
 } = require('../constants/categories')
-const { website, twitter, youtube, instagram, linkedin, github, codepen } = require('../constants/links')
+const { website, twitter, youtube, instagram, linkedin, github, codepen, facebook } = require('../constants/links')
 
 module.exports = [
     {
@@ -163,6 +163,19 @@ module.exports = [
             [website]: 'https://metrical.xyz/',
         },
         icon: 'https://metrical.xyz/icons/icon-96x96.png?v=783621c4a822f77387baf5d580f65aeb',
+    },
+    {
+        name: 'MicroAcquire',
+        categories: [indieHacking.utilities],
+        description:
+            'MicroAcquire helps startups find buyers. Simple as that. We’ll help you start conversations that lead to an acquisition in just 30 days – for free.',
+        links: {
+            [website]: 'https://microacquire.com/',
+            [twitter]: 'https://twitter.com/microacquire',
+            [linkedin]: 'https://www.linkedin.com/company/microacquire/about',
+            [facebook]: 'https://facebook.com/microacquire',
+        },
+        icon: 'https://microacquire.com/assets/img/favicon-32x32.png',
     },
     {
         name: 'Microsoft SQL Server',

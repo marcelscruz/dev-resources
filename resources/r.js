@@ -7,9 +7,23 @@ const {
     assets,
     infrastructure,
 } = require('../constants/categories')
-const { website, twitter, linkedin, github } = require('../constants/links')
+const { website, twitter, linkedin, github, facebook, youtube } = require('../constants/links')
 
 module.exports = [
+    {
+        name: 'RapidAPI',
+        categories: [toolsAndUtilities.apiBuilding, toolsAndUtilities.general],
+        description:
+            'Use RapidAPI to Find, Connect, & Share 1000s of APIs using our Multi-cloud platform. Improve Developer Experience with API Design, Testing, Monitoring, & More!',
+        links: {
+            [website]: 'https://rapidapi.com/',
+            [facebook]: 'https://www.facebook.com/Rapid-API-860822767286196',
+            [twitter]: 'https://twitter.com/rapid_api',
+            [youtube]: 'https://www.youtube.com/channel/UCk-vgkXZUzwd5hmpQ2it9_g',
+            [linkedin]: 'https://www.linkedin.com/company/rapidapi',
+        },
+        icon: 'https://rapidapi.com/wp-content/uploads/2020/07/favicon-2.png',
+    },
     {
         name: 'Ratatype',
         categories: [toolsAndUtilities.typing],
