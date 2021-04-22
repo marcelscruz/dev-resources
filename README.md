@@ -1,6 +1,6 @@
-<a href="https://devresourc.es"><p align="center"><img width="5000" src="./public/assets/images/logo-with-bg.png" /></p></a>
+<a href="https://devresourc.es/?ref=github-readme"><p align="center"><img width="5000" src="./public/assets/images/logo-with-bg.png" /></p></a>
 
- The list and public API of the resources that power [Dev Resources](https://devresourc.es).
+ The list and public API of the resources that power [Dev Resources](https://devresourc.es/?ref=github-readme).
 
  For information on contributing, please see the [contributing guide](CONTRIBUTING.md).
 
