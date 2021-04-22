@@ -6,7 +6,7 @@ Everyone is welcome to collaborate to this project, but please take into conside
 -   resources shouldn't be a duplicate; a text search on the README file should be enough to find this answer
 -   the list of resources is written in JavaScript; if you need assistance on this matter, please open an issue with the resource's information
 -   make sure to check all items listed on the [pull request template](PULL_REQUEST_TEMPLATE.md) before submitting your contribution
--   the [website](https://devresourc.es) is synchronized with this repository every Wednesday
+-   currently, there is no fixed schedule for when the [website](https://devresourc.es) will be synchronized with this repository, though we strive to keep them as synchronized as possible
 
 ## Adding a resource
 
@@ -27,8 +27,8 @@ Each resource belongs to an object, as such:
         [website]: 'https://www.freecodecamp.org',
         [youtube]: 'https://www.youtube.com/c/freecodecamp',
     },
-    icon: 'https://www.freecodecamp.org/news/favicon.png', // Optional
-    keywords: ['html', 'css', 'javascript', 'development'], // Optional
+    icon: 'https://www.freecodecamp.org/news/favicon.png', // Optional, but good for the README file
+    keywords: ['html', 'css', 'javascript', 'development'], // Optional, but useful for the search feature on the website
 },
 ```
 
@@ -42,12 +42,9 @@ Observe that:
 -   `keywords` is an array of strings, which also should not include line breaks `(\n)` nor the pipe symbol `(|)`
 -   `icon` and `keywords` are the only optional properties, all others are required, with `categories` and `links` containing at least one value
 -   the `description` property can be custom or grabbed from the resource's metadata included in the `<head>` tag of the website's HTML document
+    -   you can use https://metatags.io to easily copy the description
 -   the `icon` property can also be grabbed from the resource's metadata included in the `<head>` tag or by doing the following:
-
-    1. navigate to https://favicongrabber.com
-    2. insert the resource's URL
-    3. open the result image in a new tab by right clicking followed by "Open in new tab" or dragging it to the browser's tab bar
-    4. use the new tab's URL
+    -   you can use https://favicongrabber.com to easily copy the image's url; OBS: it often fails, so just try again until it works
 
 ## Editing a resource
 
