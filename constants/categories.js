@@ -62,9 +62,10 @@ module.exports = {
     },
 
     toolsAndUtilities: {
-        apiBuilding: 'Tools & Utilities/API Building',
         accessibility: 'Tools & Utilities/Accessibility',
         analytics: 'Tools & Utilities/Analytics',
+        apiBuilding: 'Tools & Utilities/API Building',
+        auth: 'Tools & Utilities/Auth',
         browsersAndExtensions: 'Tools & Utilities/Browsers & Extensions',
         domains: 'Tools & Utilities/Domains',
         editorsAndExtensions: 'Tools & Utilities/Editors & Extensions',
