@@ -6,7 +6,7 @@ Everyone is welcome to collaborate to this project, but please take into conside
 -   resources shouldn't be a duplicate; a text search on the README file should be enough to find this answer
 -   the list of resources is written in JavaScript; if you need assistance on this matter, please open an issue with the resource's information
 -   make sure to check all items listed on the [pull request template](PULL_REQUEST_TEMPLATE.md) before submitting your contribution
--   currently, there is no fixed schedule for when the [website](https://devresourc.es) will be synchronized with this repository, though we strive to keep them as synchronized as possible
+-   currently, there is no fixed schedule for when the [website](https://devresourc.es/?ref=github-contributing) will be synchronized with this repository, though we strive to keep them as synchronized as possible
 
 ## Adding a resource
 

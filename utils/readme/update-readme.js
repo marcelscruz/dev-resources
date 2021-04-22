@@ -4,10 +4,11 @@ const createIndex = require('./create-index')
 const createTables = require('./create-tables')
 const writeToFile = require('../write-to-file')
 
-const logo =
-    '<a href="https://devresourc.es"><p align="center"><img width="5000" src="./public/assets/images/logo-with-bg.png" /></p></a>\n\n'
+const url = 'https://devresourc.es/?ref=github-readme'
 
-const description = 'The list and public API of the resources that power [Dev Resources](https://devresourc.es).\n\n'
+const logo = `<a href="${url}"><p align="center"><img width="5000" src="./public/assets/images/logo-with-bg.png" /></p></a>\n\n`
+
+const description = `The list and public API of the resources that power [Dev Resources](${url}).\n\n`
 
 const contributionGuide = 'For information on contributing, please see the [contributing guide](CONTRIBUTING.md).\n\n'
 
