@@ -857,6 +857,16 @@ module.exports = [
         icon: 'https://flukeout.github.io/favicon.png',
     },
     {
+        name: 'CSS Gradient',
+        categories: [uiDesign.colorPalettes],
+        description:
+            'As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.',
+        links: {
+            [website]: 'https://cssgradient.io/',
+        },
+        icon: 'https://cssgradient.io/images/favicon-23859487.png',
+    },
+    {
         name: 'CSS Layout News',
         categories: [programming.newsletters],
         description: 'A weekly collection of tutorials, news and information on all things CSS Layout.',

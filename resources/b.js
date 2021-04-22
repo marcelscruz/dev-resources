@@ -1,5 +1,5 @@
 const { toolsAndUtilities, uiDesign, programming, assets, indieHacking, jobs } = require('../constants/categories')
-const { website, youtube } = require('../constants/links')
+const { website, youtube, twitter } = require('../constants/links')
 
 module.exports = [
     {
@@ -80,6 +80,18 @@ module.exports = [
             [website]: 'https://bergamot.io/',
         },
         icon: 'https://bergamot.io/favicon.ico',
+    },
+    {
+        name: 'BetaList',
+        categories: [indieHacking.platforms],
+        description:
+            'BetaList provides an overview of upcoming internet startups. Discover and get early access to the future.',
+        links: {
+            [website]: 'https://betalist.com/',
+            [twitter]: 'https://twitter.com/BetaList',
+        },
+        icon:
+            'https://betalist.com/assets/favicon-618a2bdd0eda7c547f0488b2f97ebc773a50db4351f7ba222f8f1f864e301895.png',
     },
     {
         name: 'Better Coding Academy',

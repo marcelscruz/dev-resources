@@ -72,6 +72,15 @@ module.exports = [
         icon: 'https://semantic-ui.com/favicon.ico',
     },
     {
+        name: 'SEO Blueprint',
+        categories: [toolsAndUtilities.seo],
+        description: 'Cutting-edge SEO tactics that are actually ranking websites.',
+        links: {
+            [website]: 'https://seoblueprint.com/',
+        },
+        icon: 'https://seoblueprint.com/wp-content/uploads/cropped-blueprint-1-32x32.png',
+    },
+    {
         name: 'Serverless Stack',
         categories: [toolsAndUtilities.apiBuilding, infrastructure.serverless],
         description: 'Serverless Stack (SST) is a framework that makes it easy to build serverless applications.',
@@ -453,6 +462,16 @@ module.exports = [
             [website]: 'https://splitbee.io',
         },
         icon: 'https://splitbee.io/icons/favicon-32x32.png',
+    },
+    {
+        name: 'SpreadTheWorld',
+        categories: [indieHacking.marketing],
+        description:
+            'SpreadTheWorld is a database of 400+ hand-curated places to promote your product and get your first users.',
+        links: {
+            [website]: 'https://spreadtheworld.net/',
+        },
+        icon: 'https://spreadtheworld.net/assets/images/apple-touch-icon.png',
     },
     {
         name: 'SQLite',
