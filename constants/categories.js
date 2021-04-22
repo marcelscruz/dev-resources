@@ -14,7 +14,7 @@ module.exports = {
     },
 
     community: {
-        blogsAndForums: 'Community/Blogs and Forums',
+        blogsAndForums: 'Community/Blogs & Forums',
         personalWebsites: 'Community/Personal Websites',
     },
 
