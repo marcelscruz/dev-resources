@@ -1943,20 +1943,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/phone-number-validation-API"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate international phone numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Phone"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/validate-api"
             },
             "name": "Cloudmersive Validate",
@@ -1965,6 +1951,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Data Validation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/phone-number-validation-API"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate international phone numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Phone"
         },
         {
             "categories": [
@@ -4841,12 +4841,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
+                "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4855,12 +4855,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
+                "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -6451,20 +6451,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://isdayoff.ru"
-            },
-            "name": "Non-Working Days",
-            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Calendar"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://github.com/gadael/icsdb"
             },
             "name": "Non-Working Days",
@@ -6472,6 +6458,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Calendar"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://isdayoff.ru"
+            },
+            "name": "Non-Working Days",
+            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Calendar"
         },
         {
@@ -6521,20 +6521,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "name": "Numbers",
@@ -6542,6 +6528,20 @@ module.exports = {
             "auth": "",
             "https": false,
             "cors": "unknown",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Science & Math"
         },
         {
@@ -9587,11 +9587,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -9601,11 +9601,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -11786,6 +11786,17 @@ module.exports = {
             "icon": "https://coolors.co/assets/img/favicon.png"
         },
         {
+            "name": "CSS Gradient",
+            "categories": [
+                "UI Design/Color Palettes"
+            ],
+            "description": "As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.",
+            "links": {
+                "Website": "https://cssgradient.io/"
+            },
+            "icon": "https://cssgradient.io/images/favicon-23859487.png"
+        },
+        {
             "name": "Data Viz Color Picker",
             "categories": [
                 "UI Design/Color Palettes"
@@ -12293,6 +12304,17 @@ module.exports = {
                 "Website": "https://www.preetamnath.com/programmatic-seo"
             },
             "icon": "https://uploads-ssl.webflow.com/5e0849b50d37a13ecd286934/5e085e49ad6badd7d7b3439f_favicon-256.png"
+        },
+        {
+            "name": "SEO Blueprint",
+            "categories": [
+                "Tools & Utilities/SEO"
+            ],
+            "description": "Cutting-edge SEO tactics that are actually ranking websites.",
+            "links": {
+                "Website": "https://seoblueprint.com/"
+            },
+            "icon": "https://seoblueprint.com/wp-content/uploads/cropped-blueprint-1-32x32.png"
         },
         {
             "name": "tl;dr Marketing",
@@ -14792,6 +14814,69 @@ module.exports = {
                 "Website": "https://www.workingnomads.co/jobs"
             },
             "icon": "https://www.workingnomads.co/static/jobs/assets/favicon.ico"
+        }
+    ],
+    "indie-hacking-platforms": [
+        {
+            "name": "BetaList",
+            "categories": [
+                "Indie Hacking/Platforms"
+            ],
+            "description": "BetaList provides an overview of upcoming internet startups. Discover and get early access to the future.",
+            "links": {
+                "Website": "https://betalist.com/",
+                "Twitter": "https://twitter.com/BetaList"
+            },
+            "icon": "https://betalist.com/assets/favicon-618a2bdd0eda7c547f0488b2f97ebc773a50db4351f7ba222f8f1f864e301895.png"
+        },
+        {
+            "name": "Indie Hackers",
+            "categories": [
+                "Indie Hacking/Platforms",
+                "Indie Hacking/Podcasts"
+            ],
+            "description": "Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.",
+            "links": {
+                "Website": "https://www.indiehackers.com/"
+            },
+            "icon": "https://www.indiehackers.com/images/favicons/favicon--32x32.png"
+        },
+        {
+            "name": "Indie Worldwide",
+            "categories": [
+                "Indie Hacking/Platforms"
+            ],
+            "description": "The worldwide virtual meetup of indie hackers, founders, and makers.",
+            "links": {
+                "Website": "https://indieworldwide.co/",
+                "YouTube": "https://www.youtube.com/channel/UCMps9pFrqetqXMCEZqkiQ-g/",
+                "Facebook": "https://www.facebook.com/groups/indie.worldwide/",
+                "Slack": "https://join.slack.com/t/indieworldwide/shared_invite/enQtNzYzNTUwMjc2ODgyLTBjNTRiMmMwYWQ2MmQ5OGYyNTk2OWIwN2Q1OTcyOGJjM2M3MzEwYjc5OThjNTlmMWZhNTU0NDAyYjRkNDQ0Zjk",
+                "Indie Hackers": "https://www.indiehackers.com/product/worldwide"
+            },
+            "icon": "https://indieworldwide.co/icons/icon-96x96.png"
+        },
+        {
+            "name": "Product Hunt",
+            "categories": [
+                "Indie Hacking/Platforms"
+            ],
+            "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
+            "links": {
+                "Website": "https://www.producthunt.com/"
+            },
+            "icon": "https://ph-static.imgix.net/ph-ios-icon.png?auto=format&auto=compress"
+        },
+        {
+            "name": "TinySeed",
+            "categories": [
+                "Indie Hacking/Platforms"
+            ],
+            "description": "TinySeed is the first startup accelerator designed for founders who would traditionally bootstrap.",
+            "links": {
+                "Website": "https://tinyseed.com/"
+            },
+            "icon": "https://images.squarespace-cdn.com/content/v1/5c3f602b96e76f6da92e8ded/1547762430194-TCY13GQ3WL1GEQQCNIBJ/ke17ZwdGBToddI8pDm48kDaNRrNi77yKIgWxrt8GYAFZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7WT60LcluGrsDtzPCYop9hMAtVe_QtwQD93aIXqwqJR_bmnO89YJVTj9tmrodtnPlQ/favicon.ico?format=100w"
         }
     ],
     "assets-illustrations": [
@@ -17554,17 +17639,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "CodePen Radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://blog.codepen.io/favicon.ico"
-        },
-        {
             "name": "Codepen radio",
             "categories": [
                 "Programming/Podcasts"
@@ -17574,6 +17648,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
+        },
+        {
+            "name": "CodePen Radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://blog.codepen.io/favicon.ico"
         },
         {
             "name": "Commit Your Code!",
@@ -18793,6 +18878,17 @@ module.exports = {
                 "Website": "https://www.orapa.co/data"
             },
             "icon": "https://uploads-ssl.webflow.com/5fe0663168984aa818b74ba5/5fe368f5753d1170023baf41_icon.png"
+        },
+        {
+            "name": "SpreadTheWorld",
+            "categories": [
+                "Indie Hacking/Marketing"
+            ],
+            "description": "SpreadTheWorld is a database of 400+ hand-curated places to promote your product and get your first users.",
+            "links": {
+                "Website": "https://spreadtheworld.net/"
+            },
+            "icon": "https://spreadtheworld.net/assets/images/apple-touch-icon.png"
         }
     ],
     "infrastructure-serverless": [
@@ -19086,57 +19182,6 @@ module.exports = {
                 "Website": "https://www.soundstripe.com/"
             },
             "icon": "https://www.soundstripe.com/hubfs/favicon-1.png"
-        }
-    ],
-    "indie-hacking-platforms": [
-        {
-            "name": "Indie Hackers",
-            "categories": [
-                "Indie Hacking/Platforms",
-                "Indie Hacking/Podcasts"
-            ],
-            "description": "Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.",
-            "links": {
-                "Website": "https://www.indiehackers.com/"
-            },
-            "icon": "https://www.indiehackers.com/images/favicons/favicon--32x32.png"
-        },
-        {
-            "name": "Indie Worldwide",
-            "categories": [
-                "Indie Hacking/Platforms"
-            ],
-            "description": "The worldwide virtual meetup of indie hackers, founders, and makers.",
-            "links": {
-                "Website": "https://indieworldwide.co/",
-                "YouTube": "https://www.youtube.com/channel/UCMps9pFrqetqXMCEZqkiQ-g/",
-                "Facebook": "https://www.facebook.com/groups/indie.worldwide/",
-                "Slack": "https://join.slack.com/t/indieworldwide/shared_invite/enQtNzYzNTUwMjc2ODgyLTBjNTRiMmMwYWQ2MmQ5OGYyNTk2OWIwN2Q1OTcyOGJjM2M3MzEwYjc5OThjNTlmMWZhNTU0NDAyYjRkNDQ0Zjk",
-                "Indie Hackers": "https://www.indiehackers.com/product/worldwide"
-            },
-            "icon": "https://indieworldwide.co/icons/icon-96x96.png"
-        },
-        {
-            "name": "Product Hunt",
-            "categories": [
-                "Indie Hacking/Platforms"
-            ],
-            "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
-            "links": {
-                "Website": "https://www.producthunt.com/"
-            },
-            "icon": "https://ph-static.imgix.net/ph-ios-icon.png?auto=format&auto=compress"
-        },
-        {
-            "name": "TinySeed",
-            "categories": [
-                "Indie Hacking/Platforms"
-            ],
-            "description": "TinySeed is the first startup accelerator designed for founders who would traditionally bootstrap.",
-            "links": {
-                "Website": "https://tinyseed.com/"
-            },
-            "icon": "https://images.squarespace-cdn.com/content/v1/5c3f602b96e76f6da92e8ded/1547762430194-TCY13GQ3WL1GEQQCNIBJ/ke17ZwdGBToddI8pDm48kDaNRrNi77yKIgWxrt8GYAFZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7WT60LcluGrsDtzPCYop9hMAtVe_QtwQD93aIXqwqJR_bmnO89YJVTj9tmrodtnPlQ/favicon.ico?format=100w"
         }
     ],
     "jobs-interviews": [
