@@ -18030,11 +18030,11 @@ module.exports = {
             ]
         }
     ],
-    "community-blogs-and-forums": [
+    "community-blogs-forums": [
         {
             "name": "Codeconia",
             "categories": [
-                "Community/Blogs and Forums"
+                "Community/Blogs & Forums"
             ],
             "description": "Learn programming with Codeconia.",
             "links": {
@@ -18045,7 +18045,7 @@ module.exports = {
         {
             "name": "daily.dev",
             "categories": [
-                "Community/Blogs and Forums"
+                "Community/Blogs & Forums"
             ],
             "description": "Daily.dev is the easiest way to stay updated on the latest programming news. Get the hottest dev news from the best tech blogs on any topic you can think of. Stay updated daily, and unlock more time to do fun stuff, relax, or just code.",
             "links": {
@@ -18056,7 +18056,7 @@ module.exports = {
         {
             "name": "DEV",
             "categories": [
-                "Community/Blogs and Forums"
+                "Community/Blogs & Forums"
             ],
             "description": "A constructive and inclusive social network for software developers. With you every step of your journey.",
             "keywords": [
@@ -18074,7 +18074,7 @@ module.exports = {
         {
             "name": "Hacker News",
             "categories": [
-                "Community/Blogs and Forums"
+                "Community/Blogs & Forums"
             ],
             "description": "Hacker News is a social news website focusing on computer science and entrepreneurship.",
             "links": {
@@ -18085,7 +18085,7 @@ module.exports = {
         {
             "name": "Hacker Noon",
             "categories": [
-                "Community/Blogs and Forums"
+                "Community/Blogs & Forums"
             ],
             "description": "How hackers start their afternoons.",
             "keywords": [
@@ -18105,7 +18105,7 @@ module.exports = {
         {
             "name": "Hashnode",
             "categories": [
-                "Community/Blogs and Forums"
+                "Community/Blogs & Forums"
             ],
             "description": "Hashnode is a free content creation platform and community that allows you to publish articles on your own domain and helps you stay connected with a growing developer community.",
             "links": {
@@ -18116,7 +18116,7 @@ module.exports = {
         {
             "name": "Lobsters",
             "categories": [
-                "Community/Blogs and Forums"
+                "Community/Blogs & Forums"
             ],
             "description": "Lobsters is a computing-focused community centered around link aggregation and discussion.",
             "links": {
@@ -18127,7 +18127,7 @@ module.exports = {
         {
             "name": "Medium",
             "categories": [
-                "Community/Blogs and Forums"
+                "Community/Blogs & Forums"
             ],
             "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
             "links": {
@@ -18138,7 +18138,7 @@ module.exports = {
         {
             "name": "reddit",
             "categories": [
-                "Community/Blogs and Forums"
+                "Community/Blogs & Forums"
             ],
             "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
             "links": {
@@ -18149,7 +18149,7 @@ module.exports = {
         {
             "name": "Smashing Magazine",
             "categories": [
-                "Community/Blogs and Forums"
+                "Community/Blogs & Forums"
             ],
             "description": "Smashing Magazine is a website and eBook publisher that offers editorial content and professional resources for web developers and web designers.",
             "links": {
@@ -18160,7 +18160,7 @@ module.exports = {
         {
             "name": "Tech Blogs",
             "categories": [
-                "Community/Blogs and Forums"
+                "Community/Blogs & Forums"
             ],
             "description": "This is a list of Awesome Tech Blogs. Add yourself.",
             "links": {
@@ -18172,7 +18172,7 @@ module.exports = {
         {
             "name": "TechCrunch",
             "categories": [
-                "Community/Blogs and Forums"
+                "Community/Blogs & Forums"
             ],
             "description": "TechCrunch - Reporting on the business of technology, startups, venture capital funding, and Silicon Valley.",
             "links": {
@@ -18183,7 +18183,7 @@ module.exports = {
         {
             "name": "XDA-Developers",
             "categories": [
-                "Community/Blogs and Forums"
+                "Community/Blogs & Forums"
             ],
             "description": "XDA Developers is a mobile software development community launched on 20 December 2002. Although discussion primarily revolves around Android, members also talk about many other operating systems and mobile development topics.",
             "links": {
