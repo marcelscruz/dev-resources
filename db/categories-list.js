@@ -48,6 +48,7 @@ module.exports = [
     "tools-utilities-public-apis",
     "tools-utilities-seo",
     "tools-utilities-typing",
+    "tools-utilities-web-scraping",
     "tools-utilities-website-builders",
     "tools-utilities-writing",
     "ui-design-color-palettes",

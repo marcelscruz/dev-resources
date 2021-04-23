@@ -263,6 +263,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://github.com/4chan/4chan-API"
+            },
+            "name": "4chan",
+            "description": "Simple image-based bulletin board dedicated to a variety of topics",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Social"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "http://www.7timer.info/doc.php?lang=en"
             },
             "name": "7Timer!",
@@ -4841,12 +4855,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
+                "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4855,12 +4869,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
+                "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -6437,6 +6451,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://nlpcloud.io"
+            },
+            "name": "NLP Cloud",
+            "description": "NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Machine Learning"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://www.ncdc.noaa.gov/cdo-web/"
             },
             "name": "NOAA Climate Data",
@@ -6451,20 +6479,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/gadael/icsdb"
-            },
-            "name": "Non-Working Days",
-            "description": "Database of ICS files for non working days",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Calendar"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://isdayoff.ru"
             },
             "name": "Non-Working Days",
@@ -6472,6 +6486,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Calendar"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/gadael/icsdb"
+            },
+            "name": "Non-Working Days",
+            "description": "Database of ICS files for non working days",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
             "apiCategory": "Calendar"
         },
         {
@@ -6521,20 +6549,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://numbersapi.com"
-            },
-            "name": "Numbers",
-            "description": "Facts about numbers",
-            "auth": "",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://math.tools/api/numbers/"
             },
             "name": "Numbers",
@@ -6542,6 +6556,20 @@ module.exports = {
             "auth": "apiKey",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://numbersapi.com"
+            },
+            "name": "Numbers",
+            "description": "Facts about numbers",
+            "auth": "",
+            "https": false,
+            "cors": "unknown",
             "apiCategory": "Science & Math"
         },
         {
@@ -7669,20 +7697,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://qrtag.net/api/"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "name": "QR code",
@@ -7702,6 +7716,20 @@ module.exports = {
             "name": "QR Code",
             "description": "Create new QR Code or decode existing one",
             "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://qrtag.net/api/"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
+            "auth": "",
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
@@ -9587,6 +9615,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://transport.opendata.ch/"
+            },
+            "name": "Transport for Switzerland",
+            "description": "Swiss public transport API",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Transportation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
@@ -9601,10 +9643,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
-            "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
+            "name": "Transport for The Netherlands",
+            "description": "OVAPI, country-wide public transport",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -9621,20 +9663,6 @@ module.exports = {
             "description": "NS, only trains",
             "auth": "apiKey",
             "https": false,
-            "cors": "unknown",
-            "apiCategory": "Transportation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
-            },
-            "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -12386,6 +12414,18 @@ module.exports = {
             "icon": "https://customer.io/wp-content/uploads/2019/01/customer-io-touchicon-180.png"
         },
         {
+            "name": "Get The Audience",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached.",
+            "links": {
+                "Website": "https://gettheaudience.com/",
+                "Twitter": "https://twitter.com/GetTheAudience"
+            },
+            "icon": "https://gettheaudience.com/images/icons/icon-96x96.png"
+        },
+        {
             "name": "Hive Index",
             "categories": [
                 "Indie Hacking/Utilities"
@@ -12456,6 +12496,18 @@ module.exports = {
                 "Website": "https://saas4devs.tech/"
             },
             "icon": "https://saas4devs.tech/logo192.png"
+        },
+        {
+            "name": "SaaSFrame",
+            "categories": [
+                "Indie Hacking/Utilities",
+                "Indie Hacking/Marketing"
+            ],
+            "description": "Browse hundreds of SaaS marketing pages, product interfaces and email flows. Get inspired by the design and copywriting patterns used by top-class SaaS companies.",
+            "links": {
+                "Website": "https://www.saasframe.io/"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5e9dc792e1210c2d5df7eba4/5eb80e9cf92b58597818939f_Webp.net-resizeimage%20(4).png"
         }
     ],
     "jobs-boards": [
@@ -17639,17 +17691,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "Codepen radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-        },
-        {
             "name": "CodePen Radio",
             "categories": [
                 "Programming/Podcasts"
@@ -17659,6 +17700,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://blog.codepen.io/favicon.ico"
+        },
+        {
+            "name": "Codepen radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
         },
         {
             "name": "Commit Your Code!",
@@ -18831,6 +18883,17 @@ module.exports = {
             "icon": "https://refactoringui.com/favicon-32x32.png"
         },
         {
+            "name": "Shift Nudge",
+            "categories": [
+                "UI Design/Learn"
+            ],
+            "description": "Shift Nudge is the systematic process to learn the visual skills of interface design, even if you don't have a design background. Perfect for those wanting to enter or advance in the field.",
+            "links": {
+                "Website": "https://shiftnudge.com/"
+            },
+            "icon": "https://shiftnudge.com/_assets/img/favicon.png"
+        },
+        {
             "name": "UI Design for Developers",
             "categories": [
                 "UI Design/Learn"
@@ -18878,6 +18941,18 @@ module.exports = {
                 "Website": "https://www.orapa.co/data"
             },
             "icon": "https://uploads-ssl.webflow.com/5fe0663168984aa818b74ba5/5fe368f5753d1170023baf41_icon.png"
+        },
+        {
+            "name": "SaaSFrame",
+            "categories": [
+                "Indie Hacking/Utilities",
+                "Indie Hacking/Marketing"
+            ],
+            "description": "Browse hundreds of SaaS marketing pages, product interfaces and email flows. Get inspired by the design and copywriting patterns used by top-class SaaS companies.",
+            "links": {
+                "Website": "https://www.saasframe.io/"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5e9dc792e1210c2d5df7eba4/5eb80e9cf92b58597818939f_Webp.net-resizeimage%20(4).png"
         },
         {
             "name": "SpreadTheWorld",
@@ -19375,6 +19450,33 @@ module.exports = {
                 "Website": "https://svgx.app/"
             },
             "icon": "https://svgx.app/assets/favicons/favicon-96x96.png"
+        }
+    ],
+    "tools-utilities-web-scraping": [
+        {
+            "name": "Proxies API",
+            "categories": [
+                "Tools & Utilities/Web Scraping"
+            ],
+            "description": "Want to send custom headers? Want to run sticky sessions with a single IP? Want to scrape AJAX based content? We have you covered. You can customise almost all this in a single line of code, no matter the language you are using or the setup. Proxies API was created for developers by developers with the goal of making it dead easy to get started with zero coding overhead.",
+            "links": {
+                "Website": "www.proxiesapi.com"
+            },
+            "icon": "https://www.proxiesapi.com/assets/favicon.ico"
+        },
+        {
+            "name": "ScrapingBee",
+            "categories": [
+                "Tools & Utilities/Web Scraping"
+            ],
+            "description": "ScrapingBee is a Web Scraping API that handles proxies and Headless browser for you, so you can focus on extracting the data you want, and nothing else.",
+            "links": {
+                "Website": "https://www.scrapingbee.com/",
+                "Twitter": "https://twitter.com/scrapingbee",
+                "Facebook": "https://www.facebook.com/scrapingninja/",
+                "LinkedIn": "https://www.linkedin.com/company/scrapingbee/"
+            },
+            "icon": "https://www.scrapingbee.com/images/logo_2.png"
         }
     ],
     "programming-javascript-tooling": [
