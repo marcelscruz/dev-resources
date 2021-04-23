@@ -231,6 +231,16 @@ module.exports = [
         icon: 'https://projectlearn.io/projectlearn.png',
     },
     {
+        name: 'Proxies API',
+        categories: [toolsAndUtilities.webScraping],
+        description:
+            'Want to send custom headers? Want to run sticky sessions with a single IP? Want to scrape AJAX based content? We have you covered. You can customise almost all this in a single line of code, no matter the language you are using or the setup. Proxies API was created for developers by developers with the goal of making it dead easy to get started with zero coding overhead.',
+        links: {
+            [website]: 'www.proxiesapi.com',
+        },
+        icon: 'https://www.proxiesapi.com/assets/favicon.ico',
+    },
+    {
         name: 'Pttrns',
         categories: [uiDesign.inspiration],
         description: 'Check out the finest collection of design patterns, resources, mobile apps and inspiration.',

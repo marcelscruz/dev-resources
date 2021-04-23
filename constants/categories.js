@@ -75,6 +75,7 @@ module.exports = {
         publicApis: 'Tools & Utilities/Public APIs', // Internal use only; powered by the Public APIs project
         seo: 'Tools & Utilities/SEO',
         typing: 'Tools & Utilities/Typing',
+        webScraping: 'Tools & Utilities/Web Scraping',
         websiteBuilders: 'Tools & Utilities/Website Builders',
         writing: 'Tools & Utilities/Writing',
     },

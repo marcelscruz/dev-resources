@@ -7,7 +7,7 @@ const {
     uiDesign,
     indieHacking,
 } = require('../constants/categories')
-const { website, youtube, github } = require('../constants/links')
+const { website, youtube, github, twitter } = require('../constants/links')
 
 module.exports = [
     {
@@ -20,6 +20,17 @@ module.exports = [
             [website]: 'https://www.gatsbyjs.com/',
         },
         icon: 'https://www.gatsbyjs.com/icons/icon-96x96.png?v=3ad5294f3fa6c06e2d07ab07c76df2cf',
+    },
+    {
+        name: 'Get The Audience',
+        categories: [indieHacking.utilities],
+        description:
+            'Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached.',
+        links: {
+            [website]: 'https://gettheaudience.com/',
+            [twitter]: 'https://twitter.com/GetTheAudience',
+        },
+        icon: 'https://gettheaudience.com/images/icons/icon-96x96.png',
     },
     {
         name: 'GetTerms.io',

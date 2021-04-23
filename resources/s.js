@@ -8,7 +8,7 @@ const {
     jobs,
     infrastructure,
 } = require('../constants/categories')
-const { website, github } = require('../constants/links')
+const { website, github, twitter, facebook, linkedin } = require('../constants/links')
 
 module.exports = [
     {
@@ -33,6 +33,17 @@ module.exports = [
         icon: 'https://i.ibb.co/G0scJVX/transparent-icon.png',
     },
     {
+        name: 'SaaSFrame',
+        categories: [indieHacking.utilities, indieHacking.marketing],
+        description:
+            'Browse hundreds of SaaS marketing pages, product interfaces and email flows. Get inspired by the design and copywriting patterns used by top-class SaaS companies.',
+        links: {
+            [website]: 'https://www.saasframe.io/',
+        },
+        icon:
+            'https://uploads-ssl.webflow.com/5e9dc792e1210c2d5df7eba4/5eb80e9cf92b58597818939f_Webp.net-resizeimage%20(4).png',
+    },
+    {
         name: 'Safari Technology Preview',
         categories: [toolsAndUtilities.browsersAndExtensions],
         description:
@@ -41,6 +52,19 @@ module.exports = [
             [website]: 'https://developer.apple.com/safari/technology-preview/',
         },
         icon: 'https://developer.apple.com/favicon.ico?51002006191',
+    },
+    {
+        name: 'ScrapingBee',
+        categories: [toolsAndUtilities.webScraping],
+        description:
+            'ScrapingBee is a Web Scraping API that handles proxies and Headless browser for you, so you can focus on extracting the data you want, and nothing else.',
+        links: {
+            [website]: 'https://www.scrapingbee.com/',
+            [twitter]: 'https://twitter.com/scrapingbee',
+            [facebook]: 'https://www.facebook.com/scrapingninja/',
+            [linkedin]: 'https://www.linkedin.com/company/scrapingbee/',
+        },
+        icon: 'https://www.scrapingbee.com/images/logo_2.png',
     },
     {
         name: 'Scrimba',
@@ -133,6 +157,16 @@ module.exports = [
             [website]: 'https://designrevision.com/downloads/shards-react/',
         },
         icon: 'https://designrevision.com/favicons/favicon-32x32.png?v=1.5.0',
+    },
+    {
+        name: 'Shift Nudge',
+        categories: [uiDesign.learn],
+        description:
+            "Shift Nudge is the systematic process to learn the visual skills of interface design, even if you don't have a design background. Perfect for those wanting to enter or advance in the field.",
+        links: {
+            [website]: 'https://shiftnudge.com/',
+        },
+        icon: 'https://shiftnudge.com/_assets/img/favicon.png',
     },
     {
         name: 'ShopTalkShow',
