@@ -2377,10 +2377,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -2391,10 +2391,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -6535,20 +6535,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/gadael/icsdb"
-            },
-            "name": "Non-Working Days",
-            "description": "Database of ICS files for non working days",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Calendar"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://isdayoff.ru"
             },
             "name": "Non-Working Days",
@@ -6556,6 +6542,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Calendar"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/gadael/icsdb"
+            },
+            "name": "Non-Working Days",
+            "description": "Database of ICS files for non working days",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
             "apiCategory": "Calendar"
         },
         {
@@ -6605,20 +6605,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://numbersapi.com"
-            },
-            "name": "Numbers",
-            "description": "Facts about numbers",
-            "auth": "",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://math.tools/api/numbers/"
             },
             "name": "Numbers",
@@ -6626,6 +6612,20 @@ module.exports = {
             "auth": "apiKey",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://numbersapi.com"
+            },
+            "name": "Numbers",
+            "description": "Facts about numbers",
+            "auth": "",
+            "https": false,
+            "cors": "unknown",
             "apiCategory": "Science & Math"
         },
         {
@@ -7767,6 +7767,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://fungenerators.com/api/qrcode/"
+            },
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "name": "QR code",
@@ -7786,20 +7800,6 @@ module.exports = {
             "name": "QR code",
             "description": "Create an easy to read QR code and URL shortener",
             "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
-            },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
@@ -8901,10 +8901,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.swapi.tech"
+                "Website": "https://swapi.dev/"
             },
             "name": "SWAPI",
-            "description": "All things Star Wars",
+            "description": "All the Star Wars data you've ever wanted",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -8915,10 +8915,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://swapi.dev/"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
+            "description": "All things Star Wars",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -9699,6 +9699,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://transport.opendata.ch/"
+            },
+            "name": "Transport for Switzerland",
+            "description": "Swiss public transport API",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Transportation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
@@ -9713,10 +9727,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
-            "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
+            "name": "Transport for The Netherlands",
+            "description": "OVAPI, country-wide public transport",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -9733,20 +9747,6 @@ module.exports = {
             "description": "NS, only trains",
             "auth": "apiKey",
             "https": false,
-            "cors": "unknown",
-            "apiCategory": "Transportation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
-            },
-            "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -13292,6 +13292,21 @@ module.exports = {
             "icon": "https://www.jetbrains.com/favicon-32x32.png"
         },
         {
+            "name": "Spyder",
+            "categories": [
+                "Tools & Utilities/Editors & Extensions"
+            ],
+            "description": "Spyder is a free and open source scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It features a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package.",
+            "links": {
+                "Website": "https://www.spyder-ide.org/",
+                "Twitter": "https://twitter.com/spyder_ide",
+                "GitHub": "https://github.com/spyder-ide/spyder",
+                "Facebook": "https://www.facebook.com/SpyderIDE/",
+                "Instagram": "https://instagram.com/spyderide"
+            },
+            "icon": "https://www.spyder-ide.org/static/images/favicon.png"
+        },
+        {
             "name": "Sublime Text",
             "categories": [
                 "Tools & Utilities/Editors & Extensions"
@@ -13855,6 +13870,19 @@ module.exports = {
                 "Website": "https://www.khanacademy.org/"
             },
             "icon": "https://cdn.kastatic.org/images/apple-touch-icon-72x72-precomposed.new.png"
+        },
+        {
+            "name": "Learn Enough to Be Dangerous",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn Enough to Be Dangerous is designed to unleash your technical genius by teaching you technical sophistication.",
+            "links": {
+                "Website": "https://www.learnenough.com/",
+                "YouTube": "https://www.youtube.com/c/LearnEnough",
+                "Twitter": "https://twitter.com/learnenough"
+            },
+            "icon": "https://www.learnenough.com/le/apple-touch-icon-precomposed.png"
         },
         {
             "name": "Learn JavaScript",
@@ -15522,6 +15550,20 @@ module.exports = {
             "icon": "https://www.colorzilla.com/favicon.ico"
         },
         {
+            "name": "CSS Scan",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Goodbye to \"Inspect Element\" — Visualize the CSS of any element you hover over, instantly, and copy its entire rules with a single click.",
+            "links": {
+                "Website": "https://getcssscan.com/",
+                "Facebook": "https://www.facebook.com/cssscan/",
+                "Twitter": "https://twitter.com/cssscan",
+                "Instagram": "https://instagram.com/cssscan"
+            },
+            "icon": "https://getcssscan.com/favicon-32x32.png"
+        },
+        {
             "name": "CSSViewer",
             "categories": [
                 "Tools & Utilities/Browsers & Extensions"
@@ -15702,6 +15744,17 @@ module.exports = {
                 "Website": "https://sizzy.co/"
             },
             "icon": "https://sizzy.co/favicon.ico"
+        },
+        {
+            "name": "toast.log",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "See errors, warnings, and logs as they happen on your site — without having to open the browser’s console. Find bugs you didn't know were there via notifications in our unique toast format.",
+            "links": {
+                "Website": "https://toastlog.com/"
+            },
+            "icon": "https://toastlog.com/img/favicon/favicon-32x32.png"
         },
         {
             "name": "Wappalyzer",
@@ -17775,17 +17828,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "CodePen Radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://blog.codepen.io/favicon.ico"
-        },
-        {
             "name": "Codepen radio",
             "categories": [
                 "Programming/Podcasts"
@@ -17795,6 +17837,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
+        },
+        {
+            "name": "CodePen Radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://blog.codepen.io/favicon.ico"
         },
         {
             "name": "Commit Your Code!",
