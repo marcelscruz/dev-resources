@@ -2,7 +2,7 @@ name: update-db-and-readme
 
 on:
     push: { branches: main }
-    [workflow_dispatch]:
+    workflow_dispatch:
 
 jobs:
     update-db-and-readme:
