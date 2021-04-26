@@ -7,7 +7,7 @@ const {
     assets,
     community,
 } = require('../constants/categories')
-const { website, youtube, gumroad, github } = require('../constants/links')
+const { website, youtube, gumroad, github, twitter } = require('../constants/links')
 
 module.exports = [
     {
@@ -98,6 +98,18 @@ module.exports = [
             [github]: 'https://github.com/Leniolabs/layoutit-grid',
         },
         icon: 'https://grid.layoutit.com/img/icons/icon-128x128.png',
+    },
+    {
+        name: 'Learn Enough to Be Dangerous',
+        categories: [programming.learn],
+        description:
+            'Learn Enough to Be Dangerous is designed to unleash your technical genius by teaching you technical sophistication.',
+        links: {
+            [website]: 'https://www.learnenough.com/',
+            [youtube]: 'https://www.youtube.com/c/LearnEnough',
+            [twitter]: 'https://twitter.com/learnenough',
+        },
+        icon: 'https://www.learnenough.com/le/apple-touch-icon-precomposed.png',
     },
     {
         name: 'Learn JavaScript',

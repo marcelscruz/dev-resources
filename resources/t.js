@@ -263,6 +263,16 @@ module.exports = [
         icon: 'https://tldrmarketing.com/wp-content/uploads/2020/05/cropped-tldr-logo-1000-32x32.png',
     },
     {
+        name: 'toast.log',
+        categories: [toolsAndUtilities.browsersAndExtensions],
+        description:
+            "See errors, warnings, and logs as they happen on your site — without having to open the browser’s console. Find bugs you didn't know were there via notifications in our unique toast format.",
+        links: {
+            [website]: 'https://toastlog.com/',
+        },
+        icon: 'https://toastlog.com/img/favicon/favicon-32x32.png',
+    },
+    {
         name: 'Tooplate',
         categories: [programming.templates],
         description:

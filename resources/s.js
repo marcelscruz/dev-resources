@@ -8,7 +8,7 @@ const {
     jobs,
     infrastructure,
 } = require('../constants/categories')
-const { website, github, twitter, facebook, linkedin } = require('../constants/links')
+const { website, github, twitter, facebook, linkedin, instagram } = require('../constants/links')
 
 module.exports = [
     {
@@ -506,6 +506,20 @@ module.exports = [
             [website]: 'https://spreadtheworld.net/',
         },
         icon: 'https://spreadtheworld.net/assets/images/apple-touch-icon.png',
+    },
+    {
+        name: 'Spyder',
+        categories: [toolsAndUtilities.editorsAndExtensions],
+        description:
+            'Spyder is a free and open source scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It features a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package.',
+        links: {
+            [website]: 'https://www.spyder-ide.org/',
+            [twitter]: 'https://twitter.com/spyder_ide',
+            [github]: 'https://github.com/spyder-ide/spyder',
+            [facebook]: 'https://www.facebook.com/SpyderIDE/',
+            [instagram]: 'https://instagram.com/spyderide',
+        },
+        icon: 'https://www.spyder-ide.org/static/images/favicon.png',
     },
     {
         name: 'SQLite',

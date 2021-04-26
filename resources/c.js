@@ -8,7 +8,7 @@ const {
     indieHacking,
     community,
 } = require('../constants/categories')
-const { website, youtube, github, twitter, discord, instagram, productHunt } = require('../constants/links')
+const { website, youtube, github, twitter, discord, instagram, productHunt, facebook } = require('../constants/links')
 
 module.exports = [
     {
@@ -895,6 +895,19 @@ module.exports = [
             [website]: 'https://cssreference.io/',
         },
         icon: 'https://cssreference.io/favicons/favicon-32x32.png',
+    },
+    {
+        name: 'CSS Scan',
+        categories: [toolsAndUtilities.browsersAndExtensions],
+        description:
+            'Goodbye to "Inspect Element" — Visualize the CSS of any element you hover over, instantly, and copy its entire rules with a single click.',
+        links: {
+            [website]: 'https://getcssscan.com/',
+            [facebook]: 'https://www.facebook.com/cssscan/',
+            [twitter]: 'https://twitter.com/cssscan',
+            [instagram]: 'https://instagram.com/cssscan',
+        },
+        icon: 'https://getcssscan.com/favicon-32x32.png',
     },
     {
         name: 'CSS Weekly',
