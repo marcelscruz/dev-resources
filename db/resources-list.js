@@ -844,6 +844,21 @@ module.exports = [
         "apiCategory": "Art & Design"
     },
     {
+        "name": "Artify",
+        "categories": [
+            "Assets/Illustrations",
+            "Assets/Logos"
+        ],
+        "description": "Artify is an online and easy-to-use design editor that features thousands of customizable illustrations and template packs.",
+        "links": {
+            "Website": "https://www.artify.co/",
+            "Twitter": "https://twitter.com/ArtifyCrew",
+            "Instagram": "https://www.instagram.com/ArtifyCrew/",
+            "Facebook": "https://www.facebook.com/ArtifyCrew"
+        },
+        "icon": "https://www.artify.co/images/landing/favicon.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -1344,6 +1359,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Geocoding"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://biriyani.anoram.com/"
+        },
+        "name": "Biriyani As A Service",
+        "description": "Biriyani images placeholder",
+        "auth": "",
+        "https": true,
+        "cors": "no",
+        "apiCategory": "Personality"
     },
     {
         "categories": [
@@ -1965,6 +1994,21 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Government"
+    },
+    {
+        "name": "ByPeople",
+        "categories": [
+            "Programming/Templates",
+            "Assets/Illustrations",
+            "Assets/Fonts"
+        ],
+        "description": "ByPeople is a curated network of 10k ready-to-download resources for developers.",
+        "links": {
+            "Website": "https://www.bypeople.com/",
+            "Facebook": "https://www.facebook.com/ByPeopleTeam",
+            "Twitter": "https://twitter.com/bypeopleteam"
+        },
+        "icon": "https://www.bypeople.com/wp-content/themes/bppl-alpha/assets/images/v2/favicon-32x32.png"
     },
     {
         "name": "CakeResume",
@@ -2753,20 +2797,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://cloudmersive.com/phone-number-validation-API"
-        },
-        "name": "Cloudmersive Validate",
-        "description": "Validate international phone numbers",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Phone"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://cloudmersive.com/validate-api"
         },
         "name": "Cloudmersive Validate",
@@ -2775,6 +2805,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Data Validation"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://cloudmersive.com/phone-number-validation-API"
+        },
+        "name": "Cloudmersive Validate",
+        "description": "Validate international phone numbers",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Phone"
     },
     {
         "name": "Code to go",
@@ -2988,17 +3032,6 @@ module.exports = [
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
-        "name": "Codepen radio",
-        "categories": [
-            "Programming/Podcasts"
-        ],
-        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-        "links": {
-            "Website": "https://blog.codepen.io/radio/"
-        },
-        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-    },
-    {
         "name": "CodePen Radio",
         "categories": [
             "Programming/Podcasts"
@@ -3008,6 +3041,17 @@ module.exports = [
             "Website": "https://blog.codepen.io/radio/"
         },
         "icon": "https://blog.codepen.io/favicon.ico"
+    },
+    {
+        "name": "Codepen radio",
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+        "links": {
+            "Website": "https://blog.codepen.io/radio/"
+        },
+        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
         "name": "Codepip",
@@ -3831,10 +3875,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/M-Media-Group/Covid-19-API"
+            "Website": "https://covid19api.com/"
         },
         "name": "Covid-19",
-        "description": "Covid 19 cases, deaths and recovery per country",
+        "description": "Covid 19 spread, infection and recovery",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -3845,10 +3889,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://covid19api.com/"
+            "Website": "https://github.com/M-Media-Group/Covid-19-API"
         },
         "name": "Covid-19",
-        "description": "Covid 19 spread, infection and recovery",
+        "description": "Covid 19 cases, deaths and recovery per country",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -4400,6 +4444,20 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Government"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://covid-19.dataflowkit.com"
+        },
+        "name": "Dataflow Kit COVID-19",
+        "description": "COVID-19 live statistics into sites per hour",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Health"
     },
     {
         "name": "DataGrip",
@@ -8181,20 +8239,6 @@ module.exports = [
         "icon": "https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico"
     },
     {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "http://docs.icons8.apiary.io/#reference/0/meta"
-        },
-        "name": "Icons8",
-        "description": "Icons",
-        "auth": "OAuth",
-        "https": true,
-        "cors": "unknown",
-        "apiCategory": "Art & Design"
-    },
-    {
         "name": "Icons8",
         "categories": [
             "Assets/Icons",
@@ -8207,6 +8251,20 @@ module.exports = [
             "Website": "https://icons8.com"
         },
         "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "http://docs.icons8.apiary.io/#reference/0/meta"
+        },
+        "name": "Icons8",
+        "description": "Icons",
+        "auth": "OAuth",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Art & Design"
     },
     {
         "name": "Iconscout",
@@ -8367,6 +8425,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Development"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://imgflip.com/api"
+        },
+        "name": "Imgflip",
+        "description": "Gets an array of popular memes",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Personality"
     },
     {
         "categories": [
@@ -8636,12 +8708,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://ipapi.co/api/#introduction"
+            "Website": "https://ip-api.com/docs"
         },
         "name": "IP Location",
-        "description": "Find IP address location information",
+        "description": "Find location with ip address",
         "auth": "",
-        "https": true,
+        "https": false,
         "cors": "unknown",
         "apiCategory": "Geocoding"
     },
@@ -8650,12 +8722,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://ip-api.com/docs"
+            "Website": "https://ipapi.co/api/#introduction"
         },
         "name": "IP Location",
-        "description": "Find location with ip address",
+        "description": "Find IP address location information",
         "auth": "",
-        "https": false,
+        "https": true,
         "cors": "unknown",
         "apiCategory": "Geocoding"
     },
@@ -10387,17 +10459,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Get Material Icons.",
-        "links": {
-            "Website": "https://material.io/resources/icons"
-        },
-        "icon": "https://material.io/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Programming/UI Kits & Libraries"
         ],
         "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
@@ -10405,6 +10466,17 @@ module.exports = [
             "Website": "https://material.io/"
         },
         "icon": "https://material.io/static/assets/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Get Material Icons.",
+        "links": {
+            "Website": "https://material.io/resources/icons"
+        },
+        "icon": "https://material.io/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -11365,17 +11437,6 @@ module.exports = [
         "icon": "https://notepad-plus-plus.org/favicon.ico"
     },
     {
-        "name": "Noun Project",
-        "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
-        "links": {
-            "Website": "https://thenounproject.com/"
-        },
-        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -11388,6 +11449,17 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Noun Project",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
+        "links": {
+            "Website": "https://thenounproject.com/"
+        },
+        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
     },
     {
         "name": "Novorésumé",
@@ -11436,20 +11508,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://math.tools/api/numbers/"
-        },
-        "name": "Numbers",
-        "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Science & Math"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "http://numbersapi.com"
         },
         "name": "Numbers",
@@ -11457,6 +11515,20 @@ module.exports = [
         "auth": "",
         "https": false,
         "cors": "unknown",
+        "apiCategory": "Science & Math"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://math.tools/api/numbers/"
+        },
+        "name": "Numbers",
+        "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
         "apiCategory": "Science & Math"
     },
     {
@@ -11970,6 +12042,20 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Jobs"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.opentopodata.org"
+        },
+        "name": "Open Topo Data",
+        "description": "Elevation and ocean depth for a latitude and longitude",
+        "auth": "",
+        "https": true,
+        "cors": "no",
+        "apiCategory": "Geocoding"
     },
     {
         "categories": [
@@ -13170,20 +13256,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://goqr.me/api/"
-        },
-        "name": "QR code",
-        "description": "Generate and decode / read QR code graphics",
-        "auth": "",
-        "https": true,
-        "cors": "unknown",
-        "apiCategory": "Development"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "http://qrtag.net/api/"
         },
         "name": "QR code",
@@ -13191,6 +13263,20 @@ module.exports = [
         "auth": "",
         "https": true,
         "cors": "yes",
+        "apiCategory": "Development"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "http://goqr.me/api/"
+        },
+        "name": "QR code",
+        "description": "Generate and decode / read QR code graphics",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
         "apiCategory": "Development"
     },
     {
@@ -13581,6 +13667,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://github.com/Real-time-finance/finance-websocket-API/"
+        },
+        "name": "Real Time Finance",
+        "description": "Websocket API to access realtime stock data",
+        "auth": "apiKey",
+        "https": false,
+        "cors": "unknown",
+        "apiCategory": "Finance"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://developers.rebrandly.com/v1/docs"
         },
         "name": "Rebrandly",
@@ -13619,17 +13719,6 @@ module.exports = [
         "apiCategory": "Open Data"
     },
     {
-        "name": "reddit",
-        "categories": [
-            "Community/Blogs & Forums"
-        ],
-        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
-        "links": {
-            "Website": "https://www.reddit.com/"
-        },
-        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -13642,6 +13731,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Social"
+    },
+    {
+        "name": "reddit",
+        "categories": [
+            "Community/Blogs & Forums"
+        ],
+        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
+        "links": {
+            "Website": "https://www.reddit.com/"
+        },
+        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
     },
     {
         "categories": [
@@ -14206,6 +14306,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://salesflypdf.com"
+        },
+        "name": "Salesfly PDF",
+        "description": "HTML/URL to PDF",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Documents & Productivity"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://satellites.fly.dev"
         },
         "name": "Satellite Passes",
@@ -14435,6 +14549,20 @@ module.exports = [
         "auth": "OAuth",
         "https": true,
         "cors": "unknown",
+        "apiCategory": "Text Analysis"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.meaningcloud.com/developer/sentiment-analysis"
+        },
+        "name": "Sentiment Analysis",
+        "description": "Multilingual sentiment analysis of texts from different sources",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
         "apiCategory": "Text Analysis"
     },
     {
@@ -16727,11 +16855,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://transport.opendata.ch/"
+            "Website": "https://opentransportdata.swiss/en/"
         },
         "name": "Transport for Switzerland",
-        "description": "Swiss public transport API",
-        "auth": "",
+        "description": "Official Swiss Public Transport Open Data",
+        "auth": "apiKey",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
@@ -16741,11 +16869,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://opentransportdata.swiss/en/"
+            "Website": "https://transport.opendata.ch/"
         },
         "name": "Transport for Switzerland",
-        "description": "Official Swiss Public Transport Open Data",
-        "auth": "apiKey",
+        "description": "Swiss public transport API",
+        "auth": "",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
@@ -17383,17 +17511,6 @@ module.exports = [
         "icon": "https://www.unscreen.com/favicon-96x96.png"
     },
     {
-        "name": "Unsplash",
-        "categories": [
-            "Assets/Images"
-        ],
-        "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
-        "links": {
-            "Website": "https://unsplash.com/"
-        },
-        "icon": "https://unsplash.com/favicon-32x32.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -17406,6 +17523,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Photography"
+    },
+    {
+        "name": "Unsplash",
+        "categories": [
+            "Assets/Images"
+        ],
+        "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
+        "links": {
+            "Website": "https://unsplash.com/"
+        },
+        "icon": "https://unsplash.com/favicon-32x32.png"
     },
     {
         "name": "Untools",
@@ -17710,6 +17838,20 @@ module.exports = [
         "https": true,
         "cors": "no",
         "apiCategory": "Test Data"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://vadivelu.anoram.com/"
+        },
+        "name": "Vadivelu HTTP Codes",
+        "description": "On demand HTTP Codes with images",
+        "auth": "",
+        "https": true,
+        "cors": "no",
+        "apiCategory": "Personality"
     },
     {
         "categories": [
@@ -18315,6 +18457,20 @@ module.exports = [
             "Website": "https://www.jetbrains.com/webstorm/"
         },
         "icon": "https://www.jetbrains.com/favicon-32x32.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://docs.wecantrack.com"
+        },
+        "name": "WeCanTrack",
+        "description": "Automatically place subids in affiliate links to attribute affiliate conversions to click data",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Tracking"
     },
     {
         "name": "Weebly",

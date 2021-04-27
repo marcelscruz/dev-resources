@@ -12,6 +12,21 @@ module.exports = {
             "icon": "https://themes.static.1001fonts.net/netefx/img/1001fonts-avatar-32x32.png"
         },
         {
+            "name": "ByPeople",
+            "categories": [
+                "Programming/Templates",
+                "Assets/Illustrations",
+                "Assets/Fonts"
+            ],
+            "description": "ByPeople is a curated network of 10k ready-to-download resources for developers.",
+            "links": {
+                "Website": "https://www.bypeople.com/",
+                "Facebook": "https://www.facebook.com/ByPeopleTeam",
+                "Twitter": "https://twitter.com/bypeopleteam"
+            },
+            "icon": "https://www.bypeople.com/wp-content/themes/bppl-alpha/assets/images/v2/favicon-32x32.png"
+        },
+        {
             "name": "Canva",
             "categories": [
                 "UI Design/Color Palettes",
@@ -1033,6 +1048,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://biriyani.anoram.com/"
+            },
+            "name": "Biriyani As A Service",
+            "description": "Biriyani images placeholder",
+            "auth": "",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Personality"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://developer.atlassian.com/bitbucket/api/2/reference/"
             },
             "name": "Bitbucket",
@@ -1971,20 +2000,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/phone-number-validation-API"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate international phone numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Phone"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/validate-api"
             },
             "name": "Cloudmersive Validate",
@@ -1993,6 +2008,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Data Validation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/phone-number-validation-API"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate international phone numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Phone"
         },
         {
             "categories": [
@@ -2377,10 +2406,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -2391,10 +2420,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -2665,6 +2694,20 @@ module.exports = {
             "https": false,
             "cors": "unknown",
             "apiCategory": "Government"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://covid-19.dataflowkit.com"
+            },
+            "name": "Dataflow Kit COVID-19",
+            "description": "COVID-19 live statistics into sites per hour",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Health"
         },
         {
             "categories": [
@@ -4785,6 +4828,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://imgflip.com/api"
+            },
+            "name": "Imgflip",
+            "description": "Gets an array of popular memes",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Personality"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://apidocs.imgur.com/"
             },
             "name": "Imgur",
@@ -4897,12 +4954,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
+                "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4911,12 +4968,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
+                "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -6605,20 +6662,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "name": "Numbers",
@@ -6626,6 +6669,20 @@ module.exports = {
             "auth": "",
             "https": false,
             "cors": "unknown",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Science & Math"
         },
         {
@@ -7047,6 +7104,20 @@ module.exports = {
             "https": false,
             "cors": "unknown",
             "apiCategory": "Jobs"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.opentopodata.org"
+            },
+            "name": "Open Topo Data",
+            "description": "Elevation and ocean depth for a latitude and longitude",
+            "auth": "",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Geocoding"
         },
         {
             "categories": [
@@ -7781,20 +7852,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://goqr.me/api/"
-            },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://qrtag.net/api/"
             },
             "name": "QR code",
@@ -7802,6 +7859,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://goqr.me/api/"
+            },
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -8011,6 +8082,20 @@ module.exports = {
             "description": "Indian Financial Systems Code (Bank Branch Codes)",
             "auth": "",
             "https": true,
+            "cors": "unknown",
+            "apiCategory": "Finance"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/Real-time-finance/finance-websocket-API/"
+            },
+            "name": "Real Time Finance",
+            "description": "Websocket API to access realtime stock data",
+            "auth": "apiKey",
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Finance"
         },
@@ -8313,6 +8398,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://salesflypdf.com"
+            },
+            "name": "Salesfly PDF",
+            "description": "HTML/URL to PDF",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Documents & Productivity"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://satellites.fly.dev"
             },
             "name": "Satellite Passes",
@@ -8488,6 +8587,20 @@ module.exports = {
             "auth": "OAuth",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Text Analysis"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.meaningcloud.com/developer/sentiment-analysis"
+            },
+            "name": "Sentiment Analysis",
+            "description": "Multilingual sentiment analysis of texts from different sources",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Text Analysis"
         },
         {
@@ -9699,11 +9812,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -9713,11 +9826,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -10371,6 +10484,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://vadivelu.anoram.com/"
+            },
+            "name": "Vadivelu HTTP Codes",
+            "description": "On demand HTTP Codes with images",
+            "auth": "",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Personality"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://api.vagalume.com.br/docs/"
             },
             "name": "Vagalume",
@@ -10659,6 +10786,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://docs.wecantrack.com"
+            },
+            "name": "WeCanTrack",
+            "description": "Automatically place subids in affiliate links to attribute affiliate conversions to click data",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Tracking"
         },
         {
             "categories": [
@@ -13579,6 +13720,422 @@ module.exports = {
             "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
         }
     ],
+    "assets-illustrations": [
+        {
+            "name": "Artify",
+            "categories": [
+                "Assets/Illustrations",
+                "Assets/Logos"
+            ],
+            "description": "Artify is an online and easy-to-use design editor that features thousands of customizable illustrations and template packs.",
+            "links": {
+                "Website": "https://www.artify.co/",
+                "Twitter": "https://twitter.com/ArtifyCrew",
+                "Instagram": "https://www.instagram.com/ArtifyCrew/",
+                "Facebook": "https://www.facebook.com/ArtifyCrew"
+            },
+            "icon": "https://www.artify.co/images/landing/favicon.png"
+        },
+        {
+            "name": "Big Heads",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "Combine expressions, clothing, hair styles and colors into billions of different unique characters.",
+            "links": {
+                "Website": "https://bigheads.io/"
+            },
+            "icon": "https://bigheads.io/icons/icon-96x96.png?v=8a6c92a73bc4d9aed0d3fd163a7e3e07"
+        },
+        {
+            "name": "Black Illustrations",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "Black illustrations is a series of FREE digital designs of black people for your next online project. Free for commercial and personal use.",
+            "links": {
+                "Website": "https://www.blackillustrations.com/"
+            },
+            "icon": "https://assets.website-files.com/5f0a234d1293a2f4eb599bb5/5f4550325567b37a486e00eb_black%20illustrations%20logo.png"
+        },
+        {
+            "name": "Blush",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe.",
+            "links": {
+                "Website": "https://blush.design/"
+            },
+            "icon": "https://blush.design/favicon-32x32.png"
+        },
+        {
+            "name": "ByPeople",
+            "categories": [
+                "Programming/Templates",
+                "Assets/Illustrations",
+                "Assets/Fonts"
+            ],
+            "description": "ByPeople is a curated network of 10k ready-to-download resources for developers.",
+            "links": {
+                "Website": "https://www.bypeople.com/",
+                "Facebook": "https://www.facebook.com/ByPeopleTeam",
+                "Twitter": "https://twitter.com/bypeopleteam"
+            },
+            "icon": "https://www.bypeople.com/wp-content/themes/bppl-alpha/assets/images/v2/favicon-32x32.png"
+        },
+        {
+            "name": "Control",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "Combo set of 108 customizable illustrations.",
+            "links": {
+                "Website": "https://control.rocks/"
+            },
+            "icon": "https://control.rocks/img/favicon-32x32.png"
+        },
+        {
+            "name": "Delesign",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "We've created a collection of free illustrations and more. Fully customizable and completely free illustrations that you can use for your business.",
+            "links": {
+                "Website": "https://delesign.com/free-designs/graphics.php"
+            },
+            "icon": "https://s3-us-west-1.amazonaws.com/files.delesign/www/images/32x32.png"
+        },
+        {
+            "name": "DrawKit",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "Free vector SVG illustrations for you to use on your next project, no attribution required! Vector illustrations, packs, icons and more.",
+            "links": {
+                "Website": "https://www.drawkit.io/"
+            },
+            "icon": "https://global-uploads.webflow.com/5bcb46130508ef456a7b2930/5d3e60f773102c8158c55778_drawkit.png"
+        },
+        {
+            "name": "Error 404 Illustrations",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "Make a unique journey through 404 error pages on your website. Use these illustrations that describe better than words.",
+            "links": {
+                "Website": "https://error404.fun/"
+            },
+            "icon": "https://error404.fun/img/favicon-32x32.png"
+        },
+        {
+            "name": "Free Illustrations",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "Collection of high-resolution vector or illustrations background images for modern websites and landing pages. Updated every week with new illustrations with different topics. You can contact us to suggest new topics for illustration background images as per your need.",
+            "links": {
+                "Website": "https://freellustrations.com"
+            },
+            "icon": "https://freellustrustrations.s3.us-east-2.amazonaws.com/static/favicon.png"
+        },
+        {
+            "name": "humaaans",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.",
+            "links": {
+                "Website": "https://www.humaaans.com/"
+            },
+            "icon": "https://assets.website-files.com/5bff8886c3964a992e90d465/5c00a0ce59aa851331d34687_favicon-256.png"
+        },
+        {
+            "name": "Icons8",
+            "categories": [
+                "Assets/Icons",
+                "Assets/Illustrations",
+                "Assets/Images",
+                "Assets/Audio"
+            ],
+            "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
+            "links": {
+                "Website": "https://icons8.com"
+            },
+            "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
+        },
+        {
+            "name": "Interfacer",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "Interfacer is a collection of 300+ free design resources found on the Web.",
+            "keywords": [
+                "design resources",
+                "web design",
+                "freedesignresources",
+                "free design resources",
+                "fonts",
+                "free illustration",
+                "freebies",
+                "freebie illustration",
+                "UI kits",
+                "design kit",
+                "Illustrations",
+                "free fonts",
+                "free Illustrations",
+                "free mockups",
+                "free icons",
+                "Interfacer",
+                "Interfacer list",
+                "Interfacer design resource",
+                "Interfacer resources",
+                "Interfacer design resources"
+            ],
+            "links": {
+                "Website": "https://interfacer.xyz/"
+            },
+            "icon": "https://interfacer.xyz/assets/site_assets/interfacelogo-icon.png"
+        },
+        {
+            "name": "IRA Design",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "Open-source illustrations that fits perfectly for any project you desire.",
+            "keywords": [
+                "illustration",
+                "app",
+                "website illustration",
+                "app illustration",
+                "design component",
+                "custom illustration",
+                "illustration component",
+                "color gradient",
+                "gradients",
+                "gallery",
+                "best illustrations",
+                "colorful illustrations"
+            ],
+            "links": {
+                "Website": "https://iradesign.io/gallery/illustrations"
+            },
+            "icon": "https://iradesign.io/assets/img/favicon.png"
+        },
+        {
+            "name": "Isometriclove",
+            "description": "Cute isometric objects for your design.",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "links": {
+                "Website": "https://isometriclove.com/"
+            },
+            "icon": "https://isometriclove.com/favicon.ico"
+        },
+        {
+            "name": "Lukasz Adam",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "Free Illustrations and Icons for everyone. Use them for anything you like. Free for commercial and personal use.",
+            "links": {
+                "Website": "https://lukaszadam.com/illustrations"
+            },
+            "icon": "https://lukaszadam.com/favicon.ico"
+        },
+        {
+            "name": "ManyPixels",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "Each week, discover royalty-free illustrations to power up your projects. Use them in a commercial or non-commercial way.",
+            "links": {
+                "Website": "https://www.manypixels.co/gallery/"
+            },
+            "icon": "https://www.manypixels.co/gallery/icons/icon-96x96.png?v=1e107cc4927fb83a24c4d7a99f010d8d"
+        },
+        {
+            "name": "Open Doodles",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "A library of sketchy illustrations of people free for personal and commercial use.",
+            "links": {
+                "Website": "https://www.opendoodles.com/"
+            },
+            "icon": "https://assets.website-files.com/5d5d5904f8a21bfe5ff69367/5da4e9a454896ed80730e86b_icon-256w.png"
+        },
+        {
+            "name": "Open Peeps",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "Open Peeps is a hand-drawn illustration library to create scenes of people. You can use them in product illustration, marketing, comics, product states, user flows, personas, storyboarding, quinceañera invitations, or whatever you want! ⠀.",
+            "links": {
+                "Website": "https://www.openpeeps.com/"
+            },
+            "icon": "https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51ce4e2c16e82ce80d8b42_icon.png"
+        },
+        {
+            "name": "Pixabay",
+            "categories": [
+                "Assets/Videos",
+                "Assets/Images",
+                "Assets/Illustrations"
+            ],
+            "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
+            "links": {
+                "Website": "https://pixabay.com/"
+            },
+            "icon": "https://pixabay.com/favicon-32x32.png"
+        },
+        {
+            "name": "Smash",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "Changing and overlapping them, you can quickly illustrate an idea of your startup.",
+            "links": {
+                "Website": "https://usesmash.com/"
+            },
+            "icon": "https://usesmash.com/images/favicon32.png"
+        },
+        {
+            "name": "UI HUT",
+            "categories": [
+                "UI Design/Inspiration",
+                "Assets/Icons",
+                "Assets/Illustrations"
+            ],
+            "description": "Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices.",
+            "links": {
+                "Website": "https://www.uihut.com/",
+                "Twitter": "https://twitter.com/uihutofficial",
+                "Facebook": "https://www.facebook.com/uihutofficial",
+                "Instagram": "https://www.instagram.com/uihutofficial/",
+                "LinkedIn": "https://www.linkedin.com/company/uihutofficial"
+            },
+            "icon": "https://www.uihut.com/favicon.jpg"
+        },
+        {
+            "name": "unDraw",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.",
+            "links": {
+                "Website": "https://undraw.co/"
+            },
+            "icon": "https://undraw.co/favicon-32x32.png"
+        },
+        {
+            "name": "UpLabs",
+            "categories": [
+                "Assets/Illustrations",
+                "Assets/Icons"
+            ],
+            "description": "UpLabs curates the best of design & development inspiration, resources and freebies. Every day!",
+            "links": {
+                "Website": "https://www.uplabs.com/"
+            },
+            "icon": "https://www.uplabs.com/logos/uplabs/icons/favicon-96x96.png"
+        },
+        {
+            "name": "Visiwig",
+            "categories": [
+                "Assets/Icons",
+                "Assets/Illustrations"
+            ],
+            "description": "We provide visuals for busy designers. Visiwig is a place to find design inspiration, explore creative tools, and shop for timesaving graphics.",
+            "links": {
+                "Website": "https://www.visiwig.com/"
+            },
+            "icon": "https://www.visiwig.com/favicon-32x32.png"
+        }
+    ],
+    "assets-logos": [
+        {
+            "name": "Artify",
+            "categories": [
+                "Assets/Illustrations",
+                "Assets/Logos"
+            ],
+            "description": "Artify is an online and easy-to-use design editor that features thousands of customizable illustrations and template packs.",
+            "links": {
+                "Website": "https://www.artify.co/",
+                "Twitter": "https://twitter.com/ArtifyCrew",
+                "Instagram": "https://www.instagram.com/ArtifyCrew/",
+                "Facebook": "https://www.facebook.com/ArtifyCrew"
+            },
+            "icon": "https://www.artify.co/images/landing/favicon.png"
+        },
+        {
+            "name": "Hatchful",
+            "categories": [
+                "Assets/Logos"
+            ],
+            "description": "Create stunning logos in seconds - no design skills required!",
+            "links": {
+                "Website": "https://hatchful.shopify.com/"
+            }
+        },
+        {
+            "name": "Logology",
+            "categories": [
+                "Assets/Logos"
+            ],
+            "description": "No random generation and no symbols from a free database. Everything was crafted from the ground-up!",
+            "links": {
+                "Website": "https://www.logology.co/"
+            },
+            "icon": "https://www.logology.co/images/favicon-32x32.png"
+        },
+        {
+            "name": "LogoTaco",
+            "categories": [
+                "Assets/Logos"
+            ],
+            "description": "Create or make your own logo design from our resource of free downloads and templates for businesses, companies, MVP's and startups. No online login required.",
+            "links": {
+                "Website": "https://www.logotaco.com/"
+            },
+            "icon": "https://cdn.shortpixel.ai/client/q_lossless,ret_img,w_32,h_32/https://www.logotaco.com/wp-content/uploads/2019/05/favicon_100.png"
+        },
+        {
+            "name": "Looka",
+            "categories": [
+                "Assets/Logos"
+            ],
+            "description": "Make a logo and build a brand you love with Looka.",
+            "links": {
+                "Website": "https://looka.com"
+            },
+            "icon": "https://cdn.logojoy.com/wp-content/uploads/20190607113635/cropped-favicon-32x32.png"
+        },
+        {
+            "name": "Tailor Brands",
+            "categories": [
+                "Assets/Logos"
+            ],
+            "description": "Tailor Brands AI logo maker allows you to create a logo design that's a perfect match for your business. No pre-made logo templates. Unique designs only.",
+            "links": {
+                "Website": "https://www.tailorbrands.com/logo-maker"
+            },
+            "icon": "https://www.tailorbrands.com/wp-content/uploads/2016/07/cropped-icon_red-32x32.png"
+        },
+        {
+            "name": "Ucraft",
+            "categories": [
+                "Assets/Logos"
+            ],
+            "description": "Logo maker by Ucraft is the #1 free online logo creator, trusted by hundreds of thousands. Design a cool, professional logo and download it in a high resolution format.",
+            "links": {
+                "Website": "https://www.ucraft.com/free-logo-maker"
+            },
+            "icon": "https://static.ucraft.app/fs/ucraft/userFiles/version5/images/favicon.png?v=1585142239"
+        }
+    ],
     "programming-learn": [
         {
             "name": "Awesome Courses",
@@ -15043,310 +15600,6 @@ module.exports = {
             "icon": "https://images.squarespace-cdn.com/content/v1/5c3f602b96e76f6da92e8ded/1547762430194-TCY13GQ3WL1GEQQCNIBJ/ke17ZwdGBToddI8pDm48kDaNRrNi77yKIgWxrt8GYAFZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7WT60LcluGrsDtzPCYop9hMAtVe_QtwQD93aIXqwqJR_bmnO89YJVTj9tmrodtnPlQ/favicon.ico?format=100w"
         }
     ],
-    "assets-illustrations": [
-        {
-            "name": "Big Heads",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "Combine expressions, clothing, hair styles and colors into billions of different unique characters.",
-            "links": {
-                "Website": "https://bigheads.io/"
-            },
-            "icon": "https://bigheads.io/icons/icon-96x96.png?v=8a6c92a73bc4d9aed0d3fd163a7e3e07"
-        },
-        {
-            "name": "Black Illustrations",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "Black illustrations is a series of FREE digital designs of black people for your next online project. Free for commercial and personal use.",
-            "links": {
-                "Website": "https://www.blackillustrations.com/"
-            },
-            "icon": "https://assets.website-files.com/5f0a234d1293a2f4eb599bb5/5f4550325567b37a486e00eb_black%20illustrations%20logo.png"
-        },
-        {
-            "name": "Blush",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe.",
-            "links": {
-                "Website": "https://blush.design/"
-            },
-            "icon": "https://blush.design/favicon-32x32.png"
-        },
-        {
-            "name": "Control",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "Combo set of 108 customizable illustrations.",
-            "links": {
-                "Website": "https://control.rocks/"
-            },
-            "icon": "https://control.rocks/img/favicon-32x32.png"
-        },
-        {
-            "name": "Delesign",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "We've created a collection of free illustrations and more. Fully customizable and completely free illustrations that you can use for your business.",
-            "links": {
-                "Website": "https://delesign.com/free-designs/graphics.php"
-            },
-            "icon": "https://s3-us-west-1.amazonaws.com/files.delesign/www/images/32x32.png"
-        },
-        {
-            "name": "DrawKit",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "Free vector SVG illustrations for you to use on your next project, no attribution required! Vector illustrations, packs, icons and more.",
-            "links": {
-                "Website": "https://www.drawkit.io/"
-            },
-            "icon": "https://global-uploads.webflow.com/5bcb46130508ef456a7b2930/5d3e60f773102c8158c55778_drawkit.png"
-        },
-        {
-            "name": "Error 404 Illustrations",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "Make a unique journey through 404 error pages on your website. Use these illustrations that describe better than words.",
-            "links": {
-                "Website": "https://error404.fun/"
-            },
-            "icon": "https://error404.fun/img/favicon-32x32.png"
-        },
-        {
-            "name": "Free Illustrations",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "Collection of high-resolution vector or illustrations background images for modern websites and landing pages. Updated every week with new illustrations with different topics. You can contact us to suggest new topics for illustration background images as per your need.",
-            "links": {
-                "Website": "https://freellustrations.com"
-            },
-            "icon": "https://freellustrustrations.s3.us-east-2.amazonaws.com/static/favicon.png"
-        },
-        {
-            "name": "humaaans",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.",
-            "links": {
-                "Website": "https://www.humaaans.com/"
-            },
-            "icon": "https://assets.website-files.com/5bff8886c3964a992e90d465/5c00a0ce59aa851331d34687_favicon-256.png"
-        },
-        {
-            "name": "Icons8",
-            "categories": [
-                "Assets/Icons",
-                "Assets/Illustrations",
-                "Assets/Images",
-                "Assets/Audio"
-            ],
-            "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
-            "links": {
-                "Website": "https://icons8.com"
-            },
-            "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
-        },
-        {
-            "name": "Interfacer",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "Interfacer is a collection of 300+ free design resources found on the Web.",
-            "keywords": [
-                "design resources",
-                "web design",
-                "freedesignresources",
-                "free design resources",
-                "fonts",
-                "free illustration",
-                "freebies",
-                "freebie illustration",
-                "UI kits",
-                "design kit",
-                "Illustrations",
-                "free fonts",
-                "free Illustrations",
-                "free mockups",
-                "free icons",
-                "Interfacer",
-                "Interfacer list",
-                "Interfacer design resource",
-                "Interfacer resources",
-                "Interfacer design resources"
-            ],
-            "links": {
-                "Website": "https://interfacer.xyz/"
-            },
-            "icon": "https://interfacer.xyz/assets/site_assets/interfacelogo-icon.png"
-        },
-        {
-            "name": "IRA Design",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "Open-source illustrations that fits perfectly for any project you desire.",
-            "keywords": [
-                "illustration",
-                "app",
-                "website illustration",
-                "app illustration",
-                "design component",
-                "custom illustration",
-                "illustration component",
-                "color gradient",
-                "gradients",
-                "gallery",
-                "best illustrations",
-                "colorful illustrations"
-            ],
-            "links": {
-                "Website": "https://iradesign.io/gallery/illustrations"
-            },
-            "icon": "https://iradesign.io/assets/img/favicon.png"
-        },
-        {
-            "name": "Isometriclove",
-            "description": "Cute isometric objects for your design.",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "links": {
-                "Website": "https://isometriclove.com/"
-            },
-            "icon": "https://isometriclove.com/favicon.ico"
-        },
-        {
-            "name": "Lukasz Adam",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "Free Illustrations and Icons for everyone. Use them for anything you like. Free for commercial and personal use.",
-            "links": {
-                "Website": "https://lukaszadam.com/illustrations"
-            },
-            "icon": "https://lukaszadam.com/favicon.ico"
-        },
-        {
-            "name": "ManyPixels",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "Each week, discover royalty-free illustrations to power up your projects. Use them in a commercial or non-commercial way.",
-            "links": {
-                "Website": "https://www.manypixels.co/gallery/"
-            },
-            "icon": "https://www.manypixels.co/gallery/icons/icon-96x96.png?v=1e107cc4927fb83a24c4d7a99f010d8d"
-        },
-        {
-            "name": "Open Doodles",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "A library of sketchy illustrations of people free for personal and commercial use.",
-            "links": {
-                "Website": "https://www.opendoodles.com/"
-            },
-            "icon": "https://assets.website-files.com/5d5d5904f8a21bfe5ff69367/5da4e9a454896ed80730e86b_icon-256w.png"
-        },
-        {
-            "name": "Open Peeps",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "Open Peeps is a hand-drawn illustration library to create scenes of people. You can use them in product illustration, marketing, comics, product states, user flows, personas, storyboarding, quinceañera invitations, or whatever you want! ⠀.",
-            "links": {
-                "Website": "https://www.openpeeps.com/"
-            },
-            "icon": "https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51ce4e2c16e82ce80d8b42_icon.png"
-        },
-        {
-            "name": "Pixabay",
-            "categories": [
-                "Assets/Videos",
-                "Assets/Images",
-                "Assets/Illustrations"
-            ],
-            "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
-            "links": {
-                "Website": "https://pixabay.com/"
-            },
-            "icon": "https://pixabay.com/favicon-32x32.png"
-        },
-        {
-            "name": "Smash",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "Changing and overlapping them, you can quickly illustrate an idea of your startup.",
-            "links": {
-                "Website": "https://usesmash.com/"
-            },
-            "icon": "https://usesmash.com/images/favicon32.png"
-        },
-        {
-            "name": "UI HUT",
-            "categories": [
-                "UI Design/Inspiration",
-                "Assets/Icons",
-                "Assets/Illustrations"
-            ],
-            "description": "Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices.",
-            "links": {
-                "Website": "https://www.uihut.com/",
-                "Twitter": "https://twitter.com/uihutofficial",
-                "Facebook": "https://www.facebook.com/uihutofficial",
-                "Instagram": "https://www.instagram.com/uihutofficial/",
-                "LinkedIn": "https://www.linkedin.com/company/uihutofficial"
-            },
-            "icon": "https://www.uihut.com/favicon.jpg"
-        },
-        {
-            "name": "unDraw",
-            "categories": [
-                "Assets/Illustrations"
-            ],
-            "description": "The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.",
-            "links": {
-                "Website": "https://undraw.co/"
-            },
-            "icon": "https://undraw.co/favicon-32x32.png"
-        },
-        {
-            "name": "UpLabs",
-            "categories": [
-                "Assets/Illustrations",
-                "Assets/Icons"
-            ],
-            "description": "UpLabs curates the best of design & development inspiration, resources and freebies. Every day!",
-            "links": {
-                "Website": "https://www.uplabs.com/"
-            },
-            "icon": "https://www.uplabs.com/logos/uplabs/icons/favicon-96x96.png"
-        },
-        {
-            "name": "Visiwig",
-            "categories": [
-                "Assets/Icons",
-                "Assets/Illustrations"
-            ],
-            "description": "We provide visuals for busy designers. Visiwig is a place to find design inspiration, explore creative tools, and shop for timesaving graphics.",
-            "links": {
-                "Website": "https://www.visiwig.com/"
-            },
-            "icon": "https://www.visiwig.com/favicon-32x32.png"
-        }
-    ],
     "assets-videos": [
         {
             "name": "Biteable",
@@ -16718,6 +16971,21 @@ module.exports = {
             "icon": "https://bootstraptaste.com/assets/img/apple-touch-icon.png"
         },
         {
+            "name": "ByPeople",
+            "categories": [
+                "Programming/Templates",
+                "Assets/Illustrations",
+                "Assets/Fonts"
+            ],
+            "description": "ByPeople is a curated network of 10k ready-to-download resources for developers.",
+            "links": {
+                "Website": "https://www.bypeople.com/",
+                "Facebook": "https://www.facebook.com/ByPeopleTeam",
+                "Twitter": "https://twitter.com/bypeopleteam"
+            },
+            "icon": "https://www.bypeople.com/wp-content/themes/bppl-alpha/assets/images/v2/favicon-32x32.png"
+        },
+        {
             "name": "Canva",
             "categories": [
                 "UI Design/Color Palettes",
@@ -17828,17 +18096,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "Codepen radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-        },
-        {
             "name": "CodePen Radio",
             "categories": [
                 "Programming/Podcasts"
@@ -17848,6 +18105,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://blog.codepen.io/favicon.ico"
+        },
+        {
+            "name": "Codepen radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
         },
         {
             "name": "Commit Your Code!",
@@ -19300,73 +19568,6 @@ module.exports = {
                 "Website": "https://www.webpagetest.org/"
             },
             "icon": "https://www.webpagetest.org/images/favicon/favicon-32x32.png"
-        }
-    ],
-    "assets-logos": [
-        {
-            "name": "Hatchful",
-            "categories": [
-                "Assets/Logos"
-            ],
-            "description": "Create stunning logos in seconds - no design skills required!",
-            "links": {
-                "Website": "https://hatchful.shopify.com/"
-            }
-        },
-        {
-            "name": "Logology",
-            "categories": [
-                "Assets/Logos"
-            ],
-            "description": "No random generation and no symbols from a free database. Everything was crafted from the ground-up!",
-            "links": {
-                "Website": "https://www.logology.co/"
-            },
-            "icon": "https://www.logology.co/images/favicon-32x32.png"
-        },
-        {
-            "name": "LogoTaco",
-            "categories": [
-                "Assets/Logos"
-            ],
-            "description": "Create or make your own logo design from our resource of free downloads and templates for businesses, companies, MVP's and startups. No online login required.",
-            "links": {
-                "Website": "https://www.logotaco.com/"
-            },
-            "icon": "https://cdn.shortpixel.ai/client/q_lossless,ret_img,w_32,h_32/https://www.logotaco.com/wp-content/uploads/2019/05/favicon_100.png"
-        },
-        {
-            "name": "Looka",
-            "categories": [
-                "Assets/Logos"
-            ],
-            "description": "Make a logo and build a brand you love with Looka.",
-            "links": {
-                "Website": "https://looka.com"
-            },
-            "icon": "https://cdn.logojoy.com/wp-content/uploads/20190607113635/cropped-favicon-32x32.png"
-        },
-        {
-            "name": "Tailor Brands",
-            "categories": [
-                "Assets/Logos"
-            ],
-            "description": "Tailor Brands AI logo maker allows you to create a logo design that's a perfect match for your business. No pre-made logo templates. Unique designs only.",
-            "links": {
-                "Website": "https://www.tailorbrands.com/logo-maker"
-            },
-            "icon": "https://www.tailorbrands.com/wp-content/uploads/2016/07/cropped-icon_red-32x32.png"
-        },
-        {
-            "name": "Ucraft",
-            "categories": [
-                "Assets/Logos"
-            ],
-            "description": "Logo maker by Ucraft is the #1 free online logo creator, trusted by hundreds of thousands. Design a cool, professional logo and download it in a high resolution format.",
-            "links": {
-                "Website": "https://www.ucraft.com/free-logo-maker"
-            },
-            "icon": "https://static.ucraft.app/fs/ucraft/userFiles/version5/images/favicon.png?v=1585142239"
         }
     ],
     "assets-audio": [
