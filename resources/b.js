@@ -1,5 +1,5 @@
 const { toolsAndUtilities, uiDesign, programming, assets, indieHacking, jobs } = require('../constants/categories')
-const { website, youtube, twitter } = require('../constants/links')
+const { website, youtube, twitter, facebook } = require('../constants/links')
 
 module.exports = [
     {
@@ -360,5 +360,16 @@ module.exports = [
             [website]: 'https://bulma.io/',
         },
         icon: 'https://bulma.io/favicons/favicon-32x32.png?v=201701041855',
+    },
+    {
+        name: 'ByPeople',
+        categories: [programming.templates, assets.illustrations, assets.fonts],
+        description: 'ByPeople is a curated network of 10k ready-to-download resources for developers.',
+        links: {
+            [website]: 'https://www.bypeople.com/',
+            [facebook]: 'https://www.facebook.com/ByPeopleTeam',
+            [twitter]: 'https://twitter.com/bypeopleteam',
+        },
+        icon: 'https://www.bypeople.com/wp-content/themes/bppl-alpha/assets/images/v2/favicon-32x32.png',
     },
 ]

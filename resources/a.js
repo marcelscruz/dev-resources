@@ -5,8 +5,9 @@ const {
     indieHacking,
     jobs,
     infrastructure,
+    assets,
 } = require('../constants/categories')
-const { website, youtube, github, twitter, facebook, linkedin, discord } = require('../constants/links')
+const { website, youtube, github, twitter, facebook, linkedin, discord, instagram } = require('../constants/links')
 
 module.exports = [
     {
@@ -234,6 +235,19 @@ module.exports = [
             [discord]: 'https://appwrite.io/discord',
         },
         icon: 'https://appwrite.io/images/favicon.png',
+    },
+    {
+        name: 'Artify',
+        categories: [assets.illustrations, assets.logos],
+        description:
+            'Artify is an online and easy-to-use design editor that features thousands of customizable illustrations and template packs.',
+        links: {
+            [website]: 'https://www.artify.co/',
+            [twitter]: 'https://twitter.com/ArtifyCrew',
+            [instagram]: 'https://www.instagram.com/ArtifyCrew/',
+            [facebook]: 'https://www.facebook.com/ArtifyCrew',
+        },
+        icon: 'https://www.artify.co/images/landing/favicon.png',
     },
     {
         name: 'Atom',
