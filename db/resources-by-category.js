@@ -2406,10 +2406,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -2420,10 +2420,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -3198,6 +3198,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Art & Design"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://eva.pingutil.com/"
+            },
+            "name": "EVA",
+            "description": "Validate email addresses",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Data Validation"
         },
         {
             "categories": [
@@ -9014,10 +9028,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://swapi.dev/"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
+            "description": "All things Star Wars",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -9028,10 +9042,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.swapi.tech"
+                "Website": "https://swapi.dev/"
             },
             "name": "SWAPI",
-            "description": "All things Star Wars",
+            "description": "All the Star Wars data you've ever wanted",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -9840,12 +9854,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
             },
             "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
+            "description": "NS, only trains",
+            "auth": "apiKey",
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -9854,12 +9868,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
             "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
-            "auth": "apiKey",
-            "https": false,
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -10646,6 +10660,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Anti-Malware"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.visualcrossing.com/weather-api"
+            },
+            "name": "Visual Crossing",
+            "description": "Global historical and weather forecast data",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Weather"
         },
         {
             "categories": [
@@ -14304,6 +14332,17 @@ module.exports = {
                 "Website": "http://flexboxfroggy.com/"
             },
             "icon": "http://flexboxfroggy.com/favicon.ico"
+        },
+        {
+            "name": "Free JavaScript Resources",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn JavaScript for free",
+            "links": {
+                "Website": "https://www.java5cript.com/"
+            },
+            "icon": "https://www.java5cript.com/favicon.ico"
         },
         {
             "name": "freeCodeCamp",
@@ -18035,6 +18074,56 @@ module.exports = {
             "icon": "https://developer.mozilla.org/static/img/favicon72.cc65d1d762a0.png"
         }
     ],
+    "infrastructure-serverless": [
+        {
+            "name": "Cloudflare Workers",
+            "categories": [
+                "Infrastructure/Serverless"
+            ],
+            "description": "Cloudflare workers allow you to host serverless code. The free plan is also ideal for static site hosting",
+            "links": {
+                "Website": "https://workers.cloudflare.com/"
+            },
+            "icon": "https://workers.cloudflare.com/favicon.ico"
+        },
+        {
+            "name": "Firebase",
+            "categories": [
+                "Infrastructure/Hosting",
+                "Infrastructure/Databases",
+                "Infrastructure/Serverless"
+            ],
+            "description": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
+            "links": {
+                "Website": "https://firebase.google.com/"
+            },
+            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
+        },
+        {
+            "name": "Serverless Stack",
+            "categories": [
+                "Tools & Utilities/API Building",
+                "Infrastructure/Serverless"
+            ],
+            "description": "Serverless Stack (SST) is a framework that makes it easy to build serverless applications.",
+            "links": {
+                "Website": "https://serverless-stack.com/"
+            },
+            "icon": "https://serverless-stack.com/assets/favicon-32x32.png"
+        },
+        {
+            "name": "Supabase",
+            "categories": [
+                "Infrastructure/Serverless",
+                "Infrastructure/Databases"
+            ],
+            "description": "Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.",
+            "links": {
+                "Website": "https://supabase.io/"
+            },
+            "icon": "https://supabase.io/new/favicon/favicon-32x32.png"
+        }
+    ],
     "programming-podcasts": [
         {
             "name": "Code Winds",
@@ -18096,17 +18185,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "CodePen Radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://blog.codepen.io/favicon.ico"
-        },
-        {
             "name": "Codepen radio",
             "categories": [
                 "Programming/Podcasts"
@@ -18116,6 +18194,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
+        },
+        {
+            "name": "CodePen Radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://blog.codepen.io/favicon.ico"
         },
         {
             "name": "Commit Your Code!",
@@ -19369,45 +19458,6 @@ module.exports = {
                 "Website": "https://spreadtheworld.net/"
             },
             "icon": "https://spreadtheworld.net/assets/images/apple-touch-icon.png"
-        }
-    ],
-    "infrastructure-serverless": [
-        {
-            "name": "Firebase",
-            "categories": [
-                "Infrastructure/Hosting",
-                "Infrastructure/Databases",
-                "Infrastructure/Serverless"
-            ],
-            "description": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
-            "links": {
-                "Website": "https://firebase.google.com/"
-            },
-            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
-        },
-        {
-            "name": "Serverless Stack",
-            "categories": [
-                "Tools & Utilities/API Building",
-                "Infrastructure/Serverless"
-            ],
-            "description": "Serverless Stack (SST) is a framework that makes it easy to build serverless applications.",
-            "links": {
-                "Website": "https://serverless-stack.com/"
-            },
-            "icon": "https://serverless-stack.com/assets/favicon-32x32.png"
-        },
-        {
-            "name": "Supabase",
-            "categories": [
-                "Infrastructure/Serverless",
-                "Infrastructure/Databases"
-            ],
-            "description": "Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.",
-            "links": {
-                "Website": "https://supabase.io/"
-            },
-            "icon": "https://supabase.io/new/favicon/favicon-32x32.png"
         }
     ],
     "programming-javascript-react": [
