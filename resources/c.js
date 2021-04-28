@@ -209,6 +209,16 @@ module.exports = [
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
+        name: 'Cloudflare Workers',
+        categories: [infrastructure.serverless],
+        description:
+            'Cloudflare workers allow you to host serverless code. The free plan is also ideal for static site hosting',
+        links: {
+            [website]: 'https://workers.cloudflare.com/',
+        },
+        icon: 'https://workers.cloudflare.com/favicon.ico',
+    },
+    {
         name: 'Code to go',
         categories: [programming.codeSnippets],
         description: 'Javascript code to go: Find updated snippets for common JavaScript use cases.',

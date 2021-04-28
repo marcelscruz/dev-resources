@@ -335,6 +335,15 @@ module.exports = [
         icon: 'https://freellustrustrations.s3.us-east-2.amazonaws.com/static/favicon.png',
     },
     {
+        name: 'Free JavaScript Resources',
+        categories: [programming.learn],
+        description: 'Learn JavaScript for free',
+        links: {
+            [website]: 'https://www.java5cript.com/',
+        },
+        icon: 'https://www.java5cript.com/favicon.ico',
+    },
+    {
         name: 'freeCodeCamp',
         categories: [programming.learn],
         description:
