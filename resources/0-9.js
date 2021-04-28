@@ -13,6 +13,17 @@ module.exports = [
         icon: 'https://themes.static.1001fonts.net/netefx/img/1001fonts-avatar-32x32.png',
     },
     {
+        name: '10FastFingers',
+        description:
+            '10FastFingers is a website which offers users a way to test and improve their typing speed. Improve your Typing Speed with our Typing Games.',
+        categories: [toolsAndUtilities.typing],
+        links: {
+            [website]: 'https://10fastfingers.com/',
+        },
+        icon: 'https://10fastfingers.com/favicon.ico',
+        keywords: ['typing', 'typing test', 'typing game', 'touch typing', 'fastest fingers', '10 fast fingers', 'typing competition'],
+    },
+    {
         name: '18F Accessibility Guide',
         categories: [toolsAndUtilities.accessibility],
         description: 'A simple checklist for determining if your site is accessible.',
