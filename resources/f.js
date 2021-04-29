@@ -500,6 +500,20 @@ module.exports = [
         icon: 'https://www.frontendpractice.com/icons/icon-96x96.png',
     },
     {
+        name: 'Frontend Tips',
+        description: 'Tiny tips, tricks & best practices for front-end development',
+        categories: [programming.learn],
+        keywords: [
+            'Front-end tips',
+            'Front-end tricks',
+            'Best front-end practices',
+        ],
+        links: {
+            [website]: 'https://getfrontend.tips/',
+        },
+        icon: 'https://getfrontend.tips/img/favicon.png',
+    },
+    {
         name: 'Frontendor',
         categories: [programming.templates],
         description:
