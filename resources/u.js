@@ -1,5 +1,5 @@
 const { toolsAndUtilities, assets, programming, uiDesign, infrastructure, jobs } = require('../constants/categories')
-const { website, twitter, facebook, instagram, linkedin } = require('../constants/links')
+const { website, twitter, facebook, instagram, linkedin, github } = require('../constants/links')
 
 module.exports = [
     {
@@ -115,6 +115,16 @@ module.exports = [
         icon: 'https://uideck.com/wp-content/uploads/2018/12/cropped-uideck-150x150.png',
     },
     {
+        name: 'uiGradient',
+        categories: [uiDesign.color],
+        description: 'Library of dozens of Gradients ready to use with CSS class and also HEX color.',
+        links: {
+            [website]: 'https://uigradients.com/',
+            [github]: 'https://github.com/Ghosh/uiGradients',
+        },
+        icon: 'https://uigradients.com/static/images/favicon-32x32.png',
+    },
+    {
         name: 'UIkit',
         categories: [programming.uiKitsAndLibraries],
         description:
@@ -201,6 +211,15 @@ module.exports = [
             [website]: 'https://www.upwork.com/',
         },
         icon: 'https://www.upwork.com/ab/brontes/favicon.ico',
+    },
+    {
+        name: 'Use The Keyboard',
+        categories: [toolsAndUtilities.general],
+        description: 'A collection of keyboard shortcuts for Mac apps, Windows programs, and a variety of websites.',
+        links: {
+            [website]: 'https://usethekeyboard.com/',
+        },
+        icon: 'https://usethekeyboard.com/assets/img/favicon-32x32.png',
     },
     {
         name: 'Useful Colours',
