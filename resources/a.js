@@ -109,7 +109,7 @@ module.exports = [
     },
     {
         name: 'Adobe Color',
-        categories: [uiDesign.colorPalettes],
+        categories: [uiDesign.color],
         description:
             'Create color palettes with the color wheel or image, browse thousands of color combinations from the Adobe Color community.',
         links: {

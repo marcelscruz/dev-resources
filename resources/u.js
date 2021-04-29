@@ -204,7 +204,7 @@ module.exports = [
     },
     {
         name: 'Useful Colours',
-        categories: [uiDesign.colorPalettes],
+        categories: [uiDesign.color],
         description: 'Super quick, eye-pleasing colours for your UI design.',
         links: {
             [website]: 'https://usefulcolours.com/',

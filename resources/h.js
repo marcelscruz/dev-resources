@@ -62,7 +62,7 @@ module.exports = [
     },
     {
         name: 'Happy Hues',
-        categories: [uiDesign.colorPalettes],
+        categories: [uiDesign.color],
         description:
             'See color palette inspiration on a real example website. As you click on different palettes every color on this site updates to give you context of how that color could be used for your design or illustration projects.',
         links: {

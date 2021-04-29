@@ -162,7 +162,7 @@ module.exports = [
     },
     {
         name: 'Gradient',
-        categories: [uiDesign.colorPalettes],
+        categories: [uiDesign.color],
         description:
             'Thousands of trendy color gradients in a curated collection that is updated daily. Get a fresh color gradient for your next design project and save all the gradients you like.',
         links: {

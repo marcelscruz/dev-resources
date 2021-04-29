@@ -81,7 +81,7 @@ module.exports = {
     },
 
     uiDesign: {
-        colorPalettes: 'UI Design/Color Palettes',
+        color: 'UI Design/Color',
         inspiration: 'UI Design/Inspiration',
         learn: 'UI Design/Learn',
         prototyping: 'UI Design/Prototyping',

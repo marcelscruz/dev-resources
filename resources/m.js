@@ -96,7 +96,7 @@ module.exports = [
     },
     {
         name: 'Material Design Palette',
-        categories: [uiDesign.colorPalettes],
+        categories: [uiDesign.color],
         description: 'Choose your favorite colors and get your Material Design palette generated and downloadable.',
         links: {
             [website]: 'https://www.materialpalette.com/',

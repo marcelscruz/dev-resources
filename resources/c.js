@@ -23,7 +23,7 @@ module.exports = [
     },
     {
         name: 'Canva',
-        categories: [uiDesign.colorPalettes, assets.fonts, programming.templates],
+        categories: [uiDesign.color, assets.fonts, programming.templates],
         description:
             'Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content. ',
         links: {
@@ -550,7 +550,7 @@ module.exports = [
     },
     {
         name: 'Colorffy',
-        categories: [uiDesign.colorPalettes],
+        categories: [uiDesign.color],
         description:
             'Create many gradients and palettes or save one of many color schemes, for everyone who needs colors.',
         links: {
@@ -563,7 +563,7 @@ module.exports = [
     },
     {
         name: 'Color Hunt',
-        categories: [uiDesign.colorPalettes],
+        categories: [uiDesign.color],
         description:
             'Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.',
         links: {
@@ -573,7 +573,7 @@ module.exports = [
     },
     {
         name: 'Color-hex',
-        categories: [uiDesign.colorPalettes],
+        categories: [uiDesign.color],
         description:
             'Color hex is a easy to use tool to get the color codes information including color models (RGB,HSL,HSV and CMYK), css and html color codes.',
         links: {
@@ -603,7 +603,7 @@ module.exports = [
     },
     {
         name: 'Colormind',
-        categories: [uiDesign.colorPalettes],
+        categories: [uiDesign.color],
         description:
             'Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.',
         links: {
@@ -613,7 +613,7 @@ module.exports = [
     },
     {
         name: 'colors.lol',
-        categories: [uiDesign.colorPalettes],
+        categories: [uiDesign.color],
         description: 'A fun way to discover interesting color combinations.',
         links: {
             [website]: 'https://colors.lol/',
@@ -622,7 +622,7 @@ module.exports = [
     },
     {
         name: 'Colorsinspo',
-        categories: [uiDesign.colorPalettes],
+        categories: [uiDesign.color],
         description:
             'Colorsinspo is all in one resource to find everything about colors with extreme ease. Also, you will get Freebies, Inspirations, Color Tools, Gradients, and thousands of trendy hand-picked color palettes.',
         links: {
@@ -632,7 +632,7 @@ module.exports = [
     },
     {
         name: 'ColorSpace',
-        categories: [uiDesign.colorPalettes],
+        categories: [uiDesign.color],
         description:
             'Here you can find the perfect matching color scheme for your next project! Generate nice color palettes, color gradients and much more! Your space for everything that has to do with color!',
         links: {
@@ -750,7 +750,7 @@ module.exports = [
     },
     {
         name: 'Coolors',
-        categories: [uiDesign.colorPalettes],
+        categories: [uiDesign.color],
         description: 'Generate or browse beautiful color combinations for your designs.',
         keywords: [
             'color scheme',
@@ -868,7 +868,7 @@ module.exports = [
     },
     {
         name: 'CSS Gradient',
-        categories: [uiDesign.colorPalettes],
+        categories: [uiDesign.color],
         description:
             'As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.',
         links: {

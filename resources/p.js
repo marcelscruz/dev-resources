@@ -22,7 +22,7 @@ module.exports = [
     },
     {
         name: 'Palette List',
-        categories: [uiDesign.colorPalettes],
+        categories: [uiDesign.color],
         description: 'Palette List is a dynamic palette generator.',
         keywords: ['palette', 'colors', 'designer tools', 'developer tools', 'hex', 'rgb'],
         links: {

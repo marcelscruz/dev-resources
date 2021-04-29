@@ -77,7 +77,7 @@ module.exports = [
     },
     {
         name: 'Data Viz Color Picker',
-        categories: [uiDesign.colorPalettes],
+        categories: [uiDesign.color],
         description: 'A color palette generator for data visualizations.',
         links: {
             [website]: 'https://learnui.design/tools/data-color-picker.html',
