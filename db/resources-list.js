@@ -347,7 +347,7 @@ module.exports = [
     {
         "name": "Adobe Color",
         "categories": [
-            "UI Design/Color Palettes"
+            "UI Design/Color"
         ],
         "description": "Create color palettes with the color wheel or image, browse thousands of color combinations from the Adobe Color community.",
         "links": {
@@ -2086,7 +2086,7 @@ module.exports = [
     {
         "name": "Canva",
         "categories": [
-            "UI Design/Color Palettes",
+            "UI Design/Color",
             "Assets/Fonts",
             "Programming/Templates"
         ],
@@ -3443,7 +3443,7 @@ module.exports = [
     {
         "name": "Color Hunt",
         "categories": [
-            "UI Design/Color Palettes"
+            "UI Design/Color"
         ],
         "description": "Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.",
         "links": {
@@ -3454,7 +3454,7 @@ module.exports = [
     {
         "name": "Color-hex",
         "categories": [
-            "UI Design/Color Palettes"
+            "UI Design/Color"
         ],
         "description": "Color hex is a easy to use tool to get the color codes information including color models (RGB,HSL,HSV and CMYK), css and html color codes.",
         "links": {
@@ -3490,7 +3490,7 @@ module.exports = [
     {
         "name": "Colorffy",
         "categories": [
-            "UI Design/Color Palettes"
+            "UI Design/Color"
         ],
         "description": "Create many gradients and palettes or save one of many color schemes, for everyone who needs colors.",
         "links": {
@@ -3529,7 +3529,7 @@ module.exports = [
     {
         "name": "Colormind",
         "categories": [
-            "UI Design/Color Palettes"
+            "UI Design/Color"
         ],
         "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
         "links": {
@@ -3540,7 +3540,7 @@ module.exports = [
     {
         "name": "colors.lol",
         "categories": [
-            "UI Design/Color Palettes"
+            "UI Design/Color"
         ],
         "description": "A fun way to discover interesting color combinations.",
         "links": {
@@ -3551,7 +3551,7 @@ module.exports = [
     {
         "name": "Colorsinspo",
         "categories": [
-            "UI Design/Color Palettes"
+            "UI Design/Color"
         ],
         "description": "Colorsinspo is all in one resource to find everything about colors with extreme ease. Also, you will get Freebies, Inspirations, Color Tools, Gradients, and thousands of trendy hand-picked color palettes.",
         "links": {
@@ -3562,7 +3562,7 @@ module.exports = [
     {
         "name": "ColorSpace",
         "categories": [
-            "UI Design/Color Palettes"
+            "UI Design/Color"
         ],
         "description": "Here you can find the perfect matching color scheme for your next project! Generate nice color palettes, color gradients and much more! Your space for everything that has to do with color!",
         "links": {
@@ -3735,7 +3735,7 @@ module.exports = [
     {
         "name": "Coolors",
         "categories": [
-            "UI Design/Color Palettes"
+            "UI Design/Color"
         ],
         "description": "Generate or browse beautiful color combinations for your designs.",
         "keywords": [
@@ -4077,7 +4077,7 @@ module.exports = [
     {
         "name": "CSS Gradient",
         "categories": [
-            "UI Design/Color Palettes"
+            "UI Design/Color"
         ],
         "description": "As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.",
         "links": {
@@ -4440,7 +4440,7 @@ module.exports = [
     {
         "name": "Data Viz Color Picker",
         "categories": [
-            "UI Design/Color Palettes"
+            "UI Design/Color"
         ],
         "description": "A color palette generator for data visualizations.",
         "links": {
@@ -7385,7 +7385,7 @@ module.exports = [
     {
         "name": "Gradient",
         "categories": [
-            "UI Design/Color Palettes"
+            "UI Design/Color"
         ],
         "description": "Thousands of trendy color gradients in a curated collection that is updated daily. Get a fresh color gradient for your next design project and save all the gradients you like.",
         "links": {
@@ -7693,7 +7693,7 @@ module.exports = [
     {
         "name": "Happy Hues",
         "categories": [
-            "UI Design/Color Palettes"
+            "UI Design/Color"
         ],
         "description": "See color palette inspiration on a real example website. As you click on different palettes every color on this site updates to give you context of how that color could be used for your design or illustration projects.",
         "links": {
@@ -10537,7 +10537,7 @@ module.exports = [
     {
         "name": "Material Design Palette",
         "categories": [
-            "UI Design/Color Palettes"
+            "UI Design/Color"
         ],
         "description": "Choose your favorite colors and get your Material Design palette generated and downloadable.",
         "links": {
@@ -12417,7 +12417,7 @@ module.exports = [
     {
         "name": "Palette List",
         "categories": [
-            "UI Design/Color Palettes"
+            "UI Design/Color"
         ],
         "description": "Palette List is a dynamic palette generator.",
         "keywords": [
@@ -17782,7 +17782,7 @@ module.exports = [
     {
         "name": "Useful Colours",
         "categories": [
-            "UI Design/Color Palettes"
+            "UI Design/Color"
         ],
         "description": "Super quick, eye-pleasing colours for your UI design.",
         "links": {

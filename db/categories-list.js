@@ -51,7 +51,7 @@ module.exports = [
     "tools-utilities-web-scraping",
     "tools-utilities-website-builders",
     "tools-utilities-writing",
-    "ui-design-color-palettes",
+    "ui-design-color",
     "ui-design-inspiration",
     "ui-design-learn",
     "ui-design-prototyping",
