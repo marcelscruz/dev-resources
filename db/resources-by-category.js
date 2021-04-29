@@ -230,6 +230,98 @@ module.exports = {
             "icon": "https://www.onlinewebfonts.com/favicon.ico"
         }
     ],
+    "tools-utilities-typing": [
+        {
+            "name": "10FastFingers",
+            "description": "10FastFingers is a website which offers users a way to test and improve their typing speed. Improve your Typing Speed with our Typing Games.",
+            "categories": [
+                "Tools & Utilities/Typing"
+            ],
+            "links": {
+                "Website": "https://10fastfingers.com/"
+            },
+            "icon": "https://10fastfingers.com/favicon.ico",
+            "keywords": [
+                "typing",
+                "typing test",
+                "typing game",
+                "touch typing",
+                "fastest fingers",
+                "10 fast fingers",
+                "typing competition"
+            ]
+        },
+        {
+            "name": "Keybr",
+            "categories": [
+                "Tools & Utilities/Typing"
+            ],
+            "description": "Teaching the world to type at the speed of thought! Typing lessons that work.",
+            "links": {
+                "Website": "https://www.keybr.com/"
+            },
+            "icon": "https://www.keybr.com/assets/934c99d37fc250c3.png"
+        },
+        {
+            "name": "Open Vim",
+            "categories": [
+                "Tools & Utilities/Typing"
+            ],
+            "description": "An interactive Vim tutorial.",
+            "links": {
+                "Website": "https://openvim.com/"
+            },
+            "icon": "https://openvim.com/icon.png"
+        },
+        {
+            "name": "Ratatype",
+            "categories": [
+                "Tools & Utilities/Typing"
+            ],
+            "description": "Learn to type faster. Take touch typing lessons, practice your keyboarding skills online, take a typing test and get typing speed certificate for free.",
+            "keywords": [
+                "learn to type",
+                "typing tutor",
+                "touch typing",
+                "keyboarding",
+                "online typing tutor",
+                "touch type"
+            ],
+            "links": {
+                "Website": "https://www.ratatype.com/"
+            },
+            "icon": "https://www.ratatype.com/browser/safari/apple-touch-icon-76x76.png"
+        },
+        {
+            "name": "TypingClub",
+            "categories": [
+                "Tools & Utilities/Typing"
+            ],
+            "description": "Learn touch typing online using TypingClub's free typing courses. It includes 650 typing games, typing tests and videos.",
+            "keywords": [
+                "typing",
+                "typing tutorial",
+                "free touch typing tutorial",
+                "touch typing",
+                "typing game"
+            ],
+            "links": {
+                "Website": "https://www.typingclub.com/"
+            },
+            "icon": "https://static.typingclub.com/m/corp2/img/favicon.png"
+        },
+        {
+            "name": "Vim Adventures",
+            "categories": [
+                "Tools & Utilities/Typing"
+            ],
+            "description": "VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the \"Zelda meets text editing\" game. So come have some fun and learn some VIM!",
+            "links": {
+                "Website": "https://vim-adventures.com/"
+            },
+            "icon": "https://vim-adventures.com/favicon.ico"
+        }
+    ],
     "tools-utilities-public-apis": [
         {
             "categories": [
@@ -4968,12 +5060,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
+                "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -4982,12 +5074,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
+                "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -6676,20 +6768,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://numbersapi.com"
-            },
-            "name": "Numbers",
-            "description": "Facts about numbers",
-            "auth": "",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://math.tools/api/numbers/"
             },
             "name": "Numbers",
@@ -6697,6 +6775,20 @@ module.exports = {
             "auth": "apiKey",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://numbersapi.com"
+            },
+            "name": "Numbers",
+            "description": "Facts about numbers",
+            "auth": "",
+            "https": false,
+            "cors": "unknown",
             "apiCategory": "Science & Math"
         },
         {
@@ -7852,11 +7944,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
+                "Website": "http://qrtag.net/api/"
             },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
+            "auth": "",
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
@@ -7866,11 +7958,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://qrtag.net/api/"
+                "Website": "https://fungenerators.com/api/qrcode/"
             },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "auth": "",
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
@@ -9028,10 +9120,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.swapi.tech"
+                "Website": "https://swapi.dev/"
             },
             "name": "SWAPI",
-            "description": "All things Star Wars",
+            "description": "All the Star Wars data you've ever wanted",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -9042,10 +9134,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://swapi.dev/"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
+            "description": "All things Star Wars",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -9826,11 +9918,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -9840,11 +9932,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -18185,17 +18277,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "Codepen radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-        },
-        {
             "name": "CodePen Radio",
             "categories": [
                 "Programming/Podcasts"
@@ -18205,6 +18286,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://blog.codepen.io/favicon.ico"
+        },
+        {
+            "name": "Codepen radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
         },
         {
             "name": "Commit Your Code!",
@@ -19706,78 +19798,6 @@ module.exports = {
                 "CodePen": "https://codepen.io/denic"
             },
             "icon": "https://markodenic.com/wp-content/themes/blog/favicon/favicon-32x32.png"
-        }
-    ],
-    "tools-utilities-typing": [
-        {
-            "name": "Keybr",
-            "categories": [
-                "Tools & Utilities/Typing"
-            ],
-            "description": "Teaching the world to type at the speed of thought! Typing lessons that work.",
-            "links": {
-                "Website": "https://www.keybr.com/"
-            },
-            "icon": "https://www.keybr.com/assets/934c99d37fc250c3.png"
-        },
-        {
-            "name": "Open Vim",
-            "categories": [
-                "Tools & Utilities/Typing"
-            ],
-            "description": "An interactive Vim tutorial.",
-            "links": {
-                "Website": "https://openvim.com/"
-            },
-            "icon": "https://openvim.com/icon.png"
-        },
-        {
-            "name": "Ratatype",
-            "categories": [
-                "Tools & Utilities/Typing"
-            ],
-            "description": "Learn to type faster. Take touch typing lessons, practice your keyboarding skills online, take a typing test and get typing speed certificate for free.",
-            "keywords": [
-                "learn to type",
-                "typing tutor",
-                "touch typing",
-                "keyboarding",
-                "online typing tutor",
-                "touch type"
-            ],
-            "links": {
-                "Website": "https://www.ratatype.com/"
-            },
-            "icon": "https://www.ratatype.com/browser/safari/apple-touch-icon-76x76.png"
-        },
-        {
-            "name": "TypingClub",
-            "categories": [
-                "Tools & Utilities/Typing"
-            ],
-            "description": "Learn touch typing online using TypingClub's free typing courses. It includes 650 typing games, typing tests and videos.",
-            "keywords": [
-                "typing",
-                "typing tutorial",
-                "free touch typing tutorial",
-                "touch typing",
-                "typing game"
-            ],
-            "links": {
-                "Website": "https://www.typingclub.com/"
-            },
-            "icon": "https://static.typingclub.com/m/corp2/img/favicon.png"
-        },
-        {
-            "name": "Vim Adventures",
-            "categories": [
-                "Tools & Utilities/Typing"
-            ],
-            "description": "VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the \"Zelda meets text editing\" game. So come have some fun and learn some VIM!",
-            "links": {
-                "Website": "https://vim-adventures.com/"
-            },
-            "icon": "https://vim-adventures.com/favicon.ico"
         }
     ],
     "indie-hacking-books": [
