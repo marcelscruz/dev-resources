@@ -877,6 +877,23 @@ module.exports = [
         icon: 'https://cssgradient.io/images/favicon-23859487.png',
     },
     {
+        name: 'CSS Layout',
+        description: 'A collection of popular layouts and patterns made with CSS',
+        categories: [
+            programming.codeSnippets,
+            programming.learn,
+        ],
+        keywords: [
+            'CSS layout',
+            'CSS pattern',
+            'CSS UI pattern',
+        ],
+        links: {
+            [website]: 'https://csslayout.io/',
+        },
+        icon: 'https://csslayout.io/assets/favicon.png',
+    },
+    {
         name: 'CSS Layout News',
         categories: [programming.newsletters],
         description: 'A weekly collection of tutorials, news and information on all things CSS Layout.',
