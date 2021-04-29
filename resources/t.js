@@ -1,5 +1,5 @@
 const { assets, programming, community, toolsAndUtilities, indieHacking, jobs } = require('../constants/categories')
-const { website, youtube, github } = require('../constants/links')
+const { website, youtube, github, twitter } = require('../constants/links')
 
 module.exports = [
     {
@@ -230,6 +230,18 @@ module.exports = [
             'html css javascript tutorials "web design" "web development" development "front-end development" wordpress mvc "responsive design" "beginner html" "beginner ...',
         ],
         icon: 'https://www.thenetninja.co.uk/favicon.ico',
+    },
+    {
+        name: 'This VS That',
+        categories: [programming.learn],
+        links: {
+            [website]: 'https://thisthat.dev/',
+        },
+        description: 'What is the difference between ___ and ___ in the front-end development?',
+        keywords: [
+            'CSS', 'DOM', 'HTML', 'JavaScript', 'React', 'TypeScript',
+        ],
+        icon: 'https://thisthat.dev/assets/favicon.png',
     },
     {
         name: 'TinyPNG',
