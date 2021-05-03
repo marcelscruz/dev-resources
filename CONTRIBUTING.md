@@ -18,6 +18,8 @@ Everyone is welcome to collaborate to this project, but please take into conside
 Each resource belongs to an object, as such:
 
 ```javascript
+// File: resources/f.js
+
 {
     name: 'freeCodeCamp',
     description:
