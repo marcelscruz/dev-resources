@@ -49,8 +49,9 @@ module.exports = {
         codeSnippets: 'Programming/Code Snippets',
         docsAndCheatsheets: 'Programming/Docs & Cheatsheets',
         javascript: {
-            tooling: 'Programming/JavaScript/Tooling',
             react: 'Programming/JavaScript/React',
+            tooling: 'Programming/JavaScript/Tooling',
+            utilities: 'Programming/JavaScript/Utilities',
         },
         learn: 'Programming/Learn',
         newsletters: 'Programming/Newsletters',
