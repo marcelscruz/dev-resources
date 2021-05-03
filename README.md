@@ -754,6 +754,13 @@
 
 **[⬆ Back to Index](#index)**
 
+### <a name="authentication"><a name="tools-utilities-authentication">Authentication</a></a>
+| &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
+|---|---|---|---|---|
+ <img src="https://www.clerk.dev/blog/favicon.ico" width="16" /> | Clerk | Clerk adds secure authentication and user management to your React or Next.js app. 🔒 Essential security features like 2 factor auth and device management. 📈 Conversion-optimized Sign Up and Sign In forms. 🎨 Built-in theming and open APIs for easy customization  | [Website](https://clerk.dev) | react, next.js, auth, user management, react auth, next.js auth, javascript auth |
+
+**[⬆ Back to Index](#index)**
+
 ### <a name="browsers-extensions"><a name="tools-utilities-browsers-extensions">Browsers & Extensions</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
