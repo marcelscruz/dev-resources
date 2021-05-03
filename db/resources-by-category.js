@@ -888,6 +888,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://github.com/didadadida93/autochess-vng-api"
+            },
+            "name": "Autochess VNG",
+            "description": "Rest Api for Autochess VNG",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Games & Comics"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://aviationstack.com/"
             },
             "name": "aviationstack",
@@ -1434,6 +1448,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://dadosabertos.camara.leg.br/swagger/api.html"
+            },
+            "name": "Brazilian Chamber of Deputies Open Data",
+            "description": "Provides legislative information in Apis XML and JSON, as well as files in various formats",
+            "auth": "",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Government"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://deividfortuna.github.io/fipe/"
             },
             "name": "Brazilian Vehicles and Prices",
@@ -1610,6 +1638,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Social"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/M-Media-Group/Cartes.io/wiki/API"
+            },
+            "name": "Cartes.io",
+            "description": "Create maps and markers for anything",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Geocoding"
         },
         {
             "categories": [
@@ -2330,10 +2372,24 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://developers.coinranking.com/api/documentation/"
+                "Website": "https://docs.coinranking.com/"
             },
             "name": "CoinRanking",
             "description": "Live Cryptocurrency data",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Cryptocurrency"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest"
+            },
+            "name": "CoinStats",
+            "description": "Crypto Tracker",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -2498,10 +2554,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -2512,10 +2568,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -4038,6 +4094,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://nominatim.geocoding.ai/"
+            },
+            "name": "Geocoding.ai",
+            "description": "Provides worldwide forward / reverse geocoding",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://www.geodatasource.com/web-service"
             },
             "name": "GeoDataSource",
@@ -4158,6 +4228,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Photography"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.blog/2011-11-10-git-io-github-url-shortener/"
+            },
+            "name": "Git.io",
+            "description": "Git.io URL shortener",
+            "auth": "No",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "URL Shorteners"
         },
         {
             "categories": [
@@ -4449,6 +4533,20 @@ module.exports = {
             "name": "Guild Wars 2",
             "description": "Guild Wars 2 Game Information",
             "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Games & Comics"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/rubensayshi/gw2spidy/wiki"
+            },
+            "name": "GW2Spidy",
+            "description": "GW2Spidy API, Items data on the Guild Wars 2 Trade Market",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Games & Comics"
@@ -5060,12 +5158,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
+                "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -5074,12 +5172,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
+                "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -5236,6 +5334,34 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://docs.identity.ps/docs"
+            },
+            "name": "IPS Online",
+            "description": "Face and License Plate Anonymization",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Machine Learning"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://is.gd/developers.php"
+            },
+            "name": "Is.gd",
+            "description": "URL Shortening API",
+            "auth": "No",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "URL Shorteners"
         },
         {
             "categories": [
@@ -6278,6 +6404,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://microenv.com/"
+            },
+            "name": "MicroENV",
+            "description": "Fake Rest API for developers",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://microlink.io"
             },
             "name": "Microlink.io",
@@ -6510,6 +6650,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://api.nbp.pl/en.html"
+            },
+            "name": "National Bank of Poland",
+            "description": "A collection of currency exchange rates (data in XML and JSON)",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Currency Exchange"
         },
         {
             "categories": [
@@ -6768,20 +6922,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://numbersapi.com"
-            },
-            "name": "Numbers",
-            "description": "Facts about numbers",
-            "auth": "",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://math.tools/api/numbers/"
             },
             "name": "Numbers",
@@ -6789,6 +6929,20 @@ module.exports = {
             "auth": "apiKey",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://numbersapi.com"
+            },
+            "name": "Numbers",
+            "description": "Facts about numbers",
+            "auth": "",
+            "https": false,
+            "cors": "unknown",
             "apiCategory": "Science & Math"
         },
         {
@@ -7944,20 +8098,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
-            },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "name": "QR code",
@@ -7965,6 +8105,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://fungenerators.com/api/qrcode/"
+            },
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Development"
         },
         {
@@ -8588,6 +8742,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://scraperbox.com/"
+            },
+            "name": "scraperBox",
+            "description": "Undetectable web scraping API",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://scrapestack.com/"
             },
             "name": "scrapestack",
@@ -9120,10 +9288,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.swapi.tech"
+                "Website": "https://swapi.dev/"
             },
             "name": "SWAPI",
-            "description": "All things Star Wars",
+            "description": "All the Star Wars data you've ever wanted",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -9134,10 +9302,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://swapi.dev/"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
+            "description": "All things Star Wars",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -10780,6 +10948,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Social"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://waifu.pics/docs"
+            },
+            "name": "Waifu.pics",
+            "description": "Image sharing platform for anime images",
+            "auth": "",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Anime"
         },
         {
             "categories": [
