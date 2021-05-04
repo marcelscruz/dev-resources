@@ -33,6 +33,24 @@ module.exports = [
         icon: 'https://accessibility.18f.gov/checklist/favicon.ico',
     },
     {
+        name: '1LOC',
+        description: 'Favorite JavaScript Utilities in single line of code! No more!',
+        categories: [
+            programming.codeSnippets,
+            programming.javascript.utilities,
+        ],
+        keywords: [
+            'JavaScript',
+            'JavaScript Utilities',
+            'one-liner',
+            'one-liner javascript',
+        ],
+        links: {
+            [website]: 'https://1loc.dev/',
+        },
+        icon: 'https://1loc.dev/assets/favicon.png',
+    },
+    {
         name: '30 seconds of code',
         categories: [programming.codeSnippets],
         description: 'Browse 1078 short code snippets for all your development needs on 30 seconds of code.',
