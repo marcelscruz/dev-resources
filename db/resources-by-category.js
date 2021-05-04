@@ -2162,20 +2162,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/validate-api"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Data Validation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/phone-number-validation-API"
             },
             "name": "Cloudmersive Validate",
@@ -2184,6 +2170,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Phone"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/validate-api"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Data Validation"
         },
         {
             "categories": [
@@ -2582,10 +2582,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -2596,10 +2596,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -8168,6 +8168,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "http://goqr.me/api/"
+            },
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "http://qrtag.net/api/"
             },
             "name": "QR code",
@@ -8189,20 +8203,6 @@ module.exports = {
             "auth": "apiKey",
             "https": true,
             "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "http://goqr.me/api/"
-            },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -10156,6 +10156,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://transport.opendata.ch/"
+            },
+            "name": "Transport for Switzerland",
+            "description": "Swiss public transport API",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Transportation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
@@ -10170,10 +10184,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
-            "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
+            "name": "Transport for The Netherlands",
+            "description": "OVAPI, country-wide public transport",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -10190,20 +10204,6 @@ module.exports = {
             "description": "NS, only trains",
             "auth": "apiKey",
             "https": false,
-            "cors": "unknown",
-            "apiCategory": "Transportation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
-            },
-            "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -11778,6 +11778,24 @@ module.exports = {
     ],
     "programming-code-snippets": [
         {
+            "name": "1LOC",
+            "description": "Favorite JavaScript Utilities in single line of code! No more!",
+            "categories": [
+                "Programming/Code Snippets",
+                "Programming/JavaScript/Utilities"
+            ],
+            "keywords": [
+                "JavaScript",
+                "JavaScript Utilities",
+                "one-liner",
+                "one-liner javascript"
+            ],
+            "links": {
+                "Website": "https://1loc.dev/"
+            },
+            "icon": "https://1loc.dev/assets/favicon.png"
+        },
+        {
             "name": "30 seconds of code",
             "categories": [
                 "Programming/Code Snippets"
@@ -11996,6 +12014,26 @@ module.exports = {
                 "Website": "https://bradwoods.io/guides/xstate"
             },
             "icon": "https://bradwoods.io/icons-ac8e8fb7acba0bf710955dec094dc16c/apple-touch-icon-76x76.png"
+        }
+    ],
+    "programming-javascript-utilities": [
+        {
+            "name": "1LOC",
+            "description": "Favorite JavaScript Utilities in single line of code! No more!",
+            "categories": [
+                "Programming/Code Snippets",
+                "Programming/JavaScript/Utilities"
+            ],
+            "keywords": [
+                "JavaScript",
+                "JavaScript Utilities",
+                "one-liner",
+                "one-liner javascript"
+            ],
+            "links": {
+                "Website": "https://1loc.dev/"
+            },
+            "icon": "https://1loc.dev/assets/favicon.png"
         }
     ],
     "jobs-freelancing": [

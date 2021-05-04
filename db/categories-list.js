@@ -29,6 +29,7 @@ module.exports = [
     "programming-docs-cheatsheets",
     "programming-javascript-react",
     "programming-javascript-tooling",
+    "programming-javascript-utilities",
     "programming-learn",
     "programming-newsletters",
     "programming-podcasts",
