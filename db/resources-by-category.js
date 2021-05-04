@@ -2162,20 +2162,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/phone-number-validation-API"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate international phone numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Phone"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/validate-api"
             },
             "name": "Cloudmersive Validate",
@@ -2184,6 +2170,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Data Validation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/phone-number-validation-API"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate international phone numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Phone"
         },
         {
             "categories": [
@@ -5186,12 +5186,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
+                "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -5200,12 +5200,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
+                "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -6908,20 +6908,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/gadael/icsdb"
-            },
-            "name": "Non-Working Days",
-            "description": "Database of ICS files for non working days",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Calendar"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://isdayoff.ru"
             },
             "name": "Non-Working Days",
@@ -6929,6 +6915,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Calendar"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/gadael/icsdb"
+            },
+            "name": "Non-Working Days",
+            "description": "Database of ICS files for non working days",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
             "apiCategory": "Calendar"
         },
         {
@@ -6978,20 +6978,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://numbersapi.com"
-            },
-            "name": "Numbers",
-            "description": "Facts about numbers",
-            "auth": "",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://math.tools/api/numbers/"
             },
             "name": "Numbers",
@@ -6999,6 +6985,20 @@ module.exports = {
             "auth": "apiKey",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://numbersapi.com"
+            },
+            "name": "Numbers",
+            "description": "Facts about numbers",
+            "auth": "",
+            "https": false,
+            "cors": "unknown",
             "apiCategory": "Science & Math"
         },
         {
@@ -8168,13 +8168,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://goqr.me/api/"
+                "Website": "https://fungenerators.com/api/qrcode/"
             },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "auth": "",
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
             "https": true,
-            "cors": "unknown",
+            "cors": "yes",
             "apiCategory": "Development"
         },
         {
@@ -8196,13 +8196,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
+                "Website": "http://goqr.me/api/"
             },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
+            "auth": "",
             "https": true,
-            "cors": "yes",
+            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -10156,11 +10156,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -10170,11 +10170,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -11958,6 +11958,27 @@ module.exports = {
                 "Website": "http://www.devsamples.com/"
             },
             "icon": "http://www.devsamples.com/favicon.ico"
+        },
+        {
+            "name": "IntersectionObserver Examples",
+            "description": "Practical, real world React examples of Intersection Observer",
+            "categories": [
+                "Programming/Code Snippets",
+                "Programming/Docs & Cheatsheets",
+                "Programming/JavaScript/React",
+                "Programming/Learn"
+            ],
+            "keywords": [
+                "IntersectionObserver",
+                "IntersectionObserver API",
+                "IntersectionObserver examples",
+                "React",
+                "React IntersectionObserver"
+            ],
+            "links": {
+                "Website": "https://intersectionobserver.io"
+            },
+            "icon": "https://intersectionobserver.io/favicon.png"
         },
         {
             "name": "Ray.so",
@@ -14854,6 +14875,27 @@ module.exports = {
                 "Website": "https://hackr.io/"
             },
             "icon": "https://hackr.io/assets/images/programming-images/programming-favicon-32x32.png"
+        },
+        {
+            "name": "IntersectionObserver Examples",
+            "description": "Practical, real world React examples of Intersection Observer",
+            "categories": [
+                "Programming/Code Snippets",
+                "Programming/Docs & Cheatsheets",
+                "Programming/JavaScript/React",
+                "Programming/Learn"
+            ],
+            "keywords": [
+                "IntersectionObserver",
+                "IntersectionObserver API",
+                "IntersectionObserver examples",
+                "React",
+                "React IntersectionObserver"
+            ],
+            "links": {
+                "Website": "https://intersectionobserver.io"
+            },
+            "icon": "https://intersectionobserver.io/favicon.png"
         },
         {
             "name": "JavaScript Info",
@@ -18503,6 +18545,27 @@ module.exports = {
             "icon": "https://htmlreference.io/favicons/favicon-32x32.png"
         },
         {
+            "name": "IntersectionObserver Examples",
+            "description": "Practical, real world React examples of Intersection Observer",
+            "categories": [
+                "Programming/Code Snippets",
+                "Programming/Docs & Cheatsheets",
+                "Programming/JavaScript/React",
+                "Programming/Learn"
+            ],
+            "keywords": [
+                "IntersectionObserver",
+                "IntersectionObserver API",
+                "IntersectionObserver examples",
+                "React",
+                "React IntersectionObserver"
+            ],
+            "links": {
+                "Website": "https://intersectionobserver.io"
+            },
+            "icon": "https://intersectionobserver.io/favicon.png"
+        },
+        {
             "name": "MDN Web Docs",
             "categories": [
                 "Programming/Docs & Cheatsheets"
@@ -19918,6 +19981,27 @@ module.exports = {
                 "Website": "https://www.gatsbyjs.com/"
             },
             "icon": "https://www.gatsbyjs.com/icons/icon-96x96.png?v=3ad5294f3fa6c06e2d07ab07c76df2cf"
+        },
+        {
+            "name": "IntersectionObserver Examples",
+            "description": "Practical, real world React examples of Intersection Observer",
+            "categories": [
+                "Programming/Code Snippets",
+                "Programming/Docs & Cheatsheets",
+                "Programming/JavaScript/React",
+                "Programming/Learn"
+            ],
+            "keywords": [
+                "IntersectionObserver",
+                "IntersectionObserver API",
+                "IntersectionObserver examples",
+                "React",
+                "React IntersectionObserver"
+            ],
+            "links": {
+                "Website": "https://intersectionobserver.io"
+            },
+            "icon": "https://intersectionobserver.io/favicon.png"
         },
         {
             "name": "Next.js",
