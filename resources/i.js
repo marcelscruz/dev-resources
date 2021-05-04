@@ -224,6 +224,27 @@ module.exports = [
         icon: 'https://interfacer.xyz/assets/site_assets/interfacelogo-icon.png',
     },
     {
+        name: 'IntersectionObserver Examples',
+        description: 'Practical, real world React examples of Intersection Observer',
+        categories: [
+            programming.codeSnippets,
+            programming.docsAndCheatsheets,
+            programming.javascript.react,
+            programming.learn,
+        ],
+        keywords: [
+            'IntersectionObserver',
+            'IntersectionObserver API',
+            'IntersectionObserver examples',
+            'React',
+            'React IntersectionObserver',
+        ],
+        links: {
+            [website]: 'https://intersectionobserver.io',
+        },
+        icon: 'https://intersectionobserver.io/favicon.png',
+    },
+    {
         name: 'iOS Dev Jobs',
         categories: [jobs.boards],
         description:
