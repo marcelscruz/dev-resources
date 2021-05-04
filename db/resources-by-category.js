@@ -832,6 +832,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://developer.apple.com/documentation/applemusicapi/"
+            },
+            "name": "Apple Music",
+            "description": "Official API of the music streaming site Apple Music",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Music"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://archive.readme.io/docs"
             },
             "name": "Archive.org",
@@ -882,6 +896,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "News"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.audiomack.com/data-api/docs"
+            },
+            "name": "Audiomack",
+            "description": "Api of the streaming music hub Audiomack",
+            "auth": "OAuth",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Music"
         },
         {
             "categories": [
@@ -2554,10 +2582,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -2568,10 +2596,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -5158,12 +5186,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
+                "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -5172,12 +5200,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
+                "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -5474,6 +5502,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Anime"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/cyberboysumanjay/JioSaavnAPI"
+            },
+            "name": "JioSaavn",
+            "description": "API to retrive song information, album meta data and many more from JioSaavn",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Music"
         },
         {
             "categories": [
@@ -6048,6 +6090,20 @@ module.exports = {
             "https": false,
             "cors": "unknown",
             "apiCategory": "Games & Comics"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://docs.mail.tm"
+            },
+            "name": "mail.tm",
+            "description": "Temporary Email Service",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Business"
         },
         {
             "categories": [
@@ -6852,20 +6908,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://isdayoff.ru"
-            },
-            "name": "Non-Working Days",
-            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Calendar"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://github.com/gadael/icsdb"
             },
             "name": "Non-Working Days",
@@ -6873,6 +6915,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Calendar"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://isdayoff.ru"
+            },
+            "name": "Non-Working Days",
+            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Calendar"
         },
         {
@@ -6922,20 +6978,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "name": "Numbers",
@@ -6943,6 +6985,20 @@ module.exports = {
             "auth": "",
             "https": false,
             "cors": "unknown",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Science & Math"
         },
         {
@@ -7748,6 +7804,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://pixelencounter.com/api"
+            },
+            "name": "Pixel Encounter",
+            "description": "SVG Icon Generator",
+            "auth": "",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Art & Design"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://pixe.la"
             },
             "name": "Pixela",
@@ -8098,13 +8168,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://goqr.me/api/"
+                "Website": "http://qrtag.net/api/"
             },
             "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
+            "description": "Create an easy to read QR code and URL shortener",
             "auth": "",
             "https": true,
-            "cors": "unknown",
+            "cors": "yes",
             "apiCategory": "Development"
         },
         {
@@ -8126,13 +8196,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://qrtag.net/api/"
+                "Website": "http://goqr.me/api/"
             },
             "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
+            "description": "Generate and decode / read QR code graphics",
             "auth": "",
             "https": true,
-            "cors": "yes",
+            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -9288,10 +9358,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://swapi.dev/"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
+            "description": "All things Star Wars",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -9302,10 +9372,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.swapi.tech"
+                "Website": "https://swapi.dev/"
             },
             "name": "SWAPI",
-            "description": "All things Star Wars",
+            "description": "All the Star Wars data you've ever wanted",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -10086,20 +10156,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Transportation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
@@ -10114,10 +10170,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "https://transport.opendata.ch/"
             },
-            "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
+            "name": "Transport for Switzerland",
+            "description": "Swiss public transport API",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -10134,6 +10190,20 @@ module.exports = {
             "description": "NS, only trains",
             "auth": "apiKey",
             "https": false,
+            "cors": "unknown",
+            "apiCategory": "Transportation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -14709,6 +14779,22 @@ module.exports = {
             "icon": "https://www.frontendpractice.com/icons/icon-96x96.png"
         },
         {
+            "name": "Frontend Tips",
+            "description": "Tiny tips, tricks & best practices for front-end development",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "keywords": [
+                "Front-end tips",
+                "Front-end tricks",
+                "Best front-end practices"
+            ],
+            "links": {
+                "Website": "https://getfrontend.tips/"
+            },
+            "icon": "https://getfrontend.tips/img/favicon.png"
+        },
+        {
             "name": "Grid Garden",
             "categories": [
                 "Programming/Learn"
@@ -14973,6 +15059,25 @@ module.exports = {
                 "html css javascript tutorials \"web design\" \"web development\" development \"front-end development\" wordpress mvc \"responsive design\" \"beginner html\" \"beginner ..."
             ],
             "icon": "https://www.thenetninja.co.uk/favicon.ico"
+        },
+        {
+            "name": "This VS That",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "links": {
+                "Website": "https://thisthat.dev/"
+            },
+            "description": "What is the difference between ___ and ___ in the front-end development?",
+            "keywords": [
+                "CSS",
+                "DOM",
+                "HTML",
+                "JavaScript",
+                "React",
+                "TypeScript"
+            ],
+            "icon": "https://thisthat.dev/assets/favicon.png"
         },
         {
             "name": "Treehouse",
@@ -18482,17 +18587,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "CodePen Radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://blog.codepen.io/favicon.ico"
-        },
-        {
             "name": "Codepen radio",
             "categories": [
                 "Programming/Podcasts"
@@ -18502,6 +18596,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
+        },
+        {
+            "name": "CodePen Radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://blog.codepen.io/favicon.ico"
         },
         {
             "name": "Commit Your Code!",
