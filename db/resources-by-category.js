@@ -8140,6 +8140,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://www2.purpleair.com/"
+            },
+            "name": "Purple Air",
+            "description": "Real Time Air Quality Monitoring",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://pusher.com/beams"
             },
             "name": "Pusher Beams",
@@ -8182,20 +8196,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://qrtag.net/api/"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "name": "QR code",
@@ -8203,6 +8203,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://qrtag.net/api/"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Development"
         },
         {
@@ -9358,10 +9372,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.swapi.tech"
+                "Website": "https://swapi.dev/"
             },
             "name": "SWAPI",
-            "description": "All things Star Wars",
+            "description": "All the Star Wars data you've ever wanted",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -9372,10 +9386,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://swapi.dev/"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
+            "description": "All things Star Wars",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -11934,6 +11948,23 @@ module.exports = {
                 "Website": "https://creativesfeed.com/topics/code-snippets/"
             },
             "icon": "https://creativesfeed.com/icons/apple-icon-76x76.png"
+        },
+        {
+            "name": "CSS Layout",
+            "description": "A collection of popular layouts and patterns made with CSS",
+            "categories": [
+                "Programming/Code Snippets",
+                "Programming/Learn"
+            ],
+            "keywords": [
+                "CSS layout",
+                "CSS pattern",
+                "CSS UI pattern"
+            ],
+            "links": {
+                "Website": "https://csslayout.io/"
+            },
+            "icon": "https://csslayout.io/assets/favicon.png"
         },
         {
             "name": "CSS-Tricks",
@@ -14679,6 +14710,23 @@ module.exports = {
                 "Website": "https://flukeout.github.io/"
             },
             "icon": "https://flukeout.github.io/favicon.png"
+        },
+        {
+            "name": "CSS Layout",
+            "description": "A collection of popular layouts and patterns made with CSS",
+            "categories": [
+                "Programming/Code Snippets",
+                "Programming/Learn"
+            ],
+            "keywords": [
+                "CSS layout",
+                "CSS pattern",
+                "CSS UI pattern"
+            ],
+            "links": {
+                "Website": "https://csslayout.io/"
+            },
+            "icon": "https://csslayout.io/assets/favicon.png"
         },
         {
             "name": "CSS-Tricks",
@@ -18688,17 +18736,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "Codepen radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-        },
-        {
             "name": "CodePen Radio",
             "categories": [
                 "Programming/Podcasts"
@@ -18708,6 +18745,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://blog.codepen.io/favicon.ico"
+        },
+        {
+            "name": "Codepen radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
         },
         {
             "name": "Commit Your Code!",
