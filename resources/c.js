@@ -209,6 +209,17 @@ module.exports = [
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
+        name: "Cloudflare Pages",
+        categories: [ infrastructure.serverless, infrastructure.hosting ],
+        description:
+            'Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.',
+        links: {
+            [website]: 'https://pages.cloudflare.com/',
+        },
+        icon: 'https://pages.cloudflare.com/resources/logo/logo.svg',
+        keywords: ['jamstack', 'serverless', 'hosting', 'development'],
+    },
+    {
         name: 'Cloudflare Workers',
         categories: [infrastructure.serverless],
         description:
