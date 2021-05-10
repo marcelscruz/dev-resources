@@ -210,14 +210,14 @@ module.exports = [
     },
     {
         name: "Cloudflare Pages",
-        categories: [ infrastructure.serverless ],
+        categories: [ infrastructure.serverless, infrastructure.hosting ],
         description:
             'Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.',
         links: {
             [website]: 'https://pages.cloudflare.com/',
         },
-        icon: 'https://pages.cloudflare.com/resources/logo/logo.svg', // Optional, but good for the README file
-        keywords: ['jamstack', 'serverless', 'hosting', 'development'], // Optional, but useful for the search feature on the website
+        icon: 'https://pages.cloudflare.com/resources/logo/logo.svg',
+        keywords: ['jamstack', 'serverless', 'hosting', 'development'],
     },
     {
         name: 'Cloudflare Workers',
