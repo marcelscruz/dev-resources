@@ -99,6 +99,16 @@ module.exports = [
         icon: 'https://edgetipscdn.microsoft.com/insider-site/images/favicon.fbd89822.png',
     },
     {
+        name: 'Eggradients',
+        categories: [uiDesign.color],
+        description:
+            'Ready to use gradient background colors. Cool Gradients are prepared according to the latest design trends. And it is served in the form of eggs. With hex and CSS codes.',
+        links: {
+            [website]: 'https://www.eggradients.com/',
+        },
+        icon: 'https://uploads-ssl.webflow.com/5a9423a3f702750001758d4f/5a96bc44892ae8000194cc9c_fav.png',
+    },
+    {
         name: 'Eleventy High Performance Blog',
         categories: [programming.templates],
         description:

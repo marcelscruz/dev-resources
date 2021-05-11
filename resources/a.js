@@ -152,7 +152,7 @@ module.exports = [
     },
     {
         name: 'Airtable',
-        categories: [indieHacking.utilities],
+        categories: [indieHacking.utilities, infrastructure.databases, infrastructure.serverless],
         description:
             'Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.',
         links: {

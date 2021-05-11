@@ -67,6 +67,15 @@ module.exports = [
         icon: 'https://www.scrapingbee.com/images/logo_2.png',
     },
     {
+        name: 'Screenstab',
+        categories: [indieHacking.marketing],
+        description: 'Turn ordinary screenshots into beautiful image assets in no time',
+        links: {
+            [website]: 'https://www.screenstab.com/',
+        },
+        icon: '',
+    },
+    {
         name: 'Scrimba',
         categories: [programming.learn],
         description:
