@@ -1,5 +1,5 @@
 const { programming, toolsAndUtilities, uiDesign, jobs, assets, indieHacking } = require('../constants/categories')
-const { website, youtube, applePodcasts, spotify } = require('../constants/links')
+const { website, youtube, applePodcasts, spotify, github } = require('../constants/links')
 
 module.exports = [
     {
@@ -217,5 +217,15 @@ module.exports = [
         },
         icon:
             'https://assets.exercism.io/assets/favicon/apple-touch-icon-72x72-4ebeea76fc0ae80d3bb77a59752c5caf5d7debce078764ef95d6b69caa5e9c0b.png',
+    },
+    {
+        name: 'explainshell',
+        categories: [toolsAndUtilities.commandLine],
+        description: 'Match command-line arguments to their help text.',
+        links: {
+            [website]: 'https://explainshell.com/',
+            [github]: 'https://github.com/idank/explainshell',
+        },
+        icon: 'https://explainshell.com/favicon.ico',
     },
 ]

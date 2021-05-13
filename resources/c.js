@@ -222,8 +222,8 @@ module.exports = [
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
-        name: "Cloudflare Pages",
-        categories: [ infrastructure.serverless, infrastructure.hosting ],
+        name: 'Cloudflare Pages',
+        categories: [infrastructure.serverless, infrastructure.hosting],
         description:
             'Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.',
         links: {
@@ -241,6 +241,16 @@ module.exports = [
             [website]: 'https://workers.cloudflare.com/',
         },
         icon: 'https://workers.cloudflare.com/favicon.ico',
+    },
+    {
+        name: 'cmd challenge',
+        categories: [toolsAndUtilities.commandLine],
+        description: 'Learn the command line.',
+        links: {
+            [website]: 'https://cmdchallenge.com/',
+            [twitter]: 'https://twitter.com/thecmdchallenge',
+        },
+        icon: 'https://cmdchallenge.com/favicon.ico',
     },
     {
         name: 'Code to go',
@@ -903,15 +913,8 @@ module.exports = [
     {
         name: 'CSS Layout',
         description: 'A collection of popular layouts and patterns made with CSS',
-        categories: [
-            programming.codeSnippets,
-            programming.learn,
-        ],
-        keywords: [
-            'CSS layout',
-            'CSS pattern',
-            'CSS UI pattern',
-        ],
+        categories: [programming.codeSnippets, programming.learn],
+        keywords: ['CSS layout', 'CSS pattern', 'CSS UI pattern'],
         links: {
             [website]: 'https://csslayout.io/',
         },

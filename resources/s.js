@@ -54,6 +54,17 @@ module.exports = [
         icon: 'https://developer.apple.com/favicon.ico?51002006191',
     },
     {
+        name: 'Scale',
+        categories: [assets.illustrations],
+        description:
+            'Top-quality illustrations, 100% free - no attribution, no IP-related restrictions. Pick an illustration and customize to your branding using our color picker.',
+        links: {
+            [website]: 'https://2.flexiple.com/scale/all-illustrations',
+        },
+        icon:
+            'https://global-uploads.webflow.com/5e5365d233730913f7f9ed7e/5e5f3c6497dc35f79b48cd07_Flexiple%20favicon%20(32x32).png',
+    },
+    {
         name: 'ScrapingBee',
         categories: [toolsAndUtilities.webScraping],
         description:

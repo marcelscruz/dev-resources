@@ -68,6 +68,7 @@ module.exports = {
         apiBuilding: 'Tools & Utilities/API Building',
         auth: 'Tools & Utilities/Auth',
         browsersAndExtensions: 'Tools & Utilities/Browsers & Extensions',
+        commandLine: 'Tools & Utilities/Command Line',
         domains: 'Tools & Utilities/Domains',
         editorsAndExtensions: 'Tools & Utilities/Editors & Extensions',
         general: 'Tools & Utilities/General',
