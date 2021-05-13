@@ -2582,10 +2582,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -2596,10 +2596,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -4266,7 +4266,7 @@ module.exports = {
             },
             "name": "Git.io",
             "description": "Git.io URL shortener",
-            "auth": "No",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "URL Shorteners"
@@ -5186,12 +5186,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
+                "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
-            "description": "Find location with ip address",
+            "description": "Find IP address location information",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -5200,12 +5200,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
+                "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
-            "description": "Find IP address location information",
+            "description": "Find location with ip address",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Geocoding"
         },
@@ -5386,7 +5386,7 @@ module.exports = {
             },
             "name": "Is.gd",
             "description": "URL Shortening API",
-            "auth": "No",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "URL Shorteners"
@@ -5960,7 +5960,7 @@ module.exports = {
             },
             "name": "LiteLink",
             "description": "Simple URL Shortener",
-            "auth": "No",
+            "auth": "",
             "https": true,
             "cors": "yes",
             "apiCategory": "URL Shorteners"
@@ -6314,6 +6314,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Social"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://megavangelicals.com/sundays.json"
+            },
+            "name": "Megavangelical",
+            "description": "A (satirical) Evangelical liturgical calendar",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Calendar"
         },
         {
             "categories": [
@@ -6908,20 +6922,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://isdayoff.ru"
-            },
-            "name": "Non-Working Days",
-            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Calendar"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://github.com/gadael/icsdb"
             },
             "name": "Non-Working Days",
@@ -6929,6 +6929,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Calendar"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://isdayoff.ru"
+            },
+            "name": "Non-Working Days",
+            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Calendar"
         },
         {
@@ -8196,20 +8210,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://qrtag.net/api/"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://fungenerators.com/api/qrcode/"
             },
             "name": "QR Code",
@@ -8231,6 +8231,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://qrtag.net/api/"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Development"
         },
         {
@@ -9198,6 +9212,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "News"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://spacetraders.io?rel=pub-apis"
+            },
+            "name": "SpaceTradersAPI",
+            "description": "A playable inter-galactic space trading MMOAPI",
+            "auth": "OAuth",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Games & Comics"
         },
         {
             "categories": [
@@ -10198,11 +10226,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -10212,11 +10240,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -18776,6 +18804,28 @@ module.exports = {
                 "Website": "https://developer.mozilla.org/en-US/"
             },
             "icon": "https://developer.mozilla.org/static/img/favicon72.cc65d1d762a0.png"
+        }
+    ],
+    "tools-utilities-auth": [
+        {
+            "name": "Clerk.dev",
+            "categories": [
+                "Tools & Utilities/Auth"
+            ],
+            "description": "Clerk adds secure authentication and user management to your React or Next.js app. 🔒 Essential security features like 2 factor auth and device management. 📈 Conversion-optimized Sign Up and Sign In forms. 🎨 Built-in theming and open APIs for easy customization",
+            "keywords": [
+                "react",
+                "next.js",
+                "auth",
+                " user management",
+                "react auth",
+                "next.js auth",
+                "javascript auth"
+            ],
+            "links": {
+                "Website": "https://clerk.dev"
+            },
+            "icon": "https://www.clerk.dev/blog/favicon.ico"
         }
     ],
     "programming-podcasts": [

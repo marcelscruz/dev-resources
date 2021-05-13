@@ -40,6 +40,7 @@ module.exports = [
     "tools-utilities-accessibility",
     "tools-utilities-analytics",
     "tools-utilities-api-building",
+    "tools-utilities-auth",
     "tools-utilities-browsers-extensions",
     "tools-utilities-domains",
     "tools-utilities-editors-extensions",
