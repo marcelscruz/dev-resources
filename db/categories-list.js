@@ -42,6 +42,7 @@ module.exports = [
     "tools-utilities-api-building",
     "tools-utilities-auth",
     "tools-utilities-browsers-extensions",
+    "tools-utilities-command-line",
     "tools-utilities-domains",
     "tools-utilities-editors-extensions",
     "tools-utilities-general",
