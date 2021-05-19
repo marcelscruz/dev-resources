@@ -100,6 +100,15 @@ module.exports = [
         icon: 'https://grid.layoutit.com/img/icons/icon-128x128.png',
     },
     {
+        name: 'Learn CSS',
+        categories: [programming.learn],
+        description: 'An evergreen CSS course and reference to level up your web styling expertise.',
+        links: {
+            [website]: 'https://web.dev/learn/css/',
+        },
+        icon: 'https://web.dev/images/favicon-32x32.png',
+    },
+    {
         name: 'Learn Enough to Be Dangerous',
         categories: [programming.learn],
         description:

@@ -281,6 +281,15 @@ module.exports = [
         icon: 'https://divjoy.com/static/images/favicon/favicon-32x32.png',
     },
     {
+        name: 'DOM Events',
+        categories: [programming.learn],
+        description: 'Learn how the DOM Event system works through exploration.',
+        links: {
+            [website]: 'https://domevents.dev/',
+        },
+        icon: 'https://domevents.dev/apple-touch-icon.454d8b40.png',
+    },
+    {
         name: 'domain.garden',
         categories: [toolsAndUtilities.domains],
         description:

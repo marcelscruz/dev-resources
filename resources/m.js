@@ -192,9 +192,7 @@ module.exports = [
         categories: [programming.youtubeChannels],
         description:
             'Whether you’re a student, a teacher, or simply a curious person that wants to learn, MIT OpenCourseWare (OCW) offers a wealth of insight and inspiration. There are videos, and a whole lot more!',
-        keywords: [
-            'MIT OpenCourseWare Free Courses Computer Science Academics Univesity Courses'
-        ],
+        keywords: ['MIT OpenCourseWare Free Courses Computer Science Academics Univesity Courses'],
         links: {
             [website]: 'https://ocw.mit.edu',
             [youtube]: 'https://www.youtube.com/user/mit',
@@ -298,6 +296,16 @@ module.exports = [
             [website]: 'https://morrisjs.github.io/morris.js/',
         },
         icon: 'https://morrisjs.github.io/morris.js/favicon.ico',
+    },
+    {
+        name: 'Mouad Essalim',
+        categories: [community.personalWebsites],
+        description:
+            'Site Personnel de Mouad Essalim ! - WorkSpace - Publication de mes application réalisé avec Python, Compilation avec Cx_Freeze et Pyinstaller',
+        links: {
+            [website]: 'https://mouadessalim.xyz/',
+        },
+        icon: 'https://mouadessalim.xyz/wp-content/uploads/fbrfg/favicon-32x32.png',
     },
     {
         name: 'MyPerfectResume',
