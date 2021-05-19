@@ -2218,6 +2218,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://www.cloverly.com/carbon-offset-documentation"
+            },
+            "name": "Cloverly",
+            "description": "API calculates the impact of common carbon-intensive activities in real time",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Environment"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://code.gov"
             },
             "name": "Code.gov",
@@ -2610,10 +2624,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -2624,10 +2638,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -2645,6 +2659,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Health"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://api.covid19tracker.ca/docs/1.0/overview"
+            },
+            "name": "COVID-19 Tracker Canada",
+            "description": "Details on Covid-19 cases across Canada",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
             "apiCategory": "Health"
         },
         {
@@ -2996,6 +3024,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Text Analysis"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://devitjobs.uk/job_feed.xml"
+            },
+            "name": "DevITjobs UK",
+            "description": "Jobs with GraphQL",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Jobs"
         },
         {
             "categories": [
@@ -3478,11 +3520,25 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://exchangerate.host"
+            },
+            "name": "Exchangerate.host",
+            "description": "Free foreign exchange & crypto rates API",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Currency Exchange"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://exchangeratesapi.io"
             },
             "name": "Exchangeratesapi.io",
             "description": "Exchange rates with currency conversion",
-            "auth": "",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Currency Exchange"
@@ -5152,6 +5208,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://inspiration.goprogram.co.uk/docs/"
+            },
+            "name": "Inspiration",
+            "description": "Motivational and Inspirational quotes",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Personality"
         },
         {
             "categories": [
@@ -7048,20 +7118,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "name": "Numbers",
@@ -7069,6 +7125,20 @@ module.exports = {
             "auth": "",
             "https": false,
             "cors": "unknown",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Science & Math"
         },
         {
@@ -8266,6 +8336,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "http://goqr.me/api/"
+            },
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://fungenerators.com/api/qrcode/"
             },
             "name": "QR Code",
@@ -8287,20 +8371,6 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "http://goqr.me/api/"
-            },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -8400,6 +8470,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Personality"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://quran.api-docs.io/"
+            },
+            "name": "Quran",
+            "description": "RESTful Quran API with multiple languages",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Books"
         },
         {
             "categories": [
@@ -8792,6 +8876,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Video"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://rss-to-json-serverless-api.vercel.app"
+            },
+            "name": "RSS feed to JSON",
+            "description": "Returns RSS feed in JSON format using feed URL",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Development"
         },
         {
             "categories": [
@@ -9512,10 +9610,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.swapi.tech"
+                "Website": "https://swapi.dev/"
             },
             "name": "SWAPI",
-            "description": "All things Star Wars",
+            "description": "All the Star Wars data you've ever wanted",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -9526,10 +9624,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://swapi.dev/"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
+            "description": "All things Star Wars",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -10338,20 +10436,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Transportation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
@@ -10366,10 +10450,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "https://transport.opendata.ch/"
             },
-            "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
+            "name": "Transport for Switzerland",
+            "description": "Swiss public transport API",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -10386,6 +10470,20 @@ module.exports = {
             "description": "NS, only trains",
             "auth": "apiKey",
             "https": false,
+            "cors": "unknown",
+            "apiCategory": "Transportation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -11620,6 +11718,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Finance"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/beanboi7/yomomma-apiv2"
+            },
+            "name": "Yo Momma Jokes",
+            "description": "REST API for Yo Momma Jokes",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Personality"
         },
         {
             "categories": [
@@ -13107,6 +13219,21 @@ module.exports = {
             ],
             "links": {
                 "YouTube": "https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg"
+            },
+            "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
+        },
+        {
+            "name": "MIT OpenCourseWare",
+            "categories": [
+                "Programming/YouTube Channels"
+            ],
+            "description": "Whether you’re a student, a teacher, or simply a curious person that wants to learn, MIT OpenCourseWare (OCW) offers a wealth of insight and inspiration. There are videos, and a whole lot more!",
+            "keywords": [
+                "MIT OpenCourseWare Free Courses Computer Science Academics Univesity Courses"
+            ],
+            "links": {
+                "Website": "https://ocw.mit.edu",
+                "YouTube": "https://www.youtube.com/user/mit"
             },
             "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
         },
@@ -19052,17 +19179,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "Codepen radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-        },
-        {
             "name": "CodePen Radio",
             "categories": [
                 "Programming/Podcasts"
@@ -19072,6 +19188,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://blog.codepen.io/favicon.ico"
+        },
+        {
+            "name": "Codepen radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
         },
         {
             "name": "Commit Your Code!",
