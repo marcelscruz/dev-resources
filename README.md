@@ -6,7 +6,7 @@
 
  For information on using the public API, please see the [API usage guide](API_USAGE.md).
 
- ### Total resources: 1458
+ ### Total resources: 1461
 
  Join us on [Discord](https://discord.gg/SHw6TmXreR).
 
@@ -193,6 +193,7 @@
 |---|---|---|---|---|
  <img src="https://www.kevinpowell.co/favicon.ico" width="16" /> | Kevin Powell | Helping you learn how to make the web, and make it look good while you're at it. With videos every Tuesday and Thursday, I'll be bringing you How Tos and Tutorials, as well as simple tips and tricks, ... | [Website](https://www.kevinpowell.co/)<br />[CodePen](https://codepen.io/kevinpowell/)<br />[Discord](https://discord.gg/GaBdxcE)<br />[GitHub](https://github.com/kevin-powell)<br />[Twitch](https://twitch.com/kevinpowellcss)<br />[Twitter](https://twitter.com/kevinJPowell)<br />[YouTube](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) |  |
  <img src="https://markodenic.com/wp-content/themes/blog/favicon/favicon-32x32.png" width="16" /> | Marko Denic | Web Developer, Public speaker, IT trainer and consultant. | [Website](https://markodenic.com/)<br />[CodePen](https://codepen.io/denic)<br />[GitHub](https://github.com/markodenic)<br />[Instagram](https://www.instagram.com/markodenic1/)<br />[LinkedIn](https://www.linkedin.com/in/marko-denic-full-stack-developer/)<br />[Twitter](https://twitter.com/denicmarko)<br />[YouTube](https://www.youtube.com/channel/UCRgyPAKycnp_kkpny_uZBcQ) |  |
+ <img src="https://mouadessalim.xyz/wp-content/uploads/fbrfg/favicon-32x32.png" width="16" /> | Mouad Essalim | Site Personnel de Mouad Essalim ! - WorkSpace - Publication de mes application réalisé avec Python, Compilation avec Cx_Freeze et Pyinstaller | [Website](https://mouadessalim.xyz/) |  |
 
 **[⬆ Back to Index](#index)**
 ## <a name="indie-hacking">Indie Hacking</a> 
@@ -530,6 +531,7 @@
  <img src="https://csslayout.io/assets/favicon.png" width="16" /> | CSS Layout | A collection of popular layouts and patterns made with CSS | [Website](https://csslayout.io/) | CSS layout, CSS pattern, CSS UI pattern |
  <img src="https://css-tricks.com/apple-touch-icon.png" width="16" /> | CSS-Tricks | CSS-Tricks is a website about websites. | [Website](https://css-tricks.com) |  |
  <img src="https://cssbattle.dev/images/logo-square.png" width="16" /> | CSSBattle | CSS Code Golfing is Here! | [Website](https://cssbattle.dev/) |  |
+ <img src="https://domevents.dev/apple-touch-icon.454d8b40.png" width="16" /> | DOM Events | Learn how the DOM Event system works through exploration. | [Website](https://domevents.dev/) |  |
  <img src="https://www.easeout.co/favicon.ico" width="16" /> | EASEOUT | Coding tutorials about CSS, HTML, JavaScript, and articles about design creativity & modern web development technology. | [Website](https://www.easeout.co/) |  |
  <img src="https://epicreact.dev/icons/icon-96x96.png?v=4fc004c2d47bff97350bf9ba653e0bdd" width="16" /> | Epic React | Strap in and take your React applications to the next level. | [Website](https://epicreact.dev/) |  |
  <img src="https://codingfantasy.com/favicon.ico" width="16" /> | Flexbox Adventure | Flexbox layout has a lot of properties and nuances that are hard to remember, learn it in the fun and interesting way that works – a CSS RPG game! | [Website](https://codingfantasy.com/games/flexboxadventure) |  |
@@ -547,6 +549,7 @@
  <img src="https://javascript.info/img/favicon/apple-touch-icon-precomposed.png" width="16" /> | JavaScript Info | Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more. | [Website](https://javascript.info/) |  |
  <img src="https://javascript30.com/images/favion-JS3.png" width="16" /> | JavaScript30 | Build 30 things with vanilla JS in 30 days with 30 tutorials. | [Website](https://javascript30.com/) |  |
  <img src="https://cdn.kastatic.org/images/apple-touch-icon-72x72-precomposed.new.png" width="16" /> | Khan Academy | Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, wo... | [Website](https://www.khanacademy.org/) |  |
+ <img src="https://web.dev/images/favicon-32x32.png" width="16" /> | Learn CSS | An evergreen CSS course and reference to level up your web styling expertise. | [Website](https://web.dev/learn/css/) |  |
  <img src="https://www.learnenough.com/le/apple-touch-icon-precomposed.png" width="16" /> | Learn Enough to Be Dangerous | Learn Enough to Be Dangerous is designed to unleash your technical genius by teaching you technical sophistication. | [Website](https://www.learnenough.com/)<br />[Twitter](https://twitter.com/learnenough)<br />[YouTube](https://www.youtube.com/c/LearnEnough) |  |
  <img src="https://learnjavascript.online/assets/favicons/favicon-32x32.png" width="16" /> | Learn JavaScript | Learn JavaScript in an interactive environment. Read short lessons, take notes, and complete challenges directly in your browser. | [Website](https://learnjavascript.online) | learn javascript, learn javascript online, interactive course |
  <img src="https://learnxinyminutes.com/favicon.ico" width="16" /> | Learn X in Y minutes | Take a whirlwind tour of your next favorite language. Community-driven! | [Website](https://learnxinyminutes.com/) |  |
@@ -594,8 +597,8 @@
 |---|---|---|---|---|
  <img src="http://codewinds.com/assets/favicon-64.png" width="16" /> | Code Winds | CodeWinds - Leading edge live and online developer training - in-person, public or private classes, webinars, video courses, resources, tutorials for fullstack web developers. Featuring javascript, Re... | [Website](http://codewinds.com/podcast.html) | web, developer, training, fullstack, live classes, private classes, custom classes, webinars, screen... |
  <img src="https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png" width="16" /> | CodeNewbie | Stories from people on their coding journey. | [Website](https://www.codenewbie.org/podcast/) | careers, development, jobs |
- <img src="https://blog.codepen.io/favicon.ico" width="16" /> | CodePen Radio | A podcast all about what it's like running a small web software business. The good, the bad, and the ugly. | [Website](https://blog.codepen.io/radio/) |  |
  <img src="https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png" width="16" /> | Codepen radio | A podcast all about what it's like running a small web software business. The good, the bad, and the ugly. | [Website](https://blog.codepen.io/radio/) |  |
+ <img src="https://blog.codepen.io/favicon.ico" width="16" /> | CodePen Radio | A podcast all about what it's like running a small web software business. The good, the bad, and the ugly. | [Website](https://blog.codepen.io/radio/) |  |
  <img src="https://d12xoj7p9moygp.cloudfront.net/favicon/favicon-96x96.png" width="16" /> | Commit Your Code! | Commit Your Code is about motivating and inspiring developers of all levels to reach their goals in tech. We will be sharing stories and interviewing developers that have gone through this and made it... | [Website](https://anchor.fm/commityourcode) | podcast hosting, free podcast hosting, make a podcast, making a podcast, create a podcast, creating ... |
  <img src="https://spec.fm/static/meta/android-chrome-192x192.png" width="16" /> | Developer tea | A podcast for developers designed to fit inside your tea break | [Website](https://spec.fm/podcasts/developer-tea) |  |
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--t7tVouP9--/c_limit,f_png,fl_progressive,q_80,w_192/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" width="16" /> | DevNews | DevNews is the news show for developers by developers, hosted by Saron Yitbarek, founder of CodeNewbie, and DEV senior engineers Josh Puetz and Vaidehi Joshi. Each season these experienced devs cover ... | [Website](https://dev.to/devnews) | software development, engineering, rails, javascript, ruby |
