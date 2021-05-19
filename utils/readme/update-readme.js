@@ -14,6 +14,8 @@ const contributionGuide = 'For information on contributing, please see the [cont
 
 const usageGuide = 'For information on using the public API, please see the [API usage guide](API_USAGE.md).\n\n'
 
+const discordLink = 'Join us on [Discord](https://discord.gg/SHw6TmXreR).\n\n'
+
 const resourcesCount = `### Total resources: ${resourcesList.length}\n\n`
 
 async function updateReadme() {
@@ -23,7 +25,7 @@ async function updateReadme() {
         const tables = createTables(resourcesTree)
 
         await writeToFile({
-            data: `${logo} ${description} ${contributionGuide} ${usageGuide} ${resourcesCount} ${index} ${tables}`,
+            data: `${logo} ${description} ${contributionGuide} ${usageGuide} ${resourcesCount} ${discordLink} ${index} ${tables}`,
             filePath: './README.md',
         })
     } catch (error) {
