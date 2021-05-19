@@ -19,7 +19,7 @@
         "type": "git",
         "url": "git+https://github.com/marcelscruz/dev-resources.git"
     },
-    "license": "ISC",
+    "license": "MIT",
     "homepage": "https://github.com/marcelscruz/dev-resources#readme",
     "bugs": {
         "url": "https://github.com/marcelscruz/dev-resources/issues"

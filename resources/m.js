@@ -188,6 +188,20 @@ module.exports = [
         icon: 'https://www.microsoft.com/favicon.ico',
     },
     {
+        name: 'MIT OpenCourseWare',
+        categories: [programming.youtubeChannels],
+        description:
+            'Whether you’re a student, a teacher, or simply a curious person that wants to learn, MIT OpenCourseWare (OCW) offers a wealth of insight and inspiration. There are videos, and a whole lot more!',
+        keywords: [
+            'MIT OpenCourseWare Free Courses Computer Science Academics Univesity Courses'
+        ],
+        links: {
+            [website]: 'https://ocw.mit.edu',
+            [youtube]: 'https://www.youtube.com/user/mit',
+        },
+        icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
+    },
+    {
         name: 'Mobbin',
         categories: [uiDesign.inspiration],
         description:
