@@ -1,5 +1,5 @@
 const { assets, programming, community, toolsAndUtilities, indieHacking, jobs } = require('../constants/categories')
-const { website, youtube, github, twitter } = require('../constants/links')
+const { website, youtube, github, twitter, linkedin } = require('../constants/links')
 
 module.exports = [
     {
@@ -49,6 +49,18 @@ module.exports = [
             [website]: 'https://tailwindtoolbox.com/',
         },
         icon: 'https://tailwindtoolbox.com/favicon-32x32.png',
+    },
+    {
+        name: 'Tech Jobs For Good',
+        categories: [jobs.boards],
+        description:
+            'Tech Jobs for Good helps connect software engineers to jobs at organizations working on social and environmental issues.',
+        links: {
+            [website]: 'https://techjobsforgood.com/',
+            [twitter]: 'https://twitter.com/TechJobsforGood',
+            [linkedin]: 'https://www.linkedin.com/company/tech-jobs-for-good/',
+        },
+        icon: 'https://techjobsforgood.com/static/jobs/T_favicon.ico',
     },
     {
         name: 'TechCrunch',
@@ -137,6 +149,15 @@ module.exports = [
             [website]: 'https://testing-library.com/',
         },
         icon: 'https://testing-library.com/img/octopus-32x32.png',
+    },
+    {
+        name: 'Testing Playground',
+        categories: [programming.testing],
+        description: 'Simple and complete DOM testing playground that encourage good testing practices.',
+        links: {
+            [website]: 'https://testing-playground.com/',
+        },
+        icon: 'https://testing-playground.com/72-production.3633b358.png',
     },
     {
         name: 'TestingWhiz',
@@ -238,9 +259,7 @@ module.exports = [
             [website]: 'https://thisthat.dev/',
         },
         description: 'What is the difference between ___ and ___ in the front-end development?',
-        keywords: [
-            'CSS', 'DOM', 'HTML', 'JavaScript', 'React', 'TypeScript',
-        ],
+        keywords: ['CSS', 'DOM', 'HTML', 'JavaScript', 'React', 'TypeScript'],
         icon: 'https://thisthat.dev/assets/favicon.png',
     },
     {

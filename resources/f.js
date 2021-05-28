@@ -503,15 +503,21 @@ module.exports = [
         name: 'Frontend Tips',
         description: 'Tiny tips, tricks & best practices for front-end development',
         categories: [programming.learn],
-        keywords: [
-            'Front-end tips',
-            'Front-end tricks',
-            'Best front-end practices',
-        ],
+        keywords: ['Front-end tips', 'Front-end tricks', 'Best front-end practices'],
         links: {
             [website]: 'https://getfrontend.tips/',
         },
         icon: 'https://getfrontend.tips/img/favicon.png',
+    },
+    {
+        name: 'Frontend Toolkit',
+        categories: [toolsAndUtilities.general],
+        description:
+            'Frontend Toolkit is a customizable dashboard for your recurring Frontend tasks. Base64 encoder/decoder, SVG optimizations, SVG to JSX and many more!',
+        links: {
+            [website]: 'https://www.fetoolkit.io/',
+        },
+        icon: 'https://www.fetoolkit.io/assets/favicon-32x32.png',
     },
     {
         name: 'Frontendor',

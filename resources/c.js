@@ -174,10 +174,8 @@ module.exports = [
         name: 'Clerk.dev',
         categories: [toolsAndUtilities.auth],
         description:
-            "Clerk adds secure authentication and user management to your React or Next.js app. 🔒 Essential security features like 2 factor auth and device management. 📈 Conversion-optimized Sign Up and Sign In forms. 🎨 Built-in theming and open APIs for easy customization",
-        keywords: [
-            'react', 'next.js', 'auth',' user management', 'react auth', 'next.js auth', 'javascript auth'
-        ],
+            'Clerk adds secure authentication and user management to your React or Next.js app. 🔒 Essential security features like 2 factor auth and device management. 📈 Conversion-optimized Sign Up and Sign In forms. 🎨 Built-in theming and open APIs for easy customization',
+        keywords: ['react', 'next.js', 'auth', ' user management', 'react auth', 'next.js auth', 'javascript auth'],
         links: {
             [website]: 'https://clerk.dev',
         },
@@ -722,6 +720,16 @@ module.exports = [
             [website]: 'https://anchor.fm/commityourcode',
         },
         icon: 'https://d12xoj7p9moygp.cloudfront.net/favicon/favicon-96x96.png',
+    },
+    {
+        name: 'Community List',
+        categories: [indieHacking.marketing],
+        description:
+            'Finding relevant communities takes hours and manual googling sucks. With Community List, quickly find relevant communities with all the data you need in one place.',
+        links: {
+            [website]: 'https://getcommunitylist.com/',
+        },
+        icon: 'https://getcommunitylist.com/assets/images/favicon.png?v=1961bf32',
     },
     {
         name: 'Compare pixels',
