@@ -6,7 +6,7 @@
 
  For information on using the public API, please see the [API usage guide](API_USAGE.md).
 
- ### Total resources: 1475
+ ### Total resources: 1478
 
  Join us on [Discord](https://discord.gg/SHw6TmXreR).
 
@@ -210,6 +210,7 @@
 ### <a name="marketing"><a name="indie-hacking-marketing">Marketing</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
+ <img src="https://getcommunitylist.com/assets/images/favicon.png?v=1961bf32" width="16" /> | Community List | Finding relevant communities takes hours and manual googling sucks. With Community List, quickly find relevant communities with all the data you need in one place. | [Website](https://getcommunitylist.com/) |  |
  <img src="https://uploads-ssl.webflow.com/5f5b3208b507493089d50445/5fa0382a02da241b9adae56e_favicon-32x32.png" width="16" /> | Everyone Hates Marketers | It's the antidote to marketing bullshit. Receive a free, 8-lesson video course + a super practical, no-bullshit essay in your inbox every Tuesday. | [Website](https://www.everyonehatesmarketers.com/)<br />[Apple Podcasts](https://podcasts.apple.com/us/podcast/everyone-hates-marketers/id1221256195)<br />[Spotify](https://open.spotify.com/show/7iEF1qovZZiaP1iRtxGARo?si=ZrxDGNEnRzegia-NOgLn-Q)<br />[YouTube](https://www.youtube.com/channel/UCOeHlb7boJXbQLExb7_ia3w) |  |
  <img src="https://uploads-ssl.webflow.com/5e5918651c2c93508dd3bab8/5fae8f6c16320938da6c33f8_Webp.net-resizeimage%20(9).png" width="16" /> | Growth List | GrowthList is the go-to resource hub for tech-savvy marketers in fast-growing companies. Find hundred of Growth Hacks to boost your startup ! | [Website](https://www.thegrowthlist.co/) |  |
  <img src="https://uploads-ssl.webflow.com/5fe0663168984aa818b74ba5/5fe368f5753d1170023baf41_icon.png" width="16" /> | Orapa - Sales Templates | Categorized by industry, job title and department. So you can reach you dream customers faster. | [Website](https://www.orapa.co/data) |  |
@@ -335,6 +336,7 @@
  <img src="https://pythonjob.xyz/img/icons/favicon-32x32.png" width="16" /> | Python Developer Jobs | Find specific Python Developer Jobs, including Remote Jobs. You are looking for Python Developers? Submit your position for free. | [Website](https://pythonjob.xyz/) |  |
  <img src="https://reactjobsboard.com/images/apple-touch-icon.png" width="16" /> | ReactJobsBoard | ReactJobsBoard helps you find React & React Native jobs at startups & tech companies. Browse our daily updated job board and find great React & React Native jobs. Find and hire the most talented React... | [Website](https://reactjobsboard.com/) |  |
  <img src="https://startup.jobs/assets/favicons/favicon-512x512-77cbfb16810c6425a05f6194cd1df82682ec72f8bf6d9db41ab75e6edd397fc3.png" width="16" /> | Startup Jobs | Looking for a startup job? Apply to 10,000+ jobs at the fastest growing startups. Programming jobs, design jobs, marketing jobs, sales jobs, and more. | [Website](https://startup.jobs/) |  |
+ <img src="https://techjobsforgood.com/static/jobs/T_favicon.ico" width="16" /> | Tech Jobs For Good | Tech Jobs for Good helps connect software engineers to jobs at organizations working on social and environmental issues. | [Website](https://techjobsforgood.com/)<br />[LinkedIn](https://www.linkedin.com/company/tech-jobs-for-good/)<br />[Twitter](https://twitter.com/TechJobsforGood) |  |
  <img src="https://vuejobs.com/img/favicon/favicon-96x96.png" width="16" /> | VueJobs | Vue.js jobs is the best place to hire or get hired as Vue.js developer. Find Vue.js talent and reach to thousands of developers. | [Website](https://vuejobs.com/) |  |
 
 **[⬆ Back to Index](#index)**
@@ -666,6 +668,7 @@
  <img src="https://pptr.dev/favicons/favicon-32x32.png" width="16" /> | Puppeteer | Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headles... | [Website](https://pptr.dev/) |  |
  <img src="https://www.selenium.dev/favicon.ico" width="16" /> | Selenium | Selenium is a suite of tools for automating web browsers. | [Website](https://www.selenium.dev/) |  |
  <img src="https://testing-library.com/img/octopus-32x32.png" width="16" /> | Testing Library | Simple and complete testing utilities that encourage good testing practices. | [Website](https://testing-library.com/) |  |
+ <img src="https://testing-playground.com/72-production.3633b358.png" width="16" /> | Testing Playground | Simple and complete DOM testing playground that encourage good testing practices. | [Website](https://testing-playground.com/) |  |
  <img src="https://www.testing-whiz.com/favicon.ico" width="16" /> | TestingWhiz | Experience effective test automation of web & mobile apps with an easy & intuitive codeless end-to-end software testing tool, TestingWhiz. Download 30-days free trial. | [Website](https://www.testing-whiz.com/) |  |
  <img src="https://www.getxray.app/wp-content/themes/xpandit/dist/images/favicons/android-chrome-512x512.png" width="16" /> | Xray | The #1 Manual & Automated Testing App for Jira. Plan, Execute and Track your Quality Assurance with Requirements Traceability. | [Website](https://www.getxray.app/) |  |
 
@@ -877,6 +880,7 @@
  <img src="https://uploads-ssl.webflow.com/5ba4b3c973b5d218459f7e6f/5f33ce7fe8e7463f6c74c26f_checklist-web-image.png" width="16" /> | Checklist Design | Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets. | [Website](https://www.checklist.design/) |  |
  <img src="https://codekitapp.com/images/favicon-32.png?ckcachebust=627961015" width="16" /> | CodeKit | CodeKit is a Mac app that makes it easy to use modern web development tools like npm, Babel, Sass, JavaScript bundling, image optimization, and ESLint. | [Website](https://codekitapp.com/) |  |
  <img src="https://draculatheme.com/static/img/favicon.ico" width="16" /> | Dracula theme | Dracula is a color scheme for code editors and terminal emulators such as Vim, Notepad++, iTerm, VSCode, Terminal.app, ZSH, and much more. | [Website](https://draculatheme.com/) |  |
+ <img src="https://www.fetoolkit.io/assets/favicon-32x32.png" width="16" /> | Frontend Toolkit | Frontend Toolkit is a customizable dashboard for your recurring Frontend tasks. Base64 encoder/decoder, SVG optimizations, SVG to JSX and many more! | [Website](https://www.fetoolkit.io/) |  |
  <img src="https://getterms.io/img/apple-touch-icon-72x72.png" width="16" /> | GetTerms.io | Generate a simple Terms of Service and Privacy Policy statement for your website. | [Website](https://getterms.io/) |  |
  <img src="http://grid.guide/assets/favicons/favicon-96x96.png" width="16" /> | Grid.Guide | Create pixel perfect grids for the web. | [Website](http://grid.guide/) |  |
  <img src="https://opensource.builders/icons/icon-96x96.png?v=e7a352862c009ec6682391b2e58d6469" width="16" /> | Opensource.Builders | Find open-source alternatives to popular software. | [Website](https://opensource.builders/) |  |

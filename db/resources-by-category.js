@@ -1098,20 +1098,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.behance.net/dev"
-            },
-            "name": "Behance",
-            "description": "Design",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Art & Design"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://bestbuyapis.github.io/api-documentation/#overview"
             },
             "name": "Best Buy",
@@ -6908,7 +6894,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://api.abalin.net/"
+                "Website": "https://nameday.abalin.net"
             },
             "name": "Namedays Calendar",
             "description": "Provides namedays for multiple countries",
@@ -7196,6 +7182,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Finance"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://developers.notion.com/docs/getting-started"
+            },
+            "name": "Notion",
+            "description": "Integrate with Notion",
+            "auth": "OAuth",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Documents & Productivity"
         },
         {
             "categories": [
@@ -8504,20 +8504,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://qrtag.net/api/"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "name": "QR code",
@@ -8525,6 +8511,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://qrtag.net/api/"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Development"
         },
         {
@@ -8750,20 +8750,6 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Test Data"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://ratesapi.io"
-            },
-            "name": "ratesapi",
-            "description": "Free exchange rates and historical rates",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Currency Exchange"
         },
         {
             "categories": [
@@ -10660,12 +10646,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
             },
             "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
+            "description": "NS, only trains",
+            "auth": "apiKey",
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -10674,12 +10660,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
             "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
-            "auth": "apiKey",
-            "https": false,
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -14154,6 +14140,19 @@ module.exports = {
             "icon": "https://startup.jobs/assets/favicons/favicon-512x512-77cbfb16810c6425a05f6194cd1df82682ec72f8bf6d9db41ab75e6edd397fc3.png"
         },
         {
+            "name": "Tech Jobs For Good",
+            "categories": [
+                "Jobs/Boards"
+            ],
+            "description": "Tech Jobs for Good helps connect software engineers to jobs at organizations working on social and environmental issues.",
+            "links": {
+                "Website": "https://techjobsforgood.com/",
+                "Twitter": "https://twitter.com/TechJobsforGood",
+                "LinkedIn": "https://www.linkedin.com/company/tech-jobs-for-good/"
+            },
+            "icon": "https://techjobsforgood.com/static/jobs/T_favicon.ico"
+        },
+        {
             "name": "VueJobs",
             "categories": [
                 "Jobs/Boards"
@@ -14803,6 +14802,17 @@ module.exports = {
                 "Website": "https://draculatheme.com/"
             },
             "icon": "https://draculatheme.com/static/img/favicon.ico"
+        },
+        {
+            "name": "Frontend Toolkit",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "Frontend Toolkit is a customizable dashboard for your recurring Frontend tasks. Base64 encoder/decoder, SVG optimizations, SVG to JSX and many more!",
+            "links": {
+                "Website": "https://www.fetoolkit.io/"
+            },
+            "icon": "https://www.fetoolkit.io/assets/favicon-32x32.png"
         },
         {
             "name": "GetTerms.io",
@@ -18874,6 +18884,17 @@ module.exports = {
             "icon": "https://testing-library.com/img/octopus-32x32.png"
         },
         {
+            "name": "Testing Playground",
+            "categories": [
+                "Programming/Testing"
+            ],
+            "description": "Simple and complete DOM testing playground that encourage good testing practices.",
+            "links": {
+                "Website": "https://testing-playground.com/"
+            },
+            "icon": "https://testing-playground.com/72-production.3633b358.png"
+        },
+        {
             "name": "TestingWhiz",
             "categories": [
                 "Programming/Testing"
@@ -20035,6 +20056,89 @@ module.exports = {
             "icon": "https://www.xda-developers.com/favicon-32x32.png"
         }
     ],
+    "indie-hacking-marketing": [
+        {
+            "name": "Community List",
+            "categories": [
+                "Indie Hacking/Marketing"
+            ],
+            "description": "Finding relevant communities takes hours and manual googling sucks. With Community List, quickly find relevant communities with all the data you need in one place.",
+            "links": {
+                "Website": "https://getcommunitylist.com/"
+            },
+            "icon": "https://getcommunitylist.com/assets/images/favicon.png?v=1961bf32"
+        },
+        {
+            "name": "Everyone Hates Marketers",
+            "categories": [
+                "Indie Hacking/Marketing"
+            ],
+            "description": "It's the antidote to marketing bullshit. Receive a free, 8-lesson video course + a super practical, no-bullshit essay in your inbox every Tuesday.",
+            "links": {
+                "Website": "https://www.everyonehatesmarketers.com/",
+                "YouTube": "https://www.youtube.com/channel/UCOeHlb7boJXbQLExb7_ia3w",
+                "Apple Podcasts": "https://podcasts.apple.com/us/podcast/everyone-hates-marketers/id1221256195",
+                "Spotify": "https://open.spotify.com/show/7iEF1qovZZiaP1iRtxGARo?si=ZrxDGNEnRzegia-NOgLn-Q"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5f5b3208b507493089d50445/5fa0382a02da241b9adae56e_favicon-32x32.png"
+        },
+        {
+            "name": "Growth List",
+            "categories": [
+                "Indie Hacking/Marketing"
+            ],
+            "description": "GrowthList is the go-to resource hub for tech-savvy marketers in fast-growing companies. Find hundred of Growth Hacks to boost your startup !",
+            "links": {
+                "Website": "https://www.thegrowthlist.co/"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5e5918651c2c93508dd3bab8/5fae8f6c16320938da6c33f8_Webp.net-resizeimage%20(9).png"
+        },
+        {
+            "name": "Orapa - Sales Templates",
+            "categories": [
+                "Indie Hacking/Marketing"
+            ],
+            "description": "Categorized by industry, job title and department. So you can reach you dream customers faster.",
+            "links": {
+                "Website": "https://www.orapa.co/data"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5fe0663168984aa818b74ba5/5fe368f5753d1170023baf41_icon.png"
+        },
+        {
+            "name": "SaaSFrame",
+            "categories": [
+                "Indie Hacking/Utilities",
+                "Indie Hacking/Marketing"
+            ],
+            "description": "Browse hundreds of SaaS marketing pages, product interfaces and email flows. Get inspired by the design and copywriting patterns used by top-class SaaS companies.",
+            "links": {
+                "Website": "https://www.saasframe.io/"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5e9dc792e1210c2d5df7eba4/5eb80e9cf92b58597818939f_Webp.net-resizeimage%20(4).png"
+        },
+        {
+            "name": "Screenstab",
+            "categories": [
+                "Indie Hacking/Marketing"
+            ],
+            "description": "Turn ordinary screenshots into beautiful image assets in no time",
+            "links": {
+                "Website": "https://www.screenstab.com/"
+            },
+            "icon": ""
+        },
+        {
+            "name": "SpreadTheWorld",
+            "categories": [
+                "Indie Hacking/Marketing"
+            ],
+            "description": "SpreadTheWorld is a database of 400+ hand-curated places to promote your product and get your first users.",
+            "links": {
+                "Website": "https://spreadtheworld.net/"
+            },
+            "icon": "https://spreadtheworld.net/assets/images/apple-touch-icon.png"
+        }
+    ],
     "assets-images": [
         {
             "name": "Compressor",
@@ -20609,78 +20713,6 @@ module.exports = {
                 "Website": "https://designcode.io/ui-design-for-developers"
             },
             "icon": "https://designcode.io/icons/icon-96x96.png"
-        }
-    ],
-    "indie-hacking-marketing": [
-        {
-            "name": "Everyone Hates Marketers",
-            "categories": [
-                "Indie Hacking/Marketing"
-            ],
-            "description": "It's the antidote to marketing bullshit. Receive a free, 8-lesson video course + a super practical, no-bullshit essay in your inbox every Tuesday.",
-            "links": {
-                "Website": "https://www.everyonehatesmarketers.com/",
-                "YouTube": "https://www.youtube.com/channel/UCOeHlb7boJXbQLExb7_ia3w",
-                "Apple Podcasts": "https://podcasts.apple.com/us/podcast/everyone-hates-marketers/id1221256195",
-                "Spotify": "https://open.spotify.com/show/7iEF1qovZZiaP1iRtxGARo?si=ZrxDGNEnRzegia-NOgLn-Q"
-            },
-            "icon": "https://uploads-ssl.webflow.com/5f5b3208b507493089d50445/5fa0382a02da241b9adae56e_favicon-32x32.png"
-        },
-        {
-            "name": "Growth List",
-            "categories": [
-                "Indie Hacking/Marketing"
-            ],
-            "description": "GrowthList is the go-to resource hub for tech-savvy marketers in fast-growing companies. Find hundred of Growth Hacks to boost your startup !",
-            "links": {
-                "Website": "https://www.thegrowthlist.co/"
-            },
-            "icon": "https://uploads-ssl.webflow.com/5e5918651c2c93508dd3bab8/5fae8f6c16320938da6c33f8_Webp.net-resizeimage%20(9).png"
-        },
-        {
-            "name": "Orapa - Sales Templates",
-            "categories": [
-                "Indie Hacking/Marketing"
-            ],
-            "description": "Categorized by industry, job title and department. So you can reach you dream customers faster.",
-            "links": {
-                "Website": "https://www.orapa.co/data"
-            },
-            "icon": "https://uploads-ssl.webflow.com/5fe0663168984aa818b74ba5/5fe368f5753d1170023baf41_icon.png"
-        },
-        {
-            "name": "SaaSFrame",
-            "categories": [
-                "Indie Hacking/Utilities",
-                "Indie Hacking/Marketing"
-            ],
-            "description": "Browse hundreds of SaaS marketing pages, product interfaces and email flows. Get inspired by the design and copywriting patterns used by top-class SaaS companies.",
-            "links": {
-                "Website": "https://www.saasframe.io/"
-            },
-            "icon": "https://uploads-ssl.webflow.com/5e9dc792e1210c2d5df7eba4/5eb80e9cf92b58597818939f_Webp.net-resizeimage%20(4).png"
-        },
-        {
-            "name": "Screenstab",
-            "categories": [
-                "Indie Hacking/Marketing"
-            ],
-            "description": "Turn ordinary screenshots into beautiful image assets in no time",
-            "links": {
-                "Website": "https://www.screenstab.com/"
-            },
-            "icon": ""
-        },
-        {
-            "name": "SpreadTheWorld",
-            "categories": [
-                "Indie Hacking/Marketing"
-            ],
-            "description": "SpreadTheWorld is a database of 400+ hand-curated places to promote your product and get your first users.",
-            "links": {
-                "Website": "https://spreadtheworld.net/"
-            },
-            "icon": "https://spreadtheworld.net/assets/images/apple-touch-icon.png"
         }
     ],
     "programming-javascript-react": [
