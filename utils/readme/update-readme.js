@@ -25,7 +25,7 @@ async function updateReadme() {
         const tables = createTables(resourcesTree)
 
         await writeToFile({
-            data: `${logo} ${description} ${contributionGuide} ${usageGuide} ${resourcesCount} ${discordLink} ${index} ${tables}`,
+            data: `${logo} ${description} ${contributionGuide} ${usageGuide} ${discordLink} ${resourcesCount} ${index} ${tables}`,
             filePath: './README.md',
         })
     } catch (error) {
