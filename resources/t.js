@@ -253,6 +253,16 @@ module.exports = [
         icon: 'https://www.thenetninja.co.uk/favicon.ico',
     },
     {
+        name: 'Thirus',
+        categories: [programming.youtubeChannels],
+        description:
+            'Thirus (pronounced "thigh-rus") is an effort to bring hundreds of simple web development tips and tutorials together that you can consume regularly on your coding journey. I am Shruti Balasa - the owner of this channel. I\'m a Full Stack Web Developer, Mentor, Course Creator, Tech Speaker and now a Youtuber from Bangalore, India.',
+        links: {
+            [youtube]: 'https://www.youtube.com/channel/UCDQTzZ871T7uJpx9yeMPhAw',
+        },
+        icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
+    },
+    {
         name: 'This VS That',
         categories: [programming.learn],
         links: {

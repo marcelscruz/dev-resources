@@ -1,5 +1,5 @@
-const { programming, toolsAndUtilities, jobs, uiDesign, readingAndWriting } = require('../constants/categories')
-const { website, youtube } = require('../constants/links')
+const { programming, toolsAndUtilities, jobs, uiDesign, community } = require('../constants/categories')
+const { website, youtube, twitter, facebook, github } = require('../constants/links')
 
 module.exports = [
     {
@@ -258,5 +258,18 @@ module.exports = [
             [website]: 'https://writtyapp.com/',
         },
         icon: 'https://writtyapp.com/images/favicon.png',
+    },
+    {
+        name: 'wweb.dev',
+        categories: [community.blogsAndForums],
+        description:
+            'Stay up to date with weekly updates, get resources for your next projects abd read articles and tutorials about web development.',
+        links: {
+            [website]: 'https://wweb.dev/',
+            [twitter]: 'https://twitter.com/wweb_dev',
+            [facebook]: 'https://www.facebook.com/wweb.dev.blog',
+            [github]: 'https://github.com/wwebdev',
+        },
+        icon: 'https://wweb.dev/favicon.ico',
     },
 ]
