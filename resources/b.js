@@ -1,5 +1,5 @@
 const { toolsAndUtilities, uiDesign, programming, assets, indieHacking, jobs } = require('../constants/categories')
-const { website, youtube, twitter, facebook } = require('../constants/links')
+const { website, youtube, twitter, facebook, github } = require('../constants/links')
 
 module.exports = [
     {
@@ -82,6 +82,16 @@ module.exports = [
         icon: 'https://bergamot.io/favicon.ico',
     },
     {
+        name: 'Berry Free React Material Admin Template',
+        categories: [programming.templates],
+        description:
+            'Berry is a creative free react admin template build using the Material-UI. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptops.',
+        links: {
+            [github]: 'https://github.com/codedthemes/berry-free-react-admin-template/',
+        },
+        icon: 'https://github.com/favicon.ico',
+    },
+    {
         name: 'BetaList',
         categories: [indieHacking.platforms],
         description:
@@ -145,6 +155,16 @@ module.exports = [
             [website]: 'https://biteable.com/',
         },
         icon: 'https://biteable.com/favicon.ico',
+    },
+    {
+        name: 'Bitfumes',
+        categories: [programming.youtubeChannels],
+        description:
+            'Hey, Friends, I am a web developer and have knowledge of many languages. I made this channel to share my knowledge with you all and want to learn from you also.',
+        links: {
+            [youtube]: 'https://www.youtube.com/bitfumes',
+        },
+        icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
         name: 'Black Illustrations',
