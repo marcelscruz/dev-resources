@@ -524,6 +524,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://developer.accuweather.com/apis"
+            },
+            "name": "AccuWeather",
+            "description": "Weather and forecast data",
+            "auth": "apiKey",
+            "https": false,
+            "cors": "unknown",
+            "apiCategory": "Weather"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://adresse.data.gouv.fr"
             },
             "name": "adresse.data.gouv.fr",
@@ -2246,20 +2260,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/validate-api"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Data Validation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/phone-number-validation-API"
             },
             "name": "Cloudmersive Validate",
@@ -2268,6 +2268,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Phone"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/validate-api"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Data Validation"
         },
         {
             "categories": [
@@ -2982,6 +2996,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Health"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.datamuse.com/api/"
+            },
+            "name": "Datamuse",
+            "description": "Word-finding query engine",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Open Source Projects"
         },
         {
             "categories": [
@@ -5424,20 +5452,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
-            },
-            "name": "IP Location",
-            "description": "Find IP address location information",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Geocoding"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
@@ -5445,6 +5459,20 @@ module.exports = {
             "auth": "",
             "https": false,
             "cors": "unknown",
+            "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://ipapi.co/api/#introduction"
+            },
+            "name": "IP Location",
+            "description": "Find IP address location information",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Geocoding"
         },
         {
@@ -8560,11 +8588,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
+                "Website": "http://qrtag.net/api/"
             },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
+            "auth": "",
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
@@ -8574,11 +8602,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://qrtag.net/api/"
+                "Website": "https://fungenerators.com/api/qrcode/"
             },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "auth": "",
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
@@ -10688,12 +10716,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
             },
             "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
+            "description": "NS, only trains",
+            "auth": "apiKey",
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -10702,12 +10730,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
             "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
-            "auth": "apiKey",
-            "https": false,
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -10794,20 +10822,6 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Continuous Integration"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://trefle.io/"
-            },
-            "name": "Trefle",
-            "description": "Botanical data for plant species",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Science & Math"
         },
         {
             "categories": [
@@ -13285,6 +13299,17 @@ module.exports = {
             ],
             "links": {
                 "YouTube": "https://www.youtube.com/channel/UCTD_PLq3KAUwkIIs9fk3pAA"
+            },
+            "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
+        },
+        {
+            "name": "Bitfumes",
+            "categories": [
+                "Programming/YouTube Channels"
+            ],
+            "description": "Hey, Friends, I am a web developer and have knowledge of many languages. I made this channel to share my knowledge with you all and want to learn from you also.",
+            "links": {
+                "YouTube": "https://www.youtube.com/bitfumes"
             },
             "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
         },
@@ -17000,6 +17025,336 @@ module.exports = {
             "icon": "https://www.workingnomads.co/static/jobs/assets/favicon.ico"
         }
     ],
+    "programming-templates": [
+        {
+            "name": "Berry Free React Material Admin Template",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Berry is a creative free react admin template build using the Material-UI. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptops.",
+            "links": {
+                "GitHub": "https://github.com/codedthemes/berry-free-react-admin-template/"
+            },
+            "icon": "https://github.com/favicon.ico"
+        },
+        {
+            "name": "BootstrapMade",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "At BootstrapMade, we create beautiful website templates and bootstrap themes using Bootstrap, the most popular HTML, CSS and JavaScript framework.",
+            "keywords": [
+                "Bootstrap templates",
+                "Bootstrap themes",
+                "Bootstrap",
+                "Free Bootstrap Templates",
+                "Free Bootstrap Themes",
+                "Website Templates",
+                "Templates"
+            ],
+            "links": {
+                "Website": "https://bootstrapmade.com/"
+            },
+            "icon": "https://bootstrapmade.com/theme/img/apple-touch-icon.png"
+        },
+        {
+            "name": "BootstrapTaste",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "100+ Best Bootstrap templates and HTML Website Templates collections to build your website or app in 2020.",
+            "keywords": [
+                "Bootstrap themes",
+                "Bootstrap templates",
+                "Bootstrap",
+                "Free Bootstrap Templates",
+                "Website Templates",
+                "Templates"
+            ],
+            "links": {
+                "Website": "http://bootstraptaste.com/"
+            },
+            "icon": "https://bootstraptaste.com/assets/img/apple-touch-icon.png"
+        },
+        {
+            "name": "ByPeople",
+            "categories": [
+                "Programming/Templates",
+                "Assets/Illustrations",
+                "Assets/Fonts"
+            ],
+            "description": "ByPeople is a curated network of 10k ready-to-download resources for developers.",
+            "links": {
+                "Website": "https://www.bypeople.com/",
+                "Facebook": "https://www.facebook.com/ByPeopleTeam",
+                "Twitter": "https://twitter.com/bypeopleteam"
+            },
+            "icon": "https://www.bypeople.com/wp-content/themes/bppl-alpha/assets/images/v2/favicon-32x32.png"
+        },
+        {
+            "name": "Canva",
+            "categories": [
+                "UI Design/Color",
+                "Assets/Fonts",
+                "Programming/Templates"
+            ],
+            "description": "Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content. ",
+            "links": {
+                "Website": "https://www.canva.com/"
+            },
+            "icon": "https://www.canva.com/favicon.ico"
+        },
+        {
+            "name": "Colorlib",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Colorlib is the ONLY resource you'll need to start a blog using WordPress! We offer comprehensive yet easy to follow guides well suited for beginner bloggers.",
+            "links": {
+                "Website": "https://colorlib.com/"
+            },
+            "icon": "https://colorlib.com/wp/wp-content/uploads/sites/2/2014/05/ipad-colorlib.png"
+        },
+        {
+            "name": "CoreUI",
+            "categories": [
+                "Programming/Templates",
+                "Assets/Icons"
+            ],
+            "description": "Time is our most valuable asset, that’s why we want to help you save it by creating simple, customizable, easy to learn UI components and Admin Templates which significantly cut development time. CoreUI lets you save thousands of priceless hours because it offers everything you need to create modern, beautiful, and responsive applications.",
+            "links": {
+                "Website": "https://coreui.io/"
+            },
+            "icon": "https://coreui.io/images/favicons/favicon-96x96.png"
+        },
+        {
+            "name": "Cruip",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Cruip is a gallery of premium and free HTML, Vue.js and React landing page templates for startups and SaaS.",
+            "links": {
+                "Website": "https://cruip.com/"
+            },
+            "icon": "https://cruip.com/wp-content/themes/cruip/dist/images/favicon-96x96.png"
+        },
+        {
+            "name": "Divjoy",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "The React codebase generator. Divjoy handles all the integration details. From routing to React hooks, you'll have everything you need to build something great.",
+            "links": {
+                "Website": "https://divjoy.com/"
+            },
+            "icon": "https://divjoy.com/static/images/favicon/favicon-32x32.png"
+        },
+        {
+            "name": "Eleventy High Performance Blog",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "I'm excited to announce the beta-release of eleventy-high-performance-blog–a high-performance blog template for 11ty based on this very...",
+            "links": {
+                "Website": "https://www.industrialempathy.com/posts/eleventy-high-performance-blog/"
+            },
+            "icon": "https://www.industrialempathy.com/img/favicon/favicon-192x192.png?hash=2089033c93"
+        },
+        {
+            "name": "FreeHTML5",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Free website templates, free HTML5 templates using Bootstrap framework. High quality free website templates for all.",
+            "links": {
+                "Website": "https://freehtml5.co/"
+            },
+            "icon": "https://freehtml5.co/wp-content/uploads/2019/03/favicon-32x32.png"
+        },
+        {
+            "name": "Frontendor",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Reusable HTML templates and blocks to help you build beautiful and professional landing pages quickly and easily by COPY-PASTE.",
+            "links": {
+                "Website": "https://frontendor.com/"
+            },
+            "icon": "https://frontendor.com/preview/images/favicon/favicon-32x32.png"
+        },
+        {
+            "name": "GrayGrids",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Biggest Source of Free HTML Website Templates & Bootstrap Themes for Business, Landing Page, Admin Dashboards and Resume & Portfolio Websites.",
+            "links": {
+                "Website": "https://graygrids.com/"
+            },
+            "icon": "https://graygrids.com/wp-content/uploads/Group-1-2.png"
+        },
+        {
+            "name": "HTML5 UP",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Responsive HTML5 and CSS3 site templates designed by @ajlkn and released under the Creative Commons license.",
+            "keywords": [
+                "html5",
+                "css3",
+                "responsive",
+                "site template",
+                "website template"
+            ],
+            "links": {
+                "Website": "https://html5up.net/"
+            },
+            "icon": "https://html5up.net/assets/icons/apple-touch-icon-precomposed.png"
+        },
+        {
+            "name": "Inovatik",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "HTML templates designed to power up your online projects with responsive layout, included reusable images and simple licensing.",
+            "links": {
+                "Website": "https://inovatik.com/"
+            },
+            "icon": "https://inovatik.com/images/favicon.png"
+        },
+        {
+            "name": "Mobirise",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Drag and drop website builder. Create awesome responsive websites. Easy & fast - No coding! 2500+ Templates. Free for commercial use.",
+            "links": {
+                "Website": "https://mobirise.com/"
+            },
+            "icon": "https://mobirise.com/assets5/images/logo.png"
+        },
+        {
+            "name": "Start Bootstrap",
+            "categories": [
+                "Programming/Templates",
+                "Programming/Code Snippets"
+            ],
+            "description": "Trusted by tens of millions of users worldwide since 2013, Start Bootstrap develops website themes, templates, snippets, and more to help you get started on your next project!",
+            "links": {
+                "Website": "https://startbootstrap.com/snippets/"
+            },
+            "icon": "https://assets.startbootstrap.com/img/icons/favicon-32x32.png"
+        },
+        {
+            "name": "StyleShout",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Browse our collection of premium-like high-quality free website templates. Beautifully handcrafted designs. The best free website templates you can download.",
+            "links": {
+                "Website": "https://www.styleshout.com/"
+            },
+            "icon": "https://www.styleshout.com/favicon-32x32.png"
+        },
+        {
+            "name": "Tailwind Toolbox",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Open source starter templates and components, a directory of handy building kits, generators, plugins and useful tools to kick start your Tailwind CSS project.",
+            "links": {
+                "Website": "https://tailwindtoolbox.com/"
+            },
+            "icon": "https://tailwindtoolbox.com/favicon-32x32.png"
+        },
+        {
+            "name": "Templated",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "A collection of 867 Creative Commons-licensed CSS, HTML5 and Responsive site templates created by Cherry, Doni, AJ, and co.",
+            "keywords": [
+                "templates",
+                "site templates",
+                "website templates",
+                "freebies",
+                "html5",
+                "css",
+                "responsive",
+                "creative commons"
+            ],
+            "links": {
+                "Website": "https://templated.co/"
+            },
+            "icon": "https://templated.co/assets/icons/apple-touch-icon-precomposed.png"
+        },
+        {
+            "name": "TemplateMo",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Download 548+ free HTML CSS website templates that included 140+ responsive Bootstrap themes from templatemo and use them for your sites.",
+            "links": {
+                "Website": "https://templatemo.com/"
+            },
+            "icon": "https://templatemo.com/favicon.ico"
+        },
+        {
+            "name": "Tooplate",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Download free HTML CSS website templates from Tooplate and use them for any purpose. Our templates are easy to modify and use for any website.",
+            "links": {
+                "Website": "https://www.tooplate.com/"
+            },
+            "icon": "https://www.tooplate.com/favicon.ico"
+        },
+        {
+            "name": "uiCookies",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "UiCookies is dent of free bootstrap templates developed by experienced frontend designer & developers. Before buying premium HTML5 template, give drive here.",
+            "links": {
+                "Website": "https://uicookies.com/"
+            },
+            "icon": "https://uicookies.com/wp-content/uploads/2017/08/cropped-favicon-32x32.png"
+        },
+        {
+            "name": "UIdeck",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Free HTML Landing Page Templates Based on Bootstrap Framework for - Business, Startups, SaaS, Personal, and Pretty Much Any Web Projects.",
+            "links": {
+                "Website": "https://uideck.com/"
+            },
+            "icon": "https://uideck.com/wp-content/uploads/2018/12/cropped-uideck-150x150.png"
+        },
+        {
+            "name": "W3Layouts",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "W3layouts is an online store to download website templates for all types of businesses.",
+            "links": {
+                "Website": "https://w3layouts.com/"
+            },
+            "icon": "https://w3lcdn.w3layouts.com/wp-content/uploads/2020/11/cropped-w3layouts-logo-512-32x32.png"
+        },
+        {
+            "name": "Zerotheme",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Html5 Website Templates designed by #Mik. Free download all templates at Zerotheme : responsive templates, bootstrap themes, ecommerce themes, ...",
+            "links": {
+                "Website": "https://www.zerotheme.com/"
+            },
+            "icon": "https://www.zerotheme.com/wp-content/uploads/2018/03/logo-zerotheme2-60x60.png"
+        }
+    ],
     "indie-hacking-platforms": [
         {
             "name": "BetaList",
@@ -18391,325 +18746,6 @@ module.exports = {
                 "Website": "https://www.visiwig.com/"
             },
             "icon": "https://www.visiwig.com/favicon-32x32.png"
-        }
-    ],
-    "programming-templates": [
-        {
-            "name": "BootstrapMade",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "At BootstrapMade, we create beautiful website templates and bootstrap themes using Bootstrap, the most popular HTML, CSS and JavaScript framework.",
-            "keywords": [
-                "Bootstrap templates",
-                "Bootstrap themes",
-                "Bootstrap",
-                "Free Bootstrap Templates",
-                "Free Bootstrap Themes",
-                "Website Templates",
-                "Templates"
-            ],
-            "links": {
-                "Website": "https://bootstrapmade.com/"
-            },
-            "icon": "https://bootstrapmade.com/theme/img/apple-touch-icon.png"
-        },
-        {
-            "name": "BootstrapTaste",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "100+ Best Bootstrap templates and HTML Website Templates collections to build your website or app in 2020.",
-            "keywords": [
-                "Bootstrap themes",
-                "Bootstrap templates",
-                "Bootstrap",
-                "Free Bootstrap Templates",
-                "Website Templates",
-                "Templates"
-            ],
-            "links": {
-                "Website": "http://bootstraptaste.com/"
-            },
-            "icon": "https://bootstraptaste.com/assets/img/apple-touch-icon.png"
-        },
-        {
-            "name": "ByPeople",
-            "categories": [
-                "Programming/Templates",
-                "Assets/Illustrations",
-                "Assets/Fonts"
-            ],
-            "description": "ByPeople is a curated network of 10k ready-to-download resources for developers.",
-            "links": {
-                "Website": "https://www.bypeople.com/",
-                "Facebook": "https://www.facebook.com/ByPeopleTeam",
-                "Twitter": "https://twitter.com/bypeopleteam"
-            },
-            "icon": "https://www.bypeople.com/wp-content/themes/bppl-alpha/assets/images/v2/favicon-32x32.png"
-        },
-        {
-            "name": "Canva",
-            "categories": [
-                "UI Design/Color",
-                "Assets/Fonts",
-                "Programming/Templates"
-            ],
-            "description": "Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content. ",
-            "links": {
-                "Website": "https://www.canva.com/"
-            },
-            "icon": "https://www.canva.com/favicon.ico"
-        },
-        {
-            "name": "Colorlib",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "Colorlib is the ONLY resource you'll need to start a blog using WordPress! We offer comprehensive yet easy to follow guides well suited for beginner bloggers.",
-            "links": {
-                "Website": "https://colorlib.com/"
-            },
-            "icon": "https://colorlib.com/wp/wp-content/uploads/sites/2/2014/05/ipad-colorlib.png"
-        },
-        {
-            "name": "CoreUI",
-            "categories": [
-                "Programming/Templates",
-                "Assets/Icons"
-            ],
-            "description": "Time is our most valuable asset, that’s why we want to help you save it by creating simple, customizable, easy to learn UI components and Admin Templates which significantly cut development time. CoreUI lets you save thousands of priceless hours because it offers everything you need to create modern, beautiful, and responsive applications.",
-            "links": {
-                "Website": "https://coreui.io/"
-            },
-            "icon": "https://coreui.io/images/favicons/favicon-96x96.png"
-        },
-        {
-            "name": "Cruip",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "Cruip is a gallery of premium and free HTML, Vue.js and React landing page templates for startups and SaaS.",
-            "links": {
-                "Website": "https://cruip.com/"
-            },
-            "icon": "https://cruip.com/wp-content/themes/cruip/dist/images/favicon-96x96.png"
-        },
-        {
-            "name": "Divjoy",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "The React codebase generator. Divjoy handles all the integration details. From routing to React hooks, you'll have everything you need to build something great.",
-            "links": {
-                "Website": "https://divjoy.com/"
-            },
-            "icon": "https://divjoy.com/static/images/favicon/favicon-32x32.png"
-        },
-        {
-            "name": "Eleventy High Performance Blog",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "I'm excited to announce the beta-release of eleventy-high-performance-blog–a high-performance blog template for 11ty based on this very...",
-            "links": {
-                "Website": "https://www.industrialempathy.com/posts/eleventy-high-performance-blog/"
-            },
-            "icon": "https://www.industrialempathy.com/img/favicon/favicon-192x192.png?hash=2089033c93"
-        },
-        {
-            "name": "FreeHTML5",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "Free website templates, free HTML5 templates using Bootstrap framework. High quality free website templates for all.",
-            "links": {
-                "Website": "https://freehtml5.co/"
-            },
-            "icon": "https://freehtml5.co/wp-content/uploads/2019/03/favicon-32x32.png"
-        },
-        {
-            "name": "Frontendor",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "Reusable HTML templates and blocks to help you build beautiful and professional landing pages quickly and easily by COPY-PASTE.",
-            "links": {
-                "Website": "https://frontendor.com/"
-            },
-            "icon": "https://frontendor.com/preview/images/favicon/favicon-32x32.png"
-        },
-        {
-            "name": "GrayGrids",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "Biggest Source of Free HTML Website Templates & Bootstrap Themes for Business, Landing Page, Admin Dashboards and Resume & Portfolio Websites.",
-            "links": {
-                "Website": "https://graygrids.com/"
-            },
-            "icon": "https://graygrids.com/wp-content/uploads/Group-1-2.png"
-        },
-        {
-            "name": "HTML5 UP",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "Responsive HTML5 and CSS3 site templates designed by @ajlkn and released under the Creative Commons license.",
-            "keywords": [
-                "html5",
-                "css3",
-                "responsive",
-                "site template",
-                "website template"
-            ],
-            "links": {
-                "Website": "https://html5up.net/"
-            },
-            "icon": "https://html5up.net/assets/icons/apple-touch-icon-precomposed.png"
-        },
-        {
-            "name": "Inovatik",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "HTML templates designed to power up your online projects with responsive layout, included reusable images and simple licensing.",
-            "links": {
-                "Website": "https://inovatik.com/"
-            },
-            "icon": "https://inovatik.com/images/favicon.png"
-        },
-        {
-            "name": "Mobirise",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "Drag and drop website builder. Create awesome responsive websites. Easy & fast - No coding! 2500+ Templates. Free for commercial use.",
-            "links": {
-                "Website": "https://mobirise.com/"
-            },
-            "icon": "https://mobirise.com/assets5/images/logo.png"
-        },
-        {
-            "name": "Start Bootstrap",
-            "categories": [
-                "Programming/Templates",
-                "Programming/Code Snippets"
-            ],
-            "description": "Trusted by tens of millions of users worldwide since 2013, Start Bootstrap develops website themes, templates, snippets, and more to help you get started on your next project!",
-            "links": {
-                "Website": "https://startbootstrap.com/snippets/"
-            },
-            "icon": "https://assets.startbootstrap.com/img/icons/favicon-32x32.png"
-        },
-        {
-            "name": "StyleShout",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "Browse our collection of premium-like high-quality free website templates. Beautifully handcrafted designs. The best free website templates you can download.",
-            "links": {
-                "Website": "https://www.styleshout.com/"
-            },
-            "icon": "https://www.styleshout.com/favicon-32x32.png"
-        },
-        {
-            "name": "Tailwind Toolbox",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "Open source starter templates and components, a directory of handy building kits, generators, plugins and useful tools to kick start your Tailwind CSS project.",
-            "links": {
-                "Website": "https://tailwindtoolbox.com/"
-            },
-            "icon": "https://tailwindtoolbox.com/favicon-32x32.png"
-        },
-        {
-            "name": "Templated",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "A collection of 867 Creative Commons-licensed CSS, HTML5 and Responsive site templates created by Cherry, Doni, AJ, and co.",
-            "keywords": [
-                "templates",
-                "site templates",
-                "website templates",
-                "freebies",
-                "html5",
-                "css",
-                "responsive",
-                "creative commons"
-            ],
-            "links": {
-                "Website": "https://templated.co/"
-            },
-            "icon": "https://templated.co/assets/icons/apple-touch-icon-precomposed.png"
-        },
-        {
-            "name": "TemplateMo",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "Download 548+ free HTML CSS website templates that included 140+ responsive Bootstrap themes from templatemo and use them for your sites.",
-            "links": {
-                "Website": "https://templatemo.com/"
-            },
-            "icon": "https://templatemo.com/favicon.ico"
-        },
-        {
-            "name": "Tooplate",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "Download free HTML CSS website templates from Tooplate and use them for any purpose. Our templates are easy to modify and use for any website.",
-            "links": {
-                "Website": "https://www.tooplate.com/"
-            },
-            "icon": "https://www.tooplate.com/favicon.ico"
-        },
-        {
-            "name": "uiCookies",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "UiCookies is dent of free bootstrap templates developed by experienced frontend designer & developers. Before buying premium HTML5 template, give drive here.",
-            "links": {
-                "Website": "https://uicookies.com/"
-            },
-            "icon": "https://uicookies.com/wp-content/uploads/2017/08/cropped-favicon-32x32.png"
-        },
-        {
-            "name": "UIdeck",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "Free HTML Landing Page Templates Based on Bootstrap Framework for - Business, Startups, SaaS, Personal, and Pretty Much Any Web Projects.",
-            "links": {
-                "Website": "https://uideck.com/"
-            },
-            "icon": "https://uideck.com/wp-content/uploads/2018/12/cropped-uideck-150x150.png"
-        },
-        {
-            "name": "W3Layouts",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "W3layouts is an online store to download website templates for all types of businesses.",
-            "links": {
-                "Website": "https://w3layouts.com/"
-            },
-            "icon": "https://w3lcdn.w3layouts.com/wp-content/uploads/2020/11/cropped-w3layouts-logo-512-32x32.png"
-        },
-        {
-            "name": "Zerotheme",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "Html5 Website Templates designed by #Mik. Free download all templates at Zerotheme : responsive templates, bootstrap themes, ecommerce themes, ...",
-            "links": {
-                "Website": "https://www.zerotheme.com/"
-            },
-            "icon": "https://www.zerotheme.com/wp-content/uploads/2018/03/logo-zerotheme2-60x60.png"
         }
     ],
     "indie-hacking-podcasts": [
