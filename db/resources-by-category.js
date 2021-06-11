@@ -762,6 +762,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "http://acnhapi.com/"
+            },
+            "name": "Animal Crossing: New Horizons",
+            "description": "API for critters, fossils, art, music, furniture and villagers",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Games & Comics"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://github.com/RocktimSaikia/anime-chan"
             },
             "name": "AnimeChan",
@@ -944,6 +958,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://arxiv.org/help/api/user-manual"
+            },
+            "name": "arXiv",
+            "description": "Curated research-sharing platform: physics, mathematics, quantitative finance, and economics",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://developer.ap.org/"
             },
             "name": "Associated Press",
@@ -994,6 +1022,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.aviationweather.gov/dataserver"
+            },
+            "name": "AviationWeather",
+            "description": "NOAA aviation weather forecasts and observations",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Weather"
         },
         {
             "categories": [
@@ -1159,6 +1201,20 @@ module.exports = {
             "name": "Bhagavad Gita",
             "description": "Bhagavad Gita text",
             "auth": "OAuth",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Books"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://docs.bhagavadgitaapi.in"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -2694,10 +2750,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -2708,10 +2764,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -2828,6 +2884,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Cryptocurrency"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/fawazahmed0/currency-api#readme"
+            },
+            "name": "Currency-api",
+            "description": "Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Currency Exchange"
         },
         {
             "categories": [
@@ -3506,6 +3576,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://github.com/polarspetroll/EscapeAPI"
+            },
+            "name": "Escape",
+            "description": "An API for escaping different kind of queries",
+            "auth": "",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Security"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://www.etsy.com/developers/documentation/getting_started/api_basics"
             },
             "name": "Etsy",
@@ -3594,7 +3678,7 @@ module.exports = {
             },
             "name": "ExchangeRate-API",
             "description": "Free currency conversion",
-            "auth": "",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Currency Exchange"
@@ -4508,20 +4592,6 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://jobs.github.com/api"
-            },
-            "name": "GitHub Jobs",
-            "description": "Jobs for software developers",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Jobs"
         },
         {
             "categories": [
@@ -5452,20 +5522,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
-            },
-            "name": "IP Location",
-            "description": "Find location with ip address",
-            "auth": "",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Geocoding"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
@@ -5473,6 +5529,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://ip-api.com/docs"
+            },
+            "name": "IP Location",
+            "description": "Find location with ip address",
+            "auth": "",
+            "https": false,
+            "cors": "unknown",
             "apiCategory": "Geocoding"
         },
         {
@@ -6460,20 +6530,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://strains.evanbusse.com/"
-            },
-            "name": "Marijuana Strains",
-            "description": "Marijuana strains, races, flavors and effects",
-            "auth": "apiKey",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Open Data"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://www.markerapi.com/"
             },
             "name": "markerapi",
@@ -7210,6 +7266,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Weather"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://nomics.com/docs/"
+            },
+            "name": "Nomics",
+            "description": "Historical and realtime cryptocurrency prices and market data",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Cryptocurrency"
         },
         {
             "categories": [
@@ -8126,6 +8196,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://php-noise.com/"
+            },
+            "name": "PHP-Noise",
+            "description": "Noise Background Image Generator",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Art & Design"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "http://developer.picatic.com/?utm_medium=web&utm_source=github&utm_campaign=public-apis%20repo&utm_content=toddmotto"
             },
             "name": "Picatic",
@@ -8462,6 +8546,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://psychonauts-api.netlify.app/"
+            },
+            "name": "Psychonauts",
+            "description": "Psychonauts World Characters Information and PSI Powers",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Games & Comics"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://github.com/davemachado/public-api"
             },
             "name": "Public APIs",
@@ -8560,27 +8658,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://pyschonauts-api.netlify.app/"
+                "Website": "https://fungenerators.com/api/qrcode/"
             },
-            "name": "Pyschonauts",
-            "description": "Pyschonauts World Characters Information and PSI Powers",
-            "auth": "",
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
-            "apiCategory": "Games & Comics"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "http://goqr.me/api/"
-            },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -8602,13 +8686,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
+                "Website": "http://goqr.me/api/"
             },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
+            "auth": "",
             "https": true,
-            "cors": "yes",
+            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -8718,6 +8802,20 @@ module.exports = {
             },
             "name": "Quran",
             "description": "RESTful Quran API with multiple languages",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Books"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/fawazahmed0/quran-api#readme"
+            },
+            "name": "Quran-api",
+            "description": "Free Quran API Service with 90+ different languages and 400+ translations",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -9512,20 +9610,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://vedicscriptures.github.io/"
-            },
-            "name": "Shrimad Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Books"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://shrtco.de/docs"
             },
             "name": "Shrtcode",
@@ -9576,6 +9660,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Vehicle"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://smartsheet-platform.github.io/api-docs/"
+            },
+            "name": "Smartsheet",
+            "description": "Allows you to programmatically access and Smartsheet data and account information",
+            "auth": "OAuth",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Business"
         },
         {
             "categories": [
@@ -9862,10 +9960,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://swapi.dev/"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
+            "description": "All things Star Wars",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -9876,10 +9974,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.swapi.tech"
+                "Website": "https://swapi.dev/"
             },
             "name": "SWAPI",
-            "description": "All things Star Wars",
+            "description": "All the Star Wars data you've ever wanted",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -10716,12 +10814,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
             "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
-            "auth": "apiKey",
-            "https": false,
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -10730,12 +10828,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
             },
             "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
+            "description": "NS, only trains",
+            "auth": "apiKey",
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -11872,6 +11970,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Machine Learning"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://wolnelektury.pl/api/"
+            },
+            "name": "Wolne Lektury",
+            "description": "API for obtaining information about e-books available on the WolneLektury.pl website",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Books"
         },
         {
             "categories": [
