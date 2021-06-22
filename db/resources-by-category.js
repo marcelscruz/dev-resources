@@ -19607,11 +19607,11 @@ module.exports = {
             "icon": "https://developer.mozilla.org/static/img/favicon72.cc65d1d762a0.png"
         }
     ],
-    "tools-utilities-auth": [
+    "infrastructure-auth": [
         {
             "name": "Clerk.dev",
             "categories": [
-                "Tools & Utilities/Auth"
+                "Infrastructure/Auth"
             ],
             "description": "Clerk adds secure authentication and user management to your React or Next.js app. 🔒 Essential security features like 2 factor auth and device management. 📈 Conversion-optimized Sign Up and Sign In forms. 🎨 Built-in theming and open APIs for easy customization",
             "keywords": [
