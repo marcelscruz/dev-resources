@@ -157,6 +157,15 @@ module.exports = [
         icon: 'https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png',
     },
     {
+        name: 'redditors for hire',
+        categories: [jobs.boards, jobs.freelancing],
+        description: 'Find employers and employees on Reddit.',
+        links: {
+            [website]: 'https://www.reddit.com/r/forhire/',
+        },
+        icon: 'https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png',
+    },
+    {
         name: 'Refactoring UI',
         categories: [uiDesign.learn],
         description:

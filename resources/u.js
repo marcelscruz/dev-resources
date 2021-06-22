@@ -194,6 +194,16 @@ module.exports = [
         icon: 'https://untools.co/icons/icon-96x96.png?v=48b6eb2cd872327651861e831bd90577',
     },
     {
+        name: 'Upto.Site',
+        categories: [toolsAndUtilities.general],
+        description: 'Upto.Site is the ultimate url shortener which can be used to create instant FREE short urls.',
+        keywords: ['url shortener', 'link', 'link shortener', 'link shortener api'],
+        links: {
+            [website]: 'https://upto.site',
+        },
+        icon: 'https://upto.site/favicon.png',
+    },
+    {
         name: 'UpLabs',
         categories: [assets.illustrations, assets.icons],
         description: 'UpLabs curates the best of design & development inspiration, resources and freebies. Every day!',
