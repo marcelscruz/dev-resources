@@ -27,6 +27,7 @@ module.exports = {
     },
 
     infrastructure: {
+        auth: 'Infrastructure/Auth',
         databases: 'Infrastructure/Databases',
         hosting: 'Infrastructure/Hosting',
         serverless: 'Infrastructure/Serverless',
@@ -66,7 +67,6 @@ module.exports = {
         accessibility: 'Tools & Utilities/Accessibility',
         analytics: 'Tools & Utilities/Analytics',
         apiBuilding: 'Tools & Utilities/API Building',
-        auth: 'Tools & Utilities/Auth',
         browsersAndExtensions: 'Tools & Utilities/Browsers & Extensions',
         commandLine: 'Tools & Utilities/Command Line',
         domains: 'Tools & Utilities/Domains',
