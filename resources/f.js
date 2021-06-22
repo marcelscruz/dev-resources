@@ -58,7 +58,7 @@ module.exports = [
     },
     {
         name: 'Firebase',
-        categories: [infrastructure.hosting, infrastructure.databases, infrastructure.serverless],
+        categories: [infrastructure.hosting, infrastructure.databases, infrastructure.serverless, infrastructure.auth],
         description:
             'Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.',
         links: {
