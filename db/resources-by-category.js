@@ -1196,11 +1196,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
+                "Website": "https://bhagavadgita.io/api"
             },
             "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "auth": "apiKey",
+            "description": "Bhagavad Gita text",
+            "auth": "OAuth",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -1210,11 +1210,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://bhagavadgita.io/api"
+                "Website": "https://docs.bhagavadgitaapi.in"
             },
             "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "auth": "OAuth",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -1784,20 +1784,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://docs.score.getcarro.com/"
-            },
-            "name": "Carro Score",
-            "description": "Social Media Influence Rating",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Social"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://github.com/M-Media-Group/Cartes.io/wiki/API"
             },
             "name": "Cartes.io",
@@ -2064,6 +2050,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://github.com/polarspetroll/ciprand"
+            },
+            "name": "Ciprand",
+            "description": "Secure random string generator",
+            "auth": "",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://circleci.com/docs/api/v1-reference/"
             },
             "name": "CircleCI",
@@ -2316,20 +2316,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/phone-number-validation-API"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate international phone numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Phone"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/validate-api"
             },
             "name": "Cloudmersive Validate",
@@ -2338,6 +2324,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Data Validation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/phone-number-validation-API"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate international phone numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Phone"
         },
         {
             "categories": [
@@ -2764,10 +2764,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -2778,10 +2778,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -5438,7 +5438,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://inspiration.goprogram.co.uk/docs/"
+                "Website": "https://inspiration.goprogram.ai/docs/"
             },
             "name": "Inspiration",
             "description": "Motivational and Inspirational quotes",
@@ -6908,6 +6908,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://apisetu.gov.in/public/api/transportmh"
+            },
+            "name": "Motor Vehicle Department, Maharashtra, India",
+            "description": "Driving License (DL) and Vehicle Registration Certificate (RC) of the State Maharashtra of India",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Vehicle"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://github.com/movebank/movebank-api-doc"
             },
             "name": "Movebank",
@@ -7300,20 +7314,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/gadael/icsdb"
-            },
-            "name": "Non-Working Days",
-            "description": "Database of ICS files for non working days",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Calendar"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://isdayoff.ru"
             },
             "name": "Non-Working Days",
@@ -7321,6 +7321,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Calendar"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/gadael/icsdb"
+            },
+            "name": "Non-Working Days",
+            "description": "Database of ICS files for non working days",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
             "apiCategory": "Calendar"
         },
         {
@@ -8672,13 +8686,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://goqr.me/api/"
+                "Website": "http://qrtag.net/api/"
             },
             "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
+            "description": "Create an easy to read QR code and URL shortener",
             "auth": "",
             "https": true,
-            "cors": "unknown",
+            "cors": "yes",
             "apiCategory": "Development"
         },
         {
@@ -8700,13 +8714,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://qrtag.net/api/"
+                "Website": "http://goqr.me/api/"
             },
             "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
+            "description": "Generate and decode / read QR code graphics",
             "auth": "",
             "https": true,
-            "cors": "yes",
+            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -9988,10 +10002,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://swapi.dev/"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
+            "description": "All things Star Wars",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -10002,10 +10016,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.swapi.tech"
+                "Website": "https://swapi.dev/"
             },
             "name": "SWAPI",
-            "description": "All things Star Wars",
+            "description": "All the Star Wars data you've ever wanted",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -10814,11 +10828,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -10828,11 +10842,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -12847,6 +12861,18 @@ module.exports = {
             "icon": "https://www.peopleperhour.com/img/pph-mobile-banner.png"
         },
         {
+            "name": "redditors for hire",
+            "categories": [
+                "Jobs/Boards",
+                "Jobs/Freelancing"
+            ],
+            "description": "Find employers and employees on Reddit.",
+            "links": {
+                "Website": "https://www.reddit.com/r/forhire/"
+            },
+            "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
+        },
+        {
             "name": "Toptal",
             "categories": [
                 "Jobs/Freelancing"
@@ -14361,6 +14387,18 @@ module.exports = {
             "icon": "https://reactjobsboard.com/images/apple-touch-icon.png"
         },
         {
+            "name": "redditors for hire",
+            "categories": [
+                "Jobs/Boards",
+                "Jobs/Freelancing"
+            ],
+            "description": "Find employers and employees on Reddit.",
+            "links": {
+                "Website": "https://www.reddit.com/r/forhire/"
+            },
+            "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
+        },
+        {
             "name": "Startup Jobs",
             "categories": [
                 "Jobs/Boards"
@@ -15189,6 +15227,23 @@ module.exports = {
                 "Website": "https://untools.co/"
             },
             "icon": "https://untools.co/icons/icon-96x96.png?v=48b6eb2cd872327651861e831bd90577"
+        },
+        {
+            "name": "Upto.Site",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "Upto.Site is the ultimate url shortener which can be used to create instant FREE short urls.",
+            "keywords": [
+                "url shortener",
+                "link",
+                "link shortener",
+                "link shortener api"
+            ],
+            "links": {
+                "Website": "https://upto.site"
+            },
+            "icon": "https://upto.site/favicon.png"
         },
         {
             "name": "Use The Keyboard",
@@ -19661,17 +19716,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "Codepen radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-        },
-        {
             "name": "CodePen Radio",
             "categories": [
                 "Programming/Podcasts"
@@ -19681,6 +19725,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://blog.codepen.io/favicon.ico"
+        },
+        {
+            "name": "Codepen radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
         },
         {
             "name": "Commit Your Code!",
