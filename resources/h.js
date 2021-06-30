@@ -128,6 +128,15 @@ module.exports = [
         icon: 'https://www.herokucdn.com/favicon.ico',
     },
     {
+        name: 'Hey Meta',
+        categories: [toolsAndUtilities.seo],
+        description: 'Check and improve how search engines and social media websites see and display your website.',
+        links: {
+            [website]: 'https://www.heymeta.com/',
+        },
+        icon: 'https://www.heymeta.com/favicon-32x32.png',
+    },
+    {
         name: 'High Compress',
         categories: [assets.images],
         description:

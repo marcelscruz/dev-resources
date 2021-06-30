@@ -98,6 +98,14 @@ module.exports = [
         icon: 'https://cheatography.com/images/cheatography-iphone.png',
     },
     {
+        name: 'Cheat Sheet Maker',
+        categories: [programming.docsAndCheatsheets],
+        description: 'Create and share cheat sheets to study and work with cheat sheet maker.',
+        links: {
+            [website]: 'https://cheatsheetmaker.com/',
+        },
+    },
+    {
         name: 'Check My Links',
         categories: [toolsAndUtilities.browsersAndExtensions],
         description: 'Check My Links is a link checker that crawls through your webpage and looks for broken links.',
