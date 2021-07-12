@@ -270,7 +270,7 @@ module.exports = [
     },
     {
         name: 'AWS',
-        categories: [infrastructure.hosting],
+        categories: [infrastructure.hosting, infrastructure.cloudComputing],
         description:
             'Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use.',
         links: {

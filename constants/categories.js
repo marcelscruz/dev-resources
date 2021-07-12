@@ -28,6 +28,7 @@ module.exports = {
 
     infrastructure: {
         auth: 'Infrastructure/Auth',
+        cloudComputing: 'Infrastructure/Cloud Computing',
         databases: 'Infrastructure/Databases',
         hosting: 'Infrastructure/Hosting',
         serverless: 'Infrastructure/Serverless',

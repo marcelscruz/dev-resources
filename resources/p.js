@@ -7,7 +7,7 @@ const {
     indieHacking,
     infrastructure,
 } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, twitter, youtube, linkedin, facebook } = require('../constants/links')
 
 module.exports = [
     {
@@ -39,6 +39,20 @@ module.exports = [
             [website]: 'https://paw.cloud/',
         },
         icon: 'https://cdn-static.paw.cloud/img/favicons/favicon-96x96-f769fad588.png',
+    },
+    {
+        name: 'pCloudy',
+        categories: [programming.testing],
+        description:
+            'Continuous testing platform that helps to speed up the app testing by enabling end to end continuous testing for enterprises.',
+        links: {
+            [website]: 'https://www.pcloudy.com/',
+            [twitter]: 'https://twitter.com/pcloudy_ssts',
+            [youtube]: 'https://www.youtube.com/c/pcloudy',
+            [linkedin]: 'https://www.linkedin.com/company/pcloudy-com/',
+            [facebook]: 'https://www.facebook.com/pcloudydotcom',
+        },
+        icon: 'https://www.pcloudy.com/favicon.ico',
     },
     {
         name: 'PeoplePerHour',

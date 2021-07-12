@@ -6,6 +6,7 @@ const {
     jobs,
     assets,
     community,
+    infrastructure,
 } = require('../constants/categories')
 const { website, youtube, gumroad, github, twitter } = require('../constants/links')
 
@@ -262,6 +263,16 @@ module.exports = [
             [website]: 'https://www.linkedin.com/learning',
         },
         icon: 'https://static-exp1.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico',
+    },
+    {
+        name: 'Linode',
+        categories: [infrastructure.cloudComputing],
+        description:
+            "Simplify your infrastructure with Linode's cloud computing and hosting solutions and develop, deploy, and scale faster and easier.",
+        links: {
+            [website]: 'https://www.linode.com/',
+        },
+        icon: 'https://www.linode.com/favicon.ico',
     },
     {
         name: 'Lobsters',
