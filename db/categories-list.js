@@ -14,6 +14,7 @@ module.exports = [
     "indie-hacking-podcasts",
     "indie-hacking-utilities",
     "infrastructure-auth",
+    "infrastructure-cloud-computing",
     "infrastructure-databases",
     "infrastructure-hosting",
     "infrastructure-serverless",
