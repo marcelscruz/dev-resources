@@ -21,7 +21,15 @@ module.exports = [
             [website]: 'https://10fastfingers.com/',
         },
         icon: 'https://10fastfingers.com/favicon.ico',
-        keywords: ['typing', 'typing test', 'typing game', 'touch typing', 'fastest fingers', '10 fast fingers', 'typing competition'],
+        keywords: [
+            'typing',
+            'typing test',
+            'typing game',
+            'touch typing',
+            'fastest fingers',
+            '10 fast fingers',
+            'typing competition',
+        ],
     },
     {
         name: '18F Accessibility Guide',
@@ -35,16 +43,8 @@ module.exports = [
     {
         name: '1LOC',
         description: 'Favorite JavaScript Utilities in single line of code! No more!',
-        categories: [
-            programming.codeSnippets,
-            programming.javascript.utilities,
-        ],
-        keywords: [
-            'JavaScript',
-            'JavaScript Utilities',
-            'one-liner',
-            'one-liner javascript',
-        ],
+        categories: [programming.codeSnippets, programming.javascript.utilities],
+        keywords: ['JavaScript', 'JavaScript Utilities', 'one-liner', 'one-liner javascript'],
         links: {
             [website]: 'https://1loc.dev/',
         },
@@ -62,8 +62,7 @@ module.exports = [
     {
         name: '4 day week',
         categories: [jobs.boards],
-        description:
-            'Software jobs with a better work / life balance.',
+        description: 'Software jobs with a better work / life balance.',
         links: {
             [website]: 'https://4dayweek.io/',
         },
