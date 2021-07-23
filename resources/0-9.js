@@ -60,6 +60,16 @@ module.exports = [
         icon: 'https://www.30secondsofcode.org/icons/icon-96x96.png?v=bd273ecf29b2666f8d7669cf855707df',
     },
     {
+        name: '4 day week',
+        categories: [jobs.boards],
+        description:
+            'Software jobs with a better work / life balance.',
+        links: {
+            [website]: 'https://4dayweek.io/',
+        },
+        icon: 'https://4dayweek.io/static/media/favicon.png',
+    },
+    {
         name: '99designs',
         categories: [jobs.freelancing],
         description:
