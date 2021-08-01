@@ -65,6 +65,19 @@ module.exports = [
             'https://global-uploads.webflow.com/5e5365d233730913f7f9ed7e/5e5f3c6497dc35f79b48cd07_Flexiple%20favicon%20(32x32).png',
     },
     {
+        name: 'Scotch',
+        categories: [programming.learn],
+        description: 'Fun and practical web development. Not just how, but why.',
+        links: {
+            [website]: 'https://www.scotch.io/',
+            [github]: 'https://github.com/scotch-io',
+            [twitter]: 'https://twitter.com/scotch_io',
+            [facebook]: 'https://www.facebook.com/scotchdevelopment/',
+        },
+        icon: 'https://scotch.io/favicon-32x32.png',
+        keywords: ['development', 'frontend', 'javascript', 'react', 'vue'],
+    },
+    {
         name: 'ScrapingBee',
         categories: [toolsAndUtilities.webScraping],
         description:

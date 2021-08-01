@@ -51,6 +51,18 @@ module.exports = [
         icon: 'https://tailwindtoolbox.com/favicon-32x32.png',
     },
     {
+        name: 'Tech Interview Pro',
+        categories: [jobs.interviews],
+        description:
+            'Learn the secrets to getting a software engineering job at a big tech company. Using years of industry experience, I have condensed my knowledge to the material that is most important for passing the coding interview and landing your dream tech job.',
+        links: {
+            [website]: 'https://www.techseries.dev/',
+        },
+        icon:
+            'https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/sites/59001/images/QuFIBNIRSwmZ1ZXkLmSQ_favicon.png?v=2',
+        keywords: ['algorithms', 'data structures'],
+    },
+    {
         name: 'Tech Jobs For Good',
         categories: [jobs.boards],
         description:

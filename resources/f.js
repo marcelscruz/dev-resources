@@ -489,6 +489,7 @@ module.exports = [
             [website]: 'https://www.frontendmentor.io/',
         },
         icon: 'https://www.frontendmentor.io/static/favicon/favicon-32x32.png',
+        keywords: ['frontend', 'html', 'css', 'flexbox', 'grid', 'rwd', 'mobile-first', 'javascript'],
     },
     {
         name: 'Frontend Practice',
