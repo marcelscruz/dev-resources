@@ -545,6 +545,16 @@ module.exports = [
         icon: 'https://www.codewars.com/favicon.ico',
     },
     {
+        name: 'Codewell',
+        categories: [programming.learn],
+        description: 'Improve your HTML and CSS skills by practicing on real world design templates.',
+        links: {
+            [website]: 'https://www.codewell.cc/',
+        },
+        icon: 'https://www.codewell.cc/favicon.ico',
+        keywords: ['frontend', 'html', 'css', 'flexbox', 'grid', 'javascript'],
+    },
+    {
         name: 'Coding Tech',
         categories: [programming.youtubeChannels],
         description:
