@@ -241,7 +241,7 @@ module.exports = [
     },
     {
         name: 'Bootstrap 5 Cheatsheet',
-        categories: [Docs and Cheatsheets],
+        categories: [programming.docsAndCheatsheets],
         description:
             'An interactive list of Bootstrap 5 classes, variables, and mixins. It also helps you easily find the differences between Bootstrap 4 and Bootstrap 5.',
         keywords: [
