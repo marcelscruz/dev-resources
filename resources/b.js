@@ -240,6 +240,23 @@ module.exports = [
         icon: 'https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png',
     },
     {
+        name: 'Bootstrap 5 Cheatsheet',
+        categories: [programming.docsAndCheatsheets],
+        description:
+            'An interactive list of Bootstrap 5 classes, variables, and mixins. It also helps you easily find the differences between Bootstrap 4 and Bootstrap 5.',
+        keywords: [
+            'Bootstrap',
+            'Bootstrap cheatsheet',
+            'Bootstrap 5',
+            'Free cheatsheet',
+            'Opensource',
+        ],
+        links: {
+            [website]: 'https://bootstrap-cheatsheet.themeselection.com/',
+        },
+        icon: 'https://themeselection.com/wp-content/uploads/2018/07/favicon.ico',
+    },
+    {
         name: 'BootstrapMade',
         categories: [programming.templates],
         description:

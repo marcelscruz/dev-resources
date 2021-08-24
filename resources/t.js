@@ -181,6 +181,20 @@ module.exports = [
         },
         icon: 'https://www.testing-whiz.com/favicon.ico',
     },
+     {
+        name: 'Themeselection',
+        categories: [programming.templates],
+        description:
+            ' Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster.',
+        keywords: ['HTML', 'css', 'Admin template', 'bootstrap', 'Vuejs admin templates', 'UI kits', 'Freebies'],
+        links: {
+            [website]: 'https://themeselection.com/',
+            [github]: 'https://github.com/themeselection',
+            [twitter]: 'https://twitter.com/Theme_Selection',
+            [youtube]: 'https://www.youtube.com/channel/UCuryo5s0CW4aP83itLjIdZg/featured',
+        },
+        icon: 'https://themeselection.com/wp-content/uploads/2018/07/favicon.ico',
+    },
     {
         name: 'The A11Y Project',
         categories: [toolsAndUtilities.accessibility],
