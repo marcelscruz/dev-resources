@@ -720,6 +720,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://aletheiaapi.com/"
+            },
+            "name": "Aletheia",
+            "description": "Insider trading data, earnings call analysis, financial statements, and more",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Finance"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://otx.alienvault.com/api"
             },
             "name": "AlienVault Open Threat Exchange (OTX)",
@@ -854,6 +868,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Anime"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://anonfiles.com/docs/api"
+            },
+            "name": "AnonFiles",
+            "description": "Upload and share your files anonymously",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Cloud Storage & File Sharing"
         },
         {
             "categories": [
@@ -1336,6 +1364,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://www.cbr.ru/development/SXML/"
+            },
+            "name": "Bank of Russia",
+            "description": "Exchange rates and currency conversion",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Currency Exchange"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://github.com/bartervg/barter.vg/wiki"
             },
             "name": "Barter.VG",
@@ -1371,6 +1413,34 @@ module.exports = {
             "auth": "apiKey",
             "https": false,
             "cors": "unknown",
+            "apiCategory": "Transportation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://bayfiles.com/docs/api"
+            },
+            "name": "BayFiles",
+            "description": "Upload and share your files",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Cloud Storage & File Sharing"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.bcferriesapi.ca"
+            },
+            "name": "BC Ferries",
+            "description": "Sailing times and capacities for BC Ferries",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Transportation"
         },
         {
@@ -1434,7 +1504,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://bibleapi.co/"
+                "Website": "https://bibleapi.co/en"
             },
             "name": "Bible",
             "description": "RESTful Bible API with 7 versions, 4 languages and multiple features",
@@ -1456,20 +1526,6 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://www.bikewise.org/documentation/api_v2"
-            },
-            "name": "BikeWise",
-            "description": "Bikewise is a place to learn about and report bike crashes, hazards and thefts",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Sports & Fitness"
         },
         {
             "categories": [
@@ -1756,6 +1812,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://github.com/fingerprintjs/botd"
+            },
+            "name": "botd",
+            "description": "Botd is a browser library for JavaScript bot detection",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Security"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://developer.box.com/"
             },
             "name": "Box",
@@ -1764,20 +1834,6 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Cloud Storage & File Sharing"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://developers.bratabase.com/"
-            },
-            "name": "Bratabase",
-            "description": "Database of different types of Bra Sizes",
-            "auth": "OAuth",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Shopping"
         },
         {
             "categories": [
@@ -1918,6 +1974,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Social"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.bugsnaxapi.com/"
+            },
+            "name": "Bugsnax",
+            "description": "Get information about Bugsnax",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Games & Comics"
         },
         {
             "categories": [
@@ -2330,20 +2400,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://data.beta.grandlyon.com/fr/accueil"
-            },
-            "name": "City, Lyon Opendata",
-            "description": "Lyon(FR) City Open Data",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Government"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://data.nantesmetropole.fr/pages/home/"
             },
             "name": "City, Nantes Opendata",
@@ -2554,20 +2610,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/phone-number-validation-API"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate international phone numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Phone"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/validate-api"
             },
             "name": "Cloudmersive Validate",
@@ -2576,6 +2618,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Data Validation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/phone-number-validation-API"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate international phone numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Phone"
         },
         {
             "categories": [
@@ -3142,6 +3198,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://www.cryptotradingapi.io/"
+            },
+            "name": "CryptoTradingAPI",
+            "description": "Crypto Prices & Technical Indicators",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Cryptocurrency"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://github.com/fawazahmed0/currency-api#readme"
             },
             "name": "Currency-api",
@@ -3262,20 +3332,6 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Video"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://blog.mugenmonkey.com/2017/09/10/ds3-api.html"
-            },
-            "name": "Dark Souls 3",
-            "description": "Information about Dark Souls 3 Items",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Games & Comics"
         },
         {
             "categories": [
@@ -3590,6 +3646,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://api.doge-meme.lol/docs"
+            },
+            "name": "Doge-Meme",
+            "description": "Top meme posts from r/dogecoin which include 'Meme' flair",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Social"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://dog.ceo/dog-api/"
             },
             "name": "Dogs",
@@ -3682,20 +3752,6 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Open Source Projects"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "http://api.duma.gov.ru"
-            },
-            "name": "duma.gov.ru",
-            "description": "Russian State Duma Open Data",
-            "auth": "apiKey",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Government"
         },
         {
             "categories": [
@@ -3828,11 +3884,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://erosnow.com/developers/api/"
+                "Website": "https://pwaproxy.erosnow.com/api/v2/catalog/playlists-all?img_quality=1&location=3&page=121&resp=basic&new=true&start=2&content_limit=10&rows=5&optimized=true&progress=all&watchlist=all&country=US"
             },
             "name": "ErosNow",
             "description": "API for Bollywood films and many more",
-            "auth": "OAuth",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Video"
@@ -4139,11 +4195,11 @@ module.exports = {
                 "Website": "https://www.file.io"
             },
             "name": "File.io",
-            "description": "File Sharing",
+            "description": "Super simple file sharing, convenient, anonymous and secure",
             "auth": "",
             "https": true,
             "cors": "unknown",
-            "apiCategory": "Documents & Productivity"
+            "apiCategory": "Cloud Storage & File Sharing"
         },
         {
             "categories": [
@@ -4214,6 +4270,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Jobs"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://dev.fingerprintjs.com/docs"
+            },
+            "name": "FingerprintJS Pro",
+            "description": "Fraud detection API offering highly accurate browser fingerprinting",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Security"
         },
         {
             "categories": [
@@ -5256,20 +5326,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.potterapi.com/"
-            },
-            "name": "Harry Potter",
-            "description": "Harry Potter API",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Video"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://github.com/harvardartmuseums/api-docs"
             },
             "name": "Harvard Art Museums",
@@ -5488,20 +5544,6 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Animals"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://hubblesite.org/api/documentation/"
-            },
-            "name": "hubblesite",
-            "description": "Space Telescope News Releases",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Science & Math"
         },
         {
             "categories": [
@@ -5914,20 +5956,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ip-api.com/docs"
-            },
-            "name": "IP Location",
-            "description": "Find location with ip address",
-            "auth": "",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Geocoding"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://ipapi.co/api/#introduction"
             },
             "name": "IP Location",
@@ -5935,6 +5963,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://ip-api.com/docs"
+            },
+            "name": "IP Location",
+            "description": "Find location with ip address",
+            "auth": "",
+            "https": false,
+            "cors": "unknown",
             "apiCategory": "Geocoding"
         },
         {
@@ -6253,7 +6295,7 @@ module.exports = {
                 "Website": "https://github.com/cyberboysumanjay/JioSaavnAPI"
             },
             "name": "JioSaavn",
-            "description": "API to retrive song information, album meta data and many more from JioSaavn",
+            "description": "API to retrieve song information, album meta data and many more from JioSaavn",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -6726,20 +6768,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://litelink.ml/"
-            },
-            "name": "LiteLink",
-            "description": "Simple URL Shortener",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "URL Shorteners"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://lob.com/"
             },
             "name": "Lob.com",
@@ -6748,20 +6776,6 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Data Validation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://docs.localizr.xyz"
-            },
-            "name": "Localizr",
-            "description": "Get a list of countries,currencies or locales translated from a locale/language code",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Geocoding"
         },
         {
             "categories": [
@@ -7314,6 +7328,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://mono.co/"
+            },
+            "name": "Mono",
+            "description": "Connect with users’ bank accounts and access transaction data in Africa",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Finance"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://apisetu.gov.in/public/api/transportmh"
             },
             "name": "Motor Vehicle Department, Maharashtra, India",
@@ -7636,7 +7664,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://newton.now.sh/"
+                "Website": "https://newton.vercel.app"
             },
             "name": "Newton",
             "description": "Symbolic and Arithmetic Math Calculator",
@@ -7832,20 +7860,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://numbersapi.com"
-            },
-            "name": "Numbers",
-            "description": "Facts about numbers",
-            "auth": "",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://math.tools/api/numbers/"
             },
             "name": "Numbers",
@@ -7860,14 +7874,14 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://numvalidate.com"
+                "Website": "http://numbersapi.com"
             },
-            "name": "NumValidate",
-            "description": "Open Source phone number validation",
+            "name": "Numbers",
+            "description": "Facts about numbers",
             "auth": "",
-            "https": true,
+            "https": false,
             "cors": "unknown",
-            "apiCategory": "Phone"
+            "apiCategory": "Science & Math"
         },
         {
             "categories": [
@@ -8187,6 +8201,20 @@ module.exports = {
             "name": "Open Government, Romania",
             "description": "Romania Government Open Data",
             "auth": "",
+            "https": false,
+            "cors": "unknown",
+            "apiCategory": "Government"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://data.gov.ru/?language=en"
+            },
+            "name": "Open Government, Russia",
+            "description": "Open Data Portal Russia",
+            "auth": "apiKey",
             "https": false,
             "cors": "unknown",
             "apiCategory": "Government"
@@ -8868,20 +8896,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://pubgtracker.com/site-api"
-            },
-            "name": "PlayerUnknown's Battlegrounds",
-            "description": "PUBG Stats",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Games & Comics"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://pm25.lass-net.org/#apis"
             },
             "name": "PM2.5 Open Data Portal",
@@ -9204,20 +9218,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://goqr.me/api/"
-            },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://qrtag.net/api/"
             },
             "name": "QR code",
@@ -9239,6 +9239,20 @@ module.exports = {
             "auth": "apiKey",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://goqr.me/api/"
+            },
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -9442,6 +9456,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://random-d.uk/api"
+            },
+            "name": "RandomDuck",
+            "description": "Random pictures of ducks",
+            "auth": "",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Animals"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://randomfox.ca/floof/"
             },
             "name": "RandomFox",
@@ -9526,20 +9554,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://www.recipepuppy.com/about/api/"
-            },
-            "name": "Recipe Puppy",
-            "description": "Food",
-            "auth": "",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Food & Drink"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://ridb.recreation.gov/"
             },
             "name": "Recreation Information Database",
@@ -9610,20 +9624,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://reqres.in"
-            },
-            "name": "Reqres",
-            "description": "Generates random user data",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Test Data"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://reqres.in/ "
             },
             "name": "ReqRes",
@@ -9666,7 +9666,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://restcountries.eu"
+                "Website": "https://restcountries.com"
             },
             "name": "REST Countries",
             "description": "Get information about countries via a RESTful API",
@@ -10240,7 +10240,7 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://smartsheet-platform.github.io/api-docs/"
+                "Website": "https://smartsheet.redoc.ly/"
             },
             "name": "Smartsheet",
             "description": "Allows you to programmatically access and Smartsheet data and account information",
@@ -10248,6 +10248,20 @@ module.exports = {
             "https": true,
             "cors": "no",
             "apiCategory": "Business"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://dev.socrata.com/"
+            },
+            "name": "Socrata",
+            "description": "Access to Open Data from Governments, Non-profits and NGOs around the world",
+            "auth": "OAuth",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Open Data"
         },
         {
             "categories": [
@@ -10380,6 +10394,34 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://developers.decathlon.com/products/sport-places"
+            },
+            "name": "Sport Places",
+            "description": "Crowd-source sports places around the world",
+            "auth": "",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Sports & Fitness"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://developers.decathlon.com/products/sport-vision"
+            },
+            "name": "Sport Vision",
+            "description": "Identify sport, brands and gear in an image. Also does image sports captioning",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Sports & Fitness"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://beta.developer.spotify.com/documentation/web-api/"
             },
             "name": "Spotify",
@@ -10450,11 +10492,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+                "Website": "https://steamapi.xpaw.me/"
             },
             "name": "Steam",
-            "description": "Internal Steam Web API documentation",
-            "auth": "",
+            "description": "Steam Web API documentation",
+            "auth": "apiKey",
             "https": true,
             "cors": "no",
             "apiCategory": "Games & Comics"
@@ -10464,11 +10506,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://steamapi.xpaw.me/"
+                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
             },
             "name": "Steam",
-            "description": "Steam Web API documentation",
-            "auth": "apiKey",
+            "description": "Internal Steam Web API documentation",
+            "auth": "",
             "https": true,
             "cors": "no",
             "apiCategory": "Games & Comics"
@@ -10688,6 +10730,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://creativecommons.tankerkoenig.de/swagger/"
+            },
+            "name": "Tankerkoenig",
+            "description": "German realtime gas/diesel prices",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Transportation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://tastedive.com/read/api"
             },
             "name": "TasteDive",
@@ -10898,20 +10954,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://therainery.com/documentation/"
-            },
-            "name": "TheRainery",
-            "description": "Forecast models from meteorological institutes",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "no",
-            "apiCategory": "Weather"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://www.thesportsdb.com/api.php"
             },
             "name": "TheSportsDB",
@@ -10948,6 +10990,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Test Data"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://thronesapi.com/"
+            },
+            "name": "ThronesApi",
+            "description": "Game Of Thrones Characters Data with imagery",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Video"
         },
         {
             "categories": [
@@ -11564,6 +11620,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Continuous Integration"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.tredict.com/blog/oauth_docs/"
+            },
+            "name": "Tredict",
+            "description": "Get and set activities, health data and more",
+            "auth": "OAuth",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Sports & Fitness"
         },
         {
             "categories": [
@@ -12340,20 +12410,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://developer.walmartlabs.com/docs"
-            },
-            "name": "Wal-Mart",
-            "description": "Item price and availability",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Shopping"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://wallhaven.cc/help/api"
             },
             "name": "Wallhaven",
@@ -12438,6 +12494,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://web3.storage/"
+            },
+            "name": "Web3 Storage",
+            "description": "File Sharing and Storage for Free with 1TB Space",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Cloud Storage & File Sharing"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://webscraping.ai/"
             },
             "name": "WebScraping.AI",
@@ -12494,20 +12564,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://soruly.github.io/trace.moe/"
-            },
-            "name": "What Anime",
-            "description": "Scan anime image to get specific detail",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Anime"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://nypl.github.io/menus-api/"
             },
             "name": "What's on the menu?",
@@ -12530,20 +12586,6 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Tracking"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://developer.whereismytransport.com/"
-            },
-            "name": "WhereIsMyTransport",
-            "description": "Platform for public transport data in emerging cities",
-            "auth": "OAuth",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Transportation"
         },
         {
             "categories": [
@@ -12670,6 +12712,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Cryptocurrency"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/chubin/wttr.in"
+            },
+            "name": "wttr",
+            "description": ":partly_sunny: The right way to check the weather",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Weather"
         },
         {
             "categories": [
@@ -18184,6 +18240,29 @@ module.exports = {
             "icon": "https://templatemo.com/favicon.ico"
         },
         {
+            "name": "Themeselection",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": " Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster.",
+            "keywords": [
+                "HTML",
+                "css",
+                "Admin template",
+                "bootstrap",
+                "Vuejs admin templates",
+                "UI kits",
+                "Freebies"
+            ],
+            "links": {
+                "Website": "https://themeselection.com/",
+                "GitHub": "https://github.com/themeselection",
+                "Twitter": "https://twitter.com/Theme_Selection",
+                "YouTube": "https://www.youtube.com/channel/UCuryo5s0CW4aP83itLjIdZg/featured"
+            },
+            "icon": "https://themeselection.com/wp-content/uploads/2018/07/favicon.ico"
+        },
+        {
             "name": "Tooplate",
             "categories": [
                 "Programming/Templates"
@@ -19632,6 +19711,134 @@ module.exports = {
             "icon": "https://www.visiwig.com/favicon-32x32.png"
         }
     ],
+    "programming-docs-cheatsheets": [
+        {
+            "name": "Bootstrap 5 Cheatsheet",
+            "categories": [
+                "Programming/Docs & Cheatsheets"
+            ],
+            "description": "An interactive list of Bootstrap 5 classes, variables, and mixins. It also helps you easily find the differences between Bootstrap 4 and Bootstrap 5.",
+            "keywords": [
+                "Bootstrap",
+                "Bootstrap cheatsheet",
+                "Bootstrap 5",
+                "Free cheatsheet",
+                "Opensource"
+            ],
+            "links": {
+                "Website": "https://bootstrap-cheatsheet.themeselection.com/"
+            },
+            "icon": "https://themeselection.com/wp-content/uploads/2018/07/favicon.ico"
+        },
+        {
+            "name": "Cheat Sheet Maker",
+            "categories": [
+                "Programming/Docs & Cheatsheets"
+            ],
+            "description": "Create and share cheat sheets to study and work with cheat sheet maker.",
+            "links": {
+                "Website": "https://cheatsheetmaker.com/"
+            }
+        },
+        {
+            "name": "Cheatography",
+            "categories": [
+                "Programming/Docs & Cheatsheets"
+            ],
+            "description": "Find thousands of incredible, original programming cheat sheets, all free to download.",
+            "links": {
+                "Website": "https://cheatography.com/"
+            },
+            "icon": "https://cheatography.com/images/cheatography-iphone.png"
+        },
+        {
+            "name": "CSS Reference",
+            "categories": [
+                "Programming/Docs & Cheatsheets"
+            ],
+            "description": "CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.",
+            "links": {
+                "Website": "https://cssreference.io/"
+            },
+            "icon": "https://cssreference.io/favicons/favicon-32x32.png"
+        },
+        {
+            "name": "Dart Cheatsheet Codelab",
+            "categories": [
+                "Programming/Docs & Cheatsheets"
+            ],
+            "description": "Interactively learn (or relearn) some of Dart's unique features.",
+            "links": {
+                "Website": "https://dart.dev/codelabs/dart-cheatsheet"
+            },
+            "icon": "https://dart.dev/assets/touch-icon-ipad-d0181720760b3912858b6d40da1d5586b1e92c7c8656a485ea41005674401e6b.png"
+        },
+        {
+            "name": "DevDocs",
+            "categories": [
+                "Programming/Docs & Cheatsheets"
+            ],
+            "description": "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app including HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, and many more.",
+            "links": {
+                "Website": "https://devdocs.io"
+            },
+            "icon": "https://cdn.devdocs.io/images/apple-icon-76.png"
+        },
+        {
+            "name": "Devhints",
+            "categories": [
+                "Programming/Docs & Cheatsheets"
+            ],
+            "description": "A ridiculous collection of web development cheatsheets · One-page guide to.",
+            "links": {
+                "Website": "https://devhints.io/"
+            },
+            "icon": "https://devhints.io/assets/favicon.png"
+        },
+        {
+            "name": "HTML Reference",
+            "categories": [
+                "Programming/Docs & Cheatsheets"
+            ],
+            "description": "A free guide to all HTML elements and attributes.",
+            "links": {
+                "Website": "https://htmlreference.io/"
+            },
+            "icon": "https://htmlreference.io/favicons/favicon-32x32.png"
+        },
+        {
+            "name": "IntersectionObserver Examples",
+            "description": "Practical, real world React examples of Intersection Observer",
+            "categories": [
+                "Programming/Code Snippets",
+                "Programming/Docs & Cheatsheets",
+                "Programming/JavaScript/React",
+                "Programming/Learn"
+            ],
+            "keywords": [
+                "IntersectionObserver",
+                "IntersectionObserver API",
+                "IntersectionObserver examples",
+                "React",
+                "React IntersectionObserver"
+            ],
+            "links": {
+                "Website": "https://intersectionobserver.io"
+            },
+            "icon": "https://intersectionobserver.io/favicon.png"
+        },
+        {
+            "name": "MDN Web Docs",
+            "categories": [
+                "Programming/Docs & Cheatsheets"
+            ],
+            "description": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps. It also has some developer-oriented documentation for Mozilla products, such as Firefox Developer Tools.",
+            "links": {
+                "Website": "https://developer.mozilla.org/en-US/"
+            },
+            "icon": "https://developer.mozilla.org/static/img/favicon72.cc65d1d762a0.png"
+        }
+    ],
     "indie-hacking-podcasts": [
         {
             "name": "Bootstrapped",
@@ -20209,116 +20416,6 @@ module.exports = {
                 "Website": "http://sigmajs.org/"
             },
             "icon": "http://sigmajs.org/assets/images/apple-touch-icon-72x72.png"
-        }
-    ],
-    "programming-docs-cheatsheets": [
-        {
-            "name": "Cheat Sheet Maker",
-            "categories": [
-                "Programming/Docs & Cheatsheets"
-            ],
-            "description": "Create and share cheat sheets to study and work with cheat sheet maker.",
-            "links": {
-                "Website": "https://cheatsheetmaker.com/"
-            }
-        },
-        {
-            "name": "Cheatography",
-            "categories": [
-                "Programming/Docs & Cheatsheets"
-            ],
-            "description": "Find thousands of incredible, original programming cheat sheets, all free to download.",
-            "links": {
-                "Website": "https://cheatography.com/"
-            },
-            "icon": "https://cheatography.com/images/cheatography-iphone.png"
-        },
-        {
-            "name": "CSS Reference",
-            "categories": [
-                "Programming/Docs & Cheatsheets"
-            ],
-            "description": "CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.",
-            "links": {
-                "Website": "https://cssreference.io/"
-            },
-            "icon": "https://cssreference.io/favicons/favicon-32x32.png"
-        },
-        {
-            "name": "Dart Cheatsheet Codelab",
-            "categories": [
-                "Programming/Docs & Cheatsheets"
-            ],
-            "description": "Interactively learn (or relearn) some of Dart's unique features.",
-            "links": {
-                "Website": "https://dart.dev/codelabs/dart-cheatsheet"
-            },
-            "icon": "https://dart.dev/assets/touch-icon-ipad-d0181720760b3912858b6d40da1d5586b1e92c7c8656a485ea41005674401e6b.png"
-        },
-        {
-            "name": "DevDocs",
-            "categories": [
-                "Programming/Docs & Cheatsheets"
-            ],
-            "description": "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app including HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, and many more.",
-            "links": {
-                "Website": "https://devdocs.io"
-            },
-            "icon": "https://cdn.devdocs.io/images/apple-icon-76.png"
-        },
-        {
-            "name": "Devhints",
-            "categories": [
-                "Programming/Docs & Cheatsheets"
-            ],
-            "description": "A ridiculous collection of web development cheatsheets · One-page guide to.",
-            "links": {
-                "Website": "https://devhints.io/"
-            },
-            "icon": "https://devhints.io/assets/favicon.png"
-        },
-        {
-            "name": "HTML Reference",
-            "categories": [
-                "Programming/Docs & Cheatsheets"
-            ],
-            "description": "A free guide to all HTML elements and attributes.",
-            "links": {
-                "Website": "https://htmlreference.io/"
-            },
-            "icon": "https://htmlreference.io/favicons/favicon-32x32.png"
-        },
-        {
-            "name": "IntersectionObserver Examples",
-            "description": "Practical, real world React examples of Intersection Observer",
-            "categories": [
-                "Programming/Code Snippets",
-                "Programming/Docs & Cheatsheets",
-                "Programming/JavaScript/React",
-                "Programming/Learn"
-            ],
-            "keywords": [
-                "IntersectionObserver",
-                "IntersectionObserver API",
-                "IntersectionObserver examples",
-                "React",
-                "React IntersectionObserver"
-            ],
-            "links": {
-                "Website": "https://intersectionobserver.io"
-            },
-            "icon": "https://intersectionobserver.io/favicon.png"
-        },
-        {
-            "name": "MDN Web Docs",
-            "categories": [
-                "Programming/Docs & Cheatsheets"
-            ],
-            "description": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps. It also has some developer-oriented documentation for Mozilla products, such as Firefox Developer Tools.",
-            "links": {
-                "Website": "https://developer.mozilla.org/en-US/"
-            },
-            "icon": "https://developer.mozilla.org/static/img/favicon72.cc65d1d762a0.png"
         }
     ],
     "infrastructure-auth": [
