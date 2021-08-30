@@ -2862,6 +2862,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://coinremitter.com/docs"
+            },
+            "name": "Coinremitter",
+            "description": "Cryptocurrencies Payment & Prices",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Cryptocurrency"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest"
             },
             "name": "CoinStats",
@@ -2946,6 +2960,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://www.contentful.com/developers/docs/references/images-api/"
+            },
+            "name": "Contentful Images",
+            "description": "Used to retrieve and apply transformations to images",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://collection.cooperhewitt.org/api"
             },
             "name": "Cooper Hewitt",
@@ -2982,6 +3010,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Health"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/burhanuday/cors-proxy"
+            },
+            "name": "CORS Proxy",
+            "description": "Get around the dreaded CORS error by using this proxy as a middle man",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Development"
         },
         {
             "categories": [
@@ -3122,6 +3164,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Open Source Projects"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://crossuniverse.psychpsyo.com/apiDocs.html"
+            },
+            "name": "Cross Universe",
+            "description": "Cross Universe Card Data",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Games & Comics"
         },
         {
             "categories": [
@@ -4640,6 +4696,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://www.thegazette.co.uk/data"
+            },
+            "name": "Gazette Data, UK",
+            "description": "UK official public record API",
+            "auth": "OAuth",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Government"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://www.gbif.org/developer/summary"
             },
             "name": "GBIF",
@@ -5956,20 +6026,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
-            },
-            "name": "IP Location",
-            "description": "Find IP address location information",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Geocoding"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
@@ -5977,6 +6033,20 @@ module.exports = {
             "auth": "",
             "https": false,
             "cors": "unknown",
+            "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://ipapi.co/api/#introduction"
+            },
+            "name": "IP Location",
+            "description": "Find IP address location information",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Geocoding"
         },
         {
@@ -6170,6 +6240,20 @@ module.exports = {
             },
             "name": "isEven (humor)",
             "description": "Check if a number is even",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://isro.vercel.app"
+            },
+            "name": "ISRO",
+            "description": "ISRO Space Crafts Information",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -6712,6 +6796,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://libretranslate.de/docs"
+            },
+            "name": "LibreTranslate",
+            "description": "Translation tool with 17 available languages",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Text Analysis"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://github.com/cmccandless/license-api/blob/master/README.md"
             },
             "name": "License-API",
@@ -6992,12 +7090,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://developer.marvel.com"
+                "Website": "https://developer.marvel.com"
             },
             "name": "Marvel",
             "description": "Marvel Comics",
             "auth": "apiKey",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Games & Comics"
         },
@@ -7308,6 +7406,20 @@ module.exports = {
             "https": false,
             "cors": "unknown",
             "apiCategory": "Sports & Fitness"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.mmobomb.com/api"
+            },
+            "name": "MMO Games",
+            "description": "MMO Games Database, News and Giveaways",
+            "auth": "",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Games & Comics"
         },
         {
             "categories": [
@@ -7916,6 +8028,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://data.oddsmagnet.com"
+            },
+            "name": "Oddsmagnet",
+            "description": "Odds history from multiple UK bookmakers",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Sports & Fitness"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "http://api.oceandrivers.com/static/docs.html"
             },
             "name": "ODWeather",
@@ -8392,6 +8518,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://open-meteo.com/"
+            },
+            "name": "Open-Meteo",
+            "description": "Global weather forecast API for non-commercial use",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Weather"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://africaopendata.org/"
             },
             "name": "openAFRICA",
@@ -8708,6 +8848,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://perspectiveapi.com"
+            },
+            "name": "Perspective",
+            "description": "NLP API to return probability that if text is toxic, obscene, insulting or threatening",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Machine Learning"
         },
         {
             "categories": [
@@ -10296,20 +10450,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://developers.soundcloud.com/"
-            },
-            "name": "SoundCloud",
-            "description": "Allow users to upload and share sounds",
-            "auth": "OAuth",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Music"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://spaceflightnewsapi.net"
             },
             "name": "Spaceflight News",
@@ -10492,11 +10632,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://steamapi.xpaw.me/"
+                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
             },
             "name": "Steam",
-            "description": "Steam Web API documentation",
-            "auth": "apiKey",
+            "description": "Internal Steam Web API documentation",
+            "auth": "",
             "https": true,
             "cors": "no",
             "apiCategory": "Games & Comics"
@@ -10506,11 +10646,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+                "Website": "https://steamapi.xpaw.me/"
             },
             "name": "Steam",
-            "description": "Internal Steam Web API documentation",
-            "auth": "",
+            "description": "Steam Web API documentation",
+            "auth": "apiKey",
             "https": true,
             "cors": "no",
             "apiCategory": "Games & Comics"
@@ -11514,12 +11654,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
             "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
-            "auth": "apiKey",
-            "https": false,
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -11528,12 +11668,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
             },
             "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
+            "description": "NS, only trains",
+            "auth": "apiKey",
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -18174,6 +18314,17 @@ module.exports = {
             "icon": "https://mobirise.com/assets5/images/logo.png"
         },
         {
+            "name": "SaaS Blocks",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "SaaS Blocks UI kit enables founders, designers & developers to create the perfect SaaS website.",
+            "links": {
+                "Gumroad": "https://gumroad.com/a/399283315/FbINx"
+            },
+            "icon": "https://gumroad.com/favicon.ico"
+        },
+        {
             "name": "Start Bootstrap",
             "categories": [
                 "Programming/Templates",
@@ -20541,17 +20692,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "Codepen radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-        },
-        {
             "name": "CodePen Radio",
             "categories": [
                 "Programming/Podcasts"
@@ -20561,6 +20701,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://blog.codepen.io/favicon.ico"
+        },
+        {
+            "name": "Codepen radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
         },
         {
             "name": "Commit Your Code!",
@@ -21204,6 +21355,17 @@ module.exports = {
                 "Website": "https://getcommunitylist.com/"
             },
             "icon": "https://getcommunitylist.com/assets/images/favicon.png?v=1961bf32"
+        },
+        {
+            "name": "Conversion Strategies Database",
+            "categories": [
+                "Indie Hacking/Marketing"
+            ],
+            "description": "Join 881 smart founders and SaaS companies who are growing their sales with Swipe conversion strategies database.",
+            "links": {
+                "Gumroad": "https://gumroad.com/a/399283315/WCKkj"
+            },
+            "icon": "https://gumroad.com/favicon.ico"
         },
         {
             "name": "Everyone Hates Marketers",

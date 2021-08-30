@@ -3727,17 +3727,6 @@ module.exports = [
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
-        "name": "Codepen radio",
-        "categories": [
-            "Programming/Podcasts"
-        ],
-        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-        "links": {
-            "Website": "https://blog.codepen.io/radio/"
-        },
-        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-    },
-    {
         "name": "CodePen Radio",
         "categories": [
             "Programming/Podcasts"
@@ -3747,6 +3736,17 @@ module.exports = [
             "Website": "https://blog.codepen.io/radio/"
         },
         "icon": "https://blog.codepen.io/favicon.ico"
+    },
+    {
+        "name": "Codepen radio",
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+        "links": {
+            "Website": "https://blog.codepen.io/radio/"
+        },
+        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
         "name": "Codepip",
@@ -4096,6 +4096,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://coinremitter.com/docs"
+        },
+        "name": "Coinremitter",
+        "description": "Cryptocurrencies Payment & Prices",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Cryptocurrency"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest"
         },
         "name": "CoinStats",
@@ -4406,6 +4420,20 @@ module.exports = [
         "icon": "https://github.githubassets.com/apple-touch-icon-114x114.png"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.contentful.com/developers/docs/references/images-api/"
+        },
+        "name": "Contentful Images",
+        "description": "Used to retrieve and apply transformations to images",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Development"
+    },
+    {
         "name": "Contrast Ratio",
         "categories": [
             "Tools & Utilities/Accessibility"
@@ -4425,6 +4453,17 @@ module.exports = [
             "Website": "https://control.rocks/"
         },
         "icon": "https://control.rocks/img/favicon-32x32.png"
+    },
+    {
+        "name": "Conversion Strategies Database",
+        "categories": [
+            "Indie Hacking/Marketing"
+        ],
+        "description": "Join 881 smart founders and SaaS companies who are growing their sales with Swipe conversion strategies database.",
+        "links": {
+            "Gumroad": "https://gumroad.com/a/399283315/WCKkj"
+        },
+        "icon": "https://gumroad.com/favicon.ico"
     },
     {
         "name": "Coolors",
@@ -4530,6 +4569,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Health"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://github.com/burhanuday/cors-proxy"
+        },
+        "name": "CORS Proxy",
+        "description": "Get around the dreaded CORS error by using this proxy as a middle man",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Development"
     },
     {
         "name": "CouchDB",
@@ -4703,6 +4756,20 @@ module.exports = [
             "Website": "https://creativesfeed.com/topics/code-snippets/"
         },
         "icon": "https://creativesfeed.com/icons/apple-icon-76x76.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://crossuniverse.psychpsyo.com/apiDocs.html"
+        },
+        "name": "Cross Universe",
+        "description": "Cross Universe Card Data",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Games & Comics"
     },
     {
         "categories": [
@@ -5870,6 +5937,17 @@ module.exports = [
         "icon": "https://www.dreamhost.com/assets/favicons/apple-touch-icon-76x76-18c4bd5a860942003494cecf3aa217b02285f57f5525c0e4985dcb77f0125d91.png"
     },
     {
+        "name": "Dribbble",
+        "categories": [
+            "UI Design/Inspiration"
+        ],
+        "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
+        "links": {
+            "Website": "https://dribbble.com/"
+        },
+        "icon": "https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -5882,17 +5960,6 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
-    },
-    {
-        "name": "Dribbble",
-        "categories": [
-            "UI Design/Inspiration"
-        ],
-        "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
-        "links": {
-            "Website": "https://dribbble.com/"
-        },
-        "icon": "https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png"
     },
     {
         "categories": [
@@ -7747,6 +7814,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://www.thegazette.co.uk/data"
+        },
+        "name": "Gazette Data, UK",
+        "description": "UK official public record API",
+        "auth": "OAuth",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Government"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://www.gbif.org/developer/summary"
         },
         "name": "GBIF",
@@ -9425,20 +9506,6 @@ module.exports = [
         "icon": "https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico"
     },
     {
-        "name": "Icons8",
-        "categories": [
-            "Assets/Icons",
-            "Assets/Illustrations",
-            "Assets/Images",
-            "Assets/Audio"
-        ],
-        "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
-        "links": {
-            "Website": "https://icons8.com"
-        },
-        "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -9451,6 +9518,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Icons8",
+        "categories": [
+            "Assets/Icons",
+            "Assets/Illustrations",
+            "Assets/Images",
+            "Assets/Audio"
+        ],
+        "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
+        "links": {
+            "Website": "https://icons8.com"
+        },
+        "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
     },
     {
         "name": "Iconscout",
@@ -9943,20 +10024,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://ipapi.co/api/#introduction"
-        },
-        "name": "IP Location",
-        "description": "Find IP address location information",
-        "auth": "",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Geocoding"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://ip-api.com/docs"
         },
         "name": "IP Location",
@@ -9964,6 +10031,20 @@ module.exports = [
         "auth": "",
         "https": false,
         "cors": "unknown",
+        "apiCategory": "Geocoding"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://ipapi.co/api/#introduction"
+        },
+        "name": "IP Location",
+        "description": "Find IP address location information",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
         "apiCategory": "Geocoding"
     },
     {
@@ -10197,6 +10278,20 @@ module.exports = [
             "Website": "https://isometriclove.com/"
         },
         "icon": "https://isometriclove.com/favicon.ico"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://isro.vercel.app"
+        },
+        "name": "ISRO",
+        "description": "ISRO Space Crafts Information",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Science & Math"
     },
     {
         "categories": [
@@ -11276,6 +11371,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://libretranslate.de/docs"
+        },
+        "name": "LibreTranslate",
+        "description": "Translation tool with 17 available languages",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Text Analysis"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://github.com/cmccandless/license-api/blob/master/README.md"
         },
         "name": "License-API",
@@ -11749,12 +11858,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://developer.marvel.com"
+            "Website": "https://developer.marvel.com"
         },
         "name": "Marvel",
         "description": "Marvel Comics",
         "auth": "apiKey",
-        "https": false,
+        "https": true,
         "cors": "unknown",
         "apiCategory": "Games & Comics"
     },
@@ -11772,17 +11881,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Programming/UI Kits & Libraries"
-        ],
-        "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
-        "links": {
-            "Website": "https://material.io/"
-        },
-        "icon": "https://material.io/static/assets/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Assets/Icons"
         ],
         "description": "Get Material Icons.",
@@ -11790,6 +11888,17 @@ module.exports = [
             "Website": "https://material.io/resources/icons"
         },
         "icon": "https://material.io/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Programming/UI Kits & Libraries"
+        ],
+        "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
+        "links": {
+            "Website": "https://material.io/"
+        },
+        "icon": "https://material.io/static/assets/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -12215,6 +12324,20 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Sports & Fitness"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.mmobomb.com/api"
+        },
+        "name": "MMO Games",
+        "description": "MMO Games Database, News and Giveaways",
+        "auth": "",
+        "https": true,
+        "cors": "no",
+        "apiCategory": "Games & Comics"
     },
     {
         "name": "Mobbin",
@@ -13054,6 +13177,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://data.oddsmagnet.com"
+        },
+        "name": "Oddsmagnet",
+        "description": "Odds history from multiple UK bookmakers",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Sports & Fitness"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "http://api.oceandrivers.com/static/docs.html"
         },
         "name": "ODWeather",
@@ -13622,6 +13759,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://open-meteo.com/"
+        },
+        "name": "Open-Meteo",
+        "description": "Global weather forecast API for non-commercial use",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Weather"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://africaopendata.org/"
         },
         "name": "openAFRICA",
@@ -14076,6 +14227,34 @@ module.exports = [
         "icon": "https://www.peopleperhour.com/img/pph-mobile-banner.png"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://perspectiveapi.com"
+        },
+        "name": "Perspective",
+        "description": "NLP API to return probability that if text is toxic, obscene, insulting or threatening",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Machine Learning"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.pexels.com/api/"
+        },
+        "name": "Pexels",
+        "description": "Free Stock Photos and Videos",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Photography"
+    },
+    {
         "name": "Pexels",
         "categories": [
             "Assets/Videos",
@@ -14094,20 +14273,6 @@ module.exports = [
             "Website": "https://www.pexels.com/"
         },
         "icon": "https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://www.pexels.com/api/"
-        },
-        "name": "Pexels",
-        "description": "Free Stock Photos and Videos",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Photography"
     },
     {
         "categories": [
@@ -15994,6 +16159,17 @@ module.exports = [
         "icon": "https://responsivedesign.is/wp-content/themes/rwd-is/favicon-32x32.png"
     },
     {
+        "name": "SaaS Blocks",
+        "categories": [
+            "Programming/Templates"
+        ],
+        "description": "SaaS Blocks UI kit enables founders, designers & developers to create the perfect SaaS website.",
+        "links": {
+            "Gumroad": "https://gumroad.com/a/399283315/FbINx"
+        },
+        "icon": "https://gumroad.com/favicon.ico"
+    },
+    {
         "name": "SaaS Design",
         "categories": [
             "UI Design/Inspiration"
@@ -17034,20 +17210,6 @@ module.exports = [
         "apiCategory": "Music"
     },
     {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://developers.soundcloud.com/"
-        },
-        "name": "SoundCloud",
-        "description": "Allow users to upload and share sounds",
-        "auth": "OAuth",
-        "https": true,
-        "cors": "unknown",
-        "apiCategory": "Music"
-    },
-    {
         "name": "Soundstripe",
         "categories": [
             "Assets/Audio"
@@ -17360,11 +17522,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://steamapi.xpaw.me/"
+            "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
         },
         "name": "Steam",
-        "description": "Steam Web API documentation",
-        "auth": "apiKey",
+        "description": "Internal Steam Web API documentation",
+        "auth": "",
         "https": true,
         "cors": "no",
         "apiCategory": "Games & Comics"
@@ -17374,11 +17536,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+            "Website": "https://steamapi.xpaw.me/"
         },
         "name": "Steam",
-        "description": "Internal Steam Web API documentation",
-        "auth": "",
+        "description": "Steam Web API documentation",
+        "auth": "apiKey",
         "https": true,
         "cors": "no",
         "apiCategory": "Games & Comics"
@@ -19000,12 +19162,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
         },
         "name": "Transport for The Netherlands",
-        "description": "NS, only trains",
-        "auth": "apiKey",
-        "https": false,
+        "description": "OVAPI, country-wide public transport",
+        "auth": "",
+        "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
     },
@@ -19014,12 +19176,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            "Website": "http://www.ns.nl/reisinformatie/ns-api"
         },
         "name": "Transport for The Netherlands",
-        "description": "OVAPI, country-wide public transport",
-        "auth": "",
-        "https": true,
+        "description": "NS, only trains",
+        "auth": "apiKey",
+        "https": false,
         "cors": "unknown",
         "apiCategory": "Transportation"
     },
@@ -20479,17 +20641,6 @@ module.exports = [
         "apiCategory": "Text Analysis"
     },
     {
-        "name": "Wave",
-        "categories": [
-            "Tools & Utilities/General"
-        ],
-        "description": "Free invoicing & accounting software with credit card processing & payroll services.",
-        "links": {
-            "Website": "https://www.waveapps.com/"
-        },
-        "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
-    },
-    {
         "name": "WAVE",
         "categories": [
             "Tools & Utilities/Accessibility"
@@ -20499,6 +20650,17 @@ module.exports = [
             "Website": "https://wave.webaim.org/"
         },
         "icon": "https://wave.webaim.org/favicon.ico"
+    },
+    {
+        "name": "Wave",
+        "categories": [
+            "Tools & Utilities/General"
+        ],
+        "description": "Free invoicing & accounting software with credit card processing & payroll services.",
+        "links": {
+            "Website": "https://www.waveapps.com/"
+        },
+        "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
     },
     {
         "name": "We Work Remotely",
