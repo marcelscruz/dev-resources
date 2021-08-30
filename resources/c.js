@@ -8,7 +8,17 @@ const {
     indieHacking,
     community,
 } = require('../constants/categories')
-const { website, youtube, github, twitter, discord, instagram, productHunt, facebook } = require('../constants/links')
+const {
+    website,
+    youtube,
+    github,
+    twitter,
+    discord,
+    instagram,
+    productHunt,
+    facebook,
+    gumroad,
+} = require('../constants/links')
 
 module.exports = [
     {
@@ -807,6 +817,16 @@ module.exports = [
             [website]: 'https://control.rocks/',
         },
         icon: 'https://control.rocks/img/favicon-32x32.png',
+    },
+    {
+        name: 'Conversion Strategies Database',
+        categories: [indieHacking.marketing],
+        description:
+            'Join 881 smart founders and SaaS companies who are growing their sales with Swipe conversion strategies database.',
+        links: {
+            [gumroad]: 'https://gumroad.com/a/399283315/WCKkj',
+        },
+        icon: 'https://gumroad.com/favicon.ico',
     },
     {
         name: 'Coolors',

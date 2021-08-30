@@ -8,7 +8,7 @@ const {
     jobs,
     infrastructure,
 } = require('../constants/categories')
-const { website, github, twitter, facebook, linkedin, instagram } = require('../constants/links')
+const { website, github, twitter, facebook, linkedin, instagram, gumroad } = require('../constants/links')
 
 module.exports = [
     {
@@ -20,6 +20,15 @@ module.exports = [
             [website]: 'https://saas4devs.tech/',
         },
         icon: 'https://saas4devs.tech/logo192.png',
+    },
+    {
+        name: 'SaaS Blocks',
+        categories: [programming.templates],
+        description: 'SaaS Blocks UI kit enables founders, designers & developers to create the perfect SaaS website.',
+        links: {
+            [gumroad]: 'https://gumroad.com/a/399283315/FbINx',
+        },
+        icon: 'https://gumroad.com/favicon.ico',
     },
     {
         name: 'SaaS Design',
