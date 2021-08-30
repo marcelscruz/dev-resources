@@ -3319,7 +3319,7 @@ module.exports = [
         "links": {
             "Website": "https://clerk.dev"
         },
-        "icon": "https://www.clerk.dev/blog/favicon.ico"
+        "icon": "https://clerk.dev/favicon/favicon-32x32.png"
     },
     {
         "categories": [

@@ -271,7 +271,7 @@
 ### <a name="auth"><a name="infrastructure-auth">Auth</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
- <img src="https://www.clerk.dev/blog/favicon.ico" width="16" /> | Clerk.dev | Authentication and user management for developers that's simple, secure, and scalable with any platform or language. | [Website](https://clerk.dev) | react, next.js, auth,  user management, react auth, next.js auth, javascript auth |
+ <img src="https://clerk.dev/favicon/favicon-32x32.png" width="16" /> | Clerk.dev | Authentication and user management for developers that's simple, secure, and scalable with any platform or language. | [Website](https://clerk.dev) | react, next.js, auth,  user management, react auth, next.js auth, javascript auth |
  <img src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png" width="16" /> | Firebase | Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. | [Website](https://firebase.google.com/) |  |
 
 **[⬆ Back to Index](#index)**
