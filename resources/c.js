@@ -192,7 +192,7 @@ module.exports = [
         name: 'Clerk.dev',
         categories: [infrastructure.auth],
         description:
-            'Clerk adds secure authentication and user management to your React or Next.js app. 🔒 Essential security features like 2 factor auth and device management. 📈 Conversion-optimized Sign Up and Sign In forms. 🎨 Built-in theming and open APIs for easy customization',
+            "Authentication and user management for developers that's simple, secure, and scalable with any platform or language.",
         keywords: ['react', 'next.js', 'auth', ' user management', 'react auth', 'next.js auth', 'javascript auth'],
         links: {
             [website]: 'https://clerk.dev',
