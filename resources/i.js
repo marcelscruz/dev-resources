@@ -8,9 +8,27 @@ const {
     facebook,
     slack,
     indieHackers,
+    twitter,
 } = require('../constants/links')
 
 module.exports = [
+    {
+        name: 'Icon Horse',
+        categories: [assets.icons],
+        description: 'Free, easy to use, highest resolution possible favicons for any web site – including fallbacks if none are found.',
+        keywords: [
+            'favicons',
+            'logo icons',
+            'web icons',
+            'logos',
+            'site logos',
+        ],
+        links: {
+            [website]: 'https://icon.horse',
+            [twitter]: 'https://twitter.com/iconhorse'
+        },
+        icon: 'https://icon.horse/icon/icon.horse',
+    },
     {
         name: 'iconmonstr',
         categories: [assets.icons],
