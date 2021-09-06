@@ -1476,11 +1476,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
+                "Website": "https://bhagavadgita.io/api"
             },
             "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "auth": "apiKey",
+            "description": "Bhagavad Gita text",
+            "auth": "OAuth",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -1490,11 +1490,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://bhagavadgita.io/api"
+                "Website": "https://docs.bhagavadgitaapi.in"
             },
             "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "auth": "OAuth",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -1651,6 +1651,20 @@ module.exports = {
             "auth": "apiKey",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Cryptocurrency"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://graphql.bitquery.io/ide"
+            },
+            "name": "Bitquery",
+            "description": "Onchain GraphQL APIs & DEX APIs",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Cryptocurrency"
         },
         {
@@ -2554,6 +2568,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://www.cloudbet.com/api/"
+            },
+            "name": "Cloudbet",
+            "description": "Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Sports & Fitness"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://github.com/fawazahmed0/cloudflare-trace-api"
             },
             "name": "Cloudflare Trace",
@@ -2610,20 +2638,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/validate-api"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Data Validation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/phone-number-validation-API"
             },
             "name": "Cloudmersive Validate",
@@ -2632,6 +2646,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Phone"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/validate-api"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Data Validation"
         },
         {
             "categories": [
@@ -3002,6 +3030,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme"
+            },
+            "name": "Coronavirus",
+            "description": "HTTP API for Latest Wuhan Coronavirus Data",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Health"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://coronavirus.data.gov.uk/details/developers-guide"
             },
             "name": "Coronavirus in the UK",
@@ -3100,10 +3142,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -3114,10 +3156,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -4444,12 +4486,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://api.football-data.org/index"
+                "Website": "https://www.football-data.org"
             },
-            "name": "Football-Data.org",
-            "description": "Football Data",
-            "auth": "",
-            "https": false,
+            "name": "Football-Data",
+            "description": "Football data with matches info, players, teams, and competitions",
+            "auth": "X-Mashape-Key",
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Sports & Fitness"
         },
@@ -4505,6 +4547,20 @@ module.exports = {
             "name": "Fortnite",
             "description": "Fortnite Stats",
             "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Games & Comics"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://images.forza-api.tk"
+            },
+            "name": "Forza",
+            "description": "Show random image of car from Forza",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Games & Comics"
@@ -4892,6 +4948,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://geokeo.com"
+            },
+            "name": "Geokeo",
+            "description": "Geokeo geocoding service- with 2500 free api requests daily",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "http://www.geonames.org/export/web-services.html"
             },
             "name": "GeoNames",
@@ -5242,6 +5312,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://github.com/robvanbakel/gotiny-api"
+            },
+            "name": "GoTiny",
+            "description": "A lightweight URL shortener, focused on ease-of-use for the developer and end-user",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "URL Shorteners"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://github.com/lennertVanSever/graphcountries"
             },
             "name": "Graph Countries",
@@ -5530,6 +5614,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://www.hko.gov.hk/en/abouthko/opendata_intro.htm"
+            },
+            "name": "Hong Kong Obervatory",
+            "description": "Provide weather information, earthquake information, and climate data",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Weather"
         },
         {
             "categories": [
@@ -6852,6 +6950,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://docs.microsoft.com/en-us/linkedin/?context=linkedin/context"
+            },
+            "name": "LinkedIn",
+            "description": "The foundation of all digital integrations with LinkedIn",
+            "auth": "OAuth",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Social"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://www.linkpreview.net"
             },
             "name": "LinkPreview",
@@ -7042,6 +7154,20 @@ module.exports = {
             "https": false,
             "cors": "unknown",
             "apiCategory": "Health"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://malshare.com/doc.php"
+            },
+            "name": "MalShare",
+            "description": "Malware Archive / file sourcing",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "no",
+            "apiCategory": "Anti-Malware"
         },
         {
             "categories": [
@@ -7734,6 +7860,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://docs.nekos.best"
+            },
+            "name": "NekosBest",
+            "description": "Neko Images & Anime roleplaying GIFs",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Anime"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://developer.nytimes.com/"
             },
             "name": "New York Times",
@@ -7874,20 +8014,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/gadael/icsdb"
-            },
-            "name": "Non-Working Days",
-            "description": "Database of ICS files for non working days",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Calendar"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://isdayoff.ru"
             },
             "name": "Non-Working Days",
@@ -7895,6 +8021,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Calendar"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/gadael/icsdb"
+            },
+            "name": "Non-Working Days",
+            "description": "Database of ICS files for non working days",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
             "apiCategory": "Calendar"
         },
         {
@@ -7972,20 +8112,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "name": "Numbers",
@@ -7993,6 +8119,20 @@ module.exports = {
             "auth": "",
             "https": false,
             "cors": "unknown",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Science & Math"
         },
         {
@@ -8315,6 +8455,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Government"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://dane.gov.pl/en"
+            },
+            "name": "Open Government, Poland",
+            "description": "Poland Government Open Data",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Government"
         },
         {
@@ -9372,6 +9526,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "http://goqr.me/api/"
+            },
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "http://qrtag.net/api/"
             },
             "name": "QR code",
@@ -9393,20 +9561,6 @@ module.exports = {
             "auth": "apiKey",
             "https": true,
             "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "http://goqr.me/api/"
-            },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -10324,6 +10478,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://github.com/FayasNoushad/Short-Link-API"
+            },
+            "name": "Short Link",
+            "description": "Short URLs support so many domains",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "URL Shorteners"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "http://shoutcloud.io/"
             },
             "name": "SHOUTCLOUD",
@@ -10632,11 +10800,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+                "Website": "https://steamapi.xpaw.me/"
             },
             "name": "Steam",
-            "description": "Internal Steam Web API documentation",
-            "auth": "",
+            "description": "Steam Web API documentation",
+            "auth": "apiKey",
             "https": true,
             "cors": "no",
             "apiCategory": "Games & Comics"
@@ -10646,11 +10814,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://steamapi.xpaw.me/"
+                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
             },
             "name": "Steam",
-            "description": "Steam Web API documentation",
-            "auth": "apiKey",
+            "description": "Internal Steam Web API documentation",
+            "auth": "",
             "https": true,
             "cors": "no",
             "apiCategory": "Games & Comics"
@@ -11248,6 +11416,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://docs.tomorrow.io"
+            },
+            "name": "Tomorrow",
+            "description": "Weather API Powered by Proprietary Technology",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Weather"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://developer.tradier.com"
             },
             "name": "Tradier",
@@ -11626,11 +11808,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -11640,11 +11822,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -19429,6 +19611,25 @@ module.exports = {
                 "Website": "https://heroicons.com/"
             },
             "icon": "https://heroicons.com/_next/static/media/favicon-32x32.eee32601ba9d4702f841835990ed3801.png"
+        },
+        {
+            "name": "Icon Horse",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Free, easy to use, highest resolution possible favicons for any web site – including fallbacks if none are found.",
+            "keywords": [
+                "favicons",
+                "logo icons",
+                "web icons",
+                "logos",
+                "site logos"
+            ],
+            "links": {
+                "Website": "https://icon.horse",
+                "Twitter": "https://twitter.com/iconhorse"
+            },
+            "icon": "https://icon.horse/icon/icon.horse"
         },
         {
             "name": "iconmonstr",
