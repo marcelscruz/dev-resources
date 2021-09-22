@@ -211,6 +211,22 @@ module.exports = [
         icon: 'https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png',
     },
     {
+        name: 'Windframe',
+        categories: [toolsAndUtilities.websiteBuilders],
+        description:
+            'Rapidly Build and Prototype responsive websites using a drag and drop Tailwind CSS website builder',
+        keywords: [
+            'website builder',
+            'tailwind css builder',
+            'drag and drop builder',
+        ],
+        links: {
+            [website]: 'https://www.devwares.com/windframe/',
+        },
+        icon:
+            'https://windframe.devwares.com/devwaresIcon.png',
+    },
+    {
         name: 'Wix',
         categories: [toolsAndUtilities.websiteBuilders],
         description:
