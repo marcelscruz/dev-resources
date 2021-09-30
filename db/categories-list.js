@@ -7,6 +7,7 @@ module.exports = [
     "assets-logos",
     "assets-videos",
     "community-blogs-forums",
+    "community-hacktoberfest",
     "community-personal-websites",
     "indie-hacking-books",
     "indie-hacking-marketing",

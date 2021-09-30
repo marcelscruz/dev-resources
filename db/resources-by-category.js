@@ -1504,11 +1504,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
+                "Website": "https://bhagavadgita.io/api"
             },
             "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "auth": "apiKey",
+            "description": "Bhagavad Gita text",
+            "auth": "OAuth",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -1518,11 +1518,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://bhagavadgita.io/api"
+                "Website": "https://docs.bhagavadgitaapi.in"
             },
             "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "auth": "OAuth",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -6208,20 +6208,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://ipapi.co/api/#introduction"
-            },
-            "name": "IP Location",
-            "description": "Find IP address location information",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Geocoding"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://ip-api.com/docs"
             },
             "name": "IP Location",
@@ -6229,6 +6215,20 @@ module.exports = {
             "auth": "",
             "https": false,
             "cors": "unknown",
+            "apiCategory": "Geocoding"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://ipapi.co/api/#introduction"
+            },
+            "name": "IP Location",
+            "description": "Find IP address location information",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Geocoding"
         },
         {
@@ -9694,11 +9694,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
+                "Website": "http://qrtag.net/api/"
             },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
+            "auth": "",
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
@@ -9708,11 +9708,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://qrtag.net/api/"
+                "Website": "https://fungenerators.com/api/qrcode/"
             },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "auth": "",
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
@@ -11038,11 +11038,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+                "Website": "https://steamapi.xpaw.me/"
             },
             "name": "Steam",
-            "description": "Internal Steam Web API documentation",
-            "auth": "",
+            "description": "Steam Web API documentation",
+            "auth": "apiKey",
             "https": true,
             "cors": "no",
             "apiCategory": "Games & Comics"
@@ -11052,11 +11052,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://steamapi.xpaw.me/"
+                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
             },
             "name": "Steam",
-            "description": "Steam Web API documentation",
-            "auth": "apiKey",
+            "description": "Internal Steam Web API documentation",
+            "auth": "",
             "https": true,
             "cors": "no",
             "apiCategory": "Games & Comics"
@@ -12060,6 +12060,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://opentransportdata.swiss/en/"
+            },
+            "name": "Transport for Switzerland",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Transportation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
@@ -12074,11 +12088,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
-            "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "name": "Transport for The Netherlands",
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -12094,20 +12108,6 @@ module.exports = {
             "description": "NS, only trains",
             "auth": "apiKey",
             "https": false,
-            "cors": "unknown",
-            "apiCategory": "Transportation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
-            },
-            "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -17686,6 +17686,108 @@ module.exports = {
             "icon": "https://www.w3schools.com/favicon.ico"
         }
     ],
+    "community-hacktoberfest": [
+        {
+            "name": "Awesome for Beginners",
+            "categories": [
+                "Community/Hacktoberfest"
+            ],
+            "description": "A list of awesome beginners-friendly projects. Contribute to MunGell/awesome-for-beginners development by creating an account on GitHub.",
+            "links": {
+                "GitHub": "https://github.com/mungell/awesome-for-beginners"
+            },
+            "icon": "https://github.githubassets.com/apple-touch-icon-114x114.png"
+        },
+        {
+            "name": "CodeTriage",
+            "categories": [
+                "Community/Hacktoberfest"
+            ],
+            "description": "Discover the easiest way to get started contributing to open source. Over 62,317 devs are helping 6,584 projects with our free, community developed tools",
+            "links": {
+                "Website": "https://www.codetriage.com/"
+            },
+            "icon": "https://www.codetriage.com/assets/favicon-3f3e475345be27562adee9d8e596a032785e3efd4496111cab0b1fe0a81ad722.ico"
+        },
+        {
+            "name": "First Timers Only",
+            "categories": [
+                "Community/Hacktoberfest"
+            ],
+            "description": "Find the best opportunities to create a pull request for the first time.",
+            "links": {
+                "Website": "https://www.firsttimersonly.com/"
+            },
+            "icon": ""
+        },
+        {
+            "name": "Git Cheat Sheets",
+            "categories": [
+                "Community/Hacktoberfest",
+                "Programming/Docs & Cheatsheets"
+            ],
+            "description": "Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.",
+            "links": {
+                "Website": "https://training.github.com/"
+            },
+            "icon": ""
+        },
+        {
+            "name": "Hacktoberfest",
+            "categories": [
+                "Community/Hacktoberfest"
+            ],
+            "description": "Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.",
+            "links": {
+                "Website": "https://hacktoberfest.digitalocean.com/"
+            },
+            "icon": "https://hacktoberfest.digitalocean.com/favicon.ico"
+        },
+        {
+            "name": "Hacktoberfest Finder",
+            "categories": [
+                "Community/Hacktoberfest"
+            ],
+            "description": "Hacktoberfest Finder helps you find issues that you could help fix.",
+            "links": {
+                "Website": "https://hacktoberfest-finder.netlify.app/"
+            },
+            "icon": "https://hacktoberfest-finder.netlify.app/img/favicons/apple-touch-icon.png"
+        },
+        {
+            "name": "Hacktoberfest Swag List",
+            "categories": [
+                "Community/Hacktoberfest"
+            ],
+            "description": "There are many companies giving out free swag for Hacktoberfest and this list seeks to find them all!",
+            "links": {
+                "Website": "https://hacktoberfestswaglist.com/"
+            },
+            "icon": "https://hacktoberfestswaglist.com/favicon.ico"
+        },
+        {
+            "name": "Pull Request Roulette",
+            "categories": [
+                "Community/Hacktoberfest"
+            ],
+            "description": "Web app to match up developers, with public pull requests (PRs) on Github, with people willing to comment on their PRs.",
+            "links": {
+                "Website": "http://www.pullrequestroulette.com/"
+            },
+            "icon": "http://www.pullrequestroulette.com/assets/favicon-c7222dcd8c2c148cbd4ee961fdb75431a0ff1399b2245da43057ee1d15a187b0.gif"
+        },
+        {
+            "name": "Up For Grabs",
+            "categories": [
+                "Community/Hacktoberfest"
+            ],
+            "description": "This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.",
+            "links": {
+                "Website": "https://up-for-grabs.net/#/"
+            },
+            "icon": "https://up-for-grabs.net/icons/favicon-196x196.png"
+        }
+    ],
     "infrastructure-hosting": [
         {
             "name": "AWS",
@@ -20412,6 +20514,18 @@ module.exports = {
                 "Website": "https://devhints.io/"
             },
             "icon": "https://devhints.io/assets/favicon.png"
+        },
+        {
+            "name": "Git Cheat Sheets",
+            "categories": [
+                "Community/Hacktoberfest",
+                "Programming/Docs & Cheatsheets"
+            ],
+            "description": "Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.",
+            "links": {
+                "Website": "https://training.github.com/"
+            },
+            "icon": ""
         },
         {
             "name": "HTML Reference",
