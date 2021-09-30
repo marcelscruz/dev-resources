@@ -1,4 +1,12 @@
-const { toolsAndUtilities, assets, programming, uiDesign, infrastructure, jobs } = require('../constants/categories')
+const {
+    toolsAndUtilities,
+    assets,
+    programming,
+    uiDesign,
+    infrastructure,
+    jobs,
+    community,
+} = require('../constants/categories')
 const { website, twitter, facebook, instagram, linkedin, github } = require('../constants/links')
 
 module.exports = [
@@ -221,6 +229,16 @@ module.exports = [
             [website]: 'https://www.upwork.com/',
         },
         icon: 'https://www.upwork.com/ab/brontes/favicon.ico',
+    },
+    {
+        name: 'Up For Grabs',
+        categories: [community.hacktoberfest],
+        description:
+            'This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.',
+        links: {
+            [website]: 'https://up-for-grabs.net/#/',
+        },
+        icon: 'https://up-for-grabs.net/icons/favicon-196x196.png',
     },
     {
         name: 'Use The Keyboard',

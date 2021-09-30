@@ -531,6 +531,17 @@ module.exports = [
         icon: 'https://codeshare.io/favicon.ico',
     },
     {
+        name: 'CodeTriage',
+        categories: [community.hacktoberfest],
+        description:
+            'Discover the easiest way to get started contributing to open source. Over 62,317 devs are helping 6,584 projects with our free, community developed tools',
+        links: {
+            [website]: 'https://www.codetriage.com/',
+        },
+        icon:
+            'https://www.codetriage.com/assets/favicon-3f3e475345be27562adee9d8e596a032785e3efd4496111cab0b1fe0a81ad722.ico',
+    },
+    {
         name: 'Codewars',
         categories: [programming.codeChallenges],
         description:

@@ -61,6 +61,35 @@ module.exports = [
         icon: 'https://hackr.io/assets/images/programming-images/programming-favicon-32x32.png',
     },
     {
+        name: 'Hacktoberfest',
+        categories: [community.hacktoberfest],
+        description:
+            'Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.',
+        links: {
+            [website]: 'https://hacktoberfest.digitalocean.com/',
+        },
+        icon: 'https://hacktoberfest.digitalocean.com/favicon.ico',
+    },
+    {
+        name: 'Hacktoberfest Finder',
+        categories: [community.hacktoberfest],
+        description: 'Hacktoberfest Finder helps you find issues that you could help fix.',
+        links: {
+            [website]: 'https://hacktoberfest-finder.netlify.app/',
+        },
+        icon: 'https://hacktoberfest-finder.netlify.app/img/favicons/apple-touch-icon.png',
+    },
+    {
+        name: 'Hacktoberfest Swag List',
+        categories: [community.hacktoberfest],
+        description:
+            'There are many companies giving out free swag for Hacktoberfest and this list seeks to find them all!',
+        links: {
+            [website]: 'https://hacktoberfestswaglist.com/',
+        },
+        icon: 'https://hacktoberfestswaglist.com/favicon.ico',
+    },
+    {
         name: 'Happy Hues',
         categories: [uiDesign.color],
         description:

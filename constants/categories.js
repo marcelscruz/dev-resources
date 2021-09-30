@@ -16,6 +16,7 @@ module.exports = {
     community: {
         blogsAndForums: 'Community/Blogs & Forums',
         personalWebsites: 'Community/Personal Websites',
+        hacktoberfest: 'Community/Hacktoberfest',
     },
 
     indieHacking: {

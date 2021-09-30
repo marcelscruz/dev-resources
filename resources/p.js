@@ -6,6 +6,7 @@ const {
     assets,
     indieHacking,
     infrastructure,
+    community,
 } = require('../constants/categories')
 const { website, twitter, youtube, linkedin, facebook } = require('../constants/links')
 
@@ -292,6 +293,17 @@ module.exports = [
             [website]: 'https://pttrns.com/',
         },
         icon: 'https://s3.amazonaws.com/pttrns-2-0-static/assets/img/favicons/favicon-96x96.png',
+    },
+    {
+        name: 'Pull Request Roulette',
+        categories: [community.hacktoberfest],
+        description:
+            'Web app to match up developers, with public pull requests (PRs) on Github, with people willing to comment on their PRs.',
+        links: {
+            [website]: 'http://www.pullrequestroulette.com/',
+        },
+        icon:
+            'http://www.pullrequestroulette.com/assets/favicon-c7222dcd8c2c148cbd4ee961fdb75431a0ff1399b2245da43057ee1d15a187b0.gif',
     },
     {
         name: 'Puppeteer',

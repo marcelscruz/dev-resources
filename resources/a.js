@@ -6,6 +6,7 @@ const {
     jobs,
     infrastructure,
     assets,
+    community,
 } = require('../constants/categories')
 const { website, youtube, github, twitter, facebook, linkedin, discord, instagram } = require('../constants/links')
 
@@ -294,6 +295,16 @@ module.exports = [
         description: 'List of awesome university courses for learning Computer Science.',
         links: {
             [github]: 'https://github.com/prakhar1989/awesome-courses',
+        },
+        icon: 'https://github.githubassets.com/apple-touch-icon-114x114.png',
+    },
+    {
+        name: 'Awesome for Beginners',
+        categories: [community.hacktoberfest],
+        description:
+            'A list of awesome beginners-friendly projects. Contribute to MunGell/awesome-for-beginners development by creating an account on GitHub.',
+        links: {
+            [github]: 'https://github.com/mungell/awesome-for-beginners',
         },
         icon: 'https://github.githubassets.com/apple-touch-icon-114x114.png',
     },

@@ -6,6 +6,7 @@ const {
     assets,
     uiDesign,
     indieHacking,
+    community,
 } = require('../constants/categories')
 const { website, youtube, github, twitter } = require('../constants/links')
 
@@ -50,6 +51,16 @@ module.exports = [
             [website]: 'https://pages.github.com/',
         },
         icon: 'https://pages.github.com/favicon.ico',
+    },
+    {
+        name: 'Git Cheat Sheets',
+        categories: [community.hacktoberfest, programming.docsAndCheatsheets],
+        description:
+            'Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.',
+        links: {
+            [website]: 'https://training.github.com/',
+        },
+        icon: '',
     },
     {
         name: 'GoatCounter',

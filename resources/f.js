@@ -1,4 +1,12 @@
-const { toolsAndUtilities, assets, uiDesign, infrastructure, programming, jobs } = require('../constants/categories')
+const {
+    toolsAndUtilities,
+    assets,
+    uiDesign,
+    infrastructure,
+    programming,
+    jobs,
+    community,
+} = require('../constants/categories')
 const { website, youtube } = require('../constants/links')
 
 module.exports = [
@@ -106,6 +114,15 @@ module.exports = [
             [website]: 'https://www.mozilla.org/en-US/firefox/69.0a1/releasenotes/',
         },
         icon: 'https://www.mozilla.org/media/img/favicons/firefox/browser/nightly/favicon-196x196.f6d874cabab4.png',
+    },
+    {
+        name: 'First Timers Only',
+        categories: [community.hacktoberfest],
+        description: 'Find the best opportunities to create a pull request for the first time.',
+        links: {
+            [website]: 'https://www.firsttimersonly.com/',
+        },
+        icon: '',
     },
     {
         name: 'Fiverr',
