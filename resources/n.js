@@ -32,6 +32,17 @@ module.exports = [
         icon: 'https://nextjs.org/static/favicon/favicon-32x32.png',
     },
     {
+        name: 'NextUI',
+        description:
+            'Beautiful, fast, modern React UI Library',
+        categories: [programming.uiKitsAndLibraries],
+        links: {
+            [website]: 'https://nextui.org',
+        },
+        icon: 'https://nextui.org/favicon.ico',
+        keywords: ['next', 'ui', 'nextui', 'library'],
+    },
+    {
         name: 'Nomad List',
         categories: [jobs.boards, jobs.remoteOnly],
         description: 'Best places to live for a digital nomad',
