@@ -66,6 +66,17 @@ module.exports = [
         icon: 'https://dailyremote.com/assets/favicon/favicon-96.png',
     },
     {
+        name: 'daisyUI',
+        description:
+            'Tailwind CSS Components plugin — daisyUI tailwind component library',
+        categories: [programming.uiKitsAndLibraries],
+        links: {
+            [website]: 'https://daisyui.com',
+        },
+        icon: 'https://daisyui.com/favicon.ico',
+        keywords: ['daisy', 'ui', 'daisyui', 'library'],
+    },
+    {
         name: 'Dart Cheatsheet Codelab',
         categories: [programming.docsAndCheatsheets],
         description: "Interactively learn (or relearn) some of Dart's unique features.",
