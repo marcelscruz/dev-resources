@@ -3086,20 +3086,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/phone-number-validation-API"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate international phone numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Phone"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/validate-api"
             },
             "name": "Cloudmersive Validate",
@@ -3108,6 +3094,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Data Validation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/phone-number-validation-API"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate international phone numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Phone"
         },
         {
             "categories": [
@@ -9778,20 +9778,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "name": "Numbers",
@@ -9799,6 +9785,20 @@ module.exports = {
             "auth": "",
             "https": false,
             "cors": "unknown",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Science & Math"
         },
         {
@@ -11654,20 +11654,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://qrtag.net/api/"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "name": "QR code",
@@ -11675,6 +11661,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://qrtag.net/api/"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Development"
         },
         {
@@ -13250,11 +13250,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://steamapi.xpaw.me/"
+                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
             },
             "name": "Steam",
-            "description": "Steam Web API documentation",
-            "auth": "apiKey",
+            "description": "Internal Steam Web API documentation",
+            "auth": "",
             "https": true,
             "cors": "no",
             "apiCategory": "Games & Comics"
@@ -13264,11 +13264,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+                "Website": "https://steamapi.xpaw.me/"
             },
             "name": "Steam",
-            "description": "Internal Steam Web API documentation",
-            "auth": "",
+            "description": "Steam Web API documentation",
+            "auth": "apiKey",
             "https": true,
             "cors": "no",
             "apiCategory": "Games & Comics"
@@ -14538,12 +14538,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
             "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
-            "auth": "apiKey",
-            "https": false,
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -14552,12 +14552,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
             },
             "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
+            "description": "NS, only trains",
+            "auth": "apiKey",
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -16341,6 +16341,16 @@ module.exports = {
                 "Website": "https://github.com/jackdomleo7/Checka11y.css"
             },
             "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
+        },
+        {
+            "name": "Color Contrast Checker",
+            "categories": [
+                "Tools & Utilities/Accessibility"
+            ],
+            "description": "Make sure your website has accessible colors.",
+            "links": {
+                "Website": "https://zarhasan.github.io/color-contrast-checker/"
+            }
         },
         {
             "name": "Color.review",
@@ -19802,6 +19812,19 @@ module.exports = {
                 "Website": "https://cssbattle.dev/"
             },
             "icon": "https://cssbattle.dev/images/logo-square.png"
+        },
+        {
+            "name": "devChallenges",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "devChallenges.io is a community and a platform for anyone who wants to become a Software Engineer by building real-life projects and solving practical tasks. devChallenges.io is built with the goal of enabling you to build an outstanding portfolio.",
+            "links": {
+                "Website": "https://devchallenges.io/",
+                "Twitter": "https://twitter.com/devchallengesio",
+                "Discord": "https://discord.com/invite/3R6vFeM"
+            },
+            "icon": "https://devchallenges.io/favicon-32x32.png"
         },
         {
             "name": "DOM Events",

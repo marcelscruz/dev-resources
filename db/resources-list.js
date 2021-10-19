@@ -617,6 +617,19 @@ module.exports = [
         "apiCategory": "Music"
     },
     {
+        "name": "Airtable",
+        "categories": [
+            "Indie Hacking/Utilities",
+            "Infrastructure/Databases",
+            "Infrastructure/Serverless"
+        ],
+        "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+        "links": {
+            "Website": "https://airtable.com/"
+        },
+        "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -629,19 +642,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Documents & Productivity"
-    },
-    {
-        "name": "Airtable",
-        "categories": [
-            "Indie Hacking/Utilities",
-            "Infrastructure/Databases",
-            "Infrastructure/Serverless"
-        ],
-        "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
-        "links": {
-            "Website": "https://airtable.com/"
-        },
-        "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
     },
     {
         "categories": [
@@ -3953,20 +3953,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://cloudmersive.com/phone-number-validation-API"
-        },
-        "name": "Cloudmersive Validate",
-        "description": "Validate international phone numbers",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Phone"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://cloudmersive.com/validate-api"
         },
         "name": "Cloudmersive Validate",
@@ -3975,6 +3961,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Data Validation"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://cloudmersive.com/phone-number-validation-API"
+        },
+        "name": "Cloudmersive Validate",
+        "description": "Validate international phone numbers",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Phone"
     },
     {
         "categories": [
@@ -4678,6 +4678,16 @@ module.exports = [
         "apiCategory": "Dictionaries"
     },
     {
+        "name": "Color Contrast Checker",
+        "categories": [
+            "Tools & Utilities/Accessibility"
+        ],
+        "description": "Make sure your website has accessible colors.",
+        "links": {
+            "Website": "https://zarhasan.github.io/color-contrast-checker/"
+        }
+    },
+    {
         "name": "Color Hunt",
         "categories": [
             "UI Design/Color"
@@ -4764,17 +4774,6 @@ module.exports = [
         "icon": "https://colorlib.com/wp/wp-content/uploads/sites/2/2014/05/ipad-colorlib.png"
     },
     {
-        "name": "Colormind",
-        "categories": [
-            "UI Design/Color"
-        ],
-        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
-        "links": {
-            "Website": "http://colormind.io/"
-        },
-        "icon": "http://colormind.io/favicon32.gif"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -4787,6 +4786,17 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Colormind",
+        "categories": [
+            "UI Design/Color"
+        ],
+        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
+        "links": {
+            "Website": "http://colormind.io/"
+        },
+        "icon": "http://colormind.io/favicon32.gif"
     },
     {
         "name": "colors.lol",
@@ -6366,6 +6376,19 @@ module.exports = [
         "apiCategory": "Personality"
     },
     {
+        "name": "devChallenges",
+        "categories": [
+            "Programming/Learn"
+        ],
+        "description": "devChallenges.io is a community and a platform for anyone who wants to become a Software Engineer by building real-life projects and solving practical tasks. devChallenges.io is built with the goal of enabling you to build an outstanding portfolio.",
+        "links": {
+            "Website": "https://devchallenges.io/",
+            "Twitter": "https://twitter.com/devchallengesio",
+            "Discord": "https://discord.com/invite/3R6vFeM"
+        },
+        "icon": "https://devchallenges.io/favicon-32x32.png"
+    },
+    {
         "name": "DevDocs",
         "categories": [
             "Programming/Docs & Cheatsheets"
@@ -6788,17 +6811,6 @@ module.exports = [
         "icon": "https://www.dreamhost.com/assets/favicons/apple-touch-icon-76x76-18c4bd5a860942003494cecf3aa217b02285f57f5525c0e4985dcb77f0125d91.png"
     },
     {
-        "name": "Dribbble",
-        "categories": [
-            "UI Design/Inspiration"
-        ],
-        "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
-        "links": {
-            "Website": "https://dribbble.com/"
-        },
-        "icon": "https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -6811,6 +6823,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Dribbble",
+        "categories": [
+            "UI Design/Inspiration"
+        ],
+        "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
+        "links": {
+            "Website": "https://dribbble.com/"
+        },
+        "icon": "https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png"
     },
     {
         "categories": [
@@ -10850,6 +10873,20 @@ module.exports = [
         "apiCategory": "Cryptocurrency"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://icon.horse"
+        },
+        "name": "Icon Horse",
+        "description": "Favicons for any website, with fallbacks",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Art & Design"
+    },
+    {
         "name": "Icon Horse",
         "categories": [
             "Assets/Icons"
@@ -10867,20 +10904,6 @@ module.exports = [
             "Twitter": "https://twitter.com/iconhorse"
         },
         "icon": "https://icon.horse/icon/icon.horse"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://icon.horse"
-        },
-        "name": "Icon Horse",
-        "description": "Favicons for any website, with fallbacks",
-        "auth": "",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Art & Design"
     },
     {
         "categories": [
@@ -13647,17 +13670,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Get Material Icons.",
-        "links": {
-            "Website": "https://material.io/resources/icons"
-        },
-        "icon": "https://material.io/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Programming/UI Kits & Libraries"
         ],
         "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
@@ -13665,6 +13677,17 @@ module.exports = [
             "Website": "https://material.io/"
         },
         "icon": "https://material.io/static/assets/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Get Material Icons.",
+        "links": {
+            "Website": "https://material.io/resources/icons"
+        },
+        "icon": "https://material.io/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -13764,17 +13787,6 @@ module.exports = [
         "apiCategory": "Health"
     },
     {
-        "name": "Medium",
-        "categories": [
-            "Community/Blogs & Forums"
-        ],
-        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
-        "links": {
-            "Website": "http://medium.com/"
-        },
-        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -13787,6 +13799,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Personality"
+    },
+    {
+        "name": "Medium",
+        "categories": [
+            "Community/Blogs & Forums"
+        ],
+        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
+        "links": {
+            "Website": "http://medium.com/"
+        },
+        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
     },
     {
         "categories": [
@@ -14962,17 +14985,6 @@ module.exports = [
         "apiCategory": "Documents & Productivity"
     },
     {
-        "name": "Noun Project",
-        "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
-        "links": {
-            "Website": "https://thenounproject.com/"
-        },
-        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -14985,6 +14997,17 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Noun Project",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
+        "links": {
+            "Website": "https://thenounproject.com/"
+        },
+        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
     },
     {
         "name": "Novorésumé",
@@ -15047,20 +15070,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://math.tools/api/numbers/"
-        },
-        "name": "Numbers",
-        "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Science & Math"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "http://numbersapi.com"
         },
         "name": "Numbers",
@@ -15068,6 +15077,20 @@ module.exports = [
         "auth": "",
         "https": false,
         "cors": "unknown",
+        "apiCategory": "Science & Math"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://math.tools/api/numbers/"
+        },
+        "name": "Numbers",
+        "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
         "apiCategory": "Science & Math"
     },
     {
@@ -16598,20 +16621,6 @@ module.exports = [
         "apiCategory": "Machine Learning"
     },
     {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://www.pexels.com/api/"
-        },
-        "name": "Pexels",
-        "description": "Free Stock Photos and Videos",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Photography"
-    },
-    {
         "name": "Pexels",
         "categories": [
             "Assets/Videos",
@@ -16630,6 +16639,20 @@ module.exports = [
             "Website": "https://www.pexels.com/"
         },
         "icon": "https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.pexels.com/api/"
+        },
+        "name": "Pexels",
+        "description": "Free Stock Photos and Videos",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Photography"
     },
     {
         "categories": [
@@ -16766,19 +16789,6 @@ module.exports = [
         "apiCategory": "Test Data"
     },
     {
-        "name": "Pixabay",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Illustrations"
-        ],
-        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
-        "links": {
-            "Website": "https://pixabay.com/"
-        },
-        "icon": "https://pixabay.com/favicon-32x32.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -16791,6 +16801,19 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Photography"
+    },
+    {
+        "name": "Pixabay",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Illustrations"
+        ],
+        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
+        "links": {
+            "Website": "https://pixabay.com/"
+        },
+        "icon": "https://pixabay.com/favicon-32x32.png"
     },
     {
         "categories": [
@@ -17507,20 +17530,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://qrtag.net/api/"
-        },
-        "name": "QR code",
-        "description": "Create an easy to read QR code and URL shortener",
-        "auth": "",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Development"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "http://goqr.me/api/"
         },
         "name": "QR code",
@@ -17528,6 +17537,20 @@ module.exports = [
         "auth": "",
         "https": true,
         "cors": "unknown",
+        "apiCategory": "Development"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "http://qrtag.net/api/"
+        },
+        "name": "QR code",
+        "description": "Create an easy to read QR code and URL shortener",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
         "apiCategory": "Development"
     },
     {
@@ -18152,17 +18175,6 @@ module.exports = [
         "apiCategory": "Open Data"
     },
     {
-        "name": "reddit",
-        "categories": [
-            "Community/Blogs & Forums"
-        ],
-        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
-        "links": {
-            "Website": "https://www.reddit.com/"
-        },
-        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -18175,6 +18187,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Social"
+    },
+    {
+        "name": "reddit",
+        "categories": [
+            "Community/Blogs & Forums"
+        ],
+        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
+        "links": {
+            "Website": "https://www.reddit.com/"
+        },
+        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
     },
     {
         "name": "redditors for hire",
@@ -20282,11 +20305,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://steamapi.xpaw.me/"
+            "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
         },
         "name": "Steam",
-        "description": "Steam Web API documentation",
-        "auth": "apiKey",
+        "description": "Internal Steam Web API documentation",
+        "auth": "",
         "https": true,
         "cors": "no",
         "apiCategory": "Games & Comics"
@@ -20296,11 +20319,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+            "Website": "https://steamapi.xpaw.me/"
         },
         "name": "Steam",
-        "description": "Internal Steam Web API documentation",
-        "auth": "",
+        "description": "Steam Web API documentation",
+        "auth": "apiKey",
         "https": true,
         "cors": "no",
         "apiCategory": "Games & Comics"
@@ -22188,12 +22211,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
         },
         "name": "Transport for The Netherlands",
-        "description": "NS, only trains",
-        "auth": "apiKey",
-        "https": false,
+        "description": "OVAPI, country-wide public transport",
+        "auth": "",
+        "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
     },
@@ -22202,12 +22225,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            "Website": "http://www.ns.nl/reisinformatie/ns-api"
         },
         "name": "Transport for The Netherlands",
-        "description": "OVAPI, country-wide public transport",
-        "auth": "",
-        "https": true,
+        "description": "NS, only trains",
+        "auth": "apiKey",
+        "https": false,
         "cors": "unknown",
         "apiCategory": "Transportation"
     },
@@ -22974,6 +22997,17 @@ module.exports = [
         "icon": "https://upto.site/favicon.png"
     },
     {
+        "name": "Upwork",
+        "categories": [
+            "Jobs/Freelancing"
+        ],
+        "description": "Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.",
+        "links": {
+            "Website": "https://www.upwork.com/"
+        },
+        "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -22986,17 +23020,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Jobs"
-    },
-    {
-        "name": "Upwork",
-        "categories": [
-            "Jobs/Freelancing"
-        ],
-        "description": "Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.",
-        "links": {
-            "Website": "https://www.upwork.com/"
-        },
-        "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
     },
     {
         "categories": [
@@ -23776,17 +23799,6 @@ module.exports = [
         "apiCategory": "Text Analysis"
     },
     {
-        "name": "WAVE",
-        "categories": [
-            "Tools & Utilities/Accessibility"
-        ],
-        "description": "WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content.",
-        "links": {
-            "Website": "https://wave.webaim.org/"
-        },
-        "icon": "https://wave.webaim.org/favicon.ico"
-    },
-    {
         "name": "Wave",
         "categories": [
             "Tools & Utilities/General"
@@ -23796,6 +23808,17 @@ module.exports = [
             "Website": "https://www.waveapps.com/"
         },
         "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
+    },
+    {
+        "name": "WAVE",
+        "categories": [
+            "Tools & Utilities/Accessibility"
+        ],
+        "description": "WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content.",
+        "links": {
+            "Website": "https://wave.webaim.org/"
+        },
+        "icon": "https://wave.webaim.org/favicon.ico"
     },
     {
         "name": "We Work Remotely",
