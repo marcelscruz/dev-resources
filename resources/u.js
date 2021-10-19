@@ -268,4 +268,17 @@ module.exports = [
         },
         icon: 'https://usehooks.com/favicon.ico',
     },
+    {
+        name: 'UXfolio',
+        categories: [toolsAndUtilities.general],
+        description:
+            'UXfolio is a powerful UX portfolio builder with no coding required. Pick a stunning template and tell the story behind your design process.',
+        links: {
+            [website]: 'https://uxfol.io/',
+            [facebook]: 'https://www.facebook.com/UXfolio/',
+            [twitter]: 'https://twitter.com/UXfolio',
+            [linkedin]: 'https://www.linkedin.com/company/uxfolio/',
+        },
+        icon: 'https://uxfol.io/favicon/favicon-16x16.png',
+    },
 ]
