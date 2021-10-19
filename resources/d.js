@@ -8,7 +8,7 @@ const {
     infrastructure,
     community,
 } = require('../constants/categories')
-const { website, youtube } = require('../constants/links')
+const { website, youtube, twitter, discord } = require('../constants/links')
 
 module.exports = [
     {
@@ -67,8 +67,7 @@ module.exports = [
     },
     {
         name: 'daisyUI',
-        description:
-            'Tailwind CSS Components plugin — daisyUI tailwind component library',
+        description: 'Tailwind CSS Components plugin — daisyUI tailwind component library',
         categories: [programming.uiKitsAndLibraries],
         links: {
             [website]: 'https://daisyui.com',
@@ -195,6 +194,18 @@ module.exports = [
             [website]: 'https://spec.fm/podcasts/developer-tea',
         },
         icon: 'https://spec.fm/static/meta/android-chrome-192x192.png',
+    },
+    {
+        name: 'devChallenges',
+        categories: [programming.learn],
+        description:
+            'devChallenges.io is a community and a platform for anyone who wants to become a Software Engineer by building real-life projects and solving practical tasks. devChallenges.io is built with the goal of enabling you to build an outstanding portfolio.',
+        links: {
+            [website]: 'https://devchallenges.io/',
+            [twitter]: 'https://twitter.com/devchallengesio',
+            [discord]: 'https://discord.com/invite/3R6vFeM',
+        },
+        icon: 'https://devchallenges.io/favicon-32x32.png',
     },
     {
         name: 'DevDocs',
