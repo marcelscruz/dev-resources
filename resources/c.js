@@ -633,6 +633,14 @@ module.exports = [
         icon: 'https://colorffy.com/img/icons/msapplication-icon-144x144.png',
     },
     {
+        name: 'Color Contrast Checker',
+        categories: [toolsAndUtilities.accessibility],
+        description: 'Make sure your website has accessible colors.',
+        links: {
+            [website]: 'https://zarhasan.github.io/color-contrast-checker/',
+        },
+    },
+    {
         name: 'Color Hunt',
         categories: [uiDesign.color],
         description:
