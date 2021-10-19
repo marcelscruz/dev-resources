@@ -7,7 +7,7 @@ const {
     jobs,
     community,
 } = require('../constants/categories')
-const { website, youtube } = require('../constants/links')
+const { website, youtube, facebook, twitter, linkedin, github } = require('../constants/links')
 
 module.exports = [
     {
@@ -133,6 +133,20 @@ module.exports = [
         },
         icon:
             'https://assetsv2.fiverrcdn.com/assets/v2_globals/apple-touch-icon-76x76-e74f7616f5a5f00eb18aa6426eeac69c.png',
+    },
+    {
+        name: 'FlashDrive.io',
+        categories: [infrastructure.hosting],
+        description:
+            'HostingFlashDrive.io is a PaaS service similar to Heroku with a developer-centric approach and a free tier for developers and micro-services.',
+        links: {
+            [website]: 'https://flashdrive.io',
+            [twitter]: 'https://twitter.com/flashdriveio',
+            [facebook]: 'https://www.facebook.com/flashdriveio',
+            [linkedin]: 'https://www.linkedin.com/company/flashdrive/',
+            [github]: 'https://github.com/flashdriveio',
+        },
+        icon: 'https://flashdrive.io/assets/images/favicon.ico',
     },
     {
         name: 'Flaticon',
