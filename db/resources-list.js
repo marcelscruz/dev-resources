@@ -4214,17 +4214,6 @@ module.exports = [
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
-        "name": "CodePen Radio",
-        "categories": [
-            "Programming/Podcasts"
-        ],
-        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-        "links": {
-            "Website": "https://blog.codepen.io/radio/"
-        },
-        "icon": "https://blog.codepen.io/favicon.ico"
-    },
-    {
         "name": "Codepen radio",
         "categories": [
             "Programming/Podcasts"
@@ -4234,6 +4223,17 @@ module.exports = [
             "Website": "https://blog.codepen.io/radio/"
         },
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
+    },
+    {
+        "name": "CodePen Radio",
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+        "links": {
+            "Website": "https://blog.codepen.io/radio/"
+        },
+        "icon": "https://blog.codepen.io/favicon.ico"
     },
     {
         "name": "Codepip",
@@ -4774,6 +4774,17 @@ module.exports = [
         "icon": "https://colorlib.com/wp/wp-content/uploads/sites/2/2014/05/ipad-colorlib.png"
     },
     {
+        "name": "Colormind",
+        "categories": [
+            "UI Design/Color"
+        ],
+        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
+        "links": {
+            "Website": "http://colormind.io/"
+        },
+        "icon": "http://colormind.io/favicon32.gif"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -4786,17 +4797,6 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
-    },
-    {
-        "name": "Colormind",
-        "categories": [
-            "UI Design/Color"
-        ],
-        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
-        "links": {
-            "Website": "http://colormind.io/"
-        },
-        "icon": "http://colormind.io/favicon32.gif"
     },
     {
         "name": "colors.lol",
@@ -7965,6 +7965,21 @@ module.exports = [
         "icon": "https://assetsv2.fiverrcdn.com/assets/v2_globals/apple-touch-icon-76x76-e74f7616f5a5f00eb18aa6426eeac69c.png"
     },
     {
+        "name": "FlashDrive.io",
+        "categories": [
+            "Infrastructure/Hosting"
+        ],
+        "description": "HostingFlashDrive.io is a PaaS service similar to Heroku with a developer-centric approach and a free tier for developers and micro-services.",
+        "links": {
+            "Website": "https://flashdrive.io",
+            "Twitter": "https://twitter.com/flashdriveio",
+            "Facebook": "https://www.facebook.com/flashdriveio",
+            "LinkedIn": "https://www.linkedin.com/company/flashdrive/",
+            "GitHub": "https://github.com/flashdriveio"
+        },
+        "icon": "https://flashdrive.io/assets/images/favicon.ico"
+    },
+    {
         "name": "Flaticon",
         "categories": [
             "Assets/Icons"
@@ -10931,20 +10946,6 @@ module.exports = [
         "icon": "https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico"
     },
     {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "http://docs.icons8.apiary.io/#reference/0/meta"
-        },
-        "name": "Icons8",
-        "description": "Icons",
-        "auth": "OAuth",
-        "https": true,
-        "cors": "unknown",
-        "apiCategory": "Art & Design"
-    },
-    {
         "name": "Icons8",
         "categories": [
             "Assets/Icons",
@@ -10957,6 +10958,20 @@ module.exports = [
             "Website": "https://icons8.com"
         },
         "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "http://docs.icons8.apiary.io/#reference/0/meta"
+        },
+        "name": "Icons8",
+        "description": "Icons",
+        "auth": "OAuth",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Art & Design"
     },
     {
         "name": "Iconscout",
@@ -14922,20 +14937,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/gadael/icsdb"
-        },
-        "name": "Non-Working Days",
-        "description": "Database of ICS files for non working days",
-        "auth": "",
-        "https": true,
-        "cors": "unknown",
-        "apiCategory": "Calendar"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://isdayoff.ru"
         },
         "name": "Non-Working Days",
@@ -14943,6 +14944,20 @@ module.exports = [
         "auth": "",
         "https": true,
         "cors": "yes",
+        "apiCategory": "Calendar"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://github.com/gadael/icsdb"
+        },
+        "name": "Non-Working Days",
+        "description": "Database of ICS files for non working days",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
         "apiCategory": "Calendar"
     },
     {
@@ -14985,6 +15000,17 @@ module.exports = [
         "apiCategory": "Documents & Productivity"
     },
     {
+        "name": "Noun Project",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
+        "links": {
+            "Website": "https://thenounproject.com/"
+        },
+        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -14997,17 +15023,6 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
-    },
-    {
-        "name": "Noun Project",
-        "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
-        "links": {
-            "Website": "https://thenounproject.com/"
-        },
-        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
     },
     {
         "name": "Novorésumé",
@@ -15070,20 +15085,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://numbersapi.com"
-        },
-        "name": "Numbers",
-        "description": "Facts about numbers",
-        "auth": "",
-        "https": false,
-        "cors": "unknown",
-        "apiCategory": "Science & Math"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://math.tools/api/numbers/"
         },
         "name": "Numbers",
@@ -15091,6 +15092,20 @@ module.exports = [
         "auth": "apiKey",
         "https": true,
         "cors": "yes",
+        "apiCategory": "Science & Math"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "http://numbersapi.com"
+        },
+        "name": "Numbers",
+        "description": "Facts about numbers",
+        "auth": "",
+        "https": false,
+        "cors": "unknown",
         "apiCategory": "Science & Math"
     },
     {
@@ -15641,10 +15656,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://datos.gob.mx/"
+            "Website": "https://www.inegi.org.mx/datos/"
         },
         "name": "Open Government, Mexico",
-        "description": "Mexico Government Open Data",
+        "description": "Mexican Statistical Government Open Data",
         "auth": "",
         "https": true,
         "cors": "unknown",
@@ -15655,10 +15670,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://www.inegi.org.mx/datos/"
+            "Website": "https://datos.gob.mx/"
         },
         "name": "Open Government, Mexico",
-        "description": "Mexican Statistical Government Open Data",
+        "description": "Mexico Government Open Data",
         "auth": "",
         "https": true,
         "cors": "unknown",
@@ -16621,6 +16636,20 @@ module.exports = [
         "apiCategory": "Machine Learning"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.pexels.com/api/"
+        },
+        "name": "Pexels",
+        "description": "Free Stock Photos and Videos",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Photography"
+    },
+    {
         "name": "Pexels",
         "categories": [
             "Assets/Videos",
@@ -16639,20 +16668,6 @@ module.exports = [
             "Website": "https://www.pexels.com/"
         },
         "icon": "https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://www.pexels.com/api/"
-        },
-        "name": "Pexels",
-        "description": "Free Stock Photos and Videos",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Photography"
     },
     {
         "categories": [
@@ -17544,11 +17559,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://qrtag.net/api/"
+            "Website": "https://fungenerators.com/api/qrcode/"
         },
-        "name": "QR code",
-        "description": "Create an easy to read QR code and URL shortener",
-        "auth": "",
+        "name": "QR Code",
+        "description": "Create new QR Code or decode existing one",
+        "auth": "apiKey",
         "https": true,
         "cors": "yes",
         "apiCategory": "Development"
@@ -17558,11 +17573,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://fungenerators.com/api/qrcode/"
+            "Website": "http://qrtag.net/api/"
         },
-        "name": "QR Code",
-        "description": "Create new QR Code or decode existing one",
-        "auth": "apiKey",
+        "name": "QR code",
+        "description": "Create an easy to read QR code and URL shortener",
+        "auth": "",
         "https": true,
         "cors": "yes",
         "apiCategory": "Development"
@@ -20305,11 +20320,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+            "Website": "https://steamapi.xpaw.me/"
         },
         "name": "Steam",
-        "description": "Internal Steam Web API documentation",
-        "auth": "",
+        "description": "Steam Web API documentation",
+        "auth": "apiKey",
         "https": true,
         "cors": "no",
         "apiCategory": "Games & Comics"
@@ -20319,11 +20334,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://steamapi.xpaw.me/"
+            "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
         },
         "name": "Steam",
-        "description": "Steam Web API documentation",
-        "auth": "apiKey",
+        "description": "Internal Steam Web API documentation",
+        "auth": "",
         "https": true,
         "cors": "no",
         "apiCategory": "Games & Comics"
@@ -20634,10 +20649,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://www.swapi.tech"
+            "Website": "https://swapi.dev/"
         },
         "name": "SWAPI",
-        "description": "All things Star Wars",
+        "description": "All the Star Wars data you've ever wanted",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -20648,10 +20663,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://swapi.dev/"
+            "Website": "https://www.swapi.tech"
         },
         "name": "SWAPI",
-        "description": "All the Star Wars data you've ever wanted",
+        "description": "All things Star Wars",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -22211,12 +22226,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            "Website": "http://www.ns.nl/reisinformatie/ns-api"
         },
         "name": "Transport for The Netherlands",
-        "description": "OVAPI, country-wide public transport",
-        "auth": "",
-        "https": true,
+        "description": "NS, only trains",
+        "auth": "apiKey",
+        "https": false,
         "cors": "unknown",
         "apiCategory": "Transportation"
     },
@@ -22225,12 +22240,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
         },
         "name": "Transport for The Netherlands",
-        "description": "NS, only trains",
-        "auth": "apiKey",
-        "https": false,
+        "description": "OVAPI, country-wide public transport",
+        "auth": "",
+        "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
     },
@@ -22893,17 +22908,6 @@ module.exports = [
         "icon": "https://www.unscreen.com/favicon-96x96.png"
     },
     {
-        "name": "Unsplash",
-        "categories": [
-            "Assets/Images"
-        ],
-        "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
-        "links": {
-            "Website": "https://unsplash.com/"
-        },
-        "icon": "https://unsplash.com/favicon-32x32.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -22916,6 +22920,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Photography"
+    },
+    {
+        "name": "Unsplash",
+        "categories": [
+            "Assets/Images"
+        ],
+        "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
+        "links": {
+            "Website": "https://unsplash.com/"
+        },
+        "icon": "https://unsplash.com/favicon-32x32.png"
     },
     {
         "name": "Untools",
@@ -23301,6 +23316,20 @@ module.exports = [
         "https": true,
         "cors": "no",
         "apiCategory": "Test Data"
+    },
+    {
+        "name": "UXfolio",
+        "categories": [
+            "Tools & Utilities/General"
+        ],
+        "description": "UXfolio is a powerful UX portfolio builder with no coding required. Pick a stunning template and tell the story behind your design process.",
+        "links": {
+            "Website": "https://uxfol.io/",
+            "Facebook": "https://www.facebook.com/UXfolio/",
+            "Twitter": "https://twitter.com/UXfolio",
+            "LinkedIn": "https://www.linkedin.com/company/uxfolio/"
+        },
+        "icon": "https://uxfol.io/favicon/favicon-16x16.png"
     },
     {
         "categories": [
