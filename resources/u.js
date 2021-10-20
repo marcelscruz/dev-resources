@@ -250,6 +250,15 @@ module.exports = [
         icon: 'https://usethekeyboard.com/assets/img/favicon-32x32.png',
     },
     {
+        name: 'Use Almonds',
+        categories: [toolsAndUtilities.general],
+        description: 'Savings account that is built on Web3 but as easy as a normal bank account',
+        links: {
+            [website]: 'https://usealmonds.com/',
+        },
+        icon: 'https://usealmonds.com/favicon/favicon-32x32.png',
+    },
+    {
         name: 'Useful Colours',
         categories: [uiDesign.color],
         description: 'Super quick, eye-pleasing colours for your UI design.',
