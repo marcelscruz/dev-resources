@@ -19,7 +19,7 @@
 ### <a name="audio"><a name="assets-audio">Audio</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
- <img src="https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png" width="16" /> | Icons8 | Download design elements for free: icons, photos, vector illustrations, and music for your videos. | [Website](https://icons8.com) |  |
+ <img src="https://icons8.com/vue-static/icon/favicon/favicon_16.png" width="16" /> | Icons8 | Download design elements for free: icons, photos, vector illustrations, and music for your videos. | [Website](https://icons8.com) |  |
  <img src="https://www.soundstripe.com/hubfs/favicon-1.png" width="16" /> | Soundstripe | Every creator's one-stop shop for the best royalty free music, SFX, and stock video. Purchase a license for one file, or subscribe for unlimited access. | [Website](https://www.soundstripe.com/) |  |
 
 **[⬆ Back to Index](#index)**
