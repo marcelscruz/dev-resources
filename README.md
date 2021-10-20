@@ -27,7 +27,7 @@
 ### <a name="fonts"><a name="assets-fonts">Fonts</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
- <img src="https://st.1001fonts.net/img/1001fonts-logo.svg" width="16" /> | 1001 Fonts | 24,262 free fonts in 13,112 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux. | [Website](https://www.1001fonts.com/) |  |
+ <img src="https://themes.static.1001fonts.net/netefx/img/1001fonts-avatar-32x32.png" width="16" /> | 1001 Fonts | 24,262 free fonts in 13,112 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux. | [Website](https://www.1001fonts.com/) |  |
  <img src="https://www.bypeople.com/wp-content/themes/bppl-alpha/assets/images/v2/favicon-32x32.png" width="16" /> | ByPeople | ByPeople is a curated network of 10k ready-to-download resources for developers. | [Website](https://www.bypeople.com/)<br />[Facebook](https://www.facebook.com/ByPeopleTeam)<br />[Twitter](https://twitter.com/bypeopleteam) |  |
  <img src="https://www.canva.com/favicon.ico" width="16" /> | Canva | Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.  | [Website](https://www.canva.com/) |  |
  <img src="https://www.dafont.com/img/favicon.ico" width="16" /> | DaFont | Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity. | [Website](https://www.dafont.com/) | font, download, ttf, freeware, typefaces, typography, typeface, fonts, free, true type, dingbats |
