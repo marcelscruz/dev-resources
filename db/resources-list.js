@@ -8,7 +8,7 @@ module.exports = [
         "links": {
             "Website": "https://www.1001fonts.com/"
         },
-        "icon": "https://themes.static.1001fonts.net/netefx/img/1001fonts-avatar-32x32.png"
+        "icon": "https://st.1001fonts.net/img/1001fonts-logo.svg"
     },
     {
         "name": "10FastFingers",
@@ -2660,7 +2660,7 @@ module.exports = [
         "links": {
             "Website": "https://boxicons.com/"
         },
-        "icon": "https://boxicons.com/static/img/favicon.ico?v=11"
+        "icon": "https://boxicons.com/static/favicon.ico?v=13"
     },
     {
         "name": "Brackets",
@@ -7708,7 +7708,7 @@ module.exports = [
         "links": {
             "Website": "https://feathericons.com/"
         },
-        "icon": "https://feathericons.com/icons/icon-96x96.png"
+        "icon": "https://feathericons.com/favicon-32x32.png"
     },
     {
         "categories": [
@@ -8188,7 +8188,7 @@ module.exports = [
         "links": {
             "Website": "https://fontawesome.com"
         },
-        "icon": "https://fontawesome.com/images/favicons/favicon-96x96.png"
+        "icon": "https://fontawesome.com/images/favicon/icon.svg"
     },
     {
         "name": "Font Space",
@@ -8254,7 +8254,7 @@ module.exports = [
         "links": {
             "Website": "https://fontpair.co/"
         },
-        "icon": "https://fontpair.co/img/favicon.png"
+        "icon": "https://uploads-ssl.webflow.com/5df11841b7e5a489e7c67859/6161da7091c49496c05aeff4_fontpair-logo-primary-dark.svg"
     },
     {
         "name": "Fonts In Use",
@@ -11001,7 +11001,7 @@ module.exports = [
         "links": {
             "Website": "https://icons8.com"
         },
-        "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
+        "icon": "https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png"
     },
     {
         "categories": [
@@ -13161,7 +13161,7 @@ module.exports = [
         "links": {
             "Website": "https://lineicons.com/"
         },
-        "icon": "https://lineicons.com/wp-content/themes/xt-lineicons/assets/img/favicon.png"
+        "icon": "https://user-images.githubusercontent.com/76911582/137953217-de9272df-bdbb-4c5f-9307-f5fb58839cf7.png"
     },
     {
         "categories": [
@@ -20545,7 +20545,7 @@ module.exports = [
         "links": {
             "Website": "https://streamlineicons.com/"
         },
-        "icon": "https://streamlineicons.com/_assets/img/favicon-light.png"
+        "icon": "https://uploads-ssl.webflow.com/5f59339c01fc322b69869dd9/5f5936ce192739ad632da855_bubble-white-32.png"
     },
     {
         "categories": [
