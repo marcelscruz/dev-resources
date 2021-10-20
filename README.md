@@ -1,6 +1,8 @@
 <a href="https://devresourc.es/?ref=github-readme"><p align="center"><img width="5000" src="./public/assets/images/logo-with-bg.png" /></p></a>
 
- >❗️ This README file is auto-generated on every **push** or **merge**, so please ***do not*** edit it. Changes related to resources should happen within the `/resources` folder.
+ ---
+>❗️ This README file is auto-generated on every **push** or **merge**, so please ***do not*** edit it. Changes related to resources should happen within the `/resources` folder.
+---
 
  The list and public API of the resources that power [Dev Resources](https://devresourc.es/?ref=github-readme).
 
