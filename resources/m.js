@@ -12,6 +12,16 @@ const { website, twitter, youtube, instagram, linkedin, github, codepen, faceboo
 
 module.exports = [
     {
+        name: 'Madza Quizzes',
+        categories: [jobs.interviews],
+        description:
+            'A great resource with 500 free interview questions',
+        links: {
+            [website]: 'https://quizzes.madza.dev/',
+        },
+        icon: 'https://quizzes.madza.dev/favicon.ico',
+    },
+    {
         name: 'Mailchimp',
         categories: [indieHacking.utilities],
         description:
@@ -153,6 +163,16 @@ module.exports = [
             [website]: 'http://medium.com/',
         },
         icon: 'https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png',
+    },
+    {
+        name: 'Metazord',
+        categories: [toolsAndUtilities.seo],
+        description:
+            'Get a complete information and preview of your site meta tags',
+        links: {
+            [website]: 'https://www.metazord.io/',
+        },
+        icon: 'https://www.metazord.io/favicon-32x32.png',
     },
     {
         name: 'Metrical',

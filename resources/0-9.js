@@ -10,7 +10,7 @@ module.exports = [
         links: {
             [website]: 'https://www.1001fonts.com/',
         },
-        icon: 'https://themes.static.1001fonts.net/netefx/img/1001fonts-avatar-32x32.png',
+        icon: 'https://st.1001fonts.net/img/1001fonts-logo.svg',
     },
     {
         name: '10FastFingers',

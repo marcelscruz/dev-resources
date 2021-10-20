@@ -664,7 +664,7 @@ module.exports = [
         links: {
             [website]: 'https://streamlineicons.com/',
         },
-        icon: 'https://streamlineicons.com/_assets/img/favicon-light.png',
+        icon: 'https://uploads-ssl.webflow.com/5f59339c01fc322b69869dd9/5f5936ce192739ad632da855_bubble-white-32.png',
     },
     {
         name: 'StyleShout',

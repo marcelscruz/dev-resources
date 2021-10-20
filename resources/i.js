@@ -46,7 +46,7 @@ module.exports = [
         links: {
             [website]: 'https://icons8.com',
         },
-        icon: 'https://icons8.com/vue-static/icon/favicon/favicon_16.png',
+        icon: 'https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png',
     },
     {
         name: 'Iconscout',

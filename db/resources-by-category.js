@@ -9,7 +9,7 @@ module.exports = {
             "links": {
                 "Website": "https://www.1001fonts.com/"
             },
-            "icon": "https://themes.static.1001fonts.net/netefx/img/1001fonts-avatar-32x32.png"
+            "icon": "https://st.1001fonts.net/img/1001fonts-logo.svg"
         },
         {
             "name": "ByPeople",
@@ -127,7 +127,7 @@ module.exports = {
             "links": {
                 "Website": "https://fontpair.co/"
             },
-            "icon": "https://fontpair.co/img/favicon.png"
+            "icon": "https://uploads-ssl.webflow.com/5df11841b7e5a489e7c67859/6161da7091c49496c05aeff4_fontpair-logo-primary-dark.svg"
         },
         {
             "name": "Fonts In Use",
@@ -3688,10 +3688,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -3702,10 +3702,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -9806,20 +9806,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://numbersapi.com"
-            },
-            "name": "Numbers",
-            "description": "Facts about numbers",
-            "auth": "",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://math.tools/api/numbers/"
             },
             "name": "Numbers",
@@ -9827,6 +9813,20 @@ module.exports = {
             "auth": "apiKey",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://numbersapi.com"
+            },
+            "name": "Numbers",
+            "description": "Facts about numbers",
+            "auth": "",
+            "https": false,
+            "cors": "unknown",
             "apiCategory": "Science & Math"
         },
         {
@@ -10296,10 +10296,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.inegi.org.mx/datos/"
+                "Website": "https://datos.gob.mx/"
             },
             "name": "Open Government, Mexico",
-            "description": "Mexican Statistical Government Open Data",
+            "description": "Mexico Government Open Data",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -10310,10 +10310,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://datos.gob.mx/"
+                "Website": "https://www.inegi.org.mx/datos/"
             },
             "name": "Open Government, Mexico",
-            "description": "Mexico Government Open Data",
+            "description": "Mexican Statistical Government Open Data",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -11724,13 +11724,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
+                "Website": "http://goqr.me/api/"
             },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
+            "auth": "",
             "https": true,
-            "cors": "yes",
+            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -11752,13 +11752,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://goqr.me/api/"
+                "Website": "https://fungenerators.com/api/qrcode/"
             },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "auth": "",
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
             "https": true,
-            "cors": "unknown",
+            "cors": "yes",
             "apiCategory": "Development"
         },
         {
@@ -13516,10 +13516,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://swapi.dev/"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
+            "description": "All things Star Wars",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -13530,10 +13530,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.swapi.tech"
+                "Website": "https://swapi.dev/"
             },
             "name": "SWAPI",
-            "description": "All things Star Wars",
+            "description": "All the Star Wars data you've ever wanted",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -14594,11 +14594,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -14608,11 +14608,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -18058,6 +18058,17 @@ module.exports = {
             "icon": "https://uploads-ssl.webflow.com/5e0849b50d37a13ecd286934/5e085e49ad6badd7d7b3439f_favicon-256.png"
         },
         {
+            "name": "Metazord",
+            "categories": [
+                "Tools & Utilities/SEO"
+            ],
+            "description": "Get a complete information and preview of your site meta tags",
+            "links": {
+                "Website": "https://www.metazord.io/"
+            },
+            "icon": "https://www.metazord.io/favicon-32x32.png"
+        },
+        {
             "name": "SEO Blueprint",
             "categories": [
                 "Tools & Utilities/SEO"
@@ -19476,7 +19487,7 @@ module.exports = {
             "links": {
                 "Website": "https://icons8.com"
             },
-            "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
+            "icon": "https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png"
         },
         {
             "name": "Interfacer",
@@ -19806,6 +19817,25 @@ module.exports = {
                 "Website": "https://www.codecademy.com/"
             },
             "icon": "https://www.codecademy.com/favicon.ico"
+        },
+        {
+            "name": "CodeCombat",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn programming languages by playing the Role Playing Game. Different languages, beginner-friendly learning curve.",
+            "keywords": [
+                "Python",
+                "JavaScript",
+                "CoffeeScript",
+                "Lua",
+                "C++",
+                "Java"
+            ],
+            "links": {
+                "Website": "https://www.codecombat.com/"
+            },
+            "icon": "https://www.codecombat.com/favicon.ico"
         },
         {
             "name": "Codepip",
@@ -22735,7 +22765,7 @@ module.exports = {
             "links": {
                 "Website": "https://boxicons.com/"
             },
-            "icon": "https://boxicons.com/static/img/favicon.ico?v=11"
+            "icon": "https://boxicons.com/static/favicon.ico?v=13"
         },
         {
             "name": "CoreUI",
@@ -22769,7 +22799,7 @@ module.exports = {
             "links": {
                 "Website": "https://feathericons.com/"
             },
-            "icon": "https://feathericons.com/icons/icon-96x96.png"
+            "icon": "https://feathericons.com/favicon-32x32.png"
         },
         {
             "name": "Flaticon",
@@ -22804,7 +22834,7 @@ module.exports = {
             "links": {
                 "Website": "https://fontawesome.com"
             },
-            "icon": "https://fontawesome.com/images/favicons/favicon-96x96.png"
+            "icon": "https://fontawesome.com/images/favicon/icon.svg"
         },
         {
             "name": "Freeicons",
@@ -22894,7 +22924,7 @@ module.exports = {
             "links": {
                 "Website": "https://icons8.com"
             },
-            "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
+            "icon": "https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png"
         },
         {
             "name": "Iconscout",
@@ -22992,7 +23022,7 @@ module.exports = {
             "links": {
                 "Website": "https://lineicons.com/"
             },
-            "icon": "https://lineicons.com/wp-content/themes/xt-lineicons/assets/img/favicon.png"
+            "icon": "https://user-images.githubusercontent.com/76911582/137953217-de9272df-bdbb-4c5f-9307-f5fb58839cf7.png"
         },
         {
             "name": "Material Design",
@@ -23237,7 +23267,7 @@ module.exports = {
             "links": {
                 "Website": "https://streamlineicons.com/"
             },
-            "icon": "https://streamlineicons.com/_assets/img/favicon-light.png"
+            "icon": "https://uploads-ssl.webflow.com/5f59339c01fc322b69869dd9/5f5936ce192739ad632da855_bubble-white-32.png"
         },
         {
             "name": "SVGBox",
@@ -24960,7 +24990,7 @@ module.exports = {
             "links": {
                 "Website": "https://icons8.com"
             },
-            "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
+            "icon": "https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png"
         },
         {
             "name": "Image Optimizer",
@@ -25483,6 +25513,42 @@ module.exports = {
             "icon": "https://designcode.io/icons/icon-96x96.png"
         }
     ],
+    "tools-utilities-image-video-editing": [
+        {
+            "name": "Fake Img",
+            "categories": [
+                "Tools & Utilities/Image & Video Editing"
+            ],
+            "description": "A little tool that generates placeholder images with an URL. Choose the size, the colors, even the text. ",
+            "links": {
+                "Website": "https://fakeimg.pl/"
+            },
+            "icon": "https://fakeimg.pl/favicon.ico"
+        },
+        {
+            "name": "Let's Enhance",
+            "categories": [
+                "Tools & Utilities/Image & Video Editing"
+            ],
+            "description": "Simple machine learning software to enlarge images with no quality loss, enhance colors and photo resolution, automatically retouch product photos. Free trial.",
+            "links": {
+                "Website": "https://letsenhance.io/"
+            },
+            "icon": "https://letsenhance.io/static/favicon/icon-96.png"
+        },
+        {
+            "name": "SVGX",
+            "categories": [
+                "UI Design/Utilities",
+                "Tools & Utilities/Image & Video Editing"
+            ],
+            "description": "SVGX is the desktop SVG asset manager designers and developers wished they had.",
+            "links": {
+                "Website": "https://svgx.app/"
+            },
+            "icon": "https://svgx.app/assets/favicons/favicon-96x96.png"
+        }
+    ],
     "programming-javascript-react": [
         {
             "name": "Gatsby",
@@ -25677,7 +25743,7 @@ module.exports = {
             "links": {
                 "Website": "https://icons8.com"
             },
-            "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
+            "icon": "https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png"
         },
         {
             "name": "Soundstripe",
@@ -25702,6 +25768,17 @@ module.exports = {
                 "Website": "https://iq.js.org/"
             },
             "icon": "https://iq.js.org/favicon.ico"
+        },
+        {
+            "name": "Madza Quizzes",
+            "categories": [
+                "Jobs/Interviews"
+            ],
+            "description": "A great resource with 500 free interview questions",
+            "links": {
+                "Website": "https://quizzes.madza.dev/"
+            },
+            "icon": "https://quizzes.madza.dev/favicon.ico"
         },
         {
             "name": "Tech Interview Pro",
@@ -25811,31 +25888,6 @@ module.exports = {
                 "Website": "https://thebootstrappedfounder.com/zero-to-sold/"
             },
             "icon": "https://i0.wp.com/thebootstrappedfounder.com/wp-content/uploads/2019/11/cropped-Untitled-1.png?fit=32%2C32&ssl=1"
-        }
-    ],
-    "tools-utilities-image-video-editing": [
-        {
-            "name": "Let's Enhance",
-            "categories": [
-                "Tools & Utilities/Image & Video Editing"
-            ],
-            "description": "Simple machine learning software to enlarge images with no quality loss, enhance colors and photo resolution, automatically retouch product photos. Free trial.",
-            "links": {
-                "Website": "https://letsenhance.io/"
-            },
-            "icon": "https://letsenhance.io/static/favicon/icon-96.png"
-        },
-        {
-            "name": "SVGX",
-            "categories": [
-                "UI Design/Utilities",
-                "Tools & Utilities/Image & Video Editing"
-            ],
-            "description": "SVGX is the desktop SVG asset manager designers and developers wished they had.",
-            "links": {
-                "Website": "https://svgx.app/"
-            },
-            "icon": "https://svgx.app/assets/favicons/favicon-96x96.png"
         }
     ],
     "tools-utilities-web-scraping": [
