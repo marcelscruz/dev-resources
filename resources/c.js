@@ -330,6 +330,24 @@ module.exports = [
         icon: 'https://www.codecademy.com/favicon.ico',
     },
     {
+        name: 'CodeCombat',
+        categories: [programming.learn],
+        description:
+            'Learn programming languages by playing the Role Playing Game. Different languages, beginner-friendly learning curve.',
+            keywords: [
+                'Python',
+                'JavaScript',
+                'CoffeeScript',
+                'Lua',
+                'C++',
+                'Java',
+            ],
+        links: {
+            [website]: 'https://www.codecombat.com/',
+        },
+        icon: 'https://www.codecombat.com/favicon.ico',
+    },
+    {
         name: 'CodeChef',
         categories: [programming.codeChallenges],
         description:
