@@ -1728,11 +1728,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
+                "Website": "https://bhagavadgita.io/api"
             },
             "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "auth": "apiKey",
+            "description": "Bhagavad Gita text",
+            "auth": "OAuth",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -1742,11 +1742,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://bhagavadgita.io/api"
+                "Website": "https://docs.bhagavadgitaapi.in"
             },
             "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "auth": "OAuth",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -3114,20 +3114,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/phone-number-validation-API"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate international phone numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Phone"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/validate-api"
             },
             "name": "Cloudmersive Validate",
@@ -3136,6 +3122,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Data Validation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/phone-number-validation-API"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate international phone numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Phone"
         },
         {
             "categories": [
@@ -9694,20 +9694,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://isdayoff.ru"
-            },
-            "name": "Non-Working Days",
-            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Calendar"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://github.com/gadael/icsdb"
             },
             "name": "Non-Working Days",
@@ -9715,6 +9701,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Calendar"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://isdayoff.ru"
+            },
+            "name": "Non-Working Days",
+            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Calendar"
         },
         {
@@ -9806,20 +9806,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://numbersapi.com"
-            },
-            "name": "Numbers",
-            "description": "Facts about numbers",
-            "auth": "",
-            "https": false,
-            "cors": "unknown",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://math.tools/api/numbers/"
             },
             "name": "Numbers",
@@ -9827,6 +9813,20 @@ module.exports = {
             "auth": "apiKey",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://numbersapi.com"
+            },
+            "name": "Numbers",
+            "description": "Facts about numbers",
+            "auth": "",
+            "https": false,
+            "cors": "unknown",
             "apiCategory": "Science & Math"
         },
         {
@@ -11738,20 +11738,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://qrtag.net/api/"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "name": "QR code",
@@ -11759,6 +11745,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://qrtag.net/api/"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Development"
         },
         {
@@ -13516,10 +13516,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://swapi.dev/"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
+            "description": "All things Star Wars",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -13530,10 +13530,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.swapi.tech"
+                "Website": "https://swapi.dev/"
             },
             "name": "SWAPI",
-            "description": "All things Star Wars",
+            "description": "All the Star Wars data you've ever wanted",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -14594,11 +14594,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -14608,11 +14608,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -19808,6 +19808,25 @@ module.exports = {
             "icon": "https://www.codecademy.com/favicon.ico"
         },
         {
+            "name": "CodeCombat",
+            "categories": [
+                "Programming/Learn"
+            ],
+            "description": "Learn programming languages by playing the Role Playing Game. Different languages, beginner-friendly learning curve.",
+            "keywords": [
+                "Python",
+                "JavaScript",
+                "CoffeeScript",
+                "Lua",
+                "C++",
+                "Java"
+            ],
+            "links": {
+                "Website": "https://www.codecombat.com/"
+            },
+            "icon": "https://www.codecombat.com/favicon.ico"
+        },
+        {
             "name": "Codepip",
             "categories": [
                 "Programming/Learn"
@@ -24145,17 +24164,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "CodePen Radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://blog.codepen.io/favicon.ico"
-        },
-        {
             "name": "Codepen radio",
             "categories": [
                 "Programming/Podcasts"
@@ -24165,6 +24173,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
+        },
+        {
+            "name": "CodePen Radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://blog.codepen.io/favicon.ico"
         },
         {
             "name": "Commit Your Code!",

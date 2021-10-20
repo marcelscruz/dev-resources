@@ -617,19 +617,6 @@ module.exports = [
         "apiCategory": "Music"
     },
     {
-        "name": "Airtable",
-        "categories": [
-            "Indie Hacking/Utilities",
-            "Infrastructure/Databases",
-            "Infrastructure/Serverless"
-        ],
-        "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
-        "links": {
-            "Website": "https://airtable.com/"
-        },
-        "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -642,6 +629,19 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Documents & Productivity"
+    },
+    {
+        "name": "Airtable",
+        "categories": [
+            "Indie Hacking/Utilities",
+            "Infrastructure/Databases",
+            "Infrastructure/Serverless"
+        ],
+        "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+        "links": {
+            "Website": "https://airtable.com/"
+        },
+        "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
     },
     {
         "categories": [
@@ -1993,11 +1993,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://docs.bhagavadgitaapi.in"
+            "Website": "https://bhagavadgita.io/api"
         },
         "name": "Bhagavad Gita",
-        "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-        "auth": "apiKey",
+        "description": "Bhagavad Gita text",
+        "auth": "OAuth",
         "https": true,
         "cors": "yes",
         "apiCategory": "Books"
@@ -2007,11 +2007,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://bhagavadgita.io/api"
+            "Website": "https://docs.bhagavadgitaapi.in"
         },
         "name": "Bhagavad Gita",
-        "description": "Bhagavad Gita text",
-        "auth": "OAuth",
+        "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+        "auth": "apiKey",
         "https": true,
         "cors": "yes",
         "apiCategory": "Books"
@@ -3981,20 +3981,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://cloudmersive.com/phone-number-validation-API"
-        },
-        "name": "Cloudmersive Validate",
-        "description": "Validate international phone numbers",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Phone"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://cloudmersive.com/validate-api"
         },
         "name": "Cloudmersive Validate",
@@ -4003,6 +3989,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Data Validation"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://cloudmersive.com/phone-number-validation-API"
+        },
+        "name": "Cloudmersive Validate",
+        "description": "Validate international phone numbers",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Phone"
     },
     {
         "categories": [
@@ -4141,6 +4141,25 @@ module.exports = [
         "icon": "https://www.codechef.com/misc/favicon.ico"
     },
     {
+        "name": "CodeCombat",
+        "categories": [
+            "Programming/Learn"
+        ],
+        "description": "Learn programming languages by playing the Role Playing Game. Different languages, beginner-friendly learning curve.",
+        "keywords": [
+            "Python",
+            "JavaScript",
+            "CoffeeScript",
+            "Lua",
+            "C++",
+            "Java"
+        ],
+        "links": {
+            "Website": "https://www.codecombat.com/"
+        },
+        "icon": "https://www.codecombat.com/favicon.ico"
+    },
+    {
         "name": "Codeconia",
         "categories": [
             "Community/Blogs & Forums"
@@ -4242,17 +4261,6 @@ module.exports = [
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
-        "name": "CodePen Radio",
-        "categories": [
-            "Programming/Podcasts"
-        ],
-        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-        "links": {
-            "Website": "https://blog.codepen.io/radio/"
-        },
-        "icon": "https://blog.codepen.io/favicon.ico"
-    },
-    {
         "name": "Codepen radio",
         "categories": [
             "Programming/Podcasts"
@@ -4262,6 +4270,17 @@ module.exports = [
             "Website": "https://blog.codepen.io/radio/"
         },
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
+    },
+    {
+        "name": "CodePen Radio",
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+        "links": {
+            "Website": "https://blog.codepen.io/radio/"
+        },
+        "icon": "https://blog.codepen.io/favicon.ico"
     },
     {
         "name": "Codepip",
@@ -4802,6 +4821,17 @@ module.exports = [
         "icon": "https://colorlib.com/wp/wp-content/uploads/sites/2/2014/05/ipad-colorlib.png"
     },
     {
+        "name": "Colormind",
+        "categories": [
+            "UI Design/Color"
+        ],
+        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
+        "links": {
+            "Website": "http://colormind.io/"
+        },
+        "icon": "http://colormind.io/favicon32.gif"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -4814,17 +4844,6 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
-    },
-    {
-        "name": "Colormind",
-        "categories": [
-            "UI Design/Color"
-        ],
-        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
-        "links": {
-            "Website": "http://colormind.io/"
-        },
-        "icon": "http://colormind.io/favicon32.gif"
     },
     {
         "name": "colors.lol",
@@ -6825,6 +6844,17 @@ module.exports = [
         "icon": "https://www.dreamhost.com/assets/favicons/apple-touch-icon-76x76-18c4bd5a860942003494cecf3aa217b02285f57f5525c0e4985dcb77f0125d91.png"
     },
     {
+        "name": "Dribbble",
+        "categories": [
+            "UI Design/Inspiration"
+        ],
+        "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
+        "links": {
+            "Website": "https://dribbble.com/"
+        },
+        "icon": "https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -6837,17 +6867,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Art & Design"
-    },
-    {
-        "name": "Dribbble",
-        "categories": [
-            "UI Design/Inspiration"
-        ],
-        "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
-        "links": {
-            "Website": "https://dribbble.com/"
-        },
-        "icon": "https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png"
     },
     {
         "categories": [
@@ -10960,20 +10979,6 @@ module.exports = [
         "icon": "https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico"
     },
     {
-        "name": "Icons8",
-        "categories": [
-            "Assets/Icons",
-            "Assets/Illustrations",
-            "Assets/Images",
-            "Assets/Audio"
-        ],
-        "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
-        "links": {
-            "Website": "https://icons8.com"
-        },
-        "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -10986,6 +10991,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Icons8",
+        "categories": [
+            "Assets/Icons",
+            "Assets/Illustrations",
+            "Assets/Images",
+            "Assets/Audio"
+        ],
+        "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
+        "links": {
+            "Website": "https://icons8.com"
+        },
+        "icon": "https://icons8.com/vue-static/icon/favicon/favicon_16.png"
     },
     {
         "name": "Iconscout",
@@ -13699,17 +13718,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Programming/UI Kits & Libraries"
-        ],
-        "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
-        "links": {
-            "Website": "https://material.io/"
-        },
-        "icon": "https://material.io/static/assets/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Assets/Icons"
         ],
         "description": "Get Material Icons.",
@@ -13717,6 +13725,17 @@ module.exports = [
             "Website": "https://material.io/resources/icons"
         },
         "icon": "https://material.io/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Programming/UI Kits & Libraries"
+        ],
+        "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
+        "links": {
+            "Website": "https://material.io/"
+        },
+        "icon": "https://material.io/static/assets/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -13816,6 +13835,17 @@ module.exports = [
         "apiCategory": "Health"
     },
     {
+        "name": "Medium",
+        "categories": [
+            "Community/Blogs & Forums"
+        ],
+        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
+        "links": {
+            "Website": "http://medium.com/"
+        },
+        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -13828,17 +13858,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Personality"
-    },
-    {
-        "name": "Medium",
-        "categories": [
-            "Community/Blogs & Forums"
-        ],
-        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
-        "links": {
-            "Website": "http://medium.com/"
-        },
-        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
     },
     {
         "categories": [
@@ -14965,20 +14984,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://isdayoff.ru"
-        },
-        "name": "Non-Working Days",
-        "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-        "auth": "",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Calendar"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://github.com/gadael/icsdb"
         },
         "name": "Non-Working Days",
@@ -14986,6 +14991,20 @@ module.exports = [
         "auth": "",
         "https": true,
         "cors": "unknown",
+        "apiCategory": "Calendar"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://isdayoff.ru"
+        },
+        "name": "Non-Working Days",
+        "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
         "apiCategory": "Calendar"
     },
     {
@@ -15113,20 +15132,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://numbersapi.com"
-        },
-        "name": "Numbers",
-        "description": "Facts about numbers",
-        "auth": "",
-        "https": false,
-        "cors": "unknown",
-        "apiCategory": "Science & Math"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://math.tools/api/numbers/"
         },
         "name": "Numbers",
@@ -15134,6 +15139,20 @@ module.exports = [
         "auth": "apiKey",
         "https": true,
         "cors": "yes",
+        "apiCategory": "Science & Math"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "http://numbersapi.com"
+        },
+        "name": "Numbers",
+        "description": "Facts about numbers",
+        "auth": "",
+        "https": false,
+        "cors": "unknown",
         "apiCategory": "Science & Math"
     },
     {
@@ -16678,6 +16697,20 @@ module.exports = [
         "apiCategory": "Machine Learning"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.pexels.com/api/"
+        },
+        "name": "Pexels",
+        "description": "Free Stock Photos and Videos",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Photography"
+    },
+    {
         "name": "Pexels",
         "categories": [
             "Assets/Videos",
@@ -16696,20 +16729,6 @@ module.exports = [
             "Website": "https://www.pexels.com/"
         },
         "icon": "https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://www.pexels.com/api/"
-        },
-        "name": "Pexels",
-        "description": "Free Stock Photos and Videos",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Photography"
     },
     {
         "categories": [
@@ -16846,19 +16865,6 @@ module.exports = [
         "apiCategory": "Test Data"
     },
     {
-        "name": "Pixabay",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Illustrations"
-        ],
-        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
-        "links": {
-            "Website": "https://pixabay.com/"
-        },
-        "icon": "https://pixabay.com/favicon-32x32.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -16871,6 +16877,19 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Photography"
+    },
+    {
+        "name": "Pixabay",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Illustrations"
+        ],
+        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
+        "links": {
+            "Website": "https://pixabay.com/"
+        },
+        "icon": "https://pixabay.com/favicon-32x32.png"
     },
     {
         "categories": [
@@ -17629,20 +17648,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://qrtag.net/api/"
-        },
-        "name": "QR code",
-        "description": "Create an easy to read QR code and URL shortener",
-        "auth": "",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Development"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "http://goqr.me/api/"
         },
         "name": "QR code",
@@ -17650,6 +17655,20 @@ module.exports = [
         "auth": "",
         "https": true,
         "cors": "unknown",
+        "apiCategory": "Development"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "http://qrtag.net/api/"
+        },
+        "name": "QR code",
+        "description": "Create an easy to read QR code and URL shortener",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
         "apiCategory": "Development"
     },
     {
@@ -18260,6 +18279,17 @@ module.exports = [
         "apiCategory": "Open Data"
     },
     {
+        "name": "reddit",
+        "categories": [
+            "Community/Blogs & Forums"
+        ],
+        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
+        "links": {
+            "Website": "https://www.reddit.com/"
+        },
+        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -18272,17 +18302,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Social"
-    },
-    {
-        "name": "reddit",
-        "categories": [
-            "Community/Blogs & Forums"
-        ],
-        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
-        "links": {
-            "Website": "https://www.reddit.com/"
-        },
-        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
     },
     {
         "name": "redditors for hire",
@@ -20733,10 +20752,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://swapi.dev/"
+            "Website": "https://www.swapi.tech"
         },
         "name": "SWAPI",
-        "description": "All the Star Wars data you've ever wanted",
+        "description": "All things Star Wars",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -20747,10 +20766,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://www.swapi.tech"
+            "Website": "https://swapi.dev/"
         },
         "name": "SWAPI",
-        "description": "All things Star Wars",
+        "description": "All the Star Wars data you've ever wanted",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -22282,11 +22301,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://transport.opendata.ch/"
+            "Website": "https://opentransportdata.swiss/en/"
         },
         "name": "Transport for Switzerland",
-        "description": "Swiss public transport API",
-        "auth": "",
+        "description": "Official Swiss Public Transport Open Data",
+        "auth": "apiKey",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
@@ -22296,11 +22315,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://opentransportdata.swiss/en/"
+            "Website": "https://transport.opendata.ch/"
         },
         "name": "Transport for Switzerland",
-        "description": "Official Swiss Public Transport Open Data",
-        "auth": "apiKey",
+        "description": "Swiss public transport API",
+        "auth": "",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
@@ -23096,6 +23115,17 @@ module.exports = [
         "icon": "https://upto.site/favicon.png"
     },
     {
+        "name": "Upwork",
+        "categories": [
+            "Jobs/Freelancing"
+        ],
+        "description": "Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.",
+        "links": {
+            "Website": "https://www.upwork.com/"
+        },
+        "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -23108,17 +23138,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Jobs"
-    },
-    {
-        "name": "Upwork",
-        "categories": [
-            "Jobs/Freelancing"
-        ],
-        "description": "Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.",
-        "links": {
-            "Website": "https://www.upwork.com/"
-        },
-        "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
     },
     {
         "categories": [
