@@ -252,7 +252,7 @@ module.exports = [
         links: {
             [website]: 'https://lineicons.com/',
         },
-        icon: 'https://lineicons.com/wp-content/themes/xt-lineicons/assets/img/favicon.png',
+        icon: 'https://user-images.githubusercontent.com/76911582/137953217-de9272df-bdbb-4c5f-9307-f5fb58839cf7.png',
     },
     {
         name: 'LinkedIn Learning',
