@@ -11,16 +11,6 @@ const { website, youtube, facebook, twitter, linkedin, github } = require('../co
 
 module.exports = [
     {
-        name: 'Fake Img',
-        categories: [toolsAndUtilities.imageAndVideoEditing],
-        description:
-            'A little tool that generates placeholder images with an URL. Choose the size, the colors, even the text. ',
-        links: {
-            [website]: 'https://fakeimg.pl/',
-        },
-        icon: 'https://fakeimg.pl/favicon.ico',
-    },
-    {
         name: 'Fathom',
         categories: [toolsAndUtilities.analytics],
         description:
