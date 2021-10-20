@@ -12,6 +12,16 @@ const { website, twitter, youtube, instagram, linkedin, github, codepen, faceboo
 
 module.exports = [
     {
+        name: 'Madza Quizzes',
+        categories: [jobs.interviews],
+        description:
+            'A great resource with 500 free interview questions',
+        links: {
+            [website]: 'https://quizzes.madza.dev/',
+        },
+        icon: 'https://quizzes.madza.dev/favicon.ico',
+    },
+    {
         name: 'Mailchimp',
         categories: [indieHacking.utilities],
         description:
