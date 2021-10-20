@@ -617,6 +617,19 @@ module.exports = [
         "apiCategory": "Music"
     },
     {
+        "name": "Airtable",
+        "categories": [
+            "Indie Hacking/Utilities",
+            "Infrastructure/Databases",
+            "Infrastructure/Serverless"
+        ],
+        "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+        "links": {
+            "Website": "https://airtable.com/"
+        },
+        "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -629,19 +642,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Documents & Productivity"
-    },
-    {
-        "name": "Airtable",
-        "categories": [
-            "Indie Hacking/Utilities",
-            "Infrastructure/Databases",
-            "Infrastructure/Serverless"
-        ],
-        "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
-        "links": {
-            "Website": "https://airtable.com/"
-        },
-        "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
     },
     {
         "categories": [
@@ -1993,11 +1993,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://docs.bhagavadgitaapi.in"
+            "Website": "https://bhagavadgita.io/api"
         },
         "name": "Bhagavad Gita",
-        "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-        "auth": "apiKey",
+        "description": "Bhagavad Gita text",
+        "auth": "OAuth",
         "https": true,
         "cors": "yes",
         "apiCategory": "Books"
@@ -2007,11 +2007,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://bhagavadgita.io/api"
+            "Website": "https://docs.bhagavadgitaapi.in"
         },
         "name": "Bhagavad Gita",
-        "description": "Bhagavad Gita text",
-        "auth": "OAuth",
+        "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+        "auth": "apiKey",
         "https": true,
         "cors": "yes",
         "apiCategory": "Books"
@@ -4261,17 +4261,6 @@ module.exports = [
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
-        "name": "Codepen radio",
-        "categories": [
-            "Programming/Podcasts"
-        ],
-        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-        "links": {
-            "Website": "https://blog.codepen.io/radio/"
-        },
-        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-    },
-    {
         "name": "CodePen Radio",
         "categories": [
             "Programming/Podcasts"
@@ -4281,6 +4270,17 @@ module.exports = [
             "Website": "https://blog.codepen.io/radio/"
         },
         "icon": "https://blog.codepen.io/favicon.ico"
+    },
+    {
+        "name": "Codepen radio",
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+        "links": {
+            "Website": "https://blog.codepen.io/radio/"
+        },
+        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
         "name": "Codepip",
@@ -4821,6 +4821,17 @@ module.exports = [
         "icon": "https://colorlib.com/wp/wp-content/uploads/sites/2/2014/05/ipad-colorlib.png"
     },
     {
+        "name": "Colormind",
+        "categories": [
+            "UI Design/Color"
+        ],
+        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
+        "links": {
+            "Website": "http://colormind.io/"
+        },
+        "icon": "http://colormind.io/favicon32.gif"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -4833,17 +4844,6 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
-    },
-    {
-        "name": "Colormind",
-        "categories": [
-            "UI Design/Color"
-        ],
-        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
-        "links": {
-            "Website": "http://colormind.io/"
-        },
-        "icon": "http://colormind.io/favicon32.gif"
     },
     {
         "name": "colors.lol",
@@ -5320,10 +5320,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/M-Media-Group/Covid-19-API"
+            "Website": "https://covid19api.com/"
         },
         "name": "Covid-19",
-        "description": "Covid 19 cases, deaths and recovery per country",
+        "description": "Covid 19 spread, infection and recovery",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -5334,10 +5334,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://covid19api.com/"
+            "Website": "https://github.com/M-Media-Group/Covid-19-API"
         },
         "name": "Covid-19",
-        "description": "Covid 19 spread, infection and recovery",
+        "description": "Covid 19 cases, deaths and recovery per country",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -8663,6 +8663,17 @@ module.exports = [
         "icon": "https://freeicons.io/asset/images/favicon.png"
     },
     {
+        "name": "Freelancer",
+        "categories": [
+            "Jobs/Freelancing"
+        ],
+        "description": "Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 48m. Receive quotes in seconds. Post your job online now.",
+        "links": {
+            "Website": "https://www.freelancer.com/"
+        },
+        "icon": "https://www.f-cdn.com/assets/main/en/app-icons/apple-touch-icon.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -8675,17 +8686,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Business"
-    },
-    {
-        "name": "Freelancer",
-        "categories": [
-            "Jobs/Freelancing"
-        ],
-        "description": "Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 48m. Receive quotes in seconds. Post your job online now.",
-        "links": {
-            "Website": "https://www.freelancer.com/"
-        },
-        "icon": "https://www.f-cdn.com/assets/main/en/app-icons/apple-touch-icon.png"
     },
     {
         "name": "FreePhotos.cc",
@@ -10932,6 +10932,20 @@ module.exports = [
         "apiCategory": "Transportation"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://icon.horse"
+        },
+        "name": "Icon Horse",
+        "description": "Favicons for any website, with fallbacks",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Art & Design"
+    },
+    {
         "name": "Icon Horse",
         "categories": [
             "Assets/Icons"
@@ -10949,20 +10963,6 @@ module.exports = [
             "Twitter": "https://twitter.com/iconhorse"
         },
         "icon": "https://icon.horse/icon/icon.horse"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://icon.horse"
-        },
-        "name": "Icon Horse",
-        "description": "Favicons for any website, with fallbacks",
-        "auth": "",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Art & Design"
     },
     {
         "categories": [
@@ -13729,17 +13729,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Programming/UI Kits & Libraries"
-        ],
-        "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
-        "links": {
-            "Website": "https://material.io/"
-        },
-        "icon": "https://material.io/static/assets/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Assets/Icons"
         ],
         "description": "Get Material Icons.",
@@ -13747,6 +13736,17 @@ module.exports = [
             "Website": "https://material.io/resources/icons"
         },
         "icon": "https://material.io/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Programming/UI Kits & Libraries"
+        ],
+        "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
+        "links": {
+            "Website": "https://material.io/"
+        },
+        "icon": "https://material.io/static/assets/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -13846,17 +13846,6 @@ module.exports = [
         "apiCategory": "Health"
     },
     {
-        "name": "Medium",
-        "categories": [
-            "Community/Blogs & Forums"
-        ],
-        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
-        "links": {
-            "Website": "http://medium.com/"
-        },
-        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -13869,6 +13858,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Personality"
+    },
+    {
+        "name": "Medium",
+        "categories": [
+            "Community/Blogs & Forums"
+        ],
+        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
+        "links": {
+            "Website": "http://medium.com/"
+        },
+        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
     },
     {
         "categories": [
@@ -14009,6 +14009,17 @@ module.exports = [
         "https": true,
         "cors": "no",
         "apiCategory": "Weather"
+    },
+    {
+        "name": "Metazord",
+        "categories": [
+            "Tools & Utilities/SEO"
+        ],
+        "description": "Get a complete information and preview of your site meta tags",
+        "links": {
+            "Website": "https://www.metazord.io/"
+        },
+        "icon": "https://www.metazord.io/favicon-32x32.png"
     },
     {
         "categories": [
@@ -14995,20 +15006,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/gadael/icsdb"
-        },
-        "name": "Non-Working Days",
-        "description": "Database of ICS files for non working days",
-        "auth": "",
-        "https": true,
-        "cors": "unknown",
-        "apiCategory": "Calendar"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://isdayoff.ru"
         },
         "name": "Non-Working Days",
@@ -15016,6 +15013,20 @@ module.exports = [
         "auth": "",
         "https": true,
         "cors": "yes",
+        "apiCategory": "Calendar"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://github.com/gadael/icsdb"
+        },
+        "name": "Non-Working Days",
+        "description": "Database of ICS files for non working days",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
         "apiCategory": "Calendar"
     },
     {
@@ -15714,10 +15725,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://www.inegi.org.mx/datos/"
+            "Website": "https://datos.gob.mx/"
         },
         "name": "Open Government, Mexico",
-        "description": "Mexican Statistical Government Open Data",
+        "description": "Mexico Government Open Data",
         "auth": "",
         "https": true,
         "cors": "unknown",
@@ -15728,10 +15739,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://datos.gob.mx/"
+            "Website": "https://www.inegi.org.mx/datos/"
         },
         "name": "Open Government, Mexico",
-        "description": "Mexico Government Open Data",
+        "description": "Mexican Statistical Government Open Data",
         "auth": "",
         "https": true,
         "cors": "unknown",
@@ -16876,6 +16887,19 @@ module.exports = [
         "apiCategory": "Test Data"
     },
     {
+        "name": "Pixabay",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Illustrations"
+        ],
+        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
+        "links": {
+            "Website": "https://pixabay.com/"
+        },
+        "icon": "https://pixabay.com/favicon-32x32.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -16888,19 +16912,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Photography"
-    },
-    {
-        "name": "Pixabay",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Illustrations"
-        ],
-        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
-        "links": {
-            "Website": "https://pixabay.com/"
-        },
-        "icon": "https://pixabay.com/favicon-32x32.png"
     },
     {
         "categories": [
@@ -17292,6 +17303,17 @@ module.exports = [
         "icon": "https://www.primefaces.org/wp-content/uploads/fbrfg/favicon-32x32.png"
     },
     {
+        "name": "Product Hunt",
+        "categories": [
+            "Indie Hacking/Platforms"
+        ],
+        "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
+        "links": {
+            "Website": "https://www.producthunt.com/"
+        },
+        "icon": "https://ph-static.imgix.net/ph-ios-icon.png?auto=format&auto=compress"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -17304,17 +17326,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Social"
-    },
-    {
-        "name": "Product Hunt",
-        "categories": [
-            "Indie Hacking/Platforms"
-        ],
-        "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
-        "links": {
-            "Website": "https://www.producthunt.com/"
-        },
-        "icon": "https://ph-static.imgix.net/ph-ios-icon.png?auto=format&auto=compress"
     },
     {
         "name": "Programiz",
@@ -17645,11 +17656,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://fungenerators.com/api/qrcode/"
+            "Website": "http://qrtag.net/api/"
         },
-        "name": "QR Code",
-        "description": "Create new QR Code or decode existing one",
-        "auth": "apiKey",
+        "name": "QR code",
+        "description": "Create an easy to read QR code and URL shortener",
+        "auth": "",
         "https": true,
         "cors": "yes",
         "apiCategory": "Development"
@@ -17673,11 +17684,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://qrtag.net/api/"
+            "Website": "https://fungenerators.com/api/qrcode/"
         },
-        "name": "QR code",
-        "description": "Create an easy to read QR code and URL shortener",
-        "auth": "",
+        "name": "QR Code",
+        "description": "Create new QR Code or decode existing one",
+        "auth": "apiKey",
         "https": true,
         "cors": "yes",
         "apiCategory": "Development"
@@ -22340,12 +22351,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
         },
         "name": "Transport for The Netherlands",
-        "description": "NS, only trains",
-        "auth": "apiKey",
-        "https": false,
+        "description": "OVAPI, country-wide public transport",
+        "auth": "",
+        "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
     },
@@ -22354,12 +22365,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            "Website": "http://www.ns.nl/reisinformatie/ns-api"
         },
         "name": "Transport for The Netherlands",
-        "description": "OVAPI, country-wide public transport",
-        "auth": "",
-        "https": true,
+        "description": "NS, only trains",
+        "auth": "apiKey",
+        "https": false,
         "cors": "unknown",
         "apiCategory": "Transportation"
     },
@@ -23942,17 +23953,6 @@ module.exports = [
         "apiCategory": "Text Analysis"
     },
     {
-        "name": "Wave",
-        "categories": [
-            "Tools & Utilities/General"
-        ],
-        "description": "Free invoicing & accounting software with credit card processing & payroll services.",
-        "links": {
-            "Website": "https://www.waveapps.com/"
-        },
-        "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
-    },
-    {
         "name": "WAVE",
         "categories": [
             "Tools & Utilities/Accessibility"
@@ -23962,6 +23962,17 @@ module.exports = [
             "Website": "https://wave.webaim.org/"
         },
         "icon": "https://wave.webaim.org/favicon.ico"
+    },
+    {
+        "name": "Wave",
+        "categories": [
+            "Tools & Utilities/General"
+        ],
+        "description": "Free invoicing & accounting software with credit card processing & payroll services.",
+        "links": {
+            "Website": "https://www.waveapps.com/"
+        },
+        "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
     },
     {
         "name": "We Work Remotely",
