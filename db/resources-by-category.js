@@ -1728,11 +1728,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://bhagavadgita.io/api"
+                "Website": "https://docs.bhagavadgitaapi.in"
             },
             "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "auth": "OAuth",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -1742,11 +1742,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
+                "Website": "https://bhagavadgita.io/api"
             },
             "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "auth": "apiKey",
+            "description": "Bhagavad Gita text",
+            "auth": "OAuth",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -3688,10 +3688,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -3702,10 +3702,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -9806,20 +9806,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "name": "Numbers",
@@ -9827,6 +9813,20 @@ module.exports = {
             "auth": "",
             "https": false,
             "cors": "unknown",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Science & Math"
         },
         {
@@ -14622,12 +14622,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
             },
             "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
+            "description": "NS, only trains",
+            "auth": "apiKey",
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -14636,12 +14636,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
             "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
-            "auth": "apiKey",
-            "https": false,
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -25502,6 +25502,42 @@ module.exports = {
             "icon": "https://designcode.io/icons/icon-96x96.png"
         }
     ],
+    "tools-utilities-image-video-editing": [
+        {
+            "name": "Fake Img",
+            "categories": [
+                "Tools & Utilities/Image & Video Editing"
+            ],
+            "description": "A little tool that generates placeholder images with an URL. Choose the size, the colors, even the text. ",
+            "links": {
+                "Website": "https://fakeimg.pl/"
+            },
+            "icon": "https://fakeimg.pl/favicon.ico"
+        },
+        {
+            "name": "Let's Enhance",
+            "categories": [
+                "Tools & Utilities/Image & Video Editing"
+            ],
+            "description": "Simple machine learning software to enlarge images with no quality loss, enhance colors and photo resolution, automatically retouch product photos. Free trial.",
+            "links": {
+                "Website": "https://letsenhance.io/"
+            },
+            "icon": "https://letsenhance.io/static/favicon/icon-96.png"
+        },
+        {
+            "name": "SVGX",
+            "categories": [
+                "UI Design/Utilities",
+                "Tools & Utilities/Image & Video Editing"
+            ],
+            "description": "SVGX is the desktop SVG asset manager designers and developers wished they had.",
+            "links": {
+                "Website": "https://svgx.app/"
+            },
+            "icon": "https://svgx.app/assets/favicons/favicon-96x96.png"
+        }
+    ],
     "programming-javascript-react": [
         {
             "name": "Gatsby",
@@ -25830,31 +25866,6 @@ module.exports = {
                 "Website": "https://thebootstrappedfounder.com/zero-to-sold/"
             },
             "icon": "https://i0.wp.com/thebootstrappedfounder.com/wp-content/uploads/2019/11/cropped-Untitled-1.png?fit=32%2C32&ssl=1"
-        }
-    ],
-    "tools-utilities-image-video-editing": [
-        {
-            "name": "Let's Enhance",
-            "categories": [
-                "Tools & Utilities/Image & Video Editing"
-            ],
-            "description": "Simple machine learning software to enlarge images with no quality loss, enhance colors and photo resolution, automatically retouch product photos. Free trial.",
-            "links": {
-                "Website": "https://letsenhance.io/"
-            },
-            "icon": "https://letsenhance.io/static/favicon/icon-96.png"
-        },
-        {
-            "name": "SVGX",
-            "categories": [
-                "UI Design/Utilities",
-                "Tools & Utilities/Image & Video Editing"
-            ],
-            "description": "SVGX is the desktop SVG asset manager designers and developers wished they had.",
-            "links": {
-                "Website": "https://svgx.app/"
-            },
-            "icon": "https://svgx.app/assets/favicons/favicon-96x96.png"
         }
     ],
     "tools-utilities-web-scraping": [
