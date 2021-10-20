@@ -38,7 +38,7 @@ module.exports = [
         links: {
             [website]: 'https://feathericons.com/',
         },
-        icon: 'https://feathericons.com/icons/icon-96x96.png',
+        icon: 'https://feathericons.com/favicon-32x32.png',
     },
     {
         name: 'Figma',
@@ -257,7 +257,7 @@ module.exports = [
         links: {
             [website]: 'https://fontawesome.com',
         },
-        icon: 'https://fontawesome.com/images/favicons/favicon-96x96.png',
+        icon: 'https://fontawesome.com/images/favicon/icon.svg',
     },
     {
         name: 'Font Space',
@@ -317,7 +317,7 @@ module.exports = [
         links: {
             [website]: 'https://fontpair.co/',
         },
-        icon: 'https://fontpair.co/img/favicon.png',
+        icon: 'https://uploads-ssl.webflow.com/5df11841b7e5a489e7c67859/6161da7091c49496c05aeff4_fontpair-logo-primary-dark.svg',
     },
     {
         name: 'Fonts In Use',

@@ -335,7 +335,7 @@ module.exports = [
         links: {
             [website]: 'https://boxicons.com/',
         },
-        icon: 'https://boxicons.com/static/img/favicon.ico?v=11',
+        icon: 'https://boxicons.com/static/favicon.ico?v=13',
     },
     {
         name: 'Brackets',
