@@ -165,6 +165,16 @@ module.exports = [
         icon: 'https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png',
     },
     {
+        name: 'Metaverse Jobs',
+        categories: [jobs.boards],
+        description:
+            'Search for metaverse jobs in augmented reality, virtual reality, NFT, crypto, gaming, and more.',
+        links: {
+            [website]: 'https://www.themetaversejobs.com/',
+        },
+        icon: 'https://global-uploads.webflow.com/6138f6cb1bda9ece7529a20b/6150c7d3934a945f2b4d11e7_Copy%20of%20The%20Metaverse%20Jobs.png',
+    },
+    {
         name: 'Metazord',
         categories: [toolsAndUtilities.seo],
         description:
