@@ -213,7 +213,7 @@ module.exports = [
     },
     {
         name: 'UpLabs',
-        categories: [assets.illustrations, assets.icons],
+        categories: [assets.illustrations, assets.icons, uiDesign.inspiration],
         description: 'UpLabs curates the best of design & development inspiration, resources and freebies. Every day!',
         links: {
             [website]: 'https://www.uplabs.com/',

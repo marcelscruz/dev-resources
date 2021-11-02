@@ -52,6 +52,16 @@ module.exports = [
         icon: 'https://nomadlist.com/assets/logo.svg',
     },
     {
+        name: 'Nord',
+        description: 'A arctic, north-bluish color palette',
+        categories: [toolsAndUtilities.general],
+        links: {
+            [website]: 'https://www.nordtheme.com/',
+        },
+        icon: 'https://www.nordtheme.com/icons/icon-96x96.png?v=970545fb8e9518a3616ec74d00cfebc4',
+        keywords: ['nord', 'arctic', 'north', 'bluish', 'clean', 'minimal', 'flat', 'ui', 'syntax', 'website', 'documentation', 'react', 'arcticicestudio'],
+    },
+    {
         name: 'Notepad++',
         categories: [toolsAndUtilities.editorsAndExtensions],
         description:

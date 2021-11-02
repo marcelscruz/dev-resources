@@ -182,6 +182,16 @@ module.exports = [
         icon: 'https://angel.co/images/icons/iOS/UpdatedFavicon_72x72.png',
     },
     {
+        name: 'Angular DevTools',
+        description: 'Angular DevTools extends Chrome DevTools adding Angular specific debugging and profiling capabilities. You can use Angular DevTools to understand the structure of your application and preview the state of the directive and the component instances. To get insights into the execution of the application, you can use the profiler tab, which shows you the individual change detection cycles, what triggered them, and how much time Angular spent in them.',
+        categories: [toolsAndUtilities.browsersAndExtensions],
+        links: {
+            [website]: 'https://angular.io/guide/devtools',
+        },
+        icon: 'https://angular.io/assets/images/favicons/favicon-96x96.png',
+        keywords: ['dev tools', 'angular', 'profiler', 'profiling'],
+    },
+    {
         name: 'Animista',
         categories: [uiDesign.utilities],
         description:

@@ -1,5 +1,5 @@
 const { uiDesign, infrastructure, toolsAndUtilities, assets, jobs, programming } = require('../constants/categories')
-const { website } = require('../constants/links')
+const { website, github } = require('../constants/links')
 
 module.exports = [
     {
@@ -80,6 +80,17 @@ module.exports = [
             [website]: 'https://visualhunt.com/',
         },
         icon: 'https://visualhunt.com/favicon.ico',
+    },
+    {
+        name: 'Vue.js devtools',
+        description: 'Browser devtools extension for debugging Vue.js applications',
+        categories: [toolsAndUtilities.browsersAndExtensions],
+        links: {
+            [website]: 'https://devtools.vuejs.org/',
+            [github]: 'https://github.com/vuejs/devtools',
+        },
+        icon: 'https://vuejs.org/images/icons/favicon-96x96.png',
+        keywords: ['dev tools', 'Vue', 'debugging', 'extension', 'browser extension']
     },
     {
         name: 'VueJobs',
