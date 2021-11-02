@@ -1,7 +1,21 @@
 const { programming, toolsAndUtilities, uiDesign, jobs, assets, indieHacking } = require('../constants/categories')
-const { website, youtube, applePodcasts, spotify, github } = require('../constants/links')
+const { website, youtube, applePodcasts, spotify, github, facebook, twitter } = require('../constants/links')
 
 module.exports = [
+    {
+    name: 'Eagle App',
+    description:
+        'Unify your creative inspiration in one place. Store anything – inspiring images, design mockups, illustrations, screenshots and more.',
+    categories: [uiDesign.inspiration],
+    links: {
+        [website]: 'https://en.eagle.cool/',
+        [twitter]: 'https://twitter.com/eagle_app',
+        [facebook]: 'https://www.facebook.com/eagleapp',
+        [youtube]: 'https://www.youtube.com/channel/UCRQc0DPIeQj7U2kvGay3DAg',
+    },
+    icon: 'https://eagle.cool/favicon.ico', 
+    keywords: ['file manager', 'image browser', 'color filter', 'designer tool', 'design file organization'],
+    },
     {
         name: 'EASEOUT',
         categories: [programming.learn],
