@@ -3,6 +3,20 @@ const { website, youtube, applePodcasts, spotify, github } = require('../constan
 
 module.exports = [
     {
+    name: 'Eagle App',
+    description:
+        'Unify your creative inspiration in one place. Store anything – inspiring images, design mockups, illustrations, screenshots and more.',
+    categories: [uiDesign.inspiration],
+    links: {
+        [Website]: 'https://en.eagle.cool/',
+        [Twitter]: 'https://twitter.com/eagle_app',
+        [Facebook]: 'https://www.facebook.com/eagleapp',
+        [Youtube]: 'https://www.youtube.com/channel/UCRQc0DPIeQj7U2kvGay3DAg',
+    },
+    icon: 'https://eagle.cool/favicon.ico', 
+    keywords: ['file manager', 'image browser', 'color filter', 'designer tool', 'design file organization'],
+    },
+    {
         name: 'EASEOUT',
         categories: [programming.learn],
         description:
