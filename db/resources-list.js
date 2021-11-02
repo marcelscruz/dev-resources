@@ -1,5 +1,19 @@
 module.exports = [
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://0x.org/api"
+        },
+        "name": "0x",
+        "description": "API for querying token and pool stats across various liquidity pools",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Cryptocurrency"
+    },
+    {
         "name": "1001 Fonts",
         "categories": [
             "Assets/Fonts"
@@ -498,6 +512,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://www.adoptapet.com/public/apis/pet_list.html"
+        },
+        "name": "AdoptAPet",
+        "description": "Resource to help get pets adopted",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Animals"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://adresse.data.gouv.fr"
         },
         "name": "adresse.data.gouv.fr",
@@ -760,6 +788,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://docs.alchemy.com/alchemy/"
+        },
+        "name": "Alchemy Ethereum",
+        "description": "Ethereum Node-as-a-Service Provider",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Cryptocurrency"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://aletheiaapi.com/"
         },
         "name": "Aletheia",
@@ -841,6 +883,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://www.amdoren.com/currency-api/"
+        },
+        "name": "Amdoren",
+        "description": "Free currency API with over 150 currencies",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Currency Exchange"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://amiiboapi.com/"
         },
         "name": "AmiiboAPI",
@@ -894,7 +950,7 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/AniAPI-Team/AniAPI"
+            "Website": "https://aniapi.com/docs/"
         },
         "name": "AniAPI",
         "description": "Anime discovery, streaming & syncing with trackers",
@@ -1011,6 +1067,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Cloud Storage & File Sharing"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://superset.apache.org/docs/rest-api"
+        },
+        "name": "Apache Superset",
+        "description": "API to manage your BI dashboards and data sources on Superset",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Business"
     },
     {
         "categories": [
@@ -1186,7 +1256,7 @@ module.exports = [
         },
         "name": "apilayer mailboxlayer",
         "description": "Email address validation",
-        "auth": "",
+        "auth": "apiKey",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Data Validation"
@@ -2185,6 +2255,20 @@ module.exports = [
         "apiCategory": "Books"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://docs.bic-boxtech.org/"
+        },
+        "name": "BIC-Boxtech",
+        "description": "Container technical detail for the global container fleet",
+        "auth": "OAuth",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Transportation"
+    },
+    {
         "name": "Big Heads",
         "categories": [
             "Assets/Illustrations"
@@ -2315,6 +2399,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Development"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://nova.bitcambio.com.br/api/v3/docs#a-public"
+        },
+        "name": "Bitcambio",
+        "description": "Get the list of all traded assets in the exchange",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Cryptocurrency"
     },
     {
         "categories": [
@@ -2504,6 +2602,20 @@ module.exports = [
         "icon": "https://assets.website-files.com/5f0a234d1293a2f4eb599bb5/5f4550325567b37a486e00eb_black%20illustrations%20logo.png"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://blague.xyz/"
+        },
+        "name": "Blague.xyz",
+        "description": "La plus grande API de Blagues FR/The biggest FR jokes API",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Development"
+    },
+    {
         "name": "Blisk",
         "categories": [
             "Tools & Utilities/Browsers & Extensions"
@@ -2662,6 +2774,20 @@ module.exports = [
         "https": true,
         "cors": "no",
         "apiCategory": "Games & Comics"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://boleto.cloud/"
+        },
+        "name": "Boleto.Cloud",
+        "description": "A api to generate boletos in Brazil",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Finance"
     },
     {
         "name": "Bootify",
@@ -2907,6 +3033,20 @@ module.exports = [
             "Website": "https://brave.com/"
         },
         "icon": "https://brave.com/static-assets/images/brave-favicon.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://bravenewcoin.com/developers"
+        },
+        "name": "Brave NewCoin",
+        "description": "Real-time and historic crypto data from more than 200+ exchanges",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Cryptocurrency"
     },
     {
         "categories": [
@@ -3449,6 +3589,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://catchtheshow.herokuapp.com/api/documentation"
+        },
+        "name": "Catch The Show",
+        "description": "REST API for next-episode.net",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Video"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://docs.thecatapi.com/"
         },
         "name": "Cats",
@@ -3742,6 +3896,20 @@ module.exports = [
         "icon": "https://choc-ui.tech/favicon-32x32.png"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://chompthis.com/api/"
+        },
+        "name": "Chomp",
+        "description": "Data about various grocery products and foods",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Food & Drink"
+    },
+    {
         "name": "Chrome",
         "categories": [
             "Tools & Utilities/Browsers & Extensions"
@@ -3951,6 +4119,34 @@ module.exports = [
         },
         "name": "City, Helsinki",
         "description": "Helsinki(FI) City Open Data",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Government"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://data.kyivcity.gov.ua/"
+        },
+        "name": "City, Kyiv",
+        "description": "Kyiv(UA) City Open Data",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Government"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://opendata.city-adm.lviv.ua/"
+        },
+        "name": "City, Lviv",
+        "description": "Lviv(UA) City Open Data",
         "auth": "",
         "https": true,
         "cors": "unknown",
@@ -4409,6 +4605,20 @@ module.exports = [
         "icon": "https://cmdchallenge.com/favicon.ico"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://co2offset.io/api.html"
+        },
+        "name": "CO2 Offset",
+        "description": "API calculates and validates the carbon footprint",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Environment"
+    },
+    {
         "name": "Code to go",
         "categories": [
             "Programming/Code Snippets"
@@ -4653,17 +4863,6 @@ module.exports = [
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
-        "name": "Codepen radio",
-        "categories": [
-            "Programming/Podcasts"
-        ],
-        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-        "links": {
-            "Website": "https://blog.codepen.io/radio/"
-        },
-        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-    },
-    {
         "name": "CodePen Radio",
         "categories": [
             "Programming/Podcasts"
@@ -4673,6 +4872,17 @@ module.exports = [
             "Website": "https://blog.codepen.io/radio/"
         },
         "icon": "https://blog.codepen.io/favicon.ico"
+    },
+    {
+        "name": "Codepen radio",
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+        "links": {
+            "Website": "https://blog.codepen.io/radio/"
+        },
+        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
         "name": "Codepip",
@@ -5838,6 +6048,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://data.covid19india.org/"
+        },
+        "name": "Covid-19 India",
+        "description": "Covid 19 statistics state and district wise about cases, vaccinations, recovery within India",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Health"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://nuttaphat.com/covid19-api/"
         },
         "name": "Covid-19 JHU CSSE",
@@ -6235,6 +6459,20 @@ module.exports = [
             "Website": "https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce"
         },
         "icon": "https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://api.cts-strasbourg.eu/"
+        },
+        "name": "CTS",
+        "description": "CTS Realtime API",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Transportation"
     },
     {
         "categories": [
@@ -7241,10 +7479,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://dukengn.github.io/Dog-facts-API/"
+            "Website": "https://kinduff.github.io/dog-api/"
         },
         "name": "Dog Facts",
-        "description": "Random dog facts",
+        "description": "Random facts of Dogs",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -7255,10 +7493,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://kinduff.github.io/dog-api/"
+            "Website": "https://dukengn.github.io/Dog-facts-API/"
         },
         "name": "Dog Facts",
-        "description": "Random facts of Dogs",
+        "description": "Random dog facts",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -7527,6 +7765,20 @@ module.exports = [
         "apiCategory": "Development"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://docs.dydx.exchange/"
+        },
+        "name": "dYdX",
+        "description": "Decentralized cryptocurrency exchange",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Cryptocurrency"
+    },
+    {
         "name": "dygraphs",
         "categories": [
             "Programming/Charts"
@@ -7547,6 +7799,27 @@ module.exports = [
             "Website": "https://aws.amazon.com/dynamodb/"
         },
         "icon": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"
+    },
+    {
+        "name": "Eagle App",
+        "description": "Unify your creative inspiration in one place. Store anything – inspiring images, design mockups, illustrations, screenshots and more.",
+        "categories": [
+            "UI Design/Inspiration"
+        ],
+        "links": {
+            "Website": "https://en.eagle.cool/",
+            "Twitter": "https://twitter.com/eagle_app",
+            "Facebook": "https://www.facebook.com/eagleapp",
+            "YouTube": "https://www.youtube.com/channel/UCRQc0DPIeQj7U2kvGay3DAg"
+        },
+        "icon": "https://eagle.cool/favicon.ico",
+        "keywords": [
+            "file manager",
+            "image browser",
+            "color filter",
+            "designer tool",
+            "design file organization"
+        ]
     },
     {
         "name": "EASEOUT",
@@ -7967,6 +8240,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://etherscan.io/apis"
+        },
+        "name": "Etherscan",
+        "description": "Ethereum explorer API",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Blockchain"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API"
         },
         "name": "Ethplorer",
@@ -8140,6 +8427,20 @@ module.exports = [
             "Website": "https://exercism.io/"
         },
         "icon": "https://assets.exercism.io/assets/favicon/apple-touch-icon-72x72-4ebeea76fc0ae80d3bb77a59752c5caf5d7debce078764ef95d6b69caa5e9c0b.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://documenter.getpostman.com/view/10287440/SzYXWKPi"
+        },
+        "name": "EXMO",
+        "description": "Cryptocurrencies exchange based in UK",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Cryptocurrency"
     },
     {
         "name": "explainshell",
@@ -8353,6 +8654,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Calendar"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://ffxivcollect.com/"
+        },
+        "name": "FFXIV Collect",
+        "description": "Final Fantasy XIV data on collectables",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Games & Comics"
     },
     {
         "categories": [
@@ -8731,6 +9046,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Shopping"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://docs.flowdash.com/docs/api-introduction"
+        },
+        "name": "Flowdash",
+        "description": "Automate business workflows",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Documents & Productivity"
     },
     {
         "name": "Fluid UI",
@@ -9555,6 +9884,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://api-docs.fullhunt.io/#introduction"
+        },
+        "name": "FullHunt",
+        "description": "Searchable attack surface database of the entire internet",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Security"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://asli-fun-fact-api.herokuapp.com/"
         },
         "name": "Fun Facts",
@@ -9608,6 +9951,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://github.com/cyberboysumanjay/GaanaAPI"
+        },
+        "name": "Gaana",
+        "description": "API to retrieve song information from Gaana",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Music"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://gameofthronesquotes.xyz/"
         },
         "name": "Game of Thrones Quotes",
@@ -9630,6 +9987,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Games & Comics"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.gate.io/api2"
+        },
+        "name": "Gateio",
+        "description": "API provides spot, margin and futures trading operations",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Cryptocurrency"
     },
     {
         "name": "Gatsby",
@@ -9696,6 +10067,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://apidocs.geekflare.com/docs/geekflare-api"
+        },
+        "name": "GeekFlare",
+        "description": "Provide numerous capabilities for important testing and monitoring methods for websites",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Development"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://docs.gemini.com/rest-api/"
         },
         "name": "Gemini",
@@ -9718,6 +10103,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Development"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://api.generadordni.es"
+        },
+        "name": "GeneradorDNI",
+        "description": "Data generator API. Profiles, vehicles, banks and cards, etc",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Test Data"
     },
     {
         "categories": [
@@ -9760,6 +10159,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Music"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://genshin.dev"
+        },
+        "name": "Genshin Impact",
+        "description": "Genshin Impact game data",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Games & Comics"
     },
     {
         "categories": [
@@ -10262,6 +10675,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://www.goodreads.com/api"
+        },
+        "name": "Goodreads",
+        "description": "Developers Access to Goodreads data",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Books"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://developers.google.com/analytics/"
         },
         "name": "Google Analytics",
@@ -10449,6 +10876,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Geocoding"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://developers.google.com/photos"
+        },
+        "name": "Google Photos",
+        "description": "Integrate Google Photos with your apps or devices",
+        "auth": "OAuth",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Photography"
     },
     {
         "categories": [
@@ -10675,6 +11116,20 @@ module.exports = [
         "icon": "https://graygrids.com/wp-content/uploads/Group-1-2.png"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://docs.greynoise.io/reference/get_v3-community-ip"
+        },
+        "name": "GreyNoise",
+        "description": "Query IPs in the GreyNoise dataset and retrieve a subset of the full IP context data",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Security"
+    },
+    {
         "name": "Grid Garden",
         "categories": [
             "Programming/Learn"
@@ -10778,6 +11233,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Government"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://github.com/GurbaniNow/api"
+        },
+        "name": "GurbaniNow",
+        "description": "Fast and Accurate Gurbani RESTful API",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Books"
     },
     {
         "name": "Guru",
@@ -11036,6 +11505,20 @@ module.exports = [
         "icon": "https://cdn.hashnode.com/res/hashnode/image/upload/v1592400819640/7VL8RW7wc.png"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://hasura.io/opensource/"
+        },
+        "name": "Hasura",
+        "description": "GraphQL and REST API Engine with built in Authorization",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Development"
+    },
+    {
         "name": "Hatchful",
         "categories": [
             "Assets/Logos"
@@ -11120,6 +11603,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://docs.helium.com/api/blockchain/introduction/"
+        },
+        "name": "Helium",
+        "description": "Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Blockchain"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://www.fourtonfish.com/hellosalut/hello/"
         },
         "name": "HelloSalut",
@@ -11177,6 +11674,20 @@ module.exports = [
         "icon": "https://heroicons.com/_next/static/media/favicon-32x32.eee32601ba9d4702f841835990ed3801.png"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://devcenter.heroku.com/articles/platform-api-reference/"
+        },
+        "name": "Heroku",
+        "description": "REST API to programmatically create apps, provision add-ons and perform other task on Heroku",
+        "auth": "OAuth",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Development"
+    },
+    {
         "name": "Heroku",
         "categories": [
             "Infrastructure/Hosting"
@@ -11197,6 +11708,20 @@ module.exports = [
             "Website": "https://www.heymeta.com/"
         },
         "icon": "https://www.heymeta.com/favicon-32x32.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://hgbrasil.com/status/weather"
+        },
+        "name": "HG Weather",
+        "description": "Provides weather forecast data for cities in Brazil",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Weather"
     },
     {
         "name": "High Compress",
@@ -11594,6 +12119,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://huobiapi.github.io/docs/spot/v1/en/"
+        },
+        "name": "Huobi",
+        "description": "Seychelles based cryptocurrency exchange",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Cryptocurrency"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://api.hypixel.net/"
         },
         "name": "Hypixel",
@@ -11716,6 +12255,20 @@ module.exports = [
         "apiCategory": "Transportation"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://icon.horse"
+        },
+        "name": "Icon Horse",
+        "description": "Favicons for any website, with fallbacks",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Art & Design"
+    },
+    {
         "name": "Icon Horse",
         "categories": [
             "Assets/Icons"
@@ -11733,20 +12286,6 @@ module.exports = [
             "Twitter": "https://twitter.com/iconhorse"
         },
         "icon": "https://icon.horse/icon/icon.horse"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://icon.horse"
-        },
-        "name": "Icon Horse",
-        "description": "Favicons for any website, with fallbacks",
-        "auth": "",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Art & Design"
     },
     {
         "categories": [
@@ -11778,11 +12317,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://docs.icons8.apiary.io/#reference/0/meta"
+            "Website": "https://img.icons8.com/"
         },
         "name": "Icons8",
-        "description": "Icons",
-        "auth": "OAuth",
+        "description": "Icons (find \"search icon\" hyperlink in page)",
+        "auth": "",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Art & Design"
@@ -11935,6 +12474,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Games & Comics"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://developer.ilovepdf.com/"
+        },
+        "name": "iLovePDF",
+        "description": "Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Documents & Productivity"
     },
     {
         "name": "Image Optimizer",
@@ -12094,6 +12647,34 @@ module.exports = [
             "Website": "https://www.indeed.com/create-resume"
         },
         "icon": "https://www.indeed.com/profile/gatsby-assets/icons/icon-96x96.png?v=d69338e3b43810840b9a84d69dbaa30e"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://developer.indeed.com/"
+        },
+        "name": "Indeed",
+        "description": "Jobs search engine",
+        "auth": "OAuth",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Jobs"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.mfapi.in/"
+        },
+        "name": "Indian Mutual Fund",
+        "description": "Get complete history of India Mutual Funds Data",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Finance"
     },
     {
         "name": "Indie Bits",
@@ -12510,6 +13091,20 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Geocoding"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://ip-fast.com/docs/"
+        },
+        "name": "ip-fast.com",
+        "description": "IP address, country and city",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Development"
     },
     {
         "categories": [
@@ -13443,6 +14038,20 @@ module.exports = [
         "icon": "https://cdn.kastatic.org/images/apple-touch-icon-72x72-precomposed.new.png"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://open.kickbox.com/"
+        },
+        "name": "Kickbox",
+        "description": "Email verification API",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Data Validation"
+    },
+    {
         "name": "Kindmetrics",
         "categories": [
             "Tools & Utilities/Analytics"
@@ -13578,6 +14187,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://docs.kucoin.com/"
+        },
+        "name": "KuCoin",
+        "description": "Cryptocurrency Trading Platform",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Cryptocurrency"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://docs.kutt.it/"
         },
         "name": "Kutt",
@@ -13631,6 +14254,20 @@ module.exports = [
             "Website": "https://www.lambdatest.com/"
         },
         "icon": "https://www.lambdatest.com/favicon.ico"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf"
+        },
+        "name": "Land Transport Authority DataMall, Singapore",
+        "description": "Singapore transport information",
+        "auth": "apiKey",
+        "https": false,
+        "cors": "unknown",
+        "apiCategory": "Transportation"
     },
     {
         "name": "Land-book",
@@ -14167,6 +14804,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://localbitcoins.com/api-docs/"
+        },
+        "name": "Localbitcoins",
+        "description": "P2P platform to buy and sell Bitcoins",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Cryptocurrency"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://locationiq.org/docs/"
         },
         "name": "LocationIQ",
@@ -14261,6 +14912,20 @@ module.exports = [
             "Website": "https://looka.com"
         },
         "icon": "https://cdn.logojoy.com/wp-content/uploads/20190607113635/cropped-favicon-32x32.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://lordicon.com/"
+        },
+        "name": "Lordicon",
+        "description": "Icons with predone Animations",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Art & Design"
     },
     {
         "categories": [
@@ -14503,6 +15168,20 @@ module.exports = [
         "apiCategory": "Test Data"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://mailtrap.docs.apiary.io/#"
+        },
+        "name": "Mailtrap",
+        "description": "A service for the safe testing of emails sent from the development and staging environments",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Email"
+    },
+    {
         "name": "Majestic",
         "categories": [
             "Programming/Testing"
@@ -14676,6 +15355,20 @@ module.exports = [
         "apiCategory": "Business"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://marketaux.com/"
+        },
+        "name": "MarketAux",
+        "description": "Live stock market news with tagged tickers + sentiment and stats JSON API",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "News"
+    },
+    {
         "name": "Marko Denic",
         "categories": [
             "Community/Personal Websites"
@@ -14720,17 +15413,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Get Material Icons.",
-        "links": {
-            "Website": "https://material.io/resources/icons"
-        },
-        "icon": "https://material.io/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Programming/UI Kits & Libraries"
         ],
         "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
@@ -14738,6 +15420,17 @@ module.exports = [
             "Website": "https://material.io/"
         },
         "icon": "https://material.io/static/assets/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Get Material Icons.",
+        "links": {
+            "Website": "https://material.io/resources/icons"
+        },
+        "icon": "https://material.io/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -14796,6 +15489,20 @@ module.exports = [
             "Website": "https://matomo.org/"
         },
         "icon": "https://img.matomo.org/spai/q_lossless+ret_img/https://static.matomo.org/wp-content/uploads/2018/11/cropped-DefaultIcon-32x32.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://api.mattermost.com/"
+        },
+        "name": "Mattermost",
+        "description": "An open source platform for developer collaboration",
+        "auth": "OAuth",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Documents & Productivity"
     },
     {
         "categories": [
@@ -14908,6 +15615,34 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://mempool.space/api"
+        },
+        "name": "Mempool",
+        "description": "Bitcoin API Service focusing on the transaction fee",
+        "auth": "",
+        "https": true,
+        "cors": "no",
+        "apiCategory": "Cryptocurrency"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://github.com/wh-iterabb-it/meowfacts"
+        },
+        "name": "MeowFacts",
+        "description": "Get random cat facts",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Animals"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://www.mercadobitcoin.net/api-doc/"
         },
         "name": "MercadoBitcoin",
@@ -14930,6 +15665,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Shopping"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.mercadopago.com.br/developers/es/reference"
+        },
+        "name": "MercadoPago",
+        "description": "Mercado Pago API reference - all the information you need to develop your integrations",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Finance"
     },
     {
         "categories": [
@@ -14972,6 +15721,34 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Dictionaries"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://messari.io/api"
+        },
+        "name": "Messari",
+        "description": "Provides API endpoints for thousands of crypto assets",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Cryptocurrency"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.metabase.com/"
+        },
+        "name": "Metabase",
+        "description": "An open source Business Intelligence server to share data and analytics inside your company",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Open Source Projects"
     },
     {
         "categories": [
@@ -15499,6 +16276,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://docs.mhw-db.com/"
+        },
+        "name": "Monster Hunter World",
+        "description": "Monster Hunter World data",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Games & Comics"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://docs.moov.io/api/"
         },
         "name": "Moov",
@@ -15674,6 +16465,20 @@ module.exports = [
             "Website": "https://www.mysql.com/"
         },
         "icon": "https://labs.mysql.com/common/themes/sakila/favicon.ico"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://documenter.getpostman.com/view/16605343/Tzm8GG7u"
+        },
+        "name": "MyVaccination",
+        "description": "Vaccination data for Malaysia",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Health"
     },
     {
         "name": "n3-charts",
@@ -15873,6 +16678,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://rapidapi.com/api-sports/api/api-nba/"
+        },
+        "name": "NBA Data",
+        "description": "All NBA Stats DATA, Games, Livescore, Standings, Statistics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Sports & Fitness"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://any-api.com/nba_com/nba_com/docs/API_Description"
         },
         "name": "NBA Stats",
@@ -15912,28 +16731,28 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://developer.nytimes.com/"
+            "Website": "https://docs.netlify.com/api/get-started/"
         },
-        "name": "New York Times",
-        "description": "Provides news",
-        "auth": "apiKey",
+        "name": "Netlify",
+        "description": "Netlify is a hosting service for the programmable web",
+        "auth": "OAuth",
         "https": true,
         "cors": "unknown",
-        "apiCategory": "News"
+        "apiCategory": "Development"
     },
     {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://developer.nytimes.com/docs/books-product/1/overview"
+            "Website": "https://developer.nytimes.com/"
         },
-        "name": "New York Times Books",
-        "description": "Book reviews and The New York Times Best Sellers lists",
+        "name": "New York Times",
+        "description": "The New York Times Developer Network",
         "auth": "apiKey",
         "https": true,
         "cors": "unknown",
-        "apiCategory": "Books"
+        "apiCategory": "News"
     },
     {
         "categories": [
@@ -16106,20 +16925,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://isdayoff.ru"
-        },
-        "name": "Non-Working Days",
-        "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-        "auth": "",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Calendar"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://github.com/gadael/icsdb"
         },
         "name": "Non-Working Days",
@@ -16127,6 +16932,20 @@ module.exports = [
         "auth": "",
         "https": true,
         "cors": "unknown",
+        "apiCategory": "Calendar"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://isdayoff.ru"
+        },
+        "name": "Non-Working Days",
+        "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
         "apiCategory": "Calendar"
     },
     {
@@ -16192,6 +17011,20 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://doc.novadax.com/en-US/#introduction"
+        },
+        "name": "NovaDax",
+        "description": "NovaDAX API to access all market data, trading management endpoints",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Cryptocurrency"
     },
     {
         "name": "Novorésumé",
@@ -16268,20 +17101,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://numbersapi.com"
-        },
-        "name": "Numbers",
-        "description": "Facts about numbers",
-        "auth": "",
-        "https": false,
-        "cors": "unknown",
-        "apiCategory": "Science & Math"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://math.tools/api/numbers/"
         },
         "name": "Numbers",
@@ -16289,6 +17108,20 @@ module.exports = [
         "auth": "apiKey",
         "https": true,
         "cors": "yes",
+        "apiCategory": "Science & Math"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "http://numbersapi.com"
+        },
+        "name": "Numbers",
+        "description": "Facts about numbers",
+        "auth": "",
+        "https": false,
+        "cors": "unknown",
         "apiCategory": "Science & Math"
     },
     {
@@ -16318,6 +17151,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Photography"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://octopart.com/api/v4/reference"
+        },
+        "name": "Octopart",
+        "description": "Electronic part data for manufacturing, design, and sourcing",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Shopping"
     },
     {
         "name": "Octotree",
@@ -16368,6 +17215,34 @@ module.exports = [
             "Website": "https://www.offen.dev/"
         },
         "icon": "https://www.offen.dev/theme/images/favicon.ico"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.okex.com/docs/"
+        },
+        "name": "OKEx",
+        "description": "Cryptocurrency exchange based in Seychelles",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Cryptocurrency"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://developer.olx.pl/api/doc#section/"
+        },
+        "name": "OLX Poland",
+        "description": "Integrate with local sites by posting, managing adverts and communicating with OLX users",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Shopping"
     },
     {
         "categories": [
@@ -16528,6 +17403,34 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Social"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://opendata.minneapolismn.gov/"
+        },
+        "name": "Open Data Minneapolis",
+        "description": "Spatial (GIS) and non-spatial city data for Minneapolis",
+        "auth": "",
+        "https": true,
+        "cors": "no",
+        "apiCategory": "Open Data"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.opendata.nhs.scot"
+        },
+        "name": "Open Data NHS Scotland",
+        "description": "Medical reference data and statistics by Public Health Scotland",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Health"
     },
     {
         "categories": [
@@ -16881,11 +17784,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://www.inegi.org.mx/datos/"
+            "Website": "https://data.public.lu"
         },
-        "name": "Open Government, Mexico",
-        "description": "Mexican Statistical Government Open Data",
-        "auth": "",
+        "name": "Open Government, Luxembourg",
+        "description": "Luxembourgish Government Open Data",
+        "auth": "apiKey",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Government"
@@ -16899,6 +17802,20 @@ module.exports = [
         },
         "name": "Open Government, Mexico",
         "description": "Mexico Government Open Data",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Government"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.inegi.org.mx/datos/"
+        },
+        "name": "Open Government, Mexico",
+        "description": "Mexican Statistical Government Open Data",
         "auth": "",
         "https": true,
         "cors": "unknown",
@@ -17063,7 +17980,7 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://data.gov.sg/"
+            "Website": "https://data.gov.sg/developer"
         },
         "name": "Open Government, Singapore",
         "description": "Singapore Government Open Data",
@@ -17084,6 +18001,20 @@ module.exports = [
         "auth": "",
         "https": true,
         "cors": "unknown",
+        "apiCategory": "Government"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://podatki.gov.si/"
+        },
+        "name": "Open Government, Slovenia",
+        "description": "Slovenia Government Open Data",
+        "auth": "",
+        "https": true,
+        "cors": "no",
         "apiCategory": "Government"
     },
     {
@@ -17179,6 +18110,20 @@ module.exports = [
         },
         "name": "Open Government, UK",
         "description": "UK Government Open Data",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Government"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://data.gov.ua/"
+        },
+        "name": "Open Government, Ukraine",
+        "description": "Ukraine Government Open Data",
         "auth": "",
         "https": true,
         "cors": "unknown",
@@ -17475,6 +18420,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://opengraphr.com/docs/1.0/overview"
+        },
+        "name": "OpenGraphr",
+        "description": "Really simple API to retrieve Open Graph data from an URL",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Development"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://openrouteservice.org/"
         },
         "name": "openrouteservice.org",
@@ -17641,20 +18600,6 @@ module.exports = [
             "Twitter": "https://twitter.com/OrbitModel"
         },
         "icon": "https://orbit.love/assets/images/favicon/32x32.png"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://order-pizza-api.herokuapp.com/api/ui/"
-        },
-        "name": "OrderPizzaAPI",
-        "description": "Order Pizza",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "unknown",
-        "apiCategory": "Food & Drink"
     },
     {
         "name": "Orion",
@@ -18088,6 +19033,20 @@ module.exports = [
         "apiCategory": "Cloud Storage & File Sharing"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://pinballmap.com/api/v1/docs"
+        },
+        "name": "Pinball Map",
+        "description": "A crowdsourced map of public pinball machines",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Geocoding"
+    },
+    {
         "name": "Pingdom",
         "categories": [
             "Tools & Utilities/Performance"
@@ -18391,6 +19350,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://github.com/thundercomb/poetrydb#readme"
+        },
+        "name": "PoetryDB",
+        "description": "Enables you to get instant data from our vast poetry collection",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Books"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://pokeapi.co"
         },
         "name": "Pokéapi",
@@ -18398,6 +19371,20 @@ module.exports = [
         "auth": "",
         "https": true,
         "cors": "unknown",
+        "apiCategory": "Games & Comics"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://github.com/mazipan/graphql-pokeapi"
+        },
+        "name": "PokéAPI (GraphQL)",
+        "description": "The Unofficial GraphQL for PokeAPI",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
         "apiCategory": "Games & Comics"
     },
     {
@@ -18521,17 +19508,6 @@ module.exports = [
         "icon": "https://www.postgresql.org/favicon.ico"
     },
     {
-        "name": "Postman",
-        "categories": [
-            "Tools & Utilities/API Building"
-        ],
-        "description": "Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.",
-        "links": {
-            "Website": "https://www.postman.com/"
-        },
-        "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -18544,6 +19520,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Development"
+    },
+    {
+        "name": "Postman",
+        "categories": [
+            "Tools & Utilities/API Building"
+        ],
+        "description": "Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.",
+        "links": {
+            "Website": "https://www.postman.com/"
+        },
+        "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
     },
     {
         "categories": [
@@ -18940,6 +19927,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Development"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://github.com/deltadex7/puyodb-api-deno"
+        },
+        "name": "Puyo Nexus",
+        "description": "Puyo Puyo information from Puyo Nexus Wiki",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Games & Comics"
     },
     {
         "categories": [
@@ -19375,8 +20376,22 @@ module.exports = [
         "description": "Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed",
         "auth": "apiKey",
         "https": true,
-        "cors": "unknown",
+        "cors": "yes",
         "apiCategory": "Development"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://uselessfacts.jsph.pl/"
+        },
+        "name": "Random Useless Facts",
+        "description": "Get useless, but true facts",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Entertainment"
     },
     {
         "categories": [
@@ -19727,14 +20742,14 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://www.reddit.com/dev/api"
+            "Website": "https://redash.io/help/user-guide/integrations-and-api/api"
         },
-        "name": "Reddit",
-        "description": "Homepage of the internet",
-        "auth": "OAuth",
+        "name": "Redash",
+        "description": "Access your queries and dashboards on Redash",
+        "auth": "apiKey",
         "https": true,
-        "cors": "unknown",
-        "apiCategory": "Social"
+        "cors": "yes",
+        "apiCategory": "Business"
     },
     {
         "name": "reddit",
@@ -19746,6 +20761,20 @@ module.exports = [
             "Website": "https://www.reddit.com/"
         },
         "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.reddit.com/dev/api"
+        },
+        "name": "Reddit",
+        "description": "Homepage of the internet",
+        "auth": "OAuth",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Social"
     },
     {
         "name": "redditors for hire",
@@ -20170,10 +21199,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://www.rijksmuseum.nl/en/api"
+            "Website": "https://data.rijksmuseum.nl/object-metadata/api/"
         },
         "name": "Rijksmuseum",
-        "description": "Art",
+        "description": "RijksMuseum Data",
         "auth": "apiKey",
         "https": true,
         "cors": "unknown",
@@ -20526,6 +21555,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://docs.scanii.com/"
+        },
+        "name": "Scanii",
+        "description": "Simple REST API that can scan submitted documents/files for the presence of threats",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Anti-Malware"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://developer.schiphol.nl/"
         },
         "name": "Schiphol Airport",
@@ -20723,6 +21766,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://www.sec.gov/edgar/sec-api-documentation"
+        },
+        "name": "SEC EDGAR Data",
+        "description": "API to access annual reports of public US companies",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Finance"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://securitytrails.com/corp/apidocs"
         },
         "name": "SecurityTrails",
@@ -20774,6 +21831,34 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Text Analysis"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://sendgrid.com/docs/api-reference/"
+        },
+        "name": "Sendgrid",
+        "description": "A cloud-based SMTP provider that allows you to send emails without having to maintain email servers",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Email"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://developers.sendinblue.com/docs"
+        },
+        "name": "Sendinblue",
+        "description": "A service that provides solutions relating to marketing and/or transactional email and/or SMS",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Email"
     },
     {
         "categories": [
@@ -20855,20 +21940,6 @@ module.exports = [
         "icon": "https://serverless-stack.com/assets/favicon-32x32.png"
     },
     {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://data.gov.sg/dataset/realtime-weather-readings"
-        },
-        "name": "SG Weather Reading",
-        "description": "Realtime weather readings for Singapore area including other weather parameters",
-        "auth": "",
-        "https": true,
-        "cors": "unknown",
-        "apiCategory": "Weather"
-    },
-    {
         "name": "Shape",
         "categories": [
             "Assets/Icons"
@@ -20934,6 +22005,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://docs.sheetsu.com/#welcome"
+        },
+        "name": "Sheetsu",
+        "description": "Easy google sheets integration",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Development"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "http://shibe.online/"
         },
         "name": "Shibe.Online",
@@ -20942,6 +22027,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Animals"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://shields.io/"
+        },
+        "name": "Shields",
+        "description": "Concise, consistent, and legible badges in SVG and raster format",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Open Source Projects"
     },
     {
         "name": "Shift Nudge",
@@ -21151,6 +22250,20 @@ module.exports = [
             "Website": "http://simpleicons.org/"
         },
         "icon": "https://simpleicons.org/images/apple-touch-icon.png"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://english.api.rakuten.net/mxrck/api/simple-weather/endpoints"
+        },
+        "name": "SimpleWeather",
+        "description": "Simple tool for get current weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Weather"
     },
     {
         "categories": [
@@ -21529,6 +22642,20 @@ module.exports = [
         "icon": "https://assets.transistor.fm/assets/favicon-6e847568a3fbd949ba82be5cb10951e28b51f7f58d6e573235b0cddf494de2c0.ico"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://docs.solana.com/developing/clients/jsonrpc-api"
+        },
+        "name": "Solana JSON RPC",
+        "description": "Provides various endpoints to interact with the Solana Blockchain",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Cryptocurrency"
+    },
+    {
         "name": "SoloLearn",
         "categories": [
             "Programming/Learn"
@@ -21682,10 +22809,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/r-spacex/SpaceX-API"
+            "Website": "https://api.spacex.land/graphql/"
         },
         "name": "SpaceX",
-        "description": "Company, vehicle, launchpad and launch data",
+        "description": "GraphQL, Company, Ships, launchpad and launch data",
         "auth": "",
         "https": true,
         "cors": "unknown",
@@ -21696,10 +22823,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://api.spacex.land/graphql/"
+            "Website": "https://github.com/r-spacex/SpaceX-API"
         },
         "name": "SpaceX",
-        "description": "GraphQL, Company, Ships, launchpad and launch data",
+        "description": "Company, vehicle, launchpad and launch data",
         "auth": "",
         "https": true,
         "cors": "unknown",
@@ -21757,6 +22884,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Food & Drink"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://sportdataapi.com"
+        },
+        "name": "Sport Data",
+        "description": "Get sports data from all over the world",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Sports & Fitness"
     },
     {
         "categories": [
@@ -21908,6 +23049,20 @@ module.exports = [
         "icon": "https://www.sqlite.org/favicon.ico"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://developer.squareup.com/reference/square"
+        },
+        "name": "Square",
+        "description": "Easy way to take payments, manage refunds, and help customers checkout online",
+        "auth": "OAuth",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Business"
+    },
+    {
         "name": "Squarespace",
         "categories": [
             "Tools & Utilities/Website Builders"
@@ -21919,6 +23074,20 @@ module.exports = [
         "icon": "https://static1.squarespace.com/static/ta/5134cbefe4b0c6fb04df8065/10515/assets/logos/apple-touch-icon-180.png"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://api.squiggle.com.au"
+        },
+        "name": "Squiggle",
+        "description": "Fixtures, results and predictions for Australian Football League matches",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Sports & Fitness"
+    },
+    {
         "name": "Squoosh",
         "categories": [
             "Assets/Images"
@@ -21928,6 +23097,20 @@ module.exports = [
             "Website": "https://squoosh.app/"
         },
         "icon": "https://squoosh.app/c/favicon-c9cf50ef.ico"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html"
+        },
+        "name": "Srp Energy",
+        "description": "Hourly usage energy report for Srp customers",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "no",
+        "apiCategory": "Environment"
     },
     {
         "name": "Stack Overflow",
@@ -22392,10 +23575,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://www.swapi.tech"
+            "Website": "https://swapi.dev/"
         },
         "name": "SWAPI",
-        "description": "All things Star Wars",
+        "description": "All the Star Wars data you've ever wanted",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -22406,10 +23589,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://swapi.dev/"
+            "Website": "https://www.swapi.tech"
         },
         "name": "SWAPI",
-        "description": "All the Star Wars data you've ever wanted",
+        "description": "All things Star Wars",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -22434,7 +23617,7 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://www.digite.com/swiftkanban/"
+            "Website": "https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi"
         },
         "name": "SwiftKanban",
         "description": "Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity",
@@ -22592,6 +23775,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Music"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://rapidapi.com/apidojo/api/tasty/"
+        },
+        "name": "Tasty",
+        "description": "API to query data about recipe, plan, ingredients",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Food & Drink"
     },
     {
         "categories": [
@@ -22944,6 +24141,20 @@ module.exports = [
         "icon": "https://www.testing-whiz.com/favicon.ico"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://tetr.io/about/api/"
+        },
+        "name": "TETR.IO",
+        "description": "TETR.IO Tetra Channel API",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Games & Comics"
+    },
+    {
         "name": "The A11Y Project",
         "categories": [
             "Tools & Utilities/Accessibility"
@@ -23243,6 +24454,20 @@ module.exports = [
             "YouTube": "https://www.youtube.com/channel/UCuryo5s0CW4aP83itLjIdZg/featured"
         },
         "icon": "https://themeselection.com/wp-content/uploads/2018/07/favicon.ico"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://thenewsapi.com/"
+        },
+        "name": "TheNews",
+        "description": "Aggregated headlines, top story and live news JSON API",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "News"
     },
     {
         "categories": [
@@ -23557,6 +24782,20 @@ module.exports = [
         "apiCategory": "Geocoding"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://testimonialapi.toolcarton.com/"
+        },
+        "name": "Toolcarton",
+        "description": "Generate random testimonial data",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Test Data"
+    },
+    {
         "name": "Tooplate",
         "categories": [
             "Programming/Templates"
@@ -23605,6 +24844,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Finance"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.traileraddict.com/trailerapi"
+        },
+        "name": "TrailerAddict",
+        "description": "Easily embed trailers from TrailerAddict",
+        "auth": "apiKey",
+        "https": false,
+        "cors": "unknown",
+        "apiCategory": "Video"
     },
     {
         "categories": [
@@ -23731,13 +24984,13 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://hello.irail.be/api/"
+            "Website": "https://api.irail.be/"
         },
         "name": "Transport for Belgium",
-        "description": "Belgian transport API",
+        "description": "The iRail API is a third-party API for Belgian public transport by train",
         "auth": "",
         "https": true,
-        "cors": "unknown",
+        "cors": "yes",
         "apiCategory": "Transportation"
     },
     {
@@ -24067,11 +25320,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://opentransportdata.swiss/en/"
+            "Website": "https://transport.opendata.ch/"
         },
         "name": "Transport for Switzerland",
-        "description": "Official Swiss Public Transport Open Data",
-        "auth": "apiKey",
+        "description": "Swiss public transport API",
+        "auth": "",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
@@ -24081,11 +25334,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://transport.opendata.ch/"
+            "Website": "https://opentransportdata.swiss/en/"
         },
         "name": "Transport for Switzerland",
-        "description": "Swiss public transport API",
-        "auth": "",
+        "description": "Official Swiss Public Transport Open Data",
+        "auth": "apiKey",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
@@ -24310,6 +25563,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Weather"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://trove.nla.gov.au/about/create-something/using-api"
+        },
+        "name": "Trove",
+        "description": "Search through the National Library of Australia collection of 1000s of digitised newspapers",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "News"
     },
     {
         "categories": [
@@ -24756,6 +26023,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://universalis.app/docs/index.html"
+        },
+        "name": "Universalis",
+        "description": "Final Fantasy XIV market board data",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Games & Comics"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://github.com/Hipo/university-domains-list"
         },
         "name": "Universities List",
@@ -24833,17 +26114,6 @@ module.exports = [
         "icon": "https://www.unscreen.com/favicon-96x96.png"
     },
     {
-        "name": "Unsplash",
-        "categories": [
-            "Assets/Images"
-        ],
-        "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
-        "links": {
-            "Website": "https://unsplash.com/"
-        },
-        "icon": "https://unsplash.com/favicon-32x32.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -24856,6 +26126,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Photography"
+    },
+    {
+        "name": "Unsplash",
+        "categories": [
+            "Assets/Images"
+        ],
+        "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
+        "links": {
+            "Website": "https://unsplash.com/"
+        },
+        "icon": "https://unsplash.com/favicon-32x32.png"
     },
     {
         "name": "Untools",
@@ -24937,17 +26218,6 @@ module.exports = [
         "icon": "https://upto.site/favicon.png"
     },
     {
-        "name": "Upwork",
-        "categories": [
-            "Jobs/Freelancing"
-        ],
-        "description": "Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.",
-        "links": {
-            "Website": "https://www.upwork.com/"
-        },
-        "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -24960,6 +26230,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Jobs"
+    },
+    {
+        "name": "Upwork",
+        "categories": [
+            "Jobs/Freelancing"
+        ],
+        "description": "Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.",
+        "links": {
+            "Website": "https://www.upwork.com/"
+        },
+        "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
     },
     {
         "categories": [
@@ -25303,6 +26584,20 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
+            "Website": "https://www.validator.pizza/"
+        },
+        "name": "Validator.pizza",
+        "description": "Prevent users to register to websites with a disposable email address",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Data Validation"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
             "Website": "https://valorant-api.com"
         },
         "name": "Valorant (non-official)",
@@ -25349,7 +26644,7 @@ module.exports = [
         },
         "name": "vatlayer",
         "description": "VAT number validation",
-        "auth": "",
+        "auth": "apiKey",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Data Validation"
@@ -26262,6 +27557,20 @@ module.exports = [
         "apiCategory": "Open Data"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://wiktionary.org/w/api.php"
+        },
+        "name": "Wiktionary",
+        "description": "Collaborative dictionary data",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Dictionaries"
+    },
+    {
         "name": "Windframe",
         "categories": [
             "Tools & Utilities/Website Builders"
@@ -26729,6 +28038,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Personality"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://www.zenrows.com/"
+        },
+        "name": "ZenRows",
+        "description": "Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Development"
     },
     {
         "name": "Zero To Sold",
