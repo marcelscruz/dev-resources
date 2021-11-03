@@ -104,6 +104,16 @@ module.exports = [
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
+        name: 'Decoded Frontend',
+        description: 'Decoded Frontend is a source of advanced & pragmatic video tutorials about Angular, GraphQL and Web Development in particular. My name is Dmytro Mezhenskyi. I am an author of this channel and I have been a Frontend Developer since 2012. It means 9 Years... whoa... and I still enjoy it 😄 During my carrier I have worked with various projects which had different scale and complexity and now I realised that it is a time to share my knowledge with another developers around the globe. My channel has already helped developers to find answers on sophisticated Angular topics and I am sure you will be able to find something interesting for you as well. Subscribe to my channel, leave your feedbacks and become a better Developer 😉',
+        categories: [programming.youtubeChannels],
+        links: {
+            [website]: 'https://www.youtube.com/c/DecodedFrontend/featured',
+        },
+        icon: 'https://www.youtube.com/s/desktop/b349a03a/img/favicon_96x96.png',
+        keywords: ['Angular', 'GraphQL', 'Web Development', 'tutorials']
+    },
+    {
         name: 'Default Alive',
         categories: [indieHacking.podcasts],
         description:
@@ -197,7 +207,7 @@ module.exports = [
     },
     {
         name: 'devChallenges',
-        categories: [programming.learn],
+        categories: [programming.learn, programming.codeChallenges],
         description:
             'devChallenges.io is a community and a platform for anyone who wants to become a Software Engineer by building real-life projects and solving practical tasks. devChallenges.io is built with the goal of enabling you to build an outstanding portfolio.',
         links: {
@@ -362,6 +372,16 @@ module.exports = [
         },
         icon:
             'https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png',
+    },
+    {
+        name: 'Drupal',
+        description: 'Drupal is an open source platform for building amazing digital experiences. It is made by a dedicated community. Anyone can use it, and it will always be free.',
+        categories: [toolsAndUtilities.websiteBuilders],
+        links: {
+            [website]: 'https://www.drupal.org/',
+        },
+        icon: 'https://www.drupal.org/favicon.ico',
+        keywords: ['website builder', 'content management system', 'CMS', 'open source'],
     },
     {
         name: 'dygraphs',

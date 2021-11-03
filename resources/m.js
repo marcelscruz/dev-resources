@@ -308,6 +308,16 @@ module.exports = [
         icon: 'https://www.mongodb.com/assets/images/global/favicon.ico',
     },
     {
+        name: 'Monkeytype',
+        description: 'A minimalistic, customisable typing website. Test yourself in various modes, track your progress and improve your typing speed.',
+        categories: [toolsAndUtilities.typing],
+        links: {
+            [website]: 'https://monkeytype.com/',
+        },
+        icon: 'https://monkeytype.com/images/favicon/apple-touch-icon-120x120.png',
+        keywords: ['typing speed test', 'typing speedtest', 'typing test', 'speetest', 'speed test', 'typing', 'test', 'typing-test', 'typing test', 'monkey-type', 'monkeytype', 'monkey type', 'monkey-types', 'minimalist typing website', 'minimalist typing test', 'minimalistic typing website', 'words per minute'],
+    },
+    {
         name: 'Moqups',
         categories: [uiDesign.prototyping],
         description:

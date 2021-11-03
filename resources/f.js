@@ -126,6 +126,16 @@ module.exports = [
         icon: 'https://www.mozilla.org/media/img/favicons/firefox/browser/nightly/favicon-196x196.f6d874cabab4.png',
     },
     {
+        name: 'Fireship',
+        description: 'High-intensity ⚡ code tutorials to help you build & ship your app faster. Subscribe for new videos every week covering intermediate to advanced lessons about JavaScript, Flutter, Firebase, and modern app development. The original home of #100SecondsOfCode and #CodeThisNotThat. Created by Jeff Delaney.',
+        categories: [programming.youtubeChannels],
+        links: {
+            [website]: 'https://www.youtube.com/c/Fireship/featured',
+        },
+        icon: 'https://www.youtube.com/s/desktop/b349a03a/img/favicon_96x96.png',
+        keywords: ['#CodeThisNotThat', '#100SecondsOfCode', 'javaScript', 'flutter', 'firebase', 'coding tutorials', 'Jeff Delaney', 'development', 'angular', 'git', 'nextJS', 'developer productivity', 'top N lists']
+    },
+    {
         name: 'First Timers Only',
         categories: [community.hacktoberfest],
         description: 'Find the best opportunities to create a pull request for the first time.',
@@ -523,7 +533,7 @@ module.exports = [
     },
     {
         name: 'Frontend Mentor',
-        categories: [programming.learn],
+        categories: [programming.learn, programming.codeChallenges],
         description:
             'Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.',
         links: {
