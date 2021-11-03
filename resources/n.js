@@ -1,4 +1,4 @@
-const { programming, infrastructure, toolsAndUtilities, assets, jobs } = require('../constants/categories')
+const { programming, infrastructure, toolsAndUtilities, assets, jobs, uiDesign } = require('../constants/categories')
 const { website } = require('../constants/links')
 
 module.exports = [
@@ -33,8 +33,7 @@ module.exports = [
     },
     {
         name: 'NextUI',
-        description:
-            'Beautiful, fast, modern React UI Library',
+        description: 'Beautiful, fast, modern React UI Library',
         categories: [programming.uiKitsAndLibraries],
         links: {
             [website]: 'https://nextui.org',
@@ -54,12 +53,26 @@ module.exports = [
     {
         name: 'Nord',
         description: 'A arctic, north-bluish color palette',
-        categories: [toolsAndUtilities.general],
+        categories: [toolsAndUtilities.general, uiDesign.color],
         links: {
             [website]: 'https://www.nordtheme.com/',
         },
         icon: 'https://www.nordtheme.com/icons/icon-96x96.png?v=970545fb8e9518a3616ec74d00cfebc4',
-        keywords: ['nord', 'arctic', 'north', 'bluish', 'clean', 'minimal', 'flat', 'ui', 'syntax', 'website', 'documentation', 'react', 'arcticicestudio'],
+        keywords: [
+            'nord',
+            'arctic',
+            'north',
+            'bluish',
+            'clean',
+            'minimal',
+            'flat',
+            'ui',
+            'syntax',
+            'website',
+            'documentation',
+            'react',
+            'arcticicestudio',
+        ],
     },
     {
         name: 'Notepad++',
