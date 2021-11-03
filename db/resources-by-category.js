@@ -1629,11 +1629,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
+                "Website": "https://bhagavadgita.io/api"
             },
             "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "auth": "apiKey",
+            "description": "Bhagavad Gita text",
+            "auth": "OAuth",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -1643,11 +1643,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://bhagavadgita.io/api"
+                "Website": "https://docs.bhagavadgitaapi.in"
             },
             "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "auth": "OAuth",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -3365,20 +3365,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/validate-api"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Data Validation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/phone-number-validation-API"
             },
             "name": "Cloudmersive Validate",
@@ -3387,6 +3373,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Phone"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/validate-api"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Data Validation"
         },
         {
             "categories": [
@@ -4037,10 +4037,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -4051,10 +4051,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -4961,10 +4961,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://kinduff.github.io/dog-api/"
+                "Website": "https://dukengn.github.io/Dog-facts-API/"
             },
             "name": "Dog Facts",
-            "description": "Random facts of Dogs",
+            "description": "Random dog facts",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -4975,10 +4975,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://dukengn.github.io/Dog-facts-API/"
+                "Website": "https://kinduff.github.io/dog-api/"
             },
             "name": "Dog Facts",
-            "description": "Random dog facts",
+            "description": "Random facts of Dogs",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -11387,20 +11387,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "name": "Numbers",
@@ -11408,6 +11394,20 @@ module.exports = {
             "auth": "",
             "https": false,
             "cors": "unknown",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Science & Math"
         },
         {
@@ -13711,11 +13711,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
+                "Website": "http://qrtag.net/api/"
             },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
+            "auth": "",
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
@@ -13725,11 +13725,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://qrtag.net/api/"
+                "Website": "https://fungenerators.com/api/qrcode/"
             },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "auth": "",
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
@@ -15727,11 +15727,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://steamapi.xpaw.me/"
+                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
             },
             "name": "Steam",
-            "description": "Steam Web API documentation",
-            "auth": "apiKey",
+            "description": "Internal Steam Web API documentation",
+            "auth": "",
             "https": true,
             "cors": "no",
             "apiCategory": "Games & Comics"
@@ -15741,11 +15741,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+                "Website": "https://steamapi.xpaw.me/"
             },
             "name": "Steam",
-            "description": "Internal Steam Web API documentation",
-            "auth": "",
+            "description": "Steam Web API documentation",
+            "auth": "apiKey",
             "https": true,
             "cors": "no",
             "apiCategory": "Games & Comics"
@@ -15951,10 +15951,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://swapi.dev/"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
+            "description": "All things Star Wars",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -15965,10 +15965,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.swapi.tech"
+                "Website": "https://swapi.dev/"
             },
             "name": "SWAPI",
-            "description": "All things Star Wars",
+            "description": "All the Star Wars data you've ever wanted",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -17253,12 +17253,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
             "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
-            "auth": "apiKey",
-            "https": false,
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -17267,12 +17267,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
             },
             "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
+            "description": "NS, only trains",
+            "auth": "apiKey",
+            "https": false,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -19459,6 +19459,36 @@ module.exports = {
             "icon": "https://www.keybr.com/assets/934c99d37fc250c3.png"
         },
         {
+            "name": "Monkeytype",
+            "description": "A minimalistic, customisable typing website. Test yourself in various modes, track your progress and improve your typing speed.",
+            "categories": [
+                "Tools & Utilities/Typing"
+            ],
+            "links": {
+                "Website": "https://monkeytype.com/"
+            },
+            "icon": "https://monkeytype.com/images/favicon/apple-touch-icon-120x120.png",
+            "keywords": [
+                "typing speed test",
+                "typing speedtest",
+                "typing test",
+                "speetest",
+                "speed test",
+                "typing",
+                "test",
+                "typing-test",
+                "typing test",
+                "monkey-type",
+                "monkeytype",
+                "monkey type",
+                "monkey-types",
+                "minimalist typing website",
+                "minimalist typing test",
+                "minimalistic typing website",
+                "words per minute"
+            ]
+        },
+        {
             "name": "Open Vim",
             "categories": [
                 "Tools & Utilities/Typing"
@@ -20778,6 +20808,33 @@ module.exports = {
             "icon": "https://www.materialpalette.com/assets/favicon-0f3eb1b9f6d525e848b1dca6db1cabd2a3e9e843749cb9ad72222b80ab9fdf19.ico"
         },
         {
+            "name": "Nord",
+            "description": "A arctic, north-bluish color palette",
+            "categories": [
+                "Tools & Utilities/General",
+                "UI Design/Color"
+            ],
+            "links": {
+                "Website": "https://www.nordtheme.com/"
+            },
+            "icon": "https://www.nordtheme.com/icons/icon-96x96.png?v=970545fb8e9518a3616ec74d00cfebc4",
+            "keywords": [
+                "nord",
+                "arctic",
+                "north",
+                "bluish",
+                "clean",
+                "minimal",
+                "flat",
+                "ui",
+                "syntax",
+                "website",
+                "documentation",
+                "react",
+                "arcticicestudio"
+            ]
+        },
+        {
             "name": "Palette List",
             "categories": [
                 "UI Design/Color"
@@ -21007,6 +21064,23 @@ module.exports = {
             "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
         },
         {
+            "name": "Decoded Frontend",
+            "description": "Decoded Frontend is a source of advanced & pragmatic video tutorials about Angular, GraphQL and Web Development in particular. My name is Dmytro Mezhenskyi. I am an author of this channel and I have been a Frontend Developer since 2012. It means 9 Years... whoa... and I still enjoy it 😄 During my carrier I have worked with various projects which had different scale and complexity and now I realised that it is a time to share my knowledge with another developers around the globe. My channel has already helped developers to find answers on sophisticated Angular topics and I am sure you will be able to find something interesting for you as well. Subscribe to my channel, leave your feedbacks and become a better Developer 😉",
+            "categories": [
+                "Programming/YouTube Channels"
+            ],
+            "links": {
+                "Website": "https://www.youtube.com/c/DecodedFrontend/featured"
+            },
+            "icon": "https://www.youtube.com/s/desktop/b349a03a/img/favicon_96x96.png",
+            "keywords": [
+                "Angular",
+                "GraphQL",
+                "Web Development",
+                "tutorials"
+            ]
+        },
+        {
             "name": "Dev Ed",
             "categories": [
                 "Programming/YouTube Channels"
@@ -21033,6 +21107,32 @@ module.exports = {
                 "YouTube": "https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ"
             },
             "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
+        },
+        {
+            "name": "Fireship",
+            "description": "High-intensity ⚡ code tutorials to help you build & ship your app faster. Subscribe for new videos every week covering intermediate to advanced lessons about JavaScript, Flutter, Firebase, and modern app development. The original home of #100SecondsOfCode and #CodeThisNotThat. Created by Jeff Delaney.",
+            "categories": [
+                "Programming/YouTube Channels"
+            ],
+            "links": {
+                "Website": "https://www.youtube.com/c/Fireship/featured"
+            },
+            "icon": "https://www.youtube.com/s/desktop/b349a03a/img/favicon_96x96.png",
+            "keywords": [
+                "#CodeThisNotThat",
+                "#100SecondsOfCode",
+                "javaScript",
+                "flutter",
+                "firebase",
+                "coding tutorials",
+                "Jeff Delaney",
+                "development",
+                "angular",
+                "git",
+                "nextJS",
+                "developer productivity",
+                "top N lists"
+            ]
         },
         {
             "name": "Fun Fun Function",
@@ -21742,6 +21842,384 @@ module.exports = {
             "icon": "https://supabase.io/new/favicon/favicon-32x32.png"
         }
     ],
+    "tools-utilities-browsers-extensions": [
+        {
+            "name": "Angular DevTools",
+            "description": "Angular DevTools extends Chrome DevTools adding Angular specific debugging and profiling capabilities. You can use Angular DevTools to understand the structure of your application and preview the state of the directive and the component instances. To get insights into the execution of the application, you can use the profiler tab, which shows you the individual change detection cycles, what triggered them, and how much time Angular spent in them.",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "links": {
+                "Website": "https://angular.io/guide/devtools"
+            },
+            "icon": "https://angular.io/assets/images/favicons/favicon-96x96.png",
+            "keywords": [
+                "dev tools",
+                "angular",
+                "profiler",
+                "profiling"
+            ]
+        },
+        {
+            "name": "Blisk",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Download Blisk - a browser for web developers. Blisk - is a developer oriented browser with devices, URL and scroll sync, auto-refresh, screenshots and screen recorder.",
+            "keywords": [
+                "Blisk",
+                "browser",
+                "download",
+                "developer",
+                "actions synchronization",
+                "sync",
+                "devices",
+                "analytics",
+                "screenshots",
+                "integrations"
+            ],
+            "links": {
+                "Website": "https://blisk.io/"
+            },
+            "icon": "https://cdn.blisk.io/favicons/favicon-96x96.png?v=d9954ab765a2471d985e27862d3d940c"
+        },
+        {
+            "name": "Brave",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to enjoy a faster ad-free browsing experience that saves data and battery life by blocking tracking software.",
+            "links": {
+                "Website": "https://brave.com/"
+            },
+            "icon": "https://brave.com/static-assets/images/brave-favicon.png"
+        },
+        {
+            "name": "Check My Links",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Check My Links is a link checker that crawls through your webpage and looks for broken links.",
+            "links": {
+                "Website": "https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en"
+            },
+            "icon": "https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png"
+        },
+        {
+            "name": "Chrome",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Get more done with the new Google Chrome. A more simple, secure, and faster web browser than ever, with Google’s smarts built-in. Download now.",
+            "links": {
+                "Website": "https://www.google.com/chrome/"
+            },
+            "icon": "https://www.google.com/chrome/static/images/favicons/favicon-96x96.png"
+        },
+        {
+            "name": "Chrome Canary",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Get on the bleeding edge of the web with Chrome Canary designed for experienced developers and updated nightly.",
+            "links": {
+                "Website": "https://www.google.com/chrome/canary/"
+            },
+            "icon": "https://www.google.com/chrome/static/images/favicons/favicon-96x96.png"
+        },
+        {
+            "name": "Chrome Dev",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Google Chrome for developers was built for the open web. Test cutting-edge web platform APIs and developer tools that are updated weekly.",
+            "links": {
+                "Website": "https://www.google.com/chrome/dev/"
+            },
+            "icon": "https://www.google.com/chrome/static/images/favicons/favicon-96x96.png"
+        },
+        {
+            "name": "ColorZilla",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Advanced Eyedropper, Color Picker, Gradient Generator and more.",
+            "links": {
+                "Website": "https://www.colorzilla.com/"
+            },
+            "icon": "https://www.colorzilla.com/favicon.ico"
+        },
+        {
+            "name": "CSS Scan",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Goodbye to \"Inspect Element\" — Visualize the CSS of any element you hover over, instantly, and copy its entire rules with a single click.",
+            "links": {
+                "Website": "https://getcssscan.com/",
+                "Facebook": "https://www.facebook.com/cssscan/",
+                "Twitter": "https://twitter.com/cssscan",
+                "Instagram": "https://instagram.com/cssscan"
+            },
+            "icon": "https://getcssscan.com/favicon-32x32.png"
+        },
+        {
+            "name": "CSSViewer",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "A simple CSS property viewer.",
+            "links": {
+                "Website": "https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce"
+            },
+            "icon": "https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png"
+        },
+        {
+            "name": "Edge",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "See what's new on the latest version of the Microsoft Edge browser. Explore features, rewards, and more before you download the new browser today.",
+            "keywords": [
+                "internet browser",
+                "web browser",
+                "microsoft edge",
+                "download microsoft edge",
+                "new browser",
+                "new microsoft edge browser"
+            ],
+            "links": {
+                "Website": "https://www.microsoft.com/en-us/edge"
+            },
+            "icon": "https://www.microsoft.com/favicon.ico"
+        },
+        {
+            "name": "Edge Canary",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Want to see what we were working on yesterday? Canary will be released automatically almost every night to keep you up to date on our progress.",
+            "links": {
+                "Website": "https://www.microsoftedgeinsider.com/en-us/welcome?channel=canary"
+            },
+            "icon": "https://edgetipscdn.microsoft.com/insider-site/images/favicon.fbd89822.png"
+        },
+        {
+            "name": "Edge Dev",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Our dev builds are the best representation of our improvements in the past week. They have been tested by the Microsoft Edge team, and are generally more stable than Canary.",
+            "links": {
+                "Website": "https://www.microsoftedgeinsider.com/en-us/welcome?channel=dev"
+            },
+            "icon": "https://edgetipscdn.microsoft.com/insider-site/images/favicon.fbd89822.png"
+        },
+        {
+            "name": "Firefox",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Faster page loading, less memory usage and packed with features, the new Firefox is here.",
+            "links": {
+                "Website": "https://www.mozilla.org/en-US/firefox/new/"
+            },
+            "icon": "https://www.mozilla.org/media/img/favicons/firefox/browser/favicon-196x196.59e3822720be.png"
+        },
+        {
+            "name": "Firefox Developer",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging.",
+            "links": {
+                "Website": "https://www.mozilla.org/en-US/firefox/developer/"
+            },
+            "icon": "https://www.mozilla.org/media/img/favicons/firefox/browser/developer/favicon-196x196.b8d17dd1dda2.png"
+        },
+        {
+            "name": "Firefox Nightly",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Get a sneak peek at our next generation web browser, and help us make it the best browser it can be",
+            "links": {
+                "Website": "https://www.mozilla.org/en-US/firefox/69.0a1/releasenotes/"
+            },
+            "icon": "https://www.mozilla.org/media/img/favicons/firefox/browser/nightly/favicon-196x196.f6d874cabab4.png"
+        },
+        {
+            "name": "LambdaTest",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Perform manual or automated cross browser testing on 2000+ browsers online. Deploy and scale faster with the most powerful cross browser testing tool online.",
+            "keywords": [
+                "cross browser testing free",
+                "cross browser testing",
+                "cross browser testing tools",
+                "crossbrowser testing",
+                "cross browser testing online",
+                "browser testing tools",
+                "online browser testing tools"
+            ],
+            "links": {
+                "Website": "https://www.lambdatest.com/"
+            },
+            "icon": "https://www.lambdatest.com/favicon.ico"
+        },
+        {
+            "name": "Octotree",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "GitHub on steroids.",
+            "links": {
+                "Website": "https://www.octotree.io/"
+            },
+            "icon": "https://www.octotree.io/favicon-32x32.png"
+        },
+        {
+            "name": "Opera",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Get a faster, better browser. Opera's free VPN, Ad Blocker, integrated messengers and private mode help you browse securely and smoothly. Share files instantly between your desktop and mobile browsers and experience web 3.0 with a free cryptowallet.",
+            "links": {
+                "Website": "https://www.opera.com/"
+            },
+            "icon": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/favicon/favicon-32x32.d80e4bdc6a9f.png"
+        },
+        {
+            "name": "Polypane",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "A browser for web developers and designers with all the tools you need to build responsive, accessible and fast sites five times faster.",
+            "links": {
+                "Website": "https://polypane.app/"
+            },
+            "icon": "https://polypane.app/icons/icon-96x96.png?v=5df5528946772487a6ab462ff2125f26"
+        },
+        {
+            "name": "React DevTools",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Adds React debugging tools to the Chrome Developer Tools. Created from revision f160547f47 on 12/4/2020.",
+            "links": {
+                "Website": "https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en"
+            },
+            "icon": "https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png"
+        },
+        {
+            "name": "Responsively",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "A dev-tool that aids faster and precise responsive web development.",
+            "links": {
+                "Website": "https://responsively.app/"
+            },
+            "icon": "https://responsively.app/icons/icon-96x96.png?v=a7d0de524bb1ca8ac597715219a3760c"
+        },
+        {
+            "name": "Safari Technology Preview",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Safari is the best way to see the sites on iPhone, iPad, and Mac. Safari Technology Preview gives you an early look at upcoming web technologies in macOS and iOS.",
+            "links": {
+                "Website": "https://developer.apple.com/safari/technology-preview/"
+            },
+            "icon": "https://developer.apple.com/favicon.ico?51002006191"
+        },
+        {
+            "name": "Sizzy",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Stop wasting time and speed up your development workflow.",
+            "links": {
+                "Website": "https://sizzy.co/"
+            },
+            "icon": "https://sizzy.co/favicon.ico"
+        },
+        {
+            "name": "toast.log",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "See errors, warnings, and logs as they happen on your site — without having to open the browser’s console. Find bugs you didn't know were there via notifications in our unique toast format.",
+            "links": {
+                "Website": "https://toastlog.com/"
+            },
+            "icon": "https://toastlog.com/img/favicon/favicon-32x32.png"
+        },
+        {
+            "name": "Vue.js devtools",
+            "description": "Browser devtools extension for debugging Vue.js applications",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "links": {
+                "Website": "https://devtools.vuejs.org/",
+                "GitHub": "https://github.com/vuejs/devtools"
+            },
+            "icon": "https://vuejs.org/images/icons/favicon-96x96.png",
+            "keywords": [
+                "dev tools",
+                "Vue",
+                "debugging",
+                "extension",
+                "browser extension"
+            ]
+        },
+        {
+            "name": "Wappalyzer",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Find out the technology stack of any website. Create lists of websites and contacts by the technologies they use.",
+            "links": {
+                "Website": "https://www.wappalyzer.com/"
+            },
+            "icon": "https://www.wappalyzer.com/apple-touch-icon.png"
+        },
+        {
+            "name": "Web Developer",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Download the Web Developer extension for Chrome and Firefox.",
+            "links": {
+                "Website": "https://chrispederick.com/work/web-developer/"
+            },
+            "icon": "https://cdn.chrispederick.net/images/7.2/logos/256.png"
+        },
+        {
+            "name": "Web Developer Checklist",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "Analyses any web page for violations of best practices.",
+            "links": {
+                "Website": "https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en"
+            },
+            "icon": "https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png"
+        },
+        {
+            "name": "WhatFont",
+            "categories": [
+                "Tools & Utilities/Browsers & Extensions"
+            ],
+            "description": "The easiest way to identify fonts on web pages.",
+            "links": {
+                "Website": "https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en"
+            },
+            "icon": "https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png"
+        }
+    ],
     "ui-design-utilities": [
         {
             "name": "Animista",
@@ -22415,6 +22893,33 @@ module.exports = {
             "icon": "http://grid.guide/assets/favicons/favicon-96x96.png"
         },
         {
+            "name": "Nord",
+            "description": "A arctic, north-bluish color palette",
+            "categories": [
+                "Tools & Utilities/General",
+                "UI Design/Color"
+            ],
+            "links": {
+                "Website": "https://www.nordtheme.com/"
+            },
+            "icon": "https://www.nordtheme.com/icons/icon-96x96.png?v=970545fb8e9518a3616ec74d00cfebc4",
+            "keywords": [
+                "nord",
+                "arctic",
+                "north",
+                "bluish",
+                "clean",
+                "minimal",
+                "flat",
+                "ui",
+                "syntax",
+                "website",
+                "documentation",
+                "react",
+                "arcticicestudio"
+            ]
+        },
+        {
             "name": "Opensource.Builders",
             "categories": [
                 "Tools & Utilities/General"
@@ -22914,7 +23419,8 @@ module.exports = {
             "name": "UpLabs",
             "categories": [
                 "Assets/Illustrations",
-                "Assets/Icons"
+                "Assets/Icons",
+                "UI Design/Inspiration"
             ],
             "description": "UpLabs curates the best of design & development inspiration, resources and freebies. Every day!",
             "links": {
@@ -23189,7 +23695,8 @@ module.exports = {
         {
             "name": "devChallenges",
             "categories": [
-                "Programming/Learn"
+                "Programming/Learn",
+                "Programming/Code Challenges"
             ],
             "description": "devChallenges.io is a community and a platform for anyone who wants to become a Software Engineer by building real-life projects and solving practical tasks. devChallenges.io is built with the goal of enabling you to build an outstanding portfolio.",
             "links": {
@@ -23324,7 +23831,8 @@ module.exports = {
         {
             "name": "Frontend Mentor",
             "categories": [
-                "Programming/Learn"
+                "Programming/Learn",
+                "Programming/Code Challenges"
             ],
             "description": "Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.",
             "links": {
@@ -24459,6 +24967,19 @@ module.exports = {
             "icon": "https://uimovement.com/static/website/images/icons/favicon-96x96.png"
         },
         {
+            "name": "UpLabs",
+            "categories": [
+                "Assets/Illustrations",
+                "Assets/Icons",
+                "UI Design/Inspiration"
+            ],
+            "description": "UpLabs curates the best of design & development inspiration, resources and freebies. Every day!",
+            "links": {
+                "Website": "https://www.uplabs.com/"
+            },
+            "icon": "https://www.uplabs.com/logos/uplabs/icons/favicon-96x96.png"
+        },
+        {
             "name": "Web Design Inspiration",
             "categories": [
                 "UI Design/Inspiration"
@@ -25326,348 +25847,6 @@ module.exports = {
                 "Website": "https://www.unscreen.com/"
             },
             "icon": "https://www.unscreen.com/favicon-96x96.png"
-        }
-    ],
-    "tools-utilities-browsers-extensions": [
-        {
-            "name": "Blisk",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Download Blisk - a browser for web developers. Blisk - is a developer oriented browser with devices, URL and scroll sync, auto-refresh, screenshots and screen recorder.",
-            "keywords": [
-                "Blisk",
-                "browser",
-                "download",
-                "developer",
-                "actions synchronization",
-                "sync",
-                "devices",
-                "analytics",
-                "screenshots",
-                "integrations"
-            ],
-            "links": {
-                "Website": "https://blisk.io/"
-            },
-            "icon": "https://cdn.blisk.io/favicons/favicon-96x96.png?v=d9954ab765a2471d985e27862d3d940c"
-        },
-        {
-            "name": "Brave",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to enjoy a faster ad-free browsing experience that saves data and battery life by blocking tracking software.",
-            "links": {
-                "Website": "https://brave.com/"
-            },
-            "icon": "https://brave.com/static-assets/images/brave-favicon.png"
-        },
-        {
-            "name": "Check My Links",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Check My Links is a link checker that crawls through your webpage and looks for broken links.",
-            "links": {
-                "Website": "https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en"
-            },
-            "icon": "https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png"
-        },
-        {
-            "name": "Chrome",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Get more done with the new Google Chrome. A more simple, secure, and faster web browser than ever, with Google’s smarts built-in. Download now.",
-            "links": {
-                "Website": "https://www.google.com/chrome/"
-            },
-            "icon": "https://www.google.com/chrome/static/images/favicons/favicon-96x96.png"
-        },
-        {
-            "name": "Chrome Canary",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Get on the bleeding edge of the web with Chrome Canary designed for experienced developers and updated nightly.",
-            "links": {
-                "Website": "https://www.google.com/chrome/canary/"
-            },
-            "icon": "https://www.google.com/chrome/static/images/favicons/favicon-96x96.png"
-        },
-        {
-            "name": "Chrome Dev",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Google Chrome for developers was built for the open web. Test cutting-edge web platform APIs and developer tools that are updated weekly.",
-            "links": {
-                "Website": "https://www.google.com/chrome/dev/"
-            },
-            "icon": "https://www.google.com/chrome/static/images/favicons/favicon-96x96.png"
-        },
-        {
-            "name": "ColorZilla",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Advanced Eyedropper, Color Picker, Gradient Generator and more.",
-            "links": {
-                "Website": "https://www.colorzilla.com/"
-            },
-            "icon": "https://www.colorzilla.com/favicon.ico"
-        },
-        {
-            "name": "CSS Scan",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Goodbye to \"Inspect Element\" — Visualize the CSS of any element you hover over, instantly, and copy its entire rules with a single click.",
-            "links": {
-                "Website": "https://getcssscan.com/",
-                "Facebook": "https://www.facebook.com/cssscan/",
-                "Twitter": "https://twitter.com/cssscan",
-                "Instagram": "https://instagram.com/cssscan"
-            },
-            "icon": "https://getcssscan.com/favicon-32x32.png"
-        },
-        {
-            "name": "CSSViewer",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "A simple CSS property viewer.",
-            "links": {
-                "Website": "https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce"
-            },
-            "icon": "https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png"
-        },
-        {
-            "name": "Edge",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "See what's new on the latest version of the Microsoft Edge browser. Explore features, rewards, and more before you download the new browser today.",
-            "keywords": [
-                "internet browser",
-                "web browser",
-                "microsoft edge",
-                "download microsoft edge",
-                "new browser",
-                "new microsoft edge browser"
-            ],
-            "links": {
-                "Website": "https://www.microsoft.com/en-us/edge"
-            },
-            "icon": "https://www.microsoft.com/favicon.ico"
-        },
-        {
-            "name": "Edge Canary",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Want to see what we were working on yesterday? Canary will be released automatically almost every night to keep you up to date on our progress.",
-            "links": {
-                "Website": "https://www.microsoftedgeinsider.com/en-us/welcome?channel=canary"
-            },
-            "icon": "https://edgetipscdn.microsoft.com/insider-site/images/favicon.fbd89822.png"
-        },
-        {
-            "name": "Edge Dev",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Our dev builds are the best representation of our improvements in the past week. They have been tested by the Microsoft Edge team, and are generally more stable than Canary.",
-            "links": {
-                "Website": "https://www.microsoftedgeinsider.com/en-us/welcome?channel=dev"
-            },
-            "icon": "https://edgetipscdn.microsoft.com/insider-site/images/favicon.fbd89822.png"
-        },
-        {
-            "name": "Firefox",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Faster page loading, less memory usage and packed with features, the new Firefox is here.",
-            "links": {
-                "Website": "https://www.mozilla.org/en-US/firefox/new/"
-            },
-            "icon": "https://www.mozilla.org/media/img/favicons/firefox/browser/favicon-196x196.59e3822720be.png"
-        },
-        {
-            "name": "Firefox Developer",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging.",
-            "links": {
-                "Website": "https://www.mozilla.org/en-US/firefox/developer/"
-            },
-            "icon": "https://www.mozilla.org/media/img/favicons/firefox/browser/developer/favicon-196x196.b8d17dd1dda2.png"
-        },
-        {
-            "name": "Firefox Nightly",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Get a sneak peek at our next generation web browser, and help us make it the best browser it can be",
-            "links": {
-                "Website": "https://www.mozilla.org/en-US/firefox/69.0a1/releasenotes/"
-            },
-            "icon": "https://www.mozilla.org/media/img/favicons/firefox/browser/nightly/favicon-196x196.f6d874cabab4.png"
-        },
-        {
-            "name": "LambdaTest",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Perform manual or automated cross browser testing on 2000+ browsers online. Deploy and scale faster with the most powerful cross browser testing tool online.",
-            "keywords": [
-                "cross browser testing free",
-                "cross browser testing",
-                "cross browser testing tools",
-                "crossbrowser testing",
-                "cross browser testing online",
-                "browser testing tools",
-                "online browser testing tools"
-            ],
-            "links": {
-                "Website": "https://www.lambdatest.com/"
-            },
-            "icon": "https://www.lambdatest.com/favicon.ico"
-        },
-        {
-            "name": "Octotree",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "GitHub on steroids.",
-            "links": {
-                "Website": "https://www.octotree.io/"
-            },
-            "icon": "https://www.octotree.io/favicon-32x32.png"
-        },
-        {
-            "name": "Opera",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Get a faster, better browser. Opera's free VPN, Ad Blocker, integrated messengers and private mode help you browse securely and smoothly. Share files instantly between your desktop and mobile browsers and experience web 3.0 with a free cryptowallet.",
-            "links": {
-                "Website": "https://www.opera.com/"
-            },
-            "icon": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/favicon/favicon-32x32.d80e4bdc6a9f.png"
-        },
-        {
-            "name": "Polypane",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "A browser for web developers and designers with all the tools you need to build responsive, accessible and fast sites five times faster.",
-            "links": {
-                "Website": "https://polypane.app/"
-            },
-            "icon": "https://polypane.app/icons/icon-96x96.png?v=5df5528946772487a6ab462ff2125f26"
-        },
-        {
-            "name": "React DevTools",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Adds React debugging tools to the Chrome Developer Tools. Created from revision f160547f47 on 12/4/2020.",
-            "links": {
-                "Website": "https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en"
-            },
-            "icon": "https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png"
-        },
-        {
-            "name": "Responsively",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "A dev-tool that aids faster and precise responsive web development.",
-            "links": {
-                "Website": "https://responsively.app/"
-            },
-            "icon": "https://responsively.app/icons/icon-96x96.png?v=a7d0de524bb1ca8ac597715219a3760c"
-        },
-        {
-            "name": "Safari Technology Preview",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Safari is the best way to see the sites on iPhone, iPad, and Mac. Safari Technology Preview gives you an early look at upcoming web technologies in macOS and iOS.",
-            "links": {
-                "Website": "https://developer.apple.com/safari/technology-preview/"
-            },
-            "icon": "https://developer.apple.com/favicon.ico?51002006191"
-        },
-        {
-            "name": "Sizzy",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Stop wasting time and speed up your development workflow.",
-            "links": {
-                "Website": "https://sizzy.co/"
-            },
-            "icon": "https://sizzy.co/favicon.ico"
-        },
-        {
-            "name": "toast.log",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "See errors, warnings, and logs as they happen on your site — without having to open the browser’s console. Find bugs you didn't know were there via notifications in our unique toast format.",
-            "links": {
-                "Website": "https://toastlog.com/"
-            },
-            "icon": "https://toastlog.com/img/favicon/favicon-32x32.png"
-        },
-        {
-            "name": "Wappalyzer",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Find out the technology stack of any website. Create lists of websites and contacts by the technologies they use.",
-            "links": {
-                "Website": "https://www.wappalyzer.com/"
-            },
-            "icon": "https://www.wappalyzer.com/apple-touch-icon.png"
-        },
-        {
-            "name": "Web Developer",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Download the Web Developer extension for Chrome and Firefox.",
-            "links": {
-                "Website": "https://chrispederick.com/work/web-developer/"
-            },
-            "icon": "https://cdn.chrispederick.net/images/7.2/logos/256.png"
-        },
-        {
-            "name": "Web Developer Checklist",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "Analyses any web page for violations of best practices.",
-            "links": {
-                "Website": "https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en"
-            },
-            "icon": "https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png"
-        },
-        {
-            "name": "WhatFont",
-            "categories": [
-                "Tools & Utilities/Browsers & Extensions"
-            ],
-            "description": "The easiest way to identify fonts on web pages.",
-            "links": {
-                "Website": "https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en"
-            },
-            "icon": "https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png"
         }
     ],
     "programming-code-generators": [
@@ -26578,7 +26757,8 @@ module.exports = {
             "name": "UpLabs",
             "categories": [
                 "Assets/Illustrations",
-                "Assets/Icons"
+                "Assets/Icons",
+                "UI Design/Inspiration"
             ],
             "description": "UpLabs curates the best of design & development inspiration, resources and freebies. Every day!",
             "links": {
@@ -27818,6 +27998,20 @@ module.exports = {
             "icon": "https://static.codingame.com/assets/favicon_32_32.3e3c075c.png"
         },
         {
+            "name": "devChallenges",
+            "categories": [
+                "Programming/Learn",
+                "Programming/Code Challenges"
+            ],
+            "description": "devChallenges.io is a community and a platform for anyone who wants to become a Software Engineer by building real-life projects and solving practical tasks. devChallenges.io is built with the goal of enabling you to build an outstanding portfolio.",
+            "links": {
+                "Website": "https://devchallenges.io/",
+                "Twitter": "https://twitter.com/devchallengesio",
+                "Discord": "https://discord.com/invite/3R6vFeM"
+            },
+            "icon": "https://devchallenges.io/favicon-32x32.png"
+        },
+        {
             "name": "Edabit",
             "categories": [
                 "Programming/Code Challenges"
@@ -27843,6 +28037,28 @@ module.exports = {
                 "Website": "https://exercism.io/"
             },
             "icon": "https://assets.exercism.io/assets/favicon/apple-touch-icon-72x72-4ebeea76fc0ae80d3bb77a59752c5caf5d7debce078764ef95d6b69caa5e9c0b.png"
+        },
+        {
+            "name": "Frontend Mentor",
+            "categories": [
+                "Programming/Learn",
+                "Programming/Code Challenges"
+            ],
+            "description": "Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.",
+            "links": {
+                "Website": "https://www.frontendmentor.io/"
+            },
+            "icon": "https://www.frontendmentor.io/static/favicon/favicon-32x32.png",
+            "keywords": [
+                "frontend",
+                "html",
+                "css",
+                "flexbox",
+                "grid",
+                "rwd",
+                "mobile-first",
+                "javascript"
+            ]
         },
         {
             "name": "HackerRank",
@@ -28555,6 +28771,23 @@ module.exports = {
                 "Website": "https://www.dreamhost.com/website-builder/"
             },
             "icon": "https://www.dreamhost.com/assets/favicons/apple-touch-icon-76x76-18c4bd5a860942003494cecf3aa217b02285f57f5525c0e4985dcb77f0125d91.png"
+        },
+        {
+            "name": "Drupal",
+            "description": "Drupal is an open source platform for building amazing digital experiences. It is made by a dedicated community. Anyone can use it, and it will always be free.",
+            "categories": [
+                "Tools & Utilities/Website Builders"
+            ],
+            "links": {
+                "Website": "https://www.drupal.org/"
+            },
+            "icon": "https://www.drupal.org/favicon.ico",
+            "keywords": [
+                "website builder",
+                "content management system",
+                "CMS",
+                "open source"
+            ]
         },
         {
             "name": "GoDaddy Website Builder",
