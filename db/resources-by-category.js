@@ -1475,6 +1475,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://api.bnm.gov.my/"
+            },
+            "name": "Bank Negara Malaysia Open Data",
+            "description": "Malaysia Central Bank Open Data",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Government"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://www.cbr.ru/development/SXML/"
             },
             "name": "Bank of Russia",
@@ -4037,10 +4051,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -4051,10 +4065,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -4905,6 +4919,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://www.disify.com/"
+            },
+            "name": "Disify",
+            "description": "Validate and detect disposable and temporary email addresses",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Data Validation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://disneyapi.dev"
             },
             "name": "Disney",
@@ -5067,6 +5095,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Art & Design"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://wiki.drivet.xyz/en/url-shortener/add-links"
+            },
+            "name": "Drivet URL Shortener",
+            "description": "Shorten a long URL easily and fast",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "URL Shorteners"
         },
         {
             "categories": [
@@ -5647,6 +5689,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://fakestoreapi.com/"
+            },
+            "name": "FakeStoreAPI",
+            "description": "Fake store rest API for your e-commerce or shopping website prototype",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Test Data"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://favqs.com/api"
             },
             "name": "FavQs.com",
@@ -5795,6 +5851,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Security"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://finage.co.uk"
+            },
+            "name": "Finage",
+            "description": "Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Finance"
         },
         {
             "categories": [
@@ -8175,6 +8245,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Machine Learning"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://imdb-api.com/"
+            },
+            "name": "IMDb-API",
+            "description": "API for receiving movie, serial and cast information",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Video"
         },
         {
             "categories": [
@@ -11247,20 +11331,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/gadael/icsdb"
-            },
-            "name": "Non-Working Days",
-            "description": "Database of ICS files for non working days",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Calendar"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://isdayoff.ru"
             },
             "name": "Non-Working Days",
@@ -11268,6 +11338,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Calendar"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/gadael/icsdb"
+            },
+            "name": "Non-Working Days",
+            "description": "Database of ICS files for non working days",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
             "apiCategory": "Calendar"
         },
         {
@@ -11478,6 +11562,20 @@ module.exports = {
             "auth": "",
             "https": false,
             "cors": "unknown",
+            "apiCategory": "Weather"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://docs.oikolab.com"
+            },
+            "name": "Oikolab",
+            "description": "70+ years of global, hourly historical and forecast weather data from NOAA and ECMWF",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Weather"
         },
         {
@@ -12003,10 +12101,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://datos.gob.mx/"
+                "Website": "https://www.inegi.org.mx/datos/"
             },
             "name": "Open Government, Mexico",
-            "description": "Mexico Government Open Data",
+            "description": "Mexican Statistical Government Open Data",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -12017,10 +12115,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.inegi.org.mx/datos/"
+                "Website": "https://datos.gob.mx/"
             },
             "name": "Open Government, Mexico",
-            "description": "Mexican Statistical Government Open Data",
+            "description": "Mexico Government Open Data",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -12753,6 +12851,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Dictionaries"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://owo.vc/api"
+            },
+            "name": "owo",
+            "description": "A simple link obfuscator/shortener",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "URL Shorteners"
         },
         {
             "categories": [
@@ -13711,11 +13823,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://qrtag.net/api/"
+                "Website": "https://fungenerators.com/api/qrcode/"
             },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "auth": "",
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
@@ -13725,11 +13837,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
+                "Website": "http://qrtag.net/api/"
             },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
+            "auth": "",
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
@@ -13761,6 +13873,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://quadratic-solver-api.herokuapp.com/"
+            },
+            "name": "Quadratic Solver",
+            "description": "A Quadratic Solver",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Science & Math"
         },
         {
             "categories": [
@@ -17295,6 +17421,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://developer.transportapi.com"
+            },
+            "name": "Transport for UK",
+            "description": "Transport API and dataset for UK",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Transportation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf"
             },
             "name": "Transport for United States",
@@ -17779,6 +17919,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Photography"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://untappd.com/api/docs"
+            },
+            "name": "Untappd",
+            "description": "Social beer sharing",
+            "auth": "OAuth",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Food & Drink"
         },
         {
             "categories": [
@@ -25594,6 +25748,17 @@ module.exports = {
                 "Website": "https://templatemo.com/"
             },
             "icon": "https://templatemo.com/favicon.ico"
+        },
+        {
+            "name": "Templatesurf",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Templatesurf provides HTML templates for better designed websites and landing pages with included images, device mockups and simple license.",
+            "links": {
+                "Website": "https://templatesurf.com/"
+            },
+            "icon": "https://templatesurf.com/images/favicon.png"
         },
         {
             "name": "Themeselection",
