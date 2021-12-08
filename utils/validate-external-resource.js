@@ -4,5 +4,5 @@ const normalize = require('./normalize-strings')
 const { toolsAndUtilities } = categories
 
 module.exports = {
-    isPublicApis: (value) => value === normalize.url(toolsAndUtilities.publicApis),
+    isPublicApis: (value) => value === normalize.toCategorySlug(toolsAndUtilities.publicApis),
 }

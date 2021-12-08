@@ -11,7 +11,7 @@ const backToIndex = `\n**[⬆ Back to Index](#index)**`
 // Outer anchor is used by the "🔗" icon beside each heading
 // Inner anchor is used by the "Index" items
 function createAnchor({ name, id }) {
-    const normalizedName = normalize.slug(name)
+    const normalizedName = normalize.toCategorySlug(name)
 
     if (normalizedName === id) {
         return `<a name="${id}">${name}</a>`

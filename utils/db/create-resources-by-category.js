@@ -7,7 +7,7 @@ module.exports = function (resourcesList) {
         const resourceCategories = resource.categories || []
 
         resourceCategories.forEach((category) => {
-            const normalizedCategoryName = normalize.url(category)
+            const normalizedCategoryName = normalize.toCategorySlug(category)
 
             if (resourcesByCategory[normalizedCategoryName]) {
                 resourcesByCategory[normalizedCategoryName].push(resource)

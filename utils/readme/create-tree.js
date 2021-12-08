@@ -26,7 +26,7 @@ module.exports = function (metadata) {
                 const parent = parents.pop()
                 let foundParent = false
 
-                ids.push(normalize.slug(parent))
+                ids.push(normalize.toCategorySlug(parent))
 
                 for (const child of children) {
                     if (child.name === parent) {
