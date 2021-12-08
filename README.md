@@ -12,10 +12,10 @@
 
  Join us on [Discord](https://discord.gg/SHw6TmXreR).
 
- ### Total resources: 2072
+ ### Total resources: 2095
 
  ## Index
-<details><summary id="assets">Assets</summary><li><a href="#assets-audio">Audio</a></li><li><a href="#assets-fonts">Fonts</a></li><li><a href="#assets-icons">Icons</a></li><li><a href="#assets-illustrations">Illustrations</a></li><li><a href="#assets-images">Images</a></li><li><a href="#assets-logos">Logos</a></li><li><a href="#assets-videos">Videos</a></li></details><details><summary id="community">Community</summary><li><a href="#community-blogs-forums">Blogs & Forums</a></li><li><a href="#community-hacktoberfest">Hacktoberfest</a></li><li><a href="#community-personal-websites">Personal Websites</a></li></details><details><summary id="indie-hacking">Indie Hacking</summary><li><a href="#indie-hacking-books">Books</a></li><li><a href="#indie-hacking-marketing">Marketing</a></li><li><a href="#indie-hacking-platforms">Platforms</a></li><li><a href="#indie-hacking-podcasts">Podcasts</a></li><li><a href="#indie-hacking-utilities">Utilities</a></li></details><details><summary id="infrastructure">Infrastructure</summary><li><a href="#infrastructure-auth">Auth</a></li><li><a href="#infrastructure-cloud-computing">Cloud Computing</a></li><li><a href="#infrastructure-databases">Databases</a></li><li><a href="#infrastructure-hosting">Hosting</a></li><li><a href="#infrastructure-serverless">Serverless</a></li></details><details><summary id="jobs">Jobs</summary><li><a href="#jobs-boards">Boards</a></li><li><a href="#jobs-freelancing">Freelancing</a></li><li><a href="#jobs-interviews">Interviews</a></li><li><a href="#jobs-remote-only">Remote Only</a></li><li><a href="#jobs-resume-builders">Resume Builders</a></li></details><details><summary id="programming">Programming</summary><li><a href="#programming-books">Books</a></li><li><a href="#programming-charts">Charts</a></li><li><a href="#programming-code-challenges">Code Challenges</a></li><li><a href="#programming-code-generators">Code Generators</a></li><li><a href="#programming-code-snippets">Code Snippets</a></li><li><a href="#programming-docs-cheatsheets">Docs & Cheatsheets</a></li><details><summary id="programming-javascript">JavaScript</summary><li><a href="#programming-javascript-react">React</a></li><li><a href="#programming-javascript-tooling">Tooling</a></li><li><a href="#programming-javascript-utilities">Utilities</a></li></details><li><a href="#programming-learn">Learn</a></li><li><a href="#programming-newsletters">Newsletters</a></li><li><a href="#programming-podcasts">Podcasts</a></li><li><a href="#programming-templates">Templates</a></li><li><a href="#programming-testing">Testing</a></li><li><a href="#programming-ui-kits-libraries">UI Kits & Libraries</a></li><li><a href="#programming-youtube-channels">YouTube Channels</a></li></details><details><summary id="tools-utilities">Tools & Utilities</summary><li><a href="#tools-utilities-accessibility">Accessibility</a></li><li><a href="#tools-utilities-analytics">Analytics</a></li><li><a href="#tools-utilities-api-building">API Building</a></li><li><a href="#tools-utilities-browsers-extensions">Browsers & Extensions</a></li><li><a href="#tools-utilities-command-line">Command Line</a></li><li><a href="#tools-utilities-domains">Domains</a></li><li><a href="#tools-utilities-editors-extensions">Editors & Extensions</a></li><li><a href="#tools-utilities-general">General</a></li><li><a href="#tools-utilities-image-video-editing">Image & Video Editing</a></li><li><a href="#tools-utilities-performance">Performance</a></li><li><a href="#tools-utilities-public-apis">Public APIs - Powered by <a href="https://github.com/public-apis/public-apis">Public APIs</a></a></li><li><a href="#tools-utilities-seo">SEO</a></li><li><a href="#tools-utilities-typing">Typing</a></li><li><a href="#tools-utilities-web-scraping">Web Scraping</a></li><li><a href="#tools-utilities-website-builders">Website Builders</a></li><li><a href="#tools-utilities-writing">Writing</a></li></details><details><summary id="ui-design">UI Design</summary><li><a href="#ui-design-color">Color</a></li><li><a href="#ui-design-inspiration">Inspiration</a></li><li><a href="#ui-design-learn">Learn</a></li><li><a href="#ui-design-prototyping">Prototyping</a></li><li><a href="#ui-design-utilities">Utilities</a></li><li><a href="#ui-design-youtube-channels">YouTube Channels</a></li></details> 
+<details><summary id="assets">Assets</summary><li><a href="#assets-audio">Audio</a></li><li><a href="#assets-fonts">Fonts</a></li><li><a href="#assets-icons">Icons</a></li><li><a href="#assets-illustrations">Illustrations</a></li><li><a href="#assets-images">Images</a></li><li><a href="#assets-logos">Logos</a></li><li><a href="#assets-videos">Videos</a></li></details><details><summary id="community">Community</summary><li><a href="#community-blogs-and-forums">Blogs & Forums</a></li><li><a href="#community-hacktoberfest">Hacktoberfest</a></li><li><a href="#community-personal-websites">Personal Websites</a></li></details><details><summary id="indie-hacking">Indie Hacking</summary><li><a href="#indie-hacking-books">Books</a></li><li><a href="#indie-hacking-marketing">Marketing</a></li><li><a href="#indie-hacking-platforms">Platforms</a></li><li><a href="#indie-hacking-podcasts">Podcasts</a></li><li><a href="#indie-hacking-utilities">Utilities</a></li></details><details><summary id="infrastructure">Infrastructure</summary><li><a href="#infrastructure-auth">Auth</a></li><li><a href="#infrastructure-cloud-computing">Cloud Computing</a></li><li><a href="#infrastructure-databases">Databases</a></li><li><a href="#infrastructure-hosting">Hosting</a></li><li><a href="#infrastructure-serverless">Serverless</a></li></details><details><summary id="jobs">Jobs</summary><li><a href="#jobs-boards">Boards</a></li><li><a href="#jobs-freelancing">Freelancing</a></li><li><a href="#jobs-interviews">Interviews</a></li><li><a href="#jobs-remote-only">Remote Only</a></li><li><a href="#jobs-resume-builders">Resume Builders</a></li></details><details><summary id="programming">Programming</summary><li><a href="#programming-books">Books</a></li><li><a href="#programming-charts">Charts</a></li><li><a href="#programming-code-challenges">Code Challenges</a></li><li><a href="#programming-code-generators">Code Generators</a></li><li><a href="#programming-code-snippets">Code Snippets</a></li><li><a href="#programming-docs-and-cheatsheets">Docs & Cheatsheets</a></li><details><summary id="programming-javascript">JavaScript</summary><li><a href="#programming-javascript-react">React</a></li><li><a href="#programming-javascript-tooling">Tooling</a></li><li><a href="#programming-javascript-utilities">Utilities</a></li></details><li><a href="#programming-learn">Learn</a></li><li><a href="#programming-newsletters">Newsletters</a></li><li><a href="#programming-podcasts">Podcasts</a></li><li><a href="#programming-templates">Templates</a></li><li><a href="#programming-testing">Testing</a></li><li><a href="#programming-ui-kits-and-libraries">UI Kits & Libraries</a></li><li><a href="#programming-youtube-channels">YouTube Channels</a></li></details><details><summary id="tools-and-utilities">Tools & Utilities</summary><li><a href="#tools-and-utilities-accessibility">Accessibility</a></li><li><a href="#tools-and-utilities-analytics">Analytics</a></li><li><a href="#tools-and-utilities-api-building">API Building</a></li><li><a href="#tools-and-utilities-browsers-and-extensions">Browsers & Extensions</a></li><li><a href="#tools-and-utilities-command-line">Command Line</a></li><li><a href="#tools-and-utilities-domains">Domains</a></li><li><a href="#tools-and-utilities-editors-and-extensions">Editors & Extensions</a></li><li><a href="#tools-and-utilities-general">General</a></li><li><a href="#tools-and-utilities-image-and-video-editing">Image & Video Editing</a></li><li><a href="#tools-and-utilities-performance">Performance</a></li><li><a href="#tools-and-utilities-public-apis">Public APIs</a></li><li><a href="#tools-and-utilities-seo">SEO</a></li><li><a href="#tools-and-utilities-typing">Typing</a></li><li><a href="#tools-and-utilities-web-scraping">Web Scraping</a></li><li><a href="#tools-and-utilities-website-builders">Website Builders</a></li><li><a href="#tools-and-utilities-writing">Writing</a></li></details><details><summary id="ui-design">UI Design</summary><li><a href="#ui-design-color">Color</a></li><li><a href="#ui-design-inspiration">Inspiration</a></li><li><a href="#ui-design-learn">Learn</a></li><li><a href="#ui-design-prototyping">Prototyping</a></li><li><a href="#ui-design-utilities">Utilities</a></li><li><a href="#ui-design-youtube-channels">YouTube Channels</a></li></details> 
 
 
 ## <a name="assets">Assets</a> 
@@ -174,7 +174,7 @@
 **[⬆ Back to Index](#index)**
 ## <a name="community">Community</a> 
 
-### <a name="blogs-forums"><a name="community-blogs-forums">Blogs & Forums</a></a>
+### <a name="blogs-and-forums"><a name="community-blogs-and-forums">Blogs & Forums</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://codeconia.com/wp-content/uploads/2020/11/cropped-favicon-32x32.png" width="16" /> | Codeconia | Learn programming with Codeconia. | [Website](https://codeconia.com/) |  |
@@ -526,7 +526,7 @@
 
 **[⬆ Back to Index](#index)**
 
-### <a name="docs-cheatsheets"><a name="programming-docs-cheatsheets">Docs & Cheatsheets</a></a>
+### <a name="docs-and-cheatsheets"><a name="programming-docs-and-cheatsheets">Docs & Cheatsheets</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://themeselection.com/wp-content/uploads/2018/07/favicon.ico" width="16" /> | Bootstrap 5 Cheatsheet | An interactive list of Bootstrap 5 classes, variables, and mixins. It also helps you easily find the differences between Bootstrap 4 and Bootstrap 5. | [Website](https://bootstrap-cheatsheet.themeselection.com/) | Bootstrap, Bootstrap cheatsheet, Bootstrap 5, Free cheatsheet, Opensource |
@@ -733,7 +733,7 @@
 
 **[⬆ Back to Index](#index)**
 
-### <a name="ui-kits-libraries"><a name="programming-ui-kits-libraries">UI Kits & Libraries</a></a>
+### <a name="ui-kits-and-libraries"><a name="programming-ui-kits-and-libraries">UI Kits & Libraries</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" width="16" /> | Bootstrap | Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons,... | [Website](https://getbootstrap.com/) |  |
@@ -792,9 +792,9 @@
  <img src="https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png" width="16" /> | Wes Bos | HTML, CSS, JavaScript and WordPress web development tutorials! | [YouTube](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA) | JavaScript jQuery HTML5 CSS3 development web design css php wordpress |
 
 **[⬆ Back to Index](#index)**
-## <a name="tools-utilities">Tools & Utilities</a> 
+## <a name="tools-and-utilities">Tools & Utilities</a> 
 
-### <a name="accessibility"><a name="tools-utilities-accessibility">Accessibility</a></a>
+### <a name="accessibility"><a name="tools-and-utilities-accessibility">Accessibility</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://accessibility.18f.gov/checklist/favicon.ico" width="16" /> | 18F Accessibility Guide | A simple checklist for determining if your site is accessible. | [Website](https://accessibility.18f.gov/checklist/) |  |
@@ -819,7 +819,7 @@
 
 **[⬆ Back to Index](#index)**
 
-### <a name="analytics"><a name="tools-utilities-analytics">Analytics</a></a>
+### <a name="analytics"><a name="tools-and-utilities-analytics">Analytics</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://beampipe.io/favicon-32x32.png" width="16" /> | beampipe | Beampipe is a simple, privacy-focussed alternative to Google Analytics with a free tier for small sites. | [Website](https://beampipe.io/) |  |
@@ -835,7 +835,7 @@
 
 **[⬆ Back to Index](#index)**
 
-### <a name="api-building"><a name="tools-utilities-api-building">API Building</a></a>
+### <a name="api-building"><a name="tools-and-utilities-api-building">API Building</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.gstatic.com/devrel-devsite/prod/vbd4700e58d826f0eab371eadc20e0e343567df356800794a790eebf2ac059db2/cloud/images/favicons/onecloud/super_cloud.png" width="16" /> | Apigee | Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free. | [Website](https://cloud.google.com/apigee) |  |
@@ -851,7 +851,7 @@
 
 **[⬆ Back to Index](#index)**
 
-### <a name="browsers-extensions"><a name="tools-utilities-browsers-extensions">Browsers & Extensions</a></a>
+### <a name="browsers-and-extensions"><a name="tools-and-utilities-browsers-and-extensions">Browsers & Extensions</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://angular.io/assets/images/favicons/favicon-96x96.png" width="16" /> | Angular DevTools | Angular DevTools extends Chrome DevTools adding Angular specific debugging and profiling capabilities. You can use Angular DevTools to understand the structure of your application and preview the stat... | [Website](https://angular.io/guide/devtools) | dev tools, angular, profiler, profiling |
@@ -887,7 +887,7 @@
 
 **[⬆ Back to Index](#index)**
 
-### <a name="command-line"><a name="tools-utilities-command-line">Command Line</a></a>
+### <a name="command-line"><a name="tools-and-utilities-command-line">Command Line</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://cmdchallenge.com/favicon.ico" width="16" /> | cmd challenge | Learn the command line. | [Website](https://cmdchallenge.com/)<br />[Twitter](https://twitter.com/thecmdchallenge) |  |
@@ -895,7 +895,7 @@
 
 **[⬆ Back to Index](#index)**
 
-### <a name="domains"><a name="tools-utilities-domains">Domains</a></a>
+### <a name="domains"><a name="tools-and-utilities-domains">Domains</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://domain.garden/favicon.ico" width="16" /> | domain.garden | Instantly search across 1000+ new domain name extensions. Generate clever names, compare registry prices, and list popular examples per TLD. | [Website](https://domain.garden/) |  |
@@ -903,7 +903,7 @@
 
 **[⬆ Back to Index](#index)**
 
-### <a name="editors-extensions"><a name="tools-utilities-editors-extensions">Editors & Extensions</a></a>
+### <a name="editors-and-extensions"><a name="tools-and-utilities-editors-and-extensions">Editors & Extensions</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.jetbrains.com/favicon-32x32.png" width="16" /> | AppCode | An intelligent IDE for iOS/macOS development focused on code quality, efficient code navigation, smart code completion, on-the-fly code analysis with quick-fixes and superior code refactorings. | [Website](https://www.jetbrains.com/objc/) |  |
@@ -933,7 +933,7 @@
 
 **[⬆ Back to Index](#index)**
 
-### <a name="general"><a name="tools-utilities-general">General</a></a>
+### <a name="general"><a name="tools-and-utilities-general">General</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://appwrite.io/images/favicon.png" width="16" /> | Appwrite | Appwrite provides web and mobile developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs. | [Website](https://appwrite.io/)<br />[Discord](https://appwrite.io/discord)<br />[Facebook](https://www.facebook.com/appwrite.io)<br />[GitHub](https://github.com/appwrite/appwrite)<br />[LinkedIn](https://www.linkedin.com/company/appwrite)<br />[Twitter](https://twitter.com/appwrite_io) |  |
@@ -960,7 +960,7 @@
 
 **[⬆ Back to Index](#index)**
 
-### <a name="image-video-editing"><a name="tools-utilities-image-video-editing">Image & Video Editing</a></a>
+### <a name="image-and-video-editing"><a name="tools-and-utilities-image-and-video-editing">Image & Video Editing</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://fakeimg.pl/favicon.ico" width="16" /> | Fake Img | A little tool that generates placeholder images with an URL. Choose the size, the colors, even the text.  | [Website](https://fakeimg.pl/) |  |
@@ -969,7 +969,7 @@
 
 **[⬆ Back to Index](#index)**
 
-### <a name="performance"><a name="tools-utilities-performance">Performance</a></a>
+### <a name="performance"><a name="tools-and-utilities-performance">Performance</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://gtmetrix.com/favicon.ico" width="16" /> | GTmetrix | GTmetrix is a free tool that analyzes your page's speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them. | [Website](https://gtmetrix.com/) |  |
@@ -981,10 +981,1418 @@
 
 **[⬆ Back to Index](#index)**
 
-### <a name="public-apis"><a name="tools-utilities-public-apis">Public APIs</a></a>
-This section is powered by [Public APIs](https://github.com/public-apis/public-apis).
+### <a name="public-apis"><a name="tools-and-utilities-public-apis">Public APIs</a></a>
+| &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
+|---|---|---|---|---|
+ &nbsp; | 0x | API for querying token and pool stats across various liquidity pools | [Website](https://0x.org/api) |  |
+ &nbsp; | 18F | Unofficial US Federal Government API Development | [Website](http://18f.github.io/API-All-the-X/) |  |
+ &nbsp; | 1Forge | Forex currency market data | [Website](https://1forge.com/forex-data-api/api-documentation) |  |
+ &nbsp; | 1inch | API for querying decentralize exchange | [Website](https://docs.1inch.io/api/) |  |
+ &nbsp; | 1pt | A simple URL shortener | [Website](https://github.com/1pt-co/api/blob/main/README.md) |  |
+ &nbsp; | 24 Pull Requests | Project to promote open source collaboration during December | [Website](https://24pullrequests.com/api) |  |
+ &nbsp; | 4chan | Simple image-based bulletin board dedicated to a variety of topics | [Website](https://github.com/4chan/4chan-API) |  |
+ &nbsp; | 7digital | Api of Music store 7digital | [Website](https://docs.7digital.com/reference) |  |
+ &nbsp; | 7Timer! | Weather, especially for Astroweather | [Website](http://www.7timer.info/doc.php?lang=en) |  |
+ &nbsp; | A Bíblia Digital | Do not worry about managing the multiple versions of the Bible | [Website](https://www.abibliadigital.com.br/en) |  |
+ &nbsp; | Abstract Email Validation | Validate email addresses for deliverability and spam | [Website](https://www.abstractapi.com/email-verification-validation-api) |  |
+ &nbsp; | Abstract IP Geolocation | Geolocate website visitors from their IPs | [Website](https://www.abstractapi.com/ip-geolocation-api) |  |
+ &nbsp; | Abstract Phone Validation | Validate phone numbers globally | [Website](https://www.abstractapi.com/phone-validation-api) |  |
+ &nbsp; | Abstract Public Holidays | Data on national, regional, and religious holidays via API | [Website](https://www.abstractapi.com/holidays-api) |  |
+ &nbsp; | Abstract Screenshot | Take programmatic screenshots of web pages from any website | [Website](https://www.abstractapi.com/website-screenshot-api) |  |
+ &nbsp; | Abstract VAT Validation | Validate VAT numbers and calculate VAT rates | [Website](https://www.abstractapi.com/vat-validation-rates-api) |  |
+ &nbsp; | AbuseIPDB | IP/domain/URL reputation | [Website](https://docs.abuseipdb.com/) |  |
+ &nbsp; | AccuWeather | Weather and forecast data | [Website](https://developer.accuweather.com/apis) |  |
+ &nbsp; | Actinia Grass GIS | Actinia is an open source REST API for geographical data that uses GRASS GIS | [Website](https://actinia.mundialis.de/api_docs/) |  |
+ &nbsp; | administrative-divisons-db | Get all administrative divisions of a country | [Website](https://github.com/kamikazechaser/administrative-divisions-db) |  |
+ &nbsp; | AdoptAPet | Resource to help get pets adopted | [Website](https://www.adoptapet.com/public/apis/pet_list.html) |  |
+ &nbsp; | adresse.data.gouv.fr | Address database of France, geocoding and reverse | [Website](https://adresse.data.gouv.fr) |  |
+ &nbsp; | ADS-B Exchange | Access real-time and historical data of any and all airborne aircraft | [Website](https://www.adsbexchange.com/data/) |  |
+ &nbsp; | Advice Slip | Generate random advice slips | [Website](http://api.adviceslip.com/) |  |
+ &nbsp; | Adzuna | Job board aggregator | [Website](https://developer.adzuna.com/overview) |  |
+ &nbsp; | Aemet | Weather and forecast data from Spain | [Website](https://opendata.aemet.es/centrodedescargas/inicio) |  |
+ &nbsp; | Affirmations | Generate Stuart Smalley Affirmations | [Website](https://affirmations.dev/) |  |
+ &nbsp; | Aftership | API to update, manage and track shipment efficiently | [Website](https://developers.aftership.com/reference/quick-start) |  |
+ &nbsp; | Age of Empires II | Get information about Age of Empires II resources | [Website](https://age-of-empires-2-api.herokuapp.com) |  |
+ &nbsp; | Agify.io | Estimates the age from a first name | [Website](https://agify.io) |  |
+ &nbsp; | AI For Thai | Free Various Thai AI API | [Website](https://aiforthai.in.th/index.php) |  |
+ &nbsp; | AI Mastering | Automated Music Mastering | [Website](https://aimastering.com/api_docs/) |  |
+ &nbsp; | airportsapi | Get name and website-URL for airports by ICAO code | [Website](https://airport-web.appspot.com/api/docs/) |  |
+ &nbsp; | Airtable | Integrate with Airtable | [Website](https://airtable.com/api) |  |
+ &nbsp; | Airtel IP | IP Geolocation API. Collecting data from multiple sources | [Website](https://sys.airtel.lv/ip2country/1.1.1.1/?full=true) |  |
+ &nbsp; | AirVisual | Air quality and weather data | [Website](https://airvisual.com/api) |  |
+ &nbsp; | AIS Hub | Real-time data of any marine and inland vessel equipped with AIS tracking system | [Website](http://www.aishub.net/api) |  |
+ &nbsp; | Alchemy Ethereum | Ethereum Node-as-a-Service Provider | [Website](https://docs.alchemy.com/alchemy/) |  |
+ &nbsp; | Aletheia | Insider trading data, earnings call analysis, financial statements, and more | [Website](https://aletheiaapi.com/) |  |
+ &nbsp; | AlienVault Open Threat Exchange (OTX) | IP/domain/URL reputation | [Website](https://otx.alienvault.com/api) |  |
+ &nbsp; | Alpaca | Realtime and historical market data on all US equities and ETFs | [Website](https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/) |  |
+ &nbsp; | Alpha Vantage | Realtime and historical stock data | [Website](https://www.alphavantage.co/) |  |
+ &nbsp; | Amadeus for Developers | Travel Search - Limited usage | [Website](https://developers.amadeus.com/self-service) |  |
+ &nbsp; | Amdoren | Free currency API with over 150 currencies | [Website](https://www.amdoren.com/currency-api/) |  |
+ &nbsp; | AmiiboAPI | Nintendo Amiibo Information | [Website](https://amiiboapi.com/) |  |
+ &nbsp; | Améthyste | Generate images for Discord users | [Website](https://api.amethyste.moe/) |  |
+ &nbsp; | An API of Ice And Fire | Game Of Thrones API | [Website](https://anapioficeandfire.com/) |  |
+ &nbsp; | AniAPI | Anime discovery, streaming & syncing with trackers | [Website](https://aniapi.com/docs/) |  |
+ &nbsp; | AniDB | Anime Database | [Website](https://wiki.anidb.net/HTTP_API_Definition) |  |
+ &nbsp; | AniList | Anime discovery & tracking | [Website](https://github.com/AniList/ApiV2-GraphQL-Docs) |  |
+ &nbsp; | Animal Crossing: New Horizons | API for critters, fossils, art, music, furniture and villagers | [Website](http://acnhapi.com/) |  |
+ &nbsp; | AnimeChan | Anime quotes (over 10k+) | [Website](https://github.com/RocktimSaikia/anime-chan) |  |
+ &nbsp; | AnimeFacts | Anime Facts (over 100+) | [Website](https://chandan-02.github.io/anime-facts-rest-api/) |  |
+ &nbsp; | AnimeNewsNetwork | Anime industry news | [Website](https://www.animenewsnetwork.com/encyclopedia/api.php) |  |
+ &nbsp; | AnonFiles | Upload and share your files anonymously | [Website](https://anonfiles.com/docs/api) |  |
+ &nbsp; | Apache Superset | API to manage your BI dashboards and data sources on Superset | [Website](https://superset.apache.org/docs/rest-api) |  |
+ &nbsp; | API Grátis | Multiples services and public APIs | [Website](https://apigratis.com.br/) |  |
+ &nbsp; | API Setu | An Indian Government platform that provides a lot of APIS for KYC, business, education & employment | [Website](https://www.apisetu.gov.in/) |  |
+ &nbsp; | API-FOOTBALL | Get information about Football Leagues & Cups | [Website](https://www.api-football.com/documentation-v3) |  |
+ &nbsp; | Api2Convert | Online File Conversion API | [Website](https://www.api2convert.com/) |  |
+ &nbsp; | ApicAgent | Extract device details from user-agent string | [Website](https://www.apicagent.com) |  |
+ &nbsp; | ApiFlash | Chrome based screenshot API for developers | [Website](https://apiflash.com/) |  |
+ &nbsp; | apilayer aviationstack | Real-time Flight Status & Global Aviation Data API | [Website](https://aviationstack.com/) |  |
+ &nbsp; | apilayer coinlayer | Real-time Crypto Currency Exchange Rates | [Website](https://coinlayer.com) |  |
+ &nbsp; | apilayer fixer.io | Exchange rates and currency conversion | [Website](https://fixer.io) |  |
+ &nbsp; | apilayer ipstack | Locate and identify website visitors by IP address | [Website](https://ipstack.com/) |  |
+ &nbsp; | apilayer languagelayer | Language Detection JSON API supporting 173 languages | [Website](https://languagelayer.com/) |  |
+ &nbsp; | apilayer mailboxlayer | Email address validation | [Website](https://mailboxlayer.com) |  |
+ &nbsp; | apilayer marketstack | Real-Time, Intraday & Historical Market Data API | [Website](https://marketstack.com/) |  |
+ &nbsp; | apilayer mediastack | Free, Simple REST API for Live News & Blog Articles | [Website](https://mediastack.com/) |  |
+ &nbsp; | apilayer numverify | Phone number validation | [Website](https://numverify.com) |  |
+ &nbsp; | apilayer pdflayer | HTML/URL to PDF | [Website](https://pdflayer.com) |  |
+ &nbsp; | apilayer screenshotlayer | URL 2 Image | [Website](https://screenshotlayer.com) |  |
+ &nbsp; | apilayer userstack | Secure User-Agent String Lookup JSON API | [Website](https://userstack.com/) |  |
+ &nbsp; | apilayer weatherstack | Real-Time & Historical World Weather Data API | [Website](https://weatherstack.com/) |  |
+ &nbsp; | ApiMedic | ApiMedic offers a medical symptom checker API primarily for patients | [Website](https://apimedic.com/) |  |
+ &nbsp; | APIs.guru | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | [Website](https://apis.guru/api-doc/) |  |
+ &nbsp; | APITemplate.io | Dynamically generate images and PDFs from templates with a simple API | [Website](https://apitemplate.io) |  |
+ &nbsp; | APIXU | Weather | [Website](https://www.apixu.com/doc/request.aspx) |  |
+ &nbsp; | Apple Music | Official API of the music streaming site Apple Music | [Website](https://developer.apple.com/documentation/applemusicapi/) |  |
+ &nbsp; | Application Environment Verification | Android library and API to verify the safety of user devices, detect rooted devices and other risks | [Website](https://github.com/fingerprintjs/aev) |  |
+ &nbsp; | AQICN | Air Quality Index Data for over 1000 cities | [Website](https://aqicn.org/api/) |  |
+ &nbsp; | Arbeitnow | API for Job board aggregator in Europe / Remote | [Website](https://documenter.getpostman.com/view/18545278/UVJbJdKh) |  |
+ &nbsp; | Arbeitsamt | API for the "Arbeitsamt", which is a german Job board aggregator | [Website](https://jobsuche.api.bund.dev/) |  |
+ &nbsp; | Archive.org | The Internet Archive | [Website](https://archive.readme.io/docs) |  |
+ &nbsp; | arcsecond.io | Multiple astronomy data sources | [Website](https://api.arcsecond.io/) |  |
+ &nbsp; | Art Institute of Chicago | Art | [Website](https://api.artic.edu/docs/) |  |
+ &nbsp; | arXiv | Curated research-sharing platform: physics, mathematics, quantitative finance, and economics | [Website](https://arxiv.org/help/api/user-manual) |  |
+ &nbsp; | Asana | Programmatic access to all data in your asana system | [Website](https://developers.asana.com/docs) |  |
+ &nbsp; | Associated Press | Search for news and metadata from Associated Press | [Website](https://developer.ap.org/) |  |
+ &nbsp; | Audiomack | Api of the streaming music hub Audiomack | [Website](https://www.audiomack.com/data-api/docs) |  |
+ &nbsp; | Auth0 | Easy to implement, adaptable authentication and authorization platform | [Website](https://auth0.com) |  |
+ &nbsp; | Autochess VNG | Rest Api for Autochess VNG | [Website](https://github.com/didadadida93/autochess-vng-api) |  |
+ &nbsp; | AviationAPI | FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather | [Website](https://docs.aviationapi.com) |  |
+ &nbsp; | AviationWeather | NOAA aviation weather forecasts and observations | [Website](https://www.aviationweather.gov/dataserver) |  |
+ &nbsp; | Axolotl | Collection of axolotl pictures and facts | [Website](https://theaxolotlapi.netlify.app/) |  |
+ &nbsp; | Aylien Text Analysis | A collection of information retrieval and natural language APIs | [Website](https://docs.aylien.com/textapi/#getting-started) |  |
+ &nbsp; | Ayrshare | Social media APIs to post, get analytics, and manage multiple users social media accounts | [Website](https://www.ayrshare.com) |  |
+ &nbsp; | AZ511 | Access traffic data from the ADOT API | [Website](https://www.az511.com/developers/doc) |  |
+ &nbsp; | aztro | Daily horoscope info for yesterday, today, and tomorrow | [Website](https://aztro.sameerkumar.website/) |  |
+ &nbsp; | Azure DevOps | The Azure DevOps basic components of a REST API request/response pair | [Website](https://docs.microsoft.com/en-us/rest/api/azure/devops) |  |
+ &nbsp; | Azure DevOps Health | Resource health helps you diagnose and get support when an Azure issue impacts your resources | [Website](https://docs.microsoft.com/en-us/rest/api/resourcehealth) |  |
+ &nbsp; | Bacon Ipsum | A Meatier Lorem Ipsum Generator | [Website](https://baconipsum.com/json-api/) |  |
+ &nbsp; | BaconMockup | Resizable bacon placeholder images | [Website](https://baconmockup.com/) |  |
+ &nbsp; | balldontlie | Balldontlie provides access to stats data from the NBA | [Website](https://balldontlie.io) |  |
+ &nbsp; | Banco do Brasil | All Banco do Brasil financial transaction APIs | [Website](https://developers.bb.com.br/home) |  |
+ &nbsp; | Bandcamp | API of Music store Bandcamp | [Website](https://bandcamp.com/developer) |  |
+ &nbsp; | Bandsintown | Music Events | [Website](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0) |  |
+ &nbsp; | Bank Negara Malaysia Open Data | Malaysia Central Bank Open Data | [Website](https://api.bnm.gov.my/) |  |
+ &nbsp; | Bank of Russia | Exchange rates and currency conversion | [Website](https://www.cbr.ru/development/SXML/) |  |
+ &nbsp; | Barter.VG | Provides information about Game, DLC, Bundles, Giveaways, Trading | [Website](https://github.com/bartervg/barter.vg/wiki) |  |
+ &nbsp; | Base | Building quick backends | [Website](https://www.base-api.io/) |  |
+ &nbsp; | Battle.net | Diablo III, Hearthstone, StarCraft II and World of Warcraft game data APIs | [Website](https://develop.battle.net/documentation/guides/getting-started) |  |
+ &nbsp; | Battuta | A (country/region/city) in-cascade location API | [Website](http://battuta.medunes.net) |  |
+ &nbsp; | Bay Area Rapid Transit | Stations and predicted arrivals for BART | [Website](http://api.bart.gov) |  |
+ &nbsp; | BayFiles | Upload and share your files | [Website](https://bayfiles.com/docs/api) |  |
+ &nbsp; | BC Ferries | Sailing times and capacities for BC Ferries | [Website](https://www.bcferriesapi.ca) |  |
+ &nbsp; | BCLaws | Access to the laws of British Columbia | [Website](http://www.bclaws.ca/civix/template/complete/api/index.html) |  |
+ &nbsp; | Beeceptor | Build a mock Rest API endpoint in seconds | [Website](https://beeceptor.com/) |  |
+ &nbsp; | Best Buy | Products, Buying Options, Categories, Recommendations, Stores and Commerce | [Website](https://bestbuyapis.github.io/api-documentation/#overview) |  |
+ &nbsp; | Bhagavad Gita | Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi | [Website](https://docs.bhagavadgitaapi.in) |  |
+ &nbsp; | Bhagavad Gita | Bhagavad Gita text | [Website](https://bhagavadgita.io/api) |  |
+ &nbsp; | Bhagavad Gita telugu | Bhagavad Gita API in telugu and odia languages | [Website](https://gita-api.vercel.app) |  |
+ &nbsp; | Bible-api | Free Bible API with multiple languages | [Website](https://bible-api.com/) |  |
+ &nbsp; | BIC-Boxtech | Container technical detail for the global container fleet | [Website](https://docs.bic-boxtech.org/) |  |
+ &nbsp; | BigDataCloud | Provides fast and accurate IP geolocation APIs along with security checks and confidence area | [Website](https://www.bigdatacloud.com/ip-geolocation-apis) |  |
+ &nbsp; | Billplz | Payment platform | [Website](https://www.billplz.com/api) |  |
+ &nbsp; | Binance | Exchange for Trading Cryptocurrencies based in China | [Website](https://github.com/binance/binance-spot-api-docs) |  |
+ &nbsp; | BinaryEdge | Provide access to BinaryEdge 40fy scanning platform | [Website](https://docs.binaryedge.io/api-v2.html) |  |
+ &nbsp; | Bing Maps | Create/customize digital maps based on Bing Maps data | [Website](https://www.microsoft.com/maps/) |  |
+ &nbsp; | Binlist | Public access to a database of IIN/BIN information | [Website](https://binlist.net/) |  |
+ &nbsp; | Biriyani As A Service | Biriyani images placeholder | [Website](https://biriyani.anoram.com/) |  |
+ &nbsp; | Bitbucket | Bitbucket API | [Website](https://developer.atlassian.com/bitbucket/api/2/reference/) |  |
+ &nbsp; | Bitcambio | Get the list of all traded assets in the exchange | [Website](https://nova.bitcambio.com.br/api/v3/docs#a-public) |  |
+ &nbsp; | BitcoinAverage | Digital Asset Price Data for the blockchain industry | [Website](https://apiv2.bitcoinaverage.com/) |  |
+ &nbsp; | BitcoinCharts | Financial and Technical Data related to the Bitcoin Network | [Website](https://bitcoincharts.com/about/exchanges/) |  |
+ &nbsp; | Bitfinex | Cryptocurrency Trading Platform | [Website](https://docs.bitfinex.com/docs) |  |
+ &nbsp; | Bitly | URL shortener and link management | [Website](http://dev.bitly.com/get_started.html) |  |
+ &nbsp; | Bitmex | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong | [Website](https://www.bitmex.com/app/apiOverview) |  |
+ &nbsp; | Bitquery | Onchain GraphQL APIs & DEX APIs | [Website](https://graphql.bitquery.io/ide) |  |
+ &nbsp; | Bitrise | Build tool and processes integrations to create efficient development pipelines | [Website](https://api-docs.bitrise.io/) |  |
+ &nbsp; | Bittrex | Next Generation Crypto Trading Platform | [Website](https://bittrex.com/Home/Api) |  |
+ &nbsp; | BitWarden | Best open-source password manager | [Website](https://bitwarden.com/help/api/) |  |
+ &nbsp; | BlaBlaCar | Search car sharing trips | [Website](https://dev.blablacar.com) |  |
+ &nbsp; | Black History Facts | Contribute or search one of the largest black history fact databases on the web | [Website](https://blackhistoryapi.io/docs) |  |
+ &nbsp; | Blague.xyz | La plus grande API de Blagues FR/The biggest FR jokes API | [Website](https://blague.xyz/) |  |
+ &nbsp; | Blitapp | Schedule screenshots of web pages and sync them to your cloud | [Website](https://blitapp.com/api/) |  |
+ &nbsp; | Block | Bitcoin Payment, Wallet & Transaction Data | [Website](https://www.block.io/docs/basic) |  |
+ &nbsp; | Blockchain | Bitcoin Payment, Wallet & Transaction Data | [Website](https://www.blockchain.com/api) |  |
+ &nbsp; | BlockFacts | Real-time crypto data from multiple exchanges via a single unified API, and much more | [Website](https://blockfacts.io/) |  |
+ &nbsp; | blockfrost Cardano | Interaction with the Cardano mainnet and several testnets | [Website](https://blockfrost.io/) |  |
+ &nbsp; | Blogger | The Blogger APIs allows client applications to view and update Blogger content | [Website](https://developers.google.com/blogger/) |  |
+ &nbsp; | Blynk-Cloud | Control IoT Devices from Blynk IoT Cloud | [Website](https://blynkapi.docs.apiary.io/#) |  |
+ &nbsp; | bng2latlong | Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude | [Website](https://www.getthedata.com/bng2latlong) |  |
+ &nbsp; | Board Game Geek | Board games, RPG and videogames | [Website](https://boardgamegeek.com/wiki/page/BGG_XML_API2) |  |
+ &nbsp; | Boleto.Cloud | A api to generate boletos in Brazil | [Website](https://boleto.cloud/) |  |
+ &nbsp; | Bored | Find random activities to fight boredom | [Website](https://www.boredapi.com/) |  |
+ &nbsp; | Boston MBTA Transit | Stations and predicted arrivals for MBTA | [Website](https://www.mbta.com/developers/v3-api) |  |
+ &nbsp; | Botd | Botd is a browser library for JavaScript bot detection | [Website](https://github.com/fingerprintjs/botd) |  |
+ &nbsp; | BotsArchive | JSON formatted details about Telegram Bots available in database | [Website](https://botsarchive.com/docs.html) |  |
+ &nbsp; | Box | File Sharing and Storage | [Website](https://developer.box.com/) |  |
+ &nbsp; | Brainshop.ai | Make A Free A.I Brain | [Website](https://brainshop.ai/) |  |
+ &nbsp; | Brave NewCoin | Real-time and historic crypto data from more than 200+ exchanges | [Website](https://bravenewcoin.com/developers) |  |
+ &nbsp; | Brawl Stars | Brawl Stars Game Information | [Website](https://developer.brawlstars.com) |  |
+ &nbsp; | Brazil | Community driven API for Brazil Public Data | [Website](https://brasilapi.com.br/) |  |
+ &nbsp; | Brazil Central Bank Open Data | Brazil Central Bank Open Data | [Website](https://dadosabertos.bcb.gov.br/) |  |
+ &nbsp; | Brazil Receita WS | Consult companies by CNPJ for Brazilian companies | [Website](https://www.receitaws.com.br/) |  |
+ &nbsp; | Brazilian Chamber of Deputies Open Data | Provides legislative information in Apis XML and JSON, as well as files in various formats | [Website](https://dadosabertos.camara.leg.br/swagger/api.html) |  |
+ &nbsp; | Brazilian Vehicles and Prices | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe | [Website](https://deividfortuna.github.io/fipe/) |  |
+ &nbsp; | Breaking Bad | Breaking Bad API | [Website](https://breakingbadapi.com/documentation) |  |
+ &nbsp; | Breaking Bad Quotes | Some Breaking Bad quotes | [Website](https://github.com/shevabam/breaking-bad-quotes) |  |
+ &nbsp; | BreezoMeter Pollen | Daily Forecast pollen conditions data for a specific location | [Website](https://docs.breezometer.com/api-documentation/pollen-api/v2/) |  |
+ &nbsp; | British National Bibliography | Books | [Website](http://bnb.data.bl.uk/) |  |
+ &nbsp; | Browshot | Easily make screenshots of web pages in any screen size, as any device | [Website](https://browshot.com/api/documentation) |  |
+ &nbsp; | Bruzu | Image generation with query string | [Website](https://docs.bruzu.com) |  |
+ &nbsp; | BtcTurk | Real-time cryptocurrency data, graphs and API that allows buy&sell | [Website](https://docs.btcturk.com/) |  |
+ &nbsp; | Buddy | The fastest continuous integration and continuous delivery platform | [Website](https://buddy.works/docs/api/getting-started/overview) |  |
+ &nbsp; | Bugcrowd | Bugcrowd API for interacting and tracking the reported issues programmatically | [Website](https://docs.bugcrowd.com/api/getting-started/) |  |
+ &nbsp; | Bugsnax | Get information about Bugsnax | [Website](https://www.bugsnaxapi.com/) |  |
+ &nbsp; | BusinessUSA | Authoritative information on U.S. programs, events, services and more | [Website](https://business.usa.gov/developer) |  |
+ &nbsp; | Bybit | Cryptocurrency data feed and algorithmic trading | [Website](https://bybit-exchange.github.io/docs/linear/#t-introduction) |  |
+ &nbsp; | Calendar Index | Worldwide Holidays and Working Days | [Website](https://www.calendarindex.com/) |  |
+ &nbsp; | Calendarific | Worldwide Holidays | [Website](https://calendarific.com/) |  |
+ &nbsp; | Callook.info | United States ham radio callsigns | [Website](https://callook.info) |  |
+ &nbsp; | Canadian Football League (CFL) | Official JSON API providing real-time league, team and player statistics about the CFL | [Website](http://api.cfl.ca/) |  |
+ &nbsp; | CAPEsandbox | Malware execution and analysis | [Website](https://capev2.readthedocs.io/en/latest/usage/api.html) |  |
+ &nbsp; | Carbon Interface | API to calculate carbon (C02) emissions estimates for common C02 emitting activities | [Website](https://docs.carboninterface.com/) |  |
+ &nbsp; | Careerjet | Job search engine | [Website](https://www.careerjet.com/partners/api/) |  |
+ &nbsp; | Cartes.io | Create maps and markers for anything | [Website](https://github.com/M-Media-Group/Cartes.io/wiki/API) |  |
+ &nbsp; | CARTO | Location Information Prediction | [Website](https://carto.com/) |  |
+ &nbsp; | Cat Facts | Daily cat facts | [Website](https://alexwohlbruck.github.io/cat-facts/) |  |
+ &nbsp; | Cataas | Cat as a service (cats pictures and gifs) | [Website](https://cataas.com/) |  |
+ &nbsp; | Catalogopolis | Doctor Who API | [Website](https://api.catalogopolis.xyz/docs/) |  |
+ &nbsp; | catAPI | Random pictures of cats | [Website](https://thatcopy.pw/catapi) |  |
+ &nbsp; | Catch The Show | REST API for next-episode.net | [Website](https://catchtheshow.herokuapp.com/api/documentation) |  |
+ &nbsp; | Cats | Pictures of cats from Tumblr | [Website](https://docs.thecatapi.com/) |  |
+ &nbsp; | CDNJS | Library info on CDNJS | [Website](https://api.cdnjs.com/libraries/jquery) |  |
+ &nbsp; | Census.gov | The US Census Bureau provides various APIs and data sets on demographics and businesses | [Website](https://www.census.gov/data/developers/data-sets.html) |  |
+ &nbsp; | Censys.io | Search engine for Internet connected host and devices | [Website](https://censys.io/api) |  |
+ &nbsp; | Cep.la | Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states | [Website](http://cep.la/) |  |
+ &nbsp; | Chainlink | Build hybrid smart contracts with Chainlink | [Website](https://chain.link/developer-resources) |  |
+ &nbsp; | Chainpoint | Chainpoint is a global network for anchoring data to the Bitcoin blockchain | [Website](https://tierion.com/chainpoint/) |  |
+ &nbsp; | Changelogs.md | Structured changelog metadata from open source projects | [Website](https://changelogs.md) |  |
+ &nbsp; | Charity Search | Non-profit charity data | [Website](http://charityapi.orghunter.com/) |  |
+ &nbsp; | CheapShark | Steam/PC Game Prices and Deals | [Website](https://www.cheapshark.com/api) |  |
+ &nbsp; | CheetahO | Photo optimization and resize | [Website](https://cheetaho.com/docs/getting-started/) |  |
+ &nbsp; | Chess.com | Chess.com read-only REST API | [Website](https://www.chess.com/news/view/published-data-api) |  |
+ &nbsp; | Chinese Character Web | Chinese character definitions and pronunciations | [Website](http://ccdb.hemiola.com/) |  |
+ &nbsp; | Chinese Text Project | Online open-access digital library for pre-modern Chinese texts | [Website](https://ctext.org/tools/api) |  |
+ &nbsp; | Chomp | Data about various grocery products and foods | [Website](https://chompthis.com/api/) |  |
+ &nbsp; | Chronicling America | Provides access to millions of pages of historic US newspapers from the Library of Congress | [Website](http://chroniclingamerica.loc.gov/about/api/) |  |
+ &nbsp; | Chuck Norris Database | Jokes | [Website](http://www.icndb.com/api/) |  |
+ &nbsp; | chucknorris.io | JSON API for hand curated Chuck Norris jokes | [Website](https://api.chucknorris.io) |  |
+ &nbsp; | Church Calendar | Catholic liturgical calendar | [Website](http://calapi.inadiutorium.cz/) |  |
+ &nbsp; | Ciprand | Secure random string generator | [Website](https://github.com/polarspetroll/ciprand) |  |
+ &nbsp; | CircleCI | Automate the software development process using continuous integration and continuous delivery | [Website](https://circleci.com/docs/api/v1-reference/) |  |
+ &nbsp; | Cisco Spark | Team Collaboration Software | [Website](https://developer.ciscospark.com) |  |
+ &nbsp; | Citi | All Citigroup account and statement data APIs | [Website](https://sandbox.developerhub.citi.com/api-catalog-list) |  |
+ &nbsp; | City Bikes | City Bikes around the world | [Website](https://api.citybik.es/v2/) |  |
+ &nbsp; | City, Berlin | Berlin(DE) City Open Data | [Website](https://daten.berlin.de/) |  |
+ &nbsp; | City, Gdańsk | Gdańsk (PL) City Open Data | [Website](https://ckan.multimediagdansk.pl/en) |  |
+ &nbsp; | City, Gdynia | Gdynia (PL) City Open Data | [Website](http://otwartedane.gdynia.pl/en/api_doc.html) |  |
+ &nbsp; | City, Helsinki | Helsinki(FI) City Open Data | [Website](https://hri.fi/en_gb/) |  |
+ &nbsp; | City, Kyiv | Kyiv(UA) City Open Data | [Website](https://data.kyivcity.gov.ua/) |  |
+ &nbsp; | City, Lviv | Lviv(UA) City Open Data | [Website](https://opendata.city-adm.lviv.ua/) |  |
+ &nbsp; | City, Nantes Open Data | Nantes(FR) City Open Data | [Website](https://data.nantesmetropole.fr/pages/home/) |  |
+ &nbsp; | City, New York Open Data | New York (US) City Open Data | [Website](https://opendata.cityofnewyork.us/) |  |
+ &nbsp; | City, Prague Open Data | Prague(CZ) City Open Data | [Website](http://opendata.praha.eu/en) |  |
+ &nbsp; | City, Toronto Open Data | Toronto (CA) City Open Data | [Website](https://open.toronto.ca/) |  |
+ &nbsp; | City, Warsaw Open Data | Warsaw (PL) City Open Data | [Website](https://api.um.warszawa.pl/) |  |
+ &nbsp; | CitySDK | Open APIs for select European cities | [Website](http://www.citysdk.eu/citysdk-toolkit/) |  |
+ &nbsp; | CivicFeed | News articles and public datasets | [Website](https://developers.civicfeed.com/) |  |
+ &nbsp; | Clarifai | Computer Vision | [Website](https://docs.clarifai.com/api-guide/api-overview) |  |
+ &nbsp; | Clash of Clans | Clash of Clans Game Information | [Website](https://developer.clashofclans.com) |  |
+ &nbsp; | Clash Royale | Clash Royale Game Information | [Website](https://developer.clashroyale.com) |  |
+ &nbsp; | Classify | Encrypting & decrypting text messages | [Website](https://classify-web.herokuapp.com/#/api) |  |
+ &nbsp; | CleanURI | URL shortener service | [Website](https://cleanuri.com/docs) |  |
+ &nbsp; | Clearbit Logo | Search for company logos and embed them in your projects | [Website](https://clearbit.com/docs#logo-api) |  |
+ &nbsp; | ClickMeter | Monitor, compare and optimize your marketing links | [Website](https://support.clickmeter.com/hc/en-us/categories/201474986) |  |
+ &nbsp; | ClickUp | ClickUp is a robust, cloud-based project management tool for boosting productivity | [Website](https://clickup.com/api) |  |
+ &nbsp; | Clico | URL shortener service | [Website](https://cli.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config) |  |
+ &nbsp; | Clockify | Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems | [Website](https://clockify.me/developers-api ) |  |
+ &nbsp; | Cloudbet | Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically | [Website](https://www.cloudbet.com/api/) |  |
+ &nbsp; | CloudConvert | Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation | [Website](https://cloudconvert.com/api/v2) |  |
+ &nbsp; | Cloudflare Trace | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More | [Website](https://github.com/fawazahmed0/cloudflare-trace-api) |  |
+ &nbsp; | Cloudmersive | Image captioning, face recognition, NSFW classification | [Website](https://www.cloudmersive.com/image-recognition-and-processing-api) |  |
+ &nbsp; | Cloudmersive Document and Data Conversion | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | [Website](https://cloudmersive.com/convert-api) |  |
+ &nbsp; | Cloudmersive Natural Language Processing | Natural language processing and text analysis | [Website](https://www.cloudmersive.com/nlp-api) |  |
+ &nbsp; | Cloudmersive Validate | Validate email addresses, phone numbers, VAT numbers and domain names | [Website](https://cloudmersive.com/validate-api) |  |
+ &nbsp; | Cloudmersive Validate | Validate international phone numbers | [Website](https://cloudmersive.com/phone-number-validation-API) |  |
+ &nbsp; | Cloverly | API calculates the impact of common carbon-intensive activities in real time | [Website](https://www.cloverly.com/carbon-offset-documentation) |  |
+ &nbsp; | CO2 Offset | API calculates and validates the carbon footprint | [Website](https://co2offset.io/api.html) |  |
+ &nbsp; | Code.gov | The primary platform for Open Source and code sharing for the U.S. Federal Government | [Website](https://code.gov) |  |
+ &nbsp; | Code::Stats | Automatic time tracking for programmers | [Website](https://codestats.net/api-docs) |  |
+ &nbsp; | Codeforces | Get access to Codeforces data | [Website](https://codeforces.com/apiHelp) |  |
+ &nbsp; | Codeship | Codeship is a Continuous Integration Platform in the cloud | [Website](https://apidocs.codeship.com/) |  |
+ &nbsp; | Codex | Online Compiler for Various Languages | [Website](https://github.com/Jaagrav/CodeX) |  |
+ &nbsp; | Coffee | Random pictures of coffee | [Website](https://coffee.alexflipnote.dev/) |  |
+ &nbsp; | CoinAPI | All Currency Exchanges integrate under a single api | [Website](https://docs.coinapi.io/) |  |
+ &nbsp; | Coinbase | Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices | [Website](https://developers.coinbase.com) |  |
+ &nbsp; | Coinbase Pro | Cryptocurrency Trading Platform | [Website](https://docs.pro.coinbase.com/#api) |  |
+ &nbsp; | CoinCap | Real time Cryptocurrency prices through a RESTful API | [Website](https://docs.coincap.io/) |  |
+ &nbsp; | CoinDCX | Cryptocurrency Trading Platform | [Website](https://docs.coindcx.com/) |  |
+ &nbsp; | CoinDesk | CoinDesk's Bitcoin Price Index (BPI) in multiple currencies | [Website](https://old.coindesk.com/coindesk-api/) |  |
+ &nbsp; | CoinGecko | Cryptocurrency Price, Market, and Developer/Social Data | [Website](http://www.coingecko.com/api) |  |
+ &nbsp; | Coinigy | Interacting with Coinigy Accounts and Exchange Directly | [Website](https://coinigy.docs.apiary.io) |  |
+ &nbsp; | Coinlib | Crypto Currency Prices | [Website](https://coinlib.io/apidocs) |  |
+ &nbsp; | Coinlore | Cryptocurrencies prices, volume and more | [Website](https://www.coinlore.com/cryptocurrency-data-api) |  |
+ &nbsp; | CoinMarketCap | Cryptocurrencies Prices | [Website](https://coinmarketcap.com/api/) |  |
+ &nbsp; | Coinpaprika | Cryptocurrencies prices, volume and more | [Website](https://api.coinpaprika.com) |  |
+ &nbsp; | CoinRanking | Live Cryptocurrency data | [Website](https://developers.coinranking.com/api/documentation) |  |
+ &nbsp; | Coinremitter | Cryptocurrencies Payment & Prices | [Website](https://coinremitter.com/docs) |  |
+ &nbsp; | CoinStats | Crypto Tracker | [Website](https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest) |  |
+ &nbsp; | CollegeScoreCard.ed.gov | Data on higher education institutions in the United States | [Website](https://collegescorecard.ed.gov/data/) |  |
+ &nbsp; | Collins | Bilingual Dictionary and Thesaurus Data | [Website](https://api.collinsdictionary.com/api/v1/documentation/html/) |  |
+ &nbsp; | Colorado Information Marketplace | Colorado State Government Open Data | [Website](https://data.colorado.gov/) |  |
+ &nbsp; | ColorfulClouds | Weather | [Website](https://open.caiyunapp.com/ColorfulClouds_Weather_API) |  |
+ &nbsp; | Colormind | Color scheme generator | [Website](http://colormind.io/api-access/) |  |
+ &nbsp; | ColourLovers | Get various patterns, palettes and images | [Website](http://www.colourlovers.com/api) |  |
+ &nbsp; | Comic Vine | Comics | [Website](https://comicvine.gamespot.com/api/documentation) |  |
+ &nbsp; | Community Transit | Transitland API | [Website](https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints) |  |
+ &nbsp; | Compare Flight Prices | API for comparing flight prices across platforms | [Website](https://rapidapi.com/obryan-software-obryan-software-default/api/compare-flight-prices/) |  |
+ &nbsp; | Complete Criminal Checks | Provides data of offenders from all U.S. States and Pureto Rico | [Website](https://completecriminalchecks.com/Developers) |  |
+ &nbsp; | Contentful Images | Used to retrieve and apply transformations to images | [Website](https://www.contentful.com/developers/docs/references/images-api/) |  |
+ &nbsp; | Cooper Hewitt | Smithsonian Design Museum | [Website](https://collection.cooperhewitt.org/api) |  |
+ &nbsp; | CORE | Access the world's Open Access research papers | [Website](https://core.ac.uk/services#api) |  |
+ &nbsp; | Coronavirus | HTTP API for Latest Wuhan Coronavirus Data | [Website](https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme) |  |
+ &nbsp; | Coronavirus in the UK | UK Government coronavirus data, including deaths and cases by region | [Website](https://coronavirus.data.gov.uk/details/developers-guide) |  |
+ &nbsp; | Correios | Integration to provide information and prepare shipments using Correio's services | [Website](https://cws.correios.com.br/ajuda) |  |
+ &nbsp; | CORS Proxy | Get around the dreaded CORS error by using this proxy as a middle man | [Website](https://github.com/burhanuday/cors-proxy) |  |
+ &nbsp; | CountAPI | Free and simple counting service. You can use it to track page hits and specific events | [Website](https://countapi.xyz) |  |
+ &nbsp; | Countly | Countly web analytics | [Website](https://api.count.ly/reference) |  |
+ &nbsp; | Country | Get your visitor's country from their IP | [Website](http://country.is/) |  |
+ &nbsp; | CountryStateCity | World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format | [Website](https://countrystatecity.in/) |  |
+ &nbsp; | Covalent | Multi-blockchain data aggregator platform | [Website](https://www.covalenthq.com/docs/api/) |  |
+ &nbsp; | Covid Tracking Project | Covid-19  data for the US | [Website](https://covidtracking.com/data/api/version-2) |  |
+ &nbsp; | Covid-19 | Covid 19 cases, deaths and recovery per country | [Website](https://github.com/M-Media-Group/Covid-19-API) |  |
+ &nbsp; | Covid-19 | Covid 19 spread, infection and recovery | [Website](https://covid19api.com/) |  |
+ &nbsp; | Covid-19 Datenhub | Maps, datasets, applications and more in the context of COVID-19 | [Website](https://npgeo-corona-npgeo-de.hub.arcgis.com) |  |
+ &nbsp; | Covid-19 Government Response | Government measures tracker to fight against the Covid-19 pandemic | [Website](https://covidtracker.bsg.ox.ac.uk) |  |
+ &nbsp; | Covid-19 India | Covid 19 statistics state and district wise about cases, vaccinations, recovery within India | [Website](https://data.covid19india.org/) |  |
+ &nbsp; | Covid-19 JHU CSSE | Open-source API for exploring Covid19 cases based on JHU CSSE | [Website](https://nuttaphat.com/covid19-api/) |  |
+ &nbsp; | Covid-19 Live Data | Global and countrywise data of Covid 19 daily Summary, confirmed cases, recovered and deaths | [Website](https://github.com/mathdroid/covid-19-api) |  |
+ &nbsp; | Covid-19 Philippines | Unofficial Covid-19 Web API for Philippines from data collected by DOH | [Website](https://github.com/Simperfy/Covid-19-API-Philippines-DOH) |  |
+ &nbsp; | COVID-19 Tracker Canada | Details on Covid-19 cases across Canada | [Website](https://api.covid19tracker.ca/docs/1.0/overview) |  |
+ &nbsp; | COVID-19 Tracker Sri Lanka | Provides situation of the COVID-19 patients reported in Sri Lanka | [Website](https://www.hpb.health.gov.lk/en/api-documentation) |  |
+ &nbsp; | COVID-ID | Indonesian government Covid data per province | [Website](https://data.covid19.go.id/public/api/prov.json) |  |
+ &nbsp; | Crafatar | API for Minecraft skins and faces | [Website](https://crafatar.com) |  |
+ &nbsp; | CraftMyPDF | Generate PDF documents from templates with a drop-and-drop editor and a simple API | [Website](https://craftmypdf.com) |  |
+ &nbsp; | Creative Commons Catalog | Search among openly licensed and public domain works | [Website](https://api.creativecommons.engineering/) |  |
+ &nbsp; | Cross Universe | Cross Universe Card Data | [Website](https://crossuniverse.psychpsyo.com/apiDocs.html) |  |
+ &nbsp; | Crossref Metadata Search | Books & Articles Metadata | [Website](https://github.com/CrossRef/rest-api-doc) |  |
+ &nbsp; | CRXcavator | Chrome extension risk scoring | [Website](https://crxcavator.io/apidocs) |  |
+ &nbsp; | CryptAPI | Cryptocurrency Payment Processor | [Website](https://cryptapi.io/docs/) |  |
+ &nbsp; | CryptingUp | Cryptocurrency data | [Website](https://www.cryptingup.com/apidoc/#introduction) |  |
+ &nbsp; | CryptoCompare | Cryptocurrencies Comparison | [Website](https://www.cryptocompare.com/api#) |  |
+ &nbsp; | CryptoMarket | Cryptocurrencies Trading platform | [Website](https://developers.cryptomkt.com) |  |
+ &nbsp; | Cryptonator | Cryptocurrencies Exchange Rates | [Website](https://www.cryptonator.com/api/) |  |
+ &nbsp; | CryptoTradingAPI | Crypto Prices & Technical Indicators | [Website](https://www.cryptotradingapi.io/) |  |
+ &nbsp; | CTS | CTS Realtime API | [Website](https://api.cts-strasbourg.eu/) |  |
+ &nbsp; | Currency-api | Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits | [Website](https://github.com/fawazahmed0/currency-api#readme) |  |
+ &nbsp; | CurrencyFreaks | Provides current and historical currency exchange rates with free plan 1K requests/month | [Website](https://currencyfreaks.com/) |  |
+ &nbsp; | Currencylayer | Exchange rates and currency conversion | [Website](https://currencylayer.com/documentation) |  |
+ &nbsp; | CurrencyScoop | Real-time and historical currency rates JSON API | [Website](https://currencyscoop.com/api-documentation) |  |
+ &nbsp; | Currents | Latest news published in various news sources, blogs and forums | [Website](https://currentsapi.services/) |  |
+ &nbsp; | Cutt.ly | URL shortener service | [Website](https://cutt.ly/api-documentation/cuttly-links-api) |  |
+ &nbsp; | Czech Namedays Calendar | Lookup for a name and returns nameday date | [Website](https://svatky.adresa.info) |  |
+ &nbsp; | Czech National Bank | A collection of exchange rates | [Website](https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml) |  |
+ &nbsp; | Czech Television | TV programme of Czech TV | [Website](http://www.ceskatelevize.cz/xml/tv-program/) |  |
+ &nbsp; | Dagpi | Image manipulation and processing | [Website](https://dagpi.xyz) |  |
+ &nbsp; | Dailymotion | Dailymotion Developer API | [Website](https://developer.dailymotion.com/) |  |
+ &nbsp; | Danbooru Anime | Thousands of anime artist database to find good anime art | [Website](https://danbooru.donmai.us/wiki_pages/help:api) |  |
+ &nbsp; | Dangerous Discord Database | Database of malicious Discord accounts | [Website](https://discord.riverside.rocks/docs/index.php) |  |
+ &nbsp; | Danish data service Energi | Open energy data from Energinet to society | [Website](https://www.energidataservice.dk/) |  |
+ &nbsp; | Daraz Data | Get daraz product detail by it's product URL | [Website](https://rapidapi.com/mnadeem24434@gmail.com/api/get-daraz-product-data/) |  |
+ &nbsp; | Data USA | US Public Data | [Website](https://datausa.io/about/api/) |  |
+ &nbsp; | Data.gov | US Government Data | [Website](https://api.data.gov/) |  |
+ &nbsp; | Data.parliament.uk | Contains live datasets including information about petitions, bills, MP votes, attendance and more | [Website](https://explore.data.parliament.uk/?learnmore=Members) |  |
+ &nbsp; | Databricks | Service to manage your databricks account,clusters, notebooks, jobs and workspaces | [Website](https://docs.databricks.com/dev-tools/api/latest/index.html) |  |
+ &nbsp; | Dataflow Kit COVID-19 | COVID-19 live statistics into sites per hour | [Website](https://covid-19.dataflowkit.com) |  |
+ &nbsp; | Datamuse | Word-finding query engine | [Website](https://www.datamuse.com/api/) |  |
+ &nbsp; | ddownload | File Sharing and Storage | [Website](https://ddownload.com/api) |  |
+ &nbsp; | Deck of Cards | Deck of Cards | [Website](http://deckofcardsapi.com/) |  |
+ &nbsp; | Deepcode | AI for code review | [Website](https://www.deepcode.ai) |  |
+ &nbsp; | Deezer | Music | [Website](https://developers.deezer.com/api) |  |
+ &nbsp; | Dehash.lt | Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512 | [Website](https://github.com/Dehash-lt/api) |  |
+ &nbsp; | Destiny The Game | Bungie Platform API | [Website](https://bungie-net.github.io/multi/index.html) |  |
+ &nbsp; | Detect Language | Detects text language | [Website](https://detectlanguage.com/) |  |
+ &nbsp; | Deutscher Bundestag DIP | This API provides read access to DIP entities (e.g. activities, persons, printed material) | [Website](https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf) |  |
+ &nbsp; | Dev.to | Access Forem articles, users and other resources via API | [Website](https://developers.forem.com/api) |  |
+ &nbsp; | DevITjobs UK | Jobs with GraphQL | [Website](https://devitjobs.uk/job_feed.xml) |  |
+ &nbsp; | Diabetes | Logging and retrieving diabetes information | [Website](http://predictbgl.com/api/) |  |
+ &nbsp; | Dialogflow | Natural Language Processing | [Website](https://dialogflow.com) |  |
+ &nbsp; | Dicebear Avatars | Generate random pixel-art avatars | [Website](https://avatars.dicebear.com/) |  |
+ &nbsp; | Dictum | API to get access to the collection of the most inspiring expressions of mankind | [Website](https://github.com/fisenkodv/dictum) |  |
+ &nbsp; | Digi-Key | Retrieve price and inventory of electronic components as well as place orders | [Website](https://www.digikey.com/en/resources/api-solutions) |  |
+ &nbsp; | Digimon Information | Provides information about digimon creatures | [Website](https://digimon-api.vercel.app/) |  |
+ &nbsp; | Digimon TCG | Search for Digimon cards in digimoncard.io | [Website](https://documenter.getpostman.com/view/14059948/TzecB4fH) |  |
+ &nbsp; | DigitalOcean Status | Status of all DigitalOcean services | [Website](https://status.digitalocean.com/api) |  |
+ &nbsp; | Discogs | Music | [Website](https://www.discogs.com/developers/) |  |
+ &nbsp; | Discord | Make bots for Discord, integrate Discord onto an external platform | [Website](https://discord.com/developers/docs/intro) |  |
+ &nbsp; | Disify | Validate and detect disposable and temporary email addresses | [Website](https://www.disify.com/) |  |
+ &nbsp; | Disney | Information of Disney characters | [Website](https://disneyapi.dev) |  |
+ &nbsp; | Disqus | Communicate with Disqus data | [Website](https://disqus.com/api/docs/auth/) |  |
+ &nbsp; | District of Columbia Open Data | Contains D.C. government public datasets, including crime, GIS, financial data, and so on | [Website](http://opendata.dc.gov/pages/using-apis) |  |
+ &nbsp; | Docker Hub | Interact with Docker Hub | [Website](https://docs.docker.com/docker-hub/api/latest/) |  |
+ &nbsp; | Dog Facts | Random facts of Dogs | [Website](https://kinduff.github.io/dog-api/) |  |
+ &nbsp; | Dog Facts | Random dog facts | [Website](https://dukengn.github.io/Dog-facts-API/) |  |
+ &nbsp; | Doge-Meme | Top meme posts from r/dogecoin which include 'Meme' flair | [Website](https://api.doge-meme.lol/docs) |  |
+ &nbsp; | Dogs | Based on the Stanford Dogs Dataset | [Website](https://dog.ceo/dog-api/) |  |
+ &nbsp; | DomainDb Info | Domain name search to find all domains containing particular words/phrases/etc | [Website](https://api.domainsdb.info/) |  |
+ &nbsp; | Domainsdb.info | Registered Domain Names Search | [Website](https://domainsdb.info/) |  |
+ &nbsp; | Dota 2 | Provides information about Player stats , Match stats, Rankings for Dota 2 | [Website](https://docs.opendota.com/) |  |
+ &nbsp; | Dribbble | Discover the world’s top designers & creatives | [Website](https://developer.dribbble.com) |  |
+ &nbsp; | Drivet URL Shortener | Shorten a long URL easily and fast | [Website](https://wiki.drivet.xyz/en/url-shortener/add-links) |  |
+ &nbsp; | Dropbox | File Sharing and Storage | [Website](https://www.dropbox.com/developers) |  |
+ &nbsp; | Drupal.org | Drupal.org | [Website](https://www.drupal.org/drupalorg/docs/api) |  |
+ &nbsp; | Ducks Unlimited | API explorer that gives a query URL with a JSON response of locations and cities | [Website](https://gis.ducks.org/datasets/du-university-chapters/api) |  |
+ &nbsp; | Dummy Products | An api to fetch dummy e-commerce products JSON data with placeholder images | [Website](https://dummyproducts-api.herokuapp.com/) |  |
+ &nbsp; | Dune | A simple API which provides you with book, character, movie and quotes JSON data | [Website](https://github.com/ywalia01/dune-api) |  |
+ &nbsp; | Dungeons and Dragons | Reference for 5th edition spells, classes, monsters, and more | [Website](https://www.dnd5eapi.co/docs/) |  |
+ &nbsp; | Dungeons and Dragons (Alternate) | Includes all monsters and spells from the SRD (System Reference Document) as well as a search API | [Website](https://open5e.com/) |  |
+ &nbsp; | Duply | Dynamic Image creation API | [Website](https://duply.co/docs#getting-started-api) |  |
+ &nbsp; | dYdX | Decentralized cryptocurrency exchange | [Website](https://docs.dydx.exchange/) |  |
+ &nbsp; | eBay | Sell and Buy on eBay | [Website](https://go.developer.ebay.com/) |  |
+ &nbsp; | eBird | Retrieve recent or notable birding observations within a region | [Website](https://documenter.getpostman.com/view/664302/S1ENwy59) |  |
+ &nbsp; | Econdb | Global macroeconomic data | [Website](https://www.econdb.com/api/) |  |
+ &nbsp; | Economia.Awesome | Portuguese free currency prices and conversion with no rate limits | [Website](https://docs.awesomeapi.com.br/api-de-moedas) |  |
+ &nbsp; | Edamam nutrition | Nutrition Analysis | [Website](https://developer.edamam.com/edamam-docs-nutrition-api) |  |
+ &nbsp; | Edamam recipes | Recipe Search | [Website](https://developer.edamam.com/edamam-docs-recipe-api) |  |
+ &nbsp; | ELI | Natural Language Processing Tools for Thai Language | [Website](https://nlp.insightera.co.th/docs/v1.0) |  |
+ &nbsp; | EmailRep | Email address threat and risk prediction | [Website](https://docs.emailrep.io/) |  |
+ &nbsp; | English Random Words | Generate English Random Words with Pronunciation | [Website](https://random-words-api.vercel.app/word) |  |
+ &nbsp; | Enigma Public | Broadest collection of public data | [Website](http://docs.enigma.com/public/public_v20_api_about) |  |
+ &nbsp; | EPA | Web services and data sets from the US Environmental Protection Agency | [Website](https://www.epa.gov/developers/data-data-products#apis) |  |
+ &nbsp; | EPO | European patent search system api | [Website](https://developers.epo.org/) |  |
+ &nbsp; | Ergast F1 | F1 data from the beginning of the world championships in 1950 | [Website](http://ergast.com/mrd/) |  |
+ &nbsp; | Escape | An API for escaping different kind of queries | [Website](https://github.com/polarspetroll/EscapeAPI) |  |
+ &nbsp; | Etherscan | Ethereum explorer API | [Website](https://etherscan.io/apis) |  |
+ &nbsp; | Ethplorer | Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures | [Website](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API) |  |
+ &nbsp; | Etsy | Manage shop and interact with listings | [Website](https://www.etsy.com/developers/documentation/getting_started/api_basics) |  |
+ &nbsp; | Europeana | European Museum and Galleries content | [Website](https://pro.europeana.eu/resources/apis/search) |  |
+ &nbsp; | Euskalmet | Meteorological data of the Basque Country | [Website](https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/) |  |
+ &nbsp; | EVA | Validate email addresses | [Website](https://eva.pingutil.com/) |  |
+ &nbsp; | Eve Online | Third-Party Developer Documentation | [Website](https://esi.evetech.net/ui) |  |
+ &nbsp; | Eventbrite | Find events | [Website](https://www.eventbrite.com/developer/v3/) |  |
+ &nbsp; | Evil Insult Generator | Evil Insults | [Website](https://evilinsult.com/api) |  |
+ &nbsp; | ExchangeRate-API | Free currency conversion | [Website](https://www.exchangerate-api.com) |  |
+ &nbsp; | Exchangerate.host | Free foreign exchange & crypto rates API | [Website](https://exchangerate.host) |  |
+ &nbsp; | Exchangeratesapi.io | Exchange rates with currency conversion | [Website](https://exchangeratesapi.io) |  |
+ &nbsp; | EXMO | Cryptocurrencies exchange based in UK | [Website](https://documenter.getpostman.com/view/10287440/SzYXWKPi) |  |
+ &nbsp; | ExtendsClass JSON Storage | A simple JSON store API | [Website](https://extendsclass.com/json-storage.html) |  |
+ &nbsp; | EXUDE-API | Used for the primary ways for filtering the stopping, stemming words from the text data | [Website](http://uttesh.com/exude-api/) |  |
+ &nbsp; | Facebook | Facebook Login, Share on FB, Social Plugins, Analytics and more | [Website](https://developers.facebook.com/) |  |
+ &nbsp; | FakeJSON | Service to generate test and fake data | [Website](https://fakejson.com) |  |
+ &nbsp; | FakerAPI | APIs collection to get fake data | [Website](https://fakerapi.it/en) |  |
+ &nbsp; | FakeStoreAPI | Fake store rest API for your e-commerce or shopping website prototype | [Website](https://fakestoreapi.com/) |  |
+ &nbsp; | FavQs.com | FavQs allows you to collect, discover and share your favorite quotes | [Website](https://favqs.com/api) |  |
+ &nbsp; | FBI Wanted | Access information on the FBI Wanted program | [Website](https://www.fbi.gov/wanted/api) |  |
+ &nbsp; | FEC | Information on campaign donations in federal elections | [Website](https://api.open.fec.gov/developers/) |  |
+ &nbsp; | Fed Treasury | U.S. Department of the Treasury Data | [Website](https://fiscaldata.treasury.gov/api-documentation/) |  |
+ &nbsp; | Federal Register | The Daily Journal of the United States Government | [Website](https://www.federalregister.gov/reader-aids/developer-resources/rest-api) |  |
+ &nbsp; | Feedbin | RSS reader | [Website](https://github.com/feedbin/feedbin-api) |  |
+ &nbsp; | Festivo Public Holidays | Fastest and most advanced public holiday and observance service on the market | [Website](https://docs.getfestivo.com/docs/products/public-holidays-api/intro) |  |
+ &nbsp; | FFXIV Collect | Final Fantasy XIV data on collectables | [Website](https://ffxivcollect.com/) |  |
+ &nbsp; | FIFA Ultimate Team | FIFA Ultimate Team items API | [Website](https://www.easports.com/fifa/ultimate-team/api/fut/item) |  |
+ &nbsp; | File.io | Super simple file sharing, convenient, anonymous and secure | [Website](https://www.file.io) |  |
+ &nbsp; | FilterLists | Lists of filters for adblockers and firewalls | [Website](https://filterlists.com) |  |
+ &nbsp; | Finage | Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider | [Website](https://finage.co.uk) |  |
+ &nbsp; | Final Fantasy XIV | Final Fantasy XIV Game data API | [Website](https://xivapi.com/) |  |
+ &nbsp; | Final Space | Final Space API | [Website](https://finalspaceapi.com/docs/) |  |
+ &nbsp; | Financial Modeling Prep | Realtime and historical stock data | [Website](https://financialmodelingprep.com/developer/docs/) |  |
+ &nbsp; | Findwork | Job board | [Website](https://findwork.dev/developers/) |  |
+ &nbsp; | FingerprintJS Pro | Fraud detection API offering highly accurate browser fingerprinting | [Website](https://dev.fingerprintjs.com/docs) |  |
+ &nbsp; | Finnhub | Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto | [Website](https://finnhub.io/docs/api) |  |
+ &nbsp; | FishWatch | Information and pictures about individual fish species | [Website](https://www.fishwatch.gov/developers) |  |
+ &nbsp; | Fitbit | Fitbit Information | [Website](https://dev.fitbit.com/) |  |
+ &nbsp; | Flickr | Flickr Services | [Website](https://www.flickr.com/services/api/) |  |
+ &nbsp; | Flipkart Marketplace | Product listing management, Order Fulfilment in the Flipkart Marketplace | [Website](https://seller.flipkart.com/api-docs/FMSAPI.html) |  |
+ &nbsp; | Flowdash | Automate business workflows | [Website](https://docs.flowdash.com/docs/api-introduction) |  |
+ &nbsp; | FOAAS | Fuck Off As A Service | [Website](http://www.foaas.com/) |  |
+ &nbsp; | Food Standards Agency | UK food hygiene rating data API | [Website](http://ratings.food.gov.uk/open-data/en-GB) |  |
+ &nbsp; | Foodish | Random pictures of food dishes | [Website](https://github.com/surhud004/Foodish#readme) |  |
+ &nbsp; | Football | A simple Open Source Football API to get squads’ stats, best scorers and more | [Website](https://rapidapi.com/GiulianoCrescimbeni/api/football98/) |  |
+ &nbsp; | Football (Soccer) Videos | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more | [Website](https://www.scorebat.com/video-api/) |  |
+ &nbsp; | Football Standings | Display football standings e.g epl, la liga, serie a etc. The data is based on espn site | [Website](https://github.com/azharimm/football-standings-api) |  |
+ &nbsp; | Football-Data | Football data with matches info, players, teams, and competitions | [Website](https://www.football-data.org) |  |
+ &nbsp; | Foreca | Weather | [Website](https://developer.foreca.com) |  |
+ &nbsp; | Forismatic | Inspirational Quotes | [Website](http://forismatic.com/en/api/) |  |
+ &nbsp; | Form2Channel | Send static html form submissions to Google Sheets, Email, Slack or Telegram | [Website](https://form2channel.com/) |  |
+ &nbsp; | Fortnite | Fortnite Stats | [Website](https://fortnitetracker.com/site-api) |  |
+ &nbsp; | Forza | Show random image of car from Forza | [Website](https://docs.forza-api.tk) |  |
+ &nbsp; | Foursquare | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) | [Website](https://developer.foursquare.com/) |  |
+ &nbsp; | Frankfurter | Exchange rates, currency conversion and time series | [Website](https://www.frankfurter.app/docs) |  |
+ &nbsp; | FraudLabs Pro | Screen order information using AI to detect frauds | [Website](https://www.fraudlabspro.com/developer/api/screen-order) |  |
+ &nbsp; | FRED | Economic data from the Federal Reserve Bank of St. Louis | [Website](https://fred.stlouisfed.org/docs/api/fred/) |  |
+ &nbsp; | Free Dictionary | Definitions, phonetics, pronounciations, parts of speech, examples, synonyms | [Website](https://dictionaryapi.dev/) |  |
+ &nbsp; | FreeForexAPI | Real-time foreign exchange rates for major currency pairs | [Website](https://freeforexapi.com/Home/Api) |  |
+ &nbsp; | FreeGeoIP | Free geo ip information, no registration required. 15k/hour rate limit | [Website](https://freegeoip.app/) |  |
+ &nbsp; | Freelancer | Hire freelancers to get work done | [Website](https://developers.freelancer.com/docs) |  |
+ &nbsp; | Freesound | Music Samples | [Website](https://freesound.org/docs/api/) |  |
+ &nbsp; | FreeToGame | Free-To-Play Games Database | [Website](https://www.freetogame.com/api-doc) |  |
+ &nbsp; | French Address Search | Address search via the French Government | [Website](https://geo.api.gouv.fr/adresse) |  |
+ &nbsp; | Front Accounting APIs | Front accounting is multilingual and multicurrency software for small businesses | [Website](https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule) |  |
+ &nbsp; | Fruityvice | Data about all kinds of fruit | [Website](https://www.fruityvice.com) |  |
+ &nbsp; | FTX | Complete REST, websocket, and FTX APIs to suit your algorithmic trading needs | [Website](https://docs.ftx.com/) |  |
+ &nbsp; | Fuck Off as a Service | Asks someone to fuck off | [Website](https://www.foaas.com) |  |
+ &nbsp; | Full Contact | Get Social Media profiles and contact Information | [Website](https://www.fullcontact.com/developer/docs/) |  |
+ &nbsp; | FullHunt | Searchable attack surface database of the entire internet | [Website](https://api-docs.fullhunt.io/#introduction) |  |
+ &nbsp; | Fun Facts | Random Fun Facts | [Website](https://asli-fun-fact-api.herokuapp.com/) |  |
+ &nbsp; | FunTranslations | Translate Text into funny languages | [Website](https://api.funtranslations.com/) |  |
+ &nbsp; | Gaana | API to retrieve song information from Gaana | [Website](https://github.com/cyberboysumanjay/GaanaAPI) |  |
+ &nbsp; | Game of Thrones Quotes | Some Game of Thrones quotes | [Website](https://gameofthronesquotes.xyz/) |  |
+ &nbsp; | GamerPower | Game Giveaways Tracker | [Website](https://www.gamerpower.com/api-read) |  |
+ &nbsp; | Ganjoor | Classic Persian poetry works including access to related manuscripts, recitations and music tracks | [Website](https://ganjgah.ir) |  |
+ &nbsp; | Gateio | API provides spot, margin and futures trading operations | [Website](https://www.gate.io/api2) |  |
+ &nbsp; | Gazette Data, UK | UK official public record API | [Website](https://www.thegazette.co.uk/data) |  |
+ &nbsp; | GBIF | Global Biodiversity Information Facility | [Website](https://www.gbif.org/developer/summary) |  |
+ &nbsp; | Geek-Jokes | Fetch a random geeky/programming related joke for use in all sorts of applications | [Website](https://github.com/sameerkumar18/geek-joke-api) |  |
+ &nbsp; | GeekFlare | Provide numerous capabilities for important testing and monitoring methods for websites | [Website](https://apidocs.geekflare.com/docs/geekflare-api) |  |
+ &nbsp; | Gemini | Cryptocurrencies Exchange | [Website](https://docs.gemini.com/rest-api/) |  |
+ &nbsp; | Genderize.io | Estimates a gender from a first name | [Website](https://genderize.io) |  |
+ &nbsp; | GeneradorDNI | Data generator API. Profiles, vehicles, banks and cards, etc | [Website](https://api.generadordni.es) |  |
+ &nbsp; | GENESIS | Federal Statistical Office Germany | [Website](https://www.destatis.de/EN/Service/OpenData/api-webservice.html) |  |
+ &nbsp; | Genius | Crowdsourced lyrics and music knowledge | [Website](https://docs.genius.com/) |  |
+ &nbsp; | Genrenator | Music genre generator | [Website](https://binaryjazz.us/genrenator-api/) |  |
+ &nbsp; | Genshin Impact | Genshin Impact game data | [Website](https://genshin.dev) |  |
+ &nbsp; | GeoApi | French geographical data | [Website](https://api.gouv.fr/api/geoapi.html) |  |
+ &nbsp; | Geoapify | Forward and reverse geocoding, address autocomplete | [Website](https://www.geoapify.com/api/geocoding-api/) |  |
+ &nbsp; | Geocod.io | Address geocoding / reverse geocoding in bulk | [Website](https://www.geocod.io/) |  |
+ &nbsp; | Geocode.xyz | Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing | [Website](https://geocode.xyz/api) |  |
+ &nbsp; | Geocodify.com | Worldwide geocoding, geoparsing and autocomplete for addresses | [Website](https://geocodify.com/) |  |
+ &nbsp; | Geodata.gov.gr | Open geospatial data and API service for Greece | [Website](https://geodata.gov.gr/en/) |  |
+ &nbsp; | GeoDataSource | Geocoding of city name by using latitude and longitude coordinates | [Website](https://www.geodatasource.com/web-service) |  |
+ &nbsp; | GeoDB Cities | Get global city, region, and country data | [Website](http://geodb-cities-api.wirefreethought.com/) |  |
+ &nbsp; | GeoJS | IP geolocation with ChatOps integration | [Website](https://geojs.io/) |  |
+ &nbsp; | Geokeo | Geokeo geocoding service- with 2500 free api requests daily | [Website](https://geokeo.com) |  |
+ &nbsp; | GeoNames | Place names and other geographical data | [Website](http://www.geonames.org/export/web-services.html) |  |
+ &nbsp; | geoPlugin | IP geolocation and currency conversion | [Website](https://www.geoplugin.com) |  |
+ &nbsp; | GetOTP | Implement OTP flow quickly | [Website](https://otp.dev/en/docs/) |  |
+ &nbsp; | GETPing | Trigger an email notification with a simple GET request | [Website](https://www.getping.info) |  |
+ &nbsp; | Getty Images | Build applications using the world's most powerful imagery | [Website](http://developers.gettyimages.com/en/) |  |
+ &nbsp; | Gfycat | Jiffier GIFs | [Website](https://developers.gfycat.com/api/) |  |
+ &nbsp; | Ghost | Get Published content into your Website, App or other embedded media | [Website](https://ghost.org/) |  |
+ &nbsp; | Giant Bomb | Video Games | [Website](https://www.giantbomb.com/api/documentation) |  |
+ &nbsp; | Giphy | Get all your gifs | [Website](https://developers.giphy.com/docs/) |  |
+ &nbsp; | Git.io | Git.io URL shortener | [Website](https://github.blog/2011-11-10-git-io-github-url-shortener/) |  |
+ &nbsp; | GitGuardian | Scan files for secrets (API Keys, database credentials) | [Website](https://api.gitguardian.com/doc) |  |
+ &nbsp; | GitHub | Make use of GitHub repositories, code and user info programmatically | [Website](https://docs.github.com/en/free-pro-team@latest/rest) |  |
+ &nbsp; | GitHub Contribution Chart Generator | Create an image of your GitHub contributions | [Website](https://github-contributions.vercel.app) |  |
+ &nbsp; | GitHub ReadMe Stats | Add dynamically generated statistics to your GitHub profile ReadMe | [Website](https://github.com/anuraghazra/github-readme-stats) |  |
+ &nbsp; | Gitlab | Automate GitLab interaction programmatically | [Website](https://docs.gitlab.com/ee/api/) |  |
+ &nbsp; | Gitter | Chat for Developers | [Website](https://developer.gitter.im/docs/welcome) |  |
+ &nbsp; | Glitterly | Image generation API | [Website](https://developers.glitterly.app) |  |
+ &nbsp; | Gmail | Flexible, RESTful access to the user's inbox | [Website](https://developers.google.com/gmail/api/) |  |
+ &nbsp; | GNews | Search for news from various sources | [Website](https://gnews.io/) |  |
+ &nbsp; | GoFile | Unlimited size file uploads for free | [Website](https://gofile.io/api) |  |
+ &nbsp; | Goodreads | Developers Access to Goodreads data | [Website](https://www.goodreads.com/api) |  |
+ &nbsp; | Google Analytics | Collect, configure and analyze your data to reach the right audience | [Website](https://developers.google.com/analytics/) |  |
+ &nbsp; | Google Books | Books | [Website](https://developers.google.com/books/) |  |
+ &nbsp; | Google Calendar | Display, create and modify Google calendar events | [Website](https://developers.google.com/google-apps/calendar/) |  |
+ &nbsp; | Google Cloud Natural | Natural language understanding technology, including sentiment, entity and syntax analysis | [Website](https://cloud.google.com/natural-language/docs/) |  |
+ &nbsp; | Google Docs | API to read, write, and format Google Docs documents | [Website](https://developers.google.com/docs/api/reference/rest) |  |
+ &nbsp; | Google Drive | File Sharing and Storage | [Website](https://developers.google.com/drive/) |  |
+ &nbsp; | Google Earth Engine | A cloud-based platform for planetary-scale environmental data analysis | [Website](https://developers.google.com/earth-engine/) |  |
+ &nbsp; | Google Firebase | Google's mobile application development platform that helps build, improve, and grow app | [Website](https://firebase.google.com/docs) |  |
+ &nbsp; | Google Fonts | Metadata for all families served by Google Fonts | [Website](https://developers.google.com/fonts/docs/developer_api) |  |
+ &nbsp; | Google Keep | API to read, write, and format Google Keep notes | [Website](https://developers.google.com/keep/api/reference/rest) |  |
+ &nbsp; | Google Maps | Create/customize digital maps based on Google Maps data | [Website](https://developers.google.com/maps/) |  |
+ &nbsp; | Google Photos | Integrate Google Photos with your apps or devices | [Website](https://developers.google.com/photos) |  |
+ &nbsp; | Google Safe Browsing | Google Link/Domain Flagging | [Website](https://developers.google.com/safe-browsing/) |  |
+ &nbsp; | Google Sheets | API to read, write, and format Google Sheets data | [Website](https://developers.google.com/sheets/api/reference/rest) |  |
+ &nbsp; | Google Slides | API to read, write, and format Google Slides presentations | [Website](https://developers.google.com/slides/api/reference/rest) |  |
+ &nbsp; | Gorest | Online REST API for Testing and Prototyping | [Website](https://gorest.co.in/) |  |
+ &nbsp; | GoTiny | A lightweight URL shortener, focused on ease-of-use for the developer and end-user | [Website](https://github.com/robvanbakel/gotiny-api) |  |
+ &nbsp; | Grab | Track deliveries, ride fares, payments and loyalty points | [Website](https://developer.grab.com/docs/) |  |
+ &nbsp; | Graph Countries | Country-related data like currencies, languages, flags, regions+subregions and bordering countries | [Website](https://github.com/lennertVanSever/graphcountries) |  |
+ &nbsp; | GraphHopper | A-to-B routing with turn-by-turn instructions | [Website](https://graphhopper.com/api/1/docs/) |  |
+ &nbsp; | GraphQL Jobs | Jobs with GraphQL | [Website](https://graphql.jobs/docs/api/) |  |
+ &nbsp; | Graphs for Coronavirus | Each Country separately and Worldwide Graphs for Coronavirus. Daily updates | [Website](https://corona.dnsforfamily.com/api.txt) |  |
+ &nbsp; | GreyNoise | Query IPs in the GreyNoise dataset and retrieve a subset of the full IP context data | [Website](https://docs.greynoise.io/reference/get_v3-community-ip) |  |
+ &nbsp; | GrünstromIndex | Green Power Index for Germany (Grünstromindex/GSI) | [Website](https://www.corrently.de/hintergrund/gruenstromindex/index.html) |  |
+ &nbsp; | Guerrilla Mail | Disposable temporary Email addresses | [Website](https://www.guerrillamail.com/GuerrillaMailAPI.html) |  |
+ &nbsp; | Guild Wars 2 | Guild Wars 2 Game Information | [Website](https://wiki.guildwars2.com/wiki/API:Main) |  |
+ &nbsp; | Gun Policy | International firearm injury prevention and policy | [Website](https://www.gunpolicy.org/api) |  |
+ &nbsp; | GurbaniNow | Fast and Accurate Gurbani RESTful API | [Website](https://github.com/GurbaniNow/api) |  |
+ &nbsp; | Gutendex | Web-API for fetching data from Project Gutenberg Books Library | [Website](https://gutendex.com/) |  |
+ &nbsp; | GW2Spidy | GW2Spidy API, Items data on the Guild Wars 2 Trade Market | [Website](https://github.com/rubensayshi/gw2spidy/wiki) |  |
+ &nbsp; | Gyazo | Upload images | [Website](https://gyazo.com/api/docs) |  |
+ &nbsp; | Hackerearth | For compiling and running code in several languages | [Website](https://www.hackerearth.com/docs/wiki/developers/v4/) |  |
+ &nbsp; | HackerNews | Social news for CS and entrepreneurship | [Website](https://github.com/HackerNews/API) |  |
+ &nbsp; | HackerOne | The industry’s first hacker API that helps increase productivity towards creative bug bounty hunting | [Website](https://api.hackerone.com/) |  |
+ &nbsp; | Halo | Halo 5 and Halo Wars 2 Information | [Website](https://developer.haloapi.com/) |  |
+ &nbsp; | Harry Potter Charactes | Harry Potter Characters Data with with imagery | [Website](https://hp-api.herokuapp.com/) |  |
+ &nbsp; | Harvard Art Museums | Art | [Website](https://github.com/harvardartmuseums/api-docs) |  |
+ &nbsp; | Hashnode | A blogging platform built for developers | [Website](https://api.hashnode.com/) |  |
+ &nbsp; | Hasura | GraphQL and REST API Engine with built in Authorization | [Website](https://hasura.io/opensource/) |  |
+ &nbsp; | HaveIBeenPwned | Passwords which have previously been exposed in data breaches | [Website](https://haveibeenpwned.com/API/v3) |  |
+ &nbsp; | Healthcare.gov | Educational content about the US Health Insurance Marketplace | [Website](https://www.healthcare.gov/developers/) |  |
+ &nbsp; | Hearthstone | Hearthstone Cards Information | [Website](http://hearthstoneapi.com/) |  |
+ &nbsp; | Hebrew Calendar | Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc | [Website](https://www.hebcal.com/home/developer-apis) |  |
+ &nbsp; | Helipaddy sites | Helicopter and passenger drone landing site directory, Helipaddy data and much more | [Website](https://helipaddy.com/api/) |  |
+ &nbsp; | Helium | Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage | [Website](https://docs.helium.com/api/blockchain/introduction/) |  |
+ &nbsp; | HelloSalut | Get hello translation following user language | [Website](https://www.fourtonfish.com/hellosalut/hello/) |  |
+ &nbsp; | HERE Maps | Create/customize digital maps based on HERE Maps data | [Website](https://developer.here.com) |  |
+ &nbsp; | Heroku | REST API to programmatically create apps, provision add-ons and perform other task on Heroku | [Website](https://devcenter.heroku.com/articles/platform-api-reference/) |  |
+ &nbsp; | HG Weather | Provides weather forecast data for cities in Brazil | [Website](https://hgbrasil.com/status/weather) |  |
+ &nbsp; | Holidays | Historical data regarding holidays | [Website](https://holidayapi.com/) |  |
+ &nbsp; | Hong Kong GeoData Store | API for accessing geo-data of Hong Kong | [Website](https://geodata.gov.hk/gs/) |  |
+ &nbsp; | Hong Kong Obervatory | Provide weather information, earthquake information, and climate data | [Website](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm) |  |
+ &nbsp; | host-t.com | Basic DNS query via HTTP GET request | [Website](https://host-t.com) |  |
+ &nbsp; | Host.io | Domains Data API for Developers | [Website](https://host.io) |  |
+ &nbsp; | Hotstoks | Stock market data powered by SQL | [Website](https://hotstoks.com?utm_source=public-apis) |  |
+ &nbsp; | Html2PDF | HTML/URL to PDF | [Website](https://html2pdf.app/) |  |
+ &nbsp; | HTTP2.Pro | Test endpoints for client and server HTTP/2 protocol support | [Website](https://http2.pro/doc/api) |  |
+ &nbsp; | Httpbin | A Simple HTTP Request & Response Service | [Website](https://httpbin.org/) |  |
+ &nbsp; | Httpbin Cloudflare | A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare | [Website](https://cloudflare-quic.com/b/) |  |
+ &nbsp; | HTTPCat | Cat for every HTTP Status | [Website](https://http.cat/) |  |
+ &nbsp; | Humanitarian Data Exchange | Humanitarian Data Exchange (HDX) is open platform for sharing data across crises and organisations | [Website](https://data.humdata.org/) |  |
+ &nbsp; | Humble Bundle | Humble Bundle's current bundles | [Website](https://rapidapi.com/Ziggoto/api/humble-bundle) |  |
+ &nbsp; | Humor | Humor, Jokes, and Memes | [Website](https://humorapi.com) |  |
+ &nbsp; | Hunter | API for domain search, professional email finder, author finder and email verifier | [Website](https://hunter.io/api) |  |
+ &nbsp; | Huobi | Seychelles based cryptocurrency exchange | [Website](https://huobiapi.github.io/docs/spot/v1/en/) |  |
+ &nbsp; | Hypixel | Hypixel player stats | [Website](https://api.hypixel.net/) |  |
+ &nbsp; | Hyrule Compendium | Data on all interactive items from The Legend of Zelda: BOTW | [Website](https://github.com/gadhagod/Hyrule-Compendium-API) |  |
+ &nbsp; | Hytale | Hytale blog posts and jobs | [Website](https://hytale-api.com/) |  |
+ &nbsp; | IBGE | Aggregate services of IBGE (Brazilian Institute of Geography and Statistics) | [Website](https://servicodados.ibge.gov.br/api/docs/) |  |
+ &nbsp; | IBM Text to Speech | Convert text to speech | [Website](https://cloud.ibm.com/docs/text-to-speech/getting-started.html) |  |
+ &nbsp; | icanhazdadjoke | The largest selection of dad jokes on the internet | [Website](https://icanhazdadjoke.com/api) |  |
+ &nbsp; | Icanhazepoch | Get Epoch time | [Website](https://icanhazepoch.com) |  |
+ &nbsp; | Icanhazip | IP Address API | [Website](https://major.io/icanhazip-com-faq/) |  |
+ &nbsp; | Icelandic APIs | Open APIs that deliver services in or regarding Iceland | [Website](http://docs.apis.is/) |  |
+ &nbsp; | Icon Horse | Favicons for any website, with fallbacks | [Website](https://icon.horse) |  |
+ &nbsp; | Iconfinder | Icons | [Website](https://developer.iconfinder.com) |  |
+ &nbsp; | Icons8 | Icons (find "search icon" hyperlink in page) | [Website](https://img.icons8.com/) |  |
+ &nbsp; | iDigBio | Access millions of museum specimens from organizations around the world | [Website](https://github.com/idigbio/idigbio-search-api/wiki) |  |
+ &nbsp; | IEX Cloud | Realtime & Historical Stock and Market Data | [Website](https://iexcloud.io/docs/api/) |  |
+ &nbsp; | IFTTT | IFTTT Connect API | [Website](https://platform.ifttt.com/docs/connect_api) |  |
+ &nbsp; | IG | Spreadbetting and CFD Market Data | [Website](https://labs.ig.com/gettingstarted) |  |
+ &nbsp; | IGDB.com | Video Game Database | [Website](https://api.igdb.com/) |  |
+ &nbsp; | iLovePDF | Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month | [Website](https://developer.ilovepdf.com/) |  |
+ &nbsp; | Image-Charts | Generate charts, QR codes and graph images | [Website](https://documentation.image-charts.com/) |  |
+ &nbsp; | Imagga | Image Recognition Solutions like Tagging, Visual Search, NSFW moderation | [Website](https://imagga.com/) |  |
+ &nbsp; | IMDb-API | API for receiving movie, serial and cast information | [Website](https://imdb-api.com/) |  |
+ &nbsp; | IMDbOT | Unofficial IMDb Movie / Series Information | [Website](https://github.com/SpEcHiDe/IMDbOT) |  |
+ &nbsp; | Imgflip | Gets an array of popular memes | [Website](https://imgflip.com/api) |  |
+ &nbsp; | Imgur | Images | [Website](https://apidocs.imgur.com/) |  |
+ &nbsp; | Impala Hotel Bookings | Hotel content, rates and room bookings | [Website](https://docs.impala.travel/docs/booking-api/) |  |
+ &nbsp; | import.io | Retrieve structured data from a website or RSS feed | [Website](http://api.docs.import.io/) |  |
+ &nbsp; | ImprovMX | API for free email forwarding service | [Website](https://improvmx.com/api) |  |
+ &nbsp; | Imsea | Free image search | [Website](https://imsea.herokuapp.com/) |  |
+ &nbsp; | Indeed | Jobs search engine | [Website](https://developer.indeed.com/) |  |
+ &nbsp; | Indian Mutual Fund | Get complete history of India Mutual Funds Data | [Website](https://www.mfapi.in/) |  |
+ &nbsp; | Indodax | Trade your Bitcoin and other assets with rupiah | [Website](https://github.com/btcid/indodax-official-api-docs) |  |
+ &nbsp; | Indonesia Dictionary | Indonesia dictionary many words | [Website](https://new-kbbi-api.herokuapp.com/) |  |
+ &nbsp; | INEI | Peruvian Statistical Government Open Data | [Website](http://iinei.inei.gob.pe/microdatos/) |  |
+ &nbsp; | Inferdo | Computer Vision services like Facial detection, Image labeling, NSFW classification | [Website](https://rapidapi.com/user/inferdo) |  |
+ &nbsp; | Infermedica | NLP based symptom checker and patient triage API for health diagnosis from text | [Website](https://developer.infermedica.com/docs/) |  |
+ &nbsp; | INFURA Ethereum | Interaction with the Ethereum mainnet and several testnets | [Website](https://infura.io/product/ethereum) |  |
+ &nbsp; | Inshorts News | Provides news from inshorts | [Website](https://github.com/cyberboysumanjay/Inshorts-News-API) |  |
+ &nbsp; | Inspiration | Motivational and Inspirational quotes | [Website](https://inspiration.goprogram.ai/docs/) |  |
+ &nbsp; | inspirehep.net | High Energy Physics info. system | [Website](https://github.com/inspirehep/rest-api-doc) |  |
+ &nbsp; | Instagram | Instagram Login, Share on Instagram, Social Plugins and more | [Website](https://www.instagram.com/developer/) |  |
+ &nbsp; | Instatus | Post to and update maintenance and incidents on your status page through an HTTP REST API | [Website](https://instatus.com/help/api) |  |
+ &nbsp; | Intelligence X | Perform OSINT via Intelligence X | [Website](https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf) |  |
+ &nbsp; | Interpol Red Notices | Access and search Interpol Red Notices | [Website](https://interpol.api.bund.dev/) |  |
+ &nbsp; | Intrinio | A wide selection of financial data feeds | [Website](https://intrinio.com/) |  |
+ &nbsp; | IP 2 Country | Map an IP to a country | [Website](https://ip2country.info) |  |
+ &nbsp; | IP Address Details | Find geolocation with ip address | [Website](https://ipinfo.io/) |  |
+ &nbsp; | IP Sidekick | Geolocation API that returns extra information about an IP address | [Website](https://ipsidekick.com) |  |
+ &nbsp; | IP Vigilante | Free IP Geolocation API | [Website](https://www.ipvigilante.com/) |  |
+ &nbsp; | ip-api | Find location with IP address or domain | [Website](https://ip-api.com/docs) |  |
+ &nbsp; | ip-fast.com | IP address, country and city | [Website](https://ip-fast.com/docs/) |  |
+ &nbsp; | IP2Location | IP geolocation web service to get more than 55 parameters | [Website](https://www.ip2location.com/web-service/ip2location) |  |
+ &nbsp; | IP2Proxy | Detect proxy and VPN using IP address | [Website](https://www.ip2location.com/web-service/ip2proxy) |  |
+ &nbsp; | IP2WHOIS Information Lookup | WHOIS domain name lookup | [Website](https://www.ip2whois.com/) |  |
+ &nbsp; | ipapi.co | Find IP address location information | [Website](https://ipapi.co/api/#introduction) |  |
+ &nbsp; | ipapi.com | Real-time Geolocation & Reverse IP Lookup REST API | [Website](https://ipapi.com/) |  |
+ &nbsp; | ipfind.io | Geographic location of an IP address or any domain name along with some other useful information | [Website](https://ipfind.io) |  |
+ &nbsp; | IPGEO | Unlimited free IP Address API with useful information | [Website](https://api.techniknews.net/ipgeo/) |  |
+ &nbsp; | ipgeolocation | IP Geolocation AP with free plan 30k requests per month | [Website](https://ipgeolocation.io/) |  |
+ &nbsp; | IPify | A simple IP Address API | [Website](https://www.ipify.org/) |  |
+ &nbsp; | IPinfo | Another simple IP Address API | [Website](https://ipinfo.io/developers) |  |
+ &nbsp; | IPInfoDB | Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address | [Website](https://ipinfodb.com/api) |  |
+ &nbsp; | IPS Online | Face and License Plate Anonymization | [Website](https://docs.identity.ps/docs) |  |
+ &nbsp; | Irisnet | Realtime content moderation API that blocks or blurs unwanted images in real-time | [Website](https://irisnet.de/api/) |  |
+ &nbsp; | isEven (humor) | Check if a number is even | [Website](https://isevenapi.xyz/) |  |
+ &nbsp; | ISRO | ISRO Space Crafts Information | [Website](https://isro.vercel.app) |  |
+ &nbsp; | Istanbul (İBB) Open Data | Data sets from the İstanbul Metropolitan Municipality (İBB) | [Website](https://data.ibb.gov.tr) |  |
+ &nbsp; | ITIS | Integrated Taxonomic Information System | [Website](https://www.itis.gov/ws_description.html) |  |
+ &nbsp; | iTunes Search | Software products | [Website](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) |  |
+ &nbsp; | IUCN | IUCN Red List of Threatened Species | [Website](http://apiv3.iucnredlist.org/api/v3/docs) |  |
+ &nbsp; | Izi | Audio guide for travellers | [Website](http://api-docs.izi.travel/) |  |
+ &nbsp; | Jamendo | Music | [Website](https://developer.jamendo.com/v3.0/docs) |  |
+ &nbsp; | JCDecaux Bike | JCDecaux's self-service bicycles | [Website](https://developer.jcdecaux.com/) |  |
+ &nbsp; | Jikan | Unofficial MyAnimeList API | [Website](https://jikan.moe) |  |
+ &nbsp; | JioSaavn | API to retrieve song information, album meta data and many more from JioSaavn | [Website](https://github.com/cyberboysumanjay/JioSaavnAPI) |  |
+ &nbsp; | JIRA | JIRA is a proprietary issue tracking product that allows bug tracking and agile project management | [Website](https://developer.atlassian.com/server/jira/platform/rest-apis/) |  |
+ &nbsp; | Jobs2Careers | Job aggregator | [Website](http://api.jobs2careers.com/api/spec.pdf) |  |
+ &nbsp; | JokeAPI | Programming, Miscellaneous and Dark Jokes | [Website](https://sv443.net/jokeapi/v2/) |  |
+ &nbsp; | Jokes One | Joke of the day and large category of jokes accessible via REST API | [Website](https://jokes.one/api/joke/) |  |
+ &nbsp; | Jooble | Job search engine | [Website](https://us.jooble.org/api/about) |  |
+ &nbsp; | Joshua Project | People groups of the world with the fewest followers of Christ | [Website](https://api.joshuaproject.net/) |  |
+ &nbsp; | jsDelivr | Package info and download stats on jsDelivr CDN | [Website](https://github.com/jsdelivr/data.jsdelivr.com) |  |
+ &nbsp; | Jservice | Jeopardy Question Database | [Website](http://jservice.io) |  |
+ &nbsp; | JSON 2 JSONP | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript | [Website](https://json2jsonp.com/) |  |
+ &nbsp; | JSON2Video | Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations | [Website](https://json2video.com) |  |
+ &nbsp; | JSONbin.io | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps | [Website](https://jsonbin.io) |  |
+ &nbsp; | JSONPlaceholder | Fake data for testing and prototyping | [Website](http://jsonplaceholder.typicode.com/) |  |
+ &nbsp; | Judge0 CE | Online code execution system | [Website](https://ce.judge0.com/) |  |
+ &nbsp; | Juju | Job search engine | [Website](http://www.juju.com/publisher/spec/) |  |
+ &nbsp; | Kaggle | Create and interact with Datasets, Notebooks, and connect with Kaggle | [Website](https://www.kaggle.com/docs/api) |  |
+ &nbsp; | Kakao | Kakao Login, Share on KakaoTalk, Social Plugins and more | [Website](https://developers.kakao.com/) |  |
+ &nbsp; | Kakao Maps | Kakao Maps provide multiple APIs for Korean maps | [Website](https://apis.map.kakao.com) |  |
+ &nbsp; | kanye.rest | REST API for random Kanye West quotes | [Website](https://kanye.rest) |  |
+ &nbsp; | Kawal Corona | ID COVID data, include death, positive case and recover | [Website](https://kawalcorona.com/api/) |  |
+ &nbsp; | Keen IO | Data Analytics | [Website](https://keen.io/) |  |
+ &nbsp; | Kelley Blue Book | Vehicle info, pricing, configuration, plus much more | [Website](http://developer.kbb.com/#!/data/1-Default) |  |
+ &nbsp; | keycdn IP Location Finder | Get the IP geolocation data through the simple REST API. All the responses are JSON encoded | [Website](https://tools.keycdn.com/geo) |  |
+ &nbsp; | Kickbox | Email verification API | [Website](https://open.kickbox.com/) |  |
+ &nbsp; | Kitsu | Anime discovery platform | [Website](https://kitsu.docs.apiary.io/) |  |
+ &nbsp; | KKBOX | Get music libraries, playlists, charts, and perform out of KKBOX's platform | [Website](https://developer.kkbox.com) |  |
+ &nbsp; | Klarna | Klarna payment and shopping service | [Website](https://docs.klarna.com/klarna-payments/api/payments-api/) |  |
+ &nbsp; | Kraken | Cryptocurrencies Exchange | [Website](https://docs.kraken.com/rest/) |  |
+ &nbsp; | Kroger | Supermarket Data | [Website](https://developer.kroger.com/reference) |  |
+ &nbsp; | Kroki | Creates diagrams from textual descriptions | [Website](https://kroki.io) |  |
+ &nbsp; | KSoft.Si Lyrics | API to get lyrics for songs | [Website](https://docs.ksoft.si/api/lyrics-api) |  |
+ &nbsp; | KuCoin | Cryptocurrency Trading Platform | [Website](https://docs.kucoin.com/) |  |
+ &nbsp; | Kutt | Free Modern URL Shortener | [Website](https://docs.kutt.it/) |  |
+ &nbsp; | La Data Verte | Aggregation of multiple environmental indicators (CO2 emissions, Average temperature, etc) | [Website](https://ladataverte.fr) |  |
+ &nbsp; | Land Transport Authority DataMall, Singapore | Singapore transport information | [Website](https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf) |  |
+ &nbsp; | Lanyard | Retrieve your presence on Discord through an HTTP REST API or WebSocket | [Website](https://github.com/Phineas/lanyard) |  |
+ &nbsp; | LAPIS | SARS-CoV-2 genomic sequences from public sources | [Website](https://cov-spectrum.ethz.ch/public) |  |
+ &nbsp; | LastFm | Music | [Website](https://www.last.fm/api) |  |
+ &nbsp; | Launch Library 2 | Spaceflight launches and events database | [Website](https://thespacedevs.com/llapi) |  |
+ &nbsp; | Lazada | Retrieve product ratings and seller performance metrics | [Website](https://open.lazada.com/doc/doc.htm) |  |
+ &nbsp; | LCBO | Alcohol | [Website](https://lcboapi.com/) |  |
+ &nbsp; | LectServe | Protestant liturgical calendar | [Website](http://www.lectserve.com) |  |
+ &nbsp; | Lexigram | NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology | [Website](https://docs.lexigram.io/v1/welcome) |  |
+ &nbsp; | LibGen | Library Genesis search engine | [Website](https://garbage.world/posts/libgen/) |  |
+ &nbsp; | LibreTranslate | Translation tool with 17 available languages | [Website](https://libretranslate.com/docs) |  |
+ &nbsp; | License-API | Unofficial REST API for choosealicense.com | [Website](https://github.com/cmccandless/license-api/blob/master/README.md) |  |
+ &nbsp; | Lichess | Access to all data of users, games, puzzles and etc on Lichess | [Website](https://lichess.org/api) |  |
+ &nbsp; | Line | Line Login, Share on Line, Social Plugins and more | [Website](https://developers.line.biz/) |  |
+ &nbsp; | Lingua Robot | Word definitions, pronunciations, synonyms, antonyms and others | [Website](https://www.linguarobot.io) |  |
+ &nbsp; | LinkedIn | The foundation of all digital integrations with LinkedIn | [Website](https://docs.microsoft.com/en-us/linkedin/?context=linkedin/context) |  |
+ &nbsp; | LinkPreview | Get JSON formatted summary with title, description and preview image for any requested URL | [Website](https://www.linkpreview.net) |  |
+ &nbsp; | Live precious metal prices | Live prices for all precious metals like Gold | [Website](https://notnullsolutions.com/live-metal-prices-api/live-precious-metal-prices-api-documentation) |  |
+ &nbsp; | Lob.com | US Address Verification | [Website](https://lob.com/) |  |
+ &nbsp; | Localbitcoins | P2P platform to buy and sell Bitcoins | [Website](https://localbitcoins.com/api-docs/) |  |
+ &nbsp; | LocationIQ | Provides forward/reverse geocoding and batch geocoding | [Website](https://locationiq.org/docs/) |  |
+ &nbsp; | LoginRadius | Managed User Authentication Service | [Website](https://www.loginradius.com/docs/) |  |
+ &nbsp; | Logs.to | Generate logs | [Website](https://logs.to/) |  |
+ &nbsp; | Longdo Map | Interactive map with detailed places and information portal in Thailand | [Website](https://map.longdo.com/docs/) |  |
+ &nbsp; | Lordicon | Icons with predone Animations | [Website](https://lordicon.com/) |  |
+ &nbsp; | Lorem Picsum | Images from Unsplash | [Website](https://picsum.photos/) |  |
+ &nbsp; | Loripsum | The "lorem ipsum" generator that doesn't suck | [Website](http://loripsum.net/) |  |
+ &nbsp; | Lua Decompiler | Online Lua 5.1 Decompiler | [Website](https://lua-decompiler.ferib.dev/) |  |
+ &nbsp; | Luchtmeetnet | Predicted and actual air quality components for The Netherlands (RIVM) | [Website](https://api-docs.luchtmeetnet.nl/) |  |
+ &nbsp; | Lucifer Quotes | Returns Lucifer quotes | [Website](https://github.com/shadowoff09/lucifer-quotes) |  |
+ &nbsp; | Lyrics.ovh | Simple API to retrieve the lyrics of a song | [Website](http://docs.lyricsovh.apiary.io/) |  |
+ &nbsp; | MAC address vendor lookup | Retrieve vendor details and other information regarding a given MAC address or an OUI | [Website](https://macaddress.io/api) |  |
+ &nbsp; | Machinetutors | AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP | [Website](https://www.machinetutors.com/portfolio/MT_api.html) |  |
+ &nbsp; | Magic The Gathering | Magic The Gathering Game Information | [Website](http://magicthegathering.io/) |  |
+ &nbsp; | mail.tm | Temporary Email Service | [Website](https://docs.mail.tm) |  |
+ &nbsp; | MailboxValidator | Validate email address to improve deliverability | [Website](https://www.mailboxvalidator.com/api-email-free) |  |
+ &nbsp; | Mailchimp | Send marketing campaigns and transactional mails | [Website](https://mailchimp.com/developer/) |  |
+ &nbsp; | mailgun | Email Service | [Website](https://www.mailgun.com/) |  |
+ &nbsp; | mailjet | Marketing email can be sent and mail templates made in MJML or HTML can be sent using API | [Website](https://www.mailjet.com/) |  |
+ &nbsp; | Mailsac | Disposable Email | [Website](https://mailsac.com/docs/api) |  |
+ &nbsp; | Mailtrap | A service for the safe testing of emails sent from the development and staging environments | [Website](https://mailtrap.docs.apiary.io/#) |  |
+ &nbsp; | Makeup | Makeup Information | [Website](http://makeup-api.herokuapp.com/) |  |
+ &nbsp; | MalDatabase | Provide malware datasets and threat intelligence feeds | [Website](https://maldatabase.com/api-doc.html) |  |
+ &nbsp; | MalShare | Malware Archive / file sourcing | [Website](https://malshare.com/doc.php) |  |
+ &nbsp; | MalwareBazaar | Collect and share malware samples | [Website](https://bazaar.abuse.ch/api/) |  |
+ &nbsp; | MangaDex | Manga Database and Community | [Website](https://api.mangadex.org/docs.html) |  |
+ &nbsp; | Mangapi | Translate manga pages from one language to another | [Website](https://rapidapi.com/pierre.carcellermeunier/api/mangapi3/) |  |
+ &nbsp; | Mapbox | Create/customize beautiful digital maps | [Website](https://www.mapbox.com/developers/) |  |
+ &nbsp; | MapQuest | To access tools and resources to map the world | [Website](https://developer.mapquest.com/) |  |
+ &nbsp; | Mario Kart Tour | API for Drivers, Karts, Gliders and Courses | [Website](https://mario-kart-tour-api.herokuapp.com/) |  |
+ &nbsp; | markerapi | Trademark Search | [Website](http://www.markerapi.com/) |  |
+ &nbsp; | MarketAux | Live stock market news with tagged tickers + sentiment and stats JSON API | [Website](https://marketaux.com/) |  |
+ &nbsp; | Marvel | Marvel Comics | [Website](https://developer.marvel.com) |  |
+ &nbsp; | Materials Platform for Data Science | Curated experimental data for materials science | [Website](https://mpds.io) |  |
+ &nbsp; | Mattermost | An open source platform for developer collaboration | [Website](https://api.mattermost.com/) |  |
+ &nbsp; | MCU Countdown | A Countdown to the next MCU Film | [Website](https://github.com/DiljotSG/MCU-Countdown) |  |
+ &nbsp; | Medicare | Access to the data from the CMS - medicare.gov | [Website](https://data.medicare.gov/developers) |  |
+ &nbsp; | Medium | Community of readers and writers offering unique perspectives on ideas | [Website](https://github.com/Medium/medium-api-docs) |  |
+ &nbsp; | Meetup.com | Data about Meetups from Meetup.com | [Website](https://www.meetup.com/api/guide) |  |
+ &nbsp; | Megavangelical | A (satirical) Evangelical liturgical calendar | [Website](https://megavangelicals.com/sundays.json) |  |
+ &nbsp; | Meme Maker | REST API for create your own meme | [Website](https://mememaker.github.io/API/) |  |
+ &nbsp; | Mempool | Bitcoin API Service focusing on the transaction fee | [Website](https://mempool.space/api) |  |
+ &nbsp; | MeowFacts | Get random cat facts | [Website](https://github.com/wh-iterabb-it/meowfacts) |  |
+ &nbsp; | MercadoBitcoin | Brazilian Cryptocurrency Information | [Website](https://www.mercadobitcoin.net/api-doc/) |  |
+ &nbsp; | Mercadolibre | Manage sales, ads, products, services and Shops | [Website](https://developers.mercadolibre.cl/es_ar/api-docs-es) |  |
+ &nbsp; | MercadoPago | Mercado Pago API reference - all the information you need to develop your integrations | [Website](https://www.mercadopago.com.br/developers/es/reference) |  |
+ &nbsp; | Mercedes-Benz | Telematics data, remotely access vehicle functions, car configurator, locate service dealers | [Website](https://developer.mercedes-benz.com/apis) |  |
+ &nbsp; | Mercury | Web parser | [Website](https://mercury.postlight.com/web-parser/) |  |
+ &nbsp; | Merriam-Webster | Dictionary and Thesaurus Data | [Website](https://dictionaryapi.com/) |  |
+ &nbsp; | Messari | Provides API endpoints for thousands of crypto assets | [Website](https://messari.io/api) |  |
+ &nbsp; | Metabase | An open source Business Intelligence server to share data and analytics inside your company | [Website](https://www.metabase.com/) |  |
+ &nbsp; | Metacert | Metacert Link Flagging | [Website](https://metacert.com/) |  |
+ &nbsp; | Metaphorsum | Generate demo paragraphs giving number of words and sentences | [Website](http://metaphorpsum.com/) |  |
+ &nbsp; | MetaWeather | Weather | [Website](https://www.metaweather.com/api/) |  |
+ &nbsp; | Meteorologisk Institutt | Weather and climate data | [Website](https://api.met.no/weatherapi/documentation) |  |
+ &nbsp; | Metro Lisboa | Delays in subway lines | [Website](http://app.metrolisboa.pt/status/getLinhas.php) |  |
+ &nbsp; | Metropolitan Museum of Art | Met Museum of Art | [Website](https://metmuseum.github.io/) |  |
+ &nbsp; | Mexico | Mexico RESTful zip codes API | [Website](https://github.com/IcaliaLabs/sepomex) |  |
+ &nbsp; | Mgnet.me | Torrent URL shorten API | [Website](http://mgnet.me/api.html) |  |
+ &nbsp; | Micro DB | Simple database service | [Website](https://m3o.com/db) |  |
+ &nbsp; | Micro User Service | User management and authentication | [Website](https://m3o.com/user) |  |
+ &nbsp; | Micro Weather | Real time weather forecasts and historic data | [Website](https://m3o.com/weather/api) |  |
+ &nbsp; | MicroENV | Fake Rest API for developers | [Website](https://microenv.com/) |  |
+ &nbsp; | Microlink.io | Extract structured data from any website | [Website](https://microlink.io) |  |
+ &nbsp; | Microsoft Graph | Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility | [Website](https://docs.microsoft.com/en-us/graph/api/overview) |  |
+ &nbsp; | Microsoft Security Response Center (MSRC) | Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC) | [Website](https://msrc.microsoft.com/report/developer) |  |
+ &nbsp; | Minor Planet Center | Asterank.com Information | [Website](http://www.asterank.com/mpc) |  |
+ &nbsp; | Mixcloud | Music | [Website](https://www.mixcloud.com/developers/) |  |
+ &nbsp; | MLB Records and Stats | Current and historical MLB statistics | [Website](https://appac.github.io/mlb-data-api-docs/) |  |
+ &nbsp; | MMO Games | MMO Games Database, News and Giveaways | [Website](https://www.mmobomb.com/api) |  |
+ &nbsp; | Mockaroo | Generate fake data to JSON, CSV, TXT, SQL and XML | [Website](https://www.mockaroo.com/docs) |  |
+ &nbsp; | Mocky | Mock user defined test JSON for REST API endpoints | [Website](https://designer.mocky.io/) |  |
+ &nbsp; | mod.io | Cross Platform Mod API | [Website](https://docs.mod.io) |  |
+ &nbsp; | Mojang | Mojang / Minecraft API | [Website](https://wiki.vg/Mojang_API) |  |
+ &nbsp; | MojoAuth | Secure and modern passwordless authentication platform | [Website](https://mojoauth.com) |  |
+ &nbsp; | Monday | Programmatically access and update data inside a monday.com account | [Website](https://api.developer.monday.com/docs) |  |
+ &nbsp; | Mono | Connect with users’ bank accounts and access transaction data in Africa | [Website](https://mono.co/) |  |
+ &nbsp; | Monster Hunter World | Monster Hunter World data | [Website](https://docs.mhw-db.com/) |  |
+ &nbsp; | Moov | The Moov API makes it simple for platforms to send, receive, and store money | [Website](https://docs.moov.io/api/) |  |
+ &nbsp; | Movebank | Movement and Migration data of animals | [Website](https://github.com/movebank/movebank-api-doc) |  |
+ &nbsp; | Movie Quote | Random Movie and Series Quotes | [Website](https://github.com/F4R4N/movie-quote/) |  |
+ &nbsp; | Mozilla http scanner | Mozilla observatory http scanner | [Website](https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md) |  |
+ &nbsp; | Mozilla tls scanner | Mozilla observatory tls scanner | [Website](https://github.com/mozilla/tls-observatory#api-endpoints) |  |
+ &nbsp; | MusicBrainz | Music | [Website](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) |  |
+ &nbsp; | Musixmatch | Music | [Website](https://developer.musixmatch.com/) |  |
+ &nbsp; | MY IP | Get IP address information | [Website](https://www.myip.com/api-docs/) |  |
+ &nbsp; | MyAnimeList | Anime and Manga Database and Community | [Website](https://myanimelist.net/clubs.php?cid=13727) |  |
+ &nbsp; | MyVaccination | Vaccination data for Malaysia | [Website](https://documenter.getpostman.com/view/16605343/Tzm8GG7u) |  |
+ &nbsp; | Nager.Date | Public holidays for more than 90 countries | [Website](https://date.nager.at) |  |
+ &nbsp; | Namedays Calendar | Provides namedays for multiple countries | [Website](https://nameday.abalin.net) |  |
+ &nbsp; | NaMoMemes | Memes on Narendra Modi | [Website](https://github.com/theIYD/NaMoMemes) |  |
+ &nbsp; | Napster | Music | [Website](https://developer.napster.com/api/v2.2) |  |
+ &nbsp; | NASA | NASA data, including imagery | [Website](https://api.nasa.gov) |  |
+ &nbsp; | NASA ADS | NASA Astrophysics Data System | [Website](https://ui.adsabs.harvard.edu/help/api/api-docs.html) |  |
+ &nbsp; | NASA APOD (official API) | Official API for getting APOD (Astronomy Image of the Day) images along with metadata | [Website](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY) |  |
+ &nbsp; | NASA APOD (unofficial API) | API for getting APOD (Astronomy Image of the Day) images along with metadata | [Website](https://apodapi.herokuapp.com/) |  |
+ &nbsp; | National Bank of Poland | A collection of currency exchange rates (data in XML and JSON) | [Website](http://api.nbp.pl/en.html) |  |
+ &nbsp; | National Grid ESO | Open data from Great Britain’s Electricity System Operator | [Website](https://data.nationalgrideso.com/) |  |
+ &nbsp; | National Vulnerability Database | U.S. National Vulnerability Database | [Website](https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog) |  |
+ &nbsp; | Nationalize.io | Estimate the nationality of a first name | [Website](https://nationalize.io) |  |
+ &nbsp; | NAVER | NAVER Login, Share on NAVER, Social Plugins and more | [Website](https://developers.naver.com/main/) |  |
+ &nbsp; | Navitia | The open API for building cool stuff with transport data | [Website](https://doc.navitia.io/) |  |
+ &nbsp; | NBA Data | All NBA Stats DATA, Games, Livescore, Standings, Statistics | [Website](https://rapidapi.com/api-sports/api/api-nba/) |  |
+ &nbsp; | NBA Stats | Current and historical NBA Statistics | [Website](https://any-api.com/nba_com/nba_com/docs/API_Description) |  |
+ &nbsp; | NekosBest | Neko Images & Anime roleplaying GIFs | [Website](https://docs.nekos.best) |  |
+ &nbsp; | Netlify | Netlify is a hosting service for the programmable web | [Website](https://docs.netlify.com/api/get-started/) |  |
+ &nbsp; | NetworkCalc | Network calculators, including subnets, DNS, binary, and security tools | [Website](https://networkcalc.com/api/docs) |  |
+ &nbsp; | New York Times | The New York Times Developer Network | [Website](https://developer.nytimes.com/) |  |
+ &nbsp; | News | Headlines currently published on a range of news sources and blogs | [Website](https://newsapi.org/) |  |
+ &nbsp; | NewsX | Get or Search Latest Breaking News with ML Powered Summaries 🤖 | [Website](https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/) |  |
+ &nbsp; | Newton | Symbolic and Arithmetic Math Calculator | [Website](https://newton.vercel.app) |  |
+ &nbsp; | Nexchange | Automated cryptocurrency exchange service | [Website](https://nexchange2.docs.apiary.io/) |  |
+ &nbsp; | NHL Records and Stats | NHL historical data and statistics | [Website](https://gitlab.com/dword4/nhlapi) |  |
+ &nbsp; | NHTSA | NHTSA Product Information Catalog and Vehicle Listing | [Website](https://vpic.nhtsa.dot.gov/api/) |  |
+ &nbsp; | NLP Cloud | NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more | [Website](https://nlpcloud.io) |  |
+ &nbsp; | Nobel Prize | Open data about nobel prizes and events | [Website](https://www.nobelprize.org/about/developer-zone-2/) |  |
+ &nbsp; | Noctua | REST API used to access NoctuaSky features | [Website](https://api.noctuasky.com/api/v1/swaggerdoc/) |  |
+ &nbsp; | Nomics | Historical and realtime cryptocurrency prices and market data | [Website](https://nomics.com/docs/) |  |
+ &nbsp; | Nominatim | Provides worldwide forward / reverse geocoding | [Website](https://nominatim.org/release-docs/latest/api/Overview/) |  |
+ &nbsp; | Non-Working Days | Database of ICS files for non working days | [Website](https://github.com/gadael/icsdb) |  |
+ &nbsp; | Non-Working Days | Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other | [Website](https://isdayoff.ru) |  |
+ &nbsp; | Nordigen | Connect to bank accounts using official bank APIs and get raw transaction data | [Website](https://nordigen.com/en/account_information_documenation/integration/quickstart_guide/) |  |
+ &nbsp; | Notion | Integrate with Notion | [Website](https://developers.notion.com/docs/getting-started) |  |
+ &nbsp; | Noun Project | Icons | [Website](http://api.thenounproject.com/index.html) |  |
+ &nbsp; | NovaDax | NovaDAX API to access all market data, trading management endpoints | [Website](https://doc.novadax.com/en-US/#introduction) |  |
+ &nbsp; | Nownodes | Blockchain-as-a-service solution that provides high-quality connection via API | [Website](https://nownodes.io/) |  |
+ &nbsp; | npm Registry | Query information about your favorite Node.js libraries programatically | [Website](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md) |  |
+ &nbsp; | NPPES | National Plan & Provider Enumeration System, info on healthcare providers registered in US | [Website](https://npiregistry.cms.hhs.gov/registry/help-api) |  |
+ &nbsp; | NPR One | Personalized news listening experience from NPR | [Website](http://dev.npr.org/api/) |  |
+ &nbsp; | Numbers | Number of the day, random number, number facts and anything else you want to do with numbers | [Website](https://math.tools/api/numbers/) |  |
+ &nbsp; | Numbers | Facts about numbers | [Website](http://numbersapi.com) |  |
+ &nbsp; | Nutritionix | Worlds largest verified nutrition database | [Website](https://developer.nutritionix.com/) |  |
+ &nbsp; | ObjectCut | Image Background removal | [Website](https://objectcut.com/) |  |
+ &nbsp; | Octopart | Electronic part data for manufacturing, design, and sourcing | [Website](https://octopart.com/api/v4/reference) |  |
+ &nbsp; | Oddsmagnet | Odds history from multiple UK bookmakers | [Website](https://data.oddsmagnet.com) |  |
+ &nbsp; | ODWeather | Weather and weather webcams | [Website](http://api.oceandrivers.com/static/docs.html) |  |
+ &nbsp; | Oikolab | 70+ years of global, hourly historical and forecast weather data from NOAA and ECMWF | [Website](https://docs.oikolab.com) |  |
+ &nbsp; | OKEx | Cryptocurrency exchange based in Seychelles | [Website](https://www.okex.com/docs/) |  |
+ &nbsp; | OLX Poland | Integrate with local sites by posting, managing adverts and communicating with OLX users | [Website](https://developer.olx.pl/api/doc#section/) |  |
+ &nbsp; | One Map, Singapore | Singapore Land Authority REST API services for Singapore addresses | [Website](https://docs.onemap.sg/) |  |
+ &nbsp; | OneDrive | File Sharing and Storage | [Website](https://dev.onedrive.com/) |  |
+ &nbsp; | OneSignal | Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App | [Website](https://documentation.onesignal.com/docs/onesignal-api) |  |
+ &nbsp; | OnWater | Determine if a lat/lon is on water or land | [Website](https://onwater.io/) |  |
+ &nbsp; | OOPSpam | Multiple spam filtering service | [Website](https://oopspam.com/) |  |
+ &nbsp; | Open Brewery DB | Breweries, Cideries and Craft Beer Bottle Shops | [Website](https://www.openbrewerydb.org) |  |
+ &nbsp; | Open Charge Map | Global public registry of electric vehicle charging locations | [Website](https://openchargemap.org/site/develop/api) |  |
+ &nbsp; | Open Collective | Get Open Collective data | [Website](https://docs.opencollective.com/help/developers/api) |  |
+ &nbsp; | Open Data Minneapolis | Spatial (GIS) and non-spatial city data for Minneapolis | [Website](https://opendata.minneapolismn.gov/) |  |
+ &nbsp; | Open Data NHS Scotland | Medical reference data and statistics by Public Health Scotland | [Website](https://www.opendata.nhs.scot) |  |
+ &nbsp; | Open Disease | API for Current cases and more stuff about COVID-19 and Influenza | [Website](https://disease.sh/) |  |
+ &nbsp; | Open Food Facts | Food Products Database | [Website](https://world.openfoodfacts.org/data) |  |
+ &nbsp; | Open Government, ACT | Australian Capital Territory Open Data | [Website](https://www.data.act.gov.au/) |  |
+ &nbsp; | Open Government, Argentina | Argentina Government Open Data | [Website](https://datos.gob.ar/) |  |
+ &nbsp; | Open Government, Australia | Australian Government Open Data | [Website](https://www.data.gov.au/) |  |
+ &nbsp; | Open Government, Austria | Austria Government Open Data | [Website](https://www.data.gv.at/) |  |
+ &nbsp; | Open Government, Belgium | Belgium Government Open Data | [Website](https://data.gov.be/) |  |
+ &nbsp; | Open Government, Brazil | Brazilian Government Open Data | [Website](https://www.dados.gov.br/) |  |
+ &nbsp; | Open Government, Canada | Canadian Government Open Data | [Website](http://open.canada.ca/en) |  |
+ &nbsp; | Open Government, Colombia | Colombia Government Open Data | [Website](https://www.dane.gov.co/) |  |
+ &nbsp; | Open Government, Croatia | Croatia Government Open Data | [Website](https://data.gov.hr/en) |  |
+ &nbsp; | Open Government, Cyprus | Cyprus Government Open Data | [Website](https://data.gov.cy/?language=en) |  |
+ &nbsp; | Open Government, Czech Republic | Czech Republic Government Open Data | [Website](https://data.gov.cz/english/) |  |
+ &nbsp; | Open Government, Denmark | Denmark Government Open Data | [Website](https://www.opendata.dk/) |  |
+ &nbsp; | Open Government, Estonia | Estonia Government Open Data | [Website](https://avaandmed.eesti.ee/instructions/opendata-dataset-api) |  |
+ &nbsp; | Open Government, Finland | Finland Government Open Data | [Website](https://www.avoindata.fi/en) |  |
+ &nbsp; | Open Government, France | French Government Open Data | [Website](https://www.data.gouv.fr/) |  |
+ &nbsp; | Open Government, Germany | Germany Government Open Data | [Website](https://www.govdata.de/daten/-/details/govdata-metadatenkatalog) |  |
+ &nbsp; | Open Government, Greece | Greece Government Open Data | [Website](https://data.gov.gr/) |  |
+ &nbsp; | Open Government, India | Indian Government Open Data | [Website](https://data.gov.in/) |  |
+ &nbsp; | Open Government, Ireland | Ireland Government Open Data | [Website](https://data.gov.ie/pages/developers) |  |
+ &nbsp; | Open Government, Italy | Italy Government Open Data | [Website](https://www.dati.gov.it/) |  |
+ &nbsp; | Open Government, Korea | Korea Government Open Data | [Website](https://www.data.go.kr/) |  |
+ &nbsp; | Open Government, Lithuania | Lithuania Government Open Data | [Website](https://data.gov.lt/public/api/1) |  |
+ &nbsp; | Open Government, Luxembourg | Luxembourgish Government Open Data | [Website](https://data.public.lu) |  |
+ &nbsp; | Open Government, Mexico | Mexican Statistical Government Open Data | [Website](https://www.inegi.org.mx/datos/) |  |
+ &nbsp; | Open Government, Mexico | Mexico Government Open Data | [Website](https://datos.gob.mx/) |  |
+ &nbsp; | Open Government, Netherlands | Netherlands Government Open Data | [Website](https://data.overheid.nl/en/ondersteuning/data-publiceren/api) |  |
+ &nbsp; | Open Government, New South Wales | New South Wales Government Open Data | [Website](https://api.nsw.gov.au/) |  |
+ &nbsp; | Open Government, New Zealand | New Zealand Government Open Data | [Website](https://www.data.govt.nz/) |  |
+ &nbsp; | Open Government, Norway | Norwegian Government Open Data | [Website](https://data.norge.no/dataservices) |  |
+ &nbsp; | Open Government, Peru | Peru Government Open Data | [Website](https://www.datosabiertos.gob.pe/) |  |
+ &nbsp; | Open Government, Poland | Poland Government Open Data | [Website](https://dane.gov.pl/en) |  |
+ &nbsp; | Open Government, Portugal | Portugal Government Open Data | [Website](https://dados.gov.pt/en/docapi/) |  |
+ &nbsp; | Open Government, Queensland Government | Queensland Government Open Data | [Website](https://www.data.qld.gov.au/) |  |
+ &nbsp; | Open Government, Romania | Romania Government Open Data | [Website](http://data.gov.ro/) |  |
+ &nbsp; | Open Government, Russia | Open Data Portal Russia | [Website](https://data.gov.ru/?language=en) |  |
+ &nbsp; | Open Government, Saudi Arabia | Saudi Arabia Government Open Data | [Website](https://data.gov.sa) |  |
+ &nbsp; | Open Government, Singapore | Singapore Government Open Data | [Website](https://data.gov.sg/developer) |  |
+ &nbsp; | Open Government, Slovakia | Slovakia Government Open Data | [Website](https://data.gov.sk/en/) |  |
+ &nbsp; | Open Government, Slovenia | Slovenia Government Open Data | [Website](https://podatki.gov.si/) |  |
+ &nbsp; | Open Government, South Australian Government | South Australian Government Open Data | [Website](https://data.sa.gov.au/) |  |
+ &nbsp; | Open Government, Spain | Spain Government Open Data | [Website](https://datos.gob.es/en) |  |
+ &nbsp; | Open Government, Sweden | Sweden Government Open Data | [Website](https://www.dataportal.se/en/dataservice/91_29789/api-for-the-statistical-database) |  |
+ &nbsp; | Open Government, Switzerland | Switzerland Government Open Data | [Website](https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html) |  |
+ &nbsp; | Open Government, Taiwan | Taiwan Government Open Data | [Website](https://data.gov.tw/) |  |
+ &nbsp; | Open Government, Thailand | Thailand Government Open Data | [Website](https://data.go.th/) |  |
+ &nbsp; | Open Government, UK | UK Government Open Data | [Website](https://data.gov.uk/) |  |
+ &nbsp; | Open Government, Ukraine | Ukraine Government Open Data | [Website](https://data.gov.ua/) |  |
+ &nbsp; | Open Government, USA | United States Government Open Data | [Website](https://www.data.gov/) |  |
+ &nbsp; | Open Government, Victoria State Government | Victoria State Government Open Data | [Website](https://www.data.vic.gov.au/) |  |
+ &nbsp; | Open Government, West Australia | West Australia Open Data | [Website](https://data.wa.gov.au/) |  |
+ &nbsp; | Open Library | Books, book covers and related data | [Website](https://openlibrary.org/developers/api) |  |
+ &nbsp; | Open Movie Database | Movie information | [Website](http://www.omdbapi.com/) |  |
+ &nbsp; | Open Notify | ISS astronauts, current location, etc | [Website](http://open-notify.org/Open-Notify-API/) |  |
+ &nbsp; | Open Page Rank | API for calculating and comparing metrics of different websites using Page Rank algorithm | [Website](https://www.domcop.com/openpagerank/) |  |
+ &nbsp; | Open Science Framework | Repository and archive for study designs, research materials, data, manuscripts, etc | [Website](https://developer.osf.io) |  |
+ &nbsp; | Open Skills | Job titles, skills and related jobs data | [Website](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) |  |
+ &nbsp; | Open Topo Data | Elevation and ocean depth for a latitude and longitude | [Website](https://www.opentopodata.org) |  |
+ &nbsp; | Open Trivia | Trivia Questions | [Website](https://opentdb.com/api_config.php) |  |
+ &nbsp; | Open-Meteo | Global weather forecast API for non-commercial use | [Website](https://open-meteo.com/) |  |
+ &nbsp; | openAFRICA | Large datasets repository of African open data | [Website](https://africaopendata.org/) |  |
+ &nbsp; | OpenAQ | Open air quality data | [Website](https://docs.openaq.org/) |  |
+ &nbsp; | OpenCage | Forward and reverse geocoding using open data | [Website](https://opencagedata.com) |  |
+ &nbsp; | OpenCorporates | Data on corporate entities and directors in many countries | [Website](http://api.opencorporates.com/documentation/API-Reference) |  |
+ &nbsp; | openFDA | Public FDA data about drugs, devices and foods | [Website](https://open.fda.gov) |  |
+ &nbsp; | OpenFIGI | Equity, index, futures, options symbology from Bloomberg LP | [Website](https://www.openfigi.com/api) |  |
+ &nbsp; | OpenGraphr | Really simple API to retrieve Open Graph data from an URL | [Website](https://opengraphr.com/docs/1.0/overview) |  |
+ &nbsp; | OpenLigaDB | Crowd sourced sports league results | [Website](https://www.openligadb.de) |  |
+ &nbsp; | openrouteservice.org | Directions, POIs, isochrones, geocoding (+reverse), elevation, and more | [Website](https://openrouteservice.org/) |  |
+ &nbsp; | openSenseMap | Data from Personal Weather Stations called senseBoxes | [Website](https://api.opensensemap.org/) |  |
+ &nbsp; | OpenSky Network | Free real-time ADS-B aviation data | [Website](https://opensky-network.org/apidoc/index.html) |  |
+ &nbsp; | OpenStreetMap | Navigation, geolocation and geographical data | [Website](http://wiki.openstreetmap.org/wiki/API) |  |
+ &nbsp; | OpenUV | Real-time UV Index Forecast | [Website](https://www.openuv.io) |  |
+ &nbsp; | OpenVisionAPI | Open source computer vision API based on open source models | [Website](https://openvisionapi.com) |  |
+ &nbsp; | OpenWeatherMap | Weather | [Website](https://openweathermap.org/api) |  |
+ &nbsp; | Openwhyd | Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...) | [Website](https://openwhyd.github.io/openwhyd/API) |  |
+ &nbsp; | ORB Intelligence | Company lookup | [Website](https://api.orb-intelligence.com/docs/) |  |
+ &nbsp; | Orion Health | Medical platform which allows the development of applications for different healthcare scenarios | [Website](https://developer.orionhealth.io/) |  |
+ &nbsp; | OwlBot | Definitions with example sentence and photo if available | [Website](https://owlbot.info/) |  |
+ &nbsp; | owo | A simple link obfuscator/shortener | [Website](https://owo.vc/api) |  |
+ &nbsp; | Oxford | Dictionary Data | [Website](https://developer.oxforddictionaries.com/) |  |
+ &nbsp; | PageCDN | Public API for javascript, css and font libraries on PageCDN | [Website](https://pagecdn.com/docs/public-api) |  |
+ &nbsp; | PandaDoc | DocGen and eSignatures API | [Website](https://developers.pandadoc.com) |  |
+ &nbsp; | PandaScore | E-sports games and results | [Website](https://developers.pandascore.co/) |  |
+ &nbsp; | Pantry | Free JSON storage for small projects | [Website](https://getpantry.cloud/) |  |
+ &nbsp; | Passwordinator | Generate random passwords of varying complexities | [Website](https://github.com/fawazsullia/password-generator/) |  |
+ &nbsp; | Pastebin | Plain Text Storage | [Website](https://pastebin.com/doc_api) |  |
+ &nbsp; | PatentsView  | API is intended to explore and visualize trends/patterns across the US innovation landscape | [Website](https://patentsview.org/apis/purpose) |  |
+ &nbsp; | Path of Exile | Path of Exile Game Information | [Website](https://www.pathofexile.com/developer/docs) |  |
+ &nbsp; | Penguin Publishing | Books, book covers and related data | [Website](http://www.penguinrandomhouse.biz/webservices/rest/) |  |
+ &nbsp; | Perspective | NLP API to return probability that if text is toxic, obscene, insulting or threatening | [Website](https://perspectiveapi.com) |  |
+ &nbsp; | Petfinder | Petfinder is dedicated to helping pets find homes, another resource to get pets adopted | [Website](https://www.petfinder.com/developers/) |  |
+ &nbsp; | Pexels | Free Stock Photos and Videos | [Website](https://www.pexels.com/api/) |  |
+ &nbsp; | Phisherman | IP/domain/URL reputation | [Website](https://phisherman.gg/) |  |
+ &nbsp; | Phishin | A web-based archive of legal live audio recordings of the improvisational rock band Phish | [Website](https://phish.in/api-docs) |  |
+ &nbsp; | PhishStats | Phishing database | [Website](https://phishstats.info/) |  |
+ &nbsp; | Phone Specification | Rest Api for Phone specifications | [Website](https://github.com/azharimm/phone-specs-api) |  |
+ &nbsp; | PhotoRoom | Remove background from images | [Website](https://www.photoroom.com/api/) |  |
+ &nbsp; | PHP-Noise | Noise Background Image Generator | [Website](https://php-noise.com/) |  |
+ &nbsp; | Picatic | Sell tickets anywhere | [Website](http://developer.picatic.com/?utm_medium=web&utm_source=github&utm_campaign=public-apis%20repo&utm_content=toddmotto) |  |
+ &nbsp; | Pinata | IPFS Pinning Services API | [Website](https://docs.pinata.cloud/) |  |
+ &nbsp; | Pinball Map | A crowdsourced map of public pinball machines | [Website](https://pinballmap.com/api/v1/docs) |  |
+ &nbsp; | Pinterest | The world's catalog of ideas | [Website](https://developers.pinterest.com/) |  |
+ &nbsp; | PIPL | Free and public API that generates random and fake people's data in JSON | [Website](https://pipl.ir/) |  |
+ &nbsp; | Pixabay | Photography | [Website](https://pixabay.com/sk/service/about/api/) |  |
+ &nbsp; | Pixel Encounter | SVG Icon Generator | [Website](https://pixelencounter.com/api) |  |
+ &nbsp; | Pixela | API for recording and tracking habits or effort, routines | [Website](https://pixe.la) |  |
+ &nbsp; | PlaceBear | Placeholder bear pictures | [Website](https://placebear.com/) |  |
+ &nbsp; | PlaceDog | Placeholder Dog pictures | [Website](https://place.dog) |  |
+ &nbsp; | PlaceKeanu | Resizable Keanu Reeves placeholder images with grayscale and young Keanu options | [Website](https://placekeanu.com/) |  |
+ &nbsp; | PlaceKitten | Resizable kitten placeholder images | [Website](https://placekitten.com/) |  |
+ &nbsp; | Plaid | Connect with user's bank accounts and access transaction data | [Website](https://plaid.com/) |  |
+ &nbsp; | PlayerDB | Query Minecraft, Steam and XBox Accounts | [Website](https://playerdb.co/) |  |
+ &nbsp; | Plino | An intelligent spam filtering system | [Website](https://plino.herokuapp.com/) |  |
+ &nbsp; | PM2.5 Open Data Portal | Open low-cost PM2.5 sensor data | [Website](https://pm25.lass-net.org/#apis) |  |
+ &nbsp; | PM25.in | Air quality of China | [Website](http://www.pm25.in/api_doc) |  |
+ &nbsp; | Pocket | Bookmarking service | [Website](https://getpocket.com/developer/) |  |
+ &nbsp; | Podio | File sharing and productivity | [Website](https://developers.podio.com) |  |
+ &nbsp; | PoetryDB | Enables you to get instant data from our vast poetry collection | [Website](https://github.com/thundercomb/poetrydb#readme) |  |
+ &nbsp; | Pokéapi | Pokémon Information | [Website](https://pokeapi.co) |  |
+ &nbsp; | PokéAPI (GraphQL) | The Unofficial GraphQL for PokeAPI | [Website](https://github.com/mazipan/graphql-pokeapi) |  |
+ &nbsp; | Pokémon TCG | Pokémon TCG Information | [Website](https://pokemontcg.io) |  |
+ &nbsp; | Poloniex | US based digital asset exchange | [Website](https://poloniex.com/support/api/) |  |
+ &nbsp; | Polygon | Historical stock market data | [Website](https://polygon.io/) |  |
+ &nbsp; | positionstack | Forward & Reverse Batch Geocoding REST API | [Website](https://positionstack.com/) |  |
+ &nbsp; | PostalPinCode | API for getting Pincode details in India | [Website](http://www.postalpincode.in/Api-Details) |  |
+ &nbsp; | PostcodeData.nl | Provide geolocation data based on postcode for Dutch addresses | [Website](http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json) |  |
+ &nbsp; | Postcodes.io | Postcode lookup & Geolocation for the UK | [Website](https://postcodes.io) |  |
+ &nbsp; | Postman | Tool for testing APIs | [Website](https://docs.api.getpostman.com/) |  |
+ &nbsp; | Postman Echo | Test api server to receive and return value from HTTP method | [Website](https://www.postman-echo.com) |  |
+ &nbsp; | Postmon | An API to query Brazilian ZIP codes and orders easily, quickly and free | [Website](http://postmon.com.br) |  |
+ &nbsp; | PostNord | Provides information about parcels in transport for Sweden and Denmark | [Website](https://developer.postnord.com/api) |  |
+ &nbsp; | Premier League Standings  | All Current Premier League Standings and Statistics | [Website](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) |  |
+ &nbsp; | PrexView | Data from XML or JSON to PDF, HTML or Image | [Website](https://prexview.com) |  |
+ &nbsp; | Privacy.com | Generate merchant-specific and one-time use credit card numbers that link back to your bank | [Website](https://privacy.com/developer/docs) |  |
+ &nbsp; | Product Hunt | The best new products in tech | [Website](https://api.producthunt.com/v2/docs) |  |
+ &nbsp; | Programming Quotes | Programming Quotes API for open source projects | [Website](https://github.com/skolakoda/programming-quotes-api) |  |
+ &nbsp; | ProxyCrawl | Scraping and crawling anticaptcha service | [Website](https://proxycrawl.com) |  |
+ &nbsp; | Psychonauts | Psychonauts World Characters Information and PSI Powers | [Website](https://psychonauts-api.netlify.app/) |  |
+ &nbsp; | PUBG | Access in-game PUBG data | [Website](https://developer.pubg.com/) |  |
+ &nbsp; | Public APIs | A collective list of free JSON APIs for use in web development | [Website](https://github.com/davemachado/public-api) |  |
+ &nbsp; | Pulsedive | Scan, search and collect threat intelligence data in real-time | [Website](https://pulsedive.com/api/) |  |
+ &nbsp; | PunkAPI | Brewdog Beer Recipes | [Website](https://punkapi.com/) |  |
+ &nbsp; | PurgoMalum | Content validator against profanity & obscenity | [Website](http://www.purgomalum.com) |  |
+ &nbsp; | Purple Air | Real Time Air Quality Monitoring | [Website](https://www2.purpleair.com/) |  |
+ &nbsp; | Pusher Beams | Push notifications for Android & iOS | [Website](https://pusher.com/beams) |  |
+ &nbsp; | Puyo Nexus | Puyo Puyo information from Puyo Nexus Wiki | [Website](https://github.com/deltadex7/puyodb-api-deno) |  |
+ &nbsp; | PVWatts | Energy production photovoltaic (PV) energy systems | [Website](https://developer.nrel.gov/docs/solar/pvwatts/v6/) |  |
+ &nbsp; | QR Code | Create new QR Code or decode existing one | [Website](https://fungenerators.com/api/qrcode/) |  |
+ &nbsp; | QR code | Create an easy to read QR code and URL shortener | [Website](http://qrtag.net/api/) |  |
+ &nbsp; | QR code | Generate and decode / read QR code graphics | [Website](http://goqr.me/api/) |  |
+ &nbsp; | Qrcode Monkey | Integrate custom and unique looking QR codes into your system or workflow | [Website](https://www.qrcode-monkey.com/qr-code-api-with-logo/) |  |
+ &nbsp; | Quadratic Solver | A Quadratic Solver | [Website](https://quadratic-solver-api.herokuapp.com/) |  |
+ &nbsp; | Quandl | Stock Market Data | [Website](https://www.quandl.com/) |  |
+ &nbsp; | Quarantine | Coronavirus API with free COVID-19 live updates | [Website](https://quarantine.country/coronavirus/api/) |  |
+ &nbsp; | Queimadas INPE | Access to heat focus data (probable wildfire) | [Website](https://queimadas.dgi.inpe.br/queimadas/dados-abertos) |  |
+ &nbsp; | QuickChart | Generate chart and graph images | [Website](https://quickchart.io/) |  |
+ &nbsp; | QuickMocker | API mocking tool to generate contextual, fake or random data | [Website](https://quickmocker.com) |  |
+ &nbsp; | Quip | File Sharing and Storage for groups | [Website](https://quip.com/dev/automation/documentation) |  |
+ &nbsp; | quizapi.io | Access to various kind of quiz questions | [Website](https://quizapi.io/) |  |
+ &nbsp; | Quotable Quotes | Quotable is a free, open source quotations API | [Website](https://github.com/lukePeavey/quotable) |  |
+ &nbsp; | Quote Garden | REST API for more than 5000 famous quotes | [Website](https://pprathameshmore.github.io/QuoteGarden/) |  |
+ &nbsp; | quoteclear | Ever-growing list of James Clear quotes from the 3-2-1 Newsletter | [Website](https://quoteclear.web.app/) |  |
+ &nbsp; | Quotes on Design | Inspirational Quotes | [Website](https://quotesondesign.com/api/) |  |
+ &nbsp; | Quran | RESTful Quran API with multiple languages | [Website](https://quran.api-docs.io/) |  |
+ &nbsp; | Quran Cloud | A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran | [Website](https://alquran.cloud/api) |  |
+ &nbsp; | Quran-api | Free Quran API Service with 90+ different languages and 400+ translations | [Website](https://github.com/fawazahmed0/quran-api#readme) |  |
+ &nbsp; | QWeather | Location-based weather data | [Website](https://dev.qweather.com/en/) |  |
+ &nbsp; | Radio Browser | List of internet radio stations | [Website](https://api.radio-browser.info/) |  |
+ &nbsp; | Raider | Provides detailed character and guild rankings for Raiding and Mythic+ content in World of Warcraft | [Website](https://raider.io/api) |  |
+ &nbsp; | Railway Transport for France | SNCF public API | [Website](https://www.digital.sncf.com/startup/api) |  |
+ &nbsp; | RainViewer | Radar data collected from different websites across the Internet | [Website](https://www.rainviewer.com/api.html) |  |
+ &nbsp; | Random Data | Random data generator | [Website](https://random-data-api.com) |  |
+ &nbsp; | Random Facts | Random Facts from hundreds of categories | [Website](https://fungenerators.com/api/facts/) |  |
+ &nbsp; | Random Stuff | Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed | [Website](https://api-docs.pgamerx.com/) |  |
+ &nbsp; | Random Useless Facts | Get useless, but true facts | [Website](https://uselessfacts.jsph.pl/) |  |
+ &nbsp; | RandomCat | Random pictures of cats | [Website](https://aws.random.cat) |  |
+ &nbsp; | RandomDog | Random pictures of dogs | [Website](https://random.dog/woof.json) |  |
+ &nbsp; | RandomDuck | Random pictures of ducks | [Website](https://random-d.uk/api) |  |
+ &nbsp; | RandomFox | Random pictures of foxes | [Website](https://randomfox.ca/floof/) |  |
+ &nbsp; | Randommer | Random data generator | [Website](https://randommer.io/randommer-api) |  |
+ &nbsp; | RandomUser | Generates and list user data | [Website](https://randomuser.me) |  |
+ &nbsp; | Rappi | Manage orders from Rappi's app | [Website](https://dev-portal.rappi.com/) |  |
+ &nbsp; | RAWG.io | 500,000+ games for 50 platforms including mobiles | [Website](https://rawg.io/apidocs) |  |
+ &nbsp; | Razorpay IFSC | Indian Financial Systems Code (Bank Branch Codes) | [Website](https://razorpay.com/docs/) |  |
+ &nbsp; | Readme typing SVG | Customizable typing and deleting text SVG | [Website](https://github.com/DenverCoder1/readme-typing-svg) |  |
+ &nbsp; | Real Time Finance | Websocket API to access realtime stock data | [Website](https://github.com/Real-time-finance/finance-websocket-API/) |  |
+ &nbsp; | Rebrandly | Custom URL shortener for sharing branded links | [Website](https://developers.rebrandly.com/v1/docs) |  |
+ &nbsp; | Reconmap | Reconmap APIS for VAPT (vulnerability assessment and penetration testing) automation and reporting | [Website](https://api.reconmap.org/docs/) |  |
+ &nbsp; | Recreation Information Database | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US) | [Website](https://ridb.recreation.gov/) |  |
+ &nbsp; | Redash | Access your queries and dashboards on Redash | [Website](https://redash.io/help/user-guide/integrations-and-api/api) |  |
+ &nbsp; | Reddit | Homepage of the internet | [Website](https://www.reddit.com/dev/api) |  |
+ &nbsp; | Reed | Job board aggregator | [Website](https://www.reed.co.uk/developers) |  |
+ &nbsp; | REFUGE Restrooms | Provides safe restroom access for transgender, intersex and gender nonconforming individuals | [Website](https://www.refugerestrooms.org/api/docs/#!/restrooms) |  |
+ &nbsp; | Rejax | Reverse AJAX service to notify clients | [Website](https://rejax.io/) |  |
+ &nbsp; | Remove.bg | Image Background removal | [Website](https://www.remove.bg/api) |  |
+ &nbsp; | Represent by Open North | Find Canadian Government Representatives | [Website](https://represent.opennorth.ca/) |  |
+ &nbsp; | ReqRes | A hosted REST-API ready to respond to your AJAX requests | [Website](https://reqres.in/ ) |  |
+ &nbsp; | RescueGroups | Adoption | [Website](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) |  |
+ &nbsp; | ReSmush.it | Photo optimization | [Website](https://resmush.it/api) |  |
+ &nbsp; | REST Countries | Get information about countries via a RESTful API | [Website](https://restcountries.com) |  |
+ &nbsp; | Restpack | Provides screenshot, HTML to PDF and content extraction APIs | [Website](https://restpack.io/) |  |
+ &nbsp; | Revolt | Revolt open source Discord alternative | [Website](https://developers.revolt.chat/api/) |  |
+ &nbsp; | Rick and Morty | All the Rick and Morty information, including images | [Website](https://rickandmortyapi.com) |  |
+ &nbsp; | Rig Veda | Gods and poets, their categories, and the verse meters, with the mandal and sukta number | [Website](https://aninditabasu.github.io/indica/html/rv.html) |  |
+ &nbsp; | Rijksmuseum | RijksMuseum Data | [Website](https://data.rijksmuseum.nl/object-metadata/api/) |  |
+ &nbsp; | Riot Games | League of Legends Game Information | [Website](https://developer.riotgames.com/) |  |
+ &nbsp; | RoadGoat Cities | Cities content & photos API | [Website](https://www.roadgoat.com/business/cities-api) |  |
+ &nbsp; | Roboflow Universe | Pre-trained computer vision models | [Website](https://universe.roboflow.com) |  |
+ &nbsp; | RoboHash | Generate random robot/alien avatars | [Website](https://robohash.org/) |  |
+ &nbsp; | Ron Swanson Quotes | Television | [Website](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) |  |
+ &nbsp; | RSS feed to JSON | Returns RSS feed in JSON format using feed URL | [Website](https://rss-to-json-serverless-api.vercel.app) |  |
+ &nbsp; | RuneScape | RuneScape and OSRS RPGs information | [Website](https://runescape.wiki/w/Application_programming_interface) |  |
+ &nbsp; | Russian Calendar | Check if a date is a Russian holiday or not | [Website](https://github.com/egno/work-calendar) |  |
+ &nbsp; | Rustybeer | Beer brewing tools | [Website](https://rustybeer.herokuapp.com/) |  |
+ &nbsp; | Rwanda Locations | Rwanda Provences, Districts, Cities, Capital City, Sector, cells, villages and streets | [Website](https://rapidapi.com/victorkarangwa4/api/rwanda) |  |
+ &nbsp; | Sabre for Developers | Travel Search - Limited usage | [Website](https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel) |  |
+ &nbsp; | Saidit | Open Source Reddit Clone | [Website](https://www.saidit.net/dev/api) |  |
+ &nbsp; | Sakura CardCaptor | Sakura CardCaptor Cards Information | [Website](https://github.com/JessVel/sakura-card-captor-api) |  |
+ &nbsp; | Satellite Passes | Query next satellite passes above you | [Website](https://satellites.fly.dev) |  |
+ &nbsp; | SavePage.io | A free, RESTful API used to screenshot any desktop, or mobile website | [Website](https://www.savepage.io) |  |
+ &nbsp; | SAWO Labs | Simplify login and improve user experience by integrating passwordless authentication in your app | [Website](https://sawolabs.com) |  |
+ &nbsp; | Scanii | Simple REST API that can scan submitted documents/files for the presence of threats | [Website](https://docs.scanii.com/) |  |
+ &nbsp; | Schiphol Airport | Schiphol | [Website](https://developer.schiphol.nl/) |  |
+ &nbsp; | Scoop.it | Content Curation Service | [Website](http://www.scoop.it/dev) |  |
+ &nbsp; | ScraperApi | Easily build scalable web scrapers | [Website](https://www.scraperapi.com) |  |
+ &nbsp; | scraperBox | Undetectable web scraping API | [Website](https://scraperbox.com/) |  |
+ &nbsp; | scrapestack | Real-time, Scalable Proxy & Web Scraping REST API | [Website](https://scrapestack.com/) |  |
+ &nbsp; | ScrapingAnt | Headless Chrome scraping with a simple API | [Website](https://scrapingant.com) |  |
+ &nbsp; | ScrapingDog | Proxy API for Web scraping | [Website](https://www.scrapingdog.com/) |  |
+ &nbsp; | ScreenshotAPI.net | Create pixel-perfect website screenshots | [Website](https://screenshotapi.net/) |  |
+ &nbsp; | Scryfall | Magic: The Gathering database | [Website](https://scryfall.com/docs/api) |  |
+ &nbsp; | SeatGeek | Search events, venues and performers | [Website](https://platform.seatgeek.com/) |  |
+ &nbsp; | SEC EDGAR Data | API to access annual reports of public US companies | [Website](https://www.sec.gov/edgar/sec-api-documentation) |  |
+ &nbsp; | SecurityTrails | Domain and IP related information such as current and historical WHOIS and DNS records | [Website](https://securitytrails.com/corp/apidocs) |  |
+ &nbsp; | Semantria | Text Analytics with sentiment analysis, categorization & named entity extraction | [Website](https://semantria.readme.io/docs) |  |
+ &nbsp; | Sendgrid | A cloud-based SMTP provider that allows you to send emails without having to maintain email servers | [Website](https://sendgrid.com/docs/api-reference/) |  |
+ &nbsp; | Sendinblue | A service that provides solutions relating to marketing and/or transactional email and/or SMS | [Website](https://developers.sendinblue.com/docs) |  |
+ &nbsp; | Sentiment Analysis | Multilingual sentiment analysis of texts from different sources | [Website](https://www.meaningcloud.com/developer/sentiment-analysis) |  |
+ &nbsp; | Sentium | Free API for Text Sentimental analysis | [Website](https://sentim-api.herokuapp.com/) |  |
+ &nbsp; | Serialif Color | Color conversion, complementary, grayscale and contrasted text | [Website](https://color.serialif.com/) |  |
+ &nbsp; | serpstack | Real-Time & Accurate Google Search Results API | [Website](https://serpstack.com/) |  |
+ &nbsp; | SHARE | A free, open, dataset about research and scholarly activities | [Website](https://share.osf.io/api/v2/) |  |
+ &nbsp; | Sheetsu | Easy google sheets integration | [Website](https://docs.sheetsu.com/#welcome) |  |
+ &nbsp; | Shibe.Online | Random pictures of Shiba Inu, cats or birds | [Website](http://shibe.online/) |  |
+ &nbsp; | Shields | Concise, consistent, and legible badges in SVG and raster format | [Website](https://shields.io/) |  |
+ &nbsp; | Shikimori | Anime discovery, tracking, forum, rates | [Website](https://shikimori.one/api/doc) |  |
+ &nbsp; | Shodan | Search engine for Internet connected devices | [Website](https://developer.shodan.io/) |  |
+ &nbsp; | Shopee | Shopee's official API for integration of various services from Shopee | [Website](https://open.shopee.com/documents?version=1) |  |
+ &nbsp; | Short Link | Short URLs support so many domains | [Website](https://github.com/FayasNoushad/Short-Link-API) |  |
+ &nbsp; | SHOUTCLOUD | ALL-CAPS AS A SERVICE | [Website](http://shoutcloud.io/) |  |
+ &nbsp; | Shrtcode | URl Shortener with multiple Domains | [Website](https://shrtco.de/docs) |  |
+ &nbsp; | Shrtlnk | Simple and efficient short link creation | [Website](https://shrtlnk.dev/developer) |  |
+ &nbsp; | shutterstock | Stock Photos and Videos | [Website](https://api-reference.shutterstock.com/) |  |
+ &nbsp; | Simkl | Movie, TV and Anime data | [Website](https://simkl.docs.apiary.io) |  |
+ &nbsp; | SimpleWeather | Simple tool for get current weather | [Website](https://english.api.rakuten.net/mxrck/api/simple-weather/endpoints) |  |
+ &nbsp; | Sirv | Image management solutions like optimization, manipulation, hosting | [Website](https://apidocs.sirv.com/) |  |
+ &nbsp; | SkyBiometry | Face Detection, Face Recognition and Face Grouping | [Website](https://skybiometry.com/documentation/) |  |
+ &nbsp; | Skyscanner | Search for flights & get flight prices from Skyscanner’s database | [Website](https://rapidapi.com/skyscanner/api/skyscanner-flight-search) |  |
+ &nbsp; | Slack | Team Instant Messaging | [Website](https://api.slack.com/) |  |
+ &nbsp; | SLF | German city, country, river, database | [Website](https://github.com/slftool/slftool.github.io/blob/master/API.md) |  |
+ &nbsp; | SmartAPI | Gain access to set of <SmartAPI> and create end-to-end broking services | [Website](https://smartapi.angelbroking.com/) |  |
+ &nbsp; | Smartcar | Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars | [Website](https://smartcar.com/docs/) |  |
+ &nbsp; | Smartsheet | Allows you to programmatically access and Smartsheet data and account information | [Website](https://smartsheet.redoc.ly/) |  |
+ &nbsp; | Socrata | Access to Open Data from Governments, Non-profits and NGOs around the world | [Website](https://dev.socrata.com/) |  |
+ &nbsp; | Solana JSON RPC | Provides various endpoints to interact with the Solana Blockchain | [Website](https://docs.solana.com/developing/clients/jsonrpc-api) |  |
+ &nbsp; | Sonar | Project Sonar DNS Enumeration API | [Website](https://github.com/Cgboal/SonarSearch) |  |
+ &nbsp; | SonarQube | SonarQube REST APIs to detect bugs, code smells & security vulnerabilities | [Website](https://sonarcloud.io/web_api) |  |
+ &nbsp; | Songkick | Music Events | [Website](https://www.songkick.com/developer/) |  |
+ &nbsp; | Songlink / Odesli | Get all the services on which a song is available | [Website](https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741) |  |
+ &nbsp; | Songsterr | Provides guitar, bass and drums tabs and chords | [Website](https://www.songsterr.com/a/wa/api/) |  |
+ &nbsp; | SoundCloud | With SoundCloud API you can build applications that will give more power to control your content | [Website](https://developers.soundcloud.com/docs/api/guide) |  |
+ &nbsp; | Spaceflight News | Spaceflight related news 🚀 | [Website](https://spaceflightnewsapi.net) |  |
+ &nbsp; | SpaceTradersAPI | A playable inter-galactic space trading MMOAPI | [Website](https://spacetraders.io?rel=pub-apis) |  |
+ &nbsp; | SpaceX | Company, vehicle, launchpad and launch data | [Website](https://github.com/r-spacex/SpaceX-API) |  |
+ &nbsp; | SpaceX | GraphQL, Company, Ships, launchpad and launch data | [Website](https://api.spacex.land/graphql/) |  |
+ &nbsp; | Spanish random names | Generate spanish names (with gender) randomly | [Website](https://random-names-api.herokuapp.com/public) |  |
+ &nbsp; | Spanish random words | Generate spanish words randomly | [Website](https://palabras-aleatorias-public-api.herokuapp.com) |  |
+ &nbsp; | Spoonacular | Recipes, Food Products, and Meal Planning | [Website](https://spoonacular.com/food-api) |  |
+ &nbsp; | Sport Data | Get sports data from all over the world | [Website](https://sportdataapi.com) |  |
+ &nbsp; | Sport List & Data | List of and resources related to sports | [Website](https://developers.decathlon.com/products/sports) |  |
+ &nbsp; | Sport Places | Crowd-source sports places around the world | [Website](https://developers.decathlon.com/products/sport-places) |  |
+ &nbsp; | Sport Vision | Identify sport, brands and gear in an image. Also does image sports captioning | [Website](https://developers.decathlon.com/products/sport-vision) |  |
+ &nbsp; | Sportmonks Cricket | Live cricket score, player statistics and fantasy API | [Website](https://docs.sportmonks.com/cricket/) |  |
+ &nbsp; | Sportmonks Football | Football score/schedule, news api, tv channels, stats, history, display standing e.g. epl, la liga | [Website](https://docs.sportmonks.com/football/) |  |
+ &nbsp; | Spotify | View Spotify music catalog, manage users' libraries, get recommendations and more | [Website](https://beta.developer.spotify.com/documentation/web-api/) |  |
+ &nbsp; | SpotSense | Add location based interactions to your mobile app | [Website](https://www.spotsense.io) |  |
+ &nbsp; | Spyse | Access data on all Internet assets and build powerful attack surface management applications | [Website](https://spyse-dev.readme.io/reference/quick-start) |  |
+ &nbsp; | Square | Easy way to take payments, manage refunds, and help customers checkout online | [Website](https://developer.squareup.com/reference/square) |  |
+ &nbsp; | Squiggle | Fixtures, results and predictions for Australian Football League matches | [Website](https://api.squiggle.com.au) |  |
+ &nbsp; | Srp Energy | Hourly usage energy report for Srp customers | [Website](https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html) |  |
+ &nbsp; | StackExchange | Q&A forum for developers | [Website](https://api.stackexchange.com/) |  |
+ &nbsp; | STAPI | Information on all things Star Trek | [Website](http://stapi.co) |  |
+ &nbsp; | Statically | A free CDN for developers | [Website](https://statically.io/) |  |
+ &nbsp; | Steam | Steam Web API documentation | [Website](https://steamapi.xpaw.me/) |  |
+ &nbsp; | Steam | Internal Steam Web API documentation | [Website](https://github.com/Revadike/InternalSteamWebAPI/wiki) |  |
+ &nbsp; | Steem | Blockchain-based blogging and social media website | [Website](https://developers.steem.io/) |  |
+ &nbsp; | StockData | Real-Time, Intraday & Historical Market Data, News and Sentiment API | [Website](https://www.StockData.org) |  |
+ &nbsp; | Stoicism Quote | Quotes about Stoicism | [Website](https://github.com/tlcheah2/stoic-quote-lambda-public-api) |  |
+ &nbsp; | Storm Glass | Global marine weather from multiple sources | [Website](https://stormglass.io/) |  |
+ &nbsp; | Stranger Things Quotes | Returns Stranger Things quotes | [Website](https://github.com/shadowoff09/strangerthings-quotes) |  |
+ &nbsp; | Strava | Connect with athletes, activities and more | [Website](https://strava.github.io/api/) |  |
+ &nbsp; | Stream | Czech internet television, films, series and online videos for free | [Website](https://api.stream.cz/graphiql) |  |
+ &nbsp; | Studio Ghibli | Resources from Studio Ghibli films | [Website](https://ghibliapi.herokuapp.com) |  |
+ &nbsp; | Stytch | User infrastructure for modern applications | [Website](https://stytch.com/) |  |
+ &nbsp; | Styvio | Realtime and historical stock data and current stock sentiment | [Website](https://www.Styvio.com) |  |
+ &nbsp; | Sunrise and Sunset | Sunset and sunrise times for a given latitude and longitude | [Website](https://sunrise-sunset.org/api) |  |
+ &nbsp; | SuperHeroes | All SuperHeroes and Villains data from all universes under a single API | [Website](https://superheroapi.com) |  |
+ &nbsp; | Supportivekoala | Autogenerate images with template | [Website](https://developers.supportivekoala.com/) |  |
+ &nbsp; | SuredBits | Query sports data, including teams, players, games, scores and statistics | [Website](https://suredbits.com/api/) |  |
+ &nbsp; | SWAPI | All things Star Wars | [Website](https://www.swapi.tech) |  |
+ &nbsp; | SWAPI | All the Star Wars data you've ever wanted | [Website](https://swapi.dev/) |  |
+ &nbsp; | SWAPI GraphQL | Star Wars GraphQL API | [Website](https://graphql.org/swapi-graphql) |  |
+ &nbsp; | SwiftKanban | Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity | [Website](https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi) |  |
+ &nbsp; | Synonyms | Synonyms, thesaurus and antonyms information for any given word | [Website](https://www.synonyms.com/synonyms_api.php) |  |
+ &nbsp; | Systembolaget | Govornment owned liqour store in Sweden | [Website](https://api-portal.systembolaget.se) |  |
+ &nbsp; | TacoFancy | Community-driven taco database | [Website](https://github.com/evz/tacofancy-api) |  |
+ &nbsp; | TamTam | Bot API to interact with TamTam | [Website](https://dev.tamtam.chat/) |  |
+ &nbsp; | Tankerkoenig | German realtime gas/diesel prices | [Website](https://creativecommons.tankerkoenig.de/swagger/) |  |
+ &nbsp; | TasteDive | Similar artist API (also works for movies and TV shows) | [Website](https://tastedive.com/read/api) |  |
+ &nbsp; | Tasty | API to query data about recipe, plan, ingredients | [Website](https://rapidapi.com/apidojo/api/tasty/) |  |
+ &nbsp; | TCGdex | Multi languages Pokémon TCG Information | [Website](https://www.tcgdex.net/docs) |  |
+ &nbsp; | Tebex | Tebex API for information about game purchases | [Website](https://docs.tebex.io/plugin/) |  |
+ &nbsp; | Technical Analysis | Cryptocurrency prices and technical analysis | [Website](https://technical-analysis-api.com) |  |
+ &nbsp; | Telegram Bot | Simplified HTTP version of the MTProto API for bots | [Website](https://core.telegram.org/bots/api) |  |
+ &nbsp; | Telegram MTProto | Read and write Telegram data | [Website](https://core.telegram.org/api#getting-started) |  |
+ &nbsp; | Telegraph | Create attractive blogs easily, to share | [Website](https://telegra.ph/api) |  |
+ &nbsp; | Teleport | Quality of Life Data | [Website](https://developers.teleport.org/) |  |
+ &nbsp; | Telize | Telize offers location information from any IP address | [Website](https://rapidapi.com/fcambus/api/telize/) |  |
+ &nbsp; | Tenders in Hungary | Get data for procurements in Hungary in JSON format | [Website](https://tenders.guru/hu/api) |  |
+ &nbsp; | Tenders in Poland | Get data for procurements in Poland in JSON format | [Website](https://tenders.guru/pl/api) |  |
+ &nbsp; | Tenders in Romania | Get data for procurements in Romania in JSON format | [Website](https://tenders.guru/ro/api) |  |
+ &nbsp; | Tenders in Spain | Get data for procurements in Spain in JSON format | [Website](https://tenders.guru/es/api) |  |
+ &nbsp; | Tenders in Ukraine | Get data for procurements in Ukraine in JSON format | [Website](https://tenders.guru/ua/api) |  |
+ &nbsp; | Tennis-data | Get tennis playes, tournaments and matches | [Website](https://rapidapi.com/marindelija/api/tennis-data1/) |  |
+ &nbsp; | TETR.IO | TETR.IO Tetra Channel API | [Website](https://tetr.io/about/api/) |  |
+ &nbsp; | The Bible | Everything you need from the Bible in one discoverable place | [Website](https://docs.api.bible) |  |
+ &nbsp; | The Dog | A public service all about Dogs, free to use when making your fancy new App, Website or Service | [Website](https://thedogapi.com/) |  |
+ &nbsp; | The Graph | Indexing protocol for querying networks like Ethereum with GraphQL | [Website](https://thegraph.com) |  |
+ &nbsp; | The Guardian | Access all the content the Guardian creates, categorised by tags and section | [Website](http://open-platform.theguardian.com/) |  |
+ &nbsp; | The Lord of the Rings | The Lord of the Rings API | [Website](https://the-one-api.dev/) |  |
+ &nbsp; | The Muse | Job board and company profiles | [Website](https://www.themuse.com/developers/api/v2) |  |
+ &nbsp; | The Null Pointer | No-bullshit file hosting and URL shortening service | [Website](https://0x0.st) |  |
+ &nbsp; | The Old Reader | RSS reader | [Website](https://github.com/theoldreader/api) |  |
+ &nbsp; | The Report of the Week | Food & Drink Reviews | [Website](https://github.com/andyklimczak/TheReportOfTheWeek-API) |  |
+ &nbsp; | The Vampire Diaries | TV Show Data | [Website](https://vampire-diaries-api.netlify.app/) |  |
+ &nbsp; | TheAudioDB | Music | [Website](https://www.theaudiodb.com/api_guide.php) |  |
+ &nbsp; | TheCocktailDB | Cocktail Recipes | [Website](https://www.thecocktaildb.com/api.php) |  |
+ &nbsp; | TheMealDB | Meal Recipes | [Website](https://www.themealdb.com/api.php) |  |
+ &nbsp; | TheNews | Aggregated headlines, top story and live news JSON API | [Website](https://thenewsapi.com/) |  |
+ &nbsp; | TheSportsDB | Crowd-Sourced Sports Data and Artwork | [Website](https://www.thesportsdb.com/api.php) |  |
+ &nbsp; | They Said So Quotes | Quotes Trusted by many fortune brands around the world | [Website](https://theysaidso.com/api/) |  |
+ &nbsp; | Thirukkural | 1330 Thirukkural poems and explanation in Tamil and English | [Website](https://api-thirukkural.web.app/) |  |
+ &nbsp; | This Person Does not Exist | Generates real-life faces of people who do not exist | [Website](https://thispersondoesnotexist.com) |  |
+ &nbsp; | ThronesApi | Game Of Thrones Characters Data with imagery | [Website](https://thronesapi.com/) |  |
+ &nbsp; | Ticketmaster | Search events, attractions, or venues | [Website](http://developer.ticketmaster.com/products-and-docs/apis/getting-started/) |  |
+ &nbsp; | TikTok | Fetches user info and user's video posts on TikTok platform | [Website](https://developers.tiktok.com/doc/login-kit-web) |  |
+ &nbsp; | Time Door | A time series analysis API | [Website](https://timedoor.io) |  |
+ &nbsp; | TinyURL | Shorten long URLs | [Website](https://tinyurl.com/app/dev) |  |
+ &nbsp; | TIPO | Taiwan patent search system api | [Website](https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00) |  |
+ &nbsp; | Tisane | Text Analytics with focus on detection of abusive content and law enforcement applications | [Website](https://tisane.ai/) |  |
+ &nbsp; | TLE | Satellite information | [Website](https://tle.ivanstanojevic.me/#/docs) |  |
+ &nbsp; | TMDb | Community-based movie data | [Website](https://www.themoviedb.org/documentation/api) |  |
+ &nbsp; | Todoist | Todo Lists | [Website](https://developer.todoist.com) |  |
+ &nbsp; | Tokopedia | Tokopedia's Official API for integration of various services from Tokopedia | [Website](https://developer.tokopedia.com/openapi/guide/#/) |  |
+ &nbsp; | Tomba email finder | Email Finder for B2B sales and email marketing and email verifier | [Website](https://tomba.io/api) |  |
+ &nbsp; | Tomorrow | Weather API Powered by Proprietary Technology | [Website](https://docs.tomorrow.io) |  |
+ &nbsp; | TomTom | Maps, Directions, Places and Traffic APIs | [Website](https://developer.tomtom.com/) |  |
+ &nbsp; | Toolcarton | Generate random testimonial data | [Website](https://testimonialapi.toolcarton.com/) |  |
+ &nbsp; | Trace Moe | A useful tool to get the exact scene of an anime from a screenshot | [Website](https://soruly.github.io/trace.moe-api/#/) |  |
+ &nbsp; | Tradier | US equity/option market data (delayed, intraday, historical) | [Website](https://developer.tradier.com) |  |
+ &nbsp; | TrailerAddict | Easily embed trailers from TrailerAddict | [Website](https://www.traileraddict.com/trailerapi) |  |
+ &nbsp; | Traitify | Assess, collect and analyze Personality | [Website](https://app.traitify.com/developer) |  |
+ &nbsp; | Trakt | Movie and TV Data | [Website](https://trakt.tv/b/api-docs) |  |
+ &nbsp; | TransitLand | Transit Aggregation | [Website](https://transit.land/documentation/datastore/api-endpoints.html) |  |
+ &nbsp; | Transport for Atlanta, US | Marta | [Website](http://www.itsmarta.com/app-developer-resources.aspx) |  |
+ &nbsp; | Transport for Auckland, New Zealand | Auckland Transport | [Website](https://api.at.govt.nz/) |  |
+ &nbsp; | Transport for Belgium | The iRail API is a third-party API for Belgian public transport by train | [Website](https://api.irail.be/) |  |
+ &nbsp; | Transport for Berlin, Germany | Third-party VBB API | [Website](https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md) |  |
+ &nbsp; | Transport for Bordeaux, France | Bordeaux Métropole public transport and more (France) | [Website](https://opendata.bordeaux-metropole.fr/explore/) |  |
+ &nbsp; | Transport for Boston, US | MBTA API | [Website](https://mbta.com/developers/v3-api) |  |
+ &nbsp; | Transport for Budapest, Hungary | Budapest public transport API | [Website](https://bkkfutar.docs.apiary.io) |  |
+ &nbsp; | Transport for Chicago, US | CTA | [Website](http://www.transitchicago.com/developers/) |  |
+ &nbsp; | Transport for Czech Republic | Czech transport API | [Website](https://www.chaps.cz/eng/products/idos-internet) |  |
+ &nbsp; | Transport for Denver, US | RTD | [Website](http://www.rtd-denver.com/gtfs-developer-guide.shtml) |  |
+ &nbsp; | Transport for Finland | Finnish transport API | [Website](https://digitransit.fi/en/developers/ ) |  |
+ &nbsp; | Transport for Germany | Deutsche Bahn (DB) API | [Website](http://data.deutschebahn.com/dataset/api-fahrplan) |  |
+ &nbsp; | Transport for Grenoble, France | Grenoble public transport | [Website](https://www.metromobilite.fr/pages/opendata/OpenDataApi.html) |  |
+ &nbsp; | Transport for Hessen, Germany | RMV API (Public Transport in Hessen) | [Website](https://opendata.rmv.de/site/start.html) |  |
+ &nbsp; | Transport for Honolulu, US | Honolulu Transportation Information | [Website](http://hea.thebus.org/api_info.asp) |  |
+ &nbsp; | Transport for Lisbon, Portugal | Data about buses routes, parking and traffic | [Website](https://emel.city-platform.com/opendata/) |  |
+ &nbsp; | Transport for London, England | TfL API | [Website](https://api.tfl.gov.uk) |  |
+ &nbsp; | Transport for Los Angeles, US | Data about positions of Metro vehicles in real time and travel their routes | [Website](https://developer.metro.net/api/) |  |
+ &nbsp; | Transport for Manchester, England | TfGM transport network data | [Website](https://developer.tfgm.com/) |  |
+ &nbsp; | Transport for Norway | Transport APIs and dataset for Norway | [Website](https://developer.entur.org/) |  |
+ &nbsp; | Transport for Ottawa, Canada | OC Transpo API | [Website](https://www.octranspo.com/en/plan-your-trip/travel-tools/developers) |  |
+ &nbsp; | Transport for Paris, France | RATP Open Data API | [Website](http://data.ratp.fr/api/v1/console/datasets/1.0/search/) |  |
+ &nbsp; | Transport for Philadelphia, US | SEPTA APIs | [Website](http://www3.septa.org/hackathon/) |  |
+ &nbsp; | Transport for Sao Paulo, Brazil | SPTrans | [Website](http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/) |  |
+ &nbsp; | Transport for Spain | Public trains of Spain | [Website](https://data.renfe.com/api/1/util/snippet/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a) |  |
+ &nbsp; | Transport for Sweden | Public Transport consumer | [Website](https://www.trafiklab.se/api) |  |
+ &nbsp; | Transport for Switzerland | Official Swiss Public Transport Open Data | [Website](https://opentransportdata.swiss/en/) |  |
+ &nbsp; | Transport for Switzerland | Swiss public transport API | [Website](https://transport.opendata.ch/) |  |
+ &nbsp; | Transport for The Netherlands | NS, only trains | [Website](http://www.ns.nl/reisinformatie/ns-api) |  |
+ &nbsp; | Transport for The Netherlands | OVAPI, country-wide public transport | [Website](https://github.com/skywave/KV78Turbo-OVAPI/wiki) |  |
+ &nbsp; | Transport for Toronto, Canada | TTC | [Website](https://myttc.ca/developers) |  |
+ &nbsp; | Transport for UK | Transport API and dataset for UK | [Website](https://developer.transportapi.com) |  |
+ &nbsp; | Transport for United States | NextBus API | [Website](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) |  |
+ &nbsp; | Transport for Vancouver, Canada | TransLink | [Website](https://developer.translink.ca/) |  |
+ &nbsp; | Transport for Washington, US | Washington Metro transport API | [Website](https://developer.wmata.com/) |  |
+ &nbsp; | Trash Nothing | A freecycling community with thousands of free items posted every day | [Website](https://trashnothing.com/developer) |  |
+ &nbsp; | Travis CI | Sync your GitHub projects with Travis CI to test your code in minutes | [Website](https://docs.travis-ci.com/api/) |  |
+ &nbsp; | Tredict | Get and set activities, health data and more | [Website](https://www.tredict.com/blog/oauth_docs/) |  |
+ &nbsp; | Trello | Boards, lists and cards to help you organize and prioritize your projects | [Website](https://developers.trello.com/) |  |
+ &nbsp; | Trending-Github | Discover what is currently trending on github | [Website](https://docs.trending-github.com) |  |
+ &nbsp; | Tripadvisor | Rating content for a hotel, restaurant, attraction or destination | [Website](https://developer-tripadvisor.com/home/) |  |
+ &nbsp; | Tronald Dump | The dumbest things Donald Trump has ever said | [Website](https://www.tronalddump.io/) |  |
+ &nbsp; | Troposphere | Global weather and climate data | [Website](https://www.troposphere.io/developer) |  |
+ &nbsp; | Trove | Search through the National Library of Australia collection of 1000s of digitised newspapers | [Website](https://trove.nla.gov.au/about/create-something/using-api) |  |
+ &nbsp; | Tumblr | Read and write Tumblr Data | [Website](https://www.tumblr.com/docs/en/api/v2) |  |
+ &nbsp; | TVDB | Television data | [Website](https://api.thetvdb.com/swagger) |  |
+ &nbsp; | TVMaze | TV Show Data | [Website](http://www.tvmaze.com/api) |  |
+ &nbsp; | Twelve Data | Stock market data (real-time & historical) | [Website](https://twelvedata.com/) |  |
+ &nbsp; | Twitch | Game Streaming API | [Website](https://dev.twitch.tv/docs) |  |
+ &nbsp; | Twitter | Read and write Twitter data | [Website](https://developer.twitter.com/en/docs) |  |
+ &nbsp; | Tyk | Api and service management platform | [Website](https://tyk.io/open-source/) |  |
+ &nbsp; | Uber | Uber ride requests and price estimation | [Website](https://developer.uber.com/products) |  |
+ &nbsp; | Udemy(instructor) | API for instructors on Udemy | [Website](https://www.udemy.com/developers/instructor/) |  |
+ &nbsp; | Uebermaps | Discover and share maps with friends | [Website](https://uebermaps.com/api/v2) |  |
+ &nbsp; | UK Bank Holidays | Bank holidays in England and Wales, Scotland and Northern Ireland | [Website](https://www.gov.uk/bank-holidays.json) |  |
+ &nbsp; | UK Carbon Intensity | The Official Carbon Intensity API for Great Britain developed by National Grid | [Website](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) |  |
+ &nbsp; | UK Companies House | UK Companies House Data from the UK government | [Website](https://developer.company-information.service.gov.uk/) |  |
+ &nbsp; | UK government API catalogue | APIs from UK government organisations | [Website](https://alphagov.github.io/api-catalogue) |  |
+ &nbsp; | UK Police | UK Police data | [Website](https://data.police.uk/docs/) |  |
+ &nbsp; | Umeå Open Data | Open data of the city Umeå in northen Sweden | [Website](https://opendata.umea.se/api/) |  |
+ &nbsp; | Universalis | Final Fantasy XIV market board data | [Website](https://universalis.app/docs/index.html) |  |
+ &nbsp; | Universities List | University names, countries and domains | [Website](https://github.com/Hipo/university-domains-list) |  |
+ &nbsp; | University of Oslo | Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway) | [Website](https://data.uio.no/) |  |
+ &nbsp; | UnixTime Converter | A REST API to convert UnixTime to DateTime and DateTime to UnixTime | [Website](https://unixtime.co.za) |  |
+ &nbsp; | uNoGS | Unofficial Netflix Online Global Search, Search all netflix regions in one place | [Website](https://rapidapi.com/unogs/api/unogsng) |  |
+ &nbsp; | Unplugg | Forecasting API for timeseries data | [Website](https://unplu.gg/test_api.html) |  |
+ &nbsp; | Unsplash | Photography | [Website](https://unsplash.com/developers) |  |
+ &nbsp; | Untappd | Social beer sharing | [Website](https://untappd.com/api/docs) |  |
+ &nbsp; | UPC database | More than 1.5 million barcode numbers from all around the world | [Website](https://upcdatabase.org/api) |  |
+ &nbsp; | UPS | Shipment and Address information | [Website](https://www.ups.com/upsdeveloperkit) |  |
+ &nbsp; | Upwork | Freelance job board and management system | [Website](https://developers.upwork.com/) |  |
+ &nbsp; | Urban Observatory | The largest set of publicly available real time urban data in the UK | [Website](https://urbanobservatory.ac.uk) |  |
+ &nbsp; | URLhaus | Bulk queries and Download Malware Samples | [Website](https://urlhaus-api.abuse.ch/) |  |
+ &nbsp; | URLScan.io | Scan and Analyse URLs | [Website](https://urlscan.io/about-api/) |  |
+ &nbsp; | US Autocomplete | Enter address data quickly with real-time address suggestions | [Website](https://smartystreets.com/docs/cloud/us-autocomplete-api) |  |
+ &nbsp; | US Extract | Extract postal addresses from any text including emails | [Website](https://smartystreets.com/products/apis/us-extract-api) |  |
+ &nbsp; | US Presidential Election Data by TogaTech | Basic candidate data and live electoral vote counts for top two parties in US presidential election | [Website](https://uselection.togatech.org/api/) |  |
+ &nbsp; | US Street Address | Validate and append data for any US postal address | [Website](https://smartystreets.com/docs/cloud/us-street-api) |  |
+ &nbsp; | US Weather | US National Weather Service | [Website](https://www.weather.gov/documentation/services-web-api) |  |
+ &nbsp; | US ZipCode | Validate and append data for any US ZipCode | [Website](https://smartystreets.com/docs/cloud/us-zipcode-api) |  |
+ &nbsp; | USAJOBS | US government job board | [Website](https://developer.usajobs.gov/) |  |
+ &nbsp; | USAspending.gov | US federal spending data | [Website](https://api.usaspending.gov/) |  |
+ &nbsp; | USDA Nutrients | National Nutrient Database for Standard Reference | [Website](https://fdc.nal.usda.gov/) |  |
+ &nbsp; | USGS Earthquake Hazards Program | Earthquakes data real-time | [Website](https://earthquake.usgs.gov/fdsnws/event/1/) |  |
+ &nbsp; | USGS Water Services | Water quality and level info for rivers and lakes | [Website](https://waterservices.usgs.gov/) |  |
+ &nbsp; | USPTO | USA patent api services | [Website](https://www.uspto.gov/learning-and-resources/open-data-and-mobility) |  |
+ &nbsp; | Utah AGRC | Utah Web API for geocoding Utah addresses | [Website](https://api.mapserv.utah.gov) |  |
+ &nbsp; | Utelly | Movies, Series and TV shows Recommendations | [Website](https://rapidapi.com/utelly/api/utelly) |  |
+ &nbsp; | UUID Generator | Generate UUIDs | [Website](https://www.uuidtools.com/docs) |  |
+ &nbsp; | Vadivelu HTTP Codes | On demand HTTP Codes with images | [Website](https://vadivelu.anoram.com/) |  |
+ &nbsp; | Vagalume | Crowdsourced lyrics and music knowledge | [Website](https://api.vagalume.com.br/docs/) |  |
+ &nbsp; | Validator.pizza | Prevent users to register to websites with a disposable email address | [Website](https://www.validator.pizza/) |  |
+ &nbsp; | Valorant (non-official) | An extensive API containing data of most Valorant in-game items, assets and more | [Website](https://valorant-api.com) |  |
+ &nbsp; | VALR | Cryptocurrency Exchange based in South Africa | [Website](https://docs.valr.com/) |  |
+ &nbsp; | VATComply.com | Exchange rates, geolocation and VAT number validation | [Website](https://www.vatcomply.com/documentation) |  |
+ &nbsp; | vatlayer | VAT number validation | [Website](https://vatlayer.com/documentation) |  |
+ &nbsp; | Vector Express v2.0 | Free vector file converting API | [Website](https://vector.express) |  |
+ &nbsp; | Vedic Society | Descriptions of all nouns (names, places, animals, things) from vedic literature | [Website](https://aninditabasu.github.io/indica/html/vs.html) |  |
+ &nbsp; | Velib metropolis, Paris, France | Velib Open Data API | [Website](https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole) |  |
+ &nbsp; | Verifier | Verifies that a given email is real | [Website](https://verifier.meetchopra.com/docs#/) |  |
+ &nbsp; | Veriphone | Phone number validation & carrier lookup | [Website](https://veriphone.io) |  |
+ &nbsp; | ViaCep | Brazil RESTful zip codes API | [Website](https://viacep.com.br) |  |
+ &nbsp; | Vimeo | Vimeo Developer API | [Website](https://developer.vimeo.com/) |  |
+ &nbsp; | Virushee | Virushee file/data scanning | [Website](https://api.virushee.com/) |  |
+ &nbsp; | VirusTotal | VirusTotal File/URL Analysis | [Website](https://www.virustotal.com/en/documentation/public-api/) |  |
+ &nbsp; | Visual Crossing | Global historical and weather forecast data | [Website](https://www.visualcrossing.com/weather-api) |  |
+ &nbsp; | vk | Read and write vk data | [Website](https://vk.com/dev/sites) |  |
+ &nbsp; | VulDB | VulDB API allows to initiate queries for one or more items along with transactional bots | [Website](https://vuldb.com/?doc.api) |  |
+ &nbsp; | Waifu.pics | Image sharing platform for anime images | [Website](https://waifu.pics/docs) |  |
+ &nbsp; | WakaTime | Automated time tracking leaderboards for programmers | [Website](https://wakatime.com/developers) |  |
+ &nbsp; | Wallhaven | Wallpapers | [Website](https://wallhaven.cc/help/api) |  |
+ &nbsp; | WallstreetBets | WallstreetBets Stock Comments Sentiment Analysis | [Website](https://dashboard.nbshare.io/apps/reddit/api/) |  |
+ &nbsp; | Walltime | To retrieve Walltime's market info | [Website](https://walltime.info/api.html) |  |
+ &nbsp; | Wandbox | Code compiler supporting 35+ languages mentioned at wandbox.org | [Website](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst) |  |
+ &nbsp; | Wargaming.net | Wargaming.net info and stats | [Website](https://developers.wargaming.net/) |  |
+ &nbsp; | Watchmode | API for finding out the streaming availability of movies & shows | [Website](https://api.watchmode.com/) |  |
+ &nbsp; | Watson Natural Language Understanding | Natural language processing for advanced text analysis | [Website](https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding) |  |
+ &nbsp; | Wazirx | Cryptocurrencies Exchange | [Website](https://wazirx.github.io/) |  |
+ &nbsp; | weather-api | A RESTful free API to check the weather | [Website](https://github.com/robertoduessmann/weather-api) |  |
+ &nbsp; | WeatherAPI | Weather API with other stuff like Astronomy and Geolocation API | [Website](https://www.weatherapi.com/) |  |
+ &nbsp; | Weatherbit | Weather | [Website](https://www.weatherbit.io/api) |  |
+ &nbsp; | Web of Trust | IP/domain/URL reputation | [Website](https://support.mywot.com/hc/en-us/sections/360004477734-API-) |  |
+ &nbsp; | Web3 Storage | File Sharing and Storage for Free with 1TB Space | [Website](https://web3.storage/) |  |
+ &nbsp; | Webdam | Images | [Website](https://www.damsuccess.com/hc/en-us/articles/202134055-REST-API) |  |
+ &nbsp; | WebScraping.AI | Web Scraping API with built-in proxies and JS rendering | [Website](https://webscraping.ai/) |  |
+ &nbsp; | WeCanTrack | Automatically place subids in affiliate links to attribute affiliate conversions to click data | [Website](https://docs.wecantrack.com) |  |
+ &nbsp; | Wegmans | Wegmans Food Markets | [Website](https://dev.wegmans.io) |  |
+ &nbsp; | Wger | Workout manager data as exercises, muscles or equipment | [Website](https://wger.de/en/software/api) |  |
+ &nbsp; | What The Commit | Random commit message generator | [Website](http://whatthecommit.com/index.txt) |  |
+ &nbsp; | What's on the menu? | NYPL human-transcribed historical menu collection | [Website](http://nypl.github.io/menus-api/) |  |
+ &nbsp; | What3Words | Three words as rememberable and unique coordinates worldwide | [Website](https://w3w.co) |  |
+ &nbsp; | WhatPulse | Small application that measures your keyboard/mouse usage | [Website](https://developer.whatpulse.org/#web-api) |  |
+ &nbsp; | When is next MCU film | Upcomimg MCU film information | [Website](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md) |  |
+ &nbsp; | WhiskyHunter | Past online whisky auctions statistical data | [Website](https://whiskyhunter.net/api/) |  |
+ &nbsp; | Wikidata | Collaboratively edited knowledge base operated by the Wikimedia Foundation | [Website](https://www.wikidata.org/w/api.php?action=help) |  |
+ &nbsp; | Wikipedia | Mediawiki Encyclopedia | [Website](https://www.mediawiki.org/wiki/API:Main_page) |  |
+ &nbsp; | Wiktionary | Collaborative dictionary data | [Website](https://wiktionary.org/w/api.php) |  |
+ &nbsp; | Wit.ai | Natural Language Processing | [Website](https://wit.ai/) |  |
+ &nbsp; | WolframAlpha | Provides specific answers to questions using data and algorithms | [Website](https://products.wolframalpha.com/api/) |  |
+ &nbsp; | Wolne Lektury | API for obtaining information about e-books available on the WolneLektury.pl website | [Website](https://wolnelektury.pl/api/) |  |
+ &nbsp; | WooCommerce | WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format | [Website](https://woocommerce.github.io/woocommerce-rest-api-docs/) |  |
+ &nbsp; | Word Cloud | Easily create word clouds | [Website](https://wordcloudapi.com/) |  |
+ &nbsp; | Wordnik | Dictionary Data | [Website](https://developer.wordnik.com) |  |
+ &nbsp; | Words | Definitions and synonyms for more than 150,000 words | [Website](https://www.wordsapi.com/docs/) |  |
+ &nbsp; | World Bank | World Data | [Website](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589) |  |
+ &nbsp; | WorldCoinIndex | Cryptocurrencies Prices | [Website](https://www.worldcoinindex.com/apiservice) |  |
+ &nbsp; | xColors | Generate & convert colors | [Website](https://x-colors.herokuapp.com/) |  |
+ &nbsp; | xkcd | Retrieve xkcd comics as JSON | [Website](https://xkcd.com/json.html) |  |
+ &nbsp; | xMath | Random mathematical expressions | [Website](https://x-math.herokuapp.com/) |  |
+ &nbsp; | Yahoo Finance | Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange | [Website](https://www.yahoofinanceapi.com/) |  |
+ &nbsp; | Yahoo Weather | Weather API from Yahoo | [Website](https://developer.yahoo.com/weather/) |  |
+ &nbsp; | Yandex.Maps Geocoder | Use geocoding to get an object's coordinates from its address | [Website](https://yandex.com/dev/maps/geocoder) |  |
+ &nbsp; | Yandex.Weather | Assesses weather condition in specific locations | [Website](https://yandex.com/dev/weather/) |  |
+ &nbsp; | Yelp | Find Local Business | [Website](https://www.yelp.com/developers/documentation/v3) |  |
+ &nbsp; | Yes No | Generate yes or no randomly | [Website](https://yesno.wtf/api) |  |
+ &nbsp; | YNAB | Budgeting & Planning | [Website](https://api.youneedabudget.com/) |  |
+ &nbsp; | Yo Momma Jokes | REST API for Yo Momma Jokes | [Website](https://github.com/beanboi7/yomomma-apiv2) |  |
+ &nbsp; | YouTube | Add YouTube functionality to your sites and apps | [Website](https://developers.google.com/youtube/) |  |
+ &nbsp; | Yu-Gi-Oh! | Yu-Gi-Oh! TCG Information | [Website](https://db.ygoprodeck.com/api-guide/) |  |
+ &nbsp; | Zen Quotes | Large collection of Zen quotes for inspiration | [Website](https://zenquotes.io/) |  |
+ &nbsp; | ZenRows | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies | [Website](https://www.zenrows.com/) |  |
+ &nbsp; | Zero Width Shortener | Shortens URLs using spaces that have zero width, making them invisible to humans | [Website](https://docs.zws.im) |  |
+ &nbsp; | Zestful | Parse recipe ingredients | [Website](https://zestfuldata.com/) |  |
+ &nbsp; | ZipCodeAPI | US zip code distance, radius and location API | [Website](https://www.zipcodeapi.com) |  |
+ &nbsp; | Zippopotam.us | Get information about place such as country, city, state, etc | [Website](http://www.zippopotam.us) |  |
+ &nbsp; | ZipRecruiter | Job search app and website | [Website](https://www.ziprecruiter.com/publishers) |  |
+ &nbsp; | Ziptastic | Get the country, state, and city of any US zip-code | [Website](https://ziptasticapi.com/) |  |
+ &nbsp; | ZMOK | Ethereum JSON RPC API and Web3 provider | [Website](https://zmok.io) |  |
+ &nbsp; | Zoho Books | Online accounting software, built for your business | [Website](https://www.zoho.com/books/api/v3/) |  |
+ &nbsp; | Zube | Full stack project management | [Website](https://zube.io/docs/api) |  |
 
-### <a name="seo"><a name="tools-utilities-seo">SEO</a></a>
+**[⬆ Back to Index](#index)**
+
+### <a name="seo"><a name="tools-and-utilities-seo">SEO</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://static.ahrefs.com/favicon-32x32.png?v=2" width="16" /> | Ahrefs | You don't have to be an SEO pro to rank higher and get more traffic. Join Ahrefs – we're a powerful but easy to learn SEO toolset with a passionate community. | [Website](https://ahrefs.com/) |  |
@@ -1000,7 +2408,7 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
 
 **[⬆ Back to Index](#index)**
 
-### <a name="typing"><a name="tools-utilities-typing">Typing</a></a>
+### <a name="typing"><a name="tools-and-utilities-typing">Typing</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://10fastfingers.com/favicon.ico" width="16" /> | 10FastFingers | 10FastFingers is a website which offers users a way to test and improve their typing speed. Improve your Typing Speed with our Typing Games. | [Website](https://10fastfingers.com/) | typing, typing test, typing game, touch typing, fastest fingers, 10 fast fingers, typing competition |
@@ -1013,7 +2421,7 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
 
 **[⬆ Back to Index](#index)**
 
-### <a name="web-scraping"><a name="tools-utilities-web-scraping">Web Scraping</a></a>
+### <a name="web-scraping"><a name="tools-and-utilities-web-scraping">Web Scraping</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.proxiesapi.com/assets/favicon.ico" width="16" /> | Proxies API | Want to send custom headers? Want to run sticky sessions with a single IP? Want to scrape AJAX based content? We have you covered. You can customise almost all this in a single line of code, no matter... | [Website](www.proxiesapi.com) |  |
@@ -1021,7 +2429,7 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
 
 **[⬆ Back to Index](#index)**
 
-### <a name="website-builders"><a name="tools-utilities-website-builders">Website Builders</a></a>
+### <a name="website-builders"><a name="tools-and-utilities-website-builders">Website Builders</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://www.dreamhost.com/assets/favicons/apple-touch-icon-76x76-18c4bd5a860942003494cecf3aa217b02285f57f5525c0e4985dcb77f0125d91.png" width="16" /> | DreamHost | What's better than WordPress? A Website and Page Builder for WordPress. Choose a theme, add content, images and more with ZERO code! | [Website](https://www.dreamhost.com/website-builder/) |  |
@@ -1038,7 +2446,7 @@ This section is powered by [Public APIs](https://github.com/public-apis/public-a
 
 **[⬆ Back to Index](#index)**
 
-### <a name="writing"><a name="tools-utilities-writing">Writing</a></a>
+### <a name="writing"><a name="tools-and-utilities-writing">Writing</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://assets-global.website-files.com/5f4ec532319820f7c2ccd7a3/5f55620b7b806770e6becea2_32x32%20favico.png" width="16" /> | CopyAI | We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds! | [Website](https://www.copy.ai/) |  |
