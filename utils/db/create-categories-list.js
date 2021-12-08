@@ -7,7 +7,11 @@ module.exports = function (resourcesList) {
         const resourceCategories = resource.categories || []
 
         resourceCategories.forEach((category) => {
-            categoriesList.push({ name: category, slug: normalize.toCategorySlug(category) })
+            const isCategoryAdded = categoriesList.find((c) => c.name === category)
+
+            if (!isCategoryAdded) {
+                categoriesList.push({ name: category, slug: normalize.toCategorySlug(category) })
+            }
         })
     })
 
