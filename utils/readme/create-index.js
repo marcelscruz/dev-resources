@@ -1,14 +1,10 @@
-const validateExternalResources = require('../validate-external-resource')
-
-const { isPublicApis } = validateExternalResources
-
 function createLinks(nodes) {
     if (nodes.children.length === 0) {
         const { name, id } = nodes
 
         let credit = ''
 
-        if (isPublicApis(id)) {
+        if (name === 'Public APIs') {
             credit = ` - Powered by <a href="https://github.com/public-apis/public-apis">Public APIs</a>`
         }
 

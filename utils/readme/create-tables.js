@@ -1,10 +1,8 @@
 const normalize = require('../normalize-strings')
 const truncate = require('../truncate')
 const links = require('../../constants/links')
-const validateExternalResources = require('../validate-external-resource')
 
 const { website } = links
-const { isPublicApis } = validateExternalResources
 
 const backToIndex = `\n**[⬆ Back to Index](#index)**`
 
@@ -43,7 +41,7 @@ function createRow(nodes) {
         const { name, data, id } = nodes
         const anchor = createAnchor({ name, id })
 
-        if (isPublicApis(id)) {
+        if (name === 'Public APIs') {
             return `\n\n### ${anchor}\nThis section is powered by [Public APIs](https://github.com/public-apis/public-apis).`
         }
 
