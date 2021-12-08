@@ -12,11 +12,11 @@ Observe that, due to the dynamic nature of the project, resources categories can
 
 `https://api.devresourc.es/v1/list-categories`
 
-_Use these values to fetch a single category, like in the example below_
+_Use the `slug` values to fetch a single category, like in the example below_
 
 ## List resources from a single category
 
-`https://api.devresourc.es/v1/list?category=assets-icons`
+`https://api.devresourc.es/v1/list?category=assets/icons`
 
 ## Check if API is up
 
