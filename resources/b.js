@@ -244,13 +244,7 @@ module.exports = [
         categories: [programming.docsAndCheatsheets],
         description:
             'An interactive list of Bootstrap 5 classes, variables, and mixins. It also helps you easily find the differences between Bootstrap 4 and Bootstrap 5.',
-        keywords: [
-            'Bootstrap',
-            'Bootstrap cheatsheet',
-            'Bootstrap 5',
-            'Free cheatsheet',
-            'Opensource',
-        ],
+        keywords: ['Bootstrap', 'Bootstrap cheatsheet', 'Bootstrap 5', 'Free cheatsheet', 'Opensource'],
         links: {
             [website]: 'https://bootstrap-cheatsheet.themeselection.com/',
         },
@@ -346,6 +340,17 @@ module.exports = [
             [website]: 'http://brackets.io/',
         },
         icon: 'http://brackets.io/favicon.ico',
+    },
+    {
+        name: 'Brainboard',
+        categories: [infrastructure.cloudComputing],
+        description:
+            'Visually Design, Deploy & Manage modern cloud infrastructures starting from any Cloud Provider - AWS, GCP, Azure',
+        keywords: ['cloud', 'cloud designer', 'deploy', 'designer', 'terraform', 'visual designer'],
+        links: {
+            [website]: 'https://www.brainboard.co/',
+        },
+        icon: 'https://app.brainboard.co/favicon.ico',
     },
     {
         name: 'Brave',
