@@ -1341,7 +1341,7 @@ module.exports = {
             "description": "Collection of axolotl pictures and facts",
             "auth": "",
             "https": true,
-            "cors": "yes",
+            "cors": "no",
             "apiCategory": "Animals"
         },
         {
@@ -1685,11 +1685,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
+                "Website": "https://bhagavadgita.io/api"
             },
             "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "auth": "apiKey",
+            "description": "Bhagavad Gita text",
+            "auth": "OAuth",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -1699,11 +1699,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://bhagavadgita.io/api"
+                "Website": "https://docs.bhagavadgitaapi.in"
             },
             "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "auth": "OAuth",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -3827,6 +3827,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://collegefootballdata.com"
+            },
+            "name": "CollegeFootballData.com",
+            "description": "Unofficial detailed American college football statistics, records, and results API",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Sports & Fitness"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://collegescorecard.ed.gov/data/"
             },
             "name": "CollegeScoreCard.ed.gov",
@@ -5129,10 +5143,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://dukengn.github.io/Dog-facts-API/"
+                "Website": "https://kinduff.github.io/dog-api/"
             },
             "name": "Dog Facts",
-            "description": "Random dog facts",
+            "description": "Random facts of Dogs",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -5143,10 +5157,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://kinduff.github.io/dog-api/"
+                "Website": "https://dukengn.github.io/Dog-facts-API/"
             },
             "name": "Dog Facts",
-            "description": "Random facts of Dogs",
+            "description": "Random dog facts",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -5263,6 +5277,20 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Cloud Storage & File Sharing"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://dropmail.me/api/#live-demo"
+            },
+            "name": "DropMail",
+            "description": "GraphQL API for creating and managing ephemeral e-mail inboxes",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Email"
         },
         {
             "categories": [
@@ -5401,7 +5429,7 @@ module.exports = {
             "description": "Retrieve recent or notable birding observations within a region",
             "auth": "apiKey",
             "https": true,
-            "cors": "unknown",
+            "cors": "no",
             "apiCategory": "Animals"
         },
         {
@@ -6101,7 +6129,7 @@ module.exports = {
             "description": "Information and pictures about individual fish species",
             "auth": "",
             "https": true,
-            "cors": "unknown",
+            "cors": "yes",
             "apiCategory": "Animals"
         },
         {
@@ -9069,7 +9097,7 @@ module.exports = {
             "description": "ISRO Space Crafts Information",
             "auth": "",
             "https": true,
-            "cors": "unknown",
+            "cors": "no",
             "apiCategory": "Science & Math"
         },
         {
@@ -11239,7 +11267,7 @@ module.exports = {
             "description": "NASA data, including imagery",
             "auth": "",
             "https": true,
-            "cors": "unknown",
+            "cors": "no",
             "apiCategory": "Science & Math"
         },
         {
@@ -11252,34 +11280,6 @@ module.exports = {
             "name": "NASA ADS",
             "description": "NASA Astrophysics Data System",
             "auth": "OAuth",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY"
-            },
-            "name": "NASA APOD (official API)",
-            "description": "Official API for getting APOD (Astronomy Image of the Day) images along with metadata",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://apodapi.herokuapp.com/"
-            },
-            "name": "NASA APOD (unofficial API)",
-            "description": "API for getting APOD (Astronomy Image of the Day) images along with metadata",
-            "auth": "",
             "https": true,
             "cors": "yes",
             "apiCategory": "Science & Math"
@@ -11471,6 +11471,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://newsdata.io/docs"
+            },
+            "name": "NewsData",
+            "description": "News data API for live-breaking news and headlines from reputed  news sources",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "News"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/"
             },
             "name": "NewsX",
@@ -11491,7 +11505,7 @@ module.exports = {
             "description": "Symbolic and Arithmetic Math Calculator",
             "auth": "",
             "https": true,
-            "cors": "unknown",
+            "cors": "no",
             "apiCategory": "Science & Math"
         },
         {
@@ -11611,20 +11625,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://isdayoff.ru"
-            },
-            "name": "Non-Working Days",
-            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Calendar"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://github.com/gadael/icsdb"
             },
             "name": "Non-Working Days",
@@ -11632,6 +11632,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Calendar"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://isdayoff.ru"
+            },
+            "name": "Non-Working Days",
+            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Calendar"
         },
         {
@@ -11751,13 +11765,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://numbersapi.com"
+                "Website": "https://math.tools/api/numbers/"
             },
             "name": "Numbers",
-            "description": "Facts about numbers",
-            "auth": "",
-            "https": false,
-            "cors": "unknown",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "no",
             "apiCategory": "Science & Math"
         },
         {
@@ -11765,13 +11779,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://math.tools/api/numbers/"
+                "Website": "http://numbersapi.com"
             },
             "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
+            "description": "Facts about numbers",
+            "auth": "",
+            "https": false,
+            "cors": "no",
             "apiCategory": "Science & Math"
         },
         {
@@ -12793,7 +12807,7 @@ module.exports = {
             "description": "ISS astronauts, current location, etc",
             "auth": "",
             "https": false,
-            "cors": "unknown",
+            "cors": "no",
             "apiCategory": "Science & Math"
         },
         {
@@ -13588,11 +13602,11 @@ module.exports = {
                 "Website": "https://placekitten.com/"
             },
             "name": "PlaceKitten",
-            "description": "Resizable kitten placeholder images",
+            "description": "Placeholder Kitten pictures",
             "auth": "",
             "https": true,
-            "cors": "unknown",
-            "apiCategory": "Photography"
+            "cors": "yes",
+            "apiCategory": "Animals"
         },
         {
             "categories": [
@@ -14117,20 +14131,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
-            },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "name": "QR code",
@@ -14150,6 +14150,20 @@ module.exports = {
             "name": "QR code",
             "description": "Create an easy to read QR code and URL shortener",
             "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://fungenerators.com/api/qrcode/"
+            },
+            "name": "QR Code",
+            "description": "Create new QR Code or decode existing one",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Development"
@@ -14179,7 +14193,7 @@ module.exports = {
             "description": "A Quadratic Solver",
             "auth": "",
             "https": true,
-            "cors": "unknown",
+            "cors": "yes",
             "apiCategory": "Science & Math"
         },
         {
@@ -15117,7 +15131,7 @@ module.exports = {
             "description": "Query next satellite passes above you",
             "auth": "",
             "https": true,
-            "cors": "yes",
+            "cors": "no",
             "apiCategory": "Science & Math"
         },
         {
@@ -15439,7 +15453,7 @@ module.exports = {
             "description": "A free, open, dataset about research and scholarly activities",
             "auth": "",
             "https": true,
-            "cors": "unknown",
+            "cors": "no",
             "apiCategory": "Science & Math"
         },
         {
@@ -15881,13 +15895,13 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://api.spacex.land/graphql/"
+                "Website": "https://github.com/r-spacex/SpaceX-API"
             },
             "name": "SpaceX",
-            "description": "GraphQL, Company, Ships, launchpad and launch data",
+            "description": "Company, vehicle, launchpad and launch data",
             "auth": "",
             "https": true,
-            "cors": "unknown",
+            "cors": "no",
             "apiCategory": "Science & Math"
         },
         {
@@ -15895,10 +15909,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/r-spacex/SpaceX-API"
+                "Website": "https://api.spacex.land/graphql/"
             },
             "name": "SpaceX",
-            "description": "Company, vehicle, launchpad and launch data",
+            "description": "GraphQL, Company, Ships, launchpad and launch data",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -16335,7 +16349,7 @@ module.exports = {
             "description": "Sunset and sunrise times for a given latitude and longitude",
             "auth": "",
             "https": true,
-            "cors": "unknown",
+            "cors": "no",
             "apiCategory": "Science & Math"
         },
         {
@@ -17105,7 +17119,7 @@ module.exports = {
             "description": "Satellite information",
             "auth": "",
             "https": true,
-            "cors": "unknown",
+            "cors": "no",
             "apiCategory": "Science & Math"
         },
         {
@@ -17659,6 +17673,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://opentransportdata.swiss/en/"
+            },
+            "name": "Transport for Switzerland",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Transportation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
@@ -17673,11 +17701,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
-            "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "name": "Transport for The Netherlands",
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -17693,20 +17721,6 @@ module.exports = {
             "description": "NS, only trains",
             "auth": "apiKey",
             "https": false,
-            "cors": "unknown",
-            "apiCategory": "Transportation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
-            },
-            "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "auth": "",
-            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -18463,7 +18477,7 @@ module.exports = {
             "description": "Earthquakes data real-time",
             "auth": "",
             "https": true,
-            "cors": "unknown",
+            "cors": "no",
             "apiCategory": "Science & Math"
         },
         {
@@ -18477,7 +18491,7 @@ module.exports = {
             "description": "Water quality and level info for rivers and lakes",
             "auth": "",
             "https": true,
-            "cors": "unknown",
+            "cors": "no",
             "apiCategory": "Science & Math"
         },
         {
@@ -19316,8 +19330,8 @@ module.exports = {
             "name": "World Bank",
             "description": "World Data",
             "auth": "",
-            "https": false,
-            "cors": "unknown",
+            "https": true,
+            "cors": "no",
             "apiCategory": "Science & Math"
         },
         {
@@ -20756,6 +20770,19 @@ module.exports = {
                 "Website": "https://www.reddit.com/r/forhire/"
             },
             "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
+        },
+        {
+            "name": "Rocket Crew",
+            "categories": [
+                "Jobs/Boards"
+            ],
+            "description": "The biggest list of Space jobs from New space companies.",
+            "links": {
+                "Website": "https://rocketcrew.space/",
+                "Twitter": "https://twitter.com/RocketCrewSpace",
+                "Instagram": "https://www.instagram.com/rocketcrewspace/"
+            },
+            "icon": "https://rocketcrew.space/favicon.ico"
         },
         {
             "name": "Startup Jobs",
@@ -28127,17 +28154,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "Codepen radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-        },
-        {
             "name": "CodePen Radio",
             "categories": [
                 "Programming/Podcasts"
@@ -28147,6 +28163,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://blog.codepen.io/favicon.ico"
+        },
+        {
+            "name": "Codepen radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
         },
         {
             "name": "Commit Your Code!",
