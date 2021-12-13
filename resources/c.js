@@ -334,14 +334,14 @@ module.exports = [
         categories: [programming.learn],
         description:
             'Learn programming languages by playing the Role Playing Game. Different languages, beginner-friendly learning curve.',
-            keywords: [
-                'Python',
-                'JavaScript',
-                'CoffeeScript',
-                'Lua',
-                'C++',
-                'Java',
-            ],
+        keywords: [
+            'Python',
+            'JavaScript',
+            'CoffeeScript',
+            'Lua',
+            'C++',
+            'Java',
+        ],
         links: {
             [website]: 'https://www.codecombat.com/',
         },
@@ -912,6 +912,16 @@ module.exports = [
         },
         icon:
             'https://assets-global.website-files.com/5f4ec532319820f7c2ccd7a3/5f55620b7b806770e6becea2_32x32%20favico.png',
+    },
+    {
+        name: 'Copy Paste CSS',
+        categories: [uiDesign.inspiration],
+        description:
+            'Find inspiration with a collection of simple CSS elements to copy and paste ( button, box-shadow, text-input, color palette )',
+        links: {
+            [website]: 'https://copy-paste-css.com/',
+        },
+        icon: 'https://copy-paste-css.com/favicon.ico',
     },
     {
         name: 'CoreUI',
