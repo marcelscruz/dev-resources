@@ -7,7 +7,7 @@ const {
     assets,
     infrastructure,
 } = require('../constants/categories')
-const { website, twitter, linkedin, github, facebook, youtube } = require('../constants/links')
+const { website, twitter, linkedin, github, facebook, youtube, instagram } = require('../constants/links')
 
 module.exports = [
     {
@@ -361,6 +361,17 @@ module.exports = [
             [website]: 'https://roadmap.sh/',
         },
         icon: 'https://roadmap.sh/brand.png',
+    },
+    {
+        name: 'Rocket Crew',
+        categories: [jobs.boards],
+        description: 'The biggest list of Space jobs from New space companies.',
+        links: {
+            [website]: 'https://rocketcrew.space/',
+            [twitter]: 'https://twitter.com/RocketCrewSpace',
+            [instagram]: 'https://www.instagram.com/rocketcrewspace/',
+        },
+        icon: 'https://rocketcrew.space/favicon.ico',
     },
     {
         name: 'Rome',
