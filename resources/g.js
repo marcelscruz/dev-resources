@@ -182,6 +182,16 @@ module.exports = [
         icon: 'https://gradienthunt.com/img/gradienthunt.jpg',
     },
     {
+        name: 'Gradientos',
+        categories: [uiDesign.color],
+        description: 'Find and test gradients easily.',
+        keywords: ['color', 'UI', 'design', 'gradient'],
+        links: {
+            [website]: 'https://gradientos.app',
+        },
+        icon: 'https://gradientos.app/favicon.ico',
+    },
+    {
         name: 'Gramara',
         categories: [toolsAndUtilities.writing],
         description: 'Write fluent English in a snap!',
