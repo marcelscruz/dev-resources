@@ -63,6 +63,20 @@ module.exports = [
         icon: 'https://www.wappalyzer.com/apple-touch-icon.png',
     },
     {
+        name: 'Warrant',
+        categories: [infrastructure.auth],
+        description:
+            'Hosted enterprise-grade authorization and access control service for your apps.',
+        links: {
+            [website]: 'https://warrant.dev/',
+            [discord]: 'https://discord.gg/QNCMKWzqET',
+            [github]: 'https://github.com/warrant-dev',
+            [twitter]: 'https://twitter.com/warrant_dev',
+        },
+        icon: 'https://warrant.dev/apple-touch-icon.png',
+        keywords: ['auth', 'authorization', 'authz', 'access control'],
+    },
+    {
         name: 'Wave',
         categories: [toolsAndUtilities.general],
         description: 'Free invoicing & accounting software with credit card processing & payroll services.',
