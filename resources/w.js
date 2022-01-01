@@ -1,4 +1,4 @@
-const { programming, toolsAndUtilities, jobs, uiDesign, community } = require('../constants/categories')
+const { programming, toolsAndUtilities, jobs, uiDesign, community, infrastructure } = require('../constants/categories')
 const { website, youtube, twitter, facebook, github } = require('../constants/links')
 
 module.exports = [
