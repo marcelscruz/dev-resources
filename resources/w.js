@@ -1,5 +1,5 @@
-const { programming, toolsAndUtilities, jobs, uiDesign, community } = require('../constants/categories')
-const { website, youtube, twitter, facebook, github } = require('../constants/links')
+const { programming, toolsAndUtilities, jobs, uiDesign, community, infrastructure } = require('../constants/categories')
+const { website, youtube, twitter, facebook, github, discord } = require('../constants/links')
 
 module.exports = [
     {
@@ -61,6 +61,20 @@ module.exports = [
             [website]: 'https://www.wappalyzer.com/',
         },
         icon: 'https://www.wappalyzer.com/apple-touch-icon.png',
+    },
+    {
+        name: 'Warrant',
+        categories: [infrastructure.auth],
+        description:
+            'Hosted enterprise-grade authorization and access control service for your apps.',
+        links: {
+            [website]: 'https://warrant.dev/',
+            [discord]: 'https://discord.gg/QNCMKWzqET',
+            [github]: 'https://github.com/warrant-dev',
+            [twitter]: 'https://twitter.com/warrant_dev',
+        },
+        icon: 'https://warrant.dev/apple-touch-icon.png',
+        keywords: ['auth', 'authorization', 'authz', 'access control'],
     },
     {
         name: 'Wave',
