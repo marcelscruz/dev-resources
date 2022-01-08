@@ -1685,11 +1685,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
+                "Website": "https://bhagavadgita.io/api"
             },
             "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "auth": "apiKey",
+            "description": "Bhagavad Gita text",
+            "auth": "OAuth",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -1699,11 +1699,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://bhagavadgita.io/api"
+                "Website": "https://docs.bhagavadgitaapi.in"
             },
             "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "auth": "OAuth",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -2348,7 +2348,7 @@ module.exports = {
             "name": "Brazil CNPJ",
             "description": "Brazilian Free CNPJ consultant API",
             "auth": "",
-            "https": false,
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Government"
         },
@@ -3477,20 +3477,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/validate-api"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Email"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/phone-number-validation-API"
             },
             "name": "Cloudmersive Validate",
@@ -3499,6 +3485,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Phone"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/validate-api"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Email"
         },
         {
             "categories": [
@@ -5143,10 +5143,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://kinduff.github.io/dog-api/"
+                "Website": "https://dukengn.github.io/Dog-facts-API/"
             },
             "name": "Dog Facts",
-            "description": "Random facts of Dogs",
+            "description": "Random dog facts",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -5157,10 +5157,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://dukengn.github.io/Dog-facts-API/"
+                "Website": "https://kinduff.github.io/dog-api/"
             },
             "name": "Dog Facts",
-            "description": "Random dog facts",
+            "description": "Random facts of Dogs",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -11751,20 +11751,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://isdayoff.ru"
-            },
-            "name": "Non-Working Days",
-            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Calendar"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://github.com/gadael/icsdb"
             },
             "name": "Non-Working Days",
@@ -11772,6 +11758,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Calendar"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://isdayoff.ru"
+            },
+            "name": "Non-Working Days",
+            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Calendar"
         },
         {
@@ -12521,10 +12521,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.inegi.org.mx/datos/"
+                "Website": "https://datos.gob.mx/"
             },
             "name": "Open Government, Mexico",
-            "description": "Mexican Statistical Government Open Data",
+            "description": "Mexico Government Open Data",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -12535,10 +12535,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://datos.gob.mx/"
+                "Website": "https://www.inegi.org.mx/datos/"
             },
             "name": "Open Government, Mexico",
-            "description": "Mexico Government Open Data",
+            "description": "Mexican Statistical Government Open Data",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -14271,20 +14271,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://fungenerators.com/api/qrcode/"
-            },
-            "name": "QR Code",
-            "description": "Create new QR Code or decode existing one",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://qrtag.net/api/"
             },
             "name": "QR code",
@@ -14601,20 +14587,6 @@ module.exports = {
             "https": true,
             "cors": "unknown",
             "apiCategory": "Test Data"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
-                "Website": "https://fungenerators.com/api/facts/"
-            },
-            "name": "Random Facts",
-            "description": "Random Facts from hundreds of categories",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Games & Comics"
         },
         {
             "categories": [
@@ -16301,11 +16273,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+                "Website": "https://steamapi.xpaw.me/"
             },
             "name": "Steam",
-            "description": "Internal Steam Web API documentation",
-            "auth": "",
+            "description": "Steam Web API documentation",
+            "auth": "apiKey",
             "https": true,
             "cors": "no",
             "apiCategory": "Games & Comics"
@@ -16315,11 +16287,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://steamapi.xpaw.me/"
+                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
             },
             "name": "Steam",
-            "description": "Steam Web API documentation",
-            "auth": "apiKey",
+            "description": "Internal Steam Web API documentation",
+            "auth": "",
             "https": true,
             "cors": "no",
             "apiCategory": "Games & Comics"
@@ -28356,17 +28328,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "CodePen Radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://blog.codepen.io/favicon.ico"
-        },
-        {
             "name": "Codepen radio",
             "categories": [
                 "Programming/Podcasts"
@@ -28376,6 +28337,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
+        },
+        {
+            "name": "CodePen Radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://blog.codepen.io/favicon.ico"
         },
         {
             "name": "Commit Your Code!",
