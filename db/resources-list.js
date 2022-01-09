@@ -2290,11 +2290,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://bhagavadgita.io/api"
+            "Website": "https://docs.bhagavadgitaapi.in"
         },
         "name": "Bhagavad Gita",
-        "description": "Bhagavad Gita text",
-        "auth": "OAuth",
+        "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+        "auth": "apiKey",
         "https": true,
         "cors": "yes",
         "apiCategory": "Books"
@@ -2304,11 +2304,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://docs.bhagavadgitaapi.in"
+            "Website": "https://bhagavadgita.io/api"
         },
         "name": "Bhagavad Gita",
-        "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-        "auth": "apiKey",
+        "description": "Bhagavad Gita text",
+        "auth": "OAuth",
         "https": true,
         "cors": "yes",
         "apiCategory": "Books"
@@ -5011,17 +5011,6 @@ module.exports = [
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
-        "name": "Codepen radio",
-        "categories": [
-            "Programming/Podcasts"
-        ],
-        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-        "links": {
-            "Website": "https://blog.codepen.io/radio/"
-        },
-        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-    },
-    {
         "name": "CodePen Radio",
         "categories": [
             "Programming/Podcasts"
@@ -5031,6 +5020,17 @@ module.exports = [
             "Website": "https://blog.codepen.io/radio/"
         },
         "icon": "https://blog.codepen.io/favicon.ico"
+    },
+    {
+        "name": "Codepen radio",
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+        "links": {
+            "Website": "https://blog.codepen.io/radio/"
+        },
+        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
         "name": "Codepip",
@@ -5613,17 +5613,6 @@ module.exports = [
         "icon": "https://colorlib.com/wp/wp-content/uploads/sites/2/2014/05/ipad-colorlib.png"
     },
     {
-        "name": "Colormind",
-        "categories": [
-            "UI Design/Color"
-        ],
-        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
-        "links": {
-            "Website": "http://colormind.io/"
-        },
-        "icon": "http://colormind.io/favicon32.gif"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -5636,6 +5625,17 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Colormind",
+        "categories": [
+            "UI Design/Color"
+        ],
+        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
+        "links": {
+            "Website": "http://colormind.io/"
+        },
+        "icon": "http://colormind.io/favicon32.gif"
     },
     {
         "name": "colors.lol",
@@ -6165,10 +6165,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://covid19api.com/"
+            "Website": "https://github.com/M-Media-Group/Covid-19-API"
         },
         "name": "Covid-19",
-        "description": "Covid 19 spread, infection and recovery",
+        "description": "Covid 19 cases, deaths and recovery per country",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -6179,10 +6179,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/M-Media-Group/Covid-19-API"
+            "Website": "https://covid19api.com/"
         },
         "name": "Covid-19",
-        "description": "Covid 19 cases, deaths and recovery per country",
+        "description": "Covid 19 spread, infection and recovery",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -8724,6 +8724,20 @@ module.exports = [
         "apiCategory": "Currency Exchange"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://excuser.herokuapp.com/"
+        },
+        "name": "Excuser",
+        "description": "Get random excuses for various situations",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
+        "apiCategory": "Entertainment"
+    },
+    {
         "name": "Exercism",
         "categories": [
             "Programming/Code Challenges"
@@ -11228,17 +11242,6 @@ module.exports = [
         "apiCategory": "Development"
     },
     {
-        "name": "Google Fonts",
-        "categories": [
-            "Assets/Fonts"
-        ],
-        "description": "Making the web more beautiful, fast, and open through great typography.",
-        "links": {
-            "Website": "https://fonts.google.com/"
-        },
-        "icon": "https://www.gstatic.com/images/branding/product/1x/google_fonts_blue_ios_96dp.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -11251,6 +11254,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Development"
+    },
+    {
+        "name": "Google Fonts",
+        "categories": [
+            "Assets/Fonts"
+        ],
+        "description": "Making the web more beautiful, fast, and open through great typography.",
+        "links": {
+            "Website": "https://fonts.google.com/"
+        },
+        "icon": "https://www.gstatic.com/images/branding/product/1x/google_fonts_blue_ios_96dp.png"
     },
     {
         "categories": [
@@ -12703,6 +12717,20 @@ module.exports = [
         "apiCategory": "Transportation"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://icon.horse"
+        },
+        "name": "Icon Horse",
+        "description": "Favicons for any website, with fallbacks",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Art & Design"
+    },
+    {
         "name": "Icon Horse",
         "categories": [
             "Assets/Icons"
@@ -12720,20 +12748,6 @@ module.exports = [
             "Twitter": "https://twitter.com/iconhorse"
         },
         "icon": "https://icon.horse/icon/icon.horse"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://icon.horse"
-        },
-        "name": "Icon Horse",
-        "description": "Favicons for any website, with fallbacks",
-        "auth": "",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Art & Design"
     },
     {
         "categories": [
@@ -12761,20 +12775,6 @@ module.exports = [
         "icon": "https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico"
     },
     {
-        "name": "Icons8",
-        "categories": [
-            "Assets/Icons",
-            "Assets/Illustrations",
-            "Assets/Images",
-            "Assets/Audio"
-        ],
-        "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
-        "links": {
-            "Website": "https://icons8.com"
-        },
-        "icon": "https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -12787,6 +12787,20 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Icons8",
+        "categories": [
+            "Assets/Icons",
+            "Assets/Illustrations",
+            "Assets/Images",
+            "Assets/Audio"
+        ],
+        "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
+        "links": {
+            "Website": "https://icons8.com"
+        },
+        "icon": "https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png"
     },
     {
         "name": "Iconscout",
@@ -15959,17 +15973,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Get Material Icons.",
-        "links": {
-            "Website": "https://material.io/resources/icons"
-        },
-        "icon": "https://material.io/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Programming/UI Kits & Libraries"
         ],
         "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
@@ -15977,6 +15980,17 @@ module.exports = [
             "Website": "https://material.io/"
         },
         "icon": "https://material.io/static/assets/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Get Material Icons.",
+        "links": {
+            "Website": "https://material.io/resources/icons"
+        },
+        "icon": "https://material.io/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -16090,6 +16104,17 @@ module.exports = [
         "apiCategory": "Health"
     },
     {
+        "name": "Medium",
+        "categories": [
+            "Community/Blogs & Forums"
+        ],
+        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
+        "links": {
+            "Website": "http://medium.com/"
+        },
+        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -16102,17 +16127,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Personality"
-    },
-    {
-        "name": "Medium",
-        "categories": [
-            "Community/Blogs & Forums"
-        ],
-        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
-        "links": {
-            "Website": "http://medium.com/"
-        },
-        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
     },
     {
         "categories": [
@@ -17585,20 +17599,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/gadael/icsdb"
-        },
-        "name": "Non-Working Days",
-        "description": "Database of ICS files for non working days",
-        "auth": "",
-        "https": true,
-        "cors": "unknown",
-        "apiCategory": "Calendar"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://isdayoff.ru"
         },
         "name": "Non-Working Days",
@@ -17606,6 +17606,20 @@ module.exports = [
         "auth": "",
         "https": true,
         "cors": "yes",
+        "apiCategory": "Calendar"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://github.com/gadael/icsdb"
+        },
+        "name": "Non-Working Days",
+        "description": "Database of ICS files for non working days",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
         "apiCategory": "Calendar"
     },
     {
@@ -20251,6 +20265,17 @@ module.exports = [
         "icon": "https://www.postgresql.org/favicon.ico"
     },
     {
+        "name": "Postman",
+        "categories": [
+            "Tools & Utilities/API Building"
+        ],
+        "description": "Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.",
+        "links": {
+            "Website": "https://www.postman.com/"
+        },
+        "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -20263,17 +20288,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Development"
-    },
-    {
-        "name": "Postman",
-        "categories": [
-            "Tools & Utilities/API Building"
-        ],
-        "description": "Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.",
-        "links": {
-            "Website": "https://www.postman.com/"
-        },
-        "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
     },
     {
         "categories": [
@@ -20371,17 +20385,6 @@ module.exports = [
         "apiCategory": "Security"
     },
     {
-        "name": "Product Hunt",
-        "categories": [
-            "Indie Hacking/Platforms"
-        ],
-        "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
-        "links": {
-            "Website": "https://www.producthunt.com/"
-        },
-        "icon": "https://ph-static.imgix.net/ph-ios-icon.png?auto=format&auto=compress"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -20394,6 +20397,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Social"
+    },
+    {
+        "name": "Product Hunt",
+        "categories": [
+            "Indie Hacking/Platforms"
+        ],
+        "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
+        "links": {
+            "Website": "https://www.producthunt.com/"
+        },
+        "icon": "https://ph-static.imgix.net/ph-ios-icon.png?auto=format&auto=compress"
     },
     {
         "name": "Programiz",
@@ -21481,6 +21495,17 @@ module.exports = [
         "apiCategory": "Business"
     },
     {
+        "name": "reddit",
+        "categories": [
+            "Community/Blogs & Forums"
+        ],
+        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
+        "links": {
+            "Website": "https://www.reddit.com/"
+        },
+        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -21493,17 +21518,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Social"
-    },
-    {
-        "name": "reddit",
-        "categories": [
-            "Community/Blogs & Forums"
-        ],
-        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
-        "links": {
-            "Website": "https://www.reddit.com/"
-        },
-        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
     },
     {
         "name": "redditors for hire",
@@ -23946,11 +23960,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://steamapi.xpaw.me/"
+            "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
         },
         "name": "Steam",
-        "description": "Steam Web API documentation",
-        "auth": "apiKey",
+        "description": "Internal Steam Web API documentation",
+        "auth": "",
         "https": true,
         "cors": "no",
         "apiCategory": "Games & Comics"
@@ -23960,11 +23974,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+            "Website": "https://steamapi.xpaw.me/"
         },
         "name": "Steam",
-        "description": "Internal Steam Web API documentation",
-        "auth": "",
+        "description": "Steam Web API documentation",
+        "auth": "apiKey",
         "https": true,
         "cors": "no",
         "apiCategory": "Games & Comics"
@@ -24345,10 +24359,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://swapi.dev/"
+            "Website": "https://www.swapi.tech"
         },
         "name": "SWAPI",
-        "description": "All the Star Wars data you've ever wanted",
+        "description": "All things Star Wars",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -24359,10 +24373,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://www.swapi.tech"
+            "Website": "https://swapi.dev/"
         },
         "name": "SWAPI",
-        "description": "All things Star Wars",
+        "description": "All the Star Wars data you've ever wanted",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -26129,12 +26143,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            "Website": "http://www.ns.nl/reisinformatie/ns-api"
         },
         "name": "Transport for The Netherlands",
-        "description": "OVAPI, country-wide public transport",
-        "auth": "",
-        "https": true,
+        "description": "NS, only trains",
+        "auth": "apiKey",
+        "https": false,
         "cors": "unknown",
         "apiCategory": "Transportation"
     },
@@ -26143,12 +26157,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
         },
         "name": "Transport for The Netherlands",
-        "description": "NS, only trains",
-        "auth": "apiKey",
-        "https": false,
+        "description": "OVAPI, country-wide public transport",
+        "auth": "",
+        "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
     },
@@ -26344,20 +26358,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Games & Comics"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://www.troposphere.io/developer"
-        },
-        "name": "Troposphere",
-        "description": "Global weather and climate data",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Weather"
     },
     {
         "categories": [
@@ -26909,17 +26909,6 @@ module.exports = [
         "icon": "https://www.unscreen.com/favicon-96x96.png"
     },
     {
-        "name": "Unsplash",
-        "categories": [
-            "Assets/Images"
-        ],
-        "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
-        "links": {
-            "Website": "https://unsplash.com/"
-        },
-        "icon": "https://unsplash.com/favicon-32x32.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -26932,6 +26921,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Photography"
+    },
+    {
+        "name": "Unsplash",
+        "categories": [
+            "Assets/Images"
+        ],
+        "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
+        "links": {
+            "Website": "https://unsplash.com/"
+        },
+        "icon": "https://unsplash.com/favicon-32x32.png"
     },
     {
         "categories": [
@@ -27919,6 +27919,20 @@ module.exports = [
         "apiCategory": "Games & Comics"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://warrant.dev/"
+        },
+        "name": "Warrant",
+        "description": "APIs for authorization and access control",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Authentication & Authorization"
+    },
+    {
         "name": "Warrant",
         "categories": [
             "Infrastructure/Auth"
@@ -27937,20 +27951,6 @@ module.exports = [
             "authz",
             "access control"
         ]
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://warrant.dev/"
-        },
-        "name": "Warrant",
-        "description": "APIs for authorization and access control",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Authentication & Authorization"
     },
     {
         "categories": [
