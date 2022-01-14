@@ -3793,9 +3793,9 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://censys.io/api"
+            "Website": "https://search.censys.io/api"
         },
-        "name": "Censys.io",
+        "name": "Censys",
         "description": "Search engine for Internet connected host and devices",
         "auth": "apiKey",
         "https": true,
