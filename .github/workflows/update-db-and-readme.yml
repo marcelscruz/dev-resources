@@ -1,4 +1,4 @@
-name: update-db-and-readme
+name: Update DB and README
 
 on:
     push: { branches: main }
