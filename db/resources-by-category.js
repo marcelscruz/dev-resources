@@ -3491,20 +3491,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/validate-api"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Email"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/phone-number-validation-API"
             },
             "name": "Cloudmersive Validate",
@@ -3513,6 +3499,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Phone"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/validate-api"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Email"
         },
         {
             "categories": [
@@ -5157,10 +5157,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://kinduff.github.io/dog-api/"
+                "Website": "https://dukengn.github.io/Dog-facts-API/"
             },
             "name": "Dog Facts",
-            "description": "Random facts of Dogs",
+            "description": "Random dog facts",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -5171,10 +5171,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://dukengn.github.io/Dog-facts-API/"
+                "Website": "https://kinduff.github.io/dog-api/"
             },
             "name": "Dog Facts",
-            "description": "Random dog facts",
+            "description": "Random facts of Dogs",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -11849,20 +11849,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://isdayoff.ru"
-            },
-            "name": "Non-Working Days",
-            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-            "auth": "",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Calendar"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://github.com/gadael/icsdb"
             },
             "name": "Non-Working Days",
@@ -11870,6 +11856,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Calendar"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://isdayoff.ru"
+            },
+            "name": "Non-Working Days",
+            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
             "apiCategory": "Calendar"
         },
         {
@@ -11989,12 +11989,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://numbersapi.com"
+                "Website": "https://math.tools/api/numbers/"
             },
             "name": "Numbers",
-            "description": "Facts about numbers",
-            "auth": "",
-            "https": false,
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "auth": "apiKey",
+            "https": true,
             "cors": "no",
             "apiCategory": "Science & Math"
         },
@@ -12003,12 +12003,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://math.tools/api/numbers/"
+                "Website": "http://numbersapi.com"
             },
             "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "auth": "apiKey",
-            "https": true,
+            "description": "Facts about numbers",
+            "auth": "",
+            "https": false,
             "cors": "no",
             "apiCategory": "Science & Math"
         },
@@ -14383,20 +14383,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://goqr.me/api/"
-            },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "http://qrtag.net/api/"
             },
             "name": "QR code",
@@ -14404,6 +14390,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "yes",
+            "apiCategory": "Development"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "http://goqr.me/api/"
+            },
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
+            "auth": "",
+            "https": true,
+            "cors": "unknown",
             "apiCategory": "Development"
         },
         {
@@ -16119,20 +16119,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/r-spacex/SpaceX-API"
-            },
-            "name": "SpaceX",
-            "description": "Company, vehicle, launchpad and launch data",
-            "auth": "",
-            "https": true,
-            "cors": "no",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://api.spacex.land/graphql/"
             },
             "name": "SpaceX",
@@ -16140,6 +16126,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/r-spacex/SpaceX-API"
+            },
+            "name": "SpaceX",
+            "description": "Company, vehicle, launchpad and launch data",
+            "auth": "",
+            "https": true,
+            "cors": "no",
             "apiCategory": "Science & Math"
         },
         {
@@ -16651,10 +16651,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://swapi.dev/"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
+            "description": "All things Star Wars",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -16665,10 +16665,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.swapi.tech"
+                "Website": "https://swapi.dev/"
             },
             "name": "SWAPI",
-            "description": "All things Star Wars",
+            "description": "All the Star Wars data you've ever wanted",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -17939,11 +17939,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -17953,11 +17953,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -26358,6 +26358,17 @@ module.exports = {
                 "Gumroad": "https://gumroad.com/a/399283315/FbINx"
             },
             "icon": "https://gumroad.com/favicon.ico"
+        },
+        {
+            "name": "Splawr",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Explore the world of our free web templates to kickstart your idea!",
+            "links": {
+                "Website": "https://splawr.com"
+            },
+            "icon": "https://splawr.com/favicon.png"
         },
         {
             "name": "Start Bootstrap",

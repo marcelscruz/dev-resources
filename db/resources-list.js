@@ -715,19 +715,6 @@ module.exports = [
         "apiCategory": "Transportation"
     },
     {
-        "name": "Airtable",
-        "categories": [
-            "Indie Hacking/Utilities",
-            "Infrastructure/Databases",
-            "Infrastructure/Serverless"
-        ],
-        "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
-        "links": {
-            "Website": "https://airtable.com/"
-        },
-        "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -740,6 +727,19 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Documents & Productivity"
+    },
+    {
+        "name": "Airtable",
+        "categories": [
+            "Indie Hacking/Utilities",
+            "Infrastructure/Databases",
+            "Infrastructure/Serverless"
+        ],
+        "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+        "links": {
+            "Website": "https://airtable.com/"
+        },
+        "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
     },
     {
         "categories": [
@@ -4717,20 +4717,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://cloudmersive.com/validate-api"
-        },
-        "name": "Cloudmersive Validate",
-        "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Email"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://cloudmersive.com/phone-number-validation-API"
         },
         "name": "Cloudmersive Validate",
@@ -4739,6 +4725,20 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Phone"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://cloudmersive.com/validate-api"
+        },
+        "name": "Cloudmersive Validate",
+        "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Email"
     },
     {
         "categories": [
@@ -5627,17 +5627,6 @@ module.exports = [
         "icon": "https://colorlib.com/wp/wp-content/uploads/sites/2/2014/05/ipad-colorlib.png"
     },
     {
-        "name": "Colormind",
-        "categories": [
-            "UI Design/Color"
-        ],
-        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
-        "links": {
-            "Website": "http://colormind.io/"
-        },
-        "icon": "http://colormind.io/favicon32.gif"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -5650,6 +5639,17 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Colormind",
+        "categories": [
+            "UI Design/Color"
+        ],
+        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
+        "links": {
+            "Website": "http://colormind.io/"
+        },
+        "icon": "http://colormind.io/favicon32.gif"
     },
     {
         "name": "colors.lol",
@@ -7740,10 +7740,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://kinduff.github.io/dog-api/"
+            "Website": "https://dukengn.github.io/Dog-facts-API/"
         },
         "name": "Dog Facts",
-        "description": "Random facts of Dogs",
+        "description": "Random dog facts",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -7754,10 +7754,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://dukengn.github.io/Dog-facts-API/"
+            "Website": "https://kinduff.github.io/dog-api/"
         },
         "name": "Dog Facts",
-        "description": "Random dog facts",
+        "description": "Random facts of Dogs",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -11284,6 +11284,17 @@ module.exports = [
         "apiCategory": "Development"
     },
     {
+        "name": "Google Fonts",
+        "categories": [
+            "Assets/Fonts"
+        ],
+        "description": "Making the web more beautiful, fast, and open through great typography.",
+        "links": {
+            "Website": "https://fonts.google.com/"
+        },
+        "icon": "https://www.gstatic.com/images/branding/product/1x/google_fonts_blue_ios_96dp.png"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -11296,17 +11307,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Development"
-    },
-    {
-        "name": "Google Fonts",
-        "categories": [
-            "Assets/Fonts"
-        ],
-        "description": "Making the web more beautiful, fast, and open through great typography.",
-        "links": {
-            "Website": "https://fonts.google.com/"
-        },
-        "icon": "https://www.gstatic.com/images/branding/product/1x/google_fonts_blue_ios_96dp.png"
     },
     {
         "categories": [
@@ -12178,6 +12178,17 @@ module.exports = [
         "icon": "https://heroicons.com/_next/static/media/favicon-32x32.eee32601ba9d4702f841835990ed3801.png"
     },
     {
+        "name": "Heroku",
+        "categories": [
+            "Infrastructure/Hosting"
+        ],
+        "description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
+        "links": {
+            "Website": "https://www.heroku.com/"
+        },
+        "icon": "https://www.herokucdn.com/favicon.ico"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -12190,17 +12201,6 @@ module.exports = [
         "https": true,
         "cors": "yes",
         "apiCategory": "Development"
-    },
-    {
-        "name": "Heroku",
-        "categories": [
-            "Infrastructure/Hosting"
-        ],
-        "description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
-        "links": {
-            "Website": "https://www.heroku.com/"
-        },
-        "icon": "https://www.herokucdn.com/favicon.ico"
     },
     {
         "name": "Hey Meta",
@@ -12759,20 +12759,6 @@ module.exports = [
         "apiCategory": "Transportation"
     },
     {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://icon.horse"
-        },
-        "name": "Icon Horse",
-        "description": "Favicons for any website, with fallbacks",
-        "auth": "",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Art & Design"
-    },
-    {
         "name": "Icon Horse",
         "categories": [
             "Assets/Icons"
@@ -12790,6 +12776,20 @@ module.exports = [
             "Twitter": "https://twitter.com/iconhorse"
         },
         "icon": "https://icon.horse/icon/icon.horse"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://icon.horse"
+        },
+        "name": "Icon Horse",
+        "description": "Favicons for any website, with fallbacks",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Art & Design"
     },
     {
         "categories": [
@@ -15745,17 +15745,6 @@ module.exports = [
         "apiCategory": "Email"
     },
     {
-        "name": "Mailchimp",
-        "categories": [
-            "Indie Hacking/Utilities"
-        ],
-        "description": "Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.",
-        "links": {
-            "Website": "https://mailchimp.com/"
-        },
-        "icon": "https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -15768,6 +15757,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Business"
+    },
+    {
+        "name": "Mailchimp",
+        "categories": [
+            "Indie Hacking/Utilities"
+        ],
+        "description": "Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.",
+        "links": {
+            "Website": "https://mailchimp.com/"
+        },
+        "icon": "https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png"
     },
     {
         "categories": [
@@ -16043,17 +16043,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Get Material Icons.",
-        "links": {
-            "Website": "https://material.io/resources/icons"
-        },
-        "icon": "https://material.io/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Programming/UI Kits & Libraries"
         ],
         "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
@@ -16061,6 +16050,17 @@ module.exports = [
             "Website": "https://material.io/"
         },
         "icon": "https://material.io/static/assets/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Get Material Icons.",
+        "links": {
+            "Website": "https://material.io/resources/icons"
+        },
+        "icon": "https://material.io/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -17683,20 +17683,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://isdayoff.ru"
-        },
-        "name": "Non-Working Days",
-        "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-        "auth": "",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Calendar"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://github.com/gadael/icsdb"
         },
         "name": "Non-Working Days",
@@ -17704,6 +17690,20 @@ module.exports = [
         "auth": "",
         "https": true,
         "cors": "unknown",
+        "apiCategory": "Calendar"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://isdayoff.ru"
+        },
+        "name": "Non-Working Days",
+        "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+        "auth": "",
+        "https": true,
+        "cors": "yes",
         "apiCategory": "Calendar"
     },
     {
@@ -17773,17 +17773,6 @@ module.exports = [
         "apiCategory": "Documents & Productivity"
     },
     {
-        "name": "Noun Project",
-        "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
-        "links": {
-            "Website": "https://thenounproject.com/"
-        },
-        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
-    },
-    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -17796,6 +17785,17 @@ module.exports = [
         "https": false,
         "cors": "unknown",
         "apiCategory": "Art & Design"
+    },
+    {
+        "name": "Noun Project",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
+        "links": {
+            "Website": "https://thenounproject.com/"
+        },
+        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
     },
     {
         "categories": [
@@ -17886,12 +17886,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://numbersapi.com"
+            "Website": "https://math.tools/api/numbers/"
         },
         "name": "Numbers",
-        "description": "Facts about numbers",
-        "auth": "",
-        "https": false,
+        "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+        "auth": "apiKey",
+        "https": true,
         "cors": "no",
         "apiCategory": "Science & Math"
     },
@@ -17900,12 +17900,12 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://math.tools/api/numbers/"
+            "Website": "http://numbersapi.com"
         },
         "name": "Numbers",
-        "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-        "auth": "apiKey",
-        "https": true,
+        "description": "Facts about numbers",
+        "auth": "",
+        "https": false,
         "cors": "no",
         "apiCategory": "Science & Math"
     },
@@ -20864,20 +20864,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "http://goqr.me/api/"
-        },
-        "name": "QR code",
-        "description": "Generate and decode / read QR code graphics",
-        "auth": "",
-        "https": true,
-        "cors": "unknown",
-        "apiCategory": "Development"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "http://qrtag.net/api/"
         },
         "name": "QR code",
@@ -20885,6 +20871,20 @@ module.exports = [
         "auth": "",
         "https": true,
         "cors": "yes",
+        "apiCategory": "Development"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "http://goqr.me/api/"
+        },
+        "name": "QR code",
+        "description": "Generate and decode / read QR code graphics",
+        "auth": "",
+        "https": true,
+        "cors": "unknown",
         "apiCategory": "Development"
     },
     {
@@ -23677,20 +23677,6 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://github.com/r-spacex/SpaceX-API"
-        },
-        "name": "SpaceX",
-        "description": "Company, vehicle, launchpad and launch data",
-        "auth": "",
-        "https": true,
-        "cors": "no",
-        "apiCategory": "Science & Math"
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
             "Website": "https://api.spacex.land/graphql/"
         },
         "name": "SpaceX",
@@ -23698,6 +23684,20 @@ module.exports = [
         "auth": "",
         "https": true,
         "cors": "unknown",
+        "apiCategory": "Science & Math"
+    },
+    {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://github.com/r-spacex/SpaceX-API"
+        },
+        "name": "SpaceX",
+        "description": "Company, vehicle, launchpad and launch data",
+        "auth": "",
+        "https": true,
+        "cors": "no",
         "apiCategory": "Science & Math"
     },
     {
@@ -23727,6 +23727,17 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Test Data"
+    },
+    {
+        "name": "Splawr",
+        "categories": [
+            "Programming/Templates"
+        ],
+        "description": "Explore the world of our free web templates to kickstart your idea!",
+        "links": {
+            "Website": "https://splawr.com"
+        },
+        "icon": "https://splawr.com/favicon.png"
     },
     {
         "name": "Splitbee",
@@ -24471,10 +24482,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://swapi.dev/"
+            "Website": "https://www.swapi.tech"
         },
         "name": "SWAPI",
-        "description": "All the Star Wars data you've ever wanted",
+        "description": "All things Star Wars",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -24485,10 +24496,10 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://www.swapi.tech"
+            "Website": "https://swapi.dev/"
         },
         "name": "SWAPI",
-        "description": "All things Star Wars",
+        "description": "All the Star Wars data you've ever wanted",
         "auth": "",
         "https": true,
         "cors": "yes",
@@ -26241,11 +26252,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://opentransportdata.swiss/en/"
+            "Website": "https://transport.opendata.ch/"
         },
         "name": "Transport for Switzerland",
-        "description": "Official Swiss Public Transport Open Data",
-        "auth": "apiKey",
+        "description": "Swiss public transport API",
+        "auth": "",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
@@ -26255,11 +26266,11 @@ module.exports = [
             "Tools & Utilities/Public APIs"
         ],
         "links": {
-            "Website": "https://transport.opendata.ch/"
+            "Website": "https://opentransportdata.swiss/en/"
         },
         "name": "Transport for Switzerland",
-        "description": "Swiss public transport API",
-        "auth": "",
+        "description": "Official Swiss Public Transport Open Data",
+        "auth": "apiKey",
         "https": true,
         "cors": "unknown",
         "apiCategory": "Transportation"
@@ -27154,6 +27165,17 @@ module.exports = [
         "icon": "https://upto.site/favicon.png"
     },
     {
+        "name": "Upwork",
+        "categories": [
+            "Jobs/Freelancing"
+        ],
+        "description": "Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.",
+        "links": {
+            "Website": "https://www.upwork.com/"
+        },
+        "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
+    },
+    {
         "categories": [
             "Tools & Utilities/Public APIs"
         ],
@@ -27166,17 +27188,6 @@ module.exports = [
         "https": true,
         "cors": "unknown",
         "apiCategory": "Jobs"
-    },
-    {
-        "name": "Upwork",
-        "categories": [
-            "Jobs/Freelancing"
-        ],
-        "description": "Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.",
-        "links": {
-            "Website": "https://www.upwork.com/"
-        },
-        "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
     },
     {
         "categories": [
@@ -28059,6 +28070,20 @@ module.exports = [
         "apiCategory": "Games & Comics"
     },
     {
+        "categories": [
+            "Tools & Utilities/Public APIs"
+        ],
+        "links": {
+            "Website": "https://warrant.dev/"
+        },
+        "name": "Warrant",
+        "description": "APIs for authorization and access control",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "yes",
+        "apiCategory": "Authentication & Authorization"
+    },
+    {
         "name": "Warrant",
         "categories": [
             "Infrastructure/Auth"
@@ -28077,20 +28102,6 @@ module.exports = [
             "authz",
             "access control"
         ]
-    },
-    {
-        "categories": [
-            "Tools & Utilities/Public APIs"
-        ],
-        "links": {
-            "Website": "https://warrant.dev/"
-        },
-        "name": "Warrant",
-        "description": "APIs for authorization and access control",
-        "auth": "apiKey",
-        "https": true,
-        "cors": "yes",
-        "apiCategory": "Authentication & Authorization"
     },
     {
         "categories": [
