@@ -531,6 +531,15 @@ module.exports = [
         icon: 'https://www.soundstripe.com/hubfs/favicon-1.png',
     },
     {
+        name: 'Splawr',
+        categories: [programming.templates],
+        description: 'Explore the world of our free web templates to kickstart your idea!',
+        links: {
+            [website]: 'https://splawr.com',
+        },
+        icon: 'https://splawr.com/favicon.png',
+    },
+    {
         name: 'Splitbee',
         categories: [toolsAndUtilities.analytics],
         description: 'Splitbee provides Analytics, Automation, User Funnel and A/B Testing.',
