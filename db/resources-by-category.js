@@ -3477,20 +3477,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/validate-api"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Email"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/phone-number-validation-API"
             },
             "name": "Cloudmersive Validate",
@@ -3499,6 +3485,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Phone"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/validate-api"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Email"
         },
         {
             "categories": [
@@ -4163,10 +4163,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -4177,10 +4177,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -11989,12 +11989,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://math.tools/api/numbers/"
+                "Website": "http://numbersapi.com"
             },
             "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "auth": "apiKey",
-            "https": true,
+            "description": "Facts about numbers",
+            "auth": "",
+            "https": false,
             "cors": "no",
             "apiCategory": "Science & Math"
         },
@@ -12003,12 +12003,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://numbersapi.com"
+                "Website": "https://math.tools/api/numbers/"
             },
             "name": "Numbers",
-            "description": "Facts about numbers",
-            "auth": "",
-            "https": false,
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "auth": "apiKey",
+            "https": true,
             "cors": "no",
             "apiCategory": "Science & Math"
         },
@@ -14271,20 +14271,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/davemachado/public-api"
-            },
-            "name": "Public APIs",
-            "description": "A collective list of free JSON APIs for use in web development",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Development"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://pulsedive.com/api/"
             },
             "name": "Pulsedive",
@@ -16105,20 +16091,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/r-spacex/SpaceX-API"
-            },
-            "name": "SpaceX",
-            "description": "Company, vehicle, launchpad and launch data",
-            "auth": "",
-            "https": true,
-            "cors": "no",
-            "apiCategory": "Science & Math"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://api.spacex.land/graphql/"
             },
             "name": "SpaceX",
@@ -16126,6 +16098,20 @@ module.exports = {
             "auth": "",
             "https": true,
             "cors": "unknown",
+            "apiCategory": "Science & Math"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/r-spacex/SpaceX-API"
+            },
+            "name": "SpaceX",
+            "description": "Company, vehicle, launchpad and launch data",
+            "auth": "",
+            "https": true,
+            "cors": "no",
             "apiCategory": "Science & Math"
         },
         {
@@ -16637,10 +16623,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.swapi.tech"
+                "Website": "https://swapi.dev/"
             },
             "name": "SWAPI",
-            "description": "All things Star Wars",
+            "description": "All the Star Wars data you've ever wanted",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -16651,10 +16637,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://swapi.dev/"
+                "Website": "https://www.swapi.tech"
             },
             "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
+            "description": "All things Star Wars",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -17925,20 +17911,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
-            "https": true,
-            "cors": "unknown",
-            "apiCategory": "Transportation"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
@@ -17953,10 +17925,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "https://transport.opendata.ch/"
             },
-            "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
+            "name": "Transport for Switzerland",
+            "description": "Swiss public transport API",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -17973,6 +17945,20 @@ module.exports = {
             "description": "NS, only trains",
             "auth": "apiKey",
             "https": false,
+            "cors": "unknown",
+            "apiCategory": "Transportation"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "OVAPI, country-wide public transport",
+            "auth": "",
+            "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
         },
@@ -19193,6 +19179,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Authentication & Authorization"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://docs.watchdata.io"
+            },
+            "name": "Watchdata",
+            "description": "Provide simple and reliable API access to Ethereum blockchain",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown",
+            "apiCategory": "Blockchain"
         },
         {
             "categories": [
