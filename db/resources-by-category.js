@@ -1671,11 +1671,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://bhagavadgita.io/api"
+                "Website": "https://docs.bhagavadgitaapi.in"
             },
             "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "auth": "OAuth",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "auth": "apiKey",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -1685,11 +1685,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
+                "Website": "https://bhagavadgita.io/api"
             },
             "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "auth": "apiKey",
+            "description": "Bhagavad Gita text",
+            "auth": "OAuth",
             "https": true,
             "cors": "yes",
             "apiCategory": "Books"
@@ -3477,20 +3477,6 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://cloudmersive.com/phone-number-validation-API"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate international phone numbers",
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes",
-            "apiCategory": "Phone"
-        },
-        {
-            "categories": [
-                "Tools & Utilities/Public APIs"
-            ],
-            "links": {
                 "Website": "https://cloudmersive.com/validate-api"
             },
             "name": "Cloudmersive Validate",
@@ -3499,6 +3485,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Email"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://cloudmersive.com/phone-number-validation-API"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate international phone numbers",
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Phone"
         },
         {
             "categories": [
@@ -4051,6 +4051,20 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
+                "Website": "https://github.com/sameerkumar18/corporate-bs-generator-api"
+            },
+            "name": "Corporate Buzz Words",
+            "description": "REST API for Corporate Buzz Words",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Entertainment"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
                 "Website": "https://cws.correios.com.br/ajuda"
             },
             "name": "Correios",
@@ -4163,10 +4177,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+                "Website": "https://covid19api.com/"
             },
             "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
+            "description": "Covid 19 spread, infection and recovery",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -4177,10 +4191,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://covid19api.com/"
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "auth": "",
             "https": true,
             "cors": "yes",
@@ -7629,6 +7643,20 @@ module.exports = {
             "https": true,
             "cors": "yes",
             "apiCategory": "Jobs"
+        },
+        {
+            "categories": [
+                "Tools & Utilities/Public APIs"
+            ],
+            "links": {
+                "Website": "https://github.com/favware/graphql-pokemon"
+            },
+            "name": "GraphQL Pokemon",
+            "description": "GraphQL powered Pokemon API. Supports generations 1 through 8",
+            "auth": "",
+            "https": true,
+            "cors": "yes",
+            "apiCategory": "Games & Comics"
         },
         {
             "categories": [
@@ -11989,12 +12017,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "http://numbersapi.com"
+                "Website": "https://math.tools/api/numbers/"
             },
             "name": "Numbers",
-            "description": "Facts about numbers",
-            "auth": "",
-            "https": false,
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "auth": "apiKey",
+            "https": true,
             "cors": "no",
             "apiCategory": "Science & Math"
         },
@@ -12003,12 +12031,12 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://math.tools/api/numbers/"
+                "Website": "http://numbersapi.com"
             },
             "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "auth": "apiKey",
-            "https": true,
+            "description": "Facts about numbers",
+            "auth": "",
+            "https": false,
             "cors": "no",
             "apiCategory": "Science & Math"
         },
@@ -12619,10 +12647,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://datos.gob.mx/"
+                "Website": "https://www.inegi.org.mx/datos/"
             },
             "name": "Open Government, Mexico",
-            "description": "Mexico Government Open Data",
+            "description": "Mexican Statistical Government Open Data",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -12633,10 +12661,10 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://www.inegi.org.mx/datos/"
+                "Website": "https://datos.gob.mx/"
             },
             "name": "Open Government, Mexico",
-            "description": "Mexican Statistical Government Open Data",
+            "description": "Mexico Government Open Data",
             "auth": "",
             "https": true,
             "cors": "unknown",
@@ -17911,11 +17939,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
+                "Website": "https://transport.opendata.ch/"
             },
             "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "auth": "apiKey",
+            "description": "Swiss public transport API",
+            "auth": "",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -17925,11 +17953,11 @@ module.exports = {
                 "Tools & Utilities/Public APIs"
             ],
             "links": {
-                "Website": "https://transport.opendata.ch/"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "auth": "",
+            "description": "Official Swiss Public Transport Open Data",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown",
             "apiCategory": "Transportation"
@@ -28507,17 +28535,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "CodePen Radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://blog.codepen.io/favicon.ico"
-        },
-        {
             "name": "Codepen radio",
             "categories": [
                 "Programming/Podcasts"
@@ -28527,6 +28544,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
+        },
+        {
+            "name": "CodePen Radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://blog.codepen.io/favicon.ico"
         },
         {
             "name": "Commit Your Code!",
