@@ -164,6 +164,214 @@ module.exports = [
         "slug": "programming/youtube-channels"
     },
     {
+        "name": "Public APIs/All",
+        "slug": "public-apis/all"
+    },
+    {
+        "name": "Public APIs/Animals",
+        "slug": "public-apis/animals"
+    },
+    {
+        "name": "Public APIs/Anime",
+        "slug": "public-apis/anime"
+    },
+    {
+        "name": "Public APIs/Anti-Malware",
+        "slug": "public-apis/anti-malware"
+    },
+    {
+        "name": "Public APIs/Art & Design",
+        "slug": "public-apis/art-and-design"
+    },
+    {
+        "name": "Public APIs/Authentication & Authorization",
+        "slug": "public-apis/authentication-and-authorization"
+    },
+    {
+        "name": "Public APIs/Blockchain",
+        "slug": "public-apis/blockchain"
+    },
+    {
+        "name": "Public APIs/Books",
+        "slug": "public-apis/books"
+    },
+    {
+        "name": "Public APIs/Business",
+        "slug": "public-apis/business"
+    },
+    {
+        "name": "Public APIs/Calendar",
+        "slug": "public-apis/calendar"
+    },
+    {
+        "name": "Public APIs/Cloud Storage & File Sharing",
+        "slug": "public-apis/cloud-storage-and-file-sharing"
+    },
+    {
+        "name": "Public APIs/Continuous Integration",
+        "slug": "public-apis/continuous-integration"
+    },
+    {
+        "name": "Public APIs/Cryptocurrency",
+        "slug": "public-apis/cryptocurrency"
+    },
+    {
+        "name": "Public APIs/Currency Exchange",
+        "slug": "public-apis/currency-exchange"
+    },
+    {
+        "name": "Public APIs/Data Validation",
+        "slug": "public-apis/data-validation"
+    },
+    {
+        "name": "Public APIs/Development",
+        "slug": "public-apis/development"
+    },
+    {
+        "name": "Public APIs/Dictionaries",
+        "slug": "public-apis/dictionaries"
+    },
+    {
+        "name": "Public APIs/Documents & Productivity",
+        "slug": "public-apis/documents-and-productivity"
+    },
+    {
+        "name": "Public APIs/Email",
+        "slug": "public-apis/email"
+    },
+    {
+        "name": "Public APIs/Entertainment",
+        "slug": "public-apis/entertainment"
+    },
+    {
+        "name": "Public APIs/Environment",
+        "slug": "public-apis/environment"
+    },
+    {
+        "name": "Public APIs/Events",
+        "slug": "public-apis/events"
+    },
+    {
+        "name": "Public APIs/Finance",
+        "slug": "public-apis/finance"
+    },
+    {
+        "name": "Public APIs/Food & Drink",
+        "slug": "public-apis/food-and-drink"
+    },
+    {
+        "name": "Public APIs/Games & Comics",
+        "slug": "public-apis/games-and-comics"
+    },
+    {
+        "name": "Public APIs/Geocoding",
+        "slug": "public-apis/geocoding"
+    },
+    {
+        "name": "Public APIs/Government",
+        "slug": "public-apis/government"
+    },
+    {
+        "name": "Public APIs/Health",
+        "slug": "public-apis/health"
+    },
+    {
+        "name": "Public APIs/Jobs",
+        "slug": "public-apis/jobs"
+    },
+    {
+        "name": "Public APIs/Machine Learning",
+        "slug": "public-apis/machine-learning"
+    },
+    {
+        "name": "Public APIs/Music",
+        "slug": "public-apis/music"
+    },
+    {
+        "name": "Public APIs/News",
+        "slug": "public-apis/news"
+    },
+    {
+        "name": "Public APIs/Open Data",
+        "slug": "public-apis/open-data"
+    },
+    {
+        "name": "Public APIs/Open Source Projects",
+        "slug": "public-apis/open-source-projects"
+    },
+    {
+        "name": "Public APIs/Patent",
+        "slug": "public-apis/patent"
+    },
+    {
+        "name": "Public APIs/Personality",
+        "slug": "public-apis/personality"
+    },
+    {
+        "name": "Public APIs/Phone",
+        "slug": "public-apis/phone"
+    },
+    {
+        "name": "Public APIs/Photography",
+        "slug": "public-apis/photography"
+    },
+    {
+        "name": "Public APIs/Programming",
+        "slug": "public-apis/programming"
+    },
+    {
+        "name": "Public APIs/Science & Math",
+        "slug": "public-apis/science-and-math"
+    },
+    {
+        "name": "Public APIs/Security",
+        "slug": "public-apis/security"
+    },
+    {
+        "name": "Public APIs/Shopping",
+        "slug": "public-apis/shopping"
+    },
+    {
+        "name": "Public APIs/Social",
+        "slug": "public-apis/social"
+    },
+    {
+        "name": "Public APIs/Sports & Fitness",
+        "slug": "public-apis/sports-and-fitness"
+    },
+    {
+        "name": "Public APIs/Test Data",
+        "slug": "public-apis/test-data"
+    },
+    {
+        "name": "Public APIs/Text Analysis",
+        "slug": "public-apis/text-analysis"
+    },
+    {
+        "name": "Public APIs/Tracking",
+        "slug": "public-apis/tracking"
+    },
+    {
+        "name": "Public APIs/Transportation",
+        "slug": "public-apis/transportation"
+    },
+    {
+        "name": "Public APIs/URL Shorteners",
+        "slug": "public-apis/url-shorteners"
+    },
+    {
+        "name": "Public APIs/Vehicle",
+        "slug": "public-apis/vehicle"
+    },
+    {
+        "name": "Public APIs/Video",
+        "slug": "public-apis/video"
+    },
+    {
+        "name": "Public APIs/Weather",
+        "slug": "public-apis/weather"
+    },
+    {
         "name": "Tools & Utilities/Accessibility",
         "slug": "tools-and-utilities/accessibility"
     },
@@ -202,10 +410,6 @@ module.exports = [
     {
         "name": "Tools & Utilities/Performance",
         "slug": "tools-and-utilities/performance"
-    },
-    {
-        "name": "Tools & Utilities/Public APIs",
-        "slug": "tools-and-utilities/public-apis"
     },
     {
         "name": "Tools & Utilities/SEO",
