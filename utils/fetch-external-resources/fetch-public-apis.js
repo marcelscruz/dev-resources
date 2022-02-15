@@ -10,12 +10,16 @@ module.exports = async function () {
         const parsedResult = publicApis.data.entries.map((api) => {
             const parsedApi = {
                 links: {},
+                public_api_fields: {},
             }
 
             Object.entries(api).forEach(([key, value]) => {
                 switch (key) {
                     case 'API':
                         parsedApi.name = value
+                        break
+                    case 'Description':
+                        parsedApi.description = value
                         break
                     case 'Link':
                         parsedApi.links[website] = value
@@ -24,7 +28,7 @@ module.exports = async function () {
                         parsedApi.categories = ['Public APIs/All', `Public APIs/${value}`]
                         break
                     default:
-                        parsedApi[key.toLowerCase()] = value
+                        parsedApi.public_api_fields[key.toLowerCase()] = value
                         break
                 }
             })
