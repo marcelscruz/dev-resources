@@ -14338,22 +14338,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.inegi.org.mx/datos/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexican Statistical Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://datos.gob.mx/"
             },
             "public_api_fields": {
@@ -14363,6 +14347,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexico Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.inegi.org.mx/datos/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexican Statistical Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
@@ -18093,7 +18093,7 @@ module.exports = {
             "description": "German city, country, river, database",
             "categories": [
                 "Public APIs/All",
-                "Public APIs/Games & Comics"
+                "Public APIs/Geocoding"
             ]
         },
         {
@@ -18914,22 +18914,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://swapi.dev/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.swapi.tech"
             },
             "public_api_fields": {
@@ -18939,6 +18923,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All things Star Wars",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://swapi.dev/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All the Star Wars data you've ever wanted",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -31663,6 +31663,22 @@ module.exports = {
         },
         {
             "links": {
+                "Website": "https://github.com/slftool/slftool.github.io/blob/master/API.md"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SLF",
+            "description": "German city, country, river, database",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Geocoding"
+            ]
+        },
+        {
+            "links": {
                 "Website": "https://spotsense.io/"
             },
             "public_api_fields": {
@@ -37505,22 +37521,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/slftool/slftool.github.io/blob/master/API.md"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SLF",
-            "description": "German city, country, river, database",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://spacetraders.io?rel=pub-apis"
             },
             "public_api_fields": {
@@ -39753,22 +39753,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://swapi.dev/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.swapi.tech"
             },
             "public_api_fields": {
@@ -39778,6 +39762,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All things Star Wars",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://swapi.dev/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All the Star Wars data you've ever wanted",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -48747,22 +48747,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.inegi.org.mx/datos/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexican Statistical Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://datos.gob.mx/"
             },
             "public_api_fields": {
@@ -48772,6 +48756,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexico Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.inegi.org.mx/datos/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexican Statistical Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"

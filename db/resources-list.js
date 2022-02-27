@@ -12288,6 +12288,17 @@ module.exports = [
         ]
     },
     {
+        "name": "Google Fonts",
+        "categories": [
+            "Assets/Fonts"
+        ],
+        "description": "Making the web more beautiful, fast, and open through great typography.",
+        "links": {
+            "Website": "https://fonts.google.com/"
+        },
+        "icon": "https://www.gstatic.com/images/branding/product/1x/google_fonts_blue_ios_96dp.png"
+    },
+    {
         "links": {
             "Website": "https://developers.google.com/fonts/docs/developer_api"
         },
@@ -12302,17 +12313,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Development"
         ]
-    },
-    {
-        "name": "Google Fonts",
-        "categories": [
-            "Assets/Fonts"
-        ],
-        "description": "Making the web more beautiful, fast, and open through great typography.",
-        "links": {
-            "Website": "https://fonts.google.com/"
-        },
-        "icon": "https://www.gstatic.com/images/branding/product/1x/google_fonts_blue_ios_96dp.png"
     },
     {
         "links": {
@@ -13292,6 +13292,17 @@ module.exports = [
         "icon": "https://heroicons.com/_next/static/media/favicon-32x32.eee32601ba9d4702f841835990ed3801.png"
     },
     {
+        "name": "Heroku",
+        "categories": [
+            "Infrastructure/Hosting"
+        ],
+        "description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
+        "links": {
+            "Website": "https://www.heroku.com/"
+        },
+        "icon": "https://www.herokucdn.com/favicon.ico"
+    },
+    {
         "links": {
             "Website": "https://devcenter.heroku.com/articles/platform-api-reference/"
         },
@@ -13306,17 +13317,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Development"
         ]
-    },
-    {
-        "name": "Heroku",
-        "categories": [
-            "Infrastructure/Hosting"
-        ],
-        "description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
-        "links": {
-            "Website": "https://www.heroku.com/"
-        },
-        "icon": "https://www.herokucdn.com/favicon.ico"
     },
     {
         "name": "Hey Meta",
@@ -17525,17 +17525,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Get Material Icons.",
-        "links": {
-            "Website": "https://material.io/resources/icons"
-        },
-        "icon": "https://material.io/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Programming/UI Kits & Libraries"
         ],
         "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
@@ -17543,6 +17532,17 @@ module.exports = [
             "Website": "https://material.io/"
         },
         "icon": "https://material.io/static/assets/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Get Material Icons.",
+        "links": {
+            "Website": "https://material.io/resources/icons"
+        },
+        "icon": "https://material.io/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -20316,22 +20316,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://www.inegi.org.mx/datos/"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "unknown"
-        },
-        "name": "Open Government, Mexico",
-        "description": "Mexican Statistical Government Open Data",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Government"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://datos.gob.mx/"
         },
         "public_api_fields": {
@@ -20341,6 +20325,22 @@ module.exports = [
         },
         "name": "Open Government, Mexico",
         "description": "Mexico Government Open Data",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Government"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://www.inegi.org.mx/datos/"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "unknown"
+        },
+        "name": "Open Government, Mexico",
+        "description": "Mexican Statistical Government Open Data",
         "categories": [
             "Public APIs/All",
             "Public APIs/Government"
@@ -21625,6 +21625,22 @@ module.exports = [
         ]
     },
     {
+        "links": {
+            "Website": "https://www.pexels.com/api/"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Pexels",
+        "description": "Free Stock Photos and Videos",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Photography"
+        ]
+    },
+    {
         "name": "Pexels",
         "categories": [
             "Assets/Videos",
@@ -21643,22 +21659,6 @@ module.exports = [
             "Website": "https://www.pexels.com/"
         },
         "icon": "https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png"
-    },
-    {
-        "links": {
-            "Website": "https://www.pexels.com/api/"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Pexels",
-        "description": "Free Stock Photos and Videos",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Photography"
-        ]
     },
     {
         "links": {
@@ -21827,6 +21827,19 @@ module.exports = [
         ]
     },
     {
+        "name": "Pixabay",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Illustrations"
+        ],
+        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
+        "links": {
+            "Website": "https://pixabay.com/"
+        },
+        "icon": "https://pixabay.com/favicon-32x32.png"
+    },
+    {
         "links": {
             "Website": "https://pixabay.com/sk/service/about/api/"
         },
@@ -21841,19 +21854,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Photography"
         ]
-    },
-    {
-        "name": "Pixabay",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Illustrations"
-        ],
-        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
-        "links": {
-            "Website": "https://pixabay.com/"
-        },
-        "icon": "https://pixabay.com/favicon-32x32.png"
     },
     {
         "links": {
@@ -22447,6 +22447,17 @@ module.exports = [
         ]
     },
     {
+        "name": "Product Hunt",
+        "categories": [
+            "Indie Hacking/Platforms"
+        ],
+        "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
+        "links": {
+            "Website": "https://www.producthunt.com/"
+        },
+        "icon": "https://ph-static.imgix.net/ph-ios-icon.png?auto=format&auto=compress"
+    },
+    {
         "links": {
             "Website": "https://api.producthunt.com/v2/docs"
         },
@@ -22461,17 +22472,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Social"
         ]
-    },
-    {
-        "name": "Product Hunt",
-        "categories": [
-            "Indie Hacking/Platforms"
-        ],
-        "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
-        "links": {
-            "Website": "https://www.producthunt.com/"
-        },
-        "icon": "https://ph-static.imgix.net/ph-ios-icon.png?auto=format&auto=compress"
     },
     {
         "name": "Programiz",
@@ -23647,6 +23647,17 @@ module.exports = [
         ]
     },
     {
+        "name": "reddit",
+        "categories": [
+            "Community/Blogs & Forums"
+        ],
+        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
+        "links": {
+            "Website": "https://www.reddit.com/"
+        },
+        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
+    },
+    {
         "links": {
             "Website": "https://www.reddit.com/dev/api"
         },
@@ -23661,17 +23672,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Social"
         ]
-    },
-    {
-        "name": "reddit",
-        "categories": [
-            "Community/Blogs & Forums"
-        ],
-        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
-        "links": {
-            "Website": "https://www.reddit.com/"
-        },
-        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
     },
     {
         "name": "redditors for hire",
@@ -23844,6 +23844,17 @@ module.exports = [
         "icon": "https://remotive.io/web/image/website/1/favicon/"
     },
     {
+        "name": "remove.bg",
+        "categories": [
+            "Assets/Images"
+        ],
+        "description": "Remove Image Background: 100% automatically – in 5 seconds – without a single click – for free.",
+        "links": {
+            "Website": "https://www.remove.bg/"
+        },
+        "icon": "https://www.remove.bg/favicon-32x32.png?v=YAXaAv7pao"
+    },
+    {
         "links": {
             "Website": "https://www.remove.bg/api"
         },
@@ -23858,17 +23869,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Photography"
         ]
-    },
-    {
-        "name": "remove.bg",
-        "categories": [
-            "Assets/Images"
-        ],
-        "description": "Remove Image Background: 100% automatically – in 5 seconds – without a single click – for free.",
-        "links": {
-            "Website": "https://www.remove.bg/"
-        },
-        "icon": "https://www.remove.bg/favicon-32x32.png?v=YAXaAv7pao"
     },
     {
         "name": "Render",
@@ -25215,6 +25215,19 @@ module.exports = [
         ]
     },
     {
+        "name": "Shutterstock",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Icons"
+        ],
+        "description": "Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.",
+        "links": {
+            "Website": "https://www.shutterstock.com/"
+        },
+        "icon": "https://ak.picdn.net/assets/cms/sstk-favicon-72.png"
+    },
+    {
         "links": {
             "Website": "https://api-reference.shutterstock.com/"
         },
@@ -25229,19 +25242,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Photography"
         ]
-    },
-    {
-        "name": "Shutterstock",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Icons"
-        ],
-        "description": "Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.",
-        "links": {
-            "Website": "https://www.shutterstock.com/"
-        },
-        "icon": "https://ak.picdn.net/assets/cms/sstk-favicon-72.png"
     },
     {
         "name": "Sidebar",
@@ -25459,7 +25459,7 @@ module.exports = [
         "description": "German city, country, river, database",
         "categories": [
             "Public APIs/All",
-            "Public APIs/Games & Comics"
+            "Public APIs/Geocoding"
         ]
     },
     {
@@ -26745,22 +26745,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://swapi.dev/"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "SWAPI",
-        "description": "All the Star Wars data you've ever wanted",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Video"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://www.swapi.tech"
         },
         "public_api_fields": {
@@ -26770,6 +26754,22 @@ module.exports = [
         },
         "name": "SWAPI",
         "description": "All things Star Wars",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Video"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://swapi.dev/"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "SWAPI",
+        "description": "All the Star Wars data you've ever wanted",
         "categories": [
             "Public APIs/All",
             "Public APIs/Video"
