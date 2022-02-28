@@ -166,6 +166,19 @@ module.exports = [
         icon: 'https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png',
     },
     {
+        name: 'Rene Rehme',
+        categories: [community.personalWebsites],
+        description: 'A web developer blog by Rene Rehme. This blog is about front- and backend techniques.',
+        links: {
+            [website]: 'https://renerehme.dev/',
+            [twitter]: 'https://twitter.com/ReneReh1',
+            [linkedin]: 'https://de.linkedin.com/in/rene-rehme-44376017a',
+            [github]: 'https://github.com/iseries',
+            [codepen]: 'https://codepen.io/renerehme',
+        },
+        icon: 'https://renerehme.dev/favicon-32x32.png',
+    },
+    {
         name: 'Refactoring UI',
         categories: [uiDesign.learn],
         description:
