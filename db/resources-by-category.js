@@ -3922,22 +3922,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://cloudmersive.com/phone-number-validation-API"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate international phone numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Phone"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://cloudmersive.com/validate-api"
             },
             "public_api_fields": {
@@ -3950,6 +3934,22 @@ module.exports = {
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Email"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://cloudmersive.com/phone-number-validation-API"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate international phone numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Phone"
             ]
         },
         {
@@ -4738,22 +4738,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://covid19api.com/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Health"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "public_api_fields": {
@@ -4763,6 +4747,22 @@ module.exports = {
             },
             "name": "Covid-19",
             "description": "Covid 19 cases, deaths and recovery per country",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Health"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://covid19api.com/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Covid-19",
+            "description": "Covid 19 spread, infection and recovery",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Health"
@@ -14338,22 +14338,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://datos.gob.mx/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexico Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.inegi.org.mx/datos/"
             },
             "public_api_fields": {
@@ -14363,6 +14347,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexican Statistical Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://datos.gob.mx/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexico Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
@@ -16370,22 +16370,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.qrtag.net/api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Development"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "public_api_fields": {
@@ -16395,6 +16379,22 @@ module.exports = {
             },
             "name": "QR code",
             "description": "Generate and decode / read QR code graphics",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.qrtag.net/api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
@@ -18914,22 +18914,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.swapi.tech"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All things Star Wars",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://swapi.dev/"
             },
             "public_api_fields": {
@@ -18939,6 +18923,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All the Star Wars data you've ever wanted",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.swapi.tech"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All things Star Wars",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -20370,22 +20370,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://transport.opendata.ch/"
             },
             "public_api_fields": {
@@ -20402,15 +20386,15 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "public_api_fields": {
-                "auth": "",
+                "auth": "apiKey",
                 "https": true,
                 "cors": "unknown"
             },
-            "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
+            "name": "Transport for Switzerland",
+            "description": "Official Swiss Public Transport Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -20427,6 +20411,22 @@ module.exports = {
             },
             "name": "Transport for The Netherlands",
             "description": "NS, only trains",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "OVAPI, country-wide public transport",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -27185,22 +27185,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.qrtag.net/api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Development"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "public_api_fields": {
@@ -27210,6 +27194,22 @@ module.exports = {
             },
             "name": "QR code",
             "description": "Generate and decode / read QR code graphics",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.qrtag.net/api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
@@ -27725,6 +27725,24 @@ module.exports = {
                 "Website": "https://golangjob.xyz/"
             },
             "icon": "https://golangjob.xyz/img/icons/favicon-32x32.png"
+        },
+        {
+            "name": "Himalayas",
+            "categories": [
+                "Jobs/Boards"
+            ],
+            "description": "Experience the remote ecosystem - find a remote job you love, research the fastest-growing remote companies, and hire experienced remote workers.",
+            "keywords": [
+                "himalayas",
+                "remote",
+                "jobs",
+                "developer",
+                "sales"
+            ],
+            "links": {
+                "Website": "https://himalayas.app"
+            },
+            "icon": "https://ik.imagekit.io/himalayas/himalayas-icon_J2SoMLtNA9W?ik-sdk-version=javascript-1.4.3&updatedAt=1644362275336"
         },
         {
             "name": "hire.AR",
@@ -35225,22 +35243,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://transport.opendata.ch/"
             },
             "public_api_fields": {
@@ -35257,15 +35259,15 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "public_api_fields": {
-                "auth": "",
+                "auth": "apiKey",
                 "https": true,
                 "cors": "unknown"
             },
-            "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
+            "name": "Transport for Switzerland",
+            "description": "Official Swiss Public Transport Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -35282,6 +35284,22 @@ module.exports = {
             },
             "name": "Transport for The Netherlands",
             "description": "NS, only trains",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "OVAPI, country-wide public transport",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -39753,22 +39771,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.swapi.tech"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All things Star Wars",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://swapi.dev/"
             },
             "public_api_fields": {
@@ -39778,6 +39780,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All the Star Wars data you've ever wanted",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.swapi.tech"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All things Star Wars",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -48747,22 +48765,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://datos.gob.mx/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexico Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.inegi.org.mx/datos/"
             },
             "public_api_fields": {
@@ -48772,6 +48774,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexican Statistical Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://datos.gob.mx/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexico Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
@@ -53073,22 +53091,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://covid19api.com/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Health"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "public_api_fields": {
@@ -53098,6 +53100,22 @@ module.exports = {
             },
             "name": "Covid-19",
             "description": "Covid 19 cases, deaths and recovery per country",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Health"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://covid19api.com/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Covid-19",
+            "description": "Covid 19 spread, infection and recovery",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Health"
@@ -55656,6 +55674,21 @@ module.exports = {
                 "Website": "https://mouadessalim.xyz/"
             },
             "icon": "https://mouadessalim.xyz/wp-content/uploads/fbrfg/favicon-32x32.png"
+        },
+        {
+            "name": "Rene Rehme",
+            "categories": [
+                "Community/Personal Websites"
+            ],
+            "description": "A web developer blog by Rene Rehme. This blog is about front- and backend techniques.",
+            "links": {
+                "Website": "https://renerehme.dev/",
+                "Twitter": "https://twitter.com/ReneReh1",
+                "LinkedIn": "https://de.linkedin.com/in/rene-rehme-44376017a",
+                "GitHub": "https://github.com/iseries",
+                "CodePen": "https://codepen.io/renerehme"
+            },
+            "icon": "https://renerehme.dev/favicon-32x32.png"
         }
     ],
     "indie-hacking/books": [

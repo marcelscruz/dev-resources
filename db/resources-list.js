@@ -5148,22 +5148,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://cloudmersive.com/phone-number-validation-API"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Cloudmersive Validate",
-        "description": "Validate international phone numbers",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Phone"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://cloudmersive.com/validate-api"
         },
         "public_api_fields": {
@@ -5176,6 +5160,22 @@ module.exports = [
         "categories": [
             "Public APIs/All",
             "Public APIs/Email"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://cloudmersive.com/phone-number-validation-API"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Cloudmersive Validate",
+        "description": "Validate international phone numbers",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Phone"
         ]
     },
     {
@@ -6137,6 +6137,17 @@ module.exports = [
         "icon": "https://colorlib.com/wp/wp-content/uploads/sites/2/2014/05/ipad-colorlib.png"
     },
     {
+        "name": "Colormind",
+        "categories": [
+            "UI Design/Color"
+        ],
+        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
+        "links": {
+            "Website": "http://colormind.io/"
+        },
+        "icon": "http://colormind.io/favicon32.gif"
+    },
+    {
         "links": {
             "Website": "http://colormind.io/api-access/"
         },
@@ -6151,17 +6162,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Art & Design"
         ]
-    },
-    {
-        "name": "Colormind",
-        "categories": [
-            "UI Design/Color"
-        ],
-        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
-        "links": {
-            "Website": "http://colormind.io/"
-        },
-        "icon": "http://colormind.io/favicon32.gif"
     },
     {
         "name": "colors.lol",
@@ -6740,22 +6740,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://covid19api.com/"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Covid-19",
-        "description": "Covid 19 spread, infection and recovery",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Health"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://github.com/M-Media-Group/Covid-19-API"
         },
         "public_api_fields": {
@@ -6765,6 +6749,22 @@ module.exports = [
         },
         "name": "Covid-19",
         "description": "Covid 19 cases, deaths and recovery per country",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Health"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://covid19api.com/"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Covid-19",
+        "description": "Covid 19 spread, infection and recovery",
         "categories": [
             "Public APIs/All",
             "Public APIs/Health"
@@ -12288,17 +12288,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Google Fonts",
-        "categories": [
-            "Assets/Fonts"
-        ],
-        "description": "Making the web more beautiful, fast, and open through great typography.",
-        "links": {
-            "Website": "https://fonts.google.com/"
-        },
-        "icon": "https://www.gstatic.com/images/branding/product/1x/google_fonts_blue_ios_96dp.png"
-    },
-    {
         "links": {
             "Website": "https://developers.google.com/fonts/docs/developer_api"
         },
@@ -12313,6 +12302,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Development"
         ]
+    },
+    {
+        "name": "Google Fonts",
+        "categories": [
+            "Assets/Fonts"
+        ],
+        "description": "Making the web more beautiful, fast, and open through great typography.",
+        "links": {
+            "Website": "https://fonts.google.com/"
+        },
+        "icon": "https://www.gstatic.com/images/branding/product/1x/google_fonts_blue_ios_96dp.png"
     },
     {
         "links": {
@@ -13380,6 +13380,24 @@ module.exports = [
         "icon": "https://www.highcharts.com/images/ico/favicon-96x96.png"
     },
     {
+        "name": "Himalayas",
+        "categories": [
+            "Jobs/Boards"
+        ],
+        "description": "Experience the remote ecosystem - find a remote job you love, research the fastest-growing remote companies, and hire experienced remote workers.",
+        "keywords": [
+            "himalayas",
+            "remote",
+            "jobs",
+            "developer",
+            "sales"
+        ],
+        "links": {
+            "Website": "https://himalayas.app"
+        },
+        "icon": "https://ik.imagekit.io/himalayas/himalayas-icon_J2SoMLtNA9W?ik-sdk-version=javascript-1.4.3&updatedAt=1644362275336"
+    },
+    {
         "name": "hire.AR",
         "categories": [
             "Jobs/Boards"
@@ -13943,22 +13961,6 @@ module.exports = [
         ]
     },
     {
-        "links": {
-            "Website": "https://icon.horse"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Icon Horse",
-        "description": "Favicons for any website, with fallbacks",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Art & Design"
-        ]
-    },
-    {
         "name": "Icon Horse",
         "categories": [
             "Assets/Icons"
@@ -13976,6 +13978,22 @@ module.exports = [
             "Twitter": "https://twitter.com/iconhorse"
         },
         "icon": "https://icon.horse/icon/icon.horse"
+    },
+    {
+        "links": {
+            "Website": "https://icon.horse"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Icon Horse",
+        "description": "Favicons for any website, with fallbacks",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Art & Design"
+        ]
     },
     {
         "links": {
@@ -17525,17 +17543,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Programming/UI Kits & Libraries"
-        ],
-        "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
-        "links": {
-            "Website": "https://material.io/"
-        },
-        "icon": "https://material.io/static/assets/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Assets/Icons"
         ],
         "description": "Get Material Icons.",
@@ -17543,6 +17550,17 @@ module.exports = [
             "Website": "https://material.io/resources/icons"
         },
         "icon": "https://material.io/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Programming/UI Kits & Libraries"
+        ],
+        "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
+        "links": {
+            "Website": "https://material.io/"
+        },
+        "icon": "https://material.io/static/assets/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -20316,22 +20334,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://datos.gob.mx/"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "unknown"
-        },
-        "name": "Open Government, Mexico",
-        "description": "Mexico Government Open Data",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Government"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://www.inegi.org.mx/datos/"
         },
         "public_api_fields": {
@@ -20341,6 +20343,22 @@ module.exports = [
         },
         "name": "Open Government, Mexico",
         "description": "Mexican Statistical Government Open Data",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Government"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://datos.gob.mx/"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "unknown"
+        },
+        "name": "Open Government, Mexico",
+        "description": "Mexico Government Open Data",
         "categories": [
             "Public APIs/All",
             "Public APIs/Government"
@@ -21827,19 +21845,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Pixabay",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Illustrations"
-        ],
-        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
-        "links": {
-            "Website": "https://pixabay.com/"
-        },
-        "icon": "https://pixabay.com/favicon-32x32.png"
-    },
-    {
         "links": {
             "Website": "https://pixabay.com/sk/service/about/api/"
         },
@@ -21854,6 +21859,19 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Photography"
         ]
+    },
+    {
+        "name": "Pixabay",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Illustrations"
+        ],
+        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
+        "links": {
+            "Website": "https://pixabay.com/"
+        },
+        "icon": "https://pixabay.com/favicon-32x32.png"
     },
     {
         "links": {
@@ -22851,22 +22869,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://www.qrtag.net/api/"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "QR code",
-        "description": "Create an easy to read QR code and URL shortener",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Development"
-        ]
-    },
-    {
-        "links": {
             "Website": "http://goqr.me/api/"
         },
         "public_api_fields": {
@@ -22876,6 +22878,22 @@ module.exports = [
         },
         "name": "QR code",
         "description": "Generate and decode / read QR code graphics",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Development"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://www.qrtag.net/api/"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "QR code",
+        "description": "Create an easy to read QR code and URL shortener",
         "categories": [
             "Public APIs/All",
             "Public APIs/Development"
@@ -23647,17 +23665,6 @@ module.exports = [
         ]
     },
     {
-        "name": "reddit",
-        "categories": [
-            "Community/Blogs & Forums"
-        ],
-        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
-        "links": {
-            "Website": "https://www.reddit.com/"
-        },
-        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
-    },
-    {
         "links": {
             "Website": "https://www.reddit.com/dev/api"
         },
@@ -23672,6 +23679,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Social"
         ]
+    },
+    {
+        "name": "reddit",
+        "categories": [
+            "Community/Blogs & Forums"
+        ],
+        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
+        "links": {
+            "Website": "https://www.reddit.com/"
+        },
+        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
     },
     {
         "name": "redditors for hire",
@@ -23891,6 +23909,21 @@ module.exports = [
             "Website": "https://cassidoo.co/newsletter/"
         },
         "icon": "https://cassidoo.co/img/favicon-32x32.png"
+    },
+    {
+        "name": "Rene Rehme",
+        "categories": [
+            "Community/Personal Websites"
+        ],
+        "description": "A web developer blog by Rene Rehme. This blog is about front- and backend techniques.",
+        "links": {
+            "Website": "https://renerehme.dev/",
+            "Twitter": "https://twitter.com/ReneReh1",
+            "LinkedIn": "https://de.linkedin.com/in/rene-rehme-44376017a",
+            "GitHub": "https://github.com/iseries",
+            "CodePen": "https://codepen.io/renerehme"
+        },
+        "icon": "https://renerehme.dev/favicon-32x32.png"
     },
     {
         "links": {
@@ -26745,22 +26778,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://www.swapi.tech"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "SWAPI",
-        "description": "All things Star Wars",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Video"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://swapi.dev/"
         },
         "public_api_fields": {
@@ -26770,6 +26787,22 @@ module.exports = [
         },
         "name": "SWAPI",
         "description": "All the Star Wars data you've ever wanted",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Video"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://www.swapi.tech"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "SWAPI",
+        "description": "All things Star Wars",
         "categories": [
             "Public APIs/All",
             "Public APIs/Video"
@@ -28683,22 +28716,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://opentransportdata.swiss/en/"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "unknown"
-        },
-        "name": "Transport for Switzerland",
-        "description": "Official Swiss Public Transport Open Data",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Transportation"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://transport.opendata.ch/"
         },
         "public_api_fields": {
@@ -28715,15 +28732,15 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            "Website": "https://opentransportdata.swiss/en/"
         },
         "public_api_fields": {
-            "auth": "",
+            "auth": "apiKey",
             "https": true,
             "cors": "unknown"
         },
-        "name": "Transport for The Netherlands",
-        "description": "OVAPI, country-wide public transport",
+        "name": "Transport for Switzerland",
+        "description": "Official Swiss Public Transport Open Data",
         "categories": [
             "Public APIs/All",
             "Public APIs/Transportation"
@@ -28740,6 +28757,22 @@ module.exports = [
         },
         "name": "Transport for The Netherlands",
         "description": "NS, only trains",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Transportation"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "unknown"
+        },
+        "name": "Transport for The Netherlands",
+        "description": "OVAPI, country-wide public transport",
         "categories": [
             "Public APIs/All",
             "Public APIs/Transportation"
@@ -29685,6 +29718,17 @@ module.exports = [
         "icon": "https://upto.site/favicon.png"
     },
     {
+        "name": "Upwork",
+        "categories": [
+            "Jobs/Freelancing"
+        ],
+        "description": "Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.",
+        "links": {
+            "Website": "https://www.upwork.com/"
+        },
+        "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
+    },
+    {
         "links": {
             "Website": "https://developers.upwork.com/"
         },
@@ -29699,17 +29743,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Jobs"
         ]
-    },
-    {
-        "name": "Upwork",
-        "categories": [
-            "Jobs/Freelancing"
-        ],
-        "description": "Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.",
-        "links": {
-            "Website": "https://www.upwork.com/"
-        },
-        "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
     },
     {
         "links": {
@@ -30698,6 +30731,22 @@ module.exports = [
         ]
     },
     {
+        "links": {
+            "Website": "https://warrant.dev/"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Warrant",
+        "description": "APIs for authorization and access control",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Authentication & Authorization"
+        ]
+    },
+    {
         "name": "Warrant",
         "categories": [
             "Infrastructure/Auth"
@@ -30715,22 +30764,6 @@ module.exports = [
             "authorization",
             "authz",
             "access control"
-        ]
-    },
-    {
-        "links": {
-            "Website": "https://warrant.dev/"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Warrant",
-        "description": "APIs for authorization and access control",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Authentication & Authorization"
         ]
     },
     {
@@ -30782,17 +30815,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Wave",
-        "categories": [
-            "Tools & Utilities/General"
-        ],
-        "description": "Free invoicing & accounting software with credit card processing & payroll services.",
-        "links": {
-            "Website": "https://www.waveapps.com/"
-        },
-        "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
-    },
-    {
         "name": "WAVE",
         "categories": [
             "Tools & Utilities/Accessibility"
@@ -30802,6 +30824,17 @@ module.exports = [
             "Website": "https://wave.webaim.org/"
         },
         "icon": "https://wave.webaim.org/favicon.ico"
+    },
+    {
+        "name": "Wave",
+        "categories": [
+            "Tools & Utilities/General"
+        ],
+        "description": "Free invoicing & accounting software with credit card processing & payroll services.",
+        "links": {
+            "Website": "https://www.waveapps.com/"
+        },
+        "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
     },
     {
         "name": "We Work Remotely",
