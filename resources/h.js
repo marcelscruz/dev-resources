@@ -197,6 +197,22 @@ module.exports = [
         icon: 'https://www.highcharts.com/images/ico/favicon-96x96.png',
     },
     {
+        name: 'Himalayas',
+        categories: [jobs.boards],
+        description: 'Experience the remote ecosystem - find a remote job you love, research the fastest-growing remote companies, and hire experienced remote workers.',
+        keywords: [
+            'himalayas',
+            'remote',
+            'jobs',
+            'developer',
+            'sales',
+        ],
+        links: {
+            [website]: 'https://himalayas.app',
+        },
+        icon: 'https://ik.imagekit.io/himalayas/himalayas-icon_J2SoMLtNA9W?ik-sdk-version=javascript-1.4.3&updatedAt=1644362275336',
+    },
+    {
         name: 'hire.AR',
         categories: [jobs.boards],
         description:
