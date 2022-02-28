@@ -7,7 +7,7 @@ const {
     assets,
     infrastructure,
 } = require('../constants/categories')
-const { website, twitter, linkedin, github, facebook, youtube, instagram } = require('../constants/links')
+const { website, twitter, linkedin, github, facebook, youtube, instagram, codepen } = require('../constants/links')
 
 module.exports = [
     {
