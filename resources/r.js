@@ -358,6 +358,18 @@ module.exports = [
         icon: 'https://retool.com/favicon.png',
     },
     {
+        name: 'Rick Blyth',
+        categories: [community.personalWebsites],
+        description: 'Rick Blyth is a Micro SaaS Founder who shares tips on getting started with Micro SaaS, Passive Income, Quit Your Job and Chrome Extensions. Home of the free 12 chapter Micro SaaS Handbook.',
+        links: {
+            [website]: 'https://rickblyth.com/',
+            [facebook]: 'https://www.facebook.com/rickblythmicrosaas',
+            [twitter]: 'https://twitter.com/rick_blyth',
+            [youtube]: 'https://www.youtube.com/channel/UC_K6le9py40qyCLp_8FdOQQ',
+        },
+        icon: 'https://assets.grooveapps.com/images/5f3e7d217cadae003769b3fd/1646060069_rickblythhalftonestransparent.png',
+    },
+    {
         name: 'Rider',
         categories: [toolsAndUtilities.editorsAndExtensions],
         description: 'Develop .NET, ASP.NET, .NET Core, Xamarin or Unity applications on Windows, Mac, Linux.',
