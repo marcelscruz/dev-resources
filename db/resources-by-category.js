@@ -1890,22 +1890,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://bhagavadgita.io/api"
-            },
-            "public_api_fields": {
-                "auth": "OAuth",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Books"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://docs.bhagavadgitaapi.in"
             },
             "public_api_fields": {
@@ -1915,6 +1899,22 @@ module.exports = {
             },
             "name": "Bhagavad Gita",
             "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Books"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://bhagavadgita.io/api"
+            },
+            "public_api_fields": {
+                "auth": "OAuth",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Bhagavad Gita text",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Books"
@@ -4738,22 +4738,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Health"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://covid19api.com/"
             },
             "public_api_fields": {
@@ -4763,6 +4747,22 @@ module.exports = {
             },
             "name": "Covid-19",
             "description": "Covid 19 spread, infection and recovery",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Health"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Covid-19",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Health"
@@ -5826,22 +5826,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://dukengn.github.io/Dog-facts-API/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Dog Facts",
-            "description": "Random dog facts",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Animals"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://kinduff.github.io/dog-api/"
             },
             "public_api_fields": {
@@ -5851,6 +5835,22 @@ module.exports = {
             },
             "name": "Dog Facts",
             "description": "Random facts of Dogs",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Animals"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://dukengn.github.io/Dog-facts-API/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Dog Facts",
+            "description": "Random dog facts",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Animals"
@@ -16370,22 +16370,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://goqr.me/api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Development"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.qrtag.net/api/"
             },
             "public_api_fields": {
@@ -16395,6 +16379,22 @@ module.exports = {
             },
             "name": "QR code",
             "description": "Create an easy to read QR code and URL shortener",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://goqr.me/api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
@@ -18626,22 +18626,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Steam",
-            "description": "Internal Steam Web API documentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://steamapi.xpaw.me/"
             },
             "public_api_fields": {
@@ -18651,6 +18635,22 @@ module.exports = {
             },
             "name": "Steam",
             "description": "Steam Web API documentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Steam",
+            "description": "Internal Steam Web API documentation",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
@@ -18914,22 +18914,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://swapi.dev/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.swapi.tech"
             },
             "public_api_fields": {
@@ -18939,6 +18923,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All things Star Wars",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://swapi.dev/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All the Star Wars data you've ever wanted",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -20370,22 +20370,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://transport.opendata.ch/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://opentransportdata.swiss/en/"
             },
             "public_api_fields": {
@@ -20395,6 +20379,22 @@ module.exports = {
             },
             "name": "Transport for Switzerland",
             "description": "Official Swiss Public Transport Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://transport.opendata.ch/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Transport for Switzerland",
+            "description": "Swiss public transport API",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -27185,22 +27185,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://goqr.me/api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Development"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.qrtag.net/api/"
             },
             "public_api_fields": {
@@ -27210,6 +27194,22 @@ module.exports = {
             },
             "name": "QR code",
             "description": "Create an easy to read QR code and URL shortener",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://goqr.me/api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
@@ -29728,22 +29728,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://bhagavadgita.io/api"
-            },
-            "public_api_fields": {
-                "auth": "OAuth",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Books"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://docs.bhagavadgitaapi.in"
             },
             "public_api_fields": {
@@ -29753,6 +29737,22 @@ module.exports = {
             },
             "name": "Bhagavad Gita",
             "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Books"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://bhagavadgita.io/api"
+            },
+            "public_api_fields": {
+                "auth": "OAuth",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Bhagavad Gita text",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Books"
@@ -33644,22 +33644,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://dukengn.github.io/Dog-facts-API/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Dog Facts",
-            "description": "Random dog facts",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Animals"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://kinduff.github.io/dog-api/"
             },
             "public_api_fields": {
@@ -33669,6 +33653,22 @@ module.exports = {
             },
             "name": "Dog Facts",
             "description": "Random facts of Dogs",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Animals"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://dukengn.github.io/Dog-facts-API/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Dog Facts",
+            "description": "Random dog facts",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Animals"
@@ -35243,22 +35243,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://transport.opendata.ch/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://opentransportdata.swiss/en/"
             },
             "public_api_fields": {
@@ -35268,6 +35252,22 @@ module.exports = {
             },
             "name": "Transport for Switzerland",
             "description": "Official Swiss Public Transport Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://transport.opendata.ch/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Transport for Switzerland",
+            "description": "Swiss public transport API",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -37555,22 +37555,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Steam",
-            "description": "Internal Steam Web API documentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://steamapi.xpaw.me/"
             },
             "public_api_fields": {
@@ -37580,6 +37564,22 @@ module.exports = {
             },
             "name": "Steam",
             "description": "Steam Web API documentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Steam",
+            "description": "Internal Steam Web API documentation",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
@@ -38212,6 +38212,390 @@ module.exports = {
             ]
         }
     ],
+    "indie-hacking/utilities": [
+        {
+            "name": "Airtable",
+            "categories": [
+                "Indie Hacking/Utilities",
+                "Infrastructure/Databases",
+                "Infrastructure/Serverless"
+            ],
+            "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+            "links": {
+                "Website": "https://airtable.com/"
+            },
+            "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
+        },
+        {
+            "name": "CopyAI",
+            "categories": [
+                "Tools & Utilities/Writing",
+                "Indie Hacking/Utilities"
+            ],
+            "description": "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds!",
+            "links": {
+                "Website": "https://www.copy.ai/"
+            },
+            "icon": "https://assets-global.website-files.com/5f4ec532319820f7c2ccd7a3/5f55620b7b806770e6becea2_32x32%20favico.png"
+        },
+        {
+            "name": "Customer.io",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions.",
+            "links": {
+                "Website": "https://customer.io/"
+            },
+            "icon": "https://customer.io/wp-content/uploads/2019/01/customer-io-touchicon-180.png"
+        },
+        {
+            "name": "Get The Audience",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached.",
+            "links": {
+                "Website": "https://gettheaudience.com/",
+                "Twitter": "https://twitter.com/GetTheAudience"
+            },
+            "icon": "https://gettheaudience.com/images/icons/icon-96x96.png"
+        },
+        {
+            "name": "Hive Index",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "Find online communities, across all platforms, for any topic.",
+            "links": {
+                "Website": "https://thehiveindex.com/",
+                "Twitter": "https://twitter.com/thehiveindex"
+            },
+            "icon": "https://thehiveindex.com/icons/icon-96x96.png"
+        },
+        {
+            "name": "Indie Drops",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "Secure unbelivably good deals on early-stage products before they take off.",
+            "links": {
+                "Website": "http://indiedrops.com/"
+            },
+            "icon": "http://indiedrops.com/apple-touch-icon.png"
+        },
+        {
+            "name": "Mailchimp",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.",
+            "links": {
+                "Website": "https://mailchimp.com/"
+            },
+            "icon": "https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png"
+        },
+        {
+            "name": "MicroAcquire",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "MicroAcquire helps startups find buyers. Simple as that. We’ll help you start conversations that lead to an acquisition in just 30 days – for free.",
+            "links": {
+                "Website": "https://microacquire.com/",
+                "Twitter": "https://twitter.com/microacquire",
+                "LinkedIn": "https://www.linkedin.com/company/microacquire/about",
+                "Facebook": "https://facebook.com/microacquire"
+            },
+            "icon": "https://microacquire.com/assets/img/favicon-32x32.png"
+        },
+        {
+            "name": "Orbit",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "Orbit is the community experience platform for developers, helping organizations build enthusiastic communities of technology adopters.",
+            "links": {
+                "Website": "https://orbit.love/",
+                "GitHub": "https://github.com/orbit-love/",
+                "Twitter": "https://twitter.com/OrbitModel"
+            },
+            "icon": "https://orbit.love/assets/images/favicon/32x32.png"
+        },
+        {
+            "name": "SaaS4Devs",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "An awesome collection of content for developers trying to bootstrap their SaaS business. Free & Open source from day one.",
+            "links": {
+                "Website": "https://saas4devs.tech/"
+            },
+            "icon": "https://saas4devs.tech/logo192.png"
+        },
+        {
+            "name": "SaaSFrame",
+            "categories": [
+                "Indie Hacking/Utilities",
+                "Indie Hacking/Marketing"
+            ],
+            "description": "Browse hundreds of SaaS marketing pages, product interfaces and email flows. Get inspired by the design and copywriting patterns used by top-class SaaS companies.",
+            "links": {
+                "Website": "https://www.saasframe.io/"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5e9dc792e1210c2d5df7eba4/5eb80e9cf92b58597818939f_Webp.net-resizeimage%20(4).png"
+        }
+    ],
+    "infrastructure/databases": [
+        {
+            "name": "Airtable",
+            "categories": [
+                "Indie Hacking/Utilities",
+                "Infrastructure/Databases",
+                "Infrastructure/Serverless"
+            ],
+            "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+            "links": {
+                "Website": "https://airtable.com/"
+            },
+            "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
+        },
+        {
+            "name": "Cassandra",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters.",
+            "links": {
+                "Website": "http://cassandra.apache.org/"
+            },
+            "icon": "https://cassandra.apache.org/favicon.ico"
+        },
+        {
+            "name": "CouchDB",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice.",
+            "links": {
+                "Website": "https://couchdb.apache.org/"
+            },
+            "icon": "https://couchdb.apache.org/favicon-32x32.png"
+        },
+        {
+            "name": "DynamoDB",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "Amazon DynamoDB is a nonrelational database. This database system provides consistent latency and offers built-in security and in-memory caching. DynamoDB is a serverless database which scales automatically and backs up your data for protection.",
+            "links": {
+                "Website": "https://aws.amazon.com/dynamodb/"
+            },
+            "icon": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"
+        },
+        {
+            "name": "Firebase",
+            "categories": [
+                "Infrastructure/Hosting",
+                "Infrastructure/Databases",
+                "Infrastructure/Serverless",
+                "Infrastructure/Auth"
+            ],
+            "description": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
+            "links": {
+                "Website": "https://firebase.google.com/"
+            },
+            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
+        },
+        {
+            "name": "Firestore",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps through realtime listeners and offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity. Cloud Firestore also offers seamless integration with other Firebase and Google Cloud products, including Cloud Functions.",
+            "links": {
+                "Website": "https://firebase.google.com/docs/firestore"
+            },
+            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
+        },
+        {
+            "name": "Microsoft SQL Server",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge.",
+            "links": {
+                "Website": "https://www.microsoft.com/en-us/sql-server"
+            },
+            "icon": "https://www.microsoft.com/favicon.ico"
+        },
+        {
+            "name": "MongoDB",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.",
+            "links": {
+                "Website": "https://www.mongodb.com/"
+            },
+            "icon": "https://www.mongodb.com/assets/images/global/favicon.ico"
+        },
+        {
+            "name": "MySQL",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "MySQL Database Service is a fully managed database service to deploy cloud-native applications.",
+            "links": {
+                "Website": "https://www.mysql.com/"
+            },
+            "icon": "https://labs.mysql.com/common/themes/sakila/favicon.ico"
+        },
+        {
+            "name": "PostgreSQL",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.",
+            "links": {
+                "Website": "https://www.postgresql.org/"
+            },
+            "icon": "https://www.postgresql.org/favicon.ico"
+        },
+        {
+            "name": "SQLite",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "SQLite is an open-source, embedded, relational database management system, designed circa 2000. It is a database, with zero configuration, no requirements of a server or installation. Despite its simplicity, it is laden with popular features of database management systems.",
+            "links": {
+                "Website": "https://www.sqlite.org/index.html"
+            },
+            "icon": "https://www.sqlite.org/favicon.ico"
+        },
+        {
+            "name": "Supabase",
+            "categories": [
+                "Infrastructure/Serverless",
+                "Infrastructure/Databases"
+            ],
+            "description": "Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.",
+            "links": {
+                "Website": "https://supabase.io/"
+            },
+            "icon": "https://supabase.io/new/favicon/favicon-32x32.png"
+        },
+        {
+            "name": "XServer",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "XServer - JSON-based backend for Mobile apps, Websites and Unity games.",
+            "keywords": [
+                "iOS",
+                "Android",
+                "JavaScript",
+                "apps",
+                "backend",
+                "mobile",
+                "website",
+                "baas",
+                "parse",
+                "firebase",
+                "database",
+                "json",
+                "php",
+                "javascript",
+                "jquery"
+            ],
+            "links": {
+                "Website": "https://xserver.app/"
+            },
+            "icon": "https://xserver.app/assets/img/favicon.png"
+        }
+    ],
+    "infrastructure/serverless": [
+        {
+            "name": "Airtable",
+            "categories": [
+                "Indie Hacking/Utilities",
+                "Infrastructure/Databases",
+                "Infrastructure/Serverless"
+            ],
+            "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+            "links": {
+                "Website": "https://airtable.com/"
+            },
+            "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
+        },
+        {
+            "name": "Cloudflare Pages",
+            "categories": [
+                "Infrastructure/Serverless",
+                "Infrastructure/Hosting"
+            ],
+            "description": "Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.",
+            "links": {
+                "Website": "https://pages.cloudflare.com/"
+            },
+            "icon": "https://pages.cloudflare.com/resources/logo/logo.svg",
+            "keywords": [
+                "jamstack",
+                "serverless",
+                "hosting",
+                "development"
+            ]
+        },
+        {
+            "name": "Cloudflare Workers",
+            "categories": [
+                "Infrastructure/Serverless"
+            ],
+            "description": "Cloudflare workers allow you to host serverless code. The free plan is also ideal for static site hosting",
+            "links": {
+                "Website": "https://workers.cloudflare.com/"
+            },
+            "icon": "https://workers.cloudflare.com/favicon.ico"
+        },
+        {
+            "name": "Firebase",
+            "categories": [
+                "Infrastructure/Hosting",
+                "Infrastructure/Databases",
+                "Infrastructure/Serverless",
+                "Infrastructure/Auth"
+            ],
+            "description": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
+            "links": {
+                "Website": "https://firebase.google.com/"
+            },
+            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
+        },
+        {
+            "name": "Serverless Stack",
+            "categories": [
+                "Tools & Utilities/API Building",
+                "Infrastructure/Serverless"
+            ],
+            "description": "Serverless Stack (SST) is a framework that makes it easy to build serverless applications.",
+            "links": {
+                "Website": "https://serverless-stack.com/"
+            },
+            "icon": "https://serverless-stack.com/assets/favicon-32x32.png"
+        },
+        {
+            "name": "Supabase",
+            "categories": [
+                "Infrastructure/Serverless",
+                "Infrastructure/Databases"
+            ],
+            "description": "Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.",
+            "links": {
+                "Website": "https://supabase.io/"
+            },
+            "icon": "https://supabase.io/new/favicon/favicon-32x32.png"
+        }
+    ],
     "public-apis/documents-and-productivity": [
         {
             "links": {
@@ -38644,390 +39028,6 @@ module.exports = {
                 "Public APIs/All",
                 "Public APIs/Documents & Productivity"
             ]
-        }
-    ],
-    "indie-hacking/utilities": [
-        {
-            "name": "Airtable",
-            "categories": [
-                "Indie Hacking/Utilities",
-                "Infrastructure/Databases",
-                "Infrastructure/Serverless"
-            ],
-            "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
-            "links": {
-                "Website": "https://airtable.com/"
-            },
-            "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
-        },
-        {
-            "name": "CopyAI",
-            "categories": [
-                "Tools & Utilities/Writing",
-                "Indie Hacking/Utilities"
-            ],
-            "description": "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds!",
-            "links": {
-                "Website": "https://www.copy.ai/"
-            },
-            "icon": "https://assets-global.website-files.com/5f4ec532319820f7c2ccd7a3/5f55620b7b806770e6becea2_32x32%20favico.png"
-        },
-        {
-            "name": "Customer.io",
-            "categories": [
-                "Indie Hacking/Utilities"
-            ],
-            "description": "With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions.",
-            "links": {
-                "Website": "https://customer.io/"
-            },
-            "icon": "https://customer.io/wp-content/uploads/2019/01/customer-io-touchicon-180.png"
-        },
-        {
-            "name": "Get The Audience",
-            "categories": [
-                "Indie Hacking/Utilities"
-            ],
-            "description": "Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached.",
-            "links": {
-                "Website": "https://gettheaudience.com/",
-                "Twitter": "https://twitter.com/GetTheAudience"
-            },
-            "icon": "https://gettheaudience.com/images/icons/icon-96x96.png"
-        },
-        {
-            "name": "Hive Index",
-            "categories": [
-                "Indie Hacking/Utilities"
-            ],
-            "description": "Find online communities, across all platforms, for any topic.",
-            "links": {
-                "Website": "https://thehiveindex.com/",
-                "Twitter": "https://twitter.com/thehiveindex"
-            },
-            "icon": "https://thehiveindex.com/icons/icon-96x96.png"
-        },
-        {
-            "name": "Indie Drops",
-            "categories": [
-                "Indie Hacking/Utilities"
-            ],
-            "description": "Secure unbelivably good deals on early-stage products before they take off.",
-            "links": {
-                "Website": "http://indiedrops.com/"
-            },
-            "icon": "http://indiedrops.com/apple-touch-icon.png"
-        },
-        {
-            "name": "Mailchimp",
-            "categories": [
-                "Indie Hacking/Utilities"
-            ],
-            "description": "Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.",
-            "links": {
-                "Website": "https://mailchimp.com/"
-            },
-            "icon": "https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png"
-        },
-        {
-            "name": "MicroAcquire",
-            "categories": [
-                "Indie Hacking/Utilities"
-            ],
-            "description": "MicroAcquire helps startups find buyers. Simple as that. We’ll help you start conversations that lead to an acquisition in just 30 days – for free.",
-            "links": {
-                "Website": "https://microacquire.com/",
-                "Twitter": "https://twitter.com/microacquire",
-                "LinkedIn": "https://www.linkedin.com/company/microacquire/about",
-                "Facebook": "https://facebook.com/microacquire"
-            },
-            "icon": "https://microacquire.com/assets/img/favicon-32x32.png"
-        },
-        {
-            "name": "Orbit",
-            "categories": [
-                "Indie Hacking/Utilities"
-            ],
-            "description": "Orbit is the community experience platform for developers, helping organizations build enthusiastic communities of technology adopters.",
-            "links": {
-                "Website": "https://orbit.love/",
-                "GitHub": "https://github.com/orbit-love/",
-                "Twitter": "https://twitter.com/OrbitModel"
-            },
-            "icon": "https://orbit.love/assets/images/favicon/32x32.png"
-        },
-        {
-            "name": "SaaS4Devs",
-            "categories": [
-                "Indie Hacking/Utilities"
-            ],
-            "description": "An awesome collection of content for developers trying to bootstrap their SaaS business. Free & Open source from day one.",
-            "links": {
-                "Website": "https://saas4devs.tech/"
-            },
-            "icon": "https://saas4devs.tech/logo192.png"
-        },
-        {
-            "name": "SaaSFrame",
-            "categories": [
-                "Indie Hacking/Utilities",
-                "Indie Hacking/Marketing"
-            ],
-            "description": "Browse hundreds of SaaS marketing pages, product interfaces and email flows. Get inspired by the design and copywriting patterns used by top-class SaaS companies.",
-            "links": {
-                "Website": "https://www.saasframe.io/"
-            },
-            "icon": "https://uploads-ssl.webflow.com/5e9dc792e1210c2d5df7eba4/5eb80e9cf92b58597818939f_Webp.net-resizeimage%20(4).png"
-        }
-    ],
-    "infrastructure/databases": [
-        {
-            "name": "Airtable",
-            "categories": [
-                "Indie Hacking/Utilities",
-                "Infrastructure/Databases",
-                "Infrastructure/Serverless"
-            ],
-            "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
-            "links": {
-                "Website": "https://airtable.com/"
-            },
-            "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
-        },
-        {
-            "name": "Cassandra",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters.",
-            "links": {
-                "Website": "http://cassandra.apache.org/"
-            },
-            "icon": "https://cassandra.apache.org/favicon.ico"
-        },
-        {
-            "name": "CouchDB",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice.",
-            "links": {
-                "Website": "https://couchdb.apache.org/"
-            },
-            "icon": "https://couchdb.apache.org/favicon-32x32.png"
-        },
-        {
-            "name": "DynamoDB",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "Amazon DynamoDB is a nonrelational database. This database system provides consistent latency and offers built-in security and in-memory caching. DynamoDB is a serverless database which scales automatically and backs up your data for protection.",
-            "links": {
-                "Website": "https://aws.amazon.com/dynamodb/"
-            },
-            "icon": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"
-        },
-        {
-            "name": "Firebase",
-            "categories": [
-                "Infrastructure/Hosting",
-                "Infrastructure/Databases",
-                "Infrastructure/Serverless",
-                "Infrastructure/Auth"
-            ],
-            "description": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
-            "links": {
-                "Website": "https://firebase.google.com/"
-            },
-            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
-        },
-        {
-            "name": "Firestore",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps through realtime listeners and offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity. Cloud Firestore also offers seamless integration with other Firebase and Google Cloud products, including Cloud Functions.",
-            "links": {
-                "Website": "https://firebase.google.com/docs/firestore"
-            },
-            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
-        },
-        {
-            "name": "Microsoft SQL Server",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge.",
-            "links": {
-                "Website": "https://www.microsoft.com/en-us/sql-server"
-            },
-            "icon": "https://www.microsoft.com/favicon.ico"
-        },
-        {
-            "name": "MongoDB",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.",
-            "links": {
-                "Website": "https://www.mongodb.com/"
-            },
-            "icon": "https://www.mongodb.com/assets/images/global/favicon.ico"
-        },
-        {
-            "name": "MySQL",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "MySQL Database Service is a fully managed database service to deploy cloud-native applications.",
-            "links": {
-                "Website": "https://www.mysql.com/"
-            },
-            "icon": "https://labs.mysql.com/common/themes/sakila/favicon.ico"
-        },
-        {
-            "name": "PostgreSQL",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.",
-            "links": {
-                "Website": "https://www.postgresql.org/"
-            },
-            "icon": "https://www.postgresql.org/favicon.ico"
-        },
-        {
-            "name": "SQLite",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "SQLite is an open-source, embedded, relational database management system, designed circa 2000. It is a database, with zero configuration, no requirements of a server or installation. Despite its simplicity, it is laden with popular features of database management systems.",
-            "links": {
-                "Website": "https://www.sqlite.org/index.html"
-            },
-            "icon": "https://www.sqlite.org/favicon.ico"
-        },
-        {
-            "name": "Supabase",
-            "categories": [
-                "Infrastructure/Serverless",
-                "Infrastructure/Databases"
-            ],
-            "description": "Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.",
-            "links": {
-                "Website": "https://supabase.io/"
-            },
-            "icon": "https://supabase.io/new/favicon/favicon-32x32.png"
-        },
-        {
-            "name": "XServer",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "XServer - JSON-based backend for Mobile apps, Websites and Unity games.",
-            "keywords": [
-                "iOS",
-                "Android",
-                "JavaScript",
-                "apps",
-                "backend",
-                "mobile",
-                "website",
-                "baas",
-                "parse",
-                "firebase",
-                "database",
-                "json",
-                "php",
-                "javascript",
-                "jquery"
-            ],
-            "links": {
-                "Website": "https://xserver.app/"
-            },
-            "icon": "https://xserver.app/assets/img/favicon.png"
-        }
-    ],
-    "infrastructure/serverless": [
-        {
-            "name": "Airtable",
-            "categories": [
-                "Indie Hacking/Utilities",
-                "Infrastructure/Databases",
-                "Infrastructure/Serverless"
-            ],
-            "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
-            "links": {
-                "Website": "https://airtable.com/"
-            },
-            "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
-        },
-        {
-            "name": "Cloudflare Pages",
-            "categories": [
-                "Infrastructure/Serverless",
-                "Infrastructure/Hosting"
-            ],
-            "description": "Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.",
-            "links": {
-                "Website": "https://pages.cloudflare.com/"
-            },
-            "icon": "https://pages.cloudflare.com/resources/logo/logo.svg",
-            "keywords": [
-                "jamstack",
-                "serverless",
-                "hosting",
-                "development"
-            ]
-        },
-        {
-            "name": "Cloudflare Workers",
-            "categories": [
-                "Infrastructure/Serverless"
-            ],
-            "description": "Cloudflare workers allow you to host serverless code. The free plan is also ideal for static site hosting",
-            "links": {
-                "Website": "https://workers.cloudflare.com/"
-            },
-            "icon": "https://workers.cloudflare.com/favicon.ico"
-        },
-        {
-            "name": "Firebase",
-            "categories": [
-                "Infrastructure/Hosting",
-                "Infrastructure/Databases",
-                "Infrastructure/Serverless",
-                "Infrastructure/Auth"
-            ],
-            "description": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
-            "links": {
-                "Website": "https://firebase.google.com/"
-            },
-            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
-        },
-        {
-            "name": "Serverless Stack",
-            "categories": [
-                "Tools & Utilities/API Building",
-                "Infrastructure/Serverless"
-            ],
-            "description": "Serverless Stack (SST) is a framework that makes it easy to build serverless applications.",
-            "links": {
-                "Website": "https://serverless-stack.com/"
-            },
-            "icon": "https://serverless-stack.com/assets/favicon-32x32.png"
-        },
-        {
-            "name": "Supabase",
-            "categories": [
-                "Infrastructure/Serverless",
-                "Infrastructure/Databases"
-            ],
-            "description": "Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.",
-            "links": {
-                "Website": "https://supabase.io/"
-            },
-            "icon": "https://supabase.io/new/favicon/favicon-32x32.png"
         }
     ],
     "public-apis/art-and-design": [
@@ -39771,22 +39771,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://swapi.dev/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.swapi.tech"
             },
             "public_api_fields": {
@@ -39796,6 +39780,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All things Star Wars",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://swapi.dev/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All the Star Wars data you've ever wanted",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -53091,22 +53091,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Health"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://covid19api.com/"
             },
             "public_api_fields": {
@@ -53116,6 +53100,22 @@ module.exports = {
             },
             "name": "Covid-19",
             "description": "Covid 19 spread, infection and recovery",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Health"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Covid-19",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Health"
@@ -55689,6 +55689,20 @@ module.exports = {
                 "CodePen": "https://codepen.io/renerehme"
             },
             "icon": "https://renerehme.dev/favicon-32x32.png"
+        },
+        {
+            "name": "Rick Blyth",
+            "categories": [
+                "Community/Personal Websites"
+            ],
+            "description": "Rick Blyth is a Micro SaaS Founder who shares tips on getting started with Micro SaaS, Passive Income, Quit Your Job and Chrome Extensions. Home of the free 12 chapter Micro SaaS Handbook.",
+            "links": {
+                "Website": "https://rickblyth.com/",
+                "Facebook": "https://www.facebook.com/rickblythmicrosaas",
+                "Twitter": "https://twitter.com/rick_blyth",
+                "YouTube": "https://www.youtube.com/channel/UC_K6le9py40qyCLp_8FdOQQ"
+            },
+            "icon": "https://assets.grooveapps.com/images/5f3e7d217cadae003769b3fd/1646060069_rickblythhalftonestransparent.png"
         }
     ],
     "indie-hacking/books": [
