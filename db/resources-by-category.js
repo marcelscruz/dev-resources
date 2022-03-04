@@ -1906,22 +1906,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://bhagavadgita.io/api"
-            },
-            "public_api_fields": {
-                "auth": "OAuth",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Books"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://docs.bhagavadgitaapi.in"
             },
             "public_api_fields": {
@@ -1931,6 +1915,22 @@ module.exports = {
             },
             "name": "Bhagavad Gita",
             "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Books"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://bhagavadgita.io/api"
+            },
+            "public_api_fields": {
+                "auth": "OAuth",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Bhagavad Gita text",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Books"
@@ -3938,22 +3938,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://cloudmersive.com/phone-number-validation-API"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate international phone numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Phone"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://cloudmersive.com/validate-api"
             },
             "public_api_fields": {
@@ -3966,6 +3950,22 @@ module.exports = {
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Email"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://cloudmersive.com/phone-number-validation-API"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate international phone numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Phone"
             ]
         },
         {
@@ -5842,22 +5842,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://kinduff.github.io/dog-api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Dog Facts",
-            "description": "Random facts of Dogs",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Animals"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://dukengn.github.io/Dog-facts-API/"
             },
             "public_api_fields": {
@@ -5867,6 +5851,22 @@ module.exports = {
             },
             "name": "Dog Facts",
             "description": "Random dog facts",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Animals"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://kinduff.github.io/dog-api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Dog Facts",
+            "description": "Random facts of Dogs",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Animals"
@@ -13522,22 +13522,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/gadael/icsdb"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Non-Working Days",
-            "description": "Database of ICS files for non working days",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Calendar"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://isdayoff.ru"
             },
             "public_api_fields": {
@@ -13547,6 +13531,22 @@ module.exports = {
             },
             "name": "Non-Working Days",
             "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/gadael/icsdb"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Non-Working Days",
+            "description": "Database of ICS files for non working days",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Calendar"
@@ -17362,6 +17362,22 @@ module.exports = {
         },
         {
             "links": {
+                "Website": "https://rps101.pythonanywhere.com/api"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "RPS 101",
+            "description": "Rock, Paper, Scissors with 101 objects",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
                 "Website": "https://rss-to-json-serverless-api.vercel.app"
             },
             "public_api_fields": {
@@ -18658,22 +18674,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://steamapi.xpaw.me/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Steam",
-            "description": "Steam Web API documentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
             },
             "public_api_fields": {
@@ -18683,6 +18683,22 @@ module.exports = {
             },
             "name": "Steam",
             "description": "Internal Steam Web API documentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://steamapi.xpaw.me/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Steam",
+            "description": "Steam Web API documentation",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
@@ -29760,22 +29776,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://bhagavadgita.io/api"
-            },
-            "public_api_fields": {
-                "auth": "OAuth",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Books"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://docs.bhagavadgitaapi.in"
             },
             "public_api_fields": {
@@ -29785,6 +29785,22 @@ module.exports = {
             },
             "name": "Bhagavad Gita",
             "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Books"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://bhagavadgita.io/api"
+            },
+            "public_api_fields": {
+                "auth": "OAuth",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Bhagavad Gita text",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Books"
@@ -32197,22 +32213,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/gadael/icsdb"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Non-Working Days",
-            "description": "Database of ICS files for non working days",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Calendar"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://isdayoff.ru"
             },
             "public_api_fields": {
@@ -32222,6 +32222,22 @@ module.exports = {
             },
             "name": "Non-Working Days",
             "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/gadael/icsdb"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Non-Working Days",
+            "description": "Database of ICS files for non working days",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Calendar"
@@ -33692,22 +33708,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://kinduff.github.io/dog-api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Dog Facts",
-            "description": "Random facts of Dogs",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Animals"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://dukengn.github.io/Dog-facts-API/"
             },
             "public_api_fields": {
@@ -33717,6 +33717,22 @@ module.exports = {
             },
             "name": "Dog Facts",
             "description": "Random dog facts",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Animals"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://kinduff.github.io/dog-api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Dog Facts",
+            "description": "Random facts of Dogs",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Animals"
@@ -37555,6 +37571,22 @@ module.exports = {
         },
         {
             "links": {
+                "Website": "https://rps101.pythonanywhere.com/api"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "RPS 101",
+            "description": "Rock, Paper, Scissors with 101 objects",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
                 "Website": "https://runescape.wiki/w/Application_programming_interface"
             },
             "public_api_fields": {
@@ -37619,22 +37651,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://steamapi.xpaw.me/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Steam",
-            "description": "Steam Web API documentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
             },
             "public_api_fields": {
@@ -37644,6 +37660,22 @@ module.exports = {
             },
             "name": "Steam",
             "description": "Internal Steam Web API documentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://steamapi.xpaw.me/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Steam",
+            "description": "Steam Web API documentation",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
