@@ -781,6 +781,19 @@ module.exports = [
         ]
     },
     {
+        "name": "Airtable",
+        "categories": [
+            "Indie Hacking/Utilities",
+            "Infrastructure/Databases",
+            "Infrastructure/Serverless"
+        ],
+        "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+        "links": {
+            "Website": "https://airtable.com/"
+        },
+        "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
+    },
+    {
         "links": {
             "Website": "https://airtable.com/api"
         },
@@ -795,19 +808,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Documents & Productivity"
         ]
-    },
-    {
-        "name": "Airtable",
-        "categories": [
-            "Indie Hacking/Utilities",
-            "Infrastructure/Databases",
-            "Infrastructure/Serverless"
-        ],
-        "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
-        "links": {
-            "Website": "https://airtable.com/"
-        },
-        "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
     },
     {
         "links": {
@@ -6153,6 +6153,17 @@ module.exports = [
         "icon": "https://colorlib.com/wp/wp-content/uploads/sites/2/2014/05/ipad-colorlib.png"
     },
     {
+        "name": "Colormind",
+        "categories": [
+            "UI Design/Color"
+        ],
+        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
+        "links": {
+            "Website": "http://colormind.io/"
+        },
+        "icon": "http://colormind.io/favicon32.gif"
+    },
+    {
         "links": {
             "Website": "http://colormind.io/api-access/"
         },
@@ -6167,17 +6178,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Art & Design"
         ]
-    },
-    {
-        "name": "Colormind",
-        "categories": [
-            "UI Design/Color"
-        ],
-        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
-        "links": {
-            "Website": "http://colormind.io/"
-        },
-        "icon": "http://colormind.io/favicon32.gif"
     },
     {
         "name": "colors.lol",
@@ -6756,22 +6756,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://github.com/M-Media-Group/Covid-19-API"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Covid-19",
-        "description": "Covid 19 cases, deaths and recovery per country",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Health"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://covid19api.com/"
         },
         "public_api_fields": {
@@ -6781,6 +6765,22 @@ module.exports = [
         },
         "name": "Covid-19",
         "description": "Covid 19 spread, infection and recovery",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Health"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://github.com/M-Media-Group/Covid-19-API"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Covid-19",
+        "description": "Covid 19 cases, deaths and recovery per country",
         "categories": [
             "Public APIs/All",
             "Public APIs/Health"
@@ -13993,6 +13993,22 @@ module.exports = [
         ]
     },
     {
+        "links": {
+            "Website": "https://icon.horse"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Icon Horse",
+        "description": "Favicons for any website, with fallbacks",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Art & Design"
+        ]
+    },
+    {
         "name": "Icon Horse",
         "categories": [
             "Assets/Icons"
@@ -14010,22 +14026,6 @@ module.exports = [
             "Twitter": "https://twitter.com/iconhorse"
         },
         "icon": "https://icon.horse/icon/icon.horse"
-    },
-    {
-        "links": {
-            "Website": "https://icon.horse"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Icon Horse",
-        "description": "Favicons for any website, with fallbacks",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Art & Design"
-        ]
     },
     {
         "links": {
@@ -14137,6 +14137,22 @@ module.exports = [
             "Website": "https://www.designbombs.com/iconsweets2/"
         },
         "icon": "https://www.designbombs.com/iconsweets2/favicon-96x96.png"
+    },
+    {
+        "links": {
+            "Website": "https://developers.icy.tools/"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown"
+        },
+        "name": "icy.tools",
+        "description": "GraphQL based NFT API",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Cryptocurrency"
+        ]
     },
     {
         "name": "Icônes",
@@ -14442,22 +14458,6 @@ module.exports = [
             "Website": "https://inclusive-components.design/"
         },
         "icon": "https://inclusive-components.design/favicon.ico"
-    },
-    {
-        "links": {
-            "Website": "https://developer.indeed.com/"
-        },
-        "public_api_fields": {
-            "auth": "OAuth",
-            "https": true,
-            "cors": "unknown"
-        },
-        "name": "Indeed",
-        "description": "Jobs search engine",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Jobs"
-        ]
     },
     {
         "name": "Indeed",
@@ -17575,17 +17575,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Programming/UI Kits & Libraries"
-        ],
-        "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
-        "links": {
-            "Website": "https://material.io/"
-        },
-        "icon": "https://material.io/static/assets/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Assets/Icons"
         ],
         "description": "Get Material Icons.",
@@ -17593,6 +17582,17 @@ module.exports = [
             "Website": "https://material.io/resources/icons"
         },
         "icon": "https://material.io/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Programming/UI Kits & Libraries"
+        ],
+        "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
+        "links": {
+            "Website": "https://material.io/"
+        },
+        "icon": "https://material.io/static/assets/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -19082,17 +19082,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Netlify",
-        "categories": [
-            "Infrastructure/Hosting"
-        ],
-        "description": "Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.",
-        "links": {
-            "Website": "https://www.netlify.com/"
-        },
-        "icon": "https://www.netlify.com/v3/static/favicon/favicon-32x32.png"
-    },
-    {
         "links": {
             "Website": "https://docs.netlify.com/api/get-started/"
         },
@@ -19107,6 +19096,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Development"
         ]
+    },
+    {
+        "name": "Netlify",
+        "categories": [
+            "Infrastructure/Hosting"
+        ],
+        "description": "Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.",
+        "links": {
+            "Website": "https://www.netlify.com/"
+        },
+        "icon": "https://www.netlify.com/v3/static/favicon/favicon-32x32.png"
     },
     {
         "links": {
@@ -19374,6 +19374,22 @@ module.exports = [
     },
     {
         "links": {
+            "Website": "https://github.com/gadael/icsdb"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "unknown"
+        },
+        "name": "Non-Working Days",
+        "description": "Database of ICS files for non working days",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Calendar"
+        ]
+    },
+    {
+        "links": {
             "Website": "https://isdayoff.ru"
         },
         "public_api_fields": {
@@ -19390,18 +19406,18 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://github.com/gadael/icsdb"
+            "Website": "https://rapidapi.com/Amiichu/api/exerra-phishing-check/"
         },
         "public_api_fields": {
-            "auth": "",
+            "auth": "apiKey",
             "https": true,
-            "cors": "unknown"
+            "cors": "yes"
         },
-        "name": "Non-Working Days",
-        "description": "Database of ICS files for non working days",
+        "name": "NoPhishy",
+        "description": "Check links to see if they're known phishing attempts",
         "categories": [
             "Public APIs/All",
-            "Public APIs/Calendar"
+            "Public APIs/Anti-Malware"
         ]
     },
     {
@@ -19475,17 +19491,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Noun Project",
-        "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
-        "links": {
-            "Website": "https://thenounproject.com/"
-        },
-        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
-    },
-    {
         "links": {
             "Website": "http://api.thenounproject.com/index.html"
         },
@@ -19500,6 +19505,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Art & Design"
         ]
+    },
+    {
+        "name": "Noun Project",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
+        "links": {
+            "Website": "https://thenounproject.com/"
+        },
+        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
     },
     {
         "links": {
@@ -19597,22 +19613,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "http://numbersapi.com"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": false,
-            "cors": "no"
-        },
-        "name": "Numbers",
-        "description": "Facts about numbers",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Science & Math"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://math.tools/api/numbers/"
         },
         "public_api_fields": {
@@ -19622,6 +19622,22 @@ module.exports = [
         },
         "name": "Numbers",
         "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Science & Math"
+        ]
+    },
+    {
+        "links": {
+            "Website": "http://numbersapi.com"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": false,
+            "cors": "no"
+        },
+        "name": "Numbers",
+        "description": "Facts about numbers",
         "categories": [
             "Public APIs/All",
             "Public APIs/Science & Math"
@@ -22901,22 +22917,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "http://goqr.me/api/"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "unknown"
-        },
-        "name": "QR code",
-        "description": "Generate and decode / read QR code graphics",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Development"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://www.qrtag.net/api/"
         },
         "public_api_fields": {
@@ -22926,6 +22926,22 @@ module.exports = [
         },
         "name": "QR code",
         "description": "Create an easy to read QR code and URL shortener",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Development"
+        ]
+    },
+    {
+        "links": {
+            "Website": "http://goqr.me/api/"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "unknown"
+        },
+        "name": "QR code",
+        "description": "Generate and decode / read QR code graphics",
         "categories": [
             "Public APIs/All",
             "Public APIs/Development"
@@ -25310,6 +25326,19 @@ module.exports = [
         ]
     },
     {
+        "name": "Shutterstock",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Icons"
+        ],
+        "description": "Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.",
+        "links": {
+            "Website": "https://www.shutterstock.com/"
+        },
+        "icon": "https://ak.picdn.net/assets/cms/sstk-favicon-72.png"
+    },
+    {
         "links": {
             "Website": "https://api-reference.shutterstock.com/"
         },
@@ -25324,19 +25353,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Photography"
         ]
-    },
-    {
-        "name": "Shutterstock",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Icons"
-        ],
-        "description": "Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.",
-        "links": {
-            "Website": "https://www.shutterstock.com/"
-        },
-        "icon": "https://ak.picdn.net/assets/cms/sstk-favicon-72.png"
     },
     {
         "name": "Sidebar",
@@ -26405,22 +26421,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "no"
-        },
-        "name": "Steam",
-        "description": "Internal Steam Web API documentation",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Games & Comics"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://steamapi.xpaw.me/"
         },
         "public_api_fields": {
@@ -26430,6 +26430,22 @@ module.exports = [
         },
         "name": "Steam",
         "description": "Steam Web API documentation",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Games & Comics"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "no"
+        },
+        "name": "Steam",
+        "description": "Internal Steam Web API documentation",
         "categories": [
             "Public APIs/All",
             "Public APIs/Games & Comics"
@@ -26840,22 +26856,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://swapi.dev/"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "SWAPI",
-        "description": "All the Star Wars data you've ever wanted",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Video"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://www.swapi.tech"
         },
         "public_api_fields": {
@@ -26865,6 +26865,22 @@ module.exports = [
         },
         "name": "SWAPI",
         "description": "All things Star Wars",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Video"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://swapi.dev/"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "SWAPI",
+        "description": "All the Star Wars data you've ever wanted",
         "categories": [
             "Public APIs/All",
             "Public APIs/Video"
@@ -28778,22 +28794,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://opentransportdata.swiss/en/"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "unknown"
-        },
-        "name": "Transport for Switzerland",
-        "description": "Official Swiss Public Transport Open Data",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Transportation"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://transport.opendata.ch/"
         },
         "public_api_fields": {
@@ -28810,15 +28810,15 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            "Website": "https://opentransportdata.swiss/en/"
         },
         "public_api_fields": {
             "auth": "apiKey",
-            "https": false,
+            "https": true,
             "cors": "unknown"
         },
-        "name": "Transport for The Netherlands",
-        "description": "NS, only trains",
+        "name": "Transport for Switzerland",
+        "description": "Official Swiss Public Transport Open Data",
         "categories": [
             "Public APIs/All",
             "Public APIs/Transportation"
@@ -28835,6 +28835,22 @@ module.exports = [
         },
         "name": "Transport for The Netherlands",
         "description": "OVAPI, country-wide public transport",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Transportation"
+        ]
+    },
+    {
+        "links": {
+            "Website": "http://www.ns.nl/reisinformatie/ns-api"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": false,
+            "cors": "unknown"
+        },
+        "name": "Transport for The Netherlands",
+        "description": "NS, only trains",
         "categories": [
             "Public APIs/All",
             "Public APIs/Transportation"
@@ -29653,6 +29669,17 @@ module.exports = [
         "icon": "https://www.unscreen.com/favicon-96x96.png"
     },
     {
+        "name": "Unsplash",
+        "categories": [
+            "Assets/Images"
+        ],
+        "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
+        "links": {
+            "Website": "https://unsplash.com/"
+        },
+        "icon": "https://unsplash.com/favicon-32x32.png"
+    },
+    {
         "links": {
             "Website": "https://unsplash.com/developers"
         },
@@ -29667,17 +29694,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Photography"
         ]
-    },
-    {
-        "name": "Unsplash",
-        "categories": [
-            "Assets/Images"
-        ],
-        "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
-        "links": {
-            "Website": "https://unsplash.com/"
-        },
-        "icon": "https://unsplash.com/favicon-32x32.png"
     },
     {
         "links": {
@@ -31283,7 +31299,7 @@ module.exports = [
             "cors": "unknown"
         },
         "name": "When is next MCU film",
-        "description": "Upcomimg MCU film information",
+        "description": "Upcoming MCU film information",
         "categories": [
             "Public APIs/All",
             "Public APIs/Games & Comics"
