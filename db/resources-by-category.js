@@ -3938,22 +3938,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://cloudmersive.com/validate-api"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Email"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://cloudmersive.com/phone-number-validation-API"
             },
             "public_api_fields": {
@@ -3966,6 +3950,22 @@ module.exports = {
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Phone"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://cloudmersive.com/validate-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Email"
             ]
         },
         {
@@ -5842,22 +5842,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://dukengn.github.io/Dog-facts-API/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Dog Facts",
-            "description": "Random dog facts",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Animals"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://kinduff.github.io/dog-api/"
             },
             "public_api_fields": {
@@ -5867,6 +5851,22 @@ module.exports = {
             },
             "name": "Dog Facts",
             "description": "Random facts of Dogs",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Animals"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://dukengn.github.io/Dog-facts-API/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Dog Facts",
+            "description": "Random dog facts",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Animals"
@@ -9230,6 +9230,22 @@ module.exports = {
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Machine Learning"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://translate.hirak.site/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Hirak Translation",
+            "description": "Translate between 21 of most used languages, accurate, unlimited requests",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Text Analysis"
             ]
         },
         {
@@ -13762,22 +13778,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "public_api_fields": {
@@ -13787,6 +13787,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Facts about numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -18434,22 +18450,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://api.spacex.land/graphql/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "SpaceX",
-            "description": "GraphQL, Company, Ships, launchpad and launch data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/r-spacex/SpaceX-API"
             },
             "public_api_fields": {
@@ -18459,6 +18459,22 @@ module.exports = {
             },
             "name": "SpaceX",
             "description": "Company, vehicle, launchpad and launch data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://api.spacex.land/graphql/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "SpaceX",
+            "description": "GraphQL, Company, Ships, launchpad and launch data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -19042,22 +19058,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.swapi.tech"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All things Star Wars",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://swapi.dev/"
             },
             "public_api_fields": {
@@ -19067,6 +19067,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All the Star Wars data you've ever wanted",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.swapi.tech"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All things Star Wars",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -20514,22 +20530,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://transport.opendata.ch/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://opentransportdata.swiss/en/"
             },
             "public_api_fields": {
@@ -20539,6 +20539,22 @@ module.exports = {
             },
             "name": "Transport for Switzerland",
             "description": "Official Swiss Public Transport Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://transport.opendata.ch/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Transport for Switzerland",
+            "description": "Swiss public transport API",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -21815,7 +21831,7 @@ module.exports = {
             "public_api_fields": {
                 "auth": "",
                 "https": true,
-                "cors": "no"
+                "cors": "yes"
             },
             "name": "Waifu.im",
             "description": "Get waifu pictures from an archive of over 4000 images and multiple tags",
@@ -21918,6 +21934,22 @@ module.exports = {
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://api.wfstats.cf"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Warface (non-official)",
+            "description": "Official API proxy with better data structure and more features",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
             ]
         },
         {
@@ -33868,22 +33900,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://dukengn.github.io/Dog-facts-API/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Dog Facts",
-            "description": "Random dog facts",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Animals"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://kinduff.github.io/dog-api/"
             },
             "public_api_fields": {
@@ -33893,6 +33909,22 @@ module.exports = {
             },
             "name": "Dog Facts",
             "description": "Random facts of Dogs",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Animals"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://dukengn.github.io/Dog-facts-API/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Dog Facts",
+            "description": "Random dog facts",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Animals"
@@ -35483,22 +35515,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://transport.opendata.ch/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://opentransportdata.swiss/en/"
             },
             "public_api_fields": {
@@ -35508,6 +35524,22 @@ module.exports = {
             },
             "name": "Transport for Switzerland",
             "description": "Official Swiss Public Transport Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://transport.opendata.ch/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Transport for Switzerland",
+            "description": "Swiss public transport API",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -37939,6 +37971,22 @@ module.exports = {
         },
         {
             "links": {
+                "Website": "https://api.wfstats.cf"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Warface (non-official)",
+            "description": "Official API proxy with better data structure and more features",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
                 "Website": "https://developers.wargaming.net/"
             },
             "public_api_fields": {
@@ -40027,22 +40075,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.swapi.tech"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All things Star Wars",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://swapi.dev/"
             },
             "public_api_fields": {
@@ -40052,6 +40084,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All the Star Wars data you've ever wanted",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.swapi.tech"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All things Star Wars",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -40956,7 +41004,7 @@ module.exports = {
             "public_api_fields": {
                 "auth": "",
                 "https": true,
-                "cors": "no"
+                "cors": "yes"
             },
             "name": "Waifu.im",
             "description": "Get waifu pictures from an archive of over 4000 images and multiple tags",
@@ -42508,6 +42556,22 @@ module.exports = {
             },
             "name": "Google Cloud Natural",
             "description": "Natural language understanding technology, including sentiment, entity and syntax analysis",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Text Analysis"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://translate.hirak.site/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Hirak Translation",
+            "description": "Translate between 21 of most used languages, accurate, unlimited requests",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Text Analysis"
@@ -44898,22 +44962,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "public_api_fields": {
@@ -44923,6 +44971,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Facts about numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -45042,22 +45106,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://api.spacex.land/graphql/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "SpaceX",
-            "description": "GraphQL, Company, Ships, launchpad and launch data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/r-spacex/SpaceX-API"
             },
             "public_api_fields": {
@@ -45067,6 +45115,22 @@ module.exports = {
             },
             "name": "SpaceX",
             "description": "Company, vehicle, launchpad and launch data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://api.spacex.land/graphql/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "SpaceX",
+            "description": "GraphQL, Company, Ships, launchpad and launch data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -53919,17 +53983,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "Codepen radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-        },
-        {
             "name": "CodePen Radio",
             "categories": [
                 "Programming/Podcasts"
@@ -53939,6 +53992,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://blog.codepen.io/favicon.ico"
+        },
+        {
+            "name": "Codepen radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
         },
         {
             "name": "Commit Your Code!",

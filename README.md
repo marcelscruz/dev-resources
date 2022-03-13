@@ -10,7 +10,7 @@
 
  Join us on [Discord](https://discord.gg/SHw6TmXreR).
 
- ### Total resources: 2128
+ ### Total resources: 2130
 
  ## Index
 <details><summary id="assets">Assets</summary><li><a href="#assets-audio">Audio</a></li><li><a href="#assets-fonts">Fonts</a></li><li><a href="#assets-icons">Icons</a></li><li><a href="#assets-illustrations">Illustrations</a></li><li><a href="#assets-images">Images</a></li><li><a href="#assets-logos">Logos</a></li><li><a href="#assets-videos">Videos</a></li></details><details><summary id="community">Community</summary><li><a href="#community-blogs-and-forums">Blogs & Forums</a></li><li><a href="#community-hacktoberfest">Hacktoberfest</a></li><li><a href="#community-personal-websites">Personal Websites</a></li></details><details><summary id="indie-hacking">Indie Hacking</summary><li><a href="#indie-hacking-books">Books</a></li><li><a href="#indie-hacking-marketing">Marketing</a></li><li><a href="#indie-hacking-platforms">Platforms</a></li><li><a href="#indie-hacking-podcasts">Podcasts</a></li><li><a href="#indie-hacking-utilities">Utilities</a></li></details><details><summary id="infrastructure">Infrastructure</summary><li><a href="#infrastructure-auth">Auth</a></li><li><a href="#infrastructure-cloud-computing">Cloud Computing</a></li><li><a href="#infrastructure-databases">Databases</a></li><li><a href="#infrastructure-hosting">Hosting</a></li><li><a href="#infrastructure-serverless">Serverless</a></li></details><details><summary id="jobs">Jobs</summary><li><a href="#jobs-boards">Boards</a></li><li><a href="#jobs-freelancing">Freelancing</a></li><li><a href="#jobs-interviews">Interviews</a></li><li><a href="#jobs-remote-only">Remote Only</a></li><li><a href="#jobs-resume-builders">Resume Builders</a></li></details><details><summary id="programming">Programming</summary><li><a href="#programming-books">Books</a></li><li><a href="#programming-charts">Charts</a></li><li><a href="#programming-code-challenges">Code Challenges</a></li><li><a href="#programming-code-generators">Code Generators</a></li><li><a href="#programming-code-snippets">Code Snippets</a></li><li><a href="#programming-docs-and-cheatsheets">Docs & Cheatsheets</a></li><details><summary id="programming-javascript">JavaScript</summary><li><a href="#programming-javascript-react">React</a></li><li><a href="#programming-javascript-tooling">Tooling</a></li><li><a href="#programming-javascript-utilities">Utilities</a></li></details><li><a href="#programming-learn">Learn</a></li><li><a href="#programming-newsletters">Newsletters</a></li><li><a href="#programming-podcasts">Podcasts</a></li><li><a href="#programming-templates">Templates</a></li><li><a href="#programming-testing">Testing</a></li><li><a href="#programming-ui-kits-and-libraries">UI Kits & Libraries</a></li><li><a href="#programming-youtube-channels">YouTube Channels</a></li></details><details><summary id="public-apis">Public APIs</summary><li><a href="#public-apis-all">All</a></li><li><a href="#public-apis-animals">Animals</a></li><li><a href="#public-apis-anime">Anime</a></li><li><a href="#public-apis-anti-malware">Anti-Malware</a></li><li><a href="#public-apis-art-and-design">Art & Design</a></li><li><a href="#public-apis-authentication-and-authorization">Authentication & Authorization</a></li><li><a href="#public-apis-blockchain">Blockchain</a></li><li><a href="#public-apis-books">Books</a></li><li><a href="#public-apis-business">Business</a></li><li><a href="#public-apis-calendar">Calendar</a></li><li><a href="#public-apis-cloud-storage-and-file-sharing">Cloud Storage & File Sharing</a></li><li><a href="#public-apis-continuous-integration">Continuous Integration</a></li><li><a href="#public-apis-cryptocurrency">Cryptocurrency</a></li><li><a href="#public-apis-currency-exchange">Currency Exchange</a></li><li><a href="#public-apis-data-validation">Data Validation</a></li><li><a href="#public-apis-development">Development</a></li><li><a href="#public-apis-dictionaries">Dictionaries</a></li><li><a href="#public-apis-documents-and-productivity">Documents & Productivity</a></li><li><a href="#public-apis-email">Email</a></li><li><a href="#public-apis-entertainment">Entertainment</a></li><li><a href="#public-apis-environment">Environment</a></li><li><a href="#public-apis-events">Events</a></li><li><a href="#public-apis-finance">Finance</a></li><li><a href="#public-apis-food-and-drink">Food & Drink</a></li><li><a href="#public-apis-games-and-comics">Games & Comics</a></li><li><a href="#public-apis-geocoding">Geocoding</a></li><li><a href="#public-apis-government">Government</a></li><li><a href="#public-apis-health">Health</a></li><li><a href="#public-apis-jobs">Jobs</a></li><li><a href="#public-apis-machine-learning">Machine Learning</a></li><li><a href="#public-apis-music">Music</a></li><li><a href="#public-apis-news">News</a></li><li><a href="#public-apis-open-data">Open Data</a></li><li><a href="#public-apis-open-source-projects">Open Source Projects</a></li><li><a href="#public-apis-patent">Patent</a></li><li><a href="#public-apis-personality">Personality</a></li><li><a href="#public-apis-phone">Phone</a></li><li><a href="#public-apis-photography">Photography</a></li><li><a href="#public-apis-programming">Programming</a></li><li><a href="#public-apis-science-and-math">Science & Math</a></li><li><a href="#public-apis-security">Security</a></li><li><a href="#public-apis-shopping">Shopping</a></li><li><a href="#public-apis-social">Social</a></li><li><a href="#public-apis-sports-and-fitness">Sports & Fitness</a></li><li><a href="#public-apis-test-data">Test Data</a></li><li><a href="#public-apis-text-analysis">Text Analysis</a></li><li><a href="#public-apis-tracking">Tracking</a></li><li><a href="#public-apis-transportation">Transportation</a></li><li><a href="#public-apis-url-shorteners">URL Shorteners</a></li><li><a href="#public-apis-vehicle">Vehicle</a></li><li><a href="#public-apis-video">Video</a></li><li><a href="#public-apis-weather">Weather</a></li></details><details><summary id="tools-and-utilities">Tools & Utilities</summary><li><a href="#tools-and-utilities-accessibility">Accessibility</a></li><li><a href="#tools-and-utilities-analytics">Analytics</a></li><li><a href="#tools-and-utilities-api-building">API Building</a></li><li><a href="#tools-and-utilities-browsers-and-extensions">Browsers & Extensions</a></li><li><a href="#tools-and-utilities-command-line">Command Line</a></li><li><a href="#tools-and-utilities-domains">Domains</a></li><li><a href="#tools-and-utilities-editors-and-extensions">Editors & Extensions</a></li><li><a href="#tools-and-utilities-general">General</a></li><li><a href="#tools-and-utilities-image-and-video-editing">Image & Video Editing</a></li><li><a href="#tools-and-utilities-performance">Performance</a></li><li><a href="#tools-and-utilities-seo">SEO</a></li><li><a href="#tools-and-utilities-typing">Typing</a></li><li><a href="#tools-and-utilities-web-scraping">Web Scraping</a></li><li><a href="#tools-and-utilities-website-builders">Website Builders</a></li><li><a href="#tools-and-utilities-writing">Writing</a></li></details><details><summary id="ui-design">UI Design</summary><li><a href="#ui-design-color">Color</a></li><li><a href="#ui-design-inspiration">Inspiration</a></li><li><a href="#ui-design-learn">Learn</a></li><li><a href="#ui-design-prototyping">Prototyping</a></li><li><a href="#ui-design-utilities">Utilities</a></li><li><a href="#ui-design-youtube-channels">YouTube Channels</a></li></details> 
@@ -657,8 +657,8 @@
 |---|---|---|---|---|
  <img src="http://codewinds.com/assets/favicon-64.png" width="16" /> | Code Winds | CodeWinds - Leading edge live and online developer training - in-person, public or private classes, webinars, video courses, resources, tutorials for fullstack web developers. Featuring javascript, Re... | [Website](http://codewinds.com/podcast.html) | web, developer, training, fullstack, live classes, private classes, custom classes, webinars, screen... |
  <img src="https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png" width="16" /> | CodeNewbie | Stories from people on their coding journey. | [Website](https://www.codenewbie.org/podcast/) | careers, development, jobs |
- <img src="https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png" width="16" /> | Codepen radio | A podcast all about what it's like running a small web software business. The good, the bad, and the ugly. | [Website](https://blog.codepen.io/radio/) |  |
  <img src="https://blog.codepen.io/favicon.ico" width="16" /> | CodePen Radio | A podcast all about what it's like running a small web software business. The good, the bad, and the ugly. | [Website](https://blog.codepen.io/radio/) |  |
+ <img src="https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png" width="16" /> | Codepen radio | A podcast all about what it's like running a small web software business. The good, the bad, and the ugly. | [Website](https://blog.codepen.io/radio/) |  |
  <img src="https://d12xoj7p9moygp.cloudfront.net/favicon/favicon-96x96.png" width="16" /> | Commit Your Code! | Commit Your Code is about motivating and inspiring developers of all levels to reach their goals in tech. We will be sharing stories and interviewing developers that have gone through this and made it... | [Website](https://anchor.fm/commityourcode) | podcast hosting, free podcast hosting, make a podcast, making a podcast, create a podcast, creating ... |
  <img src="https://spec.fm/static/meta/android-chrome-192x192.png" width="16" /> | Developer tea | A podcast for developers designed to fit inside your tea break | [Website](https://spec.fm/podcasts/developer-tea) |  |
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--t7tVouP9--/c_limit,f_png,fl_progressive,q_80,w_192/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" width="16" /> | DevNews | DevNews is the news show for developers by developers, hosted by Saron Yitbarek, founder of CodeNewbie, and DEV senior engineers Josh Puetz and Vaidehi Joshi. Each season these experienced devs cover ... | [Website](https://dev.to/devnews) | software development, engineering, rails, javascript, ruby |
@@ -1048,8 +1048,8 @@
  &nbsp; | Cloudmersive | Image captioning, face recognition, NSFW classification | [Website](https://www.cloudmersive.com/image-recognition-and-processing-api) |  |
  &nbsp; | Cloudmersive Document and Data Conversion | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | [Website](https://cloudmersive.com/convert-api) |  |
  &nbsp; | Cloudmersive Natural Language Processing | Natural language processing and text analysis | [Website](https://www.cloudmersive.com/nlp-api) |  |
- &nbsp; | Cloudmersive Validate | Validate email addresses, phone numbers, VAT numbers and domain names | [Website](https://cloudmersive.com/validate-api) |  |
  &nbsp; | Cloudmersive Validate | Validate international phone numbers | [Website](https://cloudmersive.com/phone-number-validation-API) |  |
+ &nbsp; | Cloudmersive Validate | Validate email addresses, phone numbers, VAT numbers and domain names | [Website](https://cloudmersive.com/validate-api) |  |
  &nbsp; | Cloverly | API calculates the impact of common carbon-intensive activities in real time | [Website](https://www.cloverly.com/carbon-offset-documentation) |  |
  &nbsp; | CMS.gov | Access to the data from the CMS - medicare.gov | [Website](https://data.cms.gov/provider-data/) |  |
  &nbsp; | CO2 Offset | API calculates and validates the carbon footprint | [Website](https://co2offset.io/api.html) |  |
@@ -1167,8 +1167,8 @@
  &nbsp; | Disqus | Communicate with Disqus data | [Website](https://disqus.com/api/docs/auth/) |  |
  &nbsp; | District of Columbia Open Data | Contains D.C. government public datasets, including crime, GIS, financial data, and so on | [Website](http://opendata.dc.gov/pages/using-apis) |  |
  &nbsp; | Docker Hub | Interact with Docker Hub | [Website](https://docs.docker.com/docker-hub/api/latest/) |  |
- &nbsp; | Dog Facts | Random dog facts | [Website](https://dukengn.github.io/Dog-facts-API/) |  |
  &nbsp; | Dog Facts | Random facts of Dogs | [Website](https://kinduff.github.io/dog-api/) |  |
+ &nbsp; | Dog Facts | Random dog facts | [Website](https://dukengn.github.io/Dog-facts-API/) |  |
  &nbsp; | Doge-Meme | Top meme posts from r/dogecoin which include 'Meme' flair | [Website](https://api.doge-meme.lol/docs) |  |
  &nbsp; | Dogs | Based on the Stanford Dogs Dataset | [Website](https://dog.ceo/dog-api/) |  |
  &nbsp; | DomainDb Info | Domain name search to find all domains containing particular words/phrases/etc | [Website](https://api.domainsdb.info/) |  |
@@ -1379,6 +1379,7 @@
  &nbsp; | HG Weather | Provides weather forecast data for cities in Brazil | [Website](https://hgbrasil.com/status/weather) |  |
  &nbsp; | Hirak Exchange Rates | Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits | [Website](https://rates.hirak.site/) |  |
  &nbsp; | Hirak FaceAPI | Face detection, face recognition with age estimation/gender estimation, accurate, no quota limits | [Website](https://faceapi.hirak.site/) |  |
+ &nbsp; | Hirak Translation | Translate between 21 of most used languages, accurate, unlimited requests | [Website](https://translate.hirak.site/) |  |
  &nbsp; | Holidays | Historical data regarding holidays | [Website](https://holidayapi.com/) |  |
  &nbsp; | Hong Kong GeoData Store | API for accessing geo-data of Hong Kong | [Website](https://geodata.gov.hk/gs/) |  |
  &nbsp; | Hong Kong Obervatory | Provide weather information, earthquake information, and climate data | [Website](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm) |  |
@@ -1662,8 +1663,8 @@
  &nbsp; | npm Registry | Query information about your favorite Node.js libraries programatically | [Website](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md) |  |
  &nbsp; | NPPES | National Plan & Provider Enumeration System, info on healthcare providers registered in US | [Website](https://npiregistry.cms.hhs.gov/registry/help-api) |  |
  &nbsp; | NPR One | Personalized news listening experience from NPR | [Website](http://dev.npr.org/api/) |  |
- &nbsp; | Numbers | Number of the day, random number, number facts and anything else you want to do with numbers | [Website](https://math.tools/api/numbers/) |  |
  &nbsp; | Numbers | Facts about numbers | [Website](http://numbersapi.com) |  |
+ &nbsp; | Numbers | Number of the day, random number, number facts and anything else you want to do with numbers | [Website](https://math.tools/api/numbers/) |  |
  &nbsp; | Nutritionix | Worlds largest verified nutrition database | [Website](https://developer.nutritionix.com/) |  |
  &nbsp; | ObjectCut | Image Background removal | [Website](https://objectcut.com/) |  |
  &nbsp; | Ocean Facts | Facts pertaining to the physical science of Oceanography | [Website](https://oceanfacts.herokuapp.com/) |  |
@@ -1954,8 +1955,8 @@
  &nbsp; | SoundCloud | With SoundCloud API you can build applications that will give more power to control your content | [Website](https://developers.soundcloud.com/docs/api/guide) |  |
  &nbsp; | Spaceflight News | Spaceflight related news 🚀 | [Website](https://spaceflightnewsapi.net) |  |
  &nbsp; | SpaceTradersAPI | A playable inter-galactic space trading MMOAPI | [Website](https://spacetraders.io?rel=pub-apis) |  |
- &nbsp; | SpaceX | GraphQL, Company, Ships, launchpad and launch data | [Website](https://api.spacex.land/graphql/) |  |
  &nbsp; | SpaceX | Company, vehicle, launchpad and launch data | [Website](https://github.com/r-spacex/SpaceX-API) |  |
+ &nbsp; | SpaceX | GraphQL, Company, Ships, launchpad and launch data | [Website](https://api.spacex.land/graphql/) |  |
  &nbsp; | Spanish random names | Generate spanish names (with gender) randomly | [Website](https://random-names-api.herokuapp.com/public) |  |
  &nbsp; | Spanish random words | Generate spanish words randomly | [Website](https://palabras-aleatorias-public-api.herokuapp.com) |  |
  &nbsp; | Spoonacular | Recipes, Food Products, and Meal Planning | [Website](https://spoonacular.com/food-api) |  |
@@ -1992,8 +1993,8 @@
  &nbsp; | SuperHeroes | All SuperHeroes and Villains data from all universes under a single API | [Website](https://superheroapi.com) |  |
  &nbsp; | Supportivekoala | Autogenerate images with template | [Website](https://developers.supportivekoala.com/) |  |
  &nbsp; | SuredBits | Query sports data, including teams, players, games, scores and statistics | [Website](https://suredbits.com/api/) |  |
- &nbsp; | SWAPI | All things Star Wars | [Website](https://www.swapi.tech) |  |
  &nbsp; | SWAPI | All the Star Wars data you've ever wanted | [Website](https://swapi.dev/) |  |
+ &nbsp; | SWAPI | All things Star Wars | [Website](https://www.swapi.tech) |  |
  &nbsp; | SWAPI GraphQL | Star Wars GraphQL API | [Website](https://graphql.org/swapi-graphql) |  |
  &nbsp; | SwiftKanban | Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity | [Website](https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi) |  |
  &nbsp; | Synonyms | Synonyms, thesaurus and antonyms information for any given word | [Website](https://www.synonyms.com/synonyms_api.php) |  |
@@ -2084,8 +2085,8 @@
  &nbsp; | Transport for Sao Paulo, Brazil | SPTrans | [Website](http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/) |  |
  &nbsp; | Transport for Spain | Public trains of Spain | [Website](https://data.renfe.com/api/1/util/snippet/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a) |  |
  &nbsp; | Transport for Sweden | Public Transport consumer | [Website](https://www.trafiklab.se/api) |  |
- &nbsp; | Transport for Switzerland | Swiss public transport API | [Website](https://transport.opendata.ch/) |  |
  &nbsp; | Transport for Switzerland | Official Swiss Public Transport Open Data | [Website](https://opentransportdata.swiss/en/) |  |
+ &nbsp; | Transport for Switzerland | Swiss public transport API | [Website](https://transport.opendata.ch/) |  |
  &nbsp; | Transport for The Netherlands | NS, only trains | [Website](http://www.ns.nl/reisinformatie/ns-api) |  |
  &nbsp; | Transport for The Netherlands | OVAPI, country-wide public transport | [Website](https://github.com/skywave/KV78Turbo-OVAPI/wiki) |  |
  &nbsp; | Transport for Toronto, Canada | TTC | [Website](https://myttc.ca/developers) |  |
@@ -2172,6 +2173,7 @@
  &nbsp; | WallstreetBets | WallstreetBets Stock Comments Sentiment Analysis | [Website](https://dashboard.nbshare.io/apps/reddit/api/) |  |
  &nbsp; | Walltime | To retrieve Walltime's market info | [Website](https://walltime.info/api.html) |  |
  &nbsp; | Wandbox | Code compiler supporting 35+ languages mentioned at wandbox.org | [Website](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst) |  |
+ &nbsp; | Warface (non-official) | Official API proxy with better data structure and more features | [Website](https://api.wfstats.cf) |  |
  &nbsp; | Wargaming.net | Wargaming.net info and stats | [Website](https://developers.wargaming.net/) |  |
  &nbsp; | Warrant | APIs for authorization and access control | [Website](https://warrant.dev/) |  |
  &nbsp; | Watchdata | Provide simple and reliable API access to Ethereum blockchain | [Website](https://docs.watchdata.io) |  |
@@ -2242,8 +2244,8 @@
  &nbsp; | Cat Facts | Daily cat facts | [Website](https://alexwohlbruck.github.io/cat-facts/) |  |
  &nbsp; | Cataas | Cat as a service (cats pictures and gifs) | [Website](https://cataas.com/) |  |
  &nbsp; | Cats | Pictures of cats from Tumblr | [Website](https://docs.thecatapi.com/) |  |
- &nbsp; | Dog Facts | Random dog facts | [Website](https://dukengn.github.io/Dog-facts-API/) |  |
  &nbsp; | Dog Facts | Random facts of Dogs | [Website](https://kinduff.github.io/dog-api/) |  |
+ &nbsp; | Dog Facts | Random dog facts | [Website](https://dukengn.github.io/Dog-facts-API/) |  |
  &nbsp; | Dogs | Based on the Stanford Dogs Dataset | [Website](https://dog.ceo/dog-api/) |  |
  &nbsp; | eBird | Retrieve recent or notable birding observations within a region | [Website](https://documenter.getpostman.com/view/664302/S1ENwy59) |  |
  &nbsp; | FishWatch | Information and pictures about individual fish species | [Website](https://www.fishwatch.gov/developers) |  |
@@ -3015,6 +3017,7 @@
  &nbsp; | Tronald Dump | The dumbest things Donald Trump has ever said | [Website](https://www.tronalddump.io/) |  |
  &nbsp; | Universalis | Final Fantasy XIV market board data | [Website](https://universalis.app/docs/index.html) |  |
  &nbsp; | Valorant (non-official) | An extensive API containing data of most Valorant in-game items, assets and more | [Website](https://valorant-api.com) |  |
+ &nbsp; | Warface (non-official) | Official API proxy with better data structure and more features | [Website](https://api.wfstats.cf) |  |
  &nbsp; | Wargaming.net | Wargaming.net info and stats | [Website](https://developers.wargaming.net/) |  |
  &nbsp; | When is next MCU film | Upcoming MCU film information | [Website](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md) |  |
  &nbsp; | xkcd | Retrieve xkcd comics as JSON | [Website](https://xkcd.com/json.html) |  |
@@ -3534,8 +3537,8 @@
  &nbsp; | NASA ADS | NASA Astrophysics Data System | [Website](https://ui.adsabs.harvard.edu/help/api/api-docs.html) |  |
  &nbsp; | Newton | Symbolic and Arithmetic Math Calculator | [Website](https://newton.vercel.app) |  |
  &nbsp; | Noctua | REST API used to access NoctuaSky features | [Website](https://api.noctuasky.com/api/v1/swaggerdoc/) |  |
- &nbsp; | Numbers | Number of the day, random number, number facts and anything else you want to do with numbers | [Website](https://math.tools/api/numbers/) |  |
  &nbsp; | Numbers | Facts about numbers | [Website](http://numbersapi.com) |  |
+ &nbsp; | Numbers | Number of the day, random number, number facts and anything else you want to do with numbers | [Website](https://math.tools/api/numbers/) |  |
  &nbsp; | Ocean Facts | Facts pertaining to the physical science of Oceanography | [Website](https://oceanfacts.herokuapp.com/) |  |
  &nbsp; | Open Notify | ISS astronauts, current location, etc | [Website](http://open-notify.org/Open-Notify-API/) |  |
  &nbsp; | Open Science Framework | Repository and archive for study designs, research materials, data, manuscripts, etc | [Website](https://developer.osf.io) |  |
@@ -3543,8 +3546,8 @@
  &nbsp; | Quadratic Solver | A Quadratic Solver | [Website](https://quadratic-solver-api.herokuapp.com/) |  |
  &nbsp; | Remote Calc | Decodes base64 encoding and parses it to return a solution to the calculation in JSON | [Website](https://github.com/elizabethadegbaju/remotecalc) |  |
  &nbsp; | SHARE | A free, open, dataset about research and scholarly activities | [Website](https://share.osf.io/api/v2/) |  |
- &nbsp; | SpaceX | GraphQL, Company, Ships, launchpad and launch data | [Website](https://api.spacex.land/graphql/) |  |
  &nbsp; | SpaceX | Company, vehicle, launchpad and launch data | [Website](https://github.com/r-spacex/SpaceX-API) |  |
+ &nbsp; | SpaceX | GraphQL, Company, Ships, launchpad and launch data | [Website](https://api.spacex.land/graphql/) |  |
  &nbsp; | Sunrise and Sunset | Sunset and sunrise times for a given latitude and longitude | [Website](https://sunrise-sunset.org/api) |  |
  &nbsp; | Times Adder | With this API you can add each of the times introduced in the array sended | [Website](https://github.com/FranP-code/API-Times-Adder) |  |
  &nbsp; | TLE | Satellite information | [Website](https://tle.ivanstanojevic.me/#/docs) |  |
@@ -3746,6 +3749,7 @@
  &nbsp; | Detect Language | Detects text language | [Website](https://detectlanguage.com/) |  |
  &nbsp; | ELI | Natural Language Processing Tools for Thai Language | [Website](https://nlp.insightera.co.th/docs/v1.0) |  |
  &nbsp; | Google Cloud Natural | Natural language understanding technology, including sentiment, entity and syntax analysis | [Website](https://cloud.google.com/natural-language/docs/) |  |
+ &nbsp; | Hirak Translation | Translate between 21 of most used languages, accurate, unlimited requests | [Website](https://translate.hirak.site/) |  |
  &nbsp; | Lecto Translation | Translation API with free tier and reasonable prices | [Website](https://rapidapi.com/lecto-lecto-default/api/lecto-translation/) |  |
  &nbsp; | LibreTranslate | Translation tool with 17 available languages | [Website](https://libretranslate.com/docs) |  |
  &nbsp; | Semantria | Text Analytics with sentiment analysis, categorization & named entity extraction | [Website](https://semantria.readme.io/docs) |  |
@@ -3830,8 +3834,8 @@
  &nbsp; | Transport for Sao Paulo, Brazil | SPTrans | [Website](http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/) |  |
  &nbsp; | Transport for Spain | Public trains of Spain | [Website](https://data.renfe.com/api/1/util/snippet/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a) |  |
  &nbsp; | Transport for Sweden | Public Transport consumer | [Website](https://www.trafiklab.se/api) |  |
- &nbsp; | Transport for Switzerland | Swiss public transport API | [Website](https://transport.opendata.ch/) |  |
  &nbsp; | Transport for Switzerland | Official Swiss Public Transport Open Data | [Website](https://opentransportdata.swiss/en/) |  |
+ &nbsp; | Transport for Switzerland | Swiss public transport API | [Website](https://transport.opendata.ch/) |  |
  &nbsp; | Transport for The Netherlands | NS, only trains | [Website](http://www.ns.nl/reisinformatie/ns-api) |  |
  &nbsp; | Transport for The Netherlands | OVAPI, country-wide public transport | [Website](https://github.com/skywave/KV78Turbo-OVAPI/wiki) |  |
  &nbsp; | Transport for Toronto, Canada | TTC | [Website](https://myttc.ca/developers) |  |
@@ -3911,8 +3915,8 @@
  &nbsp; | Stranger Things Quotes | Returns Stranger Things quotes | [Website](https://github.com/shadowoff09/strangerthings-quotes) |  |
  &nbsp; | Stream | Czech internet television, films, series and online videos for free | [Website](https://api.stream.cz/graphiql) |  |
  &nbsp; | Stromberg Quotes | Returns Stromberg quotes and more | [Website](https://www.stromberg-api.de/) |  |
- &nbsp; | SWAPI | All things Star Wars | [Website](https://www.swapi.tech) |  |
  &nbsp; | SWAPI | All the Star Wars data you've ever wanted | [Website](https://swapi.dev/) |  |
+ &nbsp; | SWAPI | All things Star Wars | [Website](https://www.swapi.tech) |  |
  &nbsp; | SWAPI GraphQL | Star Wars GraphQL API | [Website](https://graphql.org/swapi-graphql) |  |
  &nbsp; | The Lord of the Rings | The Lord of the Rings API | [Website](https://the-one-api.dev/) |  |
  &nbsp; | The Vampire Diaries | TV Show Data | [Website](https://vampire-diaries-api.netlify.app/) |  |
