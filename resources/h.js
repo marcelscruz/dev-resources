@@ -199,18 +199,14 @@ module.exports = [
     {
         name: 'Himalayas',
         categories: [jobs.boards],
-        description: 'Experience the remote ecosystem - find a remote job you love, research the fastest-growing remote companies, and hire experienced remote workers.',
-        keywords: [
-            'himalayas',
-            'remote',
-            'jobs',
-            'developer',
-            'sales',
-        ],
+        description:
+            'Experience the remote ecosystem - find a remote job you love, research the fastest-growing remote companies, and hire experienced remote workers.',
+        keywords: ['himalayas', 'remote', 'jobs', 'developer', 'sales'],
         links: {
             [website]: 'https://himalayas.app',
         },
-        icon: 'https://ik.imagekit.io/himalayas/himalayas-icon_J2SoMLtNA9W?ik-sdk-version=javascript-1.4.3&updatedAt=1644362275336',
+        icon:
+            'https://ik.imagekit.io/himalayas/himalayas-icon_J2SoMLtNA9W?ik-sdk-version=javascript-1.4.3&updatedAt=1644362275336',
     },
     {
         name: 'hire.AR',
@@ -298,6 +294,16 @@ module.exports = [
             [website]: 'https://hostman.com/',
         },
         icon: 'https://hostman.com/favicon.ico',
+    },
+    {
+        name: 'HTMLrev',
+        categories: [programming.templates],
+        description:
+            'HTML templates specially designed for static websites to save development time and elevate project design.',
+        links: {
+            [website]: 'https://htmlrev.com/',
+        },
+        keywords: ['HTML', 'templates', 'business', 'portfolio'],
     },
     {
         name: 'HTML Reference',
