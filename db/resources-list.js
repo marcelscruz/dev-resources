@@ -5457,17 +5457,6 @@ module.exports = [
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
-        "name": "Codepen radio",
-        "categories": [
-            "Programming/Podcasts"
-        ],
-        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-        "links": {
-            "Website": "https://blog.codepen.io/radio/"
-        },
-        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-    },
-    {
         "name": "CodePen Radio",
         "categories": [
             "Programming/Podcasts"
@@ -5477,6 +5466,17 @@ module.exports = [
             "Website": "https://blog.codepen.io/radio/"
         },
         "icon": "https://blog.codepen.io/favicon.ico"
+    },
+    {
+        "name": "Codepen radio",
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+        "links": {
+            "Website": "https://blog.codepen.io/radio/"
+        },
+        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
         "name": "Codepip",
@@ -6105,17 +6105,6 @@ module.exports = [
         "icon": "https://colorlib.com/wp/wp-content/uploads/sites/2/2014/05/ipad-colorlib.png"
     },
     {
-        "name": "Colormind",
-        "categories": [
-            "UI Design/Color"
-        ],
-        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
-        "links": {
-            "Website": "http://colormind.io/"
-        },
-        "icon": "http://colormind.io/favicon32.gif"
-    },
-    {
         "links": {
             "Website": "http://colormind.io/api-access/"
         },
@@ -6130,6 +6119,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Art & Design"
         ]
+    },
+    {
+        "name": "Colormind",
+        "categories": [
+            "UI Design/Color"
+        ],
+        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
+        "links": {
+            "Website": "http://colormind.io/"
+        },
+        "icon": "http://colormind.io/favicon32.gif"
     },
     {
         "name": "colors.lol",
@@ -10814,6 +10814,17 @@ module.exports = [
         "icon": "https://freeicons.io/asset/images/favicon.png"
     },
     {
+        "name": "Freelancer",
+        "categories": [
+            "Jobs/Freelancing"
+        ],
+        "description": "Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 48m. Receive quotes in seconds. Post your job online now.",
+        "links": {
+            "Website": "https://www.freelancer.com/"
+        },
+        "icon": "https://www.f-cdn.com/assets/main/en/app-icons/apple-touch-icon.png"
+    },
+    {
         "links": {
             "Website": "https://developers.freelancer.com"
         },
@@ -10828,17 +10839,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Business"
         ]
-    },
-    {
-        "name": "Freelancer",
-        "categories": [
-            "Jobs/Freelancing"
-        ],
-        "description": "Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 48m. Receive quotes in seconds. Post your job online now.",
-        "links": {
-            "Website": "https://www.freelancer.com/"
-        },
-        "icon": "https://www.f-cdn.com/assets/main/en/app-icons/apple-touch-icon.png"
     },
     {
         "name": "FreePhotos.cc",
@@ -13244,17 +13244,6 @@ module.exports = [
         "icon": "https://heroicons.com/_next/static/media/favicon-32x32.eee32601ba9d4702f841835990ed3801.png"
     },
     {
-        "name": "Heroku",
-        "categories": [
-            "Infrastructure/Hosting"
-        ],
-        "description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
-        "links": {
-            "Website": "https://www.heroku.com/"
-        },
-        "icon": "https://www.herokucdn.com/favicon.ico"
-    },
-    {
         "links": {
             "Website": "https://devcenter.heroku.com/articles/platform-api-reference/"
         },
@@ -13269,6 +13258,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Development"
         ]
+    },
+    {
+        "name": "Heroku",
+        "categories": [
+            "Infrastructure/Hosting"
+        ],
+        "description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
+        "links": {
+            "Website": "https://www.heroku.com/"
+        },
+        "icon": "https://www.herokucdn.com/favicon.ico"
     },
     {
         "name": "Hey Meta",
@@ -14617,17 +14617,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Cryptocurrency"
         ]
-    },
-    {
-        "name": "Inovatik",
-        "categories": [
-            "Programming/Templates"
-        ],
-        "description": "HTML templates designed to power up your online projects with responsive layout, included reusable images and simple licensing.",
-        "links": {
-            "Website": "https://inovatik.com/"
-        },
-        "icon": "https://inovatik.com/images/favicon.png"
     },
     {
         "links": {
@@ -17213,6 +17202,17 @@ module.exports = [
         ]
     },
     {
+        "name": "Mailchimp",
+        "categories": [
+            "Indie Hacking/Utilities"
+        ],
+        "description": "Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.",
+        "links": {
+            "Website": "https://mailchimp.com/"
+        },
+        "icon": "https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png"
+    },
+    {
         "links": {
             "Website": "https://mailchimp.com/developer/"
         },
@@ -17227,17 +17227,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Business"
         ]
-    },
-    {
-        "name": "Mailchimp",
-        "categories": [
-            "Indie Hacking/Utilities"
-        ],
-        "description": "Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.",
-        "links": {
-            "Website": "https://mailchimp.com/"
-        },
-        "icon": "https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png"
     },
     {
         "links": {
@@ -17543,17 +17532,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Get Material Icons.",
-        "links": {
-            "Website": "https://material.io/resources/icons"
-        },
-        "icon": "https://material.io/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Programming/UI Kits & Libraries"
         ],
         "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
@@ -17561,6 +17539,17 @@ module.exports = [
             "Website": "https://material.io/"
         },
         "icon": "https://material.io/static/assets/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Get Material Icons.",
+        "links": {
+            "Website": "https://material.io/resources/icons"
+        },
+        "icon": "https://material.io/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -19082,6 +19071,17 @@ module.exports = [
         ]
     },
     {
+        "name": "Netlify",
+        "categories": [
+            "Infrastructure/Hosting"
+        ],
+        "description": "Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.",
+        "links": {
+            "Website": "https://www.netlify.com/"
+        },
+        "icon": "https://www.netlify.com/v3/static/favicon/favicon-32x32.png"
+    },
+    {
         "links": {
             "Website": "https://docs.netlify.com/api/get-started/"
         },
@@ -19096,17 +19096,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Development"
         ]
-    },
-    {
-        "name": "Netlify",
-        "categories": [
-            "Infrastructure/Hosting"
-        ],
-        "description": "Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.",
-        "links": {
-            "Website": "https://www.netlify.com/"
-        },
-        "icon": "https://www.netlify.com/v3/static/favicon/favicon-32x32.png"
     },
     {
         "links": {
@@ -19491,6 +19480,17 @@ module.exports = [
         ]
     },
     {
+        "name": "Noun Project",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
+        "links": {
+            "Website": "https://thenounproject.com/"
+        },
+        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
+    },
+    {
         "links": {
             "Website": "http://api.thenounproject.com/index.html"
         },
@@ -19505,17 +19505,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Art & Design"
         ]
-    },
-    {
-        "name": "Noun Project",
-        "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
-        "links": {
-            "Website": "https://thenounproject.com/"
-        },
-        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
     },
     {
         "links": {
@@ -19613,22 +19602,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://math.tools/api/numbers/"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "no"
-        },
-        "name": "Numbers",
-        "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Science & Math"
-        ]
-    },
-    {
-        "links": {
             "Website": "http://numbersapi.com"
         },
         "public_api_fields": {
@@ -19638,6 +19611,22 @@ module.exports = [
         },
         "name": "Numbers",
         "description": "Facts about numbers",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Science & Math"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://math.tools/api/numbers/"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": true,
+            "cors": "no"
+        },
+        "name": "Numbers",
+        "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
         "categories": [
             "Public APIs/All",
             "Public APIs/Science & Math"
@@ -20382,22 +20371,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://datos.gob.mx/"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "unknown"
-        },
-        "name": "Open Government, Mexico",
-        "description": "Mexico Government Open Data",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Government"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://www.inegi.org.mx/datos/"
         },
         "public_api_fields": {
@@ -20407,6 +20380,22 @@ module.exports = [
         },
         "name": "Open Government, Mexico",
         "description": "Mexican Statistical Government Open Data",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Government"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://datos.gob.mx/"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "unknown"
+        },
+        "name": "Open Government, Mexico",
+        "description": "Mexico Government Open Data",
         "categories": [
             "Public APIs/All",
             "Public APIs/Government"
@@ -22497,6 +22486,17 @@ module.exports = [
         ]
     },
     {
+        "name": "Product Hunt",
+        "categories": [
+            "Indie Hacking/Platforms"
+        ],
+        "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
+        "links": {
+            "Website": "https://www.producthunt.com/"
+        },
+        "icon": "https://ph-static.imgix.net/ph-ios-icon.png?auto=format&auto=compress"
+    },
+    {
         "links": {
             "Website": "https://api.producthunt.com/v2/docs"
         },
@@ -22511,17 +22511,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Social"
         ]
-    },
-    {
-        "name": "Product Hunt",
-        "categories": [
-            "Indie Hacking/Platforms"
-        ],
-        "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
-        "links": {
-            "Website": "https://www.producthunt.com/"
-        },
-        "icon": "https://ph-static.imgix.net/ph-ios-icon.png?auto=format&auto=compress"
     },
     {
         "name": "Programiz",
@@ -22901,22 +22890,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://www.qrtag.net/api/"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "QR code",
-        "description": "Create an easy to read QR code and URL shortener",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Development"
-        ]
-    },
-    {
-        "links": {
             "Website": "http://goqr.me/api/"
         },
         "public_api_fields": {
@@ -22926,6 +22899,22 @@ module.exports = [
         },
         "name": "QR code",
         "description": "Generate and decode / read QR code graphics",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Development"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://www.qrtag.net/api/"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "QR code",
+        "description": "Create an easy to read QR code and URL shortener",
         "categories": [
             "Public APIs/All",
             "Public APIs/Development"
@@ -25262,19 +25251,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Shutterstock",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Icons"
-        ],
-        "description": "Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.",
-        "links": {
-            "Website": "https://www.shutterstock.com/"
-        },
-        "icon": "https://ak.picdn.net/assets/cms/sstk-favicon-72.png"
-    },
-    {
         "links": {
             "Website": "https://api-reference.shutterstock.com/"
         },
@@ -25289,6 +25265,19 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Photography"
         ]
+    },
+    {
+        "name": "Shutterstock",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Icons"
+        ],
+        "description": "Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.",
+        "links": {
+            "Website": "https://www.shutterstock.com/"
+        },
+        "icon": "https://ak.picdn.net/assets/cms/sstk-favicon-72.png"
     },
     {
         "name": "Sidebar",
@@ -26357,22 +26346,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://steamapi.xpaw.me/"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "no"
-        },
-        "name": "Steam",
-        "description": "Steam Web API documentation",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Games & Comics"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
         },
         "public_api_fields": {
@@ -26382,6 +26355,22 @@ module.exports = [
         },
         "name": "Steam",
         "description": "Internal Steam Web API documentation",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Games & Comics"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://steamapi.xpaw.me/"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": true,
+            "cors": "no"
+        },
+        "name": "Steam",
+        "description": "Steam Web API documentation",
         "categories": [
             "Public APIs/All",
             "Public APIs/Games & Comics"
@@ -26792,22 +26781,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://www.swapi.tech"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "SWAPI",
-        "description": "All things Star Wars",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Video"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://swapi.dev/"
         },
         "public_api_fields": {
@@ -26817,6 +26790,22 @@ module.exports = [
         },
         "name": "SWAPI",
         "description": "All the Star Wars data you've ever wanted",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Video"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://www.swapi.tech"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "SWAPI",
+        "description": "All things Star Wars",
         "categories": [
             "Public APIs/All",
             "Public APIs/Video"
@@ -27258,17 +27247,6 @@ module.exports = [
             "Website": "https://templatemo.com/"
         },
         "icon": "https://templatemo.com/favicon.ico"
-    },
-    {
-        "name": "Templatesurf",
-        "categories": [
-            "Programming/Templates"
-        ],
-        "description": "Templatesurf provides HTML templates for better designed websites and landing pages with included images, device mockups and simple license.",
-        "links": {
-            "Website": "https://templatesurf.com/"
-        },
-        "icon": "https://templatesurf.com/images/favicon.png"
     },
     {
         "links": {
@@ -28746,22 +28724,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://opentransportdata.swiss/en/"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "unknown"
-        },
-        "name": "Transport for Switzerland",
-        "description": "Official Swiss Public Transport Open Data",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Transportation"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://transport.opendata.ch/"
         },
         "public_api_fields": {
@@ -28771,6 +28733,22 @@ module.exports = [
         },
         "name": "Transport for Switzerland",
         "description": "Swiss public transport API",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Transportation"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://opentransportdata.swiss/en/"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": true,
+            "cors": "unknown"
+        },
+        "name": "Transport for Switzerland",
+        "description": "Official Swiss Public Transport Open Data",
         "categories": [
             "Public APIs/All",
             "Public APIs/Transportation"
@@ -29716,6 +29694,17 @@ module.exports = [
         "icon": "https://upto.site/favicon.png"
     },
     {
+        "name": "Upwork",
+        "categories": [
+            "Jobs/Freelancing"
+        ],
+        "description": "Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.",
+        "links": {
+            "Website": "https://www.upwork.com/"
+        },
+        "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
+    },
+    {
         "links": {
             "Website": "https://developers.upwork.com/"
         },
@@ -29730,17 +29719,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Jobs"
         ]
-    },
-    {
-        "name": "Upwork",
-        "categories": [
-            "Jobs/Freelancing"
-        ],
-        "description": "Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.",
-        "links": {
-            "Website": "https://www.upwork.com/"
-        },
-        "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
     },
     {
         "links": {
@@ -30713,22 +30691,6 @@ module.exports = [
         ]
     },
     {
-        "links": {
-            "Website": "https://warrant.dev/"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Warrant",
-        "description": "APIs for authorization and access control",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Authentication & Authorization"
-        ]
-    },
-    {
         "name": "Warrant",
         "categories": [
             "Infrastructure/Auth"
@@ -30746,6 +30708,22 @@ module.exports = [
             "authorization",
             "authz",
             "access control"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://warrant.dev/"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Warrant",
+        "description": "APIs for authorization and access control",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Authentication & Authorization"
         ]
     },
     {
@@ -30797,17 +30775,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Wave",
-        "categories": [
-            "Tools & Utilities/General"
-        ],
-        "description": "Free invoicing & accounting software with credit card processing & payroll services.",
-        "links": {
-            "Website": "https://www.waveapps.com/"
-        },
-        "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
-    },
-    {
         "name": "WAVE",
         "categories": [
             "Tools & Utilities/Accessibility"
@@ -30817,6 +30784,17 @@ module.exports = [
             "Website": "https://wave.webaim.org/"
         },
         "icon": "https://wave.webaim.org/favicon.ico"
+    },
+    {
+        "name": "Wave",
+        "categories": [
+            "Tools & Utilities/General"
+        ],
+        "description": "Free invoicing & accounting software with credit card processing & payroll services.",
+        "links": {
+            "Website": "https://www.waveapps.com/"
+        },
+        "icon": "https://www.waveapps.com/assets/img/icons/favicon-32x32.png"
     },
     {
         "name": "We Work Remotely",

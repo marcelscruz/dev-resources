@@ -13682,22 +13682,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "public_api_fields": {
@@ -13707,6 +13691,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Facts about numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -14370,22 +14370,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://datos.gob.mx/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexico Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.inegi.org.mx/datos/"
             },
             "public_api_fields": {
@@ -14395,6 +14379,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexican Statistical Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://datos.gob.mx/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexico Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
@@ -16386,22 +16386,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.qrtag.net/api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Development"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "public_api_fields": {
@@ -16411,6 +16395,22 @@ module.exports = {
             },
             "name": "QR code",
             "description": "Generate and decode / read QR code graphics",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.qrtag.net/api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
@@ -18610,22 +18610,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://steamapi.xpaw.me/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Steam",
-            "description": "Steam Web API documentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
             },
             "public_api_fields": {
@@ -18635,6 +18619,22 @@ module.exports = {
             },
             "name": "Steam",
             "description": "Internal Steam Web API documentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://steamapi.xpaw.me/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Steam",
+            "description": "Steam Web API documentation",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
@@ -18898,22 +18898,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.swapi.tech"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All things Star Wars",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://swapi.dev/"
             },
             "public_api_fields": {
@@ -18923,6 +18907,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All the Star Wars data you've ever wanted",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.swapi.tech"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All things Star Wars",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -20370,22 +20370,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://transport.opendata.ch/"
             },
             "public_api_fields": {
@@ -20395,6 +20379,22 @@ module.exports = {
             },
             "name": "Transport for Switzerland",
             "description": "Swiss public transport API",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://opentransportdata.swiss/en/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Transport for Switzerland",
+            "description": "Official Swiss Public Transport Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -27185,22 +27185,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.qrtag.net/api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Development"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "public_api_fields": {
@@ -27210,6 +27194,22 @@ module.exports = {
             },
             "name": "QR code",
             "description": "Generate and decode / read QR code graphics",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.qrtag.net/api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
@@ -35227,22 +35227,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://transport.opendata.ch/"
             },
             "public_api_fields": {
@@ -35252,6 +35236,22 @@ module.exports = {
             },
             "name": "Transport for Switzerland",
             "description": "Swiss public transport API",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://opentransportdata.swiss/en/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Transport for Switzerland",
+            "description": "Official Swiss Public Transport Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -37555,22 +37555,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://steamapi.xpaw.me/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Steam",
-            "description": "Steam Web API documentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
             },
             "public_api_fields": {
@@ -37580,6 +37564,22 @@ module.exports = {
             },
             "name": "Steam",
             "description": "Internal Steam Web API documentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://steamapi.xpaw.me/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Steam",
+            "description": "Steam Web API documentation",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
@@ -39835,22 +39835,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.swapi.tech"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All things Star Wars",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://swapi.dev/"
             },
             "public_api_fields": {
@@ -39860,6 +39844,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All the Star Wars data you've ever wanted",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.swapi.tech"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All things Star Wars",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -44674,22 +44674,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "public_api_fields": {
@@ -44699,6 +44683,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Facts about numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -48765,22 +48765,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://datos.gob.mx/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexico Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.inegi.org.mx/datos/"
             },
             "public_api_fields": {
@@ -48790,6 +48774,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexican Statistical Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://datos.gob.mx/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexico Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
@@ -49755,17 +49755,6 @@ module.exports = {
             ]
         },
         {
-            "name": "Inovatik",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "HTML templates designed to power up your online projects with responsive layout, included reusable images and simple licensing.",
-            "links": {
-                "Website": "https://inovatik.com/"
-            },
-            "icon": "https://inovatik.com/images/favicon.png"
-        },
-        {
             "name": "Mobirise",
             "categories": [
                 "Programming/Templates"
@@ -49863,17 +49852,6 @@ module.exports = {
                 "Website": "https://templatemo.com/"
             },
             "icon": "https://templatemo.com/favicon.ico"
-        },
-        {
-            "name": "Templatesurf",
-            "categories": [
-                "Programming/Templates"
-            ],
-            "description": "Templatesurf provides HTML templates for better designed websites and landing pages with included images, device mockups and simple license.",
-            "links": {
-                "Website": "https://templatesurf.com/"
-            },
-            "icon": "https://templatesurf.com/images/favicon.png"
         },
         {
             "name": "Themeselection",
@@ -53583,17 +53561,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "Codepen radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-        },
-        {
             "name": "CodePen Radio",
             "categories": [
                 "Programming/Podcasts"
@@ -53603,6 +53570,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://blog.codepen.io/favicon.ico"
+        },
+        {
+            "name": "Codepen radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
         },
         {
             "name": "Commit Your Code!",
