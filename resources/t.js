@@ -125,16 +125,6 @@ module.exports = [
         icon: 'https://templatemo.com/favicon.ico',
     },
     {
-        name: 'Templatesurf',
-        categories: [programming.templates],
-        description:
-            'Templatesurf provides HTML templates for better designed websites and landing pages with included images, device mockups and simple license.',
-        links: {
-            [website]: 'https://templatesurf.com/',
-        },
-        icon: 'https://templatesurf.com/images/favicon.png',
-    },
-    {
         name: 'Tenon',
         categories: [toolsAndUtilities.accessibility],
         description: 'Accessibility as a Service.',

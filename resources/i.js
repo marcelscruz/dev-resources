@@ -15,17 +15,12 @@ module.exports = [
     {
         name: 'Icon Horse',
         categories: [assets.icons],
-        description: 'Free, easy to use, highest resolution possible favicons for any web site – including fallbacks if none are found.',
-        keywords: [
-            'favicons',
-            'logo icons',
-            'web icons',
-            'logos',
-            'site logos',
-        ],
+        description:
+            'Free, easy to use, highest resolution possible favicons for any web site – including fallbacks if none are found.',
+        keywords: ['favicons', 'logo icons', 'web icons', 'logos', 'site logos'],
         links: {
             [website]: 'https://icon.horse',
-            [twitter]: 'https://twitter.com/iconhorse'
+            [twitter]: 'https://twitter.com/iconhorse',
         },
         icon: 'https://icon.horse/icon/icon.horse',
     },
@@ -181,16 +176,6 @@ module.exports = [
             [indieHackers]: 'https://www.indiehackers.com/product/worldwide',
         },
         icon: 'https://indieworldwide.co/icons/icon-96x96.png',
-    },
-    {
-        name: 'Inovatik',
-        categories: [programming.templates],
-        description:
-            'HTML templates designed to power up your online projects with responsive layout, included reusable images and simple licensing.',
-        links: {
-            [website]: 'https://inovatik.com/',
-        },
-        icon: 'https://inovatik.com/images/favicon.png',
     },
     {
         name: 'Insomnia',
