@@ -4706,22 +4706,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://covid19api.com/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Health"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "public_api_fields": {
@@ -4731,6 +4715,22 @@ module.exports = {
             },
             "name": "Covid-19",
             "description": "Covid 19 cases, deaths and recovery per country",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Health"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://covid19api.com/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Covid-19",
+            "description": "Covid 19 spread, infection and recovery",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Health"
@@ -13522,22 +13522,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/gadael/icsdb"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Non-Working Days",
-            "description": "Database of ICS files for non working days",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Calendar"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://isdayoff.ru"
             },
             "public_api_fields": {
@@ -13547,6 +13531,22 @@ module.exports = {
             },
             "name": "Non-Working Days",
             "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/gadael/icsdb"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Non-Working Days",
+            "description": "Database of ICS files for non working days",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Calendar"
@@ -18642,22 +18642,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://steamapi.xpaw.me/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Steam",
-            "description": "Steam Web API documentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
             },
             "public_api_fields": {
@@ -18667,6 +18651,22 @@ module.exports = {
             },
             "name": "Steam",
             "description": "Internal Steam Web API documentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://steamapi.xpaw.me/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Steam",
+            "description": "Steam Web API documentation",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
@@ -18930,22 +18930,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://swapi.dev/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.swapi.tech"
             },
             "public_api_fields": {
@@ -18955,6 +18939,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All things Star Wars",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://swapi.dev/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All the Star Wars data you've ever wanted",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -32197,22 +32197,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/gadael/icsdb"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Non-Working Days",
-            "description": "Database of ICS files for non working days",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Calendar"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://isdayoff.ru"
             },
             "public_api_fields": {
@@ -32222,6 +32206,22 @@ module.exports = {
             },
             "name": "Non-Working Days",
             "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/gadael/icsdb"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Non-Working Days",
+            "description": "Database of ICS files for non working days",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Calendar"
@@ -37603,22 +37603,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://steamapi.xpaw.me/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Steam",
-            "description": "Steam Web API documentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
             },
             "public_api_fields": {
@@ -37628,6 +37612,22 @@ module.exports = {
             },
             "name": "Steam",
             "description": "Internal Steam Web API documentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://steamapi.xpaw.me/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Steam",
+            "description": "Steam Web API documentation",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
@@ -39867,22 +39867,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://swapi.dev/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.swapi.tech"
             },
             "public_api_fields": {
@@ -39892,6 +39876,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All things Star Wars",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://swapi.dev/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All the Star Wars data you've ever wanted",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -49590,6 +49590,16 @@ module.exports = {
             "icon": "https://remoteok.io/assets/favicon-96x96.png?2"
         },
         {
+            "name": "Remotists.",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Get Remote Dev Jobs in your mailbox. 35.000+ exciting remote jobs on file from 16000+ top remote companies. Segmented for USA, Europe or Worldwide. Personally selected for you by our experienced remote hiring managers.",
+            "links": {
+                "Website": "https://remotists.com/"
+            }
+        },
+        {
             "name": "Remotive",
             "categories": [
                 "Jobs/Remote Only"
@@ -53133,22 +53143,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://covid19api.com/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Health"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "public_api_fields": {
@@ -53158,6 +53152,22 @@ module.exports = {
             },
             "name": "Covid-19",
             "description": "Covid 19 cases, deaths and recovery per country",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Health"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://covid19api.com/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Covid-19",
+            "description": "Covid 19 spread, infection and recovery",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Health"
@@ -53625,17 +53635,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "Codepen radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-        },
-        {
             "name": "CodePen Radio",
             "categories": [
                 "Programming/Podcasts"
@@ -53645,6 +53644,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://blog.codepen.io/favicon.ico"
+        },
+        {
+            "name": "Codepen radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
         },
         {
             "name": "Commit Your Code!",

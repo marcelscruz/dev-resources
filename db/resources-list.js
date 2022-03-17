@@ -5457,17 +5457,6 @@ module.exports = [
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
-        "name": "Codepen radio",
-        "categories": [
-            "Programming/Podcasts"
-        ],
-        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-        "links": {
-            "Website": "https://blog.codepen.io/radio/"
-        },
-        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-    },
-    {
         "name": "CodePen Radio",
         "categories": [
             "Programming/Podcasts"
@@ -5477,6 +5466,17 @@ module.exports = [
             "Website": "https://blog.codepen.io/radio/"
         },
         "icon": "https://blog.codepen.io/favicon.ico"
+    },
+    {
+        "name": "Codepen radio",
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+        "links": {
+            "Website": "https://blog.codepen.io/radio/"
+        },
+        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
         "name": "Codepip",
@@ -6708,22 +6708,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://covid19api.com/"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Covid-19",
-        "description": "Covid 19 spread, infection and recovery",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Health"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://github.com/M-Media-Group/Covid-19-API"
         },
         "public_api_fields": {
@@ -6733,6 +6717,22 @@ module.exports = [
         },
         "name": "Covid-19",
         "description": "Covid 19 cases, deaths and recovery per country",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Health"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://covid19api.com/"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Covid-19",
+        "description": "Covid 19 spread, infection and recovery",
         "categories": [
             "Public APIs/All",
             "Public APIs/Health"
@@ -10830,17 +10830,6 @@ module.exports = [
         "icon": "https://freeicons.io/asset/images/favicon.png"
     },
     {
-        "name": "Freelancer",
-        "categories": [
-            "Jobs/Freelancing"
-        ],
-        "description": "Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 48m. Receive quotes in seconds. Post your job online now.",
-        "links": {
-            "Website": "https://www.freelancer.com/"
-        },
-        "icon": "https://www.f-cdn.com/assets/main/en/app-icons/apple-touch-icon.png"
-    },
-    {
         "links": {
             "Website": "https://developers.freelancer.com"
         },
@@ -10855,6 +10844,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Business"
         ]
+    },
+    {
+        "name": "Freelancer",
+        "categories": [
+            "Jobs/Freelancing"
+        ],
+        "description": "Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 48m. Receive quotes in seconds. Post your job online now.",
+        "links": {
+            "Website": "https://www.freelancer.com/"
+        },
+        "icon": "https://www.f-cdn.com/assets/main/en/app-icons/apple-touch-icon.png"
     },
     {
         "name": "FreePhotos.cc",
@@ -12256,6 +12256,17 @@ module.exports = [
         ]
     },
     {
+        "name": "Google Fonts",
+        "categories": [
+            "Assets/Fonts"
+        ],
+        "description": "Making the web more beautiful, fast, and open through great typography.",
+        "links": {
+            "Website": "https://fonts.google.com/"
+        },
+        "icon": "https://www.gstatic.com/images/branding/product/1x/google_fonts_blue_ios_96dp.png"
+    },
+    {
         "links": {
             "Website": "https://developers.google.com/fonts/docs/developer_api"
         },
@@ -12270,17 +12281,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Development"
         ]
-    },
-    {
-        "name": "Google Fonts",
-        "categories": [
-            "Assets/Fonts"
-        ],
-        "description": "Making the web more beautiful, fast, and open through great typography.",
-        "links": {
-            "Website": "https://fonts.google.com/"
-        },
-        "icon": "https://www.gstatic.com/images/branding/product/1x/google_fonts_blue_ios_96dp.png"
     },
     {
         "links": {
@@ -13046,17 +13046,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Hashnode",
-        "categories": [
-            "Community/Blogs & Forums"
-        ],
-        "description": "Hashnode is a free content creation platform and community that allows you to publish articles on your own domain and helps you stay connected with a growing developer community.",
-        "links": {
-            "Website": "https://hashnode.com/"
-        },
-        "icon": "https://cdn.hashnode.com/res/hashnode/image/upload/v1592400819640/7VL8RW7wc.png"
-    },
-    {
         "links": {
             "Website": "https://hashnode.com"
         },
@@ -13071,6 +13060,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Social"
         ]
+    },
+    {
+        "name": "Hashnode",
+        "categories": [
+            "Community/Blogs & Forums"
+        ],
+        "description": "Hashnode is a free content creation platform and community that allows you to publish articles on your own domain and helps you stay connected with a growing developer community.",
+        "links": {
+            "Website": "https://hashnode.com/"
+        },
+        "icon": "https://cdn.hashnode.com/res/hashnode/image/upload/v1592400819640/7VL8RW7wc.png"
     },
     {
         "links": {
@@ -13260,17 +13260,6 @@ module.exports = [
         "icon": "https://heroicons.com/_next/static/media/favicon-32x32.eee32601ba9d4702f841835990ed3801.png"
     },
     {
-        "name": "Heroku",
-        "categories": [
-            "Infrastructure/Hosting"
-        ],
-        "description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
-        "links": {
-            "Website": "https://www.heroku.com/"
-        },
-        "icon": "https://www.herokucdn.com/favicon.ico"
-    },
-    {
         "links": {
             "Website": "https://devcenter.heroku.com/articles/platform-api-reference/"
         },
@@ -13285,6 +13274,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Development"
         ]
+    },
+    {
+        "name": "Heroku",
+        "categories": [
+            "Infrastructure/Hosting"
+        ],
+        "description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
+        "links": {
+            "Website": "https://www.heroku.com/"
+        },
+        "icon": "https://www.herokucdn.com/favicon.ico"
     },
     {
         "name": "Hey Meta",
@@ -14087,20 +14087,6 @@ module.exports = [
         "icon": "https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico"
     },
     {
-        "name": "Icons8",
-        "categories": [
-            "Assets/Icons",
-            "Assets/Illustrations",
-            "Assets/Images",
-            "Assets/Audio"
-        ],
-        "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
-        "links": {
-            "Website": "https://icons8.com"
-        },
-        "icon": "https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png"
-    },
-    {
         "links": {
             "Website": "https://img.icons8.com/"
         },
@@ -14115,6 +14101,20 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Art & Design"
         ]
+    },
+    {
+        "name": "Icons8",
+        "categories": [
+            "Assets/Icons",
+            "Assets/Illustrations",
+            "Assets/Images",
+            "Assets/Audio"
+        ],
+        "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
+        "links": {
+            "Website": "https://icons8.com"
+        },
+        "icon": "https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png"
     },
     {
         "name": "Iconscout",
@@ -17564,17 +17564,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Get Material Icons.",
-        "links": {
-            "Website": "https://material.io/resources/icons"
-        },
-        "icon": "https://material.io/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Programming/UI Kits & Libraries"
         ],
         "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
@@ -17582,6 +17571,17 @@ module.exports = [
             "Website": "https://material.io/"
         },
         "icon": "https://material.io/static/assets/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Get Material Icons.",
+        "links": {
+            "Website": "https://material.io/resources/icons"
+        },
+        "icon": "https://material.io/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -19087,17 +19087,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Netlify",
-        "categories": [
-            "Infrastructure/Hosting"
-        ],
-        "description": "Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.",
-        "links": {
-            "Website": "https://www.netlify.com/"
-        },
-        "icon": "https://www.netlify.com/v3/static/favicon/favicon-32x32.png"
-    },
-    {
         "links": {
             "Website": "https://docs.netlify.com/api/get-started/"
         },
@@ -19112,6 +19101,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Development"
         ]
+    },
+    {
+        "name": "Netlify",
+        "categories": [
+            "Infrastructure/Hosting"
+        ],
+        "description": "Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.",
+        "links": {
+            "Website": "https://www.netlify.com/"
+        },
+        "icon": "https://www.netlify.com/v3/static/favicon/favicon-32x32.png"
     },
     {
         "links": {
@@ -19379,22 +19379,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://github.com/gadael/icsdb"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "unknown"
-        },
-        "name": "Non-Working Days",
-        "description": "Database of ICS files for non working days",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Calendar"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://isdayoff.ru"
         },
         "public_api_fields": {
@@ -19404,6 +19388,22 @@ module.exports = [
         },
         "name": "Non-Working Days",
         "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Calendar"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://github.com/gadael/icsdb"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "unknown"
+        },
+        "name": "Non-Working Days",
+        "description": "Database of ICS files for non working days",
         "categories": [
             "Public APIs/All",
             "Public APIs/Calendar"
@@ -19496,17 +19496,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Noun Project",
-        "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
-        "links": {
-            "Website": "https://thenounproject.com/"
-        },
-        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
-    },
-    {
         "links": {
             "Website": "http://api.thenounproject.com/index.html"
         },
@@ -19521,6 +19510,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Art & Design"
         ]
+    },
+    {
+        "name": "Noun Project",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
+        "links": {
+            "Website": "https://thenounproject.com/"
+        },
+        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
     },
     {
         "links": {
@@ -21680,22 +21680,6 @@ module.exports = [
         ]
     },
     {
-        "links": {
-            "Website": "https://www.pexels.com/api/"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Pexels",
-        "description": "Free Stock Photos and Videos",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Photography"
-        ]
-    },
-    {
         "name": "Pexels",
         "categories": [
             "Assets/Videos",
@@ -21714,6 +21698,22 @@ module.exports = [
             "Website": "https://www.pexels.com/"
         },
         "icon": "https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png"
+    },
+    {
+        "links": {
+            "Website": "https://www.pexels.com/api/"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Pexels",
+        "description": "Free Stock Photos and Videos",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Photography"
+        ]
     },
     {
         "links": {
@@ -21882,6 +21882,19 @@ module.exports = [
         ]
     },
     {
+        "name": "Pixabay",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Illustrations"
+        ],
+        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
+        "links": {
+            "Website": "https://pixabay.com/"
+        },
+        "icon": "https://pixabay.com/favicon-32x32.png"
+    },
+    {
         "links": {
             "Website": "https://pixabay.com/sk/service/about/api/"
         },
@@ -21896,19 +21909,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Photography"
         ]
-    },
-    {
-        "name": "Pixabay",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Illustrations"
-        ],
-        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
-        "links": {
-            "Website": "https://pixabay.com/"
-        },
-        "icon": "https://pixabay.com/favicon-32x32.png"
     },
     {
         "links": {
@@ -23686,6 +23686,17 @@ module.exports = [
         ]
     },
     {
+        "name": "reddit",
+        "categories": [
+            "Community/Blogs & Forums"
+        ],
+        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
+        "links": {
+            "Website": "https://www.reddit.com/"
+        },
+        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
+    },
+    {
         "links": {
             "Website": "https://www.reddit.com/dev/api"
         },
@@ -23700,17 +23711,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Social"
         ]
-    },
-    {
-        "name": "reddit",
-        "categories": [
-            "Community/Blogs & Forums"
-        ],
-        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
-        "links": {
-            "Website": "https://www.reddit.com/"
-        },
-        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
     },
     {
         "name": "redditors for hire",
@@ -23870,6 +23870,16 @@ module.exports = [
             "Website": "https://remoteok.io/"
         },
         "icon": "https://remoteok.io/assets/favicon-96x96.png?2"
+    },
+    {
+        "name": "Remotists.",
+        "categories": [
+            "Jobs/Remote Only"
+        ],
+        "description": "Get Remote Dev Jobs in your mailbox. 35.000+ exciting remote jobs on file from 16000+ top remote companies. Segmented for USA, Europe or Worldwide. Personally selected for you by our experienced remote hiring managers.",
+        "links": {
+            "Website": "https://remotists.com/"
+        }
     },
     {
         "name": "Remotive",
@@ -25283,19 +25293,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Shutterstock",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Icons"
-        ],
-        "description": "Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.",
-        "links": {
-            "Website": "https://www.shutterstock.com/"
-        },
-        "icon": "https://ak.picdn.net/assets/cms/sstk-favicon-72.png"
-    },
-    {
         "links": {
             "Website": "https://api-reference.shutterstock.com/"
         },
@@ -25310,6 +25307,19 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Photography"
         ]
+    },
+    {
+        "name": "Shutterstock",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Icons"
+        ],
+        "description": "Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.",
+        "links": {
+            "Website": "https://www.shutterstock.com/"
+        },
+        "icon": "https://ak.picdn.net/assets/cms/sstk-favicon-72.png"
     },
     {
         "name": "Sidebar",
@@ -26378,22 +26388,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://steamapi.xpaw.me/"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "no"
-        },
-        "name": "Steam",
-        "description": "Steam Web API documentation",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Games & Comics"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
         },
         "public_api_fields": {
@@ -26403,6 +26397,22 @@ module.exports = [
         },
         "name": "Steam",
         "description": "Internal Steam Web API documentation",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Games & Comics"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://steamapi.xpaw.me/"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": true,
+            "cors": "no"
+        },
+        "name": "Steam",
+        "description": "Steam Web API documentation",
         "categories": [
             "Public APIs/All",
             "Public APIs/Games & Comics"
@@ -26813,22 +26823,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://swapi.dev/"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "SWAPI",
-        "description": "All the Star Wars data you've ever wanted",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Video"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://www.swapi.tech"
         },
         "public_api_fields": {
@@ -26838,6 +26832,22 @@ module.exports = [
         },
         "name": "SWAPI",
         "description": "All things Star Wars",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Video"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://swapi.dev/"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "SWAPI",
+        "description": "All the Star Wars data you've ever wanted",
         "categories": [
             "Public APIs/All",
             "Public APIs/Video"
@@ -30723,22 +30733,6 @@ module.exports = [
         ]
     },
     {
-        "links": {
-            "Website": "https://warrant.dev/"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Warrant",
-        "description": "APIs for authorization and access control",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Authentication & Authorization"
-        ]
-    },
-    {
         "name": "Warrant",
         "categories": [
             "Infrastructure/Auth"
@@ -30756,6 +30750,22 @@ module.exports = [
             "authorization",
             "authz",
             "access control"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://warrant.dev/"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Warrant",
+        "description": "APIs for authorization and access control",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Authentication & Authorization"
         ]
     },
     {
