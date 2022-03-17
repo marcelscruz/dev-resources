@@ -248,6 +248,15 @@ module.exports = [
         icon: 'https://remoteok.io/assets/favicon-96x96.png?2',
     },
     {
+        name: 'Remotists.',
+        categories: [jobs.remoteOnly],
+        description:
+            'Get Remote Dev Jobs in your mailbox. 35.000+ exciting remote jobs on file from 16000+ top remote companies. Segmented for USA, Europe or Worldwide. Personally selected for you by our experienced remote hiring managers.',
+        links: {
+            [website]: 'https://remotists.com/',
+        },
+    },
+    {
         name: 'Remotive',
         categories: [jobs.remoteOnly],
         description:
@@ -360,14 +369,16 @@ module.exports = [
     {
         name: 'Rick Blyth',
         categories: [community.personalWebsites],
-        description: 'Rick Blyth is a Micro SaaS Founder who shares tips on getting started with Micro SaaS, Passive Income, Quit Your Job and Chrome Extensions. Home of the free 12 chapter Micro SaaS Handbook.',
+        description:
+            'Rick Blyth is a Micro SaaS Founder who shares tips on getting started with Micro SaaS, Passive Income, Quit Your Job and Chrome Extensions. Home of the free 12 chapter Micro SaaS Handbook.',
         links: {
             [website]: 'https://rickblyth.com/',
             [facebook]: 'https://www.facebook.com/rickblythmicrosaas',
             [twitter]: 'https://twitter.com/rick_blyth',
             [youtube]: 'https://www.youtube.com/channel/UC_K6le9py40qyCLp_8FdOQQ',
         },
-        icon: 'https://assets.grooveapps.com/images/5f3e7d217cadae003769b3fd/1646060069_rickblythhalftonestransparent.png',
+        icon:
+            'https://assets.grooveapps.com/images/5f3e7d217cadae003769b3fd/1646060069_rickblythhalftonestransparent.png',
     },
     {
         name: 'Rider',
