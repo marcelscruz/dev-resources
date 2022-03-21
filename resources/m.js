@@ -366,4 +366,13 @@ module.exports = [
         },
         icon: 'https://labs.mysql.com/common/themes/sakila/favicon.ico',
     },
+    {
+        name: 'Materio Free MUI React NextJS Admin Template',
+        categories: [programming.javascript.react],
+        description: 'Most Powerful & Comprehensive Open Source and Free MUI React NextJS Admin Dashboard Template built for developers.',
+        links: {
+            [GitHub]: 'https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free',
+        },
+        icon: 'https://themeselection.com/wp-content/uploads/2018/07/favicon.ico',
+    },
 ]
