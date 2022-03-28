@@ -42,6 +42,16 @@ module.exports = [
         keywords: ['next', 'ui', 'nextui', 'library'],
     },
     {
+        name: 'Nitric',
+        description: 'A fun and productive framework for building serverless apps',
+        categories: [toolsAndUtilities.apiBuilding],
+        links: {
+            [website]: 'https://nitric.io',
+        },
+        icon: 'https://nitric.io/favicon.icon',
+        keywords: ['serverless', 'cloud', 'development', 'framework'],
+    },
+    {
         name: 'Nomad List',
         categories: [jobs.boards, jobs.remoteOnly],
         description: 'Best places to live for a digital nomad',
