@@ -303,6 +303,7 @@
  <img src="https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png" width="16" /> | AWS | Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use. | [Website](https://aws.amazon.com/) |  |
  <img src="https://app.brainboard.co/favicon.ico" width="16" /> | Brainboard | Visually Design, Deploy & Manage modern cloud infrastructures starting from any Cloud Provider - AWS, GCP, Azure | [Website](https://www.brainboard.co/) | cloud, cloud designer, deploy, designer, terraform, visual designer |
  <img src="https://www.linode.com/favicon.ico" width="16" /> | Linode | Simplify your infrastructure with Linode's cloud computing and hosting solutions and develop, deploy, and scale faster and easier. | [Website](https://www.linode.com/) |  |
+ <img src="https://qoddi.com/assets/images/favicon.ico" width="16" /> | Qoddi.com | Hosting Qoddi.com is a PaaS service similar to Heroku with a developer-centric approach and a free tier for developers and micro-services. | [Website](https://qoddi.com)<br />[Facebook](https://www.facebook.com/qoddiapps)<br />[GitHub](https://github.com/qoddiapps)<br />[LinkedIn](https://www.linkedin.com/company/qoddiapps/)<br />[Twitter](https://twitter.com/qoddiapps) |  |
 
 **[⬆ Back to Index](#index)**
 
@@ -332,11 +333,11 @@
  <img src="https://azurecomcdn.azureedge.net/cvt-1e062bfe62b371303d7ba3612723f5e334cd5f56fd4e3ea4c0f6e8138bf366b5/images/icon/apple-touch/72x72.png" width="16" /> | Azure | Invent with purpose, realise cost savings and make your organisation more efficient with Microsoft Azure’s open and flexible cloud computing platform. | [Website](https://azure.microsoft.com/) | Azure, Windows Azure, Cloud Service, Cloud Computing Companies |
  <img src="https://pages.cloudflare.com/resources/logo/logo.svg" width="16" /> | Cloudflare Pages | Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites. | [Website](https://pages.cloudflare.com/) | jamstack, serverless, hosting, development |
  <img src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png" width="16" /> | Firebase | Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. | [Website](https://firebase.google.com/) |  |
- <img src="https://flashdrive.io/assets/images/favicon.ico" width="16" /> | FlashDrive.io | HostingFlashDrive.io is a PaaS service similar to Heroku with a developer-centric approach and a free tier for developers and micro-services. | [Website](https://flashdrive.io)<br />[Facebook](https://www.facebook.com/flashdriveio)<br />[GitHub](https://github.com/flashdriveio)<br />[LinkedIn](https://www.linkedin.com/company/flashdrive/)<br />[Twitter](https://twitter.com/flashdriveio) |  |
  <img src="https://pages.github.com/favicon.ico" width="16" /> | GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live. | [Website](https://pages.github.com/) |  |
  <img src="https://www.herokucdn.com/favicon.ico" width="16" /> | Heroku | Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. | [Website](https://www.heroku.com/) |  |
  <img src="https://hostman.com/favicon.ico" width="16" /> | Hostman | Cloud hosting for startups and developers. | [Website](https://hostman.com/) |  |
  <img src="https://www.netlify.com/v3/static/favicon/favicon-32x32.png" width="16" /> | Netlify | Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free. | [Website](https://www.netlify.com/) |  |
+ <img src="https://qoddi.com/assets/images/favicon.ico" width="16" /> | Qoddi.com | Hosting Qoddi.com is a PaaS service similar to Heroku with a developer-centric approach and a free tier for developers and micro-services. | [Website](https://qoddi.com)<br />[Facebook](https://www.facebook.com/qoddiapps)<br />[GitHub](https://github.com/qoddiapps)<br />[LinkedIn](https://www.linkedin.com/company/qoddiapps/)<br />[Twitter](https://twitter.com/qoddiapps) |  |
  <img src="https://render.com/icons/icon-96x96.png?v=4ab9a3fc5e06e2253bb579a9609a1ecc" width="16" /> | Render | Render is a unified platform to build and run all your apps and websites with free SSL, global CDN, private networks and auto deploys from Git. | [Website](https://render.com/) |  |
  <img src="https://www.stormkit.io/favicon.png" width="16" /> | Stormkit | Stormkit integrates perfectly with your git flow. It builds, deploys and scales your javascript apps seamlessly. | [Website](https://www.stormkit.io/) |  |
  <img src="https://surge.sh/favicon.ico" width="16" /> | Surge | Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI. | [Website](https://surge.sh/) |  |
@@ -658,8 +659,8 @@
 |---|---|---|---|---|
  <img src="http://codewinds.com/assets/favicon-64.png" width="16" /> | Code Winds | CodeWinds - Leading edge live and online developer training - in-person, public or private classes, webinars, video courses, resources, tutorials for fullstack web developers. Featuring javascript, Re... | [Website](http://codewinds.com/podcast.html) | web, developer, training, fullstack, live classes, private classes, custom classes, webinars, screen... |
  <img src="https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png" width="16" /> | CodeNewbie | Stories from people on their coding journey. | [Website](https://www.codenewbie.org/podcast/) | careers, development, jobs |
- <img src="https://blog.codepen.io/favicon.ico" width="16" /> | CodePen Radio | A podcast all about what it's like running a small web software business. The good, the bad, and the ugly. | [Website](https://blog.codepen.io/radio/) |  |
  <img src="https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png" width="16" /> | Codepen radio | A podcast all about what it's like running a small web software business. The good, the bad, and the ugly. | [Website](https://blog.codepen.io/radio/) |  |
+ <img src="https://blog.codepen.io/favicon.ico" width="16" /> | CodePen Radio | A podcast all about what it's like running a small web software business. The good, the bad, and the ugly. | [Website](https://blog.codepen.io/radio/) |  |
  <img src="https://d12xoj7p9moygp.cloudfront.net/favicon/favicon-96x96.png" width="16" /> | Commit Your Code! | Commit Your Code is about motivating and inspiring developers of all levels to reach their goals in tech. We will be sharing stories and interviewing developers that have gone through this and made it... | [Website](https://anchor.fm/commityourcode) | podcast hosting, free podcast hosting, make a podcast, making a podcast, create a podcast, creating ... |
  <img src="https://spec.fm/static/meta/android-chrome-192x192.png" width="16" /> | Developer tea | A podcast for developers designed to fit inside your tea break | [Website](https://spec.fm/podcasts/developer-tea) |  |
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--t7tVouP9--/c_limit,f_png,fl_progressive,q_80,w_192/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" width="16" /> | DevNews | DevNews is the news show for developers by developers, hosted by Saron Yitbarek, founder of CodeNewbie, and DEV senior engineers Josh Puetz and Vaidehi Joshi. Each season these experienced devs cover ... | [Website](https://dev.to/devnews) | software development, engineering, rails, javascript, ruby |
@@ -1044,8 +1045,8 @@
  &nbsp; | Cloudmersive | Image captioning, face recognition, NSFW classification | [Website](https://www.cloudmersive.com/image-recognition-and-processing-api) |  |
  &nbsp; | Cloudmersive Document and Data Conversion | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | [Website](https://cloudmersive.com/convert-api) |  |
  &nbsp; | Cloudmersive Natural Language Processing | Natural language processing and text analysis | [Website](https://www.cloudmersive.com/nlp-api) |  |
- &nbsp; | Cloudmersive Validate | Validate international phone numbers | [Website](https://cloudmersive.com/phone-number-validation-API) |  |
  &nbsp; | Cloudmersive Validate | Validate email addresses, phone numbers, VAT numbers and domain names | [Website](https://cloudmersive.com/validate-api) |  |
+ &nbsp; | Cloudmersive Validate | Validate international phone numbers | [Website](https://cloudmersive.com/phone-number-validation-API) |  |
  &nbsp; | Cloverly | API calculates the impact of common carbon-intensive activities in real time | [Website](https://www.cloverly.com/carbon-offset-documentation) |  |
  &nbsp; | CMS.gov | Access to the data from the CMS - medicare.gov | [Website](https://data.cms.gov/provider-data/) |  |
  &nbsp; | CO2 Offset | API calculates and validates the carbon footprint | [Website](https://co2offset.io/api.html) |  |
@@ -1096,8 +1097,8 @@
  &nbsp; | CountryStateCity | World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format | [Website](https://countrystatecity.in/) |  |
  &nbsp; | Covalent | Multi-blockchain data aggregator platform | [Website](https://www.covalenthq.com/docs/api/) |  |
  &nbsp; | Covid Tracking Project | Covid-19  data for the US | [Website](https://covidtracking.com/data/api/version-2) |  |
- &nbsp; | Covid-19 | Covid 19 cases, deaths and recovery per country | [Website](https://github.com/M-Media-Group/Covid-19-API) |  |
  &nbsp; | Covid-19 | Covid 19 spread, infection and recovery | [Website](https://covid19api.com/) |  |
+ &nbsp; | Covid-19 | Covid 19 cases, deaths and recovery per country | [Website](https://github.com/M-Media-Group/Covid-19-API) |  |
  &nbsp; | Covid-19 Datenhub | Maps, datasets, applications and more in the context of COVID-19 | [Website](https://npgeo-corona-npgeo-de.hub.arcgis.com) |  |
  &nbsp; | Covid-19 Government Response | Government measures tracker to fight against the Covid-19 pandemic | [Website](https://covidtracker.bsg.ox.ac.uk) |  |
  &nbsp; | Covid-19 India | Covid 19 statistics state and district wise about cases, vaccinations, recovery within India | [Website](https://data.covid19india.org/) |  |
@@ -1163,8 +1164,8 @@
  &nbsp; | Disqus | Communicate with Disqus data | [Website](https://disqus.com/api/docs/auth/) |  |
  &nbsp; | District of Columbia Open Data | Contains D.C. government public datasets, including crime, GIS, financial data, and so on | [Website](http://opendata.dc.gov/pages/using-apis) |  |
  &nbsp; | Docker Hub | Interact with Docker Hub | [Website](https://docs.docker.com/docker-hub/api/latest/) |  |
- &nbsp; | Dog Facts | Random facts of Dogs | [Website](https://kinduff.github.io/dog-api/) |  |
  &nbsp; | Dog Facts | Random dog facts | [Website](https://dukengn.github.io/Dog-facts-API/) |  |
+ &nbsp; | Dog Facts | Random facts of Dogs | [Website](https://kinduff.github.io/dog-api/) |  |
  &nbsp; | Doge-Meme | Top meme posts from r/dogecoin which include 'Meme' flair | [Website](https://api.doge-meme.lol/docs) |  |
  &nbsp; | Dogs | Based on the Stanford Dogs Dataset | [Website](https://dog.ceo/dog-api/) |  |
  &nbsp; | DomainDb Info | Domain name search to find all domains containing particular words/phrases/etc | [Website](https://api.domainsdb.info/) |  |
@@ -1647,8 +1648,8 @@
  &nbsp; | Noctua | REST API used to access NoctuaSky features | [Website](https://api.noctuasky.com/api/v1/swaggerdoc/) |  |
  &nbsp; | Nomics | Historical and realtime cryptocurrency prices and market data | [Website](https://nomics.com/docs/) |  |
  &nbsp; | Nominatim | Provides worldwide forward / reverse geocoding | [Website](https://nominatim.org/release-docs/latest/api/Overview/) |  |
- &nbsp; | Non-Working Days | Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other | [Website](https://isdayoff.ru) |  |
  &nbsp; | Non-Working Days | Database of ICS files for non working days | [Website](https://github.com/gadael/icsdb) |  |
+ &nbsp; | Non-Working Days | Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other | [Website](https://isdayoff.ru) |  |
  &nbsp; | NoPhishy | Check links to see if they're known phishing attempts | [Website](https://rapidapi.com/Amiichu/api/exerra-phishing-check/) |  |
  &nbsp; | Nordigen | Connect to bank accounts using official bank APIs and get raw transaction data | [Website](https://nordigen.com/en/account_information_documenation/integration/quickstart_guide/) |  |
  &nbsp; | Notion | Integrate with Notion | [Website](https://developers.notion.com/docs/getting-started) |  |
@@ -1701,8 +1702,8 @@
  &nbsp; | Open Government, Korea | Korea Government Open Data | [Website](https://www.data.go.kr/) |  |
  &nbsp; | Open Government, Lithuania | Lithuania Government Open Data | [Website](https://data.gov.lt/public/api/1) |  |
  &nbsp; | Open Government, Luxembourg | Luxembourgish Government Open Data | [Website](https://data.public.lu) |  |
- &nbsp; | Open Government, Mexico | Mexican Statistical Government Open Data | [Website](https://www.inegi.org.mx/datos/) |  |
  &nbsp; | Open Government, Mexico | Mexico Government Open Data | [Website](https://datos.gob.mx/) |  |
+ &nbsp; | Open Government, Mexico | Mexican Statistical Government Open Data | [Website](https://www.inegi.org.mx/datos/) |  |
  &nbsp; | Open Government, Netherlands | Netherlands Government Open Data | [Website](https://data.overheid.nl/en/ondersteuning/data-publiceren/api) |  |
  &nbsp; | Open Government, New South Wales | New South Wales Government Open Data | [Website](https://api.nsw.gov.au/) |  |
  &nbsp; | Open Government, New Zealand | New Zealand Government Open Data | [Website](https://www.data.govt.nz/) |  |
@@ -1985,8 +1986,8 @@
  &nbsp; | SuperHeroes | All SuperHeroes and Villains data from all universes under a single API | [Website](https://superheroapi.com) |  |
  &nbsp; | Supportivekoala | Autogenerate images with template | [Website](https://developers.supportivekoala.com/) |  |
  &nbsp; | SuredBits | Query sports data, including teams, players, games, scores and statistics | [Website](https://suredbits.com/api/) |  |
- &nbsp; | SWAPI | All things Star Wars | [Website](https://www.swapi.tech) |  |
  &nbsp; | SWAPI | All the Star Wars data you've ever wanted | [Website](https://swapi.dev/) |  |
+ &nbsp; | SWAPI | All things Star Wars | [Website](https://www.swapi.tech) |  |
  &nbsp; | SWAPI GraphQL | Star Wars GraphQL API | [Website](https://graphql.org/swapi-graphql) |  |
  &nbsp; | SwiftKanban | Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity | [Website](https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi) |  |
  &nbsp; | Synonyms | Synonyms, thesaurus and antonyms information for any given word | [Website](https://www.synonyms.com/synonyms_api.php) |  |
@@ -2077,10 +2078,10 @@
  &nbsp; | Transport for Sao Paulo, Brazil | SPTrans | [Website](http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/) |  |
  &nbsp; | Transport for Spain | Public trains of Spain | [Website](https://data.renfe.com/api/1/util/snippet/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a) |  |
  &nbsp; | Transport for Sweden | Public Transport consumer | [Website](https://www.trafiklab.se/api) |  |
- &nbsp; | Transport for Switzerland | Swiss public transport API | [Website](https://transport.opendata.ch/) |  |
  &nbsp; | Transport for Switzerland | Official Swiss Public Transport Open Data | [Website](https://opentransportdata.swiss/en/) |  |
- &nbsp; | Transport for The Netherlands | OVAPI, country-wide public transport | [Website](https://github.com/skywave/KV78Turbo-OVAPI/wiki) |  |
+ &nbsp; | Transport for Switzerland | Swiss public transport API | [Website](https://transport.opendata.ch/) |  |
  &nbsp; | Transport for The Netherlands | NS, only trains | [Website](http://www.ns.nl/reisinformatie/ns-api) |  |
+ &nbsp; | Transport for The Netherlands | OVAPI, country-wide public transport | [Website](https://github.com/skywave/KV78Turbo-OVAPI/wiki) |  |
  &nbsp; | Transport for Toronto, Canada | TTC | [Website](https://myttc.ca/developers) |  |
  &nbsp; | Transport for UK | Transport API and dataset for UK | [Website](https://developer.transportapi.com) |  |
  &nbsp; | Transport for United States | NextBus API | [Website](https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf) |  |
@@ -2233,8 +2234,8 @@
  &nbsp; | Cat Facts | Daily cat facts | [Website](https://alexwohlbruck.github.io/cat-facts/) |  |
  &nbsp; | Cataas | Cat as a service (cats pictures and gifs) | [Website](https://cataas.com/) |  |
  &nbsp; | Cats | Pictures of cats from Tumblr | [Website](https://docs.thecatapi.com/) |  |
- &nbsp; | Dog Facts | Random facts of Dogs | [Website](https://kinduff.github.io/dog-api/) |  |
  &nbsp; | Dog Facts | Random dog facts | [Website](https://dukengn.github.io/Dog-facts-API/) |  |
+ &nbsp; | Dog Facts | Random facts of Dogs | [Website](https://kinduff.github.io/dog-api/) |  |
  &nbsp; | Dogs | Based on the Stanford Dogs Dataset | [Website](https://dog.ceo/dog-api/) |  |
  &nbsp; | eBird | Retrieve recent or notable birding observations within a region | [Website](https://documenter.getpostman.com/view/664302/S1ENwy59) |  |
  &nbsp; | FishWatch | Information and pictures about individual fish species | [Website](https://www.fishwatch.gov/developers) |  |
@@ -2432,8 +2433,8 @@
  &nbsp; | LectServe | Protestant liturgical calendar | [Website](http://www.lectserve.com) |  |
  &nbsp; | Nager.Date | Public holidays for more than 90 countries | [Website](https://date.nager.at) |  |
  &nbsp; | Namedays Calendar | Provides namedays for multiple countries | [Website](https://nameday.abalin.net) |  |
- &nbsp; | Non-Working Days | Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other | [Website](https://isdayoff.ru) |  |
  &nbsp; | Non-Working Days | Database of ICS files for non working days | [Website](https://github.com/gadael/icsdb) |  |
+ &nbsp; | Non-Working Days | Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other | [Website](https://isdayoff.ru) |  |
  &nbsp; | Russian Calendar | Check if a date is a Russian holiday or not | [Website](https://github.com/egno/work-calendar) |  |
  &nbsp; | UK Bank Holidays | Bank holidays in England and Wales, Scotland and Northern Ireland | [Website](https://www.gov.uk/bank-holidays.json) |  |
 
@@ -3161,8 +3162,8 @@
  &nbsp; | Open Government, Korea | Korea Government Open Data | [Website](https://www.data.go.kr/) |  |
  &nbsp; | Open Government, Lithuania | Lithuania Government Open Data | [Website](https://data.gov.lt/public/api/1) |  |
  &nbsp; | Open Government, Luxembourg | Luxembourgish Government Open Data | [Website](https://data.public.lu) |  |
- &nbsp; | Open Government, Mexico | Mexican Statistical Government Open Data | [Website](https://www.inegi.org.mx/datos/) |  |
  &nbsp; | Open Government, Mexico | Mexico Government Open Data | [Website](https://datos.gob.mx/) |  |
+ &nbsp; | Open Government, Mexico | Mexican Statistical Government Open Data | [Website](https://www.inegi.org.mx/datos/) |  |
  &nbsp; | Open Government, Netherlands | Netherlands Government Open Data | [Website](https://data.overheid.nl/en/ondersteuning/data-publiceren/api) |  |
  &nbsp; | Open Government, New South Wales | New South Wales Government Open Data | [Website](https://api.nsw.gov.au/) |  |
  &nbsp; | Open Government, New Zealand | New Zealand Government Open Data | [Website](https://www.data.govt.nz/) |  |
@@ -3202,8 +3203,8 @@
  &nbsp; | Coronavirus | HTTP API for Latest Covid-19 Data | [Website](https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme) |  |
  &nbsp; | Coronavirus in the UK | UK Government coronavirus data, including deaths and cases by region | [Website](https://coronavirus.data.gov.uk/details/developers-guide) |  |
  &nbsp; | Covid Tracking Project | Covid-19  data for the US | [Website](https://covidtracking.com/data/api/version-2) |  |
- &nbsp; | Covid-19 | Covid 19 cases, deaths and recovery per country | [Website](https://github.com/M-Media-Group/Covid-19-API) |  |
  &nbsp; | Covid-19 | Covid 19 spread, infection and recovery | [Website](https://covid19api.com/) |  |
+ &nbsp; | Covid-19 | Covid 19 cases, deaths and recovery per country | [Website](https://github.com/M-Media-Group/Covid-19-API) |  |
  &nbsp; | Covid-19 Datenhub | Maps, datasets, applications and more in the context of COVID-19 | [Website](https://npgeo-corona-npgeo-de.hub.arcgis.com) |  |
  &nbsp; | Covid-19 Government Response | Government measures tracker to fight against the Covid-19 pandemic | [Website](https://covidtracker.bsg.ox.ac.uk) |  |
  &nbsp; | Covid-19 India | Covid 19 statistics state and district wise about cases, vaccinations, recovery within India | [Website](https://data.covid19india.org/) |  |
@@ -3812,10 +3813,10 @@
  &nbsp; | Transport for Sao Paulo, Brazil | SPTrans | [Website](http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/) |  |
  &nbsp; | Transport for Spain | Public trains of Spain | [Website](https://data.renfe.com/api/1/util/snippet/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a) |  |
  &nbsp; | Transport for Sweden | Public Transport consumer | [Website](https://www.trafiklab.se/api) |  |
- &nbsp; | Transport for Switzerland | Swiss public transport API | [Website](https://transport.opendata.ch/) |  |
  &nbsp; | Transport for Switzerland | Official Swiss Public Transport Open Data | [Website](https://opentransportdata.swiss/en/) |  |
- &nbsp; | Transport for The Netherlands | OVAPI, country-wide public transport | [Website](https://github.com/skywave/KV78Turbo-OVAPI/wiki) |  |
+ &nbsp; | Transport for Switzerland | Swiss public transport API | [Website](https://transport.opendata.ch/) |  |
  &nbsp; | Transport for The Netherlands | NS, only trains | [Website](http://www.ns.nl/reisinformatie/ns-api) |  |
+ &nbsp; | Transport for The Netherlands | OVAPI, country-wide public transport | [Website](https://github.com/skywave/KV78Turbo-OVAPI/wiki) |  |
  &nbsp; | Transport for Toronto, Canada | TTC | [Website](https://myttc.ca/developers) |  |
  &nbsp; | Transport for UK | Transport API and dataset for UK | [Website](https://developer.transportapi.com) |  |
  &nbsp; | Transport for United States | NextBus API | [Website](https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf) |  |
@@ -3895,8 +3896,8 @@
  &nbsp; | Stranger Things Quotes | Returns Stranger Things quotes | [Website](https://github.com/shadowoff09/strangerthings-quotes) |  |
  &nbsp; | Stream | Czech internet television, films, series and online videos for free | [Website](https://api.stream.cz/graphiql) |  |
  &nbsp; | Stromberg Quotes | Returns Stromberg quotes and more | [Website](https://www.stromberg-api.de/) |  |
- &nbsp; | SWAPI | All things Star Wars | [Website](https://www.swapi.tech) |  |
  &nbsp; | SWAPI | All the Star Wars data you've ever wanted | [Website](https://swapi.dev/) |  |
+ &nbsp; | SWAPI | All things Star Wars | [Website](https://www.swapi.tech) |  |
  &nbsp; | SWAPI GraphQL | Star Wars GraphQL API | [Website](https://graphql.org/swapi-graphql) |  |
  &nbsp; | The Lord of the Rings | The Lord of the Rings API | [Website](https://the-one-api.dev/) |  |
  &nbsp; | The Vampire Diaries | TV Show Data | [Website](https://vampire-diaries-api.netlify.app/) |  |
