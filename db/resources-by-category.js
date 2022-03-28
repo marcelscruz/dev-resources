@@ -3874,22 +3874,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://cloudmersive.com/validate-api"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Email"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://cloudmersive.com/phone-number-validation-API"
             },
             "public_api_fields": {
@@ -3902,6 +3886,22 @@ module.exports = {
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Phone"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://cloudmersive.com/validate-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Email"
             ]
         },
         {
@@ -4706,22 +4706,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Health"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://covid19api.com/"
             },
             "public_api_fields": {
@@ -4731,6 +4715,22 @@ module.exports = {
             },
             "name": "Covid-19",
             "description": "Covid 19 spread, infection and recovery",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Health"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Covid-19",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Health"
@@ -13522,22 +13522,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://isdayoff.ru"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Non-Working Days",
-            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Calendar"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/gadael/icsdb"
             },
             "public_api_fields": {
@@ -13547,6 +13531,22 @@ module.exports = {
             },
             "name": "Non-Working Days",
             "description": "Database of ICS files for non working days",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://isdayoff.ru"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Non-Working Days",
+            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Calendar"
@@ -13698,22 +13698,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "public_api_fields": {
@@ -13723,6 +13707,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Facts about numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -18642,22 +18642,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Steam",
-            "description": "Internal Steam Web API documentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://steamapi.xpaw.me/"
             },
             "public_api_fields": {
@@ -18667,6 +18651,22 @@ module.exports = {
             },
             "name": "Steam",
             "description": "Steam Web API documentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Steam",
+            "description": "Internal Steam Web API documentation",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
@@ -18930,22 +18930,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://swapi.dev/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.swapi.tech"
             },
             "public_api_fields": {
@@ -18955,6 +18939,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All things Star Wars",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://swapi.dev/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All the Star Wars data you've ever wanted",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -20402,22 +20402,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://transport.opendata.ch/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://opentransportdata.swiss/en/"
             },
             "public_api_fields": {
@@ -20434,15 +20418,15 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://transport.opendata.ch/"
             },
             "public_api_fields": {
-                "auth": "apiKey",
-                "https": false,
+                "auth": "",
+                "https": true,
                 "cors": "unknown"
             },
-            "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
+            "name": "Transport for Switzerland",
+            "description": "Swiss public transport API",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -20459,6 +20443,22 @@ module.exports = {
             },
             "name": "Transport for The Netherlands",
             "description": "OVAPI, country-wide public transport",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": false,
+                "cors": "unknown"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "NS, only trains",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -32197,22 +32197,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://isdayoff.ru"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Non-Working Days",
-            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Calendar"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/gadael/icsdb"
             },
             "public_api_fields": {
@@ -32222,6 +32206,22 @@ module.exports = {
             },
             "name": "Non-Working Days",
             "description": "Database of ICS files for non working days",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://isdayoff.ru"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Non-Working Days",
+            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Calendar"
@@ -35291,22 +35291,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://transport.opendata.ch/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://opentransportdata.swiss/en/"
             },
             "public_api_fields": {
@@ -35323,15 +35307,15 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://transport.opendata.ch/"
             },
             "public_api_fields": {
-                "auth": "apiKey",
-                "https": false,
+                "auth": "",
+                "https": true,
                 "cors": "unknown"
             },
-            "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
+            "name": "Transport for Switzerland",
+            "description": "Swiss public transport API",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -35348,6 +35332,22 @@ module.exports = {
             },
             "name": "Transport for The Netherlands",
             "description": "OVAPI, country-wide public transport",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": false,
+                "cors": "unknown"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "NS, only trains",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -37603,22 +37603,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Steam",
-            "description": "Internal Steam Web API documentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://steamapi.xpaw.me/"
             },
             "public_api_fields": {
@@ -37628,6 +37612,22 @@ module.exports = {
             },
             "name": "Steam",
             "description": "Steam Web API documentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Steam",
+            "description": "Internal Steam Web API documentation",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
@@ -39867,22 +39867,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://swapi.dev/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.swapi.tech"
             },
             "public_api_fields": {
@@ -39892,6 +39876,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All things Star Wars",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://swapi.dev/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All the Star Wars data you've ever wanted",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -44755,22 +44755,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "public_api_fields": {
@@ -44780,6 +44764,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Facts about numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -52971,22 +52971,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/M-Media-Group/Covid-19-API"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Covid-19",
-            "description": "Covid 19 cases, deaths and recovery per country",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Health"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://covid19api.com/"
             },
             "public_api_fields": {
@@ -52996,6 +52980,22 @@ module.exports = {
             },
             "name": "Covid-19",
             "description": "Covid 19 spread, infection and recovery",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Health"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/M-Media-Group/Covid-19-API"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Covid-19",
+            "description": "Covid 19 cases, deaths and recovery per country",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Health"
@@ -55468,6 +55468,17 @@ module.exports = {
                 "Website": "https://intersectionobserver.io"
             },
             "icon": "https://intersectionobserver.io/favicon.png"
+        },
+        {
+            "name": "Materio Free MUI React NextJS Admin Template",
+            "categories": [
+                "Programming/JavaScript/React"
+            ],
+            "description": "Most Powerful & Comprehensive Open Source and Free MUI React NextJS Admin Dashboard Template built for developers.",
+            "links": {
+                "GitHub": "https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free"
+            },
+            "icon": "https://themeselection.com/wp-content/uploads/2018/07/favicon.ico"
         },
         {
             "name": "Next.js",
