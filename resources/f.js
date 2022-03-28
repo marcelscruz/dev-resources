@@ -7,7 +7,7 @@ const {
     jobs,
     community,
 } = require('../constants/categories')
-const { website, youtube, facebook, twitter, linkedin, github } = require('../constants/links')
+const { website, youtube } = require('../constants/links')
 
 module.exports = [
     {
@@ -127,13 +127,28 @@ module.exports = [
     },
     {
         name: 'Fireship',
-        description: 'High-intensity ⚡ code tutorials to help you build & ship your app faster. Subscribe for new videos every week covering intermediate to advanced lessons about JavaScript, Flutter, Firebase, and modern app development. The original home of #100SecondsOfCode and #CodeThisNotThat. Created by Jeff Delaney.',
+        description:
+            'High-intensity ⚡ code tutorials to help you build & ship your app faster. Subscribe for new videos every week covering intermediate to advanced lessons about JavaScript, Flutter, Firebase, and modern app development. The original home of #100SecondsOfCode and #CodeThisNotThat. Created by Jeff Delaney.',
         categories: [programming.youtubeChannels],
         links: {
             [website]: 'https://www.youtube.com/c/Fireship/featured',
         },
         icon: 'https://www.youtube.com/s/desktop/b349a03a/img/favicon_96x96.png',
-        keywords: ['#CodeThisNotThat', '#100SecondsOfCode', 'javaScript', 'flutter', 'firebase', 'coding tutorials', 'Jeff Delaney', 'development', 'angular', 'git', 'nextJS', 'developer productivity', 'top N lists']
+        keywords: [
+            '#CodeThisNotThat',
+            '#100SecondsOfCode',
+            'javaScript',
+            'flutter',
+            'firebase',
+            'coding tutorials',
+            'Jeff Delaney',
+            'development',
+            'angular',
+            'git',
+            'nextJS',
+            'developer productivity',
+            'top N lists',
+        ],
     },
     {
         name: 'First Timers Only',
@@ -313,7 +328,8 @@ module.exports = [
         links: {
             [website]: 'https://fontpair.co/',
         },
-        icon: 'https://uploads-ssl.webflow.com/5df11841b7e5a489e7c67859/6161da7091c49496c05aeff4_fontpair-logo-primary-dark.svg',
+        icon:
+            'https://uploads-ssl.webflow.com/5df11841b7e5a489e7c67859/6161da7091c49496c05aeff4_fontpair-logo-primary-dark.svg',
     },
     {
         name: 'Fonts In Use',
