@@ -14,8 +14,7 @@ module.exports = [
     {
         name: 'Madza Quizzes',
         categories: [jobs.interviews],
-        description:
-            'A great resource with 500 free interview questions',
+        description: 'A great resource with 500 free interview questions',
         links: {
             [website]: 'https://quizzes.madza.dev/',
         },
@@ -167,18 +166,17 @@ module.exports = [
     {
         name: 'Metaverse Jobs',
         categories: [jobs.boards],
-        description:
-            'Search for metaverse jobs in augmented reality, virtual reality, NFT, crypto, gaming, and more.',
+        description: 'Search for metaverse jobs in augmented reality, virtual reality, NFT, crypto, gaming, and more.',
         links: {
             [website]: 'https://www.themetaversejobs.com/',
         },
-        icon: 'https://global-uploads.webflow.com/6138f6cb1bda9ece7529a20b/6150c7d3934a945f2b4d11e7_Copy%20of%20The%20Metaverse%20Jobs.png',
+        icon:
+            'https://global-uploads.webflow.com/6138f6cb1bda9ece7529a20b/6150c7d3934a945f2b4d11e7_Copy%20of%20The%20Metaverse%20Jobs.png',
     },
     {
         name: 'Metazord',
         categories: [toolsAndUtilities.seo],
-        description:
-            'Get a complete information and preview of your site meta tags',
+        description: 'Get a complete information and preview of your site meta tags',
         links: {
             [website]: 'https://www.metazord.io/',
         },
@@ -309,13 +307,32 @@ module.exports = [
     },
     {
         name: 'Monkeytype',
-        description: 'A minimalistic, customisable typing website. Test yourself in various modes, track your progress and improve your typing speed.',
+        description:
+            'A minimalistic, customisable typing website. Test yourself in various modes, track your progress and improve your typing speed.',
         categories: [toolsAndUtilities.typing],
         links: {
             [website]: 'https://monkeytype.com/',
         },
         icon: 'https://monkeytype.com/images/favicon/apple-touch-icon-120x120.png',
-        keywords: ['typing speed test', 'typing speedtest', 'typing test', 'speetest', 'speed test', 'typing', 'test', 'typing-test', 'typing test', 'monkey-type', 'monkeytype', 'monkey type', 'monkey-types', 'minimalist typing website', 'minimalist typing test', 'minimalistic typing website', 'words per minute'],
+        keywords: [
+            'typing speed test',
+            'typing speedtest',
+            'typing test',
+            'speetest',
+            'speed test',
+            'typing',
+            'test',
+            'typing-test',
+            'typing test',
+            'monkey-type',
+            'monkeytype',
+            'monkey type',
+            'monkey-types',
+            'minimalist typing website',
+            'minimalist typing test',
+            'minimalistic typing website',
+            'words per minute',
+        ],
     },
     {
         name: 'Moqups',
@@ -365,5 +382,15 @@ module.exports = [
             [website]: 'https://www.mysql.com/',
         },
         icon: 'https://labs.mysql.com/common/themes/sakila/favicon.ico',
+    },
+    {
+        name: 'Materio Free MUI React NextJS Admin Template',
+        categories: [programming.javascript.react],
+        description:
+            'Most Powerful & Comprehensive Open Source and Free MUI React NextJS Admin Dashboard Template built for developers.',
+        links: {
+            [github]: 'https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free',
+        },
+        icon: 'https://themeselection.com/wp-content/uploads/2018/07/favicon.ico',
     },
 ]
