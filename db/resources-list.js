@@ -765,19 +765,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Airtable",
-        "categories": [
-            "Indie Hacking/Utilities",
-            "Infrastructure/Databases",
-            "Infrastructure/Serverless"
-        ],
-        "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
-        "links": {
-            "Website": "https://airtable.com/"
-        },
-        "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
-    },
-    {
         "links": {
             "Website": "https://airtable.com/api"
         },
@@ -792,6 +779,19 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Documents & Productivity"
         ]
+    },
+    {
+        "name": "Airtable",
+        "categories": [
+            "Indie Hacking/Utilities",
+            "Infrastructure/Databases",
+            "Infrastructure/Serverless"
+        ],
+        "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+        "links": {
+            "Website": "https://airtable.com/"
+        },
+        "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
     },
     {
         "links": {
@@ -2430,17 +2430,6 @@ module.exports = [
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
     {
-        "name": "Bergamot",
-        "categories": [
-            "Jobs/Remote Only"
-        ],
-        "description": "Bergamot - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required.",
-        "links": {
-            "Website": "https://bergamot.io/"
-        },
-        "icon": "https://bergamot.io/favicon.ico"
-    },
-    {
         "name": "Berry Free React Material Admin Template",
         "categories": [
             "Programming/Templates"
@@ -2495,22 +2484,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://docs.bhagavadgitaapi.in"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Bhagavad Gita",
-        "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Books"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://bhagavadgita.io/api"
         },
         "public_api_fields": {
@@ -2520,6 +2493,22 @@ module.exports = [
         },
         "name": "Bhagavad Gita",
         "description": "Bhagavad Gita text",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Books"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://docs.bhagavadgitaapi.in"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Bhagavad Gita",
+        "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
         "categories": [
             "Public APIs/All",
             "Public APIs/Books"
@@ -5457,17 +5446,6 @@ module.exports = [
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
-        "name": "Codepen radio",
-        "categories": [
-            "Programming/Podcasts"
-        ],
-        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-        "links": {
-            "Website": "https://blog.codepen.io/radio/"
-        },
-        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-    },
-    {
         "name": "CodePen Radio",
         "categories": [
             "Programming/Podcasts"
@@ -5477,6 +5455,17 @@ module.exports = [
             "Website": "https://blog.codepen.io/radio/"
         },
         "icon": "https://blog.codepen.io/favicon.ico"
+    },
+    {
+        "name": "Codepen radio",
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+        "links": {
+            "Website": "https://blog.codepen.io/radio/"
+        },
+        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
         "name": "Codepip",
@@ -6105,17 +6094,6 @@ module.exports = [
         "icon": "https://colorlib.com/wp/wp-content/uploads/sites/2/2014/05/ipad-colorlib.png"
     },
     {
-        "name": "Colormind",
-        "categories": [
-            "UI Design/Color"
-        ],
-        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
-        "links": {
-            "Website": "http://colormind.io/"
-        },
-        "icon": "http://colormind.io/favicon32.gif"
-    },
-    {
         "links": {
             "Website": "http://colormind.io/api-access/"
         },
@@ -6130,6 +6108,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Art & Design"
         ]
+    },
+    {
+        "name": "Colormind",
+        "categories": [
+            "UI Design/Color"
+        ],
+        "description": "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
+        "links": {
+            "Website": "http://colormind.io/"
+        },
+        "icon": "http://colormind.io/favicon32.gif"
     },
     {
         "name": "colors.lol",
@@ -6708,22 +6697,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://covid19api.com/"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Covid-19",
-        "description": "Covid 19 spread, infection and recovery",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Health"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://github.com/M-Media-Group/Covid-19-API"
         },
         "public_api_fields": {
@@ -6733,6 +6706,22 @@ module.exports = [
         },
         "name": "Covid-19",
         "description": "Covid 19 cases, deaths and recovery per country",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Health"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://covid19api.com/"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Covid-19",
+        "description": "Covid 19 spread, infection and recovery",
         "categories": [
             "Public APIs/All",
             "Public APIs/Health"
@@ -8527,17 +8516,6 @@ module.exports = [
         "icon": "https://www.dreamhost.com/assets/favicons/apple-touch-icon-76x76-18c4bd5a860942003494cecf3aa217b02285f57f5525c0e4985dcb77f0125d91.png"
     },
     {
-        "name": "Dribbble",
-        "categories": [
-            "UI Design/Inspiration"
-        ],
-        "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
-        "links": {
-            "Website": "https://dribbble.com/"
-        },
-        "icon": "https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png"
-    },
-    {
         "links": {
             "Website": "https://developer.dribbble.com"
         },
@@ -8552,6 +8530,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Art & Design"
         ]
+    },
+    {
+        "name": "Dribbble",
+        "categories": [
+            "UI Design/Inspiration"
+        ],
+        "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
+        "links": {
+            "Website": "https://dribbble.com/"
+        },
+        "icon": "https://cdn.dribbble.com/assets/dribbble-ball-192-23ecbdf987832231e87c642bb25de821af1ba6734a626c8c259a20a0ca51a247.png"
     },
     {
         "links": {
@@ -13031,17 +13020,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Hashnode",
-        "categories": [
-            "Community/Blogs & Forums"
-        ],
-        "description": "Hashnode is a free content creation platform and community that allows you to publish articles on your own domain and helps you stay connected with a growing developer community.",
-        "links": {
-            "Website": "https://hashnode.com/"
-        },
-        "icon": "https://cdn.hashnode.com/res/hashnode/image/upload/v1592400819640/7VL8RW7wc.png"
-    },
-    {
         "links": {
             "Website": "https://hashnode.com"
         },
@@ -13056,6 +13034,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Social"
         ]
+    },
+    {
+        "name": "Hashnode",
+        "categories": [
+            "Community/Blogs & Forums"
+        ],
+        "description": "Hashnode is a free content creation platform and community that allows you to publish articles on your own domain and helps you stay connected with a growing developer community.",
+        "links": {
+            "Website": "https://hashnode.com/"
+        },
+        "icon": "https://cdn.hashnode.com/res/hashnode/image/upload/v1592400819640/7VL8RW7wc.png"
     },
     {
         "links": {
@@ -13245,17 +13234,6 @@ module.exports = [
         "icon": "https://heroicons.com/_next/static/media/favicon-32x32.eee32601ba9d4702f841835990ed3801.png"
     },
     {
-        "name": "Heroku",
-        "categories": [
-            "Infrastructure/Hosting"
-        ],
-        "description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
-        "links": {
-            "Website": "https://www.heroku.com/"
-        },
-        "icon": "https://www.herokucdn.com/favicon.ico"
-    },
-    {
         "links": {
             "Website": "https://devcenter.heroku.com/articles/platform-api-reference/"
         },
@@ -13270,6 +13248,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Development"
         ]
+    },
+    {
+        "name": "Heroku",
+        "categories": [
+            "Infrastructure/Hosting"
+        ],
+        "description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
+        "links": {
+            "Website": "https://www.heroku.com/"
+        },
+        "icon": "https://www.herokucdn.com/favicon.ico"
     },
     {
         "name": "Hey Meta",
@@ -17549,17 +17538,6 @@ module.exports = [
     {
         "name": "Material Design",
         "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Get Material Icons.",
-        "links": {
-            "Website": "https://material.io/resources/icons"
-        },
-        "icon": "https://material.io/favicon.ico"
-    },
-    {
-        "name": "Material Design",
-        "categories": [
             "Programming/UI Kits & Libraries"
         ],
         "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
@@ -17567,6 +17545,17 @@ module.exports = [
             "Website": "https://material.io/"
         },
         "icon": "https://material.io/static/assets/favicon.ico"
+    },
+    {
+        "name": "Material Design",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Get Material Icons.",
+        "links": {
+            "Website": "https://material.io/resources/icons"
+        },
+        "icon": "https://material.io/favicon.ico"
     },
     {
         "name": "Material Design Palette",
@@ -21665,6 +21654,22 @@ module.exports = [
         ]
     },
     {
+        "links": {
+            "Website": "https://www.pexels.com/api/"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Pexels",
+        "description": "Free Stock Photos and Videos",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Photography"
+        ]
+    },
+    {
         "name": "Pexels",
         "categories": [
             "Assets/Videos",
@@ -21683,22 +21688,6 @@ module.exports = [
             "Website": "https://www.pexels.com/"
         },
         "icon": "https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png"
-    },
-    {
-        "links": {
-            "Website": "https://www.pexels.com/api/"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Pexels",
-        "description": "Free Stock Photos and Videos",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Photography"
-        ]
     },
     {
         "links": {
@@ -22503,6 +22492,17 @@ module.exports = [
         ]
     },
     {
+        "name": "Product Hunt",
+        "categories": [
+            "Indie Hacking/Platforms"
+        ],
+        "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
+        "links": {
+            "Website": "https://www.producthunt.com/"
+        },
+        "icon": "https://ph-static.imgix.net/ph-ios-icon.png?auto=format&auto=compress"
+    },
+    {
         "links": {
             "Website": "https://api.producthunt.com/v2/docs"
         },
@@ -22517,17 +22517,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Social"
         ]
-    },
-    {
-        "name": "Product Hunt",
-        "categories": [
-            "Indie Hacking/Platforms"
-        ],
-        "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
-        "links": {
-            "Website": "https://www.producthunt.com/"
-        },
-        "icon": "https://ph-static.imgix.net/ph-ios-icon.png?auto=format&auto=compress"
     },
     {
         "name": "Programiz",
@@ -22923,22 +22912,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://www.qrtag.net/api/"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "QR code",
-        "description": "Create an easy to read QR code and URL shortener",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Development"
-        ]
-    },
-    {
-        "links": {
             "Website": "http://goqr.me/api/"
         },
         "public_api_fields": {
@@ -22948,6 +22921,22 @@ module.exports = [
         },
         "name": "QR code",
         "description": "Generate and decode / read QR code graphics",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Development"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://www.qrtag.net/api/"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "QR code",
+        "description": "Create an easy to read QR code and URL shortener",
         "categories": [
             "Public APIs/All",
             "Public APIs/Development"
@@ -23687,17 +23676,6 @@ module.exports = [
         ]
     },
     {
-        "name": "reddit",
-        "categories": [
-            "Community/Blogs & Forums"
-        ],
-        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
-        "links": {
-            "Website": "https://www.reddit.com/"
-        },
-        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
-    },
-    {
         "links": {
             "Website": "https://www.reddit.com/dev/api"
         },
@@ -23712,6 +23690,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Social"
         ]
+    },
+    {
+        "name": "reddit",
+        "categories": [
+            "Community/Blogs & Forums"
+        ],
+        "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
+        "links": {
+            "Website": "https://www.reddit.com/"
+        },
+        "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"
     },
     {
         "name": "redditors for hire",
@@ -23894,6 +23883,17 @@ module.exports = [
         "icon": "https://remotive.io/web/image/website/1/favicon/"
     },
     {
+        "name": "remove.bg",
+        "categories": [
+            "Assets/Images"
+        ],
+        "description": "Remove Image Background: 100% automatically – in 5 seconds – without a single click – for free.",
+        "links": {
+            "Website": "https://www.remove.bg/"
+        },
+        "icon": "https://www.remove.bg/favicon-32x32.png?v=YAXaAv7pao"
+    },
+    {
         "links": {
             "Website": "https://www.remove.bg/api"
         },
@@ -23908,17 +23908,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Photography"
         ]
-    },
-    {
-        "name": "remove.bg",
-        "categories": [
-            "Assets/Images"
-        ],
-        "description": "Remove Image Background: 100% automatically – in 5 seconds – without a single click – for free.",
-        "links": {
-            "Website": "https://www.remove.bg/"
-        },
-        "icon": "https://www.remove.bg/favicon-32x32.png?v=YAXaAv7pao"
     },
     {
         "name": "Render",
@@ -25294,19 +25283,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Shutterstock",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Icons"
-        ],
-        "description": "Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.",
-        "links": {
-            "Website": "https://www.shutterstock.com/"
-        },
-        "icon": "https://ak.picdn.net/assets/cms/sstk-favicon-72.png"
-    },
-    {
         "links": {
             "Website": "https://api-reference.shutterstock.com/"
         },
@@ -25321,6 +25297,19 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Photography"
         ]
+    },
+    {
+        "name": "Shutterstock",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Icons"
+        ],
+        "description": "Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.",
+        "links": {
+            "Website": "https://www.shutterstock.com/"
+        },
+        "icon": "https://ak.picdn.net/assets/cms/sstk-favicon-72.png"
     },
     {
         "name": "Sidebar",
@@ -28767,22 +28756,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://opentransportdata.swiss/en/"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "unknown"
-        },
-        "name": "Transport for Switzerland",
-        "description": "Official Swiss Public Transport Open Data",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Transportation"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://transport.opendata.ch/"
         },
         "public_api_fields": {
@@ -28799,15 +28772,15 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            "Website": "https://opentransportdata.swiss/en/"
         },
         "public_api_fields": {
             "auth": "apiKey",
-            "https": false,
+            "https": true,
             "cors": "unknown"
         },
-        "name": "Transport for The Netherlands",
-        "description": "NS, only trains",
+        "name": "Transport for Switzerland",
+        "description": "Official Swiss Public Transport Open Data",
         "categories": [
             "Public APIs/All",
             "Public APIs/Transportation"
@@ -28824,6 +28797,22 @@ module.exports = [
         },
         "name": "Transport for The Netherlands",
         "description": "OVAPI, country-wide public transport",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Transportation"
+        ]
+    },
+    {
+        "links": {
+            "Website": "http://www.ns.nl/reisinformatie/ns-api"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": false,
+            "cors": "unknown"
+        },
+        "name": "Transport for The Netherlands",
+        "description": "NS, only trains",
         "categories": [
             "Public APIs/All",
             "Public APIs/Transportation"

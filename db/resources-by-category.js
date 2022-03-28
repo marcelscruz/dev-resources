@@ -1890,22 +1890,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Books"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://bhagavadgita.io/api"
             },
             "public_api_fields": {
@@ -1915,6 +1899,22 @@ module.exports = {
             },
             "name": "Bhagavad Gita",
             "description": "Bhagavad Gita text",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Books"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://docs.bhagavadgitaapi.in"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Books"
@@ -4706,22 +4706,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://covid19api.com/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Health"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "public_api_fields": {
@@ -4731,6 +4715,22 @@ module.exports = {
             },
             "name": "Covid-19",
             "description": "Covid 19 cases, deaths and recovery per country",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Health"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://covid19api.com/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Covid-19",
+            "description": "Covid 19 spread, infection and recovery",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Health"
@@ -16418,22 +16418,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.qrtag.net/api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Development"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "public_api_fields": {
@@ -16443,6 +16427,22 @@ module.exports = {
             },
             "name": "QR code",
             "description": "Generate and decode / read QR code graphics",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.qrtag.net/api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
@@ -20402,22 +20402,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://transport.opendata.ch/"
             },
             "public_api_fields": {
@@ -20434,15 +20418,15 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "public_api_fields": {
                 "auth": "apiKey",
-                "https": false,
+                "https": true,
                 "cors": "unknown"
             },
-            "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
+            "name": "Transport for Switzerland",
+            "description": "Official Swiss Public Transport Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -20459,6 +20443,22 @@ module.exports = {
             },
             "name": "Transport for The Netherlands",
             "description": "OVAPI, country-wide public transport",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": false,
+                "cors": "unknown"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "NS, only trains",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -27233,22 +27233,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.qrtag.net/api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Development"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "public_api_fields": {
@@ -27258,6 +27242,22 @@ module.exports = {
             },
             "name": "QR code",
             "description": "Generate and decode / read QR code graphics",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.qrtag.net/api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
@@ -29760,22 +29760,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Books"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://bhagavadgita.io/api"
             },
             "public_api_fields": {
@@ -29785,6 +29769,22 @@ module.exports = {
             },
             "name": "Bhagavad Gita",
             "description": "Bhagavad Gita text",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Books"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://docs.bhagavadgitaapi.in"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Books"
@@ -35291,22 +35291,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://transport.opendata.ch/"
             },
             "public_api_fields": {
@@ -35323,15 +35307,15 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "public_api_fields": {
                 "auth": "apiKey",
-                "https": false,
+                "https": true,
                 "cors": "unknown"
             },
-            "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
+            "name": "Transport for Switzerland",
+            "description": "Official Swiss Public Transport Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -35348,6 +35332,22 @@ module.exports = {
             },
             "name": "Transport for The Netherlands",
             "description": "OVAPI, country-wide public transport",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": false,
+                "cors": "unknown"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "NS, only trains",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -38292,390 +38292,6 @@ module.exports = {
             ]
         }
     ],
-    "indie-hacking/utilities": [
-        {
-            "name": "Airtable",
-            "categories": [
-                "Indie Hacking/Utilities",
-                "Infrastructure/Databases",
-                "Infrastructure/Serverless"
-            ],
-            "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
-            "links": {
-                "Website": "https://airtable.com/"
-            },
-            "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
-        },
-        {
-            "name": "CopyAI",
-            "categories": [
-                "Tools & Utilities/Writing",
-                "Indie Hacking/Utilities"
-            ],
-            "description": "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds!",
-            "links": {
-                "Website": "https://www.copy.ai/"
-            },
-            "icon": "https://assets-global.website-files.com/5f4ec532319820f7c2ccd7a3/5f55620b7b806770e6becea2_32x32%20favico.png"
-        },
-        {
-            "name": "Customer.io",
-            "categories": [
-                "Indie Hacking/Utilities"
-            ],
-            "description": "With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions.",
-            "links": {
-                "Website": "https://customer.io/"
-            },
-            "icon": "https://customer.io/wp-content/uploads/2019/01/customer-io-touchicon-180.png"
-        },
-        {
-            "name": "Get The Audience",
-            "categories": [
-                "Indie Hacking/Utilities"
-            ],
-            "description": "Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached.",
-            "links": {
-                "Website": "https://gettheaudience.com/",
-                "Twitter": "https://twitter.com/GetTheAudience"
-            },
-            "icon": "https://gettheaudience.com/images/icons/icon-96x96.png"
-        },
-        {
-            "name": "Hive Index",
-            "categories": [
-                "Indie Hacking/Utilities"
-            ],
-            "description": "Find online communities, across all platforms, for any topic.",
-            "links": {
-                "Website": "https://thehiveindex.com/",
-                "Twitter": "https://twitter.com/thehiveindex"
-            },
-            "icon": "https://thehiveindex.com/icons/icon-96x96.png"
-        },
-        {
-            "name": "Indie Drops",
-            "categories": [
-                "Indie Hacking/Utilities"
-            ],
-            "description": "Secure unbelivably good deals on early-stage products before they take off.",
-            "links": {
-                "Website": "http://indiedrops.com/"
-            },
-            "icon": "http://indiedrops.com/apple-touch-icon.png"
-        },
-        {
-            "name": "Mailchimp",
-            "categories": [
-                "Indie Hacking/Utilities"
-            ],
-            "description": "Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.",
-            "links": {
-                "Website": "https://mailchimp.com/"
-            },
-            "icon": "https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png"
-        },
-        {
-            "name": "MicroAcquire",
-            "categories": [
-                "Indie Hacking/Utilities"
-            ],
-            "description": "MicroAcquire helps startups find buyers. Simple as that. We’ll help you start conversations that lead to an acquisition in just 30 days – for free.",
-            "links": {
-                "Website": "https://microacquire.com/",
-                "Twitter": "https://twitter.com/microacquire",
-                "LinkedIn": "https://www.linkedin.com/company/microacquire/about",
-                "Facebook": "https://facebook.com/microacquire"
-            },
-            "icon": "https://microacquire.com/assets/img/favicon-32x32.png"
-        },
-        {
-            "name": "Orbit",
-            "categories": [
-                "Indie Hacking/Utilities"
-            ],
-            "description": "Orbit is the community experience platform for developers, helping organizations build enthusiastic communities of technology adopters.",
-            "links": {
-                "Website": "https://orbit.love/",
-                "GitHub": "https://github.com/orbit-love/",
-                "Twitter": "https://twitter.com/OrbitModel"
-            },
-            "icon": "https://orbit.love/assets/images/favicon/32x32.png"
-        },
-        {
-            "name": "SaaS4Devs",
-            "categories": [
-                "Indie Hacking/Utilities"
-            ],
-            "description": "An awesome collection of content for developers trying to bootstrap their SaaS business. Free & Open source from day one.",
-            "links": {
-                "Website": "https://saas4devs.tech/"
-            },
-            "icon": "https://saas4devs.tech/logo192.png"
-        },
-        {
-            "name": "SaaSFrame",
-            "categories": [
-                "Indie Hacking/Utilities",
-                "Indie Hacking/Marketing"
-            ],
-            "description": "Browse hundreds of SaaS marketing pages, product interfaces and email flows. Get inspired by the design and copywriting patterns used by top-class SaaS companies.",
-            "links": {
-                "Website": "https://www.saasframe.io/"
-            },
-            "icon": "https://uploads-ssl.webflow.com/5e9dc792e1210c2d5df7eba4/5eb80e9cf92b58597818939f_Webp.net-resizeimage%20(4).png"
-        }
-    ],
-    "infrastructure/databases": [
-        {
-            "name": "Airtable",
-            "categories": [
-                "Indie Hacking/Utilities",
-                "Infrastructure/Databases",
-                "Infrastructure/Serverless"
-            ],
-            "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
-            "links": {
-                "Website": "https://airtable.com/"
-            },
-            "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
-        },
-        {
-            "name": "Cassandra",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters.",
-            "links": {
-                "Website": "http://cassandra.apache.org/"
-            },
-            "icon": "https://cassandra.apache.org/favicon.ico"
-        },
-        {
-            "name": "CouchDB",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice.",
-            "links": {
-                "Website": "https://couchdb.apache.org/"
-            },
-            "icon": "https://couchdb.apache.org/favicon-32x32.png"
-        },
-        {
-            "name": "DynamoDB",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "Amazon DynamoDB is a nonrelational database. This database system provides consistent latency and offers built-in security and in-memory caching. DynamoDB is a serverless database which scales automatically and backs up your data for protection.",
-            "links": {
-                "Website": "https://aws.amazon.com/dynamodb/"
-            },
-            "icon": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"
-        },
-        {
-            "name": "Firebase",
-            "categories": [
-                "Infrastructure/Hosting",
-                "Infrastructure/Databases",
-                "Infrastructure/Serverless",
-                "Infrastructure/Auth"
-            ],
-            "description": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
-            "links": {
-                "Website": "https://firebase.google.com/"
-            },
-            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
-        },
-        {
-            "name": "Firestore",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps through realtime listeners and offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity. Cloud Firestore also offers seamless integration with other Firebase and Google Cloud products, including Cloud Functions.",
-            "links": {
-                "Website": "https://firebase.google.com/docs/firestore"
-            },
-            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
-        },
-        {
-            "name": "Microsoft SQL Server",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge.",
-            "links": {
-                "Website": "https://www.microsoft.com/en-us/sql-server"
-            },
-            "icon": "https://www.microsoft.com/favicon.ico"
-        },
-        {
-            "name": "MongoDB",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.",
-            "links": {
-                "Website": "https://www.mongodb.com/"
-            },
-            "icon": "https://www.mongodb.com/assets/images/global/favicon.ico"
-        },
-        {
-            "name": "MySQL",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "MySQL Database Service is a fully managed database service to deploy cloud-native applications.",
-            "links": {
-                "Website": "https://www.mysql.com/"
-            },
-            "icon": "https://labs.mysql.com/common/themes/sakila/favicon.ico"
-        },
-        {
-            "name": "PostgreSQL",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.",
-            "links": {
-                "Website": "https://www.postgresql.org/"
-            },
-            "icon": "https://www.postgresql.org/favicon.ico"
-        },
-        {
-            "name": "SQLite",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "SQLite is an open-source, embedded, relational database management system, designed circa 2000. It is a database, with zero configuration, no requirements of a server or installation. Despite its simplicity, it is laden with popular features of database management systems.",
-            "links": {
-                "Website": "https://www.sqlite.org/index.html"
-            },
-            "icon": "https://www.sqlite.org/favicon.ico"
-        },
-        {
-            "name": "Supabase",
-            "categories": [
-                "Infrastructure/Serverless",
-                "Infrastructure/Databases"
-            ],
-            "description": "Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.",
-            "links": {
-                "Website": "https://supabase.io/"
-            },
-            "icon": "https://supabase.io/new/favicon/favicon-32x32.png"
-        },
-        {
-            "name": "XServer",
-            "categories": [
-                "Infrastructure/Databases"
-            ],
-            "description": "XServer - JSON-based backend for Mobile apps, Websites and Unity games.",
-            "keywords": [
-                "iOS",
-                "Android",
-                "JavaScript",
-                "apps",
-                "backend",
-                "mobile",
-                "website",
-                "baas",
-                "parse",
-                "firebase",
-                "database",
-                "json",
-                "php",
-                "javascript",
-                "jquery"
-            ],
-            "links": {
-                "Website": "https://xserver.app/"
-            },
-            "icon": "https://xserver.app/assets/img/favicon.png"
-        }
-    ],
-    "infrastructure/serverless": [
-        {
-            "name": "Airtable",
-            "categories": [
-                "Indie Hacking/Utilities",
-                "Infrastructure/Databases",
-                "Infrastructure/Serverless"
-            ],
-            "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
-            "links": {
-                "Website": "https://airtable.com/"
-            },
-            "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
-        },
-        {
-            "name": "Cloudflare Pages",
-            "categories": [
-                "Infrastructure/Serverless",
-                "Infrastructure/Hosting"
-            ],
-            "description": "Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.",
-            "links": {
-                "Website": "https://pages.cloudflare.com/"
-            },
-            "icon": "https://pages.cloudflare.com/resources/logo/logo.svg",
-            "keywords": [
-                "jamstack",
-                "serverless",
-                "hosting",
-                "development"
-            ]
-        },
-        {
-            "name": "Cloudflare Workers",
-            "categories": [
-                "Infrastructure/Serverless"
-            ],
-            "description": "Cloudflare workers allow you to host serverless code. The free plan is also ideal for static site hosting",
-            "links": {
-                "Website": "https://workers.cloudflare.com/"
-            },
-            "icon": "https://workers.cloudflare.com/favicon.ico"
-        },
-        {
-            "name": "Firebase",
-            "categories": [
-                "Infrastructure/Hosting",
-                "Infrastructure/Databases",
-                "Infrastructure/Serverless",
-                "Infrastructure/Auth"
-            ],
-            "description": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
-            "links": {
-                "Website": "https://firebase.google.com/"
-            },
-            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
-        },
-        {
-            "name": "Serverless Stack",
-            "categories": [
-                "Tools & Utilities/API Building",
-                "Infrastructure/Serverless"
-            ],
-            "description": "Serverless Stack (SST) is a framework that makes it easy to build serverless applications.",
-            "links": {
-                "Website": "https://serverless-stack.com/"
-            },
-            "icon": "https://serverless-stack.com/assets/favicon-32x32.png"
-        },
-        {
-            "name": "Supabase",
-            "categories": [
-                "Infrastructure/Serverless",
-                "Infrastructure/Databases"
-            ],
-            "description": "Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.",
-            "links": {
-                "Website": "https://supabase.io/"
-            },
-            "icon": "https://supabase.io/new/favicon/favicon-32x32.png"
-        }
-    ],
     "public-apis/documents-and-productivity": [
         {
             "links": {
@@ -39108,6 +38724,390 @@ module.exports = {
                 "Public APIs/All",
                 "Public APIs/Documents & Productivity"
             ]
+        }
+    ],
+    "indie-hacking/utilities": [
+        {
+            "name": "Airtable",
+            "categories": [
+                "Indie Hacking/Utilities",
+                "Infrastructure/Databases",
+                "Infrastructure/Serverless"
+            ],
+            "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+            "links": {
+                "Website": "https://airtable.com/"
+            },
+            "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
+        },
+        {
+            "name": "CopyAI",
+            "categories": [
+                "Tools & Utilities/Writing",
+                "Indie Hacking/Utilities"
+            ],
+            "description": "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds!",
+            "links": {
+                "Website": "https://www.copy.ai/"
+            },
+            "icon": "https://assets-global.website-files.com/5f4ec532319820f7c2ccd7a3/5f55620b7b806770e6becea2_32x32%20favico.png"
+        },
+        {
+            "name": "Customer.io",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions.",
+            "links": {
+                "Website": "https://customer.io/"
+            },
+            "icon": "https://customer.io/wp-content/uploads/2019/01/customer-io-touchicon-180.png"
+        },
+        {
+            "name": "Get The Audience",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached.",
+            "links": {
+                "Website": "https://gettheaudience.com/",
+                "Twitter": "https://twitter.com/GetTheAudience"
+            },
+            "icon": "https://gettheaudience.com/images/icons/icon-96x96.png"
+        },
+        {
+            "name": "Hive Index",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "Find online communities, across all platforms, for any topic.",
+            "links": {
+                "Website": "https://thehiveindex.com/",
+                "Twitter": "https://twitter.com/thehiveindex"
+            },
+            "icon": "https://thehiveindex.com/icons/icon-96x96.png"
+        },
+        {
+            "name": "Indie Drops",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "Secure unbelivably good deals on early-stage products before they take off.",
+            "links": {
+                "Website": "http://indiedrops.com/"
+            },
+            "icon": "http://indiedrops.com/apple-touch-icon.png"
+        },
+        {
+            "name": "Mailchimp",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.",
+            "links": {
+                "Website": "https://mailchimp.com/"
+            },
+            "icon": "https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png"
+        },
+        {
+            "name": "MicroAcquire",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "MicroAcquire helps startups find buyers. Simple as that. We’ll help you start conversations that lead to an acquisition in just 30 days – for free.",
+            "links": {
+                "Website": "https://microacquire.com/",
+                "Twitter": "https://twitter.com/microacquire",
+                "LinkedIn": "https://www.linkedin.com/company/microacquire/about",
+                "Facebook": "https://facebook.com/microacquire"
+            },
+            "icon": "https://microacquire.com/assets/img/favicon-32x32.png"
+        },
+        {
+            "name": "Orbit",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "Orbit is the community experience platform for developers, helping organizations build enthusiastic communities of technology adopters.",
+            "links": {
+                "Website": "https://orbit.love/",
+                "GitHub": "https://github.com/orbit-love/",
+                "Twitter": "https://twitter.com/OrbitModel"
+            },
+            "icon": "https://orbit.love/assets/images/favicon/32x32.png"
+        },
+        {
+            "name": "SaaS4Devs",
+            "categories": [
+                "Indie Hacking/Utilities"
+            ],
+            "description": "An awesome collection of content for developers trying to bootstrap their SaaS business. Free & Open source from day one.",
+            "links": {
+                "Website": "https://saas4devs.tech/"
+            },
+            "icon": "https://saas4devs.tech/logo192.png"
+        },
+        {
+            "name": "SaaSFrame",
+            "categories": [
+                "Indie Hacking/Utilities",
+                "Indie Hacking/Marketing"
+            ],
+            "description": "Browse hundreds of SaaS marketing pages, product interfaces and email flows. Get inspired by the design and copywriting patterns used by top-class SaaS companies.",
+            "links": {
+                "Website": "https://www.saasframe.io/"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5e9dc792e1210c2d5df7eba4/5eb80e9cf92b58597818939f_Webp.net-resizeimage%20(4).png"
+        }
+    ],
+    "infrastructure/databases": [
+        {
+            "name": "Airtable",
+            "categories": [
+                "Indie Hacking/Utilities",
+                "Infrastructure/Databases",
+                "Infrastructure/Serverless"
+            ],
+            "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+            "links": {
+                "Website": "https://airtable.com/"
+            },
+            "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
+        },
+        {
+            "name": "Cassandra",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters.",
+            "links": {
+                "Website": "http://cassandra.apache.org/"
+            },
+            "icon": "https://cassandra.apache.org/favicon.ico"
+        },
+        {
+            "name": "CouchDB",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice.",
+            "links": {
+                "Website": "https://couchdb.apache.org/"
+            },
+            "icon": "https://couchdb.apache.org/favicon-32x32.png"
+        },
+        {
+            "name": "DynamoDB",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "Amazon DynamoDB is a nonrelational database. This database system provides consistent latency and offers built-in security and in-memory caching. DynamoDB is a serverless database which scales automatically and backs up your data for protection.",
+            "links": {
+                "Website": "https://aws.amazon.com/dynamodb/"
+            },
+            "icon": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"
+        },
+        {
+            "name": "Firebase",
+            "categories": [
+                "Infrastructure/Hosting",
+                "Infrastructure/Databases",
+                "Infrastructure/Serverless",
+                "Infrastructure/Auth"
+            ],
+            "description": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
+            "links": {
+                "Website": "https://firebase.google.com/"
+            },
+            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
+        },
+        {
+            "name": "Firestore",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps through realtime listeners and offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity. Cloud Firestore also offers seamless integration with other Firebase and Google Cloud products, including Cloud Functions.",
+            "links": {
+                "Website": "https://firebase.google.com/docs/firestore"
+            },
+            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
+        },
+        {
+            "name": "Microsoft SQL Server",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge.",
+            "links": {
+                "Website": "https://www.microsoft.com/en-us/sql-server"
+            },
+            "icon": "https://www.microsoft.com/favicon.ico"
+        },
+        {
+            "name": "MongoDB",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.",
+            "links": {
+                "Website": "https://www.mongodb.com/"
+            },
+            "icon": "https://www.mongodb.com/assets/images/global/favicon.ico"
+        },
+        {
+            "name": "MySQL",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "MySQL Database Service is a fully managed database service to deploy cloud-native applications.",
+            "links": {
+                "Website": "https://www.mysql.com/"
+            },
+            "icon": "https://labs.mysql.com/common/themes/sakila/favicon.ico"
+        },
+        {
+            "name": "PostgreSQL",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.",
+            "links": {
+                "Website": "https://www.postgresql.org/"
+            },
+            "icon": "https://www.postgresql.org/favicon.ico"
+        },
+        {
+            "name": "SQLite",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "SQLite is an open-source, embedded, relational database management system, designed circa 2000. It is a database, with zero configuration, no requirements of a server or installation. Despite its simplicity, it is laden with popular features of database management systems.",
+            "links": {
+                "Website": "https://www.sqlite.org/index.html"
+            },
+            "icon": "https://www.sqlite.org/favicon.ico"
+        },
+        {
+            "name": "Supabase",
+            "categories": [
+                "Infrastructure/Serverless",
+                "Infrastructure/Databases"
+            ],
+            "description": "Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.",
+            "links": {
+                "Website": "https://supabase.io/"
+            },
+            "icon": "https://supabase.io/new/favicon/favicon-32x32.png"
+        },
+        {
+            "name": "XServer",
+            "categories": [
+                "Infrastructure/Databases"
+            ],
+            "description": "XServer - JSON-based backend for Mobile apps, Websites and Unity games.",
+            "keywords": [
+                "iOS",
+                "Android",
+                "JavaScript",
+                "apps",
+                "backend",
+                "mobile",
+                "website",
+                "baas",
+                "parse",
+                "firebase",
+                "database",
+                "json",
+                "php",
+                "javascript",
+                "jquery"
+            ],
+            "links": {
+                "Website": "https://xserver.app/"
+            },
+            "icon": "https://xserver.app/assets/img/favicon.png"
+        }
+    ],
+    "infrastructure/serverless": [
+        {
+            "name": "Airtable",
+            "categories": [
+                "Indie Hacking/Utilities",
+                "Infrastructure/Databases",
+                "Infrastructure/Serverless"
+            ],
+            "description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+            "links": {
+                "Website": "https://airtable.com/"
+            },
+            "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png"
+        },
+        {
+            "name": "Cloudflare Pages",
+            "categories": [
+                "Infrastructure/Serverless",
+                "Infrastructure/Hosting"
+            ],
+            "description": "Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.",
+            "links": {
+                "Website": "https://pages.cloudflare.com/"
+            },
+            "icon": "https://pages.cloudflare.com/resources/logo/logo.svg",
+            "keywords": [
+                "jamstack",
+                "serverless",
+                "hosting",
+                "development"
+            ]
+        },
+        {
+            "name": "Cloudflare Workers",
+            "categories": [
+                "Infrastructure/Serverless"
+            ],
+            "description": "Cloudflare workers allow you to host serverless code. The free plan is also ideal for static site hosting",
+            "links": {
+                "Website": "https://workers.cloudflare.com/"
+            },
+            "icon": "https://workers.cloudflare.com/favicon.ico"
+        },
+        {
+            "name": "Firebase",
+            "categories": [
+                "Infrastructure/Hosting",
+                "Infrastructure/Databases",
+                "Infrastructure/Serverless",
+                "Infrastructure/Auth"
+            ],
+            "description": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
+            "links": {
+                "Website": "https://firebase.google.com/"
+            },
+            "icon": "https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png"
+        },
+        {
+            "name": "Serverless Stack",
+            "categories": [
+                "Tools & Utilities/API Building",
+                "Infrastructure/Serverless"
+            ],
+            "description": "Serverless Stack (SST) is a framework that makes it easy to build serverless applications.",
+            "links": {
+                "Website": "https://serverless-stack.com/"
+            },
+            "icon": "https://serverless-stack.com/assets/favicon-32x32.png"
+        },
+        {
+            "name": "Supabase",
+            "categories": [
+                "Infrastructure/Serverless",
+                "Infrastructure/Databases"
+            ],
+            "description": "Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.",
+            "links": {
+                "Website": "https://supabase.io/"
+            },
+            "icon": "https://supabase.io/new/favicon/favicon-32x32.png"
         }
     ],
     "public-apis/art-and-design": [
@@ -49453,212 +49453,6 @@ module.exports = {
             "icon": "https://splitbee.io/icons/favicon-32x32.png"
         }
     ],
-    "jobs/remote-only": [
-        {
-            "name": "Bergamot",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Bergamot - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required.",
-            "links": {
-                "Website": "https://bergamot.io/"
-            },
-            "icon": "https://bergamot.io/favicon.ico"
-        },
-        {
-            "name": "DailyRemote",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Find and apply for top remote jobs in Software Development, Design, Support, Sales, Writing, Product, and Others. Start telecommuting & working from home today!",
-            "links": {
-                "Website": "https://dailyremote.com/"
-            },
-            "icon": "https://dailyremote.com/assets/favicon/favicon-96.png"
-        },
-        {
-            "name": "FlexJobs",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "The #1 job site to find hand-screened, remote work from home & flexible jobs since 2007. Find a better way to work in 50+ career categories today!",
-            "keywords": [
-                "remote jobs",
-                "remote work",
-                "telecommuting jobs",
-                "telecommute jobs",
-                "part-time jobs",
-                "freelance jobs",
-                "flexible jobs",
-                "flexible schedule jobs"
-            ],
-            "links": {
-                "Website": "https://www.flexjobs.com/"
-            },
-            "icon": "https://www.flexjobs.com/favicon-32x32.png"
-        },
-        {
-            "name": "Jobspresso",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Jobspresso is the easiest way to find remote jobs and careers at interesting and innovative companies.",
-            "links": {
-                "Website": "https://jobspresso.co/"
-            },
-            "icon": "https://jobspresso.co/wp-content/uploads/2015/04/Favicon-iOS.jpg"
-        },
-        {
-            "name": "JS Remotely",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Welcome to JS Remotely, the job board with all JavaScript remote jobs in the world. More than 200 remote Node.js, Meteor, Angular, React and Electron jobs are waiting for you. Find your perfect remote job now!",
-            "keywords": [
-                "javascript jobs",
-                "js jobs",
-                "remote jobs",
-                "remote",
-                "jobs",
-                "react jobs",
-                "angular jobs",
-                "vue jobs"
-            ],
-            "links": {
-                "Website": "https://jsremotely.com/"
-            },
-            "icon": "https://jsremotely.com/static/media/favicon-32x32.png"
-        },
-        {
-            "name": "JustRemote",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Discover Remote Jobs from around the world. Give up the commute, work remotely and do what you love, daily, from anywhere. Find your perfect remote development, design, sales or marketing job today.",
-            "links": {
-                "Website": "https://justremote.co/"
-            },
-            "icon": "https://justremote.co/favicon.ico"
-        },
-        {
-            "name": "Nomad List",
-            "categories": [
-                "Jobs/Boards",
-                "Jobs/Remote Only"
-            ],
-            "description": "Best places to live for a digital nomad",
-            "links": {
-                "Website": "https://nomadlist.com/"
-            },
-            "icon": "https://nomadlist.com/assets/logo.svg"
-        },
-        {
-            "name": "Remote Impact",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Remote dev jobs to save the world. Find a job with social impact in a company tackling the UNs Sustainable Development Goals. We add jobs daily in 17 key impact areas such as climate change, poverty, education + many more",
-            "links": {
-                "Website": "https://www.remoteimpact.io/"
-            }
-        },
-        {
-            "name": "Remote Leaf",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Remote Leaf aggregates remote jobs in one organized place from 60+ remote job boards, company career pages, AngelList, Linkedin, Reddit, Twitter, Facebook groups and Hacker news hiring.",
-            "links": {
-                "Website": "https://remoteleaf.com/"
-            },
-            "icon": "https://remoteleaf.com/static/leaf/img/Favicon%402x.png"
-        },
-        {
-            "name": "Remote.co",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Remote.co is a resource for companies that see remote work as an opportunity.",
-            "links": {
-                "Website": "https://remote.co/"
-            },
-            "icon": "https://remote.co/wp-content/uploads/2017/02/retina_favicon_32.png"
-        },
-        {
-            "name": "RemoteLeads",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Freelancers get your next highly-qualified remote web development project lead sent to your inbox. We search 100s of sources daily to find your next freelance web development project.",
-            "links": {
-                "Website": "http://remoteleads.io/"
-            },
-            "icon": "https://uploads-ssl.webflow.com/5faec1ddb9d25e78916f2423/5fc54bdf027e3b778c588959_favicon-256x256.png"
-        },
-        {
-            "name": "RemoteOK",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Looking for a remote job? Remote OK® has 43,534+ remote jobs as a Developer, Designer, Copywriter, Customer Support Rep, Sales Professional, Project Manager and more! Find a career where you can work remotely from anywhere.",
-            "links": {
-                "Website": "https://remoteok.io/"
-            },
-            "icon": "https://remoteok.io/assets/favicon-96x96.png?2"
-        },
-        {
-            "name": "Remotists.",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Get Remote Dev Jobs in your mailbox. 35.000+ exciting remote jobs on file from 16000+ top remote companies. Segmented for USA, Europe or Worldwide. Personally selected for you by our experienced remote hiring managers.",
-            "links": {
-                "Website": "https://remotists.com/"
-            }
-        },
-        {
-            "name": "Remotive",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Find the best remote job, working as a developer, customer support rep, product or sales professional... See openings in our categories. All jobs are hand curated and allow remote work. We serve the best work from home jobs in popular categories. Talent is everywhere, work remotely today!",
-            "links": {
-                "Website": "https://remotive.io/"
-            },
-            "icon": "https://remotive.io/web/image/website/1/favicon/"
-        },
-        {
-            "name": "We Work Remotely",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Find the most qualified people in the most unexpected places: Hire remote! We Work Remotely is the best place to find and list remote jobs that aren't restricted by commutes or a particular geographic area. Browse thousands of remote work jobs today.",
-            "links": {
-                "Website": "https://weworkremotely.com/"
-            },
-            "icon": "https://weworkremotely.com/favicon-96x96.png"
-        },
-        {
-            "name": "Working Nomads",
-            "categories": [
-                "Jobs/Remote Only"
-            ],
-            "description": "Remote jobs for digital working nomads. Start your telecommuting career and work remotely from home or places around the world.",
-            "keywords": [
-                "remote jobs",
-                "telecommuting jobs",
-                "work from home jobs",
-                "remote",
-                "telecommuting",
-                "virtual",
-                "working nomads"
-            ],
-            "links": {
-                "Website": "https://www.workingnomads.co/jobs"
-            },
-            "icon": "https://www.workingnomads.co/static/jobs/assets/favicon.ico"
-        }
-    ],
     "programming/templates": [
         {
             "name": "Berry Free React Material Admin Template",
@@ -53160,22 +52954,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://covid19api.com/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Health"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "public_api_fields": {
@@ -53185,6 +52963,22 @@ module.exports = {
             },
             "name": "Covid-19",
             "description": "Covid 19 cases, deaths and recovery per country",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Health"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://covid19api.com/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Covid-19",
+            "description": "Covid 19 spread, infection and recovery",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Health"
@@ -53652,17 +53446,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "Codepen radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-        },
-        {
             "name": "CodePen Radio",
             "categories": [
                 "Programming/Podcasts"
@@ -53672,6 +53455,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://blog.codepen.io/favicon.ico"
+        },
+        {
+            "name": "Codepen radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
         },
         {
             "name": "Commit Your Code!",
@@ -54977,6 +54771,201 @@ module.exports = {
                 "Public APIs/All",
                 "Public APIs/Open Source Projects"
             ]
+        }
+    ],
+    "jobs/remote-only": [
+        {
+            "name": "DailyRemote",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Find and apply for top remote jobs in Software Development, Design, Support, Sales, Writing, Product, and Others. Start telecommuting & working from home today!",
+            "links": {
+                "Website": "https://dailyremote.com/"
+            },
+            "icon": "https://dailyremote.com/assets/favicon/favicon-96.png"
+        },
+        {
+            "name": "FlexJobs",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "The #1 job site to find hand-screened, remote work from home & flexible jobs since 2007. Find a better way to work in 50+ career categories today!",
+            "keywords": [
+                "remote jobs",
+                "remote work",
+                "telecommuting jobs",
+                "telecommute jobs",
+                "part-time jobs",
+                "freelance jobs",
+                "flexible jobs",
+                "flexible schedule jobs"
+            ],
+            "links": {
+                "Website": "https://www.flexjobs.com/"
+            },
+            "icon": "https://www.flexjobs.com/favicon-32x32.png"
+        },
+        {
+            "name": "Jobspresso",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Jobspresso is the easiest way to find remote jobs and careers at interesting and innovative companies.",
+            "links": {
+                "Website": "https://jobspresso.co/"
+            },
+            "icon": "https://jobspresso.co/wp-content/uploads/2015/04/Favicon-iOS.jpg"
+        },
+        {
+            "name": "JS Remotely",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Welcome to JS Remotely, the job board with all JavaScript remote jobs in the world. More than 200 remote Node.js, Meteor, Angular, React and Electron jobs are waiting for you. Find your perfect remote job now!",
+            "keywords": [
+                "javascript jobs",
+                "js jobs",
+                "remote jobs",
+                "remote",
+                "jobs",
+                "react jobs",
+                "angular jobs",
+                "vue jobs"
+            ],
+            "links": {
+                "Website": "https://jsremotely.com/"
+            },
+            "icon": "https://jsremotely.com/static/media/favicon-32x32.png"
+        },
+        {
+            "name": "JustRemote",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Discover Remote Jobs from around the world. Give up the commute, work remotely and do what you love, daily, from anywhere. Find your perfect remote development, design, sales or marketing job today.",
+            "links": {
+                "Website": "https://justremote.co/"
+            },
+            "icon": "https://justremote.co/favicon.ico"
+        },
+        {
+            "name": "Nomad List",
+            "categories": [
+                "Jobs/Boards",
+                "Jobs/Remote Only"
+            ],
+            "description": "Best places to live for a digital nomad",
+            "links": {
+                "Website": "https://nomadlist.com/"
+            },
+            "icon": "https://nomadlist.com/assets/logo.svg"
+        },
+        {
+            "name": "Remote Impact",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Remote dev jobs to save the world. Find a job with social impact in a company tackling the UNs Sustainable Development Goals. We add jobs daily in 17 key impact areas such as climate change, poverty, education + many more",
+            "links": {
+                "Website": "https://www.remoteimpact.io/"
+            }
+        },
+        {
+            "name": "Remote Leaf",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Remote Leaf aggregates remote jobs in one organized place from 60+ remote job boards, company career pages, AngelList, Linkedin, Reddit, Twitter, Facebook groups and Hacker news hiring.",
+            "links": {
+                "Website": "https://remoteleaf.com/"
+            },
+            "icon": "https://remoteleaf.com/static/leaf/img/Favicon%402x.png"
+        },
+        {
+            "name": "Remote.co",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Remote.co is a resource for companies that see remote work as an opportunity.",
+            "links": {
+                "Website": "https://remote.co/"
+            },
+            "icon": "https://remote.co/wp-content/uploads/2017/02/retina_favicon_32.png"
+        },
+        {
+            "name": "RemoteLeads",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Freelancers get your next highly-qualified remote web development project lead sent to your inbox. We search 100s of sources daily to find your next freelance web development project.",
+            "links": {
+                "Website": "http://remoteleads.io/"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5faec1ddb9d25e78916f2423/5fc54bdf027e3b778c588959_favicon-256x256.png"
+        },
+        {
+            "name": "RemoteOK",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Looking for a remote job? Remote OK® has 43,534+ remote jobs as a Developer, Designer, Copywriter, Customer Support Rep, Sales Professional, Project Manager and more! Find a career where you can work remotely from anywhere.",
+            "links": {
+                "Website": "https://remoteok.io/"
+            },
+            "icon": "https://remoteok.io/assets/favicon-96x96.png?2"
+        },
+        {
+            "name": "Remotists.",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Get Remote Dev Jobs in your mailbox. 35.000+ exciting remote jobs on file from 16000+ top remote companies. Segmented for USA, Europe or Worldwide. Personally selected for you by our experienced remote hiring managers.",
+            "links": {
+                "Website": "https://remotists.com/"
+            }
+        },
+        {
+            "name": "Remotive",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Find the best remote job, working as a developer, customer support rep, product or sales professional... See openings in our categories. All jobs are hand curated and allow remote work. We serve the best work from home jobs in popular categories. Talent is everywhere, work remotely today!",
+            "links": {
+                "Website": "https://remotive.io/"
+            },
+            "icon": "https://remotive.io/web/image/website/1/favicon/"
+        },
+        {
+            "name": "We Work Remotely",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Find the most qualified people in the most unexpected places: Hire remote! We Work Remotely is the best place to find and list remote jobs that aren't restricted by commutes or a particular geographic area. Browse thousands of remote work jobs today.",
+            "links": {
+                "Website": "https://weworkremotely.com/"
+            },
+            "icon": "https://weworkremotely.com/favicon-96x96.png"
+        },
+        {
+            "name": "Working Nomads",
+            "categories": [
+                "Jobs/Remote Only"
+            ],
+            "description": "Remote jobs for digital working nomads. Start your telecommuting career and work remotely from home or places around the world.",
+            "keywords": [
+                "remote jobs",
+                "telecommuting jobs",
+                "work from home jobs",
+                "remote",
+                "telecommuting",
+                "virtual",
+                "working nomads"
+            ],
+            "links": {
+                "Website": "https://www.workingnomads.co/jobs"
+            },
+            "icon": "https://www.workingnomads.co/static/jobs/assets/favicon.ico"
         }
     ],
     "ui-design/youtube-channels": [
