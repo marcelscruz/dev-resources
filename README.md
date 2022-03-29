@@ -85,6 +85,7 @@
  <img src="https://www.uihut.com/favicon.jpg" width="16" /> | UI HUT | Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices. | [Website](https://www.uihut.com/)<br />[Facebook](https://www.facebook.com/uihutofficial)<br />[Instagram](https://www.instagram.com/uihutofficial/)<br />[LinkedIn](https://www.linkedin.com/company/uihutofficial)<br />[Twitter](https://twitter.com/uihutofficial) |  |
  <img src="https://www.uplabs.com/logos/uplabs/icons/favicon-96x96.png" width="16" /> | UpLabs | UpLabs curates the best of design & development inspiration, resources and freebies. Every day! | [Website](https://www.uplabs.com/) |  |
  <img src="https://www.visiwig.com/favicon-32x32.png" width="16" /> | Visiwig | We provide visuals for busy designers. Visiwig is a place to find design inspiration, explore creative tools, and shop for timesaving graphics. | [Website](https://www.visiwig.com/) |  |
+  <img src="https://www.scaler.com/topics/favicon.ico" width="16" /> | Scaler Topics | This is a beginner’s guide on starting with CSS (Cascading Style Sheets). You will be learning what CSS is, why is this important to you as a web developer, we will talk about the applications of CSS, and then you will get to know the career options as a CSS developer. | [Website](https://www.scaler.com/topics/css/) |  |
 
 **[⬆ Back to Index](#index)**
 
