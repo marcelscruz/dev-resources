@@ -784,6 +784,7 @@ module.exports = [
             [linkedin]: 'https://www.linkedin.com/company/swetrix/',
         },
         icon: 'https://swetrix.com/favicon.ico',
+        keywords: ['analytics', 'marketing', 'web analytics', 'privacy', 'opensource'],
     },
     {
         name: 'Syntax',
