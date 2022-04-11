@@ -10,7 +10,7 @@
 
  Join us on [Discord](https://discord.gg/SHw6TmXreR).
 
- ### Total resources: 2120
+ ### Total resources: 2121
 
  ## Index
 <details><summary id="assets">Assets</summary><li><a href="#assets-audio">Audio</a></li><li><a href="#assets-fonts">Fonts</a></li><li><a href="#assets-icons">Icons</a></li><li><a href="#assets-illustrations">Illustrations</a></li><li><a href="#assets-images">Images</a></li><li><a href="#assets-logos">Logos</a></li><li><a href="#assets-videos">Videos</a></li></details><details><summary id="community">Community</summary><li><a href="#community-blogs-and-forums">Blogs & Forums</a></li><li><a href="#community-hacktoberfest">Hacktoberfest</a></li><li><a href="#community-personal-websites">Personal Websites</a></li></details><details><summary id="indie-hacking">Indie Hacking</summary><li><a href="#indie-hacking-books">Books</a></li><li><a href="#indie-hacking-marketing">Marketing</a></li><li><a href="#indie-hacking-platforms">Platforms</a></li><li><a href="#indie-hacking-podcasts">Podcasts</a></li><li><a href="#indie-hacking-utilities">Utilities</a></li></details><details><summary id="infrastructure">Infrastructure</summary><li><a href="#infrastructure-auth">Auth</a></li><li><a href="#infrastructure-cloud-computing">Cloud Computing</a></li><li><a href="#infrastructure-databases">Databases</a></li><li><a href="#infrastructure-hosting">Hosting</a></li><li><a href="#infrastructure-serverless">Serverless</a></li></details><details><summary id="jobs">Jobs</summary><li><a href="#jobs-boards">Boards</a></li><li><a href="#jobs-freelancing">Freelancing</a></li><li><a href="#jobs-interviews">Interviews</a></li><li><a href="#jobs-remote-only">Remote Only</a></li><li><a href="#jobs-resume-builders">Resume Builders</a></li></details><details><summary id="programming">Programming</summary><li><a href="#programming-books">Books</a></li><li><a href="#programming-charts">Charts</a></li><li><a href="#programming-code-challenges">Code Challenges</a></li><li><a href="#programming-code-generators">Code Generators</a></li><li><a href="#programming-code-snippets">Code Snippets</a></li><li><a href="#programming-docs-and-cheatsheets">Docs & Cheatsheets</a></li><details><summary id="programming-javascript">JavaScript</summary><li><a href="#programming-javascript-react">React</a></li><li><a href="#programming-javascript-tooling">Tooling</a></li><li><a href="#programming-javascript-utilities">Utilities</a></li></details><li><a href="#programming-learn">Learn</a></li><li><a href="#programming-newsletters">Newsletters</a></li><li><a href="#programming-podcasts">Podcasts</a></li><li><a href="#programming-templates">Templates</a></li><li><a href="#programming-testing">Testing</a></li><li><a href="#programming-ui-kits-and-libraries">UI Kits & Libraries</a></li><li><a href="#programming-youtube-channels">YouTube Channels</a></li></details><details><summary id="public-apis">Public APIs</summary><li><a href="#public-apis-all">All</a></li><li><a href="#public-apis-animals">Animals</a></li><li><a href="#public-apis-anime">Anime</a></li><li><a href="#public-apis-anti-malware">Anti-Malware</a></li><li><a href="#public-apis-art-and-design">Art & Design</a></li><li><a href="#public-apis-authentication-and-authorization">Authentication & Authorization</a></li><li><a href="#public-apis-blockchain">Blockchain</a></li><li><a href="#public-apis-books">Books</a></li><li><a href="#public-apis-business">Business</a></li><li><a href="#public-apis-calendar">Calendar</a></li><li><a href="#public-apis-cloud-storage-and-file-sharing">Cloud Storage & File Sharing</a></li><li><a href="#public-apis-continuous-integration">Continuous Integration</a></li><li><a href="#public-apis-cryptocurrency">Cryptocurrency</a></li><li><a href="#public-apis-currency-exchange">Currency Exchange</a></li><li><a href="#public-apis-data-validation">Data Validation</a></li><li><a href="#public-apis-development">Development</a></li><li><a href="#public-apis-dictionaries">Dictionaries</a></li><li><a href="#public-apis-documents-and-productivity">Documents & Productivity</a></li><li><a href="#public-apis-email">Email</a></li><li><a href="#public-apis-entertainment">Entertainment</a></li><li><a href="#public-apis-environment">Environment</a></li><li><a href="#public-apis-events">Events</a></li><li><a href="#public-apis-finance">Finance</a></li><li><a href="#public-apis-food-and-drink">Food & Drink</a></li><li><a href="#public-apis-games-and-comics">Games & Comics</a></li><li><a href="#public-apis-geocoding">Geocoding</a></li><li><a href="#public-apis-government">Government</a></li><li><a href="#public-apis-health">Health</a></li><li><a href="#public-apis-jobs">Jobs</a></li><li><a href="#public-apis-machine-learning">Machine Learning</a></li><li><a href="#public-apis-music">Music</a></li><li><a href="#public-apis-news">News</a></li><li><a href="#public-apis-open-data">Open Data</a></li><li><a href="#public-apis-open-source-projects">Open Source Projects</a></li><li><a href="#public-apis-patent">Patent</a></li><li><a href="#public-apis-personality">Personality</a></li><li><a href="#public-apis-phone">Phone</a></li><li><a href="#public-apis-photography">Photography</a></li><li><a href="#public-apis-programming">Programming</a></li><li><a href="#public-apis-science-and-math">Science & Math</a></li><li><a href="#public-apis-security">Security</a></li><li><a href="#public-apis-shopping">Shopping</a></li><li><a href="#public-apis-social">Social</a></li><li><a href="#public-apis-sports-and-fitness">Sports & Fitness</a></li><li><a href="#public-apis-test-data">Test Data</a></li><li><a href="#public-apis-text-analysis">Text Analysis</a></li><li><a href="#public-apis-tracking">Tracking</a></li><li><a href="#public-apis-transportation">Transportation</a></li><li><a href="#public-apis-url-shorteners">URL Shorteners</a></li><li><a href="#public-apis-vehicle">Vehicle</a></li><li><a href="#public-apis-video">Video</a></li><li><a href="#public-apis-weather">Weather</a></li></details><details><summary id="tools-and-utilities">Tools & Utilities</summary><li><a href="#tools-and-utilities-accessibility">Accessibility</a></li><li><a href="#tools-and-utilities-analytics">Analytics</a></li><li><a href="#tools-and-utilities-api-building">API Building</a></li><li><a href="#tools-and-utilities-browsers-and-extensions">Browsers & Extensions</a></li><li><a href="#tools-and-utilities-command-line">Command Line</a></li><li><a href="#tools-and-utilities-domains">Domains</a></li><li><a href="#tools-and-utilities-editors-and-extensions">Editors & Extensions</a></li><li><a href="#tools-and-utilities-general">General</a></li><li><a href="#tools-and-utilities-image-and-video-editing">Image & Video Editing</a></li><li><a href="#tools-and-utilities-performance">Performance</a></li><li><a href="#tools-and-utilities-seo">SEO</a></li><li><a href="#tools-and-utilities-typing">Typing</a></li><li><a href="#tools-and-utilities-web-scraping">Web Scraping</a></li><li><a href="#tools-and-utilities-website-builders">Website Builders</a></li><li><a href="#tools-and-utilities-writing">Writing</a></li></details><details><summary id="ui-design">UI Design</summary><li><a href="#ui-design-color">Color</a></li><li><a href="#ui-design-inspiration">Inspiration</a></li><li><a href="#ui-design-learn">Learn</a></li><li><a href="#ui-design-prototyping">Prototyping</a></li><li><a href="#ui-design-utilities">Utilities</a></li><li><a href="#ui-design-youtube-channels">YouTube Channels</a></li></details> 
@@ -1659,8 +1659,8 @@
  &nbsp; | npm Registry | Query information about your favorite Node.js libraries programatically | [Website](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md) |  |
  &nbsp; | NPPES | National Plan & Provider Enumeration System, info on healthcare providers registered in US | [Website](https://npiregistry.cms.hhs.gov/registry/help-api) |  |
  &nbsp; | NPR One | Personalized news listening experience from NPR | [Website](http://dev.npr.org/api/) |  |
- &nbsp; | Numbers | Facts about numbers | [Website](http://numbersapi.com) |  |
  &nbsp; | Numbers | Number of the day, random number, number facts and anything else you want to do with numbers | [Website](https://math.tools/api/numbers/) |  |
+ &nbsp; | Numbers | Facts about numbers | [Website](http://numbersapi.com) |  |
  &nbsp; | Nutritionix | Worlds largest verified nutrition database | [Website](https://developer.nutritionix.com/) |  |
  &nbsp; | ObjectCut | Image Background removal | [Website](https://objectcut.com/) |  |
  &nbsp; | Ocean Facts | Facts pertaining to the physical science of Oceanography | [Website](https://oceanfacts.herokuapp.com/) |  |
@@ -1702,8 +1702,8 @@
  &nbsp; | Open Government, Korea | Korea Government Open Data | [Website](https://www.data.go.kr/) |  |
  &nbsp; | Open Government, Lithuania | Lithuania Government Open Data | [Website](https://data.gov.lt/public/api/1) |  |
  &nbsp; | Open Government, Luxembourg | Luxembourgish Government Open Data | [Website](https://data.public.lu) |  |
- &nbsp; | Open Government, Mexico | Mexico Government Open Data | [Website](https://datos.gob.mx/) |  |
  &nbsp; | Open Government, Mexico | Mexican Statistical Government Open Data | [Website](https://www.inegi.org.mx/datos/) |  |
+ &nbsp; | Open Government, Mexico | Mexico Government Open Data | [Website](https://datos.gob.mx/) |  |
  &nbsp; | Open Government, Netherlands | Netherlands Government Open Data | [Website](https://data.overheid.nl/en/ondersteuning/data-publiceren/api) |  |
  &nbsp; | Open Government, New South Wales | New South Wales Government Open Data | [Website](https://api.nsw.gov.au/) |  |
  &nbsp; | Open Government, New Zealand | New Zealand Government Open Data | [Website](https://www.data.govt.nz/) |  |
@@ -1948,8 +1948,8 @@
  &nbsp; | SoundCloud | With SoundCloud API you can build applications that will give more power to control your content | [Website](https://developers.soundcloud.com/docs/api/guide) |  |
  &nbsp; | Spaceflight News | Spaceflight related news 🚀 | [Website](https://spaceflightnewsapi.net) |  |
  &nbsp; | SpaceTradersAPI | A playable inter-galactic space trading MMOAPI | [Website](https://spacetraders.io?rel=pub-apis) |  |
- &nbsp; | SpaceX | GraphQL, Company, Ships, launchpad and launch data | [Website](https://api.spacex.land/graphql/) |  |
  &nbsp; | SpaceX | Company, vehicle, launchpad and launch data | [Website](https://github.com/r-spacex/SpaceX-API) |  |
+ &nbsp; | SpaceX | GraphQL, Company, Ships, launchpad and launch data | [Website](https://api.spacex.land/graphql/) |  |
  &nbsp; | Spanish random names | Generate spanish names (with gender) randomly | [Website](https://random-names-api.herokuapp.com/public) |  |
  &nbsp; | Spanish random words | Generate spanish words randomly | [Website](https://palabras-aleatorias-public-api.herokuapp.com) |  |
  &nbsp; | Spoonacular | Recipes, Food Products, and Meal Planning | [Website](https://spoonacular.com/food-api) |  |
@@ -1986,8 +1986,8 @@
  &nbsp; | SuperHeroes | All SuperHeroes and Villains data from all universes under a single API | [Website](https://superheroapi.com) |  |
  &nbsp; | Supportivekoala | Autogenerate images with template | [Website](https://developers.supportivekoala.com/) |  |
  &nbsp; | SuredBits | Query sports data, including teams, players, games, scores and statistics | [Website](https://suredbits.com/api/) |  |
- &nbsp; | SWAPI | All things Star Wars | [Website](https://www.swapi.tech) |  |
  &nbsp; | SWAPI | All the Star Wars data you've ever wanted | [Website](https://swapi.dev/) |  |
+ &nbsp; | SWAPI | All things Star Wars | [Website](https://www.swapi.tech) |  |
  &nbsp; | SWAPI GraphQL | Star Wars GraphQL API | [Website](https://graphql.org/swapi-graphql) |  |
  &nbsp; | SwiftKanban | Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity | [Website](https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi) |  |
  &nbsp; | Synonyms | Synonyms, thesaurus and antonyms information for any given word | [Website](https://www.synonyms.com/synonyms_api.php) |  |
@@ -3162,8 +3162,8 @@
  &nbsp; | Open Government, Korea | Korea Government Open Data | [Website](https://www.data.go.kr/) |  |
  &nbsp; | Open Government, Lithuania | Lithuania Government Open Data | [Website](https://data.gov.lt/public/api/1) |  |
  &nbsp; | Open Government, Luxembourg | Luxembourgish Government Open Data | [Website](https://data.public.lu) |  |
- &nbsp; | Open Government, Mexico | Mexico Government Open Data | [Website](https://datos.gob.mx/) |  |
  &nbsp; | Open Government, Mexico | Mexican Statistical Government Open Data | [Website](https://www.inegi.org.mx/datos/) |  |
+ &nbsp; | Open Government, Mexico | Mexico Government Open Data | [Website](https://datos.gob.mx/) |  |
  &nbsp; | Open Government, Netherlands | Netherlands Government Open Data | [Website](https://data.overheid.nl/en/ondersteuning/data-publiceren/api) |  |
  &nbsp; | Open Government, New South Wales | New South Wales Government Open Data | [Website](https://api.nsw.gov.au/) |  |
  &nbsp; | Open Government, New Zealand | New Zealand Government Open Data | [Website](https://www.data.govt.nz/) |  |
@@ -3518,16 +3518,16 @@
  &nbsp; | NASA ADS | NASA Astrophysics Data System | [Website](https://ui.adsabs.harvard.edu/help/api/api-docs.html) |  |
  &nbsp; | Newton | Symbolic and Arithmetic Math Calculator | [Website](https://newton.vercel.app) |  |
  &nbsp; | Noctua | REST API used to access NoctuaSky features | [Website](https://api.noctuasky.com/api/v1/swaggerdoc/) |  |
- &nbsp; | Numbers | Facts about numbers | [Website](http://numbersapi.com) |  |
  &nbsp; | Numbers | Number of the day, random number, number facts and anything else you want to do with numbers | [Website](https://math.tools/api/numbers/) |  |
+ &nbsp; | Numbers | Facts about numbers | [Website](http://numbersapi.com) |  |
  &nbsp; | Ocean Facts | Facts pertaining to the physical science of Oceanography | [Website](https://oceanfacts.herokuapp.com/) |  |
  &nbsp; | Open Notify | ISS astronauts, current location, etc | [Website](http://open-notify.org/Open-Notify-API/) |  |
  &nbsp; | Open Science Framework | Repository and archive for study designs, research materials, data, manuscripts, etc | [Website](https://developer.osf.io) |  |
  &nbsp; | Purple Air | Real Time Air Quality Monitoring | [Website](https://www2.purpleair.com/) |  |
  &nbsp; | Remote Calc | Decodes base64 encoding and parses it to return a solution to the calculation in JSON | [Website](https://github.com/elizabethadegbaju/remotecalc) |  |
  &nbsp; | SHARE | A free, open, dataset about research and scholarly activities | [Website](https://share.osf.io/api/v2/) |  |
- &nbsp; | SpaceX | GraphQL, Company, Ships, launchpad and launch data | [Website](https://api.spacex.land/graphql/) |  |
  &nbsp; | SpaceX | Company, vehicle, launchpad and launch data | [Website](https://github.com/r-spacex/SpaceX-API) |  |
+ &nbsp; | SpaceX | GraphQL, Company, Ships, launchpad and launch data | [Website](https://api.spacex.land/graphql/) |  |
  &nbsp; | Sunrise and Sunset | Sunset and sunrise times for a given latitude and longitude | [Website](https://sunrise-sunset.org/api) |  |
  &nbsp; | Times Adder | With this API you can add each of the times introduced in the array sended | [Website](https://github.com/FranP-code/API-Times-Adder) |  |
  &nbsp; | TLE | Satellite information | [Website](https://tle.ivanstanojevic.me/#/docs) |  |
@@ -3896,8 +3896,8 @@
  &nbsp; | Stranger Things Quotes | Returns Stranger Things quotes | [Website](https://github.com/shadowoff09/strangerthings-quotes) |  |
  &nbsp; | Stream | Czech internet television, films, series and online videos for free | [Website](https://api.stream.cz/graphiql) |  |
  &nbsp; | Stromberg Quotes | Returns Stromberg quotes and more | [Website](https://www.stromberg-api.de/) |  |
- &nbsp; | SWAPI | All things Star Wars | [Website](https://www.swapi.tech) |  |
  &nbsp; | SWAPI | All the Star Wars data you've ever wanted | [Website](https://swapi.dev/) |  |
+ &nbsp; | SWAPI | All things Star Wars | [Website](https://www.swapi.tech) |  |
  &nbsp; | SWAPI GraphQL | Star Wars GraphQL API | [Website](https://graphql.org/swapi-graphql) |  |
  &nbsp; | The Lord of the Rings | The Lord of the Rings API | [Website](https://the-one-api.dev/) |  |
  &nbsp; | The Vampire Diaries | TV Show Data | [Website](https://vampire-diaries-api.netlify.app/) |  |
@@ -3991,6 +3991,7 @@
  <img src="https://plausible.io/assets/images/icon/favicon.png" width="16" /> | Plausible | Plausible is a lightweight and open-source web analytics tool. Your website data is 100% yours and the privacy of your visitors is respected. | [Website](https://plausible.io/) |  |
  <img src="https://simpleanalytics.com/favicon-32x32.png" width="16" /> | Simple Analytics | Simple Analytics gives you the analytics you need without invading the privacy of your users, with a clean interface, and simple integration. GDPR, CCPA and, PECR compliant because we don't handle PII... | [Website](https://simpleanalytics.com/) |  |
  <img src="https://splitbee.io/icons/favicon-32x32.png" width="16" /> | Splitbee | Splitbee provides Analytics, Automation, User Funnel and A/B Testing. | [Website](https://splitbee.io) |  |
+ <img src="https://swetrix.com/favicon.ico" width="16" /> | Swetrix | Swetrix is a privacy-focused, fully cookieless and opensource web analytics service with a free tier for small websites. | [Website](https://swetrix.com)<br />[GitHub](https://github.com/swetrix)<br />[LinkedIn](https://www.linkedin.com/company/swetrix/) | analytics, marketing, web analytics, privacy, opensource |
 
 **[⬆ Back to Index](#index)**
 

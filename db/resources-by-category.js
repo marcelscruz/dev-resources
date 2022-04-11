@@ -13698,22 +13698,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://numbersapi.com"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": false,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Facts about numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://math.tools/api/numbers/"
             },
             "public_api_fields": {
@@ -13723,6 +13707,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://numbersapi.com"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": false,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Facts about numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -14386,22 +14386,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://datos.gob.mx/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexico Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.inegi.org.mx/datos/"
             },
             "public_api_fields": {
@@ -14411,6 +14395,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexican Statistical Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://datos.gob.mx/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexico Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
@@ -18322,22 +18322,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://api.spacex.land/graphql/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "SpaceX",
-            "description": "GraphQL, Company, Ships, launchpad and launch data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/r-spacex/SpaceX-API"
             },
             "public_api_fields": {
@@ -18347,6 +18331,22 @@ module.exports = {
             },
             "name": "SpaceX",
             "description": "Company, vehicle, launchpad and launch data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://api.spacex.land/graphql/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "SpaceX",
+            "description": "GraphQL, Company, Ships, launchpad and launch data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -18930,22 +18930,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.swapi.tech"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All things Star Wars",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://swapi.dev/"
             },
             "public_api_fields": {
@@ -18955,6 +18939,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All the Star Wars data you've ever wanted",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.swapi.tech"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All things Star Wars",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -39867,22 +39867,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.swapi.tech"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All things Star Wars",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://swapi.dev/"
             },
             "public_api_fields": {
@@ -39892,6 +39876,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All the Star Wars data you've ever wanted",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.swapi.tech"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All things Star Wars",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -44755,22 +44755,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://numbersapi.com"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": false,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Facts about numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://math.tools/api/numbers/"
             },
             "public_api_fields": {
@@ -44780,6 +44764,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://numbersapi.com"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": false,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Facts about numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -44883,22 +44883,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://api.spacex.land/graphql/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "SpaceX",
-            "description": "GraphQL, Company, Ships, launchpad and launch data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/r-spacex/SpaceX-API"
             },
             "public_api_fields": {
@@ -44908,6 +44892,22 @@ module.exports = {
             },
             "name": "SpaceX",
             "description": "Company, vehicle, launchpad and launch data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://api.spacex.land/graphql/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "SpaceX",
+            "description": "GraphQL, Company, Ships, launchpad and launch data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -48863,22 +48863,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://datos.gob.mx/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexico Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.inegi.org.mx/datos/"
             },
             "public_api_fields": {
@@ -48888,6 +48872,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexican Statistical Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://datos.gob.mx/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexico Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
@@ -49468,6 +49468,26 @@ module.exports = {
                 "Website": "https://splitbee.io"
             },
             "icon": "https://splitbee.io/icons/favicon-32x32.png"
+        },
+        {
+            "name": "Swetrix",
+            "categories": [
+                "Tools & Utilities/Analytics"
+            ],
+            "description": "Swetrix is a privacy-focused, fully cookieless and opensource web analytics service with a free tier for small websites.",
+            "links": {
+                "Website": "https://swetrix.com",
+                "GitHub": "https://github.com/swetrix",
+                "LinkedIn": "https://www.linkedin.com/company/swetrix/"
+            },
+            "icon": "https://swetrix.com/favicon.ico",
+            "keywords": [
+                "analytics",
+                "marketing",
+                "web analytics",
+                "privacy",
+                "opensource"
+            ]
         }
     ],
     "programming/templates": [
