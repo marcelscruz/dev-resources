@@ -774,6 +774,19 @@ module.exports = [
         icon: 'https://static1.smartbear.co/swagger/media/assets/swagger_fav.png',
     },
     {
+        name: 'Swetrix',
+        categories: [toolsAndUtilities.analytics],
+        description:
+            'Swetrix is a privacy-focused, fully cookieless and opensource web analytics service with a free tier for small websites.',
+        links: {
+            [website]: 'https://swetrix.com',
+            [github]: 'https://github.com/swetrix',
+            [linkedin]: 'https://www.linkedin.com/company/swetrix/',
+        },
+        icon: 'https://swetrix.com/favicon.ico',
+        keywords: ['analytics', 'marketing', 'web analytics', 'privacy', 'opensource'],
+    },
+    {
         name: 'Syntax',
         categories: [programming.podcasts],
         description:
