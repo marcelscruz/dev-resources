@@ -32111,5 +32111,16 @@ module.exports = [
             "Website": "https://zyro.com//"
         },
         "icon": "https://zyro.com/_nuxt/icons/icon_512x512.d49f6a.png"
-    }
+    },
+    {
+        "name": "UserBooster",
+        "categories": [
+            "Indie Hacking/Marketing"
+        ],
+        "description": "UserBooster is a Notion template that helps startups to get their first users and build their launch strategy",
+        "links": {
+            "Website": "https://userbooster.co"
+        },
+        "icon": "https://userbooster.co/images/home/share.jpg"
+    },
 ]
