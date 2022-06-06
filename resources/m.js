@@ -365,6 +365,16 @@ module.exports = [
         icon: 'https://mouadessalim.xyz/wp-content/uploads/fbrfg/favicon-32x32.png',
     },
     {
+        name: 'My Career List - Find Your Next Remote Job',
+        categories: [jobs.boards],
+        description: 'My Career List is the most advanced job search and job posting platform. Receive company insights and learn about interview experiences.',
+        links: {
+            [website]: 'https://mycareerlist.com/',
+        },
+        icon: 'https://mycareerlist.com/logo-regular.png',
+        keywords: ['job board', 'remote', 'local', 'programming'],
+    },
+    {
         name: 'MyPerfectResume',
         categories: [jobs.resumeBuilders],
         description:
@@ -392,15 +402,5 @@ module.exports = [
             [github]: 'https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free',
         },
         icon: 'https://themeselection.com/wp-content/uploads/2018/07/favicon.ico',
-    },
-    {
-        name: 'My Career List - Find Your Next Remote Job',
-        categories: [jobs.boards],
-        description: 'My Career List is the most advanced job search and job posting platform. Receive company insights and learn about interview experiences.',
-        links: {
-            [website]: 'https://mycareerlist.com/',
-        },
-        icon: 'https://mycareerlist.com/logo-regular.png',
-        keywords: ['job board', 'remote', 'local', 'programming'],
     },
 ]
