@@ -289,4 +289,13 @@ module.exports = [
         },
         icon: 'https://isometriclove.com/favicon.ico',
     },
+    {
+        name: 'Illustrations-figma',
+        description: 'More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.',
+        categories: [assets.illustrations],
+        links: {
+            [website]: 'https://www.artify.co/illustrations-figma',
+        },
+        icon: 'https://www.artify.co/images/landing/favicon.png',
+    },
 ]
