@@ -1890,22 +1890,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://bhagavadgita.io/api"
-            },
-            "public_api_fields": {
-                "auth": "OAuth",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Books"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://docs.bhagavadgitaapi.in"
             },
             "public_api_fields": {
@@ -1915,6 +1899,22 @@ module.exports = {
             },
             "name": "Bhagavad Gita",
             "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Books"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://bhagavadgita.io/api"
+            },
+            "public_api_fields": {
+                "auth": "OAuth",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Bhagavad Gita text",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Books"
@@ -3874,22 +3874,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://cloudmersive.com/validate-api"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Email"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://cloudmersive.com/phone-number-validation-API"
             },
             "public_api_fields": {
@@ -3902,6 +3886,22 @@ module.exports = {
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Phone"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://cloudmersive.com/validate-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Email"
             ]
         },
         {
@@ -5778,22 +5778,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://kinduff.github.io/dog-api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Dog Facts",
-            "description": "Random facts of Dogs",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Animals"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://dukengn.github.io/Dog-facts-API/"
             },
             "public_api_fields": {
@@ -5803,6 +5787,22 @@ module.exports = {
             },
             "name": "Dog Facts",
             "description": "Random dog facts",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Animals"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://kinduff.github.io/dog-api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Dog Facts",
+            "description": "Random facts of Dogs",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Animals"
@@ -13538,22 +13538,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://isdayoff.ru"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Non-Working Days",
-            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Calendar"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/gadael/icsdb"
             },
             "public_api_fields": {
@@ -13563,6 +13547,22 @@ module.exports = {
             },
             "name": "Non-Working Days",
             "description": "Database of ICS files for non working days",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://isdayoff.ru"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Non-Working Days",
+            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Calendar"
@@ -13714,22 +13714,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "public_api_fields": {
@@ -13739,6 +13723,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Facts about numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -14402,22 +14402,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.inegi.org.mx/datos/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexican Statistical Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://datos.gob.mx/"
             },
             "public_api_fields": {
@@ -14427,6 +14411,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexico Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.inegi.org.mx/datos/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexican Statistical Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
@@ -16434,22 +16434,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.qrtag.net/api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Development"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "public_api_fields": {
@@ -16459,6 +16443,22 @@ module.exports = {
             },
             "name": "QR code",
             "description": "Generate and decode / read QR code graphics",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.qrtag.net/api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
@@ -20418,22 +20418,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://transport.opendata.ch/"
             },
             "public_api_fields": {
@@ -20450,15 +20434,15 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "public_api_fields": {
                 "auth": "apiKey",
-                "https": false,
+                "https": true,
                 "cors": "unknown"
             },
-            "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
+            "name": "Transport for Switzerland",
+            "description": "Official Swiss Public Transport Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -20475,6 +20459,22 @@ module.exports = {
             },
             "name": "Transport for The Netherlands",
             "description": "OVAPI, country-wide public transport",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": false,
+                "cors": "unknown"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "NS, only trains",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -27249,22 +27249,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.qrtag.net/api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Development"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "public_api_fields": {
@@ -27274,6 +27258,22 @@ module.exports = {
             },
             "name": "QR code",
             "description": "Generate and decode / read QR code graphics",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.qrtag.net/api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
@@ -27884,6 +27884,23 @@ module.exports = {
                 "Website": "https://www.themetaversejobs.com/"
             },
             "icon": "https://global-uploads.webflow.com/6138f6cb1bda9ece7529a20b/6150c7d3934a945f2b4d11e7_Copy%20of%20The%20Metaverse%20Jobs.png"
+        },
+        {
+            "name": "My Career List - Find Your Next Remote Job",
+            "categories": [
+                "Jobs/Boards"
+            ],
+            "description": "My Career List is the most advanced job search and job posting platform. Receive company insights and learn about interview experiences.",
+            "links": {
+                "Website": "https://mycareerlist.com/"
+            },
+            "icon": "https://mycareerlist.com/logo-regular.png",
+            "keywords": [
+                "job board",
+                "remote",
+                "local",
+                "programming"
+            ]
         },
         {
             "name": "Nomad List",
@@ -29776,22 +29793,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://bhagavadgita.io/api"
-            },
-            "public_api_fields": {
-                "auth": "OAuth",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Books"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://docs.bhagavadgitaapi.in"
             },
             "public_api_fields": {
@@ -29801,6 +29802,22 @@ module.exports = {
             },
             "name": "Bhagavad Gita",
             "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Books"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://bhagavadgita.io/api"
+            },
+            "public_api_fields": {
+                "auth": "OAuth",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Bhagavad Gita text",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Books"
@@ -32213,22 +32230,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://isdayoff.ru"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Non-Working Days",
-            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Calendar"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/gadael/icsdb"
             },
             "public_api_fields": {
@@ -32238,6 +32239,22 @@ module.exports = {
             },
             "name": "Non-Working Days",
             "description": "Database of ICS files for non working days",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://isdayoff.ru"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Non-Working Days",
+            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Calendar"
@@ -33692,22 +33709,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://kinduff.github.io/dog-api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Dog Facts",
-            "description": "Random facts of Dogs",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Animals"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://dukengn.github.io/Dog-facts-API/"
             },
             "public_api_fields": {
@@ -33717,6 +33718,22 @@ module.exports = {
             },
             "name": "Dog Facts",
             "description": "Random dog facts",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Animals"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://kinduff.github.io/dog-api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Dog Facts",
+            "description": "Random facts of Dogs",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Animals"
@@ -35307,22 +35324,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://transport.opendata.ch/"
             },
             "public_api_fields": {
@@ -35339,15 +35340,15 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "public_api_fields": {
                 "auth": "apiKey",
-                "https": false,
+                "https": true,
                 "cors": "unknown"
             },
-            "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
+            "name": "Transport for Switzerland",
+            "description": "Official Swiss Public Transport Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -35364,6 +35365,22 @@ module.exports = {
             },
             "name": "Transport for The Netherlands",
             "description": "OVAPI, country-wide public transport",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": false,
+                "cors": "unknown"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "NS, only trains",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -44787,22 +44804,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "public_api_fields": {
@@ -44812,6 +44813,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Facts about numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -48906,22 +48923,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.inegi.org.mx/datos/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexican Statistical Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://datos.gob.mx/"
             },
             "public_api_fields": {
@@ -48931,6 +48932,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexico Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.inegi.org.mx/datos/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexican Statistical Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
@@ -53526,17 +53543,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "Codepen radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-        },
-        {
             "name": "CodePen Radio",
             "categories": [
                 "Programming/Podcasts"
@@ -53546,6 +53552,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://blog.codepen.io/favicon.ico"
+        },
+        {
+            "name": "Codepen radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
         },
         {
             "name": "Commit Your Code!",
