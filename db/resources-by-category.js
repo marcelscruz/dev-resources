@@ -3874,22 +3874,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://cloudmersive.com/phone-number-validation-API"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate international phone numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Phone"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://cloudmersive.com/validate-api"
             },
             "public_api_fields": {
@@ -3902,6 +3886,22 @@ module.exports = {
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Email"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://cloudmersive.com/phone-number-validation-API"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate international phone numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Phone"
             ]
         },
         {
@@ -5778,22 +5778,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://dukengn.github.io/Dog-facts-API/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Dog Facts",
-            "description": "Random dog facts",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Animals"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://kinduff.github.io/dog-api/"
             },
             "public_api_fields": {
@@ -5803,6 +5787,22 @@ module.exports = {
             },
             "name": "Dog Facts",
             "description": "Random facts of Dogs",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Animals"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://dukengn.github.io/Dog-facts-API/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Dog Facts",
+            "description": "Random dog facts",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Animals"
@@ -13538,22 +13538,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/gadael/icsdb"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Non-Working Days",
-            "description": "Database of ICS files for non working days",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Calendar"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://isdayoff.ru"
             },
             "public_api_fields": {
@@ -13563,6 +13547,22 @@ module.exports = {
             },
             "name": "Non-Working Days",
             "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/gadael/icsdb"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Non-Working Days",
+            "description": "Database of ICS files for non working days",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Calendar"
@@ -13714,22 +13714,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://numbersapi.com"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": false,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Facts about numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://math.tools/api/numbers/"
             },
             "public_api_fields": {
@@ -13739,6 +13723,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://numbersapi.com"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": false,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Facts about numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -14402,22 +14402,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://datos.gob.mx/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexico Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.inegi.org.mx/datos/"
             },
             "public_api_fields": {
@@ -14427,6 +14411,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexican Statistical Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://datos.gob.mx/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexico Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
@@ -16434,22 +16434,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://goqr.me/api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Development"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.qrtag.net/api/"
             },
             "public_api_fields": {
@@ -16459,6 +16443,22 @@ module.exports = {
             },
             "name": "QR code",
             "description": "Create an easy to read QR code and URL shortener",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://goqr.me/api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
@@ -18658,22 +18658,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Steam",
-            "description": "Internal Steam Web API documentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://steamapi.xpaw.me/"
             },
             "public_api_fields": {
@@ -18683,6 +18667,22 @@ module.exports = {
             },
             "name": "Steam",
             "description": "Steam Web API documentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Steam",
+            "description": "Internal Steam Web API documentation",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
@@ -20450,22 +20450,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://www.ns.nl/reisinformatie/ns-api"
             },
             "public_api_fields": {
@@ -20475,6 +20459,22 @@ module.exports = {
             },
             "name": "Transport for The Netherlands",
             "description": "NS, only trains",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "OVAPI, country-wide public transport",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -25335,6 +25335,17 @@ module.exports = {
             "icon": "https://codesandbox.io/favicon.ico"
         },
         {
+            "name": "Codiga",
+            "categories": [
+                "Programming/Code Snippets"
+            ],
+            "description": "Codiga is a Coding Assistant that lets you create, share and import code snippets from your IDE.",
+            "links": {
+                "Website": "https://www.codiga.io"
+            },
+            "icon": "https://www.codiga.io/favicon-32x32.png"
+        },
+        {
             "name": "CreativesFeed",
             "categories": [
                 "Programming/Code Snippets"
@@ -27249,22 +27260,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://goqr.me/api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Development"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.qrtag.net/api/"
             },
             "public_api_fields": {
@@ -27274,6 +27269,22 @@ module.exports = {
             },
             "name": "QR code",
             "description": "Create an easy to read QR code and URL shortener",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://goqr.me/api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
@@ -32230,22 +32241,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/gadael/icsdb"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Non-Working Days",
-            "description": "Database of ICS files for non working days",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Calendar"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://isdayoff.ru"
             },
             "public_api_fields": {
@@ -32255,6 +32250,22 @@ module.exports = {
             },
             "name": "Non-Working Days",
             "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/gadael/icsdb"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Non-Working Days",
+            "description": "Database of ICS files for non working days",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Calendar"
@@ -33709,22 +33720,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://dukengn.github.io/Dog-facts-API/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Dog Facts",
-            "description": "Random dog facts",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Animals"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://kinduff.github.io/dog-api/"
             },
             "public_api_fields": {
@@ -33734,6 +33729,22 @@ module.exports = {
             },
             "name": "Dog Facts",
             "description": "Random facts of Dogs",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Animals"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://dukengn.github.io/Dog-facts-API/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Dog Facts",
+            "description": "Random dog facts",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Animals"
@@ -35356,22 +35367,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://www.ns.nl/reisinformatie/ns-api"
             },
             "public_api_fields": {
@@ -35381,6 +35376,22 @@ module.exports = {
             },
             "name": "Transport for The Netherlands",
             "description": "NS, only trains",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "OVAPI, country-wide public transport",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -37636,22 +37647,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Steam",
-            "description": "Internal Steam Web API documentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://steamapi.xpaw.me/"
             },
             "public_api_fields": {
@@ -37661,6 +37656,22 @@ module.exports = {
             },
             "name": "Steam",
             "description": "Steam Web API documentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Steam",
+            "description": "Internal Steam Web API documentation",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
@@ -44804,22 +44815,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://numbersapi.com"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": false,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Facts about numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://math.tools/api/numbers/"
             },
             "public_api_fields": {
@@ -44829,6 +44824,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://numbersapi.com"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": false,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Facts about numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -48923,22 +48934,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://datos.gob.mx/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexico Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.inegi.org.mx/datos/"
             },
             "public_api_fields": {
@@ -48948,6 +48943,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexican Statistical Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://datos.gob.mx/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexico Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
@@ -53543,17 +53554,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "CodePen Radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://blog.codepen.io/favicon.ico"
-        },
-        {
             "name": "Codepen radio",
             "categories": [
                 "Programming/Podcasts"
@@ -53563,6 +53563,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
+        },
+        {
+            "name": "CodePen Radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://blog.codepen.io/favicon.ico"
         },
         {
             "name": "Commit Your Code!",

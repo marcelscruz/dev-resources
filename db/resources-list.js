@@ -5089,22 +5089,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://cloudmersive.com/phone-number-validation-API"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Cloudmersive Validate",
-        "description": "Validate international phone numbers",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Phone"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://cloudmersive.com/validate-api"
         },
         "public_api_fields": {
@@ -5117,6 +5101,22 @@ module.exports = [
         "categories": [
             "Public APIs/All",
             "Public APIs/Email"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://cloudmersive.com/phone-number-validation-API"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Cloudmersive Validate",
+        "description": "Validate international phone numbers",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Phone"
         ]
     },
     {
@@ -5446,17 +5446,6 @@ module.exports = [
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
     {
-        "name": "CodePen Radio",
-        "categories": [
-            "Programming/Podcasts"
-        ],
-        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-        "links": {
-            "Website": "https://blog.codepen.io/radio/"
-        },
-        "icon": "https://blog.codepen.io/favicon.ico"
-    },
-    {
         "name": "Codepen radio",
         "categories": [
             "Programming/Podcasts"
@@ -5466,6 +5455,17 @@ module.exports = [
             "Website": "https://blog.codepen.io/radio/"
         },
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
+    },
+    {
+        "name": "CodePen Radio",
+        "categories": [
+            "Programming/Podcasts"
+        ],
+        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+        "links": {
+            "Website": "https://blog.codepen.io/radio/"
+        },
+        "icon": "https://blog.codepen.io/favicon.ico"
     },
     {
         "name": "Codepip",
@@ -5634,6 +5634,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Development"
         ]
+    },
+    {
+        "name": "Codiga",
+        "categories": [
+            "Programming/Code Snippets"
+        ],
+        "description": "Codiga is a Coding Assistant that lets you create, share and import code snippets from your IDE.",
+        "links": {
+            "Website": "https://www.codiga.io"
+        },
+        "icon": "https://www.codiga.io/favicon-32x32.png"
     },
     {
         "name": "Coding Tech",
@@ -8350,22 +8361,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://dukengn.github.io/Dog-facts-API/"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Dog Facts",
-        "description": "Random dog facts",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Animals"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://kinduff.github.io/dog-api/"
         },
         "public_api_fields": {
@@ -8375,6 +8370,22 @@ module.exports = [
         },
         "name": "Dog Facts",
         "description": "Random facts of Dogs",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Animals"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://dukengn.github.io/Dog-facts-API/"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Dog Facts",
+        "description": "Random dog facts",
         "categories": [
             "Public APIs/All",
             "Public APIs/Animals"
@@ -13036,17 +13047,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Hashnode",
-        "categories": [
-            "Community/Blogs & Forums"
-        ],
-        "description": "Hashnode is a free content creation platform and community that allows you to publish articles on your own domain and helps you stay connected with a growing developer community.",
-        "links": {
-            "Website": "https://hashnode.com/"
-        },
-        "icon": "https://cdn.hashnode.com/res/hashnode/image/upload/v1592400819640/7VL8RW7wc.png"
-    },
-    {
         "links": {
             "Website": "https://hashnode.com"
         },
@@ -13061,6 +13061,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Social"
         ]
+    },
+    {
+        "name": "Hashnode",
+        "categories": [
+            "Community/Blogs & Forums"
+        ],
+        "description": "Hashnode is a free content creation platform and community that allows you to publish articles on your own domain and helps you stay connected with a growing developer community.",
+        "links": {
+            "Website": "https://hashnode.com/"
+        },
+        "icon": "https://cdn.hashnode.com/res/hashnode/image/upload/v1592400819640/7VL8RW7wc.png"
     },
     {
         "links": {
@@ -13250,17 +13261,6 @@ module.exports = [
         "icon": "https://heroicons.com/_next/static/media/favicon-32x32.eee32601ba9d4702f841835990ed3801.png"
     },
     {
-        "name": "Heroku",
-        "categories": [
-            "Infrastructure/Hosting"
-        ],
-        "description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
-        "links": {
-            "Website": "https://www.heroku.com/"
-        },
-        "icon": "https://www.herokucdn.com/favicon.ico"
-    },
-    {
         "links": {
             "Website": "https://devcenter.heroku.com/articles/platform-api-reference/"
         },
@@ -13275,6 +13275,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Development"
         ]
+    },
+    {
+        "name": "Heroku",
+        "categories": [
+            "Infrastructure/Hosting"
+        ],
+        "description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
+        "links": {
+            "Website": "https://www.heroku.com/"
+        },
+        "icon": "https://www.herokucdn.com/favicon.ico"
     },
     {
         "name": "Hey Meta",
@@ -14077,6 +14088,20 @@ module.exports = [
         "icon": "https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico"
     },
     {
+        "name": "Icons8",
+        "categories": [
+            "Assets/Icons",
+            "Assets/Illustrations",
+            "Assets/Images",
+            "Assets/Audio"
+        ],
+        "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
+        "links": {
+            "Website": "https://icons8.com"
+        },
+        "icon": "https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png"
+    },
+    {
         "links": {
             "Website": "https://img.icons8.com/"
         },
@@ -14091,20 +14116,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Art & Design"
         ]
-    },
-    {
-        "name": "Icons8",
-        "categories": [
-            "Assets/Icons",
-            "Assets/Illustrations",
-            "Assets/Images",
-            "Assets/Audio"
-        ],
-        "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
-        "links": {
-            "Website": "https://icons8.com"
-        },
-        "icon": "https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png"
     },
     {
         "name": "Iconscout",
@@ -17235,6 +17246,17 @@ module.exports = [
         ]
     },
     {
+        "name": "Mailchimp",
+        "categories": [
+            "Indie Hacking/Utilities"
+        ],
+        "description": "Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.",
+        "links": {
+            "Website": "https://mailchimp.com/"
+        },
+        "icon": "https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png"
+    },
+    {
         "links": {
             "Website": "https://mailchimp.com/developer/"
         },
@@ -17249,17 +17271,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Business"
         ]
-    },
-    {
-        "name": "Mailchimp",
-        "categories": [
-            "Indie Hacking/Utilities"
-        ],
-        "description": "Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.",
-        "links": {
-            "Website": "https://mailchimp.com/"
-        },
-        "icon": "https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png"
     },
     {
         "links": {
@@ -17699,17 +17710,6 @@ module.exports = [
         "icon": "https://developer.mozilla.org/static/img/favicon72.cc65d1d762a0.png"
     },
     {
-        "name": "Medium",
-        "categories": [
-            "Community/Blogs & Forums"
-        ],
-        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
-        "links": {
-            "Website": "http://medium.com/"
-        },
-        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
-    },
-    {
         "links": {
             "Website": "https://github.com/Medium/medium-api-docs"
         },
@@ -17724,6 +17724,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Personality"
         ]
+    },
+    {
+        "name": "Medium",
+        "categories": [
+            "Community/Blogs & Forums"
+        ],
+        "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
+        "links": {
+            "Website": "http://medium.com/"
+        },
+        "icon": "https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
     },
     {
         "links": {
@@ -19116,6 +19127,17 @@ module.exports = [
         ]
     },
     {
+        "name": "Netlify",
+        "categories": [
+            "Infrastructure/Hosting"
+        ],
+        "description": "Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.",
+        "links": {
+            "Website": "https://www.netlify.com/"
+        },
+        "icon": "https://www.netlify.com/v3/static/favicon/favicon-32x32.png"
+    },
+    {
         "links": {
             "Website": "https://docs.netlify.com/api/get-started/"
         },
@@ -19130,17 +19152,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Development"
         ]
-    },
-    {
-        "name": "Netlify",
-        "categories": [
-            "Infrastructure/Hosting"
-        ],
-        "description": "Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.",
-        "links": {
-            "Website": "https://www.netlify.com/"
-        },
-        "icon": "https://www.netlify.com/v3/static/favicon/favicon-32x32.png"
     },
     {
         "links": {
@@ -19425,22 +19436,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://github.com/gadael/icsdb"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "unknown"
-        },
-        "name": "Non-Working Days",
-        "description": "Database of ICS files for non working days",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Calendar"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://isdayoff.ru"
         },
         "public_api_fields": {
@@ -19450,6 +19445,22 @@ module.exports = [
         },
         "name": "Non-Working Days",
         "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Calendar"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://github.com/gadael/icsdb"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "unknown"
+        },
+        "name": "Non-Working Days",
+        "description": "Database of ICS files for non working days",
         "categories": [
             "Public APIs/All",
             "Public APIs/Calendar"
@@ -19542,17 +19553,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Noun Project",
-        "categories": [
-            "Assets/Icons"
-        ],
-        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
-        "links": {
-            "Website": "https://thenounproject.com/"
-        },
-        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
-    },
-    {
         "links": {
             "Website": "http://api.thenounproject.com/index.html"
         },
@@ -19567,6 +19567,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Art & Design"
         ]
+    },
+    {
+        "name": "Noun Project",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
+        "links": {
+            "Website": "https://thenounproject.com/"
+        },
+        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
     },
     {
         "links": {
@@ -19664,22 +19675,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "http://numbersapi.com"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": false,
-            "cors": "no"
-        },
-        "name": "Numbers",
-        "description": "Facts about numbers",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Science & Math"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://math.tools/api/numbers/"
         },
         "public_api_fields": {
@@ -19689,6 +19684,22 @@ module.exports = [
         },
         "name": "Numbers",
         "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Science & Math"
+        ]
+    },
+    {
+        "links": {
+            "Website": "http://numbersapi.com"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": false,
+            "cors": "no"
+        },
+        "name": "Numbers",
+        "description": "Facts about numbers",
         "categories": [
             "Public APIs/All",
             "Public APIs/Science & Math"
@@ -20433,22 +20444,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://datos.gob.mx/"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "unknown"
-        },
-        "name": "Open Government, Mexico",
-        "description": "Mexico Government Open Data",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Government"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://www.inegi.org.mx/datos/"
         },
         "public_api_fields": {
@@ -20458,6 +20453,22 @@ module.exports = [
         },
         "name": "Open Government, Mexico",
         "description": "Mexican Statistical Government Open Data",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Government"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://datos.gob.mx/"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "unknown"
+        },
+        "name": "Open Government, Mexico",
+        "description": "Mexico Government Open Data",
         "categories": [
             "Public APIs/All",
             "Public APIs/Government"
@@ -21726,22 +21737,6 @@ module.exports = [
         ]
     },
     {
-        "links": {
-            "Website": "https://www.pexels.com/api/"
-        },
-        "public_api_fields": {
-            "auth": "apiKey",
-            "https": true,
-            "cors": "yes"
-        },
-        "name": "Pexels",
-        "description": "Free Stock Photos and Videos",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Photography"
-        ]
-    },
-    {
         "name": "Pexels",
         "categories": [
             "Assets/Videos",
@@ -21760,6 +21755,22 @@ module.exports = [
             "Website": "https://www.pexels.com/"
         },
         "icon": "https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png"
+    },
+    {
+        "links": {
+            "Website": "https://www.pexels.com/api/"
+        },
+        "public_api_fields": {
+            "auth": "apiKey",
+            "https": true,
+            "cors": "yes"
+        },
+        "name": "Pexels",
+        "description": "Free Stock Photos and Videos",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Photography"
+        ]
     },
     {
         "links": {
@@ -21928,19 +21939,6 @@ module.exports = [
         ]
     },
     {
-        "name": "Pixabay",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Illustrations"
-        ],
-        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
-        "links": {
-            "Website": "https://pixabay.com/"
-        },
-        "icon": "https://pixabay.com/favicon-32x32.png"
-    },
-    {
         "links": {
             "Website": "https://pixabay.com/sk/service/about/api/"
         },
@@ -21955,6 +21953,19 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Photography"
         ]
+    },
+    {
+        "name": "Pixabay",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Illustrations"
+        ],
+        "description": "Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.",
+        "links": {
+            "Website": "https://pixabay.com/"
+        },
+        "icon": "https://pixabay.com/favicon-32x32.png"
     },
     {
         "links": {
@@ -22414,6 +22425,17 @@ module.exports = [
         "icon": "https://www.postgresql.org/favicon.ico"
     },
     {
+        "name": "Postman",
+        "categories": [
+            "Tools & Utilities/API Building"
+        ],
+        "description": "Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.",
+        "links": {
+            "Website": "https://www.postman.com/"
+        },
+        "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
+    },
+    {
         "links": {
             "Website": "https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a"
         },
@@ -22428,17 +22450,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Development"
         ]
-    },
-    {
-        "name": "Postman",
-        "categories": [
-            "Tools & Utilities/API Building"
-        ],
-        "description": "Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.",
-        "links": {
-            "Website": "https://www.postman.com/"
-        },
-        "icon": "https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441"
     },
     {
         "links": {
@@ -22984,22 +22995,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "http://goqr.me/api/"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "unknown"
-        },
-        "name": "QR code",
-        "description": "Generate and decode / read QR code graphics",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Development"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://www.qrtag.net/api/"
         },
         "public_api_fields": {
@@ -23009,6 +23004,22 @@ module.exports = [
         },
         "name": "QR code",
         "description": "Create an easy to read QR code and URL shortener",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Development"
+        ]
+    },
+    {
+        "links": {
+            "Website": "http://goqr.me/api/"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "unknown"
+        },
+        "name": "QR code",
+        "description": "Generate and decode / read QR code graphics",
         "categories": [
             "Public APIs/All",
             "Public APIs/Development"
@@ -23955,17 +23966,6 @@ module.exports = [
         "icon": "https://remotive.io/web/image/website/1/favicon/"
     },
     {
-        "name": "remove.bg",
-        "categories": [
-            "Assets/Images"
-        ],
-        "description": "Remove Image Background: 100% automatically – in 5 seconds – without a single click – for free.",
-        "links": {
-            "Website": "https://www.remove.bg/"
-        },
-        "icon": "https://www.remove.bg/favicon-32x32.png?v=YAXaAv7pao"
-    },
-    {
         "links": {
             "Website": "https://www.remove.bg/api"
         },
@@ -23980,6 +23980,17 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Photography"
         ]
+    },
+    {
+        "name": "remove.bg",
+        "categories": [
+            "Assets/Images"
+        ],
+        "description": "Remove Image Background: 100% automatically – in 5 seconds – without a single click – for free.",
+        "links": {
+            "Website": "https://www.remove.bg/"
+        },
+        "icon": "https://www.remove.bg/favicon-32x32.png?v=YAXaAv7pao"
     },
     {
         "name": "Render",
@@ -25355,6 +25366,19 @@ module.exports = [
         ]
     },
     {
+        "name": "Shutterstock",
+        "categories": [
+            "Assets/Videos",
+            "Assets/Images",
+            "Assets/Icons"
+        ],
+        "description": "Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.",
+        "links": {
+            "Website": "https://www.shutterstock.com/"
+        },
+        "icon": "https://ak.picdn.net/assets/cms/sstk-favicon-72.png"
+    },
+    {
         "links": {
             "Website": "https://api-reference.shutterstock.com/"
         },
@@ -25369,19 +25393,6 @@ module.exports = [
             "Public APIs/All",
             "Public APIs/Photography"
         ]
-    },
-    {
-        "name": "Shutterstock",
-        "categories": [
-            "Assets/Videos",
-            "Assets/Images",
-            "Assets/Icons"
-        ],
-        "description": "Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.",
-        "links": {
-            "Website": "https://www.shutterstock.com/"
-        },
-        "icon": "https://ak.picdn.net/assets/cms/sstk-favicon-72.png"
     },
     {
         "name": "Sidebar",
@@ -26450,22 +26461,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "no"
-        },
-        "name": "Steam",
-        "description": "Internal Steam Web API documentation",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Games & Comics"
-        ]
-    },
-    {
-        "links": {
             "Website": "https://steamapi.xpaw.me/"
         },
         "public_api_fields": {
@@ -26475,6 +26470,22 @@ module.exports = [
         },
         "name": "Steam",
         "description": "Steam Web API documentation",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Games & Comics"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "no"
+        },
+        "name": "Steam",
+        "description": "Internal Steam Web API documentation",
         "categories": [
             "Public APIs/All",
             "Public APIs/Games & Comics"
@@ -28880,22 +28891,6 @@ module.exports = [
     },
     {
         "links": {
-            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
-        },
-        "public_api_fields": {
-            "auth": "",
-            "https": true,
-            "cors": "unknown"
-        },
-        "name": "Transport for The Netherlands",
-        "description": "OVAPI, country-wide public transport",
-        "categories": [
-            "Public APIs/All",
-            "Public APIs/Transportation"
-        ]
-    },
-    {
-        "links": {
             "Website": "http://www.ns.nl/reisinformatie/ns-api"
         },
         "public_api_fields": {
@@ -28905,6 +28900,22 @@ module.exports = [
         },
         "name": "Transport for The Netherlands",
         "description": "NS, only trains",
+        "categories": [
+            "Public APIs/All",
+            "Public APIs/Transportation"
+        ]
+    },
+    {
+        "links": {
+            "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+        },
+        "public_api_fields": {
+            "auth": "",
+            "https": true,
+            "cors": "unknown"
+        },
+        "name": "Transport for The Netherlands",
+        "description": "OVAPI, country-wide public transport",
         "categories": [
             "Public APIs/All",
             "Public APIs/Transportation"
