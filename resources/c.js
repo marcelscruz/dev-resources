@@ -594,6 +594,15 @@ module.exports = [
         keywords: ['frontend', 'html', 'css', 'flexbox', 'grid', 'javascript'],
     },
     {
+        name: 'Codiga',
+        categories: [programming.codeSnippets],
+        description: 'Codiga is a Coding Assistant that lets you create, share and import code snippets from your IDE.',
+        links: {
+            [website]: 'https://www.codiga.io',
+        },
+        icon: 'https://www.codiga.io/favicon-32x32.png',
+    },
+    {
         name: 'Coding Tech',
         categories: [programming.youtubeChannels],
         description:
