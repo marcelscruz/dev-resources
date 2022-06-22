@@ -60,6 +60,15 @@ module.exports = [
         icon: 'https://www.30secondsofcode.org/icons/icon-96x96.png?v=bd273ecf29b2666f8d7669cf855707df',
     },
     {
+        name: '3dicons',
+        categories: [assets.icons],
+        description: 'A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views.',
+        links: {
+            [website]: 'https://www.3dicons.com/',
+        },
+        icon: 'https://www.3dicons.com/vectoricons/logo/logoVectorIconsMixer.png',
+    },
+    {
         name: '4 day week',
         categories: [jobs.boards],
         description: 'Software jobs with a better work / life balance.',

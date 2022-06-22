@@ -428,4 +428,14 @@ module.exports = [
         },
         icon: 'https://static.typingclub.com/m/corp2/img/favicon.png',
     },
+    {
+        name: 'TshirtDesigns',
+        categories: [toolsAndUtilities.general],
+        description:
+            "An apparel and tshirt design mockup generator plus a marketplace of t-shirt designs.",
+        links: {
+            [website]: 'https://www.tshirtdesigns.com/mockups',
+        },
+        icon: 'https://www.bypeople.com/wp-content/themes/bppl-alpha/assets/images/v2/favicon-32x32.png',
+    },
 ]

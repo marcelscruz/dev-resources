@@ -298,4 +298,13 @@ module.exports = [
         },
         icon: 'https://www.artify.co/images/landing/favicon.png',
     },
+    {
+        name: 'Iconshock',
+        description: 'The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.',
+        categories: [assets.icons],
+        links: {
+            [website]: 'https://www.iconshock.com/',
+        },
+        icon: 'https://www.iconshock.com/img/favicon.ico',
+    },
 ]

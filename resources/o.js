@@ -153,4 +153,14 @@ module.exports = [
         },
         icon: 'https://orioniconlibrary.com/icon-ios.png',
     },
+    {
+        name: 'Optimizeimages',
+        categories: [toolsAndUtilities.general],
+        description:
+            'Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.',
+        links: {
+            [website]: 'https://www.optimizeimages.com',
+        },
+        icon: 'https://www.optimizeimages.com/favicon.ico',
+    },
 ]
