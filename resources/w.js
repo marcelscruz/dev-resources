@@ -69,11 +69,11 @@ module.exports = [
             'Hosted enterprise-grade authorization and access control service for your apps.',
         links: {
             [website]: 'https://warrant.dev/',
-            [discord]: 'https://discord.gg/QNCMKWzqET',
+            [slack]: 'https://join.slack.com/t/warrantcommunity/shared_invite/zt-12g84updv-5l1pktJf2bI5WIKN4_~f4w',
             [github]: 'https://github.com/warrant-dev',
             [twitter]: 'https://twitter.com/warrant_dev',
         },
-        icon: 'https://warrant.dev/apple-touch-icon.png',
+        icon: 'https://warrant.dev/images/logo-primary.svg',
         keywords: ['auth', 'authorization', 'authz', 'access control'],
     },
     {
