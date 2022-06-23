@@ -439,4 +439,24 @@ module.exports = [
         },
         icon: 'https://responsivedesign.is/wp-content/themes/rwd-is/favicon-32x32.png',
     },
+    {
+        name: 'React Jobs',
+        categories: [jobs.boards],
+        description:
+            'Find specific React Jobs, including Remote ReactJS Jobs. You are looking for React JS Developers? Submit your job ad',
+        links: {
+            [website]: 'https://reactjsjob.com/',
+        },
+        icon: 'https://reactjsjob.com/img/icons/favicon-32x32.png',
+    },
+    {
+        name: 'Rust Jobs',
+        categories: [jobs.boards],
+        description:
+            'Find specific Rust Jobs, including Remote Rust Jobs. You are looking for Rust Developers? Submit your job ad',
+        links: {
+            [website]: 'https://rustjob.xyz/',
+        },
+        icon: 'https://rustjob.xyz/img/icons/favicon-32x32.png',
+    },
 ]
