@@ -76,6 +76,16 @@ module.exports = [
         icon: 'https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png',
     },
     {
+        name: 'React Jobs',
+        categories: [jobs.boards],
+        description:
+            'Find specific React Jobs, including Remote ReactJS Jobs. You are looking for React JS Developers? Submit your job ad',
+        links: {
+            [website]: 'https://reactjsjob.com/',
+        },
+        icon: 'https://reactjsjob.com/img/icons/favicon-32x32.png',
+    },
+    {
         name: 'React Native Radio',
         categories: [programming.podcasts],
         description: 'Exploring React Native Together.',
@@ -428,6 +438,16 @@ module.exports = [
             [website]: 'https://www.jetbrains.com/ruby/',
         },
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
+    },
+    {
+        name: 'Rust Jobs',
+        categories: [jobs.boards],
+        description:
+            'Find specific Rust Jobs, including Remote Rust Jobs. You are looking for Rust Developers? Submit your job ad',
+        links: {
+            [website]: 'https://rustjob.xyz/',
+        },
+        icon: 'https://rustjob.xyz/img/icons/favicon-32x32.png',
     },
     {
         name: 'RWD Weekly Newsletter',
