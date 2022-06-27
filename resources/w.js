@@ -1,5 +1,5 @@
 const { programming, toolsAndUtilities, jobs, uiDesign, community, infrastructure } = require('../constants/categories')
-const { website, youtube, twitter, facebook, github, discord } = require('../constants/links')
+const { website, youtube, twitter, facebook, github, slack } = require('../constants/links')
 
 module.exports = [
     {
@@ -65,15 +65,14 @@ module.exports = [
     {
         name: 'Warrant',
         categories: [infrastructure.auth],
-        description:
-            'Hosted enterprise-grade authorization and access control service for your apps.',
+        description: 'Hosted enterprise-grade authorization and access control service for your apps.',
         links: {
             [website]: 'https://warrant.dev/',
-            [discord]: 'https://discord.gg/QNCMKWzqET',
+            [slack]: 'https://join.slack.com/t/warrantcommunity/shared_invite/zt-12g84updv-5l1pktJf2bI5WIKN4_~f4w',
             [github]: 'https://github.com/warrant-dev',
             [twitter]: 'https://twitter.com/warrant_dev',
         },
-        icon: 'https://warrant.dev/apple-touch-icon.png',
+        icon: 'https://warrant.dev/images/logo-primary.svg',
         keywords: ['auth', 'authorization', 'authz', 'access control'],
     },
     {
@@ -229,16 +228,11 @@ module.exports = [
         categories: [toolsAndUtilities.websiteBuilders],
         description:
             'Rapidly Build and Prototype responsive websites using a drag and drop Tailwind CSS website builder',
-        keywords: [
-            'website builder',
-            'tailwind css builder',
-            'drag and drop builder',
-        ],
+        keywords: ['website builder', 'tailwind css builder', 'drag and drop builder'],
         links: {
             [website]: 'https://www.devwares.com/windframe/',
         },
-        icon:
-            'https://windframe.devwares.com/devwaresIcon.png',
+        icon: 'https://windframe.devwares.com/devwaresIcon.png',
     },
     {
         name: 'Wix',
