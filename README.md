@@ -298,7 +298,7 @@
 |---|---|---|---|---|
  <img src="https://clerk.dev/favicon/favicon-32x32.png" width="16" /> | Clerk.dev | Authentication and user management for developers that's simple, secure, and scalable with any platform or language. | [Website](https://clerk.dev) | react, next.js, auth,  user management, react auth, next.js auth, javascript auth |
  <img src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png" width="16" /> | Firebase | Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. | [Website](https://firebase.google.com/) |  |
- <img src="https://warrant.dev/apple-touch-icon.png" width="16" /> | Warrant | Hosted enterprise-grade authorization and access control service for your apps. | [Website](https://warrant.dev/)<br />[Discord](https://discord.gg/QNCMKWzqET)<br />[GitHub](https://github.com/warrant-dev)<br />[Twitter](https://twitter.com/warrant_dev) | auth, authorization, authz, access control |
+ <img src="https://warrant.dev/images/logo-primary.svg" width="16" /> | Warrant | Hosted enterprise-grade authorization and access control service for your apps. | [Website](https://warrant.dev/)<br />[GitHub](https://github.com/warrant-dev)<br />[Slack](https://join.slack.com/t/warrantcommunity/shared_invite/zt-12g84updv-5l1pktJf2bI5WIKN4_~f4w)<br />[Twitter](https://twitter.com/warrant_dev) | auth, authorization, authz, access control |
 
 **[⬆ Back to Index](#index)**
 

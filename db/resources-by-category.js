@@ -53033,11 +53033,11 @@ module.exports = {
             "description": "Hosted enterprise-grade authorization and access control service for your apps.",
             "links": {
                 "Website": "https://warrant.dev/",
-                "Discord": "https://discord.gg/QNCMKWzqET",
+                "Slack": "https://join.slack.com/t/warrantcommunity/shared_invite/zt-12g84updv-5l1pktJf2bI5WIKN4_~f4w",
                 "GitHub": "https://github.com/warrant-dev",
                 "Twitter": "https://twitter.com/warrant_dev"
             },
-            "icon": "https://warrant.dev/apple-touch-icon.png",
+            "icon": "https://warrant.dev/images/logo-primary.svg",
             "keywords": [
                 "auth",
                 "authorization",
