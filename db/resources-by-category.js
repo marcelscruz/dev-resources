@@ -3874,22 +3874,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://cloudmersive.com/validate-api"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Email"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://cloudmersive.com/phone-number-validation-API"
             },
             "public_api_fields": {
@@ -3902,6 +3886,22 @@ module.exports = {
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Phone"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://cloudmersive.com/validate-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Email"
             ]
         },
         {
@@ -13714,22 +13714,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "public_api_fields": {
@@ -13739,6 +13723,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Facts about numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -18946,22 +18946,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.swapi.tech"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All things Star Wars",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://swapi.dev/"
             },
             "public_api_fields": {
@@ -18971,6 +18955,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All the Star Wars data you've ever wanted",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.swapi.tech"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All things Star Wars",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -27721,6 +27721,634 @@ module.exports = {
                 "Public APIs/All",
                 "Public APIs/Development"
             ]
+        }
+    ],
+    "assets/icons": [
+        {
+            "name": "3dicons",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views.",
+            "links": {
+                "Website": "https://www.3dicons.com/"
+            },
+            "icon": "https://www.3dicons.com/vectoricons/logo/logoVectorIconsMixer.png"
+        },
+        {
+            "name": "Bootstrap",
+            "categories": [
+                "Programming/UI Kits & Libraries",
+                "Assets/Icons"
+            ],
+            "description": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.",
+            "links": {
+                "Website": "https://getbootstrap.com/"
+            },
+            "icon": "https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png"
+        },
+        {
+            "name": "Boxicons",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.",
+            "keywords": [
+                "boxicons",
+                "free icons",
+                "open source icons",
+                "royalty free icons",
+                "google icons",
+                "icon",
+                "line icon",
+                "sharp icon",
+                "material icons",
+                "premium icons",
+                "pixel perfect icons",
+                "open source icons",
+                "free icon set"
+            ],
+            "links": {
+                "Website": "https://boxicons.com/"
+            },
+            "icon": "https://boxicons.com/static/favicon.ico?v=13"
+        },
+        {
+            "name": "CoreUI",
+            "categories": [
+                "Programming/Templates",
+                "Assets/Icons"
+            ],
+            "description": "Time is our most valuable asset, that’s why we want to help you save it by creating simple, customizable, easy to learn UI components and Admin Templates which significantly cut development time. CoreUI lets you save thousands of priceless hours because it offers everything you need to create modern, beautiful, and responsive applications.",
+            "links": {
+                "Website": "https://coreui.io/"
+            },
+            "icon": "https://coreui.io/images/favicons/favicon-96x96.png"
+        },
+        {
+            "name": "css.gg",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Pure CSS icons library, Customizable & Retina-Ready built 100% in pure CSS, SVG, SVG Sprite, styled-components, Figma and Adobe XD. Easy integration: Embed, NPM & API.",
+            "links": {
+                "Website": "https://css.gg/"
+            },
+            "icon": "https://css.gg/fav/favicon-96x96.png"
+        },
+        {
+            "name": "Feather",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.",
+            "links": {
+                "Website": "https://feathericons.com/"
+            },
+            "icon": "https://feathericons.com/favicon-32x32.png"
+        },
+        {
+            "name": "Flaticon",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Download all icons in SVG, PSD, PNG, EPS format or as webfonts.",
+            "links": {
+                "Website": "https://www.flaticon.com"
+            },
+            "icon": "https://media.flaticon.com/dist/min/img/apple-icon-76x76-precomposed.png"
+        },
+        {
+            "name": "Font Awesome",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "The world’s most popular and easiest to use icon set just got an upgrade. More icons. More styles. More Options.",
+            "keywords": [
+                "icons",
+                "vector icons",
+                "svg icons",
+                "free icons",
+                "icon font",
+                "webfont",
+                "desktop icons",
+                "svg",
+                "font awesome",
+                "font awesome free",
+                "font awesome pro"
+            ],
+            "links": {
+                "Website": "https://fontawesome.com"
+            },
+            "icon": "https://fontawesome.com/images/favicon/icon.svg"
+        },
+        {
+            "name": "Freeicons",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Freeicons is  a free platform for download vector icons in SVG, PNG, EPS, AI and PSD format. Here You'll Find Wide Selection Of Icons In A Variety Of Different Styles, Sizes, Formats And Themes. All Of These Icon Sets Are Completely Free For Personal and Commercial Use Under Our Iconshock License. Enjoy!",
+            "keywords": [
+                "vector icons",
+                "download free icons",
+                "free icons",
+                "free vector icons",
+                "free icons for commercial use",
+                "free svg icons",
+                "free eps and ai icons",
+                "free psd icons",
+                "windows 8 icons",
+                "metro icons",
+                "iphone tab bar icons",
+                "android icons",
+                "material icons",
+                "monochrome icons",
+                "icon pack",
+                "windows 10 icons",
+                "pack",
+                "icons for iOS 11",
+                "iPhone icons",
+                "iPad icons",
+                "material icons",
+                "office style icons"
+            ],
+            "links": {
+                "Website": "https://freeicons.io/"
+            },
+            "icon": "https://freeicons.io/asset/images/favicon.png"
+        },
+        {
+            "name": "Heroicons",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
+            "links": {
+                "Website": "https://heroicons.com/"
+            },
+            "icon": "https://heroicons.com/_next/static/media/favicon-32x32.eee32601ba9d4702f841835990ed3801.png"
+        },
+        {
+            "name": "Icon Horse",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Free, easy to use, highest resolution possible favicons for any web site – including fallbacks if none are found.",
+            "keywords": [
+                "favicons",
+                "logo icons",
+                "web icons",
+                "logos",
+                "site logos"
+            ],
+            "links": {
+                "Website": "https://icon.horse",
+                "Twitter": "https://twitter.com/iconhorse"
+            },
+            "icon": "https://icon.horse/icon/icon.horse"
+        },
+        {
+            "name": "iconmonstr",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Free simple icons for your next project.",
+            "links": {
+                "Website": "https://iconmonstr.com"
+            },
+            "icon": "https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico"
+        },
+        {
+            "name": "Icons8",
+            "categories": [
+                "Assets/Icons",
+                "Assets/Illustrations",
+                "Assets/Images",
+                "Assets/Audio"
+            ],
+            "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
+            "links": {
+                "Website": "https://icons8.com"
+            },
+            "icon": "https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png"
+        },
+        {
+            "name": "Iconscout",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Pixel-perfect vector icons and Icon Fonts available in Line, Monochrome, and Solid style for your next project.",
+            "links": {
+                "Website": "https://iconscout.com/unicons"
+            },
+            "icon": "https://iconscout.com/favicon-96x96.png"
+        },
+        {
+            "name": "Iconshock",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Free icons and premium icon packs.  Flat icons, Material icons, Glyph icons, iOS icons, Font icons, and more design styles. Vector files, including PNG and SVG icons. Ready for apps, web or social media projects.",
+            "keywords": [
+                "web icons",
+                "web icon set",
+                "web icon",
+                "professional icons",
+                "software  web icons",
+                "web icons vista",
+                "xp web icons",
+                "windows vista icons",
+                "windows icons",
+                "vector icons",
+                "vector web icons",
+                "application icons",
+                "java web icons",
+                "video icons",
+                "business icons",
+                "multimedia icons",
+                "accounting icons",
+                "web icon packs",
+                "web icone"
+            ],
+            "links": {
+                "Website": "https://www.iconshock.com/"
+            },
+            "icon": "https://www.iconshock.com/img/favicon.ico"
+        },
+        {
+            "name": "Iconshock",
+            "description": "The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "links": {
+                "Website": "https://www.iconshock.com/"
+            },
+            "icon": "https://www.iconshock.com/img/favicon.ico"
+        },
+        {
+            "name": "IconSweets",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "IconSweets is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.",
+            "links": {
+                "Website": "https://www.designbombs.com/iconsweets2/"
+            },
+            "icon": "https://www.designbombs.com/iconsweets2/favicon-96x96.png"
+        },
+        {
+            "name": "Icônes",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Icon Explorer with Instant searching, powered by Iconify",
+            "links": {
+                "Website": "https://icones.netlify.app/"
+            },
+            "icon": "https://icones.netlify.app/favicon.svg"
+        },
+        {
+            "name": "Jam",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "890+ handcrafted SVG icons to make your web app awesome.",
+            "links": {
+                "Website": "https://jam-icons.com/"
+            },
+            "icon": "https://jam-icons.com/icons/icon-96x96.png?v=15da575dd058a8724fe062f4043331c8"
+        },
+        {
+            "name": "Line Icon Pack",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "320+ Line Icon Pack - Custom stroke edition is an icon-based system for your design tool. This is the version with editable strokes to fits more complex your needs.",
+            "links": {
+                "Website": "https://www.petrbilek.com/products/line-icon-pack"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5f436c086896715b56896fe4/5f469cf033aa724e20dc01dd_fav-256.svg"
+        },
+        {
+            "name": "LineIcons",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "2000+ Essential Line Icons, A Complete Yet Most Simplified Free Line Icon Pack of the Web - Available in WebFont, SVG, PNG, React, PNG, and PDF Files.",
+            "links": {
+                "Website": "https://lineicons.com/"
+            },
+            "icon": "https://user-images.githubusercontent.com/76911582/137953217-de9272df-bdbb-4c5f-9307-f5fb58839cf7.png"
+        },
+        {
+            "name": "Material Design",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Get Material Icons.",
+            "links": {
+                "Website": "https://material.io/resources/icons"
+            },
+            "icon": "https://material.io/favicon.ico"
+        },
+        {
+            "name": "Noun Project",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
+            "links": {
+                "Website": "https://thenounproject.com/"
+            },
+            "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
+        },
+        {
+            "name": "OnlineWebFonts",
+            "categories": [
+                "Assets/Icons",
+                "Assets/Fonts"
+            ],
+            "description": "Fonts and icons for your next project.",
+            "keywords": [
+                "SVG icon",
+                "svg vector icons",
+                "png icon",
+                "psd vector icons",
+                "eps icon",
+                "pnm icon",
+                "free icons downloads",
+                "Best Fonts",
+                "Free Best Fonts",
+                "Top Free Font",
+                "Best Font Download",
+                "Top Best Font Dwonload"
+            ],
+            "links": {
+                "Website": "https://www.onlinewebfonts.com"
+            },
+            "icon": "https://www.onlinewebfonts.com/favicon.ico"
+        },
+        {
+            "name": "Orion",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "The best Icon Tool. 8613 Free SVG & PNG Icons. Search, organize, edit and download our highly flexible Icons.",
+            "links": {
+                "Website": "https://orioniconlibrary.com/"
+            },
+            "icon": "https://orioniconlibrary.com/icon-ios.png"
+        },
+        {
+            "name": "Pixel Love",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Download 15,000 icons in 6 distictive styles made for professionals.",
+            "keywords": [
+                "icons",
+                "line icons",
+                "vector icons",
+                "iOS icons",
+                "Android icons"
+            ],
+            "links": {
+                "Website": "https://www.pixellove.com/"
+            },
+            "icon": "https://www.pixellove.com/assets/favicons/favicon.ico"
+        },
+        {
+            "name": "Remix Icon",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.",
+            "keywords": [
+                "remix-icon",
+                "icon",
+                "svg",
+                "icon-font",
+                "icon-pack"
+            ],
+            "links": {
+                "Website": "https://remixicon.com/"
+            },
+            "icon": "https://remixicon.com/favicon.ico"
+        },
+        {
+            "name": "Shape",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "26000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.",
+            "keywords": [
+                "icons",
+                "illustrations",
+                "library",
+                "animated icons",
+                "user interface",
+                "design",
+                "Figma",
+                "sketchapp",
+                "animated illustrations",
+                "svg",
+                "shape",
+                "downloads",
+                "ui templates",
+                "react",
+                "lottie files",
+                "image assets",
+                "design tool",
+                "editor",
+                "styles",
+                "JSON",
+                "Design+Code",
+                "export code",
+                "presets"
+            ],
+            "links": {
+                "Website": "https://shape.so/"
+            },
+            "icon": "https://shape.so/icons/icon-96x96.png?v=02f20638ec82f2f55585292e7c6c27ce"
+        },
+        {
+            "name": "Shutterstock",
+            "categories": [
+                "Assets/Videos",
+                "Assets/Images",
+                "Assets/Icons"
+            ],
+            "description": "Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.",
+            "links": {
+                "Website": "https://www.shutterstock.com/"
+            },
+            "icon": "https://ak.picdn.net/assets/cms/sstk-favicon-72.png"
+        },
+        {
+            "name": "Simple Icons",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "1493 Free SVG icons for popular brands.",
+            "links": {
+                "Website": "http://simpleicons.org/"
+            },
+            "icon": "https://simpleicons.org/images/apple-touch-icon.png"
+        },
+        {
+            "name": "Smashicons",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Download the world's largest and most complete icon set. Smashicons includes over 335,975 icons for Designers and Developers.",
+            "keywords": [
+                "free icons",
+                "vector icon",
+                "SVG",
+                "png icon",
+                "free Ui kits",
+                "free fonts",
+                "illustrations",
+                "graphic resources",
+                "free graphic templates",
+                "wireframes",
+                "icons",
+                "icon font",
+                "ios icons",
+                "iphone tab bar icons",
+                "download free icons",
+                "@3x icons",
+                "iOS 8 icons",
+                "developer tools",
+                "iPhone toolbars",
+                "Apple HIG",
+                "icon designer",
+                "monochrome icons",
+                "buy icon pack",
+                "pack",
+                "icons for iOS 8",
+                "buy iPhone icons",
+                "iPad icons",
+                "free icons",
+                "vector icon",
+                "SVG",
+                "png icon",
+                "AI",
+                "Sketch",
+                "Illustrator icons",
+                "free and premium",
+                "UI kits",
+                "free fonts",
+                "illustrations",
+                "graphic resources",
+                "free graphic templates",
+                "wireframes",
+                "Free graphic resources",
+                "free patterns"
+            ],
+            "links": {
+                "Website": "https://smashicons.com"
+            },
+            "icon": "https://smashicons.com/assets/img/favicon/new/favicon-96x96.png"
+        },
+        {
+            "name": "Smplkit",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "An open source, do-whatever-you-want icon font to use in your projects.",
+            "links": {
+                "Website": "https://www.smplkit.com/"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5e08877ced2a2771907388a9/5e2d9bc8d2e0671a88b1658b_smplkit-icon-3.png"
+        },
+        {
+            "name": "Streamline Icons",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Download 30,000 free PNG icons for website, web app, software, web design. Buy our SVG vector icon pack, the world’s largest icon library for professionals.",
+            "keywords": [
+                "Free icons",
+                "Download icons",
+                "Web icons",
+                "Vector",
+                "SVG",
+                "Royalty free icons",
+                "Open source icons",
+                "Professional icons",
+                "icon pack",
+                "iOs icons"
+            ],
+            "links": {
+                "Website": "https://streamlineicons.com/"
+            },
+            "icon": "https://uploads-ssl.webflow.com/5f59339c01fc322b69869dd9/5f5936ce192739ad632da855_bubble-white-32.png"
+        },
+        {
+            "name": "SVGBox",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "SVGBox allows you to add any of the 3,405 icons we have to your project by using simple tags. Instead of using downloading and uploading icons, simply copy tag and start using it. We are constantly adding more and more icons to serve different use cases.",
+            "links": {
+                "Website": "https://svgbox.net/"
+            },
+            "icon": "https://svgbox.net/assets/favicon.svg"
+        },
+        {
+            "name": "Tabler Icons",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "800+ Highly customizable & free SVG icons.",
+            "links": {
+                "Website": "https://tablericons.com/"
+            },
+            "icon": "https://tablericons.com/favicon.png"
+        },
+        {
+            "name": "UI HUT",
+            "categories": [
+                "UI Design/Inspiration",
+                "Assets/Icons",
+                "Assets/Illustrations"
+            ],
+            "description": "Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices.",
+            "links": {
+                "Website": "https://www.uihut.com/",
+                "Twitter": "https://twitter.com/uihutofficial",
+                "Facebook": "https://www.facebook.com/uihutofficial",
+                "Instagram": "https://www.instagram.com/uihutofficial/",
+                "LinkedIn": "https://www.linkedin.com/company/uihutofficial"
+            },
+            "icon": "https://www.uihut.com/favicon.jpg"
+        },
+        {
+            "name": "UpLabs",
+            "categories": [
+                "Assets/Illustrations",
+                "Assets/Icons",
+                "UI Design/Inspiration"
+            ],
+            "description": "UpLabs curates the best of design & development inspiration, resources and freebies. Every day!",
+            "links": {
+                "Website": "https://www.uplabs.com/"
+            },
+            "icon": "https://www.uplabs.com/logos/uplabs/icons/favicon-96x96.png"
+        },
+        {
+            "name": "Visiwig",
+            "categories": [
+                "Assets/Icons",
+                "Assets/Illustrations"
+            ],
+            "description": "We provide visuals for busy designers. Visiwig is a place to find design inspiration, explore creative tools, and shop for timesaving graphics.",
+            "links": {
+                "Website": "https://www.visiwig.com/"
+            },
+            "icon": "https://www.visiwig.com/favicon-32x32.png"
         }
     ],
     "jobs/boards": [
@@ -39911,22 +40539,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.swapi.tech"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All things Star Wars",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://swapi.dev/"
             },
             "public_api_fields": {
@@ -39936,6 +40548,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All the Star Wars data you've ever wanted",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.swapi.tech"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All things Star Wars",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -44392,6 +45020,17 @@ module.exports = {
             "icon": "https://opensource.builders/icons/icon-96x96.png?v=e7a352862c009ec6682391b2e58d6469"
         },
         {
+            "name": "Optimizeimages",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.",
+            "links": {
+                "Website": "https://www.optimizeimages.com"
+            },
+            "icon": "https://www.optimizeimages.com/favicon.ico"
+        },
+        {
             "name": "RapidAPI",
             "categories": [
                 "Tools & Utilities/API Building",
@@ -44490,6 +45129,17 @@ module.exports = {
                 "GitHub": "https://github.com/ritz078/transform",
                 "Website": "https://transform.tools"
             }
+        },
+        {
+            "name": "TshirtDesigns",
+            "categories": [
+                "Tools & Utilities/General"
+            ],
+            "description": "An apparel and tshirt design mockup generator plus a marketplace of t-shirt designs.",
+            "links": {
+                "Website": "https://www.tshirtdesigns.com/mockups"
+            },
+            "icon": "https://www.bypeople.com/wp-content/themes/bppl-alpha/assets/images/v2/favicon-32x32.png"
         },
         {
             "name": "Untools",
@@ -44815,22 +45465,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "public_api_fields": {
@@ -44840,6 +45474,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Facts about numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -45429,6 +46079,17 @@ module.exports = {
                 "Website": "https://www.uplabs.com/"
             },
             "icon": "https://www.uplabs.com/logos/uplabs/icons/favicon-96x96.png"
+        },
+        {
+            "name": "Vector Illustrations",
+            "categories": [
+                "Assets/Illustrations"
+            ],
+            "description": "Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.",
+            "links": {
+                "Website": "https://www.artify.co/vector-illustrations"
+            },
+            "icon": "https://www.artify.co/images/landing/favicon.png"
         },
         {
             "name": "Visiwig",
@@ -50844,612 +51505,6 @@ module.exports = {
             "icon": "https://xstyled.dev/favicon-32x32.png?v=35747667c057871bf481acaf8d249528"
         }
     ],
-    "assets/icons": [
-        {
-            "name": "Bootstrap",
-            "categories": [
-                "Programming/UI Kits & Libraries",
-                "Assets/Icons"
-            ],
-            "description": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.",
-            "links": {
-                "Website": "https://getbootstrap.com/"
-            },
-            "icon": "https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png"
-        },
-        {
-            "name": "Boxicons",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.",
-            "keywords": [
-                "boxicons",
-                "free icons",
-                "open source icons",
-                "royalty free icons",
-                "google icons",
-                "icon",
-                "line icon",
-                "sharp icon",
-                "material icons",
-                "premium icons",
-                "pixel perfect icons",
-                "open source icons",
-                "free icon set"
-            ],
-            "links": {
-                "Website": "https://boxicons.com/"
-            },
-            "icon": "https://boxicons.com/static/favicon.ico?v=13"
-        },
-        {
-            "name": "CoreUI",
-            "categories": [
-                "Programming/Templates",
-                "Assets/Icons"
-            ],
-            "description": "Time is our most valuable asset, that’s why we want to help you save it by creating simple, customizable, easy to learn UI components and Admin Templates which significantly cut development time. CoreUI lets you save thousands of priceless hours because it offers everything you need to create modern, beautiful, and responsive applications.",
-            "links": {
-                "Website": "https://coreui.io/"
-            },
-            "icon": "https://coreui.io/images/favicons/favicon-96x96.png"
-        },
-        {
-            "name": "css.gg",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Pure CSS icons library, Customizable & Retina-Ready built 100% in pure CSS, SVG, SVG Sprite, styled-components, Figma and Adobe XD. Easy integration: Embed, NPM & API.",
-            "links": {
-                "Website": "https://css.gg/"
-            },
-            "icon": "https://css.gg/fav/favicon-96x96.png"
-        },
-        {
-            "name": "Feather",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.",
-            "links": {
-                "Website": "https://feathericons.com/"
-            },
-            "icon": "https://feathericons.com/favicon-32x32.png"
-        },
-        {
-            "name": "Flaticon",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Download all icons in SVG, PSD, PNG, EPS format or as webfonts.",
-            "links": {
-                "Website": "https://www.flaticon.com"
-            },
-            "icon": "https://media.flaticon.com/dist/min/img/apple-icon-76x76-precomposed.png"
-        },
-        {
-            "name": "Font Awesome",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "The world’s most popular and easiest to use icon set just got an upgrade. More icons. More styles. More Options.",
-            "keywords": [
-                "icons",
-                "vector icons",
-                "svg icons",
-                "free icons",
-                "icon font",
-                "webfont",
-                "desktop icons",
-                "svg",
-                "font awesome",
-                "font awesome free",
-                "font awesome pro"
-            ],
-            "links": {
-                "Website": "https://fontawesome.com"
-            },
-            "icon": "https://fontawesome.com/images/favicon/icon.svg"
-        },
-        {
-            "name": "Freeicons",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Freeicons is  a free platform for download vector icons in SVG, PNG, EPS, AI and PSD format. Here You'll Find Wide Selection Of Icons In A Variety Of Different Styles, Sizes, Formats And Themes. All Of These Icon Sets Are Completely Free For Personal and Commercial Use Under Our Iconshock License. Enjoy!",
-            "keywords": [
-                "vector icons",
-                "download free icons",
-                "free icons",
-                "free vector icons",
-                "free icons for commercial use",
-                "free svg icons",
-                "free eps and ai icons",
-                "free psd icons",
-                "windows 8 icons",
-                "metro icons",
-                "iphone tab bar icons",
-                "android icons",
-                "material icons",
-                "monochrome icons",
-                "icon pack",
-                "windows 10 icons",
-                "pack",
-                "icons for iOS 11",
-                "iPhone icons",
-                "iPad icons",
-                "material icons",
-                "office style icons"
-            ],
-            "links": {
-                "Website": "https://freeicons.io/"
-            },
-            "icon": "https://freeicons.io/asset/images/favicon.png"
-        },
-        {
-            "name": "Heroicons",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
-            "links": {
-                "Website": "https://heroicons.com/"
-            },
-            "icon": "https://heroicons.com/_next/static/media/favicon-32x32.eee32601ba9d4702f841835990ed3801.png"
-        },
-        {
-            "name": "Icon Horse",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Free, easy to use, highest resolution possible favicons for any web site – including fallbacks if none are found.",
-            "keywords": [
-                "favicons",
-                "logo icons",
-                "web icons",
-                "logos",
-                "site logos"
-            ],
-            "links": {
-                "Website": "https://icon.horse",
-                "Twitter": "https://twitter.com/iconhorse"
-            },
-            "icon": "https://icon.horse/icon/icon.horse"
-        },
-        {
-            "name": "iconmonstr",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Free simple icons for your next project.",
-            "links": {
-                "Website": "https://iconmonstr.com"
-            },
-            "icon": "https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico"
-        },
-        {
-            "name": "Icons8",
-            "categories": [
-                "Assets/Icons",
-                "Assets/Illustrations",
-                "Assets/Images",
-                "Assets/Audio"
-            ],
-            "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos.",
-            "links": {
-                "Website": "https://icons8.com"
-            },
-            "icon": "https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png"
-        },
-        {
-            "name": "Iconscout",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Pixel-perfect vector icons and Icon Fonts available in Line, Monochrome, and Solid style for your next project.",
-            "links": {
-                "Website": "https://iconscout.com/unicons"
-            },
-            "icon": "https://iconscout.com/favicon-96x96.png"
-        },
-        {
-            "name": "Iconshock",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Free icons and premium icon packs.  Flat icons, Material icons, Glyph icons, iOS icons, Font icons, and more design styles. Vector files, including PNG and SVG icons. Ready for apps, web or social media projects.",
-            "keywords": [
-                "web icons",
-                "web icon set",
-                "web icon",
-                "professional icons",
-                "software  web icons",
-                "web icons vista",
-                "xp web icons",
-                "windows vista icons",
-                "windows icons",
-                "vector icons",
-                "vector web icons",
-                "application icons",
-                "java web icons",
-                "video icons",
-                "business icons",
-                "multimedia icons",
-                "accounting icons",
-                "web icon packs",
-                "web icone"
-            ],
-            "links": {
-                "Website": "https://www.iconshock.com/"
-            },
-            "icon": "https://www.iconshock.com/img/favicon.ico"
-        },
-        {
-            "name": "IconSweets",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "IconSweets is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.",
-            "links": {
-                "Website": "https://www.designbombs.com/iconsweets2/"
-            },
-            "icon": "https://www.designbombs.com/iconsweets2/favicon-96x96.png"
-        },
-        {
-            "name": "Icônes",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Icon Explorer with Instant searching, powered by Iconify",
-            "links": {
-                "Website": "https://icones.netlify.app/"
-            },
-            "icon": "https://icones.netlify.app/favicon.svg"
-        },
-        {
-            "name": "Jam",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "890+ handcrafted SVG icons to make your web app awesome.",
-            "links": {
-                "Website": "https://jam-icons.com/"
-            },
-            "icon": "https://jam-icons.com/icons/icon-96x96.png?v=15da575dd058a8724fe062f4043331c8"
-        },
-        {
-            "name": "Line Icon Pack",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "320+ Line Icon Pack - Custom stroke edition is an icon-based system for your design tool. This is the version with editable strokes to fits more complex your needs.",
-            "links": {
-                "Website": "https://www.petrbilek.com/products/line-icon-pack"
-            },
-            "icon": "https://uploads-ssl.webflow.com/5f436c086896715b56896fe4/5f469cf033aa724e20dc01dd_fav-256.svg"
-        },
-        {
-            "name": "LineIcons",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "2000+ Essential Line Icons, A Complete Yet Most Simplified Free Line Icon Pack of the Web - Available in WebFont, SVG, PNG, React, PNG, and PDF Files.",
-            "links": {
-                "Website": "https://lineicons.com/"
-            },
-            "icon": "https://user-images.githubusercontent.com/76911582/137953217-de9272df-bdbb-4c5f-9307-f5fb58839cf7.png"
-        },
-        {
-            "name": "Material Design",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Get Material Icons.",
-            "links": {
-                "Website": "https://material.io/resources/icons"
-            },
-            "icon": "https://material.io/favicon.ico"
-        },
-        {
-            "name": "Noun Project",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
-            "links": {
-                "Website": "https://thenounproject.com/"
-            },
-            "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png"
-        },
-        {
-            "name": "OnlineWebFonts",
-            "categories": [
-                "Assets/Icons",
-                "Assets/Fonts"
-            ],
-            "description": "Fonts and icons for your next project.",
-            "keywords": [
-                "SVG icon",
-                "svg vector icons",
-                "png icon",
-                "psd vector icons",
-                "eps icon",
-                "pnm icon",
-                "free icons downloads",
-                "Best Fonts",
-                "Free Best Fonts",
-                "Top Free Font",
-                "Best Font Download",
-                "Top Best Font Dwonload"
-            ],
-            "links": {
-                "Website": "https://www.onlinewebfonts.com"
-            },
-            "icon": "https://www.onlinewebfonts.com/favicon.ico"
-        },
-        {
-            "name": "Orion",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "The best Icon Tool. 8613 Free SVG & PNG Icons. Search, organize, edit and download our highly flexible Icons.",
-            "links": {
-                "Website": "https://orioniconlibrary.com/"
-            },
-            "icon": "https://orioniconlibrary.com/icon-ios.png"
-        },
-        {
-            "name": "Pixel Love",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Download 15,000 icons in 6 distictive styles made for professionals.",
-            "keywords": [
-                "icons",
-                "line icons",
-                "vector icons",
-                "iOS icons",
-                "Android icons"
-            ],
-            "links": {
-                "Website": "https://www.pixellove.com/"
-            },
-            "icon": "https://www.pixellove.com/assets/favicons/favicon.ico"
-        },
-        {
-            "name": "Remix Icon",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.",
-            "keywords": [
-                "remix-icon",
-                "icon",
-                "svg",
-                "icon-font",
-                "icon-pack"
-            ],
-            "links": {
-                "Website": "https://remixicon.com/"
-            },
-            "icon": "https://remixicon.com/favicon.ico"
-        },
-        {
-            "name": "Shape",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "26000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.",
-            "keywords": [
-                "icons",
-                "illustrations",
-                "library",
-                "animated icons",
-                "user interface",
-                "design",
-                "Figma",
-                "sketchapp",
-                "animated illustrations",
-                "svg",
-                "shape",
-                "downloads",
-                "ui templates",
-                "react",
-                "lottie files",
-                "image assets",
-                "design tool",
-                "editor",
-                "styles",
-                "JSON",
-                "Design+Code",
-                "export code",
-                "presets"
-            ],
-            "links": {
-                "Website": "https://shape.so/"
-            },
-            "icon": "https://shape.so/icons/icon-96x96.png?v=02f20638ec82f2f55585292e7c6c27ce"
-        },
-        {
-            "name": "Shutterstock",
-            "categories": [
-                "Assets/Videos",
-                "Assets/Images",
-                "Assets/Icons"
-            ],
-            "description": "Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.",
-            "links": {
-                "Website": "https://www.shutterstock.com/"
-            },
-            "icon": "https://ak.picdn.net/assets/cms/sstk-favicon-72.png"
-        },
-        {
-            "name": "Simple Icons",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "1493 Free SVG icons for popular brands.",
-            "links": {
-                "Website": "http://simpleicons.org/"
-            },
-            "icon": "https://simpleicons.org/images/apple-touch-icon.png"
-        },
-        {
-            "name": "Smashicons",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Download the world's largest and most complete icon set. Smashicons includes over 335,975 icons for Designers and Developers.",
-            "keywords": [
-                "free icons",
-                "vector icon",
-                "SVG",
-                "png icon",
-                "free Ui kits",
-                "free fonts",
-                "illustrations",
-                "graphic resources",
-                "free graphic templates",
-                "wireframes",
-                "icons",
-                "icon font",
-                "ios icons",
-                "iphone tab bar icons",
-                "download free icons",
-                "@3x icons",
-                "iOS 8 icons",
-                "developer tools",
-                "iPhone toolbars",
-                "Apple HIG",
-                "icon designer",
-                "monochrome icons",
-                "buy icon pack",
-                "pack",
-                "icons for iOS 8",
-                "buy iPhone icons",
-                "iPad icons",
-                "free icons",
-                "vector icon",
-                "SVG",
-                "png icon",
-                "AI",
-                "Sketch",
-                "Illustrator icons",
-                "free and premium",
-                "UI kits",
-                "free fonts",
-                "illustrations",
-                "graphic resources",
-                "free graphic templates",
-                "wireframes",
-                "Free graphic resources",
-                "free patterns"
-            ],
-            "links": {
-                "Website": "https://smashicons.com"
-            },
-            "icon": "https://smashicons.com/assets/img/favicon/new/favicon-96x96.png"
-        },
-        {
-            "name": "Smplkit",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "An open source, do-whatever-you-want icon font to use in your projects.",
-            "links": {
-                "Website": "https://www.smplkit.com/"
-            },
-            "icon": "https://uploads-ssl.webflow.com/5e08877ced2a2771907388a9/5e2d9bc8d2e0671a88b1658b_smplkit-icon-3.png"
-        },
-        {
-            "name": "Streamline Icons",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "Download 30,000 free PNG icons for website, web app, software, web design. Buy our SVG vector icon pack, the world’s largest icon library for professionals.",
-            "keywords": [
-                "Free icons",
-                "Download icons",
-                "Web icons",
-                "Vector",
-                "SVG",
-                "Royalty free icons",
-                "Open source icons",
-                "Professional icons",
-                "icon pack",
-                "iOs icons"
-            ],
-            "links": {
-                "Website": "https://streamlineicons.com/"
-            },
-            "icon": "https://uploads-ssl.webflow.com/5f59339c01fc322b69869dd9/5f5936ce192739ad632da855_bubble-white-32.png"
-        },
-        {
-            "name": "SVGBox",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "SVGBox allows you to add any of the 3,405 icons we have to your project by using simple tags. Instead of using downloading and uploading icons, simply copy tag and start using it. We are constantly adding more and more icons to serve different use cases.",
-            "links": {
-                "Website": "https://svgbox.net/"
-            },
-            "icon": "https://svgbox.net/assets/favicon.svg"
-        },
-        {
-            "name": "Tabler Icons",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "description": "800+ Highly customizable & free SVG icons.",
-            "links": {
-                "Website": "https://tablericons.com/"
-            },
-            "icon": "https://tablericons.com/favicon.png"
-        },
-        {
-            "name": "UI HUT",
-            "categories": [
-                "UI Design/Inspiration",
-                "Assets/Icons",
-                "Assets/Illustrations"
-            ],
-            "description": "Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices.",
-            "links": {
-                "Website": "https://www.uihut.com/",
-                "Twitter": "https://twitter.com/uihutofficial",
-                "Facebook": "https://www.facebook.com/uihutofficial",
-                "Instagram": "https://www.instagram.com/uihutofficial/",
-                "LinkedIn": "https://www.linkedin.com/company/uihutofficial"
-            },
-            "icon": "https://www.uihut.com/favicon.jpg"
-        },
-        {
-            "name": "UpLabs",
-            "categories": [
-                "Assets/Illustrations",
-                "Assets/Icons",
-                "UI Design/Inspiration"
-            ],
-            "description": "UpLabs curates the best of design & development inspiration, resources and freebies. Every day!",
-            "links": {
-                "Website": "https://www.uplabs.com/"
-            },
-            "icon": "https://www.uplabs.com/logos/uplabs/icons/favicon-96x96.png"
-        },
-        {
-            "name": "Visiwig",
-            "categories": [
-                "Assets/Icons",
-                "Assets/Illustrations"
-            ],
-            "description": "We provide visuals for busy designers. Visiwig is a place to find design inspiration, explore creative tools, and shop for timesaving graphics.",
-            "links": {
-                "Website": "https://www.visiwig.com/"
-            },
-            "icon": "https://www.visiwig.com/favicon-32x32.png"
-        }
-    ],
     "programming/docs-and-cheatsheets": [
         {
             "name": "Bootstrap 5 Cheatsheet",
@@ -53554,17 +53609,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "Codepen radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-        },
-        {
             "name": "CodePen Radio",
             "categories": [
                 "Programming/Podcasts"
@@ -53574,6 +53618,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://blog.codepen.io/favicon.ico"
+        },
+        {
+            "name": "Codepen radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
         },
         {
             "name": "Commit Your Code!",
