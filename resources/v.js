@@ -102,4 +102,14 @@ module.exports = [
         },
         icon: 'https://vuejobs.com/img/favicon/favicon-96x96.png',
     },
+    {
+        name: 'Vector Illustrations',
+        categories: [assets.illustrations],
+        description:
+            'Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.',
+        links: {
+            [website]: 'https://www.artify.co/vector-illustrations',
+        },
+        icon: 'https://www.artify.co/images/landing/favicon.png',
+    },
 ]
