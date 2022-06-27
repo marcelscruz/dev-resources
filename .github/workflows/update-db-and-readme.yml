@@ -2,9 +2,9 @@ name: Update DB and README
 
 on:
     push: { branches: main }
-    schedule:
-        # Every day at 00:00AM
-        - cron: '0 0 * * *'
+    # schedule:
+    #     # Every day at 00:00AM
+    #     - cron: '0 0 * * *'
     workflow_dispatch:
 
 jobs:
@@ -17,5 +17,5 @@ jobs:
             - run: npm run update-db
             - run: npm run update-readme
             - run: git add .
-            - run: git commit -m "Auto updating db and README.md"
+            - run: git commit -m "Auto updating db and README.md" || echo "Nothing to commit"
             - run: git push origin HEAD:main
