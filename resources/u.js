@@ -6,6 +6,7 @@ const {
     infrastructure,
     jobs,
     community,
+    indieHacking,
 } = require('../constants/categories')
 const { website, twitter, facebook, instagram, linkedin, github } = require('../constants/links')
 
@@ -267,6 +268,17 @@ module.exports = [
             [website]: 'https://usehooks.com/',
         },
         icon: 'https://usehooks.com/favicon.ico',
+    },
+    {
+        name: 'UserBooster',
+        categories: [indieHacking.marketing],
+        description:
+            'UserBooster is a Notion template that helps startups to get their first users and build their launch strategy',
+        links: {
+            [website]: 'https://userbooster.co',
+            [twitter]: 'https://twitter.com/userbooster_',
+        },
+        icon: 'https://userbooster.co/images/home/share.jpg',
     },
     {
         name: 'UXfolio',
