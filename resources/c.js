@@ -189,6 +189,16 @@ module.exports = [
         icon: 'https://www.google.com/chrome/static/images/favicons/favicon-96x96.png',
     },
     {
+        name: 'Circum Icons',
+        categories: [assets.icons],
+        description:
+            'Consistent open source icons as SVG for React, Vue and Svelte.',
+        links: {
+            [website]: 'https://circumicons.com/',
+        },
+        icon: 'https://circumicons.com/favicon_light.png',
+    },
+    {
         name: 'Clerk.dev',
         categories: [infrastructure.auth],
         description:
