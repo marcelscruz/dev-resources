@@ -1890,22 +1890,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Books"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://bhagavadgita.io/api"
             },
             "public_api_fields": {
@@ -1915,6 +1899,22 @@ module.exports = {
             },
             "name": "Bhagavad Gita",
             "description": "Bhagavad Gita text",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Books"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://docs.bhagavadgitaapi.in"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Books"
@@ -3874,22 +3874,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://cloudmersive.com/phone-number-validation-API"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate international phone numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Phone"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://cloudmersive.com/validate-api"
             },
             "public_api_fields": {
@@ -3902,6 +3886,22 @@ module.exports = {
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Email"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://cloudmersive.com/phone-number-validation-API"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate international phone numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Phone"
             ]
         },
         {
@@ -4706,22 +4706,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://covid19api.com/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Health"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "public_api_fields": {
@@ -4731,6 +4715,22 @@ module.exports = {
             },
             "name": "Covid-19",
             "description": "Covid 19 cases, deaths and recovery per country",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Health"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://covid19api.com/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Covid-19",
+            "description": "Covid 19 spread, infection and recovery",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Health"
@@ -13714,22 +13714,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "public_api_fields": {
@@ -13739,6 +13723,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Facts about numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -16434,22 +16434,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.qrtag.net/api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Development"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "public_api_fields": {
@@ -16459,6 +16443,22 @@ module.exports = {
             },
             "name": "QR code",
             "description": "Generate and decode / read QR code graphics",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.qrtag.net/api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
@@ -18658,22 +18658,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Steam",
-            "description": "Internal Steam Web API documentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://steamapi.xpaw.me/"
             },
             "public_api_fields": {
@@ -18683,6 +18667,22 @@ module.exports = {
             },
             "name": "Steam",
             "description": "Steam Web API documentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Steam",
+            "description": "Internal Steam Web API documentation",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
@@ -27260,22 +27260,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.qrtag.net/api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "QR code",
-            "description": "Create an easy to read QR code and URL shortener",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Development"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://goqr.me/api/"
             },
             "public_api_fields": {
@@ -27285,6 +27269,22 @@ module.exports = {
             },
             "name": "QR code",
             "description": "Generate and decode / read QR code graphics",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.qrtag.net/api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "QR code",
+            "description": "Create an easy to read QR code and URL shortener",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
@@ -27774,6 +27774,17 @@ module.exports = {
             "icon": "https://boxicons.com/static/favicon.ico?v=13"
         },
         {
+            "name": "Circum Icons",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "description": "Consistent open source icons as SVG for React, Vue and Svelte.",
+            "links": {
+                "Website": "https://circumicons.com/"
+            },
+            "icon": "https://circumicons.com/favicon_light.png"
+        },
+        {
             "name": "CoreUI",
             "categories": [
                 "Programming/Templates",
@@ -27945,17 +27956,6 @@ module.exports = {
         },
         {
             "name": "Iconshock",
-            "description": "The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "links": {
-                "Website": "https://www.iconshock.com/"
-            },
-            "icon": "https://www.iconshock.com/img/favicon.ico"
-        },
-        {
-            "name": "Iconshock",
             "categories": [
                 "Assets/Icons"
             ],
@@ -27980,6 +27980,17 @@ module.exports = {
                 "accounting icons",
                 "web icon packs",
                 "web icone"
+            ],
+            "links": {
+                "Website": "https://www.iconshock.com/"
+            },
+            "icon": "https://www.iconshock.com/img/favicon.ico"
+        },
+        {
+            "name": "Iconshock",
+            "description": "The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.",
+            "categories": [
+                "Assets/Icons"
             ],
             "links": {
                 "Website": "https://www.iconshock.com/"
@@ -30454,22 +30465,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Books"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://bhagavadgita.io/api"
             },
             "public_api_fields": {
@@ -30479,6 +30474,22 @@ module.exports = {
             },
             "name": "Bhagavad Gita",
             "description": "Bhagavad Gita text",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Books"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://docs.bhagavadgitaapi.in"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Books"
@@ -38297,22 +38308,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Steam",
-            "description": "Internal Steam Web API documentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://steamapi.xpaw.me/"
             },
             "public_api_fields": {
@@ -38322,6 +38317,22 @@ module.exports = {
             },
             "name": "Steam",
             "description": "Steam Web API documentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Steam",
+            "description": "Internal Steam Web API documentation",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
@@ -45487,22 +45498,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "public_api_fields": {
@@ -45512,6 +45507,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Facts about numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -53139,22 +53150,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://covid19api.com/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Covid-19",
-            "description": "Covid 19 spread, infection and recovery",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Health"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/M-Media-Group/Covid-19-API"
             },
             "public_api_fields": {
@@ -53164,6 +53159,22 @@ module.exports = {
             },
             "name": "Covid-19",
             "description": "Covid 19 cases, deaths and recovery per country",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Health"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://covid19api.com/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Covid-19",
+            "description": "Covid 19 spread, infection and recovery",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Health"

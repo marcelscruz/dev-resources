@@ -10,7 +10,7 @@
 
  Join us on [Discord](https://discord.gg/SHw6TmXreR).
 
- ### Total resources: 2133
+ ### Total resources: 2134
 
  ## Index
 <details><summary id="assets">Assets</summary><li><a href="#assets-audio">Audio</a></li><li><a href="#assets-fonts">Fonts</a></li><li><a href="#assets-icons">Icons</a></li><li><a href="#assets-illustrations">Illustrations</a></li><li><a href="#assets-images">Images</a></li><li><a href="#assets-logos">Logos</a></li><li><a href="#assets-videos">Videos</a></li></details><details><summary id="community">Community</summary><li><a href="#community-blogs-and-forums">Blogs & Forums</a></li><li><a href="#community-hacktoberfest">Hacktoberfest</a></li><li><a href="#community-personal-websites">Personal Websites</a></li></details><details><summary id="indie-hacking">Indie Hacking</summary><li><a href="#indie-hacking-books">Books</a></li><li><a href="#indie-hacking-marketing">Marketing</a></li><li><a href="#indie-hacking-platforms">Platforms</a></li><li><a href="#indie-hacking-podcasts">Podcasts</a></li><li><a href="#indie-hacking-utilities">Utilities</a></li></details><details><summary id="infrastructure">Infrastructure</summary><li><a href="#infrastructure-auth">Auth</a></li><li><a href="#infrastructure-cloud-computing">Cloud Computing</a></li><li><a href="#infrastructure-databases">Databases</a></li><li><a href="#infrastructure-hosting">Hosting</a></li><li><a href="#infrastructure-serverless">Serverless</a></li></details><details><summary id="jobs">Jobs</summary><li><a href="#jobs-boards">Boards</a></li><li><a href="#jobs-freelancing">Freelancing</a></li><li><a href="#jobs-interviews">Interviews</a></li><li><a href="#jobs-remote-only">Remote Only</a></li><li><a href="#jobs-resume-builders">Resume Builders</a></li></details><details><summary id="programming">Programming</summary><li><a href="#programming-books">Books</a></li><li><a href="#programming-charts">Charts</a></li><li><a href="#programming-code-challenges">Code Challenges</a></li><li><a href="#programming-code-generators">Code Generators</a></li><li><a href="#programming-code-snippets">Code Snippets</a></li><li><a href="#programming-docs-and-cheatsheets">Docs & Cheatsheets</a></li><details><summary id="programming-javascript">JavaScript</summary><li><a href="#programming-javascript-react">React</a></li><li><a href="#programming-javascript-tooling">Tooling</a></li><li><a href="#programming-javascript-utilities">Utilities</a></li></details><li><a href="#programming-learn">Learn</a></li><li><a href="#programming-newsletters">Newsletters</a></li><li><a href="#programming-podcasts">Podcasts</a></li><li><a href="#programming-templates">Templates</a></li><li><a href="#programming-testing">Testing</a></li><li><a href="#programming-ui-kits-and-libraries">UI Kits & Libraries</a></li><li><a href="#programming-youtube-channels">YouTube Channels</a></li></details><details><summary id="public-apis">Public APIs</summary><li><a href="#public-apis-all">All</a></li><li><a href="#public-apis-animals">Animals</a></li><li><a href="#public-apis-anime">Anime</a></li><li><a href="#public-apis-anti-malware">Anti-Malware</a></li><li><a href="#public-apis-art-and-design">Art & Design</a></li><li><a href="#public-apis-authentication-and-authorization">Authentication & Authorization</a></li><li><a href="#public-apis-blockchain">Blockchain</a></li><li><a href="#public-apis-books">Books</a></li><li><a href="#public-apis-business">Business</a></li><li><a href="#public-apis-calendar">Calendar</a></li><li><a href="#public-apis-cloud-storage-and-file-sharing">Cloud Storage & File Sharing</a></li><li><a href="#public-apis-continuous-integration">Continuous Integration</a></li><li><a href="#public-apis-cryptocurrency">Cryptocurrency</a></li><li><a href="#public-apis-currency-exchange">Currency Exchange</a></li><li><a href="#public-apis-data-validation">Data Validation</a></li><li><a href="#public-apis-development">Development</a></li><li><a href="#public-apis-dictionaries">Dictionaries</a></li><li><a href="#public-apis-documents-and-productivity">Documents & Productivity</a></li><li><a href="#public-apis-email">Email</a></li><li><a href="#public-apis-entertainment">Entertainment</a></li><li><a href="#public-apis-environment">Environment</a></li><li><a href="#public-apis-events">Events</a></li><li><a href="#public-apis-finance">Finance</a></li><li><a href="#public-apis-food-and-drink">Food & Drink</a></li><li><a href="#public-apis-games-and-comics">Games & Comics</a></li><li><a href="#public-apis-geocoding">Geocoding</a></li><li><a href="#public-apis-government">Government</a></li><li><a href="#public-apis-health">Health</a></li><li><a href="#public-apis-jobs">Jobs</a></li><li><a href="#public-apis-machine-learning">Machine Learning</a></li><li><a href="#public-apis-music">Music</a></li><li><a href="#public-apis-news">News</a></li><li><a href="#public-apis-open-data">Open Data</a></li><li><a href="#public-apis-open-source-projects">Open Source Projects</a></li><li><a href="#public-apis-patent">Patent</a></li><li><a href="#public-apis-personality">Personality</a></li><li><a href="#public-apis-phone">Phone</a></li><li><a href="#public-apis-photography">Photography</a></li><li><a href="#public-apis-programming">Programming</a></li><li><a href="#public-apis-science-and-math">Science & Math</a></li><li><a href="#public-apis-security">Security</a></li><li><a href="#public-apis-shopping">Shopping</a></li><li><a href="#public-apis-social">Social</a></li><li><a href="#public-apis-sports-and-fitness">Sports & Fitness</a></li><li><a href="#public-apis-test-data">Test Data</a></li><li><a href="#public-apis-text-analysis">Text Analysis</a></li><li><a href="#public-apis-tracking">Tracking</a></li><li><a href="#public-apis-transportation">Transportation</a></li><li><a href="#public-apis-url-shorteners">URL Shorteners</a></li><li><a href="#public-apis-vehicle">Vehicle</a></li><li><a href="#public-apis-video">Video</a></li><li><a href="#public-apis-weather">Weather</a></li></details><details><summary id="tools-and-utilities">Tools & Utilities</summary><li><a href="#tools-and-utilities-accessibility">Accessibility</a></li><li><a href="#tools-and-utilities-analytics">Analytics</a></li><li><a href="#tools-and-utilities-api-building">API Building</a></li><li><a href="#tools-and-utilities-browsers-and-extensions">Browsers & Extensions</a></li><li><a href="#tools-and-utilities-command-line">Command Line</a></li><li><a href="#tools-and-utilities-domains">Domains</a></li><li><a href="#tools-and-utilities-editors-and-extensions">Editors & Extensions</a></li><li><a href="#tools-and-utilities-general">General</a></li><li><a href="#tools-and-utilities-image-and-video-editing">Image & Video Editing</a></li><li><a href="#tools-and-utilities-performance">Performance</a></li><li><a href="#tools-and-utilities-seo">SEO</a></li><li><a href="#tools-and-utilities-typing">Typing</a></li><li><a href="#tools-and-utilities-web-scraping">Web Scraping</a></li><li><a href="#tools-and-utilities-website-builders">Website Builders</a></li><li><a href="#tools-and-utilities-writing">Writing</a></li></details><details><summary id="ui-design">UI Design</summary><li><a href="#ui-design-color">Color</a></li><li><a href="#ui-design-inspiration">Inspiration</a></li><li><a href="#ui-design-learn">Learn</a></li><li><a href="#ui-design-prototyping">Prototyping</a></li><li><a href="#ui-design-utilities">Utilities</a></li><li><a href="#ui-design-youtube-channels">YouTube Channels</a></li></details> 
@@ -52,6 +52,7 @@
  <img src="https://www.3dicons.com/vectoricons/logo/logoVectorIconsMixer.png" width="16" /> | 3dicons | A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views. | [Website](https://www.3dicons.com/) |  |
  <img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" width="16" /> | Bootstrap | Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons,... | [Website](https://getbootstrap.com/) |  |
  <img src="https://boxicons.com/static/favicon.ico?v=13" width="16" /> | Boxicons | Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines. | [Website](https://boxicons.com/) | boxicons, free icons, open source icons, royalty free icons, google icons, icon, line icon, sharp ic... |
+ <img src="https://circumicons.com/favicon_light.png" width="16" /> | Circum Icons | Consistent open source icons as SVG for React, Vue and Svelte. | [Website](https://circumicons.com/) |  |
  <img src="https://coreui.io/images/favicons/favicon-96x96.png" width="16" /> | CoreUI | Time is our most valuable asset, that’s why we want to help you save it by creating simple, customizable, easy to learn UI components and Admin Templates which significantly cut development time. Core... | [Website](https://coreui.io/) |  |
  <img src="https://css.gg/fav/favicon-96x96.png" width="16" /> | css.gg | Pure CSS icons library, Customizable & Retina-Ready built 100% in pure CSS, SVG, SVG Sprite, styled-components, Figma and Adobe XD. Easy integration: Embed, NPM & API. | [Website](https://css.gg/) |  |
  <img src="https://feathericons.com/favicon-32x32.png" width="16" /> | Feather | Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability. | [Website](https://feathericons.com/) |  |
@@ -63,8 +64,8 @@
  <img src="https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico" width="16" /> | iconmonstr | Free simple icons for your next project. | [Website](https://iconmonstr.com) |  |
  <img src="https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png" width="16" /> | Icons8 | Download design elements for free: icons, photos, vector illustrations, and music for your videos. | [Website](https://icons8.com) |  |
  <img src="https://iconscout.com/favicon-96x96.png" width="16" /> | Iconscout | Pixel-perfect vector icons and Icon Fonts available in Line, Monochrome, and Solid style for your next project. | [Website](https://iconscout.com/unicons) |  |
- <img src="https://www.iconshock.com/img/favicon.ico" width="16" /> | Iconshock | The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more. | [Website](https://www.iconshock.com/) |  |
  <img src="https://www.iconshock.com/img/favicon.ico" width="16" /> | Iconshock | Free icons and premium icon packs.  Flat icons, Material icons, Glyph icons, iOS icons, Font icons, and more design styles. Vector files, including PNG and SVG icons. Ready for apps, web or social med... | [Website](https://www.iconshock.com/) | web icons, web icon set, web icon, professional icons, software  web icons, web icons vista, xp web ... |
+ <img src="https://www.iconshock.com/img/favicon.ico" width="16" /> | Iconshock | The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more. | [Website](https://www.iconshock.com/) |  |
  <img src="https://www.designbombs.com/iconsweets2/favicon-96x96.png" width="16" /> | IconSweets | IconSweets is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects. | [Website](https://www.designbombs.com/iconsweets2/) |  |
  <img src="https://icones.netlify.app/favicon.svg" width="16" /> | Icônes | Icon Explorer with Instant searching, powered by Iconify | [Website](https://icones.netlify.app/) |  |
  <img src="https://jam-icons.com/icons/icon-96x96.png?v=15da575dd058a8724fe062f4043331c8" width="16" /> | Jam | 890+ handcrafted SVG icons to make your web app awesome. | [Website](https://jam-icons.com/) |  |
@@ -930,8 +931,8 @@
  &nbsp; | BCLaws | Access to the laws of British Columbia | [Website](https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html) |  |
  &nbsp; | Beeceptor | Build a mock Rest API endpoint in seconds | [Website](https://beeceptor.com/) |  |
  &nbsp; | Best Buy | Products, Buying Options, Categories, Recommendations, Stores and Commerce | [Website](https://bestbuyapis.github.io/api-documentation/#overview) |  |
- &nbsp; | Bhagavad Gita | Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi | [Website](https://docs.bhagavadgitaapi.in) |  |
  &nbsp; | Bhagavad Gita | Bhagavad Gita text | [Website](https://bhagavadgita.io/api) |  |
+ &nbsp; | Bhagavad Gita | Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi | [Website](https://docs.bhagavadgitaapi.in) |  |
  &nbsp; | Bhagavad Gita telugu | Bhagavad Gita API in telugu and odia languages | [Website](https://gita-api.vercel.app) |  |
  &nbsp; | Bible-api | Free Bible API with multiple languages | [Website](https://bible-api.com/) |  |
  &nbsp; | BIC-Boxtech | Container technical detail for the global container fleet | [Website](https://docs.bic-boxtech.org/) |  |
@@ -1054,8 +1055,8 @@
  &nbsp; | Cloudmersive | Image captioning, face recognition, NSFW classification | [Website](https://www.cloudmersive.com/image-recognition-and-processing-api) |  |
  &nbsp; | Cloudmersive Document and Data Conversion | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | [Website](https://cloudmersive.com/convert-api) |  |
  &nbsp; | Cloudmersive Natural Language Processing | Natural language processing and text analysis | [Website](https://www.cloudmersive.com/nlp-api) |  |
- &nbsp; | Cloudmersive Validate | Validate international phone numbers | [Website](https://cloudmersive.com/phone-number-validation-API) |  |
  &nbsp; | Cloudmersive Validate | Validate email addresses, phone numbers, VAT numbers and domain names | [Website](https://cloudmersive.com/validate-api) |  |
+ &nbsp; | Cloudmersive Validate | Validate international phone numbers | [Website](https://cloudmersive.com/phone-number-validation-API) |  |
  &nbsp; | Cloverly | API calculates the impact of common carbon-intensive activities in real time | [Website](https://www.cloverly.com/carbon-offset-documentation) |  |
  &nbsp; | CMS.gov | Access to the data from the CMS - medicare.gov | [Website](https://data.cms.gov/provider-data/) |  |
  &nbsp; | CO2 Offset | API calculates and validates the carbon footprint | [Website](https://co2offset.io/api.html) |  |
@@ -1106,8 +1107,8 @@
  &nbsp; | CountryStateCity | World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format | [Website](https://countrystatecity.in/) |  |
  &nbsp; | Covalent | Multi-blockchain data aggregator platform | [Website](https://www.covalenthq.com/docs/api/) |  |
  &nbsp; | Covid Tracking Project | Covid-19  data for the US | [Website](https://covidtracking.com/data/api/version-2) |  |
- &nbsp; | Covid-19 | Covid 19 spread, infection and recovery | [Website](https://covid19api.com/) |  |
  &nbsp; | Covid-19 | Covid 19 cases, deaths and recovery per country | [Website](https://github.com/M-Media-Group/Covid-19-API) |  |
+ &nbsp; | Covid-19 | Covid 19 spread, infection and recovery | [Website](https://covid19api.com/) |  |
  &nbsp; | Covid-19 Datenhub | Maps, datasets, applications and more in the context of COVID-19 | [Website](https://npgeo-corona-npgeo-de.hub.arcgis.com) |  |
  &nbsp; | Covid-19 Government Response | Government measures tracker to fight against the Covid-19 pandemic | [Website](https://covidtracker.bsg.ox.ac.uk) |  |
  &nbsp; | Covid-19 India | Covid 19 statistics state and district wise about cases, vaccinations, recovery within India | [Website](https://data.covid19india.org/) |  |
@@ -1669,8 +1670,8 @@
  &nbsp; | npm Registry | Query information about your favorite Node.js libraries programatically | [Website](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md) |  |
  &nbsp; | NPPES | National Plan & Provider Enumeration System, info on healthcare providers registered in US | [Website](https://npiregistry.cms.hhs.gov/registry/help-api) |  |
  &nbsp; | NPR One | Personalized news listening experience from NPR | [Website](http://dev.npr.org/api/) |  |
- &nbsp; | Numbers | Number of the day, random number, number facts and anything else you want to do with numbers | [Website](https://math.tools/api/numbers/) |  |
  &nbsp; | Numbers | Facts about numbers | [Website](http://numbersapi.com) |  |
+ &nbsp; | Numbers | Number of the day, random number, number facts and anything else you want to do with numbers | [Website](https://math.tools/api/numbers/) |  |
  &nbsp; | Nutritionix | Worlds largest verified nutrition database | [Website](https://developer.nutritionix.com/) |  |
  &nbsp; | ObjectCut | Image Background removal | [Website](https://objectcut.com/) |  |
  &nbsp; | Ocean Facts | Facts pertaining to the physical science of Oceanography | [Website](https://oceanfacts.herokuapp.com/) |  |
@@ -1839,8 +1840,8 @@
  &nbsp; | Pusher Beams | Push notifications for Android & iOS | [Website](https://pusher.com/beams) |  |
  &nbsp; | Puyo Nexus | Puyo Puyo information from Puyo Nexus Wiki | [Website](https://github.com/deltadex7/puyodb-api-deno) |  |
  &nbsp; | PVWatts | Energy production photovoltaic (PV) energy systems | [Website](https://developer.nrel.gov/docs/solar/pvwatts/v6/) |  |
- &nbsp; | QR code | Create an easy to read QR code and URL shortener | [Website](https://www.qrtag.net/api/) |  |
  &nbsp; | QR code | Generate and decode / read QR code graphics | [Website](http://goqr.me/api/) |  |
+ &nbsp; | QR code | Create an easy to read QR code and URL shortener | [Website](https://www.qrtag.net/api/) |  |
  &nbsp; | Qrcode Monkey | Integrate custom and unique looking QR codes into your system or workflow | [Website](https://www.qrcode-monkey.com/qr-code-api-with-logo/) |  |
  &nbsp; | Quarantine | Coronavirus API with free COVID-19 live updates | [Website](https://quarantine.country/coronavirus/api/) |  |
  &nbsp; | Queimadas INPE | Access to heat focus data (probable wildfire) | [Website](https://queimadas.dgi.inpe.br/queimadas/dados-abertos/) |  |
@@ -1978,8 +1979,8 @@
  &nbsp; | StackExchange | Q&A forum for developers | [Website](https://api.stackexchange.com/) |  |
  &nbsp; | STAPI | Information on all things Star Trek | [Website](http://stapi.co) |  |
  &nbsp; | Statically | A free CDN for developers | [Website](https://statically.io/) |  |
- &nbsp; | Steam | Internal Steam Web API documentation | [Website](https://github.com/Revadike/InternalSteamWebAPI/wiki) |  |
  &nbsp; | Steam | Steam Web API documentation | [Website](https://steamapi.xpaw.me/) |  |
+ &nbsp; | Steam | Internal Steam Web API documentation | [Website](https://github.com/Revadike/InternalSteamWebAPI/wiki) |  |
  &nbsp; | Steem | Blockchain-based blogging and social media website | [Website](https://developers.steem.io/) |  |
  &nbsp; | StockData | Real-Time, Intraday & Historical Market Data, News and Sentiment API | [Website](https://www.StockData.org) |  |
  &nbsp; | Stoicism Quote | Quotes about Stoicism | [Website](https://github.com/tlcheah2/stoic-quote-lambda-public-api) |  |
@@ -2375,8 +2376,8 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | A Bíblia Digital | Do not worry about managing the multiple versions of the Bible | [Website](https://www.abibliadigital.com.br/en) |  |
- &nbsp; | Bhagavad Gita | Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi | [Website](https://docs.bhagavadgitaapi.in) |  |
  &nbsp; | Bhagavad Gita | Bhagavad Gita text | [Website](https://bhagavadgita.io/api) |  |
+ &nbsp; | Bhagavad Gita | Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi | [Website](https://docs.bhagavadgitaapi.in) |  |
  &nbsp; | Bhagavad Gita telugu | Bhagavad Gita API in telugu and odia languages | [Website](https://gita-api.vercel.app) |  |
  &nbsp; | Bible-api | Free Bible API with multiple languages | [Website](https://bible-api.com/) |  |
  &nbsp; | British National Bibliography | Books | [Website](http://bnb.data.bl.uk/) |  |
@@ -2687,8 +2688,8 @@
  &nbsp; | ProxyCrawl | Scraping and crawling anticaptcha service | [Website](https://proxycrawl.com) |  |
  &nbsp; | ProxyKingdom | Rotating Proxy API that produces a working proxy on every request | [Website](https://proxykingdom.com) |  |
  &nbsp; | Pusher Beams | Push notifications for Android & iOS | [Website](https://pusher.com/beams) |  |
- &nbsp; | QR code | Create an easy to read QR code and URL shortener | [Website](https://www.qrtag.net/api/) |  |
  &nbsp; | QR code | Generate and decode / read QR code graphics | [Website](http://goqr.me/api/) |  |
+ &nbsp; | QR code | Create an easy to read QR code and URL shortener | [Website](https://www.qrtag.net/api/) |  |
  &nbsp; | Qrcode Monkey | Integrate custom and unique looking QR codes into your system or workflow | [Website](https://www.qrcode-monkey.com/qr-code-api-with-logo/) |  |
  &nbsp; | QuickChart | Generate chart and graph images | [Website](https://quickchart.io/) |  |
  &nbsp; | Random Stuff | Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed | [Website](https://api-docs.pgamerx.com/) |  |
@@ -3006,8 +3007,8 @@
  &nbsp; | Sakura CardCaptor | Sakura CardCaptor Cards Information | [Website](https://github.com/JessVel/sakura-card-captor-api) |  |
  &nbsp; | Scryfall | Magic: The Gathering database | [Website](https://scryfall.com/docs/api) |  |
  &nbsp; | SpaceTradersAPI | A playable inter-galactic space trading MMOAPI | [Website](https://spacetraders.io?rel=pub-apis) |  |
- &nbsp; | Steam | Internal Steam Web API documentation | [Website](https://github.com/Revadike/InternalSteamWebAPI/wiki) |  |
  &nbsp; | Steam | Steam Web API documentation | [Website](https://steamapi.xpaw.me/) |  |
+ &nbsp; | Steam | Internal Steam Web API documentation | [Website](https://github.com/Revadike/InternalSteamWebAPI/wiki) |  |
  &nbsp; | SuperHeroes | All SuperHeroes and Villains data from all universes under a single API | [Website](https://superheroapi.com) |  |
  &nbsp; | TCGdex | Multi languages Pokémon TCG Information | [Website](https://www.tcgdex.net/docs) |  |
  &nbsp; | Tebex | Tebex API for information about game purchases | [Website](https://docs.tebex.io/plugin/) |  |
@@ -3214,8 +3215,8 @@
  &nbsp; | Coronavirus | HTTP API for Latest Covid-19 Data | [Website](https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme) |  |
  &nbsp; | Coronavirus in the UK | UK Government coronavirus data, including deaths and cases by region | [Website](https://coronavirus.data.gov.uk/details/developers-guide) |  |
  &nbsp; | Covid Tracking Project | Covid-19  data for the US | [Website](https://covidtracking.com/data/api/version-2) |  |
- &nbsp; | Covid-19 | Covid 19 spread, infection and recovery | [Website](https://covid19api.com/) |  |
  &nbsp; | Covid-19 | Covid 19 cases, deaths and recovery per country | [Website](https://github.com/M-Media-Group/Covid-19-API) |  |
+ &nbsp; | Covid-19 | Covid 19 spread, infection and recovery | [Website](https://covid19api.com/) |  |
  &nbsp; | Covid-19 Datenhub | Maps, datasets, applications and more in the context of COVID-19 | [Website](https://npgeo-corona-npgeo-de.hub.arcgis.com) |  |
  &nbsp; | Covid-19 Government Response | Government measures tracker to fight against the Covid-19 pandemic | [Website](https://covidtracker.bsg.ox.ac.uk) |  |
  &nbsp; | Covid-19 India | Covid 19 statistics state and district wise about cases, vaccinations, recovery within India | [Website](https://data.covid19india.org/) |  |
@@ -3529,8 +3530,8 @@
  &nbsp; | NASA ADS | NASA Astrophysics Data System | [Website](https://ui.adsabs.harvard.edu/help/api/api-docs.html) |  |
  &nbsp; | Newton | Symbolic and Arithmetic Math Calculator | [Website](https://newton.vercel.app) |  |
  &nbsp; | Noctua | REST API used to access NoctuaSky features | [Website](https://api.noctuasky.com/api/v1/swaggerdoc/) |  |
- &nbsp; | Numbers | Number of the day, random number, number facts and anything else you want to do with numbers | [Website](https://math.tools/api/numbers/) |  |
  &nbsp; | Numbers | Facts about numbers | [Website](http://numbersapi.com) |  |
+ &nbsp; | Numbers | Number of the day, random number, number facts and anything else you want to do with numbers | [Website](https://math.tools/api/numbers/) |  |
  &nbsp; | Ocean Facts | Facts pertaining to the physical science of Oceanography | [Website](https://oceanfacts.herokuapp.com/) |  |
  &nbsp; | Open Notify | ISS astronauts, current location, etc | [Website](http://open-notify.org/Open-Notify-API/) |  |
  &nbsp; | Open Science Framework | Repository and archive for study designs, research materials, data, manuscripts, etc | [Website](https://developer.osf.io) |  |
