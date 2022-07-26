@@ -459,4 +459,14 @@ module.exports = [
         },
         icon: 'https://responsivedesign.is/wp-content/themes/rwd-is/favicon-32x32.png',
     },
+    {
+        name: 'React Free Admin',
+        categories: [programming.javascript.react],
+        description:
+            'Download Free React and NextJs Admin Dashboard Templates',
+        links: {
+            [website]: 'https://www.wrappixel.com/templates/category/react-templates/',
+        },
+        icon: 'https://www.wrappixel.com/wp-content/uploads/2019/01/favicon.png',
+    },
 ]
