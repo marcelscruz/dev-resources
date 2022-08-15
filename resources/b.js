@@ -404,4 +404,22 @@ module.exports = [
         },
         icon: 'https://www.bypeople.com/wp-content/themes/bppl-alpha/assets/images/v2/favicon-32x32.png',
     },
+    {
+        name: 'Beautiful CSS box-shadow examples',
+        categories: [programming.codeSnippets, uiDesign.utilities, toolsAndUtilities.general, programming.learn],
+        description: '🎨 Curated collection of 90+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.',
+        links: {
+            [website]: 'https://getcssscan.com/css-box-shadow-examples',
+        },
+        icon: 'https://getcssscan.com/favicon-32x32.png',
+    },
+    {
+        name: 'Beautiful CSS buttons examples',
+        categories: [programming.codeSnippets, uiDesign.utilities, toolsAndUtilities.general, programming.learn],
+        description: '🎨 Curated collection of 80+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.',
+        links: {
+            [website]: 'https://getcssscan.com/css-buttons-examples',
+        },
+        icon: 'https://getcssscan.com/favicon-32x32.png',
+    },
 ]
