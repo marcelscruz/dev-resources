@@ -10,7 +10,7 @@
 
  Join us on [Discord](https://discord.gg/SHw6TmXreR).
 
- ### Total resources: 2134
+ ### Total resources: 2140
 
  ## Index
 <details><summary id="assets">Assets</summary><li><a href="#assets-audio">Audio</a></li><li><a href="#assets-fonts">Fonts</a></li><li><a href="#assets-icons">Icons</a></li><li><a href="#assets-illustrations">Illustrations</a></li><li><a href="#assets-images">Images</a></li><li><a href="#assets-logos">Logos</a></li><li><a href="#assets-videos">Videos</a></li></details><details><summary id="community">Community</summary><li><a href="#community-blogs-and-forums">Blogs & Forums</a></li><li><a href="#community-hacktoberfest">Hacktoberfest</a></li><li><a href="#community-personal-websites">Personal Websites</a></li></details><details><summary id="indie-hacking">Indie Hacking</summary><li><a href="#indie-hacking-books">Books</a></li><li><a href="#indie-hacking-marketing">Marketing</a></li><li><a href="#indie-hacking-platforms">Platforms</a></li><li><a href="#indie-hacking-podcasts">Podcasts</a></li><li><a href="#indie-hacking-utilities">Utilities</a></li></details><details><summary id="infrastructure">Infrastructure</summary><li><a href="#infrastructure-auth">Auth</a></li><li><a href="#infrastructure-cloud-computing">Cloud Computing</a></li><li><a href="#infrastructure-databases">Databases</a></li><li><a href="#infrastructure-hosting">Hosting</a></li><li><a href="#infrastructure-serverless">Serverless</a></li></details><details><summary id="jobs">Jobs</summary><li><a href="#jobs-boards">Boards</a></li><li><a href="#jobs-freelancing">Freelancing</a></li><li><a href="#jobs-interviews">Interviews</a></li><li><a href="#jobs-remote-only">Remote Only</a></li><li><a href="#jobs-resume-builders">Resume Builders</a></li></details><details><summary id="programming">Programming</summary><li><a href="#programming-books">Books</a></li><li><a href="#programming-charts">Charts</a></li><li><a href="#programming-code-challenges">Code Challenges</a></li><li><a href="#programming-code-generators">Code Generators</a></li><li><a href="#programming-code-snippets">Code Snippets</a></li><li><a href="#programming-docs-and-cheatsheets">Docs & Cheatsheets</a></li><details><summary id="programming-javascript">JavaScript</summary><li><a href="#programming-javascript-react">React</a></li><li><a href="#programming-javascript-tooling">Tooling</a></li><li><a href="#programming-javascript-utilities">Utilities</a></li></details><li><a href="#programming-learn">Learn</a></li><li><a href="#programming-newsletters">Newsletters</a></li><li><a href="#programming-podcasts">Podcasts</a></li><li><a href="#programming-templates">Templates</a></li><li><a href="#programming-testing">Testing</a></li><li><a href="#programming-ui-kits-and-libraries">UI Kits & Libraries</a></li><li><a href="#programming-youtube-channels">YouTube Channels</a></li></details><details><summary id="public-apis">Public APIs</summary><li><a href="#public-apis-all">All</a></li><li><a href="#public-apis-animals">Animals</a></li><li><a href="#public-apis-anime">Anime</a></li><li><a href="#public-apis-anti-malware">Anti-Malware</a></li><li><a href="#public-apis-art-and-design">Art & Design</a></li><li><a href="#public-apis-authentication-and-authorization">Authentication & Authorization</a></li><li><a href="#public-apis-blockchain">Blockchain</a></li><li><a href="#public-apis-books">Books</a></li><li><a href="#public-apis-business">Business</a></li><li><a href="#public-apis-calendar">Calendar</a></li><li><a href="#public-apis-cloud-storage-and-file-sharing">Cloud Storage & File Sharing</a></li><li><a href="#public-apis-continuous-integration">Continuous Integration</a></li><li><a href="#public-apis-cryptocurrency">Cryptocurrency</a></li><li><a href="#public-apis-currency-exchange">Currency Exchange</a></li><li><a href="#public-apis-data-validation">Data Validation</a></li><li><a href="#public-apis-development">Development</a></li><li><a href="#public-apis-dictionaries">Dictionaries</a></li><li><a href="#public-apis-documents-and-productivity">Documents & Productivity</a></li><li><a href="#public-apis-email">Email</a></li><li><a href="#public-apis-entertainment">Entertainment</a></li><li><a href="#public-apis-environment">Environment</a></li><li><a href="#public-apis-events">Events</a></li><li><a href="#public-apis-finance">Finance</a></li><li><a href="#public-apis-food-and-drink">Food & Drink</a></li><li><a href="#public-apis-games-and-comics">Games & Comics</a></li><li><a href="#public-apis-geocoding">Geocoding</a></li><li><a href="#public-apis-government">Government</a></li><li><a href="#public-apis-health">Health</a></li><li><a href="#public-apis-jobs">Jobs</a></li><li><a href="#public-apis-machine-learning">Machine Learning</a></li><li><a href="#public-apis-music">Music</a></li><li><a href="#public-apis-news">News</a></li><li><a href="#public-apis-open-data">Open Data</a></li><li><a href="#public-apis-open-source-projects">Open Source Projects</a></li><li><a href="#public-apis-patent">Patent</a></li><li><a href="#public-apis-personality">Personality</a></li><li><a href="#public-apis-phone">Phone</a></li><li><a href="#public-apis-photography">Photography</a></li><li><a href="#public-apis-programming">Programming</a></li><li><a href="#public-apis-science-and-math">Science & Math</a></li><li><a href="#public-apis-security">Security</a></li><li><a href="#public-apis-shopping">Shopping</a></li><li><a href="#public-apis-social">Social</a></li><li><a href="#public-apis-sports-and-fitness">Sports & Fitness</a></li><li><a href="#public-apis-test-data">Test Data</a></li><li><a href="#public-apis-text-analysis">Text Analysis</a></li><li><a href="#public-apis-tracking">Tracking</a></li><li><a href="#public-apis-transportation">Transportation</a></li><li><a href="#public-apis-url-shorteners">URL Shorteners</a></li><li><a href="#public-apis-vehicle">Vehicle</a></li><li><a href="#public-apis-video">Video</a></li><li><a href="#public-apis-weather">Weather</a></li></details><details><summary id="tools-and-utilities">Tools & Utilities</summary><li><a href="#tools-and-utilities-accessibility">Accessibility</a></li><li><a href="#tools-and-utilities-analytics">Analytics</a></li><li><a href="#tools-and-utilities-api-building">API Building</a></li><li><a href="#tools-and-utilities-browsers-and-extensions">Browsers & Extensions</a></li><li><a href="#tools-and-utilities-command-line">Command Line</a></li><li><a href="#tools-and-utilities-domains">Domains</a></li><li><a href="#tools-and-utilities-editors-and-extensions">Editors & Extensions</a></li><li><a href="#tools-and-utilities-general">General</a></li><li><a href="#tools-and-utilities-image-and-video-editing">Image & Video Editing</a></li><li><a href="#tools-and-utilities-performance">Performance</a></li><li><a href="#tools-and-utilities-seo">SEO</a></li><li><a href="#tools-and-utilities-typing">Typing</a></li><li><a href="#tools-and-utilities-web-scraping">Web Scraping</a></li><li><a href="#tools-and-utilities-website-builders">Website Builders</a></li><li><a href="#tools-and-utilities-writing">Writing</a></li></details><details><summary id="ui-design">UI Design</summary><li><a href="#ui-design-color">Color</a></li><li><a href="#ui-design-inspiration">Inspiration</a></li><li><a href="#ui-design-learn">Learn</a></li><li><a href="#ui-design-prototyping">Prototyping</a></li><li><a href="#ui-design-utilities">Utilities</a></li><li><a href="#ui-design-youtube-channels">YouTube Channels</a></li></details> 
@@ -64,8 +64,8 @@
  <img src="https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico" width="16" /> | iconmonstr | Free simple icons for your next project. | [Website](https://iconmonstr.com) |  |
  <img src="https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png" width="16" /> | Icons8 | Download design elements for free: icons, photos, vector illustrations, and music for your videos. | [Website](https://icons8.com) |  |
  <img src="https://iconscout.com/favicon-96x96.png" width="16" /> | Iconscout | Pixel-perfect vector icons and Icon Fonts available in Line, Monochrome, and Solid style for your next project. | [Website](https://iconscout.com/unicons) |  |
- <img src="https://www.iconshock.com/img/favicon.ico" width="16" /> | Iconshock | Free icons and premium icon packs.  Flat icons, Material icons, Glyph icons, iOS icons, Font icons, and more design styles. Vector files, including PNG and SVG icons. Ready for apps, web or social med... | [Website](https://www.iconshock.com/) | web icons, web icon set, web icon, professional icons, software  web icons, web icons vista, xp web ... |
  <img src="https://www.iconshock.com/img/favicon.ico" width="16" /> | Iconshock | The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more. | [Website](https://www.iconshock.com/) |  |
+ <img src="https://www.iconshock.com/img/favicon.ico" width="16" /> | Iconshock | Free icons and premium icon packs.  Flat icons, Material icons, Glyph icons, iOS icons, Font icons, and more design styles. Vector files, including PNG and SVG icons. Ready for apps, web or social med... | [Website](https://www.iconshock.com/) | web icons, web icon set, web icon, professional icons, software  web icons, web icons vista, xp web ... |
  <img src="https://www.designbombs.com/iconsweets2/favicon-96x96.png" width="16" /> | IconSweets | IconSweets is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects. | [Website](https://www.designbombs.com/iconsweets2/) |  |
  <img src="https://icones.netlify.app/favicon.svg" width="16" /> | Icônes | Icon Explorer with Instant searching, powered by Iconify | [Website](https://icones.netlify.app/) |  |
  <img src="https://jam-icons.com/icons/icon-96x96.png?v=15da575dd058a8724fe062f4043331c8" width="16" /> | Jam | 890+ handcrafted SVG icons to make your web app awesome. | [Website](https://jam-icons.com/) |  |
@@ -566,6 +566,7 @@
  <img src="https://intersectionobserver.io/favicon.png" width="16" /> | IntersectionObserver Examples | Practical, real world React examples of Intersection Observer | [Website](https://intersectionobserver.io) | IntersectionObserver, IntersectionObserver API, IntersectionObserver examples, React, React Intersec... |
  <img src="https://themeselection.com/wp-content/uploads/2018/07/favicon.ico" width="16" /> | Materio Free MUI React NextJS Admin Template | Most Powerful & Comprehensive Open Source and Free MUI React NextJS Admin Dashboard Template built for developers. | [GitHub](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) |  |
  <img src="https://nextjs.org/static/favicon/favicon-32x32.png" width="16" /> | Next.js | Production grade React applications that scale. The world’s leading companies use Next.js by Vercel to build static and dynamic websites and web applications. | [Website](https://nextjs.org/) |  |
+ <img src="https://www.wrappixel.com/wp-content/uploads/2019/01/favicon.png" width="16" /> | React Free Admin | Download Free React and NextJs Admin Dashboard Templates | [Website](https://www.wrappixel.com/templates/category/react-templates/) |  |
  <img src="https://reactresources.com/static/favicon.ico" width="16" /> | React Resources | Keep up with the growing React ecosystem! We cover the latest React learning resources, libraries and jobs. | [Website](https://reactresources.com/) |  |
  <img src="https://svg-jsx.netlify.app/favicon-96x96.png" width="16" /> | SVG to JSX | Web site created using create-react-app. | [Website](https://svg-jsx.netlify.app/) |  |
  <img src="https://usehooks.com/favicon.ico" width="16" /> | useHooks | Easy to understand React Hook recipes. | [Website](https://usehooks.com/) | react, javascript, hooks, useState, useEffect, tutorial, demo, code |
@@ -725,8 +726,8 @@
  <img src="https://uicookies.com/wp-content/uploads/2017/08/cropped-favicon-32x32.png" width="16" /> | uiCookies | UiCookies is dent of free bootstrap templates developed by experienced frontend designer & developers. Before buying premium HTML5 template, give drive here. | [Website](https://uicookies.com/) |  |
  <img src="https://uideck.com/wp-content/uploads/2018/12/cropped-uideck-150x150.png" width="16" /> | UIdeck | Free HTML Landing Page Templates Based on Bootstrap Framework for - Business, Startups, SaaS, Personal, and Pretty Much Any Web Projects. | [Website](https://uideck.com/) |  |
  <img src="https://w3lcdn.w3layouts.com/wp-content/uploads/2020/11/cropped-w3layouts-logo-512-32x32.png" width="16" /> | W3Layouts | W3layouts is an online store to download website templates for all types of businesses. | [Website](https://w3layouts.com/) |  |
+ <img src="https://www.wrappixel.com/wp-content/uploads/2019/01/favicon.png" width="16" /> | WrapPixel - Admin Provider | Download high quality, professional and easy-to-use Free Admin Dashboard Template which is built with Angular, React, VueJs, NextJs & NuxtJs to create your applications faster. | [Website](https://www.wrappixel.com/)<br />[GitHub](https://github.com/wrappixel) | React, Angular, Admin template, bootstrap, Vuejs, NextJs, NuxtJs |
  <img src="https://www.zerotheme.com/wp-content/uploads/2018/03/logo-zerotheme2-60x60.png" width="16" /> | Zerotheme | Html5 Website Templates designed by #Mik. Free download all templates at Zerotheme : responsive templates, bootstrap themes, ecommerce themes, ... | [Website](https://www.zerotheme.com/) |  |
-<img src="https://www.wrappixel.com/wp-content/uploads/2019/01/favicon.png" width="16" /> | WrapPixel |  80+ Free & Premium Admin Dashboard Templates which we created with Angular, VueJs, React, NextJs, & NuxtJs. | [Website](https://www.wrappixel.com/)<br />[GitHub](https://github.com/wrappixel) | HTML, Angular, Admin template, bootstrap, Vuejs, NextJs, React, NuxtJs & Freebies |
 
 **[⬆ Back to Index](#index)**
 
@@ -920,6 +921,7 @@
  &nbsp; | Banco do Brasil | All Banco do Brasil financial transaction APIs | [Website](https://developers.bb.com.br/home) |  |
  &nbsp; | Bandcamp | API of Music store Bandcamp | [Website](https://bandcamp.com/developer) |  |
  &nbsp; | Bandsintown | Music Events | [Website](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0) |  |
+ &nbsp; | Bank Data API | Instant IBAN and SWIFT number validation across the globe | [Website](https://apilayer.com/marketplace/bank_data-api) |  |
  &nbsp; | Bank Negara Malaysia Open Data | Malaysia Central Bank Open Data | [Website](https://apikijangportal.bnm.gov.my/) |  |
  &nbsp; | Bank of Russia | Exchange rates and currency conversion | [Website](https://www.cbr.ru/development/SXML/) |  |
  &nbsp; | Barter.VG | Provides information about Game, DLC, Bundles, Giveaways, Trading | [Website](https://github.com/bartervg/barter.vg/wiki) |  |
@@ -932,8 +934,8 @@
  &nbsp; | BCLaws | Access to the laws of British Columbia | [Website](https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html) |  |
  &nbsp; | Beeceptor | Build a mock Rest API endpoint in seconds | [Website](https://beeceptor.com/) |  |
  &nbsp; | Best Buy | Products, Buying Options, Categories, Recommendations, Stores and Commerce | [Website](https://bestbuyapis.github.io/api-documentation/#overview) |  |
- &nbsp; | Bhagavad Gita | Bhagavad Gita text | [Website](https://bhagavadgita.io/api) |  |
  &nbsp; | Bhagavad Gita | Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi | [Website](https://docs.bhagavadgitaapi.in) |  |
+ &nbsp; | Bhagavad Gita | Bhagavad Gita text | [Website](https://bhagavadgita.io/api) |  |
  &nbsp; | Bhagavad Gita telugu | Bhagavad Gita API in telugu and odia languages | [Website](https://gita-api.vercel.app) |  |
  &nbsp; | Bible-api | Free Bible API with multiple languages | [Website](https://bible-api.com/) |  |
  &nbsp; | BIC-Boxtech | Container technical detail for the global container fleet | [Website](https://docs.bic-boxtech.org/) |  |
@@ -1015,6 +1017,7 @@
  &nbsp; | Changelogs.md | Structured changelog metadata from open source projects | [Website](https://changelogs.md) |  |
  &nbsp; | Charity Search | Non-profit charity data | [Website](http://charityapi.orghunter.com/) |  |
  &nbsp; | CheapShark | Steam/PC Game Prices and Deals | [Website](https://www.cheapshark.com/api) |  |
+ &nbsp; | Checkiday - National Holiday API | Industry-leading Holiday API. Over 5,000 holidays and thousands of descriptions. Trusted by the World’s leading companies | [Website](https://apilayer.com/marketplace/checkiday-api) |  |
  &nbsp; | CheetahO | Photo optimization and resize | [Website](https://cheetaho.com/docs/getting-started/) |  |
  &nbsp; | Chess.com | Chess.com read-only REST API | [Website](https://www.chess.com/news/view/published-data-api) |  |
  &nbsp; | Chinese Character Web | Chinese character definitions and pronunciations | [Website](http://ccdb.hemiola.com/) |  |
@@ -1660,8 +1663,8 @@
  &nbsp; | Noctua | REST API used to access NoctuaSky features | [Website](https://api.noctuasky.com/api/v1/swaggerdoc/) |  |
  &nbsp; | Nomics | Historical and realtime cryptocurrency prices and market data | [Website](https://nomics.com/docs/) |  |
  &nbsp; | Nominatim | Provides worldwide forward / reverse geocoding | [Website](https://nominatim.org/release-docs/latest/api/Overview/) |  |
- &nbsp; | Non-Working Days | Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other | [Website](https://isdayoff.ru) |  |
  &nbsp; | Non-Working Days | Database of ICS files for non working days | [Website](https://github.com/gadael/icsdb) |  |
+ &nbsp; | Non-Working Days | Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other | [Website](https://isdayoff.ru) |  |
  &nbsp; | NoPhishy | Check links to see if they're known phishing attempts | [Website](https://rapidapi.com/Amiichu/api/exerra-phishing-check/) |  |
  &nbsp; | Nordigen | Connect to bank accounts using official bank APIs and get raw transaction data | [Website](https://nordigen.com/en/account_information_documenation/integration/quickstart_guide/) |  |
  &nbsp; | Notion | Integrate with Notion | [Website](https://developers.notion.com/docs/getting-started) |  |
@@ -1714,8 +1717,8 @@
  &nbsp; | Open Government, Korea | Korea Government Open Data | [Website](https://www.data.go.kr/) |  |
  &nbsp; | Open Government, Lithuania | Lithuania Government Open Data | [Website](https://data.gov.lt/public/api/1) |  |
  &nbsp; | Open Government, Luxembourg | Luxembourgish Government Open Data | [Website](https://data.public.lu) |  |
- &nbsp; | Open Government, Mexico | Mexican Statistical Government Open Data | [Website](https://www.inegi.org.mx/datos/) |  |
  &nbsp; | Open Government, Mexico | Mexico Government Open Data | [Website](https://datos.gob.mx/) |  |
+ &nbsp; | Open Government, Mexico | Mexican Statistical Government Open Data | [Website](https://www.inegi.org.mx/datos/) |  |
  &nbsp; | Open Government, Netherlands | Netherlands Government Open Data | [Website](https://data.overheid.nl/en/ondersteuning/data-publiceren/api) |  |
  &nbsp; | Open Government, New South Wales | New South Wales Government Open Data | [Website](https://api.nsw.gov.au/) |  |
  &nbsp; | Open Government, New Zealand | New Zealand Government Open Data | [Website](https://www.data.govt.nz/) |  |
@@ -1947,6 +1950,7 @@
  &nbsp; | SkyBiometry | Face Detection, Face Recognition and Face Grouping | [Website](https://skybiometry.com/documentation/) |  |
  &nbsp; | Slack | Team Instant Messaging | [Website](https://api.slack.com/) |  |
  &nbsp; | SLF | German city, country, river, database | [Website](https://github.com/slftool/slftool.github.io/blob/master/API.md) |  |
+ &nbsp; | Smart Image Enhancement API | Performs image upscaling by adding detail to images through multiple super-resolution algorithms | [Website](https://apilayer.com/marketplace/image_enhancement-api) |  |
  &nbsp; | SmartAPI | Gain access to set of <SmartAPI> and create end-to-end broking services | [Website](https://smartapi.angelbroking.com/) |  |
  &nbsp; | Smartcar | Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars | [Website](https://smartcar.com/docs/) |  |
  &nbsp; | Smartsheet | Allows you to programmatically access and Smartsheet data and account information | [Website](https://smartsheet.redoc.ly/) |  |
@@ -1960,8 +1964,8 @@
  &nbsp; | SoundCloud | With SoundCloud API you can build applications that will give more power to control your content | [Website](https://developers.soundcloud.com/docs/api/guide) |  |
  &nbsp; | Spaceflight News | Spaceflight related news 🚀 | [Website](https://spaceflightnewsapi.net) |  |
  &nbsp; | SpaceTradersAPI | A playable inter-galactic space trading MMOAPI | [Website](https://spacetraders.io?rel=pub-apis) |  |
- &nbsp; | SpaceX | GraphQL, Company, Ships, launchpad and launch data | [Website](https://api.spacex.land/graphql/) |  |
  &nbsp; | SpaceX | Company, vehicle, launchpad and launch data | [Website](https://github.com/r-spacex/SpaceX-API) |  |
+ &nbsp; | SpaceX | GraphQL, Company, Ships, launchpad and launch data | [Website](https://api.spacex.land/graphql/) |  |
  &nbsp; | Spanish random names | Generate spanish names (with gender) randomly | [Website](https://random-names-api.herokuapp.com/public) |  |
  &nbsp; | Spanish random words | Generate spanish words randomly | [Website](https://palabras-aleatorias-public-api.herokuapp.com) |  |
  &nbsp; | Spoonacular | Recipes, Food Products, and Meal Planning | [Website](https://spoonacular.com/food-api) |  |
@@ -1998,8 +2002,8 @@
  &nbsp; | SuperHeroes | All SuperHeroes and Villains data from all universes under a single API | [Website](https://superheroapi.com) |  |
  &nbsp; | Supportivekoala | Autogenerate images with template | [Website](https://developers.supportivekoala.com/) |  |
  &nbsp; | SuredBits | Query sports data, including teams, players, games, scores and statistics | [Website](https://suredbits.com/api/) |  |
- &nbsp; | SWAPI | All the Star Wars data you've ever wanted | [Website](https://swapi.dev/) |  |
  &nbsp; | SWAPI | All things Star Wars | [Website](https://www.swapi.tech) |  |
+ &nbsp; | SWAPI | All the Star Wars data you've ever wanted | [Website](https://swapi.dev/) |  |
  &nbsp; | SWAPI GraphQL | Star Wars GraphQL API | [Website](https://graphql.org/swapi-graphql) |  |
  &nbsp; | SwiftKanban | Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity | [Website](https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi) |  |
  &nbsp; | Synonyms | Synonyms, thesaurus and antonyms information for any given word | [Website](https://www.synonyms.com/synonyms_api.php) |  |
@@ -2009,6 +2013,7 @@
  &nbsp; | Tankerkoenig | German realtime gas/diesel prices | [Website](https://creativecommons.tankerkoenig.de/swagger/) |  |
  &nbsp; | TasteDive | Similar artist API (also works for movies and TV shows) | [Website](https://tastedive.com/read/api) |  |
  &nbsp; | Tasty | API to query data about recipe, plan, ingredients | [Website](https://rapidapi.com/apidojo/api/tasty/) |  |
+ &nbsp; | Tax Data API | Instant VAT number and tax validation across the globe | [Website](https://apilayer.com/marketplace/tax_data-api) |  |
  &nbsp; | TCGdex | Multi languages Pokémon TCG Information | [Website](https://www.tcgdex.net/docs) |  |
  &nbsp; | Tebex | Tebex API for information about game purchases | [Website](https://docs.tebex.io/plugin/) |  |
  &nbsp; | Technical Analysis | Cryptocurrency prices and technical analysis | [Website](https://technical-analysis-api.com) |  |
@@ -2090,10 +2095,10 @@
  &nbsp; | Transport for Sao Paulo, Brazil | SPTrans | [Website](http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/) |  |
  &nbsp; | Transport for Spain | Public trains of Spain | [Website](https://data.renfe.com/api/1/util/snippet/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a) |  |
  &nbsp; | Transport for Sweden | Public Transport consumer | [Website](https://www.trafiklab.se/api) |  |
- &nbsp; | Transport for Switzerland | Official Swiss Public Transport Open Data | [Website](https://opentransportdata.swiss/en/) |  |
  &nbsp; | Transport for Switzerland | Swiss public transport API | [Website](https://transport.opendata.ch/) |  |
- &nbsp; | Transport for The Netherlands | OVAPI, country-wide public transport | [Website](https://github.com/skywave/KV78Turbo-OVAPI/wiki) |  |
+ &nbsp; | Transport for Switzerland | Official Swiss Public Transport Open Data | [Website](https://opentransportdata.swiss/en/) |  |
  &nbsp; | Transport for The Netherlands | NS, only trains | [Website](http://www.ns.nl/reisinformatie/ns-api) |  |
+ &nbsp; | Transport for The Netherlands | OVAPI, country-wide public transport | [Website](https://github.com/skywave/KV78Turbo-OVAPI/wiki) |  |
  &nbsp; | Transport for Toronto, Canada | TTC | [Website](https://myttc.ca/developers) |  |
  &nbsp; | Transport for UK | Transport API and dataset for UK | [Website](https://developer.transportapi.com) |  |
  &nbsp; | Transport for United States | NextBus API | [Website](https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf) |  |
@@ -2377,8 +2382,8 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  &nbsp; | A Bíblia Digital | Do not worry about managing the multiple versions of the Bible | [Website](https://www.abibliadigital.com.br/en) |  |
- &nbsp; | Bhagavad Gita | Bhagavad Gita text | [Website](https://bhagavadgita.io/api) |  |
  &nbsp; | Bhagavad Gita | Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi | [Website](https://docs.bhagavadgitaapi.in) |  |
+ &nbsp; | Bhagavad Gita | Bhagavad Gita text | [Website](https://bhagavadgita.io/api) |  |
  &nbsp; | Bhagavad Gita telugu | Bhagavad Gita API in telugu and odia languages | [Website](https://gita-api.vercel.app) |  |
  &nbsp; | Bible-api | Free Bible API with multiple languages | [Website](https://bible-api.com/) |  |
  &nbsp; | British National Bibliography | Books | [Website](http://bnb.data.bl.uk/) |  |
@@ -2436,6 +2441,7 @@
 |---|---|---|---|---|
  &nbsp; | Abstract Public Holidays | Data on national, regional, and religious holidays via API | [Website](https://www.abstractapi.com/holidays-api) |  |
  &nbsp; | Calendarific | Worldwide Holidays | [Website](https://calendarific.com/) |  |
+ &nbsp; | Checkiday - National Holiday API | Industry-leading Holiday API. Over 5,000 holidays and thousands of descriptions. Trusted by the World’s leading companies | [Website](https://apilayer.com/marketplace/checkiday-api) |  |
  &nbsp; | Church Calendar | Catholic liturgical calendar | [Website](http://calapi.inadiutorium.cz/) |  |
  &nbsp; | Czech Namedays Calendar | Lookup for a name and returns nameday date | [Website](https://svatky.adresa.info) |  |
  &nbsp; | Festivo Public Holidays | Fastest and most advanced public holiday and observance service on the market | [Website](https://docs.getfestivo.com/docs/products/public-holidays-api/intro) |  |
@@ -2445,8 +2451,8 @@
  &nbsp; | LectServe | Protestant liturgical calendar | [Website](http://www.lectserve.com) |  |
  &nbsp; | Nager.Date | Public holidays for more than 90 countries | [Website](https://date.nager.at) |  |
  &nbsp; | Namedays Calendar | Provides namedays for multiple countries | [Website](https://nameday.abalin.net) |  |
- &nbsp; | Non-Working Days | Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other | [Website](https://isdayoff.ru) |  |
  &nbsp; | Non-Working Days | Database of ICS files for non working days | [Website](https://github.com/gadael/icsdb) |  |
+ &nbsp; | Non-Working Days | Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other | [Website](https://isdayoff.ru) |  |
  &nbsp; | Russian Calendar | Check if a date is a Russian holiday or not | [Website](https://github.com/egno/work-calendar) |  |
  &nbsp; | UK Bank Holidays | Bank holidays in England and Wales, Scotland and Northern Ireland | [Website](https://www.gov.uk/bank-holidays.json) |  |
 
@@ -2766,6 +2772,7 @@
  &nbsp; | Podio | File sharing and productivity | [Website](https://developers.podio.com) |  |
  &nbsp; | PrexView | Data from XML or JSON to PDF, HTML or Image | [Website](https://prexview.com) |  |
  &nbsp; | Restpack | Provides screenshot, HTML to PDF and content extraction APIs | [Website](https://restpack.io/) |  |
+ &nbsp; | Smart Image Enhancement API | Performs image upscaling by adding detail to images through multiple super-resolution algorithms | [Website](https://apilayer.com/marketplace/image_enhancement-api) |  |
  &nbsp; | Todoist | Todo Lists | [Website](https://developer.todoist.com) |  |
  &nbsp; | Vector Express v2.0 | Free vector file converting API | [Website](https://vector.express) |  |
  &nbsp; | WakaTime | Automated time tracking leaderboards for programmers | [Website](https://wakatime.com/developers) |  |
@@ -2853,6 +2860,7 @@
  &nbsp; | Alpha Vantage | Realtime and historical stock data | [Website](https://www.alphavantage.co/) |  |
  &nbsp; | apilayer marketstack | Real-Time, Intraday & Historical Market Data API | [Website](https://marketstack.com/) |  |
  &nbsp; | Banco do Brasil | All Banco do Brasil financial transaction APIs | [Website](https://developers.bb.com.br/home) |  |
+ &nbsp; | Bank Data API | Instant IBAN and SWIFT number validation across the globe | [Website](https://apilayer.com/marketplace/bank_data-api) |  |
  &nbsp; | Billplz | Payment platform | [Website](https://www.billplz.com/api) |  |
  &nbsp; | Binlist | Public access to a database of IIN/BIN information | [Website](https://binlist.net/) |  |
  &nbsp; | Boleto.Cloud | A api to generate boletos in Brazil | [Website](https://boleto.cloud/) |  |
@@ -2884,6 +2892,7 @@
  &nbsp; | SmartAPI | Gain access to set of <SmartAPI> and create end-to-end broking services | [Website](https://smartapi.angelbroking.com/) |  |
  &nbsp; | StockData | Real-Time, Intraday & Historical Market Data, News and Sentiment API | [Website](https://www.StockData.org) |  |
  &nbsp; | Styvio | Realtime and historical stock data and current stock sentiment | [Website](https://www.Styvio.com) |  |
+ &nbsp; | Tax Data API | Instant VAT number and tax validation across the globe | [Website](https://apilayer.com/marketplace/tax_data-api) |  |
  &nbsp; | Tradier | US equity/option market data (delayed, intraday, historical) | [Website](https://developer.tradier.com) |  |
  &nbsp; | Twelve Data | Stock market data (real-time & historical) | [Website](https://twelvedata.com/) |  |
  &nbsp; | WallstreetBets | WallstreetBets Stock Comments Sentiment Analysis | [Website](https://dashboard.nbshare.io/apps/reddit/api/) |  |
@@ -3175,8 +3184,8 @@
  &nbsp; | Open Government, Korea | Korea Government Open Data | [Website](https://www.data.go.kr/) |  |
  &nbsp; | Open Government, Lithuania | Lithuania Government Open Data | [Website](https://data.gov.lt/public/api/1) |  |
  &nbsp; | Open Government, Luxembourg | Luxembourgish Government Open Data | [Website](https://data.public.lu) |  |
- &nbsp; | Open Government, Mexico | Mexican Statistical Government Open Data | [Website](https://www.inegi.org.mx/datos/) |  |
  &nbsp; | Open Government, Mexico | Mexico Government Open Data | [Website](https://datos.gob.mx/) |  |
+ &nbsp; | Open Government, Mexico | Mexican Statistical Government Open Data | [Website](https://www.inegi.org.mx/datos/) |  |
  &nbsp; | Open Government, Netherlands | Netherlands Government Open Data | [Website](https://data.overheid.nl/en/ondersteuning/data-publiceren/api) |  |
  &nbsp; | Open Government, New South Wales | New South Wales Government Open Data | [Website](https://api.nsw.gov.au/) |  |
  &nbsp; | Open Government, New Zealand | New Zealand Government Open Data | [Website](https://www.data.govt.nz/) |  |
@@ -3539,8 +3548,8 @@
  &nbsp; | Purple Air | Real Time Air Quality Monitoring | [Website](https://www2.purpleair.com/) |  |
  &nbsp; | Remote Calc | Decodes base64 encoding and parses it to return a solution to the calculation in JSON | [Website](https://github.com/elizabethadegbaju/remotecalc) |  |
  &nbsp; | SHARE | A free, open, dataset about research and scholarly activities | [Website](https://share.osf.io/api/v2/) |  |
- &nbsp; | SpaceX | GraphQL, Company, Ships, launchpad and launch data | [Website](https://api.spacex.land/graphql/) |  |
  &nbsp; | SpaceX | Company, vehicle, launchpad and launch data | [Website](https://github.com/r-spacex/SpaceX-API) |  |
+ &nbsp; | SpaceX | GraphQL, Company, Ships, launchpad and launch data | [Website](https://api.spacex.land/graphql/) |  |
  &nbsp; | Sunrise and Sunset | Sunset and sunrise times for a given latitude and longitude | [Website](https://sunrise-sunset.org/api) |  |
  &nbsp; | Times Adder | With this API you can add each of the times introduced in the array sended | [Website](https://github.com/FranP-code/API-Times-Adder) |  |
  &nbsp; | TLE | Satellite information | [Website](https://tle.ivanstanojevic.me/#/docs) |  |
@@ -3826,10 +3835,10 @@
  &nbsp; | Transport for Sao Paulo, Brazil | SPTrans | [Website](http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/) |  |
  &nbsp; | Transport for Spain | Public trains of Spain | [Website](https://data.renfe.com/api/1/util/snippet/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a) |  |
  &nbsp; | Transport for Sweden | Public Transport consumer | [Website](https://www.trafiklab.se/api) |  |
- &nbsp; | Transport for Switzerland | Official Swiss Public Transport Open Data | [Website](https://opentransportdata.swiss/en/) |  |
  &nbsp; | Transport for Switzerland | Swiss public transport API | [Website](https://transport.opendata.ch/) |  |
- &nbsp; | Transport for The Netherlands | OVAPI, country-wide public transport | [Website](https://github.com/skywave/KV78Turbo-OVAPI/wiki) |  |
+ &nbsp; | Transport for Switzerland | Official Swiss Public Transport Open Data | [Website](https://opentransportdata.swiss/en/) |  |
  &nbsp; | Transport for The Netherlands | NS, only trains | [Website](http://www.ns.nl/reisinformatie/ns-api) |  |
+ &nbsp; | Transport for The Netherlands | OVAPI, country-wide public transport | [Website](https://github.com/skywave/KV78Turbo-OVAPI/wiki) |  |
  &nbsp; | Transport for Toronto, Canada | TTC | [Website](https://myttc.ca/developers) |  |
  &nbsp; | Transport for UK | Transport API and dataset for UK | [Website](https://developer.transportapi.com) |  |
  &nbsp; | Transport for United States | NextBus API | [Website](https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf) |  |
@@ -3909,8 +3918,8 @@
  &nbsp; | Stranger Things Quotes | Returns Stranger Things quotes | [Website](https://github.com/shadowoff09/strangerthings-quotes) |  |
  &nbsp; | Stream | Czech internet television, films, series and online videos for free | [Website](https://api.stream.cz/graphiql) |  |
  &nbsp; | Stromberg Quotes | Returns Stromberg quotes and more | [Website](https://www.stromberg-api.de/) |  |
- &nbsp; | SWAPI | All the Star Wars data you've ever wanted | [Website](https://swapi.dev/) |  |
  &nbsp; | SWAPI | All things Star Wars | [Website](https://www.swapi.tech) |  |
+ &nbsp; | SWAPI | All the Star Wars data you've ever wanted | [Website](https://swapi.dev/) |  |
  &nbsp; | SWAPI GraphQL | Star Wars GraphQL API | [Website](https://graphql.org/swapi-graphql) |  |
  &nbsp; | The Lord of the Rings | The Lord of the Rings API | [Website](https://the-one-api.dev/) |  |
  &nbsp; | The Vampire Diaries | TV Show Data | [Website](https://vampire-diaries-api.netlify.app/) |  |

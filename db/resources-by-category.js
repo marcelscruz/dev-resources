@@ -1698,6 +1698,22 @@ module.exports = {
         },
         {
             "links": {
+                "Website": "https://apilayer.com/marketplace/bank_data-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Bank Data API",
+            "description": "Instant IBAN and SWIFT number validation across the globe",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Finance"
+            ]
+        },
+        {
+            "links": {
                 "Website": "https://apikijangportal.bnm.gov.my/"
             },
             "public_api_fields": {
@@ -1890,22 +1906,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://bhagavadgita.io/api"
-            },
-            "public_api_fields": {
-                "auth": "OAuth",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Books"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://docs.bhagavadgitaapi.in"
             },
             "public_api_fields": {
@@ -1915,6 +1915,22 @@ module.exports = {
             },
             "name": "Bhagavad Gita",
             "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Books"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://bhagavadgita.io/api"
+            },
+            "public_api_fields": {
+                "auth": "OAuth",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Bhagavad Gita text",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Books"
@@ -3214,6 +3230,22 @@ module.exports = {
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://apilayer.com/marketplace/checkiday-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Checkiday - National Holiday API",
+            "description": "Industry-leading Holiday API. Over 5,000 holidays and thousands of descriptions. Trusted by the World’s leading companies",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
             ]
         },
         {
@@ -13538,22 +13570,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://isdayoff.ru"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Non-Working Days",
-            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Calendar"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/gadael/icsdb"
             },
             "public_api_fields": {
@@ -13563,6 +13579,22 @@ module.exports = {
             },
             "name": "Non-Working Days",
             "description": "Database of ICS files for non working days",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://isdayoff.ru"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Non-Working Days",
+            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Calendar"
@@ -14402,22 +14434,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.inegi.org.mx/datos/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexican Statistical Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://datos.gob.mx/"
             },
             "public_api_fields": {
@@ -14427,6 +14443,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexico Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.inegi.org.mx/datos/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexican Statistical Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
@@ -18130,6 +18162,22 @@ module.exports = {
         },
         {
             "links": {
+                "Website": "https://apilayer.com/marketplace/image_enhancement-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Smart Image Enhancement API",
+            "description": "Performs image upscaling by adding detail to images through multiple super-resolution algorithms",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
                 "Website": "https://smartapi.angelbroking.com/"
             },
             "public_api_fields": {
@@ -18338,22 +18386,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://api.spacex.land/graphql/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "SpaceX",
-            "description": "GraphQL, Company, Ships, launchpad and launch data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/r-spacex/SpaceX-API"
             },
             "public_api_fields": {
@@ -18363,6 +18395,22 @@ module.exports = {
             },
             "name": "SpaceX",
             "description": "Company, vehicle, launchpad and launch data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://api.spacex.land/graphql/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "SpaceX",
+            "description": "GraphQL, Company, Ships, launchpad and launch data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -18946,22 +18994,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://swapi.dev/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.swapi.tech"
             },
             "public_api_fields": {
@@ -18971,6 +19003,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All things Star Wars",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://swapi.dev/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All the Star Wars data you've ever wanted",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -19118,6 +19166,22 @@ module.exports = {
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Food & Drink"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://apilayer.com/marketplace/tax_data-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unkown"
+            },
+            "name": "Tax Data API",
+            "description": "Instant VAT number and tax validation across the globe",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Finance"
             ]
         },
         {
@@ -20418,22 +20482,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://transport.opendata.ch/"
             },
             "public_api_fields": {
@@ -20450,15 +20498,15 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "public_api_fields": {
-                "auth": "",
+                "auth": "apiKey",
                 "https": true,
                 "cors": "unknown"
             },
-            "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
+            "name": "Transport for Switzerland",
+            "description": "Official Swiss Public Transport Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -20475,6 +20523,22 @@ module.exports = {
             },
             "name": "Transport for The Netherlands",
             "description": "NS, only trains",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "OVAPI, country-wide public transport",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -27956,6 +28020,17 @@ module.exports = {
         },
         {
             "name": "Iconshock",
+            "description": "The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "links": {
+                "Website": "https://www.iconshock.com/"
+            },
+            "icon": "https://www.iconshock.com/img/favicon.ico"
+        },
+        {
+            "name": "Iconshock",
             "categories": [
                 "Assets/Icons"
             ],
@@ -27980,17 +28055,6 @@ module.exports = {
                 "accounting icons",
                 "web icon packs",
                 "web icone"
-            ],
-            "links": {
-                "Website": "https://www.iconshock.com/"
-            },
-            "icon": "https://www.iconshock.com/img/favicon.ico"
-        },
-        {
-            "name": "Iconshock",
-            "description": "The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.",
-            "categories": [
-                "Assets/Icons"
             ],
             "links": {
                 "Website": "https://www.iconshock.com/"
@@ -30465,22 +30529,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://bhagavadgita.io/api"
-            },
-            "public_api_fields": {
-                "auth": "OAuth",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Bhagavad Gita",
-            "description": "Bhagavad Gita text",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Books"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://docs.bhagavadgitaapi.in"
             },
             "public_api_fields": {
@@ -30490,6 +30538,22 @@ module.exports = {
             },
             "name": "Bhagavad Gita",
             "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Books"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://bhagavadgita.io/api"
+            },
+            "public_api_fields": {
+                "auth": "OAuth",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Bhagavad Gita text",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Books"
@@ -32758,6 +32822,22 @@ module.exports = {
         },
         {
             "links": {
+                "Website": "https://apilayer.com/marketplace/checkiday-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Checkiday - National Holiday API",
+            "description": "Industry-leading Holiday API. Over 5,000 holidays and thousands of descriptions. Trusted by the World’s leading companies",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
                 "Website": "http://calapi.inadiutorium.cz/"
             },
             "public_api_fields": {
@@ -32902,22 +32982,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://isdayoff.ru"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Non-Working Days",
-            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Calendar"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/gadael/icsdb"
             },
             "public_api_fields": {
@@ -32927,6 +32991,22 @@ module.exports = {
             },
             "name": "Non-Working Days",
             "description": "Database of ICS files for non working days",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://isdayoff.ru"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Non-Working Days",
+            "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Calendar"
@@ -33057,6 +33137,22 @@ module.exports = {
             },
             "name": "Banco do Brasil",
             "description": "All Banco do Brasil financial transaction APIs",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Finance"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://apilayer.com/marketplace/bank_data-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Bank Data API",
+            "description": "Instant IBAN and SWIFT number validation across the globe",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Finance"
@@ -33553,6 +33649,22 @@ module.exports = {
             },
             "name": "Styvio",
             "description": "Realtime and historical stock data and current stock sentiment",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Finance"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://apilayer.com/marketplace/tax_data-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unkown"
+            },
+            "name": "Tax Data API",
+            "description": "Instant VAT number and tax validation across the globe",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Finance"
@@ -35996,22 +36108,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://opentransportdata.swiss/en/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Official Swiss Public Transport Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://transport.opendata.ch/"
             },
             "public_api_fields": {
@@ -36028,15 +36124,15 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+                "Website": "https://opentransportdata.swiss/en/"
             },
             "public_api_fields": {
-                "auth": "",
+                "auth": "apiKey",
                 "https": true,
                 "cors": "unknown"
             },
-            "name": "Transport for The Netherlands",
-            "description": "OVAPI, country-wide public transport",
+            "name": "Transport for Switzerland",
+            "description": "Official Swiss Public Transport Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -36053,6 +36149,22 @@ module.exports = {
             },
             "name": "Transport for The Netherlands",
             "description": "NS, only trains",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "OVAPI, country-wide public transport",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -38997,6 +39109,456 @@ module.exports = {
             ]
         }
     ],
+    "public-apis/documents-and-productivity": [
+        {
+            "links": {
+                "Website": "https://airtable.com/api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Airtable",
+            "description": "Integrate with Airtable",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.api2convert.com/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Api2Convert",
+            "description": "Online File Conversion API",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://pdflayer.com"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "apilayer pdflayer",
+            "description": "HTML/URL to PDF",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://developers.asana.com/docs"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Asana",
+            "description": "Programmatic access to all data in your asana system",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://clickup.com/api"
+            },
+            "public_api_fields": {
+                "auth": "OAuth",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "ClickUp",
+            "description": "ClickUp is a robust, cloud-based project management tool for boosting productivity",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://clockify.me/developers-api "
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Clockify",
+            "description": "Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://cloudconvert.com/api/v2"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "CloudConvert",
+            "description": "Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://cloudmersive.com/convert-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Cloudmersive Document and Data Conversion",
+            "description": "HTML/URL to PDF/PNG, Office documents to PDF, image conversion",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://codestats.net/api-docs"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Code::Stats",
+            "description": "Automatic time tracking for programmers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://craftmypdf.com"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "CraftMyPDF",
+            "description": "Generate PDF documents from templates with a drop-and-drop editor and a simple API",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://docs.flowdash.com/docs/api-introduction"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Flowdash",
+            "description": "Automate business workflows",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://html2pdf.app/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Html2PDF",
+            "description": "HTML/URL to PDF",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://developer.ilovepdf.com/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "iLovePDF",
+            "description": "Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://developer.atlassian.com/server/jira/platform/rest-apis/"
+            },
+            "public_api_fields": {
+                "auth": "OAuth",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "JIRA",
+            "description": "JIRA is a proprietary issue tracking product that allows bug tracking and agile project management",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://api.mattermost.com/"
+            },
+            "public_api_fields": {
+                "auth": "OAuth",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Mattermost",
+            "description": "An open source platform for developer collaboration",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://mercury.postlight.com/web-parser/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Mercury",
+            "description": "Web parser",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://api.developer.monday.com/docs"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Monday",
+            "description": "Programmatically access and update data inside a monday.com account",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://developers.notion.com/docs/getting-started"
+            },
+            "public_api_fields": {
+                "auth": "OAuth",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Notion",
+            "description": "Integrate with Notion",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://developers.pandadoc.com"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "PandaDoc",
+            "description": "DocGen and eSignatures API",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://getpocket.com/developer/"
+            },
+            "public_api_fields": {
+                "auth": "OAuth",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Pocket",
+            "description": "Bookmarking service",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://developers.podio.com"
+            },
+            "public_api_fields": {
+                "auth": "OAuth",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Podio",
+            "description": "File sharing and productivity",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://prexview.com"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "PrexView",
+            "description": "Data from XML or JSON to PDF, HTML or Image",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://restpack.io/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Restpack",
+            "description": "Provides screenshot, HTML to PDF and content extraction APIs",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://apilayer.com/marketplace/image_enhancement-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Smart Image Enhancement API",
+            "description": "Performs image upscaling by adding detail to images through multiple super-resolution algorithms",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://developer.todoist.com"
+            },
+            "public_api_fields": {
+                "auth": "OAuth",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Todoist",
+            "description": "Todo Lists",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://vector.express"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Vector Express v2.0",
+            "description": "Free vector file converting API",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://wakatime.com/developers"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "WakaTime",
+            "description": "Automated time tracking leaderboards for programmers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://zube.io/docs/api"
+            },
+            "public_api_fields": {
+                "auth": "OAuth",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Zube",
+            "description": "Full stack project management",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Documents & Productivity"
+            ]
+        }
+    ],
     "indie-hacking/utilities": [
         {
             "name": "Airtable",
@@ -39379,440 +39941,6 @@ module.exports = {
                 "Website": "https://supabase.io/"
             },
             "icon": "https://supabase.io/new/favicon/favicon-32x32.png"
-        }
-    ],
-    "public-apis/documents-and-productivity": [
-        {
-            "links": {
-                "Website": "https://airtable.com/api"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Airtable",
-            "description": "Integrate with Airtable",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://www.api2convert.com/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Api2Convert",
-            "description": "Online File Conversion API",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://pdflayer.com"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "apilayer pdflayer",
-            "description": "HTML/URL to PDF",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://developers.asana.com/docs"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Asana",
-            "description": "Programmatic access to all data in your asana system",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://clickup.com/api"
-            },
-            "public_api_fields": {
-                "auth": "OAuth",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "ClickUp",
-            "description": "ClickUp is a robust, cloud-based project management tool for boosting productivity",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://clockify.me/developers-api "
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Clockify",
-            "description": "Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://cloudconvert.com/api/v2"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "CloudConvert",
-            "description": "Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://cloudmersive.com/convert-api"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Cloudmersive Document and Data Conversion",
-            "description": "HTML/URL to PDF/PNG, Office documents to PDF, image conversion",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://codestats.net/api-docs"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Code::Stats",
-            "description": "Automatic time tracking for programmers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://craftmypdf.com"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "CraftMyPDF",
-            "description": "Generate PDF documents from templates with a drop-and-drop editor and a simple API",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://docs.flowdash.com/docs/api-introduction"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Flowdash",
-            "description": "Automate business workflows",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://html2pdf.app/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Html2PDF",
-            "description": "HTML/URL to PDF",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://developer.ilovepdf.com/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "iLovePDF",
-            "description": "Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://developer.atlassian.com/server/jira/platform/rest-apis/"
-            },
-            "public_api_fields": {
-                "auth": "OAuth",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "JIRA",
-            "description": "JIRA is a proprietary issue tracking product that allows bug tracking and agile project management",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://api.mattermost.com/"
-            },
-            "public_api_fields": {
-                "auth": "OAuth",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Mattermost",
-            "description": "An open source platform for developer collaboration",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://mercury.postlight.com/web-parser/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Mercury",
-            "description": "Web parser",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://api.developer.monday.com/docs"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Monday",
-            "description": "Programmatically access and update data inside a monday.com account",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://developers.notion.com/docs/getting-started"
-            },
-            "public_api_fields": {
-                "auth": "OAuth",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Notion",
-            "description": "Integrate with Notion",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://developers.pandadoc.com"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "PandaDoc",
-            "description": "DocGen and eSignatures API",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://getpocket.com/developer/"
-            },
-            "public_api_fields": {
-                "auth": "OAuth",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Pocket",
-            "description": "Bookmarking service",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://developers.podio.com"
-            },
-            "public_api_fields": {
-                "auth": "OAuth",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Podio",
-            "description": "File sharing and productivity",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://prexview.com"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "PrexView",
-            "description": "Data from XML or JSON to PDF, HTML or Image",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://restpack.io/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Restpack",
-            "description": "Provides screenshot, HTML to PDF and content extraction APIs",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://developer.todoist.com"
-            },
-            "public_api_fields": {
-                "auth": "OAuth",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Todoist",
-            "description": "Todo Lists",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://vector.express"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Vector Express v2.0",
-            "description": "Free vector file converting API",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://wakatime.com/developers"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "WakaTime",
-            "description": "Automated time tracking leaderboards for programmers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
-        },
-        {
-            "links": {
-                "Website": "https://zube.io/docs/api"
-            },
-            "public_api_fields": {
-                "auth": "OAuth",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Zube",
-            "description": "Full stack project management",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Documents & Productivity"
-            ]
         }
     ],
     "public-apis/art-and-design": [
@@ -40572,22 +40700,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://swapi.dev/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.swapi.tech"
             },
             "public_api_fields": {
@@ -40597,6 +40709,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All things Star Wars",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://swapi.dev/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All the Star Wars data you've ever wanted",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -45626,22 +45754,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://api.spacex.land/graphql/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "SpaceX",
-            "description": "GraphQL, Company, Ships, launchpad and launch data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/r-spacex/SpaceX-API"
             },
             "public_api_fields": {
@@ -45651,6 +45763,22 @@ module.exports = {
             },
             "name": "SpaceX",
             "description": "Company, vehicle, launchpad and launch data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://api.spacex.land/graphql/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "SpaceX",
+            "description": "GraphQL, Company, Ships, launchpad and launch data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -49628,22 +49756,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.inegi.org.mx/datos/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexican Statistical Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://datos.gob.mx/"
             },
             "public_api_fields": {
@@ -49653,6 +49765,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexico Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.inegi.org.mx/datos/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexican Statistical Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
@@ -50622,6 +50750,27 @@ module.exports = {
                 "Website": "https://w3layouts.com/"
             },
             "icon": "https://w3lcdn.w3layouts.com/wp-content/uploads/2020/11/cropped-w3layouts-logo-512-32x32.png"
+        },
+        {
+            "name": "WrapPixel - Admin Provider",
+            "categories": [
+                "Programming/Templates"
+            ],
+            "description": "Download high quality, professional and easy-to-use Free Admin Dashboard Template which is built with Angular, React, VueJs, NextJs & NuxtJs to create your applications faster.",
+            "keywords": [
+                "React",
+                "Angular",
+                "Admin template",
+                "bootstrap",
+                "Vuejs",
+                "NextJs",
+                "NuxtJs"
+            ],
+            "links": {
+                "Website": "https://www.wrappixel.com/",
+                "GitHub": "https://github.com/wrappixel"
+            },
+            "icon": "https://www.wrappixel.com/wp-content/uploads/2019/01/favicon.png"
         },
         {
             "name": "Zerotheme",
@@ -55681,6 +55830,17 @@ module.exports = {
                 "Website": "https://nextjs.org/"
             },
             "icon": "https://nextjs.org/static/favicon/favicon-32x32.png"
+        },
+        {
+            "name": "React Free Admin",
+            "categories": [
+                "Programming/JavaScript/React"
+            ],
+            "description": "Download Free React and NextJs Admin Dashboard Templates",
+            "links": {
+                "Website": "https://www.wrappixel.com/templates/category/react-templates/"
+            },
+            "icon": "https://www.wrappixel.com/wp-content/uploads/2019/01/favicon.png"
         },
         {
             "name": "React Resources",
