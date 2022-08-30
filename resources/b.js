@@ -1,4 +1,11 @@
-const { toolsAndUtilities, uiDesign, programming, assets, indieHacking, infrastructure } = require('../constants/categories')
+const {
+    toolsAndUtilities,
+    uiDesign,
+    programming,
+    assets,
+    indieHacking,
+    infrastructure,
+} = require('../constants/categories')
 const { website, youtube, twitter, facebook, github } = require('../constants/links')
 
 module.exports = [
@@ -406,8 +413,9 @@ module.exports = [
     },
     {
         name: 'Beautiful CSS box-shadow examples',
-        categories: [programming.codeSnippets, uiDesign.utilities, toolsAndUtilities.general, programming.learn],
-        description: '🎨 Curated collection of 90+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.',
+        categories: [programming.codeSnippets, uiDesign.utilities, toolsAndUtilities.general],
+        description:
+            '🎨 Curated collection of 90+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.',
         links: {
             [website]: 'https://getcssscan.com/css-box-shadow-examples',
         },
@@ -415,8 +423,9 @@ module.exports = [
     },
     {
         name: 'Beautiful CSS buttons examples',
-        categories: [programming.codeSnippets, uiDesign.utilities, toolsAndUtilities.general, programming.learn],
-        description: '🎨 Curated collection of 80+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.',
+        categories: [programming.codeSnippets, uiDesign.utilities, toolsAndUtilities.general],
+        description:
+            '🎨 Curated collection of 80+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.',
         links: {
             [website]: 'https://getcssscan.com/css-buttons-examples',
         },
