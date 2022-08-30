@@ -726,6 +726,7 @@
  <img src="https://uideck.com/wp-content/uploads/2018/12/cropped-uideck-150x150.png" width="16" /> | UIdeck | Free HTML Landing Page Templates Based on Bootstrap Framework for - Business, Startups, SaaS, Personal, and Pretty Much Any Web Projects. | [Website](https://uideck.com/) |  |
  <img src="https://w3lcdn.w3layouts.com/wp-content/uploads/2020/11/cropped-w3layouts-logo-512-32x32.png" width="16" /> | W3Layouts | W3layouts is an online store to download website templates for all types of businesses. | [Website](https://w3layouts.com/) |  |
  <img src="https://www.zerotheme.com/wp-content/uploads/2018/03/logo-zerotheme2-60x60.png" width="16" /> | Zerotheme | Html5 Website Templates designed by #Mik. Free download all templates at Zerotheme : responsive templates, bootstrap themes, ecommerce themes, ... | [Website](https://www.zerotheme.com/) |  |
+<img src="https://www.wrappixel.com/wp-content/uploads/2019/01/favicon.png" width="16" /> | WrapPixel |  80+ Free & Premium Admin Dashboard Templates which we created with Angular, VueJs, React, NextJs, & NuxtJs. | [Website](https://www.wrappixel.com/)<br />[GitHub](https://github.com/wrappixel) | HTML, Angular, Admin template, bootstrap, Vuejs, NextJs, React, NuxtJs & Freebies |
 
 **[⬆ Back to Index](#index)**
 

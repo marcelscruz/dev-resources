@@ -431,8 +431,7 @@ module.exports = [
     {
         name: 'TshirtDesigns',
         categories: [toolsAndUtilities.general],
-        description:
-            "An apparel and tshirt design mockup generator plus a marketplace of t-shirt designs.",
+        description: 'An apparel and tshirt design mockup generator plus a marketplace of t-shirt designs.',
         links: {
             [website]: 'https://www.tshirtdesigns.com/mockups',
         },
