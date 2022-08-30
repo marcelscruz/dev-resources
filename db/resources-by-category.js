@@ -1906,22 +1906,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Books"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://bhagavadgita.io/api"
             },
             "public_api_fields": {
@@ -1931,6 +1915,22 @@ module.exports = {
             },
             "name": "Bhagavad Gita",
             "description": "Bhagavad Gita text",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Books"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://docs.bhagavadgitaapi.in"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Books"
@@ -3906,22 +3906,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://cloudmersive.com/validate-api"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Cloudmersive Validate",
-            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Email"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://cloudmersive.com/phone-number-validation-API"
             },
             "public_api_fields": {
@@ -3934,6 +3918,22 @@ module.exports = {
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Phone"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://cloudmersive.com/validate-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Cloudmersive Validate",
+            "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Email"
             ]
         },
         {
@@ -13570,22 +13570,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/gadael/icsdb"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Non-Working Days",
-            "description": "Database of ICS files for non working days",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Calendar"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://isdayoff.ru"
             },
             "public_api_fields": {
@@ -13595,6 +13579,22 @@ module.exports = {
             },
             "name": "Non-Working Days",
             "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/gadael/icsdb"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Non-Working Days",
+            "description": "Database of ICS files for non working days",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Calendar"
@@ -13746,22 +13746,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://numbersapi.com"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": false,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Facts about numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://math.tools/api/numbers/"
             },
             "public_api_fields": {
@@ -13771,6 +13755,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://numbersapi.com"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": false,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Facts about numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -14434,22 +14434,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://datos.gob.mx/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexico Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.inegi.org.mx/datos/"
             },
             "public_api_fields": {
@@ -14459,6 +14443,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexican Statistical Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://datos.gob.mx/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexico Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
@@ -16466,22 +16466,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://goqr.me/api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Development"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.qrtag.net/api/"
             },
             "public_api_fields": {
@@ -16491,6 +16475,22 @@ module.exports = {
             },
             "name": "QR code",
             "description": "Create an easy to read QR code and URL shortener",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://goqr.me/api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
@@ -18994,22 +18994,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.swapi.tech"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All things Star Wars",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://swapi.dev/"
             },
             "public_api_fields": {
@@ -19019,6 +19003,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All the Star Wars data you've ever wanted",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.swapi.tech"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All things Star Wars",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -20482,22 +20482,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://transport.opendata.ch/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://opentransportdata.swiss/en/"
             },
             "public_api_fields": {
@@ -20514,15 +20498,15 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://transport.opendata.ch/"
             },
             "public_api_fields": {
-                "auth": "apiKey",
-                "https": false,
+                "auth": "",
+                "https": true,
                 "cors": "unknown"
             },
-            "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
+            "name": "Transport for Switzerland",
+            "description": "Swiss public transport API",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -20539,6 +20523,22 @@ module.exports = {
             },
             "name": "Transport for The Netherlands",
             "description": "OVAPI, country-wide public transport",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": false,
+                "cors": "unknown"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "NS, only trains",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -25281,6 +25281,32 @@ module.exports = {
             "icon": "https://www.30secondsofcode.org/icons/icon-96x96.png?v=bd273ecf29b2666f8d7669cf855707df"
         },
         {
+            "name": "Beautiful CSS box-shadow examples",
+            "categories": [
+                "Programming/Code Snippets",
+                "UI Design/Utilities",
+                "Tools & Utilities/General"
+            ],
+            "description": "🎨 Curated collection of 90+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.",
+            "links": {
+                "Website": "https://getcssscan.com/css-box-shadow-examples"
+            },
+            "icon": "https://getcssscan.com/favicon-32x32.png"
+        },
+        {
+            "name": "Beautiful CSS buttons examples",
+            "categories": [
+                "Programming/Code Snippets",
+                "UI Design/Utilities",
+                "Tools & Utilities/General"
+            ],
+            "description": "🎨 Curated collection of 80+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.",
+            "links": {
+                "Website": "https://getcssscan.com/css-buttons-examples"
+            },
+            "icon": "https://getcssscan.com/favicon-32x32.png"
+        },
+        {
             "name": "Bootsnipp",
             "categories": [
                 "Programming/Code Snippets"
@@ -27324,22 +27350,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://goqr.me/api/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "QR code",
-            "description": "Generate and decode / read QR code graphics",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Development"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.qrtag.net/api/"
             },
             "public_api_fields": {
@@ -27349,6 +27359,22 @@ module.exports = {
             },
             "name": "QR code",
             "description": "Create an easy to read QR code and URL shortener",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Development"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://goqr.me/api/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "QR code",
+            "description": "Generate and decode / read QR code graphics",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Development"
@@ -28020,17 +28046,6 @@ module.exports = {
         },
         {
             "name": "Iconshock",
-            "description": "The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.",
-            "categories": [
-                "Assets/Icons"
-            ],
-            "links": {
-                "Website": "https://www.iconshock.com/"
-            },
-            "icon": "https://www.iconshock.com/img/favicon.ico"
-        },
-        {
-            "name": "Iconshock",
             "categories": [
                 "Assets/Icons"
             ],
@@ -28055,6 +28070,17 @@ module.exports = {
                 "accounting icons",
                 "web icon packs",
                 "web icone"
+            ],
+            "links": {
+                "Website": "https://www.iconshock.com/"
+            },
+            "icon": "https://www.iconshock.com/img/favicon.ico"
+        },
+        {
+            "name": "Iconshock",
+            "description": "The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.",
+            "categories": [
+                "Assets/Icons"
             ],
             "links": {
                 "Website": "https://www.iconshock.com/"
@@ -30529,22 +30555,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Books"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://bhagavadgita.io/api"
             },
             "public_api_fields": {
@@ -30554,6 +30564,22 @@ module.exports = {
             },
             "name": "Bhagavad Gita",
             "description": "Bhagavad Gita text",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Books"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://docs.bhagavadgitaapi.in"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Books"
@@ -32982,22 +33008,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/gadael/icsdb"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Non-Working Days",
-            "description": "Database of ICS files for non working days",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Calendar"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://isdayoff.ru"
             },
             "public_api_fields": {
@@ -33007,6 +33017,22 @@ module.exports = {
             },
             "name": "Non-Working Days",
             "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/gadael/icsdb"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Non-Working Days",
+            "description": "Database of ICS files for non working days",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Calendar"
@@ -36108,22 +36134,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://transport.opendata.ch/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Transport for Switzerland",
-            "description": "Swiss public transport API",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://opentransportdata.swiss/en/"
             },
             "public_api_fields": {
@@ -36140,15 +36150,15 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+                "Website": "https://transport.opendata.ch/"
             },
             "public_api_fields": {
-                "auth": "apiKey",
-                "https": false,
+                "auth": "",
+                "https": true,
                 "cors": "unknown"
             },
-            "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
+            "name": "Transport for Switzerland",
+            "description": "Swiss public transport API",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -36165,6 +36175,22 @@ module.exports = {
             },
             "name": "Transport for The Netherlands",
             "description": "OVAPI, country-wide public transport",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": false,
+                "cors": "unknown"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "NS, only trains",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -40700,22 +40726,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.swapi.tech"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All things Star Wars",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://swapi.dev/"
             },
             "public_api_fields": {
@@ -40725,6 +40735,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All the Star Wars data you've ever wanted",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.swapi.tech"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All things Star Wars",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -41650,6 +41676,32 @@ module.exports = {
                 "Website": "https://animista.net/"
             },
             "icon": "https://animista.net/favicon.ico"
+        },
+        {
+            "name": "Beautiful CSS box-shadow examples",
+            "categories": [
+                "Programming/Code Snippets",
+                "UI Design/Utilities",
+                "Tools & Utilities/General"
+            ],
+            "description": "🎨 Curated collection of 90+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.",
+            "links": {
+                "Website": "https://getcssscan.com/css-box-shadow-examples"
+            },
+            "icon": "https://getcssscan.com/favicon-32x32.png"
+        },
+        {
+            "name": "Beautiful CSS buttons examples",
+            "categories": [
+                "Programming/Code Snippets",
+                "UI Design/Utilities",
+                "Tools & Utilities/General"
+            ],
+            "description": "🎨 Curated collection of 80+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.",
+            "links": {
+                "Website": "https://getcssscan.com/css-buttons-examples"
+            },
+            "icon": "https://getcssscan.com/favicon-32x32.png"
         },
         {
             "name": "Compare pixels",
@@ -45066,6 +45118,32 @@ module.exports = {
             "icon": "https://appwrite.io/images/favicon.png"
         },
         {
+            "name": "Beautiful CSS box-shadow examples",
+            "categories": [
+                "Programming/Code Snippets",
+                "UI Design/Utilities",
+                "Tools & Utilities/General"
+            ],
+            "description": "🎨 Curated collection of 90+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.",
+            "links": {
+                "Website": "https://getcssscan.com/css-box-shadow-examples"
+            },
+            "icon": "https://getcssscan.com/favicon-32x32.png"
+        },
+        {
+            "name": "Beautiful CSS buttons examples",
+            "categories": [
+                "Programming/Code Snippets",
+                "UI Design/Utilities",
+                "Tools & Utilities/General"
+            ],
+            "description": "🎨 Curated collection of 80+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.",
+            "links": {
+                "Website": "https://getcssscan.com/css-buttons-examples"
+            },
+            "icon": "https://getcssscan.com/favicon-32x32.png"
+        },
+        {
             "name": "Beginner's guide to web security",
             "categories": [
                 "Tools & Utilities/General"
@@ -45626,22 +45704,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://numbersapi.com"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": false,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Facts about numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://math.tools/api/numbers/"
             },
             "public_api_fields": {
@@ -45651,6 +45713,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://numbersapi.com"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": false,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Facts about numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -49756,22 +49834,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://datos.gob.mx/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexico Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.inegi.org.mx/datos/"
             },
             "public_api_fields": {
@@ -49781,6 +49843,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexican Statistical Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://datos.gob.mx/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexico Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
