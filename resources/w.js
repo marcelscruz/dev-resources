@@ -274,6 +274,18 @@ module.exports = [
         icon: 'https://www.workingnomads.co/static/jobs/assets/favicon.ico',
     },
     {
+        name: 'WrapPixel - Admin Provider',
+        categories: [programming.templates],
+        description:
+            'Download high quality, professional and easy-to-use Free Admin Dashboard Template which is built with Angular, React, VueJs, NextJs & NuxtJs to create your applications faster.',
+        keywords: ['React', 'Angular', 'Admin template', 'bootstrap', 'Vuejs', 'NextJs', 'NuxtJs'],
+        links: {
+            [website]: 'https://www.wrappixel.com/',
+            [github]: 'https://github.com/wrappixel',
+        },
+        icon: 'https://www.wrappixel.com/wp-content/uploads/2019/01/favicon.png',
+    },
+    {
         name: 'Writty',
         categories: [toolsAndUtilities.writing],
         description: 'A simple writing app and text editor to help you focus on what matters.',
