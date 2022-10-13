@@ -494,6 +494,15 @@ module.exports = [
         icon: 'https://freephotos.cc/favicon.ico',
     },
     {
+        name: 'FreeTools.site',
+        categories: [assets.images],
+        description: 'Free online tools - convert or edit documents, images, audio, video and more.',
+        links: {
+            [website]: 'https://freetools.site/',
+        },
+        icon: 'https://freetools.site/static/images/7a786e239ae133de322e14868fdd9332.ico',
+    },
+    {
         name: 'Front End Happy Hour',
         categories: [programming.podcasts],
         description:
