@@ -676,6 +676,17 @@ module.exports = [
         icon: 'https://uploads-ssl.webflow.com/5f59339c01fc322b69869dd9/5f5936ce192739ad632da855_bubble-white-32.png',
     },
     {
+        name: 'Stride Bootstrap Landingpage Template',
+        categories: [programming.templates],
+        description:
+            'Made with an startup or tech company in mind. Bootstrap 5.2 based and developed with and for modern web standards.',
+        keywords: ['HTML', 'Bootstrap', 'Landingpage', 'Template', 'CSS', 'Open Source Template', 'Free Template'],
+        links: {
+            [website]: 'https://templatedeck.com/stride-html-template.html',
+        },
+        icon: 'https://templatedeck.com/img/favicon.png',
+    },
+    {
         name: 'StyleShout',
         categories: [programming.templates],
         description:
