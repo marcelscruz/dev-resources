@@ -330,6 +330,18 @@ module.exports = [
         icon: 'https://www.awwwards.com/apple-touch-icon.png',
     },
     {
+        name: 'Axorax',
+        description:
+            'Read articles on programming, design and more.',
+        categories: [community.personalWebsites],
+        links: {
+            [website]: 'https://axorax.tk/',
+            [youtube]: 'https://www.youtube.com/c/Axorax',
+            [discord]: 'https://discord.gg/nKUFghjXQu',
+        },
+        icon: 'https://axorax.tk/assets/img/Axorax.svg'
+    },
+    {
         name: 'Azure',
         categories: [infrastructure.hosting],
         description:
