@@ -1906,22 +1906,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Books"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://bhagavadgita.io/api"
             },
             "public_api_fields": {
@@ -1931,6 +1915,22 @@ module.exports = {
             },
             "name": "Bhagavad Gita",
             "description": "Bhagavad Gita text",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Books"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://docs.bhagavadgitaapi.in"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Books"
@@ -13570,22 +13570,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/gadael/icsdb"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Non-Working Days",
-            "description": "Database of ICS files for non working days",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Calendar"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://isdayoff.ru"
             },
             "public_api_fields": {
@@ -13595,6 +13579,22 @@ module.exports = {
             },
             "name": "Non-Working Days",
             "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/gadael/icsdb"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Non-Working Days",
+            "description": "Database of ICS files for non working days",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Calendar"
@@ -13746,22 +13746,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "public_api_fields": {
@@ -13771,6 +13755,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Facts about numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -14434,22 +14434,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.inegi.org.mx/datos/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexican Statistical Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://datos.gob.mx/"
             },
             "public_api_fields": {
@@ -14459,6 +14443,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexico Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.inegi.org.mx/datos/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexican Statistical Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
@@ -18386,22 +18386,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/r-spacex/SpaceX-API"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "SpaceX",
-            "description": "Company, vehicle, launchpad and launch data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://api.spacex.land/graphql/"
             },
             "public_api_fields": {
@@ -18411,6 +18395,22 @@ module.exports = {
             },
             "name": "SpaceX",
             "description": "GraphQL, Company, Ships, launchpad and launch data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/r-spacex/SpaceX-API"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "SpaceX",
+            "description": "Company, vehicle, launchpad and launch data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -18706,22 +18706,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://steamapi.xpaw.me/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Steam",
-            "description": "Steam Web API documentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
             },
             "public_api_fields": {
@@ -18731,6 +18715,22 @@ module.exports = {
             },
             "name": "Steam",
             "description": "Internal Steam Web API documentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://steamapi.xpaw.me/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Steam",
+            "description": "Steam Web API documentation",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
@@ -18994,22 +18994,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://swapi.dev/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.swapi.tech"
             },
             "public_api_fields": {
@@ -19019,6 +19003,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All things Star Wars",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://swapi.dev/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All the Star Wars data you've ever wanted",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -20514,22 +20514,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": false,
-                "cors": "unknown"
-            },
-            "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
             "public_api_fields": {
@@ -20539,6 +20523,22 @@ module.exports = {
             },
             "name": "Transport for The Netherlands",
             "description": "OVAPI, country-wide public transport",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": false,
+                "cors": "unknown"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "NS, only trains",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -28046,6 +28046,17 @@ module.exports = {
         },
         {
             "name": "Iconshock",
+            "description": "The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.",
+            "categories": [
+                "Assets/Icons"
+            ],
+            "links": {
+                "Website": "https://www.iconshock.com/"
+            },
+            "icon": "https://www.iconshock.com/img/favicon.ico"
+        },
+        {
+            "name": "Iconshock",
             "categories": [
                 "Assets/Icons"
             ],
@@ -28070,17 +28081,6 @@ module.exports = {
                 "accounting icons",
                 "web icon packs",
                 "web icone"
-            ],
-            "links": {
-                "Website": "https://www.iconshock.com/"
-            },
-            "icon": "https://www.iconshock.com/img/favicon.ico"
-        },
-        {
-            "name": "Iconshock",
-            "description": "The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.",
-            "categories": [
-                "Assets/Icons"
             ],
             "links": {
                 "Website": "https://www.iconshock.com/"
@@ -30555,22 +30555,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://docs.bhagavadgitaapi.in"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "Bhagavad Gita",
-            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Books"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://bhagavadgita.io/api"
             },
             "public_api_fields": {
@@ -30580,6 +30564,22 @@ module.exports = {
             },
             "name": "Bhagavad Gita",
             "description": "Bhagavad Gita text",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Books"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://docs.bhagavadgitaapi.in"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "Bhagavad Gita",
+            "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Books"
@@ -33008,22 +33008,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/gadael/icsdb"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Non-Working Days",
-            "description": "Database of ICS files for non working days",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Calendar"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://isdayoff.ru"
             },
             "public_api_fields": {
@@ -33033,6 +33017,22 @@ module.exports = {
             },
             "name": "Non-Working Days",
             "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Calendar"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/gadael/icsdb"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Non-Working Days",
+            "description": "Database of ICS files for non working days",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Calendar"
@@ -36166,22 +36166,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "http://www.ns.nl/reisinformatie/ns-api"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": false,
-                "cors": "unknown"
-            },
-            "name": "Transport for The Netherlands",
-            "description": "NS, only trains",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Transportation"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
             },
             "public_api_fields": {
@@ -36191,6 +36175,22 @@ module.exports = {
             },
             "name": "Transport for The Netherlands",
             "description": "OVAPI, country-wide public transport",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Transportation"
+            ]
+        },
+        {
+            "links": {
+                "Website": "http://www.ns.nl/reisinformatie/ns-api"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": false,
+                "cors": "unknown"
+            },
+            "name": "Transport for The Netherlands",
+            "description": "NS, only trains",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Transportation"
@@ -38446,22 +38446,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://steamapi.xpaw.me/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Steam",
-            "description": "Steam Web API documentation",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Games & Comics"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
             },
             "public_api_fields": {
@@ -38471,6 +38455,22 @@ module.exports = {
             },
             "name": "Steam",
             "description": "Internal Steam Web API documentation",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Games & Comics"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://steamapi.xpaw.me/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Steam",
+            "description": "Steam Web API documentation",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Games & Comics"
@@ -40726,22 +40726,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://swapi.dev/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "yes"
-            },
-            "name": "SWAPI",
-            "description": "All the Star Wars data you've ever wanted",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Video"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://www.swapi.tech"
             },
             "public_api_fields": {
@@ -40751,6 +40735,22 @@ module.exports = {
             },
             "name": "SWAPI",
             "description": "All things Star Wars",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Video"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://swapi.dev/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "yes"
+            },
+            "name": "SWAPI",
+            "description": "All the Star Wars data you've ever wanted",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Video"
@@ -45704,22 +45704,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://math.tools/api/numbers/"
-            },
-            "public_api_fields": {
-                "auth": "apiKey",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "Numbers",
-            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "http://numbersapi.com"
             },
             "public_api_fields": {
@@ -45729,6 +45713,22 @@ module.exports = {
             },
             "name": "Numbers",
             "description": "Facts about numbers",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://math.tools/api/numbers/"
+            },
+            "public_api_fields": {
+                "auth": "apiKey",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "Numbers",
+            "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -45832,22 +45832,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://github.com/r-spacex/SpaceX-API"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "no"
-            },
-            "name": "SpaceX",
-            "description": "Company, vehicle, launchpad and launch data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Science & Math"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://api.spacex.land/graphql/"
             },
             "public_api_fields": {
@@ -45857,6 +45841,22 @@ module.exports = {
             },
             "name": "SpaceX",
             "description": "GraphQL, Company, Ships, launchpad and launch data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Science & Math"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://github.com/r-spacex/SpaceX-API"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "no"
+            },
+            "name": "SpaceX",
+            "description": "Company, vehicle, launchpad and launch data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Science & Math"
@@ -49903,22 +49903,6 @@ module.exports = {
         },
         {
             "links": {
-                "Website": "https://www.inegi.org.mx/datos/"
-            },
-            "public_api_fields": {
-                "auth": "",
-                "https": true,
-                "cors": "unknown"
-            },
-            "name": "Open Government, Mexico",
-            "description": "Mexican Statistical Government Open Data",
-            "categories": [
-                "Public APIs/All",
-                "Public APIs/Government"
-            ]
-        },
-        {
-            "links": {
                 "Website": "https://datos.gob.mx/"
             },
             "public_api_fields": {
@@ -49928,6 +49912,22 @@ module.exports = {
             },
             "name": "Open Government, Mexico",
             "description": "Mexico Government Open Data",
+            "categories": [
+                "Public APIs/All",
+                "Public APIs/Government"
+            ]
+        },
+        {
+            "links": {
+                "Website": "https://www.inegi.org.mx/datos/"
+            },
+            "public_api_fields": {
+                "auth": "",
+                "https": true,
+                "cors": "unknown"
+            },
+            "name": "Open Government, Mexico",
+            "description": "Mexican Statistical Government Open Data",
             "categories": [
                 "Public APIs/All",
                 "Public APIs/Government"
@@ -53958,17 +53958,6 @@ module.exports = {
             "icon": "https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png"
         },
         {
-            "name": "CodePen Radio",
-            "categories": [
-                "Programming/Podcasts"
-            ],
-            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-            "links": {
-                "Website": "https://blog.codepen.io/radio/"
-            },
-            "icon": "https://blog.codepen.io/favicon.ico"
-        },
-        {
             "name": "Codepen radio",
             "categories": [
                 "Programming/Podcasts"
@@ -53978,6 +53967,17 @@ module.exports = {
                 "Website": "https://blog.codepen.io/radio/"
             },
             "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
+        },
+        {
+            "name": "CodePen Radio",
+            "categories": [
+                "Programming/Podcasts"
+            ],
+            "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+            "links": {
+                "Website": "https://blog.codepen.io/radio/"
+            },
+            "icon": "https://blog.codepen.io/favicon.ico"
         },
         {
             "name": "Commit Your Code!",
