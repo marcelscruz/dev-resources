@@ -8,7 +8,7 @@ const {
     indieHacking,
     community,
 } = require('../constants/categories')
-const { website, youtube, github, twitter } = require('../constants/links')
+const { website, youtube, github, twitter, npm } = require('../constants/links')
 
 module.exports = [
     {
