@@ -8,7 +8,7 @@ const {
     indieHacking,
     community,
 } = require('../constants/categories')
-const { website, youtube, github, twitter } = require('../constants/links')
+const { website, youtube, github, twitter, npm } = require('../constants/links')
 
 module.exports = [
     {
@@ -219,6 +219,18 @@ module.exports = [
             [website]: 'https://graygrids.com/',
         },
         icon: 'https://graygrids.com/wp-content/uploads/Group-1-2.png',
+    },
+    {
+        name: 'Greip',
+        categories: [programming.javascript.utilities, toolsAndUtilities.general],
+        description:
+            'One of the must trusted IP Geolocation API providers. Which allows you know more about your website/app visitors by collecting information such as the IP Address, country, city, region, timezone, security threats, browser, etc.',
+        links: {
+            [website]: 'https://greip.io/',
+            [npm]: 'https://www.npmjs.com/package/gre-geoip',
+            [github]: 'https://github.com/gre-dev',
+        },
+        icon: 'https://greip.io/img/greip-logo.png',
     },
     {
         name: 'Grid.Guide',
