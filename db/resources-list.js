@@ -12713,6 +12713,20 @@ module.exports = [
         "icon": "https://graygrids.com/wp-content/uploads/Group-1-2.png"
     },
     {
+        "name": "Greip",
+        "categories": [
+            "Programming/JavaScript/Utilities",
+            "Tools & Utilities/General"
+        ],
+        "description": "One of the must trusted IP Geolocation API providers. Which allows you know more about your website/app visitors by collecting information such as the IP Address, country, city, region, timezone, security threats, browser, etc.",
+        "links": {
+            "Website": "https://greip.io/",
+            "npm": "https://www.npmjs.com/package/gre-geoip",
+            "GitHub": "https://github.com/gre-dev"
+        },
+        "icon": "https://greip.io/img/greip-logo.png"
+    },
+    {
         "links": {
             "Website": "https://docs.greynoise.io/reference/get_v3-community-ip"
         },

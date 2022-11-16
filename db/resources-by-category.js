@@ -25583,6 +25583,20 @@ module.exports = {
                 "Website": "https://1loc.dev/"
             },
             "icon": "https://1loc.dev/assets/favicon.png"
+        },
+        {
+            "name": "Greip",
+            "categories": [
+                "Programming/JavaScript/Utilities",
+                "Tools & Utilities/General"
+            ],
+            "description": "One of the must trusted IP Geolocation API providers. Which allows you know more about your website/app visitors by collecting information such as the IP Address, country, city, region, timezone, security threats, browser, etc.",
+            "links": {
+                "Website": "https://greip.io/",
+                "npm": "https://www.npmjs.com/package/gre-geoip",
+                "GitHub": "https://github.com/gre-dev"
+            },
+            "icon": "https://greip.io/img/greip-logo.png"
         }
     ],
     "public-apis/url-shorteners": [
@@ -45208,6 +45222,20 @@ module.exports = {
                 "Website": "https://getterms.io/"
             },
             "icon": "https://getterms.io/img/apple-touch-icon-72x72.png"
+        },
+        {
+            "name": "Greip",
+            "categories": [
+                "Programming/JavaScript/Utilities",
+                "Tools & Utilities/General"
+            ],
+            "description": "One of the must trusted IP Geolocation API providers. Which allows you know more about your website/app visitors by collecting information such as the IP Address, country, city, region, timezone, security threats, browser, etc.",
+            "links": {
+                "Website": "https://greip.io/",
+                "npm": "https://www.npmjs.com/package/gre-geoip",
+                "GitHub": "https://github.com/gre-dev"
+            },
+            "icon": "https://greip.io/img/greip-logo.png"
         },
         {
             "name": "Grid.Guide",
