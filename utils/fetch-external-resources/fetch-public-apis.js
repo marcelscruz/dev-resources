@@ -1,5 +1,5 @@
 const axios = require('axios')
-const links = require('../../constants/links')
+const { links } = require('../../const/links')
 
 const { website } = links
 

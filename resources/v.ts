@@ -1,5 +1,6 @@
-const { uiDesign, infrastructure, toolsAndUtilities, assets, jobs, programming } = require('../constants/categories')
-const { website, github } = require('../constants/links')
+import { categories, links } from 'const'
+const { uiDesign, infrastructure, toolsAndUtilities, assets, jobs, programming } = categories
+const { website, github } = links
 
 module.exports = [
     {
@@ -90,7 +91,7 @@ module.exports = [
             [github]: 'https://github.com/vuejs/devtools',
         },
         icon: 'https://vuejs.org/images/icons/favicon-96x96.png',
-        keywords: ['dev tools', 'Vue', 'debugging', 'extension', 'browser extension']
+        keywords: ['dev tools', 'Vue', 'debugging', 'extension', 'browser extension'],
     },
     {
         name: 'VueJobs',

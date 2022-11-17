@@ -1,14 +1,6 @@
-const {
-    community,
-    indieHacking,
-    programming,
-    assets,
-    uiDesign,
-    toolsAndUtilities,
-    jobs,
-    infrastructure,
-} = require('../constants/categories')
-const { website, twitter, youtube, instagram, linkedin, github, codepen, facebook } = require('../constants/links')
+import { categories, links } from 'const'
+const { community, indieHacking, programming, assets, uiDesign, toolsAndUtilities, jobs, infrastructure } = categories
+const { website, twitter, youtube, instagram, linkedin, github, codepen, facebook } = links
 
 module.exports = [
     {
@@ -367,7 +359,8 @@ module.exports = [
     {
         name: 'My Career List - Find Your Next Remote Job',
         categories: [jobs.boards],
-        description: 'My Career List is the most advanced job search and job posting platform. Receive company insights and learn about interview experiences.',
+        description:
+            'My Career List is the most advanced job search and job posting platform. Receive company insights and learn about interview experiences.',
         links: {
             [website]: 'https://mycareerlist.com/',
         },

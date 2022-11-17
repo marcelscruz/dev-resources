@@ -1,14 +1,6 @@
-const {
-    programming,
-    assets,
-    jobs,
-    uiDesign,
-    toolsAndUtilities,
-    indieHacking,
-    infrastructure,
-    community,
-} = require('../constants/categories')
-const { website, youtube, twitter, discord } = require('../constants/links')
+import { categories, links } from 'const'
+const { programming, assets, jobs, uiDesign, toolsAndUtilities, indieHacking, infrastructure, community } = categories
+const { website, youtube, twitter, discord } = links
 
 module.exports = [
     {
@@ -105,13 +97,14 @@ module.exports = [
     },
     {
         name: 'Decoded Frontend',
-        description: 'Decoded Frontend is a source of advanced & pragmatic video tutorials about Angular, GraphQL and Web Development in particular. My name is Dmytro Mezhenskyi. I am an author of this channel and I have been a Frontend Developer since 2012. It means 9 Years... whoa... and I still enjoy it 😄 During my carrier I have worked with various projects which had different scale and complexity and now I realised that it is a time to share my knowledge with another developers around the globe. My channel has already helped developers to find answers on sophisticated Angular topics and I am sure you will be able to find something interesting for you as well. Subscribe to my channel, leave your feedbacks and become a better Developer 😉',
+        description:
+            'Decoded Frontend is a source of advanced & pragmatic video tutorials about Angular, GraphQL and Web Development in particular. My name is Dmytro Mezhenskyi. I am an author of this channel and I have been a Frontend Developer since 2012. It means 9 Years... whoa... and I still enjoy it 😄 During my carrier I have worked with various projects which had different scale and complexity and now I realised that it is a time to share my knowledge with another developers around the globe. My channel has already helped developers to find answers on sophisticated Angular topics and I am sure you will be able to find something interesting for you as well. Subscribe to my channel, leave your feedbacks and become a better Developer 😉',
         categories: [programming.youtubeChannels],
         links: {
             [website]: 'https://www.youtube.com/c/DecodedFrontend/featured',
         },
         icon: 'https://www.youtube.com/s/desktop/b349a03a/img/favicon_96x96.png',
-        keywords: ['Angular', 'GraphQL', 'Web Development', 'tutorials']
+        keywords: ['Angular', 'GraphQL', 'Web Development', 'tutorials'],
     },
     {
         name: 'Default Alive',
@@ -375,7 +368,8 @@ module.exports = [
     },
     {
         name: 'Drupal',
-        description: 'Drupal is an open source platform for building amazing digital experiences. It is made by a dedicated community. Anyone can use it, and it will always be free.',
+        description:
+            'Drupal is an open source platform for building amazing digital experiences. It is made by a dedicated community. Anyone can use it, and it will always be free.',
         categories: [toolsAndUtilities.websiteBuilders],
         links: {
             [website]: 'https://www.drupal.org/',

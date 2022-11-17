@@ -1,4 +1,4 @@
-module.exports = {
+export const categories = {
     assets: {
         audio: 'Assets/Audio',
         fonts: 'Assets/Fonts',

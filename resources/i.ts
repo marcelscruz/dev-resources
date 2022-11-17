@@ -1,15 +1,6 @@
-const { assets, toolsAndUtilities, jobs, indieHacking, programming } = require('../constants/categories')
-const {
-    website,
-    spotify,
-    applePodcasts,
-    googlePodcasts,
-    youtube,
-    facebook,
-    slack,
-    indieHackers,
-    twitter,
-} = require('../constants/links')
+import { categories, links } from 'const'
+const { assets, toolsAndUtilities, jobs, indieHacking, programming } = categories
+const { website, spotify, applePodcasts, googlePodcasts, youtube, facebook, slack, indieHackers, twitter } = links
 
 module.exports = [
     {
@@ -291,7 +282,8 @@ module.exports = [
     },
     {
         name: 'Illustrations-figma',
-        description: 'More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.',
+        description:
+            'More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.',
         categories: [assets.illustrations],
         links: {
             [website]: 'https://www.artify.co/illustrations-figma',
@@ -300,7 +292,8 @@ module.exports = [
     },
     {
         name: 'Iconshock',
-        description: 'The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.',
+        description:
+            'The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.',
         categories: [assets.icons],
         links: {
             [website]: 'https://www.iconshock.com/',

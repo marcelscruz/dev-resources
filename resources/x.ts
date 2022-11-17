@@ -1,5 +1,6 @@
-const { community, programming, infrastructure } = require('../constants/categories')
-const { website, github } = require('../constants/links')
+import { categories, links } from 'const'
+const { community, programming, infrastructure } = categories
+const { website, github } = links
 
 module.exports = [
     {

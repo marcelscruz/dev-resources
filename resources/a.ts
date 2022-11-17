@@ -1,14 +1,6 @@
-const {
-    toolsAndUtilities,
-    programming,
-    uiDesign,
-    indieHacking,
-    jobs,
-    infrastructure,
-    assets,
-    community,
-} = require('../constants/categories')
-const { website, youtube, github, twitter, facebook, linkedin, discord, instagram } = require('../constants/links')
+import { categories, links } from 'const'
+const { toolsAndUtilities, programming, uiDesign, indieHacking, jobs, infrastructure, assets, community } = categories
+const { website, youtube, github, twitter, facebook, linkedin, discord, instagram } = links
 
 module.exports = [
     {
@@ -183,7 +175,8 @@ module.exports = [
     },
     {
         name: 'Angular DevTools',
-        description: 'Angular DevTools extends Chrome DevTools adding Angular specific debugging and profiling capabilities. You can use Angular DevTools to understand the structure of your application and preview the state of the directive and the component instances. To get insights into the execution of the application, you can use the profiler tab, which shows you the individual change detection cycles, what triggered them, and how much time Angular spent in them.',
+        description:
+            'Angular DevTools extends Chrome DevTools adding Angular specific debugging and profiling capabilities. You can use Angular DevTools to understand the structure of your application and preview the state of the directive and the component instances. To get insights into the execution of the application, you can use the profiler tab, which shows you the individual change detection cycles, what triggered them, and how much time Angular spent in them.',
         categories: [toolsAndUtilities.browsersAndExtensions],
         links: {
             [website]: 'https://angular.io/guide/devtools',
@@ -331,15 +324,14 @@ module.exports = [
     },
     {
         name: 'Axorax',
-        description:
-            'Read articles on programming, design and more.',
+        description: 'Read articles on programming, design and more.',
         categories: [community.personalWebsites],
         links: {
             [website]: 'https://axorax.tk/',
             [youtube]: 'https://www.youtube.com/c/Axorax',
             [discord]: 'https://discord.gg/nKUFghjXQu',
         },
-        icon: 'https://axorax.tk/assets/img/Axorax.svg'
+        icon: 'https://axorax.tk/assets/img/Axorax.svg',
     },
     {
         name: 'Azure',

@@ -1,13 +1,6 @@
-const {
-    toolsAndUtilities,
-    programming,
-    jobs,
-    community,
-    uiDesign,
-    assets,
-    infrastructure,
-} = require('../constants/categories')
-const { website, twitter, linkedin, github, facebook, youtube, instagram, codepen } = require('../constants/links')
+import { categories, links } from 'const'
+const { toolsAndUtilities, programming, jobs, community, uiDesign, assets, infrastructure } = categories
+const { website, twitter, linkedin, github, facebook, youtube, instagram, codepen } = links
 
 module.exports = [
     {
@@ -462,8 +455,7 @@ module.exports = [
     {
         name: 'React Free Admin',
         categories: [programming.javascript.react],
-        description:
-            'Download Free React and NextJs Admin Dashboard Templates',
+        description: 'Download Free React and NextJs Admin Dashboard Templates',
         links: {
             [website]: 'https://www.wrappixel.com/templates/category/react-templates/',
         },

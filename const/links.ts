@@ -1,4 +1,4 @@
-module.exports = {
+export const links = {
     applePodcasts: 'Apple Podcasts',
     codepen: 'CodePen',
     discord: 'Discord',

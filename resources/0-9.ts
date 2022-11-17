@@ -1,5 +1,6 @@
-const { assets, programming, toolsAndUtilities, jobs } = require('../constants/categories')
-const { website } = require('../constants/links')
+import { categories, links } from 'const'
+const { assets, programming, toolsAndUtilities, jobs } = categories
+const { website } = links
 
 module.exports = [
     {
@@ -62,7 +63,8 @@ module.exports = [
     {
         name: '3dicons',
         categories: [assets.icons],
-        description: 'A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views.',
+        description:
+            'A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views.',
         links: {
             [website]: 'https://www.3dicons.com/',
         },

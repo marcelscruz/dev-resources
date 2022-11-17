@@ -1,24 +1,6 @@
-const {
-    jobs,
-    uiDesign,
-    assets,
-    infrastructure,
-    programming,
-    toolsAndUtilities,
-    indieHacking,
-    community,
-} = require('../constants/categories')
-const {
-    website,
-    youtube,
-    github,
-    twitter,
-    discord,
-    instagram,
-    productHunt,
-    facebook,
-    gumroad,
-} = require('../constants/links')
+import { categories, links } from 'const'
+const { jobs, uiDesign, assets, infrastructure, programming, toolsAndUtilities, indieHacking, community } = categories
+const { website, youtube, github, twitter, discord, instagram, productHunt, facebook, gumroad } = links
 
 module.exports = [
     {
@@ -191,8 +173,7 @@ module.exports = [
     {
         name: 'Circum Icons',
         categories: [assets.icons],
-        description:
-            'Consistent open source icons as SVG for React, Vue and Svelte.',
+        description: 'Consistent open source icons as SVG for React, Vue and Svelte.',
         links: {
             [website]: 'https://circumicons.com/',
         },
@@ -344,14 +325,7 @@ module.exports = [
         categories: [programming.learn],
         description:
             'Learn programming languages by playing the Role Playing Game. Different languages, beginner-friendly learning curve.',
-        keywords: [
-            'Python',
-            'JavaScript',
-            'CoffeeScript',
-            'Lua',
-            'C++',
-            'Java',
-        ],
+        keywords: ['Python', 'JavaScript', 'CoffeeScript', 'Lua', 'C++', 'Java'],
         links: {
             [website]: 'https://www.codecombat.com/',
         },

@@ -1,6 +1,6 @@
 const normalize = require('../normalize-strings')
 const truncate = require('../truncate')
-const links = require('../../constants/links')
+const { links } = require('../../const/links')
 
 const { website } = links
 

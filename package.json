@@ -4,14 +4,16 @@
     "version": "1.0.0",
     "description": "The API for the resources listed on Dev Resources.",
     "scripts": {
-        "update-db": "node utils/db/update-db.js",
-        "update-readme": "node utils/readme/update-readme.js"
+        "update-db": "ts-node utils/db/update-db.js",
+        "update-readme": "ts-node utils/readme/update-readme.js"
     },
     "dependencies": {
         "axios": "^0.21.1",
-        "lodash.deburr": "^4.1.0"
+        "lodash.deburr": "^4.1.0",
+        "tsconfig-paths": "^4.1.0"
     },
     "devDependencies": {
+        "@types/node": "^18.11.9",
         "eslint": "^7.18.0",
         "prettier": "2.2.1"
     },

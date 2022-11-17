@@ -1,14 +1,6 @@
-const {
-    toolsAndUtilities,
-    uiDesign,
-    programming,
-    jobs,
-    assets,
-    indieHacking,
-    infrastructure,
-    community,
-} = require('../constants/categories')
-const { website, twitter, youtube, linkedin, facebook } = require('../constants/links')
+import { categories, links } from 'const'
+const { toolsAndUtilities, uiDesign, programming, jobs, assets, indieHacking, infrastructure, community } = categories
+const { website, twitter, youtube, linkedin, facebook } = links
 
 module.exports = [
     {
