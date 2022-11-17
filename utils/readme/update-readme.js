@@ -10,10 +10,10 @@ const url = 'https://devresourc.es/?ref=github-readme'
 
 const logo = `<a href="${url}"><p align="center"><img width="5000" src="./public/assets/images/logo-with-bg.png" /></p></a>\n\n`
 
+const description = `<div align="center">The resources that power <a href="${url}" target="_blank" rel="noopener">Dev Resources</a></div>\n\n`
+
 const warning =
     '---\n>❗️ This README file is auto-generated on every **push** or **merge**, so please ***do not*** edit it. Changes related to resources should happen within the `/resources` folder.\n---\n\n'
-
-const description = `The resources list that powers [Dev Resources](${url}).\n\n`
 
 const contributionGuide = 'To add a resource, check the [contributing guide](CONTRIBUTING.md).\n\n'
 
@@ -28,7 +28,7 @@ async function updateReadme() {
         const tables = createTables(resourcesTree)
 
         await writeToFile({
-            data: `${logo} ${warning} ${description} ${contributionGuide} ${publicApisLink} ${resourcesCount} ${index} ${tables}`,
+            data: `${logo} ${description} ${warning} ${contributionGuide}${publicApisLink} ${resourcesCount} ${index} ${tables}`,
             filePath: './README.md',
         })
     } catch (error) {
