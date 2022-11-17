@@ -1,14 +1,14 @@
 <a href="https://devresourc.es/?ref=github-readme"><p align="center"><img width="5000" src="./public/assets/images/logo-with-bg.png" /></p></a>
 
+ <div align="center">The resources that power <a href="https://devresourc.es/?ref=github-readme" target="_blank" rel="noopener">Dev Resources</a></div>
+
  ---
 >❗️ This README file is auto-generated on every **push** or **merge**, so please ***do not*** edit it. Changes related to resources should happen within the `/resources` folder.
 ---
 
- The resources list that powers [Dev Resources](https://devresourc.es/?ref=github-readme).
-
  To add a resource, check the [contributing guide](CONTRIBUTING.md).
 
- Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis).
+Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis).
 
  ### Total resources: 720
 
