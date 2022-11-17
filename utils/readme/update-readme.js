@@ -1,8 +1,10 @@
-const resourcesList = require('../../db/resources-list')
+const getResourcesList = require('../get-resources-list')
 const createTree = require('./create-tree')
 const createIndex = require('./create-index')
 const createTables = require('./create-tables')
 const writeToFile = require('../write-to-file')
+
+const resourcesList = getResourcesList()
 
 const url = 'https://devresourc.es/?ref=github-readme'
 
