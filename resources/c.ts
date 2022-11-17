@@ -579,6 +579,15 @@ export const resources: Resource[] = [
         icon: 'https://www.codewell.cc/favicon.ico',
         keywords: ['frontend', 'html', 'css', 'flexbox', 'grid', 'javascript'],
     },
+     {
+        name: 'Codinn',
+        categories: [programming.learn, programming.codeChallenges],
+        description: '30 Days of ReactJs challenge is a step by step tutorial to level up your React skills in 30 days by developing 30 projects.',
+        links: {
+            [website]: 'https://www.codinn.dev/',
+        },
+        keywords: ['frontend', 'html', 'css', 'reactjs', 'react', 'javascript', 'react projects', 'reactjs projects'],
+    },
     {
         name: 'Codiga',
         categories: [programming.codeSnippets],
