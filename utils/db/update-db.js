@@ -1,29 +1,19 @@
-const fs = require('fs')
-const files = fs.readdirSync('./resources')
-const fetchPublicApis = require('../fetch-external-resources/fetch-public-apis')
-const createFlatResourcesList = require('./create-flat-resources-list')
-const createResourcesByCategory = require('./create-resources-by-category')
+const getResourcesList = require('../get-resources-list')
 const createCategoriesList = require('./create-categories-list')
+const createResourcesByCategory = require('./create-resources-by-category')
 const writeToFile = require('../write-to-file')
 
 async function updateDB() {
     try {
-        // Fetch external resources
-        const publicApis = await fetchPublicApis()
-
-        // Create flat resources list
-        const flattenedResources = createFlatResourcesList({
-            files,
-            externalResources: [...publicApis],
-        })
+        const resourcesList = getResourcesList()
 
         await writeToFile({
-            data: `module.exports = ${JSON.stringify(flattenedResources, null, 4)}`,
+            data: `module.exports = ${JSON.stringify(resourcesList, null, 4)}`,
             filePath: './db/resources-list.js',
         })
 
         // Create resources by category
-        const resourcesByCategory = createResourcesByCategory(flattenedResources)
+        const resourcesByCategory = createResourcesByCategory(resourcesList)
 
         await writeToFile({
             data: `module.exports = ${JSON.stringify(resourcesByCategory, null, 4)}`,
@@ -31,7 +21,7 @@ async function updateDB() {
         })
 
         // Create categories list
-        const categoriesList = createCategoriesList(flattenedResources)
+        const categoriesList = createCategoriesList(resourcesList)
 
         await writeToFile({
             data: `module.exports = ${JSON.stringify(categoriesList, null, 4)}`,
