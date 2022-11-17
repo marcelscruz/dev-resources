@@ -8,24 +8,24 @@ async function updateDB() {
         const resourcesList = getResourcesList()
 
         await writeToFile({
-            data: `module.exports = ${JSON.stringify(resourcesList, null, 4)}`,
-            filePath: './db/resources-list.js',
+            data: `{"data": ${JSON.stringify(resourcesList, null, 4)}}`,
+            filePath: './db/resources-list.json',
         })
 
         // Create resources by category
         const resourcesByCategory = createResourcesByCategory(resourcesList)
 
         await writeToFile({
-            data: `module.exports = ${JSON.stringify(resourcesByCategory, null, 4)}`,
-            filePath: './db/resources-by-category.js',
+            data: `{"data": ${JSON.stringify(resourcesByCategory, null, 4)}}`,
+            filePath: './db/resources-by-category.json',
         })
 
         // Create categories list
         const categoriesList = createCategoriesList(resourcesList)
 
         await writeToFile({
-            data: `module.exports = ${JSON.stringify(categoriesList, null, 4)}`,
-            filePath: './db/categories-list.js',
+            data: `{"data": ${JSON.stringify(categoriesList, null, 4)}}`,
+            filePath: './db/categories-list.json',
         })
     } catch (error) {
         throw new Error(error)
