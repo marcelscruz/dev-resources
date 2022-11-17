@@ -1,10 +1,9 @@
 const getResourcesList = require('../get-resources-list')
 const createCategoriesList = require('./create-categories-list')
-const createResourcesByCategory = require('./create-resources-by-category')
 const writeToFile = require('../write-to-file')
 
 const formatJson = (data) => {
-    return `{"data": ${JSON.stringify(data, null, 4)}}`
+    return `{\n"count": ${data.length},\n"data": ${JSON.stringify(data, null, 4)}}`
 }
 
 async function updateDB() {
@@ -14,14 +13,6 @@ async function updateDB() {
         await writeToFile({
             data: formatJson(resourcesList),
             filePath: './db/resources-list.json',
-        })
-
-        // Create resources by category
-        const resourcesByCategory = createResourcesByCategory(resourcesList)
-
-        await writeToFile({
-            data: formatJson(resourcesByCategory),
-            filePath: './db/resources-by-category.json',
         })
 
         // Create categories list
