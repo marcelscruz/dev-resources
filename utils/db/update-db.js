@@ -12,7 +12,7 @@ async function updateDB() {
 
         await writeToFile({
             data: formatJson(resourcesList),
-            filePath: './db/resources-list.json',
+            filePath: './db/resources.json',
         })
 
         // Create categories list
@@ -20,7 +20,7 @@ async function updateDB() {
 
         await writeToFile({
             data: formatJson(categoriesList),
-            filePath: './db/categories-list.json',
+            filePath: './db/categories.json',
         })
     } catch (error) {
         throw new Error(error)
