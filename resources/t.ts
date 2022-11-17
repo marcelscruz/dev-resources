@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { assets, programming, community, toolsAndUtilities, indieHacking, jobs } = categories
 const { website, youtube, github, twitter, linkedin } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'Tabler Icons',
         categories: [assets.icons],

@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { toolsAndUtilities, programming, jobs, community, uiDesign, assets, infrastructure } = categories
 const { website, twitter, linkedin, github, facebook, youtube, instagram, codepen } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'RapidAPI',
         categories: [toolsAndUtilities.apiBuilding, toolsAndUtilities.general],

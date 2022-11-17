@@ -8,14 +8,13 @@
         "update-readme": "ts-node utils/readme/update-readme.js"
     },
     "dependencies": {
-        "axios": "^0.21.1",
-        "lodash.deburr": "^4.1.0",
-        "tsconfig-paths": "^4.1.0"
-    },
-    "devDependencies": {
         "@types/node": "^18.11.9",
+        "axios": "^0.21.1",
         "eslint": "^7.18.0",
-        "prettier": "2.2.1"
+        "lodash.deburr": "^4.1.0",
+        "prettier": "2.2.1",
+        "tsconfig-paths": "^4.1.0",
+        "typescript": "^4.9.3"
     },
     "repository": {
         "type": "git",

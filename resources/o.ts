@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { toolsAndUtilities, uiDesign, assets, programming, indieHacking } = categories
 const { website, github, twitter } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'Octotree',
         categories: [toolsAndUtilities.browsersAndExtensions],

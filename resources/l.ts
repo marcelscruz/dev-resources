@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { programming, toolsAndUtilities, uiDesign, indieHacking, jobs, assets, community, infrastructure } = categories
 const { website, youtube, gumroad, github, twitter } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'Ladybug',
         categories: [programming.podcasts],

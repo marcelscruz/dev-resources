@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { assets, programming, toolsAndUtilities, jobs } = categories
 const { website } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: '1001 Fonts',
         categories: [assets.fonts],

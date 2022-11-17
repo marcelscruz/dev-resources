@@ -1,3 +1,3 @@
-module.exports = []
+import { Resource } from 'types'
 
-export {}
+export const resources: Resource[] = []

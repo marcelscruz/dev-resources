@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { uiDesign, infrastructure, toolsAndUtilities, assets, jobs, programming } = categories
 const { website, github } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'Vectr',
         categories: [uiDesign.prototyping],

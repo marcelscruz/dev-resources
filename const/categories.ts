@@ -91,4 +91,4 @@ export const categories = {
         utilities: 'UI Design/Utilities',
         youtubeChannels: 'UI Design/YouTube Channels',
     },
-}
+} as const

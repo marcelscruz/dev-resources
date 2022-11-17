@@ -17,4 +17,4 @@ export const links = {
     twitter: 'Twitter',
     website: 'Website',
     youtube: 'YouTube',
-}
+} as const

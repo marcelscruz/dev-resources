@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { programming, assets, jobs, uiDesign, toolsAndUtilities, indieHacking, infrastructure, community } = categories
 const { website, youtube, twitter, discord } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'D3.js',
         categories: [programming.charts],

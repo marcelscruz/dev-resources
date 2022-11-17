@@ -21,6 +21,8 @@
         "paths": {
             "const": ["const"],
             "const/*": ["const/*"],
+            "resources": ["./resources"],
+            "resources/*": ["./resources/*"],
             "types": ["./types"],
             "types/*": ["./types/*"],
             "utils": ["./utils"],
@@ -36,6 +38,6 @@
         "transpileOnly": true,
         "require": ["tsconfig-paths/register"]
     },
-    "include": ["**/*.ts", "**/*.tsx"],
+    "include": ["**/*.ts", "**/*.tsx", "**/*.js", "**/*.jsx"],
     "exclude": ["node_modules"]
 }

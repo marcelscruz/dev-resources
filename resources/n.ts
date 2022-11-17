@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { programming, infrastructure, toolsAndUtilities, assets, jobs, uiDesign } = categories
 const { website } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'n3-charts',
         categories: [programming.charts],

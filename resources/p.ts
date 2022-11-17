@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { toolsAndUtilities, uiDesign, programming, jobs, assets, indieHacking, infrastructure, community } = categories
 const { website, twitter, youtube, linkedin, facebook } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'PageSpeed Insights',
         categories: [toolsAndUtilities.performance],

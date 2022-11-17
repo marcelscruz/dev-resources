@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { toolsAndUtilities, assets, uiDesign, infrastructure, programming, jobs, community } = categories
 const { website, youtube } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'Fake Img',
         categories: [toolsAndUtilities.imageAndVideoEditing],

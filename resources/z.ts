@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { indieHacking, programming, jobs, toolsAndUtilities } = categories
 const { website } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'Zero To Sold',
         categories: [indieHacking.books],

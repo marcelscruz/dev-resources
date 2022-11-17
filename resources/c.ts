@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { jobs, uiDesign, assets, infrastructure, programming, toolsAndUtilities, indieHacking, community } = categories
 const { website, youtube, github, twitter, discord, instagram, productHunt, facebook, gumroad } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'CakeResume',
         categories: [jobs.resumeBuilders],

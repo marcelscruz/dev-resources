@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { toolsAndUtilities, assets, programming, uiDesign, infrastructure, jobs, community, indieHacking } = categories
 const { website, twitter, facebook, instagram, linkedin, github } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'Ubersuggest',
         categories: [toolsAndUtilities.seo],

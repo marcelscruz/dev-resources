@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { assets, programming, jobs } = categories
 const { website, github } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'Jam',
         categories: [assets.icons],

@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { programming, toolsAndUtilities, community } = categories
 const { website, youtube, twitch, twitter, codepen, discord, github } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'Kent C. Dodds',
         categories: [programming.youtubeChannels],

@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { community, indieHacking, programming, assets, uiDesign, toolsAndUtilities, jobs, infrastructure } = categories
 const { website, twitter, youtube, instagram, linkedin, github, codepen, facebook } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'Madza Quizzes',
         categories: [jobs.interviews],

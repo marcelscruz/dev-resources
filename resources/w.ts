@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { programming, toolsAndUtilities, jobs, uiDesign, community, infrastructure } = categories
 const { website, youtube, twitter, facebook, github, slack } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'W3Layouts',
         categories: [programming.templates],

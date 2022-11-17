@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { toolsAndUtilities, programming, uiDesign, indieHacking, jobs, infrastructure, assets, community } = categories
 const { website, youtube, github, twitter, facebook, linkedin, discord, instagram } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'A11Y Style Guide',
         categories: [toolsAndUtilities.accessibility],

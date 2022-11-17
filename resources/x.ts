@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { community, programming, infrastructure } = categories
 const { website, github } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'XDA-Developers',
         categories: [community.blogsAndForums],

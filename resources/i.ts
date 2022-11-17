@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { assets, toolsAndUtilities, jobs, indieHacking, programming } = categories
 const { website, spotify, applePodcasts, googlePodcasts, youtube, facebook, slack, indieHackers, twitter } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'Icon Horse',
         categories: [assets.icons],

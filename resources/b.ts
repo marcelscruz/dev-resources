@@ -1,8 +1,10 @@
 import { categories, links } from 'const'
+import { Resource } from 'types'
+
 const { toolsAndUtilities, uiDesign, programming, assets, indieHacking, infrastructure } = categories
 const { website, youtube, twitter, facebook, github } = links
 
-module.exports = [
+export const resources: Resource[] = [
     {
         name: 'Backlink Checker',
         categories: [toolsAndUtilities.seo],
