@@ -15,9 +15,9 @@ const warning =
 
 const description = `The resources list that powers [Dev Resources](${url}).\n\n`
 
-const contributionGuide = 'For information on contributing, please see the [contributing guide](CONTRIBUTING.md).\n\n'
+const contributionGuide = 'To add a resource, check the [contributing guide](CONTRIBUTING.md).\n\n'
 
-const discordLink = 'Join us on [Discord](https://discord.gg/SHw6TmXreR).\n\n'
+const publicApisLink = `Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis).\n\n`
 
 const resourcesCount = `### Total resources: ${resourcesList.length}\n\n`
 
@@ -28,7 +28,7 @@ async function updateReadme() {
         const tables = createTables(resourcesTree)
 
         await writeToFile({
-            data: `${logo} ${warning} ${description} ${contributionGuide} ${discordLink} ${resourcesCount} ${index} ${tables}`,
+            data: `${logo} ${warning} ${description} ${contributionGuide} ${publicApisLink} ${resourcesCount} ${index} ${tables}`,
             filePath: './README.md',
         })
     } catch (error) {
