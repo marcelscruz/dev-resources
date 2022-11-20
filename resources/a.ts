@@ -146,6 +146,22 @@ export const resources: Resource[] = [
         icon: 'https://static.ahrefs.com/favicon-32x32.png?v=2',
     },
     {
+        name: 'AI Jobs',
+        categories: [jobs.boards],
+        description: 'Find all AI (Artificial Intelligence) jobs in one place.',
+        keywords: [
+            'ai',
+            'artificial intelligence',
+            'remote',
+            'jobs',
+            'developer'
+        ],
+        links: {
+            [website]: 'https://aijobs.app',
+        },
+        icon: 'https://pbs.twimg.com/profile_images/1588402655860207616/EkT-9MxJ_400x400.jpg',
+    },
+    {
         name: 'Airtable',
         categories: [indieHacking.utilities, infrastructure.databases, infrastructure.serverless],
         description:
