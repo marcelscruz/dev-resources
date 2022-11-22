@@ -1,5 +1,5 @@
 {
-"count": 720,
+"count": 721,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1685,6 +1685,27 @@
             "Website": "https://www.codingame.com/"
         },
         "icon": "https://static.codingame.com/assets/favicon_32_32.3e3c075c.png"
+    },
+    {
+        "name": "Codinn",
+        "categories": [
+            "Programming/Learn",
+            "Programming/Code Challenges"
+        ],
+        "description": "30 Days of ReactJs challenge is a step by step tutorial to level up your React skills in 30 days by developing 30 projects.",
+        "links": {
+            "Website": "https://www.codinn.dev/"
+        },
+        "keywords": [
+            "frontend",
+            "html",
+            "css",
+            "reactjs",
+            "react",
+            "javascript",
+            "react projects",
+            "reactjs projects"
+        ]
     },
     {
         "name": "Codrops",
