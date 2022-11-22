@@ -1,5 +1,5 @@
 {
-"count": 721,
+"count": 722,
 "data": [
     {
         "name": "1001 Fonts",
@@ -264,6 +264,24 @@
             "Website": "https://ahrefs.com/"
         },
         "icon": "https://static.ahrefs.com/favicon-32x32.png?v=2"
+    },
+    {
+        "name": "AI Jobs",
+        "categories": [
+            "Jobs/Boards"
+        ],
+        "description": "Find all AI (Artificial Intelligence) jobs in one place.",
+        "keywords": [
+            "ai",
+            "artificial intelligence",
+            "remote",
+            "jobs",
+            "developer"
+        ],
+        "links": {
+            "Website": "https://aijobs.app"
+        },
+        "icon": "https://pbs.twimg.com/profile_images/1588402655860207616/EkT-9MxJ_400x400.jpg"
     },
     {
         "name": "Airtable",
