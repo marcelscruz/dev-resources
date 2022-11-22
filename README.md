@@ -1,4 +1,4 @@
-<a href="https://devresourc.es/?ref=github-readme"><p align="center"><img width="5000" src="./public/assets/images/logo-with-bg.png" /></p></a>
+<a href="https://devresourc.es/?ref=github-readme"><p align="center"><img width="5000" src="./assets/logo.png" /></p></a>
 
  <div align="center">The resources that power <a href="https://devresourc.es/?ref=github-readme" target="_blank" rel="noopener">Dev Resources</a></div>
 

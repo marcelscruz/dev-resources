@@ -8,7 +8,7 @@ const resourcesList = getResourcesList()
 
 const url = 'https://devresourc.es/?ref=github-readme'
 
-const logo = `<a href="${url}"><p align="center"><img width="5000" src="./public/assets/images/logo-with-bg.png" /></p></a>\n\n`
+const logo = `<a href="${url}"><p align="center"><img width="5000" src="./assets/logo.png" /></p></a>\n\n`
 
 const description = `<div align="center">The resources that power <a href="${url}" target="_blank" rel="noopener">Dev Resources</a></div>\n\n`
 

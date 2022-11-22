@@ -9,7 +9,6 @@
     },
     "dependencies": {
         "@types/node": "^18.11.9",
-        "axios": "^0.21.1",
         "eslint": "^7.18.0",
         "lodash.deburr": "^4.1.0",
         "prettier": "2.2.1",
