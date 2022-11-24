@@ -439,7 +439,10 @@ export const resources: Resource[] = [
         categories: [toolsAndUtilities.editorsAndExtensions],
         description: 'RunJS is a desktop JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.',
         links: {
-            [website]: 'https://runjs.app'
+            [website]: 'https://runjs.app',
+            [twitter]: 'https://twitter.com/runjs_app',
+            [instagram]: 'https://instagram.com/runjs_app',
+            [github]: 'https://github.com/lukehaas/RunJS'
         },
         icon: 'https://raw.githubusercontent.com/lukehaas/RunJS/master/docs/icon-small.png',
         keywords: ['javascript', 'typescript', 'playground', 'node', 'repl', 'sandbox', 'development']
