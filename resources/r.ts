@@ -435,6 +435,16 @@ export const resources: Resource[] = [
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
+        name: 'RunJS',
+        categories: [toolsAndUtilities.editorsAndExtensions],
+        description: 'RunJS is a desktop JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.',
+        links: {
+            [website]: 'https://runjs.app'
+        },
+        icon: 'https://raw.githubusercontent.com/lukehaas/RunJS/master/docs/icon-small.png',
+        keywords: ['javascript', 'typescript', 'playground', 'node', 'repl', 'sandbox', 'development']
+    },
+    {
         name: 'Rust Jobs',
         categories: [jobs.boards],
         description:
