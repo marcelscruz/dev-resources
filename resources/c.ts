@@ -1,4 +1,4 @@
-import { categories, links } from 'const'
+﻿import { categories, links } from 'const'
 import { Resource } from 'types'
 
 const { jobs, uiDesign, assets, infrastructure, programming, toolsAndUtilities, indieHacking, community } = categories
@@ -34,6 +34,17 @@ export const resources: Resource[] = [
             [website]: 'https://canvasjs.com/',
         },
         icon: 'https://canvasjs.com/wp-content/uploads/images/favicon/canvasjs-favicon-16x16.png?v=1.1',
+    },
+    {
+        name: 'CapCut',
+        categories: [toolsAndUtilities.imageAndVideoEditing],
+        description:
+            'CapCut is an all-in-one online video editing software which makes creation, upload & share easier, with frame by frame track editor, cloud drive etc.',
+        links: {
+            [website]: 'https://www.capcut.com',
+        },
+        icon: 'https://lf16-web-buz.capcut.com/obj/capcut-web-buz-us/common/images/lv_web.ico',
+        keywords: ['video editor'],
     },
     {
         name: 'Carbon',
