@@ -1,5 +1,5 @@
 {
-"count": 723,
+"count": 724,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1038,6 +1038,20 @@
             "Website": "https://canvasjs.com/"
         },
         "icon": "https://canvasjs.com/wp-content/uploads/images/favicon/canvasjs-favicon-16x16.png?v=1.1"
+    },
+    {
+        "name": "CapCut",
+        "categories": [
+            "Tools & Utilities/Image & Video Editing"
+        ],
+        "description": "CapCut is an all-in-one online video editing software which makes creation, upload & share easier, with frame by frame track editor, cloud drive etc.",
+        "links": {
+            "Website": "https://www.capcut.com"
+        },
+        "icon": "https://lf16-web-buz.capcut.com/obj/capcut-web-buz-us/common/images/lv_web.ico",
+        "keywords": [
+            "video editor"
+        ]
     },
     {
         "name": "Carbon",
