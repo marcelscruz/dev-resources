@@ -346,6 +346,15 @@ export const resources: Resource[] = [
         icon: 'https://app.brainboard.co/favicon.ico',
     },
     {
+        name: 'Branition Colors',
+        categories: [uiDesign.color],
+        description: 'Hand-curated collection of color palettes best fitted for branding.',
+        links: {
+            [website]: 'https://branition.com/colors',
+        },
+        icon: 'https://branition.com/assets/img/favicon/favicon.ico',
+    },
+    {
         name: 'Brave',
         categories: [toolsAndUtilities.browsersAndExtensions],
         description:
