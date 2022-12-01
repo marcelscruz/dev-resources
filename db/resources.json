@@ -1,5 +1,5 @@
 {
-"count": 724,
+"count": 725,
 "data": [
     {
         "name": "1001 Fonts",
@@ -933,6 +933,17 @@
             "Website": "https://www.brainboard.co/"
         },
         "icon": "https://app.brainboard.co/favicon.ico"
+    },
+    {
+        "name": "Branition Colors",
+        "categories": [
+            "UI Design/Color"
+        ],
+        "description": "Hand-curated collection of color palettes best fitted for branding.",
+        "links": {
+            "Website": "https://branition.com/colors"
+        },
+        "icon": "https://branition.com/assets/img/favicon/favicon.ico"
     },
     {
         "name": "Brave",
