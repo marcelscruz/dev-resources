@@ -3,7 +3,7 @@
 ---
 
 > ❗️ The `README.md` file and the `/db` folder are auto-generated, so please **_do not_** edit them.
-> Changes related to resources should happen within the `/resources` folder..
+> Changes related to resources should happen within the `/resources` folder.
 
 ---
 
