@@ -3,7 +3,7 @@
  <div align="center">The resources that power <a href="https://devresourc.es/?ref=github-readme" target="_blank" rel="noopener">Dev Resources</a></div>
 
  ---
->❗️ This README file is auto-generated on every **push** or **merge**, so please ***do not*** edit it. Changes related to resources should happen within the `/resources` folder.
+>❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to resources should happen within the `/resources` folder.
 ---
 
  To add a resource, check the [contributing guide](CONTRIBUTING.md).
