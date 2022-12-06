@@ -13,7 +13,7 @@ const logo = `<a href="${url}"><p align="center"><img width="5000" src="./assets
 const description = `<div align="center">The resources that power <a href="${url}" target="_blank" rel="noopener">Dev Resources</a></div>\n\n`
 
 const warning =
-    '---\n>❗️ This README file is auto-generated on every **push** or **merge**, so please ***do not*** edit it. Changes related to resources should happen within the `/resources` folder.\n---\n\n'
+    '---\n>❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to resources should happen within the `/resources` folder.\n---\n\n'
 
 const contributionGuide = 'To add a resource, check the [contributing guide](CONTRIBUTING.md).\n\n'
 
