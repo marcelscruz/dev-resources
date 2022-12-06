@@ -1,8 +1,10 @@
 # Contributing
 
 ---
-> ❗️ The README file is auto-generated on every `push` and/or `merge`, so please **do not** edit it.
-> Changes related to resources should happen within the `/resources` folder.
+
+> ❗️ The `README.md` file and the `/db` folder are auto-generated, so please **_do not_** edit them.
+> Changes related to resources should happen within the `/resources` folder..
+
 ---
 
 Everyone is welcome to collaborate to this project, but please take into consideration the following:
