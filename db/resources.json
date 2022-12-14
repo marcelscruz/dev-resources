@@ -1,5 +1,5 @@
 {
-"count": 725,
+"count": 727,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5220,6 +5220,22 @@
         "icon": "https://gumroad.com/favicon.ico"
     },
     {
+        "name": "Landingexam",
+        "categories": [
+            "UI Design/Inspiration"
+        ],
+        "description": "Landing page examples to inspire your promo web page projects. Product, app, webinar and more categories to choose from.",
+        "links": {
+            "Website": "https://landingexam.com"
+        },
+        "icon": "https://landingexam.com/images/favicon.png",
+        "keywords": [
+            "landing page examples",
+            "landing page design inspiration",
+            "landing page design"
+        ]
+    },
+    {
         "name": "Lapa Ninja",
         "categories": [
             "UI Design/Inspiration"
@@ -9215,6 +9231,20 @@
             "Website": "https://vuejobs.com/"
         },
         "icon": "https://vuejobs.com/img/favicon/favicon-96x96.png"
+    },
+    {
+        "name": "W3Bits",
+        "categories": [
+            "Community/Personal Websites"
+        ],
+        "links": {
+            "Website": "https://w3bits.com"
+        },
+        "description": "Tips about frontend web development.",
+        "keywords": [
+            "frontend",
+            "web development tips"
+        ]
     },
     {
         "name": "W3Layouts",
