@@ -45,6 +45,17 @@ export const resources: Resource[] = [
         icon: 'https://land-book.com/images/favicon.png',
     },
     {
+        name: 'Landingexam',
+        categories: [uiDesign.inspiration],
+        description:
+            'Landing page examples to inspire your promo web page projects. Product, app, webinar and more categories to choose from.',
+        links: {
+            [website]: 'https://landingexam.com',
+        },
+        icon: 'https://landingexam.com/images/favicon.png',
+        keywords: ['landing page examples', 'landing page design inspiration', 'landing page design'],
+    },
+    {
         name: 'Landing Page Hot Tips',
         categories: [indieHacking.books],
         description:

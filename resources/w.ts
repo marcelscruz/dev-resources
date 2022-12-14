@@ -6,6 +6,15 @@ const { website, youtube, twitter, facebook, github, slack } = links
 
 export const resources: Resource[] = [
     {
+        name: 'W3Bits',
+        categories: [community.personalWebsites],
+        links: {
+            [website]: 'https://w3bits.com',
+        },
+        description: 'Tips about frontend web development.',
+        keywords: ['frontend', 'web development tips'],
+    },
+    {
         name: 'W3Layouts',
         categories: [programming.templates],
         description: 'W3layouts is an online store to download website templates for all types of businesses.',
