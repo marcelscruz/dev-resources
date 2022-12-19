@@ -1,5 +1,5 @@
 {
-"count": 728,
+"count": 729,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2454,6 +2454,17 @@
             "Website": "https://www.jetbrains.com/datagrip/"
         },
         "icon": "https://www.jetbrains.com/favicon-32x32.png"
+    },
+    {
+        "name": "DebugBear Speed Test",
+        "categories": [
+            "Tools & Utilities/Performance"
+        ],
+        "description": "Test the speed of your website and get recommendations on how to make it faster.",
+        "links": {
+            "Website": "https://www.debugbear.com/test/website-speed"
+        },
+        "icon": "https://www.debugbear.com/public/favicon-2022-32x32.png"
     },
     {
         "name": "Decoded Frontend",
