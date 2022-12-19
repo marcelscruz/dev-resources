@@ -165,6 +165,18 @@ export const resources: Resource[] = [
         icon: 'https://emberwork.com/apple-touch-icon-76x76.png',
     },
     {
+        name: 'Encore',
+        description: 'The end-to-end backend development platform that automatically provisions all your cloud infrastructure, based on your business logic.',
+        categories: [toolsAndUtilities.apiBuilding, toolsAndUtilities.general],
+        links: {
+            [website]: 'https://encore.dev',
+            [github]: 'https://github.com/encoredev/encore',
+            [twitter]: 'https://twitter.com/encoredotdev',
+        },
+        icon: 'https://encore.dev/assets/branding/icons/icon-192.png',
+        keywords: ['serverless', 'cloud', 'development', 'framework', 'backend'],
+    },
+    {
         name: 'Enhance UI',
         categories: [uiDesign.learn],
         description: 'Learn Design for Developers wanting to know UI, UX and more.',
