@@ -171,6 +171,15 @@ export const resources: Resource[] = [
         icon: 'https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png',
     },
     {
+        name: 'Refero',
+        categories: [uiDesign.inspiration],
+        description: 'The biggest collection of design references from great web applications. Refero make design research easier and faster than ever before. Explore over then 8,000 pages and 40,000 searchable screens of the best of product design from real life.',
+        links: {
+            [website]: 'https://refero.design',
+        },
+        icon: 'https://refero.design/favicon-96x96.png',
+    },
+    {
         name: 'Rene Rehme',
         categories: [community.personalWebsites],
         description: 'A web developer blog by Rene Rehme. This blog is about front- and backend techniques.',
