@@ -1,5 +1,5 @@
 {
-"count": 727,
+"count": 728,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2997,6 +2997,27 @@
             "Website": "https://emberwork.com/"
         },
         "icon": "https://emberwork.com/apple-touch-icon-76x76.png"
+    },
+    {
+        "name": "Encore",
+        "description": "The end-to-end backend development platform that automatically provisions all your cloud infrastructure, based on your business logic.",
+        "categories": [
+            "Tools & Utilities/API Building",
+            "Tools & Utilities/General"
+        ],
+        "links": {
+            "Website": "https://encore.dev",
+            "GitHub": "https://github.com/encoredev/encore",
+            "Twitter": "https://twitter.com/encoredotdev"
+        },
+        "icon": "https://encore.dev/assets/branding/icons/icon-192.png",
+        "keywords": [
+            "serverless",
+            "cloud",
+            "development",
+            "framework",
+            "backend"
+        ]
     },
     {
         "name": "Enhance UI",
