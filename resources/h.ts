@@ -45,6 +45,16 @@ export const resources: Resource[] = [
         icon: 'https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_cursor_favicon_480px-150x150.png',
     },
     {
+        name: 'Hackertab.dev',
+        categories: [community.blogsAndForums],
+        description:
+            'Get all your developer news in one place with Hackertab! Customize your feed and stay up-to-date on the latest tools, events, and more. Perfect for frontend, backend, full-stack, mobile, and data science developers. Try Hackertab now and never miss a beat in your field.',
+        links: {
+            [website]: 'https://hackertab.dev/',
+        },
+        icon: 'https://hackertab.dev/logo192.png',
+    },
+    {
         name: 'Hackr.io',
         categories: [programming.learn],
         description:
