@@ -4,7 +4,8 @@
 
  <div align="center">Sponsored by</div>
 
-<a href="https://clerk.dev?utm_source=public_apis&utm_content=dev_resources_repo"><p align="center"><img width="100" src="./assets/clerk.svg" /></p></a>
+
+<a><p align="center">[<img src="./assets/clerk.svg">](https://clerk.dev?utm_source=public_apis&utm_content=dev_resources_repo)</p></a>
 
  ---
 >❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to resources should happen within the `/resources` folder.
