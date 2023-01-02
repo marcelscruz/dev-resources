@@ -1,6 +1,10 @@
-<a href="https://devresourc.es/?ref=github-readme"><p align="center"><img width="5000" src="./assets/logo.png" /></p></a>
+<div align="center">The resources that power <a href="https://devresourc.es/?ref=github-readme" target="_blank" rel="noopener">Dev Resources</a></div>
 
- <div align="center">The resources that power <a href="https://devresourc.es/?ref=github-readme" target="_blank" rel="noopener">Dev Resources</a></div>
+ <a href="https://devresourc.es/?ref=github-readme"><p align="center"><img width="5000" src="./assets/logo.png" /></p></a>
+
+ <div align="center">Sponsored by</div>
+
+<a href="https://clerk.dev?utm_source=public_apis&utm_content=dev_resources_repo"><p align="center"><img width="100" src="./assets/clerk.svg" /></p></a>
 
  ---
 >❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to resources should happen within the `/resources` folder.
