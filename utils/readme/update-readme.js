@@ -10,7 +10,7 @@ const url = 'https://devresourc.es/?ref=github-readme'
 
 const description = `<div align="center">The resources that power <a href="${url}" target="_blank" rel="noopener">Dev Resources</a></div>\n\n`
 
-const logo = `<a href="${url}"><p align="center"><img width="5000" src="./assets/logo.png" /></p></a>\n\n`
+const logo = `<a><p align="center">[<img src="./assets/logo.png">](${url})</p></a>\n\n`
 
 const sponsors = `<div align="center">Sponsored by</div>\n\n
 <a><p align="center">[<img src="./assets/clerk.svg">](https://clerk.dev?utm_source=public_apis&utm_content=dev_resources_repo)</p></a>\n\n`
