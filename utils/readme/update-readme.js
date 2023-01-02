@@ -8,9 +8,11 @@ const resourcesList = getResourcesList()
 
 const url = 'https://devresourc.es/?ref=github-readme'
 
+const description = `<div align="center">The resources that power <a href="${url}" target="_blank" rel="noopener">Dev Resources</a></div>\n\n`
+
 const logo = `<a href="${url}"><p align="center"><img width="5000" src="./assets/logo.png" /></p></a>\n\n`
 
-const description = `<div align="center">The resources that power <a href="${url}" target="_blank" rel="noopener">Dev Resources</a></div>\n\n`
+const sponsors = `<div align="center">Sponsored by</div>\n\n<a href="https://clerk.dev?utm_source=public_apis&utm_content=dev_resources_repo"><p align="center"><img width="100" src="./assets/clerk.svg" /></p></a>\n\n`
 
 const warning =
     '---\n>❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to resources should happen within the `/resources` folder.\n---\n\n'
@@ -28,7 +30,7 @@ async function updateReadme() {
         const tables = createTables(resourcesTree)
 
         await writeToFile({
-            data: `${logo} ${description} ${warning} ${contributionGuide}${publicApisLink} ${resourcesCount} ${index} ${tables}`,
+            data: `${description} ${logo} ${sponsors} ${warning} ${contributionGuide}${publicApisLink} ${resourcesCount} ${index} ${tables}`,
             filePath: './README.md',
         })
     } catch (error) {
