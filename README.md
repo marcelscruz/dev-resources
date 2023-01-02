@@ -1,6 +1,6 @@
 <div align="center">The resources that power <a href="https://devresourc.es/?ref=github-readme" target="_blank" rel="noopener">Dev Resources</a></div>
 
- <a href="https://devresourc.es/?ref=github-readme"><p align="center"><img width="5000" src="./assets/logo.png" /></p></a>
+ <a><p align="center">[<img src="./assets/logo.png">](https://devresourc.es/?ref=github-readme)</p></a>
 
  <div align="center">Sponsored by</div>
 
