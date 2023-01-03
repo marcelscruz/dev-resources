@@ -35,6 +35,16 @@ export const resources: Resource[] = [
         icon: 'https://nextjs.org/static/favicon/favicon-32x32.png',
     },
     {
+        name: 'Nextjs Devs',
+        categories: [jobs.boards],
+        description: 'The reverse job board for Next.js developers',
+        links: {
+            [website]: 'https://nextjsdevs.net/',
+        },
+        icon: 'https://nextjsdevs.net/favicon.ico',
+        keywords: ['javascript', 'React.js', 'Next.js', 'jobs'],
+    },
+    {
         name: 'NextUI',
         description: 'Beautiful, fast, modern React UI Library',
         categories: [programming.uiKitsAndLibraries],
