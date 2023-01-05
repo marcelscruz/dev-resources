@@ -193,10 +193,9 @@ export const resources: Resource[] = [
         icon: 'https://circumicons.com/favicon_light.png',
     },
     {
-        name: 'Clerk.dev',
+        name: 'Clerk',
         categories: [infrastructure.auth],
-        description:
-            "Authentication and user management for developers that's simple, secure, and scalable with any platform or language.",
+        description: 'Drop-in React components for authentication and authorization.',
         keywords: ['react', 'next.js', 'auth', ' user management', 'react auth', 'next.js auth', 'javascript auth'],
         links: {
             [website]: 'https://clerk.dev',
@@ -590,10 +589,11 @@ export const resources: Resource[] = [
         icon: 'https://www.codewell.cc/favicon.ico',
         keywords: ['frontend', 'html', 'css', 'flexbox', 'grid', 'javascript'],
     },
-     {
+    {
         name: 'Codinn',
         categories: [programming.learn, programming.codeChallenges],
-        description: '30 Days of ReactJs challenge is a step by step tutorial to level up your React skills in 30 days by developing 30 projects.',
+        description:
+            '30 Days of ReactJs challenge is a step by step tutorial to level up your React skills in 30 days by developing 30 projects.',
         links: {
             [website]: 'https://www.codinn.dev/',
         },
