@@ -1232,11 +1232,11 @@
         "icon": "https://circumicons.com/favicon_light.png"
     },
     {
-        "name": "Clerk.dev",
+        "name": "Clerk",
         "categories": [
             "Infrastructure/Auth"
         ],
-        "description": "Authentication and user management for developers that's simple, secure, and scalable with any platform or language.",
+        "description": "Drop-in React components for authentication and authorization.",
         "keywords": [
             "react",
             "next.js",
