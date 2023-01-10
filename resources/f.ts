@@ -70,6 +70,27 @@ export const resources: Resource[] = [
         icon: 'https://www.figmacrush.com/wp-content/uploads/2019/09/favicon_FM.ico',
     },
     {
+        name: 'Find a Job',
+        categories: [jobs.boards],
+        description:
+            'Hand-picked jobs for developers. Find the best developer job opportunities in some of the best companies.',
+        links: {
+            [website]: 'https://findajob.dev',
+        },
+        icon: 'https://findajob.dev/favicon/favicon.ico',
+        keywords: [
+            'jobs',
+            'developers',
+            'software engineering',
+            'web development',
+            'javascript',
+            'typescript',
+            'html',
+            'css',
+            'python',
+        ],
+    },
+    {
         name: 'Firebase',
         categories: [infrastructure.hosting, infrastructure.databases, infrastructure.serverless, infrastructure.auth],
         description:
