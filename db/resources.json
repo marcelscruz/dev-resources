@@ -1,5 +1,5 @@
 {
-"count": 732,
+"count": 733,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3191,6 +3191,28 @@
             "Website": "https://www.figmacrush.com/"
         },
         "icon": "https://www.figmacrush.com/wp-content/uploads/2019/09/favicon_FM.ico"
+    },
+    {
+        "name": "Find a Job",
+        "categories": [
+            "Jobs/Boards"
+        ],
+        "description": "Hand-picked jobs for developers. Find the best developer job opportunities in some of the best companies.",
+        "links": {
+            "Website": "https://findajob.dev"
+        },
+        "icon": "https://findajob.dev/favicon/favicon.ico",
+        "keywords": [
+            "jobs",
+            "developers",
+            "software engineering",
+            "web development",
+            "javascript",
+            "typescript",
+            "html",
+            "css",
+            "python"
+        ]
     },
     {
         "name": "Firebase",
