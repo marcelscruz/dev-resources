@@ -231,6 +231,23 @@ export const resources: Resource[] = [
         icon: 'https://librestock.com/static/images/favicon-96x96.png',
     },
     {
+        name: 'Lightest',
+        categories: [toolsAndUtilities.performance],
+        description: 'Web performance visualization and comparison tool. Analyze website loading against competitors.',
+        links: {
+            [website]: 'https://lightest.app',
+        },
+        icon: 'https://lightest.app/spotlight.svg',
+        keywords: [
+            'web performance',
+            'website performance',
+            'website speed',
+            'website loading',
+            'website optimization',
+            'website analysis',
+        ],
+    },
+    {
         name: 'Like I Am Five',
         categories: [programming.learn],
         description: 'Learn to code through real-life projects in less than 4 hours.',
