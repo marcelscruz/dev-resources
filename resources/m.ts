@@ -54,6 +54,17 @@ export const resources: Resource[] = [
         icon: 'https://www.manypixels.co/gallery/icons/icon-96x96.png?v=1e107cc4927fb83a24c4d7a99f010d8d',
     },
     {
+        name: 'Mantine',
+        categories: [programming.uiKitsAndLibraries],
+        description:
+            'React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience.',
+        links: {
+            [website]: 'https://mantine.dev',
+        },
+        icon: 'https://mantine.dev/favicon-32x32.png',
+        keywords: ['react', 'hooks', 'dark theme', 'accessibility', 'components', 'hooks', 'ui', 'library'],
+    },
+    {
         name: 'Marko Denic',
         categories: [community.personalWebsites],
         description: 'Web Developer, Public speaker, IT trainer and consultant.',
