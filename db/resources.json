@@ -1,5 +1,5 @@
 {
-"count": 733,
+"count": 737,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3674,6 +3674,24 @@
         "icon": "https://freephotos.cc/favicon.ico"
     },
     {
+        "name": "Freepik",
+        "categories": [
+            "Assets/Images",
+            "Assets/Illustrations"
+        ],
+        "description": "All the assets you need, in one place. Find and download the best high-quality photos, designs, and mockups.",
+        "links": {
+            "Website": "https://www.freepik.com/"
+        },
+        "icon": "https://freepik.cdnpk.net/img/favicons/favicon.ico",
+        "keywords": [
+            "freepik",
+            "vectors",
+            "illustration",
+            "photos"
+        ]
+    },
+    {
         "name": "FreeTools.site",
         "categories": [
             "Assets/Images"
@@ -3933,6 +3951,21 @@
             "Website": "https://www.godaddy.com/websites/website-builder"
         },
         "icon": "https://img6.wsimg.com/ux/favicon/favicon-96x96.png"
+    },
+    {
+        "name": "Godly",
+        "categories": [
+            "UI Design/Inspiration"
+        ],
+        "description": "Godly is a curation of the best web design inspiration, every day. Browse the best e-commerce websites, portfolio websites, animation websites and more.",
+        "links": {
+            "Website": "https://godly.website/"
+        },
+        "icon": "https://godly.website/favicon.png",
+        "keywords": [
+            "ui design",
+            "inspiration"
+        ]
     },
     {
         "name": "GoLand",
@@ -5491,6 +5524,25 @@
         "icon": "https://librestock.com/static/images/favicon-96x96.png"
     },
     {
+        "name": "Lightest",
+        "categories": [
+            "Tools & Utilities/Performance"
+        ],
+        "description": "Web performance visualization and comparison tool. Analyze website loading against competitors.",
+        "links": {
+            "Website": "https://lightest.app"
+        },
+        "icon": "https://lightest.app/spotlight.svg",
+        "keywords": [
+            "web performance",
+            "website performance",
+            "website speed",
+            "website loading",
+            "website optimization",
+            "website analysis"
+        ]
+    },
+    {
         "name": "Like I Am Five",
         "categories": [
             "Programming/Learn"
@@ -5665,6 +5717,27 @@
             "Website": "https://makebook.io/"
         },
         "icon": "https://makebook.io/favicon-32x32.png?2"
+    },
+    {
+        "name": "Mantine",
+        "categories": [
+            "Programming/UI Kits & Libraries"
+        ],
+        "description": "React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience.",
+        "links": {
+            "Website": "https://mantine.dev"
+        },
+        "icon": "https://mantine.dev/favicon-32x32.png",
+        "keywords": [
+            "react",
+            "hooks",
+            "dark theme",
+            "accessibility",
+            "components",
+            "hooks",
+            "ui",
+            "library"
+        ]
     },
     {
         "name": "ManyPixels",
