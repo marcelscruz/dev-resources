@@ -77,6 +77,17 @@ export const resources: Resource[] = [
         icon: 'https://img6.wsimg.com/ux/favicon/favicon-96x96.png',
     },
     {
+        name: 'Godly',
+        categories: [uiDesign.inspiration],
+        description:
+            'Godly is a curation of the best web design inspiration, every day. Browse the best e-commerce websites, portfolio websites, animation websites and more.',
+        links: {
+            [website]: 'https://godly.website/',
+        },
+        icon: 'https://godly.website/favicon.png',
+        keywords: ['ui design', 'inspiration'],
+    },
+    {
         name: 'GoLand',
         categories: [toolsAndUtilities.editorsAndExtensions],
         description: 'GoLand is an IDE by JetBrains aimed at providing an ergonomic environment for Go development.',
