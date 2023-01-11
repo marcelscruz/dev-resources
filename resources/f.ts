@@ -510,6 +510,17 @@ export const resources: Resource[] = [
         icon: 'https://freephotos.cc/favicon.ico',
     },
     {
+        name: 'Freepik',
+        categories: [assets.images, assets.illustrations],
+        description:
+            'All the assets you need, in one place. Find and download the best high-quality photos, designs, and mockups.',
+        links: {
+            [website]: 'https://www.freepik.com/',
+        },
+        icon: 'https://freepik.cdnpk.net/img/favicons/favicon.ico',
+        keywords: ['freepik', 'vectors', 'illustration', 'photos'],
+    },
+    {
         name: 'FreeTools.site',
         categories: [assets.images],
         description: 'Free online tools - convert or edit documents, images, audio, video and more.',
