@@ -232,6 +232,17 @@ export const resources: Resource[] = [
         icon: 'https://www.microsoft.com/favicon.ico',
     },
     {
+        name: 'Mighty',
+        categories: [toolsAndUtilities.browsersAndExtensions],
+        description:
+            'Mighty is a new browser for work that loads pages faster, saves you time, and makes you more productive.',
+        links: {
+            [website]: 'https://www.mightyapp.com/',
+        },
+        icon: 'https://assets.website-files.com/605cf560c1c73e1ee595cfc6/605d5d7bc3427965e070639e_favicon.png',
+        keywords: ['browser', 'productivity', 'fast'],
+    },
+    {
         name: 'MIT OpenCourseWare',
         categories: [programming.youtubeChannels],
         description:
