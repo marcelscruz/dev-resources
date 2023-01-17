@@ -1,5 +1,5 @@
 {
-"count": 737,
+"count": 740,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5686,6 +5686,22 @@
         "icon": "https://quizzes.madza.dev/favicon.ico"
     },
     {
+        "name": "Magic",
+        "categories": [
+            "Infrastructure/Auth"
+        ],
+        "description": "Bring your Web3 strategy to life with Magic. Passwordless Auth + NFT wallet onboarding (without seed phrase) for your customers.",
+        "links": {
+            "Website": "https://magic.link"
+        },
+        "icon": "https://magic.link/favicon.ico",
+        "keywords": [
+            "auth",
+            "authentication",
+            "passwordless"
+        ]
+    },
+    {
         "name": "Mailchimp",
         "categories": [
             "Indie Hacking/Utilities"
@@ -5934,6 +5950,22 @@
             "Website": "https://www.microsoft.com/en-us/sql-server"
         },
         "icon": "https://www.microsoft.com/favicon.ico"
+    },
+    {
+        "name": "Mighty",
+        "categories": [
+            "Tools & Utilities/Browsers & Extensions"
+        ],
+        "description": "Mighty is a new browser for work that loads pages faster, saves you time, and makes you more productive.",
+        "links": {
+            "Website": "https://www.mightyapp.com/"
+        },
+        "icon": "https://assets.website-files.com/605cf560c1c73e1ee595cfc6/605d5d7bc3427965e070639e_favicon.png",
+        "keywords": [
+            "browser",
+            "productivity",
+            "fast"
+        ]
     },
     {
         "name": "MIT OpenCourseWare",
@@ -8719,6 +8751,25 @@
             "YouTube": "https://www.youtube.com/channel/UCuryo5s0CW4aP83itLjIdZg/featured"
         },
         "icon": "https://themeselection.com/wp-content/uploads/2018/07/favicon.ico"
+    },
+    {
+        "name": "thirdweb",
+        "categories": [
+            "Web3/Utilities"
+        ],
+        "description": "Build web3 apps easily with thirdweb's powerful SDKs, audited smart contracts, and developer tools—for Ethereum, Polygon, Solana, & more. Try now.",
+        "links": {
+            "Website": "https://thirdweb.com/"
+        },
+        "icon": "https://thirdweb.com/favicon.ico",
+        "keywords": [
+            "web3",
+            "sdk",
+            "smart contracts",
+            "developer tools",
+            "dapps",
+            "decentralized apps"
+        ]
     },
     {
         "name": "Thirus",

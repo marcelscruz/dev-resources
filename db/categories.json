@@ -1,5 +1,5 @@
 {
-"count": 62,
+"count": 63,
 "data": [
     {
         "name": "Assets/Audio",
@@ -248,5 +248,9 @@
     {
         "name": "UI Design/YouTube Channels",
         "slug": "ui-design/youtube-channels"
+    },
+    {
+        "name": "Web3/Utilities",
+        "slug": "web3/utilities"
     }
 ]}
