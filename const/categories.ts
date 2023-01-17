@@ -91,4 +91,8 @@ export const categories = {
         utilities: 'UI Design/Utilities',
         youtubeChannels: 'UI Design/YouTube Channels',
     },
+
+    web3: {
+        utilities: 'Web3/Utilities',
+    },
 } as const

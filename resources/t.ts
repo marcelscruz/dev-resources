@@ -1,7 +1,7 @@
 import { categories, links } from 'const'
 import { Resource } from 'types'
 
-const { assets, programming, community, toolsAndUtilities, indieHacking, jobs } = categories
+const { assets, programming, community, toolsAndUtilities, indieHacking, jobs, web3 } = categories
 const { website, youtube, github, twitter, linkedin } = links
 
 export const resources: Resource[] = [
@@ -280,6 +280,17 @@ export const resources: Resource[] = [
             'html css javascript tutorials "web design" "web development" development "front-end development" wordpress mvc "responsive design" "beginner html" "beginner ...',
         ],
         icon: 'https://www.thenetninja.co.uk/favicon.ico',
+    },
+    {
+        name: 'thirdweb',
+        categories: [web3.utilities],
+        description:
+            "Build web3 apps easily with thirdweb's powerful SDKs, audited smart contracts, and developer tools—for Ethereum, Polygon, Solana, & more. Try now.",
+        links: {
+            [website]: 'https://thirdweb.com/',
+        },
+        icon: 'https://thirdweb.com/favicon.ico',
+        keywords: ['web3', 'sdk', 'smart contracts', 'developer tools', 'dapps', 'decentralized apps'],
     },
     {
         name: 'Thirus',
