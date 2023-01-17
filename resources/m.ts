@@ -25,6 +25,17 @@ export const resources: Resource[] = [
         icon: 'https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png',
     },
     {
+        name: 'Magic',
+        categories: [infrastructure.auth],
+        description:
+            'Bring your Web3 strategy to life with Magic. Passwordless Auth + NFT wallet onboarding (without seed phrase) for your customers.',
+        links: {
+            [website]: 'https://magic.link',
+        },
+        icon: 'https://magic.link/favicon.ico',
+        keywords: ['auth', 'authentication', 'passwordless'],
+    },
+    {
         name: 'Majestic',
         categories: [programming.testing],
         description:
