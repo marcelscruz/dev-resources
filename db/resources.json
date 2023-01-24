@@ -1,5 +1,5 @@
 {
-"count": 740,
+"count": 744,
 "data": [
     {
         "name": "1001 Fonts",
@@ -432,6 +432,26 @@
             "Website": "https://authenticjobs.com/"
         },
         "icon": "https://authenticjobs.com/wp-content/uploads/2020/04/cropped-aj-site-favicon-32x32.png"
+    },
+    {
+        "name": "Avodocs",
+        "categories": [
+            "Indie Hacking/Utilities",
+            "Tools & Utilities/General"
+        ],
+        "description": "Free legal documents for startups. Get your company's legal documents in minutes.",
+        "links": {
+            "Website": "https://www.avodocs.com"
+        },
+        "icon": "https://axd1.st.axdraft.com/9a44c03019dad5d6dd622dbffbd4ad9d.ico",
+        "keywords": [
+            "legal",
+            "legal documents",
+            "legal templates",
+            "privacy policy",
+            "terms of service",
+            "terms and conditions"
+        ]
     },
     {
         "name": "Awesome a11y",
@@ -990,6 +1010,18 @@
         "icon": "https://images.transistor.fm/file/transistor/images/favicons/site/6/x64_1541522941-favicon.png"
     },
     {
+        "name": "buildspace",
+        "categories": [
+            "Web3/Utilities"
+        ],
+        "description": "Build a project in web3, ML/AI and see how far you can get in a weekend.",
+        "links": {
+            "Website": "https://buildspace.so"
+        },
+        "icon": "https://framerusercontent.com/modules/kADP7da4j9rbsXdQ05Kv/pJJ7ZBauqOlSr84Kj7g8/assets/jMnl1vRHNmgDs5aS5JmYOgWlFOE.png",
+        "keywords": []
+    },
+    {
         "name": "Bulma",
         "categories": [
             "Programming/UI Kits & Libraries"
@@ -1230,6 +1262,20 @@
             "Website": "https://circumicons.com/"
         },
         "icon": "https://circumicons.com/favicon_light.png"
+    },
+    {
+        "name": "Clearbit",
+        "categories": [
+            "Assets/Logos"
+        ],
+        "description": "Easily embed any company's logo in your project with this simple & free API. Quickly lookup company logos using their domain. It's as easy as typing in a URL.",
+        "links": {
+            "Website": "https://clearbit.com/logo"
+        },
+        "icon": "https://clearbit.com/favicon.ico",
+        "keywords": [
+            "company logos"
+        ]
     },
     {
         "name": "Clerk",
@@ -3362,6 +3408,22 @@
             "Website": "https://www.flexjobs.com/"
         },
         "icon": "https://www.flexjobs.com/favicon-32x32.png"
+    },
+    {
+        "name": "Flowbite",
+        "categories": [
+            "Programming/UI Kits & Libraries"
+        ],
+        "description": "Get started with an open-source library of over 450+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.",
+        "links": {
+            "Website": "https://flowbite.com/"
+        },
+        "icon": "https://flowbite.com/images/logo.svg",
+        "keywords": [
+            "tailwind",
+            "ui components",
+            "ui kits"
+        ]
     },
     {
         "name": "Fluid UI",
