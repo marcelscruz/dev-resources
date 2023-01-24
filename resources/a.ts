@@ -149,13 +149,7 @@ export const resources: Resource[] = [
         name: 'AI Jobs',
         categories: [jobs.boards],
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
-        keywords: [
-            'ai',
-            'artificial intelligence',
-            'remote',
-            'jobs',
-            'developer'
-        ],
+        keywords: ['ai', 'artificial intelligence', 'remote', 'jobs', 'developer'],
         links: {
             [website]: 'https://aijobs.app',
         },
@@ -289,6 +283,23 @@ export const resources: Resource[] = [
             [website]: 'https://authenticjobs.com/',
         },
         icon: 'https://authenticjobs.com/wp-content/uploads/2020/04/cropped-aj-site-favicon-32x32.png',
+    },
+    {
+        name: 'Avodocs',
+        categories: [indieHacking.utilities, toolsAndUtilities.general],
+        description: "Free legal documents for startups. Get your company's legal documents in minutes.",
+        links: {
+            [website]: 'https://www.avodocs.com',
+        },
+        icon: 'https://axd1.st.axdraft.com/9a44c03019dad5d6dd622dbffbd4ad9d.ico',
+        keywords: [
+            'legal',
+            'legal documents',
+            'legal templates',
+            'privacy policy',
+            'terms of service',
+            'terms and conditions',
+        ],
     },
     {
         name: 'AWS',
