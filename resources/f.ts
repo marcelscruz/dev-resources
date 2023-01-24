@@ -223,6 +223,17 @@ export const resources: Resource[] = [
         icon: 'https://www.flexjobs.com/favicon-32x32.png',
     },
     {
+        name: 'Flowbite',
+        categories: [programming.uiKitsAndLibraries],
+        description:
+            'Get started with an open-source library of over 450+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.',
+        links: {
+            [website]: 'https://flowbite.com/',
+        },
+        icon: 'https://flowbite.com/images/logo.svg',
+        keywords: ['tailwind', 'ui components', 'ui kits'],
+    },
+    {
         name: 'Fluid UI',
         categories: [uiDesign.prototyping],
         description:
