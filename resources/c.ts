@@ -193,6 +193,17 @@ export const resources: Resource[] = [
         icon: 'https://circumicons.com/favicon_light.png',
     },
     {
+        name: 'Clearbit',
+        categories: [assets.logos],
+        description:
+            "Easily embed any company's logo in your project with this simple & free API. Quickly lookup company logos using their domain. It's as easy as typing in a URL.",
+        links: {
+            [website]: 'https://clearbit.com/logo',
+        },
+        icon: 'https://clearbit.com/favicon.ico',
+        keywords: ['company logos'],
+    },
+    {
         name: 'Clerk',
         categories: [infrastructure.auth],
         description: 'Drop-in React components for authentication and authorization.',
