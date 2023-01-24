@@ -1,7 +1,7 @@
 import { categories, links } from 'const'
 import { Resource } from 'types'
 
-const { toolsAndUtilities, uiDesign, programming, assets, indieHacking, infrastructure } = categories
+const { toolsAndUtilities, uiDesign, programming, assets, indieHacking, infrastructure, web3 } = categories
 const { website, youtube, twitter, facebook, github } = links
 
 export const resources: Resource[] = [
@@ -384,6 +384,17 @@ export const resources: Resource[] = [
         },
         icon:
             'https://3fxtqy18kygf3on3bu39kh93-wpengine.netdna-ssl.com/wp-content/themes/browserstack/img/favicons/apple-touch-icon.png',
+    },
+    {
+        name: 'buildspace',
+        categories: [web3.utilities],
+        description: 'Build a project in web3, ML/AI and see how far you can get in a weekend.',
+        links: {
+            [website]: 'https://buildspace.so',
+        },
+        icon:
+            'https://framerusercontent.com/modules/kADP7da4j9rbsXdQ05Kv/pJJ7ZBauqOlSr84Kj7g8/assets/jMnl1vRHNmgDs5aS5JmYOgWlFOE.png',
+        keywords: [],
     },
     {
         name: 'Build you SaaS',
