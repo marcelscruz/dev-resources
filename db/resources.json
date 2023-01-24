@@ -3193,28 +3193,6 @@
         "icon": "https://www.figmacrush.com/wp-content/uploads/2019/09/favicon_FM.ico"
     },
     {
-        "name": "Find a Job",
-        "categories": [
-            "Jobs/Boards"
-        ],
-        "description": "Hand-picked jobs for developers. Find the best developer job opportunities in some of the best companies.",
-        "links": {
-            "Website": "https://findajob.dev"
-        },
-        "icon": "https://findajob.dev/favicon/favicon.ico",
-        "keywords": [
-            "jobs",
-            "developers",
-            "software engineering",
-            "web development",
-            "javascript",
-            "typescript",
-            "html",
-            "css",
-            "python"
-        ]
-    },
-    {
         "name": "Firebase",
         "categories": [
             "Infrastructure/Hosting",
@@ -5118,6 +5096,28 @@
             "Website": "https://jobspresso.co/"
         },
         "icon": "https://jobspresso.co/wp-content/uploads/2015/04/Favicon-iOS.jpg"
+    },
+    {
+        "name": "Jobstache",
+        "categories": [
+            "Jobs/Boards"
+        ],
+        "description": "Hand-picked jobs for developers. Find the best developer job opportunities in some of the best companies.",
+        "links": {
+            "Website": "https://jobstache.com"
+        },
+        "icon": "https://jobstache.com/favicon/favicon.ico",
+        "keywords": [
+            "jobs",
+            "developers",
+            "software engineering",
+            "web development",
+            "javascript",
+            "typescript",
+            "html",
+            "css",
+            "python"
+        ]
     },
     {
         "name": "JS Remotely",
