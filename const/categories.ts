@@ -1,4 +1,8 @@
 export const categories = {
+    ai: {
+        images: 'AI/Images',
+    },
+
     assets: {
         audio: 'Assets/Audio',
         fonts: 'Assets/Fonts',

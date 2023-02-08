@@ -1,7 +1,17 @@
 import { categories, links } from 'const'
 import { Resource } from 'types'
 
-const { programming, toolsAndUtilities, uiDesign, indieHacking, jobs, assets, community, infrastructure } = categories
+const {
+    ai,
+    programming,
+    toolsAndUtilities,
+    uiDesign,
+    indieHacking,
+    jobs,
+    assets,
+    community,
+    infrastructure,
+} = categories
 const { website, youtube, gumroad, github, twitter } = links
 
 export const resources: Resource[] = [
@@ -219,6 +229,15 @@ export const resources: Resource[] = [
             [youtube]: 'https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
+    },
+    {
+        name: 'Lexica',
+        categories: [ai.images],
+        description: 'The Stable Diffusion search engine.',
+        links: {
+            [website]: 'https://lexica.art/',
+        },
+        icon: 'https://lexica.art/favicon.ico',
     },
     {
         name: 'Librestock',
