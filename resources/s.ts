@@ -635,6 +635,16 @@ export const resources: Resource[] = [
         icon: 'https://www.stormkit.io/favicon.png',
     },
     {
+        name: 'Storyset',
+        categories: [assets.illustrations],
+        description:
+            'Edit and animate all our customizable illustrations to enhance your projects totally free. Start now to be creative in our online editor.',
+        links: {
+            [website]: 'https://storyset.com/',
+        },
+        icon: 'https://storyset.com/favicon-32x32.png',
+    },
+    {
         name: 'Streamline Icons',
         categories: [assets.icons],
         description:
