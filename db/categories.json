@@ -1,6 +1,14 @@
 {
-"count": 63,
+"count": 65,
 "data": [
+    {
+        "name": "AI/Images",
+        "slug": "ai/images"
+    },
+    {
+        "name": "AI/Utilities",
+        "slug": "ai/utilities"
+    },
     {
         "name": "Assets/Audio",
         "slug": "assets/audio"

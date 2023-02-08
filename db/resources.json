@@ -1,5 +1,5 @@
 {
-"count": 744,
+"count": 749,
 "data": [
     {
         "name": "1001 Fonts",
@@ -953,6 +953,27 @@
             "Website": "https://www.brainboard.co/"
         },
         "icon": "https://app.brainboard.co/favicon.ico"
+    },
+    {
+        "name": "Brandie",
+        "categories": [
+            "AI/Utilities"
+        ],
+        "description": "An AI-powered branding assistant.",
+        "links": {
+            "Website": "https://brandie.app"
+        },
+        "icon": "https://brandie.app/favicon/favicon.ico",
+        "keywords": [
+            "branding",
+            "domain",
+            "product name",
+            "logo",
+            "typography",
+            "colors",
+            "ai",
+            "artificial intelligence"
+        ]
     },
     {
         "name": "Branition Colors",
@@ -2078,6 +2099,22 @@
             "Gumroad": "https://gumroad.com/a/399283315/WCKkj"
         },
         "icon": "https://gumroad.com/favicon.ico"
+    },
+    {
+        "name": "CookieYes",
+        "categories": [
+            "Tools & Utilities/General"
+        ],
+        "description": "CookieYes is a cookie consent solution that helps your website achieve GDPR and CCPA compliance easily. Create a lifetime free account!",
+        "links": {
+            "Website": "https://www.cookieyes.com/"
+        },
+        "icon": "https://www.cookieyes.com/wp-content/uploads/2021/03/cropped-cy-favicon-32x32.png",
+        "keywords": [
+            "privacy",
+            "cookie",
+            "policy"
+        ]
     },
     {
         "name": "Coolors",
@@ -5575,6 +5612,17 @@
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
     {
+        "name": "Lexica",
+        "categories": [
+            "AI/Images"
+        ],
+        "description": "The Stable Diffusion search engine.",
+        "links": {
+            "Website": "https://lexica.art/"
+        },
+        "icon": "https://lexica.art/favicon.ico"
+    },
+    {
         "name": "Librestock",
         "categories": [
             "Assets/Images"
@@ -5888,6 +5936,16 @@
             "Website": "https://www.materialpalette.com/"
         },
         "icon": "https://www.materialpalette.com/assets/favicon-0f3eb1b9f6d525e848b1dca6db1cabd2a3e9e843749cb9ad72222b80ab9fdf19.ico"
+    },
+    {
+        "name": "Material Design Palette Generator",
+        "categories": [
+            "UI Design/Color"
+        ],
+        "description": "Generate your own Material Design Color Palette with full control over the colors! Export to AngularJS, Materialize, CSS, Polymer, and more!",
+        "links": {
+            "Website": "https://mcg.mbitson.com/"
+        }
     },
     {
         "name": "Material-UI",
@@ -8298,6 +8356,17 @@
             "Website": "https://www.stormkit.io/"
         },
         "icon": "https://www.stormkit.io/favicon.png"
+    },
+    {
+        "name": "Storyset",
+        "categories": [
+            "Assets/Illustrations"
+        ],
+        "description": "Edit and animate all our customizable illustrations to enhance your projects totally free. Start now to be creative in our online editor.",
+        "links": {
+            "Website": "https://storyset.com/"
+        },
+        "icon": "https://storyset.com/favicon-32x32.png"
     },
     {
         "name": "Streamline Icons",
