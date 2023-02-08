@@ -892,6 +892,17 @@ export const resources: Resource[] = [
         icon: 'https://gumroad.com/favicon.ico',
     },
     {
+        name: 'CookieYes',
+        categories: [toolsAndUtilities.general],
+        description:
+            'CookieYes is a cookie consent solution that helps your website achieve GDPR and CCPA compliance easily. Create a lifetime free account!',
+        links: {
+            [website]: 'https://www.cookieyes.com/',
+        },
+        icon: 'https://www.cookieyes.com/wp-content/uploads/2021/03/cropped-cy-favicon-32x32.png',
+        keywords: ['privacy', 'cookie', 'policy'],
+    },
+    {
         name: 'Coolors',
         categories: [uiDesign.color],
         description: 'Generate or browse beautiful color combinations for your designs.',
