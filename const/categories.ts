@@ -1,6 +1,7 @@
 export const categories = {
     ai: {
         images: 'AI/Images',
+        utilities: 'AI/Utilities',
     },
 
     assets: {

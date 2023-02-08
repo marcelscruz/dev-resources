@@ -1,7 +1,7 @@
 import { categories, links } from 'const'
 import { Resource } from 'types'
 
-const { toolsAndUtilities, uiDesign, programming, assets, indieHacking, infrastructure, web3 } = categories
+const { ai, toolsAndUtilities, uiDesign, programming, assets, indieHacking, infrastructure, web3 } = categories
 const { website, youtube, twitter, facebook, github } = links
 
 export const resources: Resource[] = [
@@ -344,6 +344,25 @@ export const resources: Resource[] = [
             [website]: 'https://www.brainboard.co/',
         },
         icon: 'https://app.brainboard.co/favicon.ico',
+    },
+    {
+        name: 'Brandie',
+        categories: [ai.utilities],
+        description: 'An AI-powered branding assistant.',
+        links: {
+            [website]: 'https://brandie.app',
+        },
+        icon: 'https://brandie.app/favicon/favicon.ico',
+        keywords: [
+            'branding',
+            'domain',
+            'product name',
+            'logo',
+            'typography',
+            'colors',
+            'ai',
+            'artificial intelligence',
+        ],
     },
     {
         name: 'Branition Colors',
