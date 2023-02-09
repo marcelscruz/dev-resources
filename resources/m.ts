@@ -130,15 +130,6 @@ export const resources: Resource[] = [
             'https://www.materialpalette.com/assets/favicon-0f3eb1b9f6d525e848b1dca6db1cabd2a3e9e843749cb9ad72222b80ab9fdf19.ico',
     },
     {
-        name: 'Material Design Palette Generator',
-        categories: [uiDesign.color],
-        description:
-            'Generate your own Material Design Color Palette with full control over the colors! Export to AngularJS, Materialize, CSS, Polymer, and more!',
-        links: {
-            [website]: 'https://mcg.mbitson.com/',
-        },
-    },
-    {
         name: 'Material-UI',
         categories: [programming.uiKitsAndLibraries],
         description:
