@@ -282,6 +282,16 @@ export const resources: Resource[] = [
         icon: 'https://www.thenetninja.co.uk/favicon.ico',
     },
     {
+        name: 'The Ultimate Guide to React Native Optimization',
+        categories: [programming.books],
+        description:
+            'This Guide is comprehensive source of knowledge on the best tools, tips, and tactics for optimizing your React Native app.',
+        links: {
+            [website]: 'https://www.callstack.com/campaigns/download-the-ultimate-guide-to-react-native-optimization',
+        },
+        keywords: ['react-native', 'optimization', 'callstack', 'guide'],
+    },
+    {
         name: 'thirdweb',
         categories: [web3.utilities],
         description:
