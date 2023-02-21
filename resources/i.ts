@@ -18,6 +18,16 @@ export const resources: Resource[] = [
         icon: 'https://icon.horse/icon/icon.horse',
     },
     {
+        name: 'Iconfinder',
+        categories: [assets.icons, assets.illustrations],
+        description: 'Millions of graphics for your design projects. Created by independent designers.',
+        links: {
+            [website]: 'https://www.iconfinder.com',
+        },
+        icon: 'https://www.iconfinder.com/static/img/favicons/favicon-32x32.png?87b2a5c3aa',
+        keywords: [],
+    },
+    {
         name: 'iconmonstr',
         categories: [assets.icons],
         description: 'Free simple icons for your next project.',
