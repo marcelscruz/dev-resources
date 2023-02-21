@@ -147,6 +147,17 @@ export const resources: Resource[] = [
         icon: 'https://testautomationu.applitools.com/TAU-Green.png',
     },
     {
+        name: 'Testing Accessibility',
+        categories: [toolsAndUtilities.accessibility],
+        description:
+            'A self-paced workshop designed to teach you the principles and effective patterns of accessibility, from design to deployment.',
+        links: {
+            [website]: 'https://testingaccessibility.com/',
+        },
+        icon: 'https://testingaccessibility.com/favicon.ico',
+        keywords: [],
+    },
+    {
         name: 'Testing JavaScript',
         categories: [programming.learn],
         description:
