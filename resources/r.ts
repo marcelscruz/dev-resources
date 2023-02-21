@@ -173,7 +173,8 @@ export const resources: Resource[] = [
     {
         name: 'Refero',
         categories: [uiDesign.inspiration],
-        description: 'The biggest collection of design references from great web applications. Refero make design research easier and faster than ever before. Explore over then 8,000 pages and 40,000 searchable screens of the best of product design from real life.',
+        description:
+            'The biggest collection of design references from great web applications. Refero make design research easier and faster than ever before. Explore over then 8,000 pages and 40,000 searchable screens of the best of product design from real life.',
         links: {
             [website]: 'https://refero.design',
         },
@@ -381,6 +382,16 @@ export const resources: Resource[] = [
         icon: 'https://retool.com/favicon.png',
     },
     {
+        name: 'reTypewriter',
+        categories: [toolsAndUtilities.typing],
+        description: 'Replay the steps of your changes at ease. A diff based typing simulator.',
+        links: {
+            [github]: 'https://github.com/antfu/retypewriter',
+        },
+        icon: '',
+        keywords: [],
+    },
+    {
         name: 'Rick Blyth',
         categories: [community.personalWebsites],
         description:
@@ -446,15 +457,16 @@ export const resources: Resource[] = [
     {
         name: 'RunJS',
         categories: [toolsAndUtilities.editorsAndExtensions],
-        description: 'RunJS is a desktop JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.',
+        description:
+            'RunJS is a desktop JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.',
         links: {
             [website]: 'https://runjs.app',
             [twitter]: 'https://twitter.com/runjs_app',
             [instagram]: 'https://instagram.com/runjs_app',
-            [github]: 'https://github.com/lukehaas/RunJS'
+            [github]: 'https://github.com/lukehaas/RunJS',
         },
         icon: 'https://raw.githubusercontent.com/lukehaas/RunJS/master/docs/icon-small.png',
-        keywords: ['javascript', 'typescript', 'playground', 'node', 'repl', 'sandbox', 'development']
+        keywords: ['javascript', 'typescript', 'playground', 'node', 'repl', 'sandbox', 'development'],
     },
     {
         name: 'Rust Jobs',
