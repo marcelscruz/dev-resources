@@ -766,6 +766,17 @@ export const resources: Resource[] = [
         icon: 'https://svgx.app/assets/favicons/favicon-96x96.png',
     },
     {
+        name: 'SVG Repo',
+        categories: [assets.icons],
+        description:
+            'Search, explore and edit the best-fitting free icons or vectors for your projects using a wide variety vector library.',
+        links: {
+            [website]: 'https://www.svgrepo.com/',
+        },
+        icon: 'https://www.svgrepo.com/favicon.ico',
+        keywords: [],
+    },
+    {
         name: 'Swagger',
         categories: [toolsAndUtilities.apiBuilding],
         description:
