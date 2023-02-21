@@ -1,5 +1,5 @@
 {
-"count": 749,
+"count": 753,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4724,6 +4724,19 @@
         "icon": "https://icon.horse/icon/icon.horse"
     },
     {
+        "name": "Iconfinder",
+        "categories": [
+            "Assets/Icons",
+            "Assets/Illustrations"
+        ],
+        "description": "Millions of graphics for your design projects. Created by independent designers.",
+        "links": {
+            "Website": "https://www.iconfinder.com"
+        },
+        "icon": "https://www.iconfinder.com/static/img/favicons/favicon-32x32.png?87b2a5c3aa",
+        "keywords": []
+    },
+    {
         "name": "iconmonstr",
         "categories": [
             "Assets/Icons"
@@ -7516,6 +7529,18 @@
         "icon": "https://retool.com/favicon.png"
     },
     {
+        "name": "reTypewriter",
+        "categories": [
+            "Tools & Utilities/Typing"
+        ],
+        "description": "Replay the steps of your changes at ease. A diff based typing simulator.",
+        "links": {
+            "GitHub": "https://github.com/antfu/retypewriter"
+        },
+        "icon": "",
+        "keywords": []
+    },
+    {
         "name": "Rick Blyth",
         "categories": [
             "Community/Personal Websites"
@@ -8470,6 +8495,18 @@
         "icon": "https://www.svgbackgrounds.com/favicon-32x32.png"
     },
     {
+        "name": "SVG Repo",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Search, explore and edit the best-fitting free icons or vectors for your projects using a wide variety vector library.",
+        "links": {
+            "Website": "https://www.svgrepo.com/"
+        },
+        "icon": "https://www.svgrepo.com/favicon.ico",
+        "keywords": []
+    },
+    {
         "name": "SVG to JSX",
         "categories": [
             "Programming/JavaScript/React"
@@ -8709,6 +8746,18 @@
             "Website": "https://testautomationu.applitools.com/"
         },
         "icon": "https://testautomationu.applitools.com/TAU-Green.png"
+    },
+    {
+        "name": "Testing Accessibility",
+        "categories": [
+            "Tools & Utilities/Accessibility"
+        ],
+        "description": "A self-paced workshop designed to teach you the principles and effective patterns of accessibility, from design to deployment.",
+        "links": {
+            "Website": "https://testingaccessibility.com/"
+        },
+        "icon": "https://testingaccessibility.com/favicon.ico",
+        "keywords": []
     },
     {
         "name": "Testing JavaScript",
