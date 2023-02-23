@@ -1,5 +1,5 @@
 {
-"count": 753,
+"count": 754,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2476,6 +2476,23 @@
             "Website": "https://daily.dev/"
         },
         "icon": "https://assets.website-files.com/5e0a5d9d743608d0f3ea6753/5f35091372cfa97ba7438461_daily.dev%20-%20Favicon%4030x.ico"
+    },
+    {
+        "name": "daily.place",
+        "categories": [
+            "Tools & Utilities/General"
+        ],
+        "description": "Create your perfect space to focus on your daily tasks with ambient sounds, pomodoro timer and to-do list.",
+        "links": {
+            "Website": "https://daily.place/"
+        },
+        "icon": "https://www.daily.place/favicon-32x32.png",
+        "keywords": [
+            "pomodoro",
+            "to-do",
+            "lofi",
+            "productivity"
+        ]
     },
     {
         "name": "DailyRemote",
@@ -6034,9 +6051,14 @@
         ],
         "description": "Get a complete information and preview of your site meta tags",
         "links": {
-            "Website": "https://www.metazord.io/"
+            "Website": "https://metazord.vercel.app/"
         },
-        "icon": "https://www.metazord.io/favicon-32x32.png"
+        "icon": "https://metazord.vercel.app/favicon-32x32.png",
+        "keywords": [
+            "metatags",
+            "tags",
+            "seo"
+        ]
     },
     {
         "name": "Metrical",
