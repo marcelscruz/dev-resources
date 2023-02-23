@@ -50,6 +50,17 @@ export const resources: Resource[] = [
             'https://assets.website-files.com/5e0a5d9d743608d0f3ea6753/5f35091372cfa97ba7438461_daily.dev%20-%20Favicon%4030x.ico',
     },
     {
+        name: 'daily.place',
+        categories: [toolsAndUtilities.general],
+        description:
+            'Create your perfect space to focus on your daily tasks with ambient sounds, pomodoro timer and to-do list.',
+        links: {
+            [website]: 'https://daily.place/',
+        },
+        icon: 'https://www.daily.place/favicon-32x32.png',
+        keywords: ['pomodoro', 'to-do', 'lofi', 'productivity'],
+    },
+    {
         name: 'DailyRemote',
         categories: [jobs.remoteOnly],
         description:
@@ -407,16 +418,5 @@ export const resources: Resource[] = [
             [website]: 'https://aws.amazon.com/dynamodb/',
         },
         icon: 'https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico',
-    },
-    {
-        name: 'daily.place',
-        categories: [toolsAndUtilities.general],
-        description:
-            'Create your perfect space to focus on your daily tasks with ambient sounds, pomodoro timer and to-do list.',
-        links: {
-            [website]: 'https://daily.place/',
-        },
-        icon: 'https://www.daily.place/favicon-32x32.png',
-        keywords: ['pomodoro', 'to-do', 'lofi', 'productivity'],
-    },
+    }
 ]
