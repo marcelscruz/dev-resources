@@ -408,4 +408,15 @@ export const resources: Resource[] = [
         },
         icon: 'https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico',
     },
+    {
+        name: 'daily.place',
+        categories: [toolsAndUtilities.general],
+        description:
+            'Create your perfect space to focus on your daily tasks with ambient sounds, pomodoro timer and to-do list.',
+        links: {
+            [website]: 'https://daily.place/',
+        },
+        icon: 'https://www.daily.place/favicon-32x32.png',
+        keywords: ['pomodoro', 'to-do', 'lofi', 'productivity'],
+    },
 ]

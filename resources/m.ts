@@ -194,9 +194,10 @@ export const resources: Resource[] = [
         categories: [toolsAndUtilities.seo],
         description: 'Get a complete information and preview of your site meta tags',
         links: {
-            [website]: 'https://www.metazord.io/',
+            [website]: 'https://metazord.vercel.app/',
         },
-        icon: 'https://www.metazord.io/favicon-32x32.png',
+        icon: 'https://metazord.vercel.app/favicon-32x32.png',
+        keywords: ['metatags', 'tags', 'seo'],
     },
     {
         name: 'Metrical',
