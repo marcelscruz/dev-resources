@@ -229,7 +229,7 @@ export const resources: Resource[] = [
         name: 'Greip',
         categories: [ai.utilities, programming.javascript.utilities, toolsAndUtilities.general],
         description:
-            'One of the must trusted Fraud Prevention service. Which allows you deploy AI-Powered modules to prevent fraud and abuse.',
+            'One of the must trusted Fraud Prevention services, which allows you to deploy AI-Powered modules to prevent fraud and abuse.',
         links: {
             [website]: 'https://greip.io/',
             [npm]: 'https://www.npmjs.com/package/greip.js',
