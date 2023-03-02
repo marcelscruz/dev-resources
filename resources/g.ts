@@ -1,8 +1,8 @@
 import { categories, links } from 'const'
 import { Resource } from 'types'
 
-const { programming, toolsAndUtilities, infrastructure, jobs, assets, uiDesign, indieHacking, community } = categories
-const { website, youtube, github, twitter, npm } = links
+const { programming, toolsAndUtilities, infrastructure, jobs, assets, uiDesign, indieHacking, community, ai } = categories
+const { website, youtube, github, twitter, npm, productHunt } = links
 
 export const resources: Resource[] = [
     {
@@ -227,15 +227,18 @@ export const resources: Resource[] = [
     },
     {
         name: 'Greip',
-        categories: [programming.javascript.utilities, toolsAndUtilities.general],
+        categories: [ai.utilities, programming.javascript.utilities, toolsAndUtilities.general],
         description:
-            'One of the must trusted IP Geolocation API providers. Which allows you know more about your website/app visitors by collecting information such as the IP Address, country, city, region, timezone, security threats, browser, etc.',
+            'One of the must trusted Fraud Prevention service. Which allows you deploy AI-Powered modules to prevent fraud and abuse.',
         links: {
             [website]: 'https://greip.io/',
-            [npm]: 'https://www.npmjs.com/package/gre-geoip',
-            [github]: 'https://github.com/gre-dev',
+            [npm]: 'https://www.npmjs.com/package/greip.js',
+            [github]: 'https://github.com/Greipio',
+            [twitter]: 'https://www.twitter.com/greipio',
+            [productHunt]: 'https://www.producthunt.com/products/greip',
         },
-        icon: 'https://greip.io/img/greip-logo.png',
+        keywords: ['ai', 'fraud prevention', 'api', 'geoip', 'profanity detection'],
+        icon: 'https://greip.io/img/greip-logo-c.png',
     },
     {
         name: 'Grid.Guide',
