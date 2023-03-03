@@ -1,7 +1,7 @@
 import { categories, links } from 'const'
 import { Resource } from 'types'
 
-const { programming, toolsAndUtilities, community } = categories
+const { programming, toolsAndUtilities, community, infrastructure } = categories
 const { website, youtube, twitch, twitter, codepen, discord, github } = links
 
 export const resources: Resource[] = [
