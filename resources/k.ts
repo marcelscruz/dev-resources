@@ -73,14 +73,15 @@ export const resources: Resource[] = [
     },
     {
         name: 'Kinsta',
-        description: 'Kinsta is a Cloud Platform designed to help your company and dev teams ship web projects faster and more efficiently. You can host your apps, databases, and sites all in one place. Easily connect with GitHub and automate deployments and get 24/7 support for all your favorite languages and frameworks.',
-        categories: [infrastructure.hosting, infrastructure.cloudComputing, infrastructure.database],
+        description:
+            'Kinsta is a Cloud Platform designed to help your company and dev teams ship web projects faster and more efficiently. You can host your apps, databases, and sites all in one place. Easily connect with GitHub and automate deployments and get 24/7 support for all your favorite languages and frameworks.',
+        categories: [infrastructure.hosting, infrastructure.cloudComputing, infrastructure.databases],
         links: {
             [website]: 'https://kinsta.com',
             [youtube]: 'https://www.youtube.com/c/kinsta',
             [discord]: 'https://kinsta.com/discord',
             [github]: 'https://github.com/kinsta',
-            [twitter]: 'https://twitter.com/kinsta'.
+            [twitter]: 'https://twitter.com/kinsta',
         },
         icon: 'https://avatars.githubusercontent.com/u/4136982?s=200&v=4',
         keywords: ['hosting', 'cloud', 'javascript', 'php'],
