@@ -1,7 +1,7 @@
 import { categories, links } from 'const'
 import { Resource } from 'types'
 
-const { assets, programming, community, toolsAndUtilities, indieHacking, jobs, web3 } = categories
+const { assets, programming, community, toolsAndUtilities, indieHacking, jobs, web3, uiDesign } = categories
 const { website, youtube, github, twitter, linkedin } = links
 
 export const resources: Resource[] = [
@@ -257,6 +257,16 @@ export const resources: Resource[] = [
             [youtube]: 'https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw',
         },
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
+    },
+    {
+        name: 'The Component Gallery',
+        categories: [uiDesign.inspiration],
+        description: 'The Component Gallery is a collection of components from the best design systems.',
+        links: {
+            [website]: 'https://component.gallery',
+        },
+        icon: 'https://component.gallery/favicon-32x32.png?v=99d1fc92b88bb2015e97d3bc7e120441',
+        keywords: [],
     },
     {
         name: 'The Future of Programming Languages at the Confluence of Paradigms',
