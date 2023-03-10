@@ -11,8 +11,22 @@ const url = 'https://devresourc.es/?ref=github-readme'
 const description = `<div align="center">The resources that power <a href="${url}" target="_blank" rel="noopener">Dev Resources</a></div>\n\n`
 
 const logoDR = `<a><p align="center">[<img src="./assets/logo.png">](${url})</p></a>\n\n`
-const logoClerk = `<a><p align="center">[<img src="./assets/clerk-dark-mode.png#gh-dark-mode-only" width="180px">](https://clerk.dev?utm_source=public_apis&utm_content=dev_resources_repo)[<img src="./assets/clerk-light-mode.png#gh-light-mode-only" width="180px">](https://clerk.dev?utm_source=public_apis&utm_content=dev_resources_repo)</p></a>`
-const logoGcore = `<a><p align="center">[<img src="./assets/gcore-dark-mode.png#gh-dark-mode-only" width="130px">](https://gcore.com?utm_source=public_apis&utm_content=dev_resources_repo)[<img src="./assets/gcore-light-mode.png#gh-light-mode-only" width="130px">](https://gcore.com?utm_source=public_apis&utm_content=dev_resources_repo)</p></a>`
+
+const logoClerk = `<a><p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/clerk-dark-mode.png" width="180px">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/clerk-light-mode.png" width="180px">
+  <img alt="Clerk logo" src="./assets/clerk-dark-mode.png" width="180px">
+</picture>
+</p></a>`
+
+const logoGcore = `<a><p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/gcore-dark-mode.png" width="130px">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/gcore-light-mode.png" width="130px">
+  <img alt="Gcore logo" src="./assets/gcore-dark-mode.png" width="130px">
+</picture>
+</p></a>`
 
 const sponsors = `<div align="center">Sponsored by</div>\n\n${logoClerk}\n\n\n\n${logoGcore}\n\n`
 
