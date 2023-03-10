@@ -4,11 +4,11 @@
 
  <div align="center">Sponsored by</div>
 
-<a><p align="center">[<img src="./assets/clerk-dark-mode.png#gh-dark-mode-only" width="200px">](https://clerk.dev?utm_source=public_apis&utm_content=dev_resources_repo)[<img src="./assets/clerk-light-mode.png#gh-light-mode-only" width="200px">](https://clerk.dev?utm_source=public_apis&utm_content=dev_resources_repo)</p></a>
+<a><p align="center">[<img src="./assets/clerk-dark-mode.png#gh-dark-mode-only" width="180px">](https://clerk.dev?utm_source=public_apis&utm_content=dev_resources_repo)[<img src="./assets/clerk-light-mode.png#gh-light-mode-only" width="180px">](https://clerk.dev?utm_source=public_apis&utm_content=dev_resources_repo)</p></a>
 
 
 
-<a><p align="center">[<img src="./assets/gcore-dark-mode.png#gh-dark-mode-only" width="30px">](https://gcore.com?utm_source=public_apis&utm_content=dev_resources_repo)[<img src="./assets/gcore-light-mode.png#gh-light-mode-only" width="30px">](https://gcore.com?utm_source=public_apis&utm_content=dev_resources_repo)</p></a>
+<a><p align="center">[<img src="./assets/gcore-dark-mode.png#gh-dark-mode-only" width="130px">](https://gcore.com?utm_source=public_apis&utm_content=dev_resources_repo)[<img src="./assets/gcore-light-mode.png#gh-light-mode-only" width="130px">](https://gcore.com?utm_source=public_apis&utm_content=dev_resources_repo)</p></a>
 
  ---
 >❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to resources should happen within the `/resources` folder.
