@@ -1,5 +1,5 @@
 {
-"count": 758,
+"count": 764,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3988,6 +3988,110 @@
             "Website": "https://www.gatsbyjs.com/"
         },
         "icon": "https://www.gatsbyjs.com/icons/icon-96x96.png?v=3ad5294f3fa6c06e2d07ab07c76df2cf"
+    },
+    {
+        "name": "Gcore Basic",
+        "categories": [
+            "Infrastructure/Hosting"
+        ],
+        "description": "Virtual machines for various tasks: from hosting a cooking blog to making a backup server.",
+        "links": {
+            "Website": "https://gcore.com/cloud/basic-vm"
+        },
+        "icon": "https://gcore.com/favicon.ico",
+        "keywords": [
+            "gcore",
+            "cloud",
+            "virtual machine",
+            "vm",
+            "hosting",
+            "server"
+        ]
+    },
+    {
+        "name": "Gcore CDN",
+        "categories": [
+            "Infrastructure/CDN"
+        ],
+        "description": "Make your app fast and responsive for a global audience with Gcore CDN.",
+        "links": {
+            "Website": "https://gcore.com/cdn"
+        },
+        "icon": "https://gcore.com/favicon.ico",
+        "keywords": [
+            "gcore",
+            "cdn",
+            "content delivery network"
+        ]
+    },
+    {
+        "name": "Gcore Cloud",
+        "categories": [
+            "Infrastructure/Cloud Computing"
+        ],
+        "description": "Scalable, secure, and reliable hybrid cloud services anywhere in the world.",
+        "links": {
+            "Website": "https://gcore.com/cloud"
+        },
+        "icon": "https://gcore.com/favicon.ico",
+        "keywords": [
+            "gcore",
+            "cloud",
+            "edge computing"
+        ]
+    },
+    {
+        "name": "Gcore Function as a service",
+        "categories": [
+            "Infrastructure/Serverless"
+        ],
+        "description": "Run code as a function without creating and maintaining virtual machines.",
+        "links": {
+            "Website": "https://gcore.com/cloud/faas"
+        },
+        "icon": "https://gcore.com/favicon.ico",
+        "keywords": [
+            "gcore",
+            "faas",
+            "function as a service",
+            "serverless"
+        ]
+    },
+    {
+        "name": "Gcore Image Stack",
+        "categories": [
+            "Infrastructure/CDN",
+            "Tools & Utilities/Image & Video Editing"
+        ],
+        "description": "An image CDN for convenient transformation, compression, and delivery of website images on the fly.",
+        "links": {
+            "Website": "https://gcore.com/image-stack"
+        },
+        "icon": "https://gcore.com/favicon.ico",
+        "keywords": [
+            "gcore",
+            "cdn",
+            "content delivery network",
+            "image cdn"
+        ]
+    },
+    {
+        "name": "Gcore Speedtest",
+        "categories": [
+            "Tools & Utilities/Performance",
+            "Tools & Utilities/General"
+        ],
+        "description": "Check your Internet speed and the quality of your broadband and mobile connection with our free speed testing tool.",
+        "links": {
+            "Website": "https://speedtest.gcore.com/"
+        },
+        "icon": "https://gcore.com/favicon.ico",
+        "keywords": [
+            "gcore",
+            "speed test",
+            "internet speed",
+            "bandwidth"
+        ]
     },
     {
         "name": "Get The Audience",

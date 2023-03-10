@@ -1,5 +1,5 @@
 {
-"count": 65,
+"count": 66,
 "data": [
     {
         "name": "AI/Images",
@@ -72,6 +72,10 @@
     {
         "name": "Infrastructure/Auth",
         "slug": "infrastructure/auth"
+    },
+    {
+        "name": "Infrastructure/CDN",
+        "slug": "infrastructure/cdn"
     },
     {
         "name": "Infrastructure/Cloud Computing",
