@@ -34,6 +34,7 @@ export const categories = {
 
     infrastructure: {
         auth: 'Infrastructure/Auth',
+        cdn: 'Infrastructure/CDN',
         cloudComputing: 'Infrastructure/Cloud Computing',
         databases: 'Infrastructure/Databases',
         hosting: 'Infrastructure/Hosting',

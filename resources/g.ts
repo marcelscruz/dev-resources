@@ -57,6 +57,68 @@ export const resources: Resource[] = [
         icon: '',
     },
     {
+        name: 'Gcore Basic',
+        categories: [infrastructure.hosting],
+        description: 'Virtual machines for various tasks: from hosting a cooking blog to making a backup server.',
+        links: {
+            [website]: 'https://gcore.com/cloud/basic-vm',
+        },
+        icon: 'https://gcore.com/favicon.ico',
+        keywords: ['gcore', 'cloud', 'virtual machine', 'vm', 'hosting', 'server'],
+    },
+    {
+        name: 'Gcore CDN',
+        categories: [infrastructure.cdn],
+        description: 'Make your app fast and responsive for a global audience with Gcore CDN.',
+        links: {
+            [website]: 'https://gcore.com/cdn',
+        },
+        icon: 'https://gcore.com/favicon.ico',
+        keywords: ['gcore', 'cdn', 'content delivery network'],
+    },
+    {
+        name: 'Gcore Cloud',
+        categories: [infrastructure.cloudComputing],
+        description: 'Scalable, secure, and reliable hybrid cloud services anywhere in the world.',
+        links: {
+            [website]: 'https://gcore.com/cloud',
+        },
+        icon: 'https://gcore.com/favicon.ico',
+        keywords: ['gcore', 'cloud', 'edge computing'],
+    },
+    {
+        name: 'Gcore Function as a service',
+        categories: [infrastructure.serverless],
+        description: 'Run code as a function without creating and maintaining virtual machines.',
+        links: {
+            [website]: 'https://gcore.com/cloud/faas',
+        },
+        icon: 'https://gcore.com/favicon.ico',
+        keywords: ['gcore', 'faas', 'function as a service', 'serverless'],
+    },
+    {
+        name: 'Gcore Image Stack',
+        categories: [infrastructure.cdn, toolsAndUtilities.imageAndVideoEditing],
+        description:
+            'An image CDN for convenient transformation, compression, and delivery of website images on the fly.',
+        links: {
+            [website]: 'https://gcore.com/image-stack',
+        },
+        icon: 'https://gcore.com/favicon.ico',
+        keywords: ['gcore', 'cdn', 'content delivery network', 'image cdn'],
+    },
+    {
+        name: 'Gcore Speedtest',
+        categories: [toolsAndUtilities.performance, toolsAndUtilities.general],
+        description:
+            'Check your Internet speed and the quality of your broadband and mobile connection with our free speed testing tool.',
+        links: {
+            [website]: 'https://speedtest.gcore.com/',
+        },
+        icon: 'https://gcore.com/favicon.ico',
+        keywords: ['gcore', 'speed test', 'internet speed', 'bandwidth'],
+    },
+    {
         name: 'GoatCounter',
         categories: [toolsAndUtilities.analytics],
         description:
