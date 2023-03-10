@@ -4,23 +4,11 @@
 
  <div align="center">Sponsored by</div>
 
-<a><p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/clerk-dark-mode.png" width="180px">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/clerk-light-mode.png" width="180px">
-  <img alt="Clerk logo" src="./assets/clerk-dark-mode.png" width="180px">
-</picture>
-</p></a>
+<a><p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/clerk-dark-mode.png" width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/clerk-light-mode.png" width="180px"><img alt="Clerk logo" src="./assets/clerk-dark-mode.png" width="180px"></picture></p></a>
 
 
 
-<a><p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/gcore-dark-mode.png" width="130px">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/gcore-light-mode.png" width="130px">
-  <img alt="Gcore logo" src="./assets/gcore-dark-mode.png" width="130px">
-</picture>
-</p></a>
+<a><p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/gcore-dark-mode.png" width="130px"><source media="(prefers-color-scheme: light)" srcset="./assets/gcore-light-mode.png" width="130px"><img alt="Gcore logo" src="./assets/gcore-dark-mode.png" width="130px"></picture></p></a>
 
  ---
 >❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to resources should happen within the `/resources` folder.
