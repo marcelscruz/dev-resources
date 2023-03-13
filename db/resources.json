@@ -4341,16 +4341,26 @@
     {
         "name": "Greip",
         "categories": [
+            "AI/Utilities",
             "Programming/JavaScript/Utilities",
             "Tools & Utilities/General"
         ],
-        "description": "One of the must trusted IP Geolocation API providers. Which allows you know more about your website/app visitors by collecting information such as the IP Address, country, city, region, timezone, security threats, browser, etc.",
+        "description": "One of the must trusted Fraud Prevention services, which allows you to deploy AI-Powered modules to prevent fraud and abuse.",
         "links": {
             "Website": "https://greip.io/",
-            "npm": "https://www.npmjs.com/package/gre-geoip",
-            "GitHub": "https://github.com/gre-dev"
+            "npm": "https://www.npmjs.com/package/greip.js",
+            "GitHub": "https://github.com/Greipio",
+            "Twitter": "https://www.twitter.com/greipio",
+            "Product Hunt": "https://www.producthunt.com/products/greip"
         },
-        "icon": "https://greip.io/img/greip-logo.png"
+        "keywords": [
+            "ai",
+            "fraud prevention",
+            "api",
+            "geoip",
+            "profanity detection"
+        ],
+        "icon": "https://greip.io/img/greip-logo-c.png"
     },
     {
         "name": "Grid Garden",

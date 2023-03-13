@@ -37,6 +37,7 @@ Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://brandie.app/favicon/favicon.ico" width="16" /> | Brandie | An AI-powered branding assistant. | [Website](https://brandie.app) | branding, domain, product name, logo, typography, colors, ai, artificial intelligence |
+ <img src="https://greip.io/img/greip-logo-c.png" width="16" /> | Greip | One of the must trusted Fraud Prevention services, which allows you to deploy AI-Powered modules to prevent fraud and abuse. | [Website](https://greip.io/)<br />[GitHub](https://github.com/Greipio)<br />[npm](https://www.npmjs.com/package/greip.js)<br />[Product Hunt](https://www.producthunt.com/products/greip)<br />[Twitter](https://www.twitter.com/greipio) | ai, fraud prevention, api, geoip, profanity detection |
 
 **[⬆ Back to Index](#index)**
 ## <a name="assets">Assets</a> 
@@ -642,7 +643,7 @@ Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
  <img src="https://1loc.dev/assets/favicon.png" width="16" /> | 1LOC | Favorite JavaScript Utilities in single line of code! No more! | [Website](https://1loc.dev/) | JavaScript, JavaScript Utilities, one-liner, one-liner javascript |
- <img src="https://greip.io/img/greip-logo.png" width="16" /> | Greip | One of the must trusted IP Geolocation API providers. Which allows you know more about your website/app visitors by collecting information such as the IP Address, country, city, region, timezone, secu... | [Website](https://greip.io/)<br />[GitHub](https://github.com/gre-dev)<br />[npm](https://www.npmjs.com/package/gre-geoip) |  |
+ <img src="https://greip.io/img/greip-logo-c.png" width="16" /> | Greip | One of the must trusted Fraud Prevention services, which allows you to deploy AI-Powered modules to prevent fraud and abuse. | [Website](https://greip.io/)<br />[GitHub](https://github.com/Greipio)<br />[npm](https://www.npmjs.com/package/greip.js)<br />[Product Hunt](https://www.producthunt.com/products/greip)<br />[Twitter](https://www.twitter.com/greipio) | ai, fraud prevention, api, geoip, profanity detection |
 
 **[⬆ Back to Index](#index)**
 
@@ -1037,7 +1038,7 @@ Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://
  <img src="https://www.fetoolkit.io/assets/favicon-32x32.png" width="16" /> | Frontend Toolkit | Frontend Toolkit is a customizable dashboard for your recurring Frontend tasks. Base64 encoder/decoder, SVG optimizations, SVG to JSX and many more! | [Website](https://www.fetoolkit.io/) |  |
  <img src="https://gcore.com/favicon.ico" width="16" /> | Gcore Speed Test | Check your Internet speed and the quality of your broadband and mobile connection with our free speed testing tool. | [Website](https://speedtest.gcore.com/) | gcore, speed test, internet speed, bandwidth |
  <img src="https://getterms.io/img/apple-touch-icon-72x72.png" width="16" /> | GetTerms.io | Generate a simple Terms of Service and Privacy Policy statement for your website. | [Website](https://getterms.io/) |  |
- <img src="https://greip.io/img/greip-logo.png" width="16" /> | Greip | One of the must trusted IP Geolocation API providers. Which allows you know more about your website/app visitors by collecting information such as the IP Address, country, city, region, timezone, secu... | [Website](https://greip.io/)<br />[GitHub](https://github.com/gre-dev)<br />[npm](https://www.npmjs.com/package/gre-geoip) |  |
+ <img src="https://greip.io/img/greip-logo-c.png" width="16" /> | Greip | One of the must trusted Fraud Prevention services, which allows you to deploy AI-Powered modules to prevent fraud and abuse. | [Website](https://greip.io/)<br />[GitHub](https://github.com/Greipio)<br />[npm](https://www.npmjs.com/package/greip.js)<br />[Product Hunt](https://www.producthunt.com/products/greip)<br />[Twitter](https://www.twitter.com/greipio) | ai, fraud prevention, api, geoip, profanity detection |
  <img src="http://grid.guide/assets/favicons/favicon-96x96.png" width="16" /> | Grid.Guide | Create pixel perfect grids for the web. | [Website](http://grid.guide/) |  |
  <img src="https://www.nordtheme.com/icons/icon-96x96.png?v=970545fb8e9518a3616ec74d00cfebc4" width="16" /> | Nord | A arctic, north-bluish color palette | [Website](https://www.nordtheme.com/) | nord, arctic, north, bluish, clean, minimal, flat, ui, syntax, website, documentation, react, arctic... |
  <img src="https://opensource.builders/icons/icon-96x96.png?v=e7a352862c009ec6682391b2e58d6469" width="16" /> | Opensource.Builders | Find open-source alternatives to popular software. | [Website](https://opensource.builders/) |  |
