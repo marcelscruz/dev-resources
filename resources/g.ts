@@ -108,7 +108,7 @@ export const resources: Resource[] = [
         keywords: ['gcore', 'cdn', 'content delivery network', 'image cdn'],
     },
     {
-        name: 'Gcore Speedtest',
+        name: 'Gcore Speed Test',
         categories: [toolsAndUtilities.performance, toolsAndUtilities.general],
         description:
             'Check your Internet speed and the quality of your broadband and mobile connection with our free speed testing tool.',
