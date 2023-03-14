@@ -400,6 +400,17 @@ export const resources: Resource[] = [
         keywords: ['website builder', 'content management system', 'CMS', 'open source'],
     },
     {
+        name: 'Duco.js',
+        description:
+            'Easily implement a duino coin miner to your website',
+        categories: [web3.utilities, programming.uiKitsAndLibraries],
+        links: {
+            [website]: 'https://www.npmjs.com/package/duco',
+        },
+        icon: 'https://axorax.github.io/duino-lookup/img/duino.png',
+        keywords: ['web miner', 'crypto', 'javascript library', 'open source'],
+    },
+    {
         name: 'dygraphs',
         categories: [programming.charts],
         description:
