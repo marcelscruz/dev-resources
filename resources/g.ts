@@ -1,8 +1,8 @@
 import { categories, links } from 'const'
 import { Resource } from 'types'
 
-const { programming, toolsAndUtilities, infrastructure, jobs, assets, uiDesign, indieHacking, community } = categories
-const { website, youtube, github, twitter, npm } = links
+const { programming, toolsAndUtilities, infrastructure, jobs, assets, uiDesign, indieHacking, community, ai } = categories
+const { website, youtube, github, twitter, npm, productHunt } = links
 
 export const resources: Resource[] = [
     {
@@ -55,6 +55,68 @@ export const resources: Resource[] = [
             [website]: 'https://training.github.com/',
         },
         icon: '',
+    },
+    {
+        name: 'Gcore Basic',
+        categories: [infrastructure.hosting],
+        description: 'Virtual machines for various tasks: from hosting a cooking blog to making a backup server.',
+        links: {
+            [website]: 'https://gcore.com/cloud/basic-vm',
+        },
+        icon: 'https://gcore.com/favicon.ico',
+        keywords: ['gcore', 'cloud', 'virtual machine', 'vm', 'hosting', 'server'],
+    },
+    {
+        name: 'Gcore CDN',
+        categories: [infrastructure.cdn],
+        description: 'Make your app fast and responsive for a global audience with Gcore CDN.',
+        links: {
+            [website]: 'https://gcore.com/cdn',
+        },
+        icon: 'https://gcore.com/favicon.ico',
+        keywords: ['gcore', 'cdn', 'content delivery network'],
+    },
+    {
+        name: 'Gcore Cloud',
+        categories: [infrastructure.cloudComputing],
+        description: 'Scalable, secure, and reliable hybrid cloud services anywhere in the world.',
+        links: {
+            [website]: 'https://gcore.com/cloud',
+        },
+        icon: 'https://gcore.com/favicon.ico',
+        keywords: ['gcore', 'cloud', 'edge computing'],
+    },
+    {
+        name: 'Gcore Function as a service',
+        categories: [infrastructure.serverless],
+        description: 'Run code as a function without creating and maintaining virtual machines.',
+        links: {
+            [website]: 'https://gcore.com/cloud/faas',
+        },
+        icon: 'https://gcore.com/favicon.ico',
+        keywords: ['gcore', 'faas', 'function as a service', 'serverless'],
+    },
+    {
+        name: 'Gcore Image Stack',
+        categories: [infrastructure.cdn, toolsAndUtilities.imageAndVideoEditing],
+        description:
+            'An image CDN for convenient transformation, compression, and delivery of website images on the fly.',
+        links: {
+            [website]: 'https://gcore.com/image-stack',
+        },
+        icon: 'https://gcore.com/favicon.ico',
+        keywords: ['gcore', 'cdn', 'content delivery network', 'image cdn'],
+    },
+    {
+        name: 'Gcore Speed Test',
+        categories: [toolsAndUtilities.performance, toolsAndUtilities.general],
+        description:
+            'Check your Internet speed and the quality of your broadband and mobile connection with our free speed testing tool.',
+        links: {
+            [website]: 'https://speedtest.gcore.com/',
+        },
+        icon: 'https://gcore.com/favicon.ico',
+        keywords: ['gcore', 'speed test', 'internet speed', 'bandwidth'],
     },
     {
         name: 'GoatCounter',
@@ -227,15 +289,18 @@ export const resources: Resource[] = [
     },
     {
         name: 'Greip',
-        categories: [programming.javascript.utilities, toolsAndUtilities.general],
+        categories: [ai.utilities, programming.javascript.utilities, toolsAndUtilities.general],
         description:
-            'One of the must trusted IP Geolocation API providers. Which allows you know more about your website/app visitors by collecting information such as the IP Address, country, city, region, timezone, security threats, browser, etc.',
+            'One of the must trusted Fraud Prevention services, which allows you to deploy AI-Powered modules to prevent fraud and abuse.',
         links: {
             [website]: 'https://greip.io/',
-            [npm]: 'https://www.npmjs.com/package/gre-geoip',
-            [github]: 'https://github.com/gre-dev',
+            [npm]: 'https://www.npmjs.com/package/greip.js',
+            [github]: 'https://github.com/Greipio',
+            [twitter]: 'https://www.twitter.com/greipio',
+            [productHunt]: 'https://www.producthunt.com/products/greip',
         },
-        icon: 'https://greip.io/img/greip-logo.png',
+        keywords: ['ai', 'fraud prevention', 'api', 'geoip', 'profanity detection'],
+        icon: 'https://greip.io/img/greip-logo-c.png',
     },
     {
         name: 'Grid.Guide',

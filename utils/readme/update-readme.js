@@ -10,10 +10,13 @@ const url = 'https://devresourc.es/?ref=github-readme'
 
 const description = `<div align="center">The resources that power <a href="${url}" target="_blank" rel="noopener">Dev Resources</a></div>\n\n`
 
-const logo = `<a><p align="center">[<img src="./assets/logo.png">](${url})</p></a>\n\n`
+const logoDR = `<a><p align="center">[<img src="./assets/logo.png">](${url})</p></a>\n\n`
 
-const sponsors = `<div align="center">Sponsored by</div>\n\n
-<a><p align="center">[<img src="./assets/clerk.svg">](https://clerk.dev?utm_source=public_apis&utm_content=dev_resources_repo)</p></a>\n\n`
+const logoClerk = `<p align="center"><a href="https://clerk.dev?utm_source=public_apis&utm_content=dev_resources_repo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/clerk-dark-mode.png" width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/clerk-light-mode.png" width="180px"><img alt="Clerk logo" src="./assets/clerk-dark-mode.png" width="180px"></picture></a></p>`
+
+const logoGcore = `<p align="center"><a href="https://gcore.com?utm_source=public_apis&utm_content=dev_resources_repo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/gcore-dark-mode.png" width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/gcore-light-mode.png" width="180px"><img alt="Gcore logo" src="./assets/gcore-dark-mode.png" width="180px"></picture></a></p>`
+
+const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoClerk}<br/>\n\n\n\n${logoGcore}\n\n`
 
 const warning =
     '---\n>❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to resources should happen within the `/resources` folder.\n---\n\n'
@@ -31,7 +34,7 @@ async function updateReadme() {
         const tables = createTables(resourcesTree)
 
         await writeToFile({
-            data: `${description} ${logo} ${sponsors} ${warning} ${contributionGuide}${publicApisLink} ${resourcesCount} ${index} ${tables}`,
+            data: `${description} ${logoDR} ${sponsors} ${warning} ${contributionGuide}${publicApisLink} ${resourcesCount} ${index} ${tables}`,
             filePath: './README.md',
         })
     } catch (error) {

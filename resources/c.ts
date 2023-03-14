@@ -16,6 +16,16 @@ export const resources: Resource[] = [
         icon: 'https://www.cakeresume.com/favicons/favicon-96x96.png',
     },
     {
+        name: 'CandyIcons',
+        categories: [assets.icons],
+        description:
+            'CandyIcons offers thousands of unique and amazing app icons that have not yet appeared elsewhere, saving you time in spotting the perfect icon for your product.',
+        links: {
+            [website]: 'https://www.candyicons.com',
+        },
+        icon: 'https://www.candyicons.com/favicon/favicon-32x32.png',
+    },
+    {
         name: 'Canva',
         categories: [uiDesign.color, assets.fonts, programming.templates],
         description:

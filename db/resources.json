@@ -1,5 +1,5 @@
 {
-"count": 754,
+"count": 764,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1078,6 +1078,17 @@
             "Website": "https://www.cakeresume.com/"
         },
         "icon": "https://www.cakeresume.com/favicons/favicon-96x96.png"
+    },
+    {
+        "name": "CandyIcons",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "CandyIcons offers thousands of unique and amazing app icons that have not yet appeared elsewhere, saving you time in spotting the perfect icon for your product.",
+        "links": {
+            "Website": "https://www.candyicons.com"
+        },
+        "icon": "https://www.candyicons.com/favicon/favicon-32x32.png"
     },
     {
         "name": "Canva",
@@ -3979,6 +3990,110 @@
         "icon": "https://www.gatsbyjs.com/icons/icon-96x96.png?v=3ad5294f3fa6c06e2d07ab07c76df2cf"
     },
     {
+        "name": "Gcore Basic",
+        "categories": [
+            "Infrastructure/Hosting"
+        ],
+        "description": "Virtual machines for various tasks: from hosting a cooking blog to making a backup server.",
+        "links": {
+            "Website": "https://gcore.com/cloud/basic-vm"
+        },
+        "icon": "https://gcore.com/favicon.ico",
+        "keywords": [
+            "gcore",
+            "cloud",
+            "virtual machine",
+            "vm",
+            "hosting",
+            "server"
+        ]
+    },
+    {
+        "name": "Gcore CDN",
+        "categories": [
+            "Infrastructure/CDN"
+        ],
+        "description": "Make your app fast and responsive for a global audience with Gcore CDN.",
+        "links": {
+            "Website": "https://gcore.com/cdn"
+        },
+        "icon": "https://gcore.com/favicon.ico",
+        "keywords": [
+            "gcore",
+            "cdn",
+            "content delivery network"
+        ]
+    },
+    {
+        "name": "Gcore Cloud",
+        "categories": [
+            "Infrastructure/Cloud Computing"
+        ],
+        "description": "Scalable, secure, and reliable hybrid cloud services anywhere in the world.",
+        "links": {
+            "Website": "https://gcore.com/cloud"
+        },
+        "icon": "https://gcore.com/favicon.ico",
+        "keywords": [
+            "gcore",
+            "cloud",
+            "edge computing"
+        ]
+    },
+    {
+        "name": "Gcore Function as a service",
+        "categories": [
+            "Infrastructure/Serverless"
+        ],
+        "description": "Run code as a function without creating and maintaining virtual machines.",
+        "links": {
+            "Website": "https://gcore.com/cloud/faas"
+        },
+        "icon": "https://gcore.com/favicon.ico",
+        "keywords": [
+            "gcore",
+            "faas",
+            "function as a service",
+            "serverless"
+        ]
+    },
+    {
+        "name": "Gcore Image Stack",
+        "categories": [
+            "Infrastructure/CDN",
+            "Tools & Utilities/Image & Video Editing"
+        ],
+        "description": "An image CDN for convenient transformation, compression, and delivery of website images on the fly.",
+        "links": {
+            "Website": "https://gcore.com/image-stack"
+        },
+        "icon": "https://gcore.com/favicon.ico",
+        "keywords": [
+            "gcore",
+            "cdn",
+            "content delivery network",
+            "image cdn"
+        ]
+    },
+    {
+        "name": "Gcore Speed Test",
+        "categories": [
+            "Tools & Utilities/Performance",
+            "Tools & Utilities/General"
+        ],
+        "description": "Check your Internet speed and the quality of your broadband and mobile connection with our free speed testing tool.",
+        "links": {
+            "Website": "https://speedtest.gcore.com/"
+        },
+        "icon": "https://gcore.com/favicon.ico",
+        "keywords": [
+            "gcore",
+            "speed test",
+            "internet speed",
+            "bandwidth"
+        ]
+    },
+    {
         "name": "Get The Audience",
         "categories": [
             "Indie Hacking/Utilities"
@@ -4226,16 +4341,26 @@
     {
         "name": "Greip",
         "categories": [
+            "AI/Utilities",
             "Programming/JavaScript/Utilities",
             "Tools & Utilities/General"
         ],
-        "description": "One of the must trusted IP Geolocation API providers. Which allows you know more about your website/app visitors by collecting information such as the IP Address, country, city, region, timezone, security threats, browser, etc.",
+        "description": "One of the must trusted Fraud Prevention services, which allows you to deploy AI-Powered modules to prevent fraud and abuse.",
         "links": {
             "Website": "https://greip.io/",
-            "npm": "https://www.npmjs.com/package/gre-geoip",
-            "GitHub": "https://github.com/gre-dev"
+            "npm": "https://www.npmjs.com/package/greip.js",
+            "GitHub": "https://github.com/Greipio",
+            "Twitter": "https://www.twitter.com/greipio",
+            "Product Hunt": "https://www.producthunt.com/products/greip"
         },
-        "icon": "https://greip.io/img/greip-logo.png"
+        "keywords": [
+            "ai",
+            "fraud prevention",
+            "api",
+            "geoip",
+            "profanity detection"
+        ],
+        "icon": "https://greip.io/img/greip-logo-c.png"
     },
     {
         "name": "Grid Garden",
@@ -5370,6 +5495,29 @@
             "Website": "https://kindmetrics.io/"
         },
         "icon": "https://kindmetrics.io/assets/images/favicon-96x96.png"
+    },
+    {
+        "name": "Kinsta",
+        "description": "Kinsta is a Cloud Platform designed to help your company and dev teams ship web projects faster and more efficiently. You can host your apps, databases, and sites all in one place. Easily connect with GitHub and automate deployments and get 24/7 support for all your favorite languages and frameworks.",
+        "categories": [
+            "Infrastructure/Hosting",
+            "Infrastructure/Cloud Computing",
+            "Infrastructure/Databases"
+        ],
+        "links": {
+            "Website": "https://kinsta.com",
+            "YouTube": "https://www.youtube.com/c/kinsta",
+            "Discord": "https://kinsta.com/discord",
+            "GitHub": "https://github.com/kinsta",
+            "Twitter": "https://twitter.com/kinsta"
+        },
+        "icon": "https://avatars.githubusercontent.com/u/4136982?s=200&v=4",
+        "keywords": [
+            "hosting",
+            "cloud",
+            "javascript",
+            "php"
+        ]
     },
     {
         "name": "Kite",
@@ -8884,6 +9032,18 @@
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
     {
+        "name": "The Component Gallery",
+        "categories": [
+            "UI Design/Inspiration"
+        ],
+        "description": "The Component Gallery is a collection of components from the best design systems.",
+        "links": {
+            "Website": "https://component.gallery"
+        },
+        "icon": "https://component.gallery/favicon-32x32.png?v=99d1fc92b88bb2015e97d3bc7e120441",
+        "keywords": []
+    },
+    {
         "name": "The Future of Programming Languages at the Confluence of Paradigms",
         "categories": [
             "Programming/YouTube Channels"
@@ -9447,6 +9607,24 @@
             "Website": "https://www.upwork.com/"
         },
         "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
+    },
+    {
+        "name": "urlmskr",
+        "description": "Simple and free to use URL masker",
+        "categories": [
+            "Tools & Utilities/General",
+            "Tools & Utilities/Domains"
+        ],
+        "links": {
+            "Website": "https://axorax.github.io/urlmskr/"
+        },
+        "icon": "https://axorax.github.io/urlmskr/assets/icon.png",
+        "keywords": [
+            "url",
+            "link",
+            "masker",
+            "url-masker"
+        ]
     },
     {
         "name": "Use The Keyboard",
