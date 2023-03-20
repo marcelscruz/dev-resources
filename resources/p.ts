@@ -1,7 +1,17 @@
 import { categories, links } from 'const'
 import { Resource } from 'types'
 
-const { toolsAndUtilities, uiDesign, programming, jobs, assets, indieHacking, infrastructure, community } = categories
+const {
+    toolsAndUtilities,
+    uiDesign,
+    programming,
+    jobs,
+    assets,
+    indieHacking,
+    infrastructure,
+    community,
+    ai,
+} = categories
 const { website, twitter, youtube, linkedin, facebook } = links
 
 export const resources: Resource[] = [
@@ -167,6 +177,17 @@ export const resources: Resource[] = [
             [website]: 'https://www.postman.com/',
         },
         icon: 'https://www.postman.com/web-assets/icons/icon-96x96.png?v=13d51aa1bbfaacb557bf41b85783e441',
+    },
+    {
+        name: 'PoweredbyAI',
+        description: 'A directory with 100+ AI tools to help you with your daily tasks',
+        categories: [ai.utilities],
+        links: {
+            [website]: 'https://poweredbyai.app',
+        },
+        icon:
+            'https://firebasestorage.googleapis.com/v0/b/projectai-prod.appspot.com/o/project%2Flogo%2Ffavicon.ico?alt=media&token=4607d58a-503c-49f1-8181-decf24ce29af',
+        keywords: ['ai', 'ai tools', 'copywriting', 'image generator'],
     },
     {
         name: 'Prime',
