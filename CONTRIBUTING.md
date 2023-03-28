@@ -13,7 +13,6 @@ Everyone is welcome to collaborate to this project, but please take into conside
 -   resources shouldn't be a duplicate; a text search on the README file should be enough to find this answer
 -   the list of resources is written in JavaScript; if you need assistance on this matter, please open an issue with the resource's information
 -   make sure to check all items listed on the [pull request template](PULL_REQUEST_TEMPLATE.md) before submitting your contribution
--   currently, there is no fixed schedule for when the [website](https://devresourc.es/?ref=github-contributing) will be synchronized with this repository, though we strive to keep them as synchronized as possible
 
 ## Adding a resource
 
@@ -40,11 +39,11 @@ Each resource belongs to an object, as such:
 
 Observe that:
 
--   `name`, `description` and `icon` are strings, where:
+-   `name`, `description`, `url` and `icon` are strings, where:
     -   `name` and `description` should not include line breaks `(\n)` nor the pipe symbol `(|)`
-    -   `icon` should be a URL
+    -   `url` is the URL to the resource's main page
+    -   `icon` is the URL the resource's favicon
 -   `categories` is an array, meaning the resource can belong to multiple categories; its values (e.g. `programming.learn`) should be used from `constants/categories.js`, as this ensures organization and avoids misspellings
--   `url` is a string containing the URL to the resource
 -   `keywords` is an array of strings, which also should not include line breaks `(\n)` nor the pipe symbol `(|)`
 -   `icon` and `keywords` are the only optional properties, all others are required, with `categories` containing at least one value
 -   the `description` property can be custom or grabbed from the resource's metadata included in the `<head>` tag of the website's HTML document
