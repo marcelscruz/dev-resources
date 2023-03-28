@@ -540,17 +540,6 @@ export const resources: Resource[] = [
         icon: 'https://frontendfoc.us/favicon.png',
     },
     {
-        name: 'Frontend Happy Hour',
-        keywords: ['frontend', 'web', 'web development'],
-        categories: [programming.podcasts],
-        description:
-            'A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development.',
-        links: {
-            [website]: 'https://frontendhappyhour.com/',
-        },
-        icon: 'https://frontendhappyhour.com/favicon.ico',
-    },
-    {
         name: 'Frontend Masters',
         categories: [programming.learn],
         description: 'Advance your skills with in-depth, modern JavaScript and front-end engineering courses.',

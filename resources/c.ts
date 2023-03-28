@@ -480,17 +480,6 @@ export const resources: Resource[] = [
         icon: 'https://blog.codepen.io/favicon.ico',
     },
     {
-        name: 'Codepen radio',
-        categories: [programming.podcasts],
-        description:
-            "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-        links: {
-            [website]: 'https://blog.codepen.io/radio/',
-        },
-        icon:
-            'https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png',
-    },
-    {
         name: 'Codepip',
         categories: [programming.learn],
         description: 'Learn to code by playing games.',
