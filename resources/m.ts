@@ -1,17 +1,14 @@
-import { categories, links } from 'const'
+import { categories } from 'const'
 import { Resource } from 'types'
 
 const { community, indieHacking, programming, assets, uiDesign, toolsAndUtilities, jobs, infrastructure } = categories
-const { website, twitter, youtube, instagram, linkedin, github, codepen, facebook } = links
 
 export const resources: Resource[] = [
     {
         name: 'Madza Quizzes',
         categories: [jobs.interviews],
         description: 'A great resource with 500 free interview questions',
-        links: {
-            [website]: 'https://quizzes.madza.dev/',
-        },
+        url: 'https://quizzes.madza.dev/',
         icon: 'https://quizzes.madza.dev/favicon.ico',
     },
     {
@@ -19,9 +16,7 @@ export const resources: Resource[] = [
         categories: [indieHacking.utilities],
         description:
             'Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.',
-        links: {
-            [website]: 'https://mailchimp.com/',
-        },
+        url: 'https://mailchimp.com/',
         icon: 'https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png',
     },
     {
@@ -29,9 +24,7 @@ export const resources: Resource[] = [
         categories: [infrastructure.auth],
         description:
             'Bring your Web3 strategy to life with Magic. Passwordless Auth + NFT wallet onboarding (without seed phrase) for your customers.',
-        links: {
-            [website]: 'https://magic.link',
-        },
+        url: 'https://magic.link',
         icon: 'https://magic.link/favicon.ico',
         keywords: ['auth', 'authentication', 'passwordless'],
     },
@@ -40,18 +33,14 @@ export const resources: Resource[] = [
         categories: [programming.testing],
         description:
             '⚡ Zero config GUI for Jest. Contribute to Raathigesh/majestic development by creating an account on GitHub.',
-        links: {
-            [website]: 'https://github.com/Raathigesh/majestic',
-        },
+        url: 'https://github.com/Raathigesh/majestic',
         icon: 'https://github.githubassets.com/favicons/favicon-dark.svg',
     },
     {
         name: "MAKE: Bootstrapper's Handbook",
         categories: [indieHacking.books],
         description: 'Learn to bootstrap profitable startups the indie way — $14.99.',
-        links: {
-            [website]: 'https://makebook.io/',
-        },
+        url: 'https://makebook.io/',
         icon: 'https://makebook.io/favicon-32x32.png?2',
     },
     {
@@ -59,9 +48,7 @@ export const resources: Resource[] = [
         categories: [assets.illustrations],
         description:
             'Each week, discover royalty-free illustrations to power up your projects. Use them in a commercial or non-commercial way.',
-        links: {
-            [website]: 'https://www.manypixels.co/gallery/',
-        },
+        url: 'https://www.manypixels.co/gallery/',
         icon: 'https://www.manypixels.co/gallery/icons/icon-96x96.png?v=1e107cc4927fb83a24c4d7a99f010d8d',
     },
     {
@@ -69,9 +56,7 @@ export const resources: Resource[] = [
         categories: [programming.uiKitsAndLibraries],
         description:
             'React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience.',
-        links: {
-            [website]: 'https://mantine.dev',
-        },
+        url: 'https://mantine.dev',
         icon: 'https://mantine.dev/favicon-32x32.png',
         keywords: ['react', 'hooks', 'dark theme', 'accessibility', 'components', 'hooks', 'ui', 'library'],
     },
@@ -79,15 +64,7 @@ export const resources: Resource[] = [
         name: 'Marko Denic',
         categories: [community.personalWebsites],
         description: 'Web Developer, Public speaker, IT trainer and consultant.',
-        links: {
-            [website]: 'https://markodenic.com/',
-            [twitter]: 'https://twitter.com/denicmarko',
-            [youtube]: 'https://www.youtube.com/channel/UCRgyPAKycnp_kkpny_uZBcQ',
-            [instagram]: 'https://www.instagram.com/markodenic1/',
-            [linkedin]: 'https://www.linkedin.com/in/marko-denic-full-stack-developer/',
-            [github]: 'https://github.com/markodenic',
-            [codepen]: 'https://codepen.io/denic',
-        },
+        url: 'https://markodenic.com/',
         icon: 'https://markodenic.com/wp-content/themes/blog/favicon/favicon-32x32.png',
     },
     {
@@ -95,9 +72,7 @@ export const resources: Resource[] = [
         categories: [programming.learn],
         description:
             'Learn frontend development through play, repetition, and sleep. Each game builds up your skills from the ground up using the educational process of scaffolding. You learn one new concept at a time, and leverage spaced repetition to solidify each concept.',
-        links: {
-            [website]: 'https://mastery.games/',
-        },
+        url: 'https://mastery.games/',
         icon: 'https://mastery.games/favicon.ico?v=2.3',
     },
     {
@@ -105,27 +80,21 @@ export const resources: Resource[] = [
         categories: [programming.uiKitsAndLibraries],
         description:
             'Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.',
-        links: {
-            [website]: 'https://material.io/',
-        },
+        url: 'https://material.io/',
         icon: 'https://material.io/static/assets/favicon.ico',
     },
     {
         name: 'Material Design',
         categories: [assets.icons],
         description: 'Get Material Icons.',
-        links: {
-            [website]: 'https://material.io/resources/icons',
-        },
+        url: 'https://material.io/resources/icons',
         icon: 'https://material.io/favicon.ico',
     },
     {
         name: 'Material Design Palette',
         categories: [uiDesign.color],
         description: 'Choose your favorite colors and get your Material Design palette generated and downloadable.',
-        links: {
-            [website]: 'https://www.materialpalette.com/',
-        },
+        url: 'https://www.materialpalette.com/',
         icon:
             'https://www.materialpalette.com/assets/favicon-0f3eb1b9f6d525e848b1dca6db1cabd2a3e9e843749cb9ad72222b80ab9fdf19.ico',
     },
@@ -134,18 +103,14 @@ export const resources: Resource[] = [
         categories: [programming.uiKitsAndLibraries],
         description:
             'React components for faster and easier web development. Build your own design system, or start with Material Design.',
-        links: {
-            [website]: 'https://material-ui.com/',
-        },
+        url: 'https://material-ui.com/',
         icon: 'https://material-ui.com/static/icons/180x180.png',
     },
     {
         name: 'Materialize',
         categories: [programming.uiKitsAndLibraries],
         description: 'Materialize is a modern responsive CSS framework based on Material Design by Google.',
-        links: {
-            [website]: 'https://materializecss.com/',
-        },
+        url: 'https://materializecss.com/',
         icon: 'https://materializecss.com/images/favicon/favicon-32x32.png',
     },
     {
@@ -153,9 +118,7 @@ export const resources: Resource[] = [
         categories: [toolsAndUtilities.analytics],
         description:
             "Matomo's the Google Analytics alternative that protects your data and your customer's privacy. A powerful web analytics platform with 100% data ownership.",
-        links: {
-            [website]: 'https://matomo.org/',
-        },
+        url: 'https://matomo.org/',
         icon:
             'https://img.matomo.org/spai/q_lossless+ret_img/https://static.matomo.org/wp-content/uploads/2018/11/cropped-DefaultIcon-32x32.png',
     },
@@ -164,9 +127,7 @@ export const resources: Resource[] = [
         categories: [programming.docsAndCheatsheets],
         description:
             'The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps. It also has some developer-oriented documentation for Mozilla products, such as Firefox Developer Tools.',
-        links: {
-            [website]: 'https://developer.mozilla.org/en-US/',
-        },
+        url: 'https://developer.mozilla.org/en-US/',
         icon: 'https://developer.mozilla.org/static/img/favicon72.cc65d1d762a0.png',
     },
     {
@@ -174,18 +135,14 @@ export const resources: Resource[] = [
         categories: [community.blogsAndForums],
         description:
             'Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.',
-        links: {
-            [website]: 'http://medium.com/',
-        },
+        url: 'http://medium.com/',
         icon: 'https://miro.medium.com/fit/c/76/76/1*sHhtYhaCe2Uc3IU0IgKwIQ.png',
     },
     {
         name: 'Metaverse Jobs',
         categories: [jobs.boards],
         description: 'Search for metaverse jobs in augmented reality, virtual reality, NFT, crypto, gaming, and more.',
-        links: {
-            [website]: 'https://www.themetaversejobs.com/',
-        },
+        url: 'https://www.themetaversejobs.com/',
         icon:
             'https://global-uploads.webflow.com/6138f6cb1bda9ece7529a20b/6150c7d3934a945f2b4d11e7_Copy%20of%20The%20Metaverse%20Jobs.png',
     },
@@ -193,9 +150,7 @@ export const resources: Resource[] = [
         name: 'Metazord',
         categories: [toolsAndUtilities.seo],
         description: 'Get a complete information and preview of your site meta tags',
-        links: {
-            [website]: 'https://metazord.vercel.app/',
-        },
+        url: 'https://metazord.vercel.app/',
         icon: 'https://metazord.vercel.app/favicon-32x32.png',
         keywords: ['metatags', 'tags', 'seo'],
     },
@@ -204,9 +159,7 @@ export const resources: Resource[] = [
         categories: [toolsAndUtilities.analytics],
         description:
             "Metrical is web analytics tool that is easy to use, privacy oriented and where you don't have to have a marketing degree to know how to use it.",
-        links: {
-            [website]: 'https://metrical.xyz/',
-        },
+        url: 'https://metrical.xyz/',
         icon: 'https://metrical.xyz/icons/icon-96x96.png?v=783621c4a822f77387baf5d580f65aeb',
     },
     {
@@ -214,12 +167,7 @@ export const resources: Resource[] = [
         categories: [indieHacking.utilities],
         description:
             'MicroAcquire helps startups find buyers. Simple as that. We’ll help you start conversations that lead to an acquisition in just 30 days – for free.',
-        links: {
-            [website]: 'https://microacquire.com/',
-            [twitter]: 'https://twitter.com/microacquire',
-            [linkedin]: 'https://www.linkedin.com/company/microacquire/about',
-            [facebook]: 'https://facebook.com/microacquire',
-        },
+        url: 'https://microacquire.com/',
         icon: 'https://microacquire.com/assets/img/favicon-32x32.png',
     },
     {
@@ -227,9 +175,7 @@ export const resources: Resource[] = [
         categories: [infrastructure.databases],
         description:
             'Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge.',
-        links: {
-            [website]: 'https://www.microsoft.com/en-us/sql-server',
-        },
+        url: 'https://www.microsoft.com/en-us/sql-server',
         icon: 'https://www.microsoft.com/favicon.ico',
     },
     {
@@ -237,9 +183,7 @@ export const resources: Resource[] = [
         categories: [toolsAndUtilities.browsersAndExtensions],
         description:
             'Mighty is a new browser for work that loads pages faster, saves you time, and makes you more productive.',
-        links: {
-            [website]: 'https://www.mightyapp.com/',
-        },
+        url: 'https://www.mightyapp.com/',
         icon: 'https://assets.website-files.com/605cf560c1c73e1ee595cfc6/605d5d7bc3427965e070639e_favicon.png',
         keywords: ['browser', 'productivity', 'fast'],
     },
@@ -249,10 +193,7 @@ export const resources: Resource[] = [
         description:
             'Whether you’re a student, a teacher, or simply a curious person that wants to learn, MIT OpenCourseWare (OCW) offers a wealth of insight and inspiration. There are videos, and a whole lot more!',
         keywords: ['MIT OpenCourseWare Free Courses Computer Science Academics Univesity Courses'],
-        links: {
-            [website]: 'https://ocw.mit.edu',
-            [youtube]: 'https://www.youtube.com/user/mit',
-        },
+        url: 'https://ocw.mit.edu',
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
@@ -289,9 +230,7 @@ export const resources: Resource[] = [
             'xcode',
             'resources',
         ],
-        links: {
-            [website]: 'https://mobbin.design/',
-        },
+        url: 'https://mobbin.design/',
         icon: 'https://mobbin.design/favicon-152.png',
     },
     {
@@ -299,18 +238,14 @@ export const resources: Resource[] = [
         categories: [programming.templates],
         description:
             'Drag and drop website builder. Create awesome responsive websites. Easy & fast - No coding! 2500+ Templates. Free for commercial use.',
-        links: {
-            [website]: 'https://mobirise.com/',
-        },
+        url: 'https://mobirise.com/',
         icon: 'https://mobirise.com/assets5/images/logo.png',
     },
     {
         name: 'Mocha',
         categories: [programming.testing],
         description: ' Simple, flexible, fun JavaScript test framework for Node.js and the browser.',
-        links: {
-            [website]: 'https://mochajs.org/',
-        },
+        url: 'https://mochajs.org/',
         icon: 'https://mochajs.org/static/favicon.copy.f17f048f84.ico',
     },
     {
@@ -318,9 +253,7 @@ export const resources: Resource[] = [
         categories: [programming.podcasts],
         description:
             'We host podcasts and events in Raleigh and the Bay Area on various topics across the web platform. Learn from others building modern web applications.',
-        links: {
-            [website]: 'https://www.thisdot.co/modern-web',
-        },
+        url: 'https://www.thisdot.co/modern-web',
         icon: 'https://uploads-ssl.webflow.com/5a9e6c4d3dd0520001f5b761/5ab8c9dfe92abfbae46d72b8_256%20original.png',
     },
     {
@@ -328,9 +261,7 @@ export const resources: Resource[] = [
         categories: [infrastructure.databases],
         description:
             'MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.',
-        links: {
-            [website]: 'https://www.mongodb.com/',
-        },
+        url: 'https://www.mongodb.com/',
         icon: 'https://www.mongodb.com/assets/images/global/favicon.ico',
     },
     {
@@ -338,9 +269,7 @@ export const resources: Resource[] = [
         description:
             'A minimalistic, customisable typing website. Test yourself in various modes, track your progress and improve your typing speed.',
         categories: [toolsAndUtilities.typing],
-        links: {
-            [website]: 'https://monkeytype.com/',
-        },
+        url: 'https://monkeytype.com/',
         icon: 'https://monkeytype.com/images/favicon/apple-touch-icon-120x120.png',
         keywords: [
             'typing speed test',
@@ -367,9 +296,7 @@ export const resources: Resource[] = [
         categories: [uiDesign.prototyping],
         description:
             'Moqups is a streamlined and intuitive web app that helps you create and collaborate on wireframes, mockups, diagrams and prototypes — for any type of project.',
-        links: {
-            [website]: 'https://moqups.com/',
-        },
+        url: 'https://moqups.com/',
         icon: 'https://moqups.com/favicon.png',
     },
     {
@@ -377,9 +304,7 @@ export const resources: Resource[] = [
         categories: [programming.charts],
         description:
             "Morris.js is the library that powers the graphs on http://howmanyleft.co.uk/. It's a very simple API for drawing line, bar, area and donut charts.",
-        links: {
-            [website]: 'https://morrisjs.github.io/morris.js/',
-        },
+        url: 'https://morrisjs.github.io/morris.js/',
         icon: 'https://morrisjs.github.io/morris.js/favicon.ico',
     },
     {
@@ -387,9 +312,7 @@ export const resources: Resource[] = [
         categories: [community.personalWebsites],
         description:
             'Site Personnel de Mouad Essalim ! - WorkSpace - Publication de mes application réalisé avec Python, Compilation avec Cx_Freeze et Pyinstaller',
-        links: {
-            [website]: 'https://mouadessalim.xyz/',
-        },
+        url: 'https://mouadessalim.xyz/',
         icon: 'https://mouadessalim.xyz/wp-content/uploads/fbrfg/favicon-32x32.png',
     },
     {
@@ -397,9 +320,7 @@ export const resources: Resource[] = [
         categories: [jobs.boards],
         description:
             'My Career List is the most advanced job search and job posting platform. Receive company insights and learn about interview experiences.',
-        links: {
-            [website]: 'https://mycareerlist.com/',
-        },
+        url: 'https://mycareerlist.com/',
         icon: 'https://mycareerlist.com/logo-regular.png',
         keywords: ['job board', 'remote', 'local', 'programming'],
     },
@@ -408,18 +329,14 @@ export const resources: Resource[] = [
         categories: [jobs.resumeBuilders],
         description:
             "Create a perfect resume in just minutes and land the job you deserve. It's fast and easy. Pick a template, customize and download it. Try it now.",
-        links: {
-            [website]: 'https://www.myperfectresume.com/',
-        },
+        url: 'https://www.myperfectresume.com/',
         icon: 'https://www.myperfectresume.com/wp-content/uploads/2018/07/touch-icon-ipad.png',
     },
     {
         name: 'MySQL',
         categories: [infrastructure.databases],
         description: 'MySQL Database Service is a fully managed database service to deploy cloud-native applications.',
-        links: {
-            [website]: 'https://www.mysql.com/',
-        },
+        url: 'https://www.mysql.com/',
         icon: 'https://labs.mysql.com/common/themes/sakila/favicon.ico',
     },
     {
@@ -427,9 +344,7 @@ export const resources: Resource[] = [
         categories: [programming.javascript.react],
         description:
             'Most Powerful & Comprehensive Open Source and Free MUI React NextJS Admin Dashboard Template built for developers.',
-        links: {
-            [github]: 'https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free',
-        },
+        url: 'https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free',
         icon: 'https://themeselection.com/wp-content/uploads/2018/07/favicon.ico',
     },
 ]

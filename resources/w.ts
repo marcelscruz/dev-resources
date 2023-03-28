@@ -1,16 +1,14 @@
-import { categories, links } from 'const'
+import { categories } from 'const'
 import { Resource } from 'types'
 
 const { programming, toolsAndUtilities, jobs, uiDesign, community, infrastructure } = categories
-const { website, youtube, twitter, facebook, github, slack } = links
 
 export const resources: Resource[] = [
     {
         name: 'W3Bits',
         categories: [community.personalWebsites],
-        links: {
-            [website]: 'https://w3bits.com',
-        },
+        url: 'https://w3bits.com',
+
         description: 'Tips about frontend web development.',
         keywords: ['frontend', 'web development tips'],
     },
@@ -18,9 +16,7 @@ export const resources: Resource[] = [
         name: 'W3Layouts',
         categories: [programming.templates],
         description: 'W3layouts is an online store to download website templates for all types of businesses.',
-        links: {
-            [website]: 'https://w3layouts.com/',
-        },
+        url: 'https://w3layouts.com/',
         icon: 'https://w3lcdn.w3layouts.com/wp-content/uploads/2020/11/cropped-w3layouts-logo-512-32x32.png',
     },
     {
@@ -59,9 +55,7 @@ export const resources: Resource[] = [
             'tips',
             'w3c',
         ],
-        links: {
-            [website]: 'https://www.w3schools.com/',
-        },
+        url: 'https://www.w3schools.com/',
         icon: 'https://www.w3schools.com/favicon.ico',
     },
     {
@@ -69,21 +63,14 @@ export const resources: Resource[] = [
         categories: [toolsAndUtilities.browsersAndExtensions],
         description:
             'Find out the technology stack of any website. Create lists of websites and contacts by the technologies they use.',
-        links: {
-            [website]: 'https://www.wappalyzer.com/',
-        },
+        url: 'https://www.wappalyzer.com/',
         icon: 'https://www.wappalyzer.com/apple-touch-icon.png',
     },
     {
         name: 'Warrant',
         categories: [infrastructure.auth],
         description: 'Hosted enterprise-grade authorization and access control service for your apps.',
-        links: {
-            [website]: 'https://warrant.dev/',
-            [slack]: 'https://join.slack.com/t/warrantcommunity/shared_invite/zt-12g84updv-5l1pktJf2bI5WIKN4_~f4w',
-            [github]: 'https://github.com/warrant-dev',
-            [twitter]: 'https://twitter.com/warrant_dev',
-        },
+        url: 'https://warrant.dev/',
         icon: 'https://warrant.dev/images/logo-primary.svg',
         keywords: ['auth', 'authorization', 'authz', 'access control'],
     },
@@ -91,9 +78,7 @@ export const resources: Resource[] = [
         name: 'Wave',
         categories: [toolsAndUtilities.general],
         description: 'Free invoicing & accounting software with credit card processing & payroll services.',
-        links: {
-            [website]: 'https://www.waveapps.com/',
-        },
+        url: 'https://www.waveapps.com/',
         icon: 'https://www.waveapps.com/assets/img/icons/favicon-32x32.png',
     },
     {
@@ -101,9 +86,7 @@ export const resources: Resource[] = [
         categories: [toolsAndUtilities.accessibility],
         description:
             'WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content.',
-        links: {
-            [website]: 'https://wave.webaim.org/',
-        },
+        url: 'https://wave.webaim.org/',
         icon: 'https://wave.webaim.org/favicon.ico',
     },
     {
@@ -111,9 +94,7 @@ export const resources: Resource[] = [
         categories: [uiDesign.inspiration],
         description:
             'Visit the #1 Inspiration Gallery. Everyday, we help Webdesigners, Agencies and Entrepreneurs to be inspired for their next web design project.',
-        links: {
-            [website]: 'https://www.webdesign-inspiration.com/',
-        },
+        url: 'https://www.webdesign-inspiration.com/',
         icon: 'https://www.webdesign-inspiration.com/favicon.ico',
     },
     {
@@ -121,37 +102,28 @@ export const resources: Resource[] = [
         categories: [jobs.remoteOnly],
         description:
             "Find the most qualified people in the most unexpected places: Hire remote! We Work Remotely is the best place to find and list remote jobs that aren't restricted by commutes or a particular geographic area. Browse thousands of remote work jobs today.",
-        links: {
-            [website]: 'https://weworkremotely.com/',
-        },
+        url: 'https://weworkremotely.com/',
         icon: 'https://weworkremotely.com/favicon-96x96.png',
     },
     {
         name: 'Web Developer',
         categories: [toolsAndUtilities.browsersAndExtensions],
         description: 'Download the Web Developer extension for Chrome and Firefox.',
-        links: {
-            [website]: 'https://chrispederick.com/work/web-developer/',
-        },
+        url: 'https://chrispederick.com/work/web-developer/',
         icon: 'https://cdn.chrispederick.net/images/7.2/logos/256.png',
     },
     {
         name: 'Web Developer Checklist',
         categories: [toolsAndUtilities.browsersAndExtensions],
         description: 'Analyses any web page for violations of best practices.',
-        links: {
-            [website]:
-                'https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en',
-        },
+        url: 'https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en',
         icon: 'https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png',
     },
     {
         name: 'web.dev - Lighthouse',
         categories: [toolsAndUtilities.performance],
         description: 'See how well your website performs. Then, get tips to improve your user experience.',
-        links: {
-            [website]: 'https://web.dev/measure',
-        },
+        url: 'https://web.dev/measure',
         icon: 'https://web.dev/images/favicon-32x32.png',
     },
     {
@@ -159,9 +131,7 @@ export const resources: Resource[] = [
         categories: [toolsAndUtilities.websiteBuilders],
         description:
             'Build responsive websites in your browser, then launch with our world-class hosting or export your code. Discover the professional website platform built for your business.',
-        links: {
-            [website]: 'https://webflow.com/',
-        },
+        url: 'https://webflow.com/',
         icon:
             'https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5d5595354de4fbdd8c554dba_default_webclip.png',
     },
@@ -170,9 +140,7 @@ export const resources: Resource[] = [
         categories: [uiDesign.inspiration],
         description:
             'A showcase of beautiful and well designed web app screens for design inspiration. Including screens from behind signup/paywalls! 😱.',
-        links: {
-            [website]: 'https://webframe.xyz/',
-        },
+        url: 'https://webframe.xyz/',
         icon: 'https://webframe.xyz/favicon.ico',
     },
     {
@@ -181,9 +149,7 @@ export const resources: Resource[] = [
         description:
             'Run a free website speed test from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations.',
         keywords: ['WebPageTest', 'Website Speed Test', 'Page Speed'],
-        links: {
-            [website]: 'https://www.webpagetest.org/',
-        },
+        url: 'https://www.webpagetest.org/',
         icon: 'https://www.webpagetest.org/images/favicon/favicon-32x32.png',
     },
     {
@@ -191,9 +157,7 @@ export const resources: Resource[] = [
         categories: [toolsAndUtilities.seo],
         description:
             'Free tool to check the "authority" of any website based on the quality and quantity of its external backlinks.',
-        links: {
-            [website]: 'https://ahrefs.com/website-authority-checker',
-        },
+        url: 'https://ahrefs.com/website-authority-checker',
         icon: 'https://cdn.ahrefs.com/favicon-32x32.png?v=2',
     },
     {
@@ -201,9 +165,7 @@ export const resources: Resource[] = [
         categories: [toolsAndUtilities.editorsAndExtensions],
         description:
             'A powerful IDE for modern JavaScript development with code completion and refactoring for JavaScript, TypeScript, and the most popular web frameworks.',
-        links: {
-            [website]: 'https://www.jetbrains.com/webstorm/',
-        },
+        url: 'https://www.jetbrains.com/webstorm/',
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
@@ -211,9 +173,7 @@ export const resources: Resource[] = [
         categories: [toolsAndUtilities.websiteBuilders],
         description:
             'Weebly’s free website builder makes it easy to build a website, blog, or online store. Find customizable designs, domains, and eCommerce tools for any type of business using our website builder.',
-        links: {
-            [website]: 'https://www.weebly.com/',
-        },
+        url: 'https://www.weebly.com/',
         icon: 'https://www.weebly.com/favicon.ico',
     },
     {
@@ -221,18 +181,14 @@ export const resources: Resource[] = [
         categories: [programming.youtubeChannels],
         description: 'HTML, CSS, JavaScript and WordPress web development tutorials!',
         keywords: ['JavaScript jQuery HTML5 CSS3 development web design css php wordpress'],
-        links: {
-            [youtube]: 'https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA',
-        },
+        url: 'https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA',
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
         name: 'WhatFont',
         categories: [toolsAndUtilities.browsersAndExtensions],
         description: 'The easiest way to identify fonts on web pages.',
-        links: {
-            [website]: 'https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en',
-        },
+        url: 'https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en',
         icon: 'https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png',
     },
     {
@@ -241,9 +197,7 @@ export const resources: Resource[] = [
         description:
             'Rapidly Build and Prototype responsive websites using a drag and drop Tailwind CSS website builder',
         keywords: ['website builder', 'tailwind css builder', 'drag and drop builder'],
-        links: {
-            [website]: 'https://www.devwares.com/windframe/',
-        },
+        url: 'https://www.devwares.com/windframe/',
         icon: 'https://windframe.devwares.com/devwaresIcon.png',
     },
     {
@@ -251,9 +205,7 @@ export const resources: Resource[] = [
         categories: [toolsAndUtilities.websiteBuilders],
         description:
             'Create a free website with Wix.com. Choose a stunning template and customize anything with the Wix website builder—no coding skills needed. Create yours today!',
-        links: {
-            [website]: 'https://www.wix.com/',
-        },
+        url: 'https://www.wix.com/',
         icon: 'https://www.wix.com/favicon.ico',
     },
     {
@@ -261,9 +213,7 @@ export const resources: Resource[] = [
         categories: [toolsAndUtilities.websiteBuilders],
         description:
             'Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.',
-        links: {
-            [website]: 'https://wordpress.com/',
-        },
+        url: 'https://wordpress.com/',
         icon: 'https://s1.wp.com/i/favicon.ico?v=1447321881',
     },
     {
@@ -280,9 +230,7 @@ export const resources: Resource[] = [
             'virtual',
             'working nomads',
         ],
-        links: {
-            [website]: 'https://www.workingnomads.co/jobs',
-        },
+        url: 'https://www.workingnomads.co/jobs',
         icon: 'https://www.workingnomads.co/static/jobs/assets/favicon.ico',
     },
     {
@@ -291,10 +239,7 @@ export const resources: Resource[] = [
         description:
             'Download high quality, professional and easy-to-use Free Admin Dashboard Template which is built with Angular, React, VueJs, NextJs & NuxtJs to create your applications faster.',
         keywords: ['React', 'Angular', 'Admin template', 'bootstrap', 'Vuejs', 'NextJs', 'NuxtJs'],
-        links: {
-            [website]: 'https://www.wrappixel.com/',
-            [github]: 'https://github.com/wrappixel',
-        },
+        url: 'https://www.wrappixel.com/',
         icon: 'https://www.wrappixel.com/wp-content/uploads/2019/01/favicon.png',
     },
     {
@@ -302,9 +247,7 @@ export const resources: Resource[] = [
         categories: [toolsAndUtilities.writing],
         description: 'A simple writing app and text editor to help you focus on what matters.',
         keywords: ['writing app', 'text editor', 'wysiwyg'],
-        links: {
-            [website]: 'https://writtyapp.com/',
-        },
+        url: 'https://writtyapp.com/',
         icon: 'https://writtyapp.com/images/favicon.png',
     },
     {
@@ -312,12 +255,7 @@ export const resources: Resource[] = [
         categories: [community.blogsAndForums],
         description:
             'Stay up to date with weekly updates, get resources for your next projects abd read articles and tutorials about web development.',
-        links: {
-            [website]: 'https://wweb.dev/',
-            [twitter]: 'https://twitter.com/wweb_dev',
-            [facebook]: 'https://www.facebook.com/wweb.dev.blog',
-            [github]: 'https://github.com/wwebdev',
-        },
+        url: 'https://wweb.dev/',
         icon: 'https://wweb.dev/favicon.ico',
     },
 ]

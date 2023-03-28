@@ -1,17 +1,14 @@
-import { categories, links } from 'const'
+import { categories } from 'const'
 import { Resource } from 'types'
 
 const { programming, infrastructure, toolsAndUtilities, assets, jobs, uiDesign } = categories
-const { website } = links
 
 export const resources: Resource[] = [
     {
         name: 'n3-charts',
         categories: [programming.charts],
         description: 'Awesome charts for Angular.',
-        links: {
-            [website]: 'https://n3-charts.github.io/line-chart/#/home',
-        },
+        url: 'https://n3-charts.github.io/line-chart/#/home',
         icon: 'https://n3-charts.github.io/line-chart/assets/favicons/favicon-96x96.png',
     },
     {
@@ -19,9 +16,7 @@ export const resources: Resource[] = [
         categories: [infrastructure.hosting],
         description:
             'Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.',
-        links: {
-            [website]: 'https://www.netlify.com/',
-        },
+        url: 'https://www.netlify.com/',
         icon: 'https://www.netlify.com/v3/static/favicon/favicon-32x32.png',
     },
     {
@@ -29,18 +24,14 @@ export const resources: Resource[] = [
         categories: [programming.javascript.react],
         description:
             'Production grade React applications that scale. The world’s leading companies use Next.js by Vercel to build static and dynamic websites and web applications.',
-        links: {
-            [website]: 'https://nextjs.org/',
-        },
+        url: 'https://nextjs.org/',
         icon: 'https://nextjs.org/static/favicon/favicon-32x32.png',
     },
     {
         name: 'Nextjs Devs',
         categories: [jobs.boards],
         description: 'The reverse job board for Next.js developers',
-        links: {
-            [website]: 'https://nextjsdevs.net/',
-        },
+        url: 'https://nextjsdevs.net/',
         icon: 'https://nextjsdevs.net/favicon.ico',
         keywords: ['javascript', 'React.js', 'Next.js', 'jobs'],
     },
@@ -48,9 +39,7 @@ export const resources: Resource[] = [
         name: 'NextUI',
         description: 'Beautiful, fast, modern React UI Library',
         categories: [programming.uiKitsAndLibraries],
-        links: {
-            [website]: 'https://nextui.org',
-        },
+        url: 'https://nextui.org',
         icon: 'https://nextui.org/favicon.ico',
         keywords: ['next', 'ui', 'nextui', 'library'],
     },
@@ -58,9 +47,7 @@ export const resources: Resource[] = [
         name: 'Nitric',
         description: 'A fun and productive framework for building serverless apps',
         categories: [toolsAndUtilities.apiBuilding],
-        links: {
-            [website]: 'https://nitric.io',
-        },
+        url: 'https://nitric.io',
         icon: 'https://nitric.io/favicon.icon',
         keywords: ['serverless', 'cloud', 'development', 'framework'],
     },
@@ -68,18 +55,14 @@ export const resources: Resource[] = [
         name: 'Nomad List',
         categories: [jobs.boards, jobs.remoteOnly],
         description: 'Best places to live for a digital nomad',
-        links: {
-            [website]: 'https://nomadlist.com/',
-        },
+        url: 'https://nomadlist.com/',
         icon: 'https://nomadlist.com/assets/logo.svg',
     },
     {
         name: 'Nord',
         description: 'A arctic, north-bluish color palette',
         categories: [toolsAndUtilities.general, uiDesign.color],
-        links: {
-            [website]: 'https://www.nordtheme.com/',
-        },
+        url: 'https://www.nordtheme.com/',
         icon: 'https://www.nordtheme.com/icons/icon-96x96.png?v=970545fb8e9518a3616ec74d00cfebc4',
         keywords: [
             'nord',
@@ -102,9 +85,7 @@ export const resources: Resource[] = [
         categories: [toolsAndUtilities.editorsAndExtensions],
         description:
             'Notepad++ is a text and source code editor for use with Microsoft Windows. It supports tabbed editing, which allows working with multiple open files in a single window.',
-        links: {
-            [website]: 'https://notepad-plus-plus.org/',
-        },
+        url: 'https://notepad-plus-plus.org/',
         icon: 'https://notepad-plus-plus.org/favicon.ico',
     },
     {
@@ -112,9 +93,7 @@ export const resources: Resource[] = [
         categories: [assets.icons],
         description:
             'Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.',
-        links: {
-            [website]: 'https://thenounproject.com/',
-        },
+        url: 'https://thenounproject.com/',
         icon: 'https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png',
     },
     {
@@ -123,9 +102,7 @@ export const resources: Resource[] = [
         description:
             'Make a perfect resume in 2021 and get your dream job using the free resume builder. Select a template. Personalize it. Get more interviews.',
         keywords: ['professional resume builder'],
-        links: {
-            [website]: 'https://novoresume.com/',
-        },
+        url: 'https://novoresume.com/',
         icon: 'https://novoresume.com/images/favi.png',
     },
 ]

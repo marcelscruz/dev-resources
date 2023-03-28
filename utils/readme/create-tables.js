@@ -1,8 +1,5 @@
 const normalize = require('../normalize-strings')
 const truncate = require('../truncate')
-const { links } = require('../../const/links')
-
-const { website } = links
 
 const backToIndex = `\n**[⬆ Back to Index](#index)**`
 
@@ -18,24 +15,6 @@ function createAnchor({ name, id }) {
     }
 }
 
-function createLinks(links = {}) {
-    return Object.entries(links)
-        .sort((a, b) => {
-            const nameA = a[0].toLowerCase()
-            const nameB = b[0].toLowerCase()
-            const lowerCaseWebsite = website.toLowerCase()
-
-            if (nameA === nameB) return 0
-            if (nameA === lowerCaseWebsite) return -1
-            if (nameB === lowerCaseWebsite) return 1
-
-            if (nameA < nameB) return -1
-            if (nameA > nameB) return 1
-            return 0
-        })
-        .map(([name, url]) => `[${name}](${url})`)
-}
-
 function createRow(nodes) {
     if (nodes.children.length === 0) {
         const { name, data, id } = nodes
@@ -45,13 +24,13 @@ function createRow(nodes) {
             return `\n\n### ${anchor}\nThis section is powered by [Public APIs](https://github.com/public-apis/public-apis).`
         }
 
-        const tableHeadings = `| &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |\n|---|---|---|---|---|`
+        const tableHeadings = `| &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |\n|---|---|---|---|`
 
         const heading = `\n\n### ${anchor}\n${tableHeadings}\n`
         let table = ``
 
         data.forEach((resource) => {
-            const { name, description = '', links: resourceLinks, icon, keywords = [] } = resource
+            const { name, description = '', url, icon, keywords = [] } = resource
 
             const favicon = icon ? `<img src="${icon}" width="16" />` : '&nbsp;'
             const truncatedDescription = truncate({
@@ -61,9 +40,8 @@ function createRow(nodes) {
             const truncatedKeywords = truncate({
                 text: keywords.join(', '),
             })
-            const links = createLinks(resourceLinks).join('<br />')
 
-            table += ` ${favicon} | ${name} | ${truncatedDescription} | ${links} | ${truncatedKeywords} |\n`
+            table += ` ${favicon} | [${name}](${url}) | ${truncatedDescription} | ${truncatedKeywords} |\n`
         })
 
         return `${heading}${table}${backToIndex}`

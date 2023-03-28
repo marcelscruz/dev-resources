@@ -32,10 +32,7 @@ Each resource belongs to an object, as such:
     description:
         'Learn to code at home. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including Google, Apple, Amazon, and Microsoft.',
     categories: [programming.learn, programming.codeChallenges],
-    links: {
-        [website]: 'https://www.freecodecamp.org',
-        [youtube]: 'https://www.youtube.com/c/freecodecamp',
-    },
+    url: 'https://www.freecodecamp.org',
     icon: 'https://www.freecodecamp.org/news/favicon.png', // Optional, but good for the README file
     keywords: ['html', 'css', 'javascript', 'development'], // Optional, but useful for the search feature on the website
 },
@@ -47,13 +44,13 @@ Observe that:
     -   `name` and `description` should not include line breaks `(\n)` nor the pipe symbol `(|)`
     -   `icon` should be a URL
 -   `categories` is an array, meaning the resource can belong to multiple categories; its values (e.g. `programming.learn`) should be used from `constants/categories.js`, as this ensures organization and avoids misspellings
--   `links` is an object, where multiple platforms can be added; again, its key properties (e.g. `[youtube]`) should be used from `constants/links.js`
+-   `url` is a string containing the URL to the resource
 -   `keywords` is an array of strings, which also should not include line breaks `(\n)` nor the pipe symbol `(|)`
--   `icon` and `keywords` are the only optional properties, all others are required, with `categories` and `links` containing at least one value
+-   `icon` and `keywords` are the only optional properties, all others are required, with `categories` containing at least one value
 -   the `description` property can be custom or grabbed from the resource's metadata included in the `<head>` tag of the website's HTML document
     -   you can use https://metatags.io to easily copy the description
 -   the `icon` property can also be grabbed from the resource's metadata included in the `<head>` tag or by doing the following:
-    -   you can use https://favicongrabber.com to easily copy the image's url; OBS: it often fails, so just try again until it works
+    -   you can use https://favicongrabber.com to easily copy the image's URL
 
 ## Editing a resource
 

@@ -1,8 +1,7 @@
-import { categories, links } from 'const'
+import { categories } from 'const'
 import { Resource } from 'types'
 
 const { assets, toolsAndUtilities, jobs, indieHacking, programming } = categories
-const { website, spotify, applePodcasts, googlePodcasts, youtube, facebook, slack, indieHackers, twitter } = links
 
 export const resources: Resource[] = [
     {
@@ -11,19 +10,14 @@ export const resources: Resource[] = [
         description:
             'Free, easy to use, highest resolution possible favicons for any web site – including fallbacks if none are found.',
         keywords: ['favicons', 'logo icons', 'web icons', 'logos', 'site logos'],
-        links: {
-            [website]: 'https://icon.horse',
-            [twitter]: 'https://twitter.com/iconhorse',
-        },
+        url: 'https://icon.horse',
         icon: 'https://icon.horse/icon/icon.horse',
     },
     {
         name: 'Iconfinder',
         categories: [assets.icons, assets.illustrations],
         description: 'Millions of graphics for your design projects. Created by independent designers.',
-        links: {
-            [website]: 'https://www.iconfinder.com',
-        },
+        url: 'https://www.iconfinder.com',
         icon: 'https://www.iconfinder.com/static/img/favicons/favicon-32x32.png?87b2a5c3aa',
         keywords: [],
     },
@@ -31,9 +25,7 @@ export const resources: Resource[] = [
         name: 'iconmonstr',
         categories: [assets.icons],
         description: 'Free simple icons for your next project.',
-        links: {
-            [website]: 'https://iconmonstr.com',
-        },
+        url: 'https://iconmonstr.com',
         icon: 'https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico',
     },
     {
@@ -41,9 +33,7 @@ export const resources: Resource[] = [
         categories: [assets.icons, assets.illustrations, assets.images, assets.audio],
         description:
             'Download design elements for free: icons, photos, vector illustrations, and music for your videos.',
-        links: {
-            [website]: 'https://icons8.com',
-        },
+        url: 'https://icons8.com',
         icon: 'https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png',
     },
     {
@@ -51,9 +41,7 @@ export const resources: Resource[] = [
         categories: [assets.icons],
         description:
             'Pixel-perfect vector icons and Icon Fonts available in Line, Monochrome, and Solid style for your next project.',
-        links: {
-            [website]: 'https://iconscout.com/unicons',
-        },
+        url: 'https://iconscout.com/unicons',
         icon: 'https://iconscout.com/favicon-96x96.png',
     },
     {
@@ -82,9 +70,7 @@ export const resources: Resource[] = [
             'web icon packs',
             'web icone',
         ],
-        links: {
-            [website]: 'https://www.iconshock.com/',
-        },
+        url: 'https://www.iconshock.com/',
         icon: 'https://www.iconshock.com/img/favicon.ico',
     },
     {
@@ -92,27 +78,21 @@ export const resources: Resource[] = [
         categories: [assets.icons],
         description:
             'IconSweets is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.',
-        links: {
-            [website]: 'https://www.designbombs.com/iconsweets2/',
-        },
+        url: 'https://www.designbombs.com/iconsweets2/',
         icon: 'https://www.designbombs.com/iconsweets2/favicon-96x96.png',
     },
     {
         name: 'Icônes',
         categories: [assets.icons],
         description: 'Icon Explorer with Instant searching, powered by Iconify',
-        links: {
-            [website]: 'https://icones.netlify.app/',
-        },
+        url: 'https://icones.netlify.app/',
         icon: 'https://icones.netlify.app/favicon.svg',
     },
     {
         name: 'Image Optimizer',
         categories: [assets.images],
         description: 'Compress and resize photos.',
-        links: {
-            [website]: 'http://www.imageoptimizer.net/',
-        },
+        url: 'http://www.imageoptimizer.net/',
         icon: 'data:image/x-icon;,',
     },
     {
@@ -120,18 +100,14 @@ export const resources: Resource[] = [
         categories: [toolsAndUtilities.accessibility],
         description:
             'A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece.',
-        links: {
-            [website]: 'https://inclusive-components.design/',
-        },
+        url: 'https://inclusive-components.design/',
         icon: 'https://inclusive-components.design/favicon.ico',
     },
     {
         name: 'Indeed',
         categories: [jobs.resumeBuilders],
         description: 'Build and upload your resume to Indeed and let your next job find you.',
-        links: {
-            [website]: 'https://www.indeed.com/create-resume',
-        },
+        url: 'https://www.indeed.com/create-resume',
         icon: 'https://www.indeed.com/profile/gatsby-assets/icons/icon-96x96.png?v=d69338e3b43810840b9a84d69dbaa30e',
     },
     {
@@ -139,21 +115,14 @@ export const resources: Resource[] = [
         categories: [indieHacking.podcasts],
         description:
             "Short, bite-sized conversations (15 mins) with indie hackers that have started small, profitable and bootstrapped businesses. You'll learn how they come up with ideas, what they do to validate, find those first customers and make a sustainable income.",
-        links: {
-            [website]: 'https://indiebites.co/',
-            [spotify]: 'https://open.spotify.com/show/1MY9XdVViRwfaO8giM4fXO',
-            [applePodcasts]: 'https://podcasts.apple.com/gb/podcast/indie-bites/id1530577069',
-            [googlePodcasts]: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2luZGllLWJpdGVz',
-        },
+        url: 'https://indiebites.co/',
         icon: 'https://s3.amazonaws.com/super-notion/images/26707ca1-dc44-44e8-90ce-9e6220840f71.png',
     },
     {
         name: 'Indie Drops',
         categories: [indieHacking.utilities],
         description: 'Secure unbelivably good deals on early-stage products before they take off.',
-        links: {
-            [website]: 'http://indiedrops.com/',
-        },
+        url: 'http://indiedrops.com/',
         icon: 'http://indiedrops.com/apple-touch-icon.png',
     },
     {
@@ -161,41 +130,28 @@ export const resources: Resource[] = [
         categories: [indieHacking.platforms, indieHacking.podcasts],
         description:
             'Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.',
-        links: {
-            [website]: 'https://www.indiehackers.com/',
-        },
+        url: 'https://www.indiehackers.com/',
         icon: 'https://www.indiehackers.com/images/favicons/favicon--32x32.png',
     },
     {
         name: 'Indie Worldwide',
         categories: [indieHacking.platforms],
         description: 'The worldwide virtual meetup of indie hackers, founders, and makers.',
-        links: {
-            [website]: 'https://indieworldwide.co/',
-            [youtube]: 'https://www.youtube.com/channel/UCMps9pFrqetqXMCEZqkiQ-g/',
-            [facebook]: 'https://www.facebook.com/groups/indie.worldwide/',
-            [slack]:
-                'https://join.slack.com/t/indieworldwide/shared_invite/enQtNzYzNTUwMjc2ODgyLTBjNTRiMmMwYWQ2MmQ5OGYyNTk2OWIwN2Q1OTcyOGJjM2M3MzEwYjc5OThjNTlmMWZhNTU0NDAyYjRkNDQ0Zjk',
-            [indieHackers]: 'https://www.indiehackers.com/product/worldwide',
-        },
+        url: 'https://indieworldwide.co/',
         icon: 'https://indieworldwide.co/icons/icon-96x96.png',
     },
     {
         name: 'Insomnia',
         categories: [toolsAndUtilities.apiBuilding],
         description: 'Design & Debug APIs like a human, not a robot.',
-        links: {
-            [website]: 'https://insomnia.rest/',
-        },
+        url: 'https://insomnia.rest/',
         icon: 'https://insomnia.rest/icons/icon-96x96.png?v=b68a1a35ee1565b759a2d4edb26074be',
     },
     {
         name: 'IntelliJ IDEA',
         categories: [toolsAndUtilities.editorsAndExtensions],
         description: 'A Capable and Ergonomic Java IDE for Enterprise Java, Scala, Kotlin and much more...',
-        links: {
-            [website]: 'https://www.jetbrains.com/idea/',
-        },
+        url: 'https://www.jetbrains.com/idea/',
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
@@ -224,9 +180,7 @@ export const resources: Resource[] = [
             'Interfacer resources',
             'Interfacer design resources',
         ],
-        links: {
-            [website]: 'https://interfacer.xyz/',
-        },
+        url: 'https://interfacer.xyz/',
         icon: 'https://interfacer.xyz/assets/site_assets/interfacelogo-icon.png',
     },
     {
@@ -245,9 +199,7 @@ export const resources: Resource[] = [
             'React',
             'React IntersectionObserver',
         ],
-        links: {
-            [website]: 'https://intersectionobserver.io',
-        },
+        url: 'https://intersectionobserver.io',
         icon: 'https://intersectionobserver.io/favicon.png',
     },
     {
@@ -255,9 +207,7 @@ export const resources: Resource[] = [
         categories: [jobs.boards],
         description:
             'Browse the very best iOS development jobs available, or sign up and get a weekly digest delivered by email every Monday.',
-        links: {
-            [website]: 'https://iosdevjobs.com/',
-        },
+        url: 'https://iosdevjobs.com/',
         icon: 'https://iosdevjobs.com/wp-content/uploads/2019/01/cropped-favicon-32x32.png',
     },
     {
@@ -278,18 +228,14 @@ export const resources: Resource[] = [
             'best illustrations',
             'colorful illustrations',
         ],
-        links: {
-            [website]: 'https://iradesign.io/gallery/illustrations',
-        },
+        url: 'https://iradesign.io/gallery/illustrations',
         icon: 'https://iradesign.io/assets/img/favicon.png',
     },
     {
         name: 'Isometriclove',
         description: 'Cute isometric objects for your design.',
         categories: [assets.illustrations],
-        links: {
-            [website]: 'https://isometriclove.com/',
-        },
+        url: 'https://isometriclove.com/',
         icon: 'https://isometriclove.com/favicon.ico',
     },
     {
@@ -297,9 +243,7 @@ export const resources: Resource[] = [
         description:
             'More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.',
         categories: [assets.illustrations],
-        links: {
-            [website]: 'https://www.artify.co/illustrations-figma',
-        },
+        url: 'https://www.artify.co/illustrations-figma',
         icon: 'https://www.artify.co/images/landing/favicon.png',
     },
     {
@@ -307,9 +251,7 @@ export const resources: Resource[] = [
         description:
             'The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.',
         categories: [assets.icons],
-        links: {
-            [website]: 'https://www.iconshock.com/',
-        },
+        url: 'https://www.iconshock.com/',
         icon: 'https://www.iconshock.com/img/favicon.ico',
     },
 ]
