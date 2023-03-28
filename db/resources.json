@@ -1,5 +1,5 @@
 {
-"count": 765,
+"count": 763,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1610,17 +1610,6 @@
         ],
         "links": {
             "Website": "https://codepen.io/"
-        },
-        "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
-    },
-    {
-        "name": "Codepen radio",
-        "categories": [
-            "Programming/Podcasts"
-        ],
-        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
-        "links": {
-            "Website": "https://blog.codepen.io/radio/"
         },
         "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png"
     },
@@ -3828,22 +3817,6 @@
             "Website": "https://frontendfoc.us/"
         },
         "icon": "https://frontendfoc.us/favicon.png"
-    },
-    {
-        "name": "Frontend Happy Hour",
-        "keywords": [
-            "frontend",
-            "web",
-            "web development"
-        ],
-        "categories": [
-            "Programming/Podcasts"
-        ],
-        "description": "A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development.",
-        "links": {
-            "Website": "https://frontendhappyhour.com/"
-        },
-        "icon": "https://frontendhappyhour.com/favicon.ico"
     },
     {
         "name": "Frontend Masters",
