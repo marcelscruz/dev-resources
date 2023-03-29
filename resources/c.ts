@@ -123,8 +123,8 @@ export const resources: Resource[] = [
         categories: [programming.uiKitsAndLibraries],
         description:
             'Choc UI is a set of accessible and reusable components that are commonly used in web applications.',
-        url: 'https://choc-ui.tech/',
-        icon: 'https://choc-ui.tech/favicon-32x32.png',
+        url: 'https://choc-ui.com/',
+        icon: 'https://choc-ui.com/favicon-32x32.png',
     },
     {
         name: 'Chrome',
