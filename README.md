@@ -4,7 +4,7 @@
 
  <div align="center">Sponsored by</div><br/>
 
-<p align="center"><a href="https://clerk.dev?utm_source=public_apis&utm_content=dev_resources_repo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/clerk-dark-mode.png" width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/clerk-light-mode.png" width="180px"><img alt="Clerk logo" src="./assets/clerk-dark-mode.png" width="180px"></picture></a></p><br/>
+<p align="center"><a href="https://clerk.com?utm_source=public_apis&utm_content=dev_resources_repo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/clerk-dark-mode.png" width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/clerk-light-mode.png" width="180px"><img alt="Clerk logo" src="./assets/clerk-dark-mode.png" width="180px"></picture></a></p><br/>
 
 
 
@@ -335,7 +335,7 @@ Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://
 ### <a name="auth"><a name="infrastructure-auth">Auth</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
- <img src="https://clerk.dev/favicon/favicon-32x32.png" width="16" /> | [Clerk](https://clerk.dev) | Drop-in React components for authentication and authorization. | react, next.js, auth,  user management, react auth, next.js auth, javascript auth |
+ <img src="https://clerk.com/favicon/favicon-32x32.png" width="16" /> | [Clerk](https://clerk.com) | Drop-in React components for authentication and authorization. | react, next.js, auth,  user management, react auth, next.js auth, javascript auth |
  <img src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png" width="16" /> | [Firebase](https://firebase.google.com/) | Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. |  |
  <img src="https://magic.link/favicon.ico" width="16" /> | [Magic](https://magic.link) | Bring your Web3 strategy to life with Magic. Passwordless Auth + NFT wallet onboarding (without seed phrase) for your customers. | auth, authentication, passwordless |
  <img src="https://warrant.dev/images/logo-primary.svg" width="16" /> | [Warrant](https://warrant.dev/) | Hosted enterprise-grade authorization and access control service for your apps. | auth, authorization, authz, access control |
