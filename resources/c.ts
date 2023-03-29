@@ -171,8 +171,8 @@ export const resources: Resource[] = [
         categories: [infrastructure.auth],
         description: 'Drop-in React components for authentication and authorization.',
         keywords: ['react', 'next.js', 'auth', ' user management', 'react auth', 'next.js auth', 'javascript auth'],
-        url: 'https://clerk.dev',
-        icon: 'https://clerk.dev/favicon/favicon-32x32.png',
+        url: 'https://clerk.com',
+        icon: 'https://clerk.com/favicon/favicon-32x32.png',
     },
     {
         name: 'Clideo',
