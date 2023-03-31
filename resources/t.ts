@@ -375,6 +375,15 @@ export const resources: Resource[] = [
             'https://static.teamtreehouse.com/assets/apple-touch-icon-76x76-precomposed-7283cd247847d1f21be0e79c52e3524c89adabf69cfc331046319f4ab19be058.png',
     },
     {
+        name: 'Tutoriac',
+        categories: [toolsAndUtilities.websiteBuilders],
+        description:
+            'Tutoriac provides video tutorials for learning how to create websites with website builders like Wix, Google Sites, Squarespace, Webflow, Carrd, Framer.',
+        url: 'https://tutoriac.com',
+        icon: 'https://tutoriac.com/images/favicon.png',
+        keywords: ['website builder video tutorials', 'google sites', 'landing pages', 'portfolio', 'personal site'],
+    },
+    {
         name: 'TypingClub',
         categories: [toolsAndUtilities.typing],
         description:
