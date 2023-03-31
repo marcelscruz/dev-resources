@@ -615,6 +615,7 @@ Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://
  <img src="https://htmlreference.io/favicons/favicon-32x32.png" width="16" /> | HTML Reference | A free guide to all HTML elements and attributes. | [Website](https://htmlreference.io/) |  |
  <img src="https://intersectionobserver.io/favicon.png" width="16" /> | IntersectionObserver Examples | Practical, real world React examples of Intersection Observer | [Website](https://intersectionobserver.io) | IntersectionObserver, IntersectionObserver API, IntersectionObserver examples, React, React Intersec... |
  <img src="https://developer.mozilla.org/static/img/favicon72.cc65d1d762a0.png" width="16" /> | MDN Web Docs | The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps. It also has some developer-oriented documentation for ... | [Website](https://developer.mozilla.org/en-US/) |  |
+ <img src="https://www.wrappixel.com/wp-content/uploads/2019/01/favicon.png" width="16" /> | Next.js Cheat Sheet | Ultimate Guide to Next.js and it's Cheat Sheet | [Website](https://blog.wrappixel.com/next-js-cheat-sheet/) |  |
 
 **[⬆ Back to Index](#index)**
 ## <a name="javascript"><a name="programming-javascript">JavaScript</a></a> 
@@ -630,6 +631,7 @@ Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://
  <img src="https://reactresources.com/static/favicon.ico" width="16" /> | React Resources | Keep up with the growing React ecosystem! We cover the latest React learning resources, libraries and jobs. | [Website](https://reactresources.com/) |  |
  <img src="https://svg-jsx.netlify.app/favicon-96x96.png" width="16" /> | SVG to JSX | Web site created using create-react-app. | [Website](https://svg-jsx.netlify.app/) |  |
  <img src="https://usehooks.com/favicon.ico" width="16" /> | useHooks | Easy to understand React Hook recipes. | [Website](https://usehooks.com/) | react, javascript, hooks, useState, useEffect, tutorial, demo, code |
+ <img src="https://adminmart.com/wp-content/uploads/2023/01/favicon.png" width="16" /> | Modernize Free React MUI Dashboard | If you are looking for an eye-catching and elegantly designed free react admin template that comes with several added features, then look this is the one. | [Website](https://adminmart.com/product/modernize-free-react-mui-dashboard/) | react, code, admin, template |
 
 **[⬆ Back to Index](#index)**
 
@@ -789,7 +791,8 @@ Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://
  <img src="https://uideck.com/wp-content/uploads/2018/12/cropped-uideck-150x150.png" width="16" /> | UIdeck | Free HTML Landing Page Templates Based on Bootstrap Framework for - Business, Startups, SaaS, Personal, and Pretty Much Any Web Projects. | [Website](https://uideck.com/) |  |
  <img src="https://w3lcdn.w3layouts.com/wp-content/uploads/2020/11/cropped-w3layouts-logo-512-32x32.png" width="16" /> | W3Layouts | W3layouts is an online store to download website templates for all types of businesses. | [Website](https://w3layouts.com/) |  |
  <img src="https://www.wrappixel.com/wp-content/uploads/2019/01/favicon.png" width="16" /> | WrapPixel - Admin Provider | Download high quality, professional and easy-to-use Free Admin Dashboard Template which is built with Angular, React, VueJs, NextJs & NuxtJs to create your applications faster. | [Website](https://www.wrappixel.com/)<br />[GitHub](https://github.com/wrappixel) | React, Angular, Admin template, bootstrap, Vuejs, NextJs, NuxtJs |
- <img src="https://www.zerotheme.com/wp-content/uploads/2018/03/logo-zerotheme2-60x60.png" width="16" /> | Zerotheme | Html5 Website Templates designed by #Mik. Free download all templates at Zerotheme : responsive templates, bootstrap themes, ecommerce themes, ... | [Website](https://www.zerotheme.com/) |  |
+ <img src="https://www.zerotheme.com/wp-content/uploads/2018/03/logo-zerotheme2-60x60.png" width="16" /> | Zerotheme | Html5 Website Templates designed by #Mik. Free download all templates at Zerotheme : responsive templates, bootstrap themes, ecommerce themes, ... | [Website](https://www.zerotheme.com/) |
+ <img src="https://adminmart.com/wp-content/uploads/2023/01/favicon.png" width="16" /> | AdminMart | Best Free and Premium Admin Dashboard Templates by AdminMart | [Website](https://adminmart.com/) | React, Angular, Admin template, bootstrap, Vuejs, NextJs, NuxtJs |  |
 
 **[⬆ Back to Index](#index)**
 
