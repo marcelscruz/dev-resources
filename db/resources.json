@@ -1,5 +1,5 @@
 {
-"count": 763,
+"count": 764,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7803,6 +7803,22 @@
         "description": "An apparel and tshirt design mockup generator plus a marketplace of t-shirt designs.",
         "url": "https://www.tshirtdesigns.com/mockups",
         "icon": "https://www.bypeople.com/wp-content/themes/bppl-alpha/assets/images/v2/favicon-32x32.png"
+    },
+    {
+        "name": "Tutoriac",
+        "categories": [
+            "Tools & Utilities/Website Builders"
+        ],
+        "description": "Tutoriac provides video tutorials for learning how to create websites with website builders like Wix, Google Sites, Squarespace, Webflow, Carrd, Framer.",
+        "url": "https://tutoriac.com",
+        "icon": "https://tutoriac.com/images/favicon.png",
+        "keywords": [
+            "website builder video tutorials",
+            "google sites",
+            "landing pages",
+            "portfolio",
+            "personal site"
+        ]
     },
     {
         "name": "TypingClub",
