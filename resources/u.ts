@@ -168,6 +168,15 @@ export const resources: Resource[] = [
         icon: 'https://www.uplabs.com/logos/uplabs/icons/favicon-96x96.png',
     },
     {
+        name: 'Upstash',
+        categories: [infrastructure.databases],
+        description:
+            'Serverless database with Redis API and durable storage. Low latency data. Durable storage. Ease of use.',
+        url: 'https://upstash.com/',
+        icon: 'https://upstash.com/static/icons/favicon-32x32.png',
+        keywords: ['database', 'redis', 'serverless', 'durable storage', 'low latency'],
+    },
+    {
         name: 'Upwork',
         categories: [jobs.freelancing],
         description:
