@@ -1,5 +1,5 @@
 {
-"count": 764,
+"count": 769,
 "data": [
     {
         "name": "1001 Fonts",
@@ -427,6 +427,19 @@
         ],
         "url": "https://www.awwwards.com/",
         "icon": "https://www.awwwards.com/apple-touch-icon.png"
+    },
+    {
+        "name": "Axiom",
+        "categories": [
+            "Tools & Utilities/General"
+        ],
+        "description": "Serverless log management solution.",
+        "url": "https://axiom.co/",
+        "icon": "https://axiom.co/favicon.ico",
+        "keywords": [
+            "logging",
+            "logs"
+        ]
     },
     {
         "name": "Axorax",
@@ -4834,6 +4847,20 @@
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
     {
+        "name": "LearnWeb3",
+        "categories": [
+            "Web3/Utilities"
+        ],
+        "description": "LearnWeb3 is the best place to turn you into a web3 developer for completely free.",
+        "url": "https://learnweb3.io/",
+        "icon": "https://learnweb3.io/favicon.ico",
+        "keywords": [
+            "web3",
+            "web3 developer",
+            "web3 developer course"
+        ]
+    },
+    {
         "name": "LeetCode",
         "categories": [
             "Programming/Code Challenges"
@@ -5733,6 +5760,31 @@
         ],
         "url": "https://www.palettelist.com/",
         "icon": "https://www.palettelist.com/favicon.ico"
+    },
+    {
+        "name": "Patterninja",
+        "categories": [
+            "Assets/Illustrations"
+        ],
+        "description": "Combine images from our free library or use your own. Produced patterns can be downloaded in high resolution and used for printing and the web.",
+        "url": "https://patterninja.com/",
+        "icon": "https://patterninja.com/favicon-32x32.png"
+    },
+    {
+        "name": "Patterns.dev",
+        "categories": [
+            "Programming/Learn"
+        ],
+        "description": "Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.",
+        "url": "https://www.patterns.dev/",
+        "icon": "https://www.patterns.dev/favicon.ico",
+        "keywords": [
+            "design patterns",
+            "component patterns",
+            "javascript",
+            "react",
+            "web development"
+        ]
     },
     {
         "name": "Paw",
@@ -8043,6 +8095,22 @@
         "description": "UpLabs curates the best of design & development inspiration, resources and freebies. Every day!",
         "url": "https://www.uplabs.com/",
         "icon": "https://www.uplabs.com/logos/uplabs/icons/favicon-96x96.png"
+    },
+    {
+        "name": "Upstash",
+        "categories": [
+            "Infrastructure/Databases"
+        ],
+        "description": "Serverless database with Redis API and durable storage. Low latency data. Durable storage. Ease of use.",
+        "url": "https://upstash.com/",
+        "icon": "https://upstash.com/static/icons/favicon-32x32.png",
+        "keywords": [
+            "database",
+            "redis",
+            "serverless",
+            "durable storage",
+            "low latency"
+        ]
     },
     {
         "name": "Upto.Site",
