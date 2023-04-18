@@ -281,6 +281,14 @@ export const resources: Resource[] = [
         icon: 'https://www.awwwards.com/apple-touch-icon.png',
     },
     {
+        name: 'Axiom',
+        categories: [toolsAndUtilities.general],
+        description: 'Serverless log management solution.',
+        url: 'https://axiom.co/',
+        icon: 'https://axiom.co/favicon.ico',
+        keywords: ['logging', 'logs'],
+    },
+    {
         name: 'Axorax',
         description: 'Read articles on programming, design and more.',
         categories: [community.personalWebsites],
