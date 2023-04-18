@@ -31,6 +31,14 @@ export const resources: Resource[] = [
         icon: 'https://www.palettelist.com/favicon.ico',
     },
     {
+        name: 'Patterninja',
+        categories: [assets.illustrations],
+        description:
+            'Combine images from our free library or use your own. Produced patterns can be downloaded in high resolution and used for printing and the web.',
+        url: 'https://patterninja.com/',
+        icon: 'https://patterninja.com/favicon-32x32.png',
+    },
+    {
         name: 'Patterns.dev',
         categories: [programming.learn],
         description:
