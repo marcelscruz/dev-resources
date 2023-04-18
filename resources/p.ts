@@ -31,6 +31,15 @@ export const resources: Resource[] = [
         icon: 'https://www.palettelist.com/favicon.ico',
     },
     {
+        name: 'Patterns.dev',
+        categories: [programming.learn],
+        description:
+            'Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.',
+        url: 'https://www.patterns.dev/',
+        icon: 'https://www.patterns.dev/favicon.ico',
+        keywords: ['design patterns', 'component patterns', 'javascript', 'react', 'web development'],
+    },
+    {
         name: 'Paw',
         categories: [toolsAndUtilities.apiBuilding],
         description:
