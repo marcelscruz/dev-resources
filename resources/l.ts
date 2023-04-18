@@ -11,6 +11,7 @@ const {
     assets,
     community,
     infrastructure,
+    web3,
 } = categories
 
 export const resources: Resource[] = [
@@ -96,6 +97,14 @@ export const resources: Resource[] = [
             'Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.',
         url: 'https://grid.layoutit.com/',
         icon: 'https://grid.layoutit.com/img/icons/icon-128x128.png',
+    },
+    {
+        name: 'LearnWeb3',
+        categories: [web3.utilities],
+        description: 'LearnWeb3 is the best place to turn you into a web3 developer for completely free.',
+        url: 'https://learnweb3.io/',
+        icon: 'https://learnweb3.io/favicon.ico',
+        keywords: ['web3', 'web3 developer', 'web3 developer course'],
     },
     {
         name: 'Learn CSS',
