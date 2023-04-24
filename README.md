@@ -4,13 +4,7 @@
 
  <div align="center">Sponsored by</div><br/>
 
-<p align="center"><a href="https://clerk.com?utm_source=public_apis&utm_content=dev_resources_repo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/clerk-dark-mode.png" width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/clerk-light-mode.png" width="180px"><img alt="Clerk logo" src="./assets/clerk-dark-mode.png" width="180px"></picture></a></p><br/>
-
-
-
-<p align="center"><a href="https://gcore.com?utm_source=public_apis&utm_content=dev_resources_repo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/gcore-dark-mode.png" width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/gcore-light-mode.png" width="180px"><img alt="Gcore logo" src="./assets/gcore-dark-mode.png" width="180px"></picture></a></p>
-
- ---
+<p align="center"><a href="https://clerk.com?utm_source=public_apis&utm_content=dev_resources_repo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/clerk-dark-mode.png" width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/clerk-light-mode.png" width="180px"><img alt="Clerk logo" src="./assets/clerk-dark-mode.png" width="180px"></picture></a></p> ---
 >❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to resources should happen within the `/resources` folder.
 ---
 
