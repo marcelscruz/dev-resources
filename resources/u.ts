@@ -208,13 +208,6 @@ export const resources: Resource[] = [
         icon: 'https://usethekeyboard.com/assets/img/favicon-32x32.png',
     },
     {
-        name: 'Useful Colours',
-        categories: [uiDesign.color],
-        description: 'Super quick, eye-pleasing colours for your UI design.',
-        url: 'https://usefulcolours.com/',
-        icon: 'https://usefulcolours.com/favicon.png',
-    },
-    {
         name: 'useHooks',
         categories: [programming.javascript.react],
         description: 'Easy to understand React Hook recipes.',
