@@ -1,5 +1,5 @@
 {
-"count": 769,
+"count": 768,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4253,15 +4253,6 @@
         "description": "Short, bite-sized conversations (15 mins) with indie hackers that have started small, profitable and bootstrapped businesses. You'll learn how they come up with ideas, what they do to validate, find those first customers and make a sustainable income.",
         "url": "https://indiebites.co/",
         "icon": "https://s3.amazonaws.com/super-notion/images/26707ca1-dc44-44e8-90ce-9e6220840f71.png"
-    },
-    {
-        "name": "Indie Drops",
-        "categories": [
-            "Indie Hacking/Utilities"
-        ],
-        "description": "Secure unbelivably good deals on early-stage products before they take off.",
-        "url": "http://indiedrops.com/",
-        "icon": "http://indiedrops.com/apple-touch-icon.png"
     },
     {
         "name": "Indie Hackers",
