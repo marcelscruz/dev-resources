@@ -12,6 +12,14 @@ export const resources: Resource[] = [
         icon: 'https://a11y-style-guide.com/favicons/favicon-96x96.png',
     },
     {
+        name: 'A11y Coffee',
+        categories: [toolsAndUtilities.accessibility],
+        description: 'The introduction on web accessibility for every single web developer.',
+        url: 'https://a11y.coffee',
+        icon: 'https://a11y.coffee/favicon.ico',
+        keywords: ['accessibility', 'a11y'],
+    },
+    {
         name: 'A11ygator',
         categories: [toolsAndUtilities.accessibility],
         description:
