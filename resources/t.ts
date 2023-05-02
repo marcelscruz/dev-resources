@@ -384,6 +384,14 @@ export const resources: Resource[] = [
         keywords: ['website builder video tutorials', 'google sites', 'landing pages', 'portfolio', 'personal site'],
     },
     {
+        name: 'TypeLit',
+        categories: [toolsAndUtilities.typing],
+        description: 'Practice typing by retyping entire novels.',
+        url: 'https://www.typelit.io',
+        icon: 'https://www.typelit.io/favicon.ico',
+        keywords: ['typing'],
+    },
+    {
         name: 'TypingClub',
         categories: [toolsAndUtilities.typing],
         description:
