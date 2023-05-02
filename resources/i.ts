@@ -22,6 +22,13 @@ export const resources: Resource[] = [
         keywords: [],
     },
     {
+        name: 'Iconic',
+        categories: [assets.icons],
+        description: 'Free, “do wtf you want with” pixel-perfect icons. New icons added every week',
+        url: 'https://iconic.app',
+        icon: 'https://iconic.app/wp-content/themes/basis-iconic/icon.png',
+    },
+    {
         name: 'iconmonstr',
         categories: [assets.icons],
         description: 'Free simple icons for your next project.',
