@@ -258,6 +258,14 @@ export const resources: Resource[] = [
         icon: 'https://www.fontsquirrel.com/favicon-32x32.png?v=2',
     },
     {
+        name: 'Fontello',
+        categories: [assets.icons],
+        description: 'Build custom fonts from icons.',
+        url: 'https://fontello.com',
+        icon: 'https://fontello.com/favicon.ico',
+        keywords: ['icons', 'fonts'],
+    },
+    {
         name: 'Fontjoy',
         categories: [assets.fonts],
         description:
@@ -320,7 +328,8 @@ export const resources: Resource[] = [
     {
         name: 'FontSpark',
         categories: [assets.fonts],
-        description: 'Fontspark is the best place for you. We are providing all the latest and professional free fonts for download that you can use on your projects.',
+        description:
+            'Fontspark is the best place for you. We are providing all the latest and professional free fonts for download that you can use on your projects.',
         url: 'https://fontspark.com/',
         icon: 'https://fontspark.com/wp-content/uploads/2022/04/fontspark-Icon.svg',
     },
