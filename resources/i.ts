@@ -119,13 +119,6 @@ export const resources: Resource[] = [
         icon: 'https://s3.amazonaws.com/super-notion/images/26707ca1-dc44-44e8-90ce-9e6220840f71.png',
     },
     {
-        name: 'Indie Drops',
-        categories: [indieHacking.utilities],
-        description: 'Secure unbelivably good deals on early-stage products before they take off.',
-        url: 'http://indiedrops.com/',
-        icon: 'http://indiedrops.com/apple-touch-icon.png',
-    },
-    {
         name: 'Indie Hackers',
         categories: [indieHacking.platforms, indieHacking.podcasts],
         description:
