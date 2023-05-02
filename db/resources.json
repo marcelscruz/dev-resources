@@ -1,5 +1,5 @@
 {
-"count": 768,
+"count": 767,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8151,15 +8151,6 @@
         "description": "A collection of keyboard shortcuts for Mac apps, Windows programs, and a variety of websites.",
         "url": "https://usethekeyboard.com/",
         "icon": "https://usethekeyboard.com/assets/img/favicon-32x32.png"
-    },
-    {
-        "name": "Useful Colours",
-        "categories": [
-            "UI Design/Color"
-        ],
-        "description": "Super quick, eye-pleasing colours for your UI design.",
-        "url": "https://usefulcolours.com/",
-        "icon": "https://usefulcolours.com/favicon.png"
     },
     {
         "name": "useHooks",
