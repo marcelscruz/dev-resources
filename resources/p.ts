@@ -175,6 +175,15 @@ export const resources: Resource[] = [
         icon: 'https://www.primefaces.org/wp-content/uploads/fbrfg/favicon-32x32.png',
     },
     {
+        name: 'Privacyboard',
+        categories: [toolsAndUtilities.general],
+        description:
+            "Privacyboard helps you comply with GDPR in minutes so you can focus on what's really important for your business.",
+        url: 'https://www.privacyboard.co',
+        icon: 'https://uploads-ssl.webflow.com/6336ae385bf8c24c72741f74/633be74afbb83a52f61bca50_Group%20177%20(1).png',
+        keywords: ['privacy', 'gdpr', 'compliance'],
+    },
+    {
         name: 'Product Hunt',
         categories: [indieHacking.platforms],
         description:
