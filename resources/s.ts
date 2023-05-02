@@ -591,6 +591,15 @@ export const resources: Resource[] = [
         icon: 'https://ui.supabase.io/favicon.ico',
     },
     {
+        name: 'Surfer',
+        categories: [toolsAndUtilities.seo],
+        description:
+            'Use Surfer to research, write, optimize, and audit! Everything you need to create a comprehensive content strategy that yields real results is right here.',
+        url: 'https://surferseo.com',
+        icon: 'https://assets-global.website-files.com/62666115cfab458794bd512f/63218c8664813ed2a7312b89_favicon.png',
+        keywords: ['seo', 'keyword research', 'content marketing', 'content creation', 'content optimization'],
+    },
+    {
         name: 'Surge',
         categories: [infrastructure.hosting],
         description:
