@@ -720,6 +720,15 @@ export const resources: Resource[] = [
         icon: 'https://github.githubassets.com/apple-touch-icon-114x114.png',
     },
     {
+        name: 'ContentKing',
+        categories: [toolsAndUtilities.seo],
+        description:
+            'ContentKing keeps track of your website 24/7 so that you can catch unexpected changes and issues before search engines and visitors do.',
+        url: 'https://www.contentkingapp.com/',
+        icon: 'https://www.contentkingapp.com/assets/images/favicons/favicon.ico',
+        keywords: ['seo', 'content', 'monitoring', 'website', 'audit'],
+    },
+    {
         name: 'Contrast Ratio',
         categories: [toolsAndUtilities.accessibility],
         description: 'Easily calculate color contrast ratios.',
