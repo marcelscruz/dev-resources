@@ -1,5 +1,5 @@
 {
-"count": 767,
+"count": 774,
 "data": [
     {
         "name": "1001 Fonts",
@@ -93,6 +93,19 @@
         ],
         "url": "https://99designs.com/",
         "icon": "https://99designs.com/touch-icon-ipad.png"
+    },
+    {
+        "name": "A11y Coffee",
+        "categories": [
+            "Tools & Utilities/Accessibility"
+        ],
+        "description": "The introduction on web accessibility for every single web developer.",
+        "url": "https://a11y.coffee",
+        "icon": "https://a11y.coffee/favicon.ico",
+        "keywords": [
+            "accessibility",
+            "a11y"
+        ]
     },
     {
         "name": "A11Y Style Guide",
@@ -1768,6 +1781,22 @@
         "icon": "https://github.githubassets.com/apple-touch-icon-114x114.png"
     },
     {
+        "name": "ContentKing",
+        "categories": [
+            "Tools & Utilities/SEO"
+        ],
+        "description": "ContentKing keeps track of your website 24/7 so that you can catch unexpected changes and issues before search engines and visitors do.",
+        "url": "https://www.contentkingapp.com/",
+        "icon": "https://www.contentkingapp.com/assets/images/favicons/favicon.ico",
+        "keywords": [
+            "seo",
+            "content",
+            "monitoring",
+            "website",
+            "audit"
+        ]
+    },
+    {
         "name": "Contrast Ratio",
         "categories": [
             "Tools & Utilities/Accessibility"
@@ -3022,6 +3051,19 @@
         "icon": "https://www.fontsquirrel.com/favicon-32x32.png?v=2"
     },
     {
+        "name": "Fontello",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Build custom fonts from icons.",
+        "url": "https://fontello.com",
+        "icon": "https://fontello.com/favicon.ico",
+        "keywords": [
+            "icons",
+            "fonts"
+        ]
+    },
+    {
         "name": "Fontjoy",
         "categories": [
             "Assets/Fonts"
@@ -4121,6 +4163,15 @@
         "url": "https://www.iconfinder.com",
         "icon": "https://www.iconfinder.com/static/img/favicons/favicon-32x32.png?87b2a5c3aa",
         "keywords": []
+    },
+    {
+        "name": "Iconic",
+        "categories": [
+            "Assets/Icons"
+        ],
+        "description": "Free, “do wtf you want with” pixel-perfect icons. New icons added every week",
+        "url": "https://iconic.app",
+        "icon": "https://iconic.app/wp-content/themes/basis-iconic/icon.png"
     },
     {
         "name": "iconmonstr",
@@ -5946,6 +5997,20 @@
         "icon": "https://www.primefaces.org/wp-content/uploads/fbrfg/favicon-32x32.png"
     },
     {
+        "name": "Privacyboard",
+        "categories": [
+            "Tools & Utilities/General"
+        ],
+        "description": "Privacyboard helps you comply with GDPR in minutes so you can focus on what's really important for your business.",
+        "url": "https://www.privacyboard.co",
+        "icon": "https://uploads-ssl.webflow.com/6336ae385bf8c24c72741f74/633be74afbb83a52f61bca50_Group%20177%20(1).png",
+        "keywords": [
+            "privacy",
+            "gdpr",
+            "compliance"
+        ]
+    },
+    {
         "name": "Product Hunt",
         "categories": [
             "Indie Hacking/Platforms"
@@ -7295,6 +7360,22 @@
         "icon": "https://ui.supabase.io/favicon.ico"
     },
     {
+        "name": "Surfer",
+        "categories": [
+            "Tools & Utilities/SEO"
+        ],
+        "description": "Use Surfer to research, write, optimize, and audit! Everything you need to create a comprehensive content strategy that yields real results is right here.",
+        "url": "https://surferseo.com",
+        "icon": "https://assets-global.website-files.com/62666115cfab458794bd512f/63218c8664813ed2a7312b89_favicon.png",
+        "keywords": [
+            "seo",
+            "keyword research",
+            "content marketing",
+            "content creation",
+            "content optimization"
+        ]
+    },
+    {
         "name": "Surge",
         "categories": [
             "Infrastructure/Hosting"
@@ -7861,6 +7942,18 @@
             "landing pages",
             "portfolio",
             "personal site"
+        ]
+    },
+    {
+        "name": "TypeLit",
+        "categories": [
+            "Tools & Utilities/Typing"
+        ],
+        "description": "Practice typing by retyping entire novels.",
+        "url": "https://www.typelit.io",
+        "icon": "https://www.typelit.io/favicon.ico",
+        "keywords": [
+            "typing"
         ]
     },
     {
