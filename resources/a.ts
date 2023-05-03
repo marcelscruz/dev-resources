@@ -265,6 +265,14 @@ export const resources: Resource[] = [
         icon: 'https://github.githubassets.com/favicons/favicon-dark.svg',
     },
     {
+        name: 'Awesome Certificates',
+        categories: [programming.learn],
+        description: 'A curated list of IT, Computer Science and Business courses with free certificates to earn.',
+        url: 'https://github.com/panxproject/awesome-certificates',
+        icon: 'https://github.com/PanXProject/awesome-certificates/blob/main/media/50pxsafepanxicon.png',
+        keywords: ['learn', 'courses', 'certificates', 'awesome', 'panx', 'free', 'it', 'cs', 'business'],
+    },
+    {
         name: 'Awesome Courses',
         categories: [programming.learn],
         description: 'List of awesome university courses for learning Computer Science.',
