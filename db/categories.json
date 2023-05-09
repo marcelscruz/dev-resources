@@ -1,268 +1,292 @@
 {
-"count": 66,
+"count": 72,
 "data": [
     {
-        "name": "AI/Images",
-        "slug": "ai/images"
+        "name": "Accessibility",
+        "slug": "accessibility"
     },
     {
-        "name": "AI/Utilities",
-        "slug": "ai/utilities"
+        "name": "AI",
+        "slug": "ai"
     },
     {
-        "name": "Assets/Audio",
-        "slug": "assets/audio"
+        "name": "Analytics",
+        "slug": "analytics"
     },
     {
-        "name": "Assets/Fonts",
-        "slug": "assets/fonts"
+        "name": "Animation",
+        "slug": "animation"
     },
     {
-        "name": "Assets/Icons",
-        "slug": "assets/icons"
+        "name": "API Building",
+        "slug": "api-building"
     },
     {
-        "name": "Assets/Illustrations",
-        "slug": "assets/illustrations"
+        "name": "Audio",
+        "slug": "audio"
     },
     {
-        "name": "Assets/Images",
-        "slug": "assets/images"
+        "name": "Authentication",
+        "slug": "authentication"
     },
     {
-        "name": "Assets/Logos",
-        "slug": "assets/logos"
+        "name": "Blog",
+        "slug": "blog"
     },
     {
-        "name": "Assets/Videos",
-        "slug": "assets/videos"
+        "name": "Book",
+        "slug": "book"
     },
     {
-        "name": "Community/Blogs & Forums",
-        "slug": "community/blogs-and-forums"
+        "name": "Browser",
+        "slug": "browser"
     },
     {
-        "name": "Community/Hacktoberfest",
-        "slug": "community/hacktoberfest"
+        "name": "CDN",
+        "slug": "cdn"
     },
     {
-        "name": "Community/Personal Websites",
-        "slug": "community/personal-websites"
+        "name": "Cheatsheet",
+        "slug": "cheatsheet"
     },
     {
-        "name": "Indie Hacking/Books",
-        "slug": "indie-hacking/books"
+        "name": "Cloud Computing",
+        "slug": "cloud-computing"
     },
     {
-        "name": "Indie Hacking/Marketing",
-        "slug": "indie-hacking/marketing"
+        "name": "Code Challenge",
+        "slug": "code-challenge"
     },
     {
-        "name": "Indie Hacking/Platforms",
-        "slug": "indie-hacking/platforms"
+        "name": "Code Generator",
+        "slug": "code-generator"
     },
     {
-        "name": "Indie Hacking/Podcasts",
-        "slug": "indie-hacking/podcasts"
+        "name": "Code Snippet",
+        "slug": "code-snippet"
     },
     {
-        "name": "Indie Hacking/Utilities",
-        "slug": "indie-hacking/utilities"
+        "name": "Color",
+        "slug": "color"
     },
     {
-        "name": "Infrastructure/Auth",
-        "slug": "infrastructure/auth"
+        "name": "Database",
+        "slug": "database"
     },
     {
-        "name": "Infrastructure/CDN",
-        "slug": "infrastructure/cdn"
+        "name": "Design",
+        "slug": "design"
     },
     {
-        "name": "Infrastructure/Cloud Computing",
-        "slug": "infrastructure/cloud-computing"
+        "name": "Documentation",
+        "slug": "documentation"
     },
     {
-        "name": "Infrastructure/Databases",
-        "slug": "infrastructure/databases"
+        "name": "Domain",
+        "slug": "domain"
     },
     {
-        "name": "Infrastructure/Hosting",
-        "slug": "infrastructure/hosting"
+        "name": "Editor",
+        "slug": "editor"
     },
     {
-        "name": "Infrastructure/Serverless",
-        "slug": "infrastructure/serverless"
+        "name": "Email",
+        "slug": "email"
     },
     {
-        "name": "Jobs/Boards",
-        "slug": "jobs/boards"
+        "name": "Extension",
+        "slug": "extension"
     },
     {
-        "name": "Jobs/Freelancing",
-        "slug": "jobs/freelancing"
+        "name": "Font",
+        "slug": "font"
     },
     {
-        "name": "Jobs/Interviews",
-        "slug": "jobs/interviews"
+        "name": "Forum",
+        "slug": "forum"
     },
     {
-        "name": "Jobs/Remote Only",
-        "slug": "jobs/remote-only"
+        "name": "Freelance",
+        "slug": "freelance"
     },
     {
-        "name": "Jobs/Resume Builders",
-        "slug": "jobs/resume-builders"
+        "name": "Hacktoberfest",
+        "slug": "hacktoberfest"
     },
     {
-        "name": "Programming/Books",
-        "slug": "programming/books"
+        "name": "Hosting",
+        "slug": "hosting"
     },
     {
-        "name": "Programming/Charts",
-        "slug": "programming/charts"
+        "name": "Icon",
+        "slug": "icon"
     },
     {
-        "name": "Programming/Code Challenges",
-        "slug": "programming/code-challenges"
+        "name": "Illustration",
+        "slug": "illustration"
     },
     {
-        "name": "Programming/Code Generators",
-        "slug": "programming/code-generators"
+        "name": "Image",
+        "slug": "image"
     },
     {
-        "name": "Programming/Code Snippets",
-        "slug": "programming/code-snippets"
+        "name": "Indie",
+        "slug": "indie"
     },
     {
-        "name": "Programming/Docs & Cheatsheets",
-        "slug": "programming/docs-and-cheatsheets"
+        "name": "Inspiration",
+        "slug": "inspiration"
     },
     {
-        "name": "Programming/JavaScript/React",
-        "slug": "programming/javascript/react"
+        "name": "Interview",
+        "slug": "interview"
     },
     {
-        "name": "Programming/JavaScript/Tooling",
-        "slug": "programming/javascript/tooling"
+        "name": "Job",
+        "slug": "job"
     },
     {
-        "name": "Programming/JavaScript/Utilities",
-        "slug": "programming/javascript/utilities"
+        "name": "Learn",
+        "slug": "learn"
     },
     {
-        "name": "Programming/Learn",
-        "slug": "programming/learn"
+        "name": "Legal",
+        "slug": "legal"
     },
     {
-        "name": "Programming/Newsletters",
-        "slug": "programming/newsletters"
+        "name": "Library",
+        "slug": "library"
     },
     {
-        "name": "Programming/Podcasts",
-        "slug": "programming/podcasts"
+        "name": "Logging",
+        "slug": "logging"
     },
     {
-        "name": "Programming/Templates",
-        "slug": "programming/templates"
+        "name": "Logo",
+        "slug": "logo"
     },
     {
-        "name": "Programming/Testing",
-        "slug": "programming/testing"
+        "name": "Marketing",
+        "slug": "marketing"
     },
     {
-        "name": "Programming/UI Kits & Libraries",
-        "slug": "programming/ui-kits-and-libraries"
+        "name": "Newsletter",
+        "slug": "newsletter"
     },
     {
-        "name": "Programming/YouTube Channels",
-        "slug": "programming/youtube-channels"
+        "name": "Open Source",
+        "slug": "open-source"
     },
     {
-        "name": "Tools & Utilities/Accessibility",
-        "slug": "tools-and-utilities/accessibility"
+        "name": "Performance",
+        "slug": "performance"
     },
     {
-        "name": "Tools & Utilities/Analytics",
-        "slug": "tools-and-utilities/analytics"
+        "name": "Personal Website",
+        "slug": "personal-website"
     },
     {
-        "name": "Tools & Utilities/API Building",
-        "slug": "tools-and-utilities/api-building"
+        "name": "Podcast",
+        "slug": "podcast"
     },
     {
-        "name": "Tools & Utilities/Browsers & Extensions",
-        "slug": "tools-and-utilities/browsers-and-extensions"
+        "name": "Productivity",
+        "slug": "productivity"
     },
     {
-        "name": "Tools & Utilities/Command Line",
-        "slug": "tools-and-utilities/command-line"
+        "name": "Programming",
+        "slug": "programming"
     },
     {
-        "name": "Tools & Utilities/Domains",
-        "slug": "tools-and-utilities/domains"
+        "name": "Prototyping",
+        "slug": "prototyping"
     },
     {
-        "name": "Tools & Utilities/Editors & Extensions",
-        "slug": "tools-and-utilities/editors-and-extensions"
+        "name": "Remote",
+        "slug": "remote"
     },
     {
-        "name": "Tools & Utilities/General",
-        "slug": "tools-and-utilities/general"
+        "name": "Resume",
+        "slug": "resume"
     },
     {
-        "name": "Tools & Utilities/Image & Video Editing",
-        "slug": "tools-and-utilities/image-and-video-editing"
+        "name": "Scraping",
+        "slug": "scraping"
     },
     {
-        "name": "Tools & Utilities/Performance",
-        "slug": "tools-and-utilities/performance"
+        "name": "Screenshot",
+        "slug": "screenshot"
     },
     {
-        "name": "Tools & Utilities/SEO",
-        "slug": "tools-and-utilities/seo"
+        "name": "Security",
+        "slug": "security"
     },
     {
-        "name": "Tools & Utilities/Typing",
-        "slug": "tools-and-utilities/typing"
+        "name": "SEO",
+        "slug": "seo"
     },
     {
-        "name": "Tools & Utilities/Web Scraping",
-        "slug": "tools-and-utilities/web-scraping"
+        "name": "Serverless",
+        "slug": "serverless"
     },
     {
-        "name": "Tools & Utilities/Website Builders",
-        "slug": "tools-and-utilities/website-builders"
+        "name": "Startup",
+        "slug": "startup"
     },
     {
-        "name": "Tools & Utilities/Writing",
-        "slug": "tools-and-utilities/writing"
+        "name": "Storage",
+        "slug": "storage"
     },
     {
-        "name": "UI Design/Color",
-        "slug": "ui-design/color"
+        "name": "Template",
+        "slug": "template"
     },
     {
-        "name": "UI Design/Inspiration",
-        "slug": "ui-design/inspiration"
+        "name": "Terminal",
+        "slug": "terminal"
     },
     {
-        "name": "UI Design/Learn",
-        "slug": "ui-design/learn"
+        "name": "Testing",
+        "slug": "testing"
     },
     {
-        "name": "UI Design/Prototyping",
-        "slug": "ui-design/prototyping"
+        "name": "Tooling",
+        "slug": "tooling"
     },
     {
-        "name": "UI Design/Utilities",
-        "slug": "ui-design/utilities"
+        "name": "Twitter",
+        "slug": "twitter"
     },
     {
-        "name": "UI Design/YouTube Channels",
-        "slug": "ui-design/youtube-channels"
+        "name": "Typing",
+        "slug": "typing"
     },
     {
-        "name": "Web3/Utilities",
-        "slug": "web3/utilities"
+        "name": "UI",
+        "slug": "ui"
+    },
+    {
+        "name": "UX",
+        "slug": "ux"
+    },
+    {
+        "name": "Video",
+        "slug": "video"
+    },
+    {
+        "name": "Web3",
+        "slug": "web3"
+    },
+    {
+        "name": "Website Builder",
+        "slug": "website-builder"
+    },
+    {
+        "name": "Writing",
+        "slug": "writing"
+    },
+    {
+        "name": "YouTube Channel",
+        "slug": "youtube-channel"
     }
 ]}
