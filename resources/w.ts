@@ -1,12 +1,9 @@
-import { categories } from 'const'
 import { Resource } from 'types'
-
-const { programming, toolsAndUtilities, jobs, uiDesign, community, infrastructure } = categories
 
 export const resources: Resource[] = [
     {
         name: 'W3Bits',
-        categories: [community.personalWebsites],
+        categories: ['Personal Website'],
         url: 'https://w3bits.com',
 
         description: 'Tips about frontend web development.',
@@ -14,14 +11,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'W3Layouts',
-        categories: [programming.templates],
+        categories: ['Template'],
         description: 'W3layouts is an online store to download website templates for all types of businesses.',
         url: 'https://w3layouts.com/',
         icon: 'https://w3lcdn.w3layouts.com/wp-content/uploads/2020/11/cropped-w3layouts-logo-512-32x32.png',
     },
     {
         name: 'W3Schools',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description:
             'W3Schools is a training website for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, C# and Java.',
         keywords: [
@@ -60,7 +57,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Wappalyzer',
-        categories: [toolsAndUtilities.browsersAndExtensions],
+        categories: ['Browser', 'Extension'],
         description:
             'Find out the technology stack of any website. Create lists of websites and contacts by the technologies they use.',
         url: 'https://www.wappalyzer.com/',
@@ -68,22 +65,15 @@ export const resources: Resource[] = [
     },
     {
         name: 'Warrant',
-        categories: [infrastructure.auth],
+        categories: ['Authentication'],
         description: 'Hosted enterprise-grade authorization and access control service for your apps.',
         url: 'https://warrant.dev/',
         icon: 'https://warrant.dev/images/logo-primary.svg',
         keywords: ['auth', 'authorization', 'authz', 'access control'],
     },
     {
-        name: 'Wave',
-        categories: [toolsAndUtilities.general],
-        description: 'Free invoicing & accounting software with credit card processing & payroll services.',
-        url: 'https://www.waveapps.com/',
-        icon: 'https://www.waveapps.com/assets/img/icons/favicon-32x32.png',
-    },
-    {
         name: 'WAVE',
-        categories: [toolsAndUtilities.accessibility],
+        categories: ['Accessibility'],
         description:
             'WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content.',
         url: 'https://wave.webaim.org/',
@@ -91,7 +81,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Web Design Inspiration',
-        categories: [uiDesign.inspiration],
+        categories: ['Design', 'Inspiration', 'UI'],
         description:
             'Visit the #1 Inspiration Gallery. Everyday, we help Webdesigners, Agencies and Entrepreneurs to be inspired for their next web design project.',
         url: 'https://www.webdesign-inspiration.com/',
@@ -99,7 +89,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'We Work Remotely',
-        categories: [jobs.remoteOnly],
+        categories: ['Job', 'Remote'],
         description:
             "Find the most qualified people in the most unexpected places: Hire remote! We Work Remotely is the best place to find and list remote jobs that aren't restricted by commutes or a particular geographic area. Browse thousands of remote work jobs today.",
         url: 'https://weworkremotely.com/',
@@ -107,28 +97,28 @@ export const resources: Resource[] = [
     },
     {
         name: 'Web Developer',
-        categories: [toolsAndUtilities.browsersAndExtensions],
+        categories: ['Browser', 'Extension'],
         description: 'Download the Web Developer extension for Chrome and Firefox.',
         url: 'https://chrispederick.com/work/web-developer/',
         icon: 'https://cdn.chrispederick.net/images/7.2/logos/256.png',
     },
     {
         name: 'Web Developer Checklist',
-        categories: [toolsAndUtilities.browsersAndExtensions],
+        categories: ['Browser', 'Extension'],
         description: 'Analyses any web page for violations of best practices.',
         url: 'https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en',
         icon: 'https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png',
     },
     {
         name: 'web.dev - Lighthouse',
-        categories: [toolsAndUtilities.performance],
+        categories: ['Performance'],
         description: 'See how well your website performs. Then, get tips to improve your user experience.',
         url: 'https://web.dev/measure',
         icon: 'https://web.dev/images/favicon-32x32.png',
     },
     {
         name: 'Webflow',
-        categories: [toolsAndUtilities.websiteBuilders],
+        categories: ['Website Builder'],
         description:
             'Build responsive websites in your browser, then launch with our world-class hosting or export your code. Discover the professional website platform built for your business.',
         url: 'https://webflow.com/',
@@ -137,7 +127,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Webframe',
-        categories: [uiDesign.inspiration],
+        categories: ['Design', 'Inspiration', 'UI'],
         description:
             'A showcase of beautiful and well designed web app screens for design inspiration. Including screens from behind signup/paywalls! 😱.',
         url: 'https://webframe.xyz/',
@@ -145,7 +135,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'WebPagetest',
-        categories: [toolsAndUtilities.performance],
+        categories: ['Performance'],
         description:
             'Run a free website speed test from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations.',
         keywords: ['WebPageTest', 'Website Speed Test', 'Page Speed'],
@@ -154,7 +144,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Website Authority Checker',
-        categories: [toolsAndUtilities.seo],
+        categories: ['SEO'],
         description:
             'Free tool to check the "authority" of any website based on the quality and quantity of its external backlinks.',
         url: 'https://ahrefs.com/website-authority-checker',
@@ -162,7 +152,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'WebStorm',
-        categories: [toolsAndUtilities.editorsAndExtensions],
+        categories: ['Editor', 'Programming'],
         description:
             'A powerful IDE for modern JavaScript development with code completion and refactoring for JavaScript, TypeScript, and the most popular web frameworks.',
         url: 'https://www.jetbrains.com/webstorm/',
@@ -170,7 +160,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Weebly',
-        categories: [toolsAndUtilities.websiteBuilders],
+        categories: ['Website Builder'],
         description:
             'Weebly’s free website builder makes it easy to build a website, blog, or online store. Find customizable designs, domains, and eCommerce tools for any type of business using our website builder.',
         url: 'https://www.weebly.com/',
@@ -178,7 +168,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Wes Bos',
-        categories: [programming.youtubeChannels],
+        categories: ['Programming', 'YouTube Channel'],
         description: 'HTML, CSS, JavaScript and WordPress web development tutorials!',
         keywords: ['JavaScript jQuery HTML5 CSS3 development web design css php wordpress'],
         url: 'https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA',
@@ -186,14 +176,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'WhatFont',
-        categories: [toolsAndUtilities.browsersAndExtensions],
+        categories: ['Browser', 'Extension'],
         description: 'The easiest way to identify fonts on web pages.',
         url: 'https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en',
         icon: 'https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png',
     },
     {
         name: 'Windframe',
-        categories: [toolsAndUtilities.websiteBuilders],
+        categories: ['Website Builder'],
         description:
             'Rapidly Build and Prototype responsive websites using a drag and drop Tailwind CSS website builder',
         keywords: ['website builder', 'tailwind css builder', 'drag and drop builder'],
@@ -202,7 +192,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Wix',
-        categories: [toolsAndUtilities.websiteBuilders],
+        categories: ['Website Builder'],
         description:
             'Create a free website with Wix.com. Choose a stunning template and customize anything with the Wix website builder—no coding skills needed. Create yours today!',
         url: 'https://www.wix.com/',
@@ -210,7 +200,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'WordPress',
-        categories: [toolsAndUtilities.websiteBuilders],
+        categories: ['Website Builder'],
         description:
             'Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.',
         url: 'https://wordpress.com/',
@@ -218,7 +208,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Working Nomads',
-        categories: [jobs.remoteOnly],
+        categories: ['Job', 'Remote'],
         description:
             'Remote jobs for digital working nomads. Start your telecommuting career and work remotely from home or places around the world.',
         keywords: [
@@ -235,7 +225,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'WrapPixel - Admin Provider',
-        categories: [programming.templates],
+        categories: ['Template'],
         description:
             'Download high quality, professional and easy-to-use Free Admin Dashboard Template which is built with Angular, React, VueJs, NextJs & NuxtJs to create your applications faster.',
         keywords: ['React', 'Angular', 'Admin template', 'bootstrap', 'Vuejs', 'NextJs', 'NuxtJs'],
@@ -244,7 +234,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Writty',
-        categories: [toolsAndUtilities.writing],
+        categories: ['Writing'],
         description: 'A simple writing app and text editor to help you focus on what matters.',
         keywords: ['writing app', 'text editor', 'wysiwyg'],
         url: 'https://writtyapp.com/',
@@ -252,7 +242,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'wweb.dev',
-        categories: [community.blogsAndForums],
+        categories: ['Blog'],
         description:
             'Stay up to date with weekly updates, get resources for your next projects abd read articles and tutorials about web development.',
         url: 'https://wweb.dev/',

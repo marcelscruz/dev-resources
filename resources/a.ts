@@ -1,27 +1,24 @@
-import { categories } from 'const'
 import { Resource } from 'types'
-
-const { toolsAndUtilities, programming, uiDesign, indieHacking, jobs, infrastructure, assets, community } = categories
 
 export const resources: Resource[] = [
     {
         name: 'A11Y Style Guide',
-        categories: [toolsAndUtilities.accessibility],
+        categories: ['Accessibility'],
         description: 'Style guide and pattern library promoting accessible components and WCAG compliance criteria.',
         url: 'https://a11y-style-guide.com/style-guide/',
         icon: 'https://a11y-style-guide.com/favicons/favicon-96x96.png',
     },
     {
         name: 'A11y Coffee',
-        categories: [toolsAndUtilities.accessibility],
+        categories: ['Accessibility', 'Learn'],
         description: 'The introduction on web accessibility for every single web developer.',
         url: 'https://a11y.coffee',
         icon: 'https://a11y.coffee/favicon.ico',
-        keywords: ['accessibility', 'a11y'],
+        keywords: ['Accessibility', 'a11y'],
     },
     {
         name: 'A11ygator',
-        categories: [toolsAndUtilities.accessibility],
+        categories: ['Accessibility'],
         description:
             'An application, a Twitter bot and a browser extension that bites websites to taste their accessibility.',
         url: 'https://a11ygator.chialab.io/',
@@ -29,14 +26,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'A11yWeekly',
-        categories: [programming.newsletters],
+        categories: ['Accessibility', 'Newsletter'],
         description: 'A weekly dose of web accessibility to help you bring it into your every day work.',
         url: 'https://a11yweekly.com/',
         icon: 'https://a11yweekly.com/favicon.ico',
     },
     {
         name: 'Accessibility Engineer',
-        categories: [toolsAndUtilities.accessibility],
+        categories: ['Accessibility'],
         description:
             'Accessibility Engineer · Web Checklist · Native App Checklist. Accessibility Acceptance Criteria. Web Accessibility Checklist · Native Accessibility Checklist.',
         url: 'https://a11yengineer.com/',
@@ -44,14 +41,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Accessibility Resources',
-        categories: [toolsAndUtilities.accessibility],
+        categories: ['Accessibility'],
         description: 'A growing list of accessibility tools and resources.',
         url: 'https://a11yresources.webflow.io/',
         icon: 'https://uploads-ssl.webflow.com/5f47cec00744f533cf1b42cb/5f48bf20e685fcb903e66d96_touchicon.png',
     },
     {
         name: 'accessibilityjs',
-        categories: [toolsAndUtilities.accessibility],
+        categories: ['Accessibility'],
         description:
             'Client side accessibility error scanner. Contribute to github/accessibilityjs development by creating an account on GitHub.',
         url: 'https://github.com/github/accessibilityjs',
@@ -59,7 +56,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Accessible Color Generator',
-        categories: [toolsAndUtilities.accessibility],
+        categories: ['Accessibility', 'Color'],
         description:
             'A tool for creating color variations on a base color to meet WCAG AA or AAA color contrast ratio guidelines.',
         url: 'https://learnui.design/tools/accessible-color-generator.html',
@@ -67,7 +64,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'AChecker',
-        categories: [toolsAndUtilities.accessibility],
+        categories: ['Accessibility'],
         description:
             'AChecker is a Web accessibility evalution tool designed to help Web content developers and Web application developers ensure their Web content is accessible to everyone regardless to the technology they may be using, or their abilities or disabilities.',
         keywords: [
@@ -95,7 +92,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Adobe Color',
-        categories: [uiDesign.color],
+        categories: ['Color'],
         description:
             'Create color palettes with the color wheel or image, browse thousands of color combinations from the Adobe Color community.',
         url: 'https://color.adobe.com/create/color-wheel',
@@ -103,7 +100,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Adobe XD',
-        categories: [uiDesign.prototyping],
+        categories: ['Prototyping', 'Design', 'UI', 'UX'],
         description:
             'Adobe XD is a fast & powerful UI/UX design solution for websites, apps & more. Design, wireframe, animate, prototype, collaborate & share  — all in one place.',
         url: 'https://www.adobe.com/products/xd.html',
@@ -111,7 +108,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Adrian Twarog',
-        categories: [programming.youtubeChannels],
+        categories: ['Design', 'Programming', 'YouTube Channel'],
         description:
             "I'm Adrian from Australia, a designer and developer who makes websites and apps using platforms like React Native. I'm hoping to share some of the things I've learnt over the years about my career and hobbies for coding, user interface and experience! Some of the things we will cover will include: - Development for React, React Native, Javascript, HTML, CSS, etc - Small changes to improve UI & UX, like the use of colour, positioning and size - Large changes like websites or apps, like entire re-designs - Techniques on creating style-guides - Reviews of existing businesses online presence and tips on improving them. #coding #programming #ui #ux #webdevelopment #development #react #reactnative #design #userexperience #userinterface.",
         keywords: [
@@ -122,7 +119,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Ahrefs',
-        categories: [toolsAndUtilities.seo],
+        categories: ['SEO'],
         description:
             "You don't have to be an SEO pro to rank higher and get more traffic. Join Ahrefs – we're a powerful but easy to learn SEO toolset with a passionate community.",
         url: 'https://ahrefs.com/',
@@ -130,7 +127,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'AI Jobs',
-        categories: [jobs.boards],
+        categories: ['AI', 'Job'],
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
         keywords: ['ai', 'artificial intelligence', 'remote', 'jobs', 'developer'],
         url: 'https://aijobs.app',
@@ -138,7 +135,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Airtable',
-        categories: [indieHacking.utilities, infrastructure.databases, infrastructure.serverless],
+        categories: ['Database'],
         description:
             'Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.',
         url: 'https://airtable.com/',
@@ -146,7 +143,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'ally.js',
-        categories: [toolsAndUtilities.accessibility],
+        categories: ['Accessibility', 'Library'],
         description:
             'JavaScript library to help modern web applications with accessibility concerns by making accessibility simpler.',
         url: 'https://allyjs.io/',
@@ -154,7 +151,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'AngelList',
-        categories: [jobs.boards],
+        categories: ['Job', 'Remote'],
         description:
             'Apply privately to 130,000+ remote jobs and startup jobs near you with one application. See salary and equity upfront.',
         url: 'https://angel.co/',
@@ -164,14 +161,14 @@ export const resources: Resource[] = [
         name: 'Angular DevTools',
         description:
             'Angular DevTools extends Chrome DevTools adding Angular specific debugging and profiling capabilities. You can use Angular DevTools to understand the structure of your application and preview the state of the directive and the component instances. To get insights into the execution of the application, you can use the profiler tab, which shows you the individual change detection cycles, what triggered them, and how much time Angular spent in them.',
-        categories: [toolsAndUtilities.browsersAndExtensions],
+        categories: ['Browser', 'Extension', 'Programming'],
         url: 'https://angular.io/guide/devtools',
         icon: 'https://angular.io/assets/images/favicons/favicon-96x96.png',
         keywords: ['dev tools', 'angular', 'profiler', 'profiling'],
     },
     {
         name: 'Animista',
-        categories: [uiDesign.utilities],
+        categories: ['Animation', 'Programming'],
         description:
             'Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use.',
         url: 'https://animista.net/',
@@ -179,7 +176,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Apigee',
-        categories: [toolsAndUtilities.apiBuilding],
+        categories: ['API Building'],
         description:
             'Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.',
         url: 'https://cloud.google.com/apigee',
@@ -188,7 +185,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'AppCode',
-        categories: [toolsAndUtilities.editorsAndExtensions],
+        categories: ['Editor', 'Programming'],
         description:
             'An intelligent IDE for iOS/macOS development focused on code quality, efficient code navigation, smart code completion, on-the-fly code analysis with quick-fixes and superior code refactorings.',
         url: 'https://www.jetbrains.com/objc/',
@@ -196,7 +193,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'AppMockUp',
-        categories: [uiDesign.prototyping],
+        categories: ['Prototyping', 'Screenshot'],
         description:
             "Use AppMockUp, the world's most powerful screenshot builder to create the most compelling screenshots for your app.",
         url: 'https://app-mockup.com/',
@@ -204,7 +201,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Appwrite',
-        categories: [toolsAndUtilities.apiBuilding, toolsAndUtilities.general],
+        categories: ['API Building'],
         description:
             'Appwrite provides web and mobile developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs.',
         url: 'https://appwrite.io/',
@@ -212,7 +209,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Artify',
-        categories: [assets.illustrations, assets.logos],
+        categories: ['Illustration', 'Logo'],
         description:
             'Artify is an online and easy-to-use design editor that features thousands of customizable illustrations and template packs.',
         url: 'https://www.artify.co/',
@@ -220,7 +217,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Atom',
-        categories: [toolsAndUtilities.editorsAndExtensions],
+        categories: ['Editor', 'Programming'],
         description:
             'At GitHub, we’re building the text editor we’ve always wanted: hackable to the core, but approachable on the first day without ever touching a config file. We can’t wait to see what you build with it.',
         url: 'https://atom.io/',
@@ -228,14 +225,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Authentic Jobs',
-        categories: [jobs.boards],
+        categories: ['Job'],
         description: 'The leading job board for designers, developers, and creative pros.',
         url: 'https://authenticjobs.com/',
         icon: 'https://authenticjobs.com/wp-content/uploads/2020/04/cropped-aj-site-favicon-32x32.png',
     },
     {
         name: 'Avodocs',
-        categories: [indieHacking.utilities, toolsAndUtilities.general],
+        categories: ['Legal'],
         description: "Free legal documents for startups. Get your company's legal documents in minutes.",
         url: 'https://www.avodocs.com',
         icon: 'https://axd1.st.axdraft.com/9a44c03019dad5d6dd622dbffbd4ad9d.ico',
@@ -250,7 +247,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'AWS',
-        categories: [infrastructure.hosting, infrastructure.cloudComputing],
+        categories: ['Cloud Computing', 'Database', 'Hosting', 'Serverless', 'Storage'],
         description:
             'Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use.',
         url: 'https://aws.amazon.com/',
@@ -258,7 +255,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Awesome a11y',
-        categories: [toolsAndUtilities.accessibility],
+        categories: ['Accessibility'],
         description:
             ':wheelchair: A curate list about A11Y. Contribute to brunopulis/awesome-a11y development by creating an account on GitHub.',
         url: 'https://github.com/brunopulis/awesome-a11y',
@@ -266,14 +263,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Awesome Courses',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description: 'List of awesome university courses for learning Computer Science.',
         url: 'https://github.com/prakhar1989/awesome-courses',
         icon: 'https://github.githubassets.com/apple-touch-icon-114x114.png',
     },
     {
         name: 'Awesome for Beginners',
-        categories: [community.hacktoberfest],
+        categories: ['Hacktoberfest'],
         description:
             'A list of awesome beginners-friendly projects. Contribute to MunGell/awesome-for-beginners development by creating an account on GitHub.',
         url: 'https://github.com/mungell/awesome-for-beginners',
@@ -281,7 +278,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Awwwards',
-        categories: [uiDesign.inspiration],
+        categories: ['Design', 'Inspiration', 'UI'],
         description:
             'Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.',
         keywords: ['Website Awards', 'Web Design Inspiration', 'Webdesign Trends'],
@@ -290,22 +287,15 @@ export const resources: Resource[] = [
     },
     {
         name: 'Axiom',
-        categories: [toolsAndUtilities.general],
+        categories: ['Logging', 'Serverless'],
         description: 'Serverless log management solution.',
         url: 'https://axiom.co/',
         icon: 'https://axiom.co/favicon.ico',
         keywords: ['logging', 'logs'],
     },
     {
-        name: 'Axorax',
-        description: 'Read articles on programming, design and more.',
-        categories: [community.personalWebsites],
-        url: 'https://axorax.tk/',
-        icon: 'https://axorax.tk/assets/img/Axorax.svg',
-    },
-    {
         name: 'Azure',
-        categories: [infrastructure.hosting],
+        categories: ['Cloud Computing', 'Database', 'Hosting', 'Serverless', 'Storage'],
         description:
             'Invent with purpose, realise cost savings and make your organisation more efficient with Microsoft Azure’s open and flexible cloud computing platform.',
         keywords: ['Azure', 'Windows Azure', 'Cloud Service', 'Cloud Computing Companies'],

@@ -1,19 +1,16 @@
-import { categories } from 'const'
 import { Resource } from 'types'
-
-const { toolsAndUtilities, uiDesign, assets, programming, indieHacking } = categories
 
 export const resources: Resource[] = [
     {
         name: 'Octotree',
-        categories: [toolsAndUtilities.browsersAndExtensions],
+        categories: ['Browser', 'Extension'],
         description: 'GitHub on steroids.',
         url: 'https://www.octotree.io/',
         icon: 'https://www.octotree.io/favicon-32x32.png',
     },
     {
         name: 'Offen',
-        categories: [toolsAndUtilities.analytics],
+        categories: ['Analytics'],
         description:
             'Offen is an open alternative to common web analytics tools. Gain insights while your users have full access to their data. Lightweight, self hosted and free.',
         url: 'https://www.offen.dev/',
@@ -21,7 +18,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'One Page Love',
-        categories: [uiDesign.inspiration],
+        categories: ['Design', 'Inspiration', 'UI'],
         description:
             'One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.',
         url: 'https://onepagelove.com/',
@@ -29,7 +26,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'OnlineWebFonts',
-        categories: [assets.icons, assets.fonts],
+        categories: ['Icon', 'Font'],
         description: 'Fonts and icons for your next project.',
         keywords: [
             'SVG icon',
@@ -50,7 +47,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Onsen UI',
-        categories: [programming.uiKitsAndLibraries],
+        categories: ['Programming'],
         description:
             'Make beautiful hybrid mobile apps using HTML5, CSS and JavaScript. Works with or without any framework including Angular, Meteor, React and Vue. iOS and Android.',
         url: 'https://onsen.io/',
@@ -58,14 +55,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Open Doodles',
-        categories: [assets.illustrations],
+        categories: ['Illustration'],
         description: 'A library of sketchy illustrations of people free for personal and commercial use.',
         url: 'https://www.opendoodles.com/',
         icon: 'https://assets.website-files.com/5d5d5904f8a21bfe5ff69367/5da4e9a454896ed80730e86b_icon-256w.png',
     },
     {
         name: 'Open Peeps',
-        categories: [assets.illustrations],
+        categories: ['Illustration'],
         description:
             'Open Peeps is a hand-drawn illustration library to create scenes of people. You can use them in product illustration, marketing, comics, product states, user flows, personas, storyboarding, quinceañera invitations, or whatever you want! ⠀.',
         url: 'https://www.openpeeps.com/',
@@ -73,28 +70,28 @@ export const resources: Resource[] = [
     },
     {
         name: 'Open Vim',
-        categories: [toolsAndUtilities.typing],
+        categories: ['Typing'],
         description: 'An interactive Vim tutorial.',
         url: 'https://openvim.com/',
         icon: 'https://openvim.com/icon.png',
     },
     {
         name: 'OpenChakra',
-        categories: [programming.uiKitsAndLibraries],
+        categories: ['Prototyping', 'UI'],
         description: 'React JSX visual editor for Chakra UI.',
         url: 'https://openchakra.app/',
         icon: 'https://openchakra.app/favicon.ico',
     },
     {
         name: 'Opensource.Builders',
-        categories: [toolsAndUtilities.general],
+        categories: ['Open Source'],
         description: 'Find open-source alternatives to popular software.',
         url: 'https://opensource.builders/',
         icon: 'https://opensource.builders/icons/icon-96x96.png?v=e7a352862c009ec6682391b2e58d6469',
     },
     {
         name: 'Opera',
-        categories: [toolsAndUtilities.browsersAndExtensions],
+        categories: ['Browser'],
         description:
             "Get a faster, better browser. Opera's free VPN, Ad Blocker, integrated messengers and private mode help you browse securely and smoothly. Share files instantly between your desktop and mobile browsers and experience web 3.0 with a free cryptowallet.",
         url: 'https://www.opera.com/',
@@ -102,15 +99,8 @@ export const resources: Resource[] = [
             'https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/favicon/favicon-32x32.d80e4bdc6a9f.png',
     },
     {
-        name: 'Orapa - Sales Templates',
-        categories: [indieHacking.marketing],
-        description: 'Categorized by industry, job title and department. So you can reach you dream customers faster.',
-        url: 'https://www.orapa.co/data',
-        icon: 'https://uploads-ssl.webflow.com/5fe0663168984aa818b74ba5/5fe368f5753d1170023baf41_icon.png',
-    },
-    {
         name: 'Orbit',
-        categories: [indieHacking.utilities],
+        categories: ['Marketing'],
         description:
             'Orbit is the community experience platform for developers, helping organizations build enthusiastic communities of technology adopters.',
         url: 'https://orbit.love/',
@@ -118,7 +108,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Orion',
-        categories: [assets.icons],
+        categories: ['Icon'],
         description:
             'The best Icon Tool. 8613 Free SVG & PNG Icons. Search, organize, edit and download our highly flexible Icons.',
         url: 'https://orioniconlibrary.com/',
@@ -126,7 +116,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Optimizeimages',
-        categories: [toolsAndUtilities.general],
+        categories: ['Editor', 'Image'],
         description:
             'Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.',
         url: 'https://www.optimizeimages.com',

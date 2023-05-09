@@ -1,28 +1,74 @@
-import { categories } from 'const'
-
-type Primitives = string | number | symbol
-
-type Elem = string
-
-type Acc = Record<string, any>
-
-type Predicate<Accumulator extends Acc, El extends Elem> = El extends keyof Accumulator ? Accumulator[El] : Accumulator
-
-type Reducer<Keys extends Elem, Accumulator extends Acc = {}> = Keys extends `${infer Prop}.${infer Rest}`
-    ? Reducer<Rest, Predicate<Accumulator, Prop>>
-    : Keys extends `${infer Last}`
-    ? Predicate<Accumulator, Last>
-    : never
-
-type KeysUnion<T, Cache extends string = ''> = T extends Primitives
-    ? Cache
-    : {
-          [P in keyof T]: P extends string
-              ? Cache extends ''
-                  ? KeysUnion<T[P], `${P}`>
-                  : Cache | KeysUnion<T[P], `${Cache}.${P}`>
-              : never
-      }[keyof T]
-
-export type CategoryKeys = KeysUnion<typeof categories>
-export type CategoryValues = Reducer<CategoryKeys, typeof categories>
+export type Category =
+    | 'Accessibility'
+    | 'AI'
+    | 'Analytics'
+    | 'Animation'
+    | 'API Building'
+    | 'Audio'
+    | 'Authentication'
+    | 'Blockchain'
+    | 'Blog'
+    | 'Book'
+    | 'Browser'
+    | 'CDN'
+    | 'Cheatsheet'
+    | 'Cloud Computing'
+    | 'Code Challenge'
+    | 'Code Generator'
+    | 'Code Snippet'
+    | 'Color'
+    | 'Database'
+    | 'Design'
+    | 'Documentation'
+    | 'Domain'
+    | 'Editor'
+    | 'Email'
+    | 'Extension'
+    | 'Font'
+    | 'Forum'
+    | 'Freelance'
+    | 'Hacktoberfest'
+    | 'Hosting'
+    | 'Icon'
+    | 'Illustration'
+    | 'Image'
+    | 'Indie'
+    | 'Inspiration'
+    | 'Interview'
+    | 'Job'
+    | 'Learn'
+    | 'Legal'
+    | 'Logging'
+    | 'Logo'
+    | 'Library'
+    | 'Marketing'
+    | 'Newsletter'
+    | 'Open Source'
+    | 'Performance'
+    | 'Personal Website'
+    | 'Podcast'
+    | 'Productivity'
+    | 'Programming'
+    | 'Prototyping'
+    | 'Remote'
+    | 'Resume'
+    | 'Scraping'
+    | 'Screenshot'
+    | 'Security'
+    | 'SEO'
+    | 'Serverless'
+    | 'Storage'
+    | 'Startup'
+    | 'Template'
+    | 'Terminal'
+    | 'Testing'
+    | 'Tooling'
+    | 'Twitter'
+    | 'Typing'
+    | 'UI'
+    | 'UX'
+    | 'Video'
+    | 'Web3'
+    | 'Website Builder'
+    | 'Writing'
+    | 'YouTube Channel'

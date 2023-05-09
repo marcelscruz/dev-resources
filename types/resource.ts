@@ -1,8 +1,8 @@
-import { CategoryValues } from 'types'
+import { Category } from 'types'
 
 export type Resource = {
     name: string
-    categories: Array<CategoryValues>
+    categories: Array<Category>
     description: string
     url: string
     icon?: string

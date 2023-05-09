@@ -1,12 +1,9 @@
-import { categories } from 'const'
 import { Resource } from 'types'
-
-const { programming, toolsAndUtilities, community, infrastructure } = categories
 
 export const resources: Resource[] = [
     {
         name: 'Kent C. Dodds',
-        categories: [programming.youtubeChannels],
+        categories: ['Programming', 'YouTube Channel'],
         description: "Hi, I'm Kent C. Dodds. I help people make the world better through quality software.",
         keywords: ['JavaScript Programming'],
         url: 'https://www.youtube.com/user/kentdoddsfamily',
@@ -14,7 +11,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Kevin Powell',
-        categories: [programming.youtubeChannels, community.personalWebsites],
+        categories: ['Programming', 'YouTube Channel', 'Personal Website'],
         description:
             "Helping you learn how to make the web, and make it look good while you're at it. With videos every Tuesday and Thursday, I'll be bringing you How Tos and Tutorials, as well as simple tips and tricks, with a big focus on helping people see how wonderful CSS is!",
         url: 'https://www.kevinpowell.co/',
@@ -22,14 +19,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Keybr',
-        categories: [toolsAndUtilities.typing],
+        categories: ['Typing'],
         description: 'Teaching the world to type at the speed of thought! Typing lessons that work.',
         url: 'https://www.keybr.com/',
         icon: 'https://www.keybr.com/assets/934c99d37fc250c3.png',
     },
     {
         name: 'keyframers',
-        categories: [programming.youtubeChannels],
+        categories: ['Programming', 'YouTube Channel'],
         description:
             'An animated, collaborative coding live stream by David Khourshid (@davidkpiano) & Stephen Shaw (@shshaw). We bring imaginative user interfaces to life every Monday @ 17:00 EST/21:00 GMT at https://twitch.tv/keyframers Support us at https://patreon.com/keyframers Find developer shirts, stickers & more at https://keyframe.rs/merch https://keyframe.rs.',
         keywords: ['code "live stream" css html javascript animation'],
@@ -38,7 +35,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Khan Academy',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description:
             'Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere.',
         url: 'https://www.khanacademy.org/',
@@ -46,7 +43,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Kindmetrics',
-        categories: [toolsAndUtilities.analytics],
+        categories: ['Analytics'],
         description:
             'Kindmetrics is a strictly privacy-focused website analytics tool to help you find referrers and measure good content quickly. A more excellent way to dig into your visitors without the visitors giving their data to big enterprises.',
         url: 'https://kindmetrics.io/',
@@ -56,14 +53,14 @@ export const resources: Resource[] = [
         name: 'Kinsta',
         description:
             'Kinsta is a Cloud Platform designed to help your company and dev teams ship web projects faster and more efficiently. You can host your apps, databases, and sites all in one place. Easily connect with GitHub and automate deployments and get 24/7 support for all your favorite languages and frameworks.',
-        categories: [infrastructure.hosting, infrastructure.cloudComputing, infrastructure.databases],
+        categories: ['Hosting', 'Cloud Computing', 'Database'],
         url: 'https://kinsta.com',
         icon: 'https://avatars.githubusercontent.com/u/4136982?s=200&v=4',
         keywords: ['hosting', 'cloud', 'javascript', 'php'],
     },
     {
         name: 'Kite',
-        categories: [toolsAndUtilities.editorsAndExtensions],
+        categories: ['Editor', 'Extension'],
         description:
             'Code faster with Kite’s AI-powered autocomplete plugin for over 16 programming languages and 16 IDEs, featuring Multi-Line Completions. Works 100% locally.',
         url: 'https://www.kite.com/',
@@ -71,7 +68,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Kometa UI Kit',
-        categories: [programming.uiKitsAndLibraries],
+        categories: ['Library', 'UI'],
         description:
             'A marketplace of fully responsive, multi-purpose UI kits, built with Tailwind CSS, for start-ups and products of any kind.',
         url: 'https://kitwind.io/products/kometa',

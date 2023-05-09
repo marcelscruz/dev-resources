@@ -1,22 +1,9 @@
-import { categories } from 'const'
 import { Resource } from 'types'
-
-const {
-    toolsAndUtilities,
-    uiDesign,
-    programming,
-    jobs,
-    assets,
-    indieHacking,
-    infrastructure,
-    community,
-    ai,
-} = categories
 
 export const resources: Resource[] = [
     {
         name: 'PageSpeed Insights',
-        categories: [toolsAndUtilities.performance],
+        categories: ['Performance'],
         description:
             'PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster.',
         url: 'https://developers.google.com/speed/pagespeed/insights/',
@@ -24,7 +11,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Palette List',
-        categories: [uiDesign.color],
+        categories: ['Color'],
         description: 'Palette List is a dynamic palette generator.',
         keywords: ['palette', 'colors', 'designer tools', 'developer tools', 'hex', 'rgb'],
         url: 'https://www.palettelist.com/',
@@ -32,7 +19,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Patterninja',
-        categories: [assets.illustrations],
+        categories: ['Illustration'],
         description:
             'Combine images from our free library or use your own. Produced patterns can be downloaded in high resolution and used for printing and the web.',
         url: 'https://patterninja.com/',
@@ -40,7 +27,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Patterns.dev',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description:
             'Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.',
         url: 'https://www.patterns.dev/',
@@ -49,7 +36,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Paw',
-        categories: [toolsAndUtilities.apiBuilding],
+        categories: ['API Building'],
         description:
             'Paw is a full-featured HTTP client that lets you test and describe the APIs you build or consume. It has a beautiful native macOS interface to compose requests, inspect server responses, generate client code and export API definitions.',
         url: 'https://paw.cloud/',
@@ -57,7 +44,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'pCloudy',
-        categories: [programming.testing],
+        categories: ['Testing'],
         description:
             'Continuous testing platform that helps to speed up the app testing by enabling end to end continuous testing for enterprises.',
         url: 'https://www.pcloudy.com/',
@@ -65,7 +52,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'PeoplePerHour',
-        categories: [jobs.freelancing],
+        categories: ['Freelance'],
         description:
             'Get any project done on PeoplePerHour - the #1 freelancing community. Post a project for free to find professional freelancers and find freelance jobs in minutes!',
         url: 'https://www.peopleperhour.com/',
@@ -73,7 +60,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Pexels',
-        categories: [assets.videos, assets.images],
+        categories: ['Video', 'Image'],
         description: "Finding the perfect photo or video shouldn't take forever.",
         keywords: ['free stock videos', 'pexels', 'videos', 'design resource', 'footage', 'hd'],
         url: 'https://www.pexels.com/',
@@ -82,7 +69,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'PhpStorm',
-        categories: [toolsAndUtilities.editorsAndExtensions],
+        categories: ['Editor', 'Programming'],
         description:
             'PhpStorm is a perfect PHP IDE for working with Symfony, Laravel, Drupal, WordPress, Laminas, Magento, Joomla!, CakePHP, Yii, and other frameworks.',
         url: 'https://www.jetbrains.com/phpstorm/',
@@ -90,14 +77,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Pingdom',
-        categories: [toolsAndUtilities.performance],
+        categories: ['Performance'],
         description: 'Full Page Test Analysis.',
         url: 'https://tools.pingdom.com/',
         icon: 'https://tools.pingdom.com/favicon.ico',
     },
     {
         name: 'Pixabay',
-        categories: [assets.videos, assets.images, assets.illustrations],
+        categories: ['Video', 'Image', 'Illustration'],
         description:
             'Pixabay.com is a website for sharing photos, illustrations, vector graphics, film footage and music.',
         url: 'https://pixabay.com/',
@@ -105,7 +92,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Pixel Love',
-        categories: [assets.icons],
+        categories: ['Icon'],
         description: 'Download 15,000 icons in 6 distictive styles made for professionals.',
         keywords: ['icons', 'line icons', 'vector icons', 'iOS icons', 'Android icons'],
         url: 'https://www.pixellove.com/',
@@ -113,7 +100,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Plausible',
-        categories: [toolsAndUtilities.analytics],
+        categories: ['Analytics'],
         description:
             'Plausible is a lightweight and open-source web analytics tool. Your website data is 100% yours and the privacy of your visitors is respected.',
         url: 'https://plausible.io/',
@@ -121,14 +108,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Plottable',
-        categories: [programming.charts],
+        categories: ['Library', 'Programming'],
         description: 'Flexible, interactive, performant charts for the web made easy.',
         url: 'http://plottablejs.org/',
         icon: 'http://plottablejs.org/favicon.ico',
     },
     {
         name: 'Pluralsight',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description:
             'Build your IT toolkit with the skills you need to excel in your job, including security best practices, server infrastructure and virtualization. Explore our IT courses now.',
         url: 'https://www.pluralsight.com/',
@@ -136,7 +123,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Polypane',
-        categories: [toolsAndUtilities.browsersAndExtensions],
+        categories: ['Browser', 'Testing'],
         description:
             'A browser for web developers and designers with all the tools you need to build responsive, accessible and fast sites five times faster.',
         url: 'https://polypane.app/',
@@ -144,7 +131,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'PostgreSQL',
-        categories: [infrastructure.databases],
+        categories: ['Database'],
         description:
             'PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.',
         url: 'https://www.postgresql.org/',
@@ -152,7 +139,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Postman',
-        categories: [toolsAndUtilities.apiBuilding],
+        categories: ['API Building'],
         description:
             'Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.',
         url: 'https://www.postman.com/',
@@ -161,7 +148,7 @@ export const resources: Resource[] = [
     {
         name: 'PoweredbyAI',
         description: 'A directory with 100+ AI tools to help you with your daily tasks',
-        categories: [ai.utilities],
+        categories: ['AI'],
         url: 'https://poweredbyai.app',
         icon:
             'https://firebasestorage.googleapis.com/v0/b/projectai-prod.appspot.com/o/project%2Flogo%2Ffavicon.ico?alt=media&token=4607d58a-503c-49f1-8181-decf24ce29af',
@@ -169,14 +156,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Prime',
-        categories: [programming.uiKitsAndLibraries],
+        categories: ['UI'],
         description: 'Ultimate UI Framework.',
         url: 'https://www.primefaces.org/',
         icon: 'https://www.primefaces.org/wp-content/uploads/fbrfg/favicon-32x32.png',
     },
     {
         name: 'Privacyboard',
-        categories: [toolsAndUtilities.general],
+        categories: ['Legal'],
         description:
             "Privacyboard helps you comply with GDPR in minutes so you can focus on what's really important for your business.",
         url: 'https://www.privacyboard.co',
@@ -185,7 +172,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Product Hunt',
-        categories: [indieHacking.platforms],
+        categories: ['Indie', 'Marketing', 'Startup'],
         description:
             "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
         url: 'https://www.producthunt.com/',
@@ -193,7 +180,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Programiz',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description:
             'Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references.',
         url: 'https://www.programiz.com/',
@@ -201,7 +188,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Programming podcast',
-        categories: [programming.podcasts],
+        categories: ['Podcast', 'Programming'],
         description:
             'The "Programming" podcast with Minko Gechev is a weekly show that aims to make us better software engineers! With each new episode, you\'ll get exposed to a new idea in a brief and accessible way',
         url: 'https://podcast.mgechev.com/',
@@ -209,7 +196,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Project Euler',
-        categories: [programming.codeChallenges],
+        categories: ['Code Challenge'],
         description: 'A website dedicated to the fascinating world of mathematics and programming.',
         keywords: ['programming', 'mathematics', 'problems', 'puzzles'],
         url: 'https://projecteuler.net/',
@@ -217,7 +204,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'ProjectLearn',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description:
             'A project-based learning approach in web development, mobile development, game development, machine learning and artificial intelligence. Learn code the right way!',
         keywords: [
@@ -237,7 +224,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Proxies API',
-        categories: [toolsAndUtilities.webScraping],
+        categories: ['Scraping'],
         description:
             'Want to send custom headers? Want to run sticky sessions with a single IP? Want to scrape AJAX based content? We have you covered. You can customise almost all this in a single line of code, no matter the language you are using or the setup. Proxies API was created for developers by developers with the goal of making it dead easy to get started with zero coding overhead.',
         url: 'www.proxiesapi.com',
@@ -245,7 +232,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Pttrns',
-        categories: [uiDesign.inspiration],
+        categories: ['Design', 'Inspiration', 'UI'],
         description: 'Check out the finest collection of design patterns, resources, mobile apps and inspiration.',
         keywords: [
             'apps',
@@ -282,7 +269,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Pull Request Roulette',
-        categories: [community.hacktoberfest],
+        categories: ['Hacktoberfest', 'Open Source'],
         description:
             'Web app to match up developers, with public pull requests (PRs) on Github, with people willing to comment on their PRs.',
         url: 'http://www.pullrequestroulette.com/',
@@ -291,7 +278,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Puppeteer',
-        categories: [programming.testing],
+        categories: ['Testing'],
         description:
             'Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.',
         url: 'https://pptr.dev/',
@@ -299,7 +286,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Pxfuel',
-        categories: [assets.images],
+        categories: ['Image'],
         description:
             'Millions of public domain stock photos released under creative common zero lincense, all are free for commercial use.',
         keywords: [
@@ -322,7 +309,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'PyCharm',
-        categories: [toolsAndUtilities.editorsAndExtensions],
+        categories: ['Editor', 'Programming'],
         description:
             'The Python & Django IDE with intelligent code completion, on-the-fly error checking, quick-fixes, and much more...',
         url: 'https://www.jetbrains.com/pycharm/',
@@ -330,7 +317,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Python Developer Jobs',
-        categories: [jobs.boards],
+        categories: ['Job'],
         description:
             'Find specific Python Developer Jobs, including Remote Jobs. You are looking for Python Developers? Submit your position for free.',
         url: 'https://pythonjob.xyz/',

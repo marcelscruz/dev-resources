@@ -1,23 +1,9 @@
-import { categories } from 'const'
 import { Resource } from 'types'
-
-const {
-    ai,
-    programming,
-    toolsAndUtilities,
-    uiDesign,
-    indieHacking,
-    jobs,
-    assets,
-    community,
-    infrastructure,
-    web3,
-} = categories
 
 export const resources: Resource[] = [
     {
         name: 'Ladybug',
-        categories: [programming.podcasts],
+        categories: ['Podcast', 'Programming'],
         description: 'We’re debugging the tech industry. Every Monday.',
         url: 'https://www.ladybug.dev/',
         icon:
@@ -25,7 +11,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'LambdaTest',
-        categories: [toolsAndUtilities.browsersAndExtensions],
+        categories: ['Browser', 'Testing'],
         description:
             'Perform manual or automated cross browser testing on 2000+ browsers online. Deploy and scale faster with the most powerful cross browser testing tool online.',
         keywords: [
@@ -42,7 +28,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Land-book',
-        categories: [uiDesign.inspiration],
+        categories: ['Design', 'Inspiration', 'UI'],
         description:
             'Design gallery with the best and most carefully collected websites. We help creatives find inspiration & motivation to do rad stuff.',
         url: 'https://land-book.com/',
@@ -50,7 +36,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Landingexam',
-        categories: [uiDesign.inspiration],
+        categories: ['Design', 'Inspiration', 'UI'],
         description:
             'Landing page examples to inspire your promo web page projects. Product, app, webinar and more categories to choose from.',
         url: 'https://landingexam.com',
@@ -59,7 +45,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Landing Page Hot Tips',
-        categories: [indieHacking.books],
+        categories: ['Book', 'Marketing', 'UX'],
         description:
             'The Landing Page Hot Tips Ebook features 100 digestible lessons to implement into your Landing Pages. Each tip features a few paragraphs, visual references and related resources. Additional features include: PDF Ebook (180-pages), Rich Media Ebook (adapts to any device), Category filter (eg. UX tips), Component filter (eg. Testimonials), Audiobook (54mins) and interactive launch checklists.',
         url: 'https://gumroad.com/a/124908659',
@@ -67,7 +53,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Lapa Ninja',
-        categories: [uiDesign.inspiration],
+        categories: ['Design', 'Inspiration', 'UI'],
         description:
             'The best landing page design inspiration from around the web. Lapa Ninja is created to help designers find inspiration, learn and improve design skills. The contents are selected from the best designs, and daily updated.',
         keywords: [
@@ -85,14 +71,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Larajobs',
-        categories: [jobs.boards],
+        categories: ['Job'],
         description: 'Since 2014, the #1 Laravel job board connecting the best jobs with top talent.',
         url: 'https://larajobs.com/',
         icon: 'https://larajobs.com/favicon-32x32.png',
     },
     {
         name: 'Layoutit Grid',
-        categories: [programming.codeGenerators],
+        categories: ['Code Generator'],
         description:
             'Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.',
         url: 'https://grid.layoutit.com/',
@@ -100,7 +86,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'LearnWeb3',
-        categories: [web3.utilities],
+        categories: ['Learn', 'Web3'],
         description: 'LearnWeb3 is the best place to turn you into a web3 developer for completely free.',
         url: 'https://learnweb3.io/',
         icon: 'https://learnweb3.io/favicon.ico',
@@ -108,14 +94,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Learn CSS',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description: 'An evergreen CSS course and reference to level up your web styling expertise.',
         url: 'https://web.dev/learn/css/',
         icon: 'https://web.dev/images/favicon-32x32.png',
     },
     {
         name: 'Learn Enough to Be Dangerous',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description:
             'Learn Enough to Be Dangerous is designed to unleash your technical genius by teaching you technical sophistication.',
         url: 'https://www.learnenough.com/',
@@ -125,14 +111,14 @@ export const resources: Resource[] = [
         name: 'Learn JavaScript',
         description:
             'Learn JavaScript in an interactive environment. Read short lessons, take notes, and complete challenges directly in your browser.',
-        categories: [programming.learn, programming.codeChallenges],
+        categories: ['Learn', 'Programming', 'Code Challenge'],
         url: 'https://learnjavascript.online',
         icon: 'https://learnjavascript.online/assets/favicons/favicon-32x32.png',
         keywords: ['learn javascript', 'learn javascript online', 'interactive course'],
     },
     {
         name: 'Learn Programmatic SEO',
-        categories: [toolsAndUtilities.seo],
+        categories: ['SEO'],
         description:
             'Learn Programmatic SEO, a methodical approach to finding keywords, understanding user intent and creating hundreds of landing pages. No prior SEO knowledge required.',
         url: 'https://www.preetamnath.com/programmatic-seo',
@@ -140,7 +126,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Learn UI Design',
-        categories: [uiDesign.learn],
+        categories: ['Design', 'Learn', 'UI'],
         description:
             'Learn UI Design is a full-length online course on user interface and web design: color, typography, layout, design process, and more. Includes downloadable resources, homework, and a student community.',
         url: 'https://learnui.design/',
@@ -148,7 +134,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Learn UX Design',
-        categories: [uiDesign.learn],
+        categories: ['Design', 'Learn', 'UX'],
         description:
             'Learn UX Design is a full-length online video course on user experience design covering interaction design, user research, usability testing, and more. Includes downloadable resources, homework, and a student community.',
         url: 'https://learnui.design/courses/learn-ux-design.html',
@@ -156,14 +142,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Learn X in Y minutes',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description: 'Take a whirlwind tour of your next favorite language. Community-driven!',
         url: 'https://learnxinyminutes.com/',
         icon: 'https://learnxinyminutes.com/favicon.ico',
     },
     {
         name: 'LearnCode.academy',
-        categories: [programming.youtubeChannels],
+        categories: ['Programming', 'YouTube Channel'],
         description:
             '100% FREE Web Development tutorials, web site design tutorials and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev Ops, Server Administration, Deployment Strategies.',
         keywords: ['"web development" "web design" tutorials web development tutorial learn html css javascript'],
@@ -172,7 +158,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'LeetCode',
-        categories: [programming.codeChallenges],
+        categories: ['Code Challenge'],
         description:
             'Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview.',
         url: 'https://leetcode.com/',
@@ -180,7 +166,7 @@ export const resources: Resource[] = [
     },
     {
         name: "Let's Enhance",
-        categories: [toolsAndUtilities.imageAndVideoEditing],
+        categories: ['Editor', 'Image'],
         description:
             'Simple machine learning software to enlarge images with no quality loss, enhance colors and photo resolution, automatically retouch product photos. Free trial.',
         url: 'https://letsenhance.io/',
@@ -188,7 +174,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'LevelUpTuts',
-        categories: [programming.youtubeChannels],
+        categories: ['Programming', 'YouTube Channel'],
         description:
             'TLDR; 840+ free video tutorials created, recorded, edited, published and maintained by Scott Tolinski. The Story: Level Up Tutorials was created in March of 2012 by Scott Tolinski & Ben Schaaf while working together at Q LTD in Ann Arbor, MI. In February of 2012, Scott suffered a concussion after an injury while breakdancing. Stuck inside and unable to be active, Scott & Ben plotted to try and ease the pain of poor or outdated documentation and training on web projects. Although Ben enjoyed creating tutorials, due to time constraints he was unable to continue and Scott took on the project by himself. The Philosophy: Building websites is frustrating, or at least it can be. Level Up Tutorials sets how to help fix a major problem in learning technologies. The lack of in-depth, basic tutorials that teach more than just what to type when. Videos created for Level Up Tutorials are aimed to be accessible and easy to follow while maintaining high production values.',
         keywords: [
@@ -199,14 +185,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Lexica',
-        categories: [ai.images],
+        categories: ['AI', 'Image'],
         description: 'The Stable Diffusion search engine.',
         url: 'https://lexica.art/',
         icon: 'https://lexica.art/favicon.ico',
     },
     {
         name: 'Librestock',
-        categories: [assets.images],
+        categories: ['Image'],
         description:
             'We scan and index the best free photos from the top stock sites. All photos are free for personal and commercial. No attribution required. CC0.',
         url: 'https://librestock.com/',
@@ -214,7 +200,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Lightest',
-        categories: [toolsAndUtilities.performance],
+        categories: ['Performance'],
         description: 'Web performance visualization and comparison tool. Analyze website loading against competitors.',
         url: 'https://lightest.app',
         icon: 'https://lightest.app/spotlight.svg',
@@ -229,14 +215,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Like I Am Five',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description: 'Learn to code through real-life projects in less than 4 hours.',
         url: 'https://www.likeiamfive.com/',
         icon: 'https://uploads-ssl.webflow.com/5f663366aa4dbb5f5ba60eb6/600f0002c4e610106b7a2dc8_Favicon.png',
     },
     {
         name: 'Line Icon Pack',
-        categories: [assets.icons],
+        categories: ['Icon'],
         description:
             '320+ Line Icon Pack - Custom stroke edition is an icon-based system for your design tool. This is the version with editable strokes to fits more complex your needs.',
         url: 'https://www.petrbilek.com/products/line-icon-pack',
@@ -244,7 +230,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'LineIcons',
-        categories: [assets.icons],
+        categories: ['Icon'],
         description:
             '2000+ Essential Line Icons, A Complete Yet Most Simplified Free Line Icon Pack of the Web - Available in WebFont, SVG, PNG, React, PNG, and PDF Files.',
         url: 'https://lineicons.com/',
@@ -252,7 +238,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'LinkedIn Learning',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description:
             'Learn business, creative, and technology skills to achieve your personal and professional goals. Join LinkedIn Learning today to get access to thousands of courses.',
         url: 'https://www.linkedin.com/learning',
@@ -260,7 +246,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Linode',
-        categories: [infrastructure.cloudComputing],
+        categories: ['Cloud Computing'],
         description:
             "Simplify your infrastructure with Linode's cloud computing and hosting solutions and develop, deploy, and scale faster and easier.",
         url: 'https://www.linode.com/',
@@ -268,14 +254,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Lobsters',
-        categories: [community.blogsAndForums],
+        categories: ['Forum'],
         description: 'Lobsters is a computing-focused community centered around link aggregation and discussion.',
         url: 'https://lobste.rs/',
         icon: 'https://lobste.rs/apple-touch-icon-144.png',
     },
     {
         name: 'Logology',
-        categories: [assets.logos],
+        categories: ['Logo'],
         description:
             'No random generation and no symbols from a free database. Everything was crafted from the ground-up!',
         url: 'https://www.logology.co/',
@@ -283,7 +269,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'LogoTaco',
-        categories: [assets.logos],
+        categories: ['Logo'],
         description:
             "Create or make your own logo design from our resource of free downloads and templates for businesses, companies, MVP's and startups. No online login required.",
         url: 'https://www.logotaco.com/',
@@ -292,7 +278,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'LogRocket',
-        categories: [programming.testing],
+        categories: ['Testing'],
         description:
             'LogRocket helps you understand problems affecting your users, so that you can get back to building great software.',
         url: 'https://logrocket.com/',
@@ -300,21 +286,21 @@ export const resources: Resource[] = [
     },
     {
         name: 'Looka',
-        categories: [assets.logos],
+        categories: ['Logo'],
         description: 'Make a logo and build a brand you love with Looka.',
         url: 'https://looka.com',
         icon: 'https://cdn.logojoy.com/wp-content/uploads/20190607113635/cropped-favicon-32x32.png',
     },
     {
         name: 'Lost Type Co-op',
-        categories: [assets.fonts],
+        categories: ['Font'],
         description: 'Lost Type is a collaborative digital type foundry.',
         url: 'http://losttype.com/',
         icon: 'http://losttype.com/favicon.ico',
     },
     {
         name: 'Lukasz Adam',
-        categories: [assets.illustrations],
+        categories: ['Illustration'],
         description:
             'Free Illustrations and Icons for everyone. Use them for anything you like. Free for commercial and personal use.',
         url: 'https://lukaszadam.com/illustrations',

@@ -1,12 +1,9 @@
-import { categories } from 'const'
 import { Resource } from 'types'
-
-const { uiDesign, community, programming, assets, infrastructure, jobs, toolsAndUtilities, indieHacking } = categories
 
 export const resources: Resource[] = [
     {
         name: 'Hack Design',
-        categories: [uiDesign.learn],
+        categories: ['Design', 'Learn'],
         description:
             'An easy to follow design course for people who do amazing things. Receive a design lesson in your inbox each week, hand crafted by a design pro. Learn at your own pace, and apply it to your real life work – no fake projects here.',
         url: 'https://hackdesign.org/',
@@ -14,14 +11,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Hacker News',
-        categories: [community.blogsAndForums],
+        categories: ['Forum'],
         description: 'Hacker News is a social news website focusing on computer science and entrepreneurship.',
         url: 'https://news.ycombinator.com/',
         icon: 'https://news.ycombinator.com/favicon.ico',
     },
     {
         name: 'Hacker Noon',
-        categories: [community.blogsAndForums],
+        categories: ['Blog'],
         description: 'How hackers start their afternoons.',
         keywords: ['blockchain', 'bitcoin', 'tech', 'crypto', 'software-development', 'react', 'vue'],
         url: 'https://hackernoon.com/',
@@ -29,7 +26,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'HackerRank',
-        categories: [programming.codeChallenges],
+        categories: ['Code Challenge'],
         description:
             'HackerRank is the market-leading technical assessment and remote interview solution for hiring developers. Learn how to hire technical talent from anywhere!',
         url: 'https://www.hackerrank.com/',
@@ -37,7 +34,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Hackertab.dev',
-        categories: [community.blogsAndForums],
+        categories: ['Browser', 'Extension', 'Productivity'],
         description:
             'Get all your developer news in one place with Hackertab! Customize your feed and stay up-to-date on the latest tools, events, and more. Perfect for frontend, backend, full-stack, mobile, and data science developers. Try Hackertab now and never miss a beat in your field.',
         url: 'https://hackertab.dev/',
@@ -45,7 +42,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Hackr.io',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description:
             'Google search shows you hundreds of Programming courses/tutorials, but Hackr.io tells you which is the best one. Find the best online courses &amp; tutorials recommended by the Programming community. Pick the most upvoted tutorials as per your learning style: video-based, book, free, paid, for beginners, advanced, etc.',
         url: 'https://hackr.io/',
@@ -53,7 +50,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Hacktoberfest',
-        categories: [community.hacktoberfest],
+        categories: ['Hacktoberfest'],
         description:
             'Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.',
         url: 'https://hacktoberfest.digitalocean.com/',
@@ -61,14 +58,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Hacktoberfest Finder',
-        categories: [community.hacktoberfest],
+        categories: ['Hacktoberfest'],
         description: 'Hacktoberfest Finder helps you find issues that you could help fix.',
         url: 'https://hacktoberfest-finder.netlify.app/',
         icon: 'https://hacktoberfest-finder.netlify.app/img/favicons/apple-touch-icon.png',
     },
     {
         name: 'Hacktoberfest Swag List',
-        categories: [community.hacktoberfest],
+        categories: ['Hacktoberfest'],
         description:
             'There are many companies giving out free swag for Hacktoberfest and this list seeks to find them all!',
         url: 'https://hacktoberfestswaglist.com/',
@@ -76,7 +73,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Happy Hues',
-        categories: [uiDesign.color],
+        categories: ['Color'],
         description:
             'See color palette inspiration on a real example website. As you click on different palettes every color on this site updates to give you context of how that color could be used for your design or illustration projects.',
         url: 'https://www.happyhues.co/',
@@ -85,7 +82,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Hashnode',
-        categories: [community.blogsAndForums],
+        categories: ['Blog'],
         description:
             'Hashnode is a free content creation platform and community that allows you to publish articles on your own domain and helps you stay connected with a growing developer community.',
         url: 'https://hashnode.com/',
@@ -93,13 +90,13 @@ export const resources: Resource[] = [
     },
     {
         name: 'Hatchful',
-        categories: [assets.logos],
+        categories: ['Logo'],
         description: 'Create stunning logos in seconds - no design skills required!',
         url: 'https://hatchful.shopify.com/',
     },
     {
         name: 'Hemingway App',
-        categories: [toolsAndUtilities.writing],
+        categories: ['Writing'],
         description:
             'Hemingway App makes your writing bold and clear. The app highlights lengthy, complex sentences and common errors.',
         url: 'https://hemingwayapp.com/',
@@ -107,21 +104,21 @@ export const resources: Resource[] = [
     },
     {
         name: 'Hero Patterns',
-        categories: [assets.images],
+        categories: ['Illustration'],
         description: 'Zondicons.',
         url: 'http://www.heropatterns.com/',
         icon: 'http://www.heropatterns.com/favicon.ico',
     },
     {
         name: 'Heroicons',
-        categories: [assets.icons],
+        categories: ['Icon'],
         description: 'Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.',
         url: 'https://heroicons.com/',
         icon: 'https://heroicons.com/_next/static/media/favicon-32x32.eee32601ba9d4702f841835990ed3801.png',
     },
     {
         name: 'Heroku',
-        categories: [infrastructure.hosting],
+        categories: ['Hosting'],
         description:
             'Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.',
         url: 'https://www.heroku.com/',
@@ -129,14 +126,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Hey Meta',
-        categories: [toolsAndUtilities.seo],
+        categories: ['SEO'],
         description: 'Check and improve how search engines and social media websites see and display your website.',
         url: 'https://www.heymeta.com/',
         icon: 'https://www.heymeta.com/favicon-32x32.png',
     },
     {
         name: 'High Compress',
-        categories: [assets.images],
+        categories: ['Image'],
         description:
             'HighCompress is an incredibly powerful tool that can compress images upto 95%. Make your website load faster, optimize your images and boost SEO.',
         url: 'https://www.highcompress.com/',
@@ -144,7 +141,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Highcharts',
-        categories: [programming.charts],
+        categories: ['Programming'],
         description: 'Highcharts - Interactive JavaScript charts for your web pages.',
         keywords: [
             'highcharts',
@@ -163,7 +160,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Himalayas',
-        categories: [jobs.boards],
+        categories: ['Job'],
         description:
             'Experience the remote ecosystem - find a remote job you love, research the fastest-growing remote companies, and hire experienced remote workers.',
         keywords: ['himalayas', 'remote', 'jobs', 'developer', 'sales'],
@@ -173,7 +170,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'hire.AR',
-        categories: [jobs.boards],
+        categories: ['Job'],
         description:
             'Search augmented reality jobs, AR Jobs, Virtual Reality Jobs, VR Jobs. Jobs in AR. The best AR jobs for engineers, developers, designers, artists, & more.',
         url: 'https://hire.ar/',
@@ -181,7 +178,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Hired',
-        categories: [jobs.boards],
+        categories: ['Job'],
         description:
             'With Hired your job search has never been easier! Simply create a profile & vetted companies compete for you, reaching out with salary & equity upfront.',
         url: 'https://hired.com/',
@@ -189,14 +186,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Hive Index',
-        categories: [indieHacking.utilities],
+        categories: ['Marketing'],
         description: 'Find online communities, across all platforms, for any topic.',
         url: 'https://thehiveindex.com/',
         icon: 'https://thehiveindex.com/icons/icon-96x96.png',
     },
     {
         name: 'Hloom',
-        categories: [jobs.resumeBuilders],
+        categories: ['Resume'],
         description:
             'We have the largest library of free Microsoft Office and Google Doc resume templates, paired with a professional resume builder and additional writing features.',
         url: 'https://www.hloom.com/',
@@ -204,7 +201,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Hoppscotch',
-        categories: [toolsAndUtilities.apiBuilding],
+        categories: ['API Building'],
         description: 'Helps you create requests faster, saving precious time on development.',
         keywords: [
             'hoppscotch',
@@ -240,14 +237,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Hostman',
-        categories: [infrastructure.hosting],
+        categories: ['Hosting'],
         description: 'Cloud hosting for startups and developers.',
         url: 'https://hostman.com/',
         icon: 'https://hostman.com/favicon.ico',
     },
     {
         name: 'HTMLrev',
-        categories: [programming.templates],
+        categories: ['Template'],
         description:
             'HTML templates specially designed for static websites to save development time and elevate project design.',
         url: 'https://htmlrev.com/',
@@ -256,21 +253,21 @@ export const resources: Resource[] = [
     },
     {
         name: 'HTML Reference',
-        categories: [programming.docsAndCheatsheets],
+        categories: ['Cheatsheet'],
         description: 'A free guide to all HTML elements and attributes.',
         url: 'https://htmlreference.io/',
         icon: 'https://htmlreference.io/favicons/favicon-32x32.png',
     },
     {
         name: 'HTML5 Accessibility',
-        categories: [toolsAndUtilities.accessibility],
+        categories: ['Accessibility'],
         description: 'Get the current accessibility support status of HTML5 features across major browsers',
         url: 'https://www.html5accessibility.com/',
         icon: 'https://www.html5accessibility.com/favicon.ico',
     },
     {
         name: 'HTML5 UP',
-        categories: [programming.templates],
+        categories: ['Template'],
         description:
             'Responsive HTML5 and CSS3 site templates designed by @ajlkn and released under the Creative Commons license.',
         keywords: ['html5', 'css3', 'responsive', 'site template', 'website template'],
@@ -279,7 +276,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'humaaans',
-        categories: [assets.illustrations],
+        categories: ['Illustration'],
         description: 'Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.',
         url: 'https://www.humaaans.com/',
         icon: 'https://assets.website-files.com/5bff8886c3964a992e90d465/5c00a0ce59aa851331d34687_favicon-256.png',

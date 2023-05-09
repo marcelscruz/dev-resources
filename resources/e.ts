@@ -1,21 +1,18 @@
-import { categories } from 'const'
 import { Resource } from 'types'
-
-const { programming, toolsAndUtilities, uiDesign, jobs, assets, indieHacking } = categories
 
 export const resources: Resource[] = [
     {
         name: 'Eagle App',
         description:
             'Unify your creative inspiration in one place. Store anything – inspiring images, design mockups, illustrations, screenshots and more.',
-        categories: [uiDesign.inspiration],
+        categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://en.eagle.cool/',
         icon: 'https://eagle.cool/favicon.ico',
         keywords: ['file manager', 'image browser', 'color filter', 'designer tool', 'design file organization'],
     },
     {
         name: 'EASEOUT',
-        categories: [programming.learn],
+        categories: ['Learn', 'Productivity'],
         description:
             'Coding tutorials about CSS, HTML, JavaScript, and articles about design creativity & modern web development technology.',
         url: 'https://www.easeout.co/',
@@ -23,7 +20,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Eclipse',
-        categories: [toolsAndUtilities.editorsAndExtensions],
+        categories: ['Editor', 'Extension'],
         description:
             'The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 375 open source projects, including runtimes, tools and frameworks.',
         keywords: [
@@ -48,7 +45,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'ecomm.design',
-        categories: [uiDesign.inspiration],
+        categories: ['Design', 'Inspiration', 'UI'],
         description:
             'Browse the most complete and up-to-date gallery for fantastic ecommerce websites design inspiration and the best ecommerce solutions and marketing tools.',
         url: 'https://ecomm.design/',
@@ -56,7 +53,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Edabit',
-        categories: [programming.codeChallenges],
+        categories: ['Code Challenge'],
         description:
             "Learn to code with fun, bite-sized challenges. Gain XP, unlock achievements and level up. It's like Duolingo for learning to code.",
         keywords: ['learn to code', 'learn programming', 'how to code'],
@@ -65,7 +62,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Edge',
-        categories: [toolsAndUtilities.browsersAndExtensions],
+        categories: ['Browser'],
         description:
             "See what's new on the latest version of the Microsoft Edge browser. Explore features, rewards, and more before you download the new browser today.",
         keywords: [
@@ -81,7 +78,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Edge Canary',
-        categories: [toolsAndUtilities.browsersAndExtensions],
+        categories: ['Browser'],
         description:
             'Want to see what we were working on yesterday? Canary will be released automatically almost every night to keep you up to date on our progress.',
         url: 'https://www.microsoftedgeinsider.com/en-us/welcome?channel=canary',
@@ -89,7 +86,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Edge Dev',
-        categories: [toolsAndUtilities.browsersAndExtensions],
+        categories: ['Browser'],
         description:
             'Our dev builds are the best representation of our improvements in the past week. They have been tested by the Microsoft Edge team, and are generally more stable than Canary.',
         url: 'https://www.microsoftedgeinsider.com/en-us/welcome?channel=dev',
@@ -97,7 +94,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Eggradients',
-        categories: [uiDesign.color],
+        categories: ['Color'],
         description:
             'Ready to use gradient background colors. Cool Gradients are prepared according to the latest design trends. And it is served in the form of eggs. With hex and CSS codes.',
         url: 'https://www.eggradients.com/',
@@ -105,7 +102,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Eleventy High Performance Blog',
-        categories: [programming.templates],
+        categories: ['Template'],
         description:
             "I'm excited to announce the beta-release of eleventy-high-performance-blog–a high-performance blog template for 11ty based on this very...",
         url: 'https://www.industrialempathy.com/posts/eleventy-high-performance-blog/',
@@ -113,14 +110,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Eloquent JavaScript',
-        categories: [programming.books],
+        categories: ['Book', 'Programming'],
         description: 'This is a book about JavaScript, programming, and the wonders of the digital.',
         url: 'https://eloquentjavascript.net/',
         icon: 'https://eloquentjavascript.net/favicon.ico',
     },
     {
         name: 'Emacs',
-        categories: [toolsAndUtilities.editorsAndExtensions],
+        categories: ['Editor', 'Terminal'],
         description:
             'Emacs or EMACS is a family of text editors that are characterized by their extensibility. The manual for the most widely used variant, GNU Emacs, describes it as "the extensible, customizable, self-documenting, real-time display editor".',
         url: 'https://www.gnu.org/software/emacs/',
@@ -128,7 +125,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'EMBERWORK',
-        categories: [jobs.boards],
+        categories: ['Job'],
         description:
             "Whether you're actively looking for a new job or just always open to new opportunities you'll always have access to the best Ember.js jobs- here at EMBERWORK.",
         url: 'https://emberwork.com/',
@@ -138,35 +135,35 @@ export const resources: Resource[] = [
         name: 'Encore',
         description:
             'The end-to-end backend development platform that automatically provisions all your cloud infrastructure, based on your business logic.',
-        categories: [toolsAndUtilities.apiBuilding, toolsAndUtilities.general],
+        categories: ['API Building', 'Database'],
         url: 'https://encore.dev',
         icon: 'https://encore.dev/assets/branding/icons/icon-192.png',
         keywords: ['serverless', 'cloud', 'development', 'framework', 'backend'],
     },
     {
         name: 'Enhance UI',
-        categories: [uiDesign.learn],
+        categories: ['Design', 'Learn', 'UI', 'UX'],
         description: 'Learn Design for Developers wanting to know UI, UX and more.',
         url: 'https://www.enhanceui.com/',
         icon: 'https://uploads-ssl.webflow.com/5f718e7b0d482ef36d2c8417/5f79490f65ebcb7fdfdd3826_favicon-256.png',
     },
     {
         name: 'Envato Elements',
-        categories: [assets.images, assets.videos],
+        categories: ['Image', 'Video'],
         description: 'Find stock video footages and photos for your next video project.',
         url: 'https://elements.envato.com/',
         icon: 'https://elements.envato.com/favicon.ico',
     },
     {
         name: 'Epic React',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description: 'Strap in and take your React applications to the next level.',
         url: 'https://epicreact.dev/',
         icon: 'https://epicreact.dev/icons/icon-96x96.png?v=4fc004c2d47bff97350bf9ba653e0bdd',
     },
     {
         name: 'Error 404 Illustrations',
-        categories: [assets.illustrations],
+        categories: ['Illustration'],
         description:
             'Make a unique journey through 404 error pages on your website. Use these illustrations that describe better than words.',
         url: 'https://error404.fun/',
@@ -174,7 +171,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Escrow',
-        categories: [toolsAndUtilities.domains],
+        categories: ['Domain'],
         description:
             'Secure online payment processing from the world’s largest online escrow service since 1999. Trusted by 1M+ users. Priced as low as 0.89%. For transactions $100 to $10M+.',
         url: 'https://www.escrow.com/',
@@ -182,7 +179,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Everyone Hates Marketers',
-        categories: [indieHacking.marketing],
+        categories: ['Marketing'],
         description:
             "It's the antidote to marketing bullshit. Receive a free, 8-lesson video course + a super practical, no-bullshit essay in your inbox every Tuesday.",
         url: 'https://www.everyonehatesmarketers.com/',
@@ -190,7 +187,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Exercism',
-        categories: [programming.codeChallenges],
+        categories: ['Code Challenge'],
         description:
             'Code Practice and Mentorship for Everyone. Level up your programming skills with 1,879 exercises across 38 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.',
         url: 'https://exercism.io/',
@@ -199,7 +196,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'explainshell',
-        categories: [toolsAndUtilities.commandLine],
+        categories: ['Terminal'],
         description: 'Match command-line arguments to their help text.',
         url: 'https://explainshell.com/',
         icon: 'https://explainshell.com/favicon.ico',

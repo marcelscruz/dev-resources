@@ -1,12 +1,9 @@
-import { categories } from 'const'
 import { Resource } from 'types'
-
-const { ai, toolsAndUtilities, uiDesign, programming, assets, indieHacking, infrastructure, web3 } = categories
 
 export const resources: Resource[] = [
     {
         name: 'Backlink Checker',
-        categories: [toolsAndUtilities.seo],
+        categories: ['SEO'],
         description:
             "With the world's biggest index of live backlinks (over 15 trillion), Ahrefs Backlink Checker will show you the most complete backlink profile for any website.",
         url: 'https://ahrefs.com/backlink-checker',
@@ -14,7 +11,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Balsamiq',
-        categories: [uiDesign.prototyping],
+        categories: ['Design', 'Prototyping', 'UI'],
         description:
             'Balsamiq is the company behind Balsamiq Wireframes, the industry standard low-fidelity wireframing tool.',
         url: 'https://balsamiq.com/',
@@ -22,7 +19,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'beampipe',
-        categories: [toolsAndUtilities.analytics],
+        categories: ['Analytics'],
         description:
             'Beampipe is a simple, privacy-focussed alternative to Google Analytics with a free tier for small sites.',
         url: 'https://beampipe.io/',
@@ -30,7 +27,7 @@ export const resources: Resource[] = [
     },
     {
         name: "Beginner's guide to web security",
-        categories: [toolsAndUtilities.general],
+        categories: ['Book', 'Security'],
         description:
             'A 100+ page ebook that talks about the basics of web security, various types of web security attacks and how to avoid/fix them.',
         url: 'https://gokul.site/book/',
@@ -38,7 +35,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Behance',
-        categories: [uiDesign.inspiration],
+        categories: ['UI', 'Inspiration'],
         description: "Behance is the world's largest creative network for showcasing and discovering creative work.",
         keywords: [
             'online portfolio',
@@ -54,7 +51,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Ben Awad',
-        categories: [programming.youtubeChannels],
+        categories: ['Programming', 'YouTube Channel'],
         description:
             "I'm a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding.",
         keywords: ['react graphql typescript'],
@@ -63,15 +60,15 @@ export const resources: Resource[] = [
     },
     {
         name: 'Berry Free React Material Admin Template',
-        categories: [programming.templates],
+        categories: ['Programming', 'Template'],
         description:
-            'Berry is a creative free react admin template build using the Material-UI. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptops.',
+            'Berry is a creative free React admin template build using the Material-UI. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptops.',
         url: 'https://github.com/codedthemes/berry-free-react-admin-template/',
         icon: 'https://github.com/favicon.ico',
     },
     {
         name: 'BetaList',
-        categories: [indieHacking.platforms],
+        categories: ['Indie', 'Marketing'],
         description:
             'BetaList provides an overview of upcoming internet startups. Discover and get early access to the future.',
         url: 'https://betalist.com/',
@@ -80,7 +77,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Better Coding Academy',
-        categories: [programming.youtubeChannels],
+        categories: ['Programming', 'YouTube Channel'],
         description:
             'Learn to code. Get a job. No longwinded lectures, no tantalising tutorials. Fast and efficient, for the impulsive millennial.',
         keywords: ['programming "web development" javascript react node.js'],
@@ -89,7 +86,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Big Heads',
-        categories: [assets.illustrations],
+        categories: ['Illustration'],
         description:
             'Combine expressions, clothing, hair styles and colors into billions of different unique characters.',
         url: 'https://bigheads.io/',
@@ -97,7 +94,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'BigsonDev',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description:
             'HTML, CSS, JS, React - blog articles, knowledge pills, projects with high-quality designs. Get out of tutorials hell and learn Frontend the right way.',
         url: 'https://bigsondev.com/',
@@ -117,7 +114,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Biteable',
-        categories: [assets.videos],
+        categories: ['Editor', 'Video'],
         description:
             'Make standout videos in a snap with the Biteable video maker. Sparkle with studio-quality animation, footage, and effects. Start now, share in minutes.',
         url: 'https://biteable.com/',
@@ -125,7 +122,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Bitfumes',
-        categories: [programming.youtubeChannels],
+        categories: ['Programming', 'YouTube Channel'],
         description:
             'Hey, Friends, I am a web developer and have knowledge of many languages. I made this channel to share my knowledge with you all and want to learn from you also.',
         url: 'https://www.youtube.com/bitfumes',
@@ -133,7 +130,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Black Illustrations',
-        categories: [assets.illustrations],
+        categories: ['Illustration'],
         description:
             'Black illustrations is a series of FREE digital designs of black people for your next online project. Free for commercial and personal use.',
         url: 'https://www.blackillustrations.com/',
@@ -142,7 +139,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Blisk',
-        categories: [toolsAndUtilities.browsersAndExtensions],
+        categories: ['Browser', 'Programming'],
         description:
             'Download Blisk - a browser for web developers. Blisk - is a developer oriented browser with devices, URL and scroll sync, auto-refresh, screenshots and screen recorder.',
         keywords: [
@@ -162,7 +159,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Blush',
-        categories: [assets.illustrations],
+        categories: ['Illustration'],
         description:
             'Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe.',
         url: 'https://blush.design/',
@@ -170,7 +167,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Bootify',
-        categories: [programming.codeGenerators],
+        categories: ['Code Generator'],
         description:
             'Generate Spring Boot prototypes in your browser - with custom database, REST API and best practices applied.',
         url: 'https://bootify.io/',
@@ -178,7 +175,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Bootsnipp',
-        categories: [programming.codeSnippets],
+        categories: ['Code Snippet'],
         description:
             'A design element gallery for web designers and web developers. Find snippets using HTML, CSS, Javascript, jQuery, and Bootstrap.',
         url: 'https://bootsnipp.com/',
@@ -186,7 +183,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Bootstrap',
-        categories: [programming.uiKitsAndLibraries, assets.icons],
+        categories: ['Icon', 'UI', 'Programming'],
         description:
             'Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.',
         url: 'https://getbootstrap.com/',
@@ -194,7 +191,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Bootstrap 5 Cheatsheet',
-        categories: [programming.docsAndCheatsheets],
+        categories: ['Cheatsheet'],
         description:
             'An interactive list of Bootstrap 5 classes, variables, and mixins. It also helps you easily find the differences between Bootstrap 4 and Bootstrap 5.',
         keywords: ['Bootstrap', 'Bootstrap cheatsheet', 'Bootstrap 5', 'Free cheatsheet', 'Opensource'],
@@ -203,7 +200,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'BootstrapMade',
-        categories: [programming.templates],
+        categories: ['Template'],
         description:
             'At BootstrapMade, we create beautiful website templates and bootstrap themes using Bootstrap, the most popular HTML, CSS and JavaScript framework.',
         keywords: [
@@ -220,7 +217,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Bootstrapped',
-        categories: [indieHacking.podcasts],
+        categories: ['Indie', 'Podcast', 'Startup'],
         description:
             'Listen to 100+ helpful podcast episodes for software bootstrappers. Interviews with experts, open discussions between bootstrappers, and solo episodes, with one person digging deeply into a topic.',
         url: 'https://bootstrapped.fm/',
@@ -228,14 +225,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Bootstrapped Web',
-        categories: [indieHacking.podcasts],
+        categories: ['Indie', 'Podcast', 'Startup'],
         description: 'The podcast for founders bootstrapping their startups online.',
         url: 'http://bootstrappedweb.com/',
-        icon: '',
+        icon: 'https://bootstrappedweb.com/assets/images/favicon.png',
     },
     {
         name: 'BootstrapTaste',
-        categories: [programming.templates],
+        categories: ['Template'],
         description:
             '100+ Best Bootstrap templates and HTML Website Templates collections to build your website or app in 2020.',
         keywords: [
@@ -251,7 +248,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Boxicons',
-        categories: [assets.icons],
+        categories: ['Icon'],
         description:
             'Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.',
         keywords: [
@@ -274,7 +271,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Brackets',
-        categories: [toolsAndUtilities.editorsAndExtensions],
+        categories: ['Editor', 'Extension'],
         description:
             "Brackets is a lightweight, yet powerful, modern text editor. We blend visual tools into the editor so you get the right amount of help when you want it. With new features and extensions released every 3-4 weeks, it's like getting presents all year long.",
         url: 'http://brackets.io/',
@@ -282,7 +279,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Brainboard',
-        categories: [infrastructure.cloudComputing],
+        categories: ['Cloud Computing', 'Prototyping'],
         description:
             'Visually Design, Deploy & Manage modern cloud infrastructures starting from any Cloud Provider - AWS, GCP, Azure',
         keywords: ['cloud', 'cloud designer', 'deploy', 'designer', 'terraform', 'visual designer'],
@@ -291,31 +288,22 @@ export const resources: Resource[] = [
     },
     {
         name: 'Brandie',
-        categories: [ai.utilities],
+        categories: ['AI', 'Domain'],
         description: 'An AI-powered branding assistant.',
         url: 'https://brandie.app',
         icon: 'https://brandie.app/favicon/favicon.ico',
-        keywords: [
-            'branding',
-            'domain',
-            'product name',
-            'logo',
-            'typography',
-            'colors',
-            'ai',
-            'artificial intelligence',
-        ],
+        keywords: ['branding', 'domain', 'product name', 'ai', 'artificial intelligence'],
     },
     {
         name: 'Branition Colors',
-        categories: [uiDesign.color],
+        categories: ['Color'],
         description: 'Hand-curated collection of color palettes best fitted for branding.',
         url: 'https://branition.com/colors',
         icon: 'https://branition.com/assets/img/favicon/favicon.ico',
     },
     {
         name: 'Brave',
-        categories: [toolsAndUtilities.browsersAndExtensions],
+        categories: ['Browser'],
         description:
             'The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to enjoy a faster ad-free browsing experience that saves data and battery life by blocking tracking software.',
         url: 'https://brave.com/',
@@ -323,7 +311,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Browserling',
-        categories: [programming.testing],
+        categories: ['Browser', 'Testing'],
         description:
             'Try for free now! Cross browser test your website immediately in all web browsers - Internet Explorer, Edge, Chrome, Safari, Firefox, and Opera.',
         url: 'https://www.browserling.com/',
@@ -331,7 +319,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'BrowserStack',
-        categories: [programming.testing],
+        categories: ['Browser', 'Testing'],
         description:
             'Instant access to 2000+ browsers and real iOS and Android devices for cross browser testing. Ship apps and websites that work for everyone, every time. Get Free Trial.',
         url: 'https://www.browserstack.com/',
@@ -340,7 +328,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'buildspace',
-        categories: [web3.utilities],
+        categories: ['Web3'],
         description: 'Build a project in web3, ML/AI and see how far you can get in a weekend.',
         url: 'https://buildspace.so',
         icon:
@@ -349,7 +337,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Build you SaaS',
-        categories: [indieHacking.podcasts],
+        categories: ['Indie', 'Podcast', 'Startup'],
         description:
             'Can you bootstrap a profitable startup in 2021? Thousands of entrepreneurs, developers, designers, and product people have tried to launch their own web apps. But with so many venture-backed startups now, is it still possible? Follow Jon and Justin as they build their podcasting SaaS, Transistor.fm.',
         url: 'https://saas.transistor.fm/',
@@ -357,7 +345,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Bulma',
-        categories: [programming.uiKitsAndLibraries],
+        categories: ['Programming', 'UI'],
         description:
             "Bulma is a free, open source CSS framework based on Flexbox and built with Sass. It's 100% responsive, fully modular, and available for free.",
         url: 'https://bulma.io/',
@@ -365,14 +353,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'ByPeople',
-        categories: [programming.templates, assets.illustrations, assets.fonts],
+        categories: ['Font', 'Illustration', 'Template'],
         description: 'ByPeople is a curated network of 10k ready-to-download resources for developers.',
         url: 'https://www.bypeople.com/',
         icon: 'https://www.bypeople.com/wp-content/themes/bppl-alpha/assets/images/v2/favicon-32x32.png',
     },
     {
         name: 'Beautiful CSS box-shadow examples',
-        categories: [programming.codeSnippets, uiDesign.utilities, toolsAndUtilities.general],
+        categories: ['Code Snippet', 'Programming', 'UI'],
         description:
             '🎨 Curated collection of 90+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.',
         url: 'https://getcssscan.com/css-box-shadow-examples',
@@ -380,7 +368,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Beautiful CSS buttons examples',
-        categories: [programming.codeSnippets, uiDesign.utilities, toolsAndUtilities.general],
+        categories: ['Code Snippet', 'Programming', 'UI'],
         description:
             '🎨 Curated collection of 80+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.',
         url: 'https://getcssscan.com/css-buttons-examples',

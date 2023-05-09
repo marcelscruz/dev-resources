@@ -1,12 +1,9 @@
-import { categories } from 'const'
 import { Resource } from 'types'
-
-const { indieHacking, programming, jobs, toolsAndUtilities } = categories
 
 export const resources: Resource[] = [
     {
         name: 'Zero To Sold',
-        categories: [indieHacking.books],
+        categories: ['Book', 'Indie', 'Startup'],
         description:
             'Zero to Sold is an actionable guide through all stages of a bootstrapped business: Preparation, Survival, Stability, and Growth. Sold on Amazon and Gumroad.',
         url: 'https://thebootstrappedfounder.com/zero-to-sold/',
@@ -15,7 +12,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Zerotheme',
-        categories: [programming.templates],
+        categories: ['Template'],
         description:
             'Html5 Website Templates designed by #Mik. Free download all templates at Zerotheme : responsive templates, bootstrap themes, ecommerce themes, ...',
         url: 'https://www.zerotheme.com/',
@@ -23,7 +20,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Zety',
-        categories: [jobs.resumeBuilders],
+        categories: ['Resume'],
         description:
             'Use this online resume maker to build your resume fast and easy. Get expert advice as you write. Download in minutes and start getting interviews.',
         url: 'https://zety.com/',
@@ -31,7 +28,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Zyro',
-        categories: [toolsAndUtilities.websiteBuilders],
+        categories: ['Website Builder'],
         description:
             'Create a website or an online store easily with Zyro website builder. Choose from hundreds of designer-made templates. Launch your website in minutes.',
         url: 'https://zyro.com//',

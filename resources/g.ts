@@ -1,22 +1,9 @@
-import { categories } from 'const'
 import { Resource } from 'types'
-
-const {
-    programming,
-    toolsAndUtilities,
-    infrastructure,
-    jobs,
-    assets,
-    uiDesign,
-    indieHacking,
-    community,
-    ai,
-} = categories
 
 export const resources: Resource[] = [
     {
         name: 'Gatsby',
-        categories: [programming.javascript.react],
+        categories: ['Programming'],
         description:
             'Gatsby is a React-based open source framework with performance, scalability and security built-in. Collaborate, build and deploy 1000x faster with Gatsby Cloud.',
         keywords: ['gatsby', 'javascript', 'react', 'graphql', 'fast'],
@@ -25,7 +12,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Get The Audience',
-        categories: [indieHacking.utilities],
+        categories: ['Marketing', 'Twitter'],
         description:
             'Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached.',
         url: 'https://gettheaudience.com/',
@@ -33,14 +20,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'GetTerms.io',
-        categories: [toolsAndUtilities.general],
+        categories: ['Legal'],
         description: 'Generate a simple Terms of Service and Privacy Policy statement for your website.',
         url: 'https://getterms.io/',
         icon: 'https://getterms.io/img/apple-touch-icon-72x72.png',
     },
     {
         name: 'GitHub Pages',
-        categories: [infrastructure.hosting],
+        categories: ['Hosting'],
         description:
             'Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.',
         url: 'https://pages.github.com/',
@@ -48,7 +35,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Git Cheat Sheets',
-        categories: [community.hacktoberfest, programming.docsAndCheatsheets],
+        categories: ['Cheatsheet'],
         description:
             'Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.',
         url: 'https://training.github.com/',
@@ -56,7 +43,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Gcore Basic',
-        categories: [infrastructure.hosting],
+        categories: ['Hosting'],
         description: 'Virtual machines for various tasks: from hosting a cooking blog to making a backup server.',
         url: 'https://gcore.com/cloud/basic-vm',
         icon: 'https://gcore.com/favicon.ico',
@@ -64,7 +51,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Gcore CDN',
-        categories: [infrastructure.cdn],
+        categories: ['CDN'],
         description: 'Make your app fast and responsive for a global audience with Gcore CDN.',
         url: 'https://gcore.com/cdn',
         icon: 'https://gcore.com/favicon.ico',
@@ -72,7 +59,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Gcore Cloud',
-        categories: [infrastructure.cloudComputing],
+        categories: ['Cloud Computing'],
         description: 'Scalable, secure, and reliable hybrid cloud services anywhere in the world.',
         url: 'https://gcore.com/cloud',
         icon: 'https://gcore.com/favicon.ico',
@@ -80,7 +67,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Gcore Function as a service',
-        categories: [infrastructure.serverless],
+        categories: ['Serverless'],
         description: 'Run code as a function without creating and maintaining virtual machines.',
         url: 'https://gcore.com/cloud/faas',
         icon: 'https://gcore.com/favicon.ico',
@@ -88,7 +75,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Gcore Image Stack',
-        categories: [infrastructure.cdn, toolsAndUtilities.imageAndVideoEditing],
+        categories: ['CDN', 'Image'],
         description:
             'An image CDN for convenient transformation, compression, and delivery of website images on the fly.',
         url: 'https://gcore.com/image-stack',
@@ -97,7 +84,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Gcore Speed Test',
-        categories: [toolsAndUtilities.performance, toolsAndUtilities.general],
+        categories: ['Performance'],
         description:
             'Check your Internet speed and the quality of your broadband and mobile connection with our free speed testing tool.',
         url: 'https://speedtest.gcore.com/',
@@ -106,7 +93,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'GoatCounter',
-        categories: [toolsAndUtilities.analytics],
+        categories: ['Analytics'],
         description:
             'GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app.',
         url: 'https://www.goatcounter.com/',
@@ -114,7 +101,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'GoDaddy Website Builder',
-        categories: [toolsAndUtilities.websiteBuilders],
+        categories: ['Website Builder'],
         description:
             'Learn How to Make a Website Quickly and Easily with our Highly Acclaimed Website Builder. Our easy to use Web Design software will let you Create a Website in no time at all!',
         url: 'https://www.godaddy.com/websites/website-builder',
@@ -122,7 +109,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Godly',
-        categories: [uiDesign.inspiration],
+        categories: ['Design', 'Inspiration', 'UI'],
         description:
             'Godly is a curation of the best web design inspiration, every day. Browse the best e-commerce websites, portfolio websites, animation websites and more.',
         url: 'https://godly.website/',
@@ -131,14 +118,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'GoLand',
-        categories: [toolsAndUtilities.editorsAndExtensions],
+        categories: ['Editor', 'Programming'],
         description: 'GoLand is an IDE by JetBrains aimed at providing an ergonomic environment for Go development.',
         url: 'https://www.jetbrains.com/go/',
         icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
         name: 'Golang Developer Jobs',
-        categories: [jobs.boards],
+        categories: ['Job'],
         description:
             'Find specific Golang Developer Jobs, including Remote Jobs. You are looking for Golang Developers? Submit your position for free.',
         url: 'https://golangjob.xyz/',
@@ -146,7 +133,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Google Chrome Developers',
-        categories: [programming.youtubeChannels],
+        categories: ['Programming', 'YouTube Channel'],
         description: 'Making the web more awesome.',
         keywords: ['Google Chrome Developers Web CSS Framweorks'],
         url: 'https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw',
@@ -154,7 +141,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Google Developers',
-        categories: [programming.youtubeChannels],
+        categories: ['Programming', 'YouTube Channel'],
         description:
             'The Google Developers channel features talks from events, educational series, best practices, tips, and the latest updates across our products and platforms.',
         keywords: [
@@ -165,14 +152,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Google Fonts',
-        categories: [assets.fonts],
+        categories: ['Font'],
         description: 'Making the web more beautiful, fast, and open through great typography.',
         url: 'https://fonts.google.com/',
         icon: 'https://www.gstatic.com/images/branding/product/1x/google_fonts_blue_ios_96dp.png',
     },
     {
         name: 'Google Search Console',
-        categories: [toolsAndUtilities.seo],
+        categories: ['SEO'],
         description:
             "Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results.",
         url: 'https://search.google.com/search-console/about',
@@ -180,7 +167,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Google Technical Writing',
-        categories: [toolsAndUtilities.writing],
+        categories: ['Writing'],
         description:
             'This collection of courses and learning resources aims to improve your technical documentation. Learn how to plan and author technical documents. You can also learn about the role of technical writers at Google.',
         url: 'https://developers.google.com/tech-writing',
@@ -189,7 +176,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'GotResumeBuilder',
-        categories: [jobs.resumeBuilders],
+        categories: ['Resume'],
         description:
             'Resume Builder – Free and easy to use. Sample resumes and tips on how to write a resume available.',
         keywords: [
@@ -204,7 +191,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Gradient',
-        categories: [uiDesign.color],
+        categories: ['Color'],
         description:
             'Thousands of trendy color gradients in a curated collection that is updated daily. Get a fresh color gradient for your next design project and save all the gradients you like.',
         url: 'https://gradienthunt.com/',
@@ -212,7 +199,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Gradientos',
-        categories: [uiDesign.color],
+        categories: ['Color'],
         description: 'Find and test gradients easily.',
         keywords: ['color', 'UI', 'design', 'gradient'],
         url: 'https://gradientos.app',
@@ -220,14 +207,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Gramara',
-        categories: [toolsAndUtilities.writing],
+        categories: ['Productivity', 'Writing'],
         description: 'Write fluent English in a snap!',
         url: 'https://gramara.com/',
         icon: 'https://gramara.com/icons/icon-96x96.png?v=36fedff97b311c405df1c8fff551eb82',
     },
     {
         name: 'Grammarly',
-        categories: [toolsAndUtilities.writing],
+        categories: ['Productivity', 'Writing'],
         description:
             'Grammarly makes sure everything you type is easy to read, effective, and mistake-free. Try it today:.',
         url: 'https://grammarly.com',
@@ -235,7 +222,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'GrayGrids',
-        categories: [programming.templates],
+        categories: ['Template'],
         description:
             'Biggest Source of Free HTML Website Templates & Bootstrap Themes for Business, Landing Page, Admin Dashboards and Resume & Portfolio Websites.',
         url: 'https://graygrids.com/',
@@ -243,7 +230,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Greip',
-        categories: [ai.utilities, programming.javascript.utilities, toolsAndUtilities.general],
+        categories: ['AI', 'Legal', 'Security'],
         description:
             'One of the must trusted Fraud Prevention services, which allows you to deploy AI-Powered modules to prevent fraud and abuse.',
         url: 'https://greip.io/',
@@ -253,21 +240,21 @@ export const resources: Resource[] = [
     },
     {
         name: 'Grid.Guide',
-        categories: [toolsAndUtilities.general],
+        categories: ['Learn', 'Programming'],
         description: 'Create pixel perfect grids for the web.',
         url: 'http://grid.guide/',
         icon: 'http://grid.guide/assets/favicons/favicon-96x96.png',
     },
     {
         name: 'Grid Garden',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description: 'A game for learning CSS grid layout.',
         url: 'https://cssgridgarden.com/',
         icon: 'http://cssgridgarden.com/favicon.ico',
     },
     {
         name: 'Grommet',
-        categories: [programming.uiKitsAndLibraries],
+        categories: ['Library', 'Programming'],
         description: 'Grommet documentation.',
         keywords: ['React', 'UI Kit', 'Grommet', 'Grommet Design', 'UI/UX Framework'],
         url: 'https://v2.grommet.io/',
@@ -275,7 +262,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Growth List',
-        categories: [indieHacking.marketing],
+        categories: ['Marketing'],
         description:
             'GrowthList is the go-to resource hub for tech-savvy marketers in fast-growing companies. Find hundred of Growth Hacks to boost your startup !',
         url: 'https://www.thegrowthlist.co/',
@@ -284,7 +271,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'GTmetrix',
-        categories: [toolsAndUtilities.performance],
+        categories: ['Performance'],
         description:
             "GTmetrix is a free tool that analyzes your page's speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them.",
         url: 'https://gtmetrix.com/',
@@ -292,7 +279,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Guru',
-        categories: [jobs.freelancing],
+        categories: ['Freelance'],
         description:
             'Guru is one of the best freelance websites to find & hire Freelancers online and get work done. Freelancers can also search jobs for freelance work and get hired.',
         url: 'https://www.guru.com/',

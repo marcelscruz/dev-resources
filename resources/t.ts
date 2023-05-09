@@ -1,19 +1,16 @@
-import { categories } from 'const'
 import { Resource } from 'types'
-
-const { assets, programming, community, toolsAndUtilities, indieHacking, jobs, web3, uiDesign } = categories
 
 export const resources: Resource[] = [
     {
         name: 'Tabler Icons',
-        categories: [assets.icons],
+        categories: ['Icon'],
         description: 'Over 3000 pixel-perfect, free and open source icons for web design.',
         url: 'https://tabler-icons.io/',
         icon: 'https://tabler-icons.io/favicon.ico',
     },
     {
         name: 'Tailor Brands',
-        categories: [assets.logos],
+        categories: ['Logo'],
         description:
             "Tailor Brands AI logo maker allows you to create a logo design that's a perfect match for your business. No pre-made logo templates. Unique designs only.",
         url: 'https://www.tailorbrands.com/logo-maker',
@@ -21,7 +18,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'TailwindComponents',
-        categories: [programming.uiKitsAndLibraries],
+        categories: ['Library', 'Programming', 'UI'],
         description:
             'Tailwind CSS examples from components by the community. Tailwind chart, grids, inputs, forms, templates and much more.',
         url: 'https://tailwindcomponents.com/',
@@ -29,14 +26,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Tailwind CSS',
-        categories: [programming.uiKitsAndLibraries],
+        categories: ['Library', 'Programming', 'UI'],
         description: 'Documentation for the Tailwind CSS framework.',
         url: 'https://tailwindcss.com/',
         icon: 'https://tailwindcss.com/favicon-32x32.png',
     },
     {
         name: 'Tailwind Toolbox',
-        categories: [programming.templates],
+        categories: ['Template'],
         description:
             'Open source starter templates and components, a directory of handy building kits, generators, plugins and useful tools to kick start your Tailwind CSS project.',
         url: 'https://tailwindtoolbox.com/',
@@ -44,7 +41,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Tech Interview Pro',
-        categories: [jobs.interviews],
+        categories: ['Interview'],
         description:
             'Learn the secrets to getting a software engineering job at a big tech company. Using years of industry experience, I have condensed my knowledge to the material that is most important for passing the coding interview and landing your dream tech job.',
         url: 'https://www.techseries.dev/',
@@ -54,7 +51,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Tech Jobs For Good',
-        categories: [jobs.boards],
+        categories: ['Job'],
         description:
             'Tech Jobs for Good helps connect software engineers to jobs at organizations working on social and environmental issues.',
         url: 'https://techjobsforgood.com/',
@@ -62,7 +59,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'TechCrunch',
-        categories: [community.blogsAndForums],
+        categories: ['Blog'],
         description:
             'TechCrunch - Reporting on the business of technology, startups, venture capital funding, and Silicon Valley.',
         url: 'https://techcrunch.com/',
@@ -70,14 +67,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Tech Blogs',
-        categories: [community.blogsAndForums],
+        categories: ['Blog'],
         description: 'This is a list of Awesome Tech Blogs. Add yourself.',
         url: 'https://tech-blogs.dev/',
         icon: 'https://tech-blogs.dev/favicon-32x32.png',
     },
     {
         name: 'Templated',
-        categories: [programming.templates],
+        categories: ['Template'],
         description:
             'A collection of 867 Creative Commons-licensed CSS, HTML5 and Responsive site templates created by Cherry, Doni, AJ, and co.',
         keywords: [
@@ -95,7 +92,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'TemplateMo',
-        categories: [programming.templates],
+        categories: ['Template'],
         description:
             'Download 548+ free HTML CSS website templates that included 140+ responsive Bootstrap themes from templatemo and use them for your sites.',
         url: 'https://templatemo.com/',
@@ -103,7 +100,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Tenon',
-        categories: [toolsAndUtilities.accessibility],
+        categories: ['Accessibility'],
         description: 'Accessibility as a Service.',
         keywords: ['accessibility', 'a11y', 'testing'],
         url: 'https://tenon.io/',
@@ -111,14 +108,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'Test Automation University',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description: 'Become a test automation superstar! 🌟.',
         url: 'https://testautomationu.applitools.com/',
         icon: 'https://testautomationu.applitools.com/TAU-Green.png',
     },
     {
         name: 'Testing Accessibility',
-        categories: [toolsAndUtilities.accessibility],
+        categories: ['Accessibility'],
         description:
             'A self-paced workshop designed to teach you the principles and effective patterns of accessibility, from design to deployment.',
         url: 'https://testingaccessibility.com/',
@@ -127,7 +124,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Testing JavaScript',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description:
             'This course will teach you the fundamentals of testing your JavaScript applications using ESlint, TypeScript, Jest, and Cypress.',
         url: 'https://testingjavascript.com/',
@@ -135,21 +132,21 @@ export const resources: Resource[] = [
     },
     {
         name: 'Testing Library',
-        categories: [programming.testing],
+        categories: ['Testing'],
         description: 'Simple and complete testing utilities that encourage good testing practices.',
         url: 'https://testing-library.com/',
         icon: 'https://testing-library.com/img/octopus-32x32.png',
     },
     {
         name: 'Testing Playground',
-        categories: [programming.testing],
+        categories: ['Testing'],
         description: 'Simple and complete DOM testing playground that encourage good testing practices.',
         url: 'https://testing-playground.com/',
         icon: 'https://testing-playground.com/72-production.3633b358.png',
     },
     {
         name: 'TestingWhiz',
-        categories: [programming.testing],
+        categories: ['Testing'],
         description:
             'Experience effective test automation of web & mobile apps with an easy & intuitive codeless end-to-end software testing tool, TestingWhiz. Download 30-days free trial.',
         url: 'https://www.testing-whiz.com/',
@@ -157,7 +154,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Themeselection',
-        categories: [programming.templates],
+        categories: ['Template'],
         description:
             ' Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster.',
         keywords: ['HTML', 'css', 'Admin template', 'bootstrap', 'Vuejs admin templates', 'UI kits', 'Freebies'],
@@ -166,14 +163,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'The A11Y Project',
-        categories: [toolsAndUtilities.accessibility],
+        categories: ['Accessibility'],
         description: 'The A11Y Project is a community-driven effort to make digital accessibility easier.',
         url: 'https://www.a11yproject.com/',
         icon: 'https://www.a11yproject.com/apple-touch-icon.png',
     },
     {
         name: 'The Art of Product',
-        categories: [indieHacking.podcasts],
+        categories: ['Indie', 'Podcast', 'Startup'],
         description: 'Ben and Derrick chat weekly about building software companies.',
         url: 'https://artofproductpodcast.com/',
         icon:
@@ -181,14 +178,14 @@ export const resources: Resource[] = [
     },
     {
         name: 'The Changelog',
-        categories: [programming.podcasts],
+        categories: ['Podcast', 'Programming'],
         description: 'News and podcasts for developers.',
         url: 'https://changelog.com/',
         icon: 'https://changelog.com/favicon.ico',
     },
     {
         name: 'The Coding Interview',
-        categories: [jobs.interviews],
+        categories: ['Interview'],
         description:
             'Everything you need to ace the coding interview all in one place. Crack the coding interview with just 5 minutes of preparation a day.',
         url: 'https://www.thecodinginterview.com/',
@@ -196,7 +193,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'The Coding Train',
-        categories: [programming.youtubeChannels],
+        categories: ['Programming', 'YouTube Channel'],
         description:
             'All aboard! The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to algorithmic art, machine learning, simulation, generative poetry, and more. Choo choo!',
         keywords: ['java javascript processing teaching programming beginner tutorial coding challenges art'],
@@ -205,7 +202,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'The Component Gallery',
-        categories: [uiDesign.inspiration],
+        categories: ['Design', 'Inspiration', 'UI'],
         description: 'The Component Gallery is a collection of components from the best design systems.',
         url: 'https://component.gallery',
         icon: 'https://component.gallery/favicon-32x32.png?v=99d1fc92b88bb2015e97d3bc7e120441',
@@ -213,7 +210,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'The Future of Programming Languages at the Confluence of Paradigms',
-        categories: [programming.youtubeChannels],
+        categories: ['Programming', 'YouTube Channel'],
         description:
             'Talk on The Future of Programming Languages at the Confluence of Paradigms by Robert "Uncle Bob" Martin',
         url: 'https://www.youtube.com/watch?v=ya1xDCCMh7g',
@@ -221,7 +218,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'The Hammerstone Podcast',
-        categories: [indieHacking.podcasts],
+        categories: ['Indie', 'Podcast', 'Startup'],
         description:
             "Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm!",
         url: 'https://hammerstone.dev/podcast',
@@ -229,7 +226,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'The Net Ninja',
-        categories: [programming.youtubeChannels, programming.learn],
+        categories: ['Programming', 'YouTube Channel', 'Learn', 'Programming'],
         url: 'https://www.thenetninja.co.uk/',
 
         description:
@@ -241,7 +238,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'The Ultimate Guide to React Native Optimization',
-        categories: [programming.books],
+        categories: ['Book', 'Programming'],
         description:
             'This Guide is comprehensive source of knowledge on the best tools, tips, and tactics for optimizing your React Native app.',
         url: 'https://www.callstack.com/campaigns/download-the-ultimate-guide-to-react-native-optimization',
@@ -250,7 +247,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'thirdweb',
-        categories: [web3.utilities],
+        categories: ['Web3'],
         description:
             "Build web3 apps easily with thirdweb's powerful SDKs, audited smart contracts, and developer tools—for Ethereum, Polygon, Solana, & more. Try now.",
         url: 'https://thirdweb.com/',
@@ -259,7 +256,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Thirus',
-        categories: [programming.youtubeChannels],
+        categories: ['Programming', 'YouTube Channel'],
         description:
             'Thirus (pronounced "thigh-rus") is an effort to bring hundreds of simple web development tips and tutorials together that you can consume regularly on your coding journey. I am Shruti Balasa - the owner of this channel. I\'m a Full Stack Web Developer, Mentor, Course Creator, Tech Speaker and now a Youtuber from Bangalore, India.',
         url: 'https://www.youtube.com/channel/UCDQTzZ871T7uJpx9yeMPhAw',
@@ -267,7 +264,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'This VS That',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         url: 'https://thisthat.dev/',
 
         description: 'What is the difference between ___ and ___ in the front-end development?',
@@ -276,7 +273,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'TinyPNG',
-        categories: [assets.images],
+        categories: ['Image'],
         description:
             'Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency!',
         url: 'https://tinypng.com/',
@@ -284,7 +281,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'TinySeed',
-        categories: [indieHacking.platforms],
+        categories: ['Indie', 'Startup'],
         description:
             'TinySeed is the first startup accelerator designed for founders who would traditionally bootstrap.',
         url: 'https://tinyseed.com/',
@@ -293,7 +290,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'tl;dr Marketing',
-        categories: [toolsAndUtilities.seo],
+        categories: ['SEO'],
         description:
             'Get the latest breaking news and trends about SEO, paid media and social media without all the fluff.',
         url: 'https://tldrmarketing.com/',
@@ -301,7 +298,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'toast.log',
-        categories: [toolsAndUtilities.browsersAndExtensions],
+        categories: ['Browser', 'Extension'],
         description:
             "See errors, warnings, and logs as they happen on your site — without having to open the browser’s console. Find bugs you didn't know were there via notifications in our unique toast format.",
         url: 'https://toastlog.com/',
@@ -309,7 +306,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Tooplate',
-        categories: [programming.templates],
+        categories: ['Template'],
         description:
             'Download free HTML CSS website templates from Tooplate and use them for any purpose. Our templates are easy to modify and use for any website.',
         url: 'https://www.tooplate.com/',
@@ -317,7 +314,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Toptal',
-        categories: [jobs.freelancing],
+        categories: ['Freelance'],
         description:
             'Toptal enables start-ups, businesses, and organizations to hire freelancers from a growing network of top talent in the world. Find quality talent to work full-time, part-time, or hourly who will seamlessly integrate into your team.',
         url: 'https://www.toptal.com/',
@@ -325,7 +322,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Traversy Media',
-        categories: [programming.youtubeChannels],
+        categories: ['Programming', 'YouTube Channel'],
         description:
             'Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more.',
         keywords: [
@@ -336,7 +333,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Transform Tools',
-        categories: [toolsAndUtilities.general],
+        categories: ['Programming'],
         description: 'A polyglot web converter.',
         keywords: [
             'Big Query',
@@ -367,7 +364,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Treehouse',
-        categories: [programming.learn],
+        categories: ['Learn', 'Programming'],
         description:
             'High-quality, affordable video courses for coding and design. Build a website, learn a new coding language, and more.',
         url: 'https://teamtreehouse.com/',
@@ -376,7 +373,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Tutoriac',
-        categories: [toolsAndUtilities.websiteBuilders],
+        categories: ['Website Builder'],
         description:
             'Tutoriac provides video tutorials for learning how to create websites with website builders like Wix, Google Sites, Squarespace, Webflow, Carrd, Framer.',
         url: 'https://tutoriac.com',
@@ -385,7 +382,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'TypeLit',
-        categories: [toolsAndUtilities.typing],
+        categories: ['Typing'],
         description: 'Practice typing by retyping entire novels.',
         url: 'https://www.typelit.io',
         icon: 'https://www.typelit.io/favicon.ico',
@@ -393,18 +390,11 @@ export const resources: Resource[] = [
     },
     {
         name: 'TypingClub',
-        categories: [toolsAndUtilities.typing],
+        categories: ['Typing'],
         description:
             "Learn touch typing online using TypingClub's free typing courses. It includes 650 typing games, typing tests and videos.",
         keywords: ['typing', 'typing tutorial', 'free touch typing tutorial', 'touch typing', 'typing game'],
         url: 'https://www.typingclub.com/',
         icon: 'https://static.typingclub.com/m/corp2/img/favicon.png',
-    },
-    {
-        name: 'TshirtDesigns',
-        categories: [toolsAndUtilities.general],
-        description: 'An apparel and tshirt design mockup generator plus a marketplace of t-shirt designs.',
-        url: 'https://www.tshirtdesigns.com/mockups',
-        icon: 'https://www.bypeople.com/wp-content/themes/bppl-alpha/assets/images/v2/favicon-32x32.png',
     },
 ]
