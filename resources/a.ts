@@ -208,6 +208,22 @@ export const resources: Resource[] = [
         icon: 'https://appwrite.io/images/favicon.png',
     },
     {
+        name: 'Aptabase',
+        description: 'Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web apps. Get simple and actionable insights without compromising user privacy.',
+        categories: ['Analytics', 'Open Source'],
+        url: 'https://aptabase.com',
+        icon: 'https://aptabase.com/favicon-32x32.png',
+        keywords: ['mobile', 'analytics', "privacy", "opensource"],
+    },
+    {
+        name: 'Aptakube',
+        description: 'Modern, lightweight and multi-cluster Kubernetes desktop client. Available on Windows, macOS and Linux.',
+        categories: ['Cloud Computing', 'Productivity'],
+        url: 'https://aptakube.com',
+        icon: 'https://aptakube.com/favicon-32x32.png',
+        keywords: ['kubernetes'],
+    },
+    {
         name: 'Artify',
         categories: ['Illustration', 'Logo'],
         description:

@@ -69,6 +69,14 @@ export const resources: Resource[] = [
         icon: 'https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51ce4e2c16e82ce80d8b42_icon.png',
     },
     {
+        name: 'Open Ports',
+        categories: ['Tooling'],
+        description: 'Manage open ports from your macOS menu bar. Never google "How to kill a process by port?" again.',
+        url: 'https://openports.app',
+        icon: 'https://openports.app/favicon-32x32.png',
+        keywords: ['web development', 'containers', 'macOS']
+    },
+    {
         name: 'Open Vim',
         categories: ['Typing'],
         description: 'An interactive Vim tutorial.',
