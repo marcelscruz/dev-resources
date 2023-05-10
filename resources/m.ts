@@ -35,7 +35,7 @@ export const resources: Resource[] = [
     },
     {
         name: "MAKE: Bootstrapper's Handbook",
-        categories: ['Book', 'Indie', 'Startup'],
+        categories: ['Book', 'Startup'],
         description: 'Learn to bootstrap profitable startups the indie way — $14.99.',
         url: 'https://makebook.io/',
         icon: 'https://makebook.io/favicon-32x32.png?2',
@@ -161,7 +161,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'MicroAcquire',
-        categories: ['Indie', 'Startup'],
+        categories: ['Startup'],
         description:
             'MicroAcquire helps startups find buyers. Simple as that. We’ll help you start conversations that lead to an acquisition in just 30 days – for free.',
         url: 'https://microacquire.com/',

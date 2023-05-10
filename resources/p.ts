@@ -172,7 +172,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Product Hunt',
-        categories: ['Indie', 'Marketing', 'Startup'],
+        categories: ['Marketing', 'Startup'],
         description:
             "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
         url: 'https://www.producthunt.com/',

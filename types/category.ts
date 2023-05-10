@@ -32,7 +32,6 @@ export type Category =
     | 'Icon'
     | 'Illustration'
     | 'Image'
-    | 'Indie'
     | 'Inspiration'
     | 'Interview'
     | 'Job'

@@ -265,7 +265,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Slow & Steady',
-        categories: ['Indie', 'Podcast', 'Startup'],
+        categories: ['Podcast', 'Startup'],
         description:
             "Join us as we share what it's like to build and launch a bootstrapped startup while working for yourself full-time. Benedikt is working on Userlist with two other co-founders and Brian is running solo on a product to combat loneliness on remote teams.",
         url: 'https://www.slowandsteadypodcast.com/',
@@ -379,7 +379,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Software Social',
-        categories: ['Indie', 'Podcast', 'Startup'],
+        categories: ['Podcast', 'Startup'],
         description:
             'Two bootstrapped software founders -- one transitioning from freelancing, and one with an established business -- invite you to join their weekly chats about their businesses.',
         url: 'https://softwaresocial.dev/',
@@ -489,7 +489,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Startups For the Rest of Us',
-        categories: ['Indie', 'Podcast', 'Startup'],
+        categories: ['Podcast', 'Startup'],
         description:
             'The startup podcast with more than 500 episodes to help you launch and grow. 10 million+ downloads. 500+ five-star reviews.',
         url: 'https://www.startupsfortherestofus.com/',

@@ -170,7 +170,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'The Art of Product',
-        categories: ['Indie', 'Podcast', 'Startup'],
+        categories: ['Podcast', 'Startup'],
         description: 'Ben and Derrick chat weekly about building software companies.',
         url: 'https://artofproductpodcast.com/',
         icon:
@@ -218,7 +218,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'The Hammerstone Podcast',
-        categories: ['Indie', 'Podcast', 'Startup'],
+        categories: ['Podcast', 'Startup'],
         description:
             "Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm!",
         url: 'https://hammerstone.dev/podcast',
@@ -281,7 +281,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'TinySeed',
-        categories: ['Indie', 'Startup'],
+        categories: ['Startup'],
         description:
             'TinySeed is the first startup accelerator designed for founders who would traditionally bootstrap.',
         url: 'https://tinyseed.com/',

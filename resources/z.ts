@@ -3,7 +3,7 @@ import { Resource } from 'types'
 export const resources: Resource[] = [
     {
         name: 'Zero To Sold',
-        categories: ['Book', 'Indie', 'Startup'],
+        categories: ['Book', 'Startup'],
         description:
             'Zero to Sold is an actionable guide through all stages of a bootstrapped business: Preparation, Survival, Stability, and Growth. Sold on Amazon and Gumroad.',
         url: 'https://thebootstrappedfounder.com/zero-to-sold/',

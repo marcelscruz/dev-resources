@@ -116,7 +116,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Indie Bits',
-        categories: ['Indie', 'Podcast', 'Startup'],
+        categories: ['Podcast', 'Startup'],
         description:
             "Short, bite-sized conversations (15 mins) with indie hackers that have started small, profitable and bootstrapped businesses. You'll learn how they come up with ideas, what they do to validate, find those first customers and make a sustainable income.",
         url: 'https://indiebites.co/',
@@ -124,7 +124,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Indie Hackers',
-        categories: ['Indie', 'Podcast', 'Startup'],
+        categories: ['Podcast', 'Startup'],
         description:
             'Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.',
         url: 'https://www.indiehackers.com/',
@@ -132,7 +132,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Indie Worldwide',
-        categories: ['Indie'],
+        categories: ['Startup'],
         description: 'The worldwide virtual meetup of indie hackers, founders, and makers.',
         url: 'https://indieworldwide.co/',
         icon: 'https://indieworldwide.co/icons/icon-96x96.png',

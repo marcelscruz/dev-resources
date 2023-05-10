@@ -68,7 +68,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'BetaList',
-        categories: ['Indie', 'Marketing'],
+        categories: ['Marketing'],
         description:
             'BetaList provides an overview of upcoming internet startups. Discover and get early access to the future.',
         url: 'https://betalist.com/',
@@ -217,7 +217,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Bootstrapped',
-        categories: ['Indie', 'Podcast', 'Startup'],
+        categories: ['Podcast', 'Startup'],
         description:
             'Listen to 100+ helpful podcast episodes for software bootstrappers. Interviews with experts, open discussions between bootstrappers, and solo episodes, with one person digging deeply into a topic.',
         url: 'https://bootstrapped.fm/',
@@ -225,7 +225,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Bootstrapped Web',
-        categories: ['Indie', 'Podcast', 'Startup'],
+        categories: ['Podcast', 'Startup'],
         description: 'The podcast for founders bootstrapping their startups online.',
         url: 'http://bootstrappedweb.com/',
         icon: 'https://bootstrappedweb.com/assets/images/favicon.png',
@@ -337,7 +337,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Build you SaaS',
-        categories: ['Indie', 'Podcast', 'Startup'],
+        categories: ['Podcast', 'Startup'],
         description:
             'Can you bootstrap a profitable startup in 2021? Thousands of entrepreneurs, developers, designers, and product people have tried to launch their own web apps. But with so many venture-backed startups now, is it still possible? Follow Jon and Justin as they build their podcasting SaaS, Transistor.fm.',
         url: 'https://saas.transistor.fm/',
