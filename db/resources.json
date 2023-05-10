@@ -587,7 +587,6 @@
     {
         "name": "BetaList",
         "categories": [
-            "Indie",
             "Marketing"
         ],
         "description": "BetaList provides an overview of upcoming internet startups. Discover and get early access to the future.",
@@ -764,7 +763,6 @@
     {
         "name": "Bootstrapped",
         "categories": [
-            "Indie",
             "Podcast",
             "Startup"
         ],
@@ -775,7 +773,6 @@
     {
         "name": "Bootstrapped Web",
         "categories": [
-            "Indie",
             "Podcast",
             "Startup"
         ],
@@ -910,7 +907,6 @@
     {
         "name": "Build you SaaS",
         "categories": [
-            "Indie",
             "Podcast",
             "Startup"
         ],
@@ -2324,7 +2320,6 @@
     {
         "name": "Default Alive",
         "categories": [
-            "Indie",
             "Podcast",
             "Startup"
         ],
@@ -4454,7 +4449,6 @@
     {
         "name": "Indie Bits",
         "categories": [
-            "Indie",
             "Podcast",
             "Startup"
         ],
@@ -4465,7 +4459,6 @@
     {
         "name": "Indie Hackers",
         "categories": [
-            "Indie",
             "Podcast",
             "Startup"
         ],
@@ -4476,7 +4469,7 @@
     {
         "name": "Indie Worldwide",
         "categories": [
-            "Indie"
+            "Startup"
         ],
         "description": "The worldwide virtual meetup of indie hackers, founders, and makers.",
         "url": "https://indieworldwide.co/",
@@ -5321,7 +5314,6 @@
         "name": "MAKE: Bootstrapper's Handbook",
         "categories": [
             "Book",
-            "Indie",
             "Startup"
         ],
         "description": "Learn to bootstrap profitable startups the indie way — $14.99.",
@@ -5500,7 +5492,6 @@
     {
         "name": "MicroAcquire",
         "categories": [
-            "Indie",
             "Startup"
         ],
         "description": "MicroAcquire helps startups find buyers. Simple as that. We’ll help you start conversations that lead to an acquisition in just 30 days – for free.",
@@ -6238,7 +6229,6 @@
     {
         "name": "Product Hunt",
         "categories": [
-            "Indie",
             "Marketing",
             "Startup"
         ],
@@ -7274,7 +7264,6 @@
     {
         "name": "Slow & Steady",
         "categories": [
-            "Indie",
             "Podcast",
             "Startup"
         ],
@@ -7404,7 +7393,6 @@
     {
         "name": "Software Social",
         "categories": [
-            "Indie",
             "Podcast",
             "Startup"
         ],
@@ -7532,7 +7520,6 @@
     {
         "name": "Startups For the Rest of Us",
         "categories": [
-            "Indie",
             "Podcast",
             "Startup"
         ],
@@ -7945,7 +7932,6 @@
     {
         "name": "The Art of Product",
         "categories": [
-            "Indie",
             "Podcast",
             "Startup"
         ],
@@ -8010,7 +7996,6 @@
     {
         "name": "The Hammerstone Podcast",
         "categories": [
-            "Indie",
             "Podcast",
             "Startup"
         ],
@@ -8123,7 +8108,6 @@
     {
         "name": "TinySeed",
         "categories": [
-            "Indie",
             "Startup"
         ],
         "description": "TinySeed is the first startup accelerator designed for founders who would traditionally bootstrap.",
@@ -9110,7 +9094,6 @@
         "name": "Zero To Sold",
         "categories": [
             "Book",
-            "Indie",
             "Startup"
         ],
         "description": "Zero to Sold is an actionable guide through all stages of a bootstrapped business: Preparation, Survival, Stability, and Growth. Sold on Amazon and Gumroad.",

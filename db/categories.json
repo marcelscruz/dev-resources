@@ -1,5 +1,5 @@
 {
-"count": 72,
+"count": 71,
 "data": [
     {
         "name": "Accessibility",
@@ -128,10 +128,6 @@
     {
         "name": "Image",
         "slug": "image"
-    },
-    {
-        "name": "Indie",
-        "slug": "indie"
     },
     {
         "name": "Inspiration",
