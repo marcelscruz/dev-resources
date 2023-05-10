@@ -11,7 +11,7 @@ Everyone is welcome to collaborate to this project, but please take into conside
 
 -   resources should align with the purpose of the project
 -   resources shouldn't be a duplicate; a text search on the README file should be enough to find this answer
--   the list of resources is written in JavaScript; if you need assistance on this matter, please open an issue with the resource's information
+-   the list of resources is written in TypeScript; if you need assistance on this matter, please open an issue with the resource's information
 -   make sure to check all items listed on the [pull request template](PULL_REQUEST_TEMPLATE.md) before submitting your contribution
 
 ## Adding a resource
@@ -23,51 +23,45 @@ Everyone is welcome to collaborate to this project, but please take into conside
 
 Each resource belongs to an object, as such:
 
-```javascript
-// File: resources/f.js
+```typescript
+// resources/f.ts
 
 {
     name: 'freeCodeCamp',
     description:
         'Learn to code at home. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including Google, Apple, Amazon, and Microsoft.',
-    categories: [programming.learn, programming.codeChallenges],
+    categories: ['Learn', 'Programming'],
     url: 'https://www.freecodecamp.org',
-    icon: 'https://www.freecodecamp.org/news/favicon.png', // Optional, but good for the README file
-    keywords: ['html', 'css', 'javascript', 'development'], // Optional, but useful for the search feature on the website
+    icon: 'https://www.freecodecamp.org/news/favicon.png', // Optional, but used on the README file
+    keywords: ['html', 'css', 'javascript', 'development'], // Optional, but used on the search feature on the website
 },
 ```
 
 Observe that:
 
--   `name`, `description`, `url` and `icon` are strings, where:
-    -   `name` and `description` should not include line breaks `(\n)` nor the pipe symbol `(|)`
-    -   `url` is the URL to the resource's main page
-    -   `icon` is the URL the resource's favicon
--   `categories` is an array, meaning the resource can belong to multiple categories; its values (e.g. `programming.learn`) should be used from `constants/categories.js`, as this ensures organization and avoids misspellings
--   `keywords` is an array of strings, which also should not include line breaks `(\n)` nor the pipe symbol `(|)`
--   `icon` and `keywords` are the only optional properties, all others are required, with `categories` containing at least one value
--   the `description` property can be custom or grabbed from the resource's metadata included in the `<head>` tag of the website's HTML document
-    -   you can use https://metatags.io to easily copy the description
--   the `icon` property can also be grabbed from the resource's metadata included in the `<head>` tag or by doing the following:
-    -   you can use https://favicongrabber.com to easily copy the image's URL
+-   `name` is a **string** and **required**.
+-   `description` is a **string** and **required**.
+    -   You can use https://metatags.io to easily copy the description from the website.
+-   `categories` is an **array of strings** and **required**.
+    -   A resource can belong to multiple categories.
+    -   The available categories are listed in `types/category.ts`.
+    -   If the category you need isn't listed, you can add it and explain in the PR why it's needed.
+    -   If your editor has TypeScript support it should provide you with the available categories as you type.
+-   `url` is a **string** and required.
+
+-   `icon` is a **string** with the resource's favicon URL and **optional**, used on the README file.
+
+    -   You can use https://favicongrabber.com to easily copy the image's URL.
+
+-   `keywords` is an **array of strings** and **optional**, used on the search feature on the website.
 
 ## Editing a resource
 
 If you find that an existing resource could benefit from some editing, feel free to make modifications.
 
-## Choosing the category
-
-Renaming a category or changing the tree structure should happen as infrequently as possible, although it is allowed if the current structure can be improved.
-
-Opening a new category is fine, as long as there isn't another category that could serve the same purpose.
-
-## External integrations
-
-As of now, the "Public APIs" section is powered by the [Public APIs project](https://github.com/public-apis/public-apis), so any additions to this section should be done to their repository.
-
 ## Other contributions
 
-Contributions not related to adding resources are also welcome, but please open an issue explaining the changes you have in mind before making a pull request.
+Contributions not related to the resources are also welcome, but please open an issue explaining the changes you have in mind before making a pull request.
 
 ## Code formatting and linting
 
@@ -79,7 +73,7 @@ This repository uses a GitHub action to automatically update `README.md` and `db
 
 ## Need assistance?
 
-The resources lists are created in JavaScript, and if you're unable to make a contribution for this or any other reason, feel free to open an issue explaining your situation, so another developer can help you get your resource in the lists.
+The resources lists are created in TypeScript, and if you're unable to make a contribution for this or any other reason, feel free to open an issue explaining your situation, so another developer can help you get your resource in the lists.
 
 ---
 
