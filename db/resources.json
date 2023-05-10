@@ -1,5 +1,5 @@
 {
-"count": 767,
+"count": 770,
 "data": [
     {
         "name": "1001 Fonts",
@@ -355,6 +355,35 @@
         "description": "Appwrite provides web and mobile developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs.",
         "url": "https://appwrite.io/",
         "icon": "https://appwrite.io/images/favicon.png"
+    },
+    {
+        "name": "Aptabase",
+        "description": "Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web apps. Get simple and actionable insights without compromising user privacy.",
+        "categories": [
+            "Analytics",
+            "Open Source"
+        ],
+        "url": "https://aptabase.com",
+        "icon": "https://aptabase.com/favicon-32x32.png",
+        "keywords": [
+            "mobile",
+            "analytics",
+            "privacy",
+            "opensource"
+        ]
+    },
+    {
+        "name": "Aptakube",
+        "description": "Modern, lightweight and multi-cluster Kubernetes desktop client. Available on Windows, macOS and Linux.",
+        "categories": [
+            "Cloud Computing",
+            "Productivity"
+        ],
+        "url": "https://aptakube.com",
+        "icon": "https://aptakube.com/favicon-32x32.png",
+        "keywords": [
+            "kubernetes"
+        ]
     },
     {
         "name": "Artify",
@@ -5922,6 +5951,20 @@
         "description": "Open Peeps is a hand-drawn illustration library to create scenes of people. You can use them in product illustration, marketing, comics, product states, user flows, personas, storyboarding, quinceañera invitations, or whatever you want! ⠀.",
         "url": "https://www.openpeeps.com/",
         "icon": "https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51ce4e2c16e82ce80d8b42_icon.png"
+    },
+    {
+        "name": "Open Ports",
+        "categories": [
+            "Tooling"
+        ],
+        "description": "Manage open ports from your macOS menu bar. Never google \"How to kill a process by port?\" again.",
+        "url": "https://openports.app",
+        "icon": "https://openports.app/favicon-32x32.png",
+        "keywords": [
+            "web development",
+            "containers",
+            "macOS"
+        ]
     },
     {
         "name": "Open Vim",
