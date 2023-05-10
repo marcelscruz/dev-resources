@@ -363,7 +363,7 @@ export const resources: Resource[] = [
         categories: ['Code Snippet', 'Programming', 'UI'],
         description:
             '🎨 Curated collection of 90+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.',
-        url: 'https://getcssscan.com/css-box-shadow-examples',
+        url: 'https://getcssscan.com',
         icon: 'https://getcssscan.com/favicon-32x32.png',
     },
     {
