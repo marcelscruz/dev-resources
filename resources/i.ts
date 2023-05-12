@@ -115,14 +115,6 @@ export const resources: Resource[] = [
         icon: 'https://www.indeed.com/profile/gatsby-assets/icons/icon-96x96.png?v=d69338e3b43810840b9a84d69dbaa30e',
     },
     {
-        name: 'Indie Bits',
-        categories: ['Podcast', 'Startup'],
-        description:
-            "Short, bite-sized conversations (15 mins) with indie hackers that have started small, profitable and bootstrapped businesses. You'll learn how they come up with ideas, what they do to validate, find those first customers and make a sustainable income.",
-        url: 'https://indiebites.co/',
-        icon: 'https://s3.amazonaws.com/super-notion/images/26707ca1-dc44-44e8-90ce-9e6220840f71.png',
-    },
-    {
         name: 'Indie Hackers',
         categories: ['Podcast', 'Startup'],
         description:

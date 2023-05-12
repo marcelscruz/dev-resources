@@ -87,12 +87,6 @@ export const resources: Resource[] = [
         icon: 'https://cheatography.com/images/cheatography-iphone.png',
     },
     {
-        name: 'Cheat Sheet Maker',
-        categories: ['Cheatsheet'],
-        description: 'Create and share cheat sheets to study and work with cheat sheet maker.',
-        url: 'https://cheatsheetmaker.com/',
-    },
-    {
         name: 'Check My Links',
         categories: ['Browser', 'Extension'],
         description: 'Check My Links is a link checker that crawls through your webpage and looks for broken links.',
@@ -195,7 +189,7 @@ export const resources: Resource[] = [
             'clip',
             'mac',
         ],
-        url: 'https://clideo.com/video-maker',
+        url: 'https://clideo.com',
         icon: 'https://static.clideo.com/assets/images/favicon/64x64.png',
     },
     {

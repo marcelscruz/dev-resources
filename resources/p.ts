@@ -223,14 +223,6 @@ export const resources: Resource[] = [
         icon: 'https://projectlearn.io/projectlearn.png',
     },
     {
-        name: 'Proxies API',
-        categories: ['Scraping'],
-        description:
-            'Want to send custom headers? Want to run sticky sessions with a single IP? Want to scrape AJAX based content? We have you covered. You can customise almost all this in a single line of code, no matter the language you are using or the setup. Proxies API was created for developers by developers with the goal of making it dead easy to get started with zero coding overhead.',
-        url: 'www.proxiesapi.com',
-        icon: 'https://www.proxiesapi.com/assets/favicon.ico',
-    },
-    {
         name: 'Pttrns',
         categories: ['Design', 'Inspiration', 'UI'],
         description: 'Check out the finest collection of design patterns, resources, mobile apps and inspiration.',
@@ -266,15 +258,6 @@ export const resources: Resource[] = [
         ],
         url: 'https://pttrns.com/',
         icon: 'https://s3.amazonaws.com/pttrns-2-0-static/assets/img/favicons/favicon-96x96.png',
-    },
-    {
-        name: 'Pull Request Roulette',
-        categories: ['Hacktoberfest', 'Open Source'],
-        description:
-            'Web app to match up developers, with public pull requests (PRs) on Github, with people willing to comment on their PRs.',
-        url: 'http://www.pullrequestroulette.com/',
-        icon:
-            'http://www.pullrequestroulette.com/assets/favicon-c7222dcd8c2c148cbd4ee961fdb75431a0ff1399b2245da43057ee1d15a187b0.gif',
     },
     {
         name: 'Puppeteer',

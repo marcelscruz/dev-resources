@@ -2,13 +2,6 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
-        name: 'SaaS Blocks',
-        categories: ['Template'],
-        description: 'SaaS Blocks UI kit enables founders, designers & developers to create the perfect SaaS website.',
-        url: 'https://gumroad.com/a/399283315/FbINx',
-        icon: 'https://gumroad.com/favicon.ico',
-    },
-    {
         name: 'SaaS Design',
         categories: ['Design', 'Inspiration', 'UI'],
         description:
@@ -56,7 +49,6 @@ export const resources: Resource[] = [
         categories: ['Screenshot'],
         description: 'Turn ordinary screenshots into beautiful image assets in no time',
         url: 'https://www.screenstab.com/',
-        icon: '',
     },
     {
         name: 'Scrimba',
@@ -347,13 +339,6 @@ export const resources: Resource[] = [
             'Every two weeks our editorial team works on short, relevant articles for the upcoming issue. The newsletter is sent out bi-weekly, on Tuesdays.',
         url: 'https://www.smashingmagazine.com/the-smashing-newsletter/',
         icon: 'https://www.smashingmagazine.com/images/favicon/apple-touch-icon-ipad-76x76.png',
-    },
-    {
-        name: 'Smplkit',
-        categories: ['Icon'],
-        description: 'An open source, do-whatever-you-want icon font to use in your projects.',
-        url: 'https://www.smplkit.com/',
-        icon: 'https://uploads-ssl.webflow.com/5e08877ced2a2771907388a9/5e2d9bc8d2e0671a88b1658b_smplkit-icon-3.png',
     },
     {
         name: 'snappify',

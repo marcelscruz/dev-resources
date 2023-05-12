@@ -57,13 +57,6 @@ export const resources: Resource[] = [
         icon: 'https://hacktoberfest.digitalocean.com/favicon.ico',
     },
     {
-        name: 'Hacktoberfest Finder',
-        categories: ['Hacktoberfest'],
-        description: 'Hacktoberfest Finder helps you find issues that you could help fix.',
-        url: 'https://hacktoberfest-finder.netlify.app/',
-        icon: 'https://hacktoberfest-finder.netlify.app/img/favicons/apple-touch-icon.png',
-    },
-    {
         name: 'Hacktoberfest Swag List',
         categories: ['Hacktoberfest'],
         description:

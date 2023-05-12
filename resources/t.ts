@@ -73,24 +73,6 @@ export const resources: Resource[] = [
         icon: 'https://tech-blogs.dev/favicon-32x32.png',
     },
     {
-        name: 'Templated',
-        categories: ['Template'],
-        description:
-            'A collection of 867 Creative Commons-licensed CSS, HTML5 and Responsive site templates created by Cherry, Doni, AJ, and co.',
-        keywords: [
-            'templates',
-            'site templates',
-            'website templates',
-            'freebies',
-            'html5',
-            'css',
-            'responsive',
-            'creative commons',
-        ],
-        url: 'https://templated.co/',
-        icon: 'https://templated.co/assets/icons/apple-touch-icon-precomposed.png',
-    },
-    {
         name: 'TemplateMo',
         categories: ['Template'],
         description:
@@ -108,7 +90,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Test Automation University',
-        categories: ['Learn', 'Programming'],
+        categories: ['Learn', 'Programming', 'Testing'],
         description: 'Become a test automation superstar! 🌟.',
         url: 'https://testautomationu.applitools.com/',
         icon: 'https://testautomationu.applitools.com/TAU-Green.png',
@@ -184,14 +166,6 @@ export const resources: Resource[] = [
         icon: 'https://changelog.com/favicon.ico',
     },
     {
-        name: 'The Coding Interview',
-        categories: ['Interview'],
-        description:
-            'Everything you need to ace the coding interview all in one place. Crack the coding interview with just 5 minutes of preparation a day.',
-        url: 'https://www.thecodinginterview.com/',
-        icon: 'https://uploads-ssl.webflow.com/5f17477084d0f15f5288e7d1/5f23f0b1139fc4dfad8b714f_favicon.png',
-    },
-    {
         name: 'The Coding Train',
         categories: ['Programming', 'YouTube Channel'],
         description:
@@ -209,20 +183,11 @@ export const resources: Resource[] = [
         keywords: [],
     },
     {
-        name: 'The Future of Programming Languages at the Confluence of Paradigms',
-        categories: ['Programming', 'YouTube Channel'],
-        description:
-            'Talk on The Future of Programming Languages at the Confluence of Paradigms by Robert "Uncle Bob" Martin',
-        url: 'https://www.youtube.com/watch?v=ya1xDCCMh7g',
-        icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
-    },
-    {
         name: 'The Hammerstone Podcast',
         categories: ['Podcast', 'Startup'],
         description:
             "Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm!",
         url: 'https://hammerstone.dev/podcast',
-        icon: '',
     },
     {
         name: 'The Net Ninja',
@@ -266,7 +231,6 @@ export const resources: Resource[] = [
         name: 'This VS That',
         categories: ['Learn', 'Programming'],
         url: 'https://thisthat.dev/',
-
         description: 'What is the difference between ___ and ___ in the front-end development?',
         keywords: ['CSS', 'DOM', 'HTML', 'JavaScript', 'React', 'TypeScript'],
         icon: 'https://thisthat.dev/assets/favicon.png',
@@ -290,7 +254,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'tl;dr Marketing',
-        categories: ['SEO'],
+        categories: ['Marketing', 'SEO'],
         description:
             'Get the latest breaking news and trends about SEO, paid media and social media without all the fluff.',
         url: 'https://tldrmarketing.com/',

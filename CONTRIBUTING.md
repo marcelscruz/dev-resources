@@ -49,6 +49,8 @@ Observe that:
     -   If your editor has TypeScript support it should provide you with the available categories as you type.
 -   `url` is a **string** and required.
 
+    -   Must start with `http://` or `https://`.
+
 -   `icon` is a **string** with the resource's favicon URL and **optional**, used on the README file.
 
     -   You can use https://favicongrabber.com to easily copy the image's URL.

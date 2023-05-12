@@ -24,14 +24,6 @@ export const resources: Resource[] = [
         icon: 'https://jamstack.email/favicon.png',
     },
     {
-        name: 'JavaScript Air',
-        categories: ['Podcast', 'Programming'],
-        description:
-            'The live JavaScript podcast all about JavaScript and the web platform. Available on YouTube, iTunes, and an RSS audio feed.',
-        url: 'https://javascriptair.com/',
-        icon: 'https://javascriptair.com/favicon.ico',
-    },
-    {
         name: 'JavaScript Developer Jobs',
         categories: ['Job'],
         description:
@@ -61,13 +53,6 @@ export const resources: Resource[] = [
             'Collection of questions that can help you improve your JavaScript knowledge and prepare to an interview.',
         url: 'https://iq.js.org/',
         icon: 'https://iq.js.org/favicon.ico',
-    },
-    {
-        name: 'JavaScript Jabber',
-        categories: ['Podcast', 'Programming'],
-        description: 'A podcast about JavaScript.',
-        url: 'https://devchat.tv/podcasts/js-jabber/',
-        icon: 'https://devchat.tv/wp-content/uploads/2020/06/cropped-Logo-web-32x32.png',
     },
     {
         name: 'JavaScript Weekly',

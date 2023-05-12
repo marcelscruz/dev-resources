@@ -39,7 +39,6 @@ export const resources: Resource[] = [
         description:
             'Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.',
         url: 'https://training.github.com/',
-        icon: '',
     },
     {
         name: 'Gcore Basic',

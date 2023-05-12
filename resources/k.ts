@@ -42,14 +42,6 @@ export const resources: Resource[] = [
         icon: 'https://cdn.kastatic.org/images/apple-touch-icon-72x72-precomposed.new.png',
     },
     {
-        name: 'Kindmetrics',
-        categories: ['Analytics'],
-        description:
-            'Kindmetrics is a strictly privacy-focused website analytics tool to help you find referrers and measure good content quickly. A more excellent way to dig into your visitors without the visitors giving their data to big enterprises.',
-        url: 'https://kindmetrics.io/',
-        icon: 'https://kindmetrics.io/assets/images/favicon-96x96.png',
-    },
-    {
         name: 'Kinsta',
         description:
             'Kinsta is a Cloud Platform designed to help your company and dev teams ship web projects faster and more efficiently. You can host your apps, databases, and sites all in one place. Easily connect with GitHub and automate deployments and get 24/7 support for all your favorite languages and frameworks.',
@@ -57,14 +49,6 @@ export const resources: Resource[] = [
         url: 'https://kinsta.com',
         icon: 'https://avatars.githubusercontent.com/u/4136982?s=200&v=4',
         keywords: ['hosting', 'cloud', 'javascript', 'php'],
-    },
-    {
-        name: 'Kite',
-        categories: ['Editor', 'Extension'],
-        description:
-            'Code faster with Kite’s AI-powered autocomplete plugin for over 16 programming languages and 16 IDEs, featuring Multi-Line Completions. Works 100% locally.',
-        url: 'https://www.kite.com/',
-        icon: 'https://www.kite.com/wp-content/themes/kite/favicon.ico',
     },
     {
         name: 'Kometa UI Kit',

@@ -110,13 +110,6 @@ export const resources: Resource[] = [
         icon: 'https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png',
     },
     {
-        name: 'web.dev - Lighthouse',
-        categories: ['Performance'],
-        description: 'See how well your website performs. Then, get tips to improve your user experience.',
-        url: 'https://web.dev/measure',
-        icon: 'https://web.dev/images/favicon-32x32.png',
-    },
-    {
         name: 'Webflow',
         categories: ['Website Builder'],
         description:

@@ -200,14 +200,6 @@ export const resources: Resource[] = [
         icon: 'https://www.fluidui.com/favicon-96x96.png',
     },
     {
-        name: 'Flutter Jobs',
-        categories: ['Job'],
-        description:
-            'A job board dedicated to Flutter, the mobile cross platform SDK. We have jobs in Africa, the Americas, Asia, Europe, Oceania, and remote.',
-        url: 'https://flutterjobs.info/',
-        icon: 'https://flutterjobs.info/favicon.png',
-    },
-    {
         name: 'Font Awesome',
         categories: ['Icon'],
         description:
@@ -329,14 +321,6 @@ export const resources: Resource[] = [
             'Fontspark is the best place for you. We are providing all the latest and professional free fonts for download that you can use on your projects.',
         url: 'https://fontspark.com/',
         icon: 'https://fontspark.com/wp-content/uploads/2022/04/fontspark-Icon.svg',
-    },
-    {
-        name: 'Free Illustrations',
-        categories: ['Illustration'],
-        description:
-            'Collection of high-resolution vector or illustrations background images for modern websites and landing pages. Updated every week with new illustrations with different topics. You can contact us to suggest new topics for illustration background images as per your need.',
-        url: 'https://freellustrations.com',
-        icon: 'https://freellustrustrations.s3.us-east-2.amazonaws.com/static/favicon.png',
     },
     {
         name: 'Free JavaScript Resources',

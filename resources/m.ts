@@ -176,24 +176,6 @@ export const resources: Resource[] = [
         icon: 'https://www.microsoft.com/favicon.ico',
     },
     {
-        name: 'Mighty',
-        categories: ['Browser', 'Productivity'],
-        description:
-            'Mighty is a new browser for work that loads pages faster, saves you time, and makes you more productive.',
-        url: 'https://www.mightyapp.com/',
-        icon: 'https://assets.website-files.com/605cf560c1c73e1ee595cfc6/605d5d7bc3427965e070639e_favicon.png',
-        keywords: ['browser', 'productivity', 'fast'],
-    },
-    {
-        name: 'MIT OpenCourseWare',
-        categories: ['Programming', 'YouTube Channel'],
-        description:
-            'Whether you’re a student, a teacher, or simply a curious person that wants to learn, MIT OpenCourseWare (OCW) offers a wealth of insight and inspiration. There are videos, and a whole lot more!',
-        keywords: ['MIT OpenCourseWare Free Courses Computer Science Academics Univesity Courses'],
-        url: 'https://ocw.mit.edu',
-        icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
-    },
-    {
         name: 'Mobbin',
         categories: ['Design', 'Inspiration', 'UI'],
         description:
@@ -246,14 +228,6 @@ export const resources: Resource[] = [
         icon: 'https://mochajs.org/static/favicon.copy.f17f048f84.ico',
     },
     {
-        name: 'Modern Web',
-        categories: ['Podcast', 'Programming'],
-        description:
-            'We host podcasts and events in Raleigh and the Bay Area on various topics across the web platform. Learn from others building modern web applications.',
-        url: 'https://www.thisdot.co/modern-web',
-        icon: 'https://uploads-ssl.webflow.com/5a9e6c4d3dd0520001f5b761/5ab8c9dfe92abfbae46d72b8_256%20original.png',
-    },
-    {
         name: 'MongoDB',
         categories: ['Database'],
         description:
@@ -303,23 +277,6 @@ export const resources: Resource[] = [
             "Morris.js is the library that powers the graphs on http://howmanyleft.co.uk/. It's a very simple API for drawing line, bar, area and donut charts.",
         url: 'https://morrisjs.github.io/morris.js/',
         icon: 'https://morrisjs.github.io/morris.js/favicon.ico',
-    },
-    {
-        name: 'Mouad Essalim',
-        categories: ['Personal Website'],
-        description:
-            'Site Personnel de Mouad Essalim ! - WorkSpace - Publication de mes application réalisé avec Python, Compilation avec Cx_Freeze et Pyinstaller',
-        url: 'https://mouadessalim.xyz/',
-        icon: 'https://mouadessalim.xyz/wp-content/uploads/fbrfg/favicon-32x32.png',
-    },
-    {
-        name: 'My Career List - Find Your Next Remote Job',
-        categories: ['Job'],
-        description:
-            'My Career List is the most advanced job search and job posting platform. Receive company insights and learn about interview experiences.',
-        url: 'https://mycareerlist.com/',
-        icon: 'https://mycareerlist.com/logo-regular.png',
-        keywords: ['job board', 'remote', 'local', 'programming'],
     },
     {
         name: 'MyPerfectResume',

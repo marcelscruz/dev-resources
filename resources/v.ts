@@ -58,13 +58,6 @@ export const resources: Resource[] = [
         icon: 'https://code.visualstudio.com/favicon.ico',
     },
     {
-        name: 'VisualHunt',
-        categories: ['Image'],
-        description: 'Visually search the best products and ideas. Curated by experts, powered by community.',
-        url: 'https://visualhunt.com/',
-        icon: 'https://visualhunt.com/favicon.ico',
-    },
-    {
         name: 'Vue.js devtools',
         description: 'Browser devtools extension for debugging Vue.js applications',
         categories: ['Browser', 'Extension'],

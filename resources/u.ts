@@ -190,14 +190,6 @@ export const resources: Resource[] = [
         icon: 'https://up-for-grabs.net/icons/favicon-196x196.png',
     },
     {
-        name: 'urlmskr',
-        description: 'Simple and free to use URL masker',
-        categories: ['Tooling'],
-        url: 'https://axorax.github.io/urlmskr/',
-        icon: 'https://axorax.github.io/urlmskr/assets/icon.png',
-        keywords: ['url', 'link', 'masker', 'url-masker'],
-    },
-    {
         name: 'Use The Keyboard',
         categories: ['Productivity'],
         description: 'A collection of keyboard shortcuts for Mac apps, Windows programs, and a variety of websites.',

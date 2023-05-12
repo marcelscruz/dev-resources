@@ -58,14 +58,6 @@ export const resources: Resource[] = [
         icon: 'https://reactjsjob.com/img/icons/favicon-32x32.png',
     },
     {
-        name: 'React Native Radio',
-        categories: ['Podcast', 'Programming'],
-        description: 'Exploring React Native Together.',
-        url: 'https://devchat.tv/react-native-radio/',
-        icon:
-            'https://image.simplecastcdn.com/images/fd1212b1-7d08-4c5a-8506-00188a4c6528/bb6b7476-a0a9-4ff4-86f0-eded00b3f80a/favicon-red.jpg',
-    },
-    {
         name: 'React Podcast',
         categories: ['Podcast', 'Programming'],
         description: 'Conversations about React with your favorite developers.',
@@ -361,14 +353,6 @@ export const resources: Resource[] = [
             'Find specific Rust Jobs, including Remote Rust Jobs. You are looking for Rust Developers? Submit your job ad',
         url: 'https://rustjob.xyz/',
         icon: 'https://rustjob.xyz/img/icons/favicon-32x32.png',
-    },
-    {
-        name: 'RWD Weekly Newsletter',
-        categories: ['Newsletter', 'Programming'],
-        description:
-            'A free, once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links. I spend hours curating the best content,.',
-        url: 'https://responsivedesign.is/newsletter/',
-        icon: 'https://responsivedesign.is/wp-content/themes/rwd-is/favicon-32x32.png',
     },
     {
         name: 'React Free Admin',
