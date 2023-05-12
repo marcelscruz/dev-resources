@@ -1,5 +1,5 @@
 {
-"count": 764,
+"count": 735,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1003,14 +1003,6 @@
         "icon": "https://gionkunz.github.io/chartist-js/favicon.ico"
     },
     {
-        "name": "Cheat Sheet Maker",
-        "categories": [
-            "Cheatsheet"
-        ],
-        "description": "Create and share cheat sheets to study and work with cheat sheet maker.",
-        "url": "https://cheatsheetmaker.com/"
-    },
-    {
         "name": "Cheatography",
         "categories": [
             "Cheatsheet"
@@ -1154,7 +1146,7 @@
             "clip",
             "mac"
         ],
-        "url": "https://clideo.com/video-maker",
+        "url": "https://clideo.com",
         "icon": "https://static.clideo.com/assets/images/favicon/64x64.png"
     },
     {
@@ -2324,7 +2316,7 @@
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
     {
-        "name": "DesignJoy",
+        "name": "Designjoy",
         "categories": [
             "Design"
         ],
@@ -2360,43 +2352,6 @@
         ],
         "url": "https://www.youtube.com/c/DevEd/",
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
-    },
-    {
-        "name": "Dev Weekly",
-        "categories": [
-            "Newsletter",
-            "Programming",
-            "UI",
-            "UX"
-        ],
-        "description": "A no nonsense newsletter delivered every Sunday with more than 50 resources ranging from mobile to web, UI/UX, Python, database, career, life, challenges and more without any ads or sponsors. It also features one creator per week!",
-        "keywords": [
-            "web",
-            "html",
-            "css",
-            "javascript",
-            "code",
-            "python",
-            "data",
-            "ai",
-            "mobile",
-            "apps",
-            "flutter",
-            "android",
-            "ios",
-            "design",
-            "work",
-            "culture",
-            "job",
-            "challenges",
-            "tools",
-            "software",
-            "creators",
-            "tips",
-            "resources"
-        ],
-        "url": "https://mailchi.mp/f59beeac6b9b/devupdates",
-        "icon": "https://mailchimp.com/release/plums/cxp/images/apple-touch-icon-192.ce8f3e6d.png"
     },
     {
         "name": "devChallenges",
@@ -3073,15 +3028,6 @@
         "icon": "https://www.fluidui.com/favicon-96x96.png"
     },
     {
-        "name": "Flutter Jobs",
-        "categories": [
-            "Job"
-        ],
-        "description": "A job board dedicated to Flutter, the mobile cross platform SDK. We have jobs in Africa, the Americas, Asia, Europe, Oceania, and remote.",
-        "url": "https://flutterjobs.info/",
-        "icon": "https://flutterjobs.info/favicon.png"
-    },
-    {
         "name": "Font Awesome",
         "categories": [
             "Icon"
@@ -3219,15 +3165,6 @@
         "description": "Fontspark is the best place for you. We are providing all the latest and professional free fonts for download that you can use on your projects.",
         "url": "https://fontspark.com/",
         "icon": "https://fontspark.com/wp-content/uploads/2022/04/fontspark-Icon.svg"
-    },
-    {
-        "name": "Free Illustrations",
-        "categories": [
-            "Illustration"
-        ],
-        "description": "Collection of high-resolution vector or illustrations background images for modern websites and landing pages. Updated every week with new illustrations with different topics. You can contact us to suggest new topics for illustration background images as per your need.",
-        "url": "https://freellustrations.com",
-        "icon": "https://freellustrustrations.s3.us-east-2.amazonaws.com/static/favicon.png"
     },
     {
         "name": "Free JavaScript Resources",
@@ -3622,8 +3559,7 @@
             "Cheatsheet"
         ],
         "description": "Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.",
-        "url": "https://training.github.com/",
-        "icon": ""
+        "url": "https://training.github.com/"
     },
     {
         "name": "GitHub Pages",
@@ -3965,15 +3901,6 @@
         "description": "Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.",
         "url": "https://hacktoberfest.digitalocean.com/",
         "icon": "https://hacktoberfest.digitalocean.com/favicon.ico"
-    },
-    {
-        "name": "Hacktoberfest Finder",
-        "categories": [
-            "Hacktoberfest"
-        ],
-        "description": "Hacktoberfest Finder helps you find issues that you could help fix.",
-        "url": "https://hacktoberfest-finder.netlify.app/",
-        "icon": "https://hacktoberfest-finder.netlify.app/img/favicons/apple-touch-icon.png"
     },
     {
         "name": "Hacktoberfest Swag List",
@@ -4401,16 +4328,6 @@
         "icon": "https://www.indeed.com/profile/gatsby-assets/icons/icon-96x96.png?v=d69338e3b43810840b9a84d69dbaa30e"
     },
     {
-        "name": "Indie Bits",
-        "categories": [
-            "Podcast",
-            "Startup"
-        ],
-        "description": "Short, bite-sized conversations (15 mins) with indie hackers that have started small, profitable and bootstrapped businesses. You'll learn how they come up with ideas, what they do to validate, find those first customers and make a sustainable income.",
-        "url": "https://indiebites.co/",
-        "icon": "https://s3.amazonaws.com/super-notion/images/26707ca1-dc44-44e8-90ce-9e6220840f71.png"
-    },
-    {
         "name": "Indie Hackers",
         "categories": [
             "Podcast",
@@ -4567,16 +4484,6 @@
         "icon": "https://jamstack.email/favicon.png"
     },
     {
-        "name": "JavaScript Air",
-        "categories": [
-            "Podcast",
-            "Programming"
-        ],
-        "description": "The live JavaScript podcast all about JavaScript and the web platform. Available on YouTube, iTunes, and an RSS audio feed.",
-        "url": "https://javascriptair.com/",
-        "icon": "https://javascriptair.com/favicon.ico"
-    },
-    {
         "name": "JavaScript Developer Jobs",
         "categories": [
             "Job"
@@ -4612,16 +4519,6 @@
         "description": "Collection of questions that can help you improve your JavaScript knowledge and prepare to an interview.",
         "url": "https://iq.js.org/",
         "icon": "https://iq.js.org/favicon.ico"
-    },
-    {
-        "name": "JavaScript Jabber",
-        "categories": [
-            "Podcast",
-            "Programming"
-        ],
-        "description": "A podcast about JavaScript.",
-        "url": "https://devchat.tv/podcasts/js-jabber/",
-        "icon": "https://devchat.tv/wp-content/uploads/2020/06/cropped-Logo-web-32x32.png"
     },
     {
         "name": "JavaScript Weekly",
@@ -4788,15 +4685,6 @@
         "icon": "https://cdn.kastatic.org/images/apple-touch-icon-72x72-precomposed.new.png"
     },
     {
-        "name": "Kindmetrics",
-        "categories": [
-            "Analytics"
-        ],
-        "description": "Kindmetrics is a strictly privacy-focused website analytics tool to help you find referrers and measure good content quickly. A more excellent way to dig into your visitors without the visitors giving their data to big enterprises.",
-        "url": "https://kindmetrics.io/",
-        "icon": "https://kindmetrics.io/assets/images/favicon-96x96.png"
-    },
-    {
         "name": "Kinsta",
         "description": "Kinsta is a Cloud Platform designed to help your company and dev teams ship web projects faster and more efficiently. You can host your apps, databases, and sites all in one place. Easily connect with GitHub and automate deployments and get 24/7 support for all your favorite languages and frameworks.",
         "categories": [
@@ -4812,16 +4700,6 @@
             "javascript",
             "php"
         ]
-    },
-    {
-        "name": "Kite",
-        "categories": [
-            "Editor",
-            "Extension"
-        ],
-        "description": "Code faster with Kite’s AI-powered autocomplete plugin for over 16 programming languages and 16 IDEs, featuring Multi-Line Completions. Works 100% locally.",
-        "url": "https://www.kite.com/",
-        "icon": "https://www.kite.com/wp-content/themes/kite/favicon.ico"
     },
     {
         "name": "Kometa UI Kit",
@@ -5462,34 +5340,6 @@
         "icon": "https://www.microsoft.com/favicon.ico"
     },
     {
-        "name": "Mighty",
-        "categories": [
-            "Browser",
-            "Productivity"
-        ],
-        "description": "Mighty is a new browser for work that loads pages faster, saves you time, and makes you more productive.",
-        "url": "https://www.mightyapp.com/",
-        "icon": "https://assets.website-files.com/605cf560c1c73e1ee595cfc6/605d5d7bc3427965e070639e_favicon.png",
-        "keywords": [
-            "browser",
-            "productivity",
-            "fast"
-        ]
-    },
-    {
-        "name": "MIT OpenCourseWare",
-        "categories": [
-            "Programming",
-            "YouTube Channel"
-        ],
-        "description": "Whether you’re a student, a teacher, or simply a curious person that wants to learn, MIT OpenCourseWare (OCW) offers a wealth of insight and inspiration. There are videos, and a whole lot more!",
-        "keywords": [
-            "MIT OpenCourseWare Free Courses Computer Science Academics Univesity Courses"
-        ],
-        "url": "https://ocw.mit.edu",
-        "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
-    },
-    {
         "name": "Mobbin",
         "categories": [
             "Design",
@@ -5548,16 +5398,6 @@
         "icon": "https://mochajs.org/static/favicon.copy.f17f048f84.ico"
     },
     {
-        "name": "Modern Web",
-        "categories": [
-            "Podcast",
-            "Programming"
-        ],
-        "description": "We host podcasts and events in Raleigh and the Bay Area on various topics across the web platform. Learn from others building modern web applications.",
-        "url": "https://www.thisdot.co/modern-web",
-        "icon": "https://uploads-ssl.webflow.com/5a9e6c4d3dd0520001f5b761/5ab8c9dfe92abfbae46d72b8_256%20original.png"
-    },
-    {
         "name": "MongoDB",
         "categories": [
             "Database"
@@ -5612,30 +5452,6 @@
         "description": "Morris.js is the library that powers the graphs on http://howmanyleft.co.uk/. It's a very simple API for drawing line, bar, area and donut charts.",
         "url": "https://morrisjs.github.io/morris.js/",
         "icon": "https://morrisjs.github.io/morris.js/favicon.ico"
-    },
-    {
-        "name": "Mouad Essalim",
-        "categories": [
-            "Personal Website"
-        ],
-        "description": "Site Personnel de Mouad Essalim ! - WorkSpace - Publication de mes application réalisé avec Python, Compilation avec Cx_Freeze et Pyinstaller",
-        "url": "https://mouadessalim.xyz/",
-        "icon": "https://mouadessalim.xyz/wp-content/uploads/fbrfg/favicon-32x32.png"
-    },
-    {
-        "name": "My Career List - Find Your Next Remote Job",
-        "categories": [
-            "Job"
-        ],
-        "description": "My Career List is the most advanced job search and job posting platform. Receive company insights and learn about interview experiences.",
-        "url": "https://mycareerlist.com/",
-        "icon": "https://mycareerlist.com/logo-regular.png",
-        "keywords": [
-            "job board",
-            "remote",
-            "local",
-            "programming"
-        ]
     },
     {
         "name": "MyPerfectResume",
@@ -6262,15 +6078,6 @@
         "icon": "https://projectlearn.io/projectlearn.png"
     },
     {
-        "name": "Proxies API",
-        "categories": [
-            "Scraping"
-        ],
-        "description": "Want to send custom headers? Want to run sticky sessions with a single IP? Want to scrape AJAX based content? We have you covered. You can customise almost all this in a single line of code, no matter the language you are using or the setup. Proxies API was created for developers by developers with the goal of making it dead easy to get started with zero coding overhead.",
-        "url": "www.proxiesapi.com",
-        "icon": "https://www.proxiesapi.com/assets/favicon.ico"
-    },
-    {
         "name": "Pttrns",
         "categories": [
             "Design",
@@ -6310,16 +6117,6 @@
         ],
         "url": "https://pttrns.com/",
         "icon": "https://s3.amazonaws.com/pttrns-2-0-static/assets/img/favicons/favicon-96x96.png"
-    },
-    {
-        "name": "Pull Request Roulette",
-        "categories": [
-            "Hacktoberfest",
-            "Open Source"
-        ],
-        "description": "Web app to match up developers, with public pull requests (PRs) on Github, with people willing to comment on their PRs.",
-        "url": "http://www.pullrequestroulette.com/",
-        "icon": "http://www.pullrequestroulette.com/assets/favicon-c7222dcd8c2c148cbd4ee961fdb75431a0ff1399b2245da43057ee1d15a187b0.gif"
     },
     {
         "name": "Puppeteer",
@@ -6476,16 +6273,6 @@
         "description": "Find specific React Jobs, including Remote ReactJS Jobs. You are looking for React JS Developers? Submit your job ad",
         "url": "https://reactjsjob.com/",
         "icon": "https://reactjsjob.com/img/icons/favicon-32x32.png"
-    },
-    {
-        "name": "React Native Radio",
-        "categories": [
-            "Podcast",
-            "Programming"
-        ],
-        "description": "Exploring React Native Together.",
-        "url": "https://devchat.tv/react-native-radio/",
-        "icon": "https://image.simplecastcdn.com/images/fd1212b1-7d08-4c5a-8506-00188a4c6528/bb6b7476-a0a9-4ff4-86f0-eded00b3f80a/favicon-red.jpg"
     },
     {
         "name": "React Podcast",
@@ -6880,25 +6667,6 @@
         "icon": "https://rustjob.xyz/img/icons/favicon-32x32.png"
     },
     {
-        "name": "RWD Weekly Newsletter",
-        "categories": [
-            "Newsletter",
-            "Programming"
-        ],
-        "description": "A free, once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links. I spend hours curating the best content,.",
-        "url": "https://responsivedesign.is/newsletter/",
-        "icon": "https://responsivedesign.is/wp-content/themes/rwd-is/favicon-32x32.png"
-    },
-    {
-        "name": "SaaS Blocks",
-        "categories": [
-            "Template"
-        ],
-        "description": "SaaS Blocks UI kit enables founders, designers & developers to create the perfect SaaS website.",
-        "url": "https://gumroad.com/a/399283315/FbINx",
-        "icon": "https://gumroad.com/favicon.ico"
-    },
-    {
         "name": "SaaS Design",
         "categories": [
             "Design",
@@ -6960,8 +6728,7 @@
             "Screenshot"
         ],
         "description": "Turn ordinary screenshots into beautiful image assets in no time",
-        "url": "https://www.screenstab.com/",
-        "icon": ""
+        "url": "https://www.screenstab.com/"
     },
     {
         "name": "Scrimba",
@@ -7320,15 +7087,6 @@
         "description": "Every two weeks our editorial team works on short, relevant articles for the upcoming issue. The newsletter is sent out bi-weekly, on Tuesdays.",
         "url": "https://www.smashingmagazine.com/the-smashing-newsletter/",
         "icon": "https://www.smashingmagazine.com/images/favicon/apple-touch-icon-ipad-76x76.png"
-    },
-    {
-        "name": "Smplkit",
-        "categories": [
-            "Icon"
-        ],
-        "description": "An open source, do-whatever-you-want icon font to use in your projects.",
-        "url": "https://www.smplkit.com/",
-        "icon": "https://uploads-ssl.webflow.com/5e08877ced2a2771907388a9/5e2d9bc8d2e0671a88b1658b_smplkit-icon-3.png"
     },
     {
         "name": "snappify",
@@ -7790,25 +7548,6 @@
         "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
     },
     {
-        "name": "Templated",
-        "categories": [
-            "Template"
-        ],
-        "description": "A collection of 867 Creative Commons-licensed CSS, HTML5 and Responsive site templates created by Cherry, Doni, AJ, and co.",
-        "keywords": [
-            "templates",
-            "site templates",
-            "website templates",
-            "freebies",
-            "html5",
-            "css",
-            "responsive",
-            "creative commons"
-        ],
-        "url": "https://templated.co/",
-        "icon": "https://templated.co/assets/icons/apple-touch-icon-precomposed.png"
-    },
-    {
         "name": "TemplateMo",
         "categories": [
             "Template"
@@ -7835,7 +7574,8 @@
         "name": "Test Automation University",
         "categories": [
             "Learn",
-            "Programming"
+            "Programming",
+            "Testing"
         ],
         "description": "Become a test automation superstar! 🌟.",
         "url": "https://testautomationu.applitools.com/",
@@ -7918,15 +7658,6 @@
         "icon": "https://changelog.com/favicon.ico"
     },
     {
-        "name": "The Coding Interview",
-        "categories": [
-            "Interview"
-        ],
-        "description": "Everything you need to ace the coding interview all in one place. Crack the coding interview with just 5 minutes of preparation a day.",
-        "url": "https://www.thecodinginterview.com/",
-        "icon": "https://uploads-ssl.webflow.com/5f17477084d0f15f5288e7d1/5f23f0b1139fc4dfad8b714f_favicon.png"
-    },
-    {
         "name": "The Coding Train",
         "categories": [
             "Programming",
@@ -7952,24 +7683,13 @@
         "keywords": []
     },
     {
-        "name": "The Future of Programming Languages at the Confluence of Paradigms",
-        "categories": [
-            "Programming",
-            "YouTube Channel"
-        ],
-        "description": "Talk on The Future of Programming Languages at the Confluence of Paradigms by Robert \"Uncle Bob\" Martin",
-        "url": "https://www.youtube.com/watch?v=ya1xDCCMh7g",
-        "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
-    },
-    {
         "name": "The Hammerstone Podcast",
         "categories": [
             "Podcast",
             "Startup"
         ],
         "description": "Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm!",
-        "url": "https://hammerstone.dev/podcast",
-        "icon": ""
+        "url": "https://hammerstone.dev/podcast"
     },
     {
         "name": "The Net Ninja",
@@ -8085,6 +7805,7 @@
     {
         "name": "tl;dr Marketing",
         "categories": [
+            "Marketing",
             "SEO"
         ],
         "description": "Get the latest breaking news and trends about SEO, paid media and social media without all the fluff.",
@@ -8488,21 +8209,6 @@
         "icon": "https://www.upwork.com/ab/brontes/favicon.ico"
     },
     {
-        "name": "urlmskr",
-        "description": "Simple and free to use URL masker",
-        "categories": [
-            "Tooling"
-        ],
-        "url": "https://axorax.github.io/urlmskr/",
-        "icon": "https://axorax.github.io/urlmskr/assets/icon.png",
-        "keywords": [
-            "url",
-            "link",
-            "masker",
-            "url-masker"
-        ]
-    },
-    {
         "name": "Use The Keyboard",
         "categories": [
             "Productivity"
@@ -8635,15 +8341,6 @@
         "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.",
         "url": "https://code.visualstudio.com/",
         "icon": "https://code.visualstudio.com/favicon.ico"
-    },
-    {
-        "name": "VisualHunt",
-        "categories": [
-            "Image"
-        ],
-        "description": "Visually search the best products and ideas. Curated by experts, powered by community.",
-        "url": "https://visualhunt.com/",
-        "icon": "https://visualhunt.com/favicon.ico"
     },
     {
         "name": "Vue.js devtools",
@@ -8807,15 +8504,6 @@
         "description": "Analyses any web page for violations of best practices.",
         "url": "https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en",
         "icon": "https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png"
-    },
-    {
-        "name": "web.dev - Lighthouse",
-        "categories": [
-            "Performance"
-        ],
-        "description": "See how well your website performs. Then, get tips to improve your user experience.",
-        "url": "https://web.dev/measure",
-        "icon": "https://web.dev/images/favicon-32x32.png"
     },
     {
         "name": "Webflow",
@@ -9011,41 +8699,6 @@
         "description": "The #1 Manual & Automated Testing App for Jira. Plan, Execute and Track your Quality Assurance with Requirements Traceability.",
         "url": "https://www.getxray.app/",
         "icon": "https://www.getxray.app/wp-content/themes/xpandit/dist/images/favicons/android-chrome-512x512.png"
-    },
-    {
-        "name": "XServer",
-        "categories": [
-            "Database"
-        ],
-        "description": "XServer - JSON-based backend for Mobile apps, Websites and Unity games.",
-        "keywords": [
-            "iOS",
-            "Android",
-            "JavaScript",
-            "apps",
-            "backend",
-            "mobile",
-            "website",
-            "baas",
-            "parse",
-            "firebase",
-            "database",
-            "json",
-            "php",
-            "javascript",
-            "jquery"
-        ],
-        "url": "https://xserver.app/",
-        "icon": "https://xserver.app/assets/img/favicon.png"
-    },
-    {
-        "name": "XState Guide",
-        "categories": [
-            "Code Snippet"
-        ],
-        "description": "Minimal code examples of XState concepts.",
-        "url": "https://bradwoods.io/guides/xstate",
-        "icon": "https://bradwoods.io/icons-ac8e8fb7acba0bf710955dec094dc16c/apple-touch-icon-76x76.png"
     },
     {
         "name": "xstyled",
