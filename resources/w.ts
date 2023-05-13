@@ -56,6 +56,13 @@ export const resources: Resource[] = [
         icon: 'https://www.w3schools.com/favicon.ico',
     },
     {
+        name: 'Wallaby.js',
+        categories: ['Editor', 'Extension'],
+        description: 'Wallaby.js runs your JavaScript and TypeScript tests immediately as you type in VS Code, WebStorm and other editors, highlighting results next to your code.',
+        url: 'https://wallabyjs.com/',
+        icon: 'https://wallabyjs.com/assets/img/favicon.ico',
+    },
+    {
         name: 'Wappalyzer',
         categories: ['Browser', 'Extension'],
         description:

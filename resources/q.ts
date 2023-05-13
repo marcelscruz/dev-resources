@@ -10,10 +10,10 @@ export const resources: Resource[] = [
         icon: 'https://qoddi.com/assets/images/favicon.ico',
     },
     {
-        name: 'Quokka',
+        name: 'Quokka.js',
         categories: ['Editor', 'Extension'],
-        description: 'Quokka.js: Introduction.',
-        url: 'https://quokkajs.com/docs/index.html',
-        icon: 'https://quokkajs.com/assets/img/favicon.ico?v=2',
+        description: 'Quokka.js runs your JavaScript and TypeScript code and displays results inline in VS Code, WebStorm, and Sublime Text.',
+        url: 'https://quokkajs.com/',
+        icon: 'https://quokkajs.com/assets/img/favicon.ico',
     },
 ]
