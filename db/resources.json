@@ -1,5 +1,5 @@
 {
-"count": 735,
+"count": 736,
 "data": [
     {
         "name": "1001 Fonts",
@@ -354,6 +354,27 @@
         "description": ":wheelchair: A curate list about A11Y. Contribute to brunopulis/awesome-a11y development by creating an account on GitHub.",
         "url": "https://github.com/brunopulis/awesome-a11y",
         "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
+    },
+    {
+        "name": "Awesome Certificates",
+        "categories": [
+            "Learn",
+            "Programming"
+        ],
+        "description": "A curated list of IT, Computer Science and Business courses with free certificates to earn.",
+        "url": "https://github.com/panxproject/awesome-certificates",
+        "icon": "https://github.com/PanXProject/awesome-certificates/blob/main/media/50pxsafepanxicon.png",
+        "keywords": [
+            "learn",
+            "courses",
+            "certificates",
+            "awesome",
+            "panx",
+            "free",
+            "it",
+            "cs",
+            "business"
+        ]
     },
     {
         "name": "Awesome Courses",
