@@ -142,15 +142,17 @@ export const resources: Resource[] = [
     },
     {
         name: 'Aptabase',
-        description: 'Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web apps. Get simple and actionable insights without compromising user privacy.',
+        description:
+            'Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web apps. Get simple and actionable insights without compromising user privacy.',
         categories: ['Analytics', 'Open Source'],
         url: 'https://aptabase.com',
         icon: 'https://aptabase.com/favicon-32x32.png',
-        keywords: ['mobile', 'analytics', "privacy", "opensource"],
+        keywords: ['mobile', 'analytics', 'privacy', 'opensource'],
     },
     {
         name: 'Aptakube',
-        description: 'Modern, lightweight and multi-cluster Kubernetes desktop client. Available on Windows, macOS and Linux.',
+        description:
+            'Modern, lightweight and multi-cluster Kubernetes desktop client. Available on Windows, macOS and Linux.',
         categories: ['Cloud Computing', 'Productivity'],
         url: 'https://aptakube.com',
         icon: 'https://aptakube.com/favicon-32x32.png',
@@ -201,6 +203,14 @@ export const resources: Resource[] = [
             ':wheelchair: A curate list about A11Y. Contribute to brunopulis/awesome-a11y development by creating an account on GitHub.',
         url: 'https://github.com/brunopulis/awesome-a11y',
         icon: 'https://github.githubassets.com/favicons/favicon-dark.svg',
+    },
+    {
+        name: 'Awesome Certificates',
+        categories: ['Learn', 'Programming'],
+        description: 'A curated list of IT, Computer Science and Business courses with free certificates to earn.',
+        url: 'https://github.com/panxproject/awesome-certificates',
+        icon: 'https://github.com/PanXProject/awesome-certificates/blob/main/media/50pxsafepanxicon.png',
+        keywords: ['learn', 'courses', 'certificates', 'awesome', 'panx', 'free', 'it', 'cs', 'business'],
     },
     {
         name: 'Awesome Courses',
