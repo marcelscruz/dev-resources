@@ -711,6 +711,13 @@ export const resources: Resource[] = [
         icon: 'https://github.githubassets.com/apple-touch-icon-114x114.png',
     },
     {
+        name: 'Console Ninja',
+        categories: ['Editor', 'Extension'],
+        description: 'Console Ninja is a VS Code extension that allows you to see console.log output and runtime errors right next to your code.',
+        url: 'https://console-ninja.com',
+        icon: 'https://console-ninja.com/images/favicon.ico',
+    },
+    {
         name: 'ContentKing',
         categories: ['SEO'],
         description:
