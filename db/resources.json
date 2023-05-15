@@ -1,5 +1,5 @@
 {
-"count": 736,
+"count": 738,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1809,6 +1809,16 @@
         "description": "List of Computer Science courses with video lectures.",
         "url": "https://github.com/Developer-Y/cs-video-courses",
         "icon": "https://github.githubassets.com/apple-touch-icon-114x114.png"
+    },
+    {
+        "name": "Console Ninja",
+        "categories": [
+            "Editor",
+            "Extension"
+        ],
+        "description": "Console Ninja is a VS Code extension that allows you to see console.log output and runtime errors right next to your code.",
+        "url": "https://console-ninja.com",
+        "icon": "https://console-ninja.com/images/favicon.ico"
     },
     {
         "name": "ContentKing",
@@ -6202,14 +6212,14 @@
         "icon": "https://qoddi.com/assets/images/favicon.ico"
     },
     {
-        "name": "Quokka",
+        "name": "Quokka.js",
         "categories": [
             "Editor",
             "Extension"
         ],
-        "description": "Quokka.js: Introduction.",
-        "url": "https://quokkajs.com/docs/index.html",
-        "icon": "https://quokkajs.com/assets/img/favicon.ico?v=2"
+        "description": "Quokka.js runs your JavaScript and TypeScript code and displays results inline in VS Code, WebStorm, and Sublime Text.",
+        "url": "https://quokkajs.com/",
+        "icon": "https://quokkajs.com/assets/img/favicon.ico"
     },
     {
         "name": "RapidAPI",
@@ -8450,6 +8460,16 @@
         ],
         "url": "https://www.w3schools.com/",
         "icon": "https://www.w3schools.com/favicon.ico"
+    },
+    {
+        "name": "Wallaby.js",
+        "categories": [
+            "Editor",
+            "Extension"
+        ],
+        "description": "Wallaby.js runs your JavaScript and TypeScript tests immediately as you type in VS Code, WebStorm and other editors, highlighting results next to your code.",
+        "url": "https://wallabyjs.com/",
+        "icon": "https://wallabyjs.com/assets/img/favicon.ico"
     },
     {
         "name": "Wappalyzer",
