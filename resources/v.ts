@@ -42,6 +42,14 @@ export const resources: Resource[] = [
         icon: 'https://vim-adventures.com/favicon.ico',
     },
     {
+        name: 'Visily',
+        categories: ['UI', 'UX', 'Design', 'Prototyping'],
+        description:
+            'Visily leverages AI to generate stunning app wireframes and prototypes from various inputs such as text prompts, hand-drawn sketches, and screenshots of existing applications or websites.',
+        url: 'https://www.visily.ai/',
+        icon: 'https://www.visily.ai/wp-content/uploads/2022/02/cropped-favicon-192x192.png',
+    },
+    {
         name: 'Visiwig',
         categories: ['Icon', 'Illustration'],
         description:
