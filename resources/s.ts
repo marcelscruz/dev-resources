@@ -181,6 +181,17 @@ export const resources: Resource[] = [
         description: '1493 Free SVG icons for popular brands.',
         url: 'http://simpleicons.org/',
         icon: 'https://simpleicons.org/images/apple-touch-icon.png',
+    }, ,
+    {
+        name: "SimpleLogin",
+        categories: ["Security", "Email", "Open Source", "Tooling"],
+        description: "Your email address is your online identity. When you use the same email address everywhere, you can be easily tracked",
+        url: "https://simplelogin.io/",
+        icon: "https://simplelogin.io/logo.svg",
+        keywords: [
+            "Email",
+            "Privacy"
+        ]
     },
     {
         name: 'Site123',
