@@ -1,5 +1,5 @@
 {
-"count": 738,
+"count": 739,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8352,6 +8352,18 @@
         "description": "VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the \"Zelda meets text editing\" game. So come have some fun and learn some VIM!",
         "url": "https://vim-adventures.com/",
         "icon": "https://vim-adventures.com/favicon.ico"
+    },
+    {
+        "name": "Visily",
+        "categories": [
+            "UI",
+            "UX",
+            "Design",
+            "Prototyping"
+        ],
+        "description": "Visily leverages AI to generate stunning app wireframes and prototypes from various inputs such as text prompts, hand-drawn sketches, and screenshots of existing applications or websites.",
+        "url": "https://www.visily.ai/",
+        "icon": "https://www.visily.ai/wp-content/uploads/2022/02/cropped-favicon-192x192.png"
     },
     {
         "name": "Visiwig",
