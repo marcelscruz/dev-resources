@@ -45,6 +45,15 @@ export const resources: Resource[] = [
         icon: 'https://www.scrapingbee.com/images/logo_2.png',
     },
     {
+        name: 'Screen Studio',
+        categories: ['Editor', 'Video'],
+        description:
+            'Screen Studio is a professional and simple to use screen recorder for macOS that lets you create professionally looking screen recordings & tutorial videos in minutes, without video editing skills needed.',
+        url: 'https://www.screen.studio',
+        icon: 'https://www.screen.studio/icon.png',
+        keywords: ['video', 'editor', 'mac', 'app', 'screen', 'recorder'],
+    },
+    {
         name: 'Screenstab',
         categories: ['Screenshot'],
         description: 'Turn ordinary screenshots into beautiful image assets in no time',
