@@ -345,6 +345,15 @@ export const resources: Resource[] = [
         keywords: ['website builder video tutorials', 'google sites', 'landing pages', 'portfolio', 'personal site'],
     },
     {
+        name: 'Tweet Hunter',
+        categories: ['Marketing', 'Twitter'],
+        description: '',
+        url: 'https://tweethunter.io',
+        icon:
+            'https://uploads-ssl.webflow.com/62753f70ab07d3b66d844be5/62753f70ab07d35684844c5e_favicon%20tweet%20hunter.png',
+        keywords: ['twitter', 'growth', 'scheduling', 'social media'],
+    },
+    {
         name: 'TypeLit',
         categories: ['Typing'],
         description: 'Practice typing by retyping entire novels.',
