@@ -912,7 +912,7 @@ Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://
  <img src="https://orbit.love/assets/images/favicon/32x32.png" width="16" /> | [Orbit](https://orbit.love/) | Orbit is the community experience platform for developers, helping organizations build enthusiastic communities of technology adopters. |  |
  <img src="https://ph-static.imgix.net/ph-ios-icon.png?auto=format&auto=compress" width="16" /> | [Product Hunt](https://www.producthunt.com/) | Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about. |  |
  <img src="https://tldrmarketing.com/wp-content/uploads/2020/05/cropped-tldr-logo-1000-32x32.png" width="16" /> | [tl;dr Marketing](https://tldrmarketing.com/) | Get the latest breaking news and trends about SEO, paid media and social media without all the fluff. |  |
- <img src="https://uploads-ssl.webflow.com/62753f70ab07d3b66d844be5/62753f70ab07d35684844c5e_favicon%20tweet%20hunter.png" width="16" /> | [Tweet Hunter](https://tweethunter.io) |  | twitter, growth, scheduling, social media |
+ <img src="https://uploads-ssl.webflow.com/62753f70ab07d3b66d844be5/62753f70ab07d35684844c5e_favicon%20tweet%20hunter.png" width="16" /> | [Tweet Hunter](https://tweethunter.io) | Build and monetize your Twitter audience. Get sales, growth and new networks. Faster than what you're currently trying. | twitter, growth, scheduling, social media |
  <img src="https://userbooster.co/images/home/share.jpg" width="16" /> | [UserBooster](https://userbooster.co) | UserBooster is a Notion template that helps startups to get their first users and build their launch strategy |  |
 
 **[⬆ Back to Index](#index)**
@@ -1443,7 +1443,7 @@ Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
  <img src="https://gettheaudience.com/images/icons/icon-96x96.png" width="16" /> | [Get The Audience](https://gettheaudience.com/) | Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached. |  |
- <img src="https://uploads-ssl.webflow.com/62753f70ab07d3b66d844be5/62753f70ab07d35684844c5e_favicon%20tweet%20hunter.png" width="16" /> | [Tweet Hunter](https://tweethunter.io) |  | twitter, growth, scheduling, social media |
+ <img src="https://uploads-ssl.webflow.com/62753f70ab07d3b66d844be5/62753f70ab07d35684844c5e_favicon%20tweet%20hunter.png" width="16" /> | [Tweet Hunter](https://tweethunter.io) | Build and monetize your Twitter audience. Get sales, growth and new networks. Faster than what you're currently trying. | twitter, growth, scheduling, social media |
 
 **[⬆ Back to Index](#index)**
 
