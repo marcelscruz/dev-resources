@@ -347,7 +347,8 @@ export const resources: Resource[] = [
     {
         name: 'Tweet Hunter',
         categories: ['Marketing', 'Twitter'],
-        description: '',
+        description:
+            "Build and monetize your Twitter audience. Get sales, growth and new networks. Faster than what you're currently trying.",
         url: 'https://tweethunter.io',
         icon:
             'https://uploads-ssl.webflow.com/62753f70ab07d3b66d844be5/62753f70ab07d35684844c5e_favicon%20tweet%20hunter.png',
