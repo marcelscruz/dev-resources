@@ -54,6 +54,7 @@ Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://
  <img src="https://greip.io/img/greip-logo-c.png" width="16" /> | [Greip](https://greip.io/) | One of the must trusted Fraud Prevention services, which allows you to deploy AI-Powered modules to prevent fraud and abuse. | ai, fraud prevention, api, geoip, profanity detection |
  <img src="https://lexica.art/favicon.ico" width="16" /> | [Lexica](https://lexica.art/) | The Stable Diffusion search engine. |  |
  <img src="https://firebasestorage.googleapis.com/v0/b/projectai-prod.appspot.com/o/project%2Flogo%2Ffavicon.ico?alt=media&token=4607d58a-503c-49f1-8181-decf24ce29af" width="16" /> | [PoweredbyAI](https://poweredbyai.app) | A directory with 100+ AI tools to help you with your daily tasks | ai, ai tools, copywriting, image generator |
+ <img src="https://www.visily.ai/wp-content/uploads/2022/02/cropped-favicon-192x192.png" width="16" /> | [Visily](https://www.visily.ai/) | Visily leverages AI to generate stunning app wireframes and prototypes from various inputs such as text prompts, hand-drawn sketches, and screenshots of existing applications or websites. |  |
 
 **[⬆ Back to Index](#index)**
 
