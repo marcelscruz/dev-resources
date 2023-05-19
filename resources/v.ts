@@ -43,7 +43,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Visily',
-        categories: ['UI', 'UX', 'Design', 'Prototyping'],
+        categories: ['UI', 'UX', 'Design', 'Prototyping', 'AI'],
         description:
             'Visily leverages AI to generate stunning app wireframes and prototypes from various inputs such as text prompts, hand-drawn sketches, and screenshots of existing applications or websites.',
         url: 'https://www.visily.ai/',
