@@ -43,7 +43,7 @@ Observe that:
 -   `description` is a **string** and **required**.
     -   You can use https://metatags.io to easily copy the description from the website.
 -   `categories` is an **array of strings** and **required**.
-    -   A resource can belong to multiple categories.
+    -   A resource can belong to 3 categories maximum (use `keywords` to improve discoverability on search results).
     -   The available categories are listed in `types/category.ts`.
     -   If the category you need isn't listed, you can add it and explain in the PR why it's needed.
     -   If your editor has TypeScript support it should provide you with the available categories as you type.
