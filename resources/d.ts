@@ -177,6 +177,25 @@ export const resources: Resource[] = [
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
+        name: 'Dev Employ',
+        categories: ['Job'],
+        description:
+            'Hand-picked jobs for developers. Find the best developer job opportunities in some of the best companies.',
+        url: 'https://devemploy.com',
+        icon: 'https://devemploy.com/favicon/favicon.ico',
+        keywords: [
+            'jobs',
+            'developers',
+            'software engineering',
+            'web development',
+            'javascript',
+            'typescript',
+            'html',
+            'css',
+            'python',
+        ],
+    },
+    {
         name: 'Developer tea',
         categories: ['Podcast', 'Programming'],
         description: 'A podcast for developers designed to fit inside your tea break',

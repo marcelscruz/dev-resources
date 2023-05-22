@@ -117,25 +117,6 @@ export const resources: Resource[] = [
         icon: 'https://jsbooks.revolunet.com/img/ico/apple-touch-icon-114-precomposed.png',
     },
     {
-        name: 'Jobstache',
-        categories: ['Job'],
-        description:
-            'Hand-picked jobs for developers. Find the best developer job opportunities in some of the best companies.',
-        url: 'https://jobstache.com',
-        icon: 'https://jobstache.com/favicon/favicon.ico',
-        keywords: [
-            'jobs',
-            'developers',
-            'software engineering',
-            'web development',
-            'javascript',
-            'typescript',
-            'html',
-            'css',
-            'python',
-        ],
-    },
-    {
         name: 'JustRemote',
         categories: ['Job', 'Remote'],
         description:
