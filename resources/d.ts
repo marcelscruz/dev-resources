@@ -137,7 +137,14 @@ export const resources: Resource[] = [
         icon: 'https://uploads-ssl.webflow.com/5837424ae11409586f837994/5e2fb217d4837e75854462c9_Small.png',
     },
     {
-        name: 'Design Modo',
+        name: 'Designmodo',
+        categories: ['Email', 'Template', 'Website Builder'],
+        description: 'Create incredible websites and email newsletters with simple tools.',
+        url: 'https://designmodo.com',
+        icon: 'https://designmodo.com/wp-content/themes/designmodo/assets/favicon/favicon-32x32.png',
+    },
+    {
+        name: 'Designmodo Jobs',
         categories: ['Job'],
         description: 'Remote and full time jobs for web designers and developers.',
         url: 'https://designmodo.com/jobs/',
