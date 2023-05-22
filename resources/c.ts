@@ -943,7 +943,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'CSSButtonMaker',
-        categories: ['Programming', 'Open Source', 'UI', 'UX', 'Template'],
+        categories: ['Programming', 'Open Source', 'UI'],
         description: 'Create stunning buttons in just a few clicks!',
         url: 'https://axorax.github.io/css-button-maker/',
         icon: 'https://axorax.github.io/css-button-maker/assets/img/axorax.png',
