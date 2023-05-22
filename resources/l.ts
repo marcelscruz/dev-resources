@@ -44,6 +44,14 @@ export const resources: Resource[] = [
         keywords: ['landing page examples', 'landing page design inspiration', 'landing page design'],
     },
     {
+        name: 'Landing AI',
+        categories: ['AI', 'Website Builder'],
+        description:
+            'Make a stunning landing page with AI in seconds. Get your perfect copywriting, color board, logo and illustrations thanks to generative Artificial Intelligence.',
+        url: 'https://landing-ai.com/',
+        icon: 'https://landing-ai.com/favicon.ico',
+    },
+    {
         name: 'Landing Page Hot Tips',
         categories: ['Book', 'Marketing', 'UX'],
         description:
