@@ -713,7 +713,8 @@ export const resources: Resource[] = [
     {
         name: 'Console Ninja',
         categories: ['Editor', 'Extension'],
-        description: 'Console Ninja is a VS Code extension that allows you to see console.log output and runtime errors right next to your code.',
+        description:
+            'Console Ninja is a VS Code extension that allows you to see console.log output and runtime errors right next to your code.',
         url: 'https://console-ninja.com',
         icon: 'https://console-ninja.com/images/favicon.ico',
     },
@@ -831,6 +832,15 @@ export const resources: Resource[] = [
             'Join Coursera for free and learn online. Build skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM. Advance your career with degrees, certificates, Specializations, &amp; MOOCs in data science, computer science, business, and dozens of other topics.',
         url: 'https://www.coursera.org/',
         icon: 'https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/v2/favicon-v2-96x96.png',
+    },
+    {
+        name: 'Craftwork',
+        categories: ['Font', 'Icon', 'Illustration'],
+        description:
+            'Design resources for everyone. Freebies and premium web design products, custom illustrations and graphics on one marketplace.',
+        url: 'https://craftwork.design',
+        icon: 'https://craftwork-images.b-cdn.net/wp-content/uploads/cropped-favicon-1-32x32.png',
+        keywords: ['ui', 'ux', 'vector', 'graphics', '3d'],
     },
     {
         name: 'CreativesFeed',
