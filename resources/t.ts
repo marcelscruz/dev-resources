@@ -40,6 +40,14 @@ export const resources: Resource[] = [
         icon: 'https://tailwindtoolbox.com/favicon-32x32.png',
     },
     {
+        name: 'Tatask',
+        categories: ['Productivity'],
+        description:
+            'Break down your biggest goals into actionable tasks. Tatask is the zen productivity app from the future.',
+        url: 'https://tatask.com/',
+        icon: 'https://tatask.com/favicon.png',
+    },
+    {
         name: 'Tech Interview Pro',
         categories: ['Interview'],
         description:
