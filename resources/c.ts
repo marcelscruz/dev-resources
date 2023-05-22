@@ -952,6 +952,13 @@ export const resources: Resource[] = [
         icon: 'https://cssbattle.dev/images/logo-square.png',
     },
     {
+        name: 'CSSButtonMaker',
+        categories: ['Programming', 'Open Source', 'UI'],
+        description: 'Create stunning buttons in just a few clicks!',
+        url: 'https://axorax.github.io/css-button-maker/',
+        icon: 'https://axorax.github.io/css-button-maker/assets/img/axorax.png',
+    },
+    {
         name: 'CSSViewer',
         categories: ['Browser', 'Extension'],
         description: 'A simple CSS property viewer.',
