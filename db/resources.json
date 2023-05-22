@@ -1,5 +1,5 @@
 {
-"count": 741,
+"count": 746,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1963,6 +1963,24 @@
         "icon": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/v2/favicon-v2-96x96.png"
     },
     {
+        "name": "Craftwork",
+        "categories": [
+            "Font",
+            "Icon",
+            "Illustration"
+        ],
+        "description": "Design resources for everyone. Freebies and premium web design products, custom illustrations and graphics on one marketplace.",
+        "url": "https://craftwork.design",
+        "icon": "https://craftwork-images.b-cdn.net/wp-content/uploads/cropped-favicon-1-32x32.png",
+        "keywords": [
+            "ui",
+            "ux",
+            "vector",
+            "graphics",
+            "3d"
+        ]
+    },
+    {
         "name": "CreativesFeed",
         "categories": [
             "Code Snippet"
@@ -2314,15 +2332,6 @@
         "icon": "https://s3-us-west-1.amazonaws.com/files.delesign/www/images/32x32.png"
     },
     {
-        "name": "Design Modo",
-        "categories": [
-            "Job"
-        ],
-        "description": "Remote and full time jobs for web designers and developers.",
-        "url": "https://designmodo.com/jobs/",
-        "icon": "https://designmodo.com/wp-content/themes/designmodo/assets/favicon/apple-touch-icon-114x114.png"
-    },
-    {
         "name": "Design Resources",
         "categories": [
             "Design",
@@ -2354,6 +2363,26 @@
         "description": "The #1 unlimited product design subscription service for agencies, startups, and entrepreneurs.",
         "url": "https://www.designjoy.co/",
         "icon": "https://uploads-ssl.webflow.com/5837424ae11409586f837994/5e2fb217d4837e75854462c9_Small.png"
+    },
+    {
+        "name": "Designmodo",
+        "categories": [
+            "Email",
+            "Template",
+            "Website Builder"
+        ],
+        "description": "Create incredible websites and email newsletters with simple tools.",
+        "url": "https://designmodo.com",
+        "icon": "https://designmodo.com/wp-content/themes/designmodo/assets/favicon/favicon-32x32.png"
+    },
+    {
+        "name": "Designmodo Jobs",
+        "categories": [
+            "Job"
+        ],
+        "description": "Remote and full time jobs for web designers and developers.",
+        "url": "https://designmodo.com/jobs/",
+        "icon": "https://designmodo.com/wp-content/themes/designmodo/assets/favicon/apple-touch-icon-114x114.png"
     },
     {
         "name": "DEV",
@@ -2827,6 +2856,15 @@
         "description": "A little tool that generates placeholder images with an URL. Choose the size, the colors, even the text. ",
         "url": "https://fakeimg.pl/",
         "icon": "https://fakeimg.pl/favicon.ico"
+    },
+    {
+        "name": "Famewall",
+        "categories": [
+            "Marketing"
+        ],
+        "description": "Collect and add testimonials to your website.",
+        "url": "https://famewall.io/",
+        "icon": "https://ucarecdn.com/87f090c7-36c4-470f-9ac7-dff8e97cd59b/"
     },
     {
         "name": "Fathom",
@@ -3574,6 +3612,15 @@
         "description": "Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached.",
         "url": "https://gettheaudience.com/",
         "icon": "https://gettheaudience.com/images/icons/icon-96x96.png"
+    },
+    {
+        "name": "Getillustrations",
+        "categories": [
+            "Illustration"
+        ],
+        "description": "Download stock illustration packs for websites, application and web design.",
+        "url": "https://www.getillustrations.com/",
+        "icon": "https://www.getillustrations.com/favicon/favicon.ico"
     },
     {
         "name": "GetTerms.io",
@@ -4781,6 +4828,16 @@
         "description": "Design gallery with the best and most carefully collected websites. We help creatives find inspiration & motivation to do rad stuff.",
         "url": "https://land-book.com/",
         "icon": "https://land-book.com/images/favicon.png"
+    },
+    {
+        "name": "Landing AI",
+        "categories": [
+            "AI",
+            "Website Builder"
+        ],
+        "description": "Make a stunning landing page with AI in seconds. Get your perfect copywriting, color board, logo and illustrations thanks to generative Artificial Intelligence.",
+        "url": "https://landing-ai.com/",
+        "icon": "https://landing-ai.com/favicon.ico"
     },
     {
         "name": "Landing Page Hot Tips",
