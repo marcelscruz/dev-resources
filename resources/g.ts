@@ -11,6 +11,13 @@ export const resources: Resource[] = [
         icon: 'https://www.gatsbyjs.com/icons/icon-96x96.png?v=3ad5294f3fa6c06e2d07ab07c76df2cf',
     },
     {
+        name: 'Getillustrations',
+        categories: ['Illustration'],
+        description: 'Download stock illustration packs for websites, application and web design.',
+        url: 'https://www.getillustrations.com/',
+        icon: 'https://www.getillustrations.com/favicon/favicon.ico',
+    },
+    {
         name: 'Get The Audience',
         categories: ['Marketing', 'Twitter'],
         description:
