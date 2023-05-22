@@ -10,6 +10,13 @@ export const resources: Resource[] = [
         icon: 'https://fakeimg.pl/favicon.ico',
     },
     {
+        name: 'Famewall',
+        categories: ['Marketing'],
+        description: 'Collect and add testimonials to your website.',
+        url: 'https://famewall.io/',
+        icon: 'https://ucarecdn.com/87f090c7-36c4-470f-9ac7-dff8e97cd59b/',
+    },
+    {
         name: 'Fathom',
         categories: ['Analytics'],
         description:
