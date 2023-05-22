@@ -169,6 +169,13 @@ export const resources: Resource[] = [
         icon: 'https://sidebar.io/img/sidebar_favicon.svg',
     },
     {
+        name: 'Sidebird',
+        categories: ['Twitter'],
+        description: 'Stop chasing Twitter followers. Get fans.',
+        url: 'https://www.sidebird.io/',
+        icon: 'https://www.sidebird.io/favicon.ico',
+    },
+    {
         name: 'sigma.js',
         categories: ['Library', 'Programming'],
         description:
