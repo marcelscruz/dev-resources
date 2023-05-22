@@ -1,5 +1,5 @@
 {
-"count": 746,
+"count": 748,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6984,6 +6984,15 @@
         "icon": "https://sidebar.io/img/sidebar_favicon.svg"
     },
     {
+        "name": "Sidebird",
+        "categories": [
+            "Twitter"
+        ],
+        "description": "Stop chasing Twitter followers. Get fans.",
+        "url": "https://www.sidebird.io/",
+        "icon": "https://www.sidebird.io/favicon.ico"
+    },
+    {
         "name": "sigma.js",
         "categories": [
             "Library",
@@ -7612,6 +7621,15 @@
         "description": "Tailwind CSS examples from components by the community. Tailwind chart, grids, inputs, forms, templates and much more.",
         "url": "https://tailwindcomponents.com/",
         "icon": "https://tailwindcomponents.com/favicon-32x32.png"
+    },
+    {
+        "name": "Tatask",
+        "categories": [
+            "Productivity"
+        ],
+        "description": "Break down your biggest goals into actionable tasks. Tatask is the zen productivity app from the future.",
+        "url": "https://tatask.com/",
+        "icon": "https://tatask.com/favicon.png"
     },
     {
         "name": "Tech Blogs",
