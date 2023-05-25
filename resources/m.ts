@@ -223,7 +223,7 @@ export const resources: Resource[] = [
     {
         name: 'Mocha',
         categories: ['Testing'],
-        description: ' Simple, flexible, fun JavaScript test framework for Node.js and the browser.',
+        description: 'Simple, flexible, fun JavaScript test framework for Node.js and the browser.',
         url: 'https://mochajs.org/',
         icon: 'https://mochajs.org/static/favicon.copy.f17f048f84.ico',
     },

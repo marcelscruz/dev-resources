@@ -21,7 +21,7 @@ export const resources: Resource[] = [
         name: 'Canva',
         categories: ['Design', 'UI', 'Template'],
         description:
-            'Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content. ',
+            'Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.',
         url: 'https://www.canva.com/',
         icon: 'https://www.canva.com/favicon.ico',
     },

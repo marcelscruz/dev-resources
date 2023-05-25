@@ -263,7 +263,8 @@ export const resources: Resource[] = [
     {
         name: 'Resume maker',
         categories: ['Resume'],
-        description: '',
+        description:
+            'The easiest-to-use Resume Maker & CV Builder. Let AI do the writing for you and download a perfect resume in minutes.',
         url: 'https://www.resumemaker.online/',
         icon: 'https://www.resumemaker.online/favicon-32x32.png',
     },

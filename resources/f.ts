@@ -5,7 +5,7 @@ export const resources: Resource[] = [
         name: 'Fake Img',
         categories: ['Editor', 'Image'],
         description:
-            'A little tool that generates placeholder images with an URL. Choose the size, the colors, even the text. ',
+            'A little tool that generates placeholder images with an URL. Choose the size, the colors, even the text.',
         url: 'https://fakeimg.pl/',
         icon: 'https://fakeimg.pl/favicon.ico',
     },
