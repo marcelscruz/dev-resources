@@ -945,7 +945,7 @@
             "UI",
             "Template"
         ],
-        "description": "Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content. ",
+        "description": "Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.",
         "url": "https://www.canva.com/",
         "icon": "https://www.canva.com/favicon.ico"
     },
@@ -2884,7 +2884,7 @@
             "Editor",
             "Image"
         ],
-        "description": "A little tool that generates placeholder images with an URL. Choose the size, the colors, even the text. ",
+        "description": "A little tool that generates placeholder images with an URL. Choose the size, the colors, even the text.",
         "url": "https://fakeimg.pl/",
         "icon": "https://fakeimg.pl/favicon.ico"
     },
@@ -5483,7 +5483,7 @@
         "categories": [
             "Testing"
         ],
-        "description": " Simple, flexible, fun JavaScript test framework for Node.js and the browser.",
+        "description": "Simple, flexible, fun JavaScript test framework for Node.js and the browser.",
         "url": "https://mochajs.org/",
         "icon": "https://mochajs.org/static/favicon.copy.f17f048f84.ico"
     },
@@ -6640,7 +6640,7 @@
         "categories": [
             "Resume"
         ],
-        "description": "",
+        "description": "The easiest-to-use Resume Maker & CV Builder. Let AI do the writing for you and download a perfect resume in minutes.",
         "url": "https://www.resumemaker.online/",
         "icon": "https://www.resumemaker.online/favicon-32x32.png"
     },
