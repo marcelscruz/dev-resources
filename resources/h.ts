@@ -162,14 +162,6 @@ export const resources: Resource[] = [
             'https://ik.imagekit.io/himalayas/himalayas-icon_J2SoMLtNA9W?ik-sdk-version=javascript-1.4.3&updatedAt=1644362275336',
     },
     {
-        name: 'hire.AR',
-        categories: ['Job'],
-        description:
-            'Search augmented reality jobs, AR Jobs, Virtual Reality Jobs, VR Jobs. Jobs in AR. The best AR jobs for engineers, developers, designers, artists, & more.',
-        url: 'https://hire.ar/',
-        icon: 'https://uploads-ssl.webflow.com/5fb34e1a86110331f179e419/5fba8ba82dc21a86d020bff8_hire%20.AR%20(1).png',
-    },
-    {
         name: 'Hired',
         categories: ['Job'],
         description:
