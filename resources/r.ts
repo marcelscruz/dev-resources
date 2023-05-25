@@ -331,7 +331,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'RubyMine',
-        categories: [],
+        categories: ['Editor', 'Programming'],
         description:
             'The Ruby and Rails IDE with first-class support for Ruby and Rails, JavaScript and CoffeeScript, ERB and HAML, CSS, Sass and Less, and more.',
         url: 'https://www.jetbrains.com/ruby/',
