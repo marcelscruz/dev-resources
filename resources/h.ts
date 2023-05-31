@@ -73,6 +73,14 @@ export const resources: Resource[] = [
         icon:
             'https://assets.website-files.com/5dd40aa8049df8748c72d0ee/5dd9b92056a2d6ed5e537c61_happy-hues-apple-icon.png',
     },
+     {
+        name: 'HarperDB',
+        categories: ['Database'],
+        description: 
+            'HarperDB is a database and application development platform that is focused on performance and ease of use.',
+        url: 'https://www.harperdb.io/',
+        icon: 'https://uploads-ssl.webflow.com/6374050260446c42f94dc90f/6471066f6a9d1c73f426047d_HarperDBLogos_HDB%20Purple%20(1)%20(1).png',
+    },
     {
         name: 'Hashnode',
         categories: ['Blog'],
