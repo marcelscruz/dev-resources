@@ -1,5 +1,5 @@
 {
-"count": 749,
+"count": 754,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2270,6 +2270,24 @@
         ]
     },
     {
+        "name": "DamnGood.Tools",
+        "categories": [
+            "Productivity"
+        ],
+        "description": "Easy-to-use, fun tools—free (and open-source).",
+        "url": "https://damngood.tools",
+        "icon": "https://damngood.tools/favicon.ico",
+        "keywords": [
+            "tools",
+            "productivity",
+            "grammar fix",
+            "privacy policy",
+            "fonts",
+            "url",
+            "screenshot"
+        ]
+    },
+    {
         "name": "Dart Cheatsheet Codelab",
         "categories": [
             "Cheatsheet"
@@ -2577,6 +2595,20 @@
         "description": "What's better than WordPress? A Website and Page Builder for WordPress. Choose a theme, add content, images and more with ZERO code!",
         "url": "https://www.dreamhost.com/website-builder/",
         "icon": "https://www.dreamhost.com/assets/favicons/apple-touch-icon-76x76-18c4bd5a860942003494cecf3aa217b02285f57f5525c0e4985dcb77f0125d91.png"
+    },
+    {
+        "name": "DreamStudio",
+        "categories": [
+            "AI",
+            "Image"
+        ],
+        "description": "DreamStudio is an online creative tool to generate images with AI. Made by the world's leading open source generative AI company, Stability.ai.",
+        "url": "https://dreamstudio.ai",
+        "icon": "https://framerusercontent.com/modules/zZ7HlKbSSZfVTWtIeTJe/NX2RQnSoMNAdVbRqEEUt/assets/UwpXWpHgvN1OuXNR6vNwkOHYFAI.png",
+        "keywords": [
+            "ai",
+            "image"
+        ]
     },
     {
         "name": "Dribbble",
@@ -4962,6 +4994,19 @@
         "icon": "https://uploads-ssl.webflow.com/5e0849b50d37a13ecd286934/5e085e49ad6badd7d7b3439f_favicon-256.png"
     },
     {
+        "name": "Learn Prompting",
+        "categories": [
+            "AI"
+        ],
+        "description": "Learn Prompting is the largest and most comprehensive course in prompt engineering available on the internet, with over 60 content modules, translated into 9 languages, and a thriving community.",
+        "url": "https://learnprompting.org",
+        "icon": "https://learnprompting.org/img/favicon.ico",
+        "keywords": [
+            "ai",
+            "prompt"
+        ]
+    },
+    {
         "name": "Learn UI Design",
         "categories": [
             "Design",
@@ -5969,6 +6014,19 @@
         "icon": "https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png"
     },
     {
+        "name": "Phind",
+        "categories": [
+            "AI"
+        ],
+        "description": "The AI search engine for developers.",
+        "url": "https://www.phind.com",
+        "icon": "https://www.phind.com/images/favicon.png",
+        "keywords": [
+            "ai",
+            "search engine"
+        ]
+    },
+    {
         "name": "PhpStorm",
         "categories": [
             "Editor",
@@ -6022,6 +6080,24 @@
         "description": "Plausible is a lightweight and open-source web analytics tool. Your website data is 100% yours and the privacy of your visitors is respected.",
         "url": "https://plausible.io/",
         "icon": "https://plausible.io/assets/images/icon/favicon.png"
+    },
+    {
+        "name": "Playwright",
+        "categories": [
+            "Testing"
+        ],
+        "description": "Playwright enables reliable end-to-end testing for modern web apps.",
+        "url": "https://playwright.dev",
+        "icon": "https://playwright.dev/img/playwright-logo.svg",
+        "keywords": [
+            "playwright",
+            "testing",
+            "e2e",
+            "browser",
+            "chromium",
+            "firefox",
+            "webkit"
+        ]
     },
     {
         "name": "Plottable",
