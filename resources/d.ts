@@ -65,6 +65,14 @@ export const resources: Resource[] = [
         keywords: ['daisy', 'ui', 'daisyui', 'library'],
     },
     {
+        name: 'DamnGood.Tools',
+        categories: ['Productivity'],
+        description: 'Easy-to-use, fun tools—free (and open-source).',
+        url: 'https://damngood.tools',
+        icon: 'https://damngood.tools/favicon.ico',
+        keywords: ['tools', 'productivity', 'grammar fix', 'privacy policy', 'fonts', 'url', 'screenshot'],
+    },
+    {
         name: 'Dart Cheatsheet Codelab',
         categories: ['Cheatsheet'],
         description: "Interactively learn (or relearn) some of Dart's unique features.",
