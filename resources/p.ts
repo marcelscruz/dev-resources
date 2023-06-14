@@ -107,6 +107,14 @@ export const resources: Resource[] = [
         icon: 'https://plausible.io/assets/images/icon/favicon.png',
     },
     {
+        name: 'Playwright',
+        categories: ['Testing'],
+        description: 'Playwright enables reliable end-to-end testing for modern web apps.',
+        url: 'https://playwright.dev',
+        icon: 'https://playwright.dev/img/playwright-logo.svg',
+        keywords: ['playwright', 'testing', 'e2e', 'browser', 'chromium', 'firefox', 'webkit'],
+    },
+    {
         name: 'Plottable',
         categories: ['Library', 'Programming'],
         description: 'Flexible, interactive, performant charts for the web made easy.',
