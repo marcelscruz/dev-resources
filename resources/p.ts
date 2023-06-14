@@ -68,6 +68,14 @@ export const resources: Resource[] = [
             'https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png',
     },
     {
+        name: 'Phind',
+        categories: ['AI'],
+        description: 'The AI search engine for developers.',
+        url: 'https://www.phind.com',
+        icon: 'https://www.phind.com/images/favicon.png',
+        keywords: ['ai', 'search engine'],
+    },
+    {
         name: 'PhpStorm',
         categories: ['Editor', 'Programming'],
         description:
