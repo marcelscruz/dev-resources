@@ -301,6 +301,16 @@ export const resources: Resource[] = [
             'https://www.dreamhost.com/assets/favicons/apple-touch-icon-76x76-18c4bd5a860942003494cecf3aa217b02285f57f5525c0e4985dcb77f0125d91.png',
     },
     {
+        name: 'DreamStudio',
+        categories: ['AI', 'Image'],
+        description:
+            "DreamStudio is an online creative tool to generate images with AI. Made by the world's leading open source generative AI company, Stability.ai.",
+        url: 'https://dreamstudio.ai',
+        icon:
+            'https://framerusercontent.com/modules/zZ7HlKbSSZfVTWtIeTJe/NX2RQnSoMNAdVbRqEEUt/assets/UwpXWpHgvN1OuXNR6vNwkOHYFAI.png',
+        keywords: ['ai', 'image'],
+    },
+    {
         name: 'Dribbble',
         categories: ['Design', 'Inspiration', 'UI'],
         description:
