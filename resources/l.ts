@@ -133,6 +133,15 @@ export const resources: Resource[] = [
         icon: 'https://uploads-ssl.webflow.com/5e0849b50d37a13ecd286934/5e085e49ad6badd7d7b3439f_favicon-256.png',
     },
     {
+        name: 'Learn Prompting',
+        categories: ['AI'],
+        description:
+            'Learn Prompting is the largest and most comprehensive course in prompt engineering available on the internet, with over 60 content modules, translated into 9 languages, and a thriving community.',
+        url: 'https://learnprompting.org',
+        icon: 'https://learnprompting.org/img/favicon.ico',
+        keywords: ['ai', 'prompt'],
+    },
+    {
         name: 'Learn UI Design',
         categories: ['Design', 'Learn', 'UI'],
         description:
