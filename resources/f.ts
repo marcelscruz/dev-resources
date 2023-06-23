@@ -149,6 +149,14 @@ export const resources: Resource[] = [
         icon: 'https://media.flaticon.com/dist/min/img/apple-icon-76x76-precomposed.png',
     },
     {
+        name: 'Fleexy',
+        categories: ['Programming', 'Startup', 'Website Builder'],
+        description:
+          'Fleexy is a product company specializing in the development of easy-to-use microapps for businesses. Our microapps are backed by thousands of hours of development and continuous improvement, ensuring that your project stays up-to-date with the latest features and advancements.',
+        url: 'https://www.fleexy.dev',
+        icon: 'https://ucarecdn.com/b7515c15-686a-46df-84d0-eca154f7ff53/',
+    },
+    {
         name: 'Flexbox Adventure',
         categories: ['Learn', 'Programming'],
         description:
