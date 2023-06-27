@@ -26,6 +26,14 @@ export const resources: Resource[] = [
         icon: 'https://www.udemy.com/staticx/udemy/images/v6/favicon-96x96.png',
     },
     {
+        name: 'UI8',
+        categories: ['Font', 'Icon', 'Illustration'],
+        description:
+            '100% curated digital marketplace with a growing library of high quality UX/UI design resources and freebies for designers.',
+        url: 'https://ui8.net',
+        icon: 'https://ui8.net/favicon-32x32.png',
+    },
+    {
         name: 'UI Design Daily',
         categories: ['Design', 'Inspiration', 'UI'],
         description: 'Weekly FREE UI resources straight to your inbox.',

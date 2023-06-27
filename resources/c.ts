@@ -50,6 +50,13 @@ export const resources: Resource[] = [
         icon: 'https://carbon.now.sh/static/brand/apple-touch-icon.png',
     },
     {
+        name: 'Carrd',
+        categories: ['Website Builder'],
+        description: 'A free platform for building simple, fully responsive one-page sites for pretty much anything.',
+        url: 'https://carrd.co',
+        icon: 'https://carrd.co/favicon.ico',
+    },
+    {
         name: 'Cassandra',
         categories: ['Database'],
         description:
@@ -78,6 +85,15 @@ export const resources: Resource[] = [
         description: 'Create responsive, scalable and good looking charts with chartist.js.',
         url: 'https://gionkunz.github.io/chartist-js/',
         icon: 'https://gionkunz.github.io/chartist-js/favicon.ico',
+    },
+    {
+        name: 'ChatGPT Prompts by Keywords Everywhere',
+        categories: ['AI'],
+        description:
+            'Rewrite business rules with an arsenal of Supercharged ChatGPT prompts at your fingertips. Shape remarkable strategies, captivate your audience, & make your business truly shine.',
+        url: 'https://keywordseverywhere.com/ctl/chatgpt-prompts',
+        icon: 'https://keywordseverywhere.com/favicon-32x32.png',
+        keywords: ['ai', 'prompts'],
     },
     {
         name: 'Cheatography',

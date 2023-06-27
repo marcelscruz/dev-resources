@@ -152,7 +152,7 @@ export const resources: Resource[] = [
         name: 'Fleexy',
         categories: ['Programming', 'Startup', 'Website Builder'],
         description:
-          'Fleexy is a product company specializing in the development of easy-to-use microapps for businesses. Our microapps are backed by thousands of hours of development and continuous improvement, ensuring that your project stays up-to-date with the latest features and advancements.',
+            'Fleexy is a product company specializing in the development of easy-to-use microapps for businesses. Our microapps are backed by thousands of hours of development and continuous improvement, ensuring that your project stays up-to-date with the latest features and advancements.',
         url: 'https://www.fleexy.dev',
         icon: 'https://ucarecdn.com/b7515c15-686a-46df-84d0-eca154f7ff53/',
     },
@@ -336,6 +336,15 @@ export const resources: Resource[] = [
             'Fontspark is the best place for you. We are providing all the latest and professional free fonts for download that you can use on your projects.',
         url: 'https://fontspark.com/',
         icon: 'https://fontspark.com/wp-content/uploads/2022/04/fontspark-Icon.svg',
+    },
+    {
+        name: 'Framer',
+        categories: ['Design', 'Prototyping', 'UI', 'Website Builder'],
+        description:
+            'Start your website with AI and design on a familiar canvas. Add animations, interactions and a CMS. Optimize for every breakpoint — no code needed and publish for free.',
+        url: 'https://www.framer.com',
+        icon:
+            'https://framerusercontent.com/modules/XGlgWyQ08lVhjrk8BQH9/w8tLwjSBJzleyuMMJ2Nu/assets/3ydDYhTbVKKzF5xDzZpZKoMmc.png',
     },
     {
         name: 'Free JavaScript Resources',

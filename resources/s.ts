@@ -90,6 +90,14 @@ export const resources: Resource[] = [
         icon: 'https://seoblueprint.com/wp-content/uploads/cropped-blueprint-1-32x32.png',
     },
     {
+        name: 'SeachAtlas',
+        categories: ['SEO', 'Marketing'],
+        description:
+            'Drive more traffic and revenue with the SearchAtlas SEO Software platform! Get better results from your SEO campaigns with cutting-edge marketing and SEO tools.',
+        url: 'https://searchatlas.com',
+        icon: 'https://searchatlas.com/wp-content/uploads/2021/08/favicon-150x150.png',
+    },
+    {
         name: 'Serverless Stack',
         categories: ['API Building', 'Serverless'],
         description: 'Serverless Stack (SST) is a framework that makes it easy to build serverless applications.',

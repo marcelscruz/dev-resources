@@ -76,6 +76,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'search engine'],
     },
     {
+        name: 'PhotoRoom',
+        categories: ['Image', 'Editor'],
+        description:
+            'Create product and portrait pictures using only your phone. Remove background, change background and showcase products.',
+        url: 'https://www.photoroom.com',
+        icon: 'https://www.photoroom.com/favicons/favicon.ico',
+    },
+    {
         name: 'PhpStorm',
         categories: ['Editor', 'Programming'],
         description:
