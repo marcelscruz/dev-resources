@@ -287,14 +287,6 @@ export const resources: Resource[] = [
         icon: 'https://app.brainboard.co/favicon.ico',
     },
     {
-        name: 'Brandie',
-        categories: ['AI', 'Domain'],
-        description: 'An AI-powered branding assistant.',
-        url: 'https://brandie.app',
-        icon: 'https://brandie.app/favicon/favicon.ico',
-        keywords: ['branding', 'domain', 'product name', 'ai', 'artificial intelligence'],
-    },
-    {
         name: 'Branition Colors',
         categories: ['Color'],
         description: 'Hand-curated collection of color palettes best fitted for branding.',
