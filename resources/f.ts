@@ -207,6 +207,15 @@ export const resources: Resource[] = [
         keywords: ['tailwind', 'ui components', 'ui kits'],
     },
     {
+        name: 'Flowbite Icons',
+        categories: ['Icon', 'UI'],
+        description:
+            'Check out a collection of over 430+ free and open-source SVG icons with outline and solid styles built for Tailwind CSS and fully integrated with Figma.',
+        url: 'https://flowbite.com/icons/',
+        icon: 'https://flowbite.com/images/logo.svg',
+        keywords: ['icons', 'icon', 'svg icons', 'vector icons', 'free icons', 'open source icons', 'svg', 'tailwind icons'],
+    },
+    {
         name: 'Fluid UI',
         categories: ['Prototyping', 'UI'],
         description:
