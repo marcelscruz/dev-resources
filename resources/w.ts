@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'WrapPixel',
+        categories: ['Template'],
+        description: 'The Best Free and Premium Admin Templates by WrapPixel',
+        url: 'https://www.wrappixel.com/',
+        icon: 'https://www.wrappixel.com/wp-content/uploads/2019/01/favicon.png',
+    },
+    {
         name: 'W3Bits',
         categories: ['Personal Website'],
         url: 'https://w3bits.com',
