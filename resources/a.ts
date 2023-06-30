@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'AdminMart',
+        categories: ['Template'],
+        description: 'The Best Free and Premium Admin Templates by AdminMart',
+        url: 'https://adminmart.com/',
+        icon: 'https://adminmart.com/wp-content/uploads/2023/01/favicon.png',
+    },
+    {
         name: 'A11Y Style Guide',
         categories: ['Accessibility'],
         description: 'Style guide and pattern library promoting accessible components and WCAG compliance criteria.',
