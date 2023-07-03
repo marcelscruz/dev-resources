@@ -199,21 +199,12 @@ export const resources: Resource[] = [
     },
     {
         name: 'Flowbite',
-        categories: ['Library', 'UI'],
+        categories: ['Icon', 'Library', 'UI'],
         description:
-            'Get started with an open-source library of over 450+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.',
+            'Get started with an open-source library of over 600+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.',
         url: 'https://flowbite.com/',
         icon: 'https://flowbite.com/images/logo.svg',
-        keywords: ['tailwind', 'ui components', 'ui kits'],
-    },
-    {
-        name: 'Flowbite Icons',
-        categories: ['Icon', 'UI'],
-        description:
-            'Check out a collection of over 430+ free and open-source SVG icons with outline and solid styles built for Tailwind CSS and fully integrated with Figma.',
-        url: 'https://flowbite.com/icons/',
-        icon: 'https://flowbite.com/images/logo.svg',
-        keywords: ['icons', 'icon', 'svg icons', 'vector icons', 'free icons', 'open source icons', 'svg', 'tailwind icons'],
+        keywords: ['tailwind', 'ui components', 'ui kits', 'icon'],
     },
     {
         name: 'Fluid UI',
