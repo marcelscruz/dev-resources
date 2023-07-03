@@ -3153,16 +3153,18 @@
     {
         "name": "Flowbite",
         "categories": [
+            "Icon",
             "Library",
             "UI"
         ],
-        "description": "Get started with an open-source library of over 450+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.",
+        "description": "Get started with an open-source library of over 600+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.",
         "url": "https://flowbite.com/",
         "icon": "https://flowbite.com/images/logo.svg",
         "keywords": [
             "tailwind",
             "ui components",
-            "ui kits"
+            "ui kits",
+            "icon"
         ]
     },
     {
