@@ -40,6 +40,13 @@ export const resources: Resource[] = [
         icon: 'https://learnui.design/tools/favicon.ico',
     },
     {
+        name: 'AdminMart',
+        categories: ['Template'],
+        description: 'The Best Free and Premium Admin Templates by AdminMart.',
+        url: 'https://adminmart.com/',
+        icon: 'https://adminmart.com/wp-content/uploads/2023/01/favicon.png',
+    },
+    {
         name: 'Adobe XD',
         categories: ['Prototyping', 'Design', 'UI', 'UX'],
         description:
