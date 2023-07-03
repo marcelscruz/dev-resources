@@ -2,13 +2,6 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
-        name: 'AdminMart',
-        categories: ['Template'],
-        description: 'The Best Free and Premium Admin Templates by AdminMart',
-        url: 'https://adminmart.com/',
-        icon: 'https://adminmart.com/wp-content/uploads/2023/01/favicon.png',
-    },
-    {
         name: 'A11Y Style Guide',
         categories: ['Accessibility'],
         description: 'Style guide and pattern library promoting accessible components and WCAG compliance criteria.',
@@ -45,6 +38,13 @@ export const resources: Resource[] = [
             'A tool for creating color variations on a base color to meet WCAG AA or AAA color contrast ratio guidelines.',
         url: 'https://learnui.design/tools/accessible-color-generator.html',
         icon: 'https://learnui.design/tools/favicon.ico',
+    },
+    {
+        name: 'AdminMart',
+        categories: ['Template'],
+        description: 'The Best Free and Premium Admin Templates by AdminMart.',
+        url: 'https://adminmart.com/',
+        icon: 'https://adminmart.com/wp-content/uploads/2023/01/favicon.png',
     },
     {
         name: 'Adobe XD',
