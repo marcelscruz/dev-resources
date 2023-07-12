@@ -19,6 +19,14 @@ export const resources: Resource[] = [
         icon: 'https://www.ratatype.com/browser/safari/apple-touch-icon-76x76.png',
     },
     {
+        name: 'Raycast',
+        categories: ['Productivity'],
+        description:
+            'Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.',
+        url: 'https://www.raycast.com',
+        icon: 'https://www.raycast.com/favicon-production.png',
+    },
+    {
         name: 'Ray.so',
         categories: ['Code Snippet'],
         description:
@@ -56,6 +64,14 @@ export const resources: Resource[] = [
             'Find specific React Jobs, including Remote ReactJS Jobs. You are looking for React JS Developers? Submit your job ad',
         url: 'https://reactjsjob.com/',
         icon: 'https://reactjsjob.com/img/icons/favicon-32x32.png',
+    },
+    {
+        name: 'React Native Radio',
+        categories: ['Podcast', 'Programming'],
+        description: 'Exploring React Native together.',
+        url: 'https://reactnativeradio.com',
+        icon:
+            'https://image.simplecastcdn.com/images/fd1212b1-7d08-4c5a-8506-00188a4c6528/bb6b7476-a0a9-4ff4-86f0-eded00b3f80a/favicon-red.jpg',
     },
     {
         name: 'React Podcast',

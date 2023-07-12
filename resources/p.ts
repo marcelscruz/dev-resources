@@ -247,6 +247,14 @@ export const resources: Resource[] = [
         icon: 'https://projectlearn.io/projectlearn.png',
     },
     {
+        name: 'Proxies API',
+        categories: ['Scraping'],
+        description:
+            'Get HTML from any page with a simple API call. We handle proxy rotation, browser identities, automatic retries, CAPTCHAs, JavaScript rendering and much more.',
+        url: 'https://proxiesapi.com',
+        icon: 'https://proxiesapi.com/assets/favicon.ico',
+    },
+    {
         name: 'Pttrns',
         categories: ['Design', 'Inspiration', 'UI'],
         description: 'Check out the finest collection of design patterns, resources, mobile apps and inspiration.',

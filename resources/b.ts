@@ -26,6 +26,22 @@ export const resources: Resource[] = [
         icon: 'https://beampipe.io/favicon-32x32.png',
     },
     {
+        name: 'Beautiful CSS box-shadow examples',
+        categories: ['Code Snippet', 'Programming', 'UI'],
+        description:
+            '🎨 Curated collection of 90+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.',
+        url: 'https://getcssscan.com/css-box-shadow-examples',
+        icon: 'https://getcssscan.com/favicon-32x32.png',
+    },
+    {
+        name: 'Beautiful CSS buttons examples',
+        categories: ['Code Snippet', 'Programming', 'UI'],
+        description:
+            '🎨 Curated collection of 80+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.',
+        url: 'https://getcssscan.com/css-buttons-examples',
+        icon: 'https://getcssscan.com/favicon-32x32.png',
+    },
+    {
         name: "Beginner's guide to web security",
         categories: ['Book', 'Security'],
         description:
@@ -351,19 +367,11 @@ export const resources: Resource[] = [
         icon: 'https://www.bypeople.com/wp-content/themes/bppl-alpha/assets/images/v2/favicon-32x32.png',
     },
     {
-        name: 'Beautiful CSS box-shadow examples',
-        categories: ['Code Snippet', 'Programming', 'UI'],
+        name: 'Bytes',
+        categories: ['Newsletter', 'Programming'],
         description:
-            '🎨 Curated collection of 90+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.',
-        url: 'https://getcssscan.com/css-box-shadow-examples',
-        icon: 'https://getcssscan.com/favicon-32x32.png',
-    },
-    {
-        name: 'Beautiful CSS buttons examples',
-        categories: ['Code Snippet', 'Programming', 'UI'],
-        description:
-            '🎨 Curated collection of 80+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.',
-        url: 'https://getcssscan.com/css-buttons-examples',
-        icon: 'https://getcssscan.com/favicon-32x32.png',
+            'Staying informed on the JavaScript ecosystem has never been so entertaining. Delivered every Monday and Thursday, for free.',
+        url: 'https://bytes.dev',
+        icon: 'https://bytes.dev/favicon/favicon-32x32.png',
     },
 ]

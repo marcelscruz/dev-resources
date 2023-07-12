@@ -9,6 +9,13 @@ export const resources: Resource[] = [
         icon: 'https://n3-charts.github.io/line-chart/assets/favicons/favicon-96x96.png',
     },
     {
+        name: 'Namecheap',
+        categories: ['Domain'],
+        description: 'Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support.',
+        url: 'https://www.namecheap.com',
+        icon: 'https://www.namecheap.com/assets/img/nc-icon/favicon.ico',
+    },
+    {
         name: 'Netlify',
         categories: ['Hosting'],
         description:

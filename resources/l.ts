@@ -190,15 +190,12 @@ export const resources: Resource[] = [
         icon: 'https://letsenhance.io/static/favicon/icon-96.png',
     },
     {
-        name: 'LevelUpTuts',
-        categories: ['Programming', 'YouTube Channel'],
+        name: 'Level Up Tutorials',
+        categories: ['Learn', 'Programming'],
         description:
-            'TLDR; 840+ free video tutorials created, recorded, edited, published and maintained by Scott Tolinski. The Story: Level Up Tutorials was created in March of 2012 by Scott Tolinski & Ben Schaaf while working together at Q LTD in Ann Arbor, MI. In February of 2012, Scott suffered a concussion after an injury while breakdancing. Stuck inside and unable to be active, Scott & Ben plotted to try and ease the pain of poor or outdated documentation and training on web projects. Although Ben enjoyed creating tutorials, due to time constraints he was unable to continue and Scott took on the project by himself. The Philosophy: Building websites is frustrating, or at least it can be. Level Up Tutorials sets how to help fix a major problem in learning technologies. The lack of in-depth, basic tutorials that teach more than just what to type when. Videos created for Level Up Tutorials are aimed to be accessible and easy to follow while maintaining high production values.',
-        keywords: [
-            'meteor angularjs angular drupal wordpress expression engine sass compass css cms drupal7 tutorials education web development websites html html5 css3 jquery ...',
-        ],
-        url: 'https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg',
-        icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
+            'Learn modern web development with Level Up Tutorials. We teach you the latest web technologies, frameworks, and libraries.',
+        url: 'https://levelup.video',
+        icon: 'https://levelup.video/favicon-32x32.png',
     },
     {
         name: 'Lexica',

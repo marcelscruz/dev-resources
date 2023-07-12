@@ -34,6 +34,15 @@ export const resources: Resource[] = [
         icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
+        name: 'Keysearch',
+        categories: ['SEO'],
+        description:
+            'An easy-to-use web-based keyword research tool with in-depth competition analysis, keyword difficulty checker, keyword suggestions and more.',
+        url: 'https://www.keysearch.co',
+        icon: 'https://www.keysearch.co/favicon.ico',
+        keywords: ['keyword', 'research', 'seo', 'marketing'],
+    },
+    {
         name: 'Khan Academy',
         categories: ['Learn', 'Programming'],
         description:
