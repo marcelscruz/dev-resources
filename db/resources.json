@@ -1,5 +1,5 @@
 {
-"count": 761,
+"count": 767,
 "data": [
     {
         "name": "1001 Fonts",
@@ -911,6 +911,16 @@
         "description": "ByPeople is a curated network of 10k ready-to-download resources for developers.",
         "url": "https://www.bypeople.com/",
         "icon": "https://www.bypeople.com/wp-content/themes/bppl-alpha/assets/images/v2/favicon-32x32.png"
+    },
+    {
+        "name": "Bytes",
+        "categories": [
+            "Newsletter",
+            "Programming"
+        ],
+        "description": "Staying informed on the JavaScript ecosystem has never been so entertaining. Delivered every Monday and Thursday, for free.",
+        "url": "https://bytes.dev",
+        "icon": "https://bytes.dev/favicon/favicon-32x32.png"
     },
     {
         "name": "CakeResume",
@@ -4835,6 +4845,21 @@
         "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
     },
     {
+        "name": "Keysearch",
+        "categories": [
+            "SEO"
+        ],
+        "description": "An easy-to-use web-based keyword research tool with in-depth competition analysis, keyword difficulty checker, keyword suggestions and more.",
+        "url": "https://www.keysearch.co",
+        "icon": "https://www.keysearch.co/favicon.ico",
+        "keywords": [
+            "keyword",
+            "research",
+            "seo",
+            "marketing"
+        ]
+    },
+    {
         "name": "Khan Academy",
         "categories": [
             "Learn",
@@ -5125,17 +5150,14 @@
         "icon": "https://letsenhance.io/static/favicon/icon-96.png"
     },
     {
-        "name": "LevelUpTuts",
+        "name": "Level Up Tutorials",
         "categories": [
-            "Programming",
-            "YouTube Channel"
+            "Learn",
+            "Programming"
         ],
-        "description": "TLDR; 840+ free video tutorials created, recorded, edited, published and maintained by Scott Tolinski. The Story: Level Up Tutorials was created in March of 2012 by Scott Tolinski & Ben Schaaf while working together at Q LTD in Ann Arbor, MI. In February of 2012, Scott suffered a concussion after an injury while breakdancing. Stuck inside and unable to be active, Scott & Ben plotted to try and ease the pain of poor or outdated documentation and training on web projects. Although Ben enjoyed creating tutorials, due to time constraints he was unable to continue and Scott took on the project by himself. The Philosophy: Building websites is frustrating, or at least it can be. Level Up Tutorials sets how to help fix a major problem in learning technologies. The lack of in-depth, basic tutorials that teach more than just what to type when. Videos created for Level Up Tutorials are aimed to be accessible and easy to follow while maintaining high production values.",
-        "keywords": [
-            "meteor angularjs angular drupal wordpress expression engine sass compass css cms drupal7 tutorials education web development websites html html5 css3 jquery ..."
-        ],
-        "url": "https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg",
-        "icon": "https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png"
+        "description": "Learn modern web development with Level Up Tutorials. We teach you the latest web technologies, frameworks, and libraries.",
+        "url": "https://levelup.video",
+        "icon": "https://levelup.video/favicon-32x32.png"
     },
     {
         "name": "Lexica",
@@ -5663,6 +5685,15 @@
         "description": "Awesome charts for Angular.",
         "url": "https://n3-charts.github.io/line-chart/#/home",
         "icon": "https://n3-charts.github.io/line-chart/assets/favicons/favicon-96x96.png"
+    },
+    {
+        "name": "Namecheap",
+        "categories": [
+            "Domain"
+        ],
+        "description": "Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support.",
+        "url": "https://www.namecheap.com",
+        "icon": "https://www.namecheap.com/assets/img/nc-icon/favicon.ico"
     },
     {
         "name": "Netlify",
@@ -6302,6 +6333,15 @@
         "icon": "https://projectlearn.io/projectlearn.png"
     },
     {
+        "name": "Proxies API",
+        "categories": [
+            "Scraping"
+        ],
+        "description": "Get HTML from any page with a simple API call. We handle proxy rotation, browser identities, automatic retries, CAPTCHAs, JavaScript rendering and much more.",
+        "url": "https://proxiesapi.com",
+        "icon": "https://proxiesapi.com/assets/favicon.ico"
+    },
+    {
         "name": "Pttrns",
         "categories": [
             "Design",
@@ -6450,6 +6490,15 @@
         "icon": "https://ray.so/img/icons/favicon-32x32.png"
     },
     {
+        "name": "Raycast",
+        "categories": [
+            "Productivity"
+        ],
+        "description": "Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.",
+        "url": "https://www.raycast.com",
+        "icon": "https://www.raycast.com/favicon-production.png"
+    },
+    {
         "name": "React 30",
         "categories": [
             "Podcast",
@@ -6497,6 +6546,16 @@
         "description": "Find specific React Jobs, including Remote ReactJS Jobs. You are looking for React JS Developers? Submit your job ad",
         "url": "https://reactjsjob.com/",
         "icon": "https://reactjsjob.com/img/icons/favicon-32x32.png"
+    },
+    {
+        "name": "React Native Radio",
+        "categories": [
+            "Podcast",
+            "Programming"
+        ],
+        "description": "Exploring React Native together.",
+        "url": "https://reactnativeradio.com",
+        "icon": "https://image.simplecastcdn.com/images/fd1212b1-7d08-4c5a-8506-00188a4c6528/bb6b7476-a0a9-4ff4-86f0-eded00b3f80a/favicon-red.jpg"
     },
     {
         "name": "React Podcast",
