@@ -11,6 +11,14 @@ export const resources: Resource[] = [
         icon: 'https://icon.horse/icon/icon.horse',
     },
     {
+        name: 'Iconbuddy',
+        categories: ['Icon'],
+        description:
+            'Search, download, customize, edit over 100k+ open source icons. Iconbuddy is a powerful icon search engine and manager. It helps you download icons in SVG, PNG, WEBP, JSX, VUE, Base64 formats.',
+        url: 'https://iconbuddy.app',
+        icon: 'https://iconbuddy.app/favicon.ico',
+    },
+    {
         name: 'Iconfinder',
         categories: ['Icon', 'Illustration'],
         description: 'Millions of graphics for your design projects. Created by independent designers.',
@@ -98,6 +106,13 @@ export const resources: Resource[] = [
         description: 'Compress and resize photos.',
         url: 'http://www.imageoptimizer.net/',
         icon: 'data:image/x-icon;,',
+    },
+    {
+        name: 'Img.Upscaler',
+        categories: ['AI', 'Image'],
+        description: 'Upscale and enhance your image by using the latest AI technology. Support batch process.',
+        url: 'https://imgupscaler.com',
+        icon: 'https://imgupscaler.com/favicon.ico',
     },
     {
         name: 'Inclusive Components',

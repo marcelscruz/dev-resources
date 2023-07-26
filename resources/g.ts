@@ -106,12 +106,12 @@ export const resources: Resource[] = [
         icon: 'https://static.zgo.at/favicon/favicon-32x32.png',
     },
     {
-        name: 'GoDaddy Website Builder',
-        categories: ['Website Builder'],
+        name: 'GoDaddy',
+        categories: ['Domain', 'Hosting', 'Website Builder'],
         description:
-            'Learn How to Make a Website Quickly and Easily with our Highly Acclaimed Website Builder. Our easy to use Web Design software will let you Create a Website in no time at all!',
-        url: 'https://www.godaddy.com/websites/website-builder',
-        icon: 'https://img6.wsimg.com/ux/favicon/favicon-96x96.png',
+            'Your all in one solution to grow online. Start a free trial to create a beautiful website, get a domain name, fast hosting, online marketing and award-winning 24/7 support.',
+        url: 'https://www.godaddy.com',
+        icon: 'https://img6.wsimg.com/ux/favicon/favicon-32x32.png',
     },
     {
         name: 'Godly',

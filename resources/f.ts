@@ -385,6 +385,14 @@ export const resources: Resource[] = [
         icon: 'https://www.freecodecamp.org/icons/icon-96x96.png?v=6cba562cbd10e31af925a976f3db73f7',
     },
     {
+        name: 'Free Faces',
+        categories: ['Font'],
+        description:
+            'This website is a curated collection of typefaces that are available under a variety of free licences somewhere on the interwebs.',
+        url: 'https://www.freefaces.gallery',
+        icon: 'https://uploads-ssl.webflow.com/63ad770767a7fcd529308e52/63fa478e4e9a8cb9136c76cc_favicon.png',
+    },
+    {
         name: 'FreeHTML5',
         categories: ['Template'],
         description:

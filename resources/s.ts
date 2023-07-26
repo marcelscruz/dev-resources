@@ -45,6 +45,14 @@ export const resources: Resource[] = [
         icon: 'https://www.scrapingbee.com/images/logo_2.png',
     },
     {
+        name: 'Screaming Frog SEO Spider',
+        categories: ['SEO'],
+        description:
+            'The industry leading website crawler for Windows, macOS and Ubuntu, trusted by thousands of SEOs and agencies worldwide for technical SEO site audits.',
+        url: 'https://www.screamingfrog.co.uk/seo-spider/',
+        icon: 'https://www.screamingfrog.co.uk/wp-content/themes/screamingfrog/public/images/favicon.ico',
+    },
+    {
         name: 'Screen Studio',
         categories: ['Editor', 'Video'],
         description:
@@ -96,6 +104,22 @@ export const resources: Resource[] = [
             'Drive more traffic and revenue with the SearchAtlas SEO Software platform! Get better results from your SEO campaigns with cutting-edge marketing and SEO tools.',
         url: 'https://searchatlas.com',
         icon: 'https://searchatlas.com/wp-content/uploads/2021/08/favicon-150x150.png',
+    },
+    {
+        name: 'Seotisfy',
+        categories: ['SEO'],
+        description:
+            'Stop wasting time with clunky, siloed SEO work. Get every campaign on the same page with a tool that helps you work better, faster, and based on results.',
+        url: 'https://www.seotisfy.com',
+        icon: 'https://uploads-ssl.webflow.com/62bb13a6af813e4c3dd8f8b7/634ad2478ecb3aa9f967f49b_favicon-32x32.png',
+    },
+    {
+        name: 'SEO-GO',
+        categories: ['SEO'],
+        description:
+            'Provides everything you need for SEO and easy teamwork on SEO projects, rank higher and increase more traffic to your website.',
+        url: 'https://www.seo-go.top',
+        icon: 'https://www.seo-go.top/favicon.ico',
     },
     {
         name: 'Serverless Stack',
