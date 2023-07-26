@@ -1,5 +1,5 @@
 {
-"count": 767,
+"count": 773,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3348,6 +3348,15 @@
         "icon": "https://framerusercontent.com/modules/XGlgWyQ08lVhjrk8BQH9/w8tLwjSBJzleyuMMJ2Nu/assets/3ydDYhTbVKKzF5xDzZpZKoMmc.png"
     },
     {
+        "name": "Free Faces",
+        "categories": [
+            "Font"
+        ],
+        "description": "This website is a curated collection of typefaces that are available under a variety of free licences somewhere on the interwebs.",
+        "url": "https://www.freefaces.gallery",
+        "icon": "https://uploads-ssl.webflow.com/63ad770767a7fcd529308e52/63fa478e4e9a8cb9136c76cc_favicon.png"
+    },
+    {
         "name": "Free JavaScript Resources",
         "categories": [
             "Learn",
@@ -3770,13 +3779,15 @@
         "icon": "https://static.zgo.at/favicon/favicon-32x32.png"
     },
     {
-        "name": "GoDaddy Website Builder",
+        "name": "GoDaddy",
         "categories": [
+            "Domain",
+            "Hosting",
             "Website Builder"
         ],
-        "description": "Learn How to Make a Website Quickly and Easily with our Highly Acclaimed Website Builder. Our easy to use Web Design software will let you Create a Website in no time at all!",
-        "url": "https://www.godaddy.com/websites/website-builder",
-        "icon": "https://img6.wsimg.com/ux/favicon/favicon-96x96.png"
+        "description": "Your all in one solution to grow online. Start a free trial to create a beautiful website, get a domain name, fast hosting, online marketing and award-winning 24/7 support.",
+        "url": "https://www.godaddy.com",
+        "icon": "https://img6.wsimg.com/ux/favicon/favicon-32x32.png"
     },
     {
         "name": "Godly",
@@ -4375,6 +4386,15 @@
         "icon": "https://icon.horse/icon/icon.horse"
     },
     {
+        "name": "Iconbuddy",
+        "categories": [
+            "Icon"
+        ],
+        "description": "Search, download, customize, edit over 100k+ open source icons. Iconbuddy is a powerful icon search engine and manager. It helps you download icons in SVG, PNG, WEBP, JSX, VUE, Base64 formats.",
+        "url": "https://iconbuddy.app",
+        "icon": "https://iconbuddy.app/favicon.ico"
+    },
+    {
         "name": "Iconfinder",
         "categories": [
             "Icon",
@@ -4498,6 +4518,16 @@
         "description": "Compress and resize photos.",
         "url": "http://www.imageoptimizer.net/",
         "icon": "data:image/x-icon;,"
+    },
+    {
+        "name": "Img.Upscaler",
+        "categories": [
+            "AI",
+            "Image"
+        ],
+        "description": "Upscale and enhance your image by using the latest AI technology. Support batch process.",
+        "url": "https://imgupscaler.com",
+        "icon": "https://imgupscaler.com/favicon.ico"
     },
     {
         "name": "Inclusive Components",
@@ -7009,6 +7039,15 @@
         "icon": "https://www.scrapingbee.com/images/logo_2.png"
     },
     {
+        "name": "Screaming Frog SEO Spider",
+        "categories": [
+            "SEO"
+        ],
+        "description": "The industry leading website crawler for Windows, macOS and Ubuntu, trusted by thousands of SEOs and agencies worldwide for technical SEO site audits.",
+        "url": "https://www.screamingfrog.co.uk/seo-spider/",
+        "icon": "https://www.screamingfrog.co.uk/wp-content/themes/screamingfrog/public/images/favicon.ico"
+    },
+    {
         "name": "Screen Studio",
         "categories": [
             "Editor",
@@ -7089,6 +7128,24 @@
         "description": "Cutting-edge SEO tactics that are actually ranking websites.",
         "url": "https://seoblueprint.com/",
         "icon": "https://seoblueprint.com/wp-content/uploads/cropped-blueprint-1-32x32.png"
+    },
+    {
+        "name": "SEO-GO",
+        "categories": [
+            "SEO"
+        ],
+        "description": "Provides everything you need for SEO and easy teamwork on SEO projects, rank higher and increase more traffic to your website.",
+        "url": "https://www.seo-go.top",
+        "icon": "https://www.seo-go.top/favicon.ico"
+    },
+    {
+        "name": "Seotisfy",
+        "categories": [
+            "SEO"
+        ],
+        "description": "Stop wasting time with clunky, siloed SEO work. Get every campaign on the same page with a tool that helps you work better, faster, and based on results.",
+        "url": "https://www.seotisfy.com",
+        "icon": "https://uploads-ssl.webflow.com/62bb13a6af813e4c3dd8f8b7/634ad2478ecb3aa9f967f49b_favicon-32x32.png"
     },
     {
         "name": "Serverless Stack",
