@@ -58,7 +58,8 @@ export const resources: Resource[] = [
     {
         name: 'Wallaby.js',
         categories: ['Editor', 'Extension'],
-        description: 'Wallaby.js runs your JavaScript and TypeScript tests immediately as you type in VS Code, WebStorm and other editors, highlighting results next to your code.',
+        description:
+            'Wallaby.js runs your JavaScript and TypeScript tests immediately as you type in VS Code, WebStorm and other editors, highlighting results next to your code.',
         url: 'https://wallabyjs.com/',
         icon: 'https://wallabyjs.com/assets/img/favicon.ico',
     },
@@ -165,6 +166,15 @@ export const resources: Resource[] = [
             'Weebly’s free website builder makes it easy to build a website, blog, or online store. Find customizable designs, domains, and eCommerce tools for any type of business using our website builder.',
         url: 'https://www.weebly.com/',
         icon: 'https://www.weebly.com/favicon.ico',
+    },
+    {
+        name: 'Wellfound',
+        categories: ['Job'],
+        description:
+            'Apply privately to 130,000+ remote jobs and startup jobs near you with one application. See salary and equity upfront. Find the latest tech jobs, company overviews, benefits and more at Wellfound.',
+        url: 'https://wellfound.com/',
+        icon:
+            'https://assets-global.website-files.com/636dd759d71287e8ac7e6280/636ddbf318e57418714099e9_Frame%20186%20copy.png',
     },
     {
         name: 'Wes Bos',

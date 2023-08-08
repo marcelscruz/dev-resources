@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'RankWizard',
+        categories: ['SEO'],
+        description:
+            'RankWizard is a programmatic SEO writer that writes your content for you. All you need is keywords and we will deliver your content in minutes.',
+        url: 'https://www.rankwizardai.com/',
+        icon: 'https://www.rankwizardai.com/favicon.ico',
+    },
+    {
         name: 'RapidAPI',
         categories: ['API Building'],
         description:

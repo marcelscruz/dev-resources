@@ -504,6 +504,14 @@ export const resources: Resource[] = [
         icon: 'https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a',
     },
     {
+        name: 'Stark',
+        categories: ['Accessibility'],
+        description:
+            'The suite of integrated accessibility tools for your product design and development team • Making the world’s products accessible.',
+        url: 'https://www.getstark.co/',
+        icon: 'https://www.getstark.co/favicon.ico',
+    },
+    {
         name: 'Start Bootstrap',
         categories: ['Template', 'Code Snippet'],
         description:

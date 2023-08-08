@@ -60,6 +60,15 @@ export const resources: Resource[] = [
         icon: 'https://gumroad.com/favicon.ico',
     },
     {
+        name: 'Landing Pages Explained',
+        categories: ['Marketing', 'UX'],
+        description:
+            'The only collection of leading SaaS and creator landing pages with expert explanations of the ideas used to increase conversion.',
+        url: 'https://landingpagesexplained.com/',
+        icon:
+            'https://framerusercontent.com/modules/k50A05ok6eIku9ETQ20n/NkkEh0HSVfHkwcDQ71ux/assets/cQGNAyp3LeQMHi4tBuogCgup0.png',
+    },
+    {
         name: 'Lapa Ninja',
         categories: ['Design', 'Inspiration', 'UI'],
         description:
