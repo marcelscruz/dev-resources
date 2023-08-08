@@ -1,5 +1,5 @@
 {
-"count": 773,
+"count": 777,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4988,6 +4988,16 @@
         "icon": "https://gumroad.com/favicon.ico"
     },
     {
+        "name": "Landing Pages Explained",
+        "categories": [
+            "Marketing",
+            "UX"
+        ],
+        "description": "The only collection of leading SaaS and creator landing pages with expert explanations of the ideas used to increase conversion.",
+        "url": "https://landingpagesexplained.com/",
+        "icon": "https://framerusercontent.com/modules/k50A05ok6eIku9ETQ20n/NkkEh0HSVfHkwcDQ71ux/assets/cQGNAyp3LeQMHi4tBuogCgup0.png"
+    },
+    {
         "name": "Landingexam",
         "categories": [
             "Design",
@@ -6485,6 +6495,15 @@
         "icon": "https://quokkajs.com/assets/img/favicon.ico"
     },
     {
+        "name": "RankWizard",
+        "categories": [
+            "SEO"
+        ],
+        "description": "RankWizard is a programmatic SEO writer that writes your content for you. All you need is keywords and we will deliver your content in minutes.",
+        "url": "https://www.rankwizardai.com/",
+        "icon": "https://www.rankwizardai.com/favicon.ico"
+    },
+    {
         "name": "RapidAPI",
         "categories": [
             "API Building"
@@ -7603,6 +7622,15 @@
         "description": "Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.",
         "url": "http://stackoverflow.com/",
         "icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a"
+    },
+    {
+        "name": "Stark",
+        "categories": [
+            "Accessibility"
+        ],
+        "description": "The suite of integrated accessibility tools for your product design and development team • Making the world’s products accessible.",
+        "url": "https://www.getstark.co/",
+        "icon": "https://www.getstark.co/favicon.ico"
     },
     {
         "name": "Start Bootstrap",
@@ -9005,6 +9033,15 @@
         "description": "Weebly’s free website builder makes it easy to build a website, blog, or online store. Find customizable designs, domains, and eCommerce tools for any type of business using our website builder.",
         "url": "https://www.weebly.com/",
         "icon": "https://www.weebly.com/favicon.ico"
+    },
+    {
+        "name": "Wellfound",
+        "categories": [
+            "Job"
+        ],
+        "description": "Apply privately to 130,000+ remote jobs and startup jobs near you with one application. See salary and equity upfront. Find the latest tech jobs, company overviews, benefits and more at Wellfound.",
+        "url": "https://wellfound.com/",
+        "icon": "https://assets-global.website-files.com/636dd759d71287e8ac7e6280/636ddbf318e57418714099e9_Frame%20186%20copy.png"
     },
     {
         "name": "Wes Bos",
