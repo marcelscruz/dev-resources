@@ -5,6 +5,5 @@ export type Resource = {
     categories: Array<Category>
     description: string
     url: string
-    icon?: string
     keywords?: Array<string>
 }

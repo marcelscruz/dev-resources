@@ -30,9 +30,9 @@ function createRow(nodes) {
         let table = ``
 
         data.forEach((resource) => {
-            const { name, description = '', url, icon, keywords = [] } = resource
+            const { name, description = '', url, keywords = [] } = resource
 
-            const favicon = icon ? `<img src="${icon}" width="16" />` : '&nbsp;'
+            const favicon = `<img src="https://www.google.com/s2/favicons?domain=${url}&sz=128" width="16" />`
             const truncatedDescription = truncate({
                 text: description,
                 limit: 200,

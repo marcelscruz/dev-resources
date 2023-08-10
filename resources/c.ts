@@ -7,7 +7,6 @@ export const resources: Resource[] = [
         description:
             'Build an impressive resume and land that dream job. View online or download the PDF for FREE! CakeResume provides more than 50 resume templates and 1,000+ resume samples to help you make a professional resume in 10 minutes.',
         url: 'https://www.cakeresume.com/',
-        icon: 'https://www.cakeresume.com/favicons/favicon-96x96.png',
     },
     {
         name: 'CandyIcons',
@@ -15,7 +14,6 @@ export const resources: Resource[] = [
         description:
             'CandyIcons offers thousands of unique and amazing app icons that have not yet appeared elsewhere, saving you time in spotting the perfect icon for your product.',
         url: 'https://www.candyicons.com',
-        icon: 'https://www.candyicons.com/favicon/favicon-32x32.png',
     },
     {
         name: 'Canva',
@@ -23,7 +21,6 @@ export const resources: Resource[] = [
         description:
             'Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.',
         url: 'https://www.canva.com/',
-        icon: 'https://www.canva.com/favicon.ico',
     },
     {
         name: 'CanvasJs',
@@ -31,7 +28,6 @@ export const resources: Resource[] = [
         description:
             'HTML5 JavaScript Charts built on top of HTML5 Canvas Element. Renders across devices & is 10x faster than JavaScript Charting libraries based on SVG.',
         url: 'https://canvasjs.com/',
-        icon: 'https://canvasjs.com/wp-content/uploads/images/favicon/canvasjs-favicon-16x16.png?v=1.1',
     },
     {
         name: 'CapCut',
@@ -39,7 +35,7 @@ export const resources: Resource[] = [
         description:
             'CapCut is an all-in-one online video editing software which makes creation, upload & share easier, with frame by frame track editor, cloud drive etc.',
         url: 'https://www.capcut.com',
-        icon: 'https://lf16-web-buz.capcut.com/obj/capcut-web-buz-us/common/images/lv_web.ico',
+
         keywords: ['video editor'],
     },
     {
@@ -47,14 +43,12 @@ export const resources: Resource[] = [
         categories: ['Code Snippet', 'Screenshot'],
         description: 'Carbon is the easiest way to create and share beautiful images of your source code.',
         url: 'https://carbon.now.sh',
-        icon: 'https://carbon.now.sh/static/brand/apple-touch-icon.png',
     },
     {
         name: 'Carrd',
         categories: ['Website Builder'],
         description: 'A free platform for building simple, fully responsive one-page sites for pretty much anything.',
         url: 'https://carrd.co',
-        icon: 'https://carrd.co/favicon.ico',
     },
     {
         name: 'Cassandra',
@@ -62,14 +56,12 @@ export const resources: Resource[] = [
         description:
             'Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters.',
         url: 'http://cassandra.apache.org/',
-        icon: 'https://cassandra.apache.org/favicon.ico',
     },
     {
         name: 'Chakra',
         categories: ['Library', 'Programming', 'UI'],
         description: 'Simple, Modular and Accessible UI Components for your React Applications.',
         url: 'https://chakra-ui.com/',
-        icon: 'https://chakra-ui.com/favicon.png',
     },
     {
         name: 'Chart.js',
@@ -77,14 +69,12 @@ export const resources: Resource[] = [
         description:
             'Simple, clean and engaging HTML5 based JavaScript charts. Chart.js is an easy way to include animated, interactive graphs on your website for free.',
         url: 'https://www.chartjs.org/',
-        icon: 'https://www.chartjs.org/favicon.ico',
     },
     {
         name: 'Chartist',
         categories: ['Library', 'Programming'],
         description: 'Create responsive, scalable and good looking charts with chartist.js.',
         url: 'https://gionkunz.github.io/chartist-js/',
-        icon: 'https://gionkunz.github.io/chartist-js/favicon.ico',
     },
     {
         name: 'ChatGPT Prompts by Keywords Everywhere',
@@ -92,7 +82,7 @@ export const resources: Resource[] = [
         description:
             'Rewrite business rules with an arsenal of Supercharged ChatGPT prompts at your fingertips. Shape remarkable strategies, captivate your audience, & make your business truly shine.',
         url: 'https://keywordseverywhere.com/ctl/chatgpt-prompts',
-        icon: 'https://keywordseverywhere.com/favicon-32x32.png',
+
         keywords: ['ai', 'prompts'],
     },
     {
@@ -100,21 +90,18 @@ export const resources: Resource[] = [
         categories: ['Cheatsheet'],
         description: 'Find thousands of incredible, original programming cheat sheets, all free to download.',
         url: 'https://cheatography.com/',
-        icon: 'https://cheatography.com/images/cheatography-iphone.png',
     },
     {
         name: 'Check My Links',
         categories: ['Browser', 'Extension'],
         description: 'Check My Links is a link checker that crawls through your webpage and looks for broken links.',
         url: 'https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en',
-        icon: 'https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png',
     },
     {
         name: 'Checka11y.css',
         categories: ['Accessibility', 'Programming'],
         description: 'A CSS stylesheet to quickly highlight a11y concerns. - jackdomleo7/Checka11y.css.',
         url: 'https://github.com/jackdomleo7/Checka11y.css',
-        icon: 'https://github.githubassets.com/favicons/favicon-dark.svg',
     },
     {
         name: 'Checklist Design',
@@ -122,8 +109,6 @@ export const resources: Resource[] = [
         description:
             'Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets.',
         url: 'https://www.checklist.design/',
-        icon:
-            'https://uploads-ssl.webflow.com/5ba4b3c973b5d218459f7e6f/5f33ce7fe8e7463f6c74c26f_checklist-web-image.png',
     },
     {
         name: 'Choc UI',
@@ -131,7 +116,6 @@ export const resources: Resource[] = [
         description:
             'Choc UI is a set of accessible and reusable components that are commonly used in web applications.',
         url: 'https://choc-ui.com/',
-        icon: 'https://choc-ui.com/favicon-32x32.png',
     },
     {
         name: 'Chrome',
@@ -139,7 +123,6 @@ export const resources: Resource[] = [
         description:
             'Get more done with the new Google Chrome. A more simple, secure, and faster web browser than ever, with Google’s smarts built-in. Download now.',
         url: 'https://www.google.com/chrome/',
-        icon: 'https://www.google.com/chrome/static/images/favicons/favicon-96x96.png',
     },
     {
         name: 'Chrome Canary',
@@ -147,7 +130,6 @@ export const resources: Resource[] = [
         description:
             'Get on the bleeding edge of the web with Chrome Canary designed for experienced developers and updated nightly.',
         url: 'https://www.google.com/chrome/canary/',
-        icon: 'https://www.google.com/chrome/static/images/favicons/favicon-96x96.png',
     },
     {
         name: 'Chrome Dev',
@@ -155,14 +137,12 @@ export const resources: Resource[] = [
         description:
             'Google Chrome for developers was built for the open web. Test cutting-edge web platform APIs and developer tools that are updated weekly.',
         url: 'https://www.google.com/chrome/dev/',
-        icon: 'https://www.google.com/chrome/static/images/favicons/favicon-96x96.png',
     },
     {
         name: 'Circum Icons',
         categories: ['Icon'],
         description: 'Consistent open source icons as SVG for React, Vue and Svelte.',
         url: 'https://circumicons.com/',
-        icon: 'https://circumicons.com/favicon_light.png',
     },
     {
         name: 'Clearbit',
@@ -170,7 +150,7 @@ export const resources: Resource[] = [
         description:
             "Easily embed any company's logo in your project with this simple & free API. Quickly lookup company logos using their domain. It's as easy as typing in a URL.",
         url: 'https://clearbit.com/logo',
-        icon: 'https://clearbit.com/favicon.ico',
+
         keywords: ['company logos'],
     },
     {
@@ -179,7 +159,6 @@ export const resources: Resource[] = [
         description: 'Drop-in React components for authentication and authorization.',
         keywords: ['react', 'next.js', 'auth', ' user management', 'react auth', 'next.js auth', 'javascript auth'],
         url: 'https://clerk.com',
-        icon: 'https://clerk.com/favicon/favicon-32x32.png',
     },
     {
         name: 'Clideo',
@@ -206,14 +185,12 @@ export const resources: Resource[] = [
             'mac',
         ],
         url: 'https://clideo.com',
-        icon: 'https://static.clideo.com/assets/images/favicon/64x64.png',
     },
     {
         name: 'CLion',
         categories: ['Editor', 'Programming'],
         description: 'A powerful IDE from JetBrains helps you develop in C and C++ on Linux, macOS and Windows.',
         url: 'https://www.jetbrains.com/clion/',
-        icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
         name: 'Cloudflare Pages',
@@ -221,7 +198,7 @@ export const resources: Resource[] = [
         description:
             'Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.',
         url: 'https://pages.cloudflare.com/',
-        icon: 'https://pages.cloudflare.com/resources/logo/logo.svg',
+
         keywords: ['jamstack', 'serverless', 'hosting', 'development'],
     },
     {
@@ -230,21 +207,18 @@ export const resources: Resource[] = [
         description:
             'Cloudflare workers allow you to host serverless code. The free plan is also ideal for static site hosting',
         url: 'https://workers.cloudflare.com/',
-        icon: 'https://workers.cloudflare.com/favicon.ico',
     },
     {
         name: 'cmd challenge',
         categories: ['Terminal'],
         description: 'Learn the command line.',
         url: 'https://cmdchallenge.com/',
-        icon: 'https://cmdchallenge.com/favicon.ico',
     },
     {
         name: 'Code to go',
         categories: ['Code Snippet', 'Programming'],
         description: 'Javascript code to go: Find updated snippets for common JavaScript use cases.',
         url: 'https://codetogo.io/',
-        icon: 'https://codetogo.io/favicons/favicon-32x32.png',
     },
     {
         name: 'Code Winds',
@@ -284,7 +258,6 @@ export const resources: Resource[] = [
             'redux',
         ],
         url: 'http://codewinds.com/podcast.html',
-        icon: 'http://codewinds.com/assets/favicon-64.png',
     },
     {
         name: 'Codecademy',
@@ -292,7 +265,6 @@ export const resources: Resource[] = [
         description:
             'Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more.',
         url: 'https://www.codecademy.com/',
-        icon: 'https://www.codecademy.com/favicon.ico',
     },
     {
         name: 'CodeCombat',
@@ -301,7 +273,6 @@ export const resources: Resource[] = [
             'Learn programming languages by playing the Role Playing Game. Different languages, beginner-friendly learning curve.',
         keywords: ['Python', 'JavaScript', 'CoffeeScript', 'Lua', 'C++', 'Java'],
         url: 'https://www.codecombat.com/',
-        icon: 'https://www.codecombat.com/favicon.ico',
     },
     {
         name: 'CodeChef',
@@ -315,14 +286,12 @@ export const resources: Resource[] = [
             'online computer programming',
         ],
         url: 'https://www.codechef.com/',
-        icon: 'https://www.codechef.com/misc/favicon.ico',
     },
     {
         name: 'Codeconia',
         categories: ['Blog', 'Programming'],
         description: 'Learn programming with Codeconia.',
         url: 'https://codeconia.com/',
-        icon: 'https://codeconia.com/wp-content/uploads/2020/11/cropped-favicon-32x32.png',
     },
     {
         name: 'CodeKit',
@@ -330,7 +299,6 @@ export const resources: Resource[] = [
         description:
             'CodeKit is a Mac app that makes it easy to use modern web development tools like npm, Babel, Sass, JavaScript bundling, image optimization, and ESLint.',
         url: 'https://codekitapp.com/',
-        icon: 'https://codekitapp.com/images/favicon-32.png?ckcachebust=627961015',
     },
     {
         name: 'Codementor',
@@ -338,7 +306,6 @@ export const resources: Resource[] = [
         description:
             'Codementor is the largest community for developer mentorship and an on-demand marketplace for software developers. Get instant coding help, build projects faster, and read programming tutorials from our community of developers.',
         url: 'https://www.codementor.io/',
-        icon: 'https://assets.codementor.io/icons/favicon-96x96.png',
     },
     {
         name: 'CodeMyUI',
@@ -346,7 +313,6 @@ export const resources: Resource[] = [
         description:
             'Handpicked collection of Web Design & UI Inspiration with Code Snippets. ✅ GIF preview ✅ HTML CSS copy paste code.',
         url: 'https://codemyui.com/',
-        icon: 'https://i1.wp.com/codemyui.com/wp-content/uploads/2017/02/cropped-logo-1.png?fit=32%2C32&ssl=1',
     },
     {
         name: 'CodeNewbie',
@@ -354,7 +320,6 @@ export const resources: Resource[] = [
         categories: ['Podcast', 'Programming'],
         description: 'Stories from people on their coding journey.',
         url: 'https://www.codenewbie.org/podcast/',
-        icon: 'https://s3.amazonaws.com/codenewbie-assets/codenewbie-favicon-new.png',
     },
     {
         name: 'CodePen',
@@ -391,8 +356,6 @@ export const resources: Resource[] = [
             'codepen',
         ],
         url: 'https://codepen.io/',
-        icon:
-            'https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png',
     },
     {
         name: 'CodePen Radio',
@@ -400,14 +363,12 @@ export const resources: Resource[] = [
         description:
             "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
         url: 'https://blog.codepen.io/radio/',
-        icon: 'https://blog.codepen.io/favicon.ico',
     },
     {
         name: 'Codepip',
         categories: ['Learn', 'Programming'],
         description: 'Learn to code by playing games.',
         url: 'https://codepip.com',
-        icon: 'https://codepip.com/favicon.ico',
     },
     {
         name: 'Coderbyte',
@@ -430,7 +391,6 @@ export const resources: Resource[] = [
             'codetbytes',
         ],
         url: 'https://coderbyte.com/',
-        icon: 'https://coderbytestaticimages.s3.amazonaws.com/favicon_2.png',
     },
     {
         name: 'CodeSandbox',
@@ -459,7 +419,6 @@ export const resources: Resource[] = [
             'end',
         ],
         url: 'https://codesandbox.io/',
-        icon: 'https://codesandbox.io/favicon.ico',
     },
     {
         name: 'Codeshare',
@@ -467,7 +426,6 @@ export const resources: Resource[] = [
         description:
             'Share code in real-time with developers in your browser. An online code editor for interviews, troubleshooting, teaching.',
         url: 'https://codeshare.io/',
-        icon: 'https://codeshare.io/favicon.ico',
     },
     {
         name: 'CodeTriage',
@@ -475,8 +433,6 @@ export const resources: Resource[] = [
         description:
             'Discover the easiest way to get started contributing to open source. Over 62,317 devs are helping 6,584 projects with our free, community developed tools',
         url: 'https://www.codetriage.com/',
-        icon:
-            'https://www.codetriage.com/assets/favicon-3f3e475345be27562adee9d8e596a032785e3efd4496111cab0b1fe0a81ad722.ico',
     },
     {
         name: 'Codewars',
@@ -498,14 +454,13 @@ export const resources: Resource[] = [
             'dojo',
         ],
         url: 'https://www.codewars.com/',
-        icon: 'https://www.codewars.com/favicon.ico',
     },
     {
         name: 'Codewell',
         categories: ['Learn', 'Programming'],
         description: 'Improve your HTML and CSS skills by practicing on real world design templates.',
         url: 'https://www.codewell.cc/',
-        icon: 'https://www.codewell.cc/favicon.ico',
+
         keywords: ['frontend', 'html', 'css', 'flexbox', 'grid', 'javascript'],
     },
     {
@@ -522,7 +477,6 @@ export const resources: Resource[] = [
         categories: ['Editor', 'Extension'],
         description: 'Codiga is a Coding Assistant that lets you create, share and import code snippets from your IDE.',
         url: 'https://www.codiga.io',
-        icon: 'https://www.codiga.io/favicon-32x32.png',
     },
     {
         name: 'Coding Tech',
@@ -533,7 +487,6 @@ export const resources: Resource[] = [
             'javascript python css html "machine learning" "artificial intelligence" "software development" programming',
         ],
         url: 'https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ',
-        icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
         name: 'CodinGame',
@@ -541,7 +494,6 @@ export const resources: Resource[] = [
         description:
             'CodinGame is a challenge-based training platform for programmers where you can improve your coding skills with fun exercises (25+ languages supported).',
         url: 'https://www.codingame.com/',
-        icon: 'https://static.codingame.com/assets/favicon_32_32.3e3c075c.png',
     },
     {
         name: 'Codrops',
@@ -549,7 +501,6 @@ export const resources: Resource[] = [
         description:
             'Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.',
         url: 'https://tympanus.net/codrops/',
-        icon: 'https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/themes/codropstheme03/favicons/favicon-196x196.png',
     },
     {
         name: 'Collect UI',
@@ -558,7 +509,6 @@ export const resources: Resource[] = [
             'Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.',
         keywords: ['dailyui', 'daily ui', 'ui challenge', 'daily inspiration', 'ui inspiration'],
         url: 'http://collectui.com/',
-        icon: 'http://collectui.com/img/favicon.ico',
     },
     {
         name: 'Colorffy',
@@ -566,7 +516,6 @@ export const resources: Resource[] = [
         description:
             'Create many gradients and palettes or save one of many color schemes, for everyone who needs colors.',
         url: 'https://colorffy.com/',
-        icon: 'https://colorffy.com/img/icons/msapplication-icon-144x144.png',
     },
     {
         name: 'Color Contrast Checker',
@@ -580,7 +529,6 @@ export const resources: Resource[] = [
         description:
             'Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.',
         url: 'https://colorhunt.co/',
-        icon: 'https://colorhunt.co/img/color-hunt-icon-ios.png',
     },
     {
         name: 'Color-hex',
@@ -588,7 +536,6 @@ export const resources: Resource[] = [
         description:
             'Color hex is a easy to use tool to get the color codes information including color models (RGB,HSL,HSV and CMYK), css and html color codes.',
         url: 'https://www.color-hex.com/',
-        icon: 'https://www.color-hex.com/favicon.ico',
     },
     {
         name: 'Color.review',
@@ -596,7 +543,6 @@ export const resources: Resource[] = [
         description:
             'A modern tool for exploring and finding accessible colors. Make sure that everyone can see your creations.',
         url: 'https://color.review/',
-        icon: 'https://color.review/favicon-32x32.png',
     },
     {
         name: 'Colorlib',
@@ -604,7 +550,6 @@ export const resources: Resource[] = [
         description:
             "Colorlib is the ONLY resource you'll need to start a blog using WordPress! We offer comprehensive yet easy to follow guides well suited for beginner bloggers.",
         url: 'https://colorlib.com/',
-        icon: 'https://colorlib.com/wp/wp-content/uploads/sites/2/2014/05/ipad-colorlib.png',
     },
     {
         name: 'Colormind',
@@ -612,14 +557,12 @@ export const resources: Resource[] = [
         description:
             'Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.',
         url: 'http://colormind.io/',
-        icon: 'http://colormind.io/favicon32.gif',
     },
     {
         name: 'colors.lol',
         categories: ['Color'],
         description: 'A fun way to discover interesting color combinations.',
         url: 'https://colors.lol/',
-        icon: 'https://colors.lol/assets/favicon/favicon-32x32.png',
     },
     {
         name: 'Colorsinspo',
@@ -627,7 +570,6 @@ export const resources: Resource[] = [
         description:
             'Colorsinspo is all in one resource to find everything about colors with extreme ease. Also, you will get Freebies, Inspirations, Color Tools, Gradients, and thousands of trendy hand-picked color palettes.',
         url: 'https://colorsinspo.com/',
-        icon: 'https://colorsinspo.com/resources/img/colorsinspo-favicon.png',
     },
     {
         name: 'ColorSpace',
@@ -635,14 +577,12 @@ export const resources: Resource[] = [
         description:
             'Here you can find the perfect matching color scheme for your next project! Generate nice color palettes, color gradients and much more! Your space for everything that has to do with color!',
         url: 'https://mycolor.space/',
-        icon: 'https://mycolor.space/favicon5.png',
     },
     {
         name: 'ColorZilla',
         categories: ['Color', 'Editor', 'Extension'],
         description: 'Advanced Eyedropper, Color Picker, Gradient Generator and more.',
         url: 'https://www.colorzilla.com/',
-        icon: 'https://www.colorzilla.com/favicon.ico',
     },
     {
         name: 'Commit Your Code!',
@@ -680,7 +620,6 @@ export const resources: Resource[] = [
             'talk radio',
         ],
         url: 'https://anchor.fm/commityourcode',
-        icon: 'https://d12xoj7p9moygp.cloudfront.net/favicon/favicon-96x96.png',
     },
     {
         name: 'Community List',
@@ -688,7 +627,6 @@ export const resources: Resource[] = [
         description:
             'Finding relevant communities takes hours and manual googling sucks. With Community List, quickly find relevant communities with all the data you need in one place.',
         url: 'https://getcommunitylist.com/',
-        icon: 'https://getcommunitylist.com/assets/images/favicon.png?v=1961bf32',
     },
     {
         name: 'Compare pixels',
@@ -709,7 +647,6 @@ export const resources: Resource[] = [
             'web',
         ],
         url: 'https://usepastel.com/compare-pixels',
-        icon: 'https://usepastel.com/static/images/favicon.png',
     },
     {
         name: 'Compressor',
@@ -717,14 +654,12 @@ export const resources: Resource[] = [
         description:
             'Optimize and compress your jpeg and png images online. Compressor is a lossy and lossless photo compression tool.',
         url: 'https://compressor.io/',
-        icon: 'https://compressor.io/favicon.ico',
     },
     {
         name: 'Computer Science courses with video lectures',
         categories: ['Learn', 'Programming'],
         description: 'List of Computer Science courses with video lectures.',
         url: 'https://github.com/Developer-Y/cs-video-courses',
-        icon: 'https://github.githubassets.com/apple-touch-icon-114x114.png',
     },
     {
         name: 'Console Ninja',
@@ -732,7 +667,6 @@ export const resources: Resource[] = [
         description:
             'Console Ninja is a VS Code extension that allows you to see console.log output and runtime errors right next to your code.',
         url: 'https://console-ninja.com',
-        icon: 'https://console-ninja.com/images/favicon.ico',
     },
     {
         name: 'ContentKing',
@@ -740,7 +674,7 @@ export const resources: Resource[] = [
         description:
             'ContentKing keeps track of your website 24/7 so that you can catch unexpected changes and issues before search engines and visitors do.',
         url: 'https://www.contentkingapp.com/',
-        icon: 'https://www.contentkingapp.com/assets/images/favicons/favicon.ico',
+
         keywords: ['seo', 'content', 'monitoring', 'website', 'audit'],
     },
     {
@@ -754,7 +688,6 @@ export const resources: Resource[] = [
         categories: ['Illustration'],
         description: 'Combo set of 108 customizable illustrations.',
         url: 'https://control.rocks/',
-        icon: 'https://control.rocks/img/favicon-32x32.png',
     },
     {
         name: 'Conversion Strategies Database',
@@ -762,7 +695,6 @@ export const resources: Resource[] = [
         description:
             'Join 881 smart founders and SaaS companies who are growing their sales with Swipe conversion strategies database.',
         url: 'https://gumroad.com/a/399283315/WCKkj',
-        icon: 'https://gumroad.com/favicon.ico',
     },
     {
         name: 'CookieYes',
@@ -770,7 +702,7 @@ export const resources: Resource[] = [
         description:
             'CookieYes is a cookie consent solution that helps your website achieve GDPR and CCPA compliance easily. Create a lifetime free account!',
         url: 'https://www.cookieyes.com/',
-        icon: 'https://www.cookieyes.com/wp-content/uploads/2021/03/cropped-cy-favicon-32x32.png',
+
         keywords: ['privacy', 'cookie', 'policy'],
     },
     {
@@ -806,7 +738,6 @@ export const resources: Resource[] = [
             'color palette from image',
         ],
         url: 'https://coolors.co/',
-        icon: 'https://coolors.co/assets/img/favicon.png',
     },
     {
         name: 'CopyAI',
@@ -814,8 +745,6 @@ export const resources: Resource[] = [
         description:
             "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds!",
         url: 'https://www.copy.ai/',
-        icon:
-            'https://assets-global.website-files.com/5f4ec532319820f7c2ccd7a3/5f55620b7b806770e6becea2_32x32%20favico.png',
     },
     {
         name: 'Copy Paste CSS',
@@ -823,7 +752,6 @@ export const resources: Resource[] = [
         description:
             'Find inspiration with a collection of simple CSS elements to copy and paste ( button, box-shadow, text-input, color palette )',
         url: 'https://copy-paste-css.com/',
-        icon: 'https://copy-paste-css.com/favicon.ico',
     },
     {
         name: 'CoreUI',
@@ -831,7 +759,6 @@ export const resources: Resource[] = [
         description:
             'Time is our most valuable asset, that’s why we want to help you save it by creating simple, customizable, easy to learn UI components and Admin Templates which significantly cut development time. CoreUI lets you save thousands of priceless hours because it offers everything you need to create modern, beautiful, and responsive applications.',
         url: 'https://coreui.io/',
-        icon: 'https://coreui.io/images/favicons/favicon-96x96.png',
     },
     {
         name: 'CouchDB',
@@ -839,7 +766,6 @@ export const resources: Resource[] = [
         description:
             'CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice.',
         url: 'https://couchdb.apache.org/',
-        icon: 'https://couchdb.apache.org/favicon-32x32.png',
     },
     {
         name: 'Coursera',
@@ -847,7 +773,6 @@ export const resources: Resource[] = [
         description:
             'Join Coursera for free and learn online. Build skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM. Advance your career with degrees, certificates, Specializations, &amp; MOOCs in data science, computer science, business, and dozens of other topics.',
         url: 'https://www.coursera.org/',
-        icon: 'https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/v2/favicon-v2-96x96.png',
     },
     {
         name: 'Craftwork',
@@ -855,7 +780,7 @@ export const resources: Resource[] = [
         description:
             'Design resources for everyone. Freebies and premium web design products, custom illustrations and graphics on one marketplace.',
         url: 'https://craftwork.design',
-        icon: 'https://craftwork-images.b-cdn.net/wp-content/uploads/cropped-favicon-1-32x32.png',
+
         keywords: ['ui', 'ux', 'vector', 'graphics', '3d'],
     },
     {
@@ -864,7 +789,6 @@ export const resources: Resource[] = [
         description:
             'CreativesFeed works to share the best free code snippets and web development resources online. We create free, downloadable code snippets and provide tutorials on web design and development to help agencies and individuals learn and grow!',
         url: 'https://creativesfeed.com/topics/code-snippets/',
-        icon: 'https://creativesfeed.com/icons/apple-icon-76x76.png',
     },
     {
         name: 'Cruip',
@@ -872,7 +796,6 @@ export const resources: Resource[] = [
         description:
             'Cruip is a gallery of premium and free HTML, Vue.js and React landing page templates for startups and SaaS.',
         url: 'https://cruip.com/',
-        icon: 'https://cruip.com/wp-content/themes/cruip/dist/images/favicon-96x96.png',
     },
     {
         name: 'CS50',
@@ -881,14 +804,12 @@ export const resources: Resource[] = [
             "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard (and Yale!) course.",
         keywords: ['cs50 harvard computer science david j. malan'],
         url: 'https://www.youtube.com/user/cs50tv',
-        icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
         name: 'CSS Diner',
         categories: ['Learn', 'Programming'],
         description: 'A fun game to help you learn and practice CSS selectors.',
         url: 'https://flukeout.github.io/',
-        icon: 'https://flukeout.github.io/favicon.png',
     },
     {
         name: 'CSS Gradient',
@@ -896,7 +817,6 @@ export const resources: Resource[] = [
         description:
             'As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.',
         url: 'https://cssgradient.io/',
-        icon: 'https://cssgradient.io/images/favicon-23859487.png',
     },
     {
         name: 'CSS Layout',
@@ -904,15 +824,12 @@ export const resources: Resource[] = [
         categories: ['Code Snippet', 'Programming'],
         keywords: ['CSS layout', 'CSS pattern', 'CSS UI pattern'],
         url: 'https://csslayout.io/',
-        icon: 'https://csslayout.io/assets/favicon.png',
     },
     {
         name: 'CSS Layout News',
         categories: ['Newsletter', 'Programming'],
         description: 'A weekly collection of tutorials, news and information on all things CSS Layout.',
         url: 'https://csslayout.news/',
-        icon:
-            'https://dxj7eshgz03ln.cloudfront.net/production/publication/publication_icon/1883/apple_touch_76_c13a8beb-a086-4874-b39b-98081897f1fc.png',
     },
     {
         name: 'CSS Nectar',
@@ -920,7 +837,6 @@ export const resources: Resource[] = [
         description:
             'CSS Nectar is a css website design showcase for web designers and developers. Every day we select the best of the web design and add it to our gallery. Submit or suggest a website.',
         url: 'https://cssnectar.com//',
-        icon: 'https://i0.wp.com/cssnectar.com/wp-content/uploads/2016/04/favicon.png?fit=47%2C47&ssl=1',
     },
     {
         name: 'CSS Reference',
@@ -928,7 +844,6 @@ export const resources: Resource[] = [
         description:
             'CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.',
         url: 'https://cssreference.io/',
-        icon: 'https://cssreference.io/favicons/favicon-32x32.png',
     },
     {
         name: 'CSS Scan',
@@ -936,21 +851,18 @@ export const resources: Resource[] = [
         description:
             'Goodbye to "Inspect Element" — Visualize the CSS of any element you hover over, instantly, and copy its entire rules with a single click.',
         url: 'https://getcssscan.com/',
-        icon: 'https://getcssscan.com/favicon-32x32.png',
     },
     {
         name: 'CSS Weekly',
         categories: ['Newsletter', 'Programming'],
         description: 'Weekly e-mail roundup of latest css articles, tutorials, tools and experiments.',
         url: 'https://css-weekly.com/',
-        icon: 'https://css-weekly.com/favicon.ico',
     },
     {
         name: 'CSS-Tricks',
         categories: ['Blog', 'Code Snippet', 'Newsletter', 'Programming'],
         description: 'CSS-Tricks is a website about websites.',
         url: 'https://css-tricks.com',
-        icon: 'https://css-tricks.com/apple-touch-icon.png',
     },
     {
         name: 'css.gg',
@@ -958,28 +870,24 @@ export const resources: Resource[] = [
         description:
             'Pure CSS icons library, Customizable & Retina-Ready built 100% in pure CSS, SVG, SVG Sprite, styled-components, Figma and Adobe XD. Easy integration: Embed, NPM & API.',
         url: 'https://css.gg/',
-        icon: 'https://css.gg/fav/favicon-96x96.png',
     },
     {
         name: 'CSSBattle',
         categories: ['Code Challenge', 'Learn', 'Programming'],
         description: 'CSS Code Golfing is Here!',
         url: 'https://cssbattle.dev/',
-        icon: 'https://cssbattle.dev/images/logo-square.png',
     },
     {
         name: 'CSSButtonMaker',
         categories: ['Programming', 'Open Source', 'UI'],
         description: 'Create stunning buttons in just a few clicks!',
         url: 'https://axorax.github.io/css-button-maker/',
-        icon: 'https://axorax.github.io/css-button-maker/assets/img/axorax.png',
     },
     {
         name: 'CSSViewer',
         categories: ['Browser', 'Extension'],
         description: 'A simple CSS property viewer.',
         url: 'https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce',
-        icon: 'https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png',
     },
     {
         name: 'Customer.io',
@@ -987,7 +895,6 @@ export const resources: Resource[] = [
         description:
             'With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions.',
         url: 'https://customer.io/',
-        icon: 'https://customer.io/wp-content/uploads/2019/01/customer-io-touchicon-180.png',
     },
     {
         name: 'Cypress',
@@ -995,7 +902,6 @@ export const resources: Resource[] = [
         description:
             'Fast, easy and reliable testing for anything that runs in a browser. Install Cypress in seconds and take the pain out of front-end testing.',
         url: 'https://www.cypress.io/',
-        icon: 'https://www.cypress.io/icons/icon-96x96.png?v=90213ca87017074111a88470199bc242315d18c5',
     },
     {
         name: 'Cytoscape.js',
@@ -1003,6 +909,5 @@ export const resources: Resource[] = [
         description:
             'Graph theory / network library for analysis and visualisation - compatible with CommonJS/Node.js/Browserify/Webpack, AMD/Require.js, npm, Bower, jspm, Meteor/Atmosphere, jQuery, and plain JS/JavaScript.',
         url: 'https://js.cytoscape.org/',
-        icon: 'https://js.cytoscape.org/img/cytoscape-logo.png',
     },
 ]

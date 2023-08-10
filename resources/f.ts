@@ -7,14 +7,12 @@ export const resources: Resource[] = [
         description:
             'A little tool that generates placeholder images with an URL. Choose the size, the colors, even the text.',
         url: 'https://fakeimg.pl/',
-        icon: 'https://fakeimg.pl/favicon.ico',
     },
     {
         name: 'Famewall',
         categories: ['Marketing'],
         description: 'Collect and add testimonials to your website.',
         url: 'https://famewall.io/',
-        icon: 'https://ucarecdn.com/87f090c7-36c4-470f-9ac7-dff8e97cd59b/',
     },
     {
         name: 'Fathom',
@@ -22,7 +20,6 @@ export const resources: Resource[] = [
         description:
             'Fathom Analytics is simple, GDPR + CCPA + PECR compliant website analytics tool, no cookie notice required. No tracking or storing personal data of your users.',
         url: 'https://usefathom.com/',
-        icon: 'https://usefathom.com/assets/favicon.svg?v=3',
     },
     {
         name: 'Feather',
@@ -30,7 +27,6 @@ export const resources: Resource[] = [
         description:
             'Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.',
         url: 'https://feathericons.com/',
-        icon: 'https://feathericons.com/favicon-32x32.png',
     },
     {
         name: 'Figma',
@@ -52,7 +48,6 @@ export const resources: Resource[] = [
             'user interface design',
         ],
         url: 'https://www.figma.com/',
-        icon: 'https://static.figma.com/app/icon/1/touch-76.png',
     },
     {
         name: 'FigmaCrush',
@@ -60,7 +55,6 @@ export const resources: Resource[] = [
         description:
             'FigmaCrush is a curated collection of Figma resources: UI kits, icons, website templates and all sorts of freebies created and shared by the Figma community.',
         url: 'https://www.figmacrush.com/',
-        icon: 'https://www.figmacrush.com/wp-content/uploads/2019/09/favicon_FM.ico',
     },
     {
         name: 'Firebase',
@@ -68,8 +62,6 @@ export const resources: Resource[] = [
         description:
             'Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.',
         url: 'https://firebase.google.com/',
-        icon:
-            'https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png',
     },
     {
         name: 'Firestore',
@@ -77,15 +69,12 @@ export const resources: Resource[] = [
         description:
             'Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps through realtime listeners and offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity. Cloud Firestore also offers seamless integration with other Firebase and Google Cloud products, including Cloud Functions.',
         url: 'https://firebase.google.com/docs/firestore',
-        icon:
-            'https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png',
     },
     {
         name: 'Firefox',
         categories: ['Browser'],
         description: 'Faster page loading, less memory usage and packed with features, the new Firefox is here.',
         url: 'https://www.mozilla.org/en-US/firefox/new/',
-        icon: 'https://www.mozilla.org/media/img/favicons/firefox/browser/favicon-196x196.59e3822720be.png',
     },
     {
         name: 'Firefox Developer',
@@ -93,7 +82,6 @@ export const resources: Resource[] = [
         description:
             'Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging.',
         url: 'https://www.mozilla.org/en-US/firefox/developer/',
-        icon: 'https://www.mozilla.org/media/img/favicons/firefox/browser/developer/favicon-196x196.b8d17dd1dda2.png',
     },
     {
         name: 'Firefox Nightly',
@@ -101,7 +89,6 @@ export const resources: Resource[] = [
         description:
             'Get a sneak peek at our next generation web browser, and help us make it the best browser it can be',
         url: 'https://www.mozilla.org/en-US/firefox/69.0a1/releasenotes/',
-        icon: 'https://www.mozilla.org/media/img/favicons/firefox/browser/nightly/favicon-196x196.f6d874cabab4.png',
     },
     {
         name: 'Fireship',
@@ -109,7 +96,7 @@ export const resources: Resource[] = [
             'High-intensity ⚡ code tutorials to help you build & ship your app faster. Subscribe for new videos every week covering intermediate to advanced lessons about JavaScript, Flutter, Firebase, and modern app development. The original home of #100SecondsOfCode and #CodeThisNotThat. Created by Jeff Delaney.',
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/c/Fireship/featured',
-        icon: 'https://www.youtube.com/s/desktop/b349a03a/img/favicon_96x96.png',
+
         keywords: [
             '#CodeThisNotThat',
             '#100SecondsOfCode',
@@ -131,22 +118,18 @@ export const resources: Resource[] = [
         categories: ['Hacktoberfest', 'Open Source'],
         description: 'Find the best opportunities to create a pull request for the first time.',
         url: 'https://www.firsttimersonly.com/',
-        icon: '',
     },
     {
         name: 'Fiverr',
         categories: ['Freelance'],
         description: 'One marketplace, millions of professional services. Browse. Buy. Done.',
         url: 'https://www.fiverr.com/',
-        icon:
-            'https://assetsv2.fiverrcdn.com/assets/v2_globals/apple-touch-icon-76x76-e74f7616f5a5f00eb18aa6426eeac69c.png',
     },
     {
         name: 'Flaticon',
         categories: ['Icon'],
         description: 'Download all icons in SVG, PSD, PNG, EPS format or as webfonts.',
         url: 'https://www.flaticon.com',
-        icon: 'https://media.flaticon.com/dist/min/img/apple-icon-76x76-precomposed.png',
     },
     {
         name: 'Fleexy',
@@ -154,7 +137,6 @@ export const resources: Resource[] = [
         description:
             'Fleexy is a product company specializing in the development of easy-to-use microapps for businesses. Our microapps are backed by thousands of hours of development and continuous improvement, ensuring that your project stays up-to-date with the latest features and advancements.',
         url: 'https://www.fleexy.dev',
-        icon: 'https://ucarecdn.com/b7515c15-686a-46df-84d0-eca154f7ff53/',
     },
     {
         name: 'Flexbox Adventure',
@@ -162,7 +144,6 @@ export const resources: Resource[] = [
         description:
             'Flexbox layout has a lot of properties and nuances that are hard to remember, learn it in the fun and interesting way that works – a CSS RPG game!',
         url: 'https://codingfantasy.com/games/flexboxadventure',
-        icon: 'https://codingfantasy.com/favicon.ico',
     },
     {
         name: 'Flexbox Defense',
@@ -170,14 +151,12 @@ export const resources: Resource[] = [
         description:
             'Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!',
         url: 'http://www.flexboxdefense.com/',
-        icon: 'http://www.flexboxdefense.com/images/favicon.ico',
     },
     {
         name: 'Flexbox Froggy',
         categories: ['Learn', 'Programming'],
         description: 'A game for learning CSS flexbox.',
         url: 'http://flexboxfroggy.com/',
-        icon: 'http://flexboxfroggy.com/favicon.ico',
     },
     {
         name: 'FlexJobs',
@@ -195,7 +174,6 @@ export const resources: Resource[] = [
             'flexible schedule jobs',
         ],
         url: 'https://www.flexjobs.com/',
-        icon: 'https://www.flexjobs.com/favicon-32x32.png',
     },
     {
         name: 'Flowbite',
@@ -203,7 +181,7 @@ export const resources: Resource[] = [
         description:
             'Get started with an open-source library of over 600+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.',
         url: 'https://flowbite.com/',
-        icon: 'https://flowbite.com/images/logo.svg',
+
         keywords: ['tailwind', 'ui components', 'ui kits', 'icon'],
     },
     {
@@ -212,7 +190,6 @@ export const resources: Resource[] = [
         description:
             'Free lifetime account. Simple to learn, quick to master. Design interactive prototypes for Android, iOS, web and desktop in minutes.',
         url: 'https://www.fluidui.com/',
-        icon: 'https://www.fluidui.com/favicon-96x96.png',
     },
     {
         name: 'Font Awesome',
@@ -233,7 +210,6 @@ export const resources: Resource[] = [
             'font awesome pro',
         ],
         url: 'https://fontawesome.com',
-        icon: 'https://fontawesome.com/images/favicon/icon.svg',
     },
     {
         name: 'Font Space',
@@ -241,7 +217,6 @@ export const resources: Resource[] = [
         description:
             'Free downloads of legally licensed fonts that are perfect for your design projects. The best place in the universe to search for amazing fonts.',
         url: 'https://www.fontspace.com/',
-        icon: 'https://www.fontspace.com/favicon-32x32.png?v=00Bdv4Q5g6',
     },
     {
         name: 'Font Squirrel',
@@ -259,14 +234,13 @@ export const resources: Resource[] = [
             'typewriter fonts',
         ],
         url: 'https://www.fontsquirrel.com/',
-        icon: 'https://www.fontsquirrel.com/favicon-32x32.png?v=2',
     },
     {
         name: 'Fontello',
         categories: ['Icon'],
         description: 'Build custom fonts from icons.',
         url: 'https://fontello.com',
-        icon: 'https://fontello.com/favicon.ico',
+
         keywords: ['icons', 'fonts'],
     },
     {
@@ -275,7 +249,6 @@ export const resources: Resource[] = [
         description:
             'Fontjoy helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing.',
         url: 'https://fontjoy.com/',
-        icon: 'https://fontjoy.com/favicon32.gif',
     },
     {
         name: 'FontPair',
@@ -293,15 +266,12 @@ export const resources: Resource[] = [
             'typefaces',
         ],
         url: 'https://fontpair.co/',
-        icon:
-            'https://uploads-ssl.webflow.com/5df11841b7e5a489e7c67859/6161da7091c49496c05aeff4_fontpair-logo-primary-dark.svg',
     },
     {
         name: 'Fonts In Use',
         categories: ['Font'],
         description: 'A searchable archive of typographic design, indexed by typeface, format, and topic.',
         url: 'https://fontsinuse.com/',
-        icon: 'https://assets.fontsinuse.com/images/icons/apple-touch-icon-76x76.png',
     },
     {
         name: 'Fonts2u',
@@ -327,7 +297,6 @@ export const resources: Resource[] = [
             'macintosh fonts',
         ],
         url: 'https://fonts2u.com/',
-        icon: 'https://ycdn.space/f7/apple-touch-icon.png',
     },
     {
         name: 'FontSpark',
@@ -335,7 +304,6 @@ export const resources: Resource[] = [
         description:
             'Fontspark is the best place for you. We are providing all the latest and professional free fonts for download that you can use on your projects.',
         url: 'https://fontspark.com/',
-        icon: 'https://fontspark.com/wp-content/uploads/2022/04/fontspark-Icon.svg',
     },
     {
         name: 'Framer',
@@ -343,15 +311,12 @@ export const resources: Resource[] = [
         description:
             'Start your website with AI and design on a familiar canvas. Add animations, interactions and a CMS. Optimize for every breakpoint — no code needed and publish for free.',
         url: 'https://www.framer.com',
-        icon:
-            'https://framerusercontent.com/modules/XGlgWyQ08lVhjrk8BQH9/w8tLwjSBJzleyuMMJ2Nu/assets/3ydDYhTbVKKzF5xDzZpZKoMmc.png',
     },
     {
         name: 'Free JavaScript Resources',
         categories: ['Learn', 'Programming'],
         description: 'Learn JavaScript for free',
         url: 'https://www.java5cript.com/',
-        icon: 'https://www.java5cript.com/favicon.ico',
     },
     {
         name: 'freeCodeCamp',
@@ -382,7 +347,6 @@ export const resources: Resource[] = [
             'programming',
         ],
         url: 'https://www.freecodecamp.org/',
-        icon: 'https://www.freecodecamp.org/icons/icon-96x96.png?v=6cba562cbd10e31af925a976f3db73f7',
     },
     {
         name: 'Free Faces',
@@ -390,7 +354,6 @@ export const resources: Resource[] = [
         description:
             'This website is a curated collection of typefaces that are available under a variety of free licences somewhere on the interwebs.',
         url: 'https://www.freefaces.gallery',
-        icon: 'https://uploads-ssl.webflow.com/63ad770767a7fcd529308e52/63fa478e4e9a8cb9136c76cc_favicon.png',
     },
     {
         name: 'FreeHTML5',
@@ -398,7 +361,6 @@ export const resources: Resource[] = [
         description:
             'Free website templates, free HTML5 templates using Bootstrap framework. High quality free website templates for all.',
         url: 'https://freehtml5.co/',
-        icon: 'https://freehtml5.co/wp-content/uploads/2019/03/favicon-32x32.png',
     },
     {
         name: 'Freeicons',
@@ -430,7 +392,6 @@ export const resources: Resource[] = [
             'office style icons',
         ],
         url: 'https://freeicons.io/',
-        icon: 'https://freeicons.io/asset/images/favicon.png',
     },
     {
         name: 'Freelancer',
@@ -438,7 +399,6 @@ export const resources: Resource[] = [
         description:
             "Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 48m. Receive quotes in seconds. Post your job online now.",
         url: 'https://www.freelancer.com/',
-        icon: 'https://www.f-cdn.com/assets/main/en/app-icons/apple-touch-icon.png',
     },
     {
         name: 'FreePhotos.cc',
@@ -446,7 +406,6 @@ export const resources: Resource[] = [
         description:
             'Find free beautiful stock photos with Creative Commons (CC) licensing. Download royalty free images and use them on your website or print!',
         url: 'https://freephotos.cc/en',
-        icon: 'https://freephotos.cc/favicon.ico',
     },
     {
         name: 'Freepik',
@@ -454,7 +413,7 @@ export const resources: Resource[] = [
         description:
             'All the assets you need, in one place. Find and download the best high-quality photos, designs, and mockups.',
         url: 'https://www.freepik.com/',
-        icon: 'https://freepik.cdnpk.net/img/favicons/favicon.ico',
+
         keywords: ['freepik', 'vectors', 'illustration', 'photos'],
     },
     {
@@ -462,7 +421,6 @@ export const resources: Resource[] = [
         categories: ['Image'],
         description: 'Free online tools - convert or edit documents, images, audio, video and more.',
         url: 'https://freetools.site/',
-        icon: 'https://freetools.site/static/images/7a786e239ae133de322e14868fdd9332.ico',
     },
     {
         name: 'Front End Happy Hour',
@@ -470,7 +428,6 @@ export const resources: Resource[] = [
         description:
             'A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development.',
         url: 'https://frontendhappyhour.com/',
-        icon: 'https://frontendhappyhour.com/favicon.ico',
     },
     {
         name: 'Frontend Focus',
@@ -478,14 +435,12 @@ export const resources: Resource[] = [
         description:
             'A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.',
         url: 'https://frontendfoc.us/',
-        icon: 'https://frontendfoc.us/favicon.png',
     },
     {
         name: 'Frontend Masters',
         categories: ['Learn', 'Programming'],
         description: 'Advance your skills with in-depth, modern JavaScript and front-end engineering courses.',
         url: 'https://frontendmasters.com/',
-        icon: 'https://frontendmasters.com/favicon-32x32.png',
     },
     {
         name: 'Frontend Mentor',
@@ -493,7 +448,7 @@ export const resources: Resource[] = [
         description:
             'Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.',
         url: 'https://www.frontendmentor.io/',
-        icon: 'https://www.frontendmentor.io/static/favicon/favicon-32x32.png',
+
         keywords: ['frontend', 'html', 'css', 'flexbox', 'grid', 'rwd', 'mobile-first', 'javascript'],
     },
     {
@@ -501,7 +456,6 @@ export const resources: Resource[] = [
         categories: ['Learn', 'Programming'],
         description: 'A collection of real websites for developers to recreate to improve and test their skills.',
         url: 'https://www.frontendpractice.com/',
-        icon: 'https://www.frontendpractice.com/icons/icon-96x96.png',
     },
     {
         name: 'Frontend Tips',
@@ -509,7 +463,6 @@ export const resources: Resource[] = [
         categories: ['Learn', 'Programming'],
         keywords: ['Front-end tips', 'Front-end tricks', 'Best front-end practices'],
         url: 'https://getfrontend.tips/',
-        icon: 'https://getfrontend.tips/img/favicon.png',
     },
     {
         name: 'Frontend Toolkit',
@@ -517,7 +470,6 @@ export const resources: Resource[] = [
         description:
             'Frontend Toolkit is a customizable dashboard for your recurring Frontend tasks. Base64 encoder/decoder, SVG optimizations, SVG to JSX and many more!',
         url: 'https://www.fetoolkit.io/',
-        icon: 'https://www.fetoolkit.io/assets/favicon-32x32.png',
     },
     {
         name: 'Frontendor',
@@ -525,7 +477,6 @@ export const resources: Resource[] = [
         description:
             'Reusable HTML templates and blocks to help you build beautiful and professional landing pages quickly and easily by COPY-PASTE.',
         url: 'https://frontendor.com/',
-        icon: 'https://frontendor.com/preview/images/favicon/favicon-32x32.png',
     },
     {
         name: 'Full Stack Radio',
@@ -533,7 +484,6 @@ export const resources: Resource[] = [
         description: 'A podcast for developers interested in building great software products. Hosted by Adam Wathan.',
         keywords: ['technology', 'software', 'web', 'development', 'product', 'startup'],
         url: 'https://fullstackradio.com/',
-        icon: 'https://fullstackradio.com/favicon-32x32.png',
     },
     {
         name: 'Fun Fun Function',
@@ -544,7 +494,6 @@ export const resources: Resource[] = [
             'javascript "web development" programming software development technology computer science engineering developer creativity productivity',
         ],
         url: 'https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q',
-        icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
         name: 'FusionCharts',
@@ -552,6 +501,5 @@ export const resources: Resource[] = [
         description:
             'JavaScript charts for web and mobile apps. 95+ chart types, 1400+ maps and 20+ business dashboards with pre-built themes for any business use-case. Build fast, responsive and highly customizable data visualizations trusted by over 28,000 customers and 750,000 developers worldwide...',
         url: 'https://www.fusioncharts.com/',
-        icon: 'https://www.fusioncharts.com/public/favicon/favicon-32x32.png',
     },
 ]

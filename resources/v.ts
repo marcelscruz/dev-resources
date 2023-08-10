@@ -7,14 +7,12 @@ export const resources: Resource[] = [
         description:
             'Free vector graphics editor. A simple yet powerful web and desktop cross-platform tool for everyone.',
         url: 'https://vectr.com/',
-        icon: 'https://vectr.com/images/temp-favicon.png',
     },
     {
         name: 'Vemto',
         categories: ['Code Generator'],
         description: 'Design and generate Laravel/PHP applications in minutes with this desktop tool',
         url: 'https://vemto.app/',
-        icon: 'https://vemto.app/favicon.png',
     },
     {
         name: 'Vercel',
@@ -22,7 +20,6 @@ export const resources: Resource[] = [
         description:
             'Deploy web projects with the best frontend developer experience and highest end-user performance.',
         url: 'https://vercel.com/',
-        icon: 'https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/76x76.png',
     },
     {
         name: 'Vim',
@@ -31,7 +28,6 @@ export const resources: Resource[] = [
             'Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.',
         keywords: ['Vim', 'Vi IMproved', 'text editor', 'home', 'documentation', 'tips', 'scripts', 'news'],
         url: 'https://www.vim.org/',
-        icon: 'https://www.vim.org/images/vim_shortcut.ico',
     },
     {
         name: 'Vim Adventures',
@@ -39,7 +35,6 @@ export const resources: Resource[] = [
         description:
             'VIM Adventures is an online game based on VIM\'s keyboard shortcuts. It\'s the "Zelda meets text editing" game. So come have some fun and learn some VIM!',
         url: 'https://vim-adventures.com/',
-        icon: 'https://vim-adventures.com/favicon.ico',
     },
     {
         name: 'Visily',
@@ -47,7 +42,6 @@ export const resources: Resource[] = [
         description:
             'Visily leverages AI to generate stunning app wireframes and prototypes from various inputs such as text prompts, hand-drawn sketches, and screenshots of existing applications or websites.',
         url: 'https://www.visily.ai/',
-        icon: 'https://www.visily.ai/wp-content/uploads/2022/02/cropped-favicon-192x192.png',
     },
     {
         name: 'Visiwig',
@@ -55,7 +49,6 @@ export const resources: Resource[] = [
         description:
             'We provide visuals for busy designers. Visiwig is a place to find design inspiration, explore creative tools, and shop for timesaving graphics.',
         url: 'https://www.visiwig.com/',
-        icon: 'https://www.visiwig.com/favicon-32x32.png',
     },
     {
         name: 'Visual Studio Code',
@@ -63,14 +56,13 @@ export const resources: Resource[] = [
         description:
             'Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.',
         url: 'https://code.visualstudio.com/',
-        icon: 'https://code.visualstudio.com/favicon.ico',
     },
     {
         name: 'Vue.js devtools',
         description: 'Browser devtools extension for debugging Vue.js applications',
         categories: ['Browser', 'Extension'],
         url: 'https://devtools.vuejs.org/',
-        icon: 'https://vuejs.org/images/icons/favicon-96x96.png',
+
         keywords: ['dev tools', 'Vue', 'debugging', 'extension', 'browser extension'],
     },
     {
@@ -79,7 +71,6 @@ export const resources: Resource[] = [
         description:
             'Vue.js jobs is the best place to hire or get hired as Vue.js developer. Find Vue.js talent and reach to thousands of developers.',
         url: 'https://vuejobs.com/',
-        icon: 'https://vuejobs.com/img/favicon/favicon-96x96.png',
     },
     {
         name: 'Vector Illustrations',
@@ -87,6 +78,5 @@ export const resources: Resource[] = [
         description:
             'Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.',
         url: 'https://www.artify.co/vector-illustrations',
-        icon: 'https://www.artify.co/images/landing/favicon.png',
     },
 ]

@@ -8,14 +8,12 @@ export const resources: Resource[] = [
             'Gatsby is a React-based open source framework with performance, scalability and security built-in. Collaborate, build and deploy 1000x faster with Gatsby Cloud.',
         keywords: ['gatsby', 'javascript', 'react', 'graphql', 'fast'],
         url: 'https://www.gatsbyjs.com/',
-        icon: 'https://www.gatsbyjs.com/icons/icon-96x96.png?v=3ad5294f3fa6c06e2d07ab07c76df2cf',
     },
     {
         name: 'Getillustrations',
         categories: ['Illustration'],
         description: 'Download stock illustration packs for websites, application and web design.',
         url: 'https://www.getillustrations.com/',
-        icon: 'https://www.getillustrations.com/favicon/favicon.ico',
     },
     {
         name: 'Get The Audience',
@@ -23,14 +21,12 @@ export const resources: Resource[] = [
         description:
             'Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached.',
         url: 'https://gettheaudience.com/',
-        icon: 'https://gettheaudience.com/images/icons/icon-96x96.png',
     },
     {
         name: 'GetTerms.io',
         categories: ['Legal'],
         description: 'Generate a simple Terms of Service and Privacy Policy statement for your website.',
         url: 'https://getterms.io/',
-        icon: 'https://getterms.io/img/apple-touch-icon-72x72.png',
     },
     {
         name: 'GitHub Pages',
@@ -38,7 +34,6 @@ export const resources: Resource[] = [
         description:
             'Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.',
         url: 'https://pages.github.com/',
-        icon: 'https://pages.github.com/favicon.ico',
     },
     {
         name: 'Git Cheat Sheets',
@@ -52,7 +47,7 @@ export const resources: Resource[] = [
         categories: ['Hosting'],
         description: 'Virtual machines for various tasks: from hosting a cooking blog to making a backup server.',
         url: 'https://gcore.com/cloud/basic-vm',
-        icon: 'https://gcore.com/favicon.ico',
+
         keywords: ['gcore', 'cloud', 'virtual machine', 'vm', 'hosting', 'server'],
     },
     {
@@ -60,7 +55,7 @@ export const resources: Resource[] = [
         categories: ['CDN'],
         description: 'Make your app fast and responsive for a global audience with Gcore CDN.',
         url: 'https://gcore.com/cdn',
-        icon: 'https://gcore.com/favicon.ico',
+
         keywords: ['gcore', 'cdn', 'content delivery network'],
     },
     {
@@ -68,7 +63,7 @@ export const resources: Resource[] = [
         categories: ['Cloud Computing'],
         description: 'Scalable, secure, and reliable hybrid cloud services anywhere in the world.',
         url: 'https://gcore.com/cloud',
-        icon: 'https://gcore.com/favicon.ico',
+
         keywords: ['gcore', 'cloud', 'edge computing'],
     },
     {
@@ -76,7 +71,7 @@ export const resources: Resource[] = [
         categories: ['Serverless'],
         description: 'Run code as a function without creating and maintaining virtual machines.',
         url: 'https://gcore.com/cloud/faas',
-        icon: 'https://gcore.com/favicon.ico',
+
         keywords: ['gcore', 'faas', 'function as a service', 'serverless'],
     },
     {
@@ -85,7 +80,7 @@ export const resources: Resource[] = [
         description:
             'An image CDN for convenient transformation, compression, and delivery of website images on the fly.',
         url: 'https://gcore.com/image-stack',
-        icon: 'https://gcore.com/favicon.ico',
+
         keywords: ['gcore', 'cdn', 'content delivery network', 'image cdn'],
     },
     {
@@ -94,7 +89,7 @@ export const resources: Resource[] = [
         description:
             'Check your Internet speed and the quality of your broadband and mobile connection with our free speed testing tool.',
         url: 'https://speedtest.gcore.com/',
-        icon: 'https://gcore.com/favicon.ico',
+
         keywords: ['gcore', 'speed test', 'internet speed', 'bandwidth'],
     },
     {
@@ -103,7 +98,6 @@ export const resources: Resource[] = [
         description:
             'GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app.',
         url: 'https://www.goatcounter.com/',
-        icon: 'https://static.zgo.at/favicon/favicon-32x32.png',
     },
     {
         name: 'GoDaddy',
@@ -111,7 +105,6 @@ export const resources: Resource[] = [
         description:
             'Your all in one solution to grow online. Start a free trial to create a beautiful website, get a domain name, fast hosting, online marketing and award-winning 24/7 support.',
         url: 'https://www.godaddy.com',
-        icon: 'https://img6.wsimg.com/ux/favicon/favicon-32x32.png',
     },
     {
         name: 'Godly',
@@ -119,7 +112,7 @@ export const resources: Resource[] = [
         description:
             'Godly is a curation of the best web design inspiration, every day. Browse the best e-commerce websites, portfolio websites, animation websites and more.',
         url: 'https://godly.website/',
-        icon: 'https://godly.website/favicon.png',
+
         keywords: ['ui design', 'inspiration'],
     },
     {
@@ -127,7 +120,6 @@ export const resources: Resource[] = [
         categories: ['Editor', 'Programming'],
         description: 'GoLand is an IDE by JetBrains aimed at providing an ergonomic environment for Go development.',
         url: 'https://www.jetbrains.com/go/',
-        icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
         name: 'Golang Developer Jobs',
@@ -135,7 +127,6 @@ export const resources: Resource[] = [
         description:
             'Find specific Golang Developer Jobs, including Remote Jobs. You are looking for Golang Developers? Submit your position for free.',
         url: 'https://golangjob.xyz/',
-        icon: 'https://golangjob.xyz/img/icons/favicon-32x32.png',
     },
     {
         name: 'Google Chrome Developers',
@@ -143,7 +134,6 @@ export const resources: Resource[] = [
         description: 'Making the web more awesome.',
         keywords: ['Google Chrome Developers Web CSS Framweorks'],
         url: 'https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw',
-        icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
         name: 'Google Developers',
@@ -154,14 +144,12 @@ export const resources: Resource[] = [
             '"google developers" developers "Google developers videos" "google developer tutorials" "developer tutorials" "developer news" android firebase tensorflow chr...',
         ],
         url: 'https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw',
-        icon: 'https://www.youtube.com/s/desktop/d743f786/img/favicon_96.png',
     },
     {
         name: 'Google Fonts',
         categories: ['Font'],
         description: 'Making the web more beautiful, fast, and open through great typography.',
         url: 'https://fonts.google.com/',
-        icon: 'https://www.gstatic.com/images/branding/product/1x/google_fonts_blue_ios_96dp.png',
     },
     {
         name: 'Google Search Console',
@@ -169,7 +157,6 @@ export const resources: Resource[] = [
         description:
             "Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results.",
         url: 'https://search.google.com/search-console/about',
-        icon: 'https://ssl.gstatic.com/search-console/scfe/search_console-64.png',
     },
     {
         name: 'Google Technical Writing',
@@ -177,8 +164,6 @@ export const resources: Resource[] = [
         description:
             'This collection of courses and learning resources aims to improve your technical documentation. Learn how to plan and author technical documents. You can also learn about the role of technical writers at Google.',
         url: 'https://developers.google.com/tech-writing',
-        icon:
-            'https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/developers/images/touchicon-180.png',
     },
     {
         name: 'GotResumeBuilder',
@@ -193,7 +178,6 @@ export const resources: Resource[] = [
             'sample resumes',
         ],
         url: 'https://www.gotresumebuilder.com/',
-        icon: 'https://cdn.gotresumebuilder.com/favicon.ico',
     },
     {
         name: 'Gradient',
@@ -201,7 +185,6 @@ export const resources: Resource[] = [
         description:
             'Thousands of trendy color gradients in a curated collection that is updated daily. Get a fresh color gradient for your next design project and save all the gradients you like.',
         url: 'https://gradienthunt.com/',
-        icon: 'https://gradienthunt.com/img/gradienthunt.jpg',
     },
     {
         name: 'Gradientos',
@@ -209,14 +192,12 @@ export const resources: Resource[] = [
         description: 'Find and test gradients easily.',
         keywords: ['color', 'UI', 'design', 'gradient'],
         url: 'https://gradientos.app',
-        icon: 'https://gradientos.app/favicon.ico',
     },
     {
         name: 'Gramara',
         categories: ['Productivity', 'Writing'],
         description: 'Write fluent English in a snap!',
         url: 'https://gramara.com/',
-        icon: 'https://gramara.com/icons/icon-96x96.png?v=36fedff97b311c405df1c8fff551eb82',
     },
     {
         name: 'Grammarly',
@@ -224,7 +205,6 @@ export const resources: Resource[] = [
         description:
             'Grammarly makes sure everything you type is easy to read, effective, and mistake-free. Try it today:.',
         url: 'https://grammarly.com',
-        icon: 'https://static.grammarly.com/assets/files/efe57d016d9efff36da7884c193b646b/favicon-32x32.png',
     },
     {
         name: 'GrayGrids',
@@ -232,7 +212,6 @@ export const resources: Resource[] = [
         description:
             'Biggest Source of Free HTML Website Templates & Bootstrap Themes for Business, Landing Page, Admin Dashboards and Resume & Portfolio Websites.',
         url: 'https://graygrids.com/',
-        icon: 'https://graygrids.com/wp-content/uploads/Group-1-2.png',
     },
     {
         name: 'Greip',
@@ -242,21 +221,18 @@ export const resources: Resource[] = [
         url: 'https://greip.io/',
 
         keywords: ['ai', 'fraud prevention', 'api', 'geoip', 'profanity detection'],
-        icon: 'https://greip.io/img/greip-logo-c.png',
     },
     {
         name: 'Grid.Guide',
         categories: ['Learn', 'Programming'],
         description: 'Create pixel perfect grids for the web.',
         url: 'http://grid.guide/',
-        icon: 'http://grid.guide/assets/favicons/favicon-96x96.png',
     },
     {
         name: 'Grid Garden',
         categories: ['Learn', 'Programming'],
         description: 'A game for learning CSS grid layout.',
         url: 'https://cssgridgarden.com/',
-        icon: 'http://cssgridgarden.com/favicon.ico',
     },
     {
         name: 'Grommet',
@@ -264,7 +240,6 @@ export const resources: Resource[] = [
         description: 'Grommet documentation.',
         keywords: ['React', 'UI Kit', 'Grommet', 'Grommet Design', 'UI/UX Framework'],
         url: 'https://v2.grommet.io/',
-        icon: 'https://v2.grommet.io/img/mobile-app-icon.png',
     },
     {
         name: 'Growth List',
@@ -272,8 +247,6 @@ export const resources: Resource[] = [
         description:
             'GrowthList is the go-to resource hub for tech-savvy marketers in fast-growing companies. Find hundred of Growth Hacks to boost your startup !',
         url: 'https://www.thegrowthlist.co/',
-        icon:
-            'https://uploads-ssl.webflow.com/5e5918651c2c93508dd3bab8/5fae8f6c16320938da6c33f8_Webp.net-resizeimage%20(9).png',
     },
     {
         name: 'GTmetrix',
@@ -281,7 +254,6 @@ export const resources: Resource[] = [
         description:
             "GTmetrix is a free tool that analyzes your page's speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them.",
         url: 'https://gtmetrix.com/',
-        icon: 'https://gtmetrix.com/favicon.ico',
     },
     {
         name: 'Guru',
@@ -289,6 +261,5 @@ export const resources: Resource[] = [
         description:
             'Guru is one of the best freelance websites to find & hire Freelancers online and get work done. Freelancers can also search jobs for freelance work and get hired.',
         url: 'https://www.guru.com/',
-        icon: 'https://www.guru.com/favicon-32x32.png',
     },
 ]

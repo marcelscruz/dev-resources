@@ -8,7 +8,6 @@ export const resources: Resource[] = [
             'Free, easy to use, highest resolution possible favicons for any web site – including fallbacks if none are found.',
         keywords: ['favicons', 'logo icons', 'web icons', 'logos', 'site logos'],
         url: 'https://icon.horse',
-        icon: 'https://icon.horse/icon/icon.horse',
     },
     {
         name: 'Iconbuddy',
@@ -16,14 +15,13 @@ export const resources: Resource[] = [
         description:
             'Search, download, customize, edit over 100k+ open source icons. Iconbuddy is a powerful icon search engine and manager. It helps you download icons in SVG, PNG, WEBP, JSX, VUE, Base64 formats.',
         url: 'https://iconbuddy.app',
-        icon: 'https://iconbuddy.app/favicon.ico',
     },
     {
         name: 'Iconfinder',
         categories: ['Icon', 'Illustration'],
         description: 'Millions of graphics for your design projects. Created by independent designers.',
         url: 'https://www.iconfinder.com',
-        icon: 'https://www.iconfinder.com/static/img/favicons/favicon-32x32.png?87b2a5c3aa',
+
         keywords: [],
     },
     {
@@ -31,14 +29,12 @@ export const resources: Resource[] = [
         categories: ['Icon'],
         description: 'Free, “do wtf you want with” pixel-perfect icons. New icons added every week',
         url: 'https://iconic.app',
-        icon: 'https://iconic.app/wp-content/themes/basis-iconic/icon.png',
     },
     {
         name: 'iconmonstr',
         categories: ['Icon'],
         description: 'Free simple icons for your next project.',
         url: 'https://iconmonstr.com',
-        icon: 'https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico',
     },
     {
         name: 'Icons8',
@@ -46,7 +42,6 @@ export const resources: Resource[] = [
         description:
             'Download design elements for free: icons, photos, vector illustrations, and music for your videos.',
         url: 'https://icons8.com',
-        icon: 'https://logos-download.com/wp-content/uploads/2020/06/Icons8_Logo.png',
     },
     {
         name: 'Iconscout',
@@ -54,7 +49,6 @@ export const resources: Resource[] = [
         description:
             'Pixel-perfect vector icons and Icon Fonts available in Line, Monochrome, and Solid style for your next project.',
         url: 'https://iconscout.com/unicons',
-        icon: 'https://iconscout.com/favicon-96x96.png',
     },
     {
         name: 'Iconshock',
@@ -83,7 +77,6 @@ export const resources: Resource[] = [
             'web icone',
         ],
         url: 'https://www.iconshock.com/',
-        icon: 'https://www.iconshock.com/img/favicon.ico',
     },
     {
         name: 'IconSweets',
@@ -91,28 +84,24 @@ export const resources: Resource[] = [
         description:
             'IconSweets is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.',
         url: 'https://www.designbombs.com/iconsweets2/',
-        icon: 'https://www.designbombs.com/iconsweets2/favicon-96x96.png',
     },
     {
         name: 'Icônes',
         categories: ['Icon'],
         description: 'Icon Explorer with Instant searching, powered by Iconify',
         url: 'https://icones.netlify.app/',
-        icon: 'https://icones.netlify.app/favicon.svg',
     },
     {
         name: 'Image Optimizer',
         categories: ['Image'],
         description: 'Compress and resize photos.',
         url: 'http://www.imageoptimizer.net/',
-        icon: 'data:image/x-icon;,',
     },
     {
         name: 'Img.Upscaler',
         categories: ['AI', 'Image'],
         description: 'Upscale and enhance your image by using the latest AI technology. Support batch process.',
         url: 'https://imgupscaler.com',
-        icon: 'https://imgupscaler.com/favicon.ico',
     },
     {
         name: 'Inclusive Components',
@@ -120,14 +109,12 @@ export const resources: Resource[] = [
         description:
             'A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece.',
         url: 'https://inclusive-components.design/',
-        icon: 'https://inclusive-components.design/favicon.ico',
     },
     {
         name: 'Indeed',
         categories: ['Resume'],
         description: 'Build and upload your resume to Indeed and let your next job find you.',
         url: 'https://www.indeed.com/create-resume',
-        icon: 'https://www.indeed.com/profile/gatsby-assets/icons/icon-96x96.png?v=d69338e3b43810840b9a84d69dbaa30e',
     },
     {
         name: 'Indie Hackers',
@@ -135,28 +122,24 @@ export const resources: Resource[] = [
         description:
             'Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.',
         url: 'https://www.indiehackers.com/',
-        icon: 'https://www.indiehackers.com/images/favicons/favicon--32x32.png',
     },
     {
         name: 'Indie Worldwide',
         categories: ['Startup'],
         description: 'The worldwide virtual meetup of indie hackers, founders, and makers.',
         url: 'https://indieworldwide.co/',
-        icon: 'https://indieworldwide.co/icons/icon-96x96.png',
     },
     {
         name: 'Insomnia',
         categories: ['API Building'],
         description: 'Design & Debug APIs like a human, not a robot.',
         url: 'https://insomnia.rest/',
-        icon: 'https://insomnia.rest/icons/icon-96x96.png?v=b68a1a35ee1565b759a2d4edb26074be',
     },
     {
         name: 'IntelliJ IDEA',
         categories: ['Editor', 'Programming'],
         description: 'A Capable and Ergonomic Java IDE for Enterprise Java, Scala, Kotlin and much more...',
         url: 'https://www.jetbrains.com/idea/',
-        icon: 'https://www.jetbrains.com/favicon-32x32.png',
     },
     {
         name: 'Interfacer',
@@ -185,7 +168,6 @@ export const resources: Resource[] = [
             'Interfacer design resources',
         ],
         url: 'https://interfacer.xyz/',
-        icon: 'https://interfacer.xyz/assets/site_assets/interfacelogo-icon.png',
     },
     {
         name: 'IntersectionObserver Examples',
@@ -199,7 +181,6 @@ export const resources: Resource[] = [
             'React IntersectionObserver',
         ],
         url: 'https://intersectionobserver.io',
-        icon: 'https://intersectionobserver.io/favicon.png',
     },
     {
         name: 'iOS Dev Jobs',
@@ -207,7 +188,6 @@ export const resources: Resource[] = [
         description:
             'Browse the very best iOS development jobs available, or sign up and get a weekly digest delivered by email every Monday.',
         url: 'https://iosdevjobs.com/',
-        icon: 'https://iosdevjobs.com/wp-content/uploads/2019/01/cropped-favicon-32x32.png',
     },
     {
         name: 'IRA Design',
@@ -228,14 +208,12 @@ export const resources: Resource[] = [
             'colorful illustrations',
         ],
         url: 'https://iradesign.io/gallery/illustrations',
-        icon: 'https://iradesign.io/assets/img/favicon.png',
     },
     {
         name: 'Isometriclove',
         description: 'Cute isometric objects for your design.',
         categories: ['Illustration'],
         url: 'https://isometriclove.com/',
-        icon: 'https://isometriclove.com/favicon.ico',
     },
     {
         name: 'Illustrations-figma',
@@ -243,7 +221,6 @@ export const resources: Resource[] = [
             'More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.',
         categories: ['Illustration'],
         url: 'https://www.artify.co/illustrations-figma',
-        icon: 'https://www.artify.co/images/landing/favicon.png',
     },
     {
         name: 'Iconshock',
@@ -251,6 +228,5 @@ export const resources: Resource[] = [
             'The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.',
         categories: ['Icon'],
         url: 'https://www.iconshock.com/',
-        icon: 'https://www.iconshock.com/img/favicon.ico',
     },
 ]

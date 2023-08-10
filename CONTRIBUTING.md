@@ -32,7 +32,6 @@ Each resource belongs to an object, as such:
         'Learn to code at home. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including Google, Apple, Amazon, and Microsoft.',
     categories: ['Learn', 'Programming'],
     url: 'https://www.freecodecamp.org',
-    icon: 'https://www.freecodecamp.org/news/favicon.png', // Optional, but used on the README file
     keywords: ['html', 'css', 'javascript', 'development'], // Optional, but used on the search feature on the website
 },
 ```
@@ -50,10 +49,6 @@ Observe that:
 -   `url` is a **string** and required.
 
     -   Must start with `http://` or `https://`.
-
--   `icon` is a **string** with the resource's favicon URL and **optional**, used on the README file.
-
-    -   You can use https://favicongrabber.com to easily copy the image's URL.
 
 -   `keywords` is an **array of strings** and **optional**, used on the search feature on the website.
 
