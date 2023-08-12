@@ -1,5 +1,5 @@
 {
-"count": 777,
+"count": 778,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6218,6 +6218,22 @@
         ],
         "description": "Looking for a remote job? Remote OK® has 43,534+ remote jobs as a Developer, Designer, Copywriter, Customer Support Rep, Sales Professional, Project Manager and more! Find a career where you can work remotely from anywhere.",
         "url": "https://remoteok.io/"
+    },
+    {
+        "name": "RemoteSalary",
+        "categories": [
+            "Job",
+            "Remote",
+            "AI"
+        ],
+        "description": "20,000+ jobs all over $150,000 salary. Find your ideal high paying remote role. Searches 2,000,000+ job postings across 12,000+ companies daily to find the highest paying remote roles.",
+        "url": "https://remotesalary.ai/board?remote=true",
+        "keywords": [
+            "remote",
+            "salary",
+            "salary search",
+            "development"
+        ]
     },
     {
         "name": "Remotists.",
