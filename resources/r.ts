@@ -202,6 +202,14 @@ export const resources: Resource[] = [
         url: 'https://remotive.io/',
     },
     {
+        name: 'RemoteSalary',
+        categories: ['Job', 'Remote', 'AI'],
+        description:
+            '20,000+ jobs all over $150,000 salary. Find your ideal high paying remote role. Searches 2,000,000+ job postings across 12,000+ companies daily to find the highest paying remote roles.',
+        url: 'https://remotesalary.ai/board?remote=true',
+        keywords: ['remote', 'salary', 'salary search', 'development'],
+    },
+    {
         name: 'remove.bg',
         categories: ['Image'],
         description: 'Remove Image Background: 100% automatically – in 5 seconds – without a single click – for free.',
