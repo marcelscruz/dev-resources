@@ -67,6 +67,13 @@ export const resources: Resource[] = [
         url: 'https://scrimba.com/',
     },
     {
+        name: 'SearchApi',
+        categories: ['Scraping'],
+        description: 'SearchApi is a robust real-time SERP API delivering structured data from Google and other search engine results pages.',
+        url: 'https://www.searchapi.io/',
+        keywords: ['scraping', 'api', 'SERP', 'data crawling'],
+    },
+    {
         name: 'Selenium',
         categories: ['Testing'],
         description: 'Selenium is a suite of tools for automating web browsers.',
