@@ -1,5 +1,5 @@
 {
-"count": 778,
+"count": 779,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2488,6 +2488,23 @@
         ],
         "description": "Coding tutorials about CSS, HTML, JavaScript, and articles about design creativity & modern web development technology.",
         "url": "https://www.easeout.co/"
+    },
+    {
+        "name": "Easy-Peasy.AI",
+        "categories": [
+            "AI",
+            "Writing"
+        ],
+        "description": "Create amazing content 10X faster with AI tools.",
+        "url": "https://easy-peasy.ai/",
+        "keywords": [
+            "ai",
+            "chat",
+            "image generator",
+            "gpt",
+            "audio transcription",
+            "templates"
+        ]
     },
     {
         "name": "Eclipse",
