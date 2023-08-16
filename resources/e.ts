@@ -20,10 +20,9 @@ export const resources: Resource[] = [
     {
         name: 'Easy-Peasy.AI',
         categories: ['AI', 'Writing'],
-        description:
-            "Create amazing content 10X faster with AI tools.",
+        description: 'Create amazing content 10X faster with AI tools.',
         url: 'https://easy-peasy.ai/',
-        keywords: ['ai', 'chat', 'image generator', 'gpt', 'audio transcription', 'templates],
+        keywords: ['ai', 'chat', 'image generator', 'gpt', 'audio transcription', 'templates'],
     },
     {
         name: 'Eclipse',
