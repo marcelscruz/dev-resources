@@ -1,5 +1,5 @@
 {
-"count": 779,
+"count": 780,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2011,6 +2011,14 @@
         ],
         "description": "With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions.",
         "url": "https://customer.io/"
+    },
+    {
+        "name": "CV Maker AI",
+        "description": "Let artificial intelligence create your flawless resume, offering personalized suggestions and tailored content to secure your ideal job.",
+        "categories": [
+            "Resume"
+        ],
+        "url": "https://www.cvmakerai.com"
     },
     {
         "name": "Cypress",
