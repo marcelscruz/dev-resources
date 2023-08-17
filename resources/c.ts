@@ -890,6 +890,13 @@ export const resources: Resource[] = [
         url: 'https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce',
     },
     {
+        name: 'CV Maker AI',
+        description:
+            'Let artificial intelligence create your flawless resume, offering personalized suggestions and tailored content to secure your ideal job.',
+        categories: ['Resume'],
+        url: 'https://www.cvmakerai.com',
+    },
+    {
         name: 'Customer.io',
         categories: ['Marketing'],
         description:
