@@ -1,5 +1,5 @@
 {
-"count": 780,
+"count": 783,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2391,6 +2391,18 @@
         ],
         "description": "Instantly search across 1000+ new domain name extensions. Generate clever names, compare registry prices, and list popular examples per TLD.",
         "url": "https://domain.garden/"
+    },
+    {
+        "name": "Doodlicons",
+        "categories": [
+            "Illustration"
+        ],
+        "description": "Over 700 hand-drawn vector design elements.",
+        "url": "https://doodlicons.com/",
+        "keywords": [
+            "doodles",
+            "scribbles"
+        ]
     },
     {
         "name": "Dracula theme",
@@ -4927,6 +4939,19 @@
         "url": "http://losttype.com/"
     },
     {
+        "name": "Lottielab",
+        "categories": [
+            "Illustration",
+            "Prototyping"
+        ],
+        "description": "The motion design tool for product teams. Create and edit lottie animations, ship to your apps and websites.",
+        "url": "https://www.lottielab.com/",
+        "keywords": [
+            "animation",
+            "motion"
+        ]
+    },
+    {
         "name": "Lukasz Adam",
         "categories": [
             "Illustration"
@@ -5555,6 +5580,14 @@
         ],
         "description": "The best Icon Tool. 8613 Free SVG & PNG Icons. Search, organize, edit and download our highly flexible Icons.",
         "url": "https://orioniconlibrary.com/"
+    },
+    {
+        "name": "Page Collective",
+        "categories": [
+            "Inspiration"
+        ],
+        "description": "Get inspired and keep up with the latest landing page design trends.",
+        "url": "https://pagecollective.com/"
     },
     {
         "name": "PageSpeed Insights",
