@@ -253,6 +253,13 @@ export const resources: Resource[] = [
         url: 'https://domain.garden/',
     },
     {
+        name: 'Doodlicons',
+        categories: ['Illustration'],
+        description: 'Over 700 hand-drawn vector design elements.',
+        url: 'https://doodlicons.com/',
+        keywords: ['doodles', 'scribbles'],
+    },
+    {
         name: 'Dracula theme',
         categories: ['Editor', 'Extension', 'Terminal'],
         description:
