@@ -2,6 +2,12 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Page Collective',
+        categories: ['Inspiration'],
+        description: 'Get inspired and keep up with the latest landing page design trends.',
+        url: 'https://pagecollective.com/',
+    },
+    {
         name: 'PageSpeed Insights',
         categories: ['Performance'],
         description:

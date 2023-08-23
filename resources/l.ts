@@ -287,6 +287,14 @@ export const resources: Resource[] = [
         url: 'http://losttype.com/',
     },
     {
+        name: 'Lottielab',
+        categories: ['Illustration', 'Prototyping'],
+        description:
+            'The motion design tool for product teams. Create and edit lottie animations, ship to your apps and websites.',
+        url: 'https://www.lottielab.com/',
+        keywords: ['animation', 'motion'],
+    },
+    {
         name: 'Lukasz Adam',
         categories: ['Illustration'],
         description:

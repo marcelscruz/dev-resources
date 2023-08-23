@@ -18,6 +18,13 @@ export const resources: Resource[] = [
         url: 'https://www.easeout.co/',
     },
     {
+        name: 'Easy-Peasy.AI',
+        categories: ['AI', 'Writing'],
+        description: 'Create amazing content 10X faster with AI tools.',
+        url: 'https://easy-peasy.ai/',
+        keywords: ['ai', 'chat', 'image generator', 'gpt', 'audio transcription', 'templates'],
+    },
+    {
         name: 'Eclipse',
         categories: ['Editor', 'Extension'],
         description:

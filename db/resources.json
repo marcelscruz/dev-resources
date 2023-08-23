@@ -1,5 +1,5 @@
 {
-"count": 777,
+"count": 783,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2013,6 +2013,14 @@
         "url": "https://customer.io/"
     },
     {
+        "name": "CV Maker AI",
+        "description": "Let artificial intelligence create your flawless resume, offering personalized suggestions and tailored content to secure your ideal job.",
+        "categories": [
+            "Resume"
+        ],
+        "url": "https://www.cvmakerai.com"
+    },
+    {
         "name": "Cypress",
         "categories": [
             "Testing"
@@ -2385,6 +2393,18 @@
         "url": "https://domain.garden/"
     },
     {
+        "name": "Doodlicons",
+        "categories": [
+            "Illustration"
+        ],
+        "description": "Over 700 hand-drawn vector design elements.",
+        "url": "https://doodlicons.com/",
+        "keywords": [
+            "doodles",
+            "scribbles"
+        ]
+    },
+    {
         "name": "Dracula theme",
         "categories": [
             "Editor",
@@ -2488,6 +2508,23 @@
         ],
         "description": "Coding tutorials about CSS, HTML, JavaScript, and articles about design creativity & modern web development technology.",
         "url": "https://www.easeout.co/"
+    },
+    {
+        "name": "Easy-Peasy.AI",
+        "categories": [
+            "AI",
+            "Writing"
+        ],
+        "description": "Create amazing content 10X faster with AI tools.",
+        "url": "https://easy-peasy.ai/",
+        "keywords": [
+            "ai",
+            "chat",
+            "image generator",
+            "gpt",
+            "audio transcription",
+            "templates"
+        ]
     },
     {
         "name": "Eclipse",
@@ -4902,6 +4939,19 @@
         "url": "http://losttype.com/"
     },
     {
+        "name": "Lottielab",
+        "categories": [
+            "Illustration",
+            "Prototyping"
+        ],
+        "description": "The motion design tool for product teams. Create and edit lottie animations, ship to your apps and websites.",
+        "url": "https://www.lottielab.com/",
+        "keywords": [
+            "animation",
+            "motion"
+        ]
+    },
+    {
         "name": "Lukasz Adam",
         "categories": [
             "Illustration"
@@ -5530,6 +5580,14 @@
         ],
         "description": "The best Icon Tool. 8613 Free SVG & PNG Icons. Search, organize, edit and download our highly flexible Icons.",
         "url": "https://orioniconlibrary.com/"
+    },
+    {
+        "name": "Page Collective",
+        "categories": [
+            "Inspiration"
+        ],
+        "description": "Get inspired and keep up with the latest landing page design trends.",
+        "url": "https://pagecollective.com/"
     },
     {
         "name": "PageSpeed Insights",
@@ -6218,6 +6276,22 @@
         ],
         "description": "Looking for a remote job? Remote OK® has 43,534+ remote jobs as a Developer, Designer, Copywriter, Customer Support Rep, Sales Professional, Project Manager and more! Find a career where you can work remotely from anywhere.",
         "url": "https://remoteok.io/"
+    },
+    {
+        "name": "RemoteSalary",
+        "categories": [
+            "Job",
+            "Remote",
+            "AI"
+        ],
+        "description": "20,000+ jobs all over $150,000 salary. Find your ideal high paying remote role. Searches 2,000,000+ job postings across 12,000+ companies daily to find the highest paying remote roles.",
+        "url": "https://remotesalary.ai/board?remote=true",
+        "keywords": [
+            "remote",
+            "salary",
+            "salary search",
+            "development"
+        ]
     },
     {
         "name": "Remotists.",
