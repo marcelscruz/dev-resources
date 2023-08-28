@@ -86,6 +86,13 @@ export const resources: Resource[] = [
         url: 'https://seoblueprint.com/',
     },
     {
+        name: 'SEO Powersuite',
+        categories: ['SEO'],
+        description: 'All-in-one SEO Tool for full cycle SEO optimisation, including keyword research, rank trackring, backlink analysis, link monitoring, site audit, technical and content optimisation tools.',
+        url: 'https://www.link-assistant.com/',
+        keywords: ['rank tracker', 'backlink checker', 'backlink monitor', 'site audit', 'content optimisation', 'keyword research'],
+    },
+    {
         name: 'SeachAtlas',
         categories: ['SEO', 'Marketing'],
         description:
