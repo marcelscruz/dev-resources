@@ -1,5 +1,5 @@
 {
-"count": 783,
+"count": 784,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6630,6 +6630,22 @@
         ],
         "description": "Cutting-edge SEO tactics that are actually ranking websites.",
         "url": "https://seoblueprint.com/"
+    },
+    {
+        "name": "SEO Powersuite",
+        "categories": [
+            "SEO"
+        ],
+        "description": "All-in-one SEO Tool for full cycle SEO optimisation, including keyword research, rank trackring, backlink analysis, link monitoring, site audit, technical and content optimisation tools.",
+        "url": "https://www.link-assistant.com/",
+        "keywords": [
+            "rank tracker",
+            "backlink checker",
+            "backlink monitor",
+            "site audit",
+            "content optimisation",
+            "keyword research"
+        ]
     },
     {
         "name": "SEO-GO",
