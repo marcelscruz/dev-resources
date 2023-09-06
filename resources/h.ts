@@ -213,7 +213,7 @@ export const resources: Resource[] = [
         name: 'HTMLrev',
         categories: ['Template'],
         description:
-            'HTML templates specially designed for static websites to save development time and elevate project design.',
+            'HTMLrev showcases free HTML, Bootstrap, Tailwind templates for website, landing page, coming soon, blog, portfolio, ecommerce and dashboard.',
         url: 'https://htmlrev.com/',
 
         keywords: ['HTML', 'templates', 'business', 'portfolio'],
