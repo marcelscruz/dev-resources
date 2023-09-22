@@ -248,6 +248,13 @@ export const resources: Resource[] = [
         url: 'https://www.linode.com/',
     },
     {
+        name: 'Lite Analytics',
+        categories: ['Analytics'],
+        description:
+            "Lite Analytics is simple lightweight Google Analytics alternatice. It is privacy focused and doesn't use cookies.",
+        url: 'https://liteanalytics.com/',
+    },
+    {
         name: 'Lobsters',
         categories: ['Forum'],
         description: 'Lobsters is a computing-focused community centered around link aggregation and discussion.',

@@ -270,6 +270,13 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA',
     },
     {
+        name: 'Traversy Media',
+        categories: ['Learn', 'Programming'],
+        description:
+            'Traversy Media offers professional, project-based web development and programming courses that explain complex topics in an easy-to-understand manner. Learn HTML, CSS, JavaScript, PHP, Python and More.',
+        url: 'https://www.traversymedia.com/',
+    },
+    {
         name: 'Transform Tools',
         categories: ['Programming'],
         description: 'A polyglot web converter.',
