@@ -1,5 +1,5 @@
 {
-"count": 784,
+"count": 786,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4891,6 +4891,14 @@
         "url": "https://www.linode.com/"
     },
     {
+        "name": "Lite Analytics",
+        "categories": [
+            "Analytics"
+        ],
+        "description": "Lite Analytics is simple lightweight Google Analytics alternatice. It is privacy focused and doesn't use cookies.",
+        "url": "https://liteanalytics.com/"
+    },
+    {
         "name": "Lobsters",
         "categories": [
             "Forum"
@@ -7695,6 +7703,15 @@
             "io-ts"
         ],
         "url": "https://transform.tools"
+    },
+    {
+        "name": "Traversy Media",
+        "categories": [
+            "Learn",
+            "Programming"
+        ],
+        "description": "Traversy Media offers professional, project-based web development and programming courses that explain complex topics in an easy-to-understand manner. Learn HTML, CSS, JavaScript, PHP, Python and More.",
+        "url": "https://www.traversymedia.com/"
     },
     {
         "name": "Traversy Media",
