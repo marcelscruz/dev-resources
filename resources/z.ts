@@ -2,6 +2,12 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Zensite Subscription',
+        categories: ['Design'],
+        description: 'Design subscription service providing unlimited design request for SAAS companies',
+        url: 'https://zensite.co/subscription/',
+    },
+    {
         name: 'Zero To Sold',
         categories: ['Book', 'Startup'],
         description:
