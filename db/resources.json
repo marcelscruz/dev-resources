@@ -1,5 +1,5 @@
 {
-"count": 787,
+"count": 788,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8546,6 +8546,14 @@
         ],
         "description": "A utility-first CSS-in-JS framework built for React.",
         "url": "https://xstyled.dev/"
+    },
+    {
+        "name": "Zensite Subscription",
+        "categories": [
+            "Design"
+        ],
+        "description": "Design subscription service providing unlimited design request for SAAS companies",
+        "url": "https://zensite.co/subscription/"
     },
     {
         "name": "Zero To Sold",
