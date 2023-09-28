@@ -149,7 +149,7 @@ export const resources: Resource[] = [
     {
         name: 'Appshine',
         categories: ['Design'],
-        description: "The fastest growing Design-as-a-Service company offering mobile and web design for growing tech startups.",
+        description: "Use Appshine to get a UX/UI mobile or web design for your tech startup that drive higher sales, retention, and referrals.",
         url: 'https://appshine.io',
         keywords: ['ui design', 'app design', 'mobile design', 'web design'],
     },
