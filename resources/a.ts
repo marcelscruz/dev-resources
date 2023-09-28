@@ -38,9 +38,25 @@ export const resources: Resource[] = [
     {
         name: 'Add3',
         categories: ['Web3', 'Programming', 'Startup'],
-        description: 'EVM smart contract creation and management for web3 projects - Use Add3 to deploy your smart contracts or dApp project in minutes. Signup today!',
+        description:
+            'EVM smart contract creation and management for web3 projects - Use Add3 to deploy your smart contracts or dApp project in minutes. Signup today!',
         url: 'https://www.add3.io/',
-        keywords: ['crypto', 'cryptocurrency', 'web3', 'no-code', 'smart contract', 'token minting', 'create token', 'vesting contract', 'distribution contract', 'crypto staking', 'liquidity pool staking', 'onchain analytics', 'offchain analytics', 'blockchain analytics'],
+        keywords: [
+            'crypto',
+            'cryptocurrency',
+            'web3',
+            'no-code',
+            'smart contract',
+            'token minting',
+            'create token',
+            'vesting contract',
+            'distribution contract',
+            'crypto staking',
+            'liquidity pool staking',
+            'onchain analytics',
+            'offchain analytics',
+            'blockchain analytics',
+        ],
     },
     {
         name: 'AdminMart',
