@@ -119,6 +119,13 @@ export const resources: Resource[] = [
         url: 'https://testing-playground.com/',
     },
     {
+        name: 'TestingBot',
+        categories: ['Testing'],
+        description:
+            'Manual and Automated testing on 5000+ browsers and mobile devices online. Make sure your website and mobile app looks and functions correctly on all devices. Free 14 day trial.',
+        url: 'https://testingbot.com/',
+    },
+    {
         name: 'TestingWhiz',
         categories: ['Testing'],
         description:
