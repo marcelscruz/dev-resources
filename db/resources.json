@@ -1,5 +1,5 @@
 {
-"count": 788,
+"count": 790,
 "data": [
     {
         "name": "1001 Fonts",
@@ -131,6 +131,32 @@
         ],
         "description": "A tool for creating color variations on a base color to meet WCAG AA or AAA color contrast ratio guidelines.",
         "url": "https://learnui.design/tools/accessible-color-generator.html"
+    },
+    {
+        "name": "Add3",
+        "categories": [
+            "Web3",
+            "Programming",
+            "Startup"
+        ],
+        "description": "EVM smart contract creation and management for web3 projects - Use Add3 to deploy your smart contracts or dApp project in minutes. Signup today!",
+        "url": "https://www.add3.io/",
+        "keywords": [
+            "crypto",
+            "cryptocurrency",
+            "web3",
+            "no-code",
+            "smart contract",
+            "token minting",
+            "create token",
+            "vesting contract",
+            "distribution contract",
+            "crypto staking",
+            "liquidity pool staking",
+            "onchain analytics",
+            "offchain analytics",
+            "blockchain analytics"
+        ]
     },
     {
         "name": "AdminMart",
@@ -7466,6 +7492,14 @@
         ],
         "description": "Simple and complete DOM testing playground that encourage good testing practices.",
         "url": "https://testing-playground.com/"
+    },
+    {
+        "name": "TestingBot",
+        "categories": [
+            "Testing"
+        ],
+        "description": "Manual and Automated testing on 5000+ browsers and mobile devices online. Make sure your website and mobile app looks and functions correctly on all devices. Free 14 day trial.",
+        "url": "https://testingbot.com/"
     },
     {
         "name": "TestingWhiz",
