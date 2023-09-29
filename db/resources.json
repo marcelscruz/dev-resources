@@ -1,5 +1,5 @@
 {
-"count": 790,
+"count": 791,
 "data": [
     {
         "name": "1001 Fonts",
@@ -281,6 +281,20 @@
         ],
         "description": "Use AppMockUp, the world's most powerful screenshot builder to create the most compelling screenshots for your app.",
         "url": "https://app-mockup.com/"
+    },
+    {
+        "name": "Appshine",
+        "categories": [
+            "Design"
+        ],
+        "description": "Use Appshine to get a UX/UI mobile or web design for your tech startup that drive higher sales, retention, and referrals.",
+        "url": "https://appshine.io",
+        "keywords": [
+            "ui design",
+            "app design",
+            "mobile design",
+            "web design"
+        ]
     },
     {
         "name": "Appwrite",
