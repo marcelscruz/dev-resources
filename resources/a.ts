@@ -147,6 +147,13 @@ export const resources: Resource[] = [
         url: 'https://app-mockup.com/',
     },
     {
+        name: 'Appshine',
+        categories: ['Design'],
+        description: "Use Appshine to get a UX/UI mobile or web design for your tech startup that drive higher sales, retention, and referrals.",
+        url: 'https://appshine.io',
+        keywords: ['ui design', 'app design', 'mobile design', 'web design'],
+    },
+    {
         name: 'Appwrite',
         categories: ['API Building'],
         description:
