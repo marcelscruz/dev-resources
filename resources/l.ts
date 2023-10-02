@@ -241,6 +241,13 @@ export const resources: Resource[] = [
         url: 'https://www.linkedin.com/learning',
     },
     {
+        name: 'Linktopus',
+        categories: ['Website Builder', 'Personal Website', 'Resume'],
+        description: 'The fastest way to create your online presence. All your links and information in one place.',
+        url: 'https://linktopus.co',
+        keywords: ['link in bio', 'personal site', 'share links', 'linktree', 'liinks', 'bento'],
+    },
+    {
         name: 'Linode',
         categories: ['Cloud Computing'],
         description:
