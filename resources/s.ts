@@ -589,6 +589,12 @@ export const resources: Resource[] = [
         url: 'https://svgbox.net/',
     },
     {
+        name: 'SVGmix',
+        categories: ['Icon'],
+        description: 'Massive repository of 300K+ free SVG icons, collections, and brand logos. It has a simple but mighty vector editing program right in the browser for quick file editing.',
+        url: 'https://svgmix.com/',
+    },
+    {
         name: 'SVGX',
         categories: ['Image', 'Programming'],
         description: 'SVGX is the desktop SVG asset manager designers and developers wished they had.',
