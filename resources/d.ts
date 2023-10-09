@@ -233,6 +233,12 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ',
     },
     {
+        name: 'Divize',
+        categories: ['Code Challenge', 'Learn', 'Programming'],
+        description: 'Learn, Write, Master: HTML/CSS Through Real UI Challenges.',
+        url: 'https://divize.io/',
+    },
+    {
         name: 'Divjoy',
         categories: ['Programming', 'Template'],
         description:
