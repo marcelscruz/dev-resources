@@ -1,5 +1,5 @@
 {
-"count": 792,
+"count": 794,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2405,6 +2405,16 @@
             "HTML CSS Javascript \"Web Development\" Coding Design"
         ],
         "url": "https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ"
+    },
+    {
+        "name": "Divize",
+        "categories": [
+            "Code Challenge",
+            "Learn",
+            "Programming"
+        ],
+        "description": "Learn, Write, Master: HTML/CSS Through Real UI Challenges.",
+        "url": "https://divize.io/"
     },
     {
         "name": "Divjoy",
@@ -7328,6 +7338,14 @@
         ],
         "description": "SVGBox allows you to add any of the 3,405 icons we have to your project by using simple tags. Instead of using downloading and uploading icons, simply copy tag and start using it. We are constantly adding more and more icons to serve different use cases.",
         "url": "https://svgbox.net/"
+    },
+    {
+        "name": "SVGmix",
+        "categories": [
+            "Icon"
+        ],
+        "description": "Massive repository of 300K+ free SVG icons, collections, and brand logos. It has a simple but mighty vector editing program right in the browser for quick file editing.",
+        "url": "https://svgmix.com/"
     },
     {
         "name": "SVGX",
