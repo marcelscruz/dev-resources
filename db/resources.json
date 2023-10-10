@@ -1,5 +1,5 @@
 {
-"count": 794,
+"count": 795,
 "data": [
     {
         "name": "1001 Fonts",
@@ -587,6 +587,25 @@
         ],
         "description": "Combine expressions, clothing, hair styles and colors into billions of different unique characters.",
         "url": "https://bigheads.io/"
+    },
+    {
+        "name": "BigDevSoon",
+        "categories": [
+            "Learn",
+            "Programming"
+        ],
+        "description": "Code Figma-backed projects with AI insights. Dive into gamified learning.",
+        "url": "https://bigdevsoon.me",
+        "keywords": [
+            "Figma",
+            "AI",
+            "Gamified Learning",
+            "Code",
+            "Projects",
+            "Insights",
+            "Learn",
+            "Programming"
+        ]
     },
     {
         "name": "BigsonDev",
