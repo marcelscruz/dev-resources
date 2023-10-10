@@ -95,6 +95,13 @@ export const resources: Resource[] = [
         url: 'https://bigheads.io/',
     },
     {
+        name: 'BigDevSoon',
+        categories: ['Learn', 'Programming'],
+        description: 'Code Figma-backed projects with AI insights. Dive into gamified learning.',
+        url: 'https://bigdevsoon.me',
+        keywords: ['Figma', 'AI', 'Gamified Learning', 'Code', 'Projects', 'Insights', 'Learn', 'Programming'],
+    },
+    {
         name: 'BigsonDev',
         categories: ['Learn', 'Programming'],
         description:
