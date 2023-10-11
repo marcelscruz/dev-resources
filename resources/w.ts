@@ -83,6 +83,13 @@ export const resources: Resource[] = [
         url: 'https://wave.webaim.org/',
     },
     {
+        name: 'Web Code Tools',
+        categories: ['Code Generator'],
+        description:
+            'Web Code Tools is a suite of code generators for HTML, CSS, Meta Tags, Open Graph, Structured Data, Twitter Cards and more.',
+        url: 'https://webcode.tools',
+    },
+    {
         name: 'Web Design Inspiration',
         categories: ['Design', 'Inspiration', 'UI'],
         description:
