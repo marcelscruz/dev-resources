@@ -1,5 +1,5 @@
 {
-"count": 795,
+"count": 796,
 "data": [
     {
         "name": "1001 Fonts",
@@ -47,6 +47,21 @@
             "one-liner javascript"
         ],
         "url": "https://1loc.dev/"
+    },
+    {
+        "name": "1upsaas",
+        "description": "A SaaS development kit for Next.js",
+        "categories": [
+            "Programming",
+            "Template"
+        ],
+        "keywords": [
+            "Next.js",
+            "Boilerplate",
+            "SaaS",
+            "React"
+        ],
+        "url": "https:/1upsaas.com"
     },
     {
         "name": "30 seconds of code",
