@@ -39,6 +39,13 @@ export const resources: Resource[] = [
         url: 'https://1loc.dev/',
     },
     {
+        name: '1upsaas',
+        description: 'A SaaS development kit for Next.js',
+        categories: ['Programming', 'Template'],
+        keywords: ['Next.js', 'Boilerplate', 'SaaS', 'React'],
+        url: 'https:/1upsaas.com',
+    },
+    {
         name: '30 seconds of code',
         categories: ['Code Snippet'],
         description: 'Browse 1078 short code snippets for all your development needs on 30 seconds of code.',
