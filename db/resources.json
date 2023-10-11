@@ -1,5 +1,5 @@
 {
-"count": 796,
+"count": 797,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8438,6 +8438,14 @@
         ],
         "description": "Find the most qualified people in the most unexpected places: Hire remote! We Work Remotely is the best place to find and list remote jobs that aren't restricted by commutes or a particular geographic area. Browse thousands of remote work jobs today.",
         "url": "https://weworkremotely.com/"
+    },
+    {
+        "name": "Web Code Tools",
+        "categories": [
+            "Code Generator"
+        ],
+        "description": "Web Code Tools is a suite of code generators for HTML, CSS, Meta Tags, Open Graph, Structured Data, Twitter Cards and more.",
+        "url": "https://webcode.tools"
     },
     {
         "name": "Web Design Inspiration",
