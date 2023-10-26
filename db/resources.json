@@ -1,5 +1,5 @@
 {
-"count": 797,
+"count": 798,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4623,6 +4623,20 @@
         ],
         "description": "Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere.",
         "url": "https://www.khanacademy.org/"
+    },
+    {
+        "name": "Kinde",
+        "categories": [
+            "Authentication"
+        ],
+        "description": "Simple, powerful authentication you can integrate with your product in minutes.",
+        "url": "https://kinde.com",
+        "keywords": [
+            "authentication",
+            "login",
+            "signup",
+            "passwordless"
+        ]
     },
     {
         "name": "Kinsta",
