@@ -46,6 +46,13 @@ export const resources: Resource[] = [
         url: 'https://www.khanacademy.org/',
     },
     {
+        name: 'Kinde',
+        categories: ['Authentication'],
+        description: 'Simple, powerful authentication you can integrate with your product in minutes.',
+        url: 'https://kinde.com',
+        keywords: ['authentication', 'login', 'signup', 'passwordless'],
+    },
+    {
         name: 'Kinsta',
         description:
             'Kinsta is a Cloud Platform designed to help your company and dev teams ship web projects faster and more efficiently. You can host your apps, databases, and sites all in one place. Easily connect with GitHub and automate deployments and get 24/7 support for all your favorite languages and frameworks.',
