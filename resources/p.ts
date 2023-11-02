@@ -312,4 +312,12 @@ export const resources: Resource[] = [
             'Find specific Python Developer Jobs, including Remote Jobs. You are looking for Python Developers? Submit your position for free.',
         url: 'https://pythonjob.xyz/',
     },
+    {
+        name: 'Photo Rush',
+        description:
+            'Generate professional images of products with AI. Save money and use AI to do a photo shoot from your laptop or phone instead of hiring an expensive photographer.Get your product images in minutes',
+        categories: ['AI', 'Image','Design'],
+        url: 'https://photorush.io',
+        keywords: ['image generation', 'professional photos', ],
+    },
 ]
