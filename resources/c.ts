@@ -301,6 +301,14 @@ export const resources: Resource[] = [
         url: 'https://codekitapp.com/',
     },
     {
+        name: 'CodeLobster',
+        categories: ['Editor', 'Programming'],
+        description:
+            'CodeLobster is free cross-platform editor with plug-ins for all popular JS and PHP frameworks.',
+        url: 'https://codelobster.com/',
+        keywords: ['html', 'css', 'javascript', 'php', 'editor', 'code', 'ide', 'codelobster'],
+    },
+    {
         name: 'Codementor',
         categories: ['Freelance'],
         description:
