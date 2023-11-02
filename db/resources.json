@@ -1,5 +1,5 @@
 {
-"count": 798,
+"count": 799,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1314,6 +1314,25 @@
         ],
         "description": "CodeKit is a Mac app that makes it easy to use modern web development tools like npm, Babel, Sass, JavaScript bundling, image optimization, and ESLint.",
         "url": "https://codekitapp.com/"
+    },
+    {
+        "name": "CodeLobster",
+        "categories": [
+            "Editor",
+            "Programming"
+        ],
+        "description": "CodeLobster is free cross-platform editor with plug-ins for all popular JS and PHP frameworks.",
+        "url": "https://codelobster.com/",
+        "keywords": [
+            "html",
+            "css",
+            "javascript",
+            "php",
+            "editor",
+            "code",
+            "ide",
+            "codelobster"
+        ]
     },
     {
         "name": "Codementor",
