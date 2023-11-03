@@ -553,6 +553,12 @@ export const resources: Resource[] = [
         url: 'https://ui.supabase.io/',
     },
     {
+        name: 'supastarter',
+        categories: ['SaaS', 'Boilerplate', 'Starter template'],
+        description: 'Ship your SaaS in days, not months. Save time and focus on your business with our production-ready SaaS boilerplates and templates for Next.js and Nuxt.',
+        url: 'https://supastarter.dev',
+    },
+    {
         name: 'Surfer',
         categories: ['SEO'],
         description:
