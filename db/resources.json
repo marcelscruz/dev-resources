@@ -1,5 +1,5 @@
 {
-"count": 800,
+"count": 801,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7362,6 +7362,15 @@
         ],
         "description": "An open-source UI component library inspired by Tailwind and AntDesign.",
         "url": "https://ui.supabase.io/"
+    },
+    {
+        "name": "supastarter",
+        "categories": [
+            "Startup",
+            "Template"
+        ],
+        "description": "Ship your SaaS in days, not months. Save time and focus on your business with our production-ready SaaS boilerplates and templates for Next.js and Nuxt.",
+        "url": "https://supastarter.dev"
     },
     {
         "name": "Surfer",
