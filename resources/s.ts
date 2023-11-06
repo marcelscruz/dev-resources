@@ -88,9 +88,17 @@ export const resources: Resource[] = [
     {
         name: 'SEO Powersuite',
         categories: ['SEO'],
-        description: 'All-in-one SEO Tool for full cycle SEO optimisation, including keyword research, rank trackring, backlink analysis, link monitoring, site audit, technical and content optimisation tools.',
+        description:
+            'All-in-one SEO Tool for full cycle SEO optimisation, including keyword research, rank trackring, backlink analysis, link monitoring, site audit, technical and content optimisation tools.',
         url: 'https://www.link-assistant.com/',
-        keywords: ['rank tracker', 'backlink checker', 'backlink monitor', 'site audit', 'content optimisation', 'keyword research'],
+        keywords: [
+            'rank tracker',
+            'backlink checker',
+            'backlink monitor',
+            'site audit',
+            'content optimisation',
+            'keyword research',
+        ],
     },
     {
         name: 'SeachAtlas',
@@ -554,8 +562,9 @@ export const resources: Resource[] = [
     },
     {
         name: 'supastarter',
-        categories: ['SaaS', 'Boilerplate', 'Starter template'],
-        description: 'Ship your SaaS in days, not months. Save time and focus on your business with our production-ready SaaS boilerplates and templates for Next.js and Nuxt.',
+        categories: ['Startup', 'Template'],
+        description:
+            'Ship your SaaS in days, not months. Save time and focus on your business with our production-ready SaaS boilerplates and templates for Next.js and Nuxt.',
         url: 'https://supastarter.dev',
     },
     {
@@ -597,7 +606,8 @@ export const resources: Resource[] = [
     {
         name: 'SVGmix',
         categories: ['Icon'],
-        description: 'Massive repository of 300K+ free SVG icons, collections, and brand logos. It has a simple but mighty vector editing program right in the browser for quick file editing.',
+        description:
+            'Massive repository of 300K+ free SVG icons, collections, and brand logos. It has a simple but mighty vector editing program right in the browser for quick file editing.',
         url: 'https://svgmix.com/',
     },
     {
