@@ -1,5 +1,5 @@
 {
-"count": 801,
+"count": 802,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2458,6 +2458,24 @@
             "HTML CSS Javascript \"Web Development\" Coding Design"
         ],
         "url": "https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ"
+    },
+    {
+        "name": "Dhiwise",
+        "categories": [
+            "AI",
+            "Code Generator",
+            "Productivity"
+        ],
+        "description": "Build React and Flutter Apps at blazing fast speed without compromising on code-quality and developer-experience.",
+        "keywords": [
+            "android",
+            "kotlin",
+            "node.js",
+            "sql",
+            "no-sql",
+            "design to code"
+        ],
+        "url": "https://dhiwise.com/"
     },
     {
         "name": "Divize",
