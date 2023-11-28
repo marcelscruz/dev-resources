@@ -1,5 +1,5 @@
 {
-"count": 802,
+"count": 806,
 "data": [
     {
         "name": "1001 Fonts",
@@ -261,6 +261,14 @@
             "profiler",
             "profiling"
         ]
+    },
+    {
+        "name": "Animated Icons",
+        "categories": [
+            "Icon"
+        ],
+        "description": "High-quality animated icons to wow your users. Available to download for free without attribution. Adjust to your brand in just a few clicks.",
+        "url": "https://animatedicons.co/"
     },
     {
         "name": "Animista",
@@ -4169,6 +4177,14 @@
         ]
     },
     {
+        "name": "Hugeicons",
+        "categories": [
+            "Icon"
+        ],
+        "description": "Over 25,000 beautiful icons in 5 unique styles, organized across 57 popular categories. Crafted by creators, for creators.",
+        "url": "https://hugeicons.com/"
+    },
+    {
         "name": "humaaans",
         "categories": [
             "Illustration"
@@ -5147,6 +5163,15 @@
         ],
         "description": "Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.",
         "url": "https://mailchimp.com/"
+    },
+    {
+        "name": "Mailgun",
+        "categories": [
+            "Email",
+            "Marketing"
+        ],
+        "description": "Powerful Transactional Email APIs that enable you to send, receive, and track emails, built with developers in mind. ",
+        "url": "https://www.mailgun.com/"
     },
     {
         "name": "Majestic",
@@ -7923,6 +7948,17 @@
         ],
         "description": "High-quality, affordable video courses for coding and design. Build a website, learn a new coding language, and more.",
         "url": "https://teamtreehouse.com/"
+    },
+    {
+        "name": "Trigger.dev",
+        "categories": [
+            "Serverless"
+        ],
+        "description": "Create long-running jobs directly in your codebase with features like API integrations, webhooks, scheduling and delays.",
+        "url": "https://trigger.dev/",
+        "keywords": [
+            "webhook"
+        ]
     },
     {
         "name": "Tutoriac",
