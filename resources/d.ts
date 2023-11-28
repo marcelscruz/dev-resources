@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Dhiwise - Developer Productivity Solved',
+        categories: ['AI','Code Generator' ,'Productivity'],
+        description: 'Build React and Flutter Apps at blazing fast speed without compromising on code-quality and developer-experience.',
+        keywords: ['android', 'kotlin', 'node.js', 'sql', 'no-sql','design to code'],
+        url: 'https://dhiwise.com/',
+    },
+    {
         name: 'D3.js',
         categories: ['Library', 'Programming'],
         description: 'D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.',
