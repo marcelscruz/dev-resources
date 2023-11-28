@@ -2,13 +2,6 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
-        name: 'Dhiwise - Developer Productivity Solved',
-        categories: ['AI','Code Generator' ,'Productivity'],
-        description: 'Build React and Flutter Apps at blazing fast speed without compromising on code-quality and developer-experience.',
-        keywords: ['android', 'kotlin', 'node.js', 'sql', 'no-sql','design to code'],
-        url: 'https://dhiwise.com/',
-    },
-    {
         name: 'D3.js',
         categories: ['Library', 'Programming'],
         description: 'D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.',
@@ -238,6 +231,13 @@ export const resources: Resource[] = [
             "DevTips is slowly opening back up! We're excited to start working with a long-time community member, Jay of iEatWebsites, on bringing back top-tier, front-end development content with designers in mind to the subscribers. DevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay! Everything you see and hear are the opinions and preferences of the individual who said them, and no one else's.",
         keywords: ['HTML CSS Javascript "Web Development" Coding Design'],
         url: 'https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ',
+    },
+    {
+        name: 'Dhiwise - Developer Productivity Solved',
+        categories: ['AI','Code Generator' ,'Productivity'],
+        description: 'Build React and Flutter Apps at blazing fast speed without compromising on code-quality and developer-experience.',
+        keywords: ['android', 'kotlin', 'node.js', 'sql', 'no-sql','design to code'],
+        url: 'https://dhiwise.com/',
     },
     {
         name: 'Divize',
