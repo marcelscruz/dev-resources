@@ -233,10 +233,11 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ',
     },
     {
-        name: 'Dhiwise - Developer Productivity Solved',
-        categories: ['AI','Code Generator' ,'Productivity'],
-        description: 'Build React and Flutter Apps at blazing fast speed without compromising on code-quality and developer-experience.',
-        keywords: ['android', 'kotlin', 'node.js', 'sql', 'no-sql','design to code'],
+        name: 'Dhiwise',
+        categories: ['AI', 'Code Generator', 'Productivity'],
+        description:
+            'Build React and Flutter Apps at blazing fast speed without compromising on code-quality and developer-experience.',
+        keywords: ['android', 'kotlin', 'node.js', 'sql', 'no-sql', 'design to code'],
         url: 'https://dhiwise.com/',
     },
     {
