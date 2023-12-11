@@ -37,13 +37,6 @@ export const resources: Resource[] = [
         url: 'https://getcssscan.com/css-buttons-examples',
     },
     {
-        name: "Beginner's guide to web security",
-        categories: ['Book', 'Security'],
-        description:
-            'A 100+ page ebook that talks about the basics of web security, various types of web security attacks and how to avoid/fix them.',
-        url: 'https://gokul.site/book/',
-    },
-    {
         name: 'Behance',
         categories: ['UI', 'Inspiration'],
         description: "Behance is the world's largest creative network for showcasing and discovering creative work.",
