@@ -1,5 +1,5 @@
 {
-"count": 806,
+"count": 805,
 "data": [
     {
         "name": "1001 Fonts",
@@ -535,15 +535,6 @@
         ],
         "description": "🎨 Curated collection of 80+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.",
         "url": "https://getcssscan.com/css-buttons-examples"
-    },
-    {
-        "name": "Beginner's guide to web security",
-        "categories": [
-            "Book",
-            "Security"
-        ],
-        "description": "A 100+ page ebook that talks about the basics of web security, various types of web security attacks and how to avoid/fix them.",
-        "url": "https://gokul.site/book/"
     },
     {
         "name": "Behance",
@@ -7825,7 +7816,7 @@
             "Learn",
             "Programming"
         ],
-        "url": "https://thisthat.dev/",
+        "url": "https://phuoc.ng/collection/this-vs-that/",
         "description": "What is the difference between ___ and ___ in the front-end development?",
         "keywords": [
             "CSS",
