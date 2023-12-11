@@ -219,7 +219,7 @@ export const resources: Resource[] = [
     {
         name: 'This VS That',
         categories: ['Learn', 'Programming'],
-        url: 'https://thisthat.dev/',
+        url: 'https://phuoc.ng/collection/this-vs-that/',
         description: 'What is the difference between ___ and ___ in the front-end development?',
         keywords: ['CSS', 'DOM', 'HTML', 'JavaScript', 'React', 'TypeScript'],
     },
