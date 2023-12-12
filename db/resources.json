@@ -1,5 +1,5 @@
 {
-"count": 805,
+"count": 808,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2230,6 +2230,15 @@
         ]
     },
     {
+        "name": "Dark",
+        "categories": [
+            "Design",
+            "UI"
+        ],
+        "description": "The best hand-picked dark themed websites on the internet.",
+        "url": "https://www.dark.design/"
+    },
+    {
         "name": "Dart Cheatsheet Codelab",
         "categories": [
             "Cheatsheet"
@@ -2303,6 +2312,15 @@
         ],
         "description": "A curated list of the best design resources handpicked from around the web.",
         "url": "https://www.designresourc.es/"
+    },
+    {
+        "name": "Design System Cookbooks",
+        "categories": [
+            "Design",
+            "UI"
+        ],
+        "description": "Comprehensive resources for creating, organizing, and implementing effective digital design recipes.",
+        "url": "https://www.designsystemcookbooks.com/"
     },
     {
         "name": "DesignCourse",
@@ -2853,6 +2871,15 @@
         ],
         "description": "Match command-line arguments to their help text.",
         "url": "https://explainshell.com/"
+    },
+    {
+        "name": "F5Bot",
+        "categories": [
+            "Productivity",
+            "Tooling"
+        ],
+        "description": "F5Bot is a free service that emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. Use it to monitor your brand, your projects, or just topics that you're interested in.",
+        "url": "https://f5bot.com/"
     },
     {
         "name": "Fake Img",
