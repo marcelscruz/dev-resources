@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'F5Bot',
+        categories: ['Productivity', 'Tooling'],
+        description:
+            "F5Bot is a free service that emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. Use it to monitor your brand, your projects, or just topics that you're interested in.",
+        url: 'https://f5bot.com/',
+    },
+    {
         name: 'Fake Img',
         categories: ['Editor', 'Image'],
         description:

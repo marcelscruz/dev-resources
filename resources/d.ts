@@ -68,6 +68,12 @@ export const resources: Resource[] = [
         keywords: ['tools', 'productivity', 'grammar fix', 'privacy policy', 'fonts', 'url', 'screenshot'],
     },
     {
+        name: 'Dark',
+        categories: ['Design', 'UI'],
+        description: 'The best hand-picked dark themed websites on the internet.',
+        url: 'https://www.dark.design/',
+    },
+    {
         name: 'Dart Cheatsheet Codelab',
         categories: ['Cheatsheet'],
         description: "Interactively learn (or relearn) some of Dart's unique features.",
@@ -113,6 +119,13 @@ export const resources: Resource[] = [
         description:
             "We've created a collection of free illustrations and more. Fully customizable and completely free illustrations that you can use for your business.",
         url: 'https://delesign.com/free-designs/graphics.php',
+    },
+    {
+        name: 'Design System Cookbooks',
+        categories: ['Design', 'UI'],
+        description:
+            'Comprehensive resources for creating, organizing, and implementing effective digital design recipes.',
+        url: 'https://www.designsystemcookbooks.com/',
     },
     {
         name: 'DesignCourse',
