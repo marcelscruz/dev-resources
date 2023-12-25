@@ -29,6 +29,12 @@ export const resources: Resource[] = [
         url: 'https://getterms.io/',
     },
     {
+        name: 'Gitbook',
+        categories: ["Documentation"],
+        description: 'GitBook is a knowledge management tool for engineering teams. It simplifies knowledge sharing, with docs-as-code support and AI-powered search & insights.',
+        url: 'https://gitbook.com',
+    },
+    {
         name: 'GitHub Pages',
         categories: ['Hosting'],
         description:

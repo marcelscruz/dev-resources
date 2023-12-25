@@ -267,6 +267,12 @@ export const resources: Resource[] = [
         url: 'https://divjoy.com/',
     },
     {
+        name: 'Docusaurus',
+        categories: ["Documentation","Blog"],
+        description: 'An optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.',
+        url: 'https://docusaurus.io',
+    },
+    {
         name: 'DOM Events',
         categories: ['Learn', 'Programming'],
         description: 'Learn how the DOM Event system works through exploration.',

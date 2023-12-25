@@ -113,6 +113,12 @@ export const resources: Resource[] = [
         url: 'https://readme.so/',
     },
     {
+        name: 'Realtime Colors',
+        categories: ["Color","Design"],
+        description: "Visualize your colors and fonts on a real website.",
+        url: 'https://www.realtimecolors.com',
+    },
+    {
         name: 'reddit',
         categories: ['Forum'],
         description:

@@ -57,6 +57,12 @@ export const resources: Resource[] = [
         url: 'https://hacktoberfestswaglist.com/',
     },
     {
+        name: 'Haikei',
+        categories: ["Illustration"],
+        description: 'A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more!',
+        url: 'https://app.haikei.app',
+    },
+    {
         name: 'Happy Hues',
         categories: ['Color'],
         description:
