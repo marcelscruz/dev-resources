@@ -68,6 +68,12 @@ export const resources: Resource[] = [
         keywords: ['tools', 'productivity', 'grammar fix', 'privacy policy', 'fonts', 'url', 'screenshot'],
     },
     {
+        name: 'Dark',
+        categories: ['Design', 'UI'],
+        description: 'The best hand-picked dark themed websites on the internet.',
+        url: 'https://www.dark.design/',
+    },
+    {
         name: 'Dart Cheatsheet Codelab',
         categories: ['Cheatsheet'],
         description: "Interactively learn (or relearn) some of Dart's unique features.",
@@ -113,6 +119,13 @@ export const resources: Resource[] = [
         description:
             "We've created a collection of free illustrations and more. Fully customizable and completely free illustrations that you can use for your business.",
         url: 'https://delesign.com/free-designs/graphics.php',
+    },
+    {
+        name: 'Design System Cookbooks',
+        categories: ['Design', 'UI'],
+        description:
+            'Comprehensive resources for creating, organizing, and implementing effective digital design recipes.',
+        url: 'https://www.designsystemcookbooks.com/',
     },
     {
         name: 'DesignCourse',
@@ -231,6 +244,14 @@ export const resources: Resource[] = [
             "DevTips is slowly opening back up! We're excited to start working with a long-time community member, Jay of iEatWebsites, on bringing back top-tier, front-end development content with designers in mind to the subscribers. DevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay! Everything you see and hear are the opinions and preferences of the individual who said them, and no one else's.",
         keywords: ['HTML CSS Javascript "Web Development" Coding Design'],
         url: 'https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ',
+    },
+    {
+        name: 'Dhiwise',
+        categories: ['AI', 'Code Generator', 'Productivity'],
+        description:
+            'Build React and Flutter Apps at blazing fast speed without compromising on code-quality and developer-experience.',
+        keywords: ['android', 'kotlin', 'node.js', 'sql', 'no-sql', 'design to code'],
+        url: 'https://dhiwise.com/',
     },
     {
         name: 'Divize',

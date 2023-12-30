@@ -8,13 +8,6 @@ export const resources: Resource[] = [
         url: 'https://quizzes.madza.dev/',
     },
     {
-        name: 'Mailchimp',
-        categories: ['Email', 'Marketing'],
-        description:
-            'Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.',
-        url: 'https://mailchimp.com/',
-    },
-    {
         name: 'Magic',
         categories: ['Authentication'],
         description:
@@ -22,6 +15,20 @@ export const resources: Resource[] = [
         url: 'https://magic.link',
 
         keywords: ['auth', 'authentication', 'passwordless'],
+    },
+    {
+        name: 'Mailchimp',
+        categories: ['Email', 'Marketing'],
+        description:
+            'Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.',
+        url: 'https://mailchimp.com/',
+    },
+    {
+        name: 'Mailgun',
+        categories: ['Email', 'Marketing'],
+        description:
+            'Powerful Transactional Email APIs that enable you to send, receive, and track emails, built with developers in mind. ',
+        url: 'https://www.mailgun.com/',
     },
     {
         name: 'Majestic',

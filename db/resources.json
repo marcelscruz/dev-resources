@@ -1,5 +1,5 @@
 {
-"count": 799,
+"count": 808,
 "data": [
     {
         "name": "1001 Fonts",
@@ -61,7 +61,7 @@
             "SaaS",
             "React"
         ],
-        "url": "https:/1upsaas.com"
+        "url": "https://1upsaas.com/"
     },
     {
         "name": "30 seconds of code",
@@ -261,6 +261,14 @@
             "profiler",
             "profiling"
         ]
+    },
+    {
+        "name": "Animated Icons",
+        "categories": [
+            "Icon"
+        ],
+        "description": "High-quality animated icons to wow your users. Available to download for free without attribution. Adjust to your brand in just a few clicks.",
+        "url": "https://animatedicons.co/"
     },
     {
         "name": "Animista",
@@ -527,15 +535,6 @@
         ],
         "description": "🎨 Curated collection of 80+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.",
         "url": "https://getcssscan.com/css-buttons-examples"
-    },
-    {
-        "name": "Beginner's guide to web security",
-        "categories": [
-            "Book",
-            "Security"
-        ],
-        "description": "A 100+ page ebook that talks about the basics of web security, various types of web security attacks and how to avoid/fix them.",
-        "url": "https://gokul.site/book/"
     },
     {
         "name": "Behance",
@@ -2231,6 +2230,15 @@
         ]
     },
     {
+        "name": "Dark",
+        "categories": [
+            "Design",
+            "UI"
+        ],
+        "description": "The best hand-picked dark themed websites on the internet.",
+        "url": "https://www.dark.design/"
+    },
+    {
         "name": "Dart Cheatsheet Codelab",
         "categories": [
             "Cheatsheet"
@@ -2304,6 +2312,15 @@
         ],
         "description": "A curated list of the best design resources handpicked from around the web.",
         "url": "https://www.designresourc.es/"
+    },
+    {
+        "name": "Design System Cookbooks",
+        "categories": [
+            "Design",
+            "UI"
+        ],
+        "description": "Comprehensive resources for creating, organizing, and implementing effective digital design recipes.",
+        "url": "https://www.designsystemcookbooks.com/"
     },
     {
         "name": "DesignCourse",
@@ -2458,6 +2475,24 @@
             "HTML CSS Javascript \"Web Development\" Coding Design"
         ],
         "url": "https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ"
+    },
+    {
+        "name": "Dhiwise",
+        "categories": [
+            "AI",
+            "Code Generator",
+            "Productivity"
+        ],
+        "description": "Build React and Flutter Apps at blazing fast speed without compromising on code-quality and developer-experience.",
+        "keywords": [
+            "android",
+            "kotlin",
+            "node.js",
+            "sql",
+            "no-sql",
+            "design to code"
+        ],
+        "url": "https://dhiwise.com/"
     },
     {
         "name": "Divize",
@@ -2836,6 +2871,15 @@
         ],
         "description": "Match command-line arguments to their help text.",
         "url": "https://explainshell.com/"
+    },
+    {
+        "name": "F5Bot",
+        "categories": [
+            "Productivity",
+            "Tooling"
+        ],
+        "description": "F5Bot is a free service that emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. Use it to monitor your brand, your projects, or just topics that you're interested in.",
+        "url": "https://f5bot.com/"
     },
     {
         "name": "Fake Img",
@@ -4151,6 +4195,14 @@
         ]
     },
     {
+        "name": "Hugeicons",
+        "categories": [
+            "Icon"
+        ],
+        "description": "Over 25,000 beautiful icons in 5 unique styles, organized across 57 popular categories. Crafted by creators, for creators.",
+        "url": "https://hugeicons.com/"
+    },
+    {
         "name": "humaaans",
         "categories": [
             "Illustration"
@@ -5004,7 +5056,7 @@
         "categories": [
             "Website Builder"
         ],
-        "description": "The fastest way to create your online presence. All your links and information in one place.",
+        "description": "Your own page. All your links and information in one place. Ready in minutes.",
         "url": "https://linktopus.co",
         "keywords": [
             "link in bio",
@@ -5129,6 +5181,15 @@
         ],
         "description": "Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.",
         "url": "https://mailchimp.com/"
+    },
+    {
+        "name": "Mailgun",
+        "categories": [
+            "Email",
+            "Marketing"
+        ],
+        "description": "Powerful Transactional Email APIs that enable you to send, receive, and track emails, built with developers in mind. ",
+        "url": "https://www.mailgun.com/"
     },
     {
         "name": "Majestic",
@@ -5829,6 +5890,20 @@
         "keywords": [
             "ai",
             "search engine"
+        ]
+    },
+    {
+        "name": "Photo Rush",
+        "description": "Generate professional images of products with AI. Save money and use AI to do a photo shoot from your laptop or phone instead of hiring an expensive photographer.Get your product images in minutes",
+        "categories": [
+            "AI",
+            "Image",
+            "Design"
+        ],
+        "url": "https://photorush.io",
+        "keywords": [
+            "image generation",
+            "professional photos"
         ]
     },
     {
@@ -7350,6 +7425,15 @@
         "url": "https://ui.supabase.io/"
     },
     {
+        "name": "supastarter",
+        "categories": [
+            "Startup",
+            "Template"
+        ],
+        "description": "Ship your SaaS in days, not months. Save time and focus on your business with our production-ready SaaS boilerplates and templates for Next.js and Nuxt.",
+        "url": "https://supastarter.dev"
+    },
+    {
         "name": "Surfer",
         "categories": [
             "SEO"
@@ -7759,7 +7843,7 @@
             "Learn",
             "Programming"
         ],
-        "url": "https://thisthat.dev/",
+        "url": "https://phuoc.ng/collection/this-vs-that/",
         "description": "What is the difference between ___ and ___ in the front-end development?",
         "keywords": [
             "CSS",
@@ -7882,6 +7966,17 @@
         ],
         "description": "High-quality, affordable video courses for coding and design. Build a website, learn a new coding language, and more.",
         "url": "https://teamtreehouse.com/"
+    },
+    {
+        "name": "Trigger.dev",
+        "categories": [
+            "Serverless"
+        ],
+        "description": "Create long-running jobs directly in your codebase with features like API integrations, webhooks, scheduling and delays.",
+        "url": "https://trigger.dev/",
+        "keywords": [
+            "webhook"
+        ]
     },
     {
         "name": "Tutoriac",

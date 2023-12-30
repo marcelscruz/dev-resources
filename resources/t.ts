@@ -207,7 +207,6 @@ export const resources: Resource[] = [
         description:
             "Build web3 apps easily with thirdweb's powerful SDKs, audited smart contracts, and developer tools—for Ethereum, Polygon, Solana, & more. Try now.",
         url: 'https://thirdweb.com/',
-
         keywords: ['web3', 'sdk', 'smart contracts', 'developer tools', 'dapps', 'decentralized apps'],
     },
     {
@@ -220,7 +219,7 @@ export const resources: Resource[] = [
     {
         name: 'This VS That',
         categories: ['Learn', 'Programming'],
-        url: 'https://thisthat.dev/',
+        url: 'https://phuoc.ng/collection/this-vs-that/',
         description: 'What is the difference between ___ and ___ in the front-end development?',
         keywords: ['CSS', 'DOM', 'HTML', 'JavaScript', 'React', 'TypeScript'],
     },
@@ -320,6 +319,14 @@ export const resources: Resource[] = [
         description:
             'High-quality, affordable video courses for coding and design. Build a website, learn a new coding language, and more.',
         url: 'https://teamtreehouse.com/',
+    },
+    {
+        name: 'Trigger.dev',
+        categories: ['Serverless'],
+        description:
+            'Create long-running jobs directly in your codebase with features like API integrations, webhooks, scheduling and delays.',
+        url: 'https://trigger.dev/',
+        keywords: ['webhook'],
     },
     {
         name: 'Tutoriac',

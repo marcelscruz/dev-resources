@@ -239,6 +239,13 @@ export const resources: Resource[] = [
         url: 'https://html5up.net/',
     },
     {
+        name: 'Hugeicons',
+        categories: ['Icon'],
+        description:
+            'Over 25,000 beautiful icons in 5 unique styles, organized across 57 popular categories. Crafted by creators, for creators.',
+        url: 'https://hugeicons.com/',
+    },
+    {
         name: 'humaaans',
         categories: ['Illustration'],
         description: 'Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.',

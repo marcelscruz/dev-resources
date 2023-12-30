@@ -119,6 +119,13 @@ export const resources: Resource[] = [
         keywords: ['dev tools', 'angular', 'profiler', 'profiling'],
     },
     {
+        name: 'Animated Icons',
+        categories: ['Icon'],
+        description:
+            'High-quality animated icons to wow your users. Available to download for free without attribution. Adjust to your brand in just a few clicks.',
+        url: 'https://animatedicons.co/',
+    },
+    {
         name: 'Animista',
         categories: ['Animation', 'Programming'],
         description:
@@ -149,7 +156,8 @@ export const resources: Resource[] = [
     {
         name: 'Appshine',
         categories: ['Design'],
-        description: "Use Appshine to get a UX/UI mobile or web design for your tech startup that drive higher sales, retention, and referrals.",
+        description:
+            'Use Appshine to get a UX/UI mobile or web design for your tech startup that drive higher sales, retention, and referrals.',
         url: 'https://appshine.io',
         keywords: ['ui design', 'app design', 'mobile design', 'web design'],
     },
