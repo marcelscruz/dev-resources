@@ -229,6 +229,12 @@ export const resources: Resource[] = [
         url: 'https://cassidoo.co/newsletter/',
     },
     {
+        name: 'Resend',
+        categories: ['Email', 'Marketing'],
+        description: 'The best email API to reach humans instead of spam folders. Build, test, and deliver transactional emails at scale.',
+        url: 'https://resend.com/',
+    },
+    {
         name: 'Reshot',
         categories: ['Image'],
         description:
