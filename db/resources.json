@@ -1,5 +1,5 @@
 {
-"count": 809,
+"count": 810,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6559,6 +6559,15 @@
         ],
         "description": "A web developer blog by Rene Rehme. This blog is about front- and backend techniques.",
         "url": "https://renerehme.dev/"
+    },
+    {
+        "name": "Resend",
+        "categories": [
+            "Email",
+            "Marketing"
+        ],
+        "description": "The best email API to reach humans instead of spam folders. Build, test, and deliver transactional emails at scale.",
+        "url": "https://resend.com/"
     },
     {
         "name": "Reshot",
