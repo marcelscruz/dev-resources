@@ -30,8 +30,9 @@ export const resources: Resource[] = [
     },
     {
         name: 'Gitbook',
-        categories: ["Documentation"],
-        description: 'GitBook is a knowledge management tool for engineering teams. It simplifies knowledge sharing, with docs-as-code support and AI-powered search & insights.',
+        categories: ['Documentation'],
+        description:
+            'GitBook is a knowledge management tool for engineering teams. It simplifies knowledge sharing, with docs-as-code support and AI-powered search & insights.',
         url: 'https://gitbook.com',
     },
     {

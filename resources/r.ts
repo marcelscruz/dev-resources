@@ -114,8 +114,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Realtime Colors',
-        categories: ["Color","Design"],
-        description: "Visualize your colors and fonts on a real website.",
+        categories: ['Color', 'Design'],
+        description: 'Visualize your colors and fonts on a real website.',
         url: 'https://www.realtimecolors.com',
     },
     {

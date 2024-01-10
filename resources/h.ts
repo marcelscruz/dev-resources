@@ -58,8 +58,9 @@ export const resources: Resource[] = [
     },
     {
         name: 'Haikei',
-        categories: ["Illustration"],
-        description: 'A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more!',
+        categories: ['Illustration'],
+        description:
+            'A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more!',
         url: 'https://app.haikei.app',
     },
     {

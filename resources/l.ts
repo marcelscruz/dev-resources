@@ -296,7 +296,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Lorem Picsum',
-        categories: ["Image"],
+        categories: ['Image'],
         description: 'Lorem Ipsum... but for photos',
         url: 'https://picsum.photos',
     },

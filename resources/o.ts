@@ -16,7 +16,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'One.com',
-        categories: ["Domain","Hosting","Email"],
+        categories: ['Domain', 'Hosting', 'Email'],
         description: 'Web hosting, Domain, Hosting & E-mail',
         url: 'https://one.com',
     },

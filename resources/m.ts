@@ -67,7 +67,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Markdown Guide',
-        categories: ["Cheatsheet"],
+        categories: ['Cheatsheet'],
         description: ' A free and open-source reference guide that explains how to use Markdown.',
         url: 'https://markdownguide.org',
     },

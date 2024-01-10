@@ -268,8 +268,9 @@ export const resources: Resource[] = [
     },
     {
         name: 'Docusaurus',
-        categories: ["Documentation","Blog"],
-        description: 'An optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.',
+        categories: ['Documentation', 'Blog'],
+        description:
+            'An optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.',
         url: 'https://docusaurus.io',
     },
     {
