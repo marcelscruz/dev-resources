@@ -15,6 +15,12 @@ export const resources: Resource[] = [
         url: 'https://www.offen.dev/',
     },
     {
+        name: 'One.com',
+        categories: ['Domain', 'Hosting', 'Email'],
+        description: 'Web hosting, Domain, Hosting & E-mail',
+        url: 'https://one.com',
+    },
+    {
         name: 'One Page Love',
         categories: ['Design', 'Inspiration', 'UI'],
         description:

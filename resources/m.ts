@@ -66,6 +66,12 @@ export const resources: Resource[] = [
         url: 'https://markodenic.com/',
     },
     {
+        name: 'Markdown Guide',
+        categories: ['Cheatsheet'],
+        description: ' A free and open-source reference guide that explains how to use Markdown.',
+        url: 'https://markdownguide.org',
+    },
+    {
         name: 'Mastery Games',
         categories: ['Learn', 'Programming'],
         description:

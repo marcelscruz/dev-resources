@@ -15,6 +15,13 @@ export const resources: Resource[] = [
         url: 'https://www.tailorbrands.com/logo-maker',
     },
     {
+        name: 'Tailanimista',
+        categories: ['Animation'],
+        description: 'Animista, but for Tailwind CSS. Easily generate beautiful animations!',
+        keywords: ['animation', 'tailwind', 'css', 'tailwind css'],
+        url: 'https://tail-animista.vercel.app',
+    },
+    {
         name: 'TailwindComponents',
         categories: ['Library', 'Programming', 'UI'],
         description:
