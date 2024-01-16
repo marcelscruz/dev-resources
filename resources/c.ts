@@ -77,6 +77,14 @@ export const resources: Resource[] = [
         url: 'https://gionkunz.github.io/chartist-js/',
     },
     {
+        name: 'ChatWithCloud',
+        categories: ['AI'],
+        description:
+            'CLI allowing you to interact with AWS Cloud using human language inside your Terminal thanks to generative AI.',
+        url: 'https://chatwithcloud.ai',
+        keywords: ['ai', 'cloud', 'aws'],
+    },
+    {
         name: 'ChatGPT Prompts by Keywords Everywhere',
         categories: ['AI'],
         description:
