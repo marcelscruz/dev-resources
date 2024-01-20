@@ -283,4 +283,12 @@ export const resources: Resource[] = [
             'Most Powerful & Comprehensive Open Source and Free MUI React NextJS Admin Dashboard Template built for developers.',
         url: 'https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free',
     },
+    {
+    name: 'Marblism',
+    description: 'Generate a SaaS boilerplate from a prompt',
+    categories: ['AI', 'Code Generator'],
+    url: 'https://marblism.com',
+    keywords: ['code generator', 'ai', 'boilerplate', 'dev tool']
+    },
+
 ]
