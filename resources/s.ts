@@ -88,7 +88,7 @@ export const resources: Resource[] = [
     {
         name: 'SEO Gets',
         categories: ['SEO', 'Marketing'],
-        description: 'Analytics for organic traffic. SEO Gets is an alternative to Google Search Console that organizes your search performance data in an easy to understand format.',
+        description: 'SEO Get is an alternative to Google Search Console performance reports. Minimalist and simple to use. Get actionable insights in minutes.',
         url: 'https://seogets.com/',
     },
     {
