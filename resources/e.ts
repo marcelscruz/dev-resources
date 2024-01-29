@@ -149,7 +149,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Enveloop',
-        categories: ['Email', 'SMS', 'Design'],
+        categories: ['Email', 'Design'],
         description: 'Design, host, and send emails and texts. All from one place - with a simple API.',
         url: 'https://enveloop.com/',
     },
