@@ -187,4 +187,10 @@ export const resources: Resource[] = [
         description: 'Match command-line arguments to their help text.',
         url: 'https://explainshell.com/',
     },
+    {
+        name: 'ExtendsClass',
+        categories: ['Tooling'],
+        description: 'Test realistic data generator supports JSON, CSV, SQL, and XML formats, along with an API mocking tool.',
+        url: 'https://extendsclass.com/csv-generator.html',
+    },
 ]
