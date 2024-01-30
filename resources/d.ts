@@ -267,6 +267,13 @@ export const resources: Resource[] = [
         url: 'https://divjoy.com/',
     },
     {
+        name: 'Documind AI',
+        categories: ['AI'],
+        description: 'Documind AI is a new and advanced chat with pdf tool. It uses GPT4 turbo and advanced vector search to give accurate answers.',
+        url: 'https://documind.chat',
+        keywords: ['chatpdf', 'documind', 'chatwithpdf', 'aipdfchat'], 
+    },
+    {
         name: 'Docusaurus',
         categories: ['Documentation', 'Blog'],
         description:
