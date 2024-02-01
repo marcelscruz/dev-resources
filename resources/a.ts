@@ -96,6 +96,14 @@ export const resources: Resource[] = [
         url: 'https://aijobs.app',
     },
     {
+        name: 'AI Directories',
+        categories: ['AI','SEO','Marketing'],
+        description:
+            "All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories",
+        url: 'https://aidirectori.es/',
+        keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
+    },
+    {
         name: 'Airtable',
         categories: ['Database'],
         description:
