@@ -1,5 +1,5 @@
 {
-"count": 820,
+"count": 821,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1029,6 +1029,19 @@
         "keywords": [
             "ai",
             "prompts"
+        ]
+    },
+    {
+        "name": "ChatWithCloud",
+        "categories": [
+            "AI"
+        ],
+        "description": "CLI allowing you to interact with AWS Cloud using human language inside your Terminal thanks to generative AI.",
+        "url": "https://chatwithcloud.ai",
+        "keywords": [
+            "ai",
+            "cloud",
+            "aws"
         ]
     },
     {
