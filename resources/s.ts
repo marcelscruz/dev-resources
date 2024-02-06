@@ -86,6 +86,12 @@ export const resources: Resource[] = [
         url: 'https://seoblueprint.com/',
     },
     {
+        name: 'SEO Gets',
+        categories: ['SEO', 'Marketing'],
+        description: 'SEO Get is an alternative to Google Search Console performance reports. Minimalist and simple to use. Get actionable insights in minutes.',
+        url: 'https://seogets.com/',
+    },
+    {
         name: 'SEO Powersuite',
         categories: ['SEO'],
         description:
