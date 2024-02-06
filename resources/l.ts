@@ -214,6 +214,20 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Lilybank AI',
+        categories: ['AI', 'Template', 'Marketing'],
+        description: 'At Lilybank AI, we provide a range of tools to boost your online content creation.',
+        url: 'https://lilybankai.com',
+        keywords: [
+            'content',
+            'templates',
+            'voiceovers',
+            'speech-to-text',
+            'image generator',
+            'transcriptions',
+        ],
+    },
+    {
         name: 'Like I Am Five',
         categories: ['Learn', 'Programming'],
         description: 'Learn to code through real-life projects in less than 4 hours.',
