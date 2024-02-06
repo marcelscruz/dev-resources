@@ -294,6 +294,7 @@ Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://
  <img src="https://www.google.com/s2/favicons?domain=https://snipit.io/&sz=128" width="16" /> | [Snipit](https://snipit.io/) | Save and organize your code snippets in the cloud. Share and collaborate with your team members. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://startbootstrap.com/snippets/&sz=128" width="16" /> | [Start Bootstrap](https://startbootstrap.com/snippets/) | Trusted by tens of millions of users worldwide since 2013, Start Bootstrap develops website themes, templates, snippets, and more to help you get started on your next project! |  |
  <img src="https://www.google.com/s2/favicons?domain=https://usehooks.com/&sz=128" width="16" /> | [useHooks](https://usehooks.com/) | Easy to understand React Hook recipes. | react, javascript, hooks, useState, useEffect, tutorial, demo, code |
+  <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pieces.app/&size=128" width="16" /> | [Pieces](https://pieces.app/) | on-device copilot that helps you capture, enrich, and reuse useful materials, streamline collaboration | Productivity, Copilot, easy snippet seAarch |
 
 **[⬆ Back to Index](#index)**
 
