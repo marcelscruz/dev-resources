@@ -1,5 +1,5 @@
 {
-"count": 821,
+"count": 823,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5312,6 +5312,21 @@
         "url": "https://www.manypixels.co/gallery/"
     },
     {
+        "name": "Marblism",
+        "description": "Generate a SaaS boilerplate from a prompt",
+        "categories": [
+            "AI",
+            "Code Generator"
+        ],
+        "url": "https://marblism.com",
+        "keywords": [
+            "code generator",
+            "ai",
+            "boilerplate",
+            "dev tool"
+        ]
+    },
+    {
         "name": "Markdown Guide",
         "categories": [
             "Cheatsheet"
@@ -6957,6 +6972,15 @@
         ],
         "description": "Cutting-edge SEO tactics that are actually ranking websites.",
         "url": "https://seoblueprint.com/"
+    },
+    {
+        "name": "SEO Gets",
+        "categories": [
+            "SEO",
+            "Marketing"
+        ],
+        "description": "SEO Get is an alternative to Google Search Console performance reports. Minimalist and simple to use. Get actionable insights in minutes.",
+        "url": "https://seogets.com/"
     },
     {
         "name": "SEO Powersuite",
