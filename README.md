@@ -70,6 +70,7 @@ Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://
  <img src="https://www.google.com/s2/favicons?domain=https://remotesalary.ai/board?remote=true&sz=128" width="16" /> | [RemoteSalary](https://remotesalary.ai/board?remote=true) | 20,000+ jobs all over $150,000 salary. Find your ideal high paying remote role. Searches 2,000,000+ job postings across 12,000+ companies daily to find the highest paying remote roles. | remote, salary, salary search, development |
  <img src="https://www.google.com/s2/favicons?domain=https://www.tweetdetective.com/&sz=128" width="16" /> | [Tweet Detective](https://www.tweetdetective.com/) | Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content | twitter, social media, ai detection, ai text |
  <img src="https://www.google.com/s2/favicons?domain=https://www.visily.ai/&sz=128" width="16" /> | [Visily](https://www.visily.ai/) | Visily leverages AI to generate stunning app wireframes and prototypes from various inputs such as text prompts, hand-drawn sketches, and screenshots of existing applications or websites. |  |
+  <img src="https://www.google.com/s2/favicons?domain=https://www.text-humanizer.com/&sz=128" width="16" /> | [Text-Humanizer.com](https://www.text-humanizer.com/) | Free Advanced AI Text Content Humanizer & Detector Tool. |  |
 
 **[⬆ Back to Index](#index)**
 
