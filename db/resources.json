@@ -1,5 +1,5 @@
 {
-"count": 825,
+"count": 826,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2533,6 +2533,22 @@
             "design to code"
         ],
         "url": "https://dhiwise.com/"
+    },
+    {
+        "name": "DirectoryKit",
+        "description": "Ready to use template for your Directory",
+        "categories": [
+            "Template",
+            "Programming"
+        ],
+        "url": "https://www.directorykit.xyz",
+        "keywords": [
+            "directory",
+            "template",
+            "javascript",
+            "development tool",
+            "boilerplate"
+        ]
     },
     {
         "name": "Divize",
