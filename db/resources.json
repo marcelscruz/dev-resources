@@ -1,5 +1,5 @@
 {
-"count": 827,
+"count": 828,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7149,6 +7149,21 @@
         ],
         "description": "A weekly podcast about just building websites from Dave Rupert and Chris Coyier.",
         "url": "https://shoptalkshow.com/"
+    },
+    {
+        "name": "Shots",
+        "keywords": [
+            "mockup",
+            "design",
+            "social",
+            "marketing"
+        ],
+        "categories": [
+            "Prototyping",
+            "Screenshot"
+        ],
+        "description": "Create amazing mockups with an image, from a website to a product, personalize any aspect of the outcome.",
+        "url": "https://shots.so/"
     },
     {
         "name": "Shutterstock",
