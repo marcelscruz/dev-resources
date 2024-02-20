@@ -124,6 +124,14 @@ export const resources: Resource[] = [
         url: 'https://www.indiehackers.com/',
     },
     {
+        name: 'IndiesReadIt',
+        description:
+            'IndiesReadIt is a curated book directory for indiehackers, solopreneurs, and entrepreneurs. Discover books on skills, business management, and personal development.',
+        categories: ['Learn', 'Book'],
+        url: 'https://IndiesRead.it',
+        keywords: ['books', 'ebooks', 'audio-books', 'directory', 'indiehacker', 'indie', 'read'],
+    },
+    {
         name: 'Indie Worldwide',
         categories: ['Startup'],
         description: 'The worldwide virtual meetup of indie hackers, founders, and makers.',
