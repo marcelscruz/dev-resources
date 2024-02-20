@@ -254,6 +254,14 @@ export const resources: Resource[] = [
         url: 'https://dhiwise.com/',
     },
     {
+        name: 'DirectoryKit',
+        description: 'Ready to use template for your Directory',
+        categories: ['Template', 'Programming'],
+        url: 'https://www.directorykit.xyz',
+        keywords: ['directory', 'template', 'javascript', 'development tool', 'boilerplate'],
+    },
+
+    {
         name: 'Divize',
         categories: ['Code Challenge', 'Learn', 'Programming'],
         description: 'Learn, Write, Master: HTML/CSS Through Real UI Challenges.',
