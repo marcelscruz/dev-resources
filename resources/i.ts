@@ -90,7 +90,7 @@ export const resources: Resource[] = [
         categories: ['Icon'],
         description: 'Icon Explorer with Instant searching, powered by Iconify',
         url: 'https://icones.netlify.app/',
-    },    
+    },
     {
         name: 'Image Optimizer',
         categories: ['Image'],
@@ -127,9 +127,9 @@ export const resources: Resource[] = [
         name: 'IndiesReadIt',
         description:
             'IndiesReadIt is a curated book directory for indiehackers, solopreneurs, and entrepreneurs. Discover books on skills, business management, and personal development.',
-        categories: ['Learn', 'Book', 'Library'],
+        categories: ['Learn', 'Book'],
         url: 'https://IndiesRead.it',
-        keywords: ['books', 'ebooks', 'audio-books', 'directory', 'indiehacker', 'indie', 'read'], // Optional, but used on the search feature on the website
+        keywords: ['books', 'ebooks', 'audio-books', 'directory', 'indiehacker', 'indie', 'read'],
     },
     {
         name: 'Indie Worldwide',
