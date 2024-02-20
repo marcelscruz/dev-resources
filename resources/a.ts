@@ -230,6 +230,13 @@ export const resources: Resource[] = [
         url: 'https://aws.amazon.com/',
     },
     {
+        name: 'AWS Serverless kit (best practices)',
+        categories: ['Serverless', 'Productivity', 'Cloud Computing'],
+        description:
+            'AWS has never been easier with the Scale to Zero Kit. The kit comes with everything you need. Deploy fast, scale, and pay only for what you use',
+        url: 'https://scaletozeroaws.com/',
+    },
+    {
         name: 'Awesome a11y',
         categories: ['Accessibility'],
         description:
