@@ -187,6 +187,13 @@ export const resources: Resource[] = [
         url: 'https://shoptalkshow.com/',
     },
     {
+        name: 'Shots',
+        keywords: ['mockup', 'design', 'social', 'marketing'],
+        categories: ['Prototyping', 'Screenshot'],
+        description: 'Create amazing mockups with an image, from a website to a product, personalize any aspect of the outcome.',
+        url: 'https://shots.so/',
+    },
+    {
         name: 'Shutterstock',
         categories: ['Video', 'Image', 'Icon'],
         description:
