@@ -1,5 +1,5 @@
 {
-"count": 824,
+"count": 825,
 "data": [
     {
         "name": "1001 Fonts",
@@ -460,6 +460,16 @@
         ],
         "description": "Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use.",
         "url": "https://aws.amazon.com/"
+    },
+    {
+        "name": "AWS Serverless kit (best practices)",
+        "categories": [
+            "Serverless",
+            "Productivity",
+            "Cloud Computing"
+        ],
+        "description": "AWS has never been easier with the Scale to Zero Kit. The kit comes with everything you need. Deploy fast, scale, and pay only for what you use",
+        "url": "https://scaletozeroaws.com/"
     },
     {
         "name": "Awwwards",
