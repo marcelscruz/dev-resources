@@ -233,6 +233,14 @@ export const resources: Resource[] = [
         url: 'http://simpleicons.org/',
     },
     {
+        name: 'SinglebaseCloud',
+        description: 'AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.',
+        categories: ['Authentication', 'Database', 'Startup'],
+        url: 'https://singlebase.cloud',
+        keywords: ['developer tools', 'database', 'backend', 'baas','vectordb','nosql','documentdb','authentication','ai'],
+    },
+
+    {
         name: 'Site123',
         categories: ['Website Builder'],
         description:
