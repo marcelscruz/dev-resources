@@ -1,5 +1,5 @@
 {
-"count": 828,
+"count": 830,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2889,6 +2889,15 @@
         "url": "https://elements.envato.com/"
     },
     {
+        "name": "Enveloop",
+        "categories": [
+            "Email",
+            "Design"
+        ],
+        "description": "Design, host, and send emails and texts. All from one place - with a simple API.",
+        "url": "https://enveloop.com/"
+    },
+    {
         "name": "Epic React",
         "categories": [
             "Learn",
@@ -2936,6 +2945,14 @@
         ],
         "description": "Match command-line arguments to their help text.",
         "url": "https://explainshell.com/"
+    },
+    {
+        "name": "ExtendsClass",
+        "categories": [
+            "Tooling"
+        ],
+        "description": "Test realistic data generator supports JSON, CSV, SQL, and XML formats, along with an API mocking tool.",
+        "url": "https://extendsclass.com/csv-generator.html"
     },
     {
         "name": "F5Bot",
