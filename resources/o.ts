@@ -15,6 +15,13 @@ export const resources: Resource[] = [
         url: 'https://www.offen.dev/',
     },
     {
+        name: 'OkJob',
+        categories: ['Job'],
+        description: '4 day Week Job Board',
+        keywords: ['Flexible work schedule', 'Work-life balance', 'Remote work options'],
+        url: 'https://okjob.io/',
+    },
+    {
         name: 'One.com',
         categories: ['Domain', 'Hosting', 'Email'],
         description: 'Web hosting, Domain, Hosting & E-mail',
