@@ -1,5 +1,5 @@
 {
-"count": 831,
+"count": 832,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5844,6 +5844,19 @@
         ],
         "description": "Offen is an open alternative to common web analytics tools. Gain insights while your users have full access to their data. Lightweight, self hosted and free.",
         "url": "https://www.offen.dev/"
+    },
+    {
+        "name": "OkJob",
+        "categories": [
+            "Job"
+        ],
+        "description": "4 day Week Job Board",
+        "keywords": [
+            "Flexible work schedule",
+            "Work-life balance",
+            "Remote work options"
+        ],
+        "url": "https://okjob.io/"
     },
     {
         "name": "One Page Love",
