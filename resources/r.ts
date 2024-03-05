@@ -254,6 +254,13 @@ export const resources: Resource[] = [
         url: 'https://responsively.app/',
     },
     {
+        name: 'Resmume',
+        categories: ['Resume'],
+        description: 'Craft the Perfect Resume with AI-Powered Resume Builder.',
+        keywords: ['resume', 'builder', 'ai', 'templates'],
+        url: 'https://resmume.com/',
+    },
+    {
         name: 'Resume',
         categories: ['Resume'],
         description:
@@ -274,13 +281,6 @@ export const resources: Resource[] = [
         description:
             'The easiest-to-use Resume Maker & CV Builder. Let AI do the writing for you and download a perfect resume in minutes.',
         url: 'https://www.resumemaker.online/',
-    },
-    {
-        name: 'Resmume',
-        categories: ['Resume'],
-        description: 'Craft the Perfect Resume with AI-Powered Resume Builder.',
-        keywords: ['resume', 'builder', 'ai', 'templates'],
-        url: 'https://resmume.com/',
     },
     {
         name: 'Resume Now',
