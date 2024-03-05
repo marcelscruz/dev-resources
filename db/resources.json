@@ -1,5 +1,5 @@
 {
-"count": 808,
+"count": 833,
 "data": [
     {
         "name": "1001 Fonts",
@@ -212,6 +212,23 @@
         ],
         "description": "You don't have to be an SEO pro to rank higher and get more traffic. Join Ahrefs – we're a powerful but easy to learn SEO toolset with a passionate community.",
         "url": "https://ahrefs.com/"
+    },
+    {
+        "name": "AI Directories",
+        "categories": [
+            "AI",
+            "SEO",
+            "Marketing"
+        ],
+        "description": "All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories",
+        "url": "https://aidirectori.es/",
+        "keywords": [
+            "ai",
+            "artificial intelligence",
+            "promote",
+            "directory",
+            "traffic"
+        ]
     },
     {
         "name": "AI Jobs",
@@ -443,6 +460,16 @@
         ],
         "description": "Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use.",
         "url": "https://aws.amazon.com/"
+    },
+    {
+        "name": "AWS Serverless kit (best practices)",
+        "categories": [
+            "Serverless",
+            "Productivity",
+            "Cloud Computing"
+        ],
+        "description": "AWS has never been easier with the Scale to Zero Kit. The kit comes with everything you need. Deploy fast, scale, and pay only for what you use",
+        "url": "https://scaletozeroaws.com/"
     },
     {
         "name": "Awwwards",
@@ -1020,6 +1047,20 @@
         "url": "https://gionkunz.github.io/chartist-js/"
     },
     {
+        "name": "Chatclient AI",
+        "categories": [
+            "AI"
+        ],
+        "description": "Build Custom AI Chatbot for Your Website. Chatclient helps you with creating your own custom AI Chatbot based on your website and company data, just like ChatGPT. Seamlessly integrate it as a widget on your website.",
+        "url": "https://chatclient.ai",
+        "keywords": [
+            "ai",
+            "chatbots",
+            "custom chatgpt",
+            "ai agents"
+        ]
+    },
+    {
         "name": "ChatGPT Prompts by Keywords Everywhere",
         "categories": [
             "AI"
@@ -1029,6 +1070,19 @@
         "keywords": [
             "ai",
             "prompts"
+        ]
+    },
+    {
+        "name": "ChatWithCloud",
+        "categories": [
+            "AI"
+        ],
+        "description": "CLI allowing you to interact with AWS Cloud using human language inside your Terminal thanks to generative AI.",
+        "url": "https://chatwithcloud.ai",
+        "keywords": [
+            "ai",
+            "cloud",
+            "aws"
         ]
     },
     {
@@ -2495,6 +2549,22 @@
         "url": "https://dhiwise.com/"
     },
     {
+        "name": "DirectoryKit",
+        "description": "Ready to use template for your Directory",
+        "categories": [
+            "Template",
+            "Programming"
+        ],
+        "url": "https://www.directorykit.xyz",
+        "keywords": [
+            "directory",
+            "template",
+            "javascript",
+            "development tool",
+            "boilerplate"
+        ]
+    },
+    {
         "name": "Divize",
         "categories": [
             "Code Challenge",
@@ -2512,6 +2582,29 @@
         ],
         "description": "The React codebase generator. Divjoy handles all the integration details. From routing to React hooks, you'll have everything you need to build something great.",
         "url": "https://divjoy.com/"
+    },
+    {
+        "name": "Documind AI",
+        "categories": [
+            "AI"
+        ],
+        "description": "Documind AI is a new and advanced chat with pdf tool. It uses GPT4 turbo and advanced vector search to give accurate answers.",
+        "url": "https://documind.chat",
+        "keywords": [
+            "chatpdf",
+            "documind",
+            "chatwithpdf",
+            "aipdfchat"
+        ]
+    },
+    {
+        "name": "Docusaurus",
+        "categories": [
+            "Documentation",
+            "Blog"
+        ],
+        "description": "An optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.",
+        "url": "https://docusaurus.io"
     },
     {
         "name": "DOM Events",
@@ -2824,6 +2917,15 @@
         "url": "https://elements.envato.com/"
     },
     {
+        "name": "Enveloop",
+        "categories": [
+            "Email",
+            "Design"
+        ],
+        "description": "Design, host, and send emails and texts. All from one place - with a simple API.",
+        "url": "https://enveloop.com/"
+    },
+    {
         "name": "Epic React",
         "categories": [
             "Learn",
@@ -2871,6 +2973,14 @@
         ],
         "description": "Match command-line arguments to their help text.",
         "url": "https://explainshell.com/"
+    },
+    {
+        "name": "ExtendsClass",
+        "categories": [
+            "Tooling"
+        ],
+        "description": "Test realistic data generator supports JSON, CSV, SQL, and XML formats, along with an API mocking tool.",
+        "url": "https://extendsclass.com/csv-generator.html"
     },
     {
         "name": "F5Bot",
@@ -3391,6 +3501,20 @@
         "url": "https://freetools.site/"
     },
     {
+        "name": "FridayGPT",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Fast and Native ChatGPT mac app. Access ChatGPT instantly on top of any app or website.",
+        "url": "https://www.fridaygpt.app/",
+        "keywords": [
+            "chatgpt",
+            "mac",
+            "prompts"
+        ]
+    },
+    {
         "name": "Front End Happy Hour",
         "categories": [
             "Podcast",
@@ -3644,6 +3768,14 @@
         ],
         "description": "Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.",
         "url": "https://training.github.com/"
+    },
+    {
+        "name": "Gitbook",
+        "categories": [
+            "Documentation"
+        ],
+        "description": "GitBook is a knowledge management tool for engineering teams. It simplifies knowledge sharing, with docs-as-code support and AI-powered search & insights.",
+        "url": "https://gitbook.com"
     },
     {
         "name": "GitHub Pages",
@@ -3964,6 +4096,14 @@
         ],
         "description": "There are many companies giving out free swag for Hacktoberfest and this list seeks to find them all!",
         "url": "https://hacktoberfestswaglist.com/"
+    },
+    {
+        "name": "Haikei",
+        "categories": [
+            "Illustration"
+        ],
+        "description": "A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more!",
+        "url": "https://app.haikei.app"
     },
     {
         "name": "Happy Hues",
@@ -4390,6 +4530,24 @@
         "url": "https://indieworldwide.co/"
     },
     {
+        "name": "IndiesReadIt",
+        "description": "IndiesReadIt is a curated book directory for indiehackers, solopreneurs, and entrepreneurs. Discover books on skills, business management, and personal development.",
+        "categories": [
+            "Learn",
+            "Book"
+        ],
+        "url": "https://IndiesRead.it",
+        "keywords": [
+            "books",
+            "ebooks",
+            "audio-books",
+            "directory",
+            "indiehacker",
+            "indie",
+            "read"
+        ]
+    },
+    {
         "name": "Insomnia",
         "categories": [
             "API Building"
@@ -4575,6 +4733,21 @@
         ],
         "description": "🃏 Delightful JavaScript Testing.",
         "url": "https://jestjs.io/"
+    },
+    {
+        "name": "Jobicy",
+        "description": "Jobicy is an online career platform that bridges the gap between talented professionals seeking remote career opportunities and innovative companies offering such positions.",
+        "categories": [
+            "Job",
+            "Remote"
+        ],
+        "url": "https://jobicy.com",
+        "keywords": [
+            "remote jobs",
+            "remote work",
+            "jobs",
+            "employment"
+        ]
     },
     {
         "name": "Joblist.app",
@@ -5124,6 +5297,14 @@
         "url": "https://looka.com"
     },
     {
+        "name": "Lorem Picsum",
+        "categories": [
+            "Image"
+        ],
+        "description": "Lorem Ipsum... but for photos",
+        "url": "https://picsum.photos"
+    },
+    {
         "name": "Lost Type Co-op",
         "categories": [
             "Font"
@@ -5235,6 +5416,29 @@
         ],
         "description": "Each week, discover royalty-free illustrations to power up your projects. Use them in a commercial or non-commercial way.",
         "url": "https://www.manypixels.co/gallery/"
+    },
+    {
+        "name": "Marblism",
+        "description": "Generate a SaaS boilerplate from a prompt",
+        "categories": [
+            "AI",
+            "Code Generator"
+        ],
+        "url": "https://marblism.com",
+        "keywords": [
+            "code generator",
+            "ai",
+            "boilerplate",
+            "dev tool"
+        ]
+    },
+    {
+        "name": "Markdown Guide",
+        "categories": [
+            "Cheatsheet"
+        ],
+        "description": " A free and open-source reference guide that explains how to use Markdown.",
+        "url": "https://markdownguide.org"
     },
     {
         "name": "Marko Denic",
@@ -5656,6 +5860,19 @@
         "url": "https://www.offen.dev/"
     },
     {
+        "name": "OkJob",
+        "categories": [
+            "Job"
+        ],
+        "description": "4 day Week Job Board",
+        "keywords": [
+            "Flexible work schedule",
+            "Work-life balance",
+            "Remote work options"
+        ],
+        "url": "https://okjob.io/"
+    },
+    {
         "name": "One Page Love",
         "categories": [
             "Design",
@@ -5664,6 +5881,16 @@
         ],
         "description": "One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.",
         "url": "https://onepagelove.com/"
+    },
+    {
+        "name": "One.com",
+        "categories": [
+            "Domain",
+            "Hosting",
+            "Email"
+        ],
+        "description": "Web hosting, Domain, Hosting & E-mail",
+        "url": "https://one.com"
     },
     {
         "name": "OnlineWebFonts",
@@ -6397,6 +6624,15 @@
         "url": "https://readme.so/"
     },
     {
+        "name": "Realtime Colors",
+        "categories": [
+            "Color",
+            "Design"
+        ],
+        "description": "Visualize your colors and fonts on a real website.",
+        "url": "https://www.realtimecolors.com"
+    },
+    {
         "name": "reddit",
         "categories": [
             "Forum"
@@ -6559,6 +6795,15 @@
         ],
         "description": "A web developer blog by Rene Rehme. This blog is about front- and backend techniques.",
         "url": "https://renerehme.dev/"
+    },
+    {
+        "name": "Resend",
+        "categories": [
+            "Email",
+            "Marketing"
+        ],
+        "description": "The best email API to reach humans instead of spam folders. Build, test, and deliver transactional emails at scale.",
+        "url": "https://resend.com/"
     },
     {
         "name": "Reshot",
@@ -6848,6 +7093,15 @@
         "url": "https://seoblueprint.com/"
     },
     {
+        "name": "SEO Gets",
+        "categories": [
+            "SEO",
+            "Marketing"
+        ],
+        "description": "SEO Get is an alternative to Google Search Console performance reports. Minimalist and simple to use. Get actionable insights in minutes.",
+        "url": "https://seogets.com/"
+    },
+    {
         "name": "SEO Powersuite",
         "categories": [
             "SEO"
@@ -6953,6 +7207,21 @@
         ],
         "description": "A weekly podcast about just building websites from Dave Rupert and Chris Coyier.",
         "url": "https://shoptalkshow.com/"
+    },
+    {
+        "name": "Shots",
+        "keywords": [
+            "mockup",
+            "design",
+            "social",
+            "marketing"
+        ],
+        "categories": [
+            "Prototyping",
+            "Screenshot"
+        ],
+        "description": "Create amazing mockups with an image, from a website to a product, personalize any aspect of the outcome.",
+        "url": "https://shots.so/"
     },
     {
         "name": "Shutterstock",
@@ -7548,6 +7817,20 @@
         "url": "https://tabler-icons.io/"
     },
     {
+        "name": "Tailanimista",
+        "categories": [
+            "Animation"
+        ],
+        "description": "Animista, but for Tailwind CSS. Easily generate beautiful animations!",
+        "keywords": [
+            "animation",
+            "tailwind",
+            "css",
+            "tailwind css"
+        ],
+        "url": "https://tail-animista.vercel.app"
+    },
+    {
         "name": "Tailor Brands",
         "categories": [
             "Logo"
@@ -7991,6 +8274,21 @@
             "landing pages",
             "portfolio",
             "personal site"
+        ]
+    },
+    {
+        "name": "Tweet Detective",
+        "categories": [
+            "Twitter",
+            "AI"
+        ],
+        "description": "Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content",
+        "url": "https://www.tweetdetective.com/",
+        "keywords": [
+            "twitter",
+            "social media",
+            "ai detection",
+            "ai text"
         ]
     },
     {

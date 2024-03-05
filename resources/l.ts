@@ -302,6 +302,12 @@ export const resources: Resource[] = [
         url: 'https://looka.com',
     },
     {
+        name: 'Lorem Picsum',
+        categories: ['Image'],
+        description: 'Lorem Ipsum... but for photos',
+        url: 'https://picsum.photos',
+    },
+    {
         name: 'Lost Type Co-op',
         categories: ['Font'],
         description: 'Lost Type is a collaborative digital type foundry.',

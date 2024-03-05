@@ -254,6 +254,14 @@ export const resources: Resource[] = [
         url: 'https://dhiwise.com/',
     },
     {
+        name: 'DirectoryKit',
+        description: 'Ready to use template for your Directory',
+        categories: ['Template', 'Programming'],
+        url: 'https://www.directorykit.xyz',
+        keywords: ['directory', 'template', 'javascript', 'development tool', 'boilerplate'],
+    },
+
+    {
         name: 'Divize',
         categories: ['Code Challenge', 'Learn', 'Programming'],
         description: 'Learn, Write, Master: HTML/CSS Through Real UI Challenges.',
@@ -265,6 +273,20 @@ export const resources: Resource[] = [
         description:
             "The React codebase generator. Divjoy handles all the integration details. From routing to React hooks, you'll have everything you need to build something great.",
         url: 'https://divjoy.com/',
+    },
+    {
+        name: 'Documind AI',
+        categories: ['AI'],
+        description: 'Documind AI is a new and advanced chat with pdf tool. It uses GPT4 turbo and advanced vector search to give accurate answers.',
+        url: 'https://documind.chat',
+        keywords: ['chatpdf', 'documind', 'chatwithpdf', 'aipdfchat'], 
+    },
+    {
+        name: 'Docusaurus',
+        categories: ['Documentation', 'Blog'],
+        description:
+            'An optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.',
+        url: 'https://docusaurus.io',
     },
     {
         name: 'DOM Events',

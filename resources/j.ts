@@ -67,6 +67,13 @@ export const resources: Resource[] = [
         url: 'https://jestjs.io/',
     },
     {
+        name: 'Jobicy',
+        description: 'Jobicy is an online career platform that bridges the gap between talented professionals seeking remote career opportunities and innovative companies offering such positions.',
+        categories: ['Job', 'Remote'],
+        url: 'https://jobicy.com',
+        keywords: ['remote jobs', 'remote work', 'jobs', 'employment'],
+    },
+    {
         name: 'Joblist.app',
         categories: ['Job'],
         description: 'A Job Board for Tech Enthusiasts.',

@@ -113,6 +113,12 @@ export const resources: Resource[] = [
         url: 'https://readme.so/',
     },
     {
+        name: 'Realtime Colors',
+        categories: ['Color', 'Design'],
+        description: 'Visualize your colors and fonts on a real website.',
+        url: 'https://www.realtimecolors.com',
+    },
+    {
         name: 'reddit',
         categories: ['Forum'],
         description:
@@ -227,6 +233,12 @@ export const resources: Resource[] = [
         categories: ['Newsletter', 'Programming'],
         description: "Rendezvous with cassidoo, probably the best newsletter you'll ever read.",
         url: 'https://cassidoo.co/newsletter/',
+    },
+    {
+        name: 'Resend',
+        categories: ['Email', 'Marketing'],
+        description: 'The best email API to reach humans instead of spam folders. Build, test, and deliver transactional emails at scale.',
+        url: 'https://resend.com/',
     },
     {
         name: 'Reshot',

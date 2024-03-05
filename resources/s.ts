@@ -86,6 +86,12 @@ export const resources: Resource[] = [
         url: 'https://seoblueprint.com/',
     },
     {
+        name: 'SEO Gets',
+        categories: ['SEO', 'Marketing'],
+        description: 'SEO Get is an alternative to Google Search Console performance reports. Minimalist and simple to use. Get actionable insights in minutes.',
+        url: 'https://seogets.com/',
+    },
+    {
         name: 'SEO Powersuite',
         categories: ['SEO'],
         description:
@@ -179,6 +185,13 @@ export const resources: Resource[] = [
         categories: ['Podcast', 'Programming'],
         description: 'A weekly podcast about just building websites from Dave Rupert and Chris Coyier.',
         url: 'https://shoptalkshow.com/',
+    },
+    {
+        name: 'Shots',
+        keywords: ['mockup', 'design', 'social', 'marketing'],
+        categories: ['Prototyping', 'Screenshot'],
+        description: 'Create amazing mockups with an image, from a website to a product, personalize any aspect of the outcome.',
+        url: 'https://shots.so/',
     },
     {
         name: 'Shutterstock',
