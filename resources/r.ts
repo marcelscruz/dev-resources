@@ -276,6 +276,13 @@ export const resources: Resource[] = [
         url: 'https://www.resumemaker.online/',
     },
     {
+        name: 'Resmume',
+        categories: ['Resume'],
+        description: 'Craft the Perfect Resume with AI-Powered Resume Builder.',
+        keywords: ['resume', 'builder', 'ai', 'templates'],
+        url: 'https://resmume.com/',
+    },
+    {
         name: 'Resume Now',
         categories: ['Resume'],
         description:
