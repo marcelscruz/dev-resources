@@ -79,9 +79,10 @@ export const resources: Resource[] = [
     {
         name: 'Chatclient AI',
         categories: ['AI'],
-        description: 'Build Custom AI Chatbot for Your Website. Chatclient helps you with creating your own custom AI Chatbot based on your website and company data, just like ChatGPT. Seamlessly integrate it as a widget on your website.',
+        description:
+            'Build Custom AI Chatbot for Your Website. Chatclient helps you with creating your own custom AI Chatbot based on your website and company data, just like ChatGPT. Seamlessly integrate it as a widget on your website.',
         url: 'https://chatclient.ai',
-        keywords: ['ai', 'chatbots', "custom chatgpt", "ai agents],
+        keywords: ['ai', 'chatbots', 'custom chatgpt', 'ai agents'],
     },
     {
         name: 'ChatGPT Prompts by Keywords Everywhere',
@@ -310,8 +311,7 @@ export const resources: Resource[] = [
     {
         name: 'CodeLobster',
         categories: ['Editor', 'Programming'],
-        description:
-            'CodeLobster is free cross-platform editor with plug-ins for all popular JS and PHP frameworks.',
+        description: 'CodeLobster is free cross-platform editor with plug-ins for all popular JS and PHP frameworks.',
         url: 'https://codelobster.com/',
         keywords: ['html', 'css', 'javascript', 'php', 'editor', 'code', 'ide', 'codelobster'],
     },
