@@ -1,5 +1,5 @@
 {
-"count": 833,
+"count": 834,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5198,6 +5198,24 @@
         ],
         "description": "Learn to code through real-life projects in less than 4 hours.",
         "url": "https://www.likeiamfive.com/"
+    },
+    {
+        "name": "Lilybank AI",
+        "categories": [
+            "AI",
+            "Template",
+            "Marketing"
+        ],
+        "description": "At Lilybank AI, we provide a range of tools to boost your online content creation.",
+        "url": "https://lilybankai.com",
+        "keywords": [
+            "content",
+            "templates",
+            "voiceovers",
+            "speech-to-text",
+            "image generator",
+            "transcriptions"
+        ]
     },
     {
         "name": "Line Icon Pack",
