@@ -218,14 +218,7 @@ export const resources: Resource[] = [
         categories: ['AI', 'Template', 'Marketing'],
         description: 'At Lilybank AI, we provide a range of tools to boost your online content creation.',
         url: 'https://lilybankai.com',
-        keywords: [
-            'content',
-            'templates',
-            'voiceovers',
-            'speech-to-text',
-            'image generator',
-            'transcriptions',
-        ],
+        keywords: ['content', 'templates', 'voiceovers', 'speech-to-text', 'image generator', 'transcriptions'],
     },
     {
         name: 'Like I Am Five',
