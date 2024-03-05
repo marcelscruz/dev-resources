@@ -148,6 +148,12 @@ export const resources: Resource[] = [
         url: 'https://elements.envato.com/',
     },
     {
+        name: 'Enveloop',
+        categories: ['Email', 'Design'],
+        description: 'Design, host, and send emails and texts. All from one place - with a simple API.',
+        url: 'https://enveloop.com/',
+    },
+    {
         name: 'Epic React',
         categories: ['Learn', 'Programming'],
         description: 'Strap in and take your React applications to the next level.',
@@ -186,5 +192,11 @@ export const resources: Resource[] = [
         categories: ['Terminal'],
         description: 'Match command-line arguments to their help text.',
         url: 'https://explainshell.com/',
+    },
+    {
+        name: 'ExtendsClass',
+        categories: ['Tooling'],
+        description: 'Test realistic data generator supports JSON, CSV, SQL, and XML formats, along with an API mocking tool.',
+        url: 'https://extendsclass.com/csv-generator.html',
     },
 ]

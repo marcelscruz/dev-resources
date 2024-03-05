@@ -60,6 +60,13 @@ export const resources: Resource[] = [
         keywords: ['react', 'hooks', 'dark theme', 'accessibility', 'components', 'hooks', 'ui', 'library'],
     },
     {
+        name: 'Marblism',
+        description: 'Generate a SaaS boilerplate from a prompt',
+        categories: ['AI', 'Code Generator'],
+        url: 'https://marblism.com',
+        keywords: ['code generator', 'ai', 'boilerplate', 'dev tool'],
+    },
+    {
         name: 'Marko Denic',
         categories: ['Personal Website'],
         description: 'Web Developer, Public speaker, IT trainer and consultant.',

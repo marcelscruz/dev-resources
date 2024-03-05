@@ -430,6 +430,13 @@ export const resources: Resource[] = [
         url: 'https://freetools.site/',
     },
     {
+        name: 'FridayGPT',
+        categories: ['AI', "Productivity"],
+        description: 'Fast and Native ChatGPT mac app. Access ChatGPT instantly on top of any app or website.',
+        url: 'https://www.fridaygpt.app/',
+        keywords: ['chatgpt', 'mac', 'prompts']
+    },
+    {
         name: 'Front End Happy Hour',
         categories: ['Podcast', 'Programming'],
         description:

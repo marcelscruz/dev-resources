@@ -96,6 +96,14 @@ export const resources: Resource[] = [
         url: 'https://aijobs.app',
     },
     {
+        name: 'AI Directories',
+        categories: ['AI','SEO','Marketing'],
+        description:
+            "All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories",
+        url: 'https://aidirectori.es/',
+        keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
+    },
+    {
         name: 'Airtable',
         categories: ['Database'],
         description:
@@ -220,6 +228,13 @@ export const resources: Resource[] = [
         description:
             'Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use.',
         url: 'https://aws.amazon.com/',
+    },
+    {
+        name: 'AWS Serverless kit (best practices)',
+        categories: ['Serverless', 'Productivity', 'Cloud Computing'],
+        description:
+            'AWS has never been easier with the Scale to Zero Kit. The kit comes with everything you need. Deploy fast, scale, and pay only for what you use',
+        url: 'https://scaletozeroaws.com/',
     },
     {
         name: 'Awesome a11y',
