@@ -83,8 +83,8 @@ export const resources: Resource[] = [
             'Build Custom AI Chatbot for Your Website. Chatclient helps you with creating your own custom AI Chatbot based on your website and company data, just like ChatGPT. Seamlessly integrate it as a widget on your website.',
         url: 'https://chatclient.ai',
         keywords: ['ai', 'chatbots', 'custom chatgpt', 'ai agents'],
-     },
-     {
+    },
+    {
         name: 'ChatWithCloud',
         categories: ['AI'],
         description:
