@@ -172,6 +172,15 @@ export const resources: Resource[] = [
         url: 'https://leetcode.com/',
     },
     {
+        name: 'LectureKit',
+        categories: ['AI', 'Editor', 'Tooling'],
+        description:
+            'Faster & simpler way to build course platforms, making it easy for developers to build course platforms.',
+        url: 'https://lecturekit.io',
+
+        keywords: ['ai', 'courses', 'api'],
+    },
+    {
         name: "Let's Enhance",
         categories: ['Editor', 'Image'],
         description:
