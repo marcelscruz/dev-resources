@@ -90,7 +90,7 @@ export const resources: Resource[] = [
     {
         name: 'BigDevSoon',
         categories: ['Learn', 'Programming'],
-        description: 'Code Figma-backed projects with AI insights. Dive into gamified learning.',
+        description: '20+ must-have coding projects for your portfolio.',
         url: 'https://bigdevsoon.me',
         keywords: ['Figma', 'AI', 'Gamified Learning', 'Code', 'Projects', 'Insights', 'Learn', 'Programming'],
     },
