@@ -194,9 +194,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'The PR Creator',
-        categories: ['AI', 'Programming'],
-        description:
-            'Tool that creates custom press releases and includes a comment section for the users',
+        categories: ['Marketing'],
+        description: 'Tool that creates custom press releases and includes a comment section for the users',
         url: 'https://theprcreator.com/',
 
         keywords: ['productivity', 'pr', 'SaaS', 'Artificial Intelligence'],
@@ -357,10 +356,11 @@ export const resources: Resource[] = [
     },
     {
         name: 'Tweet Detective',
-        categories: ['Twitter', "AI"],
-        description: 'Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content',
+        categories: ['Twitter', 'AI'],
+        description:
+            'Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content',
         url: 'https://www.tweetdetective.com/',
-        keywords: ['twitter', 'social media', "ai detection", "ai text"],
+        keywords: ['twitter', 'social media', 'ai detection', 'ai text'],
     },
     {
         name: 'TypeLit',
