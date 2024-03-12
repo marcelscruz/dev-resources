@@ -547,6 +547,15 @@ export const resources: Resource[] = [
         url: 'https://templatedeck.com/stride-html-template.html',
     },
     {
+        name: 'Stryng',
+        categories: ['Editor', 'SEO', 'Writing'],
+        description:
+            'Stryng is an AI-powered platform designed to improve the process of content creation. It is both an article generator and editor, equipped with an AI Assistant that helps perfecting high-quality articles.',
+        url: 'https://stryng.io',
+
+        keywords: ['seo', 'keyword research', 'content marketing', 'content creation', 'content optimization', 'copywriting', 'article generator'],
+    },
+    {
         name: 'StyleShout',
         categories: ['Template'],
         description:
