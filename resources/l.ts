@@ -78,6 +78,23 @@ export const resources: Resource[] = [
         url: 'https://www.lapa.ninja/',
     },
     {
+        name: 'Laradir',
+        categories: ['Job', 'Freelance', 'Remote'],
+        description: 'The biggest directory of Laravel engineers. Find your next role or gig. Laradir is a reverse job board, so teams reach out to you!',
+        url: 'https://laradir.com/',
+        keywords: [
+            'laravel developers',
+            'laravel freelancers',
+            'directory',
+            'collaborators',
+            'mentor',
+            'full-time',
+            'part-time',
+            'hybrid',
+            'remote',
+        ]
+    },
+    {
         name: 'Larajobs',
         categories: ['Job'],
         description: 'Since 2014, the #1 Laravel job board connecting the best jobs with top talent.',
