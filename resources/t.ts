@@ -344,6 +344,14 @@ export const resources: Resource[] = [
         keywords: ['webhook'],
     },
     {
+        name: 'TrollyAI',
+        description: 'Create professional SEO articles, 2x faster',
+        categories: ['SEO','Writing','Marketing'],
+        url: 'https://trolly.ai/',
+        keywords: ['seo', 'ai-powered content creation', 'seo optimization tool', 'bulk article generator', 'content writer'],
+    },
+
+    {
         name: 'Tutoriac',
         categories: ['Website Builder'],
         description:

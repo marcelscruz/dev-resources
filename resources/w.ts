@@ -138,6 +138,14 @@ export const resources: Resource[] = [
         url: 'https://www.webpagetest.org/',
     },
     {
+        name: 'WebscrapeAI',
+        description: 'Scrape any website without code using AI',
+        categories: ['Scraping','AI'],
+        url: 'https://webscrapeai.com',
+        keywords: ['scraper', 'no code', 'ai web scraper', 'web scraper', 'visual web scraper'],
+    },
+
+    {
         name: 'Website Authority Checker',
         categories: ['SEO'],
         description:
