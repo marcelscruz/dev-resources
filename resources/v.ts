@@ -66,6 +66,14 @@ export const resources: Resource[] = [
         url: 'https://code.visualstudio.com/',
     },
     {
+        name: 'Vue Cheatsheet',
+        categories: ['Cheatsheet'],
+        description:
+            'An interactive cheatsheet of Vue, Vue Router and, Pinia.',
+        keywords: ['VueJS', 'vue cheatsheet', 'vue', 'Free cheatsheet', 'Opensource'],
+        url: 'https://vue-cheatsheet.themeselection.com/',
+    },
+    {
         name: 'Vue.js devtools',
         description: 'Browser devtools extension for debugging Vue.js applications',
         categories: ['Browser', 'Extension'],
