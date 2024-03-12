@@ -200,6 +200,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'The PR Creator',
+        categories: ['Marketing'],
+        description: 'Tool that creates custom press releases and includes a comment section for the users',
+        url: 'https://theprcreator.com/',
+
+        keywords: ['productivity', 'pr', 'SaaS', 'Artificial Intelligence'],
+    },
+    {
         name: 'The Ultimate Guide to React Native Optimization',
         categories: ['Book', 'Programming'],
         description:
