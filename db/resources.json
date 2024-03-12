@@ -1,5 +1,5 @@
 {
-"count": 834,
+"count": 835,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8749,6 +8749,21 @@
         ],
         "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.",
         "url": "https://code.visualstudio.com/"
+    },
+    {
+        "name": "Vue Cheatsheet",
+        "categories": [
+            "Cheatsheet"
+        ],
+        "description": "An interactive cheatsheet of Vue, Vue Router and, Pinia.",
+        "keywords": [
+            "VueJS",
+            "vue cheatsheet",
+            "vue",
+            "Free cheatsheet",
+            "Opensource"
+        ],
+        "url": "https://vue-cheatsheet.themeselection.com/"
     },
     {
         "name": "Vue.js devtools",
