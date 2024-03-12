@@ -1,5 +1,5 @@
 {
-"count": 837,
+"count": 839,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8315,6 +8315,23 @@
         ]
     },
     {
+        "name": "TrollyAI",
+        "description": "Create professional SEO articles, 2x faster",
+        "categories": [
+            "SEO",
+            "Writing",
+            "Marketing"
+        ],
+        "url": "https://trolly.ai/",
+        "keywords": [
+            "seo",
+            "ai-powered content creation",
+            "seo optimization tool",
+            "bulk article generator",
+            "content writer"
+        ]
+    },
+    {
         "name": "Tutoriac",
         "categories": [
             "Website Builder"
@@ -8999,6 +9016,22 @@
             "Page Speed"
         ],
         "url": "https://www.webpagetest.org/"
+    },
+    {
+        "name": "WebscrapeAI",
+        "description": "Scrape any website without code using AI",
+        "categories": [
+            "Scraping",
+            "AI"
+        ],
+        "url": "https://webscrapeai.com",
+        "keywords": [
+            "scraper",
+            "no code",
+            "ai web scraper",
+            "web scraper",
+            "visual web scraper"
+        ]
     },
     {
         "name": "Website Authority Checker",
