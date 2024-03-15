@@ -191,6 +191,14 @@ export const resources: Resource[] = [
         url: 'https://intersectionobserver.io',
     },
     {
+    name: 'Interview Solver',
+    description: 'Ace your live coding interviews with our AI Copilot',
+    categories: ['Interview', 'Job', 'AI'],
+    url: 'https://interviewsolver.com',
+    keywords: ['interview helper', 'interview solver', 'ai copilot', 'career'],
+    },
+
+    {
         name: 'iOS Dev Jobs',
         categories: ['Job'],
         description:
