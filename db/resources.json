@@ -1,5 +1,5 @@
 {
-"count": 841,
+"count": 840,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2441,25 +2441,6 @@
             "web development design javascript tutorials"
         ],
         "url": "https://www.youtube.com/c/DevEd/"
-    },
-    {
-        "name": "Dev Employ",
-        "categories": [
-            "Job"
-        ],
-        "description": "Hand-picked jobs for developers. Find the best developer job opportunities in some of the best companies.",
-        "url": "https://devemploy.com",
-        "keywords": [
-            "jobs",
-            "developers",
-            "software engineering",
-            "web development",
-            "javascript",
-            "typescript",
-            "html",
-            "css",
-            "python"
-        ]
     },
     {
         "name": "devChallenges",
