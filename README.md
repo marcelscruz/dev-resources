@@ -1128,6 +1128,7 @@ Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://
  <img src="https://www.google.com/s2/favicons?domain=https://tatask.com/&sz=128" width="16" /> | [Tatask](https://tatask.com/) | Break down your biggest goals into actionable tasks. Tatask is the zen productivity app from the future. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://untools.co/&sz=128" width="16" /> | [Untools](https://untools.co/) | Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://usethekeyboard.com/&sz=128" width="16" /> | [Use The Keyboard](https://usethekeyboard.com/) | A collection of keyboard shortcuts for Mac apps, Windows programs, and a variety of websites. |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://watchmyssl.com/&sz=128" width="16" /> | [Watch my SSL](https://watchmyssl.com/) | A service to monitor the expiration date of your SSL certificates so that your websites never go unexpectedly down. |  |
 
 **[⬆ Back to Index](#index)**
 
