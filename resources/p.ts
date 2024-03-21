@@ -96,6 +96,15 @@ export const resources: Resource[] = [
         keywords: ['image generation', 'professional photos'],
     },
     {
+        name: 'Pieces',
+        categories: ['AI','Programming','Productivity'],
+        description: 
+            'On-device copilot to capture, enrich, and reuse useful materials, streamline collaboration.',
+        url: 'https://pieces.app/',
+        keywords: ['Productivity', 'Copilot', 'easy snippet search'],
+        
+    },
+    {
         name: 'Pingdom',
         categories: ['Performance'],
         description: 'Full Page Test Analysis.',
