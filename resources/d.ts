@@ -178,25 +178,6 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/c/DevEd/',
     },
     {
-        name: 'Dev Employ',
-        categories: ['Job'],
-        description:
-            'Hand-picked jobs for developers. Find the best developer job opportunities in some of the best companies.',
-        url: 'https://devemploy.com',
-
-        keywords: [
-            'jobs',
-            'developers',
-            'software engineering',
-            'web development',
-            'javascript',
-            'typescript',
-            'html',
-            'css',
-            'python',
-        ],
-    },
-    {
         name: 'Developer tea',
         categories: ['Podcast', 'Programming'],
         description: 'A podcast for developers designed to fit inside your tea break',
@@ -277,9 +258,10 @@ export const resources: Resource[] = [
     {
         name: 'Documind AI',
         categories: ['AI'],
-        description: 'Documind AI is a new and advanced chat with pdf tool. It uses GPT4 turbo and advanced vector search to give accurate answers.',
+        description:
+            'Documind AI is a new and advanced chat with pdf tool. It uses GPT4 turbo and advanced vector search to give accurate answers.',
         url: 'https://documind.chat',
-        keywords: ['chatpdf', 'documind', 'chatwithpdf', 'aipdfchat'], 
+        keywords: ['chatpdf', 'documind', 'chatwithpdf', 'aipdfchat'],
     },
     {
         name: 'Docusaurus',
