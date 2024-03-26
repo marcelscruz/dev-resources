@@ -78,6 +78,13 @@ export const resources: Resource[] = [
         url: 'https://tech-blogs.dev/',
     },
     {
+        name: 'Templated',
+        categories: ['Editor', 'Design', 'Marketing'],
+        description:
+            'Automate your images and PDFs with a simple API. Generate social media visuals, banners, PDFs and more with our API and no-code integrations.',
+        url: 'https://templated.io/',
+    },
+    {
         name: 'TemplateMo',
         categories: ['Template'],
         description:
@@ -346,9 +353,15 @@ export const resources: Resource[] = [
     {
         name: 'TrollyAI',
         description: 'Create professional SEO articles, 2x faster',
-        categories: ['SEO','Writing','Marketing'],
+        categories: ['SEO', 'Writing', 'Marketing'],
         url: 'https://trolly.ai/',
-        keywords: ['seo', 'ai-powered content creation', 'seo optimization tool', 'bulk article generator', 'content writer'],
+        keywords: [
+            'seo',
+            'ai-powered content creation',
+            'seo optimization tool',
+            'bulk article generator',
+            'content writer',
+        ],
     },
 
     {
