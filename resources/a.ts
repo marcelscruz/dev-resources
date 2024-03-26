@@ -148,6 +148,12 @@ export const resources: Resource[] = [
         url: 'https://cloud.google.com/apigee',
     },
     {
+        name: 'ApparenceKit',
+        categories: ['Template', 'Tooling', 'Programming'],
+        description:'A flutter template to create iOS, Android and web app in days. Generate all the common boilerplate code and customize the design to fit your brand. ',
+        url: 'https://apparencekit.dev/',
+    },
+    {
         name: 'AppCode',
         categories: ['Editor', 'Programming'],
         description:
