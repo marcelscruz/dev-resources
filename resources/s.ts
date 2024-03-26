@@ -307,6 +307,12 @@ export const resources: Resource[] = [
         url: 'https://www.sketch.com/',
     },
     {
+        name: 'Skelementor',
+        categories: ['Template', 'UI', 'Design'],
+        description: 'The largest ready-to-use, free Elementor component library',
+        url: 'https://skelementor.com',
+    },
+    {
         name: 'Slow & Steady',
         categories: ['Podcast', 'Startup'],
         description:
