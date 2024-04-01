@@ -1,5 +1,5 @@
 {
-"count": 851,
+"count": 852,
 "data": [
     {
         "name": "1001 Fonts",
@@ -677,6 +677,36 @@
             "JavaScript",
             "HTML",
             "CSS"
+        ]
+    },
+    {
+        "name": "Bing Pros",
+        "categories": [
+            "Freelance"
+        ],
+        "description": "Bing Pros is a gig service platform that connects Bing Search users to providers who want higher profit for their services.",
+        "url": "https://www.bing.com/pros",
+        "keywords": [
+            "Graphic Design",
+            "Web Development",
+            "SEO Services",
+            "Accounting",
+            "IT Support",
+            "Data Management",
+            "Marketing",
+            "Interior Design",
+            "Software Development",
+            "Virtual Event Planning",
+            "Content Writing",
+            "Video & Audio",
+            "Life Coaching",
+            "Virtual Assistant Services",
+            "Translation Services",
+            "Travel Planners",
+            "Business Consulting",
+            "Employment Agent Services",
+            "Career Counseling",
+            "Health and Wellness Coaching"
         ]
     },
     {
