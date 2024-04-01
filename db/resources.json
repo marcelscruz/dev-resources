@@ -1,5 +1,5 @@
 {
-"count": 843,
+"count": 844,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5152,6 +5152,21 @@
             "web3",
             "web3 developer",
             "web3 developer course"
+        ]
+    },
+    {
+        "name": "LectureKit",
+        "categories": [
+            "AI",
+            "Editor",
+            "Tooling"
+        ],
+        "description": "Faster & simpler way to build course platforms, making it easy for developers to build course platforms.",
+        "url": "https://lecturekit.io",
+        "keywords": [
+            "ai",
+            "courses",
+            "api"
         ]
     },
     {
