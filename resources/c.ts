@@ -777,6 +777,13 @@ export const resources: Resource[] = [
         url: 'https://copy-paste-css.com/',
     },
     {
+        name: 'Corbado',
+        categories: ['Authentication', 'Library', 'Programming'],
+        description: 'Passkey-first authentication for developers',
+        keywords: ['passkeys', 'php', 'react', 'next.js', 'auth', ' user management', 'react auth', 'next.js auth', 'javascript auth'],
+        url: 'https://www.corbado.com',
+    },
+    {
         name: 'CoreUI',
         categories: ['Template'],
         description:
