@@ -1,5 +1,5 @@
 {
-"count": 844,
+"count": 848,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5593,6 +5593,16 @@
         "url": "http://medium.com/"
     },
     {
+        "name": "MeetMoji",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Writing"
+        ],
+        "description": "Live Polls for Google Slides with an AI Assistant ",
+        "url": "https://meetmoji.com"
+    },
+    {
         "name": "Metaverse Jobs",
         "categories": [
             "Job"
@@ -7442,6 +7452,16 @@
         "url": "https://sizzy.co/"
     },
     {
+        "name": "Skelementor",
+        "categories": [
+            "Template",
+            "UI",
+            "Design"
+        ],
+        "description": "The largest ready-to-use, free Elementor component library",
+        "url": "https://skelementor.com"
+    },
+    {
         "name": "Sketch",
         "categories": [
             "Design",
@@ -8443,6 +8463,21 @@
         ]
     },
     {
+        "name": "Tweet Detective",
+        "categories": [
+            "Twitter",
+            "AI"
+        ],
+        "description": "Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content",
+        "url": "https://www.tweetdetective.com/",
+        "keywords": [
+            "twitter",
+            "social media",
+            "ai detection",
+            "ai text"
+        ]
+    },
+    {
         "name": "Tweet Hunter",
         "categories": [
             "Marketing",
@@ -9167,6 +9202,15 @@
         ],
         "description": "The easiest way to identify fonts on web pages.",
         "url": "https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en"
+    },
+    {
+        "name": "Where to host my app?",
+        "categories": [
+            "Hosting",
+            "Cloud Computing"
+        ],
+        "description": "Find the best place to host your application based on its tech stack.",
+        "url": "https://wheretohostmy.app/"
     },
     {
         "name": "Windframe",
