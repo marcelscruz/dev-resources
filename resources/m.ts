@@ -119,18 +119,17 @@ export const resources: Resource[] = [
         url: 'https://developer.mozilla.org/en-US/',
     },
     {
-        name: 'MeetMoji',
-        categories: ['AI', 'Productivity','Writing'],
-        description:
-            'Live Polls for Google Slides with an AI Assistant ',
-        url: 'https://meetmoji.com',
-    },
-    {
         name: 'Medium',
         categories: ['Blog', 'Writing'],
         description:
             'Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.',
         url: 'http://medium.com/',
+    },
+    {
+        name: 'MeetMoji',
+        categories: ['AI', 'Productivity', 'Writing'],
+        description: 'Live Polls for Google Slides with an AI Assistant ',
+        url: 'https://meetmoji.com',
     },
     {
         name: 'Metaverse Jobs',
