@@ -1,5 +1,5 @@
 {
-"count": 848,
+"count": 849,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6216,6 +6216,21 @@
         ],
         "description": "PhpStorm is a perfect PHP IDE for working with Symfony, Laravel, Drupal, WordPress, Laminas, Magento, Joomla!, CakePHP, Yii, and other frameworks.",
         "url": "https://www.jetbrains.com/phpstorm/"
+    },
+    {
+        "name": "Pieces",
+        "categories": [
+            "AI",
+            "Programming",
+            "Productivity"
+        ],
+        "description": "On-device copilot to capture, enrich, and reuse useful materials, streamline collaboration.",
+        "url": "https://pieces.app/",
+        "keywords": [
+            "Productivity",
+            "Copilot",
+            "easy snippet search"
+        ]
     },
     {
         "name": "Pingdom",
