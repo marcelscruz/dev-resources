@@ -1,5 +1,5 @@
 {
-"count": 841,
+"count": 842,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1951,6 +1951,27 @@
         ],
         "description": "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds!",
         "url": "https://www.copy.ai/"
+    },
+    {
+        "name": "Corbado",
+        "categories": [
+            "Authentication",
+            "Library",
+            "Programming"
+        ],
+        "description": "Passkey-first authentication for developers",
+        "keywords": [
+            "passkeys",
+            "php",
+            "react",
+            "next.js",
+            "auth",
+            " user management",
+            "react auth",
+            "next.js auth",
+            "javascript auth"
+        ],
+        "url": "https://www.corbado.com"
     },
     {
         "name": "CoreUI",
