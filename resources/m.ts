@@ -139,6 +139,12 @@ export const resources: Resource[] = [
         url: 'http://medium.com/',
     },
     {
+        name: 'MeetMoji',
+        categories: ['AI', 'Productivity', 'Writing'],
+        description: 'Live Polls for Google Slides with an AI Assistant ',
+        url: 'https://meetmoji.com',
+    },
+    {
         name: 'Metaverse Jobs',
         categories: ['Job'],
         description: 'Search for metaverse jobs in augmented reality, virtual reality, NFT, crypto, gaming, and more.',
