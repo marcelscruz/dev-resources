@@ -119,8 +119,7 @@ export const resources: Resource[] = [
         categories: ['Freelance'],
         description:
             'Bing Pros is a gig service platform that connects Bing Search users to providers who want higher profit for their services.',
-        url: 'https://www.bing.com/pros/onboarding?utmsource=fbrep&mkt=en-us',
-
+        url: 'https://www.bing.com/pros',
         keywords: [
             'Graphic Design',
             'Web Development',
