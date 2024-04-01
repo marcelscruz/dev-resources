@@ -1,5 +1,5 @@
 {
-"count": 842,
+"count": 843,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6853,6 +6853,20 @@
         ],
         "description": "Find tons of curated, non-stocky images for you to use in your next creative project, for free! Free for commercial use. No attribution required.",
         "url": "https://www.reshot.com/"
+    },
+    {
+        "name": "Resmume",
+        "categories": [
+            "Resume"
+        ],
+        "description": "Craft the Perfect Resume with AI-Powered Resume Builder.",
+        "keywords": [
+            "resume",
+            "builder",
+            "ai",
+            "templates"
+        ],
+        "url": "https://resmume.com/"
     },
     {
         "name": "Responsively",
