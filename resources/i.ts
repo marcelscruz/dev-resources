@@ -232,6 +232,17 @@ export const resources: Resource[] = [
         url: 'https://isometriclove.com/',
     },
     {
+        name: 'ItineraryTrip',
+        description: 'Itinerary travel planning assistant powered by AI Travel agent.',
+        categories: ['AI'],
+        keywords: [
+            'travel',
+            'ai agent',
+            'travel ai agent',
+            'trip itineraries by ai'],
+        url: 'https://itinerarytrip.com/'
+    },
+    {
         name: 'Illustrations-figma',
         description:
             'More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.',
