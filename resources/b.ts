@@ -12,7 +12,13 @@ export const resources: Resource[] = [
         name: 'BacklinkGPT',
         categories: ['SEO', 'Marketing', 'AI'],
         description: 'Automate Your Link-Building with AI-Personalized Outreach.',
-        url: 'https://www.backlinkgpt.com'
+        url: 'https://www.backlinkgpt.com',
+        keywords: [
+            'link building',
+            'SEO',
+            'backlink',
+            'outreach',
+        ],
     },
     {
         name: 'Balsamiq',
