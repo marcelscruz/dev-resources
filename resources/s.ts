@@ -313,6 +313,22 @@ export const resources: Resource[] = [
         url: 'https://skelementor.com',
     },
     {
+        name: 'SkimAI',
+        categories: ['Email', 'AI', 'Startup'],
+        description: 'The ultimate AI copilot for your email inbox',
+        keywords: [
+            'email',
+            'assistant',
+            'skimai',
+            'email copilot',
+            'email ai',
+            'automatic draft'
+            'autoamtic label',
+            'smart inbox
+        ],
+        url: 'https://skim.page',
+    },
+    {
         name: 'Slow & Steady',
         categories: ['Podcast', 'Startup'],
         description:
