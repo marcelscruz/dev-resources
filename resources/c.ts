@@ -780,7 +780,17 @@ export const resources: Resource[] = [
         name: 'Corbado',
         categories: ['Authentication', 'Library', 'Programming'],
         description: 'Passkey-first authentication for developers',
-        keywords: ['passkeys', 'php', 'react', 'next.js', 'auth', ' user management', 'react auth', 'next.js auth', 'javascript auth'],
+        keywords: [
+            'passkeys',
+            'php',
+            'react',
+            'next.js',
+            'auth',
+            ' user management',
+            'react auth',
+            'next.js auth',
+            'javascript auth',
+        ],
         url: 'https://www.corbado.com',
     },
     {
@@ -847,13 +857,6 @@ export const resources: Resource[] = [
         description:
             'As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.',
         url: 'https://cssgradient.io/',
-    },
-    {
-        name: 'CSS Layout',
-        description: 'A collection of popular layouts and patterns made with CSS',
-        categories: ['Code Snippet', 'Programming'],
-        keywords: ['CSS layout', 'CSS pattern', 'CSS UI pattern'],
-        url: 'https://csslayout.io/',
     },
     {
         name: 'CSS Layout News',
