@@ -181,7 +181,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'UseArticle',
-        categories: ['Productivity', 'Blog', 'Marketing', 'SEO'],
+        categories: ['Blog', 'Marketing', 'SEO'],
         description: 'UseArticle is the simplest and cheapest blogging platform you will ever need for your business.',
         url: 'https://usearticle.com/',
         keywords: ['Blogging platform', 'Blogs', 'SEO'],
