@@ -147,6 +147,14 @@ export const resources: Resource[] = [
         url: 'https://www.testing-whiz.com/',
     },
     {
+        name: 'TestDriver',
+        categories: ['Programming', 'Testing'],
+        description:
+            'AI QA agent for comprehensive testing & debugging. Boost productivity, ensure accuracy, and save time with this versatile tool',
+        url: 'https://www.testdriver.ai',
+        keywords: ['developer tools', 'debugging', 'engineering'],
+    },
+    {
         name: 'Themeselection',
         categories: ['Template'],
         description:
