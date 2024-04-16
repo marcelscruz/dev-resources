@@ -3830,6 +3830,24 @@
         "url": "https://pages.github.com/"
     },
     {
+        "name": "GitLoop",
+        "categories": [
+            "Code Generator",
+            "AI"
+        ],
+        "description": "AI that understands your codebase and repositories",
+        "url": "https://www.gitloop.com",
+        "keywords": [
+            "Coding",
+            "Codebase",
+            "Repositories",
+            "Code Review",
+            "Git",
+            "Commits",
+            "Pull Requests"
+        ]
+    },
+    {
         "name": "GoatCounter",
         "categories": [
             "Analytics"
@@ -8551,21 +8569,6 @@
             "landing pages",
             "portfolio",
             "personal site"
-        ]
-    },
-    {
-        "name": "Tweet Detective",
-        "categories": [
-            "Twitter",
-            "AI"
-        ],
-        "description": "Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content",
-        "url": "https://www.tweetdetective.com/",
-        "keywords": [
-            "twitter",
-            "social media",
-            "ai detection",
-            "ai text"
         ]
     },
     {
