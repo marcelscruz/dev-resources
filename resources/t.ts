@@ -338,6 +338,14 @@ export const resources: Resource[] = [
         keywords: ['website builder video tutorials', 'google sites', 'landing pages', 'portfolio', 'personal site'],
     },
     {
+        name: 'Tweet Detective',
+        categories: ['Twitter', 'AI'],
+        description:
+            'Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content',
+        url: 'https://www.tweetdetective.com/',
+        keywords: ['twitter', 'social media', 'ai detection', 'ai text'],
+    },
+    {
         name: 'Tweet Hunter',
         categories: ['Marketing', 'Twitter'],
         description:
@@ -345,13 +353,6 @@ export const resources: Resource[] = [
         url: 'https://tweethunter.io',
 
         keywords: ['twitter', 'growth', 'scheduling', 'social media'],
-    },
-    {
-        name: 'Tweet Detective',
-        categories: ['Twitter', "AI"],
-        description: 'Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content',
-        url: 'https://www.tweetdetective.com/',
-        keywords: ['twitter', 'social media', "ai detection", "ai text"],
     },
     {
         name: 'TypeLit',

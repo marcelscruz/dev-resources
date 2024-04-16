@@ -45,8 +45,7 @@ export const resources: Resource[] = [
     {
         name: 'GitLoop',
         categories: ['Code Generator', 'AI'],
-        description:
-            'AI that understands your codebase and repositories',
+        description: 'AI that understands your codebase and repositories',
         url: 'https://www.gitloop.com',
         keywords: ['Coding', 'Codebase', 'Repositories', 'Code Review', 'Git', 'Commits', 'Pull Requests'],
     },
