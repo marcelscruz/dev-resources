@@ -9,6 +9,18 @@ export const resources: Resource[] = [
         url: 'https://ahrefs.com/backlink-checker',
     },
     {
+        name: 'BacklinkGPT',
+        categories: ['SEO', 'Marketing', 'AI'],
+        description: 'Automate Your Link-Building with AI-Personalized Outreach.',
+        url: 'https://www.backlinkgpt.com',
+        keywords: [
+            'link building',
+            'SEO',
+            'backlink',
+            'outreach',
+        ],
+    },
+    {
         name: 'Balsamiq',
         categories: ['Design', 'Prototyping', 'UI'],
         description:
