@@ -180,6 +180,13 @@ export const resources: Resource[] = [
         url: 'https://usethekeyboard.com/',
     },
     {
+        name: 'UseArticle',
+        categories: ['Productivity', 'Blog', 'Marketing', 'SEO'],
+        description: 'UseArticle is the simplest and cheapest blogging platform you will ever need for your business.',
+        url: 'https://usearticle.com/',
+        keywords: ['Blogging platform', 'Blogs', 'SEO'],
+    },
+    {
         name: 'useHooks',
         categories: ['Code Snippet', 'Programming'],
         description: 'Easy to understand React Hook recipes.',
