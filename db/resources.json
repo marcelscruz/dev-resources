@@ -1,5 +1,5 @@
 {
-"count": 854,
+"count": 855,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7542,6 +7542,26 @@
         ],
         "description": "Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.",
         "url": "https://www.sketch.com/"
+    },
+    {
+        "name": "SkimAI",
+        "categories": [
+            "Email",
+            "AI",
+            "Startup"
+        ],
+        "description": "The ultimate AI copilot for your email inbox",
+        "keywords": [
+            "email",
+            "assistant",
+            "skimai",
+            "email copilot",
+            "email ai",
+            "automatic draft",
+            "autoamtic label",
+            "smart inbox"
+        ],
+        "url": "https://skim.page"
     },
     {
         "name": "Slow & Steady",
