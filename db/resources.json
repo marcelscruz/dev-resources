@@ -1,5 +1,5 @@
 {
-"count": 853,
+"count": 854,
 "data": [
     {
         "name": "1001 Fonts",
@@ -534,6 +534,22 @@
         ],
         "description": "With the world's biggest index of live backlinks (over 15 trillion), Ahrefs Backlink Checker will show you the most complete backlink profile for any website.",
         "url": "https://ahrefs.com/backlink-checker"
+    },
+    {
+        "name": "BacklinkGPT",
+        "categories": [
+            "SEO",
+            "Marketing",
+            "AI"
+        ],
+        "description": "Automate Your Link-Building with AI-Personalized Outreach.",
+        "url": "https://www.backlinkgpt.com",
+        "keywords": [
+            "link building",
+            "SEO",
+            "backlink",
+            "outreach"
+        ]
     },
     {
         "name": "Balsamiq",
