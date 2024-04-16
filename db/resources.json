@@ -1,5 +1,5 @@
 {
-"count": 852,
+"count": 851,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2102,20 +2102,6 @@
         ],
         "description": "As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.",
         "url": "https://cssgradient.io/"
-    },
-    {
-        "name": "CSS Layout",
-        "description": "A collection of popular layouts and patterns made with CSS",
-        "categories": [
-            "Code Snippet",
-            "Programming"
-        ],
-        "keywords": [
-            "CSS layout",
-            "CSS pattern",
-            "CSS UI pattern"
-        ],
-        "url": "https://csslayout.io/"
     },
     {
         "name": "CSS Layout News",
