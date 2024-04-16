@@ -1,5 +1,5 @@
 {
-"count": 855,
+"count": 856,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8885,6 +8885,21 @@
         ],
         "description": "A collection of keyboard shortcuts for Mac apps, Windows programs, and a variety of websites.",
         "url": "https://usethekeyboard.com/"
+    },
+    {
+        "name": "UseArticle",
+        "categories": [
+            "Blog",
+            "Marketing",
+            "SEO"
+        ],
+        "description": "UseArticle is the simplest and cheapest blogging platform you will ever need for your business.",
+        "url": "https://usearticle.com/",
+        "keywords": [
+            "Blogging platform",
+            "Blogs",
+            "SEO"
+        ]
     },
     {
         "name": "useHooks",
