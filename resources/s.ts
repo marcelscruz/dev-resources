@@ -88,7 +88,8 @@ export const resources: Resource[] = [
     {
         name: 'SEO Gets',
         categories: ['SEO', 'Marketing'],
-        description: 'SEO Get is an alternative to Google Search Console performance reports. Minimalist and simple to use. Get actionable insights in minutes.',
+        description:
+            'SEO Get is an alternative to Google Search Console performance reports. Minimalist and simple to use. Get actionable insights in minutes.',
         url: 'https://seogets.com/',
     },
     {
@@ -190,7 +191,8 @@ export const resources: Resource[] = [
         name: 'Shots',
         keywords: ['mockup', 'design', 'social', 'marketing'],
         categories: ['Prototyping', 'Screenshot'],
-        description: 'Create amazing mockups with an image, from a website to a product, personalize any aspect of the outcome.',
+        description:
+            'Create amazing mockups with an image, from a website to a product, personalize any aspect of the outcome.',
         url: 'https://shots.so/',
     },
     {
@@ -234,10 +236,21 @@ export const resources: Resource[] = [
     },
     {
         name: 'SinglebaseCloud',
-        description: 'AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.',
+        description:
+            'AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.',
         categories: ['Authentication', 'Database', 'Startup'],
         url: 'https://singlebase.cloud',
-        keywords: ['developer tools', 'database', 'backend', 'baas','vectordb','nosql','documentdb','authentication','ai'],
+        keywords: [
+            'developer tools',
+            'database',
+            'backend',
+            'baas',
+            'vectordb',
+            'nosql',
+            'documentdb',
+            'authentication',
+            'ai',
+        ],
     },
 
     {
@@ -311,6 +324,22 @@ export const resources: Resource[] = [
         categories: ['Template', 'UI', 'Design'],
         description: 'The largest ready-to-use, free Elementor component library',
         url: 'https://skelementor.com',
+    },
+    {
+        name: 'SkimAI',
+        categories: ['Email', 'AI', 'Startup'],
+        description: 'The ultimate AI copilot for your email inbox',
+        keywords: [
+            'email',
+            'assistant',
+            'skimai',
+            'email copilot',
+            'email ai',
+            'automatic draft',
+            'autoamtic label',
+            'smart inbox',
+        ],
+        url: 'https://skim.page',
     },
     {
         name: 'Slow & Steady',
@@ -567,7 +596,15 @@ export const resources: Resource[] = [
             'Stryng is an AI-powered platform designed to improve the process of content creation. It is both an article generator and editor, equipped with an AI Assistant that helps perfecting high-quality articles.',
         url: 'https://stryng.io',
 
-        keywords: ['seo', 'keyword research', 'content marketing', 'content creation', 'content optimization', 'copywriting', 'article generator'],
+        keywords: [
+            'seo',
+            'keyword research',
+            'content marketing',
+            'content creation',
+            'content optimization',
+            'copywriting',
+            'article generator',
+        ],
     },
     {
         name: 'StyleShout',
