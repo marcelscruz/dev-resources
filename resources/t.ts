@@ -399,14 +399,6 @@ export const resources: Resource[] = [
         keywords: ['twitter', 'growth', 'scheduling', 'social media'],
     },
     {
-        name: 'Tweet Detective',
-        categories: ['Twitter', 'AI'],
-        description:
-            'Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content',
-        url: 'https://www.tweetdetective.com/',
-        keywords: ['twitter', 'social media', 'ai detection', 'ai text'],
-    },
-    {
         name: 'TypeLit',
         categories: ['Typing'],
         description: 'Practice typing by retyping entire novels.',
