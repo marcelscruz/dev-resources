@@ -43,6 +43,14 @@ export const resources: Resource[] = [
         url: 'https://training.github.com/',
     },
     {
+        name: 'GitLoop',
+        categories: ['Code Generator', 'AI'],
+        description:
+            'AI that understands your codebase and repositories',
+        url: 'https://www.gitloop.com',
+        keywords: ['Coding', 'Codebase', 'Repositories', 'Code Review', 'Git', 'Commits', 'Pull Requests'],
+    },
+    {
         name: 'Gcore Basic',
         categories: ['Hosting'],
         description: 'Virtual machines for various tasks: from hosting a cooking blog to making a backup server.',
