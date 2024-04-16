@@ -76,6 +76,13 @@ export const resources: Resource[] = [
         keywords: ['auth', 'authorization', 'authz', 'access control'],
     },
     {
+        name: 'Watch my SSL',
+        categories: ['Security', 'Domain'],
+        description: 'A service to monitor the expiration date of your SSL certificates so that your websites never go unexpectedly down.',
+        url: 'https://watchmyssl.com/',
+        keywords: ['ssl', 'monitoring', 'certificate', 'expiration', 'dns'],
+    },
+    {
         name: 'WAVE',
         categories: ['Accessibility'],
         description:
