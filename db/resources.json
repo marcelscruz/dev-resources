@@ -1,5 +1,5 @@
 {
-"count": 852,
+"count": 853,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8136,6 +8136,20 @@
         ],
         "description": "Become a test automation superstar! 🌟.",
         "url": "https://testautomationu.applitools.com/"
+    },
+    {
+        "name": "TestDriver",
+        "categories": [
+            "Programming",
+            "Testing"
+        ],
+        "description": "AI QA agent for comprehensive testing & debugging. Boost productivity, ensure accuracy, and save time with this versatile tool",
+        "url": "https://www.testdriver.ai",
+        "keywords": [
+            "developer tools",
+            "debugging",
+            "engineering"
+        ]
     },
     {
         "name": "Testing Accessibility",
