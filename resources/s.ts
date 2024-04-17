@@ -129,6 +129,13 @@ export const resources: Resource[] = [
         url: 'https://www.seo-go.top',
     },
     {
+        name: 'SerpApi',
+        categories: ['Scraping'],
+        description:
+            'SerpApi provides a simple API to scrape Google and other search engines.',
+        url: 'https://serpapi.com/',
+    },
+    {
         name: 'Serverless Stack',
         categories: ['API Building', 'Serverless'],
         description: 'Serverless Stack (SST) is a framework that makes it easy to build serverless applications.',
