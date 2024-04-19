@@ -165,6 +165,14 @@ export const resources: Resource[] = [
         url: 'https://www.postman.com/',
     },
     {
+        name: 'Postlyy',
+        categories: ['AI', 'Productivity'],
+        description:
+            'All in one platform to create (WITH AI), schedule, and analyze content on X and LinkedIn',
+        url: 'https://postlyy.com/',
+        keywords: ['ai', 'social media', 'content creation'],
+    },
+    {
         name: 'PoweredbyAI',
         description: 'A directory with 100+ AI tools to help you with your daily tasks',
         categories: ['AI'],
