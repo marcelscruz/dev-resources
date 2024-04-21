@@ -447,6 +447,12 @@ export const resources: Resource[] = [
         url: 'https://softwaresocial.dev/',
     },
     {
+        name: 'Softwium',
+        categories: ['Tooling'],
+        description: 'Random data generator supports CSV, JSON, SQL, and XML formats.',
+        url: 'https://softwium.com/mockium/',
+    },
+    {
         name: 'SoloLearn',
         categories: ['Learn', 'Programming'],
         description: 'Join Now to learn the basics or advance your existing skills.',
