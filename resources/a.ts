@@ -214,6 +214,13 @@ export const resources: Resource[] = [
         url: 'https://authenticjobs.com/',
     },
     {
+        name: 'Auto Streamer',
+        description: 'Learn & teach anything on demand. Create course websites in minutes.',
+        categories: ['AI', 'Website Builder', 'Learn'],
+        url: 'https://www.autostreamer.live/',
+        keywords: ['education', 'course creation', 'interactive learning', 'live streaming'],
+    },
+    {
         name: 'Avodocs',
         categories: ['Legal'],
         description: "Free legal documents for startups. Get your company's legal documents in minutes.",
