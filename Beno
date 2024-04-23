@@ -1,0 +1,10 @@
+
+
+{
+    name: 'Beno',
+    description:
+        'AI-powered SEO promotion. Beno is like having a smart assistant that helps your business get noticed online and improve outreach by jumping into relevant chats and mentioning your services as a real person would, saving you time and money.',
+    categories: ['SEO', 'Analytics', 'Marketing'],
+    url: 'https://beno.one/',
+    keywords: ['SEO', 'Analytics', 'Marketing', 'Social Media Marketing'], 
+},
