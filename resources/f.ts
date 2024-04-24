@@ -424,6 +424,13 @@ export const resources: Resource[] = [
         keywords: ['freepik', 'vectors', 'illustration', 'photos'],
     },
     {
+        name: 'Freeter',
+        categories: ['Productivity', 'Tooling'],
+        description:
+            "Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, MacOS. Free and Open-Source.",
+        url: 'https://freeter.io/',
+    },
+    {
         name: 'FreeTools.site',
         categories: ['Image'],
         description: 'Free online tools - convert or edit documents, images, audio, video and more.',
