@@ -573,12 +573,7 @@ export const resources: Resource[] = [
         description: 'An open-source UI component library inspired by Tailwind and AntDesign.',
         url: 'https://ui.supabase.io/',
     },
-    {
-        name: 'Supaboost',
-        categories: ['SaaS', 'Template', 'Starter Kit'],
-        description: 'Supaboost is an all-in-one SaaS Starter Kit, aiming to provide developers with the right tools to save hours of setting up their new application. Supaboost comes readily available with user management, roles and access based on roles, billing/subscriptions, frontend layout and SQL statements to create your a new backend with security today..',
-        url: 'https://www.supaboost.dev',
-    },
+
     {
         name: 'supastarter',
         categories: ['Startup', 'Template'],
