@@ -1,5 +1,5 @@
 {
-"count": 856,
+"count": 857,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7302,6 +7302,14 @@
         ],
         "description": "Stop wasting time with clunky, siloed SEO work. Get every campaign on the same page with a tool that helps you work better, faster, and based on results.",
         "url": "https://www.seotisfy.com"
+    },
+    {
+        "name": "SerpApi",
+        "categories": [
+            "Scraping"
+        ],
+        "description": "SerpApi provides a simple API to scrape Google and other search engines.",
+        "url": "https://serpapi.com/"
     },
     {
         "name": "Serverless Stack",
