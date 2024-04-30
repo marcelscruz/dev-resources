@@ -1,5 +1,5 @@
 {
-"count": 71,
+"count": 73,
 "data": [
     {
         "name": "Accessibility",
@@ -206,6 +206,10 @@
         "slug": "resume"
     },
     {
+        "name": "SaaS",
+        "slug": "saas"
+    },
+    {
         "name": "Scraping",
         "slug": "scraping"
     },
@@ -224,6 +228,10 @@
     {
         "name": "Serverless",
         "slug": "serverless"
+    },
+    {
+        "name": "Starter Kit",
+        "slug": "starter-kit"
     },
     {
         "name": "Startup",
