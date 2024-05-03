@@ -132,6 +132,13 @@ export const resources: Resource[] = [
         keywords: ['books', 'ebooks', 'audio-books', 'directory', 'indiehacker', 'indie', 'read'],
     },
     {
+        name: 'Indie Starter',
+        categories: ['Startup', 'Template'],
+        description:
+            'Build unlimited SaaS products with Indie Starter Kit. Remove the hassle and save days of work.',
+        url: 'https://indie-starter.dev',
+    },
+    {
         name: 'Indie Worldwide',
         categories: ['Startup'],
         description: 'The worldwide virtual meetup of indie hackers, founders, and makers.',
