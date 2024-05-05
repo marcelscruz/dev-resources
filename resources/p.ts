@@ -212,6 +212,13 @@ export const resources: Resource[] = [
         url: 'https://www.producthunt.com/',
     },
     {
+        name: 'ProductiveHub',
+        categories: ['Productivity', 'Blog'],
+        description:
+            "Discover top apps and websites on Productive Hub that enhance your productivity and help you beat procrastination, streamlining your journey to peak productivity.",
+        url: 'https://www.productive-hub.com/',
+    },
+    {
         name: 'Programiz',
         categories: ['Learn', 'Programming'],
         description:
