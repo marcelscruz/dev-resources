@@ -1,5 +1,5 @@
 {
-"count": 861,
+"count": 862,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4591,6 +4591,15 @@
         ],
         "description": "Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.",
         "url": "https://www.indiehackers.com/"
+    },
+    {
+        "name": "Indie Starter",
+        "categories": [
+            "Startup",
+            "Template"
+        ],
+        "description": "Build unlimited SaaS products with Indie Starter Kit. Remove the hassle and save days of work.",
+        "url": "https://indie-starter.dev"
     },
     {
         "name": "Indie Worldwide",
