@@ -31,6 +31,12 @@ export const resources: Resource[] = [
         url: 'https://iconic.app',
     },
     {
+        name: 'Iconify',
+        categories: ['Icon'],
+        description: 'Modern icon framework that allows you to use over 50,000 icons from popular icon sets.',
+        url: 'https://icon-sets.iconify.design/',
+    },
+    {
         name: 'iconmonstr',
         categories: ['Icon'],
         description: 'Free simple icons for your next project.',
