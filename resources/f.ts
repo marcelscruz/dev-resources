@@ -227,6 +227,14 @@ export const resources: Resource[] = [
         url: 'https://www.fontget.com/',
     },
     {
+        name: 'Font Share',
+        categories: ['Font'],
+        description:
+            'Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all.',
+        keywords: ['fonts', 'free fonts', 'download fonts'],
+        url: 'https://www.fontshare.com/',
+    },
+    {
         name: 'Font Space',
         categories: ['Font'],
         description:
