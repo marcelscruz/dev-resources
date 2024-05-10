@@ -219,6 +219,14 @@ export const resources: Resource[] = [
         url: 'https://fontawesome.com',
     },
     {
+        name: 'Font Get',
+        categories: ['Font'],
+        description:
+            'Download Free Fonts for your website, Mac, Windows, Linux, iOS and Android. Try our best in class Font Generator for every kind of font!',
+        keywords: ['fonts', 'free fonts', 'download fonts', 'font generator', 'famous font'],
+        url: 'https://www.fontget.com/',
+    },
+    {
         name: 'Font Space',
         categories: ['Font'],
         description:
@@ -427,7 +435,7 @@ export const resources: Resource[] = [
         name: 'Freeter',
         categories: ['Productivity', 'Tooling'],
         description:
-            "Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, MacOS. Free and Open-Source.",
+            'Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, MacOS. Free and Open-Source.',
         url: 'https://freeter.io/',
     },
     {
@@ -438,10 +446,10 @@ export const resources: Resource[] = [
     },
     {
         name: 'FridayGPT',
-        categories: ['AI', "Productivity"],
+        categories: ['AI', 'Productivity'],
         description: 'Fast and Native ChatGPT mac app. Access ChatGPT instantly on top of any app or website.',
         url: 'https://www.fridaygpt.app/',
-        keywords: ['chatgpt', 'mac', 'prompts']
+        keywords: ['chatgpt', 'mac', 'prompts'],
     },
     {
         name: 'Front End Happy Hour',
