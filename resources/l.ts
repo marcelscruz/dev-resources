@@ -80,7 +80,8 @@ export const resources: Resource[] = [
     {
         name: 'Laradir',
         categories: ['Job', 'Freelance', 'Remote'],
-        description: 'The biggest directory of Laravel engineers. Find your next role or gig. Laradir is a reverse job board, so teams reach out to you!',
+        description:
+            'The biggest directory of Laravel engineers. Find your next role or gig. Laradir is a reverse job board, so teams reach out to you!',
         url: 'https://laradir.com/',
         keywords: [
             'laravel developers',
@@ -92,7 +93,7 @@ export const resources: Resource[] = [
             'part-time',
             'hybrid',
             'remote',
-        ]
+        ],
     },
     {
         name: 'Larajobs',
@@ -346,6 +347,13 @@ export const resources: Resource[] = [
             'The motion design tool for product teams. Create and edit lottie animations, ship to your apps and websites.',
         url: 'https://www.lottielab.com/',
         keywords: ['animation', 'motion'],
+    },
+    {
+        name: 'Lucide',
+        categories: ['Icon'],
+        description: 'Beautiful & consistent icon toolkit made by the community.',
+        url: 'https://lucide.dev',
+        keywords: ['icons', 'package', 'svg', 'react', 'vue', 'angular', 'svelte', 'web components'],
     },
     {
         name: 'Lukasz Adam',
