@@ -548,6 +548,14 @@ export const resources: Resource[] = [
         url: 'https://startbootstrap.com/snippets/',
     },
     {
+        name: 'StartKit.AI',
+        description: 'Boilerplate for quickly building AI products',
+        categories: ['AI', 'Productivity', 'Template'],
+        url: 'https://startkit.ai',
+        keywords: ['boilerplate', 'startup', 'starterkit', 'ai'],
+    },
+
+    {
         name: 'Startup Jobs',
         categories: ['Job'],
         description:
