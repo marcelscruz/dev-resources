@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Radix',
+        categories: ['Icon', 'UI', 'Design', 'Color'],
+        description: 'Components, icons, and colors for building high‑quality, accessible UI. Free and open-source.',
+        url: 'https://www.radix-ui.com/',
+        keywords: ['icons', 'icon', 'design', 'color', 'ui', 'components'],
+    },
+    {
         name: 'RankWizard',
         categories: ['SEO'],
         description:
