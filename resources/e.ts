@@ -181,6 +181,14 @@ export const resources: Resource[] = [
         url: 'https://www.everyonehatesmarketers.com/',
     },
     {
+        name: 'everythingfonts',
+        categories: ['Font'],
+        description:
+            'Everything Fonts is a place for font tools/font information/font download/font-face hosting  and one of a kind font market place.',
+        keywords: ['font'],
+        url: 'https://everythingfonts.com/',
+    },
+    {
         name: 'Exercism',
         categories: ['Code Challenge'],
         description:
@@ -196,7 +204,8 @@ export const resources: Resource[] = [
     {
         name: 'ExtendsClass',
         categories: ['Tooling'],
-        description: 'Test realistic data generator supports JSON, CSV, SQL, and XML formats, along with an API mocking tool.',
+        description:
+            'Test realistic data generator supports JSON, CSV, SQL, and XML formats, along with an API mocking tool.',
         url: 'https://extendsclass.com/csv-generator.html',
     },
 ]
