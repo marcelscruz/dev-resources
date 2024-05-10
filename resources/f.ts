@@ -227,6 +227,13 @@ export const resources: Resource[] = [
         url: 'https://www.fontget.com/',
     },
     {
+        name: 'Font Of Web',
+        categories: ['Font'],
+        description: 'Identify and download website fonts.',
+        keywords: ['fonts', 'font identifier', 'font finder', 'free fonts', 'download fonts'],
+        url: 'https://www.fontofweb.com/',
+    },
+    {
         name: 'Font Share',
         categories: ['Font'],
         description:
