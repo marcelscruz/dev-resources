@@ -58,6 +58,13 @@ export const resources: Resource[] = [
         url: 'https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en',
     },
     {
+        name: 'React Icons',
+        categories: ['Icon'],
+        description: 'Include popular icons in your React projects easly with react-icons.',
+        url: 'https://react-icons.github.io/react-icons/',
+        keywords: ['icons', 'react'],
+    },
+    {
         name: 'React Jobs',
         categories: ['Job'],
         description:
@@ -237,7 +244,8 @@ export const resources: Resource[] = [
     {
         name: 'Resend',
         categories: ['Email', 'Marketing'],
-        description: 'The best email API to reach humans instead of spam folders. Build, test, and deliver transactional emails at scale.',
+        description:
+            'The best email API to reach humans instead of spam folders. Build, test, and deliver transactional emails at scale.',
         url: 'https://resend.com/',
     },
     {
