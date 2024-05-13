@@ -16,7 +16,7 @@
 
  To add a resource, check the [contributing guide](CONTRIBUTING.md).
 
-Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis).
+Looking for public APIs? Visit [github.com/marcelscruz/public-apis](https://github.com/marcelscruz/public-apis).
 
  ### Total resources: 864
 
