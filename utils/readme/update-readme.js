@@ -23,7 +23,7 @@ const warning =
 
 const contributionGuide = 'To add a resource, check the [contributing guide](CONTRIBUTING.md).\n\n'
 
-const publicApisLink = `Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis).\n\n`
+const publicApisLink = `Looking for public APIs? Visit [github.com/marcelscruz/public-apis](https://github.com/marcelscruz/public-apis).\n\n`
 
 const resourcesCount = `### Total resources: ${resourcesList.length}\n\n`
 
