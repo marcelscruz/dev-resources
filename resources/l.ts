@@ -80,7 +80,8 @@ export const resources: Resource[] = [
     {
         name: 'Laradir',
         categories: ['Job', 'Freelance', 'Remote'],
-        description: 'The biggest directory of Laravel engineers. Find your next role or gig. Laradir is a reverse job board, so teams reach out to you!',
+        description:
+            'The biggest directory of Laravel engineers. Find your next role or gig. Laradir is a reverse job board, so teams reach out to you!',
         url: 'https://laradir.com/',
         keywords: [
             'laravel developers',
@@ -92,7 +93,7 @@ export const resources: Resource[] = [
             'part-time',
             'hybrid',
             'remote',
-        ]
+        ],
     },
     {
         name: 'Larajobs',
@@ -276,7 +277,8 @@ export const resources: Resource[] = [
     {
         name: 'Linktopus',
         categories: ['Website Builder'],
-        description: 'Your own page. All your links and information in one place. Ready in minutes.',
+        description:
+            'The simplicity of a link in bio, the power of a page builder. Create your page and grow your online presence. Ready in minutes.',
         url: 'https://linktopus.co',
         keywords: ['link in bio', 'personal site', 'share links', 'linktree', 'liinks', 'bento'],
     },
