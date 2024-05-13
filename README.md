@@ -4,7 +4,11 @@
 
  <div align="center">Sponsored by</div><br/>
 
-<p align="center"><a href="https://gcore.com?utm_source=public_apis&utm_content=dev_resources_repo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/gcore-dark-mode.png" width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/gcore-light-mode.png" width="180px"><img alt="Gcore logo" src="./assets/gcore-dark-mode.png" width="180px"></picture></a></p><br/>
+<p align="center"><a href="https://gcore.com?ref=dev_resources&utm_content=dev_resources_repo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/gcore-dark-mode.png" width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/gcore-light-mode.png" width="180px"><img alt="Gcore logo" src="./assets/gcore-dark-mode.png" width="180px"></picture></a></p><br/>
+
+
+
+<p align="center"><a href="https://zenlogin.co?ref=dev_resources&utm_content=dev_resources_repo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/zenlogin.svg" width="210px"><source media="(prefers-color-scheme: light)" srcset="./assets/zenlogin.svg" width="210px"><img alt="Zenlogin logo" src="./assets/zenlogin.svg" width="210px"></picture></a></p>
 
  ---
 >❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to resources should happen within the `/resources` folder.
