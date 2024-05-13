@@ -3,11 +3,11 @@ import { Resource } from 'types'
 export const resources: Resource[] = [
     {
         name: 'Zenlogin',
-        categories: ['AI', 'Authentication', 'Email', 'Legal', 'Security'],
+        categories: ['Authentication', 'Email', 'Security'],
         description:
             'Security API which uses user agent, geolocation and AI and Machine Learning signals to notify your users when a suspicious login occurs. Sends out those familiar "We notified a new login on your account" emails. Supports Auth0 and custom integrations.',
-        url: 'https://zenlogin.co/',
-        keywords: ['threat detection', 'suspicious login detection', 'email notifications', 'emails']
+        url: 'https://zenlogin.co',
+        keywords: ['threat detection', 'suspicious login detection', 'email notifications', 'emails', 'ai', 'legal'],
     },
     {
         name: 'Zensite Subscription',
