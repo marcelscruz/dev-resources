@@ -196,6 +196,13 @@ export const resources: Resource[] = [
         url: 'https://blisk.io/',
     },
     {
+    name: 'BlogFox',
+    description: 'Generate impressive blogs from a Youtube video or SEO keywords at scale.',
+    categories: ['SEO', 'Writing', 'Blog'],
+    url: 'https://blogfox.ai',
+    keywords: ['writer', 'ai', 'article', 'marketing'], 
+    },  
+    {
         name: 'Blush',
         categories: ['Illustration'],
         description:
