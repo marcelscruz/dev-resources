@@ -1,5 +1,5 @@
 {
-"count": 864,
+"count": 869,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3938,6 +3938,17 @@
         "url": "https://fonts.google.com/"
     },
     {
+        "name": "Google Icons",
+        "categories": [
+            "Icon"
+        ],
+        "description": "Material Symbols are our newest icons consolidating over 2,500 glyphs in a single font file with a wide range of design variants.",
+        "url": "https://fonts.google.com/icons",
+        "keywords": [
+            "icons"
+        ]
+    },
+    {
         "name": "Google Search Console",
         "categories": [
             "SEO"
@@ -4461,6 +4472,26 @@
         ],
         "description": "Free, “do wtf you want with” pixel-perfect icons. New icons added every week",
         "url": "https://iconic.app"
+    },
+    {
+        "name": "Iconify",
+        "categories": [
+            "Icon"
+        ],
+        "description": "Modern icon framework that allows you to use over 50,000 icons from popular icon sets.",
+        "url": "https://icon-sets.iconify.design/",
+        "keywords": [
+            "icons",
+            "logo icons",
+            "web icons",
+            "logos",
+            "site logos",
+            "emoji",
+            "svg",
+            "maps",
+            "flags",
+            "animated icons"
+        ]
     },
     {
         "name": "iconmonstr",
@@ -5472,6 +5503,24 @@
         "keywords": [
             "animation",
             "motion"
+        ]
+    },
+    {
+        "name": "Lucide",
+        "categories": [
+            "Icon"
+        ],
+        "description": "Beautiful & consistent icon toolkit made by the community.",
+        "url": "https://lucide.dev",
+        "keywords": [
+            "icons",
+            "package",
+            "svg",
+            "react",
+            "vue",
+            "angular",
+            "svelte",
+            "web components"
         ]
     },
     {
@@ -6661,6 +6710,25 @@
         "url": "https://quokkajs.com/"
     },
     {
+        "name": "Radix",
+        "categories": [
+            "Icon",
+            "UI",
+            "Design",
+            "Color"
+        ],
+        "description": "Components, icons, and colors for building high‑quality, accessible UI. Free and open-source.",
+        "url": "https://www.radix-ui.com/",
+        "keywords": [
+            "icons",
+            "icon",
+            "design",
+            "color",
+            "ui",
+            "components"
+        ]
+    },
+    {
         "name": "RankWizard",
         "categories": [
             "SEO"
@@ -6743,6 +6811,18 @@
         ],
         "description": "Download Free React and NextJs Admin Dashboard Templates",
         "url": "https://www.wrappixel.com/templates/category/react-templates/"
+    },
+    {
+        "name": "React Icons",
+        "categories": [
+            "Icon"
+        ],
+        "description": "Include popular icons in your React projects easly with react-icons.",
+        "url": "https://react-icons.github.io/react-icons/",
+        "keywords": [
+            "icons",
+            "react"
+        ]
     },
     {
         "name": "React Jobs",
