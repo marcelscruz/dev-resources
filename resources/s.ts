@@ -31,6 +31,14 @@ export const resources: Resource[] = [
         url: 'https://2.flexiple.com/scale/all-illustrations',
     },
     {
+        name: 'Scrapfly',
+        categories: ['Scraping'],
+        description:
+            'Scrapfly is an enterprise-grade solution providing Web Scraping API that aims to simplify the scraping process by managing everything: real browser rendering, rotating proxies, and fingerprints (TLS, HTTP, browser) to bypass all major anti-bots.',
+        url: 'https://scrapfly.io',
+        keywords: ['scraping', 'screenshot', 'proxy', 'webhook', 'headless browser'],
+    },
+    {
         name: 'ScrapingBee',
         categories: ['Scraping'],
         description:
@@ -131,8 +139,7 @@ export const resources: Resource[] = [
     {
         name: 'SerpApi',
         categories: ['Scraping'],
-        description:
-            'SerpApi provides a simple API to scrape Google and other search engines.',
+        description: 'SerpApi provides a simple API to scrape Google and other search engines.',
         url: 'https://serpapi.com/',
     },
     {
@@ -656,8 +663,9 @@ export const resources: Resource[] = [
     },
     {
         name: 'Supaboost',
-        categories: ['SaaS', 'Template', 'Starter Kit'],
-        description: 'Supaboost is an all-in-one SaaS Starter Kit, aiming to provide developers with the right tools to save hours of setting up their new application. Supaboost comes readily available with user management, roles and access based on roles, billing/subscriptions, frontend layout and SQL statements to create your a new backend with security today..',
+        categories: ['Startup', 'Template'],
+        description:
+            'Supaboost is an all-in-one SaaS Starter Kit, aiming to provide developers with the right tools to save hours of setting up their new application. Supaboost comes readily available with user management, roles and access based on roles, billing/subscriptions, frontend layout and SQL statements to create your a new backend with security today..',
         url: 'https://www.supaboost.dev',
     },
     {
