@@ -1,5 +1,5 @@
 {
-"count": 870,
+"count": 874,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3003,6 +3003,17 @@
         "url": "https://www.everyonehatesmarketers.com/"
     },
     {
+        "name": "Everything Fonts",
+        "categories": [
+            "Font"
+        ],
+        "description": "Everything Fonts is a place for font tools/font information/font download/font-face hosting  and one of a kind font market place.",
+        "keywords": [
+            "font"
+        ],
+        "url": "https://everythingfonts.com/"
+    },
+    {
         "name": "Exercism",
         "categories": [
             "Code Challenge"
@@ -3295,6 +3306,49 @@
             "font awesome pro"
         ],
         "url": "https://fontawesome.com"
+    },
+    {
+        "name": "Font Get",
+        "categories": [
+            "Font"
+        ],
+        "description": "Download Free Fonts for your website, Mac, Windows, Linux, iOS and Android. Try our best in class Font Generator for every kind of font!",
+        "keywords": [
+            "fonts",
+            "free fonts",
+            "download fonts",
+            "font generator",
+            "famous font"
+        ],
+        "url": "https://www.fontget.com/"
+    },
+    {
+        "name": "Font Of Web",
+        "categories": [
+            "Font"
+        ],
+        "description": "Identify and download website fonts.",
+        "keywords": [
+            "fonts",
+            "font identifier",
+            "font finder",
+            "free fonts",
+            "download fonts"
+        ],
+        "url": "https://www.fontofweb.com/"
+    },
+    {
+        "name": "Font Share",
+        "categories": [
+            "Font"
+        ],
+        "description": "Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all.",
+        "keywords": [
+            "fonts",
+            "free fonts",
+            "download fonts"
+        ],
+        "url": "https://www.fontshare.com/"
     },
     {
         "name": "Font Space",
