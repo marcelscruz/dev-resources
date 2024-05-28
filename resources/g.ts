@@ -166,6 +166,14 @@ export const resources: Resource[] = [
         url: 'https://fonts.google.com/',
     },
     {
+        name: 'Google Icons',
+        categories: ['Icon'],
+        description:
+            'Material Symbols are our newest icons consolidating over 2,500 glyphs in a single font file with a wide range of design variants.',
+        url: 'https://fonts.google.com/icons',
+        keywords: ['icons'],
+    },
+    {
         name: 'Google Search Console',
         categories: ['SEO'],
         description:

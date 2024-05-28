@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Radix',
+        categories: ['Icon', 'UI', 'Design', 'Color'],
+        description: 'Components, icons, and colors for building high‑quality, accessible UI. Free and open-source.',
+        url: 'https://www.radix-ui.com/',
+        keywords: ['icons', 'icon', 'design', 'color', 'ui', 'components'],
+    },
+    {
         name: 'RankWizard',
         categories: ['SEO'],
         description:
@@ -56,6 +63,13 @@ export const resources: Resource[] = [
         description:
             'Adds React debugging tools to the Chrome Developer Tools. Created from revision f160547f47 on 12/4/2020.',
         url: 'https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en',
+    },
+    {
+        name: 'React Icons',
+        categories: ['Icon'],
+        description: 'Include popular icons in your React projects easly with react-icons.',
+        url: 'https://react-icons.github.io/react-icons/',
+        keywords: ['icons', 'react'],
     },
     {
         name: 'React Jobs',
@@ -237,7 +251,8 @@ export const resources: Resource[] = [
     {
         name: 'Resend',
         categories: ['Email', 'Marketing'],
-        description: 'The best email API to reach humans instead of spam folders. Build, test, and deliver transactional emails at scale.',
+        description:
+            'The best email API to reach humans instead of spam folders. Build, test, and deliver transactional emails at scale.',
         url: 'https://resend.com/',
     },
     {

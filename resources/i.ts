@@ -31,6 +31,24 @@ export const resources: Resource[] = [
         url: 'https://iconic.app',
     },
     {
+        name: 'Iconify',
+        categories: ['Icon'],
+        description: 'Modern icon framework that allows you to use over 50,000 icons from popular icon sets.',
+        url: 'https://icon-sets.iconify.design/',
+        keywords: [
+            'icons',
+            'logo icons',
+            'web icons',
+            'logos',
+            'site logos',
+            'emoji',
+            'svg',
+            'maps',
+            'flags',
+            'animated icons',
+        ],
+    },
+    {
         name: 'iconmonstr',
         categories: ['Icon'],
         description: 'Free simple icons for your next project.',
@@ -134,8 +152,7 @@ export const resources: Resource[] = [
     {
         name: 'Indie Starter',
         categories: ['Startup', 'Template'],
-        description:
-            'Build unlimited SaaS products with Indie Starter Kit. Remove the hassle and save days of work.',
+        description: 'Build unlimited SaaS products with Indie Starter Kit. Remove the hassle and save days of work.',
         url: 'https://indie-starter.dev',
     },
     {

@@ -350,6 +350,13 @@ export const resources: Resource[] = [
         keywords: ['animation', 'motion'],
     },
     {
+        name: 'Lucide',
+        categories: ['Icon'],
+        description: 'Beautiful & consistent icon toolkit made by the community.',
+        url: 'https://lucide.dev',
+        keywords: ['icons', 'package', 'svg', 'react', 'vue', 'angular', 'svelte', 'web components'],
+    },
+    {
         name: 'Lukasz Adam',
         categories: ['Illustration'],
         description:
