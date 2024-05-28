@@ -1,5 +1,5 @@
 {
-"count": 869,
+"count": 870,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7944,6 +7944,22 @@
         ],
         "description": "Trusted by tens of millions of users worldwide since 2013, Start Bootstrap develops website themes, templates, snippets, and more to help you get started on your next project!",
         "url": "https://startbootstrap.com/snippets/"
+    },
+    {
+        "name": "StartKit.AI",
+        "description": "Boilerplate for quickly building AI products",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Template"
+        ],
+        "url": "https://startkit.ai",
+        "keywords": [
+            "boilerplate",
+            "startup",
+            "starterkit",
+            "ai"
+        ]
     },
     {
         "name": "Startup Jobs",
