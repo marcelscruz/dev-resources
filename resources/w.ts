@@ -225,14 +225,6 @@ export const resources: Resource[] = [
         url: 'https://www.wrappixel.com/',
     },
     {
-        name: 'WLSpy',
-        categories: ['Marketing', 'AI'],
-        description:
-            'WLSpy helps users discover winning products by analyzing market trends and competitor strategies.',
-        keywords: ['Product Research', 'Market Analysis', 'Competitor Monitoring'],
-        url: 'https://wlspy.com',
-    },
-    {
         name: 'Writty',
         categories: ['Writing'],
         description: 'A simple writing app and text editor to help you focus on what matters.',
