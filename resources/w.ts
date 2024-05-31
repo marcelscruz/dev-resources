@@ -97,6 +97,14 @@ export const resources: Resource[] = [
         url: 'https://webcode.tools',
     },
     {
+    name: 'WebCurate Developer Tools',
+    description:
+        'A hand-curated collection of 380+ best developer tools and resources with detailed descriptions and features.',
+    categories: ['Productivity''],
+    url: 'https://webcurate.co/c/developer',
+    keywords: ['html', 'css', 'javascript', 'development'], // Optional, but used on the search feature on the website
+    },
+    {
         name: 'Web Design Inspiration',
         categories: ['Design', 'Inspiration', 'UI'],
         description:
