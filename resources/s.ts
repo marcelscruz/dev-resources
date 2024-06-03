@@ -507,6 +507,14 @@ export const resources: Resource[] = [
         url: 'https://storyset.com/',
     },
     {
+        name: 'StoryChief',
+        categories: ['Marketing', 'AI'],
+        description:
+            'Create Winning Content Strategies, powered by Data, supercharged by AI',
+        url: 'https://www.storychief.io',
+        keywords: ['SEO', 'analytics', 'content calendar', 'content strategy', 'AI copywriting', 'content collaboration'],
+    },
+    {
         name: 'Streamline Icons',
         categories: ['Icon'],
         description:
