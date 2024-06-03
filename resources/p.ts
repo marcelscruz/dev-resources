@@ -190,6 +190,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'ai tools', 'copywriting', 'image generator'],
     },
     {
+        name: 'PPResume',
+        description: 'A LaTeX based resume builder',
+        categories: ['Resume', 'Job', 'Productivity'],
+        url: 'https://ppresume.com',
+        keywords: ['cv', 'LaTeX'],
+    },
+
+    {
         name: 'Prime',
         categories: ['UI'],
         description: 'Ultimate UI Framework.',
