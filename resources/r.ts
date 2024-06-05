@@ -283,6 +283,14 @@ export const resources: Resource[] = [
         keywords: ['resume', 'builder', 'creator', 'templates'],
         url: 'https://www.resume.com/',
     },
+    {         
+        name: 'ResumeDive',         
+        description: 'A resume boosting service using AI',         
+        categories: ['Resume', 'Job', 'AI'],         
+        url: 'https://resumedive.com',         
+        keywords: [ 'career', 'cv' ],     
+    },
+
     {
         name: 'Resume Genius',
         categories: ['Resume'],
