@@ -142,6 +142,12 @@ export const resources: Resource[] = [
         url: 'https://www.indiehackers.com/',
     },
     {
+        name: "Indie UI",
+        categories:["UI", "Library"],
+        description:"UI components with variants",
+        url:"https://ui.indie-starter.dev"
+    },
+    {
         name: 'IndiesReadIt',
         description:
             'IndiesReadIt is a curated book directory for indiehackers, solopreneurs, and entrepreneurs. Discover books on skills, business management, and personal development.',
