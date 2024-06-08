@@ -388,7 +388,7 @@ export const resources: Resource[] = [
     {
         name: 'Free For Geeks',
         categories: ['Open Source'],
-        description: 'Identify and download website fonts.',
+        description: 'Stop searching, start building. Free resources for developers.',
         keywords: [
             'free',
             'javascript',
