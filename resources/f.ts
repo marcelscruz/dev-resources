@@ -446,6 +446,28 @@ export const resources: Resource[] = [
         url: 'https://freesets.vercel.app',
     },
     {
+        name: 'Freestuff',
+        categories: ['Open Source'],
+        description: 'Find any tools or services that free for developer to use.',
+        keywords: [
+            'database',
+            'api',
+            'awesome-list',
+            'productivity',
+            'learning-resource',
+            'asset',
+            'hosting',
+            'storage',
+            'serverless',
+            'authentication',
+            'security',
+            'playground',
+            'image',
+            'monitoring',
+        ],
+        url: 'https://freestuff.dev/',
+    },
+    {
         name: 'FreeHTML5',
         categories: ['Template'],
         description:
