@@ -275,6 +275,14 @@ export const resources: Resource[] = [
         url: 'https://www.linkedin.com/learning',
     },
     {
+        name: 'LinksHub',
+        categories: ['Open Source'],
+        description:
+            'LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work.',
+        keywords: ['icons', 'images', 'videos', 'illustrations', 'fonts', 'tools', 'resources', 'free'],
+        url: 'https://www.linkshub.dev/',
+    },
+    {
         name: 'Linktopus',
         categories: ['Website Builder'],
         description:
