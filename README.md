@@ -1,22 +1,30 @@
-<div align="center"><h1>Dev Resources</h1><i>A collaborative list of resources for developers</i></div> <br/> <div align="center">
-<a href="API.md">API</a> •
-<a href="CONTRIBUTING.md">Contributing Guide</a> •
-<a href="https://github.com/marcelscruz/dev-resources/issues">Issues</a> •
-<a href="https://github.com/marcelscruz/dev-resources/pulls">Pull Requests</a> •
-<a href="LICENSE">License</a>
-</div> <br/> <div align="center">Sponsored by</div><br/>
+<!--🛑 👉 This README file and the /db folder are auto-generated, so please DON'T edit them. Changes related to resources should happen in the /resources folder. --> 
 
-<div><p align="center"><a href="https://scrapfly.io?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/scrapfly-dark-mode.svg" width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="180px"><img alt="Scrapfly logo" src="./assets/scrapfly-dark-mode.svg" width="180px"></picture></a></p><p align="center"><a href="https://scrapfly.io?ref=dev_resources&utm_medium=repo_readme">Scrapfly</a> offers a top-tier Web Scraping API that simplifies scraping by handling real browser rendering, rotating proxies, and various fingerprints to overcome major anti-bot measures.</p></div><br/>
-
-
-
-<div><p align="center"><a href="https://zenlogin.co?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/zenlogin.svg" width="210px"><source media="(prefers-color-scheme: light)" srcset="./assets/zenlogin.svg" width="210px"><img alt="Zenlogin logo" src="./assets/zenlogin.svg" width="210px"></picture></a></p><p align="center"><a href="https://zenlogin.co?ref=dev_resources&utm_medium=repo_readme">Zenlogin</a> detects suspicious logins so you don't have to. A single endpoint API to notify your users when there's been suspicious login activity on their account.</p></div>
-
- ---
->❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to resources should happen within the `/resources` folder.
----
-
- <br/> Looking for public APIs? Visit [github.com/marcelscruz/public-apis](https://github.com/marcelscruz/public-apis).
+ <div align="center">
+    <div>
+        <p align="center"><a href="https://devresourc.es?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dev-resources.png" width="300px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="300px"><img alt="Scrapfly logo" src="./assets/dev-resources.png" width="300px"></picture></a>
+        </p>
+        <p align="center"><a href="https://devresourc.es?ref=dev_resources&utm_medium=repo_readme">Dev Resources</a> — A collaborative list of resources for developers.</p>
+    </div>
+</div> <br/><hr/><br/> 
+    <div align="center">Sponsored by</div> 
+    <br/>
+    <div>
+    <p align="center"><a href="https://scrapfly.io?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/scrapfly-dark-mode.svg"         width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="180px"><img alt="Scrapfly logo" src="./assets/scrapfly-dark-mode.svg" width="180px"></picture></a></p>
+    <p align="center"><a href="https://scrapfly.io?ref=dev_resources&utm_medium=repo_readme">Scrapfly</a> offers a top-tier Web Scraping API that simplifies scraping by handling real browser rendering, rotating proxies, and various fingerprints to overcome major anti-bot measures.</p>
+</div>
+    <br/>
+    <div>
+    <p align="center"><a href="https://zenlogin.co?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/zenlogin.svg" width="210px"><source media="(prefers-color-scheme: light)" srcset="./assets/zenlogin.svg" width="210px"><img alt="Zenlogin logo" src="./assets/zenlogin.svg" width="210px"></picture></a></p>
+    <p align="center"><a href="https://zenlogin.co?ref=dev_resources&utm_medium=repo_readme">Zenlogin</a> detects suspicious logins so you don't have to. A single endpoint API to notify your users when there's been suspicious login activity on their account.</p>
+</div>
+ <br/><hr/><br/><br/> <div align="center">
+    <a href="API.md">API</a> •
+    <a href="CONTRIBUTING.md">Contributing Guide</a> •
+    <a href="https://github.com/marcelscruz/dev-resources/issues">Issues</a> •
+    <a href="https://github.com/marcelscruz/dev-resources/pulls">Pull Requests</a> •
+    <a href="LICENSE">License</a>
+</div> 
 
  ## Index
 <li><a href="#accessibility">Accessibility</a></li><li><a href="#ai">AI</a></li><li><a href="#analytics">Analytics</a></li><li><a href="#animation">Animation</a></li><li><a href="#api-building">API Building</a></li><li><a href="#audio">Audio</a></li><li><a href="#authentication">Authentication</a></li><li><a href="#blog">Blog</a></li><li><a href="#book">Book</a></li><li><a href="#browser">Browser</a></li><li><a href="#cdn">CDN</a></li><li><a href="#cheatsheet">Cheatsheet</a></li><li><a href="#cloud-computing">Cloud Computing</a></li><li><a href="#code-challenge">Code Challenge</a></li><li><a href="#code-generator">Code Generator</a></li><li><a href="#code-snippet">Code Snippet</a></li><li><a href="#color">Color</a></li><li><a href="#database">Database</a></li><li><a href="#design">Design</a></li><li><a href="#documentation">Documentation</a></li><li><a href="#domain">Domain</a></li><li><a href="#editor">Editor</a></li><li><a href="#email">Email</a></li><li><a href="#extension">Extension</a></li><li><a href="#font">Font</a></li><li><a href="#forum">Forum</a></li><li><a href="#freelance">Freelance</a></li><li><a href="#hacktoberfest">Hacktoberfest</a></li><li><a href="#hosting">Hosting</a></li><li><a href="#icon">Icon</a></li><li><a href="#illustration">Illustration</a></li><li><a href="#image">Image</a></li><li><a href="#inspiration">Inspiration</a></li><li><a href="#interview">Interview</a></li><li><a href="#job">Job</a></li><li><a href="#learn">Learn</a></li><li><a href="#legal">Legal</a></li><li><a href="#library">Library</a></li><li><a href="#logging">Logging</a></li><li><a href="#logo">Logo</a></li><li><a href="#marketing">Marketing</a></li><li><a href="#newsletter">Newsletter</a></li><li><a href="#open-source">Open Source</a></li><li><a href="#performance">Performance</a></li><li><a href="#personal-website">Personal Website</a></li><li><a href="#podcast">Podcast</a></li><li><a href="#productivity">Productivity</a></li><li><a href="#programming">Programming</a></li><li><a href="#prototyping">Prototyping</a></li><li><a href="#remote">Remote</a></li><li><a href="#resume">Resume</a></li><li><a href="#scraping">Scraping</a></li><li><a href="#screenshot">Screenshot</a></li><li><a href="#security">Security</a></li><li><a href="#seo">SEO</a></li><li><a href="#serverless">Serverless</a></li><li><a href="#startup">Startup</a></li><li><a href="#storage">Storage</a></li><li><a href="#template">Template</a></li><li><a href="#terminal">Terminal</a></li><li><a href="#testing">Testing</a></li><li><a href="#tooling">Tooling</a></li><li><a href="#twitter">Twitter</a></li><li><a href="#typing">Typing</a></li><li><a href="#ui">UI</a></li><li><a href="#ux">UX</a></li><li><a href="#video">Video</a></li><li><a href="#web3">Web3</a></li><li><a href="#website-builder">Website Builder</a></li><li><a href="#writing">Writing</a></li><li><a href="#youtube-channel">YouTube Channel</a></li> 
