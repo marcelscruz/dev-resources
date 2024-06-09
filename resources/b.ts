@@ -16,6 +16,15 @@ export const resources: Resource[] = [
         url: 'https://balsamiq.com/',
     },
     {
+        name: 'BandoFacile',
+        categories: ['AI', 'Productivity', 'Marketing'],
+        description: "Documentazione del tuo bando pronta in 48 ore",
+        keywords: [
+            'Artificial Intelligence', 'AI Tender Automation', 'Grant Writing Software', 'Funding Application Tool', 'Automated Document Generation', 'Tender Consulting Services'
+        ],
+        url: 'https://bandofacile.com/',
+    },
+    {
         name: 'beampipe',
         categories: ['Analytics'],
         description:
