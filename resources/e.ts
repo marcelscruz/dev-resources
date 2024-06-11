@@ -208,4 +208,12 @@ export const resources: Resource[] = [
             'Test realistic data generator supports JSON, CSV, SQL, and XML formats, along with an API mocking tool.',
         url: 'https://extendsclass.com/csv-generator.html',
     },
+    {
+        name: 'EzUptime',
+        categories: ['Performance', 'Tooling'],
+        description:
+            'Monitor your website and API endpoints. Receive real-time notifications for downtime and recoveries. Prevent cold-starts for your Serverless Functions.',
+        keywords: ['Uptime', 'Monitoring'],
+        url: 'https://ezuptime.com/',
+    },
 ]
