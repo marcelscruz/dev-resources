@@ -1,5 +1,5 @@
 {
-"count": 879,
+"count": 880,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5645,6 +5645,15 @@
         ],
         "description": "Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.",
         "url": "https://mailchimp.com/"
+    },
+    {
+        "name": "Maildroppa",
+        "categories": [
+            "Email",
+            "Marketing"
+        ],
+        "description": "German engineered email marketing and automation without the hefty price tag.",
+        "url": "https://maildroppa.com/"
     },
     {
         "name": "Mailgun",
