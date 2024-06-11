@@ -1,5 +1,5 @@
 {
-"count": 875,
+"count": 876,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8841,6 +8841,22 @@
         "url": "https://www.typelit.io",
         "keywords": [
             "typing"
+        ]
+    },
+    {
+        "name": "TypingBeast",
+        "categories": [
+            "Learn",
+            "Typing"
+        ],
+        "description": "Practice touch typing on various modes including zen mode, maintain streak and compete in leaderboards.",
+        "url": "https://typingbeast.com",
+        "keywords": [
+            "typing",
+            "touch typing",
+            "typing zen",
+            "typing streak",
+            "typing leaderboards"
         ]
     },
     {
