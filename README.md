@@ -558,6 +558,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://chrispederick.com/work/web-developer/&sz=128" width="16" /> | [Web Developer](https://chrispederick.com/work/web-developer/) | Download the Web Developer extension for Chrome and Firefox. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en&sz=128" width="16" /> | [Web Developer Checklist](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en) | Analyses any web page for violations of best practices. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en&sz=128" width="16" /> | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) | The easiest way to identify fonts on web pages. |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://wpfoundry.app/&sz=128" width="16" /> | [WP Foundry](https://wpfoundry.app/) | A desktop WordPress management application. | WordPress, website management |
 
 **[⬆ Back to Index](#index)**
 

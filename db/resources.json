@@ -1,5 +1,5 @@
 {
-"count": 877,
+"count": 878,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9658,6 +9658,18 @@
             "working nomads"
         ],
         "url": "https://www.workingnomads.co/jobs"
+    },
+    {
+        "name": "WP Foundry",
+        "categories": [
+            "Extension"
+        ],
+        "description": "A desktop WordPress management application.",
+        "keywords": [
+            "WordPress",
+            "website management"
+        ],
+        "url": "https://wpfoundry.app/"
     },
     {
         "name": "WrapPixel - Admin Provider",
