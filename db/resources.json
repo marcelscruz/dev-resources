@@ -1,5 +1,5 @@
 {
-"count": 878,
+"count": 879,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5236,6 +5236,24 @@
         ],
         "description": "Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.",
         "url": "https://grid.layoutit.com/"
+    },
+    {
+        "name": "LeadKit",
+        "categories": [
+            "AI",
+            "Email",
+            "Scraping"
+        ],
+        "description": "Leadkit is a suite of tools every marketer needs, everyone pays for a lot of different tools from scraping the leads to verifying them and then a whole different tool-set for sending mass email campaigns.",
+        "url": "https://leadkit.ai",
+        "keywords": [
+            "AI Scraper",
+            "Social Media Scraper",
+            "Instagram Scraping",
+            "Cold Email",
+            "Social Media Leads",
+            "Email Sender"
+        ]
     },
     {
         "name": "Learn CSS",
