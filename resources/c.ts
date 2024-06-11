@@ -209,6 +209,14 @@ export const resources: Resource[] = [
         url: 'https://www.jetbrains.com/clion/',
     },
     {
+        name: 'Clip Remix',
+        description:
+            'Transform YouTube videos into Twitter threads with the power of AI.',
+        categories: ['AI', 'Video', 'Twitter'],
+        url: 'https://clipremix.com',
+        keywords: ['youtube', 'ai', 'twitter'], // Optional, but used on the search feature on the website
+    },
+    {
         name: 'Cloudflare Pages',
         categories: ['Hosting', 'Serverless'],
         description:
