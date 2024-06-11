@@ -253,6 +253,13 @@ export const resources: Resource[] = [
         url: 'https://writtyapp.com/',
     },
     {
+        name: 'WP Foundry',
+        categories: ['Extension'],
+        description: 'A desktop WordPress management application.',
+        keywords: ['WordPress', 'website management'],
+        url: 'https://wpfoundry.app/',
+    },
+    {
         name: 'wweb.dev',
         categories: ['Blog'],
         description:
