@@ -183,6 +183,21 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw',
     },
     {
+        name: 'LeadKit',
+        categories: ['AI', 'Email', 'Scraping'],
+        description: 'Leadkit is a suite of tools every marketer needs, everyone pays for a lot of different tools from scraping the leads to verifying them and then a whole different tool-set for sending mass email campaigns.',
+        url: 'https://leadkit.ai',
+
+        keywords: [
+            'AI Scraper',
+            'Social Media Scraper',
+            'Instagram Scraping',
+            'Cold Email',
+            'Social Media Leads',
+            'Email Sender',
+        ],
+    },
+    {
         name: 'LeetCode',
         categories: ['Code Challenge'],
         description:
