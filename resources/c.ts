@@ -672,6 +672,14 @@ export const resources: Resource[] = [
         url: 'https://usepastel.com/compare-pixels',
     },
     {
+        name: 'Compass',
+        description: 'AI-driven answers to SaaS research questions',
+        categories: ['Startup', 'Marketing', 'AI'],
+        url: 'https://www.getwhys.io/compass',
+        keywords: ['research', 'chatbot'],
+    },
+
+    {
         name: 'Compressor',
         categories: ['Image', 'Tooling'],
         description:
