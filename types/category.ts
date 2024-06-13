@@ -19,6 +19,7 @@ export type Category =
     | 'Color'
     | 'Database'
     | 'Design'
+    | 'Dev Conference'
     | 'Documentation'
     | 'Domain'
     | 'Editor'

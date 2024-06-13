@@ -685,6 +685,31 @@ export const resources: Resource[] = [
         url: 'https://github.com/Developer-Y/cs-video-courses',
     },
     {
+        name: 'Confs.Tech',
+        categories: ['Dev Conference'],
+        description:
+            'Open-Source project that lists upcoming tech conferences. Everything is free and will stay free. It is a technical conferences finder.',
+        url: 'https://confs.tech/',
+        keywords: [
+            '.Net',
+            'Accessibility',
+            'Android',
+            'CSS',
+            'Data - AI',
+            'Design - UX',
+            'DevOps',
+            'Elixir',
+            'IoT',
+            'Java',
+            'JavaScript',
+            'PHP',
+            'Python',
+            'Ruby',
+            'Security',
+            'iOS',
+        ],
+    },
+    {
         name: 'Console Ninja',
         categories: ['Editor', 'Extension'],
         description:
