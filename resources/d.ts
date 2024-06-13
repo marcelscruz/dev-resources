@@ -184,6 +184,31 @@ export const resources: Resource[] = [
         url: 'https://spec.fm/podcasts/developer-tea',
     },
     {
+        name: 'Dev Events',
+        categories: ['Dev Conference'],
+        description:
+            'Dev.events is a comprehensive listing of tech conferences for developers. It covers a wide range of topics, from cutting-edge AI and computing to software development.',
+        url: 'https://dev.events/',
+        keywords: [
+            '.Net',
+            'Accessibility',
+            'Android',
+            'CSS',
+            'Data - AI',
+            'Design - UX',
+            'DevOps',
+            'Elixir',
+            'IoT',
+            'Java',
+            'JavaScript',
+            'PHP',
+            'Python',
+            'Ruby',
+            'Security',
+            'iOS',
+        ],
+    },
+    {
         name: 'devChallenges',
         categories: ['Code Challenge'],
         description:
