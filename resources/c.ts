@@ -701,6 +701,14 @@ export const resources: Resource[] = [
         keywords: ['seo', 'content', 'monitoring', 'website', 'audit'],
     },
     {
+        name: 'Context Data',
+        description: 'Data Processing & ETL infrastructure for Generative AI applications',
+        categories: ['AI', 'Database'],
+        url: 'https://contextdata.ai',
+        keywords: ['ai infrastructure', 'generative ai', 'vector database', 'rag', 'data engineering', 'retrieval augmented generation'],
+    },
+
+    {
         name: 'Contrast Ratio',
         categories: ['Accessibility', 'Color'],
         description: 'Easily calculate color contrast ratios.',
