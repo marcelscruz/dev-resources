@@ -925,4 +925,11 @@ export const resources: Resource[] = [
             'Graph theory / network library for analysis and visualisation - compatible with CommonJS/Node.js/Browserify/Webpack, AMD/Require.js, npm, Bower, jspm, Meteor/Atmosphere, jQuery, and plain JS/JavaScript.',
         url: 'https://js.cytoscape.org/',
     },
+    {
+        name: 'Cynagon',
+        categories: ['AI', 'Video'],
+        description: 'Cynagon is the ultimate tool for creating viral and engaging short-form videos.',
+        keywords: ['ai', 'ai video', 'video generator', 'shorts generator', 'ai shorts', 'shorts content'],
+        url: 'https://www.cynagon.com/',
+    },
 ]
