@@ -13,12 +13,7 @@ export const resources: Resource[] = [
         categories: ['SEO', 'Marketing', 'AI'],
         description: 'Automate Your Link-Building with AI-Personalized Outreach.',
         url: 'https://www.backlinkgpt.com',
-        keywords: [
-            'link building',
-            'SEO',
-            'backlink',
-            'outreach',
-        ],
+        keywords: ['link building', 'SEO', 'backlink', 'outreach'],
     },
     {
         name: 'Balsamiq',
@@ -102,7 +97,8 @@ export const resources: Resource[] = [
     {
         name: 'BigDevSoon',
         categories: ['Learn', 'Programming'],
-        description: '20+ must-have coding projects for your portfolio.',
+        description:
+            'Build real-world projects, daily challenges, and solve practice problems. Maximize your learning potential.',
         url: 'https://bigdevsoon.me',
         keywords: ['Figma', 'AI', 'Gamified Learning', 'Code', 'Projects', 'Insights', 'Learn', 'Programming'],
     },
@@ -196,12 +192,12 @@ export const resources: Resource[] = [
         url: 'https://blisk.io/',
     },
     {
-    name: 'BlogFox',
-    description: 'Generate impressive blogs from a Youtube video or SEO keywords at scale.',
-    categories: ['SEO', 'Writing', 'Blog'],
-    url: 'https://blogfox.ai',
-    keywords: ['writer', 'ai', 'article', 'marketing'], 
-    },  
+        name: 'BlogFox',
+        description: 'Generate impressive blogs from a Youtube video or SEO keywords at scale.',
+        categories: ['SEO', 'Writing', 'Blog'],
+        url: 'https://blogfox.ai',
+        keywords: ['writer', 'ai', 'article', 'marketing'],
+    },
     {
         name: 'Blush',
         categories: ['Illustration'],
