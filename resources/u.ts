@@ -145,12 +145,6 @@ export const resources: Resource[] = [
         url: 'https://upto.site',
     },
     {
-        name: 'UpLabs',
-        categories: ['Illustration', 'Icon', 'Design', 'Inspiration', 'UI'],
-        description: 'UpLabs curates the best of design & development inspiration, resources and freebies. Every day!',
-        url: 'https://www.uplabs.com/',
-    },
-    {
         name: 'Upstash',
         categories: ['Database'],
         description:
