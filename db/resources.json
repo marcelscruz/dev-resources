@@ -1,5 +1,5 @@
 {
-"count": 883,
+"count": 884,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6631,6 +6631,20 @@
         ]
     },
     {
+        "name": "PPResume",
+        "description": "A LaTeX based resume builder",
+        "categories": [
+            "Resume",
+            "Job",
+            "Productivity"
+        ],
+        "url": "https://ppresume.com",
+        "keywords": [
+            "cv",
+            "LaTeX"
+        ]
+    },
+    {
         "name": "Prime",
         "categories": [
             "UI"
@@ -9153,18 +9167,6 @@
         "url": "https://up-for-grabs.net/#/"
     },
     {
-        "name": "UpLabs",
-        "categories": [
-            "Illustration",
-            "Icon",
-            "Design",
-            "Inspiration",
-            "UI"
-        ],
-        "description": "UpLabs curates the best of design & development inspiration, resources and freebies. Every day!",
-        "url": "https://www.uplabs.com/"
-    },
-    {
         "name": "Upstash",
         "categories": [
             "Database"
@@ -9561,6 +9563,20 @@
         ],
         "description": "Analyses any web page for violations of best practices.",
         "url": "https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en"
+    },
+    {
+        "name": "WebCurate Developer Tools",
+        "description": "A hand-curated collection of 380+ best developer tools and resources with detailed descriptions and features.",
+        "categories": [
+            "Productivity"
+        ],
+        "url": "https://webcurate.co/c/developer",
+        "keywords": [
+            "html",
+            "css",
+            "javascript",
+            "development"
+        ]
     },
     {
         "name": "Webflow",
