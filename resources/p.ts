@@ -242,6 +242,14 @@ export const resources: Resource[] = [
         url: 'https://proxiesapi.com',
     },
     {
+        name: 'ProtoUI',
+        description: 'ProtoUI generates responsive TailwindCSS code + UI in seconds.',
+        categories: ['AI', 'Design', 'Code Generator'],
+        url: 'https://protoui.dev',
+
+        keywords: ['Tailwind', 'frontend', 'AI', 'responsive ui'],
+    },
+    {
         name: 'Pttrns',
         categories: ['Design', 'Inspiration', 'UI'],
         description: 'Check out the finest collection of design patterns, resources, mobile apps and inspiration.',
