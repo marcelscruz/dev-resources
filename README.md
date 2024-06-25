@@ -95,6 +95,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://www.tweetdetective.com/&sz=128" width="16" /> | [Tweet Detective](https://www.tweetdetective.com/) | Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content | twitter, social media, ai detection, ai text |
  <img src="https://www.google.com/s2/favicons?domain=https://www.visily.ai/&sz=128" width="16" /> | [Visily](https://www.visily.ai/) | Visily leverages AI to generate stunning app wireframes and prototypes from various inputs such as text prompts, hand-drawn sketches, and screenshots of existing applications or websites. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://webscrapeai.com&sz=128" width="16" /> | [WebscrapeAI](https://webscrapeai.com) | Scrape any website without code using AI | scraper, no code, ai web scraper, web scraper, visual web scraper |
+ <img src="https://www.google.com/s2/favicons?domain=https://wlspy.com&sz=128" width="16" /> | [WLSpy](https://wlspy.com) | WLSpy helps users discover winning products by analyzing market trends and competitor strategies. | Product Research, Market Analysis, Competitor Monitoring |
 
 **[⬆ Back to Index](#index)**
 
@@ -1073,6 +1074,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://tweethunter.io&sz=128" width="16" /> | [Tweet Hunter](https://tweethunter.io) | Build and monetize your Twitter audience. Get sales, growth and new networks. Faster than what you're currently trying. | twitter, growth, scheduling, social media |
  <img src="https://www.google.com/s2/favicons?domain=https://usearticle.com/&sz=128" width="16" /> | [UseArticle](https://usearticle.com/) | UseArticle is the simplest and cheapest blogging platform you will ever need for your business. | Blogging platform, Blogs, SEO |
  <img src="https://www.google.com/s2/favicons?domain=https://userbooster.co&sz=128" width="16" /> | [UserBooster](https://userbooster.co) | UserBooster is a Notion template that helps startups to get their first users and build their launch strategy |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://wlspy.com&sz=128" width="16" /> | [WLSpy](https://wlspy.com) | WLSpy helps users discover winning products by analyzing market trends and competitor strategies. | Product Research, Market Analysis, Competitor Monitoring |
 
 **[⬆ Back to Index](#index)**
 

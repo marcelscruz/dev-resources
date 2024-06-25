@@ -1,5 +1,5 @@
 {
-"count": 882,
+"count": 883,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9692,6 +9692,20 @@
         ],
         "description": "Create a free website with Wix.com. Choose a stunning template and customize anything with the Wix website builder—no coding skills needed. Create yours today!",
         "url": "https://www.wix.com/"
+    },
+    {
+        "name": "WLSpy",
+        "categories": [
+            "Marketing",
+            "AI"
+        ],
+        "description": "WLSpy helps users discover winning products by analyzing market trends and competitor strategies.",
+        "keywords": [
+            "Product Research",
+            "Market Analysis",
+            "Competitor Monitoring"
+        ],
+        "url": "https://wlspy.com"
     },
     {
         "name": "WordPress",
