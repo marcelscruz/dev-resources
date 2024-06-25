@@ -1,5 +1,5 @@
 {
-"count": 881,
+"count": 882,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1016,6 +1016,23 @@
         ],
         "description": "Staying informed on the JavaScript ecosystem has never been so entertaining. Delivered every Monday and Thursday, for free.",
         "url": "https://bytes.dev"
+    },
+    {
+        "name": "Cadabra",
+        "categories": [
+            "Email",
+            "AI",
+            "Marketing"
+        ],
+        "description": "Cadabra maximizes email efficiency using AI, saving users time on reading, writing, replying, and reviewing emails",
+        "url": "https://trycadabra.io/",
+        "keywords": [
+            "AI",
+            "Email Automation",
+            "Productivity",
+            "Customer Service",
+            "Translation"
+        ]
     },
     {
         "name": "CakeResume",
