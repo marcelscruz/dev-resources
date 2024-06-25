@@ -78,7 +78,8 @@ export const resources: Resource[] = [
     {
         name: 'Watch my SSL',
         categories: ['Security', 'Domain'],
-        description: 'A service to monitor the expiration date of your SSL certificates so that your websites never go unexpectedly down.',
+        description:
+            'A service to monitor the expiration date of your SSL certificates so that your websites never go unexpectedly down.',
         url: 'https://watchmyssl.com/',
         keywords: ['ssl', 'monitoring', 'certificate', 'expiration', 'dns'],
     },
@@ -97,12 +98,12 @@ export const resources: Resource[] = [
         url: 'https://webcode.tools',
     },
     {
-    name: 'WebCurate Developer Tools',
-    description:
-        'A hand-curated collection of 380+ best developer tools and resources with detailed descriptions and features.',
-    categories: ['Productivity''],
-    url: 'https://webcurate.co/c/developer',
-    keywords: ['html', 'css', 'javascript', 'development'], // Optional, but used on the search feature on the website
+        name: 'WebCurate Developer Tools',
+        description:
+            'A hand-curated collection of 380+ best developer tools and resources with detailed descriptions and features.',
+        categories: ['Productivity'],
+        url: 'https://webcurate.co/c/developer',
+        keywords: ['html', 'css', 'javascript', 'development'],
     },
     {
         name: 'Web Design Inspiration',
@@ -155,7 +156,7 @@ export const resources: Resource[] = [
     {
         name: 'WebscrapeAI',
         description: 'Scrape any website without code using AI',
-        categories: ['Scraping','AI'],
+        categories: ['Scraping', 'AI'],
         url: 'https://webscrapeai.com',
         keywords: ['scraper', 'no code', 'ai web scraper', 'web scraper', 'visual web scraper'],
     },
