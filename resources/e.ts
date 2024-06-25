@@ -25,6 +25,13 @@ export const resources: Resource[] = [
         keywords: ['ai', 'chat', 'image generator', 'gpt', 'audio transcription', 'templates'],
     },
     {
+        name: 'Easy Folders',
+        categories: ['AI', 'Productivity', 'Extension'],
+        description: 'Create Folders, Search Chat History, Bookmark Chats, Create Custom Instructions Profiles + more!',
+        url: 'https://www.easyfolders.io/',
+        keywords: ['ai', 'ChatGPT', 'Claude', 'Browser Extension', 'Productivity'],
+    },
+    {
         name: 'Eclipse',
         categories: ['Editor', 'Extension'],
         description:
