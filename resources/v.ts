@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Vatis Tech',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Vatis Tech offers advanced speech-to-text technology, converting audio or video files into text with over 90% accuracy using proprietary deep-learning algorithms',
+        keywords: ['Speech to Text ', 'Transcription ', 'Voice Recognition '],
+        url: 'https://vatis.tech',
+    },
+    {
         name: 'Vectr',
         categories: ['Editor', 'Image'],
         description:
