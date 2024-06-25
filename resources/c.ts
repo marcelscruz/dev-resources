@@ -2,6 +2,15 @@
 
 export const resources: Resource[] = [
     {
+        name: 'Cadabra',
+        categories: ['Email', 'AI', 'Marketing'],
+        description:
+            'Cadabra maximizes email efficiency using AI, saving users time on reading, writing, replying, and reviewing emails',
+        url: 'https://trycadabra.io/',
+
+        keywords: ['AI', 'Email Automation', 'Productivity', 'Customer Service', 'Translation'],
+    },
+    {
         name: 'CakeResume',
         categories: ['Resume'],
         description:
