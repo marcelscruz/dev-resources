@@ -68,7 +68,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Jobicy',
-        description: 'Jobicy is an online career platform that bridges the gap between talented professionals seeking remote career opportunities and innovative companies offering such positions.',
+        description:
+            'Jobicy is an online career platform that bridges the gap between talented professionals seeking remote career opportunities and innovative companies offering such positions.',
         categories: ['Job', 'Remote'],
         url: 'https://jobicy.com',
         keywords: ['remote jobs', 'remote work', 'jobs', 'employment'],
@@ -109,6 +110,14 @@ export const resources: Resource[] = [
         description:
             'Directory of free JavaScript ebooks. Contribute to revolunet/JSbooks development by creating an account on GitHub.',
         url: 'https://jsbooks.revolunet.com/',
+    },
+    {
+        name: 'JSConf',
+        categories: ['Dev Conference'],
+        description:
+            'JSConf is a series of JavaScript conferences from around the world and online. Conferences for the JavaScript community.',
+        url: 'https://jsconf.com/',
+        keywords: ['JavaScript', 'conference', 'community'],
     },
     {
         name: 'JustRemote',

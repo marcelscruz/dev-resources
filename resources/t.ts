@@ -204,6 +204,31 @@ export const resources: Resource[] = [
         url: 'https://hammerstone.dev/podcast',
     },
     {
+        name: 'The Linux Foundation - Events',
+        categories: ['Dev Conference'],
+        description:
+            'The Linux Foundation hosts a variety of events around the world, including leading open source conferences such as Open Source Summit, Embedded Linux Conference, KubeCon + CloudNativeCon, and more.',
+        url: 'https://events.linuxfoundation.org/',
+        keywords: [
+            '.Net',
+            'Accessibility',
+            'Android',
+            'CSS',
+            'Data - AI',
+            'Design - UX',
+            'DevOps',
+            'Elixir',
+            'IoT',
+            'Java',
+            'JavaScript',
+            'PHP',
+            'Python',
+            'Ruby',
+            'Security',
+            'iOS',
+        ],
+    },
+    {
         name: 'The Net Ninja',
         categories: ['Programming', 'YouTube Channel', 'Learn', 'Programming'],
         url: 'https://www.thenetninja.co.uk/',
@@ -409,7 +434,8 @@ export const resources: Resource[] = [
     {
         name: 'TypingBeast',
         categories: ['Learn', 'Typing'],
-        description: 'Practice touch typing on various modes including zen mode, maintain streak and compete in leaderboards.',
+        description:
+            'Practice touch typing on various modes including zen mode, maintain streak and compete in leaderboards.',
         url: 'https://typingbeast.com',
         keywords: ['typing', 'touch typing', 'typing zen', 'typing streak', 'typing leaderboards'],
     },
