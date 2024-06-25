@@ -166,6 +166,7 @@
 ### <a name="blog">Blog</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://blogfox.ai&sz=128" width="16" /> | [BlogFox](https://blogfox.ai) | Generate impressive blogs from a Youtube video or SEO keywords at scale. | writer, ai, article, marketing |
  <img src="https://www.google.com/s2/favicons?domain=https://codeconia.com/&sz=128" width="16" /> | [Codeconia](https://codeconia.com/) | Learn programming with Codeconia. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://css-tricks.com&sz=128" width="16" /> | [CSS-Tricks](https://css-tricks.com) | CSS-Tricks is a website about websites. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://daily.dev/&sz=128" width="16" /> | [daily.dev](https://daily.dev/) | Daily.dev is the easiest way to stay updated on the latest programming news. Get the hottest dev news from the best tech blogs on any topic you can think of. Stay updated daily, and unlock more time t... |  |
@@ -1499,6 +1500,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://aidirectori.es/&sz=128" width="16" /> | [AI Directories](https://aidirectori.es/) | All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories | ai, artificial intelligence, promote, directory, traffic |
  <img src="https://www.google.com/s2/favicons?domain=https://ahrefs.com/backlink-checker&sz=128" width="16" /> | [Backlink Checker](https://ahrefs.com/backlink-checker) | With the world's biggest index of live backlinks (over 15 trillion), Ahrefs Backlink Checker will show you the most complete backlink profile for any website. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.backlinkgpt.com&sz=128" width="16" /> | [BacklinkGPT](https://www.backlinkgpt.com) | Automate Your Link-Building with AI-Personalized Outreach. | link building, SEO, backlink, outreach |
+ <img src="https://www.google.com/s2/favicons?domain=https://blogfox.ai&sz=128" width="16" /> | [BlogFox](https://blogfox.ai) | Generate impressive blogs from a Youtube video or SEO keywords at scale. | writer, ai, article, marketing |
  <img src="https://www.google.com/s2/favicons?domain=https://www.contentkingapp.com/&sz=128" width="16" /> | [ContentKing](https://www.contentkingapp.com/) | ContentKing keeps track of your website 24/7 so that you can catch unexpected changes and issues before search engines and visitors do. | seo, content, monitoring, website, audit |
  <img src="https://www.google.com/s2/favicons?domain=https://search.google.com/search-console/about&sz=128" width="16" /> | [Google Search Console](https://search.google.com/search-console/about) | Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.heymeta.com/&sz=128" width="16" /> | [Hey Meta](https://www.heymeta.com/) | Check and improve how search engines and social media websites see and display your website. |  |
@@ -1859,6 +1861,7 @@
 ### <a name="writing">Writing</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://blogfox.ai&sz=128" width="16" /> | [BlogFox](https://blogfox.ai) | Generate impressive blogs from a Youtube video or SEO keywords at scale. | writer, ai, article, marketing |
  <img src="https://www.google.com/s2/favicons?domain=https://www.copy.ai/&sz=128" width="16" /> | [CopyAI](https://www.copy.ai/) | We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds! |  |
  <img src="https://www.google.com/s2/favicons?domain=https://easy-peasy.ai/&sz=128" width="16" /> | [Easy-Peasy.AI](https://easy-peasy.ai/) | Create amazing content 10X faster with AI tools. | ai, chat, image generator, gpt, audio transcription, templates |
  <img src="https://www.google.com/s2/favicons?domain=https://developers.google.com/tech-writing&sz=128" width="16" /> | [Google Technical Writing](https://developers.google.com/tech-writing) | This collection of courses and learning resources aims to improve your technical documentation. Learn how to plan and author technical documents. You can also learn about the role of technical writers... |  |
