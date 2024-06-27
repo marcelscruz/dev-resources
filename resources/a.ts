@@ -208,6 +208,15 @@ export const resources: Resource[] = [
         url: 'https://www.artify.co/',
     },
     {
+        name: 'AskTube',
+        description:
+            'Save time by summarizing and chatting with long educational YouTube videos.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://chromewebstore.google.com/detail/asktube-ai-youtube-video/kkdhnobdacfnbdageilfchkhcjdbkhgf',
+
+        keywords: ['youtube summarizer', 'youtube video summarizer', 'youtube ai summary', 'youtube video summary ai'],
+    },
+    {
         name: 'Authentic Jobs',
         categories: ['Job'],
         description: 'The leading job board for designers, developers, and creative pros.',
