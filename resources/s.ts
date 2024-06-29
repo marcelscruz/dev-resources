@@ -692,6 +692,13 @@ export const resources: Resource[] = [
         url: 'https://surge.sh/',
     },
     {
+        name: 'SvelteLaunch',
+        description: 'Svelte 5 Boilerplate for building AI apps quickly',
+        categories: ['AI', 'Startup', 'Template'],
+        url: 'https://sveltelaunch.io',
+        keywords: ['boilerplate', 'svelte', 'development'], 
+    },
+    {
         name: 'SVG Backgrounds',
         categories: ['Image'],
         description:
