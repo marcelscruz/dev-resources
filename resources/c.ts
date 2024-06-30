@@ -164,6 +164,14 @@ export const resources: Resource[] = [
         url: 'https://www.google.com/chrome/dev/',
     },
     {
+        name: 'Chatim',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Chatim is a live chat with a chatbot automation platform that lets you connect with customers anywhere, anytime',
+        url: 'https://chatim.app/',
+        keywords: ['Live Chat', 'Lead Generation', 'Sales', 'Chatbot'],
+    },
+    {
         name: 'Circum Icons',
         categories: ['Icon'],
         description: 'Consistent open source icons as SVG for React, Vue and Svelte.',
