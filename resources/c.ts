@@ -139,6 +139,14 @@ export const resources: Resource[] = [
         url: 'https://www.google.com/chrome/dev/',
     },
     {
+        name: 'Chaindesk',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Chaindesk is a complete support ecosystem to help you spend less time supporting your users - and more time growing your business.',
+        url: 'https://www.chaindesk.ai/',
+        keywords: ['ChatGPT Chatbot', 'AI Chatbot', 'Customer Support', 'Chatbot'],
+    },
+    {
         name: 'Circum Icons',
         categories: ['Icon'],
         description: 'Consistent open source icons as SVG for React, Vue and Svelte.',
