@@ -198,6 +198,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Lede',
+        description: 'Generate In-Depth Blog Content',
+        categories: ['Writing', 'Productivity', 'AI'],
+        url: 'https://thelede.ai',
+        keywords: ['assistant', 'research', 'content', 'blog'],
+    },
+    {
         name: 'LeetCode',
         categories: ['Code Challenge'],
         description:
