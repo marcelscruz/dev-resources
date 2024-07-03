@@ -93,6 +93,15 @@ export const resources: Resource[] = [
         keywords: ['gcore', 'speed test', 'internet speed', 'bandwidth'],
     },
     {
+        name: 'Global Sites AI',
+        categories: ['SEO', 'AI'],
+        description:
+            'Create multilingual static sites effortlessly with Global Sites AI.',
+        url: 'https://www.globalsites.ai/',
+
+        keywords: ['SEO', 'Multilingual', 'Translator', 'SEO Optimization', 'Multilingual'],
+    },
+    {
         name: 'GoatCounter',
         categories: ['Analytics'],
         description:
