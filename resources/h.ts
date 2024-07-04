@@ -248,8 +248,7 @@ export const resources: Resource[] = [
     {
         name: 'Hugeicons',
         categories: ['Icon'],
-        description:
-            'Over 25,000 beautiful icons in 5 unique styles, organized across 57 popular categories. Crafted by creators, for creators.',
+        description: 'Most beautiful icon library for developers. 28,000+ expertly crafted UI icons.',
         url: 'https://hugeicons.com/',
     },
     {
