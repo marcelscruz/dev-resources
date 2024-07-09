@@ -6,7 +6,7 @@
     "scripts": {
         "update-db": "ts-node utils/db/update-db.js",
         "update-readme": "ts-node utils/readme/update-readme.js",
-        "prettier:format": "prettier --write \"**/*.{ts,tsx,js,md,mdx,css,yaml}\""
+        "prettier:format": "prettier --write \"**/*.{ts,js}\""
     },
     "dependencies": {
         "@types/node": "^18.11.9",
