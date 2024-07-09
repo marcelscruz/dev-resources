@@ -1,5 +1,5 @@
 {
-"count": 888,
+"count": 889,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4746,6 +4746,15 @@
         ],
         "description": "Build unlimited SaaS products with Indie Starter Kit. Remove the hassle and save days of work.",
         "url": "https://indie-starter.dev"
+    },
+    {
+        "name": "Indie UI",
+        "categories": [
+            "UI",
+            "Library"
+        ],
+        "description": "UI components with variants",
+        "url": "https://ui.indie-starter.dev"
     },
     {
         "name": "Indie Worldwide",
