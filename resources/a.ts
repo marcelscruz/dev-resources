@@ -97,9 +97,9 @@ export const resources: Resource[] = [
     },
     {
         name: 'AI Directories',
-        categories: ['AI','SEO','Marketing'],
+        categories: ['AI', 'SEO', 'Marketing'],
         description:
-            "All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories",
+            'All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories',
         url: 'https://aidirectori.es/',
         keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
     },
@@ -150,7 +150,8 @@ export const resources: Resource[] = [
     {
         name: 'ApparenceKit',
         categories: ['Template', 'Tooling', 'Programming'],
-        description:'A flutter template to create iOS, Android and web app in days. Generate all the common boilerplate code and customize the design to fit your brand. ',
+        description:
+            'A flutter template to create iOS, Android and web app in days. Generate all the common boilerplate code and customize the design to fit your brand. ',
         url: 'https://apparencekit.dev/',
     },
     {
@@ -209,8 +210,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'AskTube',
-        description:
-            'Save time by summarizing and chatting with long educational YouTube videos.',
+        description: 'Save time by summarizing and chatting with long educational YouTube videos.',
         categories: ['AI', 'Productivity'],
         url: 'https://chromewebstore.google.com/detail/asktube-ai-youtube-video/kkdhnobdacfnbdageilfchkhcjdbkhgf',
 

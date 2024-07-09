@@ -409,7 +409,8 @@ export const resources: Resource[] = [
     {
         name: 'TypingBeast',
         categories: ['Learn', 'Typing'],
-        description: 'Practice touch typing on various modes including zen mode, maintain streak and compete in leaderboards.',
+        description:
+            'Practice touch typing on various modes including zen mode, maintain streak and compete in leaderboards.',
         url: 'https://typingbeast.com',
         keywords: ['typing', 'touch typing', 'typing zen', 'typing streak', 'typing leaderboards'],
     },
