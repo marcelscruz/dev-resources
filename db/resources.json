@@ -1,5 +1,5 @@
 {
-"count": 887,
+"count": 888,
 "data": [
     {
         "name": "1001 Fonts",
@@ -389,6 +389,21 @@
         ],
         "description": "Artify is an online and easy-to-use design editor that features thousands of customizable illustrations and template packs.",
         "url": "https://www.artify.co/"
+    },
+    {
+        "name": "AskTube",
+        "description": "Save time by summarizing and chatting with long educational YouTube videos.",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "url": "https://chromewebstore.google.com/detail/asktube-ai-youtube-video/kkdhnobdacfnbdageilfchkhcjdbkhgf",
+        "keywords": [
+            "youtube summarizer",
+            "youtube video summarizer",
+            "youtube ai summary",
+            "youtube video summary ai"
+        ]
     },
     {
         "name": "Authentic Jobs",
