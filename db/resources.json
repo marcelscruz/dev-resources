@@ -1,5 +1,5 @@
 {
-"count": 889,
+"count": 894,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3540,6 +3540,37 @@
         "url": "https://www.freefaces.gallery"
     },
     {
+        "name": "Free For Geeks",
+        "categories": [
+            "Open Source"
+        ],
+        "description": "Stop searching, start building. Free resources for developers.",
+        "keywords": [
+            "free",
+            "javascript",
+            "website",
+            "web",
+            "development",
+            "course",
+            "courses",
+            "html",
+            "css",
+            "react",
+            "redux",
+            "api",
+            "frontend",
+            "backend",
+            "devops",
+            "devsecops",
+            "career development",
+            "learn",
+            "tutorial",
+            "programming",
+            "open source"
+        ],
+        "url": "https://www.freeforgeeks.com"
+    },
+    {
         "name": "Free JavaScript Resources",
         "categories": [
             "Learn",
@@ -3579,6 +3610,32 @@
             "programming"
         ],
         "url": "https://www.freecodecamp.org/"
+    },
+    {
+        "name": "FreeForDev",
+        "categories": [
+            "Open Source"
+        ],
+        "description": "an Awesome List of Tools available for Free to Enhance your Productivity.",
+        "keywords": [
+            "free",
+            "javascript",
+            "website",
+            "web",
+            "development",
+            "course",
+            "courses",
+            "html",
+            "css",
+            "react",
+            "api",
+            "frontend",
+            "backend",
+            "learn",
+            "programming",
+            "open source"
+        ],
+        "url": "https://free-for.dev/"
     },
     {
         "name": "FreeHTML5",
@@ -3650,6 +3707,45 @@
             "illustration",
             "photos"
         ]
+    },
+    {
+        "name": "Freesets",
+        "categories": [
+            "Open Source"
+        ],
+        "description": "Collection of free resources like icons, images, illustrations, components, libraries and more!",
+        "keywords": [
+            "icons",
+            "images",
+            "videos",
+            "illustrations",
+            "fonts"
+        ],
+        "url": "https://freesets.vercel.app"
+    },
+    {
+        "name": "Freestuff",
+        "categories": [
+            "Open Source"
+        ],
+        "description": "Find any tools or services that free for developer to use.",
+        "keywords": [
+            "database",
+            "api",
+            "awesome-list",
+            "productivity",
+            "learning-resource",
+            "asset",
+            "hosting",
+            "storage",
+            "serverless",
+            "authentication",
+            "security",
+            "playground",
+            "image",
+            "monitoring"
+        ],
+        "url": "https://freestuff.dev/"
     },
     {
         "name": "Freeter",
@@ -5545,6 +5641,24 @@
         ],
         "description": "Learn business, creative, and technology skills to achieve your personal and professional goals. Join LinkedIn Learning today to get access to thousands of courses.",
         "url": "https://www.linkedin.com/learning"
+    },
+    {
+        "name": "LinksHub",
+        "categories": [
+            "Open Source"
+        ],
+        "description": "LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work.",
+        "keywords": [
+            "icons",
+            "images",
+            "videos",
+            "illustrations",
+            "fonts",
+            "tools",
+            "resources",
+            "free"
+        ],
+        "url": "https://www.linkshub.dev/"
     },
     {
         "name": "Linktopus",
