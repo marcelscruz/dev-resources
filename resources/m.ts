@@ -26,7 +26,8 @@ export const resources: Resource[] = [
     {
         name: 'Maildroppa',
         categories: ['Email', 'Marketing'],
-        description: 'German engineered email marketing and automation without the hefty price tag.',
+        description:
+            'German engineered email marketing and automation without the hefty price tag.',
         url: 'https://maildroppa.com/',
     },
     {

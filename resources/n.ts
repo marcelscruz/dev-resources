@@ -54,7 +54,7 @@ export const resources: Resource[] = [
     {
         name: 'No-Code Scraper',
         description: 'Seamlessly extract data from any website with just a few simple inputs.',
-        categories: ['Scraping', 'AI'],
+        categories: ['Scraping','AI'],
         url: 'https://www.nocodescraper.com',
         keywords: ['scraper', 'no code', 'ai web scraper', 'web scraper', 'visual web scraper', 'web scraping'],
     },

@@ -142,10 +142,10 @@ export const resources: Resource[] = [
         url: 'https://www.indiehackers.com/',
     },
     {
-        name: 'Indie UI',
-        categories: ['UI', 'Library'],
-        description: 'UI components with variants',
-        url: 'https://ui.indie-starter.dev',
+        name: "Indie UI",
+        categories:["UI", "Library"],
+        description:"UI components with variants",
+        url:"https://ui.indie-starter.dev"
     },
     {
         name: 'IndiesReadIt',

@@ -97,10 +97,12 @@ export const resources: Resource[] = [
     },
     {
         name: 'Pieces',
-        categories: ['AI', 'Programming', 'Productivity'],
-        description: 'On-device copilot to capture, enrich, and reuse useful materials, streamline collaboration.',
+        categories: ['AI','Programming','Productivity'],
+        description: 
+            'On-device copilot to capture, enrich, and reuse useful materials, streamline collaboration.',
         url: 'https://pieces.app/',
         keywords: ['Productivity', 'Copilot', 'easy snippet search'],
+        
     },
     {
         name: 'Pingdom',
@@ -174,7 +176,8 @@ export const resources: Resource[] = [
     {
         name: 'Postlyy',
         categories: ['AI', 'Productivity'],
-        description: 'All in one platform to create (WITH AI), schedule, and analyze content on X and LinkedIn',
+        description:
+            'All in one platform to create (WITH AI), schedule, and analyze content on X and LinkedIn',
         url: 'https://postlyy.com/',
         keywords: ['ai', 'social media', 'content creation'],
     },
@@ -220,7 +223,7 @@ export const resources: Resource[] = [
         name: 'ProductiveHub',
         categories: ['Productivity', 'Blog'],
         description:
-            'Discover top apps and websites on Productive Hub that enhance your productivity and help you beat procrastination, streamlining your journey to peak productivity.',
+            "Discover top apps and websites on Productive Hub that enhance your productivity and help you beat procrastination, streamlining your journey to peak productivity.",
         url: 'https://www.productive-hub.com/',
     },
     {
