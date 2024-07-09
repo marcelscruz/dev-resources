@@ -5,7 +5,8 @@
     "description": "The API for the resources listed on Dev Resources.",
     "scripts": {
         "update-db": "ts-node utils/db/update-db.js",
-        "update-readme": "ts-node utils/readme/update-readme.js"
+        "update-readme": "ts-node utils/readme/update-readme.js",
+        "prettier:format": "prettier --write \"**/*.{ts,tsx,js,md,mdx,css,yaml}\""
     },
     "dependencies": {
         "@types/node": "^18.11.9",

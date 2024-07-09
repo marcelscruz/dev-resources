@@ -16,6 +16,7 @@ jobs:
             - run: npm install
             - run: npm run update-db
             - run: npm run update-readme
+            - run: npm run prettier:format
             - run: git add .
             - run: git commit -m "Auto updating db and README.md" || echo "Nothing to commit"
             - run: git push origin HEAD:main
