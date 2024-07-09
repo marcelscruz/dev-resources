@@ -1,5 +1,5 @@
 {
-"count": 884,
+"count": 885,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8141,6 +8141,23 @@
         ],
         "description": "Stormkit integrates perfectly with your git flow. It builds, deploys and scales your javascript apps seamlessly.",
         "url": "https://www.stormkit.io/"
+    },
+    {
+        "name": "StoryChief",
+        "categories": [
+            "Marketing",
+            "AI"
+        ],
+        "description": "Create Winning Content Strategies, powered by Data, supercharged by AI",
+        "url": "https://www.storychief.io",
+        "keywords": [
+            "SEO",
+            "analytics",
+            "content calendar",
+            "content strategy",
+            "AI copywriting",
+            "content collaboration"
+        ]
     },
     {
         "name": "Storyset",
