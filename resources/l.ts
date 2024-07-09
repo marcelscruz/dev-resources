@@ -185,7 +185,8 @@ export const resources: Resource[] = [
     {
         name: 'LeadKit',
         categories: ['AI', 'Email', 'Scraping'],
-        description: 'Leadkit is a suite of tools every marketer needs, everyone pays for a lot of different tools from scraping the leads to verifying them and then a whole different tool-set for sending mass email campaigns.',
+        description:
+            'Leadkit is a suite of tools every marketer needs, everyone pays for a lot of different tools from scraping the leads to verifying them and then a whole different tool-set for sending mass email campaigns.',
         url: 'https://leadkit.ai',
 
         keywords: [
