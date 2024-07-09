@@ -1,5 +1,5 @@
 {
-"count": 886,
+"count": 887,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7309,6 +7309,20 @@
         ],
         "description": "Instantly create a job-winning resume. Resume-Now's resume builder includes job-specific resume templates, resume examples and expert writing tips to help you get the job.",
         "url": "https://www.resume-now.com/"
+    },
+    {
+        "name": "ResumeDive",
+        "description": "A resume boosting service using AI",
+        "categories": [
+            "Resume",
+            "Job",
+            "AI"
+        ],
+        "url": "https://resumedive.com",
+        "keywords": [
+            "career",
+            "cv"
+        ]
     },
     {
         "name": "Retool",
