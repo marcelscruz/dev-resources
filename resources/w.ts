@@ -98,14 +98,6 @@ export const resources: Resource[] = [
         url: 'https://webcode.tools',
     },
     {
-        name: 'WebCurate Developer Tools',
-        description:
-            'A hand-curated collection of 380+ best developer tools and resources with detailed descriptions and features.',
-        categories: ['Productivity'],
-        url: 'https://webcurate.co/c/developer',
-        keywords: ['html', 'css', 'javascript', 'development'],
-    },
-    {
         name: 'Web Design Inspiration',
         categories: ['Design', 'Inspiration', 'UI'],
         description:
@@ -130,6 +122,14 @@ export const resources: Resource[] = [
         categories: ['Browser', 'Extension'],
         description: 'Analyses any web page for violations of best practices.',
         url: 'https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en',
+    },
+    {
+        name: 'WebCurate Developer Tools',
+        description:
+            'A hand-curated collection of 380+ best developer tools and resources with detailed descriptions and features.',
+        categories: ['Productivity'],
+        url: 'https://webcurate.co/c/developer',
+        keywords: ['html', 'css', 'javascript', 'development'],
     },
     {
         name: 'Webflow',
@@ -160,13 +160,19 @@ export const resources: Resource[] = [
         url: 'https://webscrapeai.com',
         keywords: ['scraper', 'no code', 'ai web scraper', 'web scraper', 'visual web scraper'],
     },
-
     {
         name: 'Website Authority Checker',
         categories: ['SEO'],
         description:
             'Free tool to check the "authority" of any website based on the quality and quantity of its external backlinks.',
         url: 'https://ahrefs.com/website-authority-checker',
+    },
+    {
+        name: 'Websitevice',
+        categories: ['Design', 'Inspiration', 'UI'],
+        description:
+            'Website design examples to get inspiration for business, real estate, product, agency, education, ecommerce, personal and more',
+        url: 'https://websitevice.com',
     },
     {
         name: 'WebStorm',
