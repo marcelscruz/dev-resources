@@ -1,5 +1,5 @@
 {
-"count": 894,
+"count": 895,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9818,6 +9818,16 @@
         ],
         "description": "Free tool to check the \"authority\" of any website based on the quality and quantity of its external backlinks.",
         "url": "https://ahrefs.com/website-authority-checker"
+    },
+    {
+        "name": "Websitevice",
+        "categories": [
+            "Design",
+            "Inspiration",
+            "UI"
+        ],
+        "description": "Website design examples to get inspiration for business, real estate, product, agency, education, ecommerce, personal and more",
+        "url": "https://websitevice.com"
     },
     {
         "name": "WebStorm",
