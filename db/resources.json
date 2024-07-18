@@ -1,5 +1,5 @@
 {
-"count": 895,
+"count": 896,
 "data": [
     {
         "name": "1001 Fonts",
@@ -24,6 +24,25 @@
             "fastest fingers",
             "10 fast fingers",
             "typing competition"
+        ]
+    },
+      {
+        "name": "Flutter Hero",
+        "description": "Flutter developers love this channel because it provides a comprehensive and user-friendly resource for all Flutter widgets and comments. Everything is listed in an organized and straightforward manner, making it easy for developers to find the information they need quickly. Whether you're a beginner or an experienced developer, this channel simplifies the process of working with Flutter, ensuring you can focus on building amazing apps without getting bogged down in the details.",
+        "categories": [
+            "Flutter",
+            "App dev",
+            "Programming",
+            "YouTube Channel"
+        ],
+        "url": "https://www.youtube.com/@flutterhero",
+        "keywords": [
+              "Flutter",
+            "App dev",
+            "Programming",
+            "YouTube Channel",
+            "Flutter hero",
+            "Flutter learn"
         ]
     },
     {
