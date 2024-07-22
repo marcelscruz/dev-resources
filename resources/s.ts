@@ -80,6 +80,12 @@ export const resources: Resource[] = [
         description: 'Selenium is a suite of tools for automating web browsers.',
         url: 'https://www.selenium.dev/',
     },
+     {
+        name: 'Seline',
+        categories: ['Analytics'],
+        description: 'Seline is a simple & private website and product analytics. Cookieless, lightweight, independent.',
+        url: 'https://seline.so',
+    },
     {
         name: 'Semantic UI',
         categories: ['Library', 'Programming', 'UI'],
