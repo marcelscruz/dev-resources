@@ -85,6 +85,7 @@ export const resources: Resource[] = [
         categories: ['Analytics'],
         description: 'Seline is a simple & private website and product analytics. Cookieless, lightweight, independent.',
         url: 'https://seline.so',
+        keywords: ['analytics', 'dashboard', 'funnels', 'visits'],
     },
     {
         name: 'Semantic UI',
