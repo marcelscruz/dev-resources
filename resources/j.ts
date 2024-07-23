@@ -112,6 +112,14 @@ export const resources: Resource[] = [
         url: 'https://jsbooks.revolunet.com/',
     },
     {
+        name: 'JSConf',
+        categories: ['Conference'],
+        description:
+            'JSConf is a series of JavaScript conferences from around the world and online. Conferences for the JavaScript community.',
+        url: 'https://jsconf.com/',
+        keywords: ['JavaScript', 'conference', 'community'],
+    },
+    {
         name: 'JustRemote',
         categories: ['Job', 'Remote'],
         description:

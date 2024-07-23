@@ -1,288 +1,293 @@
 {
-"count": 71,
-"data": [
-    {
-        "name": "Accessibility",
-        "slug": "accessibility"
-    },
-    {
-        "name": "AI",
-        "slug": "ai"
-    },
-    {
-        "name": "Analytics",
-        "slug": "analytics"
-    },
-    {
-        "name": "Animation",
-        "slug": "animation"
-    },
-    {
-        "name": "API Building",
-        "slug": "api-building"
-    },
-    {
-        "name": "Audio",
-        "slug": "audio"
-    },
-    {
-        "name": "Authentication",
-        "slug": "authentication"
-    },
-    {
-        "name": "Blog",
-        "slug": "blog"
-    },
-    {
-        "name": "Book",
-        "slug": "book"
-    },
-    {
-        "name": "Browser",
-        "slug": "browser"
-    },
-    {
-        "name": "CDN",
-        "slug": "cdn"
-    },
-    {
-        "name": "Cheatsheet",
-        "slug": "cheatsheet"
-    },
-    {
-        "name": "Cloud Computing",
-        "slug": "cloud-computing"
-    },
-    {
-        "name": "Code Challenge",
-        "slug": "code-challenge"
-    },
-    {
-        "name": "Code Generator",
-        "slug": "code-generator"
-    },
-    {
-        "name": "Code Snippet",
-        "slug": "code-snippet"
-    },
-    {
-        "name": "Color",
-        "slug": "color"
-    },
-    {
-        "name": "Database",
-        "slug": "database"
-    },
-    {
-        "name": "Design",
-        "slug": "design"
-    },
-    {
-        "name": "Documentation",
-        "slug": "documentation"
-    },
-    {
-        "name": "Domain",
-        "slug": "domain"
-    },
-    {
-        "name": "Editor",
-        "slug": "editor"
-    },
-    {
-        "name": "Email",
-        "slug": "email"
-    },
-    {
-        "name": "Extension",
-        "slug": "extension"
-    },
-    {
-        "name": "Font",
-        "slug": "font"
-    },
-    {
-        "name": "Forum",
-        "slug": "forum"
-    },
-    {
-        "name": "Freelance",
-        "slug": "freelance"
-    },
-    {
-        "name": "Hacktoberfest",
-        "slug": "hacktoberfest"
-    },
-    {
-        "name": "Hosting",
-        "slug": "hosting"
-    },
-    {
-        "name": "Icon",
-        "slug": "icon"
-    },
-    {
-        "name": "Illustration",
-        "slug": "illustration"
-    },
-    {
-        "name": "Image",
-        "slug": "image"
-    },
-    {
-        "name": "Inspiration",
-        "slug": "inspiration"
-    },
-    {
-        "name": "Interview",
-        "slug": "interview"
-    },
-    {
-        "name": "Job",
-        "slug": "job"
-    },
-    {
-        "name": "Learn",
-        "slug": "learn"
-    },
-    {
-        "name": "Legal",
-        "slug": "legal"
-    },
-    {
-        "name": "Library",
-        "slug": "library"
-    },
-    {
-        "name": "Logging",
-        "slug": "logging"
-    },
-    {
-        "name": "Logo",
-        "slug": "logo"
-    },
-    {
-        "name": "Marketing",
-        "slug": "marketing"
-    },
-    {
-        "name": "Newsletter",
-        "slug": "newsletter"
-    },
-    {
-        "name": "Open Source",
-        "slug": "open-source"
-    },
-    {
-        "name": "Performance",
-        "slug": "performance"
-    },
-    {
-        "name": "Personal Website",
-        "slug": "personal-website"
-    },
-    {
-        "name": "Podcast",
-        "slug": "podcast"
-    },
-    {
-        "name": "Productivity",
-        "slug": "productivity"
-    },
-    {
-        "name": "Programming",
-        "slug": "programming"
-    },
-    {
-        "name": "Prototyping",
-        "slug": "prototyping"
-    },
-    {
-        "name": "Remote",
-        "slug": "remote"
-    },
-    {
-        "name": "Resume",
-        "slug": "resume"
-    },
-    {
-        "name": "Scraping",
-        "slug": "scraping"
-    },
-    {
-        "name": "Screenshot",
-        "slug": "screenshot"
-    },
-    {
-        "name": "Security",
-        "slug": "security"
-    },
-    {
-        "name": "SEO",
-        "slug": "seo"
-    },
-    {
-        "name": "Serverless",
-        "slug": "serverless"
-    },
-    {
-        "name": "Startup",
-        "slug": "startup"
-    },
-    {
-        "name": "Storage",
-        "slug": "storage"
-    },
-    {
-        "name": "Template",
-        "slug": "template"
-    },
-    {
-        "name": "Terminal",
-        "slug": "terminal"
-    },
-    {
-        "name": "Testing",
-        "slug": "testing"
-    },
-    {
-        "name": "Tooling",
-        "slug": "tooling"
-    },
-    {
-        "name": "Twitter",
-        "slug": "twitter"
-    },
-    {
-        "name": "Typing",
-        "slug": "typing"
-    },
-    {
-        "name": "UI",
-        "slug": "ui"
-    },
-    {
-        "name": "UX",
-        "slug": "ux"
-    },
-    {
-        "name": "Video",
-        "slug": "video"
-    },
-    {
-        "name": "Web3",
-        "slug": "web3"
-    },
-    {
-        "name": "Website Builder",
-        "slug": "website-builder"
-    },
-    {
-        "name": "Writing",
-        "slug": "writing"
-    },
-    {
-        "name": "YouTube Channel",
-        "slug": "youtube-channel"
-    }
-]}
+    "count": 71,
+    "data": [
+        {
+            "name": "Accessibility",
+            "slug": "accessibility"
+        },
+        {
+            "name": "AI",
+            "slug": "ai"
+        },
+        {
+            "name": "Analytics",
+            "slug": "analytics"
+        },
+        {
+            "name": "Animation",
+            "slug": "animation"
+        },
+        {
+            "name": "API Building",
+            "slug": "api-building"
+        },
+        {
+            "name": "Audio",
+            "slug": "audio"
+        },
+        {
+            "name": "Authentication",
+            "slug": "authentication"
+        },
+        {
+            "name": "Blog",
+            "slug": "blog"
+        },
+        {
+            "name": "Book",
+            "slug": "book"
+        },
+        {
+            "name": "Browser",
+            "slug": "browser"
+        },
+        {
+            "name": "CDN",
+            "slug": "cdn"
+        },
+        {
+            "name": "Cheatsheet",
+            "slug": "cheatsheet"
+        },
+        {
+            "name": "Cloud Computing",
+            "slug": "cloud-computing"
+        },
+        {
+            "name": "Code Challenge",
+            "slug": "code-challenge"
+        },
+        {
+            "name": "Code Generator",
+            "slug": "code-generator"
+        },
+        {
+            "name": "Code Snippet",
+            "slug": "code-snippet"
+        },
+        {
+            "name": "Color",
+            "slug": "color"
+        },
+        {
+            "name": "Database",
+            "slug": "database"
+        },
+        {
+            "name": "Design",
+            "slug": "design"
+        },
+        {
+            "name": "Dev Conference",
+            "slug": "dev-conference"
+        },
+        {
+            "name": "Documentation",
+            "slug": "documentation"
+        },
+        {
+            "name": "Domain",
+            "slug": "domain"
+        },
+        {
+            "name": "Editor",
+            "slug": "editor"
+        },
+        {
+            "name": "Email",
+            "slug": "email"
+        },
+        {
+            "name": "Extension",
+            "slug": "extension"
+        },
+        {
+            "name": "Font",
+            "slug": "font"
+        },
+        {
+            "name": "Forum",
+            "slug": "forum"
+        },
+        {
+            "name": "Freelance",
+            "slug": "freelance"
+        },
+        {
+            "name": "Hacktoberfest",
+            "slug": "hacktoberfest"
+        },
+        {
+            "name": "Hosting",
+            "slug": "hosting"
+        },
+        {
+            "name": "Icon",
+            "slug": "icon"
+        },
+        {
+            "name": "Illustration",
+            "slug": "illustration"
+        },
+        {
+            "name": "Image",
+            "slug": "image"
+        },
+        {
+            "name": "Inspiration",
+            "slug": "inspiration"
+        },
+        {
+            "name": "Interview",
+            "slug": "interview"
+        },
+        {
+            "name": "Job",
+            "slug": "job"
+        },
+        {
+            "name": "Learn",
+            "slug": "learn"
+        },
+        {
+            "name": "Legal",
+            "slug": "legal"
+        },
+        {
+            "name": "Library",
+            "slug": "library"
+        },
+        {
+            "name": "Logging",
+            "slug": "logging"
+        },
+        {
+            "name": "Logo",
+            "slug": "logo"
+        },
+        {
+            "name": "Marketing",
+            "slug": "marketing"
+        },
+        {
+            "name": "Newsletter",
+            "slug": "newsletter"
+        },
+        {
+            "name": "Open Source",
+            "slug": "open-source"
+        },
+        {
+            "name": "Performance",
+            "slug": "performance"
+        },
+        {
+            "name": "Personal Website",
+            "slug": "personal-website"
+        },
+        {
+            "name": "Podcast",
+            "slug": "podcast"
+        },
+        {
+            "name": "Productivity",
+            "slug": "productivity"
+        },
+        {
+            "name": "Programming",
+            "slug": "programming"
+        },
+        {
+            "name": "Prototyping",
+            "slug": "prototyping"
+        },
+        {
+            "name": "Remote",
+            "slug": "remote"
+        },
+        {
+            "name": "Resume",
+            "slug": "resume"
+        },
+        {
+            "name": "Scraping",
+            "slug": "scraping"
+        },
+        {
+            "name": "Screenshot",
+            "slug": "screenshot"
+        },
+        {
+            "name": "Security",
+            "slug": "security"
+        },
+        {
+            "name": "SEO",
+            "slug": "seo"
+        },
+        {
+            "name": "Serverless",
+            "slug": "serverless"
+        },
+        {
+            "name": "Startup",
+            "slug": "startup"
+        },
+        {
+            "name": "Storage",
+            "slug": "storage"
+        },
+        {
+            "name": "Template",
+            "slug": "template"
+        },
+        {
+            "name": "Terminal",
+            "slug": "terminal"
+        },
+        {
+            "name": "Testing",
+            "slug": "testing"
+        },
+        {
+            "name": "Tooling",
+            "slug": "tooling"
+        },
+        {
+            "name": "Twitter",
+            "slug": "twitter"
+        },
+        {
+            "name": "Typing",
+            "slug": "typing"
+        },
+        {
+            "name": "UI",
+            "slug": "ui"
+        },
+        {
+            "name": "UX",
+            "slug": "ux"
+        },
+        {
+            "name": "Video",
+            "slug": "video"
+        },
+        {
+            "name": "Web3",
+            "slug": "web3"
+        },
+        {
+            "name": "Website Builder",
+            "slug": "website-builder"
+        },
+        {
+            "name": "Writing",
+            "slug": "writing"
+        },
+        {
+            "name": "YouTube Channel",
+            "slug": "youtube-channel"
+        }
+    ]
+}

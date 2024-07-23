@@ -174,6 +174,21 @@ export const resources: Resource[] = [
         url: 'https://www.escrow.com/',
     },
     {
+        name: 'Eventyco',
+        categories: ['Conference'],
+        description:
+            'Discover the best tech conferences and events for developers, designers, and tech professionals. Updated weekly.',
+        url: 'https://dev.events/',
+        keywords: [
+            'tech events',
+            'developer events',
+            'designer events',
+            'tech conferences',
+            'developer conferences',
+            'designer conferences',
+        ],
+    },
+    {
         name: 'Everyone Hates Marketers',
         categories: ['Marketing'],
         description:

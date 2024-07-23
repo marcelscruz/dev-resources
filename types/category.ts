@@ -17,6 +17,7 @@ export type Category =
     | 'Code Generator'
     | 'Code Snippet'
     | 'Color'
+    | 'Conference'
     | 'Database'
     | 'Design'
     | 'Documentation'
