@@ -260,7 +260,8 @@ export const resources: Resource[] = [
     {
         name: 'Hypertune',
         categories: ['Analytics', 'Tooling', 'Productivity'],
-        description: 'Type-safe feature flags, A/B testing, analytics and app configuration, with Git-style version control and local, synchronous, in-memory flag evaluation.',
+        description:
+            'Type-safe feature flags, A/B testing, analytics and app configuration, with Git-style version control and local, synchronous, in-memory flag evaluation.',
         url: 'https://www.hypertune.com/',
         keywords: [
             'hypertune',
