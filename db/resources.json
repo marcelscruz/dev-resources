@@ -1,5 +1,5 @@
 {
-"count": 895,
+"count": 900,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1941,6 +1941,32 @@
         "url": "https://github.com/Developer-Y/cs-video-courses"
     },
     {
+        "name": "Confs.Tech",
+        "categories": [
+            "Conference"
+        ],
+        "description": "Open-Source project that lists upcoming tech conferences. Everything is free and will stay free. It is a technical conferences finder.",
+        "url": "https://confs.tech/",
+        "keywords": [
+            ".Net",
+            "Accessibility",
+            "Android",
+            "CSS",
+            "Data - AI",
+            "Design - UX",
+            "DevOps",
+            "Elixir",
+            "IoT",
+            "Java",
+            "JavaScript",
+            "PHP",
+            "Python",
+            "Ruby",
+            "Security",
+            "iOS"
+        ]
+    },
+    {
         "name": "Console Ninja",
         "categories": [
             "Editor",
@@ -2554,6 +2580,32 @@
         "url": "https://www.youtube.com/c/DevEd/"
     },
     {
+        "name": "Dev Events",
+        "categories": [
+            "Conference"
+        ],
+        "description": "Dev.events is a comprehensive listing of tech conferences for developers. It covers a wide range of topics, from cutting-edge AI and computing to software development.",
+        "url": "https://dev.events/",
+        "keywords": [
+            ".Net",
+            "Accessibility",
+            "Android",
+            "CSS",
+            "Data - AI",
+            "Design - UX",
+            "DevOps",
+            "Elixir",
+            "IoT",
+            "Java",
+            "JavaScript",
+            "PHP",
+            "Python",
+            "Ruby",
+            "Security",
+            "iOS"
+        ]
+    },
+    {
         "name": "devChallenges",
         "categories": [
             "Code Challenge"
@@ -3041,6 +3093,22 @@
         ],
         "description": "Secure online payment processing from the world’s largest online escrow service since 1999. Trusted by 1M+ users. Priced as low as 0.89%. For transactions $100 to $10M+.",
         "url": "https://www.escrow.com/"
+    },
+    {
+        "name": "Eventyco",
+        "categories": [
+            "Conference"
+        ],
+        "description": "Discover the best tech conferences and events for developers, designers, and tech professionals. Updated weekly.",
+        "url": "https://dev.events/",
+        "keywords": [
+            "tech events",
+            "developer events",
+            "designer events",
+            "tech conferences",
+            "developer conferences",
+            "designer conferences"
+        ]
     },
     {
         "name": "Everyone Hates Marketers",
@@ -5139,6 +5207,19 @@
         ],
         "description": "Directory of free JavaScript ebooks. Contribute to revolunet/JSbooks development by creating an account on GitHub.",
         "url": "https://jsbooks.revolunet.com/"
+    },
+    {
+        "name": "JSConf",
+        "categories": [
+            "Conference"
+        ],
+        "description": "JSConf is a series of JavaScript conferences from around the world and online. Conferences for the JavaScript community.",
+        "url": "https://jsconf.com/",
+        "keywords": [
+            "JavaScript",
+            "conference",
+            "community"
+        ]
     },
     {
         "name": "JustRemote",
@@ -8816,6 +8897,32 @@
         ],
         "description": "Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm!",
         "url": "https://hammerstone.dev/podcast"
+    },
+    {
+        "name": "The Linux Foundation - Events",
+        "categories": [
+            "Conference"
+        ],
+        "description": "The Linux Foundation hosts a variety of events around the world, including leading open source conferences such as Open Source Summit, Embedded Linux Conference, KubeCon + CloudNativeCon, and more.",
+        "url": "https://events.linuxfoundation.org/",
+        "keywords": [
+            ".Net",
+            "Accessibility",
+            "Android",
+            "CSS",
+            "Data - AI",
+            "Design - UX",
+            "DevOps",
+            "Elixir",
+            "IoT",
+            "Java",
+            "JavaScript",
+            "PHP",
+            "Python",
+            "Ruby",
+            "Security",
+            "iOS"
+        ]
     },
     {
         "name": "The Net Ninja",
