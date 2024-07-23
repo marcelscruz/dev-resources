@@ -108,4 +108,12 @@ export const resources: Resource[] = [
         keywords: ['professional resume builder'],
         url: 'https://novoresume.com/',
     },
+    {
+        name: 'Niche Tools',
+        categories: ['SEO', 'Marketing'],
+        description:
+            'Ditch the endless market research and unlock instant access to over 1200+ web tools you can build today',
+        keywords: ['SEO', 'Marketing'],
+        url: ' https://nichetools.net',
+    },
 ]
