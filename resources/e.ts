@@ -175,7 +175,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Eventyco',
-        categories: ['Dev Conference'],
+        categories: ['Conference'],
         description:
             'Discover the best tech conferences and events for developers, designers, and tech professionals. Updated weekly.',
         url: 'https://dev.events/',

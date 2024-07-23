@@ -185,7 +185,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Dev Events',
-        categories: ['Dev Conference'],
+        categories: ['Conference'],
         description:
             'Dev.events is a comprehensive listing of tech conferences for developers. It covers a wide range of topics, from cutting-edge AI and computing to software development.',
         url: 'https://dev.events/',

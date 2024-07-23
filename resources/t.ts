@@ -205,7 +205,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'The Linux Foundation - Events',
-        categories: ['Dev Conference'],
+        categories: ['Conference'],
         description:
             'The Linux Foundation hosts a variety of events around the world, including leading open source conferences such as Open Source Summit, Embedded Linux Conference, KubeCon + CloudNativeCon, and more.',
         url: 'https://events.linuxfoundation.org/',

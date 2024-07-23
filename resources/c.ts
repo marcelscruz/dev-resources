@@ -686,7 +686,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Confs.Tech',
-        categories: ['Dev Conference'],
+        categories: ['Conference'],
         description:
             'Open-Source project that lists upcoming tech conferences. Everything is free and will stay free. It is a technical conferences finder.',
         url: 'https://confs.tech/',

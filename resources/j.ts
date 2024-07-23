@@ -113,7 +113,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'JSConf',
-        categories: ['Dev Conference'],
+        categories: ['Conference'],
         description:
             'JSConf is a series of JavaScript conferences from around the world and online. Conferences for the JavaScript community.',
         url: 'https://jsconf.com/',
