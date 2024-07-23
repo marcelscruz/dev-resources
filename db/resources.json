@@ -1,5 +1,5 @@
 {
-"count": 902,
+"count": 903,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9596,6 +9596,20 @@
         ],
         "description": "UXfolio is a powerful UX portfolio builder with no coding required. Pick a stunning template and tell the story behind your design process.",
         "url": "https://uxfol.io/"
+    },
+    {
+        "name": "Vatis Tech",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Vatis Tech offers advanced speech-to-text technology, converting audio or video files into text with over 90% accuracy using proprietary deep-learning algorithms",
+        "keywords": [
+            "Speech to Text ",
+            "Transcription ",
+            "Voice Recognition "
+        ],
+        "url": "https://vatis.tech"
     },
     {
         "name": "Vector Illustrations",
