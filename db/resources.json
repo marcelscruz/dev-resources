@@ -1,5 +1,5 @@
 {
-"count": 904,
+"count": 905,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3977,6 +3977,14 @@
             "javascript \"web development\" programming software development technology computer science engineering developer creativity productivity"
         ],
         "url": "https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q"
+    },
+    {
+        "name": "Fusion",
+        "categories": [
+            "API Building"
+        ],
+        "description": "Fusion is the \"Notion-like\" API client. Modular API design, testing & collaboration for the entire API lifecycle. Available as SaaS and self hosted.",
+        "url": "https://apyhub.com/product/fusion"
     },
     {
         "name": "FusionCharts",
