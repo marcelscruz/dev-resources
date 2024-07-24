@@ -634,5 +634,6 @@ export const resources: Resource[] = [
         description:
             'Fusion is the "Notion-like" API client. Modular API design, testing & collaboration for the entire API lifecycle. Available as SaaS and self hosted.',
         url: 'https://apyhub.com/product/fusion',
+        keywords: ['API testing', 'API design', 'API collaboration', 'API documentation'],
     },
 ]
