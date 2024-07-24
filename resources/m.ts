@@ -269,6 +269,23 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'MonsterONE',
+        categories: ['Design', 'Marketing', 'Template'],
+        description:
+            'MonsterONE offers access to 420K+ premium digital items like web themes, templates, graphics, and more—all with a single subscription. Pay once, access all!',
+        url: 'https://monsterone.com/',
+        keywords: [
+            'MonsterONE subscription service',
+            'MonsterONE design service',
+            'free & premium website templates',
+            'WordPress themes',
+            'website templates',
+            'newsletter templates',
+            'audio & video assets',
+            'e-commerce templates and themes',
+        ],
+    },
+    {
         name: 'Moqups',
         categories: ['Prototyping'],
         description:
