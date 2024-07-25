@@ -273,6 +273,13 @@ export const resources: Resource[] = [
         url: 'https://github.com/prakhar1989/awesome-courses',
     },
     {
+        name: 'Awesome Design Tools',
+        categories: ['Design', 'UI'],
+        description: 'The best design tools and plugins for everything',
+        url: 'https://www.toools.design/',
+        keywords: ['design', 'UI'],
+    },
+    {
         name: 'Awesome for Beginners',
         categories: ['Hacktoberfest'],
         description:
