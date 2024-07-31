@@ -96,6 +96,13 @@ export const resources: Resource[] = [
         url: 'https://aijobs.app',
     },
     {
+        name: 'AI Anime Generator',
+        categories: ['AI', 'Image Generator', 'Art Generator'],
+        description: 'Create stunning anime art online with our AI Anime Generator. high-quality AI anime art generator from text or images. photo to anime, graffiti to anime, anime to video, and more.',
+        url: 'https://aianimegen.com',
+        keywords: ['ai', 'artificial intelligence', 'image', 'anime']
+    },
+    {
         name: 'AI Directories',
         categories: ['AI', 'SEO', 'Marketing'],
         description:
