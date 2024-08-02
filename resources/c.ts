@@ -849,6 +849,22 @@ export const resources: Resource[] = [
         url: 'https://www.coursera.org/',
     },
     {
+        name: 'Cozytypes',
+        description:
+            'A simple and aesthetic typing website to help improve your typing speed and accuracy. a simple typing website for keyboard enthusiasts. Practice in different different modes, personalize your settings and preferences, and improve your skills.',
+        categories: ['Typing'],
+        url: 'https://cozytypes.com',
+        keywords: [
+            'typing',
+            'typing-test',
+            'cozytypes',
+            'words per minute',
+            'simple typing website',
+            'improve typing',
+            'practice typing',
+        ],
+    },
+    {
         name: 'Craftwork',
         categories: ['Font', 'Icon', 'Illustration'],
         description:
