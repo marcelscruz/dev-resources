@@ -739,7 +739,14 @@ export const resources: Resource[] = [
         description: 'Data Processing & ETL infrastructure for Generative AI applications',
         categories: ['AI', 'Database'],
         url: 'https://contextdata.ai',
-        keywords: ['ai infrastructure', 'generative ai', 'vector database', 'rag', 'data engineering', 'retrieval augmented generation'],
+        keywords: [
+            'ai infrastructure',
+            'generative ai',
+            'vector database',
+            'rag',
+            'data engineering',
+            'retrieval augmented generation',
+        ],
     },
 
     {
