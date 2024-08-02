@@ -1,5 +1,5 @@
 {
-"count": 906,
+"count": 907,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2320,6 +2320,23 @@
             "Resume"
         ],
         "url": "https://www.cvmakerai.com"
+    },
+    {
+        "name": "Cynagon",
+        "categories": [
+            "AI",
+            "Video"
+        ],
+        "description": "Cynagon is the ultimate tool for creating viral and engaging short-form videos.",
+        "keywords": [
+            "ai",
+            "ai video",
+            "video generator",
+            "shorts generator",
+            "ai shorts",
+            "shorts content"
+        ],
+        "url": "https://www.cynagon.com/"
     },
     {
         "name": "Cypress",
