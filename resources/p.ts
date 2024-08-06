@@ -61,8 +61,7 @@ export const resources: Resource[] = [
     {
         name: 'PerfectBugReport.io',
         categories: ['Testing'],
-        description:
-            'A simple checklist of the essential items to include in bug reports.',
+        description: 'A simple checklist of the essential items to include in bug reports.',
         url: 'https://www.perfectbugreport.io/',
         keywords: ['bug report', 'bug report checklist', 'how to write bug report'],
     },
