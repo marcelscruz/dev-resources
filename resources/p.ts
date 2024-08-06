@@ -59,6 +59,14 @@ export const resources: Resource[] = [
         url: 'https://www.peopleperhour.com/',
     },
     {
+        name: 'PerfectBugReport.io',
+        categories: ['Testing'],
+        description:
+            'A simple checklist of the essential items to include in bug reports.',
+        url: 'https://www.perfectbugreport.io/',
+        keywords: ['bug report', 'bug report checklist', 'how to write bug report'],
+    },
+    {
         name: 'Pexels',
         categories: ['Video', 'Image'],
         description: "Finding the perfect photo or video shouldn't take forever.",
