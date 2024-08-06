@@ -1,5 +1,5 @@
 {
-"count": 908,
+"count": 910,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2935,6 +2935,23 @@
         ],
         "description": "Coding tutorials about CSS, HTML, JavaScript, and articles about design creativity & modern web development technology.",
         "url": "https://www.easeout.co/"
+    },
+    {
+        "name": "Easy Folders",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Extension"
+        ],
+        "description": "Create Folders, Search Chat History, Bookmark Chats, Create Custom Instructions Profiles + more!",
+        "url": "https://www.easyfolders.io/",
+        "keywords": [
+            "ai",
+            "ChatGPT",
+            "Claude",
+            "Browser Extension",
+            "Productivity"
+        ]
     },
     {
         "name": "Easy-Peasy.AI",
@@ -7094,6 +7111,22 @@
             "artificial intelligence"
         ],
         "url": "https://projectlearn.io/"
+    },
+    {
+        "name": "ProtoUI",
+        "description": "ProtoUI generates responsive TailwindCSS code + UI in seconds.",
+        "categories": [
+            "AI",
+            "Design",
+            "Code Generator"
+        ],
+        "url": "https://protoui.dev",
+        "keywords": [
+            "Tailwind",
+            "frontend",
+            "AI",
+            "responsive ui"
+        ]
     },
     {
         "name": "Proxies API",
