@@ -194,13 +194,6 @@ export const resources: Resource[] = [
         url: 'https://remote.co/',
     },
     {
-        name: 'RemoteLeads',
-        categories: ['Job', 'Remote'],
-        description:
-            'Freelancers get your next highly-qualified remote web development project lead sent to your inbox. We search 100s of sources daily to find your next freelance web development project.',
-        url: 'http://remoteleads.io/',
-    },
-    {
         name: 'RemoteOK',
         categories: ['Job', 'Remote'],
         description:
@@ -351,13 +344,6 @@ export const resources: Resource[] = [
         categories: ['Job'],
         description: 'The biggest list of Space jobs from New space companies.',
         url: 'https://rocketcrew.space/',
-    },
-    {
-        name: 'Rome',
-        categories: ['Programming', 'Tooling'],
-        description:
-            'Rome is a linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS.',
-        url: 'https://rome.tools/',
     },
     {
         name: 'RubyMine',

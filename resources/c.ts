@@ -496,14 +496,6 @@ export const resources: Resource[] = [
         url: 'https://www.codewars.com/',
     },
     {
-        name: 'Codewell',
-        categories: ['Learn', 'Programming'],
-        description: 'Improve your HTML and CSS skills by practicing on real world design templates.',
-        url: 'https://www.codewell.cc/',
-
-        keywords: ['frontend', 'html', 'css', 'flexbox', 'grid', 'javascript'],
-    },
-    {
         name: 'Codinn',
         categories: ['Learn', 'Programming'],
         description:
@@ -978,13 +970,6 @@ export const resources: Resource[] = [
         categories: ['Browser', 'Extension'],
         description: 'A simple CSS property viewer.',
         url: 'https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce',
-    },
-    {
-        name: 'CV Maker AI',
-        description:
-            'Let artificial intelligence create your flawless resume, offering personalized suggestions and tailored content to secure your ideal job.',
-        categories: ['Resume'],
-        url: 'https://www.cvmakerai.com',
     },
     {
         name: 'Customer.io',

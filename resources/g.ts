@@ -245,12 +245,6 @@ export const resources: Resource[] = [
         keywords: ['ai', 'fraud prevention', 'api', 'geoip', 'profanity detection'],
     },
     {
-        name: 'Grid.Guide',
-        categories: ['Learn', 'Programming'],
-        description: 'Create pixel perfect grids for the web.',
-        url: 'http://grid.guide/',
-    },
-    {
         name: 'Grid Garden',
         categories: ['Learn', 'Programming'],
         description: 'A game for learning CSS grid layout.',

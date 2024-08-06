@@ -22,14 +22,6 @@ export const resources: Resource[] = [
         url: 'https://www.keybr.com/',
     },
     {
-        name: 'keyframers',
-        categories: ['Programming', 'YouTube Channel'],
-        description:
-            'An animated, collaborative coding live stream by David Khourshid (@davidkpiano) & Stephen Shaw (@shshaw). We bring imaginative user interfaces to life every Monday @ 17:00 EST/21:00 GMT at https://twitch.tv/keyframers Support us at https://patreon.com/keyframers Find developer shirts, stickers & more at https://keyframe.rs/merch https://keyframe.rs.',
-        keywords: ['code "live stream" css html javascript animation'],
-        url: 'https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA',
-    },
-    {
         name: 'Keysearch',
         categories: ['SEO'],
         description:

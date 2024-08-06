@@ -31,15 +31,6 @@ export const resources: Resource[] = [
         url: 'https://land-book.com/',
     },
     {
-        name: 'Landingexam',
-        categories: ['Design', 'Inspiration', 'UI'],
-        description:
-            'Landing page examples to inspire your promo web page projects. Product, app, webinar and more categories to choose from.',
-        url: 'https://landingexam.com',
-
-        keywords: ['landing page examples', 'landing page design inspiration', 'landing page design'],
-    },
-    {
         name: 'Landing AI',
         categories: ['AI', 'Website Builder'],
         description:
@@ -52,13 +43,6 @@ export const resources: Resource[] = [
         description:
             'The Landing Page Hot Tips Ebook features 100 digestible lessons to implement into your Landing Pages. Each tip features a few paragraphs, visual references and related resources. Additional features include: PDF Ebook (180-pages), Rich Media Ebook (adapts to any device), Category filter (eg. UX tips), Component filter (eg. Testimonials), Audiobook (54mins) and interactive launch checklists.',
         url: 'https://gumroad.com/a/124908659',
-    },
-    {
-        name: 'Landing Pages Explained',
-        categories: ['Marketing', 'UX'],
-        description:
-            'The only collection of leading SaaS and creator landing pages with expert explanations of the ideas used to increase conversion.',
-        url: 'https://landingpagesexplained.com/',
     },
     {
         name: 'Lapa Ninja',
@@ -262,12 +246,6 @@ export const resources: Resource[] = [
         description: 'At Lilybank AI, we provide a range of tools to boost your online content creation.',
         url: 'https://lilybankai.com',
         keywords: ['content', 'templates', 'voiceovers', 'speech-to-text', 'image generator', 'transcriptions'],
-    },
-    {
-        name: 'Like I Am Five',
-        categories: ['Learn', 'Programming'],
-        description: 'Learn to code through real-life projects in less than 4 hours.',
-        url: 'https://www.likeiamfive.com/',
     },
     {
         name: 'Line Icon Pack',

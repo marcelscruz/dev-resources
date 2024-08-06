@@ -60,14 +60,6 @@ export const resources: Resource[] = [
         keywords: ['daisy', 'ui', 'daisyui', 'library'],
     },
     {
-        name: 'DamnGood.Tools',
-        categories: ['Productivity'],
-        description: 'Easy-to-use, fun tools—free (and open-source).',
-        url: 'https://damngood.tools',
-
-        keywords: ['tools', 'productivity', 'grammar fix', 'privacy policy', 'fonts', 'url', 'screenshot'],
-    },
-    {
         name: 'Dark',
         categories: ['Design', 'UI'],
         description: 'The best hand-picked dark themed websites on the internet.',

@@ -130,13 +130,6 @@ export const resources: Resource[] = [
         url: 'https://www.seotisfy.com',
     },
     {
-        name: 'SEO-GO',
-        categories: ['SEO'],
-        description:
-            'Provides everything you need for SEO and easy teamwork on SEO projects, rank higher and increase more traffic to your website.',
-        url: 'https://www.seo-go.top',
-    },
-    {
         name: 'SerpApi',
         categories: ['Scraping'],
         description: 'SerpApi provides a simple API to scrape Google and other search engines.',
@@ -493,12 +486,6 @@ export const resources: Resource[] = [
         description:
             "Every creator's one-stop shop for the best royalty free music, SFX, and stock video. Purchase a license for one file, or subscribe for unlimited access.",
         url: 'https://www.soundstripe.com/',
-    },
-    {
-        name: 'Splawr',
-        categories: ['Template'],
-        description: 'Explore the world of our free web templates to kickstart your idea!',
-        url: 'https://splawr.com',
     },
     {
         name: 'Splitbee',
