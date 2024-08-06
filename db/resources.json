@@ -1,5 +1,5 @@
 {
-"count": 912,
+"count": 892,
 "data": [
     {
         "name": "1001 Fonts",
@@ -47,21 +47,6 @@
             "one-liner javascript"
         ],
         "url": "https://1loc.dev/"
-    },
-    {
-        "name": "1upsaas",
-        "description": "A SaaS development kit for Next.js",
-        "categories": [
-            "Programming",
-            "Template"
-        ],
-        "keywords": [
-            "Next.js",
-            "Boilerplate",
-            "SaaS",
-            "React"
-        ],
-        "url": "https://1upsaas.com/"
     },
     {
         "name": "30 seconds of code",
@@ -180,17 +165,6 @@
         ],
         "description": "The Best Free and Premium Admin Templates by AdminMart.",
         "url": "https://adminmart.com/"
-    },
-    {
-        "name": "Adobe XD",
-        "categories": [
-            "Prototyping",
-            "Design",
-            "UI",
-            "UX"
-        ],
-        "description": "Adobe XD is a fast & powerful UI/UX design solution for websites, apps & more. Design, wireframe, animate, prototype, collaborate & share  — all in one place.",
-        "url": "https://www.adobe.com/products/xd.html"
     },
     {
         "name": "Adrian Twarog",
@@ -331,20 +305,6 @@
         ],
         "description": "Use AppMockUp, the world's most powerful screenshot builder to create the most compelling screenshots for your app.",
         "url": "https://app-mockup.com/"
-    },
-    {
-        "name": "Appshine",
-        "categories": [
-            "Design"
-        ],
-        "description": "Use Appshine to get a UX/UI mobile or web design for your tech startup that drive higher sales, retention, and referrals.",
-        "url": "https://appshine.io",
-        "keywords": [
-            "ui design",
-            "app design",
-            "mobile design",
-            "web design"
-        ]
     },
     {
         "name": "Appwrite",
@@ -1705,23 +1665,6 @@
         "url": "https://www.codewars.com/"
     },
     {
-        "name": "Codewell",
-        "categories": [
-            "Learn",
-            "Programming"
-        ],
-        "description": "Improve your HTML and CSS skills by practicing on real world design templates.",
-        "url": "https://www.codewell.cc/",
-        "keywords": [
-            "frontend",
-            "html",
-            "css",
-            "flexbox",
-            "grid",
-            "javascript"
-        ]
-    },
-    {
         "name": "Codiga",
         "categories": [
             "Editor",
@@ -2346,14 +2289,6 @@
         "url": "https://customer.io/"
     },
     {
-        "name": "CV Maker AI",
-        "description": "Let artificial intelligence create your flawless resume, offering personalized suggestions and tailored content to secure your ideal job.",
-        "categories": [
-            "Resume"
-        ],
-        "url": "https://www.cvmakerai.com"
-    },
-    {
         "name": "Cynagon",
         "categories": [
             "AI",
@@ -2468,23 +2403,6 @@
             "ui",
             "daisyui",
             "library"
-        ]
-    },
-    {
-        "name": "DamnGood.Tools",
-        "categories": [
-            "Productivity"
-        ],
-        "description": "Easy-to-use, fun tools—free (and open-source).",
-        "url": "https://damngood.tools",
-        "keywords": [
-            "tools",
-            "productivity",
-            "grammar fix",
-            "privacy policy",
-            "fonts",
-            "url",
-            "screenshot"
         ]
     },
     {
@@ -3723,15 +3641,6 @@
         "url": "https://www.freeforgeeks.com"
     },
     {
-        "name": "Free JavaScript Resources",
-        "categories": [
-            "Learn",
-            "Programming"
-        ],
-        "description": "Learn JavaScript for free",
-        "url": "https://www.java5cript.com/"
-    },
-    {
         "name": "freeCodeCamp",
         "categories": [
             "Learn",
@@ -4038,7 +3947,7 @@
             "Programming",
             "YouTube Channel"
         ],
-        "description": "I’m Mattias Petter Johansson, mpj for short. I’ve been a full-time programmer for about ten years. Among others, I've worked for Absolut Vodka, Blackberry and Spotify.   Videos are released on MONDAYS at 08:00 GMT. For the love of 🗿, watch them! ❤️ Support the show on Patreon: https://patreon.com/funfunfunction: ⛱ Pledge $2/month and get access to the Fun Fun Forum where I and other inspiring patrons hang out and talk about everything more or less related to programming. Become a SUPER PATRON 🦹‍♀️🦸‍♂️ for $9/month and get access to the Forum AND random LOOT (like stickers and private live streams) Check out the sister channel DevTips: https://www.youtube.com/user/DevTipsForDesigners.",
+        "description": "I’m Mattias Petter Johansson, mpj for short. I’ve been a full-time programmer for over twenty (!) years. Among others, I've worked for Absolut Vodka, Blackberry, Spotify and Mindler.",
         "keywords": [
             "javascript \"web development\" programming software development technology computer science engineering developer creativity productivity"
         ],
@@ -4429,15 +4338,6 @@
         ],
         "description": "A game for learning CSS grid layout.",
         "url": "https://cssgridgarden.com/"
-    },
-    {
-        "name": "Grid.Guide",
-        "categories": [
-            "Learn",
-            "Programming"
-        ],
-        "description": "Create pixel perfect grids for the web.",
-        "url": "http://grid.guide/"
     },
     {
         "name": "Grommet",
@@ -4983,14 +4883,6 @@
         "url": "https://www.artify.co/illustrations-figma"
     },
     {
-        "name": "Image Optimizer",
-        "categories": [
-            "Image"
-        ],
-        "description": "Compress and resize photos.",
-        "url": "http://www.imageoptimizer.net/"
-    },
-    {
         "name": "Img.Upscaler",
         "categories": [
             "AI",
@@ -5084,36 +4976,6 @@
         ],
         "description": "A Capable and Ergonomic Java IDE for Enterprise Java, Scala, Kotlin and much more...",
         "url": "https://www.jetbrains.com/idea/"
-    },
-    {
-        "name": "Interfacer",
-        "categories": [
-            "Illustration"
-        ],
-        "description": "Interfacer is a collection of 300+ free design resources found on the Web.",
-        "keywords": [
-            "design resources",
-            "web design",
-            "freedesignresources",
-            "free design resources",
-            "fonts",
-            "free illustration",
-            "freebies",
-            "freebie illustration",
-            "UI kits",
-            "design kit",
-            "Illustrations",
-            "free fonts",
-            "free Illustrations",
-            "free mockups",
-            "free icons",
-            "Interfacer",
-            "Interfacer list",
-            "Interfacer design resource",
-            "Interfacer resources",
-            "Interfacer design resources"
-        ],
-        "url": "https://interfacer.xyz/"
     },
     {
         "name": "IntersectionObserver Examples",
@@ -5383,18 +5245,6 @@
         "url": "https://www.keybr.com/"
     },
     {
-        "name": "keyframers",
-        "categories": [
-            "Programming",
-            "YouTube Channel"
-        ],
-        "description": "An animated, collaborative coding live stream by David Khourshid (@davidkpiano) & Stephen Shaw (@shshaw). We bring imaginative user interfaces to life every Monday @ 17:00 EST/21:00 GMT at https://twitch.tv/keyframers Support us at https://patreon.com/keyframers Find developer shirts, stickers & more at https://keyframe.rs/merch https://keyframe.rs.",
-        "keywords": [
-            "code \"live stream\" css html javascript animation"
-        ],
-        "url": "https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA"
-    },
-    {
         "name": "Keysearch",
         "categories": [
             "SEO"
@@ -5511,30 +5361,6 @@
         ],
         "description": "The Landing Page Hot Tips Ebook features 100 digestible lessons to implement into your Landing Pages. Each tip features a few paragraphs, visual references and related resources. Additional features include: PDF Ebook (180-pages), Rich Media Ebook (adapts to any device), Category filter (eg. UX tips), Component filter (eg. Testimonials), Audiobook (54mins) and interactive launch checklists.",
         "url": "https://gumroad.com/a/124908659"
-    },
-    {
-        "name": "Landing Pages Explained",
-        "categories": [
-            "Marketing",
-            "UX"
-        ],
-        "description": "The only collection of leading SaaS and creator landing pages with expert explanations of the ideas used to increase conversion.",
-        "url": "https://landingpagesexplained.com/"
-    },
-    {
-        "name": "Landingexam",
-        "categories": [
-            "Design",
-            "Inspiration",
-            "UI"
-        ],
-        "description": "Landing page examples to inspire your promo web page projects. Product, app, webinar and more categories to choose from.",
-        "url": "https://landingexam.com",
-        "keywords": [
-            "landing page examples",
-            "landing page design inspiration",
-            "landing page design"
-        ]
     },
     {
         "name": "Lapa Ninja",
@@ -5792,15 +5618,6 @@
             "website optimization",
             "website analysis"
         ]
-    },
-    {
-        "name": "Like I Am Five",
-        "categories": [
-            "Learn",
-            "Programming"
-        ],
-        "description": "Learn to code through real-life projects in less than 4 hours.",
-        "url": "https://www.likeiamfive.com/"
     },
     {
         "name": "Lilybank AI",
@@ -6432,20 +6249,6 @@
         ],
         "description": "Production grade React applications that scale. The world’s leading companies use Next.js by Vercel to build static and dynamic websites and web applications.",
         "url": "https://nextjs.org/"
-    },
-    {
-        "name": "Nextjs Devs",
-        "categories": [
-            "Job"
-        ],
-        "description": "The reverse job board for Next.js developers",
-        "url": "https://nextjsdevs.net/",
-        "keywords": [
-            "javascript",
-            "React.js",
-            "Next.js",
-            "jobs"
-        ]
     },
     {
         "name": "NextUI",
@@ -7550,15 +7353,6 @@
         "url": "https://remote.co/"
     },
     {
-        "name": "RemoteLeads",
-        "categories": [
-            "Job",
-            "Remote"
-        ],
-        "description": "Freelancers get your next highly-qualified remote web development project lead sent to your inbox. We search 100s of sources daily to find your next freelance web development project.",
-        "url": "http://remoteleads.io/"
-    },
-    {
         "name": "RemoteOK",
         "categories": [
             "Job",
@@ -7780,15 +7574,6 @@
         "url": "https://rocketcrew.space/"
     },
     {
-        "name": "Rome",
-        "categories": [
-            "Programming",
-            "Tooling"
-        ],
-        "description": "Rome is a linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS.",
-        "url": "https://rome.tools/"
-    },
-    {
         "name": "RubyMine",
         "categories": [
             "Editor",
@@ -7997,14 +7782,6 @@
             "content optimisation",
             "keyword research"
         ]
-    },
-    {
-        "name": "SEO-GO",
-        "categories": [
-            "SEO"
-        ],
-        "description": "Provides everything you need for SEO and easy teamwork on SEO projects, rank higher and increase more traffic to your website.",
-        "url": "https://www.seo-go.top"
     },
     {
         "name": "Seotisfy",
@@ -8460,14 +8237,6 @@
         ],
         "description": "Every creator's one-stop shop for the best royalty free music, SFX, and stock video. Purchase a license for one file, or subscribe for unlimited access.",
         "url": "https://www.soundstripe.com/"
-    },
-    {
-        "name": "Splawr",
-        "categories": [
-            "Template"
-        ],
-        "description": "Explore the world of our free web templates to kickstart your idea!",
-        "url": "https://splawr.com"
     },
     {
         "name": "Splitbee",
@@ -9487,16 +9256,6 @@
         ],
         "description": "Learn just enough visual design to be dangerous as a developer.",
         "url": "https://designcode.io/ui-design-for-developers"
-    },
-    {
-        "name": "UI Garage",
-        "categories": [
-            "Design",
-            "Inspiration",
-            "UI"
-        ],
-        "description": "Daily UI inspiration & patterns for designers, developers to find inspiration, tools and the best resources for your project.",
-        "url": "https://uigarage.net/"
     },
     {
         "name": "UI HUT",
