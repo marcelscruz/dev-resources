@@ -1,5 +1,5 @@
 {
-"count": 911,
+"count": 912,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1192,6 +1192,21 @@
         "keywords": [
             "ai",
             "prompts"
+        ]
+    },
+    {
+        "name": "Chatim",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Chatim is a live chat with a chatbot automation platform that lets you connect with customers anywhere, anytime",
+        "url": "https://chatim.app/",
+        "keywords": [
+            "Live Chat",
+            "Lead Generation",
+            "Sales",
+            "Chatbot"
         ]
     },
     {
