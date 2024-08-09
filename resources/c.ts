@@ -197,7 +197,7 @@ export const resources: Resource[] = [
         name: 'CleanSnap',
         categories: ['Image', 'Screenshot', 'AI'],
         description:
-            "CleanSnap is a free AI Images maker. Create a beautiful image from a screenshot in seconds. Without any watermark.",
+            'CleanSnap is a free AI Images maker. Create a beautiful image from a screenshot in seconds. Without any watermark.',
         keywords: [
             'image generation',
             'beautiful screenshots',

@@ -1,5 +1,5 @@
 {
-"count": 892,
+"count": 893,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1258,6 +1258,31 @@
         ],
         "description": "Consistent open source icons as SVG for React, Vue and Svelte.",
         "url": "https://circumicons.com/"
+    },
+    {
+        "name": "CleanSnap",
+        "categories": [
+            "Image",
+            "Screenshot",
+            "AI"
+        ],
+        "description": "CleanSnap is a free AI Images maker. Create a beautiful image from a screenshot in seconds. Without any watermark.",
+        "keywords": [
+            "image generation",
+            "beautiful screenshots",
+            "screenshots creator",
+            "how to make generate image",
+            "image",
+            "screenshot",
+            "download",
+            "easy",
+            "photo",
+            "gif",
+            "picture",
+            "instagram",
+            "facebook"
+        ],
+        "url": "https://www.cleansnap.co/"
     },
     {
         "name": "Clearbit",
