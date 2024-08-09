@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Kempo',
+        categories: ['Programming', 'Blog'],
+        description: "Customized code playgrounds powered by CodeSandbox’s Sandpack.",
+        keywords: ['Programming', 'Code Editor', 'Code Demos'],
+        url: 'https://kempo.io',
+    },
+    {
         name: 'Kent C. Dodds',
         categories: ['Programming', 'YouTube Channel'],
         description: "Hi, I'm Kent C. Dodds. I help people make the world better through quality software.",
