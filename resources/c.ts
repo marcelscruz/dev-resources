@@ -194,6 +194,28 @@ export const resources: Resource[] = [
         url: 'https://clerk.com',
     },
     {
+        name: 'CleanSnap',
+        categories: ['Image', 'Screenshot', 'AI'],
+        description:
+            "CleanSnap is a free AI Images maker. Create a beautiful image from a screenshot in seconds. Without any watermark.",
+        keywords: [
+            'image generation',
+            'beautiful screenshots',
+            'screenshots creator',
+            'how to make generate image',
+            'image',
+            'screenshot',
+            'download',
+            'easy',
+            'photo',
+            'gif',
+            'picture',
+            'instagram',
+            'facebook',
+        ],
+        url: 'https://www.cleansnap.co/',
+    },
+    {
         name: 'Clideo',
         categories: ['Editor', 'Video'],
         description:
