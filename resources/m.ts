@@ -235,6 +235,12 @@ export const resources: Resource[] = [
         url: 'https://mochajs.org/',
     },
     {
+        name: 'Mockae',
+        categories: ['API Building'],
+        description: 'Fake REST APIs powered by Lua.',
+        url: 'https://mockae.com/',
+    },
+    {
         name: 'MongoDB',
         categories: ['Database'],
         description:
