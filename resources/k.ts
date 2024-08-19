@@ -4,7 +4,7 @@ export const resources: Resource[] = [
     {
         name: 'Kent C. Dodds',
         categories: ['Programming', 'YouTube Channel'],
-        description: "Hi, I'm Kent C. Dodds. I help people make the world better through quality software.",
+        description: 'Hi, I\'m Kent C. Dodds. I help people make the world better through quality software.',
         keywords: ['JavaScript Programming'],
         url: 'https://www.youtube.com/user/kentdoddsfamily',
     },
@@ -12,7 +12,7 @@ export const resources: Resource[] = [
         name: 'Kevin Powell',
         categories: ['Programming', 'YouTube Channel', 'Personal Website'],
         description:
-            "Helping you learn how to make the web, and make it look good while you're at it. With videos every Tuesday and Thursday, I'll be bringing you How Tos and Tutorials, as well as simple tips and tricks, with a big focus on helping people see how wonderful CSS is!",
+            'Helping you learn how to make the web, and make it look good while you\'re at it. With videos every Tuesday and Thursday, I\'ll be bringing you How Tos and Tutorials, as well as simple tips and tricks, with a big focus on helping people see how wonderful CSS is!',
         url: 'https://www.kevinpowell.co/',
     },
     {
@@ -67,5 +67,14 @@ export const resources: Resource[] = [
         description:
             'A marketplace of fully responsive, multi-purpose UI kits, built with Tailwind CSS, for start-ups and products of any kind.',
         url: 'https://kitwind.io/products/kometa',
+    },
+    {
+        name: 'Kraftful',
+        description:
+            'Copilot for product teams',
+        categories: ['Productivity', 'Analytics', 'AI'],
+        url: 'https://www.kraftful.com/',
+
+        keywords: ['Research', 'Productivity', 'User Experience', 'Summarization', 'Business', 'Collaboration', 'Chatbot', 'Data analytics', 'Project management', 'Market research', 'Task management', 'ChatGPT plugin', 'Design', 'Tech & Development'],
     },
 ]
