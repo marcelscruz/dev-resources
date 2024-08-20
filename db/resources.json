@@ -1,5 +1,5 @@
 {
-"count": 900,
+"count": 897,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4800,21 +4800,6 @@
         ]
     },
     {
-        "name": "Icon Horse",
-        "categories": [
-            "Icon"
-        ],
-        "description": "Free, easy to use, highest resolution possible favicons for any web site – including fallbacks if none are found.",
-        "keywords": [
-            "favicons",
-            "logo icons",
-            "web icons",
-            "logos",
-            "site logos"
-        ],
-        "url": "https://icon.horse"
-    },
-    {
         "name": "Iconbuddy",
         "categories": [
             "Icon"
@@ -7343,14 +7328,6 @@
         ]
     },
     {
-        "name": "ReactJobsBoard",
-        "categories": [
-            "Job"
-        ],
-        "description": "ReactJobsBoard helps you find React & React Native jobs at startups & tech companies. Browse our daily updated job board and find great React & React Native jobs. Find and hire the most talented React developers.",
-        "url": "https://reactjobsboard.com/"
-    },
-    {
         "name": "readme.so",
         "categories": [
             "Editor",
@@ -7943,16 +7920,6 @@
             "presets"
         ],
         "url": "https://shape.so/"
-    },
-    {
-        "name": "Shards React",
-        "categories": [
-            "Library",
-            "Programming",
-            "UI"
-        ],
-        "description": "Download Shards React a High-Quality & FREE React UI Kit based on Bootstrap 4 Featuring a Modern Design System and Dozens of Components.",
-        "url": "https://designrevision.com/downloads/shards-react/"
     },
     {
         "name": "Shift Nudge",
