@@ -1,5 +1,5 @@
 {
-"count": 898,
+"count": 899,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7591,6 +7591,14 @@
         ],
         "description": "Instantly create a job-winning resume. Resume-Now's resume builder includes job-specific resume templates, resume examples and expert writing tips to help you get the job.",
         "url": "https://www.resume-now.com/"
+    },
+    {
+        "name": "Resume.io",
+        "categories": [
+            "Resume"
+        ],
+        "description": "Helping millions of job-seekers worldwide create amazing professional resumes in minutes!",
+        "url": "https://resume.io"
     },
     {
         "name": "ResumeDive",
