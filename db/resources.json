@@ -1,5 +1,5 @@
 {
-"count": 894,
+"count": 895,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5583,6 +5583,22 @@
             "ai",
             "courses",
             "api"
+        ]
+    },
+    {
+        "name": "Lede",
+        "description": "Generate In-Depth Blog Content",
+        "categories": [
+            "Writing",
+            "Productivity",
+            "AI"
+        ],
+        "url": "https://thelede.ai",
+        "keywords": [
+            "assistant",
+            "research",
+            "content",
+            "blog"
         ]
     },
     {
