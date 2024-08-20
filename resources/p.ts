@@ -22,6 +22,13 @@ export const resources: Resource[] = [
         url: 'https://www.palettelist.com/',
     },
     {
+        name: 'Panem',
+        description: 'AI Powered SaaS Spend Management',
+        categories: ['Productivity', 'Startup'],
+        url: 'https://panem.co',
+        keywords: ['fintech', 'finance'],
+    },
+    {
         name: 'Patterninja',
         categories: ['Illustration'],
         description:
