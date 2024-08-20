@@ -1,5 +1,5 @@
 {
-"count": 893,
+"count": 894,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8527,6 +8527,21 @@
         ],
         "description": "Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI.",
         "url": "https://surge.sh/"
+    },
+    {
+        "name": "SvelteLaunch",
+        "description": "Svelte 5 Boilerplate for building AI apps quickly",
+        "categories": [
+            "AI",
+            "Startup",
+            "Template"
+        ],
+        "url": "https://sveltelaunch.io",
+        "keywords": [
+            "boilerplate",
+            "svelte",
+            "development"
+        ]
     },
     {
         "name": "SVG Backgrounds",

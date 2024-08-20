@@ -697,7 +697,7 @@ export const resources: Resource[] = [
         description: 'Svelte 5 Boilerplate for building AI apps quickly',
         categories: ['AI', 'Startup', 'Template'],
         url: 'https://sveltelaunch.io',
-        keywords: ['boilerplate', 'svelte', 'development'], 
+        keywords: ['boilerplate', 'svelte', 'development'],
     },
     {
         name: 'SVG Backgrounds',
