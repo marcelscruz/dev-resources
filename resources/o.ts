@@ -8,6 +8,12 @@ export const resources: Resource[] = [
         url: 'https://www.octotree.io/',
     },
     {
+        name: 'Odin A',
+        categories: ['AI', 'Productivity'],
+        description: 'Odin AI is a versatile AI tool designed to streamline workflows, enhance productivity, and simplify complex tasks through automation and AI-driven features',
+        url: 'https://getodin.ai/',
+    },
+    {
         name: 'Offen',
         categories: ['Analytics'],
         description:
