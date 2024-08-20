@@ -2,14 +2,6 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
-        name: 'Icon Horse',
-        categories: ['Icon'],
-        description:
-            'Free, easy to use, highest resolution possible favicons for any web site – including fallbacks if none are found.',
-        keywords: ['favicons', 'logo icons', 'web icons', 'logos', 'site logos'],
-        url: 'https://icon.horse',
-    },
-    {
         name: 'Iconbuddy',
         categories: ['Icon'],
         description:

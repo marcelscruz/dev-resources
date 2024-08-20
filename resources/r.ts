@@ -113,13 +113,6 @@ export const resources: Resource[] = [
         keywords: ['react tutorial', 'interactive react course'],
     },
     {
-        name: 'ReactJobsBoard',
-        categories: ['Job'],
-        description:
-            'ReactJobsBoard helps you find React & React Native jobs at startups & tech companies. Browse our daily updated job board and find great React & React Native jobs. Find and hire the most talented React developers.',
-        url: 'https://reactjobsboard.com/',
-    },
-    {
         name: 'readme.so',
         categories: ['Editor', 'Programming'],
         description:

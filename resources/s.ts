@@ -174,13 +174,6 @@ export const resources: Resource[] = [
         url: 'https://shape.so/',
     },
     {
-        name: 'Shards React',
-        categories: ['Library', 'Programming', 'UI'],
-        description:
-            'Download Shards React a High-Quality & FREE React UI Kit based on Bootstrap 4 Featuring a Modern Design System and Dozens of Components.',
-        url: 'https://designrevision.com/downloads/shards-react/',
-    },
-    {
         name: 'Shift Nudge',
         categories: ['Design', 'Learn', 'UI'],
         description:
