@@ -31,15 +31,6 @@ export const resources: Resource[] = [
         url: 'https://land-book.com/',
     },
     {
-        name: 'Landingexam',
-        categories: ['Design', 'Inspiration', 'UI'],
-        description:
-            'Landing page examples to inspire your promo web page projects. Product, app, webinar and more categories to choose from.',
-        url: 'https://landingexam.com',
-
-        keywords: ['landing page examples', 'landing page design inspiration', 'landing page design'],
-    },
-    {
         name: 'Landing AI',
         categories: ['AI', 'Website Builder'],
         description:
@@ -52,13 +43,6 @@ export const resources: Resource[] = [
         description:
             'The Landing Page Hot Tips Ebook features 100 digestible lessons to implement into your Landing Pages. Each tip features a few paragraphs, visual references and related resources. Additional features include: PDF Ebook (180-pages), Rich Media Ebook (adapts to any device), Category filter (eg. UX tips), Component filter (eg. Testimonials), Audiobook (54mins) and interactive launch checklists.',
         url: 'https://gumroad.com/a/124908659',
-    },
-    {
-        name: 'Landing Pages Explained',
-        categories: ['Marketing', 'UX'],
-        description:
-            'The only collection of leading SaaS and creator landing pages with expert explanations of the ideas used to increase conversion.',
-        url: 'https://landingpagesexplained.com/',
     },
     {
         name: 'Lapa Ninja',
@@ -76,6 +60,24 @@ export const resources: Resource[] = [
             'learn design',
         ],
         url: 'https://www.lapa.ninja/',
+    },
+    {
+        name: 'Laradir',
+        categories: ['Job', 'Freelance', 'Remote'],
+        description:
+            'The biggest directory of Laravel engineers. Find your next role or gig. Laradir is a reverse job board, so teams reach out to you!',
+        url: 'https://laradir.com/',
+        keywords: [
+            'laravel developers',
+            'laravel freelancers',
+            'directory',
+            'collaborators',
+            'mentor',
+            'full-time',
+            'part-time',
+            'hybrid',
+            'remote',
+        ],
     },
     {
         name: 'Larajobs',
@@ -165,11 +167,43 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw',
     },
     {
+        name: 'LeadKit',
+        categories: ['AI', 'Email', 'Scraping'],
+        description:
+            'Leadkit is a suite of tools every marketer needs, everyone pays for a lot of different tools from scraping the leads to verifying them and then a whole different tool-set for sending mass email campaigns.',
+        url: 'https://leadkit.ai',
+
+        keywords: [
+            'AI Scraper',
+            'Social Media Scraper',
+            'Instagram Scraping',
+            'Cold Email',
+            'Social Media Leads',
+            'Email Sender',
+        ],
+    },
+    {
+        name: 'Lede',
+        description: 'Generate In-Depth Blog Content',
+        categories: ['Writing', 'Productivity', 'AI'],
+        url: 'https://thelede.ai',
+        keywords: ['assistant', 'research', 'content', 'blog'],
+    },
+    {
         name: 'LeetCode',
         categories: ['Code Challenge'],
         description:
             'Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview.',
         url: 'https://leetcode.com/',
+    },
+    {
+        name: 'LectureKit',
+        categories: ['AI', 'Editor', 'Tooling'],
+        description:
+            'Faster & simpler way to build course platforms, making it easy for developers to build course platforms.',
+        url: 'https://lecturekit.io',
+
+        keywords: ['ai', 'courses', 'api'],
     },
     {
         name: "Let's Enhance",
@@ -214,10 +248,11 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'Like I Am Five',
-        categories: ['Learn', 'Programming'],
-        description: 'Learn to code through real-life projects in less than 4 hours.',
-        url: 'https://www.likeiamfive.com/',
+        name: 'Lilybank AI',
+        categories: ['AI', 'Template', 'Marketing'],
+        description: 'At Lilybank AI, we provide a range of tools to boost your online content creation.',
+        url: 'https://lilybankai.com',
+        keywords: ['content', 'templates', 'voiceovers', 'speech-to-text', 'image generator', 'transcriptions'],
     },
     {
         name: 'Line Icon Pack',
@@ -241,9 +276,18 @@ export const resources: Resource[] = [
         url: 'https://www.linkedin.com/learning',
     },
     {
+        name: 'LinksHub',
+        categories: ['Open Source'],
+        description:
+            'LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work.',
+        keywords: ['icons', 'images', 'videos', 'illustrations', 'fonts', 'tools', 'resources', 'free'],
+        url: 'https://www.linkshub.dev/',
+    },
+    {
         name: 'Linktopus',
         categories: ['Website Builder'],
-        description: 'Your own page. All your links and information in one place. Ready in minutes.',
+        description:
+            'The simplicity of a link in bio, the power of a page builder. Create your page and grow your online presence. Ready in minutes.',
         url: 'https://linktopus.co',
         keywords: ['link in bio', 'personal site', 'share links', 'linktree', 'liinks', 'bento'],
     },
@@ -295,6 +339,12 @@ export const resources: Resource[] = [
         url: 'https://looka.com',
     },
     {
+        name: 'Lorem Picsum',
+        categories: ['Image'],
+        description: 'Lorem Ipsum... but for photos',
+        url: 'https://picsum.photos',
+    },
+    {
         name: 'Lost Type Co-op',
         categories: ['Font'],
         description: 'Lost Type is a collaborative digital type foundry.',
@@ -307,6 +357,13 @@ export const resources: Resource[] = [
             'The motion design tool for product teams. Create and edit lottie animations, ship to your apps and websites.',
         url: 'https://www.lottielab.com/',
         keywords: ['animation', 'motion'],
+    },
+    {
+        name: 'Lucide',
+        categories: ['Icon'],
+        description: 'Beautiful & consistent icon toolkit made by the community.',
+        url: 'https://lucide.dev',
+        keywords: ['icons', 'package', 'svg', 'react', 'vue', 'angular', 'svelte', 'web components'],
     },
     {
         name: 'Lukasz Adam',

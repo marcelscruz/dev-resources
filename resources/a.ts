@@ -65,13 +65,6 @@ export const resources: Resource[] = [
         url: 'https://adminmart.com/',
     },
     {
-        name: 'Adobe XD',
-        categories: ['Prototyping', 'Design', 'UI', 'UX'],
-        description:
-            'Adobe XD is a fast & powerful UI/UX design solution for websites, apps & more. Design, wireframe, animate, prototype, collaborate & share  — all in one place.',
-        url: 'https://www.adobe.com/products/xd.html',
-    },
-    {
         name: 'Adrian Twarog',
         categories: ['Design', 'Programming', 'YouTube Channel'],
         description:
@@ -94,6 +87,14 @@ export const resources: Resource[] = [
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
         keywords: ['ai', 'artificial intelligence', 'remote', 'jobs', 'developer'],
         url: 'https://aijobs.app',
+    },
+    {
+        name: 'AI Directories',
+        categories: ['AI', 'SEO', 'Marketing'],
+        description:
+            'All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories',
+        url: 'https://aidirectori.es/',
+        keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
     },
     {
         name: 'Airtable',
@@ -140,6 +141,13 @@ export const resources: Resource[] = [
         url: 'https://cloud.google.com/apigee',
     },
     {
+        name: 'ApparenceKit',
+        categories: ['Template', 'Tooling', 'Programming'],
+        description:
+            'A flutter template to create iOS, Android and web app in days. Generate all the common boilerplate code and customize the design to fit your brand. ',
+        url: 'https://apparencekit.dev/',
+    },
+    {
         name: 'AppCode',
         categories: ['Editor', 'Programming'],
         description:
@@ -152,14 +160,6 @@ export const resources: Resource[] = [
         description:
             "Use AppMockUp, the world's most powerful screenshot builder to create the most compelling screenshots for your app.",
         url: 'https://app-mockup.com/',
-    },
-    {
-        name: 'Appshine',
-        categories: ['Design'],
-        description:
-            'Use Appshine to get a UX/UI mobile or web design for your tech startup that drive higher sales, retention, and referrals.',
-        url: 'https://appshine.io',
-        keywords: ['ui design', 'app design', 'mobile design', 'web design'],
     },
     {
         name: 'Appwrite',
@@ -194,6 +194,14 @@ export const resources: Resource[] = [
         url: 'https://www.artify.co/',
     },
     {
+        name: 'AskTube',
+        description: 'Save time by summarizing and chatting with long educational YouTube videos.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://chromewebstore.google.com/detail/asktube-ai-youtube-video/kkdhnobdacfnbdageilfchkhcjdbkhgf',
+
+        keywords: ['youtube summarizer', 'youtube video summarizer', 'youtube ai summary', 'youtube video summary ai'],
+    },
+    {
         name: 'Authentic Jobs',
         categories: ['Job'],
         description: 'The leading job board for designers, developers, and creative pros.',
@@ -220,6 +228,13 @@ export const resources: Resource[] = [
         description:
             'Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use.',
         url: 'https://aws.amazon.com/',
+    },
+    {
+        name: 'AWS Serverless kit (best practices)',
+        categories: ['Serverless', 'Productivity', 'Cloud Computing'],
+        description:
+            'AWS has never been easier with the Scale to Zero Kit. The kit comes with everything you need. Deploy fast, scale, and pay only for what you use',
+        url: 'https://scaletozeroaws.com/',
     },
     {
         name: 'Awesome a11y',

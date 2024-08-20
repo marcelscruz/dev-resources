@@ -15,6 +15,13 @@ export const resources: Resource[] = [
         url: 'https://www.tailorbrands.com/logo-maker',
     },
     {
+        name: 'Tailanimista',
+        categories: ['Animation'],
+        description: 'Animista, but for Tailwind CSS. Easily generate beautiful animations!',
+        keywords: ['animation', 'tailwind', 'css', 'tailwind css'],
+        url: 'https://tail-animista.vercel.app',
+    },
+    {
         name: 'TailwindComponents',
         categories: ['Library', 'Programming', 'UI'],
         description:
@@ -69,6 +76,13 @@ export const resources: Resource[] = [
         categories: ['Blog'],
         description: 'This is a list of Awesome Tech Blogs. Add yourself.',
         url: 'https://tech-blogs.dev/',
+    },
+    {
+        name: 'Templated',
+        categories: ['Editor', 'Design', 'Marketing'],
+        description:
+            'Automate your images and PDFs with a simple API. Generate social media visuals, banners, PDFs and more with our API and no-code integrations.',
+        url: 'https://templated.io/',
     },
     {
         name: 'TemplateMo',
@@ -133,6 +147,14 @@ export const resources: Resource[] = [
         url: 'https://www.testing-whiz.com/',
     },
     {
+        name: 'TestDriver',
+        categories: ['Programming', 'Testing'],
+        description:
+            'AI QA agent for comprehensive testing & debugging. Boost productivity, ensure accuracy, and save time with this versatile tool',
+        url: 'https://www.testdriver.ai',
+        keywords: ['developer tools', 'debugging', 'engineering'],
+    },
+    {
         name: 'Themeselection',
         categories: ['Template'],
         description:
@@ -182,6 +204,31 @@ export const resources: Resource[] = [
         url: 'https://hammerstone.dev/podcast',
     },
     {
+        name: 'The Linux Foundation - Events',
+        categories: ['Conference'],
+        description:
+            'The Linux Foundation hosts a variety of events around the world, including leading open source conferences such as Open Source Summit, Embedded Linux Conference, KubeCon + CloudNativeCon, and more.',
+        url: 'https://events.linuxfoundation.org/',
+        keywords: [
+            '.Net',
+            'Accessibility',
+            'Android',
+            'CSS',
+            'Data - AI',
+            'Design - UX',
+            'DevOps',
+            'Elixir',
+            'IoT',
+            'Java',
+            'JavaScript',
+            'PHP',
+            'Python',
+            'Ruby',
+            'Security',
+            'iOS',
+        ],
+    },
+    {
         name: 'The Net Ninja',
         categories: ['Programming', 'YouTube Channel', 'Learn', 'Programming'],
         url: 'https://www.thenetninja.co.uk/',
@@ -191,6 +238,14 @@ export const resources: Resource[] = [
         keywords: [
             'html css javascript tutorials "web design" "web development" development "front-end development" wordpress mvc "responsive design" "beginner html" "beginner ...',
         ],
+    },
+    {
+        name: 'The PR Creator',
+        categories: ['Marketing'],
+        description: 'Tool that creates custom press releases and includes a comment section for the users',
+        url: 'https://theprcreator.com/',
+
+        keywords: ['productivity', 'pr', 'SaaS', 'Artificial Intelligence'],
     },
     {
         name: 'The Ultimate Guide to React Native Optimization',
@@ -329,6 +384,20 @@ export const resources: Resource[] = [
         keywords: ['webhook'],
     },
     {
+        name: 'TrollyAI',
+        description: 'Create professional SEO articles, 2x faster',
+        categories: ['SEO', 'Writing', 'Marketing'],
+        url: 'https://trolly.ai/',
+        keywords: [
+            'seo',
+            'ai-powered content creation',
+            'seo optimization tool',
+            'bulk article generator',
+            'content writer',
+        ],
+    },
+
+    {
         name: 'Tutoriac',
         categories: ['Website Builder'],
         description:
@@ -336,6 +405,14 @@ export const resources: Resource[] = [
         url: 'https://tutoriac.com',
 
         keywords: ['website builder video tutorials', 'google sites', 'landing pages', 'portfolio', 'personal site'],
+    },
+    {
+        name: 'Tweet Detective',
+        categories: ['Twitter', 'AI'],
+        description:
+            'Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content',
+        url: 'https://www.tweetdetective.com/',
+        keywords: ['twitter', 'social media', 'ai detection', 'ai text'],
     },
     {
         name: 'Tweet Hunter',
@@ -347,19 +424,20 @@ export const resources: Resource[] = [
         keywords: ['twitter', 'growth', 'scheduling', 'social media'],
     },
     {
-        name: 'Tweet Detective',
-        categories: ['Twitter', "AI"],
-        description: 'Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content',
-        url: 'https://www.tweetdetective.com/',
-        keywords: ['twitter', 'social media', "ai detection", "ai text"],
-    },
-    {
         name: 'TypeLit',
         categories: ['Typing'],
         description: 'Practice typing by retyping entire novels.',
         url: 'https://www.typelit.io',
 
         keywords: ['typing'],
+    },
+    {
+        name: 'TypingBeast',
+        categories: ['Learn', 'Typing'],
+        description:
+            'Practice touch typing on various modes including zen mode, maintain streak and compete in leaderboards.',
+        url: 'https://typingbeast.com',
+        keywords: ['typing', 'touch typing', 'typing zen', 'typing streak', 'typing leaderboards'],
     },
     {
         name: 'TypingClub',

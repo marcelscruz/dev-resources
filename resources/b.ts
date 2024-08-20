@@ -9,11 +9,32 @@ export const resources: Resource[] = [
         url: 'https://ahrefs.com/backlink-checker',
     },
     {
+        name: 'BacklinkGPT',
+        categories: ['SEO', 'Marketing', 'AI'],
+        description: 'Automate Your Link-Building with AI-Personalized Outreach.',
+        url: 'https://www.backlinkgpt.com',
+        keywords: ['link building', 'SEO', 'backlink', 'outreach'],
+    },
+    {
         name: 'Balsamiq',
         categories: ['Design', 'Prototyping', 'UI'],
         description:
             'Balsamiq is the company behind Balsamiq Wireframes, the industry standard low-fidelity wireframing tool.',
         url: 'https://balsamiq.com/',
+    },
+    {
+        name: 'BandoFacile',
+        categories: ['AI', 'Productivity', 'Marketing'],
+        description: 'Documentazione del tuo bando pronta in 48 ore',
+        keywords: [
+            'Artificial Intelligence',
+            'AI Tender Automation',
+            'Grant Writing Software',
+            'Funding Application Tool',
+            'Automated Document Generation',
+            'Tender Consulting Services',
+        ],
+        url: 'https://bandofacile.com/',
     },
     {
         name: 'beampipe',
@@ -90,7 +111,8 @@ export const resources: Resource[] = [
     {
         name: 'BigDevSoon',
         categories: ['Learn', 'Programming'],
-        description: 'Code Figma-backed projects with AI insights. Dive into gamified learning.',
+        description:
+            'Build real-world projects, daily challenges, and solve practice problems. Maximize your learning potential.',
         url: 'https://bigdevsoon.me',
         keywords: ['Figma', 'AI', 'Gamified Learning', 'Code', 'Projects', 'Insights', 'Learn', 'Programming'],
     },
@@ -112,6 +134,35 @@ export const resources: Resource[] = [
             'JavaScript',
             'HTML',
             'CSS',
+        ],
+    },
+    {
+        name: 'Bing Pros',
+        categories: ['Freelance'],
+        description:
+            'Bing Pros is a gig service platform that connects Bing Search users to providers who want higher profit for their services.',
+        url: 'https://www.bing.com/pros',
+        keywords: [
+            'Graphic Design',
+            'Web Development',
+            'SEO Services',
+            'Accounting',
+            'IT Support',
+            'Data Management',
+            'Marketing',
+            'Interior Design',
+            'Software Development',
+            'Virtual Event Planning',
+            'Content Writing',
+            'Video & Audio',
+            'Life Coaching',
+            'Virtual Assistant Services',
+            'Translation Services',
+            'Travel Planners',
+            'Business Consulting',
+            'Employment Agent Services',
+            'Career Counseling',
+            'Health and Wellness Coaching',
         ],
     },
     {
@@ -153,6 +204,13 @@ export const resources: Resource[] = [
             'integrations',
         ],
         url: 'https://blisk.io/',
+    },
+    {
+        name: 'BlogFox',
+        description: 'Generate impressive blogs from a Youtube video or SEO keywords at scale.',
+        categories: ['SEO', 'Writing', 'Blog'],
+        url: 'https://blogfox.ai',
+        keywords: ['writer', 'ai', 'article', 'marketing'],
     },
     {
         name: 'Blush',

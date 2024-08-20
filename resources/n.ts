@@ -28,14 +28,6 @@ export const resources: Resource[] = [
         url: 'https://nextjs.org/',
     },
     {
-        name: 'Nextjs Devs',
-        categories: ['Job'],
-        description: 'The reverse job board for Next.js developers',
-        url: 'https://nextjsdevs.net/',
-
-        keywords: ['javascript', 'React.js', 'Next.js', 'jobs'],
-    },
-    {
         name: 'NextUI',
         description: 'Beautiful, fast, modern React UI Library',
         categories: ['Library', 'Programming', 'UI'],
@@ -50,6 +42,13 @@ export const resources: Resource[] = [
         url: 'https://nitric.io',
 
         keywords: ['serverless', 'cloud', 'development', 'framework'],
+    },
+    {
+        name: 'No-Code Scraper',
+        description: 'Seamlessly extract data from any website with just a few simple inputs.',
+        categories: ['Scraping', 'AI'],
+        url: 'https://www.nocodescraper.com',
+        keywords: ['scraper', 'no code', 'ai web scraper', 'web scraper', 'visual web scraper', 'web scraping'],
     },
     {
         name: 'Nomad List',
@@ -100,5 +99,13 @@ export const resources: Resource[] = [
             'Make a perfect resume in 2021 and get your dream job using the free resume builder. Select a template. Personalize it. Get more interviews.',
         keywords: ['professional resume builder'],
         url: 'https://novoresume.com/',
+    },
+    {
+        name: 'Niche Tools',
+        categories: ['SEO', 'Marketing'],
+        description:
+            'Ditch the endless market research and unlock instant access to over 1200+ web tools you can build today',
+        keywords: ['SEO', 'Marketing'],
+        url: ' https://nichetools.net',
     },
 ]

@@ -60,14 +60,6 @@ export const resources: Resource[] = [
         keywords: ['daisy', 'ui', 'daisyui', 'library'],
     },
     {
-        name: 'DamnGood.Tools',
-        categories: ['Productivity'],
-        description: 'Easy-to-use, fun tools—free (and open-source).',
-        url: 'https://damngood.tools',
-
-        keywords: ['tools', 'productivity', 'grammar fix', 'privacy policy', 'fonts', 'url', 'screenshot'],
-    },
-    {
         name: 'Dark',
         categories: ['Design', 'UI'],
         description: 'The best hand-picked dark themed websites on the internet.',
@@ -178,29 +170,35 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/c/DevEd/',
     },
     {
-        name: 'Dev Employ',
-        categories: ['Job'],
-        description:
-            'Hand-picked jobs for developers. Find the best developer job opportunities in some of the best companies.',
-        url: 'https://devemploy.com',
-
-        keywords: [
-            'jobs',
-            'developers',
-            'software engineering',
-            'web development',
-            'javascript',
-            'typescript',
-            'html',
-            'css',
-            'python',
-        ],
-    },
-    {
         name: 'Developer tea',
         categories: ['Podcast', 'Programming'],
         description: 'A podcast for developers designed to fit inside your tea break',
         url: 'https://spec.fm/podcasts/developer-tea',
+    },
+    {
+        name: 'Dev Events',
+        categories: ['Conference'],
+        description:
+            'Dev.events is a comprehensive listing of tech conferences for developers. It covers a wide range of topics, from cutting-edge AI and computing to software development.',
+        url: 'https://dev.events/',
+        keywords: [
+            '.Net',
+            'Accessibility',
+            'Android',
+            'CSS',
+            'Data - AI',
+            'Design - UX',
+            'DevOps',
+            'Elixir',
+            'IoT',
+            'Java',
+            'JavaScript',
+            'PHP',
+            'Python',
+            'Ruby',
+            'Security',
+            'iOS',
+        ],
     },
     {
         name: 'devChallenges',
@@ -254,6 +252,14 @@ export const resources: Resource[] = [
         url: 'https://dhiwise.com/',
     },
     {
+        name: 'DirectoryKit',
+        description: 'Ready to use template for your Directory',
+        categories: ['Template', 'Programming'],
+        url: 'https://www.directorykit.xyz',
+        keywords: ['directory', 'template', 'javascript', 'development tool', 'boilerplate'],
+    },
+
+    {
         name: 'Divize',
         categories: ['Code Challenge', 'Learn', 'Programming'],
         description: 'Learn, Write, Master: HTML/CSS Through Real UI Challenges.',
@@ -265,6 +271,21 @@ export const resources: Resource[] = [
         description:
             "The React codebase generator. Divjoy handles all the integration details. From routing to React hooks, you'll have everything you need to build something great.",
         url: 'https://divjoy.com/',
+    },
+    {
+        name: 'Documind AI',
+        categories: ['AI'],
+        description:
+            'Documind AI is a new and advanced chat with pdf tool. It uses GPT4 turbo and advanced vector search to give accurate answers.',
+        url: 'https://documind.chat',
+        keywords: ['chatpdf', 'documind', 'chatwithpdf', 'aipdfchat'],
+    },
+    {
+        name: 'Docusaurus',
+        categories: ['Documentation', 'Blog'],
+        description:
+            'An optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.',
+        url: 'https://docusaurus.io',
     },
     {
         name: 'DOM Events',

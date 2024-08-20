@@ -29,6 +29,13 @@ export const resources: Resource[] = [
         url: 'https://getterms.io/',
     },
     {
+        name: 'Gitbook',
+        categories: ['Documentation'],
+        description:
+            'GitBook is a knowledge management tool for engineering teams. It simplifies knowledge sharing, with docs-as-code support and AI-powered search & insights.',
+        url: 'https://gitbook.com',
+    },
+    {
         name: 'GitHub Pages',
         categories: ['Hosting'],
         description:
@@ -41,6 +48,13 @@ export const resources: Resource[] = [
         description:
             'Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.',
         url: 'https://training.github.com/',
+    },
+    {
+        name: 'GitLoop',
+        categories: ['Code Generator', 'AI'],
+        description: 'AI that understands your codebase and repositories',
+        url: 'https://www.gitloop.com',
+        keywords: ['Coding', 'Codebase', 'Repositories', 'Code Review', 'Git', 'Commits', 'Pull Requests'],
     },
     {
         name: 'Gcore Basic',
@@ -152,6 +166,14 @@ export const resources: Resource[] = [
         url: 'https://fonts.google.com/',
     },
     {
+        name: 'Google Icons',
+        categories: ['Icon'],
+        description:
+            'Material Symbols are our newest icons consolidating over 2,500 glyphs in a single font file with a wide range of design variants.',
+        url: 'https://fonts.google.com/icons',
+        keywords: ['icons'],
+    },
+    {
         name: 'Google Search Console',
         categories: ['SEO'],
         description:
@@ -221,12 +243,6 @@ export const resources: Resource[] = [
         url: 'https://greip.io/',
 
         keywords: ['ai', 'fraud prevention', 'api', 'geoip', 'profanity detection'],
-    },
-    {
-        name: 'Grid.Guide',
-        categories: ['Learn', 'Programming'],
-        description: 'Create pixel perfect grids for the web.',
-        url: 'http://grid.guide/',
     },
     {
         name: 'Grid Garden',

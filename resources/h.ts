@@ -57,6 +57,13 @@ export const resources: Resource[] = [
         url: 'https://hacktoberfestswaglist.com/',
     },
     {
+        name: 'Haikei',
+        categories: ['Illustration'],
+        description:
+            'A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more!',
+        url: 'https://app.haikei.app',
+    },
+    {
         name: 'Happy Hues',
         categories: ['Color'],
         description:
@@ -241,8 +248,7 @@ export const resources: Resource[] = [
     {
         name: 'Hugeicons',
         categories: ['Icon'],
-        description:
-            'Over 25,000 beautiful icons in 5 unique styles, organized across 57 popular categories. Crafted by creators, for creators.',
+        description: 'Most beautiful icon library for developers. 28,000+ expertly crafted UI icons.',
         url: 'https://hugeicons.com/',
     },
     {
@@ -250,5 +256,26 @@ export const resources: Resource[] = [
         categories: ['Illustration'],
         description: 'Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.',
         url: 'https://www.humaaans.com/',
+    },
+    {
+        name: 'Hypertune',
+        categories: ['Analytics', 'Tooling', 'Productivity'],
+        description:
+            'Type-safe feature flags, A/B testing, analytics and app configuration, with Git-style version control and local, synchronous, in-memory flag evaluation.',
+        url: 'https://www.hypertune.com/',
+        keywords: [
+            'hypertune',
+            'feature flags',
+            'feature toggles',
+            'feature management',
+            'a/b testing',
+            'experimentation',
+            'analytics',
+            'product analytics',
+            'app configuration',
+            'cms',
+            'localization',
+            'internationalization',
+        ],
     },
 ]

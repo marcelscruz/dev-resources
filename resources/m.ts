@@ -24,6 +24,12 @@ export const resources: Resource[] = [
         url: 'https://mailchimp.com/',
     },
     {
+        name: 'Maildroppa',
+        categories: ['Email', 'Marketing'],
+        description: 'German engineered email marketing and automation without the hefty price tag.',
+        url: 'https://maildroppa.com/',
+    },
+    {
         name: 'Mailgun',
         categories: ['Email', 'Marketing'],
         description:
@@ -60,10 +66,23 @@ export const resources: Resource[] = [
         keywords: ['react', 'hooks', 'dark theme', 'accessibility', 'components', 'hooks', 'ui', 'library'],
     },
     {
+        name: 'Marblism',
+        description: 'Generate a SaaS boilerplate from a prompt',
+        categories: ['AI', 'Code Generator'],
+        url: 'https://marblism.com',
+        keywords: ['code generator', 'ai', 'boilerplate', 'dev tool'],
+    },
+    {
         name: 'Marko Denic',
         categories: ['Personal Website'],
         description: 'Web Developer, Public speaker, IT trainer and consultant.',
         url: 'https://markodenic.com/',
+    },
+    {
+        name: 'Markdown Guide',
+        categories: ['Cheatsheet'],
+        description: ' A free and open-source reference guide that explains how to use Markdown.',
+        url: 'https://markdownguide.org',
     },
     {
         name: 'Mastery Games',
@@ -124,6 +143,12 @@ export const resources: Resource[] = [
         description:
             'Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.',
         url: 'http://medium.com/',
+    },
+    {
+        name: 'MeetMoji',
+        categories: ['AI', 'Productivity', 'Writing'],
+        description: 'Live Polls for Google Slides with an AI Assistant ',
+        url: 'https://meetmoji.com',
     },
     {
         name: 'Metaverse Jobs',
@@ -241,6 +266,23 @@ export const resources: Resource[] = [
             'minimalist typing test',
             'minimalistic typing website',
             'words per minute',
+        ],
+    },
+    {
+        name: 'MonsterONE',
+        categories: ['Design', 'Marketing', 'Template'],
+        description:
+            'MonsterONE offers access to 420K+ premium digital items like web themes, templates, graphics, and more—all with a single subscription. Pay once, access all!',
+        url: 'https://monsterone.com/',
+        keywords: [
+            'MonsterONE subscription service',
+            'MonsterONE design service',
+            'free & premium website templates',
+            'WordPress themes',
+            'website templates',
+            'newsletter templates',
+            'audio & video assets',
+            'e-commerce templates and themes',
         ],
     },
     {
