@@ -291,6 +291,13 @@ export const resources: Resource[] = [
             'The only online resume builder that’ll land you interviews. Create a professional resume in minutes, download, and print. Join 10 million happy job seekers.',
         url: 'https://resumegenius.com/',
     },
+        {
+        name: 'Resume.io',
+        categories: ['Resume'],
+        description:
+            'Helping millions of job-seekers worldwide create amazing professional resumes in minutes!',
+        url: 'https://resume.io',
+    },
     {
         name: 'Resume maker',
         categories: ['Resume'],
