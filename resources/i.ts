@@ -214,6 +214,13 @@ export const resources: Resource[] = [
         url: 'https://iradesign.io/gallery/illustrations',
     },
     {
+        name: 'isecjobs.com',
+        categories: ['Job', 'Security'],
+        description: 'Find jobs and talents in InfoSec and Cybersecurity.',
+        keywords: ['infosec', 'cybersecurity', 'career', 'developer', 'engineer', 'hacking', 'remote', 'jobs'],
+        url: 'https://isecjobs.com/',
+    },
+    {
         name: 'Isometriclove',
         description: 'Cute isometric objects for your design.',
         categories: ['Illustration'],
