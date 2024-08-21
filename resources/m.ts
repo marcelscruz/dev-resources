@@ -300,6 +300,14 @@ export const resources: Resource[] = [
         url: 'https://morrisjs.github.io/morris.js/',
     },
     {
+        name: 'MuckBrass',
+        description: 'Find & Validate Startup Ideas using AI',
+        categories: ['SEO', 'Productivity', 'Startup'],
+        url: 'https://www.muckbrass.com',
+        keywords: ['data', 'research', 'startupidea', 'idea',  'ai'],
+    },
+
+    {
         name: 'MyPerfectResume',
         categories: ['Resume'],
         description:
