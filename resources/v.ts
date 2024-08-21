@@ -53,6 +53,13 @@ export const resources: Resource[] = [
         url: 'https://vim-adventures.com/',
     },
     {
+        name: 'Virtual Coffee',
+        categories: ['Podcast'],
+        description:
+            'Virtual Coffee is an intimate community for developers at all stages of the journey. It is a place to ask questions, share knowledge, and build friendships.',
+        url: 'https://virtualcoffee.io/podcast/',
+    },
+    {
         name: 'Visily',
         categories: ['UI', 'UX', 'Design', 'Prototyping', 'AI'],
         description:
