@@ -304,7 +304,7 @@ export const resources: Resource[] = [
         description: 'Find & Validate Startup Ideas using AI',
         categories: ['SEO', 'Productivity', 'Startup'],
         url: 'https://www.muckbrass.com',
-        keywords: ['data', 'research', 'startupidea', 'idea',  'ai'],
+        keywords: ['data', 'research', 'startupidea', 'idea', 'ai'],
     },
 
     {
