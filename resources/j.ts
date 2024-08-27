@@ -104,6 +104,13 @@ export const resources: Resource[] = [
         url: 'https://jsbooks.revolunet.com/',
     },
     {
+        name: 'Jsonify',
+        categories: ['AI', 'Programming', 'Code Snippet'],
+        description:
+            'Jsonify is an AI "data intern" in the cloud -- an intelligent AI agent that can automate data collection and maintenance tasks involving the web and documents. Never update a spreadsheet yourself again!',
+        url: 'https://jsonify.com',
+    },
+    {
         name: 'JustRemote',
         categories: ['Job', 'Remote'],
         description:
