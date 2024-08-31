@@ -271,6 +271,12 @@ export const resources: Resource[] = [
         url: 'https://www.mysql.com/',
     },
     {
+        name: 'MyChatbots AI',
+        categories: ['AI','Productivity'],
+        description: 'A platform for easily creating, training, and chatting with AI chatbots using your own data',
+        url: 'https://mychatbots.ai',
+    },
+    {
         name: 'Materio Free MUI React NextJS Admin Template',
         categories: ['Template'],
         description:
