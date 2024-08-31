@@ -151,6 +151,19 @@ export const resources: Resource[] = [
         url: 'https://meetmoji.com',
     },
     {
+        name: "Melies",
+        categories: ["AI", "Startup", "Video"],
+        description: "Melies is an AI Filmmaking software to transform ideas into stunning movies.",
+        url: "https://melies.co/",
+        keywords: [
+            'ai film',
+            'ai movie',
+            'ai video',
+            'film',
+            'melies'
+        ],
+    },
+    {
         name: 'Metaverse Jobs',
         categories: ['Job'],
         description: 'Search for metaverse jobs in augmented reality, virtual reality, NFT, crypto, gaming, and more.',
