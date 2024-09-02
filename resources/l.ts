@@ -306,6 +306,23 @@ export const resources: Resource[] = [
         url: 'https://liteanalytics.com/',
     },
     {
+        name: 'Loadjitsu',
+        categories: ['Performance', 'Testing', 'Tooling'],
+        description: 'Loadjitsu is a modern, cross-platform load testing tool powered by Rust.',
+        url: 'https://loadjitsu.io/',
+        keywords: [
+            'LoadTesting',
+            'Rust',
+            'CrossPlatform',
+            'PerformanceTesting',
+            'DesktopApp',
+            'Tauri',
+            'React',
+            'StressTesting',
+            'DevTools',
+        ],
+    },
+    {
         name: 'Lobsters',
         categories: ['Forum'],
         description: 'Lobsters is a computing-focused community centered around link aggregation and discussion.',
