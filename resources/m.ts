@@ -19,8 +19,7 @@ export const resources: Resource[] = [
     {
         name: 'MagicBox.tools',
         categories: ['AI', 'Tooling'],
-        description:
-            'Best AI Tools Explore 2024 | Magicbox.Tools AI Tools Directory',
+        description: 'Best AI Tools Explore 2024 | Magicbox.Tools AI Tools Directory',
         url: 'https://magicbox.tools',
         keywords: ['ai tools', 'ai tools navigation', 'ai tools directory'],
     },
