@@ -17,6 +17,13 @@ export const resources: Resource[] = [
         keywords: ['auth', 'authentication', 'passwordless'],
     },
     {
+        name: 'MagicBox.tools',
+        categories: ['AI', 'Tooling'],
+        description: 'Best AI Tools Explore 2024 | Magicbox.Tools AI Tools Directory',
+        url: 'https://magicbox.tools',
+        keywords: ['ai tools', 'ai tools navigation', 'ai tools directory'],
+    },
+    {
         name: 'Mailchimp',
         categories: ['Email', 'Marketing'],
         description:
@@ -266,6 +273,23 @@ export const resources: Resource[] = [
             'minimalist typing test',
             'minimalistic typing website',
             'words per minute',
+        ],
+    },
+    {
+        name: 'MonsterONE',
+        categories: ['Design', 'Marketing', 'Template'],
+        description:
+            'MonsterONE offers access to 420K+ premium digital items like web themes, templates, graphics, and more—all with a single subscription. Pay once, access all!',
+        url: 'https://monsterone.com/',
+        keywords: [
+            'MonsterONE subscription service',
+            'MonsterONE design service',
+            'free & premium website templates',
+            'WordPress themes',
+            'website templates',
+            'newsletter templates',
+            'audio & video assets',
+            'e-commerce templates and themes',
         ],
     },
     {

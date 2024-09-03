@@ -22,6 +22,13 @@ export const resources: Resource[] = [
         url: 'https://www.palettelist.com/',
     },
     {
+        name: 'Panem',
+        description: 'AI Powered SaaS Spend Management',
+        categories: ['Productivity', 'Startup'],
+        url: 'https://panem.co',
+        keywords: ['fintech', 'finance'],
+    },
+    {
         name: 'Patterninja',
         categories: ['Illustration'],
         description:
@@ -57,6 +64,13 @@ export const resources: Resource[] = [
         description:
             'Get any project done on PeoplePerHour - the #1 freelancing community. Post a project for free to find professional freelancers and find freelance jobs in minutes!',
         url: 'https://www.peopleperhour.com/',
+    },
+    {
+        name: 'PerfectBugReport.io',
+        categories: ['Testing'],
+        description: 'A simple checklist of the essential items to include in bug reports.',
+        url: 'https://www.perfectbugreport.io/',
+        keywords: ['bug report', 'bug report checklist', 'how to write bug report'],
     },
     {
         name: 'Pexels',
@@ -269,6 +283,14 @@ export const resources: Resource[] = [
         description:
             'Get HTML from any page with a simple API call. We handle proxy rotation, browser identities, automatic retries, CAPTCHAs, JavaScript rendering and much more.',
         url: 'https://proxiesapi.com',
+    },
+    {
+        name: 'ProtoUI',
+        description: 'ProtoUI generates responsive TailwindCSS code + UI in seconds.',
+        categories: ['AI', 'Design', 'Code Generator'],
+        url: 'https://protoui.dev',
+
+        keywords: ['Tailwind', 'frontend', 'AI', 'responsive ui'],
     },
     {
         name: 'Pttrns',

@@ -29,19 +29,12 @@ const logoScrapfly = `<div>
     <p align="center"><a href="https://scrapfly.io?ref=dev_resources&utm_medium=repo_readme">Scrapfly</a> offers a top-tier Web Scraping API that simplifies scraping by handling real browser rendering, rotating proxies, and various fingerprints to overcome major anti-bot measures.</p>
 </div>`
 
-const logoZenlogin = `<div>
-    <p align="center"><a href="https://zenlogin.co?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/zenlogin.svg" width="210px"><source media="(prefers-color-scheme: light)" srcset="./assets/zenlogin.svg" width="210px"><img alt="Zenlogin logo" src="./assets/zenlogin.svg" width="210px"></picture></a></p>
-    <p align="center"><a href="https://zenlogin.co?ref=dev_resources&utm_medium=repo_readme">Zenlogin</a> detects suspicious logins so you don't have to. A single endpoint API to notify your users when there's been suspicious login activity on their account.</p>
-</div>`
-
 // const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoScrapfly}<br/>\n\n`
 // const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoScrapfly}<br/>\n\n\n\n${logoZenlogin}\n\n`
 const sponsors = `
     <div align="center">Sponsored by</div> 
     <br/>
     ${logoScrapfly}
-    <br/>
-    ${logoZenlogin}
 `
 
 async function updateReadme() {

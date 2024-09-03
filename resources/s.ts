@@ -81,6 +81,14 @@ export const resources: Resource[] = [
         url: 'https://www.selenium.dev/',
     },
     {
+        name: 'Seline',
+        categories: ['Analytics'],
+        description:
+            'Seline is a simple & private website and product analytics. Cookieless, lightweight, independent.',
+        url: 'https://seline.so',
+        keywords: ['analytics', 'dashboard', 'funnels', 'visits'],
+    },
+    {
         name: 'Semantic UI',
         categories: ['Library', 'Programming', 'UI'],
         description: 'Semantic empowers designers and developers by creating a shared vocabulary for UI.',
@@ -130,13 +138,6 @@ export const resources: Resource[] = [
         url: 'https://www.seotisfy.com',
     },
     {
-        name: 'SEO-GO',
-        categories: ['SEO'],
-        description:
-            'Provides everything you need for SEO and easy teamwork on SEO projects, rank higher and increase more traffic to your website.',
-        url: 'https://www.seo-go.top',
-    },
-    {
         name: 'SerpApi',
         categories: ['Scraping'],
         description: 'SerpApi provides a simple API to scrape Google and other search engines.',
@@ -179,13 +180,6 @@ export const resources: Resource[] = [
             'presets',
         ],
         url: 'https://shape.so/',
-    },
-    {
-        name: 'Shards React',
-        categories: ['Library', 'Programming', 'UI'],
-        description:
-            'Download Shards React a High-Quality & FREE React UI Kit based on Bootstrap 4 Featuring a Modern Design System and Dozens of Components.',
-        url: 'https://designrevision.com/downloads/shards-react/',
     },
     {
         name: 'Shift Nudge',
@@ -495,12 +489,6 @@ export const resources: Resource[] = [
         url: 'https://www.soundstripe.com/',
     },
     {
-        name: 'Splawr',
-        categories: ['Template'],
-        description: 'Explore the world of our free web templates to kickstart your idea!',
-        url: 'https://splawr.com',
-    },
-    {
         name: 'Splitbee',
         categories: ['Analytics'],
         description: 'Splitbee provides Analytics, Automation, User Funnel and A/B Testing.',
@@ -704,6 +692,13 @@ export const resources: Resource[] = [
         description:
             'Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI.',
         url: 'https://surge.sh/',
+    },
+    {
+        name: 'SvelteLaunch',
+        description: 'Svelte 5 Boilerplate for building AI apps quickly',
+        categories: ['AI', 'Startup', 'Template'],
+        url: 'https://sveltelaunch.io',
+        keywords: ['boilerplate', 'svelte', 'development'],
     },
     {
         name: 'SVG Backgrounds',

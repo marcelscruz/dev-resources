@@ -25,6 +25,13 @@ export const resources: Resource[] = [
         keywords: ['ai', 'chat', 'image generator', 'gpt', 'audio transcription', 'templates'],
     },
     {
+        name: 'Easy Folders',
+        categories: ['AI', 'Productivity', 'Extension'],
+        description: 'Create Folders, Search Chat History, Bookmark Chats, Create Custom Instructions Profiles + more!',
+        url: 'https://www.easyfolders.io/',
+        keywords: ['ai', 'ChatGPT', 'Claude', 'Browser Extension', 'Productivity'],
+    },
+    {
         name: 'Eclipse',
         categories: ['Editor', 'Extension'],
         description:
@@ -172,6 +179,21 @@ export const resources: Resource[] = [
         description:
             'Secure online payment processing from the world’s largest online escrow service since 1999. Trusted by 1M+ users. Priced as low as 0.89%. For transactions $100 to $10M+.',
         url: 'https://www.escrow.com/',
+    },
+    {
+        name: 'Eventyco',
+        categories: ['Conference'],
+        description:
+            'Discover the best tech conferences and events for developers, designers, and tech professionals. Updated weekly.',
+        url: 'https://dev.events/',
+        keywords: [
+            'tech events',
+            'developer events',
+            'designer events',
+            'tech conferences',
+            'developer conferences',
+            'designer conferences',
+        ],
     },
     {
         name: 'Everyone Hates Marketers',

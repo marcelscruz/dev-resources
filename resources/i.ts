@@ -2,14 +2,6 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
-        name: 'Icon Horse',
-        categories: ['Icon'],
-        description:
-            'Free, easy to use, highest resolution possible favicons for any web site – including fallbacks if none are found.',
-        keywords: ['favicons', 'logo icons', 'web icons', 'logos', 'site logos'],
-        url: 'https://icon.horse',
-    },
-    {
         name: 'Iconbuddy',
         categories: ['Icon'],
         description:
@@ -110,12 +102,6 @@ export const resources: Resource[] = [
         url: 'https://icones.netlify.app/',
     },
     {
-        name: 'Image Optimizer',
-        categories: ['Image'],
-        description: 'Compress and resize photos.',
-        url: 'http://www.imageoptimizer.net/',
-    },
-    {
         name: 'Img.Upscaler',
         categories: ['AI', 'Image'],
         description: 'Upscale and enhance your image by using the latest AI technology. Support batch process.',
@@ -178,34 +164,6 @@ export const resources: Resource[] = [
         categories: ['Editor', 'Programming'],
         description: 'A Capable and Ergonomic Java IDE for Enterprise Java, Scala, Kotlin and much more...',
         url: 'https://www.jetbrains.com/idea/',
-    },
-    {
-        name: 'Interfacer',
-        categories: ['Illustration'],
-        description: 'Interfacer is a collection of 300+ free design resources found on the Web.',
-        keywords: [
-            'design resources',
-            'web design',
-            'freedesignresources',
-            'free design resources',
-            'fonts',
-            'free illustration',
-            'freebies',
-            'freebie illustration',
-            'UI kits',
-            'design kit',
-            'Illustrations',
-            'free fonts',
-            'free Illustrations',
-            'free mockups',
-            'free icons',
-            'Interfacer',
-            'Interfacer list',
-            'Interfacer design resource',
-            'Interfacer resources',
-            'Interfacer design resources',
-        ],
-        url: 'https://interfacer.xyz/',
     },
     {
         name: 'IntersectionObserver Examples',

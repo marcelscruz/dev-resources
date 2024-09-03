@@ -107,6 +107,14 @@ export const resources: Resource[] = [
         keywords: ['gcore', 'speed test', 'internet speed', 'bandwidth'],
     },
     {
+        name: 'Global Sites AI',
+        categories: ['SEO', 'AI'],
+        description: 'Create multilingual static sites effortlessly with Global Sites AI.',
+        url: 'https://www.globalsites.ai/',
+
+        keywords: ['SEO', 'Multilingual', 'Translator', 'SEO Optimization', 'Multilingual'],
+    },
+    {
         name: 'GoatCounter',
         categories: ['Analytics'],
         description:
@@ -202,6 +210,22 @@ export const resources: Resource[] = [
         url: 'https://www.gotresumebuilder.com/',
     },
     {
+        name: 'GPT4oMini',
+        categories: ['AI'],
+        description: 'GPT4oMini.app: Free GPT4oMini Access - Advanced AI Conversation Generator',
+        keywords: [
+            'GPT4oMini',
+            'GPT4o',
+            'Free GPT-4',
+            'ChatGPT',
+            'ChatGPT4oMini',
+            'chatbot',
+            'Free ChatGPT Access',
+            'AI Conversation Generator',
+        ],
+        url: 'https://gpt4omini.app/',
+    },
+    {
         name: 'Gradient',
         categories: ['Color'],
         description:
@@ -243,12 +267,6 @@ export const resources: Resource[] = [
         url: 'https://greip.io/',
 
         keywords: ['ai', 'fraud prevention', 'api', 'geoip', 'profanity detection'],
-    },
-    {
-        name: 'Grid.Guide',
-        categories: ['Learn', 'Programming'],
-        description: 'Create pixel perfect grids for the web.',
-        url: 'http://grid.guide/',
     },
     {
         name: 'Grid Garden',

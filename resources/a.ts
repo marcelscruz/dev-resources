@@ -65,13 +65,6 @@ export const resources: Resource[] = [
         url: 'https://adminmart.com/',
     },
     {
-        name: 'Adobe XD',
-        categories: ['Prototyping', 'Design', 'UI', 'UX'],
-        description:
-            'Adobe XD is a fast & powerful UI/UX design solution for websites, apps & more. Design, wireframe, animate, prototype, collaborate & share  — all in one place.',
-        url: 'https://www.adobe.com/products/xd.html',
-    },
-    {
         name: 'Adrian Twarog',
         categories: ['Design', 'Programming', 'YouTube Channel'],
         description:
@@ -174,14 +167,6 @@ export const resources: Resource[] = [
         description:
             "Use AppMockUp, the world's most powerful screenshot builder to create the most compelling screenshots for your app.",
         url: 'https://app-mockup.com/',
-    },
-    {
-        name: 'Appshine',
-        categories: ['Design'],
-        description:
-            'Use Appshine to get a UX/UI mobile or web design for your tech startup that drive higher sales, retention, and referrals.',
-        url: 'https://appshine.io',
-        keywords: ['ui design', 'app design', 'mobile design', 'web design'],
     },
     {
         name: 'Appwrite',

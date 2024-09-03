@@ -343,12 +343,6 @@ export const resources: Resource[] = [
         url: 'https://www.framer.com',
     },
     {
-        name: 'Free JavaScript Resources',
-        categories: ['Learn', 'Programming'],
-        description: 'Learn JavaScript for free',
-        url: 'https://www.java5cript.com/',
-    },
-    {
         name: 'freeCodeCamp',
         categories: ['Learn', 'Programming'],
         description:
@@ -615,7 +609,7 @@ export const resources: Resource[] = [
         name: 'Fun Fun Function',
         categories: ['Programming', 'YouTube Channel'],
         description:
-            "I’m Mattias Petter Johansson, mpj for short. I’ve been a full-time programmer for about ten years. Among others, I've worked for Absolut Vodka, Blackberry and Spotify.   Videos are released on MONDAYS at 08:00 GMT. For the love of 🗿, watch them! ❤️ Support the show on Patreon: https://patreon.com/funfunfunction: ⛱ Pledge $2/month and get access to the Fun Fun Forum where I and other inspiring patrons hang out and talk about everything more or less related to programming. Become a SUPER PATRON 🦹‍♀️🦸‍♂️ for $9/month and get access to the Forum AND random LOOT (like stickers and private live streams) Check out the sister channel DevTips: https://www.youtube.com/user/DevTipsForDesigners.",
+            "I’m Mattias Petter Johansson, mpj for short. I’ve been a full-time programmer for over twenty (!) years. Among others, I've worked for Absolut Vodka, Blackberry, Spotify and Mindler.",
         keywords: [
             'javascript "web development" programming software development technology computer science engineering developer creativity productivity',
         ],
@@ -627,5 +621,13 @@ export const resources: Resource[] = [
         description:
             'JavaScript charts for web and mobile apps. 95+ chart types, 1400+ maps and 20+ business dashboards with pre-built themes for any business use-case. Build fast, responsive and highly customizable data visualizations trusted by over 28,000 customers and 750,000 developers worldwide...',
         url: 'https://www.fusioncharts.com/',
+    },
+    {
+        name: 'Fusion',
+        categories: ['API Building'],
+        description:
+            'Fusion is the "Notion-like" API client. Modular API design, testing & collaboration for the entire API lifecycle. Available as SaaS and self hosted.',
+        url: 'https://apyhub.com/product/fusion',
+        keywords: ['API testing', 'API design', 'API collaboration', 'API documentation'],
     },
 ]

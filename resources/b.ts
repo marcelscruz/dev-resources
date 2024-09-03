@@ -23,6 +23,20 @@ export const resources: Resource[] = [
         url: 'https://balsamiq.com/',
     },
     {
+        name: 'BandoFacile',
+        categories: ['AI', 'Productivity', 'Marketing'],
+        description: 'Documentazione del tuo bando pronta in 48 ore',
+        keywords: [
+            'Artificial Intelligence',
+            'AI Tender Automation',
+            'Grant Writing Software',
+            'Funding Application Tool',
+            'Automated Document Generation',
+            'Tender Consulting Services',
+        ],
+        url: 'https://bandofacile.com/',
+    },
+    {
         name: 'beampipe',
         categories: ['Analytics'],
         description:
@@ -171,6 +185,13 @@ export const resources: Resource[] = [
         description:
             'Black illustrations is a series of FREE digital designs of black people for your next online project. Free for commercial and personal use.',
         url: 'https://www.blackillustrations.com/',
+    },
+    {
+        name: 'BlackTwist',
+        categories: ['Analytics', 'Marketing', 'Twitter'],
+        description:
+            'Build and monetize your audience on Threads. BlackTwist is the #1 social media assistant for Threads that helps you take your social growth to the next level.',
+        url: 'https://blacktwist.app',
     },
     {
         name: 'Blisk',

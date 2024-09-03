@@ -60,14 +60,6 @@ export const resources: Resource[] = [
         keywords: ['daisy', 'ui', 'daisyui', 'library'],
     },
     {
-        name: 'DamnGood.Tools',
-        categories: ['Productivity'],
-        description: 'Easy-to-use, fun tools—free (and open-source).',
-        url: 'https://damngood.tools',
-
-        keywords: ['tools', 'productivity', 'grammar fix', 'privacy policy', 'fonts', 'url', 'screenshot'],
-    },
-    {
         name: 'Dark',
         categories: ['Design', 'UI'],
         description: 'The best hand-picked dark themed websites on the internet.',
@@ -182,6 +174,31 @@ export const resources: Resource[] = [
         categories: ['Podcast', 'Programming'],
         description: 'A podcast for developers designed to fit inside your tea break',
         url: 'https://spec.fm/podcasts/developer-tea',
+    },
+    {
+        name: 'Dev Events',
+        categories: ['Conference'],
+        description:
+            'Dev.events is a comprehensive listing of tech conferences for developers. It covers a wide range of topics, from cutting-edge AI and computing to software development.',
+        url: 'https://dev.events/',
+        keywords: [
+            '.Net',
+            'Accessibility',
+            'Android',
+            'CSS',
+            'Data - AI',
+            'Design - UX',
+            'DevOps',
+            'Elixir',
+            'IoT',
+            'Java',
+            'JavaScript',
+            'PHP',
+            'Python',
+            'Ruby',
+            'Security',
+            'iOS',
+        ],
     },
     {
         name: 'devChallenges',

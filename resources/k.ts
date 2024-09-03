@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Kempo',
+        categories: ['Programming', 'Blog'],
+        description: 'Customized code playgrounds powered by CodeSandbox’s Sandpack.',
+        keywords: ['Programming', 'Code Editor', 'Code Demos'],
+        url: 'https://kempo.io',
+    },
+    {
         name: 'Kent C. Dodds',
         categories: ['Programming', 'YouTube Channel'],
         description: "Hi, I'm Kent C. Dodds. I help people make the world better through quality software.",
@@ -20,14 +27,6 @@ export const resources: Resource[] = [
         categories: ['Typing'],
         description: 'Teaching the world to type at the speed of thought! Typing lessons that work.',
         url: 'https://www.keybr.com/',
-    },
-    {
-        name: 'keyframers',
-        categories: ['Programming', 'YouTube Channel'],
-        description:
-            'An animated, collaborative coding live stream by David Khourshid (@davidkpiano) & Stephen Shaw (@shshaw). We bring imaginative user interfaces to life every Monday @ 17:00 EST/21:00 GMT at https://twitch.tv/keyframers Support us at https://patreon.com/keyframers Find developer shirts, stickers & more at https://keyframe.rs/merch https://keyframe.rs.',
-        keywords: ['code "live stream" css html javascript animation'],
-        url: 'https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA',
     },
     {
         name: 'Keysearch',

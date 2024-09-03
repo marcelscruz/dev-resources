@@ -164,6 +164,22 @@ export const resources: Resource[] = [
         url: 'https://www.google.com/chrome/dev/',
     },
     {
+        name: 'Chaindesk',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Chaindesk is a complete support ecosystem to help you spend less time supporting your users - and more time growing your business.',
+        url: 'https://www.chaindesk.ai/',
+        keywords: ['ChatGPT Chatbot', 'AI Chatbot', 'Customer Support', 'Chatbot'],
+    },
+    {
+        name: 'Chatim',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Chatim is a live chat with a chatbot automation platform that lets you connect with customers anywhere, anytime',
+        url: 'https://chatim.app/',
+        keywords: ['Live Chat', 'Lead Generation', 'Sales', 'Chatbot'],
+    },
+    {
         name: 'Circum Icons',
         categories: ['Icon'],
         description: 'Consistent open source icons as SVG for React, Vue and Svelte.',
@@ -184,6 +200,28 @@ export const resources: Resource[] = [
         description: 'Drop-in React components for authentication and authorization.',
         keywords: ['react', 'next.js', 'auth', ' user management', 'react auth', 'next.js auth', 'javascript auth'],
         url: 'https://clerk.com',
+    },
+    {
+        name: 'CleanSnap',
+        categories: ['Image', 'Screenshot', 'AI'],
+        description:
+            'CleanSnap is a free AI Images maker. Create a beautiful image from a screenshot in seconds. Without any watermark.',
+        keywords: [
+            'image generation',
+            'beautiful screenshots',
+            'screenshots creator',
+            'how to make generate image',
+            'image',
+            'screenshot',
+            'download',
+            'easy',
+            'photo',
+            'gif',
+            'picture',
+            'instagram',
+            'facebook',
+        ],
+        url: 'https://www.cleansnap.co/',
     },
     {
         name: 'Clideo',
@@ -488,14 +526,6 @@ export const resources: Resource[] = [
         url: 'https://www.codewars.com/',
     },
     {
-        name: 'Codewell',
-        categories: ['Learn', 'Programming'],
-        description: 'Improve your HTML and CSS skills by practicing on real world design templates.',
-        url: 'https://www.codewell.cc/',
-
-        keywords: ['frontend', 'html', 'css', 'flexbox', 'grid', 'javascript'],
-    },
-    {
         name: 'Codinn',
         categories: ['Learn', 'Programming'],
         description:
@@ -694,6 +724,31 @@ export const resources: Resource[] = [
         url: 'https://github.com/Developer-Y/cs-video-courses',
     },
     {
+        name: 'Confs.Tech',
+        categories: ['Conference'],
+        description:
+            'Open-Source project that lists upcoming tech conferences. Everything is free and will stay free. It is a technical conferences finder.',
+        url: 'https://confs.tech/',
+        keywords: [
+            '.Net',
+            'Accessibility',
+            'Android',
+            'CSS',
+            'Data - AI',
+            'Design - UX',
+            'DevOps',
+            'Elixir',
+            'IoT',
+            'Java',
+            'JavaScript',
+            'PHP',
+            'Python',
+            'Ruby',
+            'Security',
+            'iOS',
+        ],
+    },
+    {
         name: 'Console Ninja',
         categories: ['Editor', 'Extension'],
         description:
@@ -709,6 +764,21 @@ export const resources: Resource[] = [
 
         keywords: ['seo', 'content', 'monitoring', 'website', 'audit'],
     },
+    {
+        name: 'Context Data',
+        description: 'Data Processing & ETL infrastructure for Generative AI applications',
+        categories: ['AI', 'Database'],
+        url: 'https://contextdata.ai',
+        keywords: [
+            'ai infrastructure',
+            'generative ai',
+            'vector database',
+            'rag',
+            'data engineering',
+            'retrieval augmented generation',
+        ],
+    },
+
     {
         name: 'Contrast Ratio',
         categories: ['Accessibility', 'Color'],
@@ -932,13 +1002,6 @@ export const resources: Resource[] = [
         url: 'https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce',
     },
     {
-        name: 'CV Maker AI',
-        description:
-            'Let artificial intelligence create your flawless resume, offering personalized suggestions and tailored content to secure your ideal job.',
-        categories: ['Resume'],
-        url: 'https://www.cvmakerai.com',
-    },
-    {
         name: 'Customer.io',
         categories: ['Marketing'],
         description:
@@ -958,5 +1021,12 @@ export const resources: Resource[] = [
         description:
             'Graph theory / network library for analysis and visualisation - compatible with CommonJS/Node.js/Browserify/Webpack, AMD/Require.js, npm, Bower, jspm, Meteor/Atmosphere, jQuery, and plain JS/JavaScript.',
         url: 'https://js.cytoscape.org/',
+    },
+    {
+        name: 'Cynagon',
+        categories: ['AI', 'Video'],
+        description: 'Cynagon is the ultimate tool for creating viral and engaging short-form videos.',
+        keywords: ['ai', 'ai video', 'video generator', 'shorts generator', 'ai shorts', 'shorts content'],
+        url: 'https://www.cynagon.com/',
     },
 ]
