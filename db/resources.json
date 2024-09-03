@@ -1,5 +1,5 @@
 {
-"count": 901,
+"count": 902,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2488,6 +2488,36 @@
         ],
         "description": "A powerful IDE from JetBrains for SQL on macOS, Windows, and Linux.",
         "url": "https://www.jetbrains.com/datagrip/"
+    },
+    {
+        "name": "DDEV",
+        "categories": [
+            "Tooling",
+            "Open Source",
+            "Programming"
+        ],
+        "description": "Docker-based local PHP+Node.js web development environments",
+        "keywords": [
+            "nodejs",
+            "windows",
+            "macos",
+            "linux",
+            "docker",
+            "php",
+            "wordpress",
+            "development",
+            "laravel",
+            "drupal",
+            "magento",
+            "mariadb",
+            "typo3",
+            "magento2",
+            "craftcms",
+            "moodle",
+            "backdrop",
+            "local-development"
+        ],
+        "url": "https://ddev.com/"
     },
     {
         "name": "DebugBear Speed Test",
