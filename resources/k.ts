@@ -4,7 +4,7 @@ export const resources: Resource[] = [
     {
         name: 'Kempo',
         categories: ['Programming', 'Blog'],
-        description: "Customized code playgrounds powered by CodeSandbox’s Sandpack.",
+        description: 'Customized code playgrounds powered by CodeSandbox’s Sandpack.',
         keywords: ['Programming', 'Code Editor', 'Code Demos'],
         url: 'https://kempo.io',
     },
