@@ -240,6 +240,13 @@ export const resources: Resource[] = [
         url: 'https://gradientos.app',
     },
     {
+        name: 'Gradient Generator',
+        categories: ['Color'],
+        description: 'Create brilliant gradients in 8 color spaces. 1-click export to CSS & SVG.',
+        keywords: ['color', 'UI', 'design', 'gradient'],
+        url: 'https://learnui.design/tools/gradient-generator.html',
+    },
+    {
         name: 'Gramara',
         categories: ['Productivity', 'Writing'],
         description: 'Write fluent English in a snap!',
