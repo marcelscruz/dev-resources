@@ -1,5 +1,5 @@
 {
-"count": 904,
+"count": 905,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4403,6 +4403,20 @@
         ],
         "description": "Thousands of trendy color gradients in a curated collection that is updated daily. Get a fresh color gradient for your next design project and save all the gradients you like.",
         "url": "https://gradienthunt.com/"
+    },
+    {
+        "name": "Gradient Generator",
+        "categories": [
+            "Color"
+        ],
+        "description": "Create brilliant gradients in 8 color spaces. 1-click export to CSS & SVG.",
+        "keywords": [
+            "color",
+            "UI",
+            "design",
+            "gradient"
+        ],
+        "url": "https://learnui.design/tools/gradient-generator.html"
     },
     {
         "name": "Gradientos",
