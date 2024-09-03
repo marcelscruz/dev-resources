@@ -209,11 +209,10 @@ export const resources: Resource[] = [
         ],
         url: 'https://www.gotresumebuilder.com/',
     },
-     {
+    {
         name: 'GPT4oMini',
         categories: ['AI'],
-        description:
-            'GPT4oMini.app: Free GPT4oMini Access - Advanced AI Conversation Generator',
+        description: 'GPT4oMini.app: Free GPT4oMini Access - Advanced AI Conversation Generator',
         keywords: [
             'GPT4oMini',
             'GPT4o',
@@ -221,8 +220,8 @@ export const resources: Resource[] = [
             'ChatGPT',
             'ChatGPT4oMini',
             'chatbot',
-            'Free ChatGPT Access', 
-            'AI Conversation Generator'
+            'Free ChatGPT Access',
+            'AI Conversation Generator',
         ],
         url: 'https://gpt4omini.app/',
     },
