@@ -28,12 +28,12 @@ export const resources: Resource[] = [
         url: 'https://nextjs.org/',
     },
     {
-    name: 'Nextradar',
-    description:
-        'Navigate the Next.js Ecosystem with ease. Stay up to date with the latest Next.js tools and resources.',
-    categories: ['Learn', 'Programming'],
-    url: 'https://nextradar.dev',
-    keywords: ['Nextjs','React', 'Vercel'],
+        name: 'Nextradar',
+        description:
+            'Navigate the Next.js Ecosystem with ease. Stay up to date with the latest Next.js tools and resources.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://nextradar.dev',
+        keywords: ['Nextjs', 'React', 'Vercel'],
     },
     {
         name: 'NextUI',

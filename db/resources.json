@@ -1,5 +1,5 @@
 {
-"count": 906,
+"count": 907,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6439,6 +6439,20 @@
         ],
         "description": "Production grade React applications that scale. The world’s leading companies use Next.js by Vercel to build static and dynamic websites and web applications.",
         "url": "https://nextjs.org/"
+    },
+    {
+        "name": "Nextradar",
+        "description": "Navigate the Next.js Ecosystem with ease. Stay up to date with the latest Next.js tools and resources.",
+        "categories": [
+            "Learn",
+            "Programming"
+        ],
+        "url": "https://nextradar.dev",
+        "keywords": [
+            "Nextjs",
+            "React",
+            "Vercel"
+        ]
     },
     {
         "name": "NextUI",
