@@ -136,7 +136,7 @@ export const resources: Resource[] = [
     {
         name: "API ChatAssistPro",
         description: "ChatAssist Pro is an advanced AI-powered chatbot designed to streamline customer support interactions. It offers prompt and accurate responses to a wide range of customer queries, ensuring a seamless and efficient user experience. With intelligent intent recognition and dynamic handling of FAQs, ChatAssist Pro enhances customer satisfaction and operational efficiency.",
-        categories: ["Customer Support", "AI"],
+        categories: ["API Building", "AI"],
         url: "https://jayanth-mkv-chat-assist-pro.hf.space/",
         keywords: ["chatbot", "customer support", "AI", "intent recognition", "FAQ"]
     },
