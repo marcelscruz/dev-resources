@@ -307,6 +307,13 @@ export const resources: Resource[] = [
         url: 'https://toastlog.com/',
     },
     {
+        name: 'TOOOLS.design',
+        categories: ['Accessibility', 'Design', 'Blog'],
+        description: 'A growing archive of 1,500+ design resources, frequently updated for the community.',
+        url: 'https://www.toools.design/',
+        keywords: ['design', 'resources', 'tools', 'icons', 'illustrations', 'colors', 'logos', 'accessibility'],
+    },
+    {
         name: 'Tooplate',
         categories: ['Template'],
         description:
