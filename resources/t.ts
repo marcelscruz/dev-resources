@@ -308,7 +308,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'TOOOLS.design',
-        categories: ['Accessibility', 'Design', 'Icon', 'Blog', 'Podcast', 'AI', 'Color', 'Illustration', 'Logo', 'UX'],
+        categories: ['Accessibility', 'Design', 'Blog'],
         description: 'A growing archive of 1,500+ design resources, frequently updated for the community.',
         url: 'https://www.toools.design/',
         keywords: ['design', 'resources', 'tools', 'icons', 'illustrations', 'colors', 'logos', 'accessibility'],
