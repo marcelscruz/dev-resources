@@ -284,11 +284,11 @@ export const resources: Resource[] = [
         url: 'https://www.linkshub.dev/',
     },
     {
-        name: 'Linktopus',
+        name: 'Linkero',
         categories: ['Website Builder'],
         description:
             'The simplicity of a link in bio, the power of a page builder. Create your page and grow your online presence. Ready in minutes.',
-        url: 'https://linktopus.co',
+        url: 'https://linke.ro',
         keywords: ['link in bio', 'personal site', 'share links', 'linktree', 'liinks', 'bento'],
     },
     {
