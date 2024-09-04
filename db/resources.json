@@ -1,5 +1,5 @@
 {
-"count": 907,
+"count": 908,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9264,6 +9264,26 @@
         ],
         "description": "See errors, warnings, and logs as they happen on your site — without having to open the browser’s console. Find bugs you didn't know were there via notifications in our unique toast format.",
         "url": "https://toastlog.com/"
+    },
+    {
+        "name": "TOOOLS.design",
+        "categories": [
+            "Accessibility",
+            "Design",
+            "Blog"
+        ],
+        "description": "A growing archive of 1,500+ design resources, frequently updated for the community.",
+        "url": "https://www.toools.design/",
+        "keywords": [
+            "design",
+            "resources",
+            "tools",
+            "icons",
+            "illustrations",
+            "colors",
+            "logos",
+            "accessibility"
+        ]
     },
     {
         "name": "Tooplate",
