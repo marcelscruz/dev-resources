@@ -5839,6 +5839,22 @@
         "url": "https://www.linkedin.com/learning"
     },
     {
+        "name": "Linkero",
+        "categories": [
+            "Website Builder"
+        ],
+        "description": "The simplicity of a link in bio, the power of a page builder. Create your page and grow your online presence. Ready in minutes.",
+        "url": "https://linke.ro",
+        "keywords": [
+            "link in bio",
+            "personal site",
+            "share links",
+            "linktree",
+            "liinks",
+            "bento"
+        ]
+    },
+    {
         "name": "LinksHub",
         "categories": [
             "Open Source"
@@ -5855,22 +5871,6 @@
             "free"
         ],
         "url": "https://www.linkshub.dev/"
-    },
-    {
-        "name": "Linktopus",
-        "categories": [
-            "Website Builder"
-        ],
-        "description": "The simplicity of a link in bio, the power of a page builder. Create your page and grow your online presence. Ready in minutes.",
-        "url": "https://linktopus.co",
-        "keywords": [
-            "link in bio",
-            "personal site",
-            "share links",
-            "linktree",
-            "liinks",
-            "bento"
-        ]
     },
     {
         "name": "Linode",
