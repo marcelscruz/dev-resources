@@ -166,7 +166,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Podcast Clip Maker',
-        description: 'AI-powered Podcast Clip Maker',
+        description: 'Automatically generate podcast clips from long-form video and audio',
         categories: ['Podcast', 'Editor', 'Video'],
         url: 'https://recast.studio/tools/podcast-clip-maker',
         keywords: ['ai', 'media', 'marketing', 'automation'], 
