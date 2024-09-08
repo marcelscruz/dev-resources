@@ -1,5 +1,5 @@
 {
-"count": 901,
+"count": 908,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2172,6 +2172,23 @@
         "url": "https://www.coursera.org/"
     },
     {
+        "name": "Cozytypes",
+        "description": "A simple and aesthetic typing website to help improve your typing speed and accuracy. a simple typing website for keyboard enthusiasts. Practice in different different modes, personalize your settings and preferences, and improve your skills.",
+        "categories": [
+            "Typing"
+        ],
+        "url": "https://cozytypes.com",
+        "keywords": [
+            "typing",
+            "typing-test",
+            "cozytypes",
+            "words per minute",
+            "simple typing website",
+            "improve typing",
+            "practice typing"
+        ]
+    },
+    {
         "name": "Craftwork",
         "categories": [
             "Font",
@@ -2488,6 +2505,36 @@
         ],
         "description": "A powerful IDE from JetBrains for SQL on macOS, Windows, and Linux.",
         "url": "https://www.jetbrains.com/datagrip/"
+    },
+    {
+        "name": "DDEV",
+        "categories": [
+            "Tooling",
+            "Open Source",
+            "Programming"
+        ],
+        "description": "Docker-based local PHP+Node.js web development environments",
+        "keywords": [
+            "nodejs",
+            "windows",
+            "macos",
+            "linux",
+            "docker",
+            "php",
+            "wordpress",
+            "development",
+            "laravel",
+            "drupal",
+            "magento",
+            "mariadb",
+            "typo3",
+            "magento2",
+            "craftcms",
+            "moodle",
+            "backdrop",
+            "local-development"
+        ],
+        "url": "https://ddev.com/"
     },
     {
         "name": "DebugBear Speed Test",
@@ -4358,6 +4405,20 @@
         "url": "https://gradienthunt.com/"
     },
     {
+        "name": "Gradient Generator",
+        "categories": [
+            "Color"
+        ],
+        "description": "Create brilliant gradients in 8 color spaces. 1-click export to CSS & SVG.",
+        "keywords": [
+            "color",
+            "UI",
+            "design",
+            "gradient"
+        ],
+        "url": "https://learnui.design/tools/gradient-generator.html"
+    },
+    {
         "name": "Gradientos",
         "categories": [
             "Color"
@@ -5063,6 +5124,22 @@
         "url": "https://intersectionobserver.io"
     },
     {
+        "name": "Interview Hammer",
+        "description": "Nail your job interview with the your interview AI copilot",
+        "categories": [
+            "Interview",
+            "AI"
+        ],
+        "url": "https://interviewhammer.com",
+        "keywords": [
+            "interview helper",
+            "interview AI copilot",
+            "interview AI assistant",
+            "career",
+            "jobs"
+        ]
+    },
+    {
         "name": "Interview Solver",
         "description": "Ace your live coding interviews with our AI Copilot",
         "categories": [
@@ -5762,6 +5839,22 @@
         "url": "https://www.linkedin.com/learning"
     },
     {
+        "name": "Linkero",
+        "categories": [
+            "Website Builder"
+        ],
+        "description": "The simplicity of a link in bio, the power of a page builder. Create your page and grow your online presence. Ready in minutes.",
+        "url": "https://linke.ro",
+        "keywords": [
+            "link in bio",
+            "personal site",
+            "share links",
+            "linktree",
+            "liinks",
+            "bento"
+        ]
+    },
+    {
         "name": "LinksHub",
         "categories": [
             "Open Source"
@@ -5778,22 +5871,6 @@
             "free"
         ],
         "url": "https://www.linkshub.dev/"
-    },
-    {
-        "name": "Linktopus",
-        "categories": [
-            "Website Builder"
-        ],
-        "description": "The simplicity of a link in bio, the power of a page builder. Create your page and grow your online presence. Ready in minutes.",
-        "url": "https://linktopus.co",
-        "keywords": [
-            "link in bio",
-            "personal site",
-            "share links",
-            "linktree",
-            "liinks",
-            "bento"
-        ]
     },
     {
         "name": "Linode",
@@ -6364,6 +6441,20 @@
         "url": "https://nextjs.org/"
     },
     {
+        "name": "Nextradar",
+        "description": "Navigate the Next.js Ecosystem with ease. Stay up to date with the latest Next.js tools and resources.",
+        "categories": [
+            "Learn",
+            "Programming"
+        ],
+        "url": "https://nextradar.dev",
+        "keywords": [
+            "Nextjs",
+            "React",
+            "Vercel"
+        ]
+    },
+    {
         "name": "NextUI",
         "description": "Beautiful, fast, modern React UI Library",
         "categories": [
@@ -6492,6 +6583,22 @@
         ],
         "description": "GitHub on steroids.",
         "url": "https://www.octotree.io/"
+    },
+    {
+        "name": "Odown",
+        "categories": [
+            "API Building",
+            "Remote",
+            "Website Builder"
+        ],
+        "description": "Simple website uptime monitoring tool to monitor your websites and APIs combined with public status pages",
+        "keywords": [
+            "website monitoring",
+            "slack",
+            "webhooks",
+            "performance"
+        ],
+        "url": "https://odown.io/"
     },
     {
         "name": "Offen",
@@ -9157,6 +9264,26 @@
         ],
         "description": "See errors, warnings, and logs as they happen on your site — without having to open the browser’s console. Find bugs you didn't know were there via notifications in our unique toast format.",
         "url": "https://toastlog.com/"
+    },
+    {
+        "name": "TOOOLS.design",
+        "categories": [
+            "Accessibility",
+            "Design",
+            "Blog"
+        ],
+        "description": "A growing archive of 1,500+ design resources, frequently updated for the community.",
+        "url": "https://www.toools.design/",
+        "keywords": [
+            "design",
+            "resources",
+            "tools",
+            "icons",
+            "illustrations",
+            "colors",
+            "logos",
+            "accessibility"
+        ]
     },
     {
         "name": "Tooplate",
