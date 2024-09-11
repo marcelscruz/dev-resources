@@ -372,4 +372,12 @@ export const resources: Resource[] = [
             'Free Illustrations and Icons for everyone. Use them for anything you like. Free for commercial and personal use.',
         url: 'https://lukaszadam.com/illustrations',
     },
+    {
+        name: 'Luthor',
+        description: 'Grow organic traffic with programmatic SEO at scale.',
+        categories: ['Marketing', 'SEO', 'AI'],
+        url: 'https://luthor.ai/',
+        keywords: ['automation', 'content', 'productivity'],
+    },
+
 ]
