@@ -335,6 +335,15 @@ export const resources: Resource[] = [
             'Fontspark is the best place for you. We are providing all the latest and professional free fonts for download that you can use on your projects.',
         url: 'https://fontspark.com/',
     },
+    
+    {
+        name: 'Foundy',
+        description: 'Sell your business at a higher valuation or find quality acquisitions with Foundy AI and expert support.',
+        categories: ['Startup', 'AI'],
+        url: 'https://foundy.com',
+        keywords: ['business', 'sell', 'buy'], // Optional, but used on the search feature on the website
+    },
+
     {
         name: 'Framer',
         categories: ['Design', 'Prototyping', 'UI', 'Website Builder'],
