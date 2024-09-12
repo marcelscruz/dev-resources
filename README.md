@@ -1074,6 +1074,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
  <img src="https://www.google.com/s2/favicons?domain=https://aidirectori.es/&sz=128" width="16" /> | [AI Directories](https://aidirectori.es/) | All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories | ai, artificial intelligence, promote, directory, traffic |
+ <img src="https://www.google.com/s2/favicons?domain=https://alteropen.com/&sz=128" width="16" /> | [Alteropen](https://alteropen.com/) | Alternative Directory to popular SaaS products (Free/ OpenSource or with Great Deals) for Developer, Indie |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.backlinkgpt.com&sz=128" width="16" /> | [BacklinkGPT](https://www.backlinkgpt.com) | Automate Your Link-Building with AI-Personalized Outreach. | link building, SEO, backlink, outreach |
  <img src="https://www.google.com/s2/favicons?domain=https://bandofacile.com/&sz=128" width="16" /> | [BandoFacile](https://bandofacile.com/) | Documentazione del tuo bando pronta in 48 ore | Artificial Intelligence, AI Tender Automation, Grant Writing Software, Funding Application Tool, Aut... |
  <img src="https://www.google.com/s2/favicons?domain=https://betalist.com/&sz=128" width="16" /> | [BetaList](https://betalist.com/) | BetaList provides an overview of upcoming internet startups. Discover and get early access to the future. |  |
@@ -1132,6 +1133,7 @@
 ### <a name="open-source">Open Source</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://alteropen.com/&sz=128" width="16" /> | [Alteropen](https://alteropen.com/) | Alternative Directory to popular SaaS products (Free/ OpenSource or with Great Deals) for Developer, Indie |  |
  <img src="https://www.google.com/s2/favicons?domain=https://aptabase.com&sz=128" width="16" /> | [Aptabase](https://aptabase.com) | Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web apps. Get simple and actionable insights without compromising user privacy. | mobile, analytics, privacy, opensource |
  <img src="https://www.google.com/s2/favicons?domain=https://www.codetriage.com/&sz=128" width="16" /> | [CodeTriage](https://www.codetriage.com/) | Discover the easiest way to get started contributing to open source. Over 62,317 devs are helping 6,584 projects with our free, community developed tools |  |
  <img src="https://www.google.com/s2/favicons?domain=https://axorax.github.io/css-button-maker/&sz=128" width="16" /> | [CSSButtonMaker](https://axorax.github.io/css-button-maker/) | Create stunning buttons in just a few clicks! |  |
@@ -1550,6 +1552,7 @@
 |---|---|---|---|
  <img src="https://www.google.com/s2/favicons?domain=https://ahrefs.com/&sz=128" width="16" /> | [Ahrefs](https://ahrefs.com/) | You don't have to be an SEO pro to rank higher and get more traffic. Join Ahrefs – we're a powerful but easy to learn SEO toolset with a passionate community. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://aidirectori.es/&sz=128" width="16" /> | [AI Directories](https://aidirectori.es/) | All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories | ai, artificial intelligence, promote, directory, traffic |
+ <img src="https://www.google.com/s2/favicons?domain=https://alteropen.com/&sz=128" width="16" /> | [Alteropen](https://alteropen.com/) | Alternative Directory to popular SaaS products (Free/ OpenSource or with Great Deals) for Developer, Indie |  |
  <img src="https://www.google.com/s2/favicons?domain=https://ahrefs.com/backlink-checker&sz=128" width="16" /> | [Backlink Checker](https://ahrefs.com/backlink-checker) | With the world's biggest index of live backlinks (over 15 trillion), Ahrefs Backlink Checker will show you the most complete backlink profile for any website. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.backlinkgpt.com&sz=128" width="16" /> | [BacklinkGPT](https://www.backlinkgpt.com) | Automate Your Link-Building with AI-Personalized Outreach. | link building, SEO, backlink, outreach |
  <img src="https://www.google.com/s2/favicons?domain=https://blogfox.ai&sz=128" width="16" /> | [BlogFox](https://blogfox.ai) | Generate impressive blogs from a Youtube video or SEO keywords at scale. | writer, ai, article, marketing |

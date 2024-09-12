@@ -1,5 +1,5 @@
 {
-"count": 909,
+"count": 910,
 "data": [
     {
         "name": "1001 Fonts",
@@ -236,6 +236,16 @@
         ],
         "description": "JavaScript library to help modern web applications with accessibility concerns by making accessibility simpler.",
         "url": "https://allyjs.io/"
+    },
+    {
+        "name": "Alteropen",
+        "categories": [
+            "Marketing",
+            "SEO",
+            "Open Source"
+        ],
+        "description": "Alternative Directory to popular SaaS products (Free/ OpenSource or with Great Deals) for Developer, Indie",
+        "url": "https://alteropen.com/"
     },
     {
         "name": "Angular DevTools",
