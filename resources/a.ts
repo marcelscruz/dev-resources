@@ -111,6 +111,13 @@ export const resources: Resource[] = [
         url: 'https://allyjs.io/',
     },
     {
+        name: 'Alteropen',
+        categories: ['Marketing', 'SEO', 'Open Source'],
+        description:
+            'Alternative Directory to popular SaaS products (Free/ OpenSource or with Great Deals) for Developer, Indie',
+        url: 'https://alteropen.com/',
+    },
+    {
         name: 'Angular DevTools',
         description:
             'Angular DevTools extends Chrome DevTools adding Angular specific debugging and profiling capabilities. You can use Angular DevTools to understand the structure of your application and preview the state of the directive and the component instances. To get insights into the execution of the application, you can use the profiler tab, which shows you the individual change detection cycles, what triggered them, and how much time Angular spent in them.',
