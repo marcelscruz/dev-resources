@@ -220,11 +220,7 @@ export const resources: Resource[] = [
         name: 'Homie',
         categories: ['AI', 'Productivity'],
         description: 'AI project manager to speed up software development',
-        keywords: [
-            'GitHub Integration',
-            'Code Management',
-            'Time Management',
-        ],
+        keywords: ['GitHub Integration', 'Code Management', 'Time Management'],
         url: 'https://homie.gg',
     },
     {

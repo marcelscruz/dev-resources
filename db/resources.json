@@ -1,5 +1,5 @@
 {
-"count": 911,
+"count": 912,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4773,6 +4773,20 @@
         ],
         "description": "We have the largest library of free Microsoft Office and Google Doc resume templates, paired with a professional resume builder and additional writing features.",
         "url": "https://www.hloom.com/"
+    },
+    {
+        "name": "Homie",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "AI project manager to speed up software development",
+        "keywords": [
+            "GitHub Integration",
+            "Code Management",
+            "Time Management"
+        ],
+        "url": "https://homie.gg"
     },
     {
         "name": "Hoppscotch",
