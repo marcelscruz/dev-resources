@@ -217,6 +217,17 @@ export const resources: Resource[] = [
         url: 'https://hostman.com/',
     },
     {
+        name: 'Homie',
+        categories: ['AI', 'Productivity'],
+        description: 'AI project manager to speed up software development',
+        keywords: [
+            'GitHub Integration',
+            'Code Management',
+            'Time Management',
+        ],
+        url: 'https://homie.gg',
+    },
+    {
         name: 'HTMLrev',
         categories: ['Template'],
         description:
