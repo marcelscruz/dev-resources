@@ -93,6 +93,14 @@ export const resources: Resource[] = [
         url: 'https://grid.layoutit.com/',
     },
     {
+        name: 'LandingPro AI',
+        categories: ['AI', 'Marketing'],
+        description: 'AI that writes website copy that actually sell',
+        url: 'https://landingpro.ai/',
+
+        keywords: ['marketing', 'ai'],
+    },
+    {
         name: 'LearnWeb3',
         categories: ['Learn', 'Web3'],
         description: 'LearnWeb3 is the best place to turn you into a web3 developer for completely free.',
