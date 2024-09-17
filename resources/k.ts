@@ -67,4 +67,27 @@ export const resources: Resource[] = [
             'A marketplace of fully responsive, multi-purpose UI kits, built with Tailwind CSS, for start-ups and products of any kind.',
         url: 'https://kitwind.io/products/kometa',
     },
+    {
+        name: 'Kraftful',
+        description: 'Copilot for product teams',
+        categories: ['Productivity', 'Analytics', 'AI'],
+        url: 'https://www.kraftful.com/',
+
+        keywords: [
+            'Research',
+            'Productivity',
+            'User Experience',
+            'Summarization',
+            'Business',
+            'Collaboration',
+            'Chatbot',
+            'Data analytics',
+            'Project management',
+            'Market research',
+            'Task management',
+            'ChatGPT plugin',
+            'Design',
+            'Tech & Development',
+        ],
+    },
 ]
