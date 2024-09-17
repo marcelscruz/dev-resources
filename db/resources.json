@@ -1,5 +1,5 @@
 {
-"count": 912,
+"count": 913,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5561,6 +5561,19 @@
         ],
         "description": "The Landing Page Hot Tips Ebook features 100 digestible lessons to implement into your Landing Pages. Each tip features a few paragraphs, visual references and related resources. Additional features include: PDF Ebook (180-pages), Rich Media Ebook (adapts to any device), Category filter (eg. UX tips), Component filter (eg. Testimonials), Audiobook (54mins) and interactive launch checklists.",
         "url": "https://gumroad.com/a/124908659"
+    },
+    {
+        "name": "LandingPro AI",
+        "categories": [
+            "AI",
+            "Marketing"
+        ],
+        "description": "AI that writes website copy that actually sell",
+        "url": "https://landingpro.ai/",
+        "keywords": [
+            "marketing",
+            "ai"
+        ]
     },
     {
         "name": "Lapa Ninja",
