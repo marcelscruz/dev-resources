@@ -326,6 +326,12 @@ export const resources: Resource[] = [
         url: 'https://www.mysql.com/',
     },
     {
+        name: 'MySQL Visual Explain',
+        categories: ['Database', 'Performance'],
+        description: 'Transform MySQL EXPLAIN output to easy-to-understand visualizations.',
+        url: 'https://mysqlexplain.com/',
+    },
+    {
         name: 'Materio Free MUI React NextJS Admin Template',
         categories: ['Template'],
         description:
