@@ -1,5 +1,5 @@
 {
-"count": 914,
+"count": 915,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6493,6 +6493,15 @@
         ],
         "description": "MySQL Database Service is a fully managed database service to deploy cloud-native applications.",
         "url": "https://www.mysql.com/"
+    },
+    {
+        "name": "MySQL Visual Explain",
+        "categories": [
+            "Database",
+            "Performance"
+        ],
+        "description": "Transform MySQL EXPLAIN output to easy-to-understand visualizations.",
+        "url": "https://mysqlexplain.com/"
     },
     {
         "name": "n3-charts",
