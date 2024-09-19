@@ -8,6 +8,13 @@ export const resources: Resource[] = [
         url: 'https://pagecollective.com/',
     },
     {
+        name: 'Pagelet',
+        categories: ['Hosting'],
+        description:
+            'Simple Free HTML hosting, get a shareable link and a QR code out of the box.',
+        url: 'https://pagelet.host',
+    },
+    {
         name: 'PageSpeed Insights',
         categories: ['Performance'],
         description:
