@@ -345,6 +345,13 @@ export const resources: Resource[] = [
         url: 'https://rocketcrew.space/',
     },
     {
+        name: 'Rosie',
+        description: 'AI Phone Answering Service',
+        categories: ['AI', 'Startup', 'Marketing'],
+        url: 'https://heyrosie.com/',
+        keywords: ['ai answering service', 'ai assistant', 'voice', 'audio', 'phone'],
+    },
+    {
         name: 'RubyMine',
         categories: ['Editor', 'Programming'],
         description:
