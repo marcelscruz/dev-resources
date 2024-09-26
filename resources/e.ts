@@ -211,6 +211,13 @@ export const resources: Resource[] = [
         url: 'https://everythingfonts.com/',
     },
     {
+        name: 'Exam Samurai',
+        description: 'AI Exam Generator',
+        categories: ['Learn', 'AI', 'Productivity'],
+        url: 'https://www.examsamur.ai/',
+        keywords: ['education', 'exam', 'notes', 'study'],
+    },
+    {
         name: 'Exercism',
         categories: ['Code Challenge'],
         description:
