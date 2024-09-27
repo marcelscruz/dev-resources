@@ -22,6 +22,13 @@ export const resources: Resource[] = [
         url: 'https://famewall.io/',
     },
     {
+        name: 'Fast Articles AI',
+        categories: ['Marketing', 'SEO', 'Writing'],
+        description:
+            'Fast Articles AI is an advanced AI writing tool for SEO. Generate perfect SEO articles and blog posts in seconds.',
+        url: 'https://fastarticles.ai/'
+    },
+    {
         name: 'Fathom',
         categories: ['Analytics'],
         description:
