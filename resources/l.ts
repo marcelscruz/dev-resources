@@ -387,5 +387,4 @@ export const resources: Resource[] = [
         url: 'https://luthor.ai/',
         keywords: ['automation', 'content', 'productivity'],
     },
-
 ]
