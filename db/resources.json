@@ -1,5 +1,5 @@
 {
-"count": 915,
+"count": 916,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7392,6 +7392,16 @@
         ],
         "description": "Hosting Qoddi.com is a PaaS service similar to Heroku with a developer-centric approach and a free tier for developers and micro-services.",
         "url": "https://qoddi.com"
+    },
+    {
+        "name": "QoQo AI",
+        "categories": [
+            "AI",
+            "Design",
+            "UX"
+        ],
+        "description": "QoQo.ai helps Product Designers and UX Researchers overcome limited resources for research by providing quick and efficient access to research insights.",
+        "url": "https://qoqo.ai/"
     },
     {
         "name": "Quokka.js",
