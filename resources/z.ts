@@ -37,6 +37,14 @@ export const resources: Resource[] = [
         url: 'https://zety.com/',
     },
     {
+        name: 'ZTO - NextJS SaaS Starter Kit',
+        categories: ['Startup', 'Template'],
+        description:
+            'ZTO SaaS starter kit: Rapid deployment, scalable architecture, and essential features for MVPs and full-scale projects. Launch your SaaS faster.',
+        url: 'https://zto.dev/',
+        keywords: ['nextjs', 'saas', 'starter kit', 'template', 'boilerplate', 'tailwind', 'shadcn', 'typescript'],
+    },
+    {
         name: 'Zyro',
         categories: ['Website Builder'],
         description:
