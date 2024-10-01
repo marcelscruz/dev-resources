@@ -420,16 +420,6 @@ export const resources: Resource[] = [
             'content writer',
         ],
     },
-
-    {
-        name: 'Tutoriac',
-        categories: ['Website Builder'],
-        description:
-            'Tutoriac provides video tutorials for learning how to create websites with website builders like Wix, Google Sites, Squarespace, Webflow, Carrd, Framer.',
-        url: 'https://tutoriac.com',
-
-        keywords: ['website builder video tutorials', 'google sites', 'landing pages', 'portfolio', 'personal site'],
-    },
     {
         name: 'Tweet Detective',
         categories: ['Twitter', 'AI'],
