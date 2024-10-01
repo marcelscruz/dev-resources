@@ -1,5 +1,5 @@
 {
-"count": 919,
+"count": 920,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6316,6 +6316,15 @@
         ],
         "description": "Live Polls for Google Slides with an AI Assistant ",
         "url": "https://meetmoji.com"
+    },
+    {
+        "name": "MemFree",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Hybrid AI Search Engine: Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs.",
+        "url": "https://www.memfree.me/"
     },
     {
         "name": "Metaverse Jobs",
