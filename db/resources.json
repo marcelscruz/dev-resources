@@ -1,5 +1,5 @@
 {
-"count": 916,
+"count": 917,
 "data": [
     {
         "name": "1001 Fonts",
@@ -219,6 +219,25 @@
             "developer"
         ],
         "url": "https://aijobs.app"
+    },
+    {
+        "name": "aijobs.net",
+        "categories": [
+            "AI",
+            "Job"
+        ],
+        "description": "Find jobs and talents in AI, Machine Learning, Data Science and Big Data.",
+        "keywords": [
+            "ai",
+            "artificial intelligence",
+            "career",
+            "data science",
+            "machine learning",
+            "remote",
+            "jobs",
+            "developer"
+        ],
+        "url": "https://aijobs.net"
     },
     {
         "name": "Airtable",

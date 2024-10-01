@@ -92,7 +92,16 @@ export const resources: Resource[] = [
         name: 'aijobs.net',
         categories: ['AI', 'Job'],
         description: 'Find jobs and talents in AI, Machine Learning, Data Science and Big Data.',
-        keywords: ['ai', 'artificial intelligence', 'career', 'data science', 'machine learning', 'remote', 'jobs', 'developer'],
+        keywords: [
+            'ai',
+            'artificial intelligence',
+            'career',
+            'data science',
+            'machine learning',
+            'remote',
+            'jobs',
+            'developer',
+        ],
         url: 'https://aijobs.net',
     },
     {
