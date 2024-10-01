@@ -1221,6 +1221,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://changelog.com/&sz=128" width="16" /> | [The Changelog](https://changelog.com/) | News and podcasts for developers. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://hammerstone.dev/podcast&sz=128" width="16" /> | [The Hammerstone Podcast](https://hammerstone.dev/podcast) | Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm! |  |
  <img src="https://www.google.com/s2/favicons?domain=https://undefined.fm/&sz=128" width="16" /> | [Undefined](https://undefined.fm/) | The only engineering podcast with a 2 drink minimum. Hosted by Jared Palmer and Ken Wheeler. |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://virtualcoffee.io/podcast/&sz=128" width="16" /> | [Virtual Coffee](https://virtualcoffee.io/podcast/) | Virtual Coffee is an intimate community for developers at all stages of the journey. It is a place to ask questions, share knowledge, and build friendships. |  |
 
 **[⬆ Back to Index](#index)**
 

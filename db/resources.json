@@ -1,5 +1,5 @@
 {
-"count": 917,
+"count": 918,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9984,6 +9984,14 @@
         ],
         "description": "VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the \"Zelda meets text editing\" game. So come have some fun and learn some VIM!",
         "url": "https://vim-adventures.com/"
+    },
+    {
+        "name": "Virtual Coffee",
+        "categories": [
+            "Podcast"
+        ],
+        "description": "Virtual Coffee is an intimate community for developers at all stages of the journey. It is a place to ask questions, share knowledge, and build friendships.",
+        "url": "https://virtualcoffee.io/podcast/"
     },
     {
         "name": "Visily",
