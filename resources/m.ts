@@ -179,6 +179,13 @@ export const resources: Resource[] = [
         url: 'https://metrical.xyz/',
     },
     {
+        name: 'MemFree',
+        categories: ['AI','Productivity'],
+        description:
+            "Hybrid AI Search Engine: Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs.",
+        url: 'https://www.memfree.me/',
+    },
+    {
         name: 'MicroAcquire',
         categories: ['Startup'],
         description:
