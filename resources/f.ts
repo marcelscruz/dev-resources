@@ -26,7 +26,7 @@ export const resources: Resource[] = [
         categories: ['Marketing', 'SEO', 'Writing'],
         description:
             'Fast Articles AI is an advanced AI writing tool for SEO. Generate perfect SEO articles and blog posts in seconds.',
-        url: 'https://fastarticles.ai/'
+        url: 'https://fastarticles.ai/',
     },
     {
         name: 'Fathom',
