@@ -2,8 +2,8 @@ name: Check Broken links
 
 on:
     workflow_dispatch:
-    schedule: # Run every Sunday at 6 am
-        - cron: '00 06 * * 0'
+    schedule: # Run once a month
+        - cron: '0 0 1 * *'
 jobs:
     linkChecker:
         runs-on: ubuntu-latest
