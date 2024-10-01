@@ -36,7 +36,7 @@ export const resources: Resource[] = [
         description:
             'The content publishing & scheduling platform the most exclusive content creators use for Threads: a SaaS to Build and monetize your content on Threads.',
         url: 'https://www.schedulthreads.com',
-        keywords: ['threads', 'twitter', 'marketing', 'instagram']
+        keywords: ['threads', 'marketing', 'instagram']
     },
     {
         name: 'Scrapfly',
