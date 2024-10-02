@@ -393,6 +393,32 @@ export const resources: Resource[] = [
         url: 'https://transform.tools',
     },
     {
+        name: 'Treblle',
+        categories: ['API Building', 'Tooling', 'Analytics'],
+        description:
+            'Treblle is the ultimate end to end APIOps Platform for Engineering and DevOps teams. Simplify and elevate your REST API development with our comprehensive solution that offers insightful observability of APIs in a single, user-friendly interface.',
+        url: 'https://www.treblle.com',
+        keywords: [
+            'API Observability',
+            'API Analytics',
+            'API Documentation',
+            'API Security',
+            'API Governance',
+            'API Testing',
+            'Developer Productivity',
+            'API Monitoring',
+            'Real-time API Insights',
+            'APIOps Platform',
+            'API Performance',
+            'API Compliance',
+            'OpenAPI Support',
+            'Microservices Scalability',
+            'AI-driven API Assistance',
+            'API Debugging',
+            'API Quality',
+        ],
+    },
+    {
         name: 'Treehouse',
         categories: ['Learn', 'Programming'],
         description:
