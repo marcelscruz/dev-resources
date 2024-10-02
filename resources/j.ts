@@ -120,6 +120,22 @@ export const resources: Resource[] = [
         keywords: ['JavaScript', 'conference', 'community'],
     },
     {
+        name: 'Jspreadsheet CE',
+        categories: ['Analytics', 'Tooling', 'Open Source'],
+        description:
+            'Open Source JavaScript Data Grid Component with Advanced Spreadsheet Controls.',
+        url: 'https://bossanova.uk/jspreadsheet/',
+        keywords: ['data grid', 'datagrid', 'spreadsheet', 'JavaScript', 'react', 'Vue', 'angular', 'component', 'table', 'ui', 'open source'],
+    },
+    {
+        name: 'Jspreadsheet PRO',
+        categories: ['Analytics', 'UI', 'Tooling'],
+        description:
+            'JavaScript Data Grid Component with Advanced Spreadsheet Controls.',
+        url: 'https://jspreadsheet.com/',
+        keywords: ['data grid', 'datagrid', 'spreadsheet', 'JavaScript', 'react', 'Vue', 'angular', 'component', 'table', 'ui'],
+    },
+    {
         name: 'JustRemote',
         categories: ['Job', 'Remote'],
         description:
