@@ -553,6 +553,13 @@ export const resources: Resource[] = [
         url: 'https://freetools.site/',
     },
     {
+        name: 'FreshRemote.Work',
+        categories: ['Job', 'Remote'],
+        description: 'All fresh remote work and work from home opportunities with salaries in one place 🚀',
+        keywords: ['career', 'fresh', 'opensalary', 'remote', 'jobs', 'jobsearch', 'developer', 'wfh'],
+        url: 'https://freshremote.work/',
+    },
+    {
         name: 'FridayGPT',
         categories: ['AI', 'Productivity'],
         description: 'Fast and Native ChatGPT mac app. Access ChatGPT instantly on top of any app or website.',
