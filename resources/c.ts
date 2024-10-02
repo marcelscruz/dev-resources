@@ -926,6 +926,14 @@ export const resources: Resource[] = [
         url: 'https://creativesfeed.com/topics/code-snippets/',
     },
     {
+        name: 'Creduse',
+        categories: ['API Building', 'Analytics', 'Startup'],
+        description:
+            'Creduse is a plug-and-play solution that lets developers integrate credits into their platforms via API without a lot of hassle. It’s aimed at startups and businesses that want to boost sales, user engagement, and retention.',
+        url: 'https://creduse.com/',
+        keywords: ['api', 'credits', 'payments', 'subscriptions', 'credit-based system', 'saas', 'startup', 'pay-as-you-go'],
+    },
+    {
         name: 'Cruip',
         categories: ['Programming', 'Template'],
         description:
