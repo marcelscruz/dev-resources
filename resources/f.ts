@@ -509,4 +509,14 @@ export const resources: Resource[] = [
             'JavaScript charts for web and mobile apps. 95+ chart types, 1400+ maps and 20+ business dashboards with pre-built themes for any business use-case. Build fast, responsive and highly customizable data visualizations trusted by over 28,000 customers and 750,000 developers worldwide...',
         url: 'https://www.fusioncharts.com/',
     },
+    {
+        name: 'Fuselio',
+        categories: ['Productivity'],
+        description:
+            'Fuselio is a rapid MVP development platform for startups and SMEs, enabling the development of custom mobile and web applications in just 6 weeks. ',
+        url: 'https://www.fuselio.com/',
+        keywords: [
+            'web development', 'programming', 'software development', 'technology', 'engineering', 'developer', 'Mobile Development'
+        ],
+    },
 ]
