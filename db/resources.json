@@ -7077,6 +7077,16 @@
         ]
     },
     {
+        "name": "Photopea",
+        "categories": [
+            "Design",
+            "UI",
+            "Template"
+        ],
+        "description": "Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures.",
+        "url": "https://www.photopea.com/"
+    },
+    {
         "name": "Photo Rush",
         "description": "Generate professional images of products with AI. Save money and use AI to do a photo shoot from your laptop or phone instead of hiring an expensive photographer.Get your product images in minutes",
         "categories": [

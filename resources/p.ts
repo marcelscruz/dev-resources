@@ -88,6 +88,17 @@ export const resources: Resource[] = [
         keywords: ['ai', 'search engine'],
     },
     {
+        name: "Photopea",
+        categories: [
+            "Design",
+            "UI",
+            "Template"
+        ],
+        description: "Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures.",
+        url: "https://www.photopea.com/",
+        keywords: ['image generation', 'professional photos'],
+    },
+    {
         name: 'PhotoRoom',
         categories: ['Image', 'Editor'],
         description:
