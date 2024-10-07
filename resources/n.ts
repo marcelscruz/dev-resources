@@ -116,4 +116,12 @@ export const resources: Resource[] = [
         keywords: ['SEO', 'Marketing'],
         url: ' https://nichetools.net',
     },
+    {
+      name: 'NextReady',
+      categories: ['Template', 'Programming'],
+      description:
+          'More than just a boilerplate. A ready-to-use Next.js template with Prisma, TypeScript, shadcn/ui, and more.',
+      keywords: ['next.js', 'boilerplate', 'template', 'typescript', 'prisma', 'shadcn/ui'],
+      url: 'https://nextready.dev',
+  },
 ]
