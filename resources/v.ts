@@ -87,4 +87,11 @@ export const resources: Resource[] = [
             'Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.',
         url: 'https://www.artify.co/vector-illustrations',
     },
+    {
+        name: 'Verbatik AI',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Create professional-quality Text to Speech and Voice Cloning in minutes. Generate natural voices in 150+ languages, perfect for videos, podcasts, and e-learning.',
+        url: 'https://verbatik.com/',
+    },
 ]
