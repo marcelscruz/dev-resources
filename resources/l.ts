@@ -8,6 +8,13 @@ export const resources: Resource[] = [
         url: 'https://www.ladybug.dev/',
     },
     {
+        name: 'LaterOn',
+        description: 'Your inbox buffer for worry-free newsletter subscriptions. Summarize, prioritize, and stay inspired without inbox overload.',
+        categories: ['Newsletter', 'Email', 'AI'],
+        url: 'https://lateron.email/',
+        keywords: ['scheduler', 'email', 'gmail', 'inbox', 'productivity', 'newsletter', 'read later', 'read it later', 'read email', 'email client'],
+    },
+    {
         name: 'LambdaTest',
         categories: ['Browser', 'Testing'],
         description:
@@ -387,11 +394,4 @@ export const resources: Resource[] = [
         url: 'https://luthor.ai/',
         keywords: ['automation', 'content', 'productivity'],
     },
-    {
-      name: 'LaterOn',
-      description: 'Your inbox buffer for worry-free newsletter subscriptions. Summarize, prioritize, and stay inspired without inbox overload.',
-      categories: ['Newsletter', 'Email', 'AI'],
-      url: 'https://lateron.email/',
-      keywords: ['scheduler', 'email', 'gmail', 'inbox', 'productivity', 'newsletter', 'read later', 'read it later', 'read email', 'email client'],
-  },
 ]

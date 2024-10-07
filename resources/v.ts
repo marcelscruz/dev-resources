@@ -81,6 +81,13 @@ export const resources: Resource[] = [
         url: 'https://code.visualstudio.com/',
     },
     {
+        name: 'VoiceTaking',
+        categories: ['AI', 'Productivity', 'Audio'],
+        description:
+            'Log your thoughts and ideas with quick voice notes. Easily share ideas and brainstorm in a voice document with AI assistance for progress tracking and more.',
+        url: 'https://voicetaking.com',
+    },
+    {
         name: 'Vue Cheatsheet',
         categories: ['Cheatsheet'],
         description: 'An interactive cheatsheet of Vue, Vue Router and, Pinia.',
@@ -109,11 +116,4 @@ export const resources: Resource[] = [
             'Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.',
         url: 'https://www.artify.co/vector-illustrations',
     },
-    {
-      name: 'VoiceTaking',
-      categories: ['AI', 'Productivity', 'Audio'],
-      description:
-          'Log your thoughts and ideas with quick voice notes. Easily share ideas and brainstorm in a voice document with AI assistance for progress tracking and more.',
-      url: 'https://voicetaking.com',
-  },
 ]
