@@ -120,6 +120,13 @@ export const resources: Resource[] = [
         url: 'https://airtable.com/',
     },
     {
+        name: 'AI Watermark Remover',
+        description: 'Remove watermarks from images and videos',
+        categories: ['AI', 'Image', 'Productivity'],
+        url: 'https://aiwatermarkremover.io/',
+        keywords: ['watermark', 'remove watermark', 'photo', 'video']
+    },
+    {
         name: 'ally.js',
         categories: ['Accessibility', 'Library'],
         description:
