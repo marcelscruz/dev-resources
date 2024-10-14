@@ -342,7 +342,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'MyChatbots AI',
-        categories: ['AI','Productivity'],
+        categories: ['AI', 'Productivity'],
         description: 'A platform for easily creating, training, and chatting with AI chatbots using your own data',
         url: 'https://mychatbots.ai',
     },
