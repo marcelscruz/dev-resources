@@ -1,5 +1,5 @@
 {
-"count": 927,
+"count": 928,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5285,6 +5285,25 @@
             "colorful illustrations"
         ],
         "url": "https://iradesign.io/gallery/illustrations"
+    },
+    {
+        "name": "isecjobs.com",
+        "categories": [
+            "Job",
+            "Security"
+        ],
+        "description": "Find jobs and talents in InfoSec and Cybersecurity.",
+        "keywords": [
+            "infosec",
+            "cybersecurity",
+            "career",
+            "developer",
+            "engineer",
+            "hacking",
+            "remote",
+            "jobs"
+        ],
+        "url": "https://isecjobs.com/"
     },
     {
         "name": "Isometriclove",
