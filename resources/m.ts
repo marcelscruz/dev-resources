@@ -17,6 +17,13 @@ export const resources: Resource[] = [
         keywords: ['auth', 'authentication', 'passwordless'],
     },
     {
+        name: 'MagicBox.tools',
+        categories: ['AI', 'Tooling'],
+        description: 'Best AI Tools Explore 2024 | Magicbox.Tools AI Tools Directory',
+        url: 'https://magicbox.tools',
+        keywords: ['ai tools', 'ai tools navigation', 'ai tools directory'],
+    },
+    {
         name: 'Mailchimp',
         categories: ['Email', 'Marketing'],
         description:
@@ -172,6 +179,13 @@ export const resources: Resource[] = [
         url: 'https://metrical.xyz/',
     },
     {
+        name: 'MemFree',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Hybrid AI Search Engine: Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs.',
+        url: 'https://www.memfree.me/',
+    },
+    {
         name: 'MicroAcquire',
         categories: ['Startup'],
         description:
@@ -233,6 +247,12 @@ export const resources: Resource[] = [
         categories: ['Testing'],
         description: 'Simple, flexible, fun JavaScript test framework for Node.js and the browser.',
         url: 'https://mochajs.org/',
+    },
+    {
+        name: 'Mockae',
+        categories: ['API Building'],
+        description: 'Fake REST APIs powered by Lua.',
+        url: 'https://mockae.com/',
     },
     {
         name: 'MongoDB',
@@ -319,6 +339,12 @@ export const resources: Resource[] = [
         categories: ['Database'],
         description: 'MySQL Database Service is a fully managed database service to deploy cloud-native applications.',
         url: 'https://www.mysql.com/',
+    },
+    {
+        name: 'MySQL Visual Explain',
+        categories: ['Database', 'Performance'],
+        description: 'Transform MySQL EXPLAIN output to easy-to-understand visualizations.',
+        url: 'https://mysqlexplain.com/',
     },
     {
         name: 'Materio Free MUI React NextJS Admin Template',

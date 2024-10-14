@@ -31,6 +31,14 @@ export const resources: Resource[] = [
         url: 'https://2.flexiple.com/scale/all-illustrations',
     },
     {
+        name: 'Schedul',
+        categories: ['Marketing', 'Analytics', 'Social Media'],
+        description:
+            'The content publishing & scheduling platform the most exclusive content creators use for Threads: a SaaS to Build and monetize your content on Threads.',
+        url: 'https://www.schedulthreads.com',
+        keywords: ['threads', 'marketing', 'instagram'],
+    },
+    {
         name: 'Scrapfly',
         categories: ['Scraping'],
         description:
@@ -79,6 +87,14 @@ export const resources: Resource[] = [
         categories: ['Testing'],
         description: 'Selenium is a suite of tools for automating web browsers.',
         url: 'https://www.selenium.dev/',
+    },
+    {
+        name: 'Seline',
+        categories: ['Analytics'],
+        description:
+            'Seline is a simple & private website and product analytics. Cookieless, lightweight, independent.',
+        url: 'https://seline.so',
+        keywords: ['analytics', 'dashboard', 'funnels', 'visits'],
     },
     {
         name: 'Semantic UI',
@@ -188,6 +204,14 @@ export const resources: Resource[] = [
         url: 'https://shoptalkshow.com/',
     },
     {
+        name: 'Shortimize',
+        categories: ['Marketing', 'Social Media'],
+        description:
+            'Simplify content management: all your data, metrics, and reports for scalable strategies in one place.',
+        url: 'https://shortimize.com',
+        keywords: ['tiktok', 'instagram', 'track videos', 'discover viral content', 'viral shorts'],
+    },
+    {
         name: 'Shots',
         keywords: ['mockup', 'design', 'social', 'marketing'],
         categories: ['Prototyping', 'Screenshot'],
@@ -210,7 +234,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Sidebird',
-        categories: ['Twitter'],
+        categories: ['Social Media'],
         description: 'Stop chasing Twitter followers. Get fans.',
         url: 'https://www.sidebird.io/',
     },

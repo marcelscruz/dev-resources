@@ -72,6 +72,23 @@ export const resources: Resource[] = [
         url: 'https://techcrunch.com/',
     },
     {
+        name: 'Techstarta',
+        categories: ['Learn', 'AI'],
+        description:
+            'Empower your tech career with Techstarta! Gain hands-on project experience and mentorship to connect with industry experts.',
+        url: 'https://techstarta.com/',
+        keywords: [
+            'Techstarta',
+            'Tech career',
+            'Hands-on experience',
+            'Mentorship',
+            'Industry experts',
+            'Early-career professionals',
+            'Skill development',
+            'Tech projects',
+        ],
+    },
+    {
         name: 'Tech Blogs',
         categories: ['Blog'],
         description: 'This is a list of Awesome Tech Blogs. Add yourself.',
@@ -307,6 +324,13 @@ export const resources: Resource[] = [
         url: 'https://toastlog.com/',
     },
     {
+        name: 'TOOOLS.design',
+        categories: ['Accessibility', 'Design', 'Blog'],
+        description: 'A growing archive of 1,500+ design resources, frequently updated for the community.',
+        url: 'https://www.toools.design/',
+        keywords: ['design', 'resources', 'tools', 'icons', 'illustrations', 'colors', 'logos', 'accessibility'],
+    },
+    {
         name: 'Tooplate',
         categories: ['Template'],
         description:
@@ -396,19 +420,9 @@ export const resources: Resource[] = [
             'content writer',
         ],
     },
-
-    {
-        name: 'Tutoriac',
-        categories: ['Website Builder'],
-        description:
-            'Tutoriac provides video tutorials for learning how to create websites with website builders like Wix, Google Sites, Squarespace, Webflow, Carrd, Framer.',
-        url: 'https://tutoriac.com',
-
-        keywords: ['website builder video tutorials', 'google sites', 'landing pages', 'portfolio', 'personal site'],
-    },
     {
         name: 'Tweet Detective',
-        categories: ['Twitter', 'AI'],
+        categories: ['Social Media', 'AI'],
         description:
             'Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content',
         url: 'https://www.tweetdetective.com/',
@@ -416,7 +430,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Tweet Hunter',
-        categories: ['Marketing', 'Twitter'],
+        categories: ['Marketing', 'Social Media'],
         description:
             "Build and monetize your Twitter audience. Get sales, growth and new networks. Faster than what you're currently trying.",
         url: 'https://tweethunter.io',

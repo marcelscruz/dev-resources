@@ -230,6 +230,10 @@
         "slug": "serverless"
     },
     {
+        "name": "Social Media",
+        "slug": "social-media"
+    },
+    {
         "name": "Startup",
         "slug": "startup"
     },
@@ -252,10 +256,6 @@
     {
         "name": "Tooling",
         "slug": "tooling"
-    },
-    {
-        "name": "Twitter",
-        "slug": "twitter"
     },
     {
         "name": "Typing",

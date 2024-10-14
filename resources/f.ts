@@ -22,6 +22,13 @@ export const resources: Resource[] = [
         url: 'https://famewall.io/',
     },
     {
+        name: 'Fast Articles AI',
+        categories: ['Marketing', 'SEO', 'Writing'],
+        description:
+            'Fast Articles AI is an advanced AI writing tool for SEO. Generate perfect SEO articles and blog posts in seconds.',
+        url: 'https://fastarticles.ai/',
+    },
+    {
         name: 'Fathom',
         categories: ['Analytics'],
         description:
@@ -335,6 +342,16 @@ export const resources: Resource[] = [
             'Fontspark is the best place for you. We are providing all the latest and professional free fonts for download that you can use on your projects.',
         url: 'https://fontspark.com/',
     },
+
+    {
+        name: 'Foundy',
+        description:
+            'Sell your business at a higher valuation or find quality acquisitions with Foundy AI and expert support.',
+        categories: ['Startup', 'AI'],
+        url: 'https://foundy.com',
+        keywords: ['business', 'sell', 'buy'], // Optional, but used on the search feature on the website
+    },
+
     {
         name: 'Framer',
         categories: ['Design', 'Prototyping', 'UI', 'Website Builder'],
@@ -534,6 +551,13 @@ export const resources: Resource[] = [
         categories: ['Image'],
         description: 'Free online tools - convert or edit documents, images, audio, video and more.',
         url: 'https://freetools.site/',
+    },
+    {
+        name: 'FreshRemote.Work',
+        categories: ['Job', 'Remote'],
+        description: 'All fresh remote work and work from home opportunities with salaries in one place 🚀',
+        keywords: ['career', 'fresh', 'opensalary', 'remote', 'jobs', 'jobsearch', 'developer', 'wfh'],
+        url: 'https://freshremote.work/',
     },
     {
         name: 'FridayGPT',

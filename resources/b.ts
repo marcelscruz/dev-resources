@@ -137,6 +137,24 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'BilingualJobs.io',
+        categories: ['Job'],
+        description:
+            "The world's first bilingual job board. Find bilingual talent faster, or stand out as a bilingual.",
+        url: 'https://bilingualjobs.io',
+        keywords: [
+            'bilingual',
+            'bilinguals',
+            'bilingual jobs',
+            'remote work',
+            'remote jobs',
+            'bilingual job',
+            'bilingual talent',
+            'jobs',
+            'job',
+        ],
+    },
+    {
         name: 'Bing Pros',
         categories: ['Freelance'],
         description:
@@ -188,7 +206,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'BlackTwist',
-        categories: ['Analytics', 'Marketing', 'Twitter'],
+        categories: ['Analytics', 'Marketing', 'Social Media'],
         description:
             'Build and monetize your audience on Threads. BlackTwist is the #1 social media assistant for Threads that helps you take your social growth to the next level.',
         url: 'https://blacktwist.app',

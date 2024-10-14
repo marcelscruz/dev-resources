@@ -89,6 +89,22 @@ export const resources: Resource[] = [
         url: 'https://aijobs.app',
     },
     {
+        name: 'aijobs.net',
+        categories: ['AI', 'Job'],
+        description: 'Find jobs and talents in AI, Machine Learning, Data Science and Big Data.',
+        keywords: [
+            'ai',
+            'artificial intelligence',
+            'career',
+            'data science',
+            'machine learning',
+            'remote',
+            'jobs',
+            'developer',
+        ],
+        url: 'https://aijobs.net',
+    },
+    {
         name: 'AI Directories',
         categories: ['AI', 'SEO', 'Marketing'],
         description:
@@ -109,6 +125,13 @@ export const resources: Resource[] = [
         description:
             'JavaScript library to help modern web applications with accessibility concerns by making accessibility simpler.',
         url: 'https://allyjs.io/',
+    },
+    {
+        name: 'Alteropen',
+        categories: ['Marketing', 'SEO', 'Open Source'],
+        description:
+            'Alternative Directory to popular SaaS products (Free/ OpenSource or with Great Deals) for Developer, Indie',
+        url: 'https://alteropen.com/',
     },
     {
         name: 'Angular DevTools',
@@ -132,6 +155,14 @@ export const resources: Resource[] = [
         description:
             'Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use.',
         url: 'https://animista.net/',
+    },
+    {
+        name: 'API ChatAssistPro',
+        description:
+            'ChatAssist Pro is an advanced AI-powered chatbot designed to streamline customer support interactions. It offers prompt and accurate responses to a wide range of customer queries, ensuring a seamless and efficient user experience. With intelligent intent recognition and dynamic handling of FAQs, ChatAssist Pro enhances customer satisfaction and operational efficiency.',
+        categories: ['API Building', 'AI'],
+        url: 'https://jayanth-mkv-chat-assist-pro.hf.space/',
+        keywords: ['chatbot', 'customer support', 'AI', 'intent recognition', 'FAQ'],
     },
     {
         name: 'Apigee',

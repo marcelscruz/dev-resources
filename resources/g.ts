@@ -17,7 +17,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Get The Audience',
-        categories: ['Marketing', 'Twitter'],
+        categories: ['Marketing', 'Social Media'],
         description:
             'Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached.',
         url: 'https://gettheaudience.com/',
@@ -210,6 +210,22 @@ export const resources: Resource[] = [
         url: 'https://www.gotresumebuilder.com/',
     },
     {
+        name: 'GPT4oMini',
+        categories: ['AI'],
+        description: 'GPT4oMini.app: Free GPT4oMini Access - Advanced AI Conversation Generator',
+        keywords: [
+            'GPT4oMini',
+            'GPT4o',
+            'Free GPT-4',
+            'ChatGPT',
+            'ChatGPT4oMini',
+            'chatbot',
+            'Free ChatGPT Access',
+            'AI Conversation Generator',
+        ],
+        url: 'https://gpt4omini.app/',
+    },
+    {
         name: 'Gradient',
         categories: ['Color'],
         description:
@@ -222,6 +238,13 @@ export const resources: Resource[] = [
         description: 'Find and test gradients easily.',
         keywords: ['color', 'UI', 'design', 'gradient'],
         url: 'https://gradientos.app',
+    },
+    {
+        name: 'Gradient Generator',
+        categories: ['Color'],
+        description: 'Create brilliant gradients in 8 color spaces. 1-click export to CSS & SVG.',
+        keywords: ['color', 'UI', 'design', 'gradient'],
+        url: 'https://learnui.design/tools/gradient-generator.html',
     },
     {
         name: 'Gramara',

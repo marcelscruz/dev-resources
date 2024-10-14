@@ -179,6 +179,13 @@ export const resources: Resource[] = [
         url: 'https://intersectionobserver.io',
     },
     {
+        name: 'Interview Hammer',
+        description: 'Nail your job interview with the your interview AI copilot',
+        categories: ['Interview', 'AI'],
+        url: 'https://interviewhammer.com',
+        keywords: ['interview helper', 'interview AI copilot', 'interview AI assistant', 'career', 'jobs'],
+    },
+    {
         name: 'Interview Solver',
         description: 'Ace your live coding interviews with our AI Copilot',
         categories: ['Interview', 'AI'],
@@ -212,6 +219,13 @@ export const resources: Resource[] = [
             'colorful illustrations',
         ],
         url: 'https://iradesign.io/gallery/illustrations',
+    },
+    {
+        name: 'isecjobs.com',
+        categories: ['Job', 'Security'],
+        description: 'Find jobs and talents in InfoSec and Cybersecurity.',
+        keywords: ['infosec', 'cybersecurity', 'career', 'developer', 'engineer', 'hacking', 'remote', 'jobs'],
+        url: 'https://isecjobs.com/',
     },
     {
         name: 'Isometriclove',
