@@ -1,5 +1,5 @@
 {
-"count": 925,
+"count": 926,
 "data": [
     {
         "name": "1001 Fonts",
@@ -813,7 +813,7 @@
         "categories": [
             "Analytics",
             "Marketing",
-            "Twitter"
+            "Social Media"
         ],
         "description": "Build and monetize your audience on Threads. BlackTwist is the #1 social media assistant for Threads that helps you take your social growth to the next level.",
         "url": "https://blacktwist.app"
@@ -4264,7 +4264,7 @@
         "name": "Get The Audience",
         "categories": [
             "Marketing",
-            "Twitter"
+            "Social Media"
         ],
         "description": "Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached.",
         "url": "https://gettheaudience.com/"
@@ -8081,9 +8081,7 @@
         "categories": [
             "Marketing",
             "Analytics",
-            "Twitter",
-            "Threads",
-            "Facebook"
+            "Social Media"
         ],
         "description": "The content publishing & scheduling platform the most exclusive content creators use for Threads: a SaaS to Build and monetize your content on Threads.",
         "url": "https://www.schedulthreads.com",
@@ -8321,6 +8319,22 @@
         "url": "https://shoptalkshow.com/"
     },
     {
+        "name": "Shortimize",
+        "categories": [
+            "Marketing",
+            "Social Media"
+        ],
+        "description": "Simplify content management: all your data, metrics, and reports for scalable strategies in one place.",
+        "url": "https://shortimize.com",
+        "keywords": [
+            "tiktok",
+            "instagram",
+            "track videos",
+            "discover viral content",
+            "viral shorts"
+        ]
+    },
+    {
         "name": "Shots",
         "keywords": [
             "mockup",
@@ -8357,7 +8371,7 @@
     {
         "name": "Sidebird",
         "categories": [
-            "Twitter"
+            "Social Media"
         ],
         "description": "Stop chasing Twitter followers. Get fans.",
         "url": "https://www.sidebird.io/"
@@ -9623,7 +9637,7 @@
     {
         "name": "Tweet Detective",
         "categories": [
-            "Twitter",
+            "Social Media",
             "AI"
         ],
         "description": "Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content",
@@ -9639,7 +9653,7 @@
         "name": "Tweet Hunter",
         "categories": [
             "Marketing",
-            "Twitter"
+            "Social Media"
         ],
         "description": "Build and monetize your Twitter audience. Get sales, growth and new networks. Faster than what you're currently trying.",
         "url": "https://tweethunter.io",
