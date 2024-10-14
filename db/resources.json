@@ -1,5 +1,5 @@
 {
-"count": 928,
+"count": 929,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4009,6 +4009,25 @@
         ],
         "description": "Free online tools - convert or edit documents, images, audio, video and more.",
         "url": "https://freetools.site/"
+    },
+    {
+        "name": "FreshRemote.Work",
+        "categories": [
+            "Job",
+            "Remote"
+        ],
+        "description": "All fresh remote work and work from home opportunities with salaries in one place 🚀",
+        "keywords": [
+            "career",
+            "fresh",
+            "opensalary",
+            "remote",
+            "jobs",
+            "jobsearch",
+            "developer",
+            "wfh"
+        ],
+        "url": "https://freshremote.work/"
     },
     {
         "name": "FridayGPT",
