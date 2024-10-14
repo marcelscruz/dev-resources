@@ -10,7 +10,8 @@ export const resources: Resource[] = [
     {
         name: 'Odin A',
         categories: ['AI', 'Productivity'],
-        description: 'Odin AI is a versatile AI tool designed to streamline workflows, enhance productivity, and simplify complex tasks through automation and AI-driven features',
+        description:
+            'Odin AI is a versatile AI tool designed to streamline workflows, enhance productivity, and simplify complex tasks through automation and AI-driven features',
         url: 'https://getodin.ai/',
     },
     {
