@@ -65,13 +65,6 @@ export const resources: Resource[] = [
         url: 'https://adminmart.com/',
     },
     {
-        name: 'Adobe XD',
-        categories: ['Prototyping', 'Design', 'UI', 'UX'],
-        description:
-            'Adobe XD is a fast & powerful UI/UX design solution for websites, apps & more. Design, wireframe, animate, prototype, collaborate & share  — all in one place.',
-        url: 'https://www.adobe.com/products/xd.html',
-    },
-    {
         name: 'Adrian Twarog',
         categories: ['Design', 'Programming', 'YouTube Channel'],
         description:
@@ -96,6 +89,30 @@ export const resources: Resource[] = [
         url: 'https://aijobs.app',
     },
     {
+        name: 'aijobs.net',
+        categories: ['AI', 'Job'],
+        description: 'Find jobs and talents in AI, Machine Learning, Data Science and Big Data.',
+        keywords: [
+            'ai',
+            'artificial intelligence',
+            'career',
+            'data science',
+            'machine learning',
+            'remote',
+            'jobs',
+            'developer',
+        ],
+        url: 'https://aijobs.net',
+    },
+    {
+        name: 'AI Directories',
+        categories: ['AI', 'SEO', 'Marketing'],
+        description:
+            'All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories',
+        url: 'https://aidirectori.es/',
+        keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
+    },
+    {
         name: 'Airtable',
         categories: ['Database'],
         description:
@@ -108,6 +125,13 @@ export const resources: Resource[] = [
         description:
             'JavaScript library to help modern web applications with accessibility concerns by making accessibility simpler.',
         url: 'https://allyjs.io/',
+    },
+    {
+        name: 'Alteropen',
+        categories: ['Marketing', 'SEO', 'Open Source'],
+        description:
+            'Alternative Directory to popular SaaS products (Free/ OpenSource or with Great Deals) for Developer, Indie',
+        url: 'https://alteropen.com/',
     },
     {
         name: 'Angular DevTools',
@@ -133,11 +157,26 @@ export const resources: Resource[] = [
         url: 'https://animista.net/',
     },
     {
+        name: 'API ChatAssistPro',
+        description:
+            'ChatAssist Pro is an advanced AI-powered chatbot designed to streamline customer support interactions. It offers prompt and accurate responses to a wide range of customer queries, ensuring a seamless and efficient user experience. With intelligent intent recognition and dynamic handling of FAQs, ChatAssist Pro enhances customer satisfaction and operational efficiency.',
+        categories: ['API Building', 'AI'],
+        url: 'https://jayanth-mkv-chat-assist-pro.hf.space/',
+        keywords: ['chatbot', 'customer support', 'AI', 'intent recognition', 'FAQ'],
+    },
+    {
         name: 'Apigee',
         categories: ['API Building'],
         description:
             'Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.',
         url: 'https://cloud.google.com/apigee',
+    },
+    {
+        name: 'ApparenceKit',
+        categories: ['Template', 'Tooling', 'Programming'],
+        description:
+            'A flutter template to create iOS, Android and web app in days. Generate all the common boilerplate code and customize the design to fit your brand. ',
+        url: 'https://apparencekit.dev/',
     },
     {
         name: 'AppCode',
@@ -152,14 +191,6 @@ export const resources: Resource[] = [
         description:
             "Use AppMockUp, the world's most powerful screenshot builder to create the most compelling screenshots for your app.",
         url: 'https://app-mockup.com/',
-    },
-    {
-        name: 'Appshine',
-        categories: ['Design'],
-        description:
-            'Use Appshine to get a UX/UI mobile or web design for your tech startup that drive higher sales, retention, and referrals.',
-        url: 'https://appshine.io',
-        keywords: ['ui design', 'app design', 'mobile design', 'web design'],
     },
     {
         name: 'Appwrite',
@@ -194,6 +225,14 @@ export const resources: Resource[] = [
         url: 'https://www.artify.co/',
     },
     {
+        name: 'AskTube',
+        description: 'Save time by summarizing and chatting with long educational YouTube videos.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://chromewebstore.google.com/detail/asktube-ai-youtube-video/kkdhnobdacfnbdageilfchkhcjdbkhgf',
+
+        keywords: ['youtube summarizer', 'youtube video summarizer', 'youtube ai summary', 'youtube video summary ai'],
+    },
+    {
         name: 'Authentic Jobs',
         categories: ['Job'],
         description: 'The leading job board for designers, developers, and creative pros.',
@@ -220,6 +259,13 @@ export const resources: Resource[] = [
         description:
             'Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use.',
         url: 'https://aws.amazon.com/',
+    },
+    {
+        name: 'AWS Serverless kit (best practices)',
+        categories: ['Serverless', 'Productivity', 'Cloud Computing'],
+        description:
+            'AWS has never been easier with the Scale to Zero Kit. The kit comes with everything you need. Deploy fast, scale, and pay only for what you use',
+        url: 'https://scaletozeroaws.com/',
     },
     {
         name: 'Awesome a11y',

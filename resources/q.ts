@@ -9,6 +9,13 @@ export const resources: Resource[] = [
         url: 'https://qoddi.com',
     },
     {
+        name: 'QoQo AI',
+        categories: ['AI', 'Design', 'UX'],
+        description:
+            'QoQo.ai helps Product Designers and UX Researchers overcome limited resources for research by providing quick and efficient access to research insights.',
+        url: 'https://qoqo.ai/',
+    },
+    {
         name: 'Quokka.js',
         categories: ['Editor', 'Extension'],
         description:

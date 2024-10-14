@@ -14,11 +14,32 @@ export const resources: Resource[] = [
         url: 'https://getodin.ai/',
     },
     {
+        name: 'Odown',
+        categories: ['API Building', 'Remote', 'Website Builder'],
+        description:
+            'Simple website uptime monitoring tool to monitor your websites and APIs combined with public status pages',
+        keywords: ['website monitoring', 'slack', 'webhooks', 'performance'],
+        url: 'https://odown.io/',
+    },
+    {
         name: 'Offen',
         categories: ['Analytics'],
         description:
             'Offen is an open alternative to common web analytics tools. Gain insights while your users have full access to their data. Lightweight, self hosted and free.',
         url: 'https://www.offen.dev/',
+    },
+    {
+        name: 'OkJob',
+        categories: ['Job'],
+        description: '4 day Week Job Board',
+        keywords: ['Flexible work schedule', 'Work-life balance', 'Remote work options'],
+        url: 'https://okjob.io/',
+    },
+    {
+        name: 'One.com',
+        categories: ['Domain', 'Hosting', 'Email'],
+        description: 'Web hosting, Domain, Hosting & E-mail',
+        url: 'https://one.com',
     },
     {
         name: 'One Page Love',

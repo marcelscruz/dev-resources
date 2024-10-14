@@ -22,6 +22,13 @@ export const resources: Resource[] = [
         url: 'https://famewall.io/',
     },
     {
+        name: 'Fast Articles AI',
+        categories: ['Marketing', 'SEO', 'Writing'],
+        description:
+            'Fast Articles AI is an advanced AI writing tool for SEO. Generate perfect SEO articles and blog posts in seconds.',
+        url: 'https://fastarticles.ai/',
+    },
+    {
         name: 'Fathom',
         categories: ['Analytics'],
         description:
@@ -219,6 +226,29 @@ export const resources: Resource[] = [
         url: 'https://fontawesome.com',
     },
     {
+        name: 'Font Get',
+        categories: ['Font'],
+        description:
+            'Download Free Fonts for your website, Mac, Windows, Linux, iOS and Android. Try our best in class Font Generator for every kind of font!',
+        keywords: ['fonts', 'free fonts', 'download fonts', 'font generator', 'famous font'],
+        url: 'https://www.fontget.com/',
+    },
+    {
+        name: 'Font Of Web',
+        categories: ['Font'],
+        description: 'Identify and download website fonts.',
+        keywords: ['fonts', 'font identifier', 'font finder', 'free fonts', 'download fonts'],
+        url: 'https://www.fontofweb.com/',
+    },
+    {
+        name: 'Font Share',
+        categories: ['Font'],
+        description:
+            'Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all.',
+        keywords: ['fonts', 'free fonts', 'download fonts'],
+        url: 'https://www.fontshare.com/',
+    },
+    {
         name: 'Font Space',
         categories: ['Font'],
         description:
@@ -312,18 +342,22 @@ export const resources: Resource[] = [
             'Fontspark is the best place for you. We are providing all the latest and professional free fonts for download that you can use on your projects.',
         url: 'https://fontspark.com/',
     },
+
+    {
+        name: 'Foundy',
+        description:
+            'Sell your business at a higher valuation or find quality acquisitions with Foundy AI and expert support.',
+        categories: ['Startup', 'AI'],
+        url: 'https://foundy.com',
+        keywords: ['business', 'sell', 'buy'], // Optional, but used on the search feature on the website
+    },
+
     {
         name: 'Framer',
         categories: ['Design', 'Prototyping', 'UI', 'Website Builder'],
         description:
             'Start your website with AI and design on a familiar canvas. Add animations, interactions and a CMS. Optimize for every breakpoint — no code needed and publish for free.',
         url: 'https://www.framer.com',
-    },
-    {
-        name: 'Free JavaScript Resources',
-        categories: ['Learn', 'Programming'],
-        description: 'Learn JavaScript for free',
-        url: 'https://www.java5cript.com/',
     },
     {
         name: 'freeCodeCamp',
@@ -361,6 +395,88 @@ export const resources: Resource[] = [
         description:
             'This website is a curated collection of typefaces that are available under a variety of free licences somewhere on the interwebs.',
         url: 'https://www.freefaces.gallery',
+    },
+    {
+        name: 'FreeForDev',
+        categories: ['Open Source'],
+        description: 'an Awesome List of Tools available for Free to Enhance your Productivity.',
+        keywords: [
+            'free',
+            'javascript',
+            'website',
+            'web',
+            'development',
+            'course',
+            'courses',
+            'html',
+            'css',
+            'react',
+            'api',
+            'frontend',
+            'backend',
+            'learn',
+            'programming',
+            'open source',
+        ],
+        url: 'https://free-for.dev/',
+    },
+    {
+        name: 'Free For Geeks',
+        categories: ['Open Source'],
+        description: 'Stop searching, start building. Free resources for developers.',
+        keywords: [
+            'free',
+            'javascript',
+            'website',
+            'web',
+            'development',
+            'course',
+            'courses',
+            'html',
+            'css',
+            'react',
+            'redux',
+            'api',
+            'frontend',
+            'backend',
+            'devops',
+            'devsecops',
+            'career development',
+            'learn',
+            'tutorial',
+            'programming',
+            'open source',
+        ],
+        url: 'https://www.freeforgeeks.com',
+    },
+    {
+        name: 'Freesets',
+        categories: ['Open Source'],
+        description: 'Collection of free resources like icons, images, illustrations, components, libraries and more!',
+        keywords: ['icons', 'images', 'videos', 'illustrations', 'fonts'],
+        url: 'https://freesets.vercel.app',
+    },
+    {
+        name: 'Freestuff',
+        categories: ['Open Source'],
+        description: 'Find any tools or services that free for developer to use.',
+        keywords: [
+            'database',
+            'api',
+            'awesome-list',
+            'productivity',
+            'learning-resource',
+            'asset',
+            'hosting',
+            'storage',
+            'serverless',
+            'authentication',
+            'security',
+            'playground',
+            'image',
+            'monitoring',
+        ],
+        url: 'https://freestuff.dev/',
     },
     {
         name: 'FreeHTML5',
@@ -424,10 +540,24 @@ export const resources: Resource[] = [
         keywords: ['freepik', 'vectors', 'illustration', 'photos'],
     },
     {
+        name: 'Freeter',
+        categories: ['Productivity', 'Tooling'],
+        description:
+            'Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, MacOS. Free and Open-Source.',
+        url: 'https://freeter.io/',
+    },
+    {
         name: 'FreeTools.site',
         categories: ['Image'],
         description: 'Free online tools - convert or edit documents, images, audio, video and more.',
         url: 'https://freetools.site/',
+    },
+    {
+        name: 'FridayGPT',
+        categories: ['AI', 'Productivity'],
+        description: 'Fast and Native ChatGPT mac app. Access ChatGPT instantly on top of any app or website.',
+        url: 'https://www.fridaygpt.app/',
+        keywords: ['chatgpt', 'mac', 'prompts'],
     },
     {
         name: 'Front End Happy Hour',
@@ -496,7 +626,7 @@ export const resources: Resource[] = [
         name: 'Fun Fun Function',
         categories: ['Programming', 'YouTube Channel'],
         description:
-            "I’m Mattias Petter Johansson, mpj for short. I’ve been a full-time programmer for about ten years. Among others, I've worked for Absolut Vodka, Blackberry and Spotify.   Videos are released on MONDAYS at 08:00 GMT. For the love of 🗿, watch them! ❤️ Support the show on Patreon: https://patreon.com/funfunfunction: ⛱ Pledge $2/month and get access to the Fun Fun Forum where I and other inspiring patrons hang out and talk about everything more or less related to programming. Become a SUPER PATRON 🦹‍♀️🦸‍♂️ for $9/month and get access to the Forum AND random LOOT (like stickers and private live streams) Check out the sister channel DevTips: https://www.youtube.com/user/DevTipsForDesigners.",
+            "I’m Mattias Petter Johansson, mpj for short. I’ve been a full-time programmer for over twenty (!) years. Among others, I've worked for Absolut Vodka, Blackberry, Spotify and Mindler.",
         keywords: [
             'javascript "web development" programming software development technology computer science engineering developer creativity productivity',
         ],
@@ -508,5 +638,13 @@ export const resources: Resource[] = [
         description:
             'JavaScript charts for web and mobile apps. 95+ chart types, 1400+ maps and 20+ business dashboards with pre-built themes for any business use-case. Build fast, responsive and highly customizable data visualizations trusted by over 28,000 customers and 750,000 developers worldwide...',
         url: 'https://www.fusioncharts.com/',
+    },
+    {
+        name: 'Fusion',
+        categories: ['API Building'],
+        description:
+            'Fusion is the "Notion-like" API client. Modular API design, testing & collaboration for the entire API lifecycle. Available as SaaS and self hosted.',
+        url: 'https://apyhub.com/product/fusion',
+        keywords: ['API testing', 'API design', 'API collaboration', 'API documentation'],
     },
 ]

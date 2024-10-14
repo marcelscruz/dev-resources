@@ -2,14 +2,6 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
-        name: 'Icon Horse',
-        categories: ['Icon'],
-        description:
-            'Free, easy to use, highest resolution possible favicons for any web site – including fallbacks if none are found.',
-        keywords: ['favicons', 'logo icons', 'web icons', 'logos', 'site logos'],
-        url: 'https://icon.horse',
-    },
-    {
         name: 'Iconbuddy',
         categories: ['Icon'],
         description:
@@ -29,6 +21,24 @@ export const resources: Resource[] = [
         categories: ['Icon'],
         description: 'Free, “do wtf you want with” pixel-perfect icons. New icons added every week',
         url: 'https://iconic.app',
+    },
+    {
+        name: 'Iconify',
+        categories: ['Icon'],
+        description: 'Modern icon framework that allows you to use over 50,000 icons from popular icon sets.',
+        url: 'https://icon-sets.iconify.design/',
+        keywords: [
+            'icons',
+            'logo icons',
+            'web icons',
+            'logos',
+            'site logos',
+            'emoji',
+            'svg',
+            'maps',
+            'flags',
+            'animated icons',
+        ],
     },
     {
         name: 'iconmonstr',
@@ -92,12 +102,6 @@ export const resources: Resource[] = [
         url: 'https://icones.netlify.app/',
     },
     {
-        name: 'Image Optimizer',
-        categories: ['Image'],
-        description: 'Compress and resize photos.',
-        url: 'http://www.imageoptimizer.net/',
-    },
-    {
         name: 'Img.Upscaler',
         categories: ['AI', 'Image'],
         description: 'Upscale and enhance your image by using the latest AI technology. Support batch process.',
@@ -124,6 +128,26 @@ export const resources: Resource[] = [
         url: 'https://www.indiehackers.com/',
     },
     {
+        name: 'Indie UI',
+        categories: ['UI', 'Library'],
+        description: 'UI components with variants',
+        url: 'https://ui.indie-starter.dev',
+    },
+    {
+        name: 'IndiesReadIt',
+        description:
+            'IndiesReadIt is a curated book directory for indiehackers, solopreneurs, and entrepreneurs. Discover books on skills, business management, and personal development.',
+        categories: ['Learn', 'Book'],
+        url: 'https://IndiesRead.it',
+        keywords: ['books', 'ebooks', 'audio-books', 'directory', 'indiehacker', 'indie', 'read'],
+    },
+    {
+        name: 'Indie Starter',
+        categories: ['Startup', 'Template'],
+        description: 'Build unlimited SaaS products with Indie Starter Kit. Remove the hassle and save days of work.',
+        url: 'https://indie-starter.dev',
+    },
+    {
         name: 'Indie Worldwide',
         categories: ['Startup'],
         description: 'The worldwide virtual meetup of indie hackers, founders, and makers.',
@@ -142,34 +166,6 @@ export const resources: Resource[] = [
         url: 'https://www.jetbrains.com/idea/',
     },
     {
-        name: 'Interfacer',
-        categories: ['Illustration'],
-        description: 'Interfacer is a collection of 300+ free design resources found on the Web.',
-        keywords: [
-            'design resources',
-            'web design',
-            'freedesignresources',
-            'free design resources',
-            'fonts',
-            'free illustration',
-            'freebies',
-            'freebie illustration',
-            'UI kits',
-            'design kit',
-            'Illustrations',
-            'free fonts',
-            'free Illustrations',
-            'free mockups',
-            'free icons',
-            'Interfacer',
-            'Interfacer list',
-            'Interfacer design resource',
-            'Interfacer resources',
-            'Interfacer design resources',
-        ],
-        url: 'https://interfacer.xyz/',
-    },
-    {
         name: 'IntersectionObserver Examples',
         description: 'Practical, real world React examples of Intersection Observer',
         categories: ['Learn', 'Programming'],
@@ -182,6 +178,21 @@ export const resources: Resource[] = [
         ],
         url: 'https://intersectionobserver.io',
     },
+    {
+        name: 'Interview Hammer',
+        description: 'Nail your job interview with the your interview AI copilot',
+        categories: ['Interview', 'AI'],
+        url: 'https://interviewhammer.com',
+        keywords: ['interview helper', 'interview AI copilot', 'interview AI assistant', 'career', 'jobs'],
+    },
+    {
+        name: 'Interview Solver',
+        description: 'Ace your live coding interviews with our AI Copilot',
+        categories: ['Interview', 'AI'],
+        url: 'https://interviewsolver.com',
+        keywords: ['interview helper', 'interview solver', 'ai copilot', 'career'],
+    },
+
     {
         name: 'iOS Dev Jobs',
         categories: ['Job'],
