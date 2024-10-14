@@ -121,9 +121,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'AI-Text-Humanizer',
-        categories: ['AI','Productivity'],
-        description:
-            'Transform dull AI-generated text into easy-to-read copy and sound like a real person',
+        categories: ['AI', 'Productivity'],
+        description: 'Transform dull AI-generated text into easy-to-read copy and sound like a real person',
         url: 'https://ai-text-humanizer.com/',
     },
     {
