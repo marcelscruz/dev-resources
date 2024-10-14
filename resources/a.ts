@@ -120,6 +120,14 @@ export const resources: Resource[] = [
         url: 'https://airtable.com/',
     },
     {
+        name: 'AISaver',
+        description: 'Collection of AI Powered Video and Photo Tools (video/image face swap, video/image enhancement, and text-to-speech conversion).',
+        categories: ['Video', 'Image', 'AI'],
+        url: 'https://aisaver.io',
+        keywords: ['face swap', 'productivity', 'photo'],
+    },
+
+    {
         name: 'ally.js',
         categories: ['Accessibility', 'Library'],
         description:
