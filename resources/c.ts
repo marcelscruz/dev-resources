@@ -180,6 +180,13 @@ export const resources: Resource[] = [
         keywords: ['Live Chat', 'Lead Generation', 'Sales', 'Chatbot'],
     },
     {
+        name: 'ChromeWinner',
+        description: 'Marketing and competitor analysis for Extensions',
+        categories: ['Extension', 'Marketing', 'Startup'],
+        url: 'https://chromewinner.com',
+        keywords: ['chrome-extension', 'competitor-analysis', 'browser-extension', 'market-research'],
+    },
+    {
         name: 'Circum Icons',
         categories: ['Icon'],
         description: 'Consistent open source icons as SVG for React, Vue and Svelte.',
