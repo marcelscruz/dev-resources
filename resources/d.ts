@@ -174,6 +174,13 @@ export const resources: Resource[] = [
         url: 'https://ddev.com/',
     },
     {
+        name: ‘DetectorTools.ai’,
+        categories: [‘AI’, ‘Writing’, 'Social Media’],
+        description:
+            'All AI detectors in one place. Find the perfect API-supported AI detector for your next project, and keep your site free of AI-generated content.',
+        url: 'https://detectortools.ai/',
+    },
+    {
         name: 'DEV',
         categories: ['Blog'],
         description:
