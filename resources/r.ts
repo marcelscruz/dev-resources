@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Radix',
+        categories: ['Icon', 'UI', 'Design', 'Color'],
+        description: 'Components, icons, and colors for building high‑quality, accessible UI. Free and open-source.',
+        url: 'https://www.radix-ui.com/',
+        keywords: ['icons', 'icon', 'design', 'color', 'ui', 'components'],
+    },
+    {
         name: 'RankWizard',
         categories: ['SEO'],
         description:
@@ -58,6 +65,13 @@ export const resources: Resource[] = [
         url: 'https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en',
     },
     {
+        name: 'React Icons',
+        categories: ['Icon'],
+        description: 'Include popular icons in your React projects easly with react-icons.',
+        url: 'https://react-icons.github.io/react-icons/',
+        keywords: ['icons', 'react'],
+    },
+    {
         name: 'React Jobs',
         categories: ['Job'],
         description:
@@ -99,18 +113,17 @@ export const resources: Resource[] = [
         keywords: ['react tutorial', 'interactive react course'],
     },
     {
-        name: 'ReactJobsBoard',
-        categories: ['Job'],
-        description:
-            'ReactJobsBoard helps you find React & React Native jobs at startups & tech companies. Browse our daily updated job board and find great React & React Native jobs. Find and hire the most talented React developers.',
-        url: 'https://reactjobsboard.com/',
-    },
-    {
         name: 'readme.so',
         categories: ['Editor', 'Programming'],
         description:
             "Use readme.so's markdown editor and ready made templates to easily create a simple README for your repositories",
         url: 'https://readme.so/',
+    },
+    {
+        name: 'Realtime Colors',
+        categories: ['Color', 'Design'],
+        description: 'Visualize your colors and fonts on a real website.',
+        url: 'https://www.realtimecolors.com',
     },
     {
         name: 'reddit',
@@ -174,13 +187,6 @@ export const resources: Resource[] = [
         url: 'https://remote.co/',
     },
     {
-        name: 'RemoteLeads',
-        categories: ['Job', 'Remote'],
-        description:
-            'Freelancers get your next highly-qualified remote web development project lead sent to your inbox. We search 100s of sources daily to find your next freelance web development project.',
-        url: 'http://remoteleads.io/',
-    },
-    {
         name: 'RemoteOK',
         categories: ['Job', 'Remote'],
         description:
@@ -229,6 +235,13 @@ export const resources: Resource[] = [
         url: 'https://cassidoo.co/newsletter/',
     },
     {
+        name: 'Resend',
+        categories: ['Email', 'Marketing'],
+        description:
+            'The best email API to reach humans instead of spam folders. Build, test, and deliver transactional emails at scale.',
+        url: 'https://resend.com/',
+    },
+    {
         name: 'Reshot',
         categories: ['Image'],
         description:
@@ -242,6 +255,13 @@ export const resources: Resource[] = [
         url: 'https://responsively.app/',
     },
     {
+        name: 'Resmume',
+        categories: ['Resume'],
+        description: 'Craft the Perfect Resume with AI-Powered Resume Builder.',
+        keywords: ['resume', 'builder', 'ai', 'templates'],
+        url: 'https://resmume.com/',
+    },
+    {
         name: 'Resume',
         categories: ['Resume'],
         description:
@@ -250,11 +270,25 @@ export const resources: Resource[] = [
         url: 'https://www.resume.com/',
     },
     {
+        name: 'ResumeDive',
+        description: 'A resume boosting service using AI',
+        categories: ['Resume', 'Job', 'AI'],
+        url: 'https://resumedive.com',
+        keywords: ['career', 'cv'],
+    },
+
+    {
         name: 'Resume Genius',
         categories: ['Resume'],
         description:
             'The only online resume builder that’ll land you interviews. Create a professional resume in minutes, download, and print. Join 10 million happy job seekers.',
         url: 'https://resumegenius.com/',
+    },
+    {
+        name: 'Resume.io',
+        categories: ['Resume'],
+        description: 'Helping millions of job-seekers worldwide create amazing professional resumes in minutes!',
+        url: 'https://resume.io',
     },
     {
         name: 'Resume maker',
@@ -309,13 +343,6 @@ export const resources: Resource[] = [
         categories: ['Job'],
         description: 'The biggest list of Space jobs from New space companies.',
         url: 'https://rocketcrew.space/',
-    },
-    {
-        name: 'Rome',
-        categories: ['Programming', 'Tooling'],
-        description:
-            'Rome is a linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS.',
-        url: 'https://rome.tools/',
     },
     {
         name: 'RubyMine',

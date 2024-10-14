@@ -67,6 +67,14 @@ export const resources: Resource[] = [
         url: 'https://jestjs.io/',
     },
     {
+        name: 'Jobicy',
+        description:
+            'Jobicy is an online career platform that bridges the gap between talented professionals seeking remote career opportunities and innovative companies offering such positions.',
+        categories: ['Job', 'Remote'],
+        url: 'https://jobicy.com',
+        keywords: ['remote jobs', 'remote work', 'jobs', 'employment'],
+    },
+    {
         name: 'Joblist.app',
         categories: ['Job'],
         description: 'A Job Board for Tech Enthusiasts.',
@@ -109,6 +117,14 @@ export const resources: Resource[] = [
         description:
             'Jsonify is an AI "data intern" in the cloud -- an intelligent AI agent that can automate data collection and maintenance tasks involving the web and documents. Never update a spreadsheet yourself again!',
         url: 'https://jsonify.com',
+    },
+    {
+        name: 'JSConf',
+        categories: ['Conference'],
+        description:
+            'JSConf is a series of JavaScript conferences from around the world and online. Conferences for the JavaScript community.',
+        url: 'https://jsconf.com/',
+        keywords: ['JavaScript', 'conference', 'community'],
     },
     {
         name: 'JustRemote',
