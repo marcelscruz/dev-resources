@@ -421,6 +421,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: "TurboStarter",
+        description: "The Next.js, React Native (Expo) and Plasmo SaaS production-ready starter kit. Launch your web, mobile app and browser extension with one-click boilerplate.",
+        url: "https://turbostarter.dev",
+        categories: ["Startup", "Template"],
+        keywords: ["next.js", "react native", "expo", "plasmo", "saas", "starter kit", "boilerplate"],
+    },
+    {
         name: 'Tweet Detective',
         categories: ['Social Media', 'AI'],
         description:
