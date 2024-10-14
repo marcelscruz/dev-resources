@@ -422,7 +422,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Tweet Detective',
-        categories: ['Twitter', 'AI'],
+        categories: ['Social Media', 'AI'],
         description:
             'Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content',
         url: 'https://www.tweetdetective.com/',
@@ -430,7 +430,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Tweet Hunter',
-        categories: ['Marketing', 'Twitter'],
+        categories: ['Marketing', 'Social Media'],
         description:
             "Build and monetize your Twitter audience. Get sales, growth and new networks. Faster than what you're currently trying.",
         url: 'https://tweethunter.io',

@@ -206,7 +206,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'BlackTwist',
-        categories: ['Analytics', 'Marketing', 'Twitter'],
+        categories: ['Analytics', 'Marketing', 'Social Media'],
         description:
             'Build and monetize your audience on Threads. BlackTwist is the #1 social media assistant for Threads that helps you take your social growth to the next level.',
         url: 'https://blacktwist.app',
