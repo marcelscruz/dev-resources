@@ -341,6 +341,12 @@ export const resources: Resource[] = [
         url: 'https://www.mysql.com/',
     },
     {
+        name: 'MyChatbots AI',
+        categories: ['AI','Productivity'],
+        description: 'A platform for easily creating, training, and chatting with AI chatbots using your own data',
+        url: 'https://mychatbots.ai',
+    },
+    {
         name: 'MySQL Visual Explain',
         categories: ['Database', 'Performance'],
         description: 'Transform MySQL EXPLAIN output to easy-to-understand visualizations.',
