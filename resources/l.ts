@@ -86,6 +86,16 @@ export const resources: Resource[] = [
         url: 'https://larajobs.com/',
     },
     {
+        name: 'Launch Squad',
+        categories: ['Productivity', 'Marketing'],
+        description:
+            'The best Product Hunt alternatives for your next launch.',
+        keywords: [
+            'Entrepreneurship', 'Collaboration', 'Startups', 'Growth Strategies', 'Community Support','Marketing','Project Management'
+        ],
+        url: 'https://www.launchsquad.club',
+    },
+    {
         name: 'Layoutit Grid',
         categories: ['Code Generator'],
         description:
