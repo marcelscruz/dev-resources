@@ -127,6 +127,14 @@ export const resources: Resource[] = [
         keywords: ['JavaScript', 'conference', 'community'],
     },
     {
+        name: 'JSONing',
+        categories: ['Tooling'],
+        description:
+            'Free online JSON tools: Comparator, Formatter, Generator, Converter, JSONPath Tester, Schema Generator, and Mock API.',
+        url: 'https://jsoning.com/',
+        keywords: ['JSON', 'JSON Schema'],
+    },
+    {
         name: 'JustRemote',
         categories: ['Job', 'Remote'],
         description:
