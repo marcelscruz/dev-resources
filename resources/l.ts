@@ -300,6 +300,13 @@ export const resources: Resource[] = [
         keywords: ['link in bio', 'personal site', 'share links', 'linktree', 'liinks', 'bento'],
     },
     {
+        name: 'LinkDR',
+        categories: ['SEO','AI'],
+        description: 'The Ultimate Link Building Software',
+        url: 'https://linkdr.com',
+        keywords: ['Marketing', 'SEO', 'link building', 'links', 'link', 'bento'],
+    },
+    {
         name: 'Linode',
         categories: ['Cloud Computing'],
         description:
