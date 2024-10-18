@@ -115,6 +115,12 @@ export const resources: Resource[] = [
         keywords: ['SEO', 'Multilingual', 'Translator', 'SEO Optimization', 'Multilingual'],
     },
     {
+        name: 'Gliesess 90 marketing strategy breakdowns',
+        categories: ['SEO', 'Learn', 'Marketing'],
+        description: 'Browse the most comprehensive list of online marketing strategies on the internet. Find the Social Media and Search Engine strategies of each company.',
+        url: 'https://www.gliesess.com/online-marketing-strategies',
+    },
+    {
         name: 'GoatCounter',
         categories: ['Analytics'],
         description:
