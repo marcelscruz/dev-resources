@@ -15,7 +15,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Narrow AI',
-        description: 'Automated Prompt Engineering and Optimization platform that can autonomously write, monitor, and optimize prompts for any model',
+        description:
+            'Automated Prompt Engineering and Optimization platform that can autonomously write, monitor, and optimize prompts for any model',
         categories: ['AI', 'Productivity'],
         url: 'https://www.getnarrow.ai/',
         keywords: ['automation', 'prompt engineering', 'llm'],

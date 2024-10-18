@@ -1,5 +1,5 @@
 {
-"count": 939,
+"count": 940,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6764,6 +6764,20 @@
         ],
         "description": "Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support.",
         "url": "https://www.namecheap.com"
+    },
+    {
+        "name": "Narrow AI",
+        "description": "Automated Prompt Engineering and Optimization platform that can autonomously write, monitor, and optimize prompts for any model",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "url": "https://www.getnarrow.ai/",
+        "keywords": [
+            "automation",
+            "prompt engineering",
+            "llm"
+        ]
     },
     {
         "name": "Netlify",
