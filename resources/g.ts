@@ -117,7 +117,8 @@ export const resources: Resource[] = [
     {
         name: 'Gliesess 90 marketing strategy breakdowns',
         categories: ['SEO', 'Learn', 'Marketing'],
-        description: 'Browse the most comprehensive list of online marketing strategies on the internet. Find the Social Media and Search Engine strategies of each company.',
+        description:
+            'Browse the most comprehensive list of online marketing strategies on the internet. Find the Social Media and Search Engine strategies of each company.',
         url: 'https://www.gliesess.com/online-marketing-strategies',
     },
     {
