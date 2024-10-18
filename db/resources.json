@@ -1,5 +1,5 @@
 {
-"count": 933,
+"count": 934,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6085,6 +6085,27 @@
         ],
         "description": "Lite Analytics is simple lightweight Google Analytics alternatice. It is privacy focused and doesn't use cookies.",
         "url": "https://liteanalytics.com/"
+    },
+    {
+        "name": "Loadjitsu",
+        "categories": [
+            "Performance",
+            "Testing",
+            "Tooling"
+        ],
+        "description": "Loadjitsu is a modern, cross-platform load testing tool powered by Rust.",
+        "url": "https://loadjitsu.io/",
+        "keywords": [
+            "LoadTesting",
+            "Rust",
+            "CrossPlatform",
+            "PerformanceTesting",
+            "DesktopApp",
+            "Tauri",
+            "React",
+            "StressTesting",
+            "DevTools"
+        ]
     },
     {
         "name": "Lobsters",
