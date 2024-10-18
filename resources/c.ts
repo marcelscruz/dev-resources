@@ -931,7 +931,16 @@ export const resources: Resource[] = [
         description:
             'Creduse is a plug-and-play solution that lets developers integrate credits into their platforms via API without a lot of hassle. It’s aimed at startups and businesses that want to boost sales, user engagement, and retention.',
         url: 'https://creduse.com/',
-        keywords: ['api', 'credits', 'payments', 'subscriptions', 'credit-based system', 'saas', 'startup', 'pay-as-you-go'],
+        keywords: [
+            'api',
+            'credits',
+            'payments',
+            'subscriptions',
+            'credit-based system',
+            'saas',
+            'startup',
+            'pay-as-you-go',
+        ],
     },
     {
         name: 'Cruip',

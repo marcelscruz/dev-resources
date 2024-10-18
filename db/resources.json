@@ -1,5 +1,5 @@
 {
-"count": 935,
+"count": 936,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2303,6 +2303,26 @@
         ],
         "description": "CreativesFeed works to share the best free code snippets and web development resources online. We create free, downloadable code snippets and provide tutorials on web design and development to help agencies and individuals learn and grow!",
         "url": "https://creativesfeed.com/topics/code-snippets/"
+    },
+    {
+        "name": "Creduse",
+        "categories": [
+            "API Building",
+            "Analytics",
+            "Startup"
+        ],
+        "description": "Creduse is a plug-and-play solution that lets developers integrate credits into their platforms via API without a lot of hassle. It’s aimed at startups and businesses that want to boost sales, user engagement, and retention.",
+        "url": "https://creduse.com/",
+        "keywords": [
+            "api",
+            "credits",
+            "payments",
+            "subscriptions",
+            "credit-based system",
+            "saas",
+            "startup",
+            "pay-as-you-go"
+        ]
     },
     {
         "name": "Cruip",
