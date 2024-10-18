@@ -158,6 +158,12 @@ export const resources: Resource[] = [
         url: 'http://plottablejs.org/',
     },
     {
+        name: 'Plotline',
+        categories: ['Marketing', 'Programming','AI'],
+        description: 'Make your app dynamic with AI',
+        url: 'https://www.plotline.so/',
+    },
+    {
         name: 'Pluralsight',
         categories: ['Learn', 'Programming'],
         description:
