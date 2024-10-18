@@ -1,5 +1,5 @@
 {
-"count": 934,
+"count": 935,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1028,6 +1028,24 @@
         ],
         "description": "The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to enjoy a faster ad-free browsing experience that saves data and battery life by blocking tracking software.",
         "url": "https://brave.com/"
+    },
+    {
+        "name": "Briks",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "The AI Spreadsheet to Create Reports, Presentations, Charts, and Visuals",
+        "keywords": [
+            "productivity",
+            "collaboration tools",
+            "spreadsheets",
+            "presentations",
+            "slide decks",
+            "docs",
+            "wiki"
+        ],
+        "url": "https://thebricks.com"
     },
     {
         "name": "Browserling",
