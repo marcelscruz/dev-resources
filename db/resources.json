@@ -1,5 +1,5 @@
 {
-"count": 936,
+"count": 937,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6064,6 +6064,23 @@
         ],
         "description": "2000+ Essential Line Icons, A Complete Yet Most Simplified Free Line Icon Pack of the Web - Available in WebFont, SVG, PNG, React, PNG, and PDF Files.",
         "url": "https://lineicons.com/"
+    },
+    {
+        "name": "LinkDR",
+        "categories": [
+            "SEO",
+            "AI"
+        ],
+        "description": "The Ultimate Link Building Software",
+        "url": "https://linkdr.com",
+        "keywords": [
+            "Marketing",
+            "SEO",
+            "link building",
+            "links",
+            "link",
+            "bento"
+        ]
     },
     {
         "name": "LinkedIn Learning",
