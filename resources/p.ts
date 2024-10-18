@@ -10,8 +10,7 @@ export const resources: Resource[] = [
     {
         name: 'Pagelet',
         categories: ['Hosting'],
-        description:
-            'Simple Free HTML hosting, get a shareable link and a QR code out of the box.',
+        description: 'Simple Free HTML hosting, get a shareable link and a QR code out of the box.',
         url: 'https://pagelet.host',
     },
     {
@@ -166,7 +165,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Plotline',
-        categories: ['Marketing', 'Programming','AI'],
+        categories: ['Marketing', 'Programming', 'AI'],
         description: 'Make your app dynamic with AI',
         url: 'https://www.plotline.so/',
     },

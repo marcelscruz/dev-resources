@@ -1,5 +1,5 @@
 {
-"count": 937,
+"count": 939,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7118,6 +7118,14 @@
         "url": "https://pagecollective.com/"
     },
     {
+        "name": "Pagelet",
+        "categories": [
+            "Hosting"
+        ],
+        "description": "Simple Free HTML hosting, get a shareable link and a QR code out of the box.",
+        "url": "https://pagelet.host"
+    },
+    {
         "name": "PageSpeed Insights",
         "categories": [
             "Performance"
@@ -7348,6 +7356,16 @@
             "firefox",
             "webkit"
         ]
+    },
+    {
+        "name": "Plotline",
+        "categories": [
+            "Marketing",
+            "Programming",
+            "AI"
+        ],
+        "description": "Make your app dynamic with AI",
+        "url": "https://www.plotline.so/"
     },
     {
         "name": "Plottable",
