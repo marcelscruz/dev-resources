@@ -390,6 +390,14 @@ export const resources: Resource[] = [
         keywords: [],
     },
     {
+        name: 'Briks',
+        categories: ['AI', 'Productivity'],
+        description:
+            'The AI Spreadsheet to Create Reports, Presentations, Charts, and Visuals',
+        keywords: ['productivity', 'collaboration tools', 'spreadsheets', 'presentations', 'slide decks', 'docs', 'wiki'],
+        url: 'https://thebricks.com',
+    },
+    {
         name: 'Build you SaaS',
         categories: ['Podcast', 'Startup'],
         description:
