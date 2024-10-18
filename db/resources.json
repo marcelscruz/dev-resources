@@ -1,5 +1,5 @@
 {
-"count": 940,
+"count": 941,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8197,6 +8197,23 @@
         ],
         "description": "The biggest list of Space jobs from New space companies.",
         "url": "https://rocketcrew.space/"
+    },
+    {
+        "name": "Rosie",
+        "description": "AI Phone Answering Service",
+        "categories": [
+            "AI",
+            "Startup",
+            "Marketing"
+        ],
+        "url": "https://heyrosie.com/",
+        "keywords": [
+            "ai answering service",
+            "ai assistant",
+            "voice",
+            "audio",
+            "phone"
+        ]
     },
     {
         "name": "RubyMine",
