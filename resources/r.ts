@@ -375,6 +375,14 @@ export const resources: Resource[] = [
         url: 'https://rustjob.xyz/',
     },
     {
+        name: 'Rephrasy',
+        categories: ['AI', 'Writing', 'SEO'],
+        description:
+            'Guaranteed undetectable AI content. We use advanced AI humanizer to bypass AI detection like Copyleaks and Turnitin. Get started for free.',
+        url: 'https://rephrasy.ai',
+        keywords: ['AI Humanizer', 'AI text Humanizer', 'AI Detector', 'bypass AI Detector', 'undetectable AI content', 'AI humanizer Chrome extension', 'AI Humanizer API', 'Clone own writing style'],
+    },
+    {
         name: 'React Free Admin',
         categories: ['Template'],
         description: 'Download Free React and NextJs Admin Dashboard Templates',
