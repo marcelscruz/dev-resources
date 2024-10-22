@@ -145,7 +145,7 @@ export const resources: Resource[] = [
     {
         name: 'Chroma Palette 🎨',
         categories: ['Color', 'Editor', 'Extension'],
-        description: 'Chroma Palette 🎨 is a tool to extract, pick and manage the dominant color palette from the visible area of any webpage or pick and manage specific colors using a uploaded image',
+        description: 'Chroma Palette 🎨 is a chrome extension to extract, pick and manage the dominant color palette from the visible area of any webpage or pick and manage specific colors using a uploaded image',
         url: 'https://chromapalette.in/',
     },
     {
