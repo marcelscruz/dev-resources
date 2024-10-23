@@ -154,6 +154,13 @@ export const resources: Resource[] = [
         url: 'https://microacquire.com/',
     },
     {
+        name: 'MinutesLink',
+        categories: ['AI', 'Productivity'],
+        description:
+            'MinutesLink is an AI-powered assistant that records, transcribes, and summarizes your Google Meet calls, helping you stay organized and boost productivity effortlessly.',
+        url: 'https://minuteslink.com/',
+    },
+    {
         name: 'Microsoft SQL Server',
         categories: ['Database'],
         description:
