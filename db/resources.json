@@ -1376,6 +1376,21 @@
         "url": "https://circumicons.com/"
     },
     {
+        "name": "Cleanest AI",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Cleanest AI helps you tame your AI chat chaos! Organize your chats into folders and search through chat history.",
+        "url": "https://cleanest.ai/",
+        "keywords": [
+            "AI",
+            "ChatGPT",
+            "Browser Extension",
+            "Productivity"
+        ]
+    },
+    {
         "name": "CleanSnap",
         "categories": [
             "Image",
