@@ -67,6 +67,12 @@ export const resources: Resource[] = [
         url: 'https://jestjs.io/',
     },
     {
+        name: 'Job.zip',
+        categories: ['Job'],
+        description: 'We analyze over 10 million jobs per month to identify trends.',
+        url: 'https://job.zip',
+    },
+    {
         name: 'Jobicy',
         description:
             'Jobicy is an online career platform that bridges the gap between talented professionals seeking remote career opportunities and innovative companies offering such positions.',
