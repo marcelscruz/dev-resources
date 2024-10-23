@@ -1,5 +1,5 @@
 {
-"count": 944,
+"count": 945,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5490,6 +5490,14 @@
         ],
         "description": "🃏 Delightful JavaScript Testing.",
         "url": "https://jestjs.io/"
+    },
+    {
+        "name": "Job.zip",
+        "categories": [
+            "Job"
+        ],
+        "description": "We analyze over 10 million jobs per month to identify trends.",
+        "url": "https://job.zip"
     },
     {
         "name": "Jobicy",
