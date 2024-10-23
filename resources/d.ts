@@ -148,6 +148,12 @@ export const resources: Resource[] = [
         url: 'https://designmodo.com/jobs/',
     },
     {
+        name: 'Detector Pro',
+        categories: ['AI'],
+        description: 'Instantly detect AI content.',
+        url: 'https://detectorpro.ai/',
+    },
+    {
         name: 'DDEV',
         categories: ['Tooling', 'Open Source', 'Programming'],
         description: 'Docker-based local PHP+Node.js web development environments',
