@@ -90,6 +90,13 @@ export const resources: Resource[] = [
         url: 'https://getuikit.com/',
     },
     {
+        name: 'Ultimate Web Speed',
+        description: 'Improve your website performance and SEO in hours not days. Use our tools and compare features, ease of use, and compatibility of resources.',
+        categories: ['SEO', 'Performance'],
+        url: 'https://ultimatewebspeed.com',
+        keywords: ['wordpress', 'cache', 'plugins', 'speed', 'performance', 'seo'],
+    },
+    {
         name: 'Umbler',
         categories: ['Hosting'],
         description:
