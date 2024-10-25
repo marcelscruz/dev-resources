@@ -2,6 +2,12 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Obi Helper',
+        categories: ['AI', 'Productivity'],
+        description: 'Simple AI chat widget for small businesses that aren\'t ready for Intercom-like solutions.',
+        url: 'https://www.obihelper.com/',
+    },
+    {
         name: 'Octotree',
         categories: ['Browser', 'Extension'],
         description: 'GitHub on steroids.',
