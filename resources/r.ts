@@ -368,6 +368,13 @@ export const resources: Resource[] = [
         keywords: ['javascript', 'typescript', 'playground', 'node', 'repl', 'sandbox', 'development'],
     },
     {
+        name: 'Rupert AI',
+        description: 'Rupert AI envisions a world where marketing is not just about reaching audiences but engaging them in the most personalized and effective way.',
+        categories: ['Design', 'Image', 'Productivity' ],
+        url: 'https://www.getrupert.com/',
+        keywords: ['ai', 'image generation', 'photography', 'advertising'], 
+    },
+    {
         name: 'Rust Jobs',
         categories: ['Job'],
         description:
