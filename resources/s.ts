@@ -31,6 +31,14 @@ export const resources: Resource[] = [
         url: 'https://2.flexiple.com/scale/all-illustrations',
     },
     {
+        name: 'Schedles',
+        categories: ['Marketing', 'Analytics', 'Social Media'],
+        description:
+            'The ultimate content creator tool for seamless social media scheduling, AI-generated post ideas, and cross-platform automation to save time and boost engagement.',
+        url: 'https://schedles.com',
+        keywords: ['Scheduling', 'Automation', 'Marketing', 'Instagram', 'Threads', 'TikTok', 'Planning', 'Youtube'],
+    },
+    {
         name: 'Schedul',
         categories: ['Marketing', 'Analytics', 'Social Media'],
         description:
