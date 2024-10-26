@@ -140,6 +140,14 @@ export const resources: Resource[] = [
         url: 'https://alteropen.com/',
     },
     {
+        name: 'Amythyst',
+        categories: ['Blog', 'Newsletter'],
+        description:
+            'Your one-stop solution for all your anime needs: Anime/Manga/Game News, Weekly rankings, Anime guides, and Much More!',
+        url: 'https://amythyst.is-local.org/',    
+        keywords: ['Anime', 'Manga', 'Games', 'Guides', 'News']
+    },
+    {
         name: 'Angular DevTools',
         description:
             'Angular DevTools extends Chrome DevTools adding Angular specific debugging and profiling capabilities. You can use Angular DevTools to understand the structure of your application and preview the state of the directive and the component instances. To get insights into the execution of the application, you can use the profiler tab, which shows you the individual change detection cycles, what triggered them, and how much time Angular spent in them.',
