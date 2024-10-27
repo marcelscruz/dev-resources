@@ -203,6 +203,14 @@ export const resources: Resource[] = [
         url: 'https://developers.google.com/tech-writing',
     },
     {
+        name: 'GOSH',
+        description: 'GOSH.app is a free AI powered price tracker tool that allows anyone to track the price of any product at any store, for free.  Simply save the product page URL of any online store with GOSH.app and it will track the price for you.',
+        categories: ['Extension'', 'Productivity' ],
+        url: 'https://gosh.app',
+        keywords: ['ecommerce', 'shopping', 'lifestyle', 'coupons'], 
+    },
+
+    {
         name: 'GotResumeBuilder',
         categories: ['Resume'],
         description:
