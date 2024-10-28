@@ -320,6 +320,14 @@ export const resources: Resource[] = [
         keywords: [],
     },
     {
+        name: 'Rewrite',
+        description:
+            'Rewrite is a fully private AI writing assistant that allows users to rephrase and proofread their text with a single click. It doesn’t send data to the cloud and offers a one-time payment for lifetime access, available as a browser extension, desktop app, and integrates with Word and Google Docs.',
+        categories: ['Writing', 'Productivity', 'AI'],
+        url: 'https://paragraphrewrite.com',
+        keywords: ['rephrase', 'proofread', 'AI writing assistant', 'grammar checker', 'privacy', 'spelling'],
+    },
+    {
         name: 'Rick Blyth',
         categories: ['Personal Website'],
         description:
