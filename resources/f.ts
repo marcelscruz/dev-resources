@@ -647,6 +647,16 @@ export const resources: Resource[] = [
         url: 'https://www.fusioncharts.com/',
     },
     {
+        name: 'Fuselio',
+        categories: ['Productivity'],
+        description:
+            'Fuselio is a rapid MVP development platform for startups and SMEs, enabling the development of custom mobile and web applications in just 6 weeks. ',
+        url: 'https://www.fuselio.com/',
+        keywords: [
+            'web development', 'programming', 'software development', 'technology', 'engineering', 'developer', 'Mobile Development'
+        ],
+    },
+    {
         name: 'Fusion',
         categories: ['API Building'],
         description:
