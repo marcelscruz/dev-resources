@@ -123,6 +123,12 @@ export const resources: Resource[] = [
         url: 'https://www.heymeta.com/',
     },
     {
+        name: 'Hexabot',
+        categories: ['AI'],
+        description: 'Open-Source AI Tool to build multi-channel, multi-lingual, text-to-action chatbots agents.',
+        url: 'https://www.hexabot.ai/',
+    },
+    {
         name: 'Heybounce',
         categories: ['Email', 'Marketing'],
         description: 'Fast, Accurate & Secure Email Validation Service',
