@@ -1,5 +1,5 @@
 {
-"count": 950,
+"count": 951,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10385,6 +10385,15 @@
         ],
         "description": "Design and generate Laravel/PHP applications in minutes with this desktop tool",
         "url": "https://vemto.app/"
+    },
+    {
+        "name": "Verbatik AI",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Create professional-quality Text to Speech and Voice Cloning in minutes. Generate natural voices in 150+ languages, perfect for videos, podcasts, and e-learning.",
+        "url": "https://verbatik.com/"
     },
     {
         "name": "Vercel",
