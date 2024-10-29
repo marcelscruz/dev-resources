@@ -81,13 +81,6 @@ export const resources: Resource[] = [
         url: 'https://code.visualstudio.com/',
     },
     {
-        name: 'VoiceTaking',
-        categories: ['AI', 'Productivity', 'Audio'],
-        description:
-            'Log your thoughts and ideas with quick voice notes. Easily share ideas and brainstorm in a voice document with AI assistance for progress tracking and more.',
-        url: 'https://voicetaking.com',
-    },
-    {
         name: 'Vue Cheatsheet',
         categories: ['Cheatsheet'],
         description: 'An interactive cheatsheet of Vue, Vue Router and, Pinia.',
