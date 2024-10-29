@@ -1,5 +1,5 @@
 {
-"count": 948,
+"count": 949,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4237,6 +4237,23 @@
             "javascript \"web development\" programming software development technology computer science engineering developer creativity productivity"
         ],
         "url": "https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q"
+    },
+    {
+        "name": "Fuselio",
+        "categories": [
+            "Productivity"
+        ],
+        "description": "Fuselio is a rapid MVP development platform for startups and SMEs, enabling the development of custom mobile and web applications in just 6 weeks. ",
+        "url": "https://www.fuselio.com/",
+        "keywords": [
+            "web development",
+            "programming",
+            "software development",
+            "technology",
+            "engineering",
+            "developer",
+            "Mobile Development"
+        ]
     },
     {
         "name": "Fusion",

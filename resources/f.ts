@@ -653,7 +653,13 @@ export const resources: Resource[] = [
             'Fuselio is a rapid MVP development platform for startups and SMEs, enabling the development of custom mobile and web applications in just 6 weeks. ',
         url: 'https://www.fuselio.com/',
         keywords: [
-            'web development', 'programming', 'software development', 'technology', 'engineering', 'developer', 'Mobile Development'
+            'web development',
+            'programming',
+            'software development',
+            'technology',
+            'engineering',
+            'developer',
+            'Mobile Development',
         ],
     },
     {
