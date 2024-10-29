@@ -246,9 +246,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'BlogBud AI',
-        categories: ['AI','Writing','Blog'],
-        description:
-            'Generate SEO-optimized blog posts at scale',
+        categories: ['AI', 'Writing', 'Blog'],
+        description: 'Generate SEO-optimized blog posts at scale',
         url: 'https://blogbud.ai/',
     },
     {
