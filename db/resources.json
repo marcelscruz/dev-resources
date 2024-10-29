@@ -1,5 +1,5 @@
 {
-"count": 949,
+"count": 950,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4895,6 +4895,21 @@
         ],
         "description": "Check and improve how search engines and social media websites see and display your website.",
         "url": "https://www.heymeta.com/"
+    },
+    {
+        "name": "Heybounce",
+        "categories": [
+            "Email",
+            "Marketing"
+        ],
+        "description": "Fast, Accurate & Secure Email Validation Service",
+        "url": "https://www.heybounce.io/",
+        "keywords": [
+            "email validation",
+            "email verification",
+            "disposable email detection",
+            "email validation api"
+        ]
     },
     {
         "name": "High Compress",
