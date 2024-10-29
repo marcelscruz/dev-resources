@@ -1,5 +1,5 @@
 {
-"count": 961,
+"count": 962,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7411,6 +7411,22 @@
             "bug report",
             "bug report checklist",
             "how to write bug report"
+        ]
+    },
+    {
+        "name": "PersonaForce",
+        "description": "Create and chat with AI buyer personas for smarter marketing.",
+        "categories": [
+            "Marketing",
+            "Productivity",
+            "AI"
+        ],
+        "url": "https://personaforce.ai/",
+        "keywords": [
+            "ai assistant",
+            "persona marketing",
+            "audience research",
+            "sales"
         ]
     },
     {
