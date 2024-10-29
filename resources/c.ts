@@ -2,6 +2,15 @@
 
 export const resources: Resource[] = [
     {
+        name: 'Cadabra',
+        categories: ['Email', 'AI', 'Marketing'],
+        description:
+            'Cadabra maximizes email efficiency using AI, saving users time on reading, writing, replying, and reviewing emails',
+        url: 'https://trycadabra.io/',
+
+        keywords: ['AI', 'Email Automation', 'Productivity', 'Customer Service', 'Translation'],
+    },
+    {
         name: 'CakeResume',
         categories: ['Resume'],
         description:
@@ -77,6 +86,22 @@ export const resources: Resource[] = [
         url: 'https://gionkunz.github.io/chartist-js/',
     },
     {
+        name: 'Chatclient AI',
+        categories: ['AI'],
+        description:
+            'Build Custom AI Chatbot for Your Website. Chatclient helps you with creating your own custom AI Chatbot based on your website and company data, just like ChatGPT. Seamlessly integrate it as a widget on your website.',
+        url: 'https://chatclient.ai',
+        keywords: ['ai', 'chatbots', 'custom chatgpt', 'ai agents'],
+    },
+    {
+        name: 'ChatWithCloud',
+        categories: ['AI'],
+        description:
+            'CLI allowing you to interact with AWS Cloud using human language inside your Terminal thanks to generative AI.',
+        url: 'https://chatwithcloud.ai',
+        keywords: ['ai', 'cloud', 'aws'],
+    },
+    {
         name: 'ChatGPT Prompts by Keywords Everywhere',
         categories: ['AI'],
         description:
@@ -139,6 +164,22 @@ export const resources: Resource[] = [
         url: 'https://www.google.com/chrome/dev/',
     },
     {
+        name: 'Chaindesk',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Chaindesk is a complete support ecosystem to help you spend less time supporting your users - and more time growing your business.',
+        url: 'https://www.chaindesk.ai/',
+        keywords: ['ChatGPT Chatbot', 'AI Chatbot', 'Customer Support', 'Chatbot'],
+    },
+    {
+        name: 'Chatim',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Chatim is a live chat with a chatbot automation platform that lets you connect with customers anywhere, anytime',
+        url: 'https://chatim.app/',
+        keywords: ['Live Chat', 'Lead Generation', 'Sales', 'Chatbot'],
+    },
+    {
         name: 'Circum Icons',
         categories: ['Icon'],
         description: 'Consistent open source icons as SVG for React, Vue and Svelte.',
@@ -159,6 +200,28 @@ export const resources: Resource[] = [
         description: 'Drop-in React components for authentication and authorization.',
         keywords: ['react', 'next.js', 'auth', ' user management', 'react auth', 'next.js auth', 'javascript auth'],
         url: 'https://clerk.com',
+    },
+    {
+        name: 'CleanSnap',
+        categories: ['Image', 'Screenshot', 'AI'],
+        description:
+            'CleanSnap is a free AI Images maker. Create a beautiful image from a screenshot in seconds. Without any watermark.',
+        keywords: [
+            'image generation',
+            'beautiful screenshots',
+            'screenshots creator',
+            'how to make generate image',
+            'image',
+            'screenshot',
+            'download',
+            'easy',
+            'photo',
+            'gif',
+            'picture',
+            'instagram',
+            'facebook',
+        ],
+        url: 'https://www.cleansnap.co/',
     },
     {
         name: 'Clideo',
@@ -303,8 +366,7 @@ export const resources: Resource[] = [
     {
         name: 'CodeLobster',
         categories: ['Editor', 'Programming'],
-        description:
-            'CodeLobster is free cross-platform editor with plug-ins for all popular JS and PHP frameworks.',
+        description: 'CodeLobster is free cross-platform editor with plug-ins for all popular JS and PHP frameworks.',
         url: 'https://codelobster.com/',
         keywords: ['html', 'css', 'javascript', 'php', 'editor', 'code', 'ide', 'codelobster'],
     },
@@ -462,14 +524,6 @@ export const resources: Resource[] = [
             'dojo',
         ],
         url: 'https://www.codewars.com/',
-    },
-    {
-        name: 'Codewell',
-        categories: ['Learn', 'Programming'],
-        description: 'Improve your HTML and CSS skills by practicing on real world design templates.',
-        url: 'https://www.codewell.cc/',
-
-        keywords: ['frontend', 'html', 'css', 'flexbox', 'grid', 'javascript'],
     },
     {
         name: 'Codinn',
@@ -670,6 +724,31 @@ export const resources: Resource[] = [
         url: 'https://github.com/Developer-Y/cs-video-courses',
     },
     {
+        name: 'Confs.Tech',
+        categories: ['Conference'],
+        description:
+            'Open-Source project that lists upcoming tech conferences. Everything is free and will stay free. It is a technical conferences finder.',
+        url: 'https://confs.tech/',
+        keywords: [
+            '.Net',
+            'Accessibility',
+            'Android',
+            'CSS',
+            'Data - AI',
+            'Design - UX',
+            'DevOps',
+            'Elixir',
+            'IoT',
+            'Java',
+            'JavaScript',
+            'PHP',
+            'Python',
+            'Ruby',
+            'Security',
+            'iOS',
+        ],
+    },
+    {
         name: 'Console Ninja',
         categories: ['Editor', 'Extension'],
         description:
@@ -685,6 +764,21 @@ export const resources: Resource[] = [
 
         keywords: ['seo', 'content', 'monitoring', 'website', 'audit'],
     },
+    {
+        name: 'Context Data',
+        description: 'Data Processing & ETL infrastructure for Generative AI applications',
+        categories: ['AI', 'Database'],
+        url: 'https://contextdata.ai',
+        keywords: [
+            'ai infrastructure',
+            'generative ai',
+            'vector database',
+            'rag',
+            'data engineering',
+            'retrieval augmented generation',
+        ],
+    },
+
     {
         name: 'Contrast Ratio',
         categories: ['Accessibility', 'Color'],
@@ -762,6 +856,23 @@ export const resources: Resource[] = [
         url: 'https://copy-paste-css.com/',
     },
     {
+        name: 'Corbado',
+        categories: ['Authentication', 'Library', 'Programming'],
+        description: 'Passkey-first authentication for developers',
+        keywords: [
+            'passkeys',
+            'php',
+            'react',
+            'next.js',
+            'auth',
+            ' user management',
+            'react auth',
+            'next.js auth',
+            'javascript auth',
+        ],
+        url: 'https://www.corbado.com',
+    },
+    {
         name: 'CoreUI',
         categories: ['Template'],
         description:
@@ -783,6 +894,22 @@ export const resources: Resource[] = [
         url: 'https://www.coursera.org/',
     },
     {
+        name: 'Cozytypes',
+        description:
+            'A simple and aesthetic typing website to help improve your typing speed and accuracy. a simple typing website for keyboard enthusiasts. Practice in different different modes, personalize your settings and preferences, and improve your skills.',
+        categories: ['Typing'],
+        url: 'https://cozytypes.com',
+        keywords: [
+            'typing',
+            'typing-test',
+            'cozytypes',
+            'words per minute',
+            'simple typing website',
+            'improve typing',
+            'practice typing',
+        ],
+    },
+    {
         name: 'Craftwork',
         categories: ['Font', 'Icon', 'Illustration'],
         description:
@@ -797,6 +924,23 @@ export const resources: Resource[] = [
         description:
             'CreativesFeed works to share the best free code snippets and web development resources online. We create free, downloadable code snippets and provide tutorials on web design and development to help agencies and individuals learn and grow!',
         url: 'https://creativesfeed.com/topics/code-snippets/',
+    },
+    {
+        name: 'Creduse',
+        categories: ['API Building', 'Analytics', 'Startup'],
+        description:
+            'Creduse is a plug-and-play solution that lets developers integrate credits into their platforms via API without a lot of hassle. It’s aimed at startups and businesses that want to boost sales, user engagement, and retention.',
+        url: 'https://creduse.com/',
+        keywords: [
+            'api',
+            'credits',
+            'payments',
+            'subscriptions',
+            'credit-based system',
+            'saas',
+            'startup',
+            'pay-as-you-go',
+        ],
     },
     {
         name: 'Cruip',
@@ -825,13 +969,6 @@ export const resources: Resource[] = [
         description:
             'As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.',
         url: 'https://cssgradient.io/',
-    },
-    {
-        name: 'CSS Layout',
-        description: 'A collection of popular layouts and patterns made with CSS',
-        categories: ['Code Snippet', 'Programming'],
-        keywords: ['CSS layout', 'CSS pattern', 'CSS UI pattern'],
-        url: 'https://csslayout.io/',
     },
     {
         name: 'CSS Layout News',
@@ -898,13 +1035,6 @@ export const resources: Resource[] = [
         url: 'https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce',
     },
     {
-        name: 'CV Maker AI',
-        description:
-            'Let artificial intelligence create your flawless resume, offering personalized suggestions and tailored content to secure your ideal job.',
-        categories: ['Resume'],
-        url: 'https://www.cvmakerai.com',
-    },
-    {
         name: 'Customer.io',
         categories: ['Marketing'],
         description:
@@ -924,5 +1054,12 @@ export const resources: Resource[] = [
         description:
             'Graph theory / network library for analysis and visualisation - compatible with CommonJS/Node.js/Browserify/Webpack, AMD/Require.js, npm, Bower, jspm, Meteor/Atmosphere, jQuery, and plain JS/JavaScript.',
         url: 'https://js.cytoscape.org/',
+    },
+    {
+        name: 'Cynagon',
+        categories: ['AI', 'Video'],
+        description: 'Cynagon is the ultimate tool for creating viral and engaging short-form videos.',
+        keywords: ['ai', 'ai video', 'video generator', 'shorts generator', 'ai shorts', 'shorts content'],
+        url: 'https://www.cynagon.com/',
     },
 ]

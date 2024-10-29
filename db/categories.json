@@ -1,5 +1,5 @@
 {
-"count": 71,
+"count": 72,
 "data": [
     {
         "name": "Accessibility",
@@ -68,6 +68,10 @@
     {
         "name": "Color",
         "slug": "color"
+    },
+    {
+        "name": "Conference",
+        "slug": "conference"
     },
     {
         "name": "Database",
@@ -226,6 +230,10 @@
         "slug": "serverless"
     },
     {
+        "name": "Social Media",
+        "slug": "social-media"
+    },
+    {
         "name": "Startup",
         "slug": "startup"
     },
@@ -248,10 +256,6 @@
     {
         "name": "Tooling",
         "slug": "tooling"
-    },
-    {
-        "name": "Twitter",
-        "slug": "twitter"
     },
     {
         "name": "Typing",

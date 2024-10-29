@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Vatis Tech',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Vatis Tech offers advanced speech-to-text technology, converting audio or video files into text with over 90% accuracy using proprietary deep-learning algorithms',
+        keywords: ['Speech to Text ', 'Transcription ', 'Voice Recognition '],
+        url: 'https://vatis.tech',
+    },
+    {
         name: 'Vectr',
         categories: ['Editor', 'Image'],
         description:
@@ -25,7 +33,7 @@ export const resources: Resource[] = [
         name: 'VideoEditor SDK',
         categories: ['Editor', 'Video'],
         description:
-                    'Video Editor SDK (Android & iOS) is a fully-functional video editor that can be integrated into an app in minutes, designed to create exciting social media content with a wide range of effects and filters for professional-quality videos on phones.',
+            'Video Editor SDK (Android & iOS) is a fully-functional video editor that can be integrated into an app in minutes, designed to create exciting social media content with a wide range of effects and filters for professional-quality videos on phones.',
         url: 'https://www.banuba.com/video-editor-sdk-best-for-developers',
         keywords: ['video editor'],
     },
@@ -43,6 +51,13 @@ export const resources: Resource[] = [
         description:
             'VIM Adventures is an online game based on VIM\'s keyboard shortcuts. It\'s the "Zelda meets text editing" game. So come have some fun and learn some VIM!',
         url: 'https://vim-adventures.com/',
+    },
+    {
+        name: 'Virtual Coffee',
+        categories: ['Podcast'],
+        description:
+            'Virtual Coffee is an intimate community for developers at all stages of the journey. It is a place to ask questions, share knowledge, and build friendships.',
+        url: 'https://virtualcoffee.io/podcast/',
     },
     {
         name: 'Visily',
@@ -66,6 +81,13 @@ export const resources: Resource[] = [
         url: 'https://code.visualstudio.com/',
     },
     {
+        name: 'Vue Cheatsheet',
+        categories: ['Cheatsheet'],
+        description: 'An interactive cheatsheet of Vue, Vue Router and, Pinia.',
+        keywords: ['VueJS', 'vue cheatsheet', 'vue', 'Free cheatsheet', 'Opensource'],
+        url: 'https://vue-cheatsheet.themeselection.com/',
+    },
+    {
         name: 'Vue.js devtools',
         description: 'Browser devtools extension for debugging Vue.js applications',
         categories: ['Browser', 'Extension'],
@@ -86,5 +108,12 @@ export const resources: Resource[] = [
         description:
             'Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.',
         url: 'https://www.artify.co/vector-illustrations',
+    },
+    {
+        name: 'Verbatik AI',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Create professional-quality Text to Speech and Voice Cloning in minutes. Generate natural voices in 150+ languages, perfect for videos, podcasts, and e-learning.',
+        url: 'https://verbatik.com/',
     },
 ]
