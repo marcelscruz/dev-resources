@@ -245,6 +245,13 @@ export const resources: Resource[] = [
         url: 'https://blush.design/',
     },
     {
+        name: 'BlogBud AI',
+        categories: ['AI','Writing','Blog'],
+        description:
+            'Generate SEO-optimized blog posts at scale',
+        url: 'https://blogbud.ai/',
+    },
+    {
         name: 'Bootify',
         categories: ['Code Generator'],
         description:
