@@ -8,6 +8,12 @@ export const resources: Resource[] = [
         url: 'https://pagecollective.com/',
     },
     {
+        name: 'Pagelet',
+        categories: ['Hosting'],
+        description: 'Simple Free HTML hosting, get a shareable link and a QR code out of the box.',
+        url: 'https://pagelet.host',
+    },
+    {
         name: 'PageSpeed Insights',
         categories: ['Performance'],
         description:
@@ -20,6 +26,13 @@ export const resources: Resource[] = [
         description: 'Palette List is a dynamic palette generator.',
         keywords: ['palette', 'colors', 'designer tools', 'developer tools', 'hex', 'rgb'],
         url: 'https://www.palettelist.com/',
+    },
+    {
+        name: 'Panem',
+        description: 'AI Powered SaaS Spend Management',
+        categories: ['Productivity', 'Startup'],
+        url: 'https://panem.co',
+        keywords: ['fintech', 'finance'],
     },
     {
         name: 'Patterninja',
@@ -59,6 +72,13 @@ export const resources: Resource[] = [
         url: 'https://www.peopleperhour.com/',
     },
     {
+        name: 'PerfectBugReport.io',
+        categories: ['Testing'],
+        description: 'A simple checklist of the essential items to include in bug reports.',
+        url: 'https://www.perfectbugreport.io/',
+        keywords: ['bug report', 'bug report checklist', 'how to write bug report'],
+    },
+    {
         name: 'Pexels',
         categories: ['Video', 'Image'],
         description: "Finding the perfect photo or video shouldn't take forever.",
@@ -72,6 +92,14 @@ export const resources: Resource[] = [
         url: 'https://www.phind.com',
 
         keywords: ['ai', 'search engine'],
+    },
+    {
+        name: 'Photopea',
+        categories: ['Design', 'UI', 'Template'],
+        description:
+            'Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures.',
+        url: 'https://www.photopea.com/',
+        keywords: ['image generation', 'professional photos'],
     },
     {
         name: 'PhotoRoom',
@@ -94,6 +122,13 @@ export const resources: Resource[] = [
         categories: ['AI', 'Image', 'Design'],
         url: 'https://photorush.io',
         keywords: ['image generation', 'professional photos'],
+    },
+    {
+        name: 'Pieces',
+        categories: ['AI', 'Programming', 'Productivity'],
+        description: 'On-device copilot to capture, enrich, and reuse useful materials, streamline collaboration.',
+        url: 'https://pieces.app/',
+        keywords: ['Productivity', 'Copilot', 'easy snippet search'],
     },
     {
         name: 'Pingdom',
@@ -137,6 +172,12 @@ export const resources: Resource[] = [
         url: 'http://plottablejs.org/',
     },
     {
+        name: 'Plotline',
+        categories: ['Marketing', 'Programming', 'AI'],
+        description: 'Make your app dynamic with AI',
+        url: 'https://www.plotline.so/',
+    },
+    {
         name: 'Pluralsight',
         categories: ['Learn', 'Programming'],
         description:
@@ -165,6 +206,13 @@ export const resources: Resource[] = [
         url: 'https://www.postman.com/',
     },
     {
+        name: 'Postlyy',
+        categories: ['AI', 'Productivity'],
+        description: 'All in one platform to create (WITH AI), schedule, and analyze content on X and LinkedIn',
+        url: 'https://postlyy.com/',
+        keywords: ['ai', 'social media', 'content creation'],
+    },
+    {
         name: 'PoweredbyAI',
         description: 'A directory with 100+ AI tools to help you with your daily tasks',
         categories: ['AI'],
@@ -172,6 +220,14 @@ export const resources: Resource[] = [
 
         keywords: ['ai', 'ai tools', 'copywriting', 'image generator'],
     },
+    {
+        name: 'PPResume',
+        description: 'A LaTeX based resume builder',
+        categories: ['Resume', 'Job', 'Productivity'],
+        url: 'https://ppresume.com',
+        keywords: ['cv', 'LaTeX'],
+    },
+
     {
         name: 'Prime',
         categories: ['UI'],
@@ -193,6 +249,13 @@ export const resources: Resource[] = [
         description:
             "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
         url: 'https://www.producthunt.com/',
+    },
+    {
+        name: 'ProductiveHub',
+        categories: ['Productivity', 'Blog'],
+        description:
+            'Discover top apps and websites on Productive Hub that enhance your productivity and help you beat procrastination, streamlining your journey to peak productivity.',
+        url: 'https://www.productive-hub.com/',
     },
     {
         name: 'Programiz',
@@ -240,6 +303,14 @@ export const resources: Resource[] = [
         description:
             'Get HTML from any page with a simple API call. We handle proxy rotation, browser identities, automatic retries, CAPTCHAs, JavaScript rendering and much more.',
         url: 'https://proxiesapi.com',
+    },
+    {
+        name: 'ProtoUI',
+        description: 'ProtoUI generates responsive TailwindCSS code + UI in seconds.',
+        categories: ['AI', 'Design', 'Code Generator'],
+        url: 'https://protoui.dev',
+
+        keywords: ['Tailwind', 'frontend', 'AI', 'responsive ui'],
     },
     {
         name: 'Pttrns',
