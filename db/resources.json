@@ -1,5 +1,5 @@
 {
-"count": 956,
+"count": 957,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4887,6 +4887,14 @@
         ],
         "description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
         "url": "https://www.heroku.com/"
+    },
+    {
+        "name": "Hexabot",
+        "categories": [
+            "AI"
+        ],
+        "description": "Open-Source AI Tool to build multi-channel, multi-lingual, text-to-action chatbots agents.",
+        "url": "https://www.hexabot.ai/"
     },
     {
         "name": "Hey Meta",
