@@ -1,5 +1,5 @@
 {
-"count": 946,
+"count": 947,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5031,6 +5031,14 @@
             "business",
             "portfolio"
         ]
+    },
+    {
+        "name": "Hubdev",
+        "categories": [
+            "Open Source"
+        ],
+        "description": "A developer resource collection with advanced semantic search powered by Vercel SDK, OpenAI, and Supabase for precise results.",
+        "url": "https://www.hubdev.tools"
     },
     {
         "name": "Hugeicons",
