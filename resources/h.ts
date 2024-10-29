@@ -129,6 +129,13 @@ export const resources: Resource[] = [
         url: 'https://www.hexabot.ai/',
     },
     {
+        name: 'Heybounce',
+        categories: ['Email', 'Marketing'],
+        description: 'Fast, Accurate & Secure Email Validation Service',
+        url: 'https://www.heybounce.io/',
+        keywords: ['email validation', 'email verification', 'disposable email detection', 'email validation api'],
+    },
+    {
         name: 'High Compress',
         categories: ['Image'],
         description:
