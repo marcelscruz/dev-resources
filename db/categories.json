@@ -1,5 +1,5 @@
 {
-"count": 74,
+"count": 72,
 "data": [
     {
         "name": "Accessibility",
@@ -100,10 +100,6 @@
     {
         "name": "Extension",
         "slug": "extension"
-    },
-    {
-        "name": "Facebook",
-        "slug": "facebook"
     },
     {
         "name": "Font",
@@ -234,6 +230,10 @@
         "slug": "serverless"
     },
     {
+        "name": "Social Media",
+        "slug": "social-media"
+    },
+    {
         "name": "Startup",
         "slug": "startup"
     },
@@ -254,16 +254,8 @@
         "slug": "testing"
     },
     {
-        "name": "Threads",
-        "slug": "threads"
-    },
-    {
         "name": "Tooling",
         "slug": "tooling"
-    },
-    {
-        "name": "Twitter",
-        "slug": "twitter"
     },
     {
         "name": "Typing",

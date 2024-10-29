@@ -120,6 +120,12 @@ export const resources: Resource[] = [
         url: 'https://airtable.com/',
     },
     {
+        name: 'AI-Text-Humanizer',
+        categories: ['AI', 'Productivity'],
+        description: 'Transform dull AI-generated text into easy-to-read copy and sound like a real person',
+        url: 'https://ai-text-humanizer.com/',
+    },
+    {
         name: 'ally.js',
         categories: ['Accessibility', 'Library'],
         description:

@@ -8,6 +8,12 @@ export const resources: Resource[] = [
         url: 'https://pagecollective.com/',
     },
     {
+        name: 'Pagelet',
+        categories: ['Hosting'],
+        description: 'Simple Free HTML hosting, get a shareable link and a QR code out of the box.',
+        url: 'https://pagelet.host',
+    },
+    {
         name: 'PageSpeed Insights',
         categories: ['Performance'],
         description:
@@ -88,6 +94,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'search engine'],
     },
     {
+        name: 'Photopea',
+        categories: ['Design', 'UI', 'Template'],
+        description:
+            'Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures.',
+        url: 'https://www.photopea.com/',
+        keywords: ['image generation', 'professional photos'],
+    },
+    {
         name: 'PhotoRoom',
         categories: ['Image', 'Editor'],
         description:
@@ -156,6 +170,12 @@ export const resources: Resource[] = [
         categories: ['Library', 'Programming'],
         description: 'Flexible, interactive, performant charts for the web made easy.',
         url: 'http://plottablejs.org/',
+    },
+    {
+        name: 'Plotline',
+        categories: ['Marketing', 'Programming', 'AI'],
+        description: 'Make your app dynamic with AI',
+        url: 'https://www.plotline.so/',
     },
     {
         name: 'Pluralsight',

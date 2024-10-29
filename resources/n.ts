@@ -14,6 +14,15 @@ export const resources: Resource[] = [
         url: 'https://www.namecheap.com',
     },
     {
+        name: 'Narrow AI',
+        description:
+            'Automated Prompt Engineering and Optimization platform that can autonomously write, monitor, and optimize prompts for any model',
+        categories: ['AI', 'Productivity'],
+        url: 'https://www.getnarrow.ai/',
+        keywords: ['automation', 'prompt engineering', 'llm'],
+    },
+
+    {
         name: 'Netlify',
         categories: ['Hosting'],
         description:
@@ -34,6 +43,14 @@ export const resources: Resource[] = [
         categories: ['Learn', 'Programming'],
         url: 'https://nextradar.dev',
         keywords: ['Nextjs', 'React', 'Vercel'],
+    },
+    {
+        name: 'NextReady',
+        categories: ['Template', 'Programming'],
+        description:
+            'More than just a boilerplate. A ready-to-use Next.js template with Prisma, TypeScript, shadcn/ui, and more.',
+        keywords: ['next.js', 'boilerplate', 'template', 'typescript', 'prisma', 'shadcn/ui'],
+        url: 'https://nextready.dev',
     },
     {
         name: 'NextUI',

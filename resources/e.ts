@@ -32,6 +32,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'ChatGPT', 'Claude', 'Browser Extension', 'Productivity'],
     },
     {
+        name: 'Easyreadme',
+        categories: ['AI', 'Productivity', 'Editor'],
+        description:
+            'Easyreadme helps you simplify README creation and generate visually stunning ones with the help of AI and elegant pre-designed templates.',
+        url: 'https://www.easyreadme.app',
+        keywords: ['ai', 'readme', 'documentation', 'markdown', 'editor', 'templates'],
+    },
+    {
         name: 'Eclipse',
         categories: ['Editor', 'Extension'],
         description:
@@ -209,6 +217,13 @@ export const resources: Resource[] = [
             'Everything Fonts is a place for font tools/font information/font download/font-face hosting  and one of a kind font market place.',
         keywords: ['font'],
         url: 'https://everythingfonts.com/',
+    },
+    {
+        name: 'Exam Samurai',
+        description: 'AI Exam Generator',
+        categories: ['Learn', 'AI', 'Productivity'],
+        url: 'https://www.examsamur.ai/',
+        keywords: ['education', 'exam', 'notes', 'study'],
     },
     {
         name: 'Exercism',

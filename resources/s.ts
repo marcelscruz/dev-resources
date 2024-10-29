@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'SaaS Boilerplates',
+        description:
+            'SaaSBoilerplates.dev is a curated directory that showcases a wide range of SaaS boilerplates, starter kits, and frameworks to help developers quickly launch their SaaS projects.',
+        categories: ['Productivity', 'Template', 'Startup'],
+        url: 'https://saasboilerplates.dev',
+        keywords: ['boilerplates', 'starter kits', 'frameworks', 'development', 'low code'],
+    },
+    {
         name: 'SaaS Design',
         categories: ['Design', 'Inspiration', 'UI'],
         description:
@@ -32,7 +40,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Schedul',
-        categories: ['Marketing', 'Analytics', 'Twitter', 'Threads', 'Facebook'],
+        categories: ['Marketing', 'Analytics', 'Social Media'],
         description:
             'The content publishing & scheduling platform the most exclusive content creators use for Threads: a SaaS to Build and monetize your content on Threads.',
         url: 'https://www.schedulthreads.com',
@@ -204,6 +212,14 @@ export const resources: Resource[] = [
         url: 'https://shoptalkshow.com/',
     },
     {
+        name: 'Shortimize',
+        categories: ['Marketing', 'Social Media'],
+        description:
+            'Simplify content management: all your data, metrics, and reports for scalable strategies in one place.',
+        url: 'https://shortimize.com',
+        keywords: ['tiktok', 'instagram', 'track videos', 'discover viral content', 'viral shorts'],
+    },
+    {
         name: 'Shots',
         keywords: ['mockup', 'design', 'social', 'marketing'],
         categories: ['Prototyping', 'Screenshot'],
@@ -226,7 +242,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Sidebird',
-        categories: ['Twitter'],
+        categories: ['Social Media'],
         description: 'Stop chasing Twitter followers. Get fans.',
         url: 'https://www.sidebird.io/',
     },

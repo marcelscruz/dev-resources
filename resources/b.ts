@@ -206,7 +206,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'BlackTwist',
-        categories: ['Analytics', 'Marketing', 'Twitter'],
+        categories: ['Analytics', 'Marketing', 'Social Media'],
         description:
             'Build and monetize your audience on Threads. BlackTwist is the #1 social media assistant for Threads that helps you take your social growth to the next level.',
         url: 'https://blacktwist.app',
@@ -388,6 +388,21 @@ export const resources: Resource[] = [
         url: 'https://buildspace.so',
 
         keywords: [],
+    },
+    {
+        name: 'Briks',
+        categories: ['AI', 'Productivity'],
+        description: 'The AI Spreadsheet to Create Reports, Presentations, Charts, and Visuals',
+        keywords: [
+            'productivity',
+            'collaboration tools',
+            'spreadsheets',
+            'presentations',
+            'slide decks',
+            'docs',
+            'wiki',
+        ],
+        url: 'https://thebricks.com',
     },
     {
         name: 'Build you SaaS',

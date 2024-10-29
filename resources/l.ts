@@ -86,6 +86,21 @@ export const resources: Resource[] = [
         url: 'https://larajobs.com/',
     },
     {
+        name: 'Launch Squad',
+        categories: ['Productivity', 'Marketing'],
+        description: 'The best Product Hunt alternatives for your next launch.',
+        keywords: [
+            'Entrepreneurship',
+            'Collaboration',
+            'Startups',
+            'Growth Strategies',
+            'Community Support',
+            'Marketing',
+            'Project Management',
+        ],
+        url: 'https://www.launchsquad.club',
+    },
+    {
         name: 'Layoutit Grid',
         categories: ['Code Generator'],
         description:
@@ -300,6 +315,13 @@ export const resources: Resource[] = [
         keywords: ['link in bio', 'personal site', 'share links', 'linktree', 'liinks', 'bento'],
     },
     {
+        name: 'LinkDR',
+        categories: ['SEO', 'AI'],
+        description: 'The Ultimate Link Building Software',
+        url: 'https://linkdr.com',
+        keywords: ['Marketing', 'SEO', 'link building', 'links', 'link', 'bento'],
+    },
+    {
         name: 'Linode',
         categories: ['Cloud Computing'],
         description:
@@ -312,6 +334,23 @@ export const resources: Resource[] = [
         description:
             "Lite Analytics is simple lightweight Google Analytics alternatice. It is privacy focused and doesn't use cookies.",
         url: 'https://liteanalytics.com/',
+    },
+    {
+        name: 'Loadjitsu',
+        categories: ['Performance', 'Testing', 'Tooling'],
+        description: 'Loadjitsu is a modern, cross-platform load testing tool powered by Rust.',
+        url: 'https://loadjitsu.io/',
+        keywords: [
+            'LoadTesting',
+            'Rust',
+            'CrossPlatform',
+            'PerformanceTesting',
+            'DesktopApp',
+            'Tauri',
+            'React',
+            'StressTesting',
+            'DevTools',
+        ],
     },
     {
         name: 'Lobsters',

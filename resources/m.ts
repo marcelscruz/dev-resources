@@ -320,6 +320,14 @@ export const resources: Resource[] = [
         url: 'https://morrisjs.github.io/morris.js/',
     },
     {
+        name: 'MuckBrass',
+        description: 'Find & Validate Startup Ideas using AI',
+        categories: ['SEO', 'Productivity', 'Startup'],
+        url: 'https://www.muckbrass.com',
+        keywords: ['data', 'research', 'startupidea', 'idea', 'ai'],
+    },
+
+    {
         name: 'MyPerfectResume',
         categories: ['Resume'],
         description:
@@ -331,6 +339,12 @@ export const resources: Resource[] = [
         categories: ['Database'],
         description: 'MySQL Database Service is a fully managed database service to deploy cloud-native applications.',
         url: 'https://www.mysql.com/',
+    },
+    {
+        name: 'MyChatbots AI',
+        categories: ['AI', 'Productivity'],
+        description: 'A platform for easily creating, training, and chatting with AI chatbots using your own data',
+        url: 'https://mychatbots.ai',
     },
     {
         name: 'MySQL Visual Explain',

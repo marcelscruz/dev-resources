@@ -17,7 +17,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Get The Audience',
-        categories: ['Marketing', 'Twitter'],
+        categories: ['Marketing', 'Social Media'],
         description:
             'Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached.',
         url: 'https://gettheaudience.com/',
@@ -113,6 +113,13 @@ export const resources: Resource[] = [
         url: 'https://www.globalsites.ai/',
 
         keywords: ['SEO', 'Multilingual', 'Translator', 'SEO Optimization', 'Multilingual'],
+    },
+    {
+        name: 'Gliesess 90 marketing strategy breakdowns',
+        categories: ['SEO', 'Learn', 'Marketing'],
+        description:
+            'Browse the most comprehensive list of online marketing strategies on the internet. Find the Social Media and Search Engine strategies of each company.',
+        url: 'https://www.gliesess.com/online-marketing-strategies',
     },
     {
         name: 'GoatCounter',

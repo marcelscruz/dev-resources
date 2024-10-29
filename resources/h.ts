@@ -259,6 +259,13 @@ export const resources: Resource[] = [
         url: 'https://html5up.net/',
     },
     {
+        name: 'Hubdev',
+        categories: ['Open Source'],
+        description:
+            'A developer resource collection with advanced semantic search powered by Vercel SDK, OpenAI, and Supabase for precise results.',
+        url: 'https://www.hubdev.tools',
+    },
+    {
         name: 'Hugeicons',
         categories: ['Icon'],
         description: 'Most beautiful icon library for developers. 28,000+ expertly crafted UI icons.',
