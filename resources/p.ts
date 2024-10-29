@@ -79,6 +79,13 @@ export const resources: Resource[] = [
         keywords: ['bug report', 'bug report checklist', 'how to write bug report'],
     },
     {
+        name: 'PersonaForce',
+        description: 'Create and chat with AI buyer personas for smarter marketing.',
+        categories: ['Marketing', 'Productivity', 'AI'],
+        url: 'https://personaforce.ai/',
+        keywords: ['ai assistant', 'persona marketing', 'audience research', 'sales'],
+    },
+    {
         name: 'Pexels',
         categories: ['Video', 'Image'],
         description: "Finding the perfect photo or video shouldn't take forever.",
