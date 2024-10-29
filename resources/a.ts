@@ -163,6 +163,13 @@ export const resources: Resource[] = [
         url: 'https://animista.net/',
     },
     {
+        name: 'AnotherWrapper',
+        categories: ['AI', 'Programming','Productivity'],
+        description:
+            '10+ customizable AI demo apps: pick one, make it yours, launch your startup quickly and start making money',
+        url: 'https://anotherwrapper.com',
+    },
+    {
         name: 'API ChatAssistPro',
         description:
             'ChatAssist Pro is an advanced AI-powered chatbot designed to streamline customer support interactions. It offers prompt and accurate responses to a wide range of customer queries, ensuring a seamless and efficient user experience. With intelligent intent recognition and dynamic handling of FAQs, ChatAssist Pro enhances customer satisfaction and operational efficiency.',
