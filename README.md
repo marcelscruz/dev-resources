@@ -1313,6 +1313,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://usethekeyboard.com/&sz=128" width="16" /> | [Use The Keyboard](https://usethekeyboard.com/) | A collection of keyboard shortcuts for Mac apps, Windows programs, and a variety of websites. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://vatis.tech&sz=128" width="16" /> | [Vatis Tech](https://vatis.tech) | Vatis Tech offers advanced speech-to-text technology, converting audio or video files into text with over 90% accuracy using proprietary deep-learning algorithms | Speech to Text , Transcription , Voice Recognition  |
  <img src="https://www.google.com/s2/favicons?domain=https://verbatik.com/&sz=128" width="16" /> | [Verbatik AI](https://verbatik.com/) | Create professional-quality Text to Speech and Voice Cloning in minutes. Generate natural voices in 150+ languages, perfect for videos, podcasts, and e-learning. |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://webacus.dev&sz=128" width="16" /> | [Webacus](https://webacus.dev) | Webacus is a versatile tool designed specifically for developers. It combines numerous operations that developers frequently need into a single, consistent interface. Instead of Googling and learning ... |  |
  <img src="https://www.google.com/s2/favicons?domain=https://webcurate.co/c/developer&sz=128" width="16" /> | [WebCurate Developer Tools](https://webcurate.co/c/developer) | A hand-curated collection of 380+ best developer tools and resources with detailed descriptions and features. | html, css, javascript, development |
 
 **[⬆ Back to Index](#index)**
@@ -1846,6 +1847,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://softwium.com/mockium/&sz=128" width="16" /> | [Softwium](https://softwium.com/mockium/) | Random data generator supports CSV, JSON, SQL, and XML formats. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.treblle.com&sz=128" width="16" /> | [Treblle](https://www.treblle.com) | Treblle is the ultimate end to end APIOps Platform for Engineering and DevOps teams. Simplify and elevate your REST API development with our comprehensive solution that offers insightful observability... | API Observability, API Analytics, API Documentation, API Security, API Governance, API Testing, Deve... |
  <img src="https://www.google.com/s2/favicons?domain=https://upto.site&sz=128" width="16" /> | [Upto.Site](https://upto.site) | Upto.Site is the ultimate url shortener which can be used to create instant FREE short urls. | url shortener, link, link shortener, link shortener api |
+ <img src="https://www.google.com/s2/favicons?domain=https://webacus.dev&sz=128" width="16" /> | [Webacus](https://webacus.dev) | Webacus is a versatile tool designed specifically for developers. It combines numerous operations that developers frequently need into a single, consistent interface. Instead of Googling and learning ... |  |
 
 **[⬆ Back to Index](#index)**
 

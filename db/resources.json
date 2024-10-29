@@ -1,5 +1,5 @@
 {
-"count": 952,
+"count": 953,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10696,6 +10696,15 @@
         ],
         "description": "Analyses any web page for violations of best practices.",
         "url": "https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en"
+    },
+    {
+        "name": "Webacus",
+        "categories": [
+            "Productivity",
+            "Tooling"
+        ],
+        "description": "Webacus is a versatile tool designed specifically for developers. It combines numerous operations that developers frequently need into a single, consistent interface. Instead of Googling and learning the interface for each operation, you can perform everything you need within Webacus, seamlessly.",
+        "url": "https://webacus.dev"
     },
     {
         "name": "WebCurate Developer Tools",
