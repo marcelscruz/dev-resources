@@ -1,5 +1,5 @@
 {
-"count": 954,
+"count": 955,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7396,6 +7396,20 @@
             "Design"
         ],
         "url": "https://photorush.io",
+        "keywords": [
+            "image generation",
+            "professional photos"
+        ]
+    },
+    {
+        "name": "Photopea",
+        "categories": [
+            "Design",
+            "UI",
+            "Template"
+        ],
+        "description": "Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures.",
+        "url": "https://www.photopea.com/",
         "keywords": [
             "image generation",
             "professional photos"
