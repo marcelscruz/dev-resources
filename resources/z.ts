@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Zenlogin',
+        categories: ['Authentication', 'Email', 'Security'],
+        description:
+            'Security API which uses user agent, geolocation and AI and Machine Learning signals to notify your users when a suspicious login occurs. Sends out those familiar "We notified a new login on your account" emails. Supports Auth0 and custom integrations.',
+        url: 'https://zenlogin.co',
+        keywords: ['threat detection', 'suspicious login detection', 'email notifications', 'emails', 'ai', 'legal'],
+    },
+    {
         name: 'Zensite Subscription',
         categories: ['Design'],
         description: 'Design subscription service providing unlimited design request for SAAS companies',
@@ -27,6 +35,14 @@ export const resources: Resource[] = [
         description:
             'Use this online resume maker to build your resume fast and easy. Get expert advice as you write. Download in minutes and start getting interviews.',
         url: 'https://zety.com/',
+    },
+    {
+        name: 'ZTO - NextJS SaaS Starter Kit',
+        categories: ['Startup', 'Template'],
+        description:
+            'ZTO SaaS starter kit: Rapid deployment, scalable architecture, and essential features for MVPs and full-scale projects. Launch your SaaS faster.',
+        url: 'https://zto.dev/',
+        keywords: ['nextjs', 'saas', 'starter kit', 'template', 'boilerplate', 'tailwind', 'shadcn', 'typescript'],
     },
     {
         name: 'Zyro',

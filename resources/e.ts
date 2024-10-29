@@ -25,6 +25,21 @@ export const resources: Resource[] = [
         keywords: ['ai', 'chat', 'image generator', 'gpt', 'audio transcription', 'templates'],
     },
     {
+        name: 'Easy Folders',
+        categories: ['AI', 'Productivity', 'Extension'],
+        description: 'Create Folders, Search Chat History, Bookmark Chats, Create Custom Instructions Profiles + more!',
+        url: 'https://www.easyfolders.io/',
+        keywords: ['ai', 'ChatGPT', 'Claude', 'Browser Extension', 'Productivity'],
+    },
+    {
+        name: 'Easyreadme',
+        categories: ['AI', 'Productivity', 'Editor'],
+        description:
+            'Easyreadme helps you simplify README creation and generate visually stunning ones with the help of AI and elegant pre-designed templates.',
+        url: 'https://www.easyreadme.app',
+        keywords: ['ai', 'readme', 'documentation', 'markdown', 'editor', 'templates'],
+    },
+    {
         name: 'Eclipse',
         categories: ['Editor', 'Extension'],
         description:
@@ -148,6 +163,12 @@ export const resources: Resource[] = [
         url: 'https://elements.envato.com/',
     },
     {
+        name: 'Enveloop',
+        categories: ['Email', 'Design'],
+        description: 'Design, host, and send emails and texts. All from one place - with a simple API.',
+        url: 'https://enveloop.com/',
+    },
+    {
         name: 'Epic React',
         categories: ['Learn', 'Programming'],
         description: 'Strap in and take your React applications to the next level.',
@@ -168,11 +189,41 @@ export const resources: Resource[] = [
         url: 'https://www.escrow.com/',
     },
     {
+        name: 'Eventyco',
+        categories: ['Conference'],
+        description:
+            'Discover the best tech conferences and events for developers, designers, and tech professionals. Updated weekly.',
+        url: 'https://dev.events/',
+        keywords: [
+            'tech events',
+            'developer events',
+            'designer events',
+            'tech conferences',
+            'developer conferences',
+            'designer conferences',
+        ],
+    },
+    {
         name: 'Everyone Hates Marketers',
         categories: ['Marketing'],
         description:
             "It's the antidote to marketing bullshit. Receive a free, 8-lesson video course + a super practical, no-bullshit essay in your inbox every Tuesday.",
         url: 'https://www.everyonehatesmarketers.com/',
+    },
+    {
+        name: 'Everything Fonts',
+        categories: ['Font'],
+        description:
+            'Everything Fonts is a place for font tools/font information/font download/font-face hosting  and one of a kind font market place.',
+        keywords: ['font'],
+        url: 'https://everythingfonts.com/',
+    },
+    {
+        name: 'Exam Samurai',
+        description: 'AI Exam Generator',
+        categories: ['Learn', 'AI', 'Productivity'],
+        url: 'https://www.examsamur.ai/',
+        keywords: ['education', 'exam', 'notes', 'study'],
     },
     {
         name: 'Exercism',
@@ -186,5 +237,20 @@ export const resources: Resource[] = [
         categories: ['Terminal'],
         description: 'Match command-line arguments to their help text.',
         url: 'https://explainshell.com/',
+    },
+    {
+        name: 'ExtendsClass',
+        categories: ['Tooling'],
+        description:
+            'Test realistic data generator supports JSON, CSV, SQL, and XML formats, along with an API mocking tool.',
+        url: 'https://extendsclass.com/csv-generator.html',
+    },
+    {
+        name: 'EzUptime',
+        categories: ['Performance', 'Tooling'],
+        description:
+            'Monitor your website and API endpoints. Receive real-time notifications for downtime and recoveries. Prevent cold-starts for your Serverless Functions.',
+        keywords: ['Uptime', 'Monitoring'],
+        url: 'https://ezuptime.com/',
     },
 ]
