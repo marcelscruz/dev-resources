@@ -164,7 +164,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'AnotherWrapper',
-        categories: ['AI', 'Programming','Productivity'],
+        categories: ['AI', 'Programming', 'Productivity'],
         description:
             '10+ customizable AI demo apps: pick one, make it yours, launch your startup quickly and start making money',
         url: 'https://anotherwrapper.com',
