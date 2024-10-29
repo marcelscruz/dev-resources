@@ -1,5 +1,5 @@
 {
-"count": 959,
+"count": 960,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10285,6 +10285,23 @@
         ],
         "description": "UIkit, a lightweight and modular front-end framework for developing fast and powerful web interfaces.",
         "url": "https://getuikit.com/"
+    },
+    {
+        "name": "Ultimate Web Speed",
+        "description": "Improve your website performance and SEO in hours not days. Use our tools and compare features, ease of use, and compatibility of resources.",
+        "categories": [
+            "SEO",
+            "Performance"
+        ],
+        "url": "https://ultimatewebspeed.com",
+        "keywords": [
+            "wordpress",
+            "cache",
+            "plugins",
+            "speed",
+            "performance",
+            "seo"
+        ]
     },
     {
         "name": "Umbler",
