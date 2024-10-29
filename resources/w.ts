@@ -91,6 +91,13 @@ export const resources: Resource[] = [
         url: 'https://wave.webaim.org/',
     },
     {
+        name: 'Webacus',
+        categories: ['Productivity', 'Tooling'],
+        description:
+            'Webacus is a versatile tool designed specifically for developers. It combines numerous operations that developers frequently need into a single, consistent interface. Instead of Googling and learning the interface for each operation, you can perform everything you need within Webacus, seamlessly.',
+        url: 'https://webacus.dev',
+    },
+    {
         name: 'Web Code Tools',
         categories: ['Code Generator'],
         description:
