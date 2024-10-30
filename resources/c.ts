@@ -143,12 +143,6 @@ export const resources: Resource[] = [
         url: 'https://choc-ui.com/',
     },
     {
-        name: 'Chroma Palette 🎨',
-        categories: ['Color', 'Editor', 'Extension'],
-        description: 'Chroma Palette 🎨 is a chrome extension to extract, pick and manage the dominant color palette from the visible area of any webpage or pick and manage specific color palettes using an uploaded image.',
-        url: 'https://chromapalette.in/',
-    },
-    {
         name: 'Chrome',
         categories: ['Browser'],
         description:
