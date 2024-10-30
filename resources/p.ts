@@ -2,12 +2,6 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
-        name: 'Palettes & Hues 🎨',
-        categories: ['Color', 'Editor', 'Extension'],
-        description: 'Palettes & Hues 🎨 is a chrome extension to extract, pick and manage the dominant color palette from the visible area of any webpage or pick and manage specific color palettes using an uploaded image.',
-        url: 'https://palettes.fyi/',
-    },
-    {
         name: 'Page Collective',
         categories: ['Inspiration'],
         description: 'Get inspired and keep up with the latest landing page design trends.',
@@ -32,6 +26,12 @@ export const resources: Resource[] = [
         description: 'Palette List is a dynamic palette generator.',
         keywords: ['palette', 'colors', 'designer tools', 'developer tools', 'hex', 'rgb'],
         url: 'https://www.palettelist.com/',
+    },
+    {
+        name: 'Palettes & Hues 🎨',
+        categories: ['Color', 'Editor', 'Extension'],
+        description: 'Palettes & Hues 🎨 is a chrome extension to extract, pick and manage the dominant color palette from the visible area of any webpage or pick and manage specific color palettes using an uploaded image.',
+        url: 'https://palettes.fyi/',
     },
     {
         name: 'Panem',
