@@ -67,6 +67,14 @@ export const resources: Resource[] = [
         url: 'http://cassandra.apache.org/',
     },
     {
+        name: 'Certifast',
+        description: 'Create personalized certificates for your webinar, online courses, and more.',
+        categories: ['Design', 'Productivity'],
+        url: 'https://certifast.co/intl/en-us',
+        keywords: ['education', 'online learning', 'certificate'],
+    },
+
+    {
         name: 'Chakra',
         categories: ['Library', 'Programming', 'UI'],
         description: 'Simple, Modular and Accessible UI Components for your React Applications.',
