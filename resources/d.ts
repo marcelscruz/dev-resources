@@ -333,6 +333,15 @@ export const resources: Resource[] = [
         keywords: ['website builder', 'content management system', 'CMS', 'open source'],
     },
     {
+        name: 'Droxy AI',
+        description:
+            'Customer facing AI agents for your business',
+        categories: ['AI', 'Productivity', 'Marketing'],
+        url: 'https://www.droxy.ai/',
+
+        keywords: ['Agents', 'Customer Support', 'Chatbots'],
+    },
+    {
         name: 'dygraphs',
         categories: ['Programming'],
         description:
