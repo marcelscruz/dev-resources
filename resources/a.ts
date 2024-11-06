@@ -329,7 +329,7 @@ export const resources: Resource[] = [
         categories: ['Cloud Computing', 'Database', 'Hosting', 'Serverless', 'Storage'],
         description:
             'Invent with purpose, realise cost savings and make your organisation more efficient with Microsoft Azure’s open and flexible cloud computing platform.',
-        keywords: ['Azue', 'Windows Azure', 'Cloud Service', 'Cloud Computing Companies'],
+        keywords: ['Azuesss', 'Windows Azure', 'Cloud Service', 'Cloud Computing Companies'],
         url: 'https://azure.microsoft.com/',
     },
 ]
