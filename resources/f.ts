@@ -141,15 +141,10 @@ export const resources: Resource[] = [
     },
     {
         name: 'FinetuneFast',
-        categories: ['AI', 'Productivity','Programming'],
+        categories: ['AI', 'Productivity', 'Programming'],
         description: 'Finetune ML models in days, not weeks',
         url: 'https://finetunefast.com',
-        keywords: [
-            'boilerplate',
-            'LLM',
-            'finetuning',
-            'machine learning',
-        ],
+        keywords: ['boilerplate', 'LLM', 'finetuning', 'machine learning'],
     },
     {
         name: 'Flaticon',
