@@ -17,11 +17,24 @@ export const resources: Resource[] = [
         keywords: ['auth', 'authentication', 'passwordless'],
     },
     {
+        name: 'MagicBox.tools',
+        categories: ['AI', 'Tooling'],
+        description: 'Best AI Tools Explore 2024 | Magicbox.Tools AI Tools Directory',
+        url: 'https://magicbox.tools',
+        keywords: ['ai tools', 'ai tools navigation', 'ai tools directory'],
+    },
+    {
         name: 'Mailchimp',
         categories: ['Email', 'Marketing'],
         description:
             'Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.',
         url: 'https://mailchimp.com/',
+    },
+    {
+        name: 'Maildroppa',
+        categories: ['Email', 'Marketing'],
+        description: 'German engineered email marketing and automation without the hefty price tag.',
+        url: 'https://maildroppa.com/',
     },
     {
         name: 'Mailgun',
@@ -60,10 +73,23 @@ export const resources: Resource[] = [
         keywords: ['react', 'hooks', 'dark theme', 'accessibility', 'components', 'hooks', 'ui', 'library'],
     },
     {
+        name: 'Marblism',
+        description: 'Generate a SaaS boilerplate from a prompt',
+        categories: ['AI', 'Code Generator'],
+        url: 'https://marblism.com',
+        keywords: ['code generator', 'ai', 'boilerplate', 'dev tool'],
+    },
+    {
         name: 'Marko Denic',
         categories: ['Personal Website'],
         description: 'Web Developer, Public speaker, IT trainer and consultant.',
         url: 'https://markodenic.com/',
+    },
+    {
+        name: 'Markdown Guide',
+        categories: ['Cheatsheet'],
+        description: ' A free and open-source reference guide that explains how to use Markdown.',
+        url: 'https://markdownguide.org',
     },
     {
         name: 'Mastery Games',
@@ -126,6 +152,12 @@ export const resources: Resource[] = [
         url: 'http://medium.com/',
     },
     {
+        name: 'MeetMoji',
+        categories: ['AI', 'Productivity', 'Writing'],
+        description: 'Live Polls for Google Slides with an AI Assistant ',
+        url: 'https://meetmoji.com',
+    },
+    {
         name: 'Metaverse Jobs',
         categories: ['Job'],
         description: 'Search for metaverse jobs in augmented reality, virtual reality, NFT, crypto, gaming, and more.',
@@ -145,6 +177,13 @@ export const resources: Resource[] = [
         description:
             "Metrical is web analytics tool that is easy to use, privacy oriented and where you don't have to have a marketing degree to know how to use it.",
         url: 'https://metrical.xyz/',
+    },
+    {
+        name: 'MemFree',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Hybrid AI Search Engine: Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs.',
+        url: 'https://www.memfree.me/',
     },
     {
         name: 'MicroAcquire',
@@ -210,6 +249,12 @@ export const resources: Resource[] = [
         url: 'https://mochajs.org/',
     },
     {
+        name: 'Mockae',
+        categories: ['API Building'],
+        description: 'Fake REST APIs powered by Lua.',
+        url: 'https://mockae.com/',
+    },
+    {
         name: 'MongoDB',
         categories: ['Database'],
         description:
@@ -244,6 +289,23 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'MonsterONE',
+        categories: ['Design', 'Marketing', 'Template'],
+        description:
+            'MonsterONE offers access to 420K+ premium digital items like web themes, templates, graphics, and more—all with a single subscription. Pay once, access all!',
+        url: 'https://monsterone.com/',
+        keywords: [
+            'MonsterONE subscription service',
+            'MonsterONE design service',
+            'free & premium website templates',
+            'WordPress themes',
+            'website templates',
+            'newsletter templates',
+            'audio & video assets',
+            'e-commerce templates and themes',
+        ],
+    },
+    {
         name: 'Moqups',
         categories: ['Prototyping'],
         description:
@@ -258,6 +320,14 @@ export const resources: Resource[] = [
         url: 'https://morrisjs.github.io/morris.js/',
     },
     {
+        name: 'MuckBrass',
+        description: 'Find & Validate Startup Ideas using AI',
+        categories: ['SEO', 'Productivity', 'Startup'],
+        url: 'https://www.muckbrass.com',
+        keywords: ['data', 'research', 'startupidea', 'idea', 'ai'],
+    },
+
+    {
         name: 'MyPerfectResume',
         categories: ['Resume'],
         description:
@@ -269,6 +339,18 @@ export const resources: Resource[] = [
         categories: ['Database'],
         description: 'MySQL Database Service is a fully managed database service to deploy cloud-native applications.',
         url: 'https://www.mysql.com/',
+    },
+    {
+        name: 'MyChatbots AI',
+        categories: ['AI', 'Productivity'],
+        description: 'A platform for easily creating, training, and chatting with AI chatbots using your own data',
+        url: 'https://mychatbots.ai',
+    },
+    {
+        name: 'MySQL Visual Explain',
+        categories: ['Database', 'Performance'],
+        description: 'Transform MySQL EXPLAIN output to easy-to-understand visualizations.',
+        url: 'https://mysqlexplain.com/',
     },
     {
         name: 'Materio Free MUI React NextJS Admin Template',

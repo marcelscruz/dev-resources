@@ -76,11 +76,26 @@ export const resources: Resource[] = [
         keywords: ['auth', 'authorization', 'authz', 'access control'],
     },
     {
+        name: 'Watch my SSL',
+        categories: ['Security', 'Domain'],
+        description:
+            'A service to monitor the expiration date of your SSL certificates so that your websites never go unexpectedly down.',
+        url: 'https://watchmyssl.com/',
+        keywords: ['ssl', 'monitoring', 'certificate', 'expiration', 'dns'],
+    },
+    {
         name: 'WAVE',
         categories: ['Accessibility'],
         description:
             'WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content.',
         url: 'https://wave.webaim.org/',
+    },
+    {
+        name: 'Webacus',
+        categories: ['Productivity', 'Tooling'],
+        description:
+            'Webacus is a versatile tool designed specifically for developers. It combines numerous operations that developers frequently need into a single, consistent interface. Instead of Googling and learning the interface for each operation, you can perform everything you need within Webacus, seamlessly.',
+        url: 'https://webacus.dev',
     },
     {
         name: 'Web Code Tools',
@@ -116,6 +131,14 @@ export const resources: Resource[] = [
         url: 'https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en',
     },
     {
+        name: 'WebCurate Developer Tools',
+        description:
+            'A hand-curated collection of 380+ best developer tools and resources with detailed descriptions and features.',
+        categories: ['Productivity'],
+        url: 'https://webcurate.co/c/developer',
+        keywords: ['html', 'css', 'javascript', 'development'],
+    },
+    {
         name: 'Webflow',
         categories: ['Website Builder'],
         description:
@@ -138,11 +161,25 @@ export const resources: Resource[] = [
         url: 'https://www.webpagetest.org/',
     },
     {
+        name: 'WebscrapeAI',
+        description: 'Scrape any website without code using AI',
+        categories: ['Scraping', 'AI'],
+        url: 'https://webscrapeai.com',
+        keywords: ['scraper', 'no code', 'ai web scraper', 'web scraper', 'visual web scraper'],
+    },
+    {
         name: 'Website Authority Checker',
         categories: ['SEO'],
         description:
             'Free tool to check the "authority" of any website based on the quality and quantity of its external backlinks.',
         url: 'https://ahrefs.com/website-authority-checker',
+    },
+    {
+        name: 'Websitevice',
+        categories: ['Design', 'Inspiration', 'UI'],
+        description:
+            'Website design examples to get inspiration for business, real estate, product, agency, education, ecommerce, personal and more',
+        url: 'https://websitevice.com',
     },
     {
         name: 'WebStorm',
@@ -177,6 +214,12 @@ export const resources: Resource[] = [
         categories: ['Browser', 'Extension'],
         description: 'The easiest way to identify fonts on web pages.',
         url: 'https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en',
+    },
+    {
+        name: 'Where to host my app?',
+        categories: ['Hosting', 'Cloud Computing'],
+        description: 'Find the best place to host your application based on its tech stack.',
+        url: 'https://wheretohostmy.app/',
     },
     {
         name: 'Windframe',
@@ -225,11 +268,26 @@ export const resources: Resource[] = [
         url: 'https://www.wrappixel.com/',
     },
     {
+        name: 'WLSpy',
+        categories: ['Marketing', 'AI'],
+        description:
+            'WLSpy helps users discover winning products by analyzing market trends and competitor strategies.',
+        keywords: ['Product Research', 'Market Analysis', 'Competitor Monitoring'],
+        url: 'https://wlspy.com',
+    },
+    {
         name: 'Writty',
         categories: ['Writing'],
         description: 'A simple writing app and text editor to help you focus on what matters.',
         keywords: ['writing app', 'text editor', 'wysiwyg'],
         url: 'https://writtyapp.com/',
+    },
+    {
+        name: 'WP Foundry',
+        categories: ['Extension'],
+        description: 'A desktop WordPress management application.',
+        keywords: ['WordPress', 'website management'],
+        url: 'https://wpfoundry.app/',
     },
     {
         name: 'wweb.dev',

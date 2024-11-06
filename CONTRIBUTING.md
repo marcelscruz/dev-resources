@@ -2,7 +2,9 @@
 
 ---
 
-> ❗️ The `README.md` file and the `/db` folder are auto-generated, so please **_do not_** edit them.
+> ❗️ Only resources **highly or exclusively** related to programming and development are accepted.
+
+> ❗️ The `README.md` file and the `/db` folder are auto-generated, so please **do not** edit them.
 > Changes related to resources should happen within the `/resources` folder.
 
 ---
