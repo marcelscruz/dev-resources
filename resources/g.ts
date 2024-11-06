@@ -17,7 +17,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Get The Audience',
-        categories: ['Marketing', 'Twitter'],
+        categories: ['Marketing', 'Social Media'],
         description:
             'Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached.',
         url: 'https://gettheaudience.com/',
@@ -27,6 +27,13 @@ export const resources: Resource[] = [
         categories: ['Legal'],
         description: 'Generate a simple Terms of Service and Privacy Policy statement for your website.',
         url: 'https://getterms.io/',
+    },
+    {
+        name: 'Gitbook',
+        categories: ['Documentation'],
+        description:
+            'GitBook is a knowledge management tool for engineering teams. It simplifies knowledge sharing, with docs-as-code support and AI-powered search & insights.',
+        url: 'https://gitbook.com',
     },
     {
         name: 'GitHub Pages',
@@ -41,6 +48,13 @@ export const resources: Resource[] = [
         description:
             'Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.',
         url: 'https://training.github.com/',
+    },
+    {
+        name: 'GitLoop',
+        categories: ['Code Generator', 'AI'],
+        description: 'AI that understands your codebase and repositories',
+        url: 'https://www.gitloop.com',
+        keywords: ['Coding', 'Codebase', 'Repositories', 'Code Review', 'Git', 'Commits', 'Pull Requests'],
     },
     {
         name: 'Gcore Basic',
@@ -91,6 +105,21 @@ export const resources: Resource[] = [
         url: 'https://speedtest.gcore.com/',
 
         keywords: ['gcore', 'speed test', 'internet speed', 'bandwidth'],
+    },
+    {
+        name: 'Global Sites AI',
+        categories: ['SEO', 'AI'],
+        description: 'Create multilingual static sites effortlessly with Global Sites AI.',
+        url: 'https://www.globalsites.ai/',
+
+        keywords: ['SEO', 'Multilingual', 'Translator', 'SEO Optimization', 'Multilingual'],
+    },
+    {
+        name: 'Gliesess 90 marketing strategy breakdowns',
+        categories: ['SEO', 'Learn', 'Marketing'],
+        description:
+            'Browse the most comprehensive list of online marketing strategies on the internet. Find the Social Media and Search Engine strategies of each company.',
+        url: 'https://www.gliesess.com/online-marketing-strategies',
     },
     {
         name: 'GoatCounter',
@@ -152,6 +181,14 @@ export const resources: Resource[] = [
         url: 'https://fonts.google.com/',
     },
     {
+        name: 'Google Icons',
+        categories: ['Icon'],
+        description:
+            'Material Symbols are our newest icons consolidating over 2,500 glyphs in a single font file with a wide range of design variants.',
+        url: 'https://fonts.google.com/icons',
+        keywords: ['icons'],
+    },
+    {
         name: 'Google Search Console',
         categories: ['SEO'],
         description:
@@ -180,6 +217,22 @@ export const resources: Resource[] = [
         url: 'https://www.gotresumebuilder.com/',
     },
     {
+        name: 'GPT4oMini',
+        categories: ['AI'],
+        description: 'GPT4oMini.app: Free GPT4oMini Access - Advanced AI Conversation Generator',
+        keywords: [
+            'GPT4oMini',
+            'GPT4o',
+            'Free GPT-4',
+            'ChatGPT',
+            'ChatGPT4oMini',
+            'chatbot',
+            'Free ChatGPT Access',
+            'AI Conversation Generator',
+        ],
+        url: 'https://gpt4omini.app/',
+    },
+    {
         name: 'Gradient',
         categories: ['Color'],
         description:
@@ -192,6 +245,13 @@ export const resources: Resource[] = [
         description: 'Find and test gradients easily.',
         keywords: ['color', 'UI', 'design', 'gradient'],
         url: 'https://gradientos.app',
+    },
+    {
+        name: 'Gradient Generator',
+        categories: ['Color'],
+        description: 'Create brilliant gradients in 8 color spaces. 1-click export to CSS & SVG.',
+        keywords: ['color', 'UI', 'design', 'gradient'],
+        url: 'https://learnui.design/tools/gradient-generator.html',
     },
     {
         name: 'Gramara',
@@ -221,12 +281,6 @@ export const resources: Resource[] = [
         url: 'https://greip.io/',
 
         keywords: ['ai', 'fraud prevention', 'api', 'geoip', 'profanity detection'],
-    },
-    {
-        name: 'Grid.Guide',
-        categories: ['Learn', 'Programming'],
-        description: 'Create pixel perfect grids for the web.',
-        url: 'http://grid.guide/',
     },
     {
         name: 'Grid Garden',

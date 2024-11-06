@@ -15,6 +15,13 @@ export const resources: Resource[] = [
         url: 'https://www.tailorbrands.com/logo-maker',
     },
     {
+        name: 'Tailanimista',
+        categories: ['Animation'],
+        description: 'Animista, but for Tailwind CSS. Easily generate beautiful animations!',
+        keywords: ['animation', 'tailwind', 'css', 'tailwind css'],
+        url: 'https://tail-animista.vercel.app',
+    },
+    {
         name: 'TailwindComponents',
         categories: ['Library', 'Programming', 'UI'],
         description:
@@ -65,10 +72,34 @@ export const resources: Resource[] = [
         url: 'https://techcrunch.com/',
     },
     {
+        name: 'Techstarta',
+        categories: ['Learn', 'AI'],
+        description:
+            'Empower your tech career with Techstarta! Gain hands-on project experience and mentorship to connect with industry experts.',
+        url: 'https://techstarta.com/',
+        keywords: [
+            'Techstarta',
+            'Tech career',
+            'Hands-on experience',
+            'Mentorship',
+            'Industry experts',
+            'Early-career professionals',
+            'Skill development',
+            'Tech projects',
+        ],
+    },
+    {
         name: 'Tech Blogs',
         categories: ['Blog'],
         description: 'This is a list of Awesome Tech Blogs. Add yourself.',
         url: 'https://tech-blogs.dev/',
+    },
+    {
+        name: 'Templated',
+        categories: ['Editor', 'Design', 'Marketing'],
+        description:
+            'Automate your images and PDFs with a simple API. Generate social media visuals, banners, PDFs and more with our API and no-code integrations.',
+        url: 'https://templated.io/',
     },
     {
         name: 'TemplateMo',
@@ -133,6 +164,14 @@ export const resources: Resource[] = [
         url: 'https://www.testing-whiz.com/',
     },
     {
+        name: 'TestDriver',
+        categories: ['Programming', 'Testing'],
+        description:
+            'AI QA agent for comprehensive testing & debugging. Boost productivity, ensure accuracy, and save time with this versatile tool',
+        url: 'https://www.testdriver.ai',
+        keywords: ['developer tools', 'debugging', 'engineering'],
+    },
+    {
         name: 'Themeselection',
         categories: ['Template'],
         description:
@@ -182,6 +221,31 @@ export const resources: Resource[] = [
         url: 'https://hammerstone.dev/podcast',
     },
     {
+        name: 'The Linux Foundation - Events',
+        categories: ['Conference'],
+        description:
+            'The Linux Foundation hosts a variety of events around the world, including leading open source conferences such as Open Source Summit, Embedded Linux Conference, KubeCon + CloudNativeCon, and more.',
+        url: 'https://events.linuxfoundation.org/',
+        keywords: [
+            '.Net',
+            'Accessibility',
+            'Android',
+            'CSS',
+            'Data - AI',
+            'Design - UX',
+            'DevOps',
+            'Elixir',
+            'IoT',
+            'Java',
+            'JavaScript',
+            'PHP',
+            'Python',
+            'Ruby',
+            'Security',
+            'iOS',
+        ],
+    },
+    {
         name: 'The Net Ninja',
         categories: ['Programming', 'YouTube Channel', 'Learn', 'Programming'],
         url: 'https://www.thenetninja.co.uk/',
@@ -191,6 +255,14 @@ export const resources: Resource[] = [
         keywords: [
             'html css javascript tutorials "web design" "web development" development "front-end development" wordpress mvc "responsive design" "beginner html" "beginner ...',
         ],
+    },
+    {
+        name: 'The PR Creator',
+        categories: ['Marketing'],
+        description: 'Tool that creates custom press releases and includes a comment section for the users',
+        url: 'https://theprcreator.com/',
+
+        keywords: ['productivity', 'pr', 'SaaS', 'Artificial Intelligence'],
     },
     {
         name: 'The Ultimate Guide to React Native Optimization',
@@ -250,6 +322,13 @@ export const resources: Resource[] = [
         description:
             "See errors, warnings, and logs as they happen on your site — without having to open the browser’s console. Find bugs you didn't know were there via notifications in our unique toast format.",
         url: 'https://toastlog.com/',
+    },
+    {
+        name: 'TOOOLS.design',
+        categories: ['Accessibility', 'Design', 'Blog'],
+        description: 'A growing archive of 1,500+ design resources, frequently updated for the community.',
+        url: 'https://www.toools.design/',
+        keywords: ['design', 'resources', 'tools', 'icons', 'illustrations', 'colors', 'logos', 'accessibility'],
     },
     {
         name: 'Tooplate',
@@ -314,6 +393,32 @@ export const resources: Resource[] = [
         url: 'https://transform.tools',
     },
     {
+        name: 'Treblle',
+        categories: ['API Building', 'Tooling', 'Analytics'],
+        description:
+            'Treblle is the ultimate end to end APIOps Platform for Engineering and DevOps teams. Simplify and elevate your REST API development with our comprehensive solution that offers insightful observability of APIs in a single, user-friendly interface.',
+        url: 'https://www.treblle.com',
+        keywords: [
+            'API Observability',
+            'API Analytics',
+            'API Documentation',
+            'API Security',
+            'API Governance',
+            'API Testing',
+            'Developer Productivity',
+            'API Monitoring',
+            'Real-time API Insights',
+            'APIOps Platform',
+            'API Performance',
+            'API Compliance',
+            'OpenAPI Support',
+            'Microservices Scalability',
+            'AI-driven API Assistance',
+            'API Debugging',
+            'API Quality',
+        ],
+    },
+    {
         name: 'Treehouse',
         categories: ['Learn', 'Programming'],
         description:
@@ -329,29 +434,34 @@ export const resources: Resource[] = [
         keywords: ['webhook'],
     },
     {
-        name: 'Tutoriac',
-        categories: ['Website Builder'],
+        name: 'TrollyAI',
+        description: 'Create professional SEO articles, 2x faster',
+        categories: ['SEO', 'Writing', 'Marketing'],
+        url: 'https://trolly.ai/',
+        keywords: [
+            'seo',
+            'ai-powered content creation',
+            'seo optimization tool',
+            'bulk article generator',
+            'content writer',
+        ],
+    },
+    {
+        name: 'Tweet Detective',
+        categories: ['Social Media', 'AI'],
         description:
-            'Tutoriac provides video tutorials for learning how to create websites with website builders like Wix, Google Sites, Squarespace, Webflow, Carrd, Framer.',
-        url: 'https://tutoriac.com',
-
-        keywords: ['website builder video tutorials', 'google sites', 'landing pages', 'portfolio', 'personal site'],
+            'Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content',
+        url: 'https://www.tweetdetective.com/',
+        keywords: ['twitter', 'social media', 'ai detection', 'ai text'],
     },
     {
         name: 'Tweet Hunter',
-        categories: ['Marketing', 'Twitter'],
+        categories: ['Marketing', 'Social Media'],
         description:
             "Build and monetize your Twitter audience. Get sales, growth and new networks. Faster than what you're currently trying.",
         url: 'https://tweethunter.io',
 
         keywords: ['twitter', 'growth', 'scheduling', 'social media'],
-    },
-    {
-        name: 'Tweet Detective',
-        categories: ['Twitter', "AI"],
-        description: 'Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content',
-        url: 'https://www.tweetdetective.com/',
-        keywords: ['twitter', 'social media', "ai detection", "ai text"],
     },
     {
         name: 'TypeLit',
@@ -360,6 +470,14 @@ export const resources: Resource[] = [
         url: 'https://www.typelit.io',
 
         keywords: ['typing'],
+    },
+    {
+        name: 'TypingBeast',
+        categories: ['Learn', 'Typing'],
+        description:
+            'Practice touch typing on various modes including zen mode, maintain streak and compete in leaderboards.',
+        url: 'https://typingbeast.com',
+        keywords: ['typing', 'touch typing', 'typing zen', 'typing streak', 'typing leaderboards'],
     },
     {
         name: 'TypingClub',
