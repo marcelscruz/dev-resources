@@ -513,6 +513,12 @@ export const resources: Resource[] = [
         url: 'https://www.soundstripe.com/',
     },
     {
+        name: 'Sqlable',
+        categories: ['Tooling', 'Database'],
+        description: 'Online database tools: SQL formatter and validator, SQL regex tester, fake data generator, and database playgrounds.',
+        url: 'https://sqlable.com/',
+    },
+    {
         name: 'Splitbee',
         categories: ['Analytics'],
         description: 'Splitbee provides Analytics, Automation, User Funnel and A/B Testing.',
