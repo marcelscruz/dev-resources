@@ -131,7 +131,8 @@ export const resources: Resource[] = [
     {
         name: 'OpenTools',
         categories: ['Tooling', 'Newsletter'],
-        description: 'Discover and compare over 10,000 AI tools, curated and ranked by our community of over 50,000 users.',
+        description:
+            'Discover and compare over 10,000 AI tools, curated and ranked by our community of over 50,000 users.',
         url: 'https://opentools.ai/',
         keywords: ['AI', 'Tools', 'Newsletter', 'AI Tools', 'Directory'],
     },
