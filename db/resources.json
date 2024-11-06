@@ -1,5 +1,5 @@
 {
-"count": 967,
+"count": 968,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9227,6 +9227,15 @@
         ],
         "description": "Spyder is a free and open source scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It features a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package.",
         "url": "https://www.spyder-ide.org/"
+    },
+    {
+        "name": "Sqlable",
+        "categories": [
+            "Tooling",
+            "Database"
+        ],
+        "description": "Online database tools: SQL formatter and validator, SQL regex tester, fake data generator, and database playgrounds.",
+        "url": "https://sqlable.com/"
     },
     {
         "name": "SQLite",

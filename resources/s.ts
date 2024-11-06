@@ -515,7 +515,8 @@ export const resources: Resource[] = [
     {
         name: 'Sqlable',
         categories: ['Tooling', 'Database'],
-        description: 'Online database tools: SQL formatter and validator, SQL regex tester, fake data generator, and database playgrounds.',
+        description:
+            'Online database tools: SQL formatter and validator, SQL regex tester, fake data generator, and database playgrounds.',
         url: 'https://sqlable.com/',
     },
     {
