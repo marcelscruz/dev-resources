@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'SaaS Boilerplates',
+        description:
+            'SaaSBoilerplates.dev is a curated directory that showcases a wide range of SaaS boilerplates, starter kits, and frameworks to help developers quickly launch their SaaS projects.',
+        categories: ['Productivity', 'Template', 'Startup'],
+        url: 'https://saasboilerplates.dev',
+        keywords: ['boilerplates', 'starter kits', 'frameworks', 'development', 'low code'],
+    },
+    {
         name: 'SaaS Design',
         categories: ['Design', 'Inspiration', 'UI'],
         description:
@@ -29,6 +37,22 @@ export const resources: Resource[] = [
         description:
             'Top-quality illustrations, 100% free - no attribution, no IP-related restrictions. Pick an illustration and customize to your branding using our color picker.',
         url: 'https://2.flexiple.com/scale/all-illustrations',
+    },
+    {
+        name: 'Schedul',
+        categories: ['Marketing', 'Analytics', 'Social Media'],
+        description:
+            'The content publishing & scheduling platform the most exclusive content creators use for Threads: a SaaS to Build and monetize your content on Threads.',
+        url: 'https://www.schedulthreads.com',
+        keywords: ['threads', 'marketing', 'instagram'],
+    },
+    {
+        name: 'Scrapfly',
+        categories: ['Scraping'],
+        description:
+            'Scrapfly is an enterprise-grade solution providing Web Scraping API that aims to simplify the scraping process by managing everything: real browser rendering, rotating proxies, and fingerprints (TLS, HTTP, browser) to bypass all major anti-bots.',
+        url: 'https://scrapfly.io',
+        keywords: ['scraping', 'screenshot', 'proxy', 'webhook', 'headless browser'],
     },
     {
         name: 'ScrapingBee',
@@ -73,6 +97,14 @@ export const resources: Resource[] = [
         url: 'https://www.selenium.dev/',
     },
     {
+        name: 'Seline',
+        categories: ['Analytics'],
+        description:
+            'Seline is a simple & private website and product analytics. Cookieless, lightweight, independent.',
+        url: 'https://seline.so',
+        keywords: ['analytics', 'dashboard', 'funnels', 'visits'],
+    },
+    {
         name: 'Semantic UI',
         categories: ['Library', 'Programming', 'UI'],
         description: 'Semantic empowers designers and developers by creating a shared vocabulary for UI.',
@@ -84,6 +116,13 @@ export const resources: Resource[] = [
         categories: ['SEO'],
         description: 'Cutting-edge SEO tactics that are actually ranking websites.',
         url: 'https://seoblueprint.com/',
+    },
+    {
+        name: 'SEO Gets',
+        categories: ['SEO', 'Marketing'],
+        description:
+            'SEO Get is an alternative to Google Search Console performance reports. Minimalist and simple to use. Get actionable insights in minutes.',
+        url: 'https://seogets.com/',
     },
     {
         name: 'SEO Powersuite',
@@ -115,11 +154,10 @@ export const resources: Resource[] = [
         url: 'https://www.seotisfy.com',
     },
     {
-        name: 'SEO-GO',
-        categories: ['SEO'],
-        description:
-            'Provides everything you need for SEO and easy teamwork on SEO projects, rank higher and increase more traffic to your website.',
-        url: 'https://www.seo-go.top',
+        name: 'SerpApi',
+        categories: ['Scraping'],
+        description: 'SerpApi provides a simple API to scrape Google and other search engines.',
+        url: 'https://serpapi.com/',
     },
     {
         name: 'Serverless Stack',
@@ -160,13 +198,6 @@ export const resources: Resource[] = [
         url: 'https://shape.so/',
     },
     {
-        name: 'Shards React',
-        categories: ['Library', 'Programming', 'UI'],
-        description:
-            'Download Shards React a High-Quality & FREE React UI Kit based on Bootstrap 4 Featuring a Modern Design System and Dozens of Components.',
-        url: 'https://designrevision.com/downloads/shards-react/',
-    },
-    {
         name: 'Shift Nudge',
         categories: ['Design', 'Learn', 'UI'],
         description:
@@ -179,6 +210,22 @@ export const resources: Resource[] = [
         categories: ['Podcast', 'Programming'],
         description: 'A weekly podcast about just building websites from Dave Rupert and Chris Coyier.',
         url: 'https://shoptalkshow.com/',
+    },
+    {
+        name: 'Shortimize',
+        categories: ['Marketing', 'Social Media'],
+        description:
+            'Simplify content management: all your data, metrics, and reports for scalable strategies in one place.',
+        url: 'https://shortimize.com',
+        keywords: ['tiktok', 'instagram', 'track videos', 'discover viral content', 'viral shorts'],
+    },
+    {
+        name: 'Shots',
+        keywords: ['mockup', 'design', 'social', 'marketing'],
+        categories: ['Prototyping', 'Screenshot'],
+        description:
+            'Create amazing mockups with an image, from a website to a product, personalize any aspect of the outcome.',
+        url: 'https://shots.so/',
     },
     {
         name: 'Shutterstock',
@@ -195,7 +242,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Sidebird',
-        categories: ['Twitter'],
+        categories: ['Social Media'],
         description: 'Stop chasing Twitter followers. Get fans.',
         url: 'https://www.sidebird.io/',
     },
@@ -219,6 +266,25 @@ export const resources: Resource[] = [
         description: '1493 Free SVG icons for popular brands.',
         url: 'http://simpleicons.org/',
     },
+    {
+        name: 'SinglebaseCloud',
+        description:
+            'AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.',
+        categories: ['Authentication', 'Database', 'Startup'],
+        url: 'https://singlebase.cloud',
+        keywords: [
+            'developer tools',
+            'database',
+            'backend',
+            'baas',
+            'vectordb',
+            'nosql',
+            'documentdb',
+            'authentication',
+            'ai',
+        ],
+    },
+
     {
         name: 'Site123',
         categories: ['Website Builder'],
@@ -284,6 +350,28 @@ export const resources: Resource[] = [
         description:
             'Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.',
         url: 'https://www.sketch.com/',
+    },
+    {
+        name: 'Skelementor',
+        categories: ['Template', 'UI', 'Design'],
+        description: 'The largest ready-to-use, free Elementor component library',
+        url: 'https://skelementor.com',
+    },
+    {
+        name: 'SkimAI',
+        categories: ['Email', 'AI', 'Startup'],
+        description: 'The ultimate AI copilot for your email inbox',
+        keywords: [
+            'email',
+            'assistant',
+            'skimai',
+            'email copilot',
+            'email ai',
+            'automatic draft',
+            'autoamtic label',
+            'smart inbox',
+        ],
+        url: 'https://skim.page',
     },
     {
         name: 'Slow & Steady',
@@ -391,6 +479,12 @@ export const resources: Resource[] = [
         url: 'https://softwaresocial.dev/',
     },
     {
+        name: 'Softwium',
+        categories: ['Tooling'],
+        description: 'Random data generator supports CSV, JSON, SQL, and XML formats.',
+        url: 'https://softwium.com/mockium/',
+    },
+    {
         name: 'SoloLearn',
         categories: ['Learn', 'Programming'],
         description: 'Join Now to learn the basics or advance your existing skills.',
@@ -417,12 +511,6 @@ export const resources: Resource[] = [
         description:
             "Every creator's one-stop shop for the best royalty free music, SFX, and stock video. Purchase a license for one file, or subscribe for unlimited access.",
         url: 'https://www.soundstripe.com/',
-    },
-    {
-        name: 'Splawr',
-        categories: ['Template'],
-        description: 'Explore the world of our free web templates to kickstart your idea!',
-        url: 'https://splawr.com',
     },
     {
         name: 'Splitbee',
@@ -479,6 +567,14 @@ export const resources: Resource[] = [
         url: 'https://startbootstrap.com/snippets/',
     },
     {
+        name: 'StartKit.AI',
+        description: 'Boilerplate for quickly building AI products',
+        categories: ['AI', 'Productivity', 'Template'],
+        url: 'https://startkit.ai',
+        keywords: ['boilerplate', 'startup', 'starterkit', 'ai'],
+    },
+
+    {
         name: 'Startup Jobs',
         categories: ['Job'],
         description:
@@ -505,6 +601,20 @@ export const resources: Resource[] = [
         description:
             'Edit and animate all our customizable illustrations to enhance your projects totally free. Start now to be creative in our online editor.',
         url: 'https://storyset.com/',
+    },
+    {
+        name: 'StoryChief',
+        categories: ['Marketing', 'AI'],
+        description: 'Create Winning Content Strategies, powered by Data, supercharged by AI',
+        url: 'https://www.storychief.io',
+        keywords: [
+            'SEO',
+            'analytics',
+            'content calendar',
+            'content strategy',
+            'AI copywriting',
+            'content collaboration',
+        ],
     },
     {
         name: 'Streamline Icons',
@@ -534,6 +644,23 @@ export const resources: Resource[] = [
         url: 'https://templatedeck.com/stride-html-template.html',
     },
     {
+        name: 'Stryng',
+        categories: ['Editor', 'SEO', 'Writing'],
+        description:
+            'Stryng is an AI-powered platform designed to improve the process of content creation. It is both an article generator and editor, equipped with an AI Assistant that helps perfecting high-quality articles.',
+        url: 'https://stryng.io',
+
+        keywords: [
+            'seo',
+            'keyword research',
+            'content marketing',
+            'content creation',
+            'content optimization',
+            'copywriting',
+            'article generator',
+        ],
+    },
+    {
         name: 'StyleShout',
         categories: ['Template'],
         description:
@@ -561,6 +688,13 @@ export const resources: Resource[] = [
         url: 'https://ui.supabase.io/',
     },
     {
+        name: 'Supaboost',
+        categories: ['Startup', 'Template'],
+        description:
+            'Supaboost is an all-in-one SaaS Starter Kit, aiming to provide developers with the right tools to save hours of setting up their new application. Supaboost comes readily available with user management, roles and access based on roles, billing/subscriptions, frontend layout and SQL statements to create your a new backend with security today..',
+        url: 'https://www.supaboost.dev',
+    },
+    {
         name: 'supastarter',
         categories: ['Startup', 'Template'],
         description:
@@ -582,6 +716,13 @@ export const resources: Resource[] = [
         description:
             'Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI.',
         url: 'https://surge.sh/',
+    },
+    {
+        name: 'SvelteLaunch',
+        description: 'Svelte 5 Boilerplate for building AI apps quickly',
+        categories: ['AI', 'Startup', 'Template'],
+        url: 'https://sveltelaunch.io',
+        keywords: ['boilerplate', 'svelte', 'development'],
     },
     {
         name: 'SVG Backgrounds',

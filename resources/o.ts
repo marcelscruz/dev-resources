@@ -2,10 +2,31 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Obi Helper',
+        categories: ['AI', 'Productivity'],
+        description: "Simple AI chat widget for small businesses that aren't ready for Intercom-like solutions.",
+        url: 'https://www.obihelper.com/',
+    },
+    {
         name: 'Octotree',
         categories: ['Browser', 'Extension'],
         description: 'GitHub on steroids.',
         url: 'https://www.octotree.io/',
+    },
+    {
+        name: 'Odin A',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Odin AI is a versatile AI tool designed to streamline workflows, enhance productivity, and simplify complex tasks through automation and AI-driven features',
+        url: 'https://getodin.ai/',
+    },
+    {
+        name: 'Odown',
+        categories: ['API Building', 'Remote', 'Website Builder'],
+        description:
+            'Simple website uptime monitoring tool to monitor your websites and APIs combined with public status pages',
+        keywords: ['website monitoring', 'slack', 'webhooks', 'performance'],
+        url: 'https://odown.io/',
     },
     {
         name: 'Offen',
@@ -13,6 +34,19 @@ export const resources: Resource[] = [
         description:
             'Offen is an open alternative to common web analytics tools. Gain insights while your users have full access to their data. Lightweight, self hosted and free.',
         url: 'https://www.offen.dev/',
+    },
+    {
+        name: 'OkJob',
+        categories: ['Job'],
+        description: '4 day Week Job Board',
+        keywords: ['Flexible work schedule', 'Work-life balance', 'Remote work options'],
+        url: 'https://okjob.io/',
+    },
+    {
+        name: 'One.com',
+        categories: ['Domain', 'Hosting', 'Email'],
+        description: 'Web hosting, Domain, Hosting & E-mail',
+        url: 'https://one.com',
     },
     {
         name: 'One Page Love',

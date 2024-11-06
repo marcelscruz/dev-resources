@@ -43,13 +43,6 @@ export const resources: Resource[] = [
         url: 'https://designcode.io/ui-design-for-developers',
     },
     {
-        name: 'UI Garage',
-        categories: ['Design', 'Inspiration', 'UI'],
-        description:
-            'Daily UI inspiration & patterns for designers, developers to find inspiration, tools and the best resources for your project.',
-        url: 'https://uigarage.net/',
-    },
-    {
         name: 'UI HUT',
         categories: ['Design', 'Inspiration', 'UI', 'Icon', 'Illustration'],
         description:
@@ -95,6 +88,14 @@ export const resources: Resource[] = [
         description:
             'UIkit, a lightweight and modular front-end framework for developing fast and powerful web interfaces.',
         url: 'https://getuikit.com/',
+    },
+    {
+        name: 'Ultimate Web Speed',
+        description:
+            'Improve your website performance and SEO in hours not days. Use our tools and compare features, ease of use, and compatibility of resources.',
+        categories: ['SEO', 'Performance'],
+        url: 'https://ultimatewebspeed.com',
+        keywords: ['wordpress', 'cache', 'plugins', 'speed', 'performance', 'seo'],
     },
     {
         name: 'Umbler',
@@ -145,12 +146,6 @@ export const resources: Resource[] = [
         url: 'https://upto.site',
     },
     {
-        name: 'UpLabs',
-        categories: ['Illustration', 'Icon', 'Design', 'Inspiration', 'UI'],
-        description: 'UpLabs curates the best of design & development inspiration, resources and freebies. Every day!',
-        url: 'https://www.uplabs.com/',
-    },
-    {
         name: 'Upstash',
         categories: ['Database'],
         description:
@@ -178,6 +173,13 @@ export const resources: Resource[] = [
         categories: ['Productivity'],
         description: 'A collection of keyboard shortcuts for Mac apps, Windows programs, and a variety of websites.',
         url: 'https://usethekeyboard.com/',
+    },
+    {
+        name: 'UseArticle',
+        categories: ['Blog', 'Marketing', 'SEO'],
+        description: 'UseArticle is the simplest and cheapest blogging platform you will ever need for your business.',
+        url: 'https://usearticle.com/',
+        keywords: ['Blogging platform', 'Blogs', 'SEO'],
     },
     {
         name: 'useHooks',
