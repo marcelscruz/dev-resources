@@ -99,6 +99,14 @@ export const resources: Resource[] = [
         keywords: ['Angular', 'GraphQL', 'Web Development', 'tutorials'],
     },
     {
+        name: 'Decopy AI',
+        description: 'Decopy AI offers a comprehensive platform for detecting AI-generated content in both text and images, as well as verifying the origins of visuals.',
+        categories: ['AI', 'Writing', 'Productivity'],
+        url: 'https://decopy.ai/',
+        keywords: ['business', 'ai detector', 'ai detection', 'education'], 
+    },
+
+    {
         name: 'Default Alive',
         categories: ['Podcast', 'Startup'],
         description:
