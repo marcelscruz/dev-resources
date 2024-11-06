@@ -140,6 +140,18 @@ export const resources: Resource[] = [
         url: 'https://www.fiverr.com/',
     },
     {
+        name: 'FinetuneFast',
+        categories: ['AI', 'Productivity','Programming'],
+        description: 'Finetune ML models in days, not weeks',
+        url: 'https://finetunefast.com',
+        keywords: [
+            'boilerplate',
+            'LLM',
+            'finetuning',
+            'machine learning',
+        ],
+    },
+    {
         name: 'Flaticon',
         categories: ['Icon'],
         description: 'Download all icons in SVG, PSD, PNG, EPS format or as webfonts.',
