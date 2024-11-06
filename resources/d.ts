@@ -381,8 +381,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Droxy AI',
-        description:
-            'Customer facing AI agents for your business',
+        description: 'Customer facing AI agents for your business',
         categories: ['AI', 'Productivity', 'Marketing'],
         url: 'https://www.droxy.ai/',
 
