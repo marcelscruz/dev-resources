@@ -18,6 +18,14 @@ export const resources: Resource[] = [
         url: 'https://www.cakeresume.com/',
     },
     {
+        name: 'CallFast',
+        categories: ['AI', 'Marketing'],
+        description:
+            'Book appointments instantly with AI-powered lead calling',
+        url: 'https://www.callfa.st/',
+        keywords: ['ai', 'marketing', 'appointment booking', 'lead calling'],
+    },
+    {
         name: 'CandyIcons',
         categories: ['Icon'],
         description:
