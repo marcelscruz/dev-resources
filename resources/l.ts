@@ -86,6 +86,14 @@ export const resources: Resource[] = [
         url: 'https://larajobs.com/',
     },
     {
+        name: 'Launching Today',
+        description: 'Launching Today is a  community of entrepreneurs, builders, and dreamers. Discover new products, find inspiration and new ideas, and share your own.',
+        categories: ['Startup', 'Marketing', 'Productivity'],
+        url: 'https://www.launching.today/',
+        keywords: ['directory', 'community'], 
+    },
+
+    {
         name: 'Launch Squad',
         categories: ['Productivity', 'Marketing'],
         description: 'The best Product Hunt alternatives for your next launch.',
