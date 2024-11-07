@@ -113,6 +113,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
     },
     {
+        name: 'AI PPT Maker',
+        description: 'Make your unique PPT with AI online for free.',
+        categories: ['AI', 'Marketing', 'Productivity'],
+        url: 'https://aipptmaker.ai',
+        keywords: ['ai presentation', 'powerpoint tool', 'slides'], 
+    },
+
+    {
         name: 'Airtable',
         categories: ['Database'],
         description:
