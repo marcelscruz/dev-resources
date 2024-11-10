@@ -196,6 +196,14 @@ export const resources: Resource[] = [
         url: 'https://userbooster.co',
     },
     {
+        name: 'Unwatermark',
+        description: 'Easily remove watermarks with advanced AI image recognition technology',
+        categories: ['Design', 'Image', 'Productivity'],
+        url: 'https://unwatermark.ai/',
+        keywords: ['ai', 'watermark remover', 'design tool', 'video enhancer'], 
+    },
+
+    {
         name: 'UXfolio',
         categories: ['Template', 'UX'],
         description:
