@@ -1,5 +1,5 @@
 {
-"count": 968,
+"count": 969,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5463,6 +5463,23 @@
             "interview solver",
             "ai copilot",
             "career"
+        ]
+    },
+    {
+        "name": "InterviewPal",
+        "categories": [
+            "AI",
+            "Job",
+            "Resume"
+        ],
+        "description": "InterviewPal is an AI-powered platform that helps developers and career changers prepare for interviews with personalized simulations and feedback.",
+        "url": "https://interviewpal.com",
+        "keywords": [
+            "Interview Prep",
+            "Job AI",
+            "Resume AI",
+            "interview question",
+            "interview practice"
         ]
     },
     {
