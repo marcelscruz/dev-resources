@@ -179,6 +179,14 @@ export const resources: Resource[] = [
         url: 'https://intersectionobserver.io',
     },
     {
+        name: 'InterviewPal',
+        categories: ['AI', 'Job', 'Resume'],
+        description:
+            'InterviewPal is an AI-powered platform that helps developers and career changers prepare for interviews with personalized simulations and feedback.',
+        url: 'https://interviewpal.com',
+        keywords: ['Interview Prep', 'Job AI', 'Resume AI', 'interview question', 'interview practice'],
+    },
+    {
         name: 'Interview Hammer',
         description: 'Nail your job interview with the your interview AI copilot',
         categories: ['Interview', 'AI'],
