@@ -55,6 +55,7 @@
 ### <a name="ai">AI</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://aiagentstore.ai&sz=128" width="16" /> | [AI Agent Store](https://aiagentstore.ai) | Place where developers showcase their AI Agents for businesses. | ai, artificial intelligence, developer, ai agent, marketplace, store |
  <img src="https://www.google.com/s2/favicons?domain=https://aidirectori.es/&sz=128" width="16" /> | [AI Directories](https://aidirectori.es/) | All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories | ai, artificial intelligence, promote, directory, traffic |
  <img src="https://www.google.com/s2/favicons?domain=https://aijobs.app&sz=128" width="16" /> | [AI Jobs](https://aijobs.app) | Find all AI (Artificial Intelligence) jobs in one place. | ai, artificial intelligence, remote, jobs, developer |
  <img src="https://www.google.com/s2/favicons?domain=https://ai-text-humanizer.com/&sz=128" width="16" /> | [AI-Text-Humanizer](https://ai-text-humanizer.com/) | Transform dull AI-generated text into easy-to-read copy and sound like a real person |  |
