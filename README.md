@@ -1728,6 +1728,7 @@
 ### <a name="startup">Startup</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://achromatic.dev&sz=128" width="16" /> | [Achromatic](https://achromatic.dev) | Building your SaaS just got unfairly easy. Skip the noise and focus on your business with the best advanced Next.js SaaS starter kit on the market. | saas, starter kit, boilerplate, next.js, shadcn, next-auth, prisma |
  <img src="https://www.google.com/s2/favicons?domain=https://www.add3.io/&sz=128" width="16" /> | [Add3](https://www.add3.io/) | EVM smart contract creation and management for web3 projects - Use Add3 to deploy your smart contracts or dApp project in minutes. Signup today! | crypto, cryptocurrency, web3, no-code, smart contract, token minting, create token, vesting contract... |
  <img src="https://www.google.com/s2/favicons?domain=https://bootstrapped.fm/&sz=128" width="16" /> | [Bootstrapped](https://bootstrapped.fm/) | Listen to 100+ helpful podcast episodes for software bootstrappers. Interviews with experts, open discussions between bootstrappers, and solo episodes, with one person digging deeply into a topic. |  |
  <img src="https://www.google.com/s2/favicons?domain=http://bootstrappedweb.com/&sz=128" width="16" /> | [Bootstrapped Web](http://bootstrappedweb.com/) | The podcast for founders bootstrapping their startups online. |  |
@@ -1774,6 +1775,7 @@
 ### <a name="template">Template</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://achromatic.dev&sz=128" width="16" /> | [Achromatic](https://achromatic.dev) | Building your SaaS just got unfairly easy. Skip the noise and focus on your business with the best advanced Next.js SaaS starter kit on the market. | saas, starter kit, boilerplate, next.js, shadcn, next-auth, prisma |
  <img src="https://www.google.com/s2/favicons?domain=https://adminmart.com/&sz=128" width="16" /> | [AdminMart](https://adminmart.com/) | The Best Free and Premium Admin Templates by AdminMart. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://apparencekit.dev/&sz=128" width="16" /> | [ApparenceKit](https://apparencekit.dev/) | A flutter template to create iOS, Android and web app in days. Generate all the common boilerplate code and customize the design to fit your brand.  |  |
  <img src="https://www.google.com/s2/favicons?domain=https://github.com/codedthemes/berry-free-react-admin-template/&sz=128" width="16" /> | [Berry Free React Material Admin Template](https://github.com/codedthemes/berry-free-react-admin-template/) | Berry is a creative free React admin template build using the Material-UI. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React... |  |

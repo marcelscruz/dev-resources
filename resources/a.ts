@@ -41,15 +41,7 @@ export const resources: Resource[] = [
         description:
             'Building your SaaS just got unfairly easy. Skip the noise and focus on your business with the best advanced Next.js SaaS starter kit on the market.',
         url: 'https://achromatic.dev',
-        keywords: [
-            'saas',
-            'starter kit',
-            'boilerplate',
-            'next.js',
-            'shadcn',
-            'next-auth',
-            'prisma',
-        ],
+        keywords: ['saas', 'starter kit', 'boilerplate', 'next.js', 'shadcn', 'next-auth', 'prisma'],
     },
     {
         name: 'Add3',
