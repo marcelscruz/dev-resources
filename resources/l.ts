@@ -87,10 +87,11 @@ export const resources: Resource[] = [
     },
     {
         name: 'Launching Today',
-        description: 'Launching Today is a  community of entrepreneurs, builders, and dreamers. Discover new products, find inspiration and new ideas, and share your own.',
+        description:
+            'Launching Today is a  community of entrepreneurs, builders, and dreamers. Discover new products, find inspiration and new ideas, and share your own.',
         categories: ['Startup', 'Marketing', 'Productivity'],
         url: 'https://www.launching.today/',
-        keywords: ['directory', 'community'], 
+        keywords: ['directory', 'community'],
     },
 
     {

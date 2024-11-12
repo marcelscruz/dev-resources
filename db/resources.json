@@ -1,5 +1,5 @@
 {
-"count": 971,
+"count": 972,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6038,6 +6038,20 @@
             "Project Management"
         ],
         "url": "https://www.launchsquad.club"
+    },
+    {
+        "name": "Launching Today",
+        "description": "Launching Today is a  community of entrepreneurs, builders, and dreamers. Discover new products, find inspiration and new ideas, and share your own.",
+        "categories": [
+            "Startup",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://www.launching.today/",
+        "keywords": [
+            "directory",
+            "community"
+        ]
     },
     {
         "name": "Layoutit Grid",
