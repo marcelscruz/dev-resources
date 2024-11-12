@@ -82,6 +82,13 @@ export const resources: Resource[] = [
         url: 'https://ahrefs.com/',
     },
     {
+        name: 'AI Agent Store',
+        categories: ['AI'],
+        description: 'Place where developers showcase their AI Agents for businesses.',
+        keywords: ['ai', 'artificial intelligence', 'developer', 'ai agent', 'marketplace', 'store'],
+        url: 'https://aiagentstore.ai',
+    },
+    {
         name: 'AI Jobs',
         categories: ['AI', 'Job'],
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
