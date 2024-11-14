@@ -388,6 +388,13 @@ export const resources: Resource[] = [
         keywords: ['Agents', 'Customer Support', 'Chatbots'],
     },
     {
+        name: 'DROP',
+        description: 'DROP is a simple way to share and host your work, showcase like an artist. The best alternative to WeTransfer.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://drop.space/',
+        keywords: ['file sharing', 'file transfer', 'file hosting'],
+    },
+    {
         name: 'dygraphs',
         categories: ['Programming'],
         description:
