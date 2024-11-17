@@ -118,6 +118,17 @@ export const resources: Resource[] = [
             'developer',
         ],
         url: 'https://aijobs.net',
+    },{
+        name: 'AI Jobster',
+        categories: ['Jobs', 'AI Jobs'],
+        description: 'Find jobs openings at AI companies
+        keywords: [
+            'Software Jobs',
+            'Legal Jobs',
+            'Remote AI Jobs',
+            'Legal Jobs'            
+        ],
+        url: 'https://aijobster.work',
     },
     {
         name: 'AI Directories',
