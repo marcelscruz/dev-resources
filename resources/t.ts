@@ -447,6 +447,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Truelist',
+        description: 'Truelist is a subscription-based email verification platform that provides unlimited email validation for sales and marketing lists.',
+        categories: ['Email', 'Marketing', 'Productivity'],
+        url: 'https://truelist.io/',
+        keywords: ['developer tool', 'email validation', 'sales prospecting', 'email deliverability'], 
+    },
+
+    {
         name: 'Tweet Detective',
         categories: ['Social Media', 'AI'],
         description:
