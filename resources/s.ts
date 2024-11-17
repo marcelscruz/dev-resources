@@ -725,6 +725,14 @@ export const resources: Resource[] = [
         url: 'https://surge.sh/',
     },
     {
+        name: 'Social Intents',
+        categories: ['AI', "Productivity", "Marketing"],
+        description:
+            'Live Chat by Social Intents is the easiest way to boost sales and improve customer service',
+        url: 'https://www.socialintents.com/',
+        keywords: ['live chat', 'ai', 'sales', 'customer service'],
+    },
+    {
         name: 'SvelteLaunch',
         description: 'Svelte 5 Boilerplate for building AI apps quickly',
         categories: ['AI', 'Startup', 'Template'],
