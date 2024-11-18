@@ -18,6 +18,14 @@ export const resources: Resource[] = [
         url: 'https://www.cakeresume.com/',
     },
     {
+    name: 'Callstack.ai Code Reviewer',
+    description:
+        'Effortless Code Reviews: Find Bugs, Fix Security Issues, and Speed Up Performance.',
+    categories: ['AI', 'Code Review'],
+    url: 'https://callstack.ai',
+    keywords: ['github-integration', 'gitlab-integration', 'pull-requests', 'AI', 'ai-powered', 'code-review'],
+    },
+    {
         name: 'CandyIcons',
         categories: ['Icon'],
         description:
