@@ -305,6 +305,14 @@ export const resources: Resource[] = [
         url: 'https://www.resume-now.com/',
     },
     {
+        name: 'Retext',
+        description: 'Retext is a macOS app to use text snippets across any app or browser.',
+        categories: ['Startup', 'Productivity'],
+        url: 'https://www.retext.io/',
+        keywords: ['text expander', 'desktop app', 'macos app', 'text snippets'], 
+    },
+
+    {
         name: 'Retool',
         categories: ['API Building', 'Productivity'],
         description:
