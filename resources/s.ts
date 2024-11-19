@@ -205,6 +205,21 @@ export const resources: Resource[] = [
         url: 'https://shiftnudge.com/',
     },
     {
+        name: 'ShipFast',
+        categories: ['Productivity', 'Template', 'Website Builder'],
+        description:
+            'The NextJS boilerplate with all you need to build your SaaS, AI tool, or any other web app and make your first $ online fast.',
+        url: 'https://shipfa.st',
+        keywords: ['ShipFast', 'NextJS boilerplate', 'NextJS starter', 'NextJS template', 'NextJS', 'ReactJS'],
+    },
+    {
+        name: 'Shipped',
+        categories: ['Productivity', 'Template', 'Website Builder'],
+        description:
+            'he Next.js Startup Boilerplate for busy founders, with all you need to build and launch your startup soon.',
+        url: 'https://shipped.club',
+    },
+    {
         name: 'ShopTalkShow',
         keywords: ['product', 'apps'],
         categories: ['Podcast', 'Programming'],
