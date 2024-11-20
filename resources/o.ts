@@ -49,6 +49,13 @@ export const resources: Resource[] = [
         url: 'https://one.com',
     },
     {
+        name: 'Omnigen',
+        categories: ['Marketing','AI','Productivity'],
+        description: 'Marketing and growth platform focused on outreach',
+        url: 'https://omnigen.co',
+        keywords: ['Marketing', 'AI', 'Productivity', 'Outreach', 'Growth', 'Influencers'],
+    },
+    {
         name: 'One Page Love',
         categories: ['Design', 'Inspiration', 'UI'],
         description:
