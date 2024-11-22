@@ -1,16 +1,16 @@
 <!--🛑 👉 This README file and the /db folder are auto-generated, so please DON'T edit them. Changes related to resources should happen in the /resources folder. --> 
 
- <div align="center">
-    <div>
-        <p align="center"><a href="https://devresourc.es?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dev-resources.png" width="300px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="300px"><img alt="Scrapfly logo" src="./assets/dev-resources.png" width="300px"></picture></a>
-        </p>
-        <p align="center"><a href="https://devresourc.es?ref=dev_resources&utm_medium=repo_readme">Dev Resources</a> — A collaborative list of resources for developers.</p>
-    </div>
-</div> <br/><hr/><br/> 
-    <div align="center">Sponsored by</div> 
+ <div align="center">Sponsored by</div> 
     <br/>
     <div>
-    <p align="center"><a href="https://scrapfly.io?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/scrapfly-dark-mode.svg"         width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="180px"><img alt="Scrapfly logo" src="./assets/scrapfly-dark-mode.svg" width="180px"></picture></a></p>
+    <p align="center"><a href="https://shipped.club?ref=dev_resources&utm_medium=repo_readme"><picture><img alt="Shipped.club logo" src="./assets/shipped.svg" width="220px"></picture></a></p>
+    <p align="center"><a href="https://shipped.club?ref=dev_resources&utm_medium=repo_readme">Shipped.club</a> — The #1 Next.js SaaS Kit for busy founders. Build and ship your startup in days, not months, and make money online.</p>
+</div>
+    <br/>
+    <hr/>
+    <br/>
+    <div>
+    <p align="center"><a href="https://scrapfly.io?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/scrapfly-dark-mode.svg"         width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="150px"><img alt="Scrapfly logo" src="./assets/scrapfly-dark-mode.svg" width="150px"></picture></a></p>
     <p align="center"><a href="https://scrapfly.io?ref=dev_resources&utm_medium=repo_readme">Scrapfly</a> offers a top-tier Web Scraping API that simplifies scraping by handling real browser rendering, rotating proxies, and various fingerprints to overcome major anti-bot measures.</p>
 </div>
  <br/><hr/><br/><br/> <div align="center">
