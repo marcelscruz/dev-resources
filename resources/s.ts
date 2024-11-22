@@ -216,7 +216,7 @@ export const resources: Resource[] = [
         name: 'Shipped',
         categories: ['Productivity', 'Template', 'Website Builder'],
         description:
-            'The Next.js startup boilerplate for busy founders, with all you need to build and launch your startup soon.',
+            'The #1 Next.js SaaS Kit for busy founders. Build and ship your startup in days, not months, and make money online.',
         url: 'https://shipped.club',
     },
     {
