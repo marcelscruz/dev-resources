@@ -213,7 +213,7 @@ export const resources: Resource[] = [
         keywords: ['ShipFast', 'NextJS boilerplate', 'NextJS starter', 'NextJS template', 'NextJS', 'ReactJS'],
     },
     {
-        name: 'Shipped',
+        name: 'Shipped.club',
         categories: ['Productivity', 'Template', 'Website Builder'],
         description:
             'The #1 Next.js SaaS Kit for busy founders. Build and ship your startup in days, not months, and make money online.',
