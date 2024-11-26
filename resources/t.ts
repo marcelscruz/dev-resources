@@ -173,7 +173,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Testimonial Donut',
-        categories: ['AI', 'Marketing'],
+        categories: ['Marketing'],
         description:
             'Testimonial collection so bloody easy, your gran can use it!',
         url: 'https://www.testimonialdonut.com/',
