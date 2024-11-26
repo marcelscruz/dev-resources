@@ -43,6 +43,13 @@ export const resources: Resource[] = [
         url: 'https://okjob.io/',
     },
     {
+        name: 'Omnigen',
+        categories: ['Marketing','AI','Productivity'],
+        description: 'Marketing and growth platform focused on outreach',
+        url: 'https://omnigen.co',
+        keywords: ['Marketing', 'AI', 'Productivity', 'Outreach', 'Growth', 'Influencers'],
+    },
+    {
         name: 'One.com',
         categories: ['Domain', 'Hosting', 'Email'],
         description: 'Web hosting, Domain, Hosting & E-mail',
