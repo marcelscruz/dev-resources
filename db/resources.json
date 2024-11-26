@@ -1,5 +1,5 @@
 {
-"count": 977,
+"count": 978,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8522,6 +8522,21 @@
         "description": "Replay the steps of your changes at ease. A diff based typing simulator.",
         "url": "https://github.com/antfu/retypewriter",
         "keywords": []
+    },
+    {
+        "name": "Revyou",
+        "categories": [
+            "AI",
+            "Marketing"
+        ],
+        "description": "Turn your reviews into a lead magnet",
+        "url": "https://www.revyou.me/",
+        "keywords": [
+            "ai",
+            "marketing",
+            "lead magnet",
+            "reviews"
+        ]
     },
     {
         "name": "Rick Blyth",
