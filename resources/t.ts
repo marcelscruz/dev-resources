@@ -172,6 +172,14 @@ export const resources: Resource[] = [
         keywords: ['developer tools', 'debugging', 'engineering'],
     },
     {
+        name: 'Testimonial Donut',
+        categories: ['Marketing'],
+        description:
+            'Testimonial collection so bloody easy, your gran can use it!',
+        url: 'https://www.testimonialdonut.com/',
+        keywords: ['ai', 'marketing', 'testimonial', 'lead magnet'],
+    },
+    {
         name: 'Themeselection',
         categories: ['Template'],
         description:
