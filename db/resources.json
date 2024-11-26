@@ -1,5 +1,5 @@
 {
-"count": 975,
+"count": 976,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8459,6 +8459,21 @@
         ],
         "description": "Helping millions of job-seekers worldwide create amazing professional resumes in minutes!",
         "url": "https://resume.io"
+    },
+    {
+        "name": "ResumeBoostAI",
+        "categories": [
+            "Resume",
+            "AI"
+        ],
+        "description": "Create a professional resume using AI.",
+        "url": "https://www.resumeboostai.com/",
+        "keywords": [
+            "resume",
+            "builder",
+            "ai",
+            "cv"
+        ]
     },
     {
         "name": "ResumeDive",

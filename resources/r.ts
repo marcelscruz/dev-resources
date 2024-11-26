@@ -272,8 +272,7 @@ export const resources: Resource[] = [
     {
         name: 'ResumeBoostAI',
         categories: ['Resume', 'AI'],
-        description:
-            'Create a professional resume using AI.',
+        description: 'Create a professional resume using AI.',
         url: 'https://www.resumeboostai.com/',
         keywords: ['resume', 'builder', 'ai', 'cv'],
     },
