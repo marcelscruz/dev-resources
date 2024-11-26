@@ -29,6 +29,14 @@ export const resources: Resource[] = [
         url: 'https://a11yweekly.com/',
     },
     {
+        name: 'aaask',
+        categories: ['AI', 'Productivity'],
+        description:
+            'aaask is the best way to collect feedback from your team on autopilot',
+        url: 'https://www.aaask.com/',
+        keywords: ['ai', 'productivity', 'feedback', 'team', 'autopilot'],
+    },
+    {
         name: 'Accessible Color Generator',
         categories: ['Accessibility', 'Color'],
         description:
