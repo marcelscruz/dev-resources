@@ -140,6 +140,13 @@ export const resources: Resource[] = [
         url: 'https://www.fiverr.com/',
     },
     {
+        name: 'Fiks',
+        categories: ['Freelance'],
+        description: 'Find the Perfect Internship or Job via WhatsApp',
+        url: 'https://fiks.nl/',
+        keywords: ['internship', 'job', 'whatsapp'],
+    },
+    {
         name: 'FinetuneFast',
         categories: ['AI', 'Productivity', 'Programming'],
         description: 'Finetune ML models in days, not weeks',
