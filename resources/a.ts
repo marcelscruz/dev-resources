@@ -31,8 +31,7 @@ export const resources: Resource[] = [
     {
         name: 'aaask',
         categories: ['AI', 'Productivity'],
-        description:
-            'aaask is the best way to collect feedback from your team on autopilot',
+        description: 'aaask is the best way to collect feedback from your team on autopilot',
         url: 'https://www.aaask.com/',
         keywords: ['ai', 'productivity', 'feedback', 'team', 'autopilot'],
     },

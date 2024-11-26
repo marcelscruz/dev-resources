@@ -1,5 +1,5 @@
 {
-"count": 976,
+"count": 977,
 "data": [
     {
         "name": "1001 Fonts",
@@ -122,6 +122,22 @@
         ],
         "description": "A weekly dose of web accessibility to help you bring it into your every day work.",
         "url": "https://a11yweekly.com/"
+    },
+    {
+        "name": "aaask",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "aaask is the best way to collect feedback from your team on autopilot",
+        "url": "https://www.aaask.com/",
+        "keywords": [
+            "ai",
+            "productivity",
+            "feedback",
+            "team",
+            "autopilot"
+        ]
     },
     {
         "name": "Accessible Color Generator",

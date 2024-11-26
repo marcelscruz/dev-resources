@@ -55,6 +55,7 @@
 ### <a name="ai">AI</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://www.aaask.com/&sz=128" width="16" /> | [aaask](https://www.aaask.com/) | aaask is the best way to collect feedback from your team on autopilot | ai, productivity, feedback, team, autopilot |
  <img src="https://www.google.com/s2/favicons?domain=https://aiagentstore.ai&sz=128" width="16" /> | [AI Agent Store](https://aiagentstore.ai) | Place where developers showcase their AI Agents for businesses. | ai, artificial intelligence, developer, ai agent, marketplace, store |
  <img src="https://www.google.com/s2/favicons?domain=https://aidirectori.es/&sz=128" width="16" /> | [AI Directories](https://aidirectori.es/) | All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories | ai, artificial intelligence, promote, directory, traffic |
  <img src="https://www.google.com/s2/favicons?domain=https://aijobs.app&sz=128" width="16" /> | [AI Jobs](https://aijobs.app) | Find all AI (Artificial Intelligence) jobs in one place. | ai, artificial intelligence, remote, jobs, developer |
@@ -1294,6 +1295,7 @@
 ### <a name="productivity">Productivity</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://www.aaask.com/&sz=128" width="16" /> | [aaask](https://www.aaask.com/) | aaask is the best way to collect feedback from your team on autopilot | ai, productivity, feedback, team, autopilot |
  <img src="https://www.google.com/s2/favicons?domain=https://ai-text-humanizer.com/&sz=128" width="16" /> | [AI-Text-Humanizer](https://ai-text-humanizer.com/) | Transform dull AI-generated text into easy-to-read copy and sound like a real person |  |
  <img src="https://www.google.com/s2/favicons?domain=https://anotherwrapper.com&sz=128" width="16" /> | [AnotherWrapper](https://anotherwrapper.com) | 10+ customizable AI demo apps: pick one, make it yours, launch your startup quickly and start making money |  |
  <img src="https://www.google.com/s2/favicons?domain=https://aptakube.com&sz=128" width="16" /> | [Aptakube](https://aptakube.com) | Modern, lightweight and multi-cluster Kubernetes desktop client. Available on Windows, macOS and Linux. | kubernetes |
