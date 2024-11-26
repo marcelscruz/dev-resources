@@ -87,6 +87,15 @@ export const resources: Resource[] = [
         url: 'https://github.com/codedthemes/berry-free-react-admin-template/',
     },
     {
+        name: 'Best Directories',
+        categories: ['Tooling', 'SEO'],
+        description:
+            'Discover the best directories in BestDirectories and launch your product with ease.',
+        url: 'https://bestdirectories.org/',
+        keywords: ['directory', 'tools', 'development']
+    },
+    
+    {
         name: 'BetaList',
         categories: ['Marketing'],
         description:
