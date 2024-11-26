@@ -104,6 +104,13 @@ export const resources: Resource[] = [
         url: 'https://aiagentstore.ai',
     },
     {
+        name: 'AI Best Tools',
+        categories: ['AI', 'Tooling'],
+        description: 'Discover the best AI tools in AIBest.tools',
+        keywords: ['ai', 'ai tools directory', 'developer tools', 'tools', 'ai tools', 'directory'],
+        url: 'https://aibest.tools',
+    },
+    {
         name: 'AI Jobs',
         categories: ['AI', 'Job'],
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
