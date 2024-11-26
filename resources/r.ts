@@ -319,6 +319,13 @@ export const resources: Resource[] = [
         url: 'https://retool.com/',
     },
     {
+        name: 'Revyou',
+        categories: ['AI', 'Marketing'],
+        description: 'Turn your reviews into a lead magnet',
+        url: 'https://www.revyou.me/',
+        keywords: ['ai', 'marketing', 'lead magnet', 'reviews'],
+    },
+    {
         name: 'reTypewriter',
         categories: ['Typing'],
         description: 'Replay the steps of your changes at ease. A diff based typing simulator.',
