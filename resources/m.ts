@@ -359,4 +359,11 @@ export const resources: Resource[] = [
             'Most Powerful & Comprehensive Open Source and Free MUI React NextJS Admin Dashboard Template built for developers.',
         url: 'https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free',
     },
+    {
+        name: 'Mkdirs',
+        categories: ['Tooling','Code Generator', 'Productivity'],
+        description: 'Launch profitable directory website in minutes',
+        url: 'https://mkdirs.com',
+        keywords: ['directory', 'website', 'profitable', 'minutes', 'boilerplate'],
+    },
 ]
