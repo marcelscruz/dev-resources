@@ -251,6 +251,14 @@ export const resources: Resource[] = [
         url: 'https://blogbud.ai/',
     },
     {
+        name: 'BoilerplateHub',
+        categories: ['Productivity', 'Template', 'Startup'],
+        description:
+            'Save weeks of setup time with production-ready boilerplates, templates and starter kits for SaaS, web and mobile applications. Carefully vetted and maintained by developers.',
+        url: 'https://boilerplatehub.com/',
+        keywords: ['boilerplates', 'starter kits', 'frameworks', 'development', 'low code'],
+    },
+    {
         name: 'Bootify',
         categories: ['Code Generator'],
         description:
