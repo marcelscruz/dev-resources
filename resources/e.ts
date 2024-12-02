@@ -71,6 +71,14 @@ export const resources: Resource[] = [
         url: 'https://ecomm.design/',
     },
     {
+        name: 'EchoWave',
+        description: 'Echowave is an online video editor that allows users to edit videos directly in their web browser without any software installation.',
+        categories: ['Video', 'Productivity'],
+        url: 'https://echowave.io/',
+        keywords: ['video editor', 'ai subtitles', 'content'], 
+    },
+
+    {
         name: 'Edabit',
         categories: ['Code Challenge'],
         description:
