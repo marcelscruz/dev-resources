@@ -305,6 +305,7 @@ export const resources: Resource[] = [
         categories: ['Analytics', 'Marketing', 'Personal Website'],
         description: 'A better interface for Google Analytics',
         url: 'https://linito.io/',
+        keywords: ['Google Analytics', 'Analytics', 'web analytics', 'website analytics'],
     },
     {
         name: 'LinkedIn Learning',
