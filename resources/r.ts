@@ -31,6 +31,14 @@ export const resources: Resource[] = [
         url: 'https://www.ratatype.com/',
     },
     {
+        name: 'Random Color',
+        categories: ['Color'],
+        description:
+            'Simple tool to generate a random color.',
+        url: 'https://randomcolor.com/',
+        keywords: ['random color', 'color generator'],
+    },
+    {
         name: 'Raycast',
         categories: ['Productivity'],
         description:
