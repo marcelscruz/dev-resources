@@ -338,6 +338,14 @@ export const resources: Resource[] = [
         url: 'https://www.linode.com/',
     },
     {
+        name: 'Lisapet.ai',
+        description: 'Lisapet.ai is the next-level AI product development platform that empowers teams to prototype, test, and ship robust AI features 10x faster.',
+        categories: ['AI', 'Testing', 'Productivity'],
+        url: 'https://www.lisapet.ai/',
+        keywords: ['ai prompt testing', 'ai prompt evaluation', 'prompt engineering', 'llm evaluation'], 
+    },
+
+    {
         name: 'Lite Analytics',
         categories: ['Analytics'],
         description:
