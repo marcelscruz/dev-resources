@@ -656,6 +656,13 @@ export const resources: Resource[] = [
         url: 'https://www.startupsfortherestofus.com/',
     },
     {
+        name: 'Startups Gallery',
+        description:
+            'A gallery of outstanding early-stage companies, fresh jobs and funding news curated in one place.',
+        categories: ['Learn', 'Job', 'Remote'],
+        url: 'https://startups.gallery/',
+    },
+    {
         name: 'Stormkit',
         categories: ['Hosting'],
         description:
