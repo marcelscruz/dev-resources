@@ -285,6 +285,13 @@ export const resources: Resource[] = [
         url: 'https://www.humaaans.com/',
     },
     {
+        name: 'Humanize AI',
+        categories: ['AI', 'Productivity', 'Writing'],
+        description: 'Humanize AI is a cutting-edge tool that transforms robotic, AI-generated text into authentic, human-like writing.',
+        url: 'https://humanizeaitext.ai/',
+        keywords: ['ai', 'writing', 'human', 'text'],
+    },
+    {
         name: 'Hypertune',
         categories: ['Analytics', 'Tooling', 'Productivity'],
         description:
