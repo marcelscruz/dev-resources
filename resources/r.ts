@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'RabbitHoles AI',
+        description: 'RabbitHoles AI is an application designed to transform AI interactions by providing an infinite canvas where each node represents a separate conversation.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://www.rabbitholes.ai/',
+        keywords: ['ai chatbot', 'ai research', 'ai learning', 'education'], 
+    },
+
+    {
         name: 'Radix',
         categories: ['Icon', 'UI', 'Design', 'Color'],
         description: 'Components, icons, and colors for building high‑quality, accessible UI. Free and open-source.',
