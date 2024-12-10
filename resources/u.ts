@@ -90,6 +90,13 @@ export const resources: Resource[] = [
         url: 'https://getuikit.com/',
     },
     {
+        name: 'Uiverse',
+        categories: ['Design', 'Inspiration', 'UI', 'Illustration'],
+        description:
+            'Community-made library of free and customizable UI elements made with CSS or Tailwind. It\'s all free to copy and use in your projects.',
+        url: 'https://uiverse.io/',
+    },
+    {
         name: 'Ultimate Web Speed',
         description:
             'Improve your website performance and SEO in hours not days. Use our tools and compare features, ease of use, and compatibility of resources.',
