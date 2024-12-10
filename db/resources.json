@@ -1,5 +1,5 @@
 {
-"count": 980,
+"count": 981,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3104,6 +3104,20 @@
         ],
         "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
         "url": "https://dribbble.com/"
+    },
+    {
+        "name": "DROP",
+        "description": "DROP is a simple way to share and host your work, showcase like an artist. The best alternative to WeTransfer.",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "url": "https://drop.space/",
+        "keywords": [
+            "file sharing",
+            "file transfer",
+            "file hosting"
+        ]
     },
     {
         "name": "Droxy AI",
