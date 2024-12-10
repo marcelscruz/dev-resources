@@ -943,6 +943,7 @@
 |---|---|---|---|
  <img src="https://www.google.com/s2/favicons?domain=https://4dayweek.io/&sz=128" width="16" /> | [4 day week](https://4dayweek.io/) | Software jobs with a better work / life balance. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://aijobs.app&sz=128" width="16" /> | [AI Jobs](https://aijobs.app) | Find all AI (Artificial Intelligence) jobs in one place. | ai, artificial intelligence, remote, jobs, developer |
+ <img src="https://www.google.com/s2/favicons?domain=https://aijobster.work&sz=128" width="16" /> | [AI Jobster](https://aijobster.work) | Find jobs openings at AI companies | Software Jobs, Legal Jobs, Remote AI Jobs, Legal Jobs |
  <img src="https://www.google.com/s2/favicons?domain=https://aijobs.net&sz=128" width="16" /> | [aijobs.net](https://aijobs.net) | Find jobs and talents in AI, Machine Learning, Data Science and Big Data. | ai, artificial intelligence, career, data science, machine learning, remote, jobs, developer |
  <img src="https://www.google.com/s2/favicons?domain=https://authenticjobs.com/&sz=128" width="16" /> | [Authentic Jobs](https://authenticjobs.com/) | The leading job board for designers, developers, and creative pros. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://bilingualjobs.io&sz=128" width="16" /> | [BilingualJobs.io](https://bilingualjobs.io) | The world's first bilingual job board. Find bilingual talent faster, or stand out as a bilingual. | bilingual, bilinguals, bilingual jobs, remote work, remote jobs, bilingual job, bilingual talent, jo... |

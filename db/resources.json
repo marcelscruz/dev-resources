@@ -1,5 +1,5 @@
 {
-"count": 983,
+"count": 984,
 "data": [
     {
         "name": "1001 Fonts",
@@ -286,6 +286,20 @@
             "developer"
         ],
         "url": "https://aijobs.app"
+    },
+    {
+        "name": "AI Jobster",
+        "categories": [
+            "Job"
+        ],
+        "description": "Find jobs openings at AI companies",
+        "keywords": [
+            "Software Jobs",
+            "Legal Jobs",
+            "Remote AI Jobs",
+            "Legal Jobs"
+        ],
+        "url": "https://aijobster.work"
     },
     {
         "name": "AI-Text-Humanizer",
