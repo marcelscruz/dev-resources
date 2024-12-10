@@ -89,12 +89,11 @@ export const resources: Resource[] = [
     {
         name: 'Best Directories',
         categories: ['Tooling', 'SEO'],
-        description:
-            'Discover the best directories in BestDirectories and launch your product with ease.',
+        description: 'Discover the best directories in BestDirectories and launch your product with ease.',
         url: 'https://bestdirectories.org/',
-        keywords: ['directory', 'tools', 'development']
+        keywords: ['directory', 'tools', 'development'],
     },
-    
+
     {
         name: 'BetaList',
         categories: ['Marketing'],

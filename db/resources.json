@@ -1,5 +1,5 @@
 {
-"count": 984,
+"count": 985,
 "data": [
     {
         "name": "1001 Fonts",
@@ -764,6 +764,20 @@
         ],
         "description": "Berry is a creative free React admin template build using the Material-UI. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptops.",
         "url": "https://github.com/codedthemes/berry-free-react-admin-template/"
+    },
+    {
+        "name": "Best Directories",
+        "categories": [
+            "Tooling",
+            "SEO"
+        ],
+        "description": "Discover the best directories in BestDirectories and launch your product with ease.",
+        "url": "https://bestdirectories.org/",
+        "keywords": [
+            "directory",
+            "tools",
+            "development"
+        ]
     },
     {
         "name": "BetaList",
