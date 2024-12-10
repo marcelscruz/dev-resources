@@ -138,10 +138,11 @@ export const resources: Resource[] = [
     },
     {
         name: 'BigSpy',
-        description: 'BigSpy is a powerful advertising intelligence monitoring tool. Its database covers the nine most mainstream platforms on the market and has more than one billion advertising data.',
-        categories: ['Database', 'Marketing', 'Productivity'],
+        description:
+            'BigSpy is a powerful advertising intelligence monitoring tool. Its database covers the nine most mainstream platforms on the market and has more than one billion advertising data.',
+        categories: ['Marketing'],
         url: 'https://bigspy.com/',
-        keywords: ['advertising', 'ecommerce', 'ad intelligence tool', 'competitor research'], 
+        keywords: ['advertising', 'ecommerce', 'ad intelligence tool', 'competitor research'],
     },
     {
         name: 'BilingualJobs.io',
