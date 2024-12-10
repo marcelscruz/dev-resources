@@ -361,7 +361,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Mkdirs',
-        categories: ['Tooling','Code Generator', 'Productivity'],
+        categories: ['Tooling', 'Code Generator', 'Productivity'],
         description: 'Launch profitable directory website in minutes',
         url: 'https://mkdirs.com',
         keywords: ['directory', 'website', 'profitable', 'minutes', 'boilerplate'],
