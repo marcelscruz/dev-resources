@@ -640,7 +640,14 @@ export const resources: Resource[] = [
         url: 'https://startkit.ai',
         keywords: ['boilerplate', 'startup', 'starterkit', 'ai'],
     },
-
+    {
+        name: 'StartupBolt',
+        description:
+            'A Next.js boilerplate to launch SaaS quickly with features like database, authentication, SEO, payments, and more.',
+        categories: ['Startup', 'Template'],
+        url: 'https://www.startupbolt.com',
+        keywords: ['boilerplate', 'Next.js', 'SaaS', 'starterkit'], 
+    },
     {
         name: 'Startup Jobs',
         categories: ['Job'],
