@@ -57,6 +57,7 @@
 |---|---|---|---|
  <img src="https://www.google.com/s2/favicons?domain=https://www.aaask.com/&sz=128" width="16" /> | [aaask](https://www.aaask.com/) | aaask is the best way to collect feedback from your team on autopilot | ai, productivity, feedback, team, autopilot |
  <img src="https://www.google.com/s2/favicons?domain=https://aiagentstore.ai&sz=128" width="16" /> | [AI Agent Store](https://aiagentstore.ai) | Place where developers showcase their AI Agents for businesses. | ai, artificial intelligence, developer, ai agent, marketplace, store |
+ <img src="https://www.google.com/s2/favicons?domain=https://aibest.tools&sz=128" width="16" /> | [AI Best Tools](https://aibest.tools) | Discover the best AI tools in AIBest.tools | ai, ai tools directory, developer tools, tools, ai tools, directory |
  <img src="https://www.google.com/s2/favicons?domain=https://aidirectori.es/&sz=128" width="16" /> | [AI Directories](https://aidirectori.es/) | All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories | ai, artificial intelligence, promote, directory, traffic |
  <img src="https://www.google.com/s2/favicons?domain=https://aijobs.app&sz=128" width="16" /> | [AI Jobs](https://aijobs.app) | Find all AI (Artificial Intelligence) jobs in one place. | ai, artificial intelligence, remote, jobs, developer |
  <img src="https://www.google.com/s2/favicons?domain=https://ai-text-humanizer.com/&sz=128" width="16" /> | [AI-Text-Humanizer](https://ai-text-humanizer.com/) | Transform dull AI-generated text into easy-to-read copy and sound like a real person |  |
@@ -1891,6 +1892,7 @@
 ### <a name="tooling">Tooling</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://aibest.tools&sz=128" width="16" /> | [AI Best Tools](https://aibest.tools) | Discover the best AI tools in AIBest.tools | ai, ai tools directory, developer tools, tools, ai tools, directory |
  <img src="https://www.google.com/s2/favicons?domain=https://apparencekit.dev/&sz=128" width="16" /> | [ApparenceKit](https://apparencekit.dev/) | A flutter template to create iOS, Android and web app in days. Generate all the common boilerplate code and customize the design to fit your brand.  |  |
  <img src="https://www.google.com/s2/favicons?domain=https://codekitapp.com/&sz=128" width="16" /> | [CodeKit](https://codekitapp.com/) | CodeKit is a Mac app that makes it easy to use modern web development tools like npm, Babel, Sass, JavaScript bundling, image optimization, and ESLint. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://compressor.io/&sz=128" width="16" /> | [Compressor](https://compressor.io/) | Optimize and compress your jpeg and png images online. Compressor is a lossy and lossless photo compression tool. |  |

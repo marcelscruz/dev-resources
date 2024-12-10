@@ -1,5 +1,5 @@
 {
-"count": 982,
+"count": 983,
 "data": [
     {
         "name": "1001 Fonts",
@@ -236,6 +236,23 @@
             "store"
         ],
         "url": "https://aiagentstore.ai"
+    },
+    {
+        "name": "AI Best Tools",
+        "categories": [
+            "AI",
+            "Tooling"
+        ],
+        "description": "Discover the best AI tools in AIBest.tools",
+        "keywords": [
+            "ai",
+            "ai tools directory",
+            "developer tools",
+            "tools",
+            "ai tools",
+            "directory"
+        ],
+        "url": "https://aibest.tools"
     },
     {
         "name": "AI Directories",
