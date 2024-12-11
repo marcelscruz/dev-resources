@@ -227,6 +227,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'social media', 'content creation'],
     },
     {
+        name: 'PostPuma',
+        description: 'PostPuma is a social media management platform powered by AI, designed to help businesses streamline their content strategy across multiple platforms.',
+        categories: ['Social Media', 'Marketing', 'Productivity'],
+        url: 'https://postpuma.com/',
+        keywords: ['social media management', 'content scheduling', 'social analytics', 'social media automation'], 
+    },
+
+    {
         name: 'PoweredbyAI',
         description: 'A directory with 100+ AI tools to help you with your daily tasks',
         categories: ['AI'],
