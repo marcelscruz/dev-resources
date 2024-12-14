@@ -427,6 +427,18 @@ export const resources: Resource[] = [
         url: 'https://thebricks.com',
     },
     {
+        name: 'BskyInfo',
+        categories: ['Marketing', 'Productivity'],
+        description: 'The Ultimate Resource Hub for BlueSky Developers',
+        keywords: [
+            'productivity',
+            'collaboration tools',
+            'marketing',
+            'bluesky'
+        ],
+        url: 'https://bskyinfo.com',
+    },
+    {
         name: 'Build you SaaS',
         categories: ['Podcast', 'Startup'],
         description:
