@@ -346,6 +346,23 @@ export const resources: Resource[] = [
         url: 'https://boxicons.com/',
     },
     {
+        name: 'Businesscards',
+        categories: ['Productivity'],
+        description:
+            'Simplify your networking with eco-friendly digital business cards.',
+        keywords: [
+            'business cards',
+            'digital business cards',
+            'networking',
+            'eco-friendly',
+            'digital networking',
+            'digital business card',
+            'digital networking',
+            'digital business cards',
+        ],
+        url: 'https://businesscards.io/',
+    },
+    {
         name: 'Brackets',
         categories: ['Editor', 'Extension'],
         description:
