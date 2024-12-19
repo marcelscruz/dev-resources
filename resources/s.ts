@@ -84,6 +84,14 @@ export const resources: Resource[] = [
         url: 'https://www.screenstab.com/',
     },
     {
+        name: 'Scribbl',
+        description: 'Scribbl is an AI meeting assistant that transforms conversations into searchable, shareable knowledge while you focus on what matters - the conversation.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://www.scribbl.co',
+        keywords: ['ai meeting notes', 'assistant', 'meeting', 'transcription'], 
+    },
+
+    {
         name: 'Scrimba',
         categories: ['Learn', 'Programming'],
         description:
