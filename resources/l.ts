@@ -329,6 +329,20 @@ export const resources: Resource[] = [
         url: 'https://www.linode.com/',
     },
     {
+        name: 'Lindo AI',
+        categories: ['AI', 'Productivity', 'Tooling'],
+        description: 'A white-label AI website builder empowering entrepreneurs and agencies to start their own web design businesses in minutes',
+        keywords: [
+            'Website builder',
+            'White Label solution',
+            'Entrepreneurship',
+            'Agency',
+            'Freelancers',
+            'SaaS',
+        ],
+        url: 'https://www.lindo.ai',
+    },
+    {
         name: 'Lite Analytics',
         categories: ['Analytics'],
         description:
