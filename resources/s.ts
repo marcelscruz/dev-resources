@@ -646,7 +646,7 @@ export const resources: Resource[] = [
             'A Next.js boilerplate to launch SaaS quickly with features like database, authentication, SEO, payments, and more.',
         categories: ['Startup', 'Template'],
         url: 'https://www.startupbolt.com',
-        keywords: ['boilerplate', 'Next.js', 'SaaS', 'starterkit'], 
+        keywords: ['boilerplate', 'Next.js', 'SaaS', 'starterkit'],
     },
     {
         name: 'Startup Jobs',

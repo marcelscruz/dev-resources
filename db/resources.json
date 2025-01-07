@@ -1,5 +1,5 @@
 {
-"count": 988,
+"count": 989,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9617,6 +9617,21 @@
         ],
         "description": "Looking for a startup job? Apply to 10,000+ jobs at the fastest growing startups. Programming jobs, design jobs, marketing jobs, sales jobs, and more.",
         "url": "https://startup.jobs/"
+    },
+    {
+        "name": "StartupBolt",
+        "description": "A Next.js boilerplate to launch SaaS quickly with features like database, authentication, SEO, payments, and more.",
+        "categories": [
+            "Startup",
+            "Template"
+        ],
+        "url": "https://www.startupbolt.com",
+        "keywords": [
+            "boilerplate",
+            "Next.js",
+            "SaaS",
+            "starterkit"
+        ]
     },
     {
         "name": "Startups For the Rest of Us",
