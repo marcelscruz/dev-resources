@@ -81,6 +81,14 @@ export const resources: Resource[] = [
         url: 'https://code.visualstudio.com/',
     },
     {
+        name: 'Voice Command',
+        description: 'Voice Command is the easiest way to make instant searches, ask AI questions and navigate using your voice.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://myextension.store/voice-command/',
+        keywords: ['voice control', 'speech to text', 'dictation', 'speech recognition'], 
+    },
+
+    {
         name: 'Vue Cheatsheet',
         categories: ['Cheatsheet'],
         description: 'An interactive cheatsheet of Vue, Vue Router and, Pinia.',
