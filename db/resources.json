@@ -1,5 +1,5 @@
 {
-"count": 993,
+"count": 994,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7415,6 +7415,24 @@
             "Remote work options"
         ],
         "url": "https://okjob.io/"
+    },
+    {
+        "name": "Omnigen",
+        "categories": [
+            "Marketing",
+            "AI",
+            "Productivity"
+        ],
+        "description": "Marketing and growth platform focused on outreach",
+        "url": "https://omnigen.co",
+        "keywords": [
+            "Marketing",
+            "AI",
+            "Productivity",
+            "Outreach",
+            "Growth",
+            "Influencers"
+        ]
     },
     {
         "name": "One Page Love",

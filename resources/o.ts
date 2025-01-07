@@ -44,7 +44,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Omnigen',
-        categories: ['Marketing','AI','Productivity'],
+        categories: ['Marketing', 'AI', 'Productivity'],
         description: 'Marketing and growth platform focused on outreach',
         url: 'https://omnigen.co',
         keywords: ['Marketing', 'AI', 'Productivity', 'Outreach', 'Growth', 'Influencers'],
