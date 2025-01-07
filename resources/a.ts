@@ -235,6 +235,13 @@ export const resources: Resource[] = [
         url: 'https://www.jetbrains.com/objc/',
     },
     {
+        name: 'App Icon Generator',
+        categories: ['Code Generator', 'Programming'],
+        description:
+            'Create beautiful app icons for iOS and Android. Generate all required sizes with just one click.',
+        url: 'https://launchyourapp.dev/tools/app-icon-generator',
+    },
+    {
         name: 'AppMockUp',
         categories: ['Prototyping', 'Screenshot'],
         description:
