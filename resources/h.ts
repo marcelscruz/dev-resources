@@ -237,6 +237,24 @@ export const resources: Resource[] = [
         url: 'https://homie.gg',
     },
     {
+        name: 'HotBot',
+        categories: ['AI', 'Productivity'],
+        description: 'The Gateway to Advanced AI Chat and Expert AI Bots',
+        keywords: [
+            'Claude',
+            'OpenAI',
+            'Chat GPT',
+            'AI Chat',
+            'AI Chat Bot',
+            "Google's Gemini",
+            "Meta's Llama",
+            'Anthropic',
+            'Free AI chat',
+            'AI Search',
+        ],
+        url: 'https://www.hotbot.com/',
+    },
+    {
         name: 'HTMLrev',
         categories: ['Template'],
         description:
