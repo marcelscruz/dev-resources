@@ -1,5 +1,5 @@
 {
-"count": 987,
+"count": 988,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9396,6 +9396,22 @@
         ],
         "description": "Save and organize your code snippets in the cloud. Share and collaborate with your team members.",
         "url": "https://snipit.io/"
+    },
+    {
+        "name": "Social Intents",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Marketing"
+        ],
+        "description": "Live Chat by Social Intents is the easiest way to boost sales and improve customer service",
+        "url": "https://www.socialintents.com/",
+        "keywords": [
+            "live chat",
+            "ai",
+            "sales",
+            "customer service"
+        ]
     },
     {
         "name": "Soft Skills Engineering",

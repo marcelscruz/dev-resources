@@ -786,9 +786,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Social Intents',
-        categories: ['AI', "Productivity", "Marketing"],
-        description:
-            'Live Chat by Social Intents is the easiest way to boost sales and improve customer service',
+        categories: ['AI', 'Productivity', 'Marketing'],
+        description: 'Live Chat by Social Intents is the easiest way to boost sales and improve customer service',
         url: 'https://www.socialintents.com/',
         keywords: ['live chat', 'ai', 'sales', 'customer service'],
     },
