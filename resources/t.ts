@@ -447,6 +447,20 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'TrueGen AI',
+        description: 'AI-powered tool that creates personalized marketing strategies and compares strategies to identify the best approach',
+        categories: ['Marketing', 'AI'],
+        url: 'https://truegen.ai/',
+        keywords: [
+            'marketing',
+            'ai powered',
+            'personalized',
+            'strategies',
+            'best approach',
+            'ai powered marketing',
+        ],
+    },
+    {
         name: 'Tweet Detective',
         categories: ['Social Media', 'AI'],
         description:
