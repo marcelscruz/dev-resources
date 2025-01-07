@@ -57,6 +57,14 @@ export const resources: Resource[] = [
         url: 'https://makebook.io/',
     },
     {
+        name: 'Make It Quick',
+        description: 'Make It Quick simplifies video creation, turning your words into fully edited, high-quality videos in minutes.',
+        categories: ['AI', 'Marketing', 'Video'],
+        url: 'https://makeitquick.ai/',
+        keywords: ['ai video generator', 'productivity', 'ai shorts', 'content'], 
+    },
+
+    {
         name: 'ManyPixels',
         categories: ['Illustration'],
         description:
