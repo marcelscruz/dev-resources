@@ -31,6 +31,13 @@ export const resources: Resource[] = [
         url: 'https://www.ratatype.com/',
     },
     {
+        name: 'Rantir',
+        categories: ['AI', 'Productivity'],
+        description: 'Build AI Agents and Automations. Own your AI software. Own your AI.',
+        url: 'https://www.rantir.com/',
+        keywords: ['ai', 'ai agents', 'ai automation', 'ai software', 'ai tools'],
+    },
+    {
         name: 'Raycast',
         categories: ['Productivity'],
         description:
