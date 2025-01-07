@@ -67,14 +67,6 @@ export const resources: Resource[] = [
         url: 'http://cassandra.apache.org/',
     },
     {
-        name: 'Cate',
-        categories: ['AI','Startup','Marketing'],
-        description:
-            'Cate AI is the top choice for businesses looking for an AI phone answering service. Streamline your operations with Cate.',
-        url: 'https://getcate.ai/',
-        keywords: ['ai answering service', 'ai assistant', 'voice', 'audio', 'phone']
-    },
-    {
         name: 'Chakra',
         categories: ['Library', 'Programming', 'UI'],
         description: 'Simple, Modular and Accessible UI Components for your React Applications.',
