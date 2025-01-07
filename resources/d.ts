@@ -334,6 +334,13 @@ export const resources: Resource[] = [
         keywords: ['doodles', 'scribbles'],
     },
     {
+        name: 'Doculator',
+        categories: ['AI', 'Productivity'],
+        description: 'Doculator offers online AI translation across all file formats, with support for over 100 languages.',
+        url: 'https://www.doculator.org/',
+        keywords: ['translation', 'ai', 'productivity', 'file formats'],
+    },
+    {
         name: 'Dracula theme',
         categories: ['Editor', 'Extension', 'Terminal'],
         description:
