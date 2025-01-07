@@ -74,6 +74,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Adligator',
+        description: 'Adligator - first of all is AI powered aggregator of ads from Facebook, Instagram, fb Messenger and the audience network.',
+        categories: ['AI', 'Marketing', 'Productivity'],
+        url: 'https://adligator.com/',
+        keywords: ['ads', 'ads aggregator', 'analyzing competitors', 'creatives'], 
+    },
+
+    {
         name: 'AdminMart',
         categories: ['Template'],
         description: 'The Best Free and Premium Admin Templates by AdminMart.',
