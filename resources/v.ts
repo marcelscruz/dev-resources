@@ -53,6 +53,14 @@ export const resources: Resource[] = [
         url: 'https://vim-adventures.com/',
     },
     {
+        name: 'Vimego',
+        description: 'Vimego enables users to download Vimeo videos, audio, and subtitles while offering video enhancement, text-to-speech, and various other video editor features.',
+        categories: ['Video', 'Startup', 'Productivity'],
+        url: 'https://www.vimego.io/',
+        keywords: ['vimeo downloader', 'video editor', 'content', 'education'], 
+    },
+
+    {
         name: 'Virtual Coffee',
         categories: ['Podcast'],
         description:
