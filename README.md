@@ -151,6 +151,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://www.visily.ai/&sz=128" width="16" /> | [Visily](https://www.visily.ai/) | Visily leverages AI to generate stunning app wireframes and prototypes from various inputs such as text prompts, hand-drawn sketches, and screenshots of existing applications or websites. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://webscrapeai.com&sz=128" width="16" /> | [WebscrapeAI](https://webscrapeai.com) | Scrape any website without code using AI | scraper, no code, ai web scraper, web scraper, visual web scraper |
  <img src="https://www.google.com/s2/favicons?domain=https://wlspy.com&sz=128" width="16" /> | [WLSpy](https://wlspy.com) | WLSpy helps users discover winning products by analyzing market trends and competitor strategies. | Product Research, Market Analysis, Competitor Monitoring |
+ <img src="https://www.google.com/s2/favicons?domain=https://zapkit.dev/&sz=128" width="16" /> | [ZapKit](https://zapkit.dev/) | ZapKit is a Laravel boilerplate powered by AI that helps you build a Laravel application within minutes. | boilerplate, startup, starter kit, ai, sass |
 
 **[⬆ Back to Index](#index)**
 
@@ -1377,6 +1378,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://verbatik.com/&sz=128" width="16" /> | [Verbatik AI](https://verbatik.com/) | Create professional-quality Text to Speech and Voice Cloning in minutes. Generate natural voices in 150+ languages, perfect for videos, podcasts, and e-learning. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://webacus.dev&sz=128" width="16" /> | [Webacus](https://webacus.dev) | Webacus is a versatile tool designed specifically for developers. It combines numerous operations that developers frequently need into a single, consistent interface. Instead of Googling and learning ... |  |
  <img src="https://www.google.com/s2/favicons?domain=https://webcurate.co/c/developer&sz=128" width="16" /> | [WebCurate Developer Tools](https://webcurate.co/c/developer) | A hand-curated collection of 380+ best developer tools and resources with detailed descriptions and features. | html, css, javascript, development |
+ <img src="https://www.google.com/s2/favicons?domain=https://zapkit.dev/&sz=128" width="16" /> | [ZapKit](https://zapkit.dev/) | ZapKit is a Laravel boilerplate powered by AI that helps you build a Laravel application within minutes. | boilerplate, startup, starter kit, ai, sass |
 
 **[⬆ Back to Index](#index)**
 
@@ -1796,6 +1798,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://artofproductpodcast.com/&sz=128" width="16" /> | [The Art of Product](https://artofproductpodcast.com/) | Ben and Derrick chat weekly about building software companies. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://hammerstone.dev/podcast&sz=128" width="16" /> | [The Hammerstone Podcast](https://hammerstone.dev/podcast) | Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm! |  |
  <img src="https://www.google.com/s2/favicons?domain=https://tinyseed.com/&sz=128" width="16" /> | [TinySeed](https://tinyseed.com/) | TinySeed is the first startup accelerator designed for founders who would traditionally bootstrap. |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://zapkit.dev/&sz=128" width="16" /> | [ZapKit](https://zapkit.dev/) | ZapKit is a Laravel boilerplate powered by AI that helps you build a Laravel application within minutes. | boilerplate, startup, starter kit, ai, sass |
  <img src="https://www.google.com/s2/favicons?domain=https://thebootstrappedfounder.com/zero-to-sold/&sz=128" width="16" /> | [Zero To Sold](https://thebootstrappedfounder.com/zero-to-sold/) | Zero to Sold is an actionable guide through all stages of a bootstrapped business: Preparation, Survival, Stability, and Growth. Sold on Amazon and Gumroad. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://zto.dev/&sz=128" width="16" /> | [ZTO - NextJS SaaS Starter Kit](https://zto.dev/) | ZTO SaaS starter kit: Rapid deployment, scalable architecture, and essential features for MVPs and full-scale projects. Launch your SaaS faster. | nextjs, saas, starter kit, template, boilerplate, tailwind, shadcn, typescript |
 

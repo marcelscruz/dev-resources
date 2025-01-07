@@ -1,5 +1,5 @@
 {
-"count": 992,
+"count": 993,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11583,6 +11583,23 @@
         ],
         "description": "A utility-first CSS-in-JS framework built for React.",
         "url": "https://xstyled.dev/"
+    },
+    {
+        "name": "ZapKit",
+        "categories": [
+            "Productivity",
+            "AI",
+            "Startup"
+        ],
+        "description": "ZapKit is a Laravel boilerplate powered by AI that helps you build a Laravel application within minutes.",
+        "url": "https://zapkit.dev/",
+        "keywords": [
+            "boilerplate",
+            "startup",
+            "starter kit",
+            "ai",
+            "sass"
+        ]
     },
     {
         "name": "Zenlogin",
