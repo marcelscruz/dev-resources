@@ -9,6 +9,14 @@ export const resources: Resource[] = [
         url: 'https://ahrefs.com/backlink-checker',
     },
     {
+        name: 'BacklinkBot',
+        categories: ['Marketing', 'SEO'],
+        description:
+            'Submit your startup to 100+ directories in 10 minutes. Get instant traffic on your site, save days of manual work with just one click.',
+        url: 'https://backlinkbot.ai',
+        keywords: ['backlink', 'seo', 'directory submission', 'traffic'],
+    },
+    {
         name: 'BacklinkGPT',
         categories: ['SEO', 'Marketing', 'AI'],
         description: 'Automate Your Link-Building with AI-Personalized Outreach.',
