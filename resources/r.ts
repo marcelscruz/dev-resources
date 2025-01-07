@@ -316,7 +316,7 @@ export const resources: Resource[] = [
         description: 'Retext is a macOS app to use text snippets across any app or browser.',
         categories: ['Startup', 'Productivity'],
         url: 'https://www.retext.io/',
-        keywords: ['text expander', 'desktop app', 'macos app', 'text snippets'], 
+        keywords: ['text expander', 'desktop app', 'macos app', 'text snippets'],
     },
 
     {

@@ -1,5 +1,5 @@
 {
-"count": 985,
+"count": 987,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8596,6 +8596,21 @@
         ]
     },
     {
+        "name": "Retext",
+        "description": "Retext is a macOS app to use text snippets across any app or browser.",
+        "categories": [
+            "Startup",
+            "Productivity"
+        ],
+        "url": "https://www.retext.io/",
+        "keywords": [
+            "text expander",
+            "desktop app",
+            "macos app",
+            "text snippets"
+        ]
+    },
+    {
         "name": "Retool",
         "categories": [
             "API Building",
@@ -10474,6 +10489,22 @@
             "seo optimization tool",
             "bulk article generator",
             "content writer"
+        ]
+    },
+    {
+        "name": "Truelist",
+        "description": "Truelist is a subscription-based email verification platform that provides unlimited email validation for sales and marketing lists.",
+        "categories": [
+            "Email",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://truelist.io/",
+        "keywords": [
+            "developer tool",
+            "email validation",
+            "sales prospecting",
+            "email deliverability"
         ]
     },
     {
