@@ -126,6 +126,13 @@ export const resources: Resource[] = [
         url: 'https://novoresume.com/',
     },
     {
+        name: 'Noiz',
+        categories: ['AI', 'Productivity', 'Video'],
+        description: 'Summarize YouTube videos with AI',
+        keywords: ['youtube', 'ai', 'summarize', 'video'],
+        url: 'https://noiz.io/',
+    },
+    {
         name: 'Niche Tools',
         categories: ['SEO', 'Marketing'],
         description:
