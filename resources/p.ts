@@ -145,6 +145,14 @@ export const resources: Resource[] = [
         keywords: ['Productivity', 'Copilot', 'easy snippet search'],
     },
     {
+        name: 'PimpMySnap',
+        description: 'PimpMySnap is a powerful screenshot editor capable of transforming your screenshots into eye-catching visuals.',
+        categories: ['Design', 'Marketing', 'Productivity'],
+        url: 'https://pimpmysnap.com/',
+        keywords: ['screenshot', 'social media', 'editor', 'content,'], 
+    },
+
+    {
         name: 'Pingdom',
         categories: ['Performance'],
         description: 'Full Page Test Analysis.',
