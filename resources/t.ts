@@ -480,6 +480,13 @@ export const resources: Resource[] = [
         keywords: ['twitter', 'growth', 'scheduling', 'social media'],
     },
     {
+        name: 'TwitterAPI.io',
+        description: 'Cost-effective Twitter API alternative with high performance access to Twitter data. Supports 1000 QPS and billion-scale monthly data access.',
+        categories: ['API', 'Development Tools'],
+        url: 'https://twitterapi.io',
+        keywords: ['twitter', 'api', 'social media', 'data'],
+    }
+    {
         name: 'TypeLit',
         categories: ['Typing'],
         description: 'Practice typing by retyping entire novels.',
