@@ -91,6 +91,12 @@ export const resources: Resource[] = [
         url: 'https://scrimba.com/',
     },
     {
+        name: 'Searchbug',
+        categories: ['API Building', 'marketing'],
+        description: 'Searchbug is a professional online data service that helps individuals and businesses locate personal contact information. We find, verify, and validate names, mailing addresses, phone numbers, and emails.  Business Professionals can even access security number verifications instead of e-verify.  ',
+        url: 'https://www.searchbug.com/',
+    },
+    {
         name: 'Selenium',
         categories: ['Testing'],
         description: 'Selenium is a suite of tools for automating web browsers.',
