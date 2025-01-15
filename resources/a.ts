@@ -90,6 +90,14 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ',
     },
     {
+        name: 'Aeon',
+        description: 'Aeon is an AI-powered video production platform designed to help content-driven businesses and publishers effortlessly scale video creation.',
+        categories: ['Video', 'AI', 'Marketing'],
+        url: 'https://project-aeon.com/',
+        keywords: ['ai video production', 'video editing automation', 'video content creation', 'social media video tool'], 
+    },
+
+    {
         name: 'Ahrefs',
         categories: ['SEO'],
         description:
