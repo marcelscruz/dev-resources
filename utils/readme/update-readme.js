@@ -24,11 +24,6 @@ const links = `<div align="center">
     <a href="LICENSE">License</a>
 </div>`
 
-const logoShipped = `<div>
-    <p align="center"><a href="https://shipped.club?ref=dev_resources&utm_medium=repo_readme"><picture><img alt="Shipped.club logo" src="./assets/shipped.svg" width="220px"></picture></a></p>
-    <p align="center"><a href="https://shipped.club?ref=dev_resources&utm_medium=repo_readme">Shipped.club</a> — The #1 Next.js SaaS Kit for busy founders. Build and ship your startup in days, not months, and make money online.</p>
-</div>`
-
 const logoScrapfly = `<div>
     <p align="center"><a href="https://scrapfly.io?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/scrapfly-dark-mode.svg"         width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="150px"><img alt="Scrapfly logo" src="./assets/scrapfly-dark-mode.svg" width="150px"></picture></a></p>
     <p align="center"><a href="https://scrapfly.io?ref=dev_resources&utm_medium=repo_readme">Scrapfly</a> offers a top-tier Web Scraping API that simplifies scraping by handling real browser rendering, rotating proxies, and various fingerprints to overcome major anti-bot measures.</p>
@@ -37,10 +32,6 @@ const logoScrapfly = `<div>
 // const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoScrapfly}<br/>\n\n`
 // const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoScrapfly}<br/>\n\n\n\n${logoZenlogin}\n\n`
 const sponsors = `<div align="center">Sponsored by</div> 
-    <br/>
-    ${logoShipped}
-    <br/>
-    <hr/>
     <br/>
     ${logoScrapfly}
 `
