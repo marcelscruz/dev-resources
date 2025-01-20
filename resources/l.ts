@@ -116,6 +116,14 @@ export const resources: Resource[] = [
         keywords: ['marketing', 'ai'],
     },
     {
+        name: 'Lapro AI',
+        categories: ['AI', 'Marketing'],
+        description: 'Drive 10x More Sales with High-Converting AI Product Pages',
+        url: 'https://www.lapro.io/',
+
+        keywords: ['marketing', 'ai', 'product pages'],
+    },
+    {
         name: 'LearnWeb3',
         categories: ['Learn', 'Web3'],
         description: 'LearnWeb3 is the best place to turn you into a web3 developer for completely free.',
