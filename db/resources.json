@@ -1,5 +1,5 @@
 {
-"count": 997,
+"count": 998,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1015,6 +1015,23 @@
         ],
         "description": "Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe.",
         "url": "https://blush.design/"
+    },
+    {
+        "name": "BoilerplateHub",
+        "categories": [
+            "Productivity",
+            "Template",
+            "Startup"
+        ],
+        "description": "Save weeks of setup time with production-ready boilerplates, templates and starter kits for SaaS, web and mobile applications. Carefully vetted and maintained by developers.",
+        "url": "https://boilerplatehub.com/",
+        "keywords": [
+            "boilerplates",
+            "starter kits",
+            "frameworks",
+            "development",
+            "low code"
+        ]
     },
     {
         "name": "Bootify",
