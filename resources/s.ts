@@ -10,6 +10,14 @@ export const resources: Resource[] = [
         keywords: ['boilerplates', 'starter kits', 'frameworks', 'development', 'low code'],
     },
     {
+        name: 'SaaSCurate',
+        description: 'SaaSCurate is a community-driven platform where SaaS founders launch and grow their products.',
+        categories: ['Marketing', 'Startup'],
+        url: 'https://saascurate.com/',
+        keywords: ['directory', 'community', 'seo', 'growth'], 
+    },
+
+    {
         name: 'SaaS Design',
         categories: ['Design', 'Inspiration', 'UI'],
         description:
