@@ -153,6 +153,14 @@ export const resources: Resource[] = [
         url: 'https://refero.design',
     },
     {
+        name: 'Refinder AI',
+        description: 'Refinder is an AI powered universal search and work assistant designed to streamline information retrieval across apps and company data sources.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://refinder.ai/',
+        keywords: ['ai search', 'enterprise search', 'ai assistant', 'knowledge management'], 
+    },
+
+    {
         name: 'Rene Rehme',
         categories: ['Personal Website'],
         description: 'A web developer blog by Rene Rehme. This blog is about front- and backend techniques.',
