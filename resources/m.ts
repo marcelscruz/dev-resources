@@ -139,9 +139,9 @@ export const resources: Resource[] = [
     },
     {
         name: 'Marketing Auditor',
-        categories: ['Marketing','Analytics'],
+        categories: ['Marketing', 'Analytics'],
         description:
-            "Say goodbye to manual audit checklists with Marketing Auditor, the ultimate solution for agencies looking to streamline their audit process",
+            'Say goodbye to manual audit checklists with Marketing Auditor, the ultimate solution for agencies looking to streamline their audit process',
         url: 'https://www.marketingauditor.com/',
         keywords: ['marketing', 'audit', 'checklist', 'automation', 'seo', 'google', 'analytics'],
     },

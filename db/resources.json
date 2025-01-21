@@ -1,5 +1,5 @@
 {
-"count": 999,
+"count": 1000,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6821,6 +6821,24 @@
         ],
         "description": " A free and open-source reference guide that explains how to use Markdown.",
         "url": "https://markdownguide.org"
+    },
+    {
+        "name": "Marketing Auditor",
+        "categories": [
+            "Marketing",
+            "Analytics"
+        ],
+        "description": "Say goodbye to manual audit checklists with Marketing Auditor, the ultimate solution for agencies looking to streamline their audit process",
+        "url": "https://www.marketingauditor.com/",
+        "keywords": [
+            "marketing",
+            "audit",
+            "checklist",
+            "automation",
+            "seo",
+            "google",
+            "analytics"
+        ]
     },
     {
         "name": "Marko Denic",
