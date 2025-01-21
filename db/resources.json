@@ -1,5 +1,5 @@
 {
-"count": 1001,
+"count": 1002,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6484,6 +6484,21 @@
         ],
         "description": "2000+ Essential Line Icons, A Complete Yet Most Simplified Free Line Icon Pack of the Web - Available in WebFont, SVG, PNG, React, PNG, and PDF Files.",
         "url": "https://lineicons.com/"
+    },
+    {
+        "name": "Linito",
+        "categories": [
+            "Analytics",
+            "Marketing"
+        ],
+        "description": "A better interface for Google Analytics",
+        "url": "https://linito.io/",
+        "keywords": [
+            "Google Analytics",
+            "Analytics",
+            "web analytics",
+            "website analytics"
+        ]
     },
     {
         "name": "LinkDR",
