@@ -1,5 +1,5 @@
 {
-"count": 998,
+"count": 999,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8912,6 +8912,21 @@
             "uiKitsAndLibraries"
         ],
         "url": "https://www.saasdesign.io/free-figma-templates/"
+    },
+    {
+        "name": "SaaSCurate",
+        "description": "SaaSCurate is a community-driven platform where SaaS founders launch and grow their products.",
+        "categories": [
+            "Marketing",
+            "Startup"
+        ],
+        "url": "https://saascurate.com/",
+        "keywords": [
+            "directory",
+            "community",
+            "seo",
+            "growth"
+        ]
     },
     {
         "name": "SaaSFrame",

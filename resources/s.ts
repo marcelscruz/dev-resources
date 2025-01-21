@@ -14,7 +14,7 @@ export const resources: Resource[] = [
         description: 'SaaSCurate is a community-driven platform where SaaS founders launch and grow their products.',
         categories: ['Marketing', 'Startup'],
         url: 'https://saascurate.com/',
-        keywords: ['directory', 'community', 'seo', 'growth'], 
+        keywords: ['directory', 'community', 'seo', 'growth'],
     },
 
     {
