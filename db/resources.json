@@ -1,5 +1,5 @@
 {
-"count": 995,
+"count": 996,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8244,6 +8244,22 @@
         ],
         "description": "RankWizard is a programmatic SEO writer that writes your content for you. All you need is keywords and we will deliver your content in minutes.",
         "url": "https://www.rankwizardai.com/"
+    },
+    {
+        "name": "Rantir",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Build AI Agents and Automations. Own your AI software. Own your AI.",
+        "url": "https://www.rantir.com/",
+        "keywords": [
+            "ai",
+            "ai agents",
+            "ai automation",
+            "ai software",
+            "ai tools"
+        ]
     },
     {
         "name": "RapidAPI",
