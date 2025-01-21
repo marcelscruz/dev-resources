@@ -25,6 +25,14 @@ export const resources: Resource[] = [
         keywords: ['github-integration', 'gitlab-integration', 'pull-requests', 'AI', 'ai-powered', 'code-review'],
     },
     {
+        name: 'Campaign Link',
+        description: 'The easiest to use short link, QR code and UTM maker.',
+        categories: ['Marketing', 'Social Media', 'Productivity'],
+        url: 'https://www.campaignware.com/campaignlink',
+        keywords: ['hyperlink generator', 'link shortener', 'qr code maker', 'campaign builder'], 
+    },
+
+    {
         name: 'CandyIcons',
         categories: ['Icon'],
         description:
