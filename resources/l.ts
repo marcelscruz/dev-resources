@@ -302,7 +302,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Linito',
-        categories: ['Analytics', 'Marketing', 'Personal Website'],
+        categories: ['Analytics', 'Marketing'],
         description: 'A better interface for Google Analytics',
         url: 'https://linito.io/',
         keywords: ['Google Analytics', 'Analytics', 'web analytics', 'website analytics'],
