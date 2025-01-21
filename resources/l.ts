@@ -301,6 +301,13 @@ export const resources: Resource[] = [
         url: 'https://lineicons.com/',
     },
     {
+        name: 'Linito',
+        categories: ['Analytics', 'Marketing'],
+        description: 'A better interface for Google Analytics',
+        url: 'https://linito.io/',
+        keywords: ['Google Analytics', 'Analytics', 'web analytics', 'website analytics'],
+    },
+    {
         name: 'LinkedIn Learning',
         categories: ['Learn', 'Programming'],
         description:
