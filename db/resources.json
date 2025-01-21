@@ -1,5 +1,5 @@
 {
-"count": 1002,
+"count": 1003,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6567,6 +6567,22 @@
         ],
         "description": "Simplify your infrastructure with Linode's cloud computing and hosting solutions and develop, deploy, and scale faster and easier.",
         "url": "https://www.linode.com/"
+    },
+    {
+        "name": "Lisapet.ai",
+        "description": "Lisapet.ai is the next-level AI product development platform that empowers teams to prototype, test, and ship robust AI features 10x faster.",
+        "categories": [
+            "AI",
+            "Testing",
+            "Productivity"
+        ],
+        "url": "https://www.lisapet.ai/",
+        "keywords": [
+            "ai prompt testing",
+            "ai prompt evaluation",
+            "prompt engineering",
+            "llm evaluation"
+        ]
     },
     {
         "name": "Lite Analytics",

@@ -346,10 +346,11 @@ export const resources: Resource[] = [
     },
     {
         name: 'Lisapet.ai',
-        description: 'Lisapet.ai is the next-level AI product development platform that empowers teams to prototype, test, and ship robust AI features 10x faster.',
+        description:
+            'Lisapet.ai is the next-level AI product development platform that empowers teams to prototype, test, and ship robust AI features 10x faster.',
         categories: ['AI', 'Testing', 'Productivity'],
         url: 'https://www.lisapet.ai/',
-        keywords: ['ai prompt testing', 'ai prompt evaluation', 'prompt engineering', 'llm evaluation'], 
+        keywords: ['ai prompt testing', 'ai prompt evaluation', 'prompt engineering', 'llm evaluation'],
     },
 
     {
