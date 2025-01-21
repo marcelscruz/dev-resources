@@ -154,10 +154,11 @@ export const resources: Resource[] = [
     },
     {
         name: 'Refinder AI',
-        description: 'Refinder is an AI powered universal search and work assistant designed to streamline information retrieval across apps and company data sources.',
+        description:
+            'Refinder is an AI powered universal search and work assistant designed to streamline information retrieval across apps and company data sources.',
         categories: ['AI', 'Productivity'],
         url: 'https://refinder.ai/',
-        keywords: ['ai search', 'enterprise search', 'ai assistant', 'knowledge management'], 
+        keywords: ['ai search', 'enterprise search', 'ai assistant', 'knowledge management'],
     },
 
     {

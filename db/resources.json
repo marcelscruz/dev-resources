@@ -1,5 +1,5 @@
 {
-"count": 996,
+"count": 997,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8462,6 +8462,21 @@
         ],
         "description": "The biggest collection of design references from great web applications. Refero make design research easier and faster than ever before. Explore over then 8,000 pages and 40,000 searchable screens of the best of product design from real life.",
         "url": "https://refero.design"
+    },
+    {
+        "name": "Refinder AI",
+        "description": "Refinder is an AI powered universal search and work assistant designed to streamline information retrieval across apps and company data sources.",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "url": "https://refinder.ai/",
+        "keywords": [
+            "ai search",
+            "enterprise search",
+            "ai assistant",
+            "knowledge management"
+        ]
     },
     {
         "name": "Remix Icon",
