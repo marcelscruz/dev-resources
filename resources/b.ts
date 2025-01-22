@@ -45,6 +45,13 @@ export const resources: Resource[] = [
         url: 'https://bandofacile.com/',
     },
     {
+        name: 'BCMS',
+        categories: ['Productivity', 'Website Builder'],
+        description:
+            'BCMS, a headless CMS provides flexible content modeling for creative projects in Next.js, Gatsby.js, and Nuxt.js.',
+        url: 'https://thebcms.com/',
+    },
+    {
         name: 'beampipe',
         categories: ['Analytics'],
         description:
