@@ -53,6 +53,14 @@ export const resources: Resource[] = [
         url: 'https://vim-adventures.com/',
     },
     {
+        name: 'Virlo',
+        description: 'Virlo helps content creators track viral trends on short form content platforms.',
+        categories: ['AI', 'Social Media', 'Video'],
+        url: 'https://virlo.ai/',
+        keywords: ['data', 'trends', 'short form content', 'content creators'], 
+    },
+
+    {
         name: 'Virtual Coffee',
         categories: ['Podcast'],
         description:
