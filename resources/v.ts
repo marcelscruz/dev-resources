@@ -30,6 +30,14 @@ export const resources: Resource[] = [
         url: 'https://vercel.com/',
     },
     {
+        name: 'Vectopus',
+        categories: ['Design', 'Illustration', 'Color'],
+        description:
+            'Free and Premium Icons and Illustrations for Websites',
+        url: 'https://vectopus.com/',
+        keywords: ['icons', 'illustrations', 'free', 'premium'],
+    },
+    {
         name: 'VideoEditor SDK',
         categories: ['Editor', 'Video'],
         description:
