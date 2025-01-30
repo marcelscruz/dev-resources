@@ -72,6 +72,13 @@ export const resources: Resource[] = [
         url: 'https://www.pcloudy.com/',
     },
     {
+        name: 'pdforge',
+        categories: ['Editor', 'Design', 'Marketing'],
+        description:
+            'The new way to generate PDF documents for your SaaS. Use our no-code PDF builder and our easy-to-use API to generate modern PDF reports at scale without relying on your development team.',
+        url: 'https://pdforge.com/',
+    },
+    {
         name: 'PeoplePerHour',
         categories: ['Freelance'],
         description:
