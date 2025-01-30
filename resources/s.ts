@@ -863,6 +863,14 @@ export const resources: Resource[] = [
         url: 'https://swagger.io/',
     },
     {
+        name: 'Swapcode AI',
+        description: 'SwapCode AI is a special helper that makes it easy to change one kind of code into another.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://swapcode.ai/',
+        keywords: ['developer tool', 'ai code converter', 'ai code generator', 'software development'], 
+    },
+
+    {
         name: 'Swetrix',
         categories: ['Analytics'],
         description:
