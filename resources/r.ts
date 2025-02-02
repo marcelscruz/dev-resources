@@ -146,6 +146,13 @@ export const resources: Resource[] = [
         url: 'https://www.reddit.com/r/forhire/',
     },
     {
+        name: 'ReelProof',
+        description: 'ReelProof makes it easy to gather authentic customer testimonials using AI-powered interviews and instantly generates shareable video reels.',
+        categories: ['Video', 'Marketing', 'Productivity'],
+        url: 'https://reelproof.io/',
+        keywords: ['video testimonials', 'ai interviewing', 'video automation', 'social proof'], 
+    },
+    {
         name: 'Refero',
         categories: ['Design', 'Inspiration', 'UI'],
         description:
