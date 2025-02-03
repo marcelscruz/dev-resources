@@ -120,13 +120,6 @@ export const resources: Resource[] = [
         url: 'https://semantic-ui.com/',
     },
     {
-        name: 'Servervana',
-        categories: ['Performance', 'Tooling'],
-        description: 'Team friendly performance and uptime monitoring platform for your website, API endpoints, DNS system and more. Has free plan.',
-        url: 'https://servervana.com',
-        keywords: ['Performance', 'Uptime', 'Monitoring', 'Status Page', 'Web Vitals', 'SSL', 'HTTP(s)', 'DNS'],
-    },
-    {
         name: 'SEO Blueprint',
         categories: ['SEO'],
         description: 'Cutting-edge SEO tactics that are actually ranking websites.',
@@ -179,6 +172,13 @@ export const resources: Resource[] = [
         categories: ['API Building', 'Serverless'],
         description: 'Serverless Stack (SST) is a framework that makes it easy to build serverless applications.',
         url: 'https://serverless-stack.com/',
+    },
+    {
+        name: 'Servervana',
+        categories: ['Performance', 'Tooling'],
+        description: 'Team friendly performance and uptime monitoring platform for your website, API endpoints, DNS system and more. Has free plan.',
+        url: 'https://servervana.com',
+        keywords: ['Performance', 'Uptime', 'Monitoring', 'Status Page', 'Web Vitals', 'SSL', 'HTTP(s)', 'DNS'],
     },
     {
         name: 'Shape',
