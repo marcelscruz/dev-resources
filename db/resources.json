@@ -1,5 +1,5 @@
 {
-"count": 1013,
+"count": 1014,
 "data": [
     {
         "name": "1001 Fonts",
@@ -422,6 +422,15 @@
         ],
         "description": "Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.",
         "url": "https://cloud.google.com/apigee"
+    },
+    {
+        "name": "App Icon Generator",
+        "categories": [
+            "Code Generator",
+            "Programming"
+        ],
+        "description": "Create beautiful app icons for iOS and Android. Generate all required sizes with just one click.",
+        "url": "https://launchyourapp.dev/tools/app-icon-generator"
     },
     {
         "name": "ApparenceKit",
