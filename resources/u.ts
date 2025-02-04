@@ -112,6 +112,14 @@ export const resources: Resource[] = [
         url: 'https://www.umbler.com/',
     },
     {
+        name: 'Unblurimage AI',
+        description: 'Unblurimage AI offers a cutting-edge platform for enhancing and upscaling images, making them sharper, clearer, and more vivid.',
+        categories: ['AI', 'Image', 'Productivity'],
+        url: 'https://unblurimage.ai/',
+        keywords: ['ai', 'unblur image', 'photo', 'content'], 
+    },
+
+    {
         name: 'Undefined',
         categories: ['Podcast', 'Programming'],
         description: 'The only engineering podcast with a 2 drink minimum. Hosted by Jared Palmer and Ken Wheeler.',
