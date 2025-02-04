@@ -93,7 +93,7 @@ export const resources: Resource[] = [
         name: 'Uiverse',
         categories: ['Design', 'Inspiration', 'UI', 'Illustration'],
         description:
-            'Community-made library of free and customizable UI elements made with CSS or Tailwind. It\'s all free to copy and use in your projects.',
+            "Community-made library of free and customizable UI elements made with CSS or Tailwind. It's all free to copy and use in your projects.",
         url: 'https://uiverse.io/',
     },
     {

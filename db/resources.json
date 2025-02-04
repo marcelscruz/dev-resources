@@ -1,5 +1,5 @@
 {
-"count": 1009,
+"count": 1010,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11025,6 +11025,17 @@
         ],
         "description": "UIkit, a lightweight and modular front-end framework for developing fast and powerful web interfaces.",
         "url": "https://getuikit.com/"
+    },
+    {
+        "name": "Uiverse",
+        "categories": [
+            "Design",
+            "Inspiration",
+            "UI",
+            "Illustration"
+        ],
+        "description": "Community-made library of free and customizable UI elements made with CSS or Tailwind. It's all free to copy and use in your projects.",
+        "url": "https://uiverse.io/"
     },
     {
         "name": "Ultimate Web Speed",
