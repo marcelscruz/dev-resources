@@ -1,5 +1,5 @@
 {
-"count": 1011,
+"count": 1012,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5564,6 +5564,20 @@
         ],
         "description": "Upscale and enhance your image by using the latest AI technology. Support batch process.",
         "url": "https://imgupscaler.com"
+    },
+    {
+        "name": "IncidentHub",
+        "categories": [
+            "Tooling"
+        ],
+        "description": "Monitors the third-party Cloud and SaaS services that your application and team depend on. The Free (forever) tier has 20 services and 2 channels (Discord and Slack) for notifications.",
+        "keywords": [
+            "cloud monitoring",
+            "saas monitoring",
+            "third-party service monitoring",
+            "status page aggregator"
+        ],
+        "url": "https://incidenthub.cloud"
     },
     {
         "name": "Inclusive Components",
