@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'ShipOneDay',
+        description:
+            'Production-ready Next.js SaaS starter kit with built-in authentication, Stripe payments, and SEO optimization. Launch your startup in one day instead of months.',
+        categories: ['Productivity', 'Template', 'Startup'],
+        url: 'https://www.shipone.day',
+        keywords: ['boilerplates', 'starter kits', 'frameworks', 'development', 'low code'],
+    },
+    {
         name: 'SaaS Boilerplates',
         description:
             'SaaSBoilerplates.dev is a curated directory that showcases a wide range of SaaS boilerplates, starter kits, and frameworks to help developers quickly launch their SaaS projects.',
