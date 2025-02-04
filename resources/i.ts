@@ -108,6 +108,14 @@ export const resources: Resource[] = [
         url: 'https://imgupscaler.com',
     },
     {
+        name: 'ImgUpscaler AI',
+        description: 'ImgUpscaler AI is a powerful tool for enhancing and upscaling images and videos, delivering sharper and more detailed visuals.',
+        categories: ['Design', 'Image', 'Productivity'],
+        url: 'https://imgupscaler.ai/',
+        keywords: ['ai', 'image enhancer', 'image upscaler', 'graphic design'], 
+    },
+
+    {
         name: 'Inclusive Components',
         categories: ['Accessibility'],
         description:
