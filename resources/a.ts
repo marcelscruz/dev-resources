@@ -97,6 +97,14 @@ export const resources: Resource[] = [
         url: 'https://ahrefs.com/',
     },
     {
+        name: 'AI-Translate.online',
+        description: 'AI-Translate.online is an online service for translating documents: MS Word (.doc, .docx), plain text files (.txt) and others with the help of AI.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://ai-translate.online/',
+        keywords: ['ai translator', 'languages', 'localization', 'file translation'], 
+    },
+
+    {
         name: 'AI Agent Store',
         categories: ['AI'],
         description: 'Place where developers showcase their AI Agents for businesses.',
