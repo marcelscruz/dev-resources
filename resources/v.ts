@@ -37,6 +37,14 @@ export const resources: Resource[] = [
         url: 'https://www.banuba.com/video-editor-sdk-best-for-developers',
         keywords: ['video editor'],
     },
+        {
+        name: 'VideoFaceSwap',
+        description: 'VideoFaceSwap is a cutting-edge tool that leverages advanced technology to enable seamless face-swapping in videos and images, making creative multimedia processing easy and accessible.',
+        categories: ['AI', 'Video', 'Productivity'],
+        url: 'https://videofaceswap.io/',
+        keywords: ['video face swap', 'photo face swap', 'ai video tools', 'ai image tools'], 
+    },
+
     {
         name: 'Vim',
         categories: ['Editor', 'Programming'],
