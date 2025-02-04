@@ -1,5 +1,5 @@
 {
-"count": 1005,
+"count": 1006,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3106,6 +3106,21 @@
         ],
         "description": "The React codebase generator. Divjoy handles all the integration details. From routing to React hooks, you'll have everything you need to build something great.",
         "url": "https://divjoy.com/"
+    },
+    {
+        "name": "Doculator",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Doculator offers online AI translation across all file formats, with support for over 100 languages.",
+        "url": "https://www.doculator.org/",
+        "keywords": [
+            "translation",
+            "ai",
+            "productivity",
+            "file formats"
+        ]
     },
     {
         "name": "Documind AI",
