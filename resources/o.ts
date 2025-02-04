@@ -164,4 +164,19 @@ export const resources: Resource[] = [
             'Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.',
         url: 'https://www.optimizeimages.com',
     },
+    {
+        name: 'Open Source Boilerplates',
+        categories: ['Programming', 'Template', 'Open Source'],
+        description:
+            'A curated list of open source boilerplates and starter kits for building modern applications. From web development with React & Next.js to mobile apps with React Native, Flutter, and native platforms.',
+        url: 'https://opensourceboilerplates.com',
+        keywords: [
+            'saas starter kits',
+            'open source boilerplates',
+            'saas boilerplates',
+            'react native boilerplates',
+            'flutter boilerplates',
+            'native boilerplates',
+        ],
+    },
 ]
