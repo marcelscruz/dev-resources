@@ -113,10 +113,11 @@ export const resources: Resource[] = [
     },
     {
         name: 'Unblurimage AI',
-        description: 'Unblurimage AI offers a cutting-edge platform for enhancing and upscaling images, making them sharper, clearer, and more vivid.',
+        description:
+            'Unblurimage AI offers a cutting-edge platform for enhancing and upscaling images, making them sharper, clearer, and more vivid.',
         categories: ['AI', 'Image', 'Productivity'],
         url: 'https://unblurimage.ai/',
-        keywords: ['ai', 'unblur image', 'photo', 'content'], 
+        keywords: ['ai', 'unblur image', 'photo', 'content'],
     },
 
     {
