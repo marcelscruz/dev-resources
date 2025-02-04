@@ -1,5 +1,5 @@
 {
-"count": 1006,
+"count": 1009,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7636,6 +7636,24 @@
         ]
     },
     {
+        "name": "Open Source Boilerplates",
+        "categories": [
+            "Programming",
+            "Template",
+            "Open Source"
+        ],
+        "description": "A curated list of open source boilerplates and starter kits for building modern applications. From web development with React & Next.js to mobile apps with React Native, Flutter, and native platforms.",
+        "url": "https://opensourceboilerplates.com",
+        "keywords": [
+            "saas starter kits",
+            "open source boilerplates",
+            "saas boilerplates",
+            "react native boilerplates",
+            "flutter boilerplates",
+            "native boilerplates"
+        ]
+    },
+    {
         "name": "Open Vim",
         "categories": [
             "Typing"
@@ -9895,6 +9913,16 @@
         "url": "https://www.startupsfortherestofus.com/"
     },
     {
+        "name": "Startups Gallery",
+        "description": "A gallery of outstanding early-stage companies, fresh jobs and funding news curated in one place.",
+        "categories": [
+            "Learn",
+            "Job",
+            "Remote"
+        ],
+        "url": "https://startups.gallery/"
+    },
+    {
         "name": "Stormkit",
         "categories": [
             "Hosting"
@@ -11236,6 +11264,22 @@
         "url": "https://www.banuba.com/video-editor-sdk-best-for-developers",
         "keywords": [
             "video editor"
+        ]
+    },
+    {
+        "name": "VideoFaceSwap",
+        "description": "VideoFaceSwap is a cutting-edge tool that leverages advanced technology to enable seamless face-swapping in videos and images, making creative multimedia processing easy and accessible.",
+        "categories": [
+            "AI",
+            "Video",
+            "Productivity"
+        ],
+        "url": "https://videofaceswap.io/",
+        "keywords": [
+            "video face swap",
+            "photo face swap",
+            "ai video tools",
+            "ai image tools"
         ]
     },
     {
