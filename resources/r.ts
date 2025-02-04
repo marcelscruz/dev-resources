@@ -3,10 +3,11 @@ import { Resource } from 'types'
 export const resources: Resource[] = [
     {
         name: 'RabbitHoles AI',
-        description: 'RabbitHoles AI is an application designed to transform AI interactions by providing an infinite canvas where each node represents a separate conversation.',
+        description:
+            'RabbitHoles AI is an application designed to transform AI interactions by providing an infinite canvas where each node represents a separate conversation.',
         categories: ['AI', 'Productivity'],
         url: 'https://www.rabbitholes.ai/',
-        keywords: ['ai chatbot', 'ai research', 'ai learning', 'education'], 
+        keywords: ['ai chatbot', 'ai research', 'ai learning', 'education'],
     },
 
     {

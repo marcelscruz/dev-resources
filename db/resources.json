@@ -1,5 +1,5 @@
 {
-"count": 1010,
+"count": 1011,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8355,6 +8355,21 @@
         ],
         "description": "Quokka.js runs your JavaScript and TypeScript code and displays results inline in VS Code, WebStorm, and Sublime Text.",
         "url": "https://quokkajs.com/"
+    },
+    {
+        "name": "RabbitHoles AI",
+        "description": "RabbitHoles AI is an application designed to transform AI interactions by providing an infinite canvas where each node represents a separate conversation.",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "url": "https://www.rabbitholes.ai/",
+        "keywords": [
+            "ai chatbot",
+            "ai research",
+            "ai learning",
+            "education"
+        ]
     },
     {
         "name": "Radix",
