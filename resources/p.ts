@@ -138,6 +138,13 @@ export const resources: Resource[] = [
         keywords: ['image generation', 'professional photos'],
     },
     {
+        name: 'Pictify',
+        categories:['Image', 'Programming'],
+        description: 'Pictify.io provides API to convert HTML into image',
+        url: 'https://pictify.io',
+        keywords: ['image generation', 'HTML to image']
+    },
+    {
         name: 'Pieces',
         categories: ['AI', 'Programming', 'Productivity'],
         description: 'On-device copilot to capture, enrich, and reuse useful materials, streamline collaboration.',
