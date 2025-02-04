@@ -1,5 +1,5 @@
 {
-"count": 1004,
+"count": 1005,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5366,6 +5366,22 @@
         ],
         "description": "Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.",
         "url": "https://www.humaaans.com/"
+    },
+    {
+        "name": "Humanize AI",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Writing"
+        ],
+        "description": "Humanize AI is a cutting-edge tool that transforms robotic, AI-generated text into authentic, human-like writing.",
+        "url": "https://humanizeaitext.ai/",
+        "keywords": [
+            "ai",
+            "writing",
+            "human",
+            "text"
+        ]
     },
     {
         "name": "Hypertune",
