@@ -206,6 +206,13 @@ export const resources: Resource[] = [
         url: 'https://www.pluralsight.com/',
     },
     {
+        name: 'Podcast Maker',
+        description: 'Podcast Maker helps convert your written content like Blogs, Newsletters, PDFs, and text into engaging audio conversations using AI.',
+        categories: ['Marketing', 'Audio', 'Productivity'],
+        url: 'https://podcastmaker.ai/',
+        keywords: ['podcasting', 'social media', 'content creation', 'script generation'], 
+    },
+    {
         name: 'Polypane',
         categories: ['Browser', 'Testing'],
         description:
