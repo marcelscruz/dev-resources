@@ -848,6 +848,12 @@ export const resources: Resource[] = [
         url: 'https://svgmix.com/',
     },
     {
+        name: 'SVGL',
+        categories: ['Icon'],
+        description: 'A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.',
+        url: 'https://svgl.app',
+    },
+    {
         name: 'SVGX',
         categories: ['Image', 'Programming'],
         description: 'SVGX is the desktop SVG asset manager designers and developers wished they had.',
