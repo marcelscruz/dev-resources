@@ -218,4 +218,11 @@ export const resources: Resource[] = [
             'UXfolio is a powerful UX portfolio builder with no coding required. Pick a stunning template and tell the story behind your design process.',
         url: 'https://uxfol.io/',
     },
+    {
+        name: 'UtilPortal',
+        categories: ['SEO', 'Tooling', 'Startup'],
+        description:
+            'UtilPortal is your go-to platform for discovering and accessing a curated collection of essential tools and resources.',
+        url: 'https://utilportal.com/',
+    },
 ]
