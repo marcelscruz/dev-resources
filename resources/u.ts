@@ -212,17 +212,18 @@ export const resources: Resource[] = [
         url: 'https://userbooster.co',
     },
     {
-        name: 'UXfolio',
-        categories: ['Template', 'UX'],
-        description:
-            'UXfolio is a powerful UX portfolio builder with no coding required. Pick a stunning template and tell the story behind your design process.',
-        url: 'https://uxfol.io/',
-    },
-    {
         name: 'UtilPortal',
         categories: ['SEO', 'Tooling', 'Startup'],
         description:
             'UtilPortal is your go-to platform for discovering and accessing a curated collection of essential tools and resources.',
         url: 'https://utilportal.com/',
+        keywords: ['directory', 'tools', 'development', 'seo'],
+    },
+    {
+        name: 'UXfolio',
+        categories: ['Template', 'UX'],
+        description:
+            'UXfolio is a powerful UX portfolio builder with no coding required. Pick a stunning template and tell the story behind your design process.',
+        url: 'https://uxfol.io/',
     },
 ]
