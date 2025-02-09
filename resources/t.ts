@@ -172,6 +172,13 @@ export const resources: Resource[] = [
         keywords: ['developer tools', 'debugging', 'engineering'],
     },
     {
+        name: 'Testimonial Donut',
+        categories: ['Marketing'],
+        description: 'Testimonial collection so bloody easy, your gran can use it!',
+        url: 'https://www.testimonialdonut.com/',
+        keywords: ['ai', 'marketing', 'testimonial', 'lead magnet'],
+    },
+    {
         name: 'Themeselection',
         categories: ['Template'],
         description:
@@ -446,6 +453,15 @@ export const resources: Resource[] = [
             'content writer',
         ],
     },
+    {
+        name: 'Truelist',
+        description:
+            'Truelist is a subscription-based email verification platform that provides unlimited email validation for sales and marketing lists.',
+        categories: ['Email', 'Marketing', 'Productivity'],
+        url: 'https://truelist.io/',
+        keywords: ['developer tool', 'email validation', 'sales prospecting', 'email deliverability'],
+    },
+
     {
         name: 'Tweet Detective',
         categories: ['Social Media', 'AI'],

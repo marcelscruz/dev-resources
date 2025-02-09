@@ -10,6 +10,14 @@ export const resources: Resource[] = [
         keywords: ['boilerplates', 'starter kits', 'frameworks', 'development', 'low code'],
     },
     {
+        name: 'SaaSCurate',
+        description: 'SaaSCurate is a community-driven platform where SaaS founders launch and grow their products.',
+        categories: ['Marketing', 'Startup'],
+        url: 'https://saascurate.com/',
+        keywords: ['directory', 'community', 'seo', 'growth'],
+    },
+
+    {
         name: 'SaaS Design',
         categories: ['Design', 'Inspiration', 'UI'],
         description:
@@ -43,7 +51,7 @@ export const resources: Resource[] = [
         categories: ['Marketing', 'Analytics', 'Social Media'],
         description:
             'The content publishing & scheduling platform the most exclusive content creators use for Threads: a SaaS to Build and monetize your content on Threads.',
-        url: 'https://www.schedulthreads.com',
+        url: 'https://www.schedulethreads.com',
         keywords: ['threads', 'marketing', 'instagram'],
     },
     {
@@ -203,6 +211,21 @@ export const resources: Resource[] = [
         description:
             "Shift Nudge is the systematic process to learn the visual skills of interface design, even if you don't have a design background. Perfect for those wanting to enter or advance in the field.",
         url: 'https://shiftnudge.com/',
+    },
+    {
+        name: 'ShipFast',
+        categories: ['Productivity', 'Template', 'Website Builder'],
+        description:
+            'The NextJS boilerplate with all you need to build your SaaS, AI tool, or any other web app and make your first $ online fast.',
+        url: 'https://shipfa.st',
+        keywords: ['ShipFast', 'NextJS boilerplate', 'NextJS starter', 'NextJS template', 'NextJS', 'ReactJS'],
+    },
+    {
+        name: 'Shipped.club',
+        categories: ['Productivity', 'Template', 'Website Builder'],
+        description:
+            'The #1 Next.js SaaS Kit for busy founders. Build and ship your startup in days, not months, and make money online.',
+        url: 'https://shipped.club',
     },
     {
         name: 'ShopTalkShow',
@@ -513,6 +536,51 @@ export const resources: Resource[] = [
         url: 'https://www.soundstripe.com/',
     },
     {
+        name: 'Sourcetable',
+        categories: ['Analytics', 'Productivity', 'Startup'],
+        description:
+            "Sourcetable is an AI spreadsheet and data analyst. It has the same notation, formulas and charting as Excel, paired with the world's most advanced AI.",
+        url: 'https://sourcetable.com',
+        keywords: [
+            'Spreadsheet',
+            'AI spreadsheet',
+            'Analysis',
+            'Analytics',
+            'Data Cleaning',
+            'Research Automation',
+            'XLSX and CSV Analysis',
+            'Data Summarization',
+            'SQL Generator',
+            'Integration Capabilities',
+            'Voice-Driven Spreadsheet',
+            'Spreadsheet Automation',
+            'Live Data Import',
+            'Executive Data Reviews',
+            'Automated Reporting',
+            'Bulk CSV Analysis',
+            'Business Intelligence',
+            'Task Automation',
+            'Direct Platform Import',
+            'Interactive User Experience',
+            'Data Enrichment',
+            'Code-Driven Analysis',
+            'Synthetic Data Generation',
+            'Financial Terms and Formulae Support',
+            'Interactive Report Creation',
+            'Data Infrastructure',
+            'Live Data Integration',
+            'Python Support',
+            'MySQL Integration',
+            'PostgreSQL Integration',
+            'Financial Platform Integration (QuickBooks, Stripe)',
+            'CRM Integration (HubSpot)',
+            'E-Commerce Integration (Shopify)',
+            'Advertising Integration (Google Ads)',
+            'Interactive Visualizations',
+            'No Signup Required for CSV Analysis',
+        ],
+    },
+    {
         name: 'Sqlable',
         categories: ['Tooling', 'Database'],
         description:
@@ -580,7 +648,14 @@ export const resources: Resource[] = [
         url: 'https://startkit.ai',
         keywords: ['boilerplate', 'startup', 'starterkit', 'ai'],
     },
-
+    {
+        name: 'StartupBolt',
+        description:
+            'A Next.js boilerplate to launch SaaS quickly with features like database, authentication, SEO, payments, and more.',
+        categories: ['Startup', 'Template'],
+        url: 'https://www.startupbolt.com',
+        keywords: ['boilerplate', 'Next.js', 'SaaS', 'starterkit'],
+    },
     {
         name: 'Startup Jobs',
         categories: ['Job'],
@@ -594,6 +669,13 @@ export const resources: Resource[] = [
         description:
             'The startup podcast with more than 500 episodes to help you launch and grow. 10 million+ downloads. 500+ five-star reviews.',
         url: 'https://www.startupsfortherestofus.com/',
+    },
+    {
+        name: 'Startups Gallery',
+        description:
+            'A gallery of outstanding early-stage companies, fresh jobs and funding news curated in one place.',
+        categories: ['Learn', 'Job', 'Remote'],
+        url: 'https://startups.gallery/',
     },
     {
         name: 'Stormkit',
@@ -723,6 +805,13 @@ export const resources: Resource[] = [
         description:
             'Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI.',
         url: 'https://surge.sh/',
+    },
+    {
+        name: 'Social Intents',
+        categories: ['AI', 'Productivity', 'Marketing'],
+        description: 'Live Chat by Social Intents is the easiest way to boost sales and improve customer service',
+        url: 'https://www.socialintents.com/',
+        keywords: ['live chat', 'ai', 'sales', 'customer service'],
     },
     {
         name: 'SvelteLaunch',

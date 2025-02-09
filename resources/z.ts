@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'ZapKit',
+        categories: ['Productivity', 'AI', 'Startup'],
+        description:
+            'ZapKit is a Laravel boilerplate powered by AI that helps you build a Laravel application within minutes.',
+        url: 'https://zapkit.dev/',
+        keywords: ['boilerplate', 'startup', 'starter kit', 'ai', 'sass'],
+    },
+    {
         name: 'Zenlogin',
         categories: ['Authentication', 'Email', 'Security'],
         description:
