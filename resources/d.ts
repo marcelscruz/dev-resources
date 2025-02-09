@@ -334,6 +334,14 @@ export const resources: Resource[] = [
         keywords: ['doodles', 'scribbles'],
     },
     {
+        name: 'Doculator',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Doculator offers online AI translation across all file formats, with support for over 100 languages.',
+        url: 'https://www.doculator.org/',
+        keywords: ['translation', 'ai', 'productivity', 'file formats'],
+    },
+    {
         name: 'Dracula theme',
         categories: ['Editor', 'Extension', 'Terminal'],
         description:
@@ -386,6 +394,14 @@ export const resources: Resource[] = [
         url: 'https://www.droxy.ai/',
 
         keywords: ['Agents', 'Customer Support', 'Chatbots'],
+    },
+    {
+        name: 'DROP',
+        description:
+            'DROP is a simple way to share and host your work, showcase like an artist. The best alternative to WeTransfer.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://drop.space/',
+        keywords: ['file sharing', 'file transfer', 'file hosting'],
     },
     {
         name: 'dygraphs',

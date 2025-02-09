@@ -86,6 +86,15 @@ export const resources: Resource[] = [
         url: 'https://larajobs.com/',
     },
     {
+        name: 'Launching Today',
+        description:
+            'Launching Today is a  community of entrepreneurs, builders, and dreamers. Discover new products, find inspiration and new ideas, and share your own.',
+        categories: ['Startup', 'Marketing', 'Productivity'],
+        url: 'https://www.launching.today/',
+        keywords: ['directory', 'community'],
+    },
+
+    {
         name: 'Launch Squad',
         categories: ['Productivity', 'Marketing'],
         description: 'The best Product Hunt alternatives for your next launch.',
@@ -292,6 +301,13 @@ export const resources: Resource[] = [
         url: 'https://lineicons.com/',
     },
     {
+        name: 'Linito',
+        categories: ['Analytics', 'Marketing'],
+        description: 'A better interface for Google Analytics',
+        url: 'https://linito.io/',
+        keywords: ['Google Analytics', 'Analytics', 'web analytics', 'website analytics'],
+    },
+    {
         name: 'LinkedIn Learning',
         categories: ['Learn', 'Programming'],
         description:
@@ -328,6 +344,15 @@ export const resources: Resource[] = [
             "Simplify your infrastructure with Linode's cloud computing and hosting solutions and develop, deploy, and scale faster and easier.",
         url: 'https://www.linode.com/',
     },
+    {
+        name: 'Lisapet.ai',
+        description:
+            'Lisapet.ai is the next-level AI product development platform that empowers teams to prototype, test, and ship robust AI features 10x faster.',
+        categories: ['AI', 'Testing', 'Productivity'],
+        url: 'https://www.lisapet.ai/',
+        keywords: ['ai prompt testing', 'ai prompt evaluation', 'prompt engineering', 'llm evaluation'],
+    },
+
     {
         name: 'Lite Analytics',
         categories: ['Analytics'],

@@ -29,11 +29,26 @@ export const resources: Resource[] = [
         url: 'https://a11yweekly.com/',
     },
     {
+        name: 'aaask',
+        categories: ['AI', 'Productivity'],
+        description: 'aaask is the best way to collect feedback from your team on autopilot',
+        url: 'https://www.aaask.com/',
+        keywords: ['ai', 'productivity', 'feedback', 'team', 'autopilot'],
+    },
+    {
         name: 'Accessible Color Generator',
         categories: ['Accessibility', 'Color'],
         description:
             'A tool for creating color variations on a base color to meet WCAG AA or AAA color contrast ratio guidelines.',
         url: 'https://learnui.design/tools/accessible-color-generator.html',
+    },
+    {
+        name: 'Achromatic',
+        categories: ['Startup', 'Template'],
+        description:
+            'Building your SaaS just got unfairly easy. Skip the noise and focus on your business with the best advanced Next.js SaaS starter kit on the market.',
+        url: 'https://achromatic.dev',
+        keywords: ['saas', 'starter kit', 'boilerplate', 'next.js', 'shadcn', 'next-auth', 'prisma'],
     },
     {
         name: 'Add3',
@@ -82,6 +97,20 @@ export const resources: Resource[] = [
         url: 'https://ahrefs.com/',
     },
     {
+        name: 'AI Agent Store',
+        categories: ['AI'],
+        description: 'Place where developers showcase their AI Agents for businesses.',
+        keywords: ['ai', 'artificial intelligence', 'developer', 'ai agent', 'marketplace', 'store'],
+        url: 'https://aiagentstore.ai',
+    },
+    {
+        name: 'AI Best Tools',
+        categories: ['AI', 'Tooling'],
+        description: 'Discover the best AI tools in AIBest.tools',
+        keywords: ['ai', 'ai tools directory', 'developer tools', 'tools', 'ai tools', 'directory'],
+        url: 'https://aibest.tools',
+    },
+    {
         name: 'AI Jobs',
         categories: ['AI', 'Job'],
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
@@ -103,6 +132,13 @@ export const resources: Resource[] = [
             'developer',
         ],
         url: 'https://aijobs.net',
+    },
+    {
+        name: 'AI Jobster',
+        categories: ['Job'],
+        description: 'Find jobs openings at AI companies',
+        keywords: ['Software Jobs', 'Legal Jobs', 'Remote AI Jobs', 'Legal Jobs'],
+        url: 'https://aijobster.work',
     },
     {
         name: 'AI Directories',
@@ -197,6 +233,12 @@ export const resources: Resource[] = [
         description:
             'An intelligent IDE for iOS/macOS development focused on code quality, efficient code navigation, smart code completion, on-the-fly code analysis with quick-fixes and superior code refactorings.',
         url: 'https://www.jetbrains.com/objc/',
+    },
+    {
+        name: 'App Icon Generator',
+        categories: ['Code Generator', 'Programming'],
+        description: 'Create beautiful app icons for iOS and Android. Generate all required sizes with just one click.',
+        url: 'https://launchyourapp.dev/tools/app-icon-generator',
     },
     {
         name: 'AppMockUp',
