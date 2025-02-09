@@ -647,6 +647,13 @@ export const resources: Resource[] = [
         url: 'https://www.colorzilla.com/',
     },
     {
+        name: 'Commenze',
+        description: 'Commenze is a no-code programmatic SEO tool that lets you create and publish hundreds of search-optimized pages in minutes.',
+        categories: ['AI', 'SEO', 'Website Builder'],
+        url: 'https://commenze.com/',
+        keywords: ['cms', 'programmatic seo', 'directory site', 'no code'], 
+    },
+    {
         name: 'Commit Your Code!',
         categories: ['Podcast', 'Programming'],
         description:
