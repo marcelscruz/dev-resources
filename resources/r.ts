@@ -47,6 +47,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'ai agents', 'ai automation', 'ai software', 'ai tools'],
     },
     {
+        name: 'Random Color',
+        categories: ['Color'],
+        description:
+            'Simple tool to generate a random color.',
+        url: 'https://randomcolor.com/',
+        keywords: ['random color', 'color generator'],
+    },
+    {
         name: 'Raycast',
         categories: ['Productivity'],
         description:
