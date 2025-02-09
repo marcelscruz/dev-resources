@@ -165,6 +165,13 @@ export const resources: Resource[] = [
         url: 'https://www.pixellove.com/',
     },
     {
+        name: 'Pintura',
+        categories: ['Code Generator', 'Image'],
+        description: 'A powerful JavaScript Image Editor that integrates with every stack.',
+        keywords: ['image editor', 'javascript', 'image processing'],
+        url: 'https://pqina.nl/pintura/',
+    },
+    {
         name: 'Plausible',
         categories: ['Analytics'],
         description:

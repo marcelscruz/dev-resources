@@ -138,6 +138,14 @@ export const resources: Resource[] = [
         url: 'https://matomo.org/',
     },
     {
+        name: 'Marketing Auditor',
+        categories: ['Marketing', 'Analytics'],
+        description:
+            'Say goodbye to manual audit checklists with Marketing Auditor, the ultimate solution for agencies looking to streamline their audit process',
+        url: 'https://www.marketingauditor.com/',
+        keywords: ['marketing', 'audit', 'checklist', 'automation', 'seo', 'google', 'analytics'],
+    },
+    {
         name: 'MDN Web Docs',
         categories: ['Documentation'],
         description:
@@ -358,5 +366,12 @@ export const resources: Resource[] = [
         description:
             'Most Powerful & Comprehensive Open Source and Free MUI React NextJS Admin Dashboard Template built for developers.',
         url: 'https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free',
+    },
+    {
+        name: 'Mkdirs',
+        categories: ['Tooling', 'Code Generator', 'Productivity'],
+        description: 'Launch profitable directory website in minutes',
+        url: 'https://mkdirs.com',
+        keywords: ['directory', 'website', 'profitable', 'minutes', 'boilerplate'],
     },
 ]

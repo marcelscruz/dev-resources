@@ -90,6 +90,13 @@ export const resources: Resource[] = [
         url: 'https://getuikit.com/',
     },
     {
+        name: 'Uiverse',
+        categories: ['Design', 'Inspiration', 'UI', 'Illustration'],
+        description:
+            "Community-made library of free and customizable UI elements made with CSS or Tailwind. It's all free to copy and use in your projects.",
+        url: 'https://uiverse.io/',
+    },
+    {
         name: 'Ultimate Web Speed',
         description:
             'Improve your website performance and SEO in hours not days. Use our tools and compare features, ease of use, and compatibility of resources.',
@@ -104,6 +111,15 @@ export const resources: Resource[] = [
             'We are the website and applications hosting that you can trust. Perfect for the current needs of agencies, developers and entrepreneurs.',
         url: 'https://www.umbler.com/',
     },
+    {
+        name: 'Unblurimage AI',
+        description:
+            'Unblurimage AI offers a cutting-edge platform for enhancing and upscaling images, making them sharper, clearer, and more vivid.',
+        categories: ['AI', 'Image', 'Productivity'],
+        url: 'https://unblurimage.ai/',
+        keywords: ['ai', 'unblur image', 'photo', 'content'],
+    },
+
     {
         name: 'Undefined',
         categories: ['Podcast', 'Programming'],

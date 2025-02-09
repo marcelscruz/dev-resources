@@ -2,6 +2,15 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'RabbitHoles AI',
+        description:
+            'RabbitHoles AI is an application designed to transform AI interactions by providing an infinite canvas where each node represents a separate conversation.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://www.rabbitholes.ai/',
+        keywords: ['ai chatbot', 'ai research', 'ai learning', 'education'],
+    },
+
+    {
         name: 'Radix',
         categories: ['Icon', 'UI', 'Design', 'Color'],
         description: 'Components, icons, and colors for building high‑quality, accessible UI. Free and open-source.',
@@ -29,6 +38,13 @@ export const resources: Resource[] = [
             'Learn to type faster. Take touch typing lessons, practice your keyboarding skills online, take a typing test and get typing speed certificate for free.',
         keywords: ['learn to type', 'typing tutor', 'touch typing', 'keyboarding', 'online typing tutor', 'touch type'],
         url: 'https://www.ratatype.com/',
+    },
+    {
+        name: 'Rantir',
+        categories: ['AI', 'Productivity'],
+        description: 'Build AI Agents and Automations. Own your AI software. Own your AI.',
+        url: 'https://www.rantir.com/',
+        keywords: ['ai', 'ai agents', 'ai automation', 'ai software', 'ai tools'],
     },
     {
         name: 'Raycast',
@@ -145,6 +161,15 @@ export const resources: Resource[] = [
             'The biggest collection of design references from great web applications. Refero make design research easier and faster than ever before. Explore over then 8,000 pages and 40,000 searchable screens of the best of product design from real life.',
         url: 'https://refero.design',
     },
+    {
+        name: 'Refinder AI',
+        description:
+            'Refinder is an AI powered universal search and work assistant designed to streamline information retrieval across apps and company data sources.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://refinder.ai/',
+        keywords: ['ai search', 'enterprise search', 'ai assistant', 'knowledge management'],
+    },
+
     {
         name: 'Rene Rehme',
         categories: ['Personal Website'],
@@ -270,6 +295,13 @@ export const resources: Resource[] = [
         url: 'https://www.resume.com/',
     },
     {
+        name: 'ResumeBoostAI',
+        categories: ['Resume', 'AI'],
+        description: 'Create a professional resume using AI.',
+        url: 'https://www.resumeboostai.com/',
+        keywords: ['resume', 'builder', 'ai', 'cv'],
+    },
+    {
         name: 'ResumeDive',
         description: 'A resume boosting service using AI',
         categories: ['Resume', 'Job', 'AI'],
@@ -305,11 +337,26 @@ export const resources: Resource[] = [
         url: 'https://www.resume-now.com/',
     },
     {
+        name: 'Retext',
+        description: 'Retext is a macOS app to use text snippets across any app or browser.',
+        categories: ['Startup', 'Productivity'],
+        url: 'https://www.retext.io/',
+        keywords: ['text expander', 'desktop app', 'macos app', 'text snippets'],
+    },
+
+    {
         name: 'Retool',
         categories: ['API Building', 'Productivity'],
         description:
             'Retool is the fast way to build internal tools. Drag-and-drop our building blocks and connect them to your databases and APIs to build your own tools, instantly. Connects with Postgres, REST APIs, GraphQL, Firebase, Google Sheets, and more.  Built by developers, for developers. Trusted by startups and Fortune 500s. Sign up for free.',
         url: 'https://retool.com/',
+    },
+    {
+        name: 'Revyou',
+        categories: ['AI', 'Marketing'],
+        description: 'Turn your reviews into a lead magnet',
+        url: 'https://www.revyou.me/',
+        keywords: ['ai', 'marketing', 'lead magnet', 'reviews'],
     },
     {
         name: 'reTypewriter',

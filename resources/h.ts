@@ -237,6 +237,24 @@ export const resources: Resource[] = [
         url: 'https://homie.gg',
     },
     {
+        name: 'HotBot',
+        categories: ['AI', 'Productivity'],
+        description: 'The Gateway to Advanced AI Chat and Expert AI Bots',
+        keywords: [
+            'Claude',
+            'OpenAI',
+            'Chat GPT',
+            'AI Chat',
+            'AI Chat Bot',
+            "Google's Gemini",
+            "Meta's Llama",
+            'Anthropic',
+            'Free AI chat',
+            'AI Search',
+        ],
+        url: 'https://www.hotbot.com/',
+    },
+    {
         name: 'HTMLrev',
         categories: ['Template'],
         description:
@@ -283,6 +301,14 @@ export const resources: Resource[] = [
         categories: ['Illustration'],
         description: 'Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.',
         url: 'https://www.humaaans.com/',
+    },
+    {
+        name: 'Humanize AI',
+        categories: ['AI', 'Productivity', 'Writing'],
+        description:
+            'Humanize AI is a cutting-edge tool that transforms robotic, AI-generated text into authentic, human-like writing.',
+        url: 'https://humanizeaitext.ai/',
+        keywords: ['ai', 'writing', 'human', 'text'],
     },
     {
         name: 'Hypertune',
