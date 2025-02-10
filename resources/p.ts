@@ -412,4 +412,11 @@ export const resources: Resource[] = [
             'Find specific Python Developer Jobs, including Remote Jobs. You are looking for Python Developers? Submit your position for free.',
         url: 'https://pythonjob.xyz/',
     },
+    {
+        name: 'Pythonium',
+        categories: ['Programming', 'Tooling'],
+        description:
+            'Online Python tools: Linter, formatter, regex tester, converter, obfuscator, and mock API.',
+        url: 'https://pythonium.net/',
+    },
 ]
