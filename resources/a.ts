@@ -111,6 +111,13 @@ export const resources: Resource[] = [
         url: 'https://aibest.tools',
     },
     {
+        name: 'AI Face Swap',
+        categories: ['AI', 'Tooling'],
+        description: 'Create amazing face swaps locally with FaceFusion AI! Download top-rated AI face swap software for Windows and Mac.',
+        keywords: ['AI face swap software', 'face swap', 'Windows face swap', 'Mac face swap', 'local face swap', 'desktop face swap'],
+        url: 'https://facefusion.site',
+    },
+    {
         name: 'AI Jobs',
         categories: ['AI', 'Job'],
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
