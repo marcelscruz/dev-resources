@@ -1,5 +1,5 @@
 {
-"count": 1023,
+"count": 1024,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8043,6 +8043,22 @@
             "Productivity",
             "Copilot",
             "easy snippet search"
+        ]
+    },
+    {
+        "name": "PimpMySnap",
+        "description": "PimpMySnap is a powerful screenshot editor capable of transforming your screenshots into eye-catching visuals.",
+        "categories": [
+            "Design",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://pimpmysnap.com/",
+        "keywords": [
+            "screenshot",
+            "social media",
+            "editor",
+            "content,"
         ]
     },
     {
