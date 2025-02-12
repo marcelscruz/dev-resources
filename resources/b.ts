@@ -9,6 +9,14 @@ export const resources: Resource[] = [
         url: 'https://ahrefs.com/backlink-checker',
     },
     {
+        name: 'BacklinkBot',
+        categories: ['Marketing', 'SEO'],
+        description:
+            'Submit your startup to 100+ directories in 10 minutes. Get instant traffic on your site, save days of manual work with just one click.',
+        url: 'https://backlinkbot.ai',
+        keywords: ['backlink', 'seo', 'directory submission', 'traffic'],
+    },
+    {
         name: 'BacklinkGPT',
         categories: ['SEO', 'Marketing', 'AI'],
         description: 'Automate Your Link-Building with AI-Personalized Outreach.',
@@ -35,6 +43,13 @@ export const resources: Resource[] = [
             'Tender Consulting Services',
         ],
         url: 'https://bandofacile.com/',
+    },
+    {
+        name: 'BCMS',
+        categories: ['Productivity', 'Website Builder'],
+        description:
+            'BCMS, a headless CMS provides flexible content modeling for creative projects in Next.js, Gatsby.js, and Nuxt.js.',
+        url: 'https://thebcms.com/',
     },
     {
         name: 'beampipe',
@@ -265,6 +280,14 @@ export const resources: Resource[] = [
         categories: ['AI', 'Writing', 'Blog'],
         description: 'Generate SEO-optimized blog posts at scale',
         url: 'https://blogbud.ai/',
+    },
+    {
+        name: 'BoilerplateHub',
+        categories: ['Productivity', 'Template', 'Startup'],
+        description:
+            'Save weeks of setup time with production-ready boilerplates, templates and starter kits for SaaS, web and mobile applications. Carefully vetted and maintained by developers.',
+        url: 'https://boilerplatehub.com/',
+        keywords: ['boilerplates', 'starter kits', 'frameworks', 'development', 'low code'],
     },
     {
         name: 'Bootify',

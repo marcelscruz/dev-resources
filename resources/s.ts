@@ -10,6 +10,14 @@ export const resources: Resource[] = [
         keywords: ['boilerplates', 'starter kits', 'frameworks', 'development', 'low code'],
     },
     {
+        name: 'SaaSCurate',
+        description: 'SaaSCurate is a community-driven platform where SaaS founders launch and grow their products.',
+        categories: ['Marketing', 'Startup'],
+        url: 'https://saascurate.com/',
+        keywords: ['directory', 'community', 'seo', 'growth'],
+    },
+
+    {
         name: 'SaaS Design',
         categories: ['Design', 'Inspiration', 'UI'],
         description:
@@ -43,7 +51,7 @@ export const resources: Resource[] = [
         categories: ['Marketing', 'Analytics', 'Social Media'],
         description:
             'The content publishing & scheduling platform the most exclusive content creators use for Threads: a SaaS to Build and monetize your content on Threads.',
-        url: 'https://www.schedulthreads.com',
+        url: 'https://www.schedulethreads.com',
         keywords: ['threads', 'marketing', 'instagram'],
     },
     {
@@ -124,6 +132,15 @@ export const resources: Resource[] = [
             'SEO Get is an alternative to Google Search Console performance reports. Minimalist and simple to use. Get actionable insights in minutes.',
         url: 'https://seogets.com/',
     },
+    {
+        name: 'SEO Katana',
+        description:
+            'Katana helps you find your competitors top organic content, analyze it, and create unique content inspired by it for you.',
+        categories: ['AI', 'Marketing', 'Productivity'],
+        url: 'https://seokatana.com/',
+        keywords: ['business', 'seo', 'ai content generator', 'competitor research'],
+    },
+
     {
         name: 'SEO Powersuite',
         categories: ['SEO'],
@@ -640,7 +657,14 @@ export const resources: Resource[] = [
         url: 'https://startkit.ai',
         keywords: ['boilerplate', 'startup', 'starterkit', 'ai'],
     },
-
+    {
+        name: 'StartupBolt',
+        description:
+            'A Next.js boilerplate to launch SaaS quickly with features like database, authentication, SEO, payments, and more.',
+        categories: ['Startup', 'Template'],
+        url: 'https://www.startupbolt.com',
+        keywords: ['boilerplate', 'Next.js', 'SaaS', 'starterkit'],
+    },
     {
         name: 'Startup Jobs',
         categories: ['Job'],
@@ -654,6 +678,13 @@ export const resources: Resource[] = [
         description:
             'The startup podcast with more than 500 episodes to help you launch and grow. 10 million+ downloads. 500+ five-star reviews.',
         url: 'https://www.startupsfortherestofus.com/',
+    },
+    {
+        name: 'Startups Gallery',
+        description:
+            'A gallery of outstanding early-stage companies, fresh jobs and funding news curated in one place.',
+        categories: ['Learn', 'Job', 'Remote'],
+        url: 'https://startups.gallery/',
     },
     {
         name: 'Stormkit',
@@ -783,6 +814,13 @@ export const resources: Resource[] = [
         description:
             'Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI.',
         url: 'https://surge.sh/',
+    },
+    {
+        name: 'Social Intents',
+        categories: ['AI', 'Productivity', 'Marketing'],
+        description: 'Live Chat by Social Intents is the easiest way to boost sales and improve customer service',
+        url: 'https://www.socialintents.com/',
+        keywords: ['live chat', 'ai', 'sales', 'customer service'],
     },
     {
         name: 'SvelteLaunch',

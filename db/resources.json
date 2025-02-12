@@ -1,5 +1,5 @@
 {
-"count": 985,
+"count": 1016,
 "data": [
     {
         "name": "1001 Fonts",
@@ -424,6 +424,15 @@
         "url": "https://cloud.google.com/apigee"
     },
     {
+        "name": "App Icon Generator",
+        "categories": [
+            "Code Generator",
+            "Programming"
+        ],
+        "description": "Create beautiful app icons for iOS and Android. Generate all required sizes with just one click.",
+        "url": "https://launchyourapp.dev/tools/app-icon-generator"
+    },
+    {
         "name": "ApparenceKit",
         "categories": [
             "Template",
@@ -656,6 +665,21 @@
         "url": "https://ahrefs.com/backlink-checker"
     },
     {
+        "name": "BacklinkBot",
+        "categories": [
+            "Marketing",
+            "SEO"
+        ],
+        "description": "Submit your startup to 100+ directories in 10 minutes. Get instant traffic on your site, save days of manual work with just one click.",
+        "url": "https://backlinkbot.ai",
+        "keywords": [
+            "backlink",
+            "seo",
+            "directory submission",
+            "traffic"
+        ]
+    },
+    {
         "name": "BacklinkGPT",
         "categories": [
             "SEO",
@@ -698,6 +722,15 @@
             "Tender Consulting Services"
         ],
         "url": "https://bandofacile.com/"
+    },
+    {
+        "name": "BCMS",
+        "categories": [
+            "Productivity",
+            "Website Builder"
+        ],
+        "description": "BCMS, a headless CMS provides flexible content modeling for creative projects in Next.js, Gatsby.js, and Nuxt.js.",
+        "url": "https://thebcms.com/"
     },
     {
         "name": "beampipe",
@@ -1002,6 +1035,23 @@
         "url": "https://blush.design/"
     },
     {
+        "name": "BoilerplateHub",
+        "categories": [
+            "Productivity",
+            "Template",
+            "Startup"
+        ],
+        "description": "Save weeks of setup time with production-ready boilerplates, templates and starter kits for SaaS, web and mobile applications. Carefully vetted and maintained by developers.",
+        "url": "https://boilerplatehub.com/",
+        "keywords": [
+            "boilerplates",
+            "starter kits",
+            "frameworks",
+            "development",
+            "low code"
+        ]
+    },
+    {
         "name": "Bootify",
         "categories": [
             "Code Generator"
@@ -1264,6 +1314,23 @@
         ],
         "description": "Build an impressive resume and land that dream job. View online or download the PDF for FREE! CakeResume provides more than 50 resume templates and 1,000+ resume samples to help you make a professional resume in 10 minutes.",
         "url": "https://www.cakeresume.com/"
+    },
+    {
+        "name": "Callstack.ai Code Reviewer",
+        "description": "Effortless Code Reviews: Find Bugs, Fix Security Issues, and Speed Up Performance.",
+        "categories": [
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://callstack.ai",
+        "keywords": [
+            "github-integration",
+            "gitlab-integration",
+            "pull-requests",
+            "AI",
+            "ai-powered",
+            "code-review"
+        ]
     },
     {
         "name": "CandyIcons",
@@ -3048,6 +3115,21 @@
         ],
         "description": "The React codebase generator. Divjoy handles all the integration details. From routing to React hooks, you'll have everything you need to build something great.",
         "url": "https://divjoy.com/"
+    },
+    {
+        "name": "Doculator",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Doculator offers online AI translation across all file formats, with support for over 100 languages.",
+        "url": "https://www.doculator.org/",
+        "keywords": [
+            "translation",
+            "ai",
+            "productivity",
+            "file formats"
+        ]
     },
     {
         "name": "Documind AI",
@@ -5220,6 +5302,27 @@
         "url": "https://hostman.com/"
     },
     {
+        "name": "HotBot",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "The Gateway to Advanced AI Chat and Expert AI Bots",
+        "keywords": [
+            "Claude",
+            "OpenAI",
+            "Chat GPT",
+            "AI Chat",
+            "AI Chat Bot",
+            "Google's Gemini",
+            "Meta's Llama",
+            "Anthropic",
+            "Free AI chat",
+            "AI Search"
+        ],
+        "url": "https://www.hotbot.com/"
+    },
+    {
         "name": "HTML Reference",
         "categories": [
             "Cheatsheet"
@@ -5287,6 +5390,22 @@
         ],
         "description": "Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.",
         "url": "https://www.humaaans.com/"
+    },
+    {
+        "name": "Humanize AI",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Writing"
+        ],
+        "description": "Humanize AI is a cutting-edge tool that transforms robotic, AI-generated text into authentic, human-like writing.",
+        "url": "https://humanizeaitext.ai/",
+        "keywords": [
+            "ai",
+            "writing",
+            "human",
+            "text"
+        ]
     },
     {
         "name": "Hypertune",
@@ -5454,6 +5573,20 @@
         ],
         "description": "Upscale and enhance your image by using the latest AI technology. Support batch process.",
         "url": "https://imgupscaler.com"
+    },
+    {
+        "name": "IncidentHub",
+        "categories": [
+            "Tooling"
+        ],
+        "description": "Monitors the third-party Cloud and SaaS services that your application and team depend on. The Free (forever) tier has 20 services and 2 channels (Discord and Slack) for notifications.",
+        "keywords": [
+            "cloud monitoring",
+            "saas monitoring",
+            "third-party service monitoring",
+            "status page aggregator"
+        ],
+        "url": "https://incidenthub.cloud"
     },
     {
         "name": "Inclusive Components",
@@ -5958,6 +6091,21 @@
         ]
     },
     {
+        "name": "KitOps",
+        "description": "Simple, secure, and reproducible packaging for AI/ML projects",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "url": "https://kitops.ml/",
+        "keywords": [
+            "ai",
+            "ml",
+            "productivity",
+            "devops"
+        ]
+    },
+    {
         "name": "Kometa UI Kit",
         "categories": [
             "Library",
@@ -6401,6 +6549,21 @@
         "url": "https://lineicons.com/"
     },
     {
+        "name": "Linito",
+        "categories": [
+            "Analytics",
+            "Marketing"
+        ],
+        "description": "A better interface for Google Analytics",
+        "url": "https://linito.io/",
+        "keywords": [
+            "Google Analytics",
+            "Analytics",
+            "web analytics",
+            "website analytics"
+        ]
+    },
+    {
         "name": "LinkDR",
         "categories": [
             "SEO",
@@ -6467,6 +6630,22 @@
         ],
         "description": "Simplify your infrastructure with Linode's cloud computing and hosting solutions and develop, deploy, and scale faster and easier.",
         "url": "https://www.linode.com/"
+    },
+    {
+        "name": "Lisapet.ai",
+        "description": "Lisapet.ai is the next-level AI product development platform that empowers teams to prototype, test, and ship robust AI features 10x faster.",
+        "categories": [
+            "AI",
+            "Testing",
+            "Productivity"
+        ],
+        "url": "https://www.lisapet.ai/",
+        "keywords": [
+            "ai prompt testing",
+            "ai prompt evaluation",
+            "prompt engineering",
+            "llm evaluation"
+        ]
     },
     {
         "name": "Lite Analytics",
@@ -6736,6 +6915,24 @@
         ],
         "description": " A free and open-source reference guide that explains how to use Markdown.",
         "url": "https://markdownguide.org"
+    },
+    {
+        "name": "Marketing Auditor",
+        "categories": [
+            "Marketing",
+            "Analytics"
+        ],
+        "description": "Say goodbye to manual audit checklists with Marketing Auditor, the ultimate solution for agencies looking to streamline their audit process",
+        "url": "https://www.marketingauditor.com/",
+        "keywords": [
+            "marketing",
+            "audit",
+            "checklist",
+            "automation",
+            "seo",
+            "google",
+            "analytics"
+        ]
     },
     {
         "name": "Marko Denic",
@@ -7364,6 +7561,24 @@
         "url": "https://okjob.io/"
     },
     {
+        "name": "Omnigen",
+        "categories": [
+            "Marketing",
+            "AI",
+            "Productivity"
+        ],
+        "description": "Marketing and growth platform focused on outreach",
+        "url": "https://omnigen.co",
+        "keywords": [
+            "Marketing",
+            "AI",
+            "Productivity",
+            "Outreach",
+            "Growth",
+            "Influencers"
+        ]
+    },
+    {
         "name": "One Page Love",
         "categories": [
             "Design",
@@ -7441,6 +7656,24 @@
             "web development",
             "containers",
             "macOS"
+        ]
+    },
+    {
+        "name": "Open Source Boilerplates",
+        "categories": [
+            "Programming",
+            "Template",
+            "Open Source"
+        ],
+        "description": "A curated list of open source boilerplates and starter kits for building modern applications. From web development with React & Next.js to mobile apps with React Native, Flutter, and native platforms.",
+        "url": "https://opensourceboilerplates.com",
+        "keywords": [
+            "saas starter kits",
+            "open source boilerplates",
+            "saas boilerplates",
+            "react native boilerplates",
+            "flutter boilerplates",
+            "native boilerplates"
         ]
     },
     {
@@ -7754,6 +7987,20 @@
         ],
         "description": "Full Page Test Analysis.",
         "url": "https://tools.pingdom.com/"
+    },
+    {
+        "name": "Pintura",
+        "categories": [
+            "Code Generator",
+            "Image"
+        ],
+        "description": "A powerful JavaScript Image Editor that integrates with every stack.",
+        "keywords": [
+            "image editor",
+            "javascript",
+            "image processing"
+        ],
+        "url": "https://pqina.nl/pintura/"
     },
     {
         "name": "Pixabay",
@@ -8133,6 +8380,21 @@
         "url": "https://quokkajs.com/"
     },
     {
+        "name": "RabbitHoles AI",
+        "description": "RabbitHoles AI is an application designed to transform AI interactions by providing an infinite canvas where each node represents a separate conversation.",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "url": "https://www.rabbitholes.ai/",
+        "keywords": [
+            "ai chatbot",
+            "ai research",
+            "ai learning",
+            "education"
+        ]
+    },
+    {
         "name": "Radix",
         "categories": [
             "Icon",
@@ -8152,12 +8414,40 @@
         ]
     },
     {
+        "name": "Random Color",
+        "categories": [
+            "Color"
+        ],
+        "description": "Simple tool to generate a random color.",
+        "url": "https://randomcolor.com/",
+        "keywords": [
+            "random color",
+            "color generator"
+        ]
+    },
+    {
         "name": "RankWizard",
         "categories": [
             "SEO"
         ],
         "description": "RankWizard is a programmatic SEO writer that writes your content for you. All you need is keywords and we will deliver your content in minutes.",
         "url": "https://www.rankwizardai.com/"
+    },
+    {
+        "name": "Rantir",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Build AI Agents and Automations. Own your AI software. Own your AI.",
+        "url": "https://www.rantir.com/",
+        "keywords": [
+            "ai",
+            "ai agents",
+            "ai automation",
+            "ai software",
+            "ai tools"
+        ]
     },
     {
         "name": "RapidAPI",
@@ -8360,6 +8650,21 @@
         ],
         "description": "The biggest collection of design references from great web applications. Refero make design research easier and faster than ever before. Explore over then 8,000 pages and 40,000 searchable screens of the best of product design from real life.",
         "url": "https://refero.design"
+    },
+    {
+        "name": "Refinder AI",
+        "description": "Refinder is an AI powered universal search and work assistant designed to streamline information retrieval across apps and company data sources.",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "url": "https://refinder.ai/",
+        "keywords": [
+            "ai search",
+            "enterprise search",
+            "ai assistant",
+            "knowledge management"
+        ]
     },
     {
         "name": "Remix Icon",
@@ -8596,6 +8901,21 @@
         ]
     },
     {
+        "name": "Retext",
+        "description": "Retext is a macOS app to use text snippets across any app or browser.",
+        "categories": [
+            "Startup",
+            "Productivity"
+        ],
+        "url": "https://www.retext.io/",
+        "keywords": [
+            "text expander",
+            "desktop app",
+            "macos app",
+            "text snippets"
+        ]
+    },
+    {
         "name": "Retool",
         "categories": [
             "API Building",
@@ -8765,6 +9085,21 @@
         "url": "https://www.saasdesign.io/free-figma-templates/"
     },
     {
+        "name": "SaaSCurate",
+        "description": "SaaSCurate is a community-driven platform where SaaS founders launch and grow their products.",
+        "categories": [
+            "Marketing",
+            "Startup"
+        ],
+        "url": "https://saascurate.com/",
+        "keywords": [
+            "directory",
+            "community",
+            "seo",
+            "growth"
+        ]
+    },
+    {
         "name": "SaaSFrame",
         "categories": [
             "Inspiration",
@@ -8798,7 +9133,7 @@
             "Social Media"
         ],
         "description": "The content publishing & scheduling platform the most exclusive content creators use for Threads: a SaaS to Build and monetize your content on Threads.",
-        "url": "https://www.schedulthreads.com",
+        "url": "https://www.schedulethreads.com",
         "keywords": [
             "threads",
             "marketing",
@@ -8934,6 +9269,22 @@
         ],
         "description": "SEO Get is an alternative to Google Search Console performance reports. Minimalist and simple to use. Get actionable insights in minutes.",
         "url": "https://seogets.com/"
+    },
+    {
+        "name": "SEO Katana",
+        "description": "Katana helps you find your competitors top organic content, analyze it, and create unique content inspired by it for you.",
+        "categories": [
+            "AI",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://seokatana.com/",
+        "keywords": [
+            "business",
+            "seo",
+            "ai content generator",
+            "competitor research"
+        ]
     },
     {
         "name": "SEO Powersuite",
@@ -9383,6 +9734,22 @@
         "url": "https://snipit.io/"
     },
     {
+        "name": "Social Intents",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Marketing"
+        ],
+        "description": "Live Chat by Social Intents is the easiest way to boost sales and improve customer service",
+        "url": "https://www.socialintents.com/",
+        "keywords": [
+            "live chat",
+            "ai",
+            "sales",
+            "customer service"
+        ]
+    },
+    {
         "name": "Soft Skills Engineering",
         "categories": [
             "Podcast",
@@ -9588,6 +9955,21 @@
         "url": "https://startup.jobs/"
     },
     {
+        "name": "StartupBolt",
+        "description": "A Next.js boilerplate to launch SaaS quickly with features like database, authentication, SEO, payments, and more.",
+        "categories": [
+            "Startup",
+            "Template"
+        ],
+        "url": "https://www.startupbolt.com",
+        "keywords": [
+            "boilerplate",
+            "Next.js",
+            "SaaS",
+            "starterkit"
+        ]
+    },
+    {
         "name": "Startups For the Rest of Us",
         "categories": [
             "Podcast",
@@ -9595,6 +9977,16 @@
         ],
         "description": "The startup podcast with more than 500 episodes to help you launch and grow. 10 million+ downloads. 500+ five-star reviews.",
         "url": "https://www.startupsfortherestofus.com/"
+    },
+    {
+        "name": "Startups Gallery",
+        "description": "A gallery of outstanding early-stage companies, fresh jobs and funding news curated in one place.",
+        "categories": [
+            "Learn",
+            "Job",
+            "Remote"
+        ],
+        "url": "https://startups.gallery/"
     },
     {
         "name": "Stormkit",
@@ -10477,6 +10869,22 @@
         ]
     },
     {
+        "name": "Truelist",
+        "description": "Truelist is a subscription-based email verification platform that provides unlimited email validation for sales and marketing lists.",
+        "categories": [
+            "Email",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://truelist.io/",
+        "keywords": [
+            "developer tool",
+            "email validation",
+            "sales prospecting",
+            "email deliverability"
+        ]
+    },
+    {
         "name": "Tweet Detective",
         "categories": [
             "Social Media",
@@ -10685,6 +11093,17 @@
         "url": "https://getuikit.com/"
     },
     {
+        "name": "Uiverse",
+        "categories": [
+            "Design",
+            "Inspiration",
+            "UI",
+            "Illustration"
+        ],
+        "description": "Community-made library of free and customizable UI elements made with CSS or Tailwind. It's all free to copy and use in your projects.",
+        "url": "https://uiverse.io/"
+    },
+    {
         "name": "Ultimate Web Speed",
         "description": "Improve your website performance and SEO in hours not days. Use our tools and compare features, ease of use, and compatibility of resources.",
         "categories": [
@@ -10708,6 +11127,22 @@
         ],
         "description": "We are the website and applications hosting that you can trust. Perfect for the current needs of agencies, developers and entrepreneurs.",
         "url": "https://www.umbler.com/"
+    },
+    {
+        "name": "Unblurimage AI",
+        "description": "Unblurimage AI offers a cutting-edge platform for enhancing and upscaling images, making them sharper, clearer, and more vivid.",
+        "categories": [
+            "AI",
+            "Image",
+            "Productivity"
+        ],
+        "url": "https://unblurimage.ai/",
+        "keywords": [
+            "ai",
+            "unblur image",
+            "photo",
+            "content"
+        ]
     },
     {
         "name": "Undefined",
@@ -10922,6 +11357,22 @@
         "url": "https://www.banuba.com/video-editor-sdk-best-for-developers",
         "keywords": [
             "video editor"
+        ]
+    },
+    {
+        "name": "VideoFaceSwap",
+        "description": "VideoFaceSwap is a cutting-edge tool that leverages advanced technology to enable seamless face-swapping in videos and images, making creative multimedia processing easy and accessible.",
+        "categories": [
+            "AI",
+            "Video",
+            "Productivity"
+        ],
+        "url": "https://videofaceswap.io/",
+        "keywords": [
+            "video face swap",
+            "photo face swap",
+            "ai video tools",
+            "ai image tools"
         ]
     },
     {
@@ -11468,6 +11919,23 @@
         ],
         "description": "A utility-first CSS-in-JS framework built for React.",
         "url": "https://xstyled.dev/"
+    },
+    {
+        "name": "ZapKit",
+        "categories": [
+            "Productivity",
+            "AI",
+            "Startup"
+        ],
+        "description": "ZapKit is a Laravel boilerplate powered by AI that helps you build a Laravel application within minutes.",
+        "url": "https://zapkit.dev/",
+        "keywords": [
+            "boilerplate",
+            "startup",
+            "starter kit",
+            "ai",
+            "sass"
+        ]
     },
     {
         "name": "Zenlogin",

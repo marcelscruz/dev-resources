@@ -108,6 +108,14 @@ export const resources: Resource[] = [
         url: 'https://imgupscaler.com',
     },
     {
+        name: 'IncidentHub',
+        categories: ['Tooling'],
+        description:
+            'Monitors the third-party Cloud and SaaS services that your application and team depend on. The Free (forever) tier has 20 services and 2 channels (Discord and Slack) for notifications.',
+        keywords: ['cloud monitoring', 'saas monitoring', 'third-party service monitoring', 'status page aggregator'],
+        url: 'https://incidenthub.cloud',
+    },
+    {
         name: 'Inclusive Components',
         categories: ['Accessibility'],
         description:
