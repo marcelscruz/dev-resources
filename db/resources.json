@@ -1,5 +1,5 @@
 {
-"count": 1014,
+"count": 1015,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8411,6 +8411,18 @@
             "color",
             "ui",
             "components"
+        ]
+    },
+    {
+        "name": "Random Color",
+        "categories": [
+            "Color"
+        ],
+        "description": "Simple tool to generate a random color.",
+        "url": "https://randomcolor.com/",
+        "keywords": [
+            "random color",
+            "color generator"
         ]
     },
     {

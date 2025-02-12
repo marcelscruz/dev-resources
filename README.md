@@ -446,6 +446,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://www.palettelist.com/&sz=128" width="16" /> | [Palette List](https://www.palettelist.com/) | Palette List is a dynamic palette generator. | palette, colors, designer tools, developer tools, hex, rgb |
  <img src="https://www.google.com/s2/favicons?domain=https://palettes.fyi/&sz=128" width="16" /> | [Palettes & Hues 🎨](https://palettes.fyi/) | Palettes & Hues 🎨 is a chrome extension to extract, pick and manage the dominant color palette from the visible area of any webpage or pick and manage specific color palettes using an uploaded image. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.radix-ui.com/&sz=128" width="16" /> | [Radix](https://www.radix-ui.com/) | Components, icons, and colors for building high‑quality, accessible UI. Free and open-source. | icons, icon, design, color, ui, components |
+ <img src="https://www.google.com/s2/favicons?domain=https://randomcolor.com/&sz=128" width="16" /> | [Random Color](https://randomcolor.com/) | Simple tool to generate a random color. | random color, color generator |
  <img src="https://www.google.com/s2/favicons?domain=https://www.realtimecolors.com&sz=128" width="16" /> | [Realtime Colors](https://www.realtimecolors.com) | Visualize your colors and fonts on a real website. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://uigradients.com/&sz=128" width="16" /> | [uiGradient](https://uigradients.com/) | Library of dozens of Gradients ready to use with CSS class and also HEX color. |  |
 

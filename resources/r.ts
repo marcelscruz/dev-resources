@@ -49,8 +49,7 @@ export const resources: Resource[] = [
     {
         name: 'Random Color',
         categories: ['Color'],
-        description:
-            'Simple tool to generate a random color.',
+        description: 'Simple tool to generate a random color.',
         url: 'https://randomcolor.com/',
         keywords: ['random color', 'color generator'],
     },
