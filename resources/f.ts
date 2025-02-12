@@ -358,7 +358,13 @@ export const resources: Resource[] = [
         url: 'https://foundy.com',
         keywords: ['business', 'sell', 'buy'], // Optional, but used on the search feature on the website
     },
-
+    {
+        name: 'Fountn',
+        categories: ['Design', 'Learn', 'UI'],
+        description: 'World’s largest collection of design resources, curated by designers.',
+        url: 'https://fountn.design',
+        keywords: ['design', 'resources', 'ui kits', 'icons', 'templates'],
+    },
     {
         name: 'Framer',
         categories: ['Design', 'Prototyping', 'UI', 'Website Builder'],
