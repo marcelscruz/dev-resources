@@ -695,6 +695,14 @@ export const resources: Resource[] = [
         url: 'https://startups.gallery/',
     },
     {
+        name: 'Stylo AI',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Automatically solve Zendesk tickets with AI',
+        url: 'https://www.askstylo.com/',
+        keywords: ['zendesk', 'ai', 'productivity'],
+    },
+    {
         name: 'Stormkit',
         categories: ['Hosting'],
         description:
