@@ -136,6 +136,13 @@ export const resources: Resource[] = [
         url: 'https://www.indiehackers.com/',
     },
     {
+        name: 'IndieHub',
+        categories: ['Tooling', 'Startup', 'Productivity'],
+        description: 'Discover tools, Launch products, and Ship applications faster and better.',
+        url: 'https://indiehub.best',
+        keywords: ['directory', 'website', 'indiehacker', 'indie', 'boilerplate'],
+    },
+    {
         name: 'Indie UI',
         categories: ['UI', 'Library'],
         description: 'UI components with variants',
