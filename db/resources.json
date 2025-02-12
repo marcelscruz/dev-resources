@@ -1,5 +1,5 @@
 {
-"count": 1020,
+"count": 1021,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6914,6 +6914,21 @@
         ],
         "description": "Learn to bootstrap profitable startups the indie way — $14.99.",
         "url": "https://makebook.io/"
+    },
+    {
+        "name": "ManagerTrack",
+        "categories": [
+            "Job"
+        ],
+        "description": "Senior management positions without the hassle",
+        "url": "https://www.managertrack.com",
+        "keywords": [
+            "senior management",
+            "senior positions",
+            "senior management positions",
+            "senior management jobs",
+            "job search"
+        ]
     },
     {
         "name": "Mantine",

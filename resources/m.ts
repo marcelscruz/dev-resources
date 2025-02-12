@@ -75,11 +75,16 @@ export const resources: Resource[] = [
     {
         name: 'ManagerTrack',
         categories: ['Job'],
-        description:
-            'Senior management positions without the hassle',
+        description: 'Senior management positions without the hassle',
         url: 'https://www.managertrack.com',
 
-        keywords: ['senior management', 'senior positions', 'senior management positions', 'senior management jobs','job search'],
+        keywords: [
+            'senior management',
+            'senior positions',
+            'senior management positions',
+            'senior management jobs',
+            'job search',
+        ],
     },
     {
         name: 'Marblism',
