@@ -356,15 +356,9 @@ export const resources: Resource[] = [
     {
         name: 'Lindo AI',
         categories: ['AI', 'Productivity', 'Tooling'],
-        description: 'A white-label AI website builder empowering entrepreneurs and agencies to start their own web design businesses in minutes',
-        keywords: [
-            'Website builder',
-            'White Label solution',
-            'Entrepreneurship',
-            'Agency',
-            'Freelancers',
-            'SaaS',
-        ],
+        description:
+            'A white-label AI website builder empowering entrepreneurs and agencies to start their own web design businesses in minutes',
+        keywords: ['Website builder', 'White Label solution', 'Entrepreneurship', 'Agency', 'Freelancers', 'SaaS'],
         url: 'https://www.lindo.ai',
     },
     {
