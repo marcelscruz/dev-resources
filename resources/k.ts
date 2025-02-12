@@ -1,12 +1,13 @@
 import { Resource } from 'types'
 
 export const resources: Resource[] = [
-  {
-    name: 'KarmaLinks',
-    description: 'KarmaLinks is an AI powered backlink exchange platform. Users are able receive backlinks from others and must give backlinks in exchange.',
-    categories: ['Marketing', 'SEO', 'Productivity'],
-    url: 'https://karmalinks.io/',
-    keywords: ['backlinks', 'netlinking', 'online reputation', 'off page seo'], 
+    {
+        name: 'KarmaLinks',
+        description:
+            'KarmaLinks is an AI powered backlink exchange platform. Users are able receive backlinks from others and must give backlinks in exchange.',
+        categories: ['Marketing', 'SEO', 'Productivity'],
+        url: 'https://karmalinks.io/',
+        keywords: ['backlinks', 'netlinking', 'online reputation', 'off page seo'],
     },
     {
         name: 'Kempo',

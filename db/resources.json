@@ -1,5 +1,5 @@
 {
-"count": 1016,
+"count": 1019,
 "data": [
     {
         "name": "1001 Fonts",
@@ -190,6 +190,22 @@
             "onchain analytics",
             "offchain analytics",
             "blockchain analytics"
+        ]
+    },
+    {
+        "name": "Adligator",
+        "description": "Adligator - first of all is AI powered aggregator of ads from Facebook, Instagram, fb Messenger and the audience network.",
+        "categories": [
+            "AI",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://adligator.com/",
+        "keywords": [
+            "ads",
+            "ads aggregator",
+            "analyzing competitors",
+            "creatives"
         ]
     },
     {
@@ -5994,6 +6010,22 @@
         "url": "https://justremote.co/"
     },
     {
+        "name": "KarmaLinks",
+        "description": "KarmaLinks is an AI powered backlink exchange platform. Users are able receive backlinks from others and must give backlinks in exchange.",
+        "categories": [
+            "Marketing",
+            "SEO",
+            "Productivity"
+        ],
+        "url": "https://karmalinks.io/",
+        "keywords": [
+            "backlinks",
+            "netlinking",
+            "online reputation",
+            "off page seo"
+        ]
+    },
+    {
         "name": "Kempo",
         "categories": [
             "Programming",
@@ -10866,6 +10898,19 @@
             "seo optimization tool",
             "bulk article generator",
             "content writer"
+        ]
+    },
+    {
+        "name": "Trotto",
+        "description": "Go links: an internal URL shortener that anyone can easily read, share, and remember (go/code, go/review)",
+        "categories": [
+            "Tooling"
+        ],
+        "url": "https://www.trot.to",
+        "keywords": [
+            "url shortener",
+            "link",
+            "link shortener"
         ]
     },
     {

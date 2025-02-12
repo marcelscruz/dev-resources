@@ -455,14 +455,11 @@ export const resources: Resource[] = [
     },
     {
         name: 'Trotto',
-        description: 'Go links: an internal URL shortener that anyone can easily read, share, and remember (go/code, go/review)',
+        description:
+            'Go links: an internal URL shortener that anyone can easily read, share, and remember (go/code, go/review)',
         categories: ['Tooling'],
         url: 'https://www.trot.to',
-        keywords: [
-            'url shortener',
-            'link',
-            'link shortener',
-        ],
+        keywords: ['url shortener', 'link', 'link shortener'],
     },
     {
         name: 'Truelist',
