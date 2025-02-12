@@ -212,6 +212,14 @@ export const resources: Resource[] = [
         url: 'https://userbooster.co',
     },
     {
+        name: 'UtilPortal',
+        categories: ['SEO', 'Tooling', 'Startup'],
+        description:
+            'UtilPortal is your go-to platform for discovering and accessing a curated collection of essential tools and resources.',
+        url: 'https://utilportal.com/',
+        keywords: ['directory', 'tools', 'development', 'seo'],
+    },
+    {
         name: 'UXfolio',
         categories: ['Template', 'UX'],
         description:
