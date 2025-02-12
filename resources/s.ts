@@ -501,7 +501,7 @@ export const resources: Resource[] = [
         description: 'Social Growth Engineers is the #1 source for organic social marketing strategies and resources.',
         categories: ['Marketing', 'Blog', 'Productivity'],
         url: 'https://www.socialgrowthengineers.com/',
-        keywords: ['social', 'marketing resources', 'marketing strategies', 'tiktok growth hacks'], 
+        keywords: ['social', 'marketing resources', 'marketing strategies', 'tiktok growth hacks'],
     },
 
     {
