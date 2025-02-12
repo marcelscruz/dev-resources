@@ -133,6 +133,14 @@ export const resources: Resource[] = [
         url: 'https://seogets.com/',
     },
     {
+        name: 'SEO Katana',
+        description: 'Katana helps you find your competitors top organic content, analyze it, and create unique content inspired by it for you.',
+        categories: ['AI', 'Marketing', 'Productivity'],
+        url: 'https://seokatana.com/',
+        keywords: ['business', 'seo', 'ai content generator', 'competitor research'], 
+    },
+
+    {
         name: 'SEO Powersuite',
         categories: ['SEO'],
         description:
