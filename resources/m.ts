@@ -73,6 +73,15 @@ export const resources: Resource[] = [
         keywords: ['react', 'hooks', 'dark theme', 'accessibility', 'components', 'hooks', 'ui', 'library'],
     },
     {
+        name: 'ManagerTrack',
+        categories: ['Job'],
+        description:
+            'Senior management positions without the hassle',
+        url: 'https://www.managertrack.com',
+
+        keywords: ['senior management', 'senior positions', 'senior management positions', 'senior management jobs','job search'],
+    },
+    {
         name: 'Marblism',
         description: 'Generate a SaaS boilerplate from a prompt',
         categories: ['AI', 'Code Generator'],
