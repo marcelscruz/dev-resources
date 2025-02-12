@@ -1,5 +1,5 @@
 {
-"count": 1022,
+"count": 1023,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10165,6 +10165,20 @@
         ],
         "description": "Browse our collection of premium-like high-quality free website templates. Beautifully handcrafted designs. The best free website templates you can download.",
         "url": "https://www.styleshout.com/"
+    },
+    {
+        "name": "Stylo AI",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Automatically solve Zendesk tickets with AI",
+        "url": "https://www.askstylo.com/",
+        "keywords": [
+            "zendesk",
+            "ai",
+            "productivity"
+        ]
     },
     {
         "name": "Sublime Text",

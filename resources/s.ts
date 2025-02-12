@@ -697,8 +697,7 @@ export const resources: Resource[] = [
     {
         name: 'Stylo AI',
         categories: ['AI', 'Productivity'],
-        description:
-            'Automatically solve Zendesk tickets with AI',
+        description: 'Automatically solve Zendesk tickets with AI',
         url: 'https://www.askstylo.com/',
         keywords: ['zendesk', 'ai', 'productivity'],
     },
