@@ -638,6 +638,13 @@ export const resources: Resource[] = [
         url: 'https://squoosh.app/',
     },
     {
+        name: 'Srcbook',
+        description: 'Srcbook is the best online AI website builder. Go from your idea to a shareable app in seconds.',
+        categories: ['AI', 'Website Builder', 'Productivity'],
+        url: 'https://srcbook.com/',
+        keywords: ['assistant', 'no code', 'ai coding agent', 'website development'], 
+    },
+
         name: 'Stack Overflow',
         categories: ['Programming'],
         description:
