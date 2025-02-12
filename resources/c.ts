@@ -74,6 +74,13 @@ export const resources: Resource[] = [
         url: 'http://cassandra.apache.org/',
     },
     {
+        name: 'Catalog by Thesys',
+        categories: ['Database','AI'],
+        description:
+            `Catalog by Thesys is a curated collection of AI agents designed to help you find the right agent for your needs. Whether you're exploring AI for automation, decision-making, or creative tasks, it simplifies your search with the categorization and listing of all the AI agents.`,
+        url: 'https://catalog.thesys.dev/',
+    },
+    {
         name: 'Chakra',
         categories: ['Library', 'Programming', 'UI'],
         description: 'Simple, Modular and Accessible UI Components for your React Applications.',
