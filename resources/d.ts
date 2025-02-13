@@ -89,7 +89,6 @@ export const resources: Resource[] = [
         description:
             'DAXRM’s drag & drop reporting software streamlines SEO, PPC and digital marketing reports. Automate & schedule marketing reports to impress clients with powerful insights',
         url: 'https://www.daxrm.com/feature/client-reporting/',
-
         keywords: ['Digital Marketing Reporting Tool', 'SEO Reporting Software'],
     },
     {
@@ -98,10 +97,8 @@ export const resources: Resource[] = [
         description:
             'DAXRM’s Rank Tracker tool provides real-time keyword tracking and competitor analysis. Monitor rankings, track SEO performance, and get automated reports to stay ahead.',
         url: 'https://www.daxrm.com/integrations/rank-tracker/',
-
         keywords: ['SEO Rank Tracking Software'],
     },
-    
     {
         name: 'DebugBear Speed Test',
         categories: ['Performance', 'Tooling'],
