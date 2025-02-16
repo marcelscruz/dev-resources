@@ -427,6 +427,13 @@ export const resources: Resource[] = [
         url: 'https://www.browserstack.com/',
     },
     {
+        name: 'BugSmash',
+        description: 'Instant Visual Feedback & Collaboration for Design & Marketing',
+        categories: ['Marketing', 'Design', 'Productivity'],
+        url: 'https://bugsmash.io/',
+        keywords: ['visual feedback tool', 'design feedback tool', 'visual collaboration', 'marketing collateral review'], 
+    },
+    {
         name: 'buildspace',
         categories: ['Web3'],
         description: 'Build a project in web3, ML/AI and see how far you can get in a weekend.',
