@@ -134,6 +134,13 @@ export const resources: Resource[] = [
         url: 'https://www.firsttimersonly.com/',
     },
     {
+        name: 'FirmOS',
+        description: 'AI-Powered Automation for Accounting Firms',
+        categories: ['Marketing', 'Productivity', 'AI'],
+        url: 'https://www.firmos.ai/',
+        keywords: ['ai workflows', 'automation', 'marketing tools', 'sales optimizations'], 
+    },
+    {
         name: 'Fiverr',
         categories: ['Freelance'],
         description: 'One marketplace, millions of professional services. Browse. Buy. Done.',
