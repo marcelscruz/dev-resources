@@ -229,6 +229,13 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/bitfumes',
     },
     {
+        name: 'Bitzaro',
+        description: 'Fiat-Crypto Payment Gateway',
+        categories: ['Web3', 'Startup'],
+        url: 'https://www.bitzaro.com/',
+        keywords: ['bitcoin', 'blockchain', 'cryptocurrency', 'decentralized finance (defi)'], 
+    },
+    {
         name: 'Black Illustrations',
         categories: ['Illustration'],
         description:
