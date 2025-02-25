@@ -998,6 +998,14 @@ export const resources: Resource[] = [
         url: 'https://cssreference.io/',
     },
     {
+        name: 'CSSnippets',
+        categories: ['Code Snippet', 'Programming', 'Animation'],
+        description:
+            'CSSnippets is a collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more.',
+            keywords: ['css snippets', 'react snippets', 'tailwind css snippets', 'css code snippets', 'FREE Tailwind Components'],
+            url: 'https://cssnippets.shefali.dev/',
+    },
+    {
         name: 'CSS Scan',
         categories: ['Browser', 'Extension', 'Programming'],
         description:
