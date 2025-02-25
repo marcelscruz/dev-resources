@@ -42,6 +42,13 @@ export const resources: Resource[] = [
         keywords: ['fintech', 'finance'],
     },
     {
+        name: 'PassVult',
+        description: 'Most private password manager',
+        categories: ['Productivity', 'Security', 'Startup'],
+        url: 'https://passvult.com',
+        keywords: ['cybersecurity', 'password manager', 'privacy', 'loyalty card'], 
+    },
+    {
         name: 'Patterninja',
         categories: ['Illustration'],
         description:
