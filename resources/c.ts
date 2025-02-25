@@ -965,13 +965,6 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/user/cs50tv',
     },
     {
-        name: 'CSS Box Shadow Generator',
-        categories: ['Code Generator', 'Programming'],
-        description: 'Easily create box shadow effects using this CSS box shadow generator for your website. Customize the shadow’s size, blur, and position, then copy the CSS code to use on your site.',
-        keywords: ['CSS snippets','CSS Box Shadow Generator','CSS Box-Shadow'],
-        url: 'https://cssnippets.shefali.dev/boxshadowgenerator',
-    },
-    {
         name: 'CSS Diner',
         categories: ['Learn', 'Programming'],
         description: 'A fun game to help you learn and practice CSS selectors.',
