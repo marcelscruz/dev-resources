@@ -247,6 +247,12 @@ export const resources: Resource[] = [
         url: 'https://devhints.io/',
     },
     {
+        name: 'Devicons',
+        categories: ['Icon'],
+        description: 'An iconic font made for developers.',
+        url: 'http://vorillaz.github.io/devicons',
+    },
+    {
         name: 'DevNews',
         categories: ['Podcast', 'Programming'],
         description:
