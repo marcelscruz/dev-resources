@@ -414,6 +414,13 @@ export const resources: Resource[] = [
             'The Python & Django IDE with intelligent code completion, on-the-fly error checking, quick-fixes, and much more...',
         url: 'https://www.jetbrains.com/pycharm/',
     },
+    {  
+        name: 'Pykaso.ai',  
+        description: 'Create consistent and realistic AI influencers with Pykaso AI tools.',  
+        categories: ['Social Media', 'Marketing', 'AI'],  
+        url: 'https://www.pykaso.ai/',  
+        keywords: ['ai character', 'ai influencer', 'ai Images', 'ai video']  
+    },
     {
         name: 'Python Developer Jobs',
         categories: ['Job'],
