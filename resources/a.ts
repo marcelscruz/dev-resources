@@ -360,6 +360,13 @@ export const resources: Resource[] = [
         url: 'https://github.com/mungell/awesome-for-beginners',
     },
     {
+        name: 'Awesome Video Editor',
+        description: 'Generate Subtitles for Your Video',
+        categories: ['Video', 'Marketing', 'Productivity', 'AI'],
+        url: 'https://awesomevideoeditor.com/',
+        keywords: ['free video subtitles', 'auto subtitle generator', 'ai subtitles', 'video captioning'], 
+    },
+    {
         name: 'Awwwards',
         categories: ['Design', 'Inspiration', 'UI'],
         description:
