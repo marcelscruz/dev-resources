@@ -379,6 +379,13 @@ export const resources: Resource[] = [
         url: 'https://pttrns.com/',
     },
     {
+        name: 'Pulsed',
+        description: 'A free online polling or survey app for verified adult users',
+        categories: ['Marketing', 'Social Media', 'Analytics'],
+        url: 'https://www.pulsed.me/',
+        keywords: ['Surveys', 'Social', 'Social App', 'Market Research'], 
+    },
+    {
         name: 'Puppeteer',
         categories: ['Testing'],
         description:
