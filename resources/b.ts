@@ -261,6 +261,14 @@ export const resources: Resource[] = [
         keywords: ['boilerplates', 'starter kits', 'frameworks', 'development', 'low code'],
     },
     {
+        name: 'BoilerplateHunt',
+        categories: ['Productivity', 'Template', 'Startup'],
+        description:
+            'Find the best boilerplates to ship faster. Explore production-ready boilerplates for SaaS, web, and mobile applications.',
+        url: 'https://boilerplatehunt.com/',
+        keywords: ['boilerplates', 'starter kits', 'frameworks', 'development', 'low code'],
+    },
+    {
         name: 'Bootify',
         categories: ['Code Generator'],
         description:
