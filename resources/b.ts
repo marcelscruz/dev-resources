@@ -102,6 +102,13 @@ export const resources: Resource[] = [
         url: 'https://github.com/codedthemes/berry-free-react-admin-template/',
     },
     {
+        name: 'Berry Figma UI Kit',
+        categories: ['UI'],
+        description:
+            'A sleek and vibrant design system for modern dashboards.',
+        url: 'https://codedthemes.com/item/berry-figma-ui-kit/',
+    },
+    {
         name: 'Best Directories',
         categories: ['Tooling', 'SEO'],
         description: 'Discover the best directories in BestDirectories and launch your product with ease.',
