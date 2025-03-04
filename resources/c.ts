@@ -621,6 +621,19 @@ export const resources: Resource[] = [
         url: 'https://colorlib.com/',
     },
     {
+        name: 'ColorMagic',
+        categories: ['Color'],
+        description:
+            "Instantly generate stunning color palettes and schemes from a name, image, hex code, word, or one color with AI",
+        url: 'https://colormagic.app/',
+        keywords: [
+            'color palette',
+            'color palette generator',
+            'color themes',
+            'color palettes',
+            'ai color palette generator',
+    },
+    {
         name: 'Colormind',
         categories: ['Color'],
         description:
