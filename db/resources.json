@@ -1,5 +1,5 @@
 {
-"count": 1024,
+"count": 1025,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2108,6 +2108,21 @@
         ],
         "description": "Colorlib is the ONLY resource you'll need to start a blog using WordPress! We offer comprehensive yet easy to follow guides well suited for beginner bloggers.",
         "url": "https://colorlib.com/"
+    },
+    {
+        "name": "ColorMagic",
+        "categories": [
+            "Color"
+        ],
+        "description": "Instantly generate stunning color palettes and schemes from a name, image, hex code, word, or one color with AI",
+        "url": "https://colormagic.app/",
+        "keywords": [
+            "color palette",
+            "color palette generator",
+            "color themes",
+            "color palettes",
+            "ai color palette generator"
+        ]
     },
     {
         "name": "Colormind",
