@@ -487,6 +487,14 @@ export const resources: Resource[] = [
         keywords: ['twitter', 'growth', 'scheduling', 'social media'],
     },
     {
+        name: 'Type Think AI',
+        description: 'TypeThinkAI is the LLM Frontend to access hundreds of AI models. You can access Multiple AI Models all from one app.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://typethinkai.com/',
+        keywords: ['ai assistant', 'llm frontend', 'multi model llms', 'chatbot'], 
+    },
+
+    {
         name: 'TypeLit',
         categories: ['Typing'],
         description: 'Practice typing by retyping entire novels.',
