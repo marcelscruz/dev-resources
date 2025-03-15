@@ -485,6 +485,13 @@ export const resources: Resource[] = [
         url: 'https://www.smashingmagazine.com/the-smashing-newsletter/',
     },
     {
+        name: 'Smmry',
+        description: 'Summarize Long Content Into Clear Insights',
+        categories: ['Productivity', 'AI', 'Learn'],
+        url: 'https://smmry.com/',
+        keywords: ['productivity tool', 'summarizer', 'ai tool', 'education'], 
+    },
+    {
         name: 'snappify',
         categories: ['Code Snippet'],
         description: 'Snappify helps you to create beautiful code snippets with ease.',
