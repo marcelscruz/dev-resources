@@ -21,7 +21,13 @@ export const resources: Resource[] = [
         url: 'https://www.getnarrow.ai/',
         keywords: ['automation', 'prompt engineering', 'llm'],
     },
-
+    {
+        name: 'NativeBridge',
+        description: 'Show, Share, Approve: Mobile Apps in Any Browser',
+        categories: ['Productivity', 'Testing', 'Tooling'],
+        url: 'https://nativebridge.io/',
+        keywords: ['mobile app testing', 'mobile emulator', 'app testing', 'iOS testing'], 
+    },
     {
         name: 'Netlify',
         categories: ['Hosting'],
