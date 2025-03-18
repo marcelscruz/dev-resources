@@ -55,6 +55,14 @@ export const resources: Resource[] = [
         keywords: ['threads', 'marketing', 'instagram'],
     },
     {
+        name: 'Scopebird',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Product scoping in minutes, not weeks.',
+        keywords: ['product', 'scoping', 'ai', 'product management'],
+        url: 'https://www.scopebird.com/',
+    },
+    {
         name: 'Scrapfly',
         categories: ['Scraping'],
         description:
