@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'PromptKit',
+        categories: ['AI', 'Programming'],
+        description:
+            'Transform your project ideas into clear, structured documentation. Let AI coding assistants like Cursor and GitHub Copilot understand your vision and generate more precise, context-aware code.',
+        url: 'https://www.promptkit.tools/',
+    },
+    {
         name: 'Page Collective',
         categories: ['Inspiration'],
         description: 'Get inspired and keep up with the latest landing page design trends.',
