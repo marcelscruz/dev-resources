@@ -34,7 +34,7 @@ export const resources: Resource[] = [
         description: 'Vesta generates content in your style across any of your marketing channels.',
         categories: ['Writing', 'Marketing', 'Productivity'],
         url: 'https://www.vesta-app.com/',
-        keywords: ['ai writing assistant', 'content marketing', 'content automation', 'content creation'], 
+        keywords: ['ai writing assistant', 'content marketing', 'content automation', 'content creation'],
     },
 
     {
