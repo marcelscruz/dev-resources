@@ -74,7 +74,7 @@ export const resources: Resource[] = [
         description: 'Virlo helps content creators track viral trends on short form content platforms.',
         categories: ['AI', 'Social Media', 'Video'],
         url: 'https://virlo.ai/',
-        keywords: ['data', 'trends', 'short form content', 'content creators'], 
+        keywords: ['data', 'trends', 'short form content', 'content creators'],
     },
 
     {

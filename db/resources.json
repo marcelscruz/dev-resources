@@ -1,5 +1,5 @@
 {
-"count": 1031,
+"count": 1032,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11617,6 +11617,22 @@
         ],
         "description": "VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the \"Zelda meets text editing\" game. So come have some fun and learn some VIM!",
         "url": "https://vim-adventures.com/"
+    },
+    {
+        "name": "Virlo",
+        "description": "Virlo helps content creators track viral trends on short form content platforms.",
+        "categories": [
+            "AI",
+            "Social Media",
+            "Video"
+        ],
+        "url": "https://virlo.ai/",
+        "keywords": [
+            "data",
+            "trends",
+            "short form content",
+            "content creators"
+        ]
     },
     {
         "name": "Virtual Coffee",
