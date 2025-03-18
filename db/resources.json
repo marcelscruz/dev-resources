@@ -1,5 +1,5 @@
 {
-"count": 1026,
+"count": 1027,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5721,6 +5721,24 @@
             "interview AI copilot",
             "interview AI assistant",
             "career",
+            "jobs"
+        ]
+    },
+    {
+        "name": "Interview Playground",
+        "description": "Practice interviewing before the big day",
+        "categories": [
+            "Interview",
+            "AI"
+        ],
+        "url": "https://interviewplayground.com",
+        "keywords": [
+            "interview helper",
+            "interview solver",
+            "ai copilot",
+            "career",
+            "practice",
+            "interview",
             "jobs"
         ]
     },
