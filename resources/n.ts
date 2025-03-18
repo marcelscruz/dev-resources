@@ -61,6 +61,13 @@ export const resources: Resource[] = [
         keywords: ['next', 'ui', 'nextui', 'library'],
     },
     {
+        name: 'Next9',
+        description: 'Boost on-call productivity with our centralized dashboard',
+        categories: ['Productivity', 'AI', 'Tooling', 'Startup', 'Analytics'],
+        url: 'https://www.next9.ai',
+        keywords: ['oncall', 'incident management', ' alert management', 'engineering productivity'],
+    },
+    {
         name: 'Nitric',
         description: 'A fun and productive framework for building serverless apps',
         categories: ['API Building'],
