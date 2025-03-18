@@ -160,6 +160,13 @@ export const resources: Resource[] = [
         url: 'https://www.fleexy.dev',
     },
     {
+        name: 'FlexApp',
+        description: 'Build mobile apps with AI, not code',
+        categories: ['AI', 'Code Generator', 'Productivity'],
+        url: 'https://flexapp.ai/',
+        keywords: ['ai coding assistant', 'ai infrastructure tool', 'developer tool', 'design tool'], 
+    },
+    {
         name: 'Flexbox Adventure',
         categories: ['Learn', 'Programming'],
         description:
