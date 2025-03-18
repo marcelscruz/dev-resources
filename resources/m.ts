@@ -223,10 +223,11 @@ export const resources: Resource[] = [
     },
     {
         name: 'Miruni',
-        description: 'Miruni is a visual feedback and task management tool designed for webmasters, developers, and agencies managing websites across many platforms.',
+        description:
+            'Miruni is a visual feedback and task management tool designed for webmasters, developers, and agencies managing websites across many platforms.',
         categories: ['Design', 'Startup', 'Productivity'],
         url: 'https://www.miruni.io/',
-        keywords: ['design tool', 'visual feedback', 'web development tools', 'website collaboration tools'], 
+        keywords: ['design tool', 'visual feedback', 'web development tools', 'website collaboration tools'],
     },
 
     {

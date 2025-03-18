@@ -1,5 +1,5 @@
 {
-"count": 1027,
+"count": 1031,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1382,6 +1382,15 @@
         ],
         "description": "Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters.",
         "url": "http://cassandra.apache.org/"
+    },
+    {
+        "name": "Catalog by Thesys",
+        "categories": [
+            "Database",
+            "AI"
+        ],
+        "description": "Catalog by Thesys is a curated collection of AI agents designed to help you find the right agent for your needs. Whether you're exploring AI for automation, decision-making, or creative tasks, it simplifies your search with the categorization and listing of all the AI agents.",
+        "url": "https://catalog.thesys.dev/"
     },
     {
         "name": "Chaindesk",
@@ -7180,6 +7189,22 @@
         "url": "https://www.microsoft.com/en-us/sql-server"
     },
     {
+        "name": "Miruni",
+        "description": "Miruni is a visual feedback and task management tool designed for webmasters, developers, and agencies managing websites across many platforms.",
+        "categories": [
+            "Design",
+            "Startup",
+            "Productivity"
+        ],
+        "url": "https://www.miruni.io/",
+        "keywords": [
+            "design tool",
+            "visual feedback",
+            "web development tools",
+            "website collaboration tools"
+        ]
+    },
+    {
         "name": "Mkdirs",
         "categories": [
             "Tooling",
@@ -9242,6 +9267,21 @@
         ]
     },
     {
+        "name": "Scopebird",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Product scoping in minutes, not weeks.",
+        "keywords": [
+            "product",
+            "scoping",
+            "ai",
+            "product management"
+        ],
+        "url": "https://www.scopebird.com/"
+    },
+    {
         "name": "Scrapfly",
         "categories": [
             "Scraping"
@@ -10021,6 +10061,22 @@
         ],
         "description": "Compress and compare images with different codecs, right in your browser.",
         "url": "https://squoosh.app/"
+    },
+    {
+        "name": "Srcbook",
+        "description": "Srcbook is the best online AI website builder. Go from your idea to a shareable app in seconds.",
+        "categories": [
+            "AI",
+            "Website Builder",
+            "Productivity"
+        ],
+        "url": "https://srcbook.com/",
+        "keywords": [
+            "assistant",
+            "no code",
+            "ai coding agent",
+            "website development"
+        ]
     },
     {
         "name": "Stack Overflow",
