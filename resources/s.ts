@@ -57,8 +57,7 @@ export const resources: Resource[] = [
     {
         name: 'Scopebird',
         categories: ['AI', 'Productivity'],
-        description:
-            'Product scoping in minutes, not weeks.',
+        description: 'Product scoping in minutes, not weeks.',
         keywords: ['product', 'scoping', 'ai', 'product management'],
         url: 'https://www.scopebird.com/',
     },
@@ -650,9 +649,9 @@ export const resources: Resource[] = [
         description: 'Srcbook is the best online AI website builder. Go from your idea to a shareable app in seconds.',
         categories: ['AI', 'Website Builder', 'Productivity'],
         url: 'https://srcbook.com/',
-        keywords: ['assistant', 'no code', 'ai coding agent', 'website development'], 
+        keywords: ['assistant', 'no code', 'ai coding agent', 'website development'],
     },
-
+    {
         name: 'Stack Overflow',
         categories: ['Programming'],
         description:
