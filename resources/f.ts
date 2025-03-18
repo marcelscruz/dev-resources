@@ -213,6 +213,13 @@ export const resources: Resource[] = [
         url: 'https://www.fluidui.com/',
     },
     {
+        name: 'FLUX AI ART',
+        description: 'AI Image Generator',
+        categories: ['Design', 'Image', 'AI'],
+        url: 'https://fluxaiart.ai/',
+        keywords: ['image generator', 'image processing', 'productivity tool', 'content creation'], 
+    },
+    {
         name: 'Font Awesome',
         categories: ['Icon'],
         description:
