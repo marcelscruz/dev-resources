@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'A1',
+        description: 'A collection of the best websites found on the web',
+        categories: ['Design', 'Inspiration', 'UI', 'UX', 'Template'],
+        url: 'https://www.a1.gallery/',
+        keywords: ['website design', 'inspiration', 'web', 'gallery'], 
+    },
+    {
         name: 'A11Y Style Guide',
         categories: ['Accessibility'],
         description: 'Style guide and pattern library promoting accessible components and WCAG compliance criteria.',
