@@ -190,6 +190,13 @@ export const resources: Resource[] = [
         url: 'https://serverless-stack.com/',
     },
     {
+        name: 'Servervana',
+        categories: ['Performance', 'Tooling'],
+        description: 'Team friendly performance and uptime monitoring platform for your website, API endpoints, DNS system and more. Has free plan.',
+        url: 'https://servervana.com',
+        keywords: ['Performance', 'Uptime', 'Monitoring', 'Status Page', 'Web Vitals', 'SSL', 'HTTP(s)', 'DNS'],
+    },
+    {
         name: 'Shape',
         categories: ['Icon'],
         description:
