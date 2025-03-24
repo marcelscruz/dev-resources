@@ -89,6 +89,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'TechTeamFinder',
+        description: 'Connect companies with engineering teams',
+        categories: ['Job', 'Startup'],
+        url: 'https://techteamfinder.com/',
+        keywords: ['career', 'recruitment', 'it team sourcing', 'software development agencies'], 
+    },
+    {
         name: 'Tech Blogs',
         categories: ['Blog'],
         description: 'This is a list of Awesome Tech Blogs. Add yourself.',
