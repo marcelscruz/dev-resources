@@ -709,6 +709,14 @@ export const resources: Resource[] = [
         url: 'https://startups.gallery/',
     },
     {
+        name: 'StartEase',
+        description:
+            'The Nuxt SaaS boilerplate focused on Growth & Conversion.',
+        categories: ['Startup', 'Template','Productivity','Marketing'],
+        url: 'https://startease.dev/',
+        keywords:['Nuxt template','SaaS boilerplate','email marketing','content marketing']
+    },
+    {
         name: 'Stylo AI',
         categories: ['AI', 'Productivity'],
         description: 'Automatically solve Zendesk tickets with AI',
