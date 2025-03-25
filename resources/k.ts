@@ -37,6 +37,13 @@ export const resources: Resource[] = [
         url: 'https://www.keybr.com/',
     },
     {
+        name: 'Keyla.AI',
+        description: 'Create video ads in minutes',
+        categories: ['Marketing', 'Productivity', 'Video'],
+        url: 'https://keyla.ai/',
+        keywords: ['ugc', 'video ads', 'paid media', 'video generation', 'social media', 'ai'],
+    },
+    {
         name: 'Keysearch',
         categories: ['SEO'],
         description:
