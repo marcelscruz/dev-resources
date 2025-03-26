@@ -149,6 +149,13 @@ export const resources: Resource[] = [
         url: 'https://www.realtimecolors.com',
     },
     {
+        name: 'Receipt Faker',
+        description: 'Fake Receipt Generator',
+        categories: ['Template', 'Design'],
+        url: 'https://receiptfaker.com',
+        keywords: ['receipt', 'generator', 'maker', 'accounting', 'expenses'],
+    },
+    {
         name: 'reddit',
         categories: ['Forum'],
         description:
