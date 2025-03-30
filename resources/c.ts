@@ -370,6 +370,23 @@ export const resources: Resource[] = [
         url: 'https://codeconia.com/',
     },
     {
+        name: 'CodeBeaver',
+        categories: ['Programming', 'Testing', 'AI'],
+        description:
+            "Get an A.I. assistant that writes tests and spots bugs",
+        keywords: [
+            'unit testing',
+            'unit test',
+            'unit tests',
+            'unit test generator',
+            'ai',
+            'ai assistant',
+            'ai testing',
+            'ai unit testing',
+        ],
+        url: 'https://www.codebeaver.ai/',
+    },
+    {
         name: 'CodeKit',
         categories: ['Programming', 'Tooling'],
         description:
