@@ -146,10 +146,10 @@ export const resources: Resource[] = [
     },
     {
         name: 'Pictify',
-        categories:['Image', 'Programming'],
+        categories: ['Image', 'Programming'],
         description: 'Pictify.io provides API to convert HTML into image',
         url: 'https://pictify.io',
-        keywords: ['image generation', 'HTML to image']
+        keywords: ['image generation', 'HTML to image'],
     },
     {
         name: 'Pieces',
