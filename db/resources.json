@@ -1,5 +1,5 @@
 {
-"count": 1038,
+"count": 1039,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10476,6 +10476,14 @@
         ],
         "description": "SVGBox allows you to add any of the 3,405 icons we have to your project by using simple tags. Instead of using downloading and uploading icons, simply copy tag and start using it. We are constantly adding more and more icons to serve different use cases.",
         "url": "https://svgbox.net/"
+    },
+    {
+        "name": "SVGL",
+        "categories": [
+            "Icon"
+        ],
+        "description": "A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.",
+        "url": "https://svgl.app"
     },
     {
         "name": "SVGmix",
