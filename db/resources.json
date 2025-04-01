@@ -1,5 +1,5 @@
 {
-"count": 1033,
+"count": 1035,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8768,6 +8768,22 @@
         "url": "https://www.reddit.com/r/forhire/"
     },
     {
+        "name": "ReelProof",
+        "description": "ReelProof makes it easy to gather authentic customer testimonials using AI-powered interviews and instantly generates shareable video reels.",
+        "categories": [
+            "Video",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://reelproof.io/",
+        "keywords": [
+            "video testimonials",
+            "ai interviewing",
+            "video automation",
+            "social proof"
+        ]
+    },
+    {
         "name": "Refactoring UI",
         "categories": [
             "Design",
@@ -9477,6 +9493,25 @@
         ],
         "description": "Serverless Stack (SST) is a framework that makes it easy to build serverless applications.",
         "url": "https://serverless-stack.com/"
+    },
+    {
+        "name": "Servervana",
+        "categories": [
+            "Performance",
+            "Tooling"
+        ],
+        "description": "Team friendly performance and uptime monitoring platform for your website, API endpoints, DNS system and more. Has free plan.",
+        "url": "https://servervana.com",
+        "keywords": [
+            "Performance",
+            "Uptime",
+            "Monitoring",
+            "Status Page",
+            "Web Vitals",
+            "SSL",
+            "HTTP(s)",
+            "DNS"
+        ]
     },
     {
         "name": "Shape",
