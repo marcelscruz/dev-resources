@@ -1,5 +1,5 @@
 {
-"count": 1039,
+"count": 1040,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3072,6 +3072,14 @@
         ],
         "description": "A ridiculous collection of web development cheatsheets · One-page guide to.",
         "url": "https://devhints.io/"
+    },
+    {
+        "name": "Devicons",
+        "categories": [
+            "Icon"
+        ],
+        "description": "An iconic font made for developers.",
+        "url": "http://vorillaz.github.io/devicons"
     },
     {
         "name": "DevNews",
