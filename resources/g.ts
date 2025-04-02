@@ -233,6 +233,13 @@ export const resources: Resource[] = [
         url: 'https://gpt4omini.app/',
     },
     {
+        name: 'GPT Reader',
+        description: 'Natural ChatGPT AI text to speech (TTS) for PDFs, articles, & docs',
+        categories: ['Productivity', 'Audio', 'AI'],
+        url: 'https://gpt-reader.com/',
+        keywords: ['ai tts', 'ai text to speech', 'chatgpt tts', 'chatgpt text to speech'],
+    },
+    {
         name: 'Gradient',
         categories: ['Color'],
         description:
