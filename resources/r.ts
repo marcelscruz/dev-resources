@@ -47,6 +47,13 @@ export const resources: Resource[] = [
         keywords: ['ai', 'ai agents', 'ai automation', 'ai software', 'ai tools'],
     },
     {
+        name: 'Random Color',
+        categories: ['Color'],
+        description: 'Simple tool to generate a random color.',
+        url: 'https://randomcolor.com/',
+        keywords: ['random color', 'color generator'],
+    },
+    {
         name: 'Raycast',
         categories: ['Productivity'],
         description:
@@ -153,6 +160,14 @@ export const resources: Resource[] = [
         categories: ['Job', 'Freelance'],
         description: 'Find employers and employees on Reddit.',
         url: 'https://www.reddit.com/r/forhire/',
+    },
+    {
+        name: 'ReelProof',
+        description:
+            'ReelProof makes it easy to gather authentic customer testimonials using AI-powered interviews and instantly generates shareable video reels.',
+        categories: ['Video', 'Marketing', 'Productivity'],
+        url: 'https://reelproof.io/',
+        keywords: ['video testimonials', 'ai interviewing', 'video automation', 'social proof'],
     },
     {
         name: 'Refero',

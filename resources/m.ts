@@ -73,6 +73,20 @@ export const resources: Resource[] = [
         keywords: ['react', 'hooks', 'dark theme', 'accessibility', 'components', 'hooks', 'ui', 'library'],
     },
     {
+        name: 'ManagerTrack',
+        categories: ['Job'],
+        description: 'Senior management positions without the hassle',
+        url: 'https://www.managertrack.com',
+
+        keywords: [
+            'senior management',
+            'senior positions',
+            'senior management positions',
+            'senior management jobs',
+            'job search',
+        ],
+    },
+    {
         name: 'Marblism',
         description: 'Generate a SaaS boilerplate from a prompt',
         categories: ['AI', 'Code Generator'],
@@ -207,6 +221,15 @@ export const resources: Resource[] = [
             'Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge.',
         url: 'https://www.microsoft.com/en-us/sql-server',
     },
+    {
+        name: 'Miruni',
+        description:
+            'Miruni is a visual feedback and task management tool designed for webmasters, developers, and agencies managing websites across many platforms.',
+        categories: ['Design', 'Startup', 'Productivity'],
+        url: 'https://www.miruni.io/',
+        keywords: ['design tool', 'visual feedback', 'web development tools', 'website collaboration tools'],
+    },
+
     {
         name: 'Mobbin',
         categories: ['Design', 'Inspiration', 'UI'],

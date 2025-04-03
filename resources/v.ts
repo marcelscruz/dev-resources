@@ -30,6 +30,14 @@ export const resources: Resource[] = [
         url: 'https://vercel.com/',
     },
     {
+        name: 'Vesta',
+        description: 'Vesta generates content in your style across any of your marketing channels.',
+        categories: ['Writing', 'Marketing', 'Productivity'],
+        url: 'https://www.vesta-app.com/',
+        keywords: ['ai writing assistant', 'content marketing', 'content automation', 'content creation'],
+    },
+
+    {
         name: 'VideoEditor SDK',
         categories: ['Editor', 'Video'],
         description:
@@ -61,6 +69,14 @@ export const resources: Resource[] = [
             'VIM Adventures is an online game based on VIM\'s keyboard shortcuts. It\'s the "Zelda meets text editing" game. So come have some fun and learn some VIM!',
         url: 'https://vim-adventures.com/',
     },
+    {
+        name: 'Virlo',
+        description: 'Virlo helps content creators track viral trends on short form content platforms.',
+        categories: ['AI', 'Social Media', 'Video'],
+        url: 'https://virlo.ai/',
+        keywords: ['data', 'trends', 'short form content', 'content creators'],
+    },
+
     {
         name: 'Virtual Coffee',
         categories: ['Podcast'],

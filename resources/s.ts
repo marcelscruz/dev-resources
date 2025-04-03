@@ -55,6 +55,13 @@ export const resources: Resource[] = [
         keywords: ['threads', 'marketing', 'instagram'],
     },
     {
+        name: 'Scopebird',
+        categories: ['AI', 'Productivity'],
+        description: 'Product scoping in minutes, not weeks.',
+        keywords: ['product', 'scoping', 'ai', 'product management'],
+        url: 'https://www.scopebird.com/',
+    },
+    {
         name: 'Scrapfly',
         categories: ['Scraping'],
         description:
@@ -133,6 +140,15 @@ export const resources: Resource[] = [
         url: 'https://seogets.com/',
     },
     {
+        name: 'SEO Katana',
+        description:
+            'Katana helps you find your competitors top organic content, analyze it, and create unique content inspired by it for you.',
+        categories: ['AI', 'Marketing', 'Productivity'],
+        url: 'https://seokatana.com/',
+        keywords: ['business', 'seo', 'ai content generator', 'competitor research'],
+    },
+
+    {
         name: 'SEO Powersuite',
         categories: ['SEO'],
         description:
@@ -172,6 +188,14 @@ export const resources: Resource[] = [
         categories: ['API Building', 'Serverless'],
         description: 'Serverless Stack (SST) is a framework that makes it easy to build serverless applications.',
         url: 'https://serverless-stack.com/',
+    },
+    {
+        name: 'Servervana',
+        categories: ['Performance', 'Tooling'],
+        description:
+            'Team friendly performance and uptime monitoring platform for your website, API endpoints, DNS system and more. Has free plan.',
+        url: 'https://servervana.com',
+        keywords: ['Performance', 'Uptime', 'Monitoring', 'Status Page', 'Web Vitals', 'SSL', 'HTTP(s)', 'DNS'],
     },
     {
         name: 'Shape',
@@ -488,6 +512,14 @@ export const resources: Resource[] = [
         url: 'https://snipit.io/',
     },
     {
+        name: 'Social Growth Engineers',
+        description: 'Social Growth Engineers is the #1 source for organic social marketing strategies and resources.',
+        categories: ['Marketing', 'Blog', 'Productivity'],
+        url: 'https://www.socialgrowthengineers.com/',
+        keywords: ['social', 'marketing resources', 'marketing strategies', 'tiktok growth hacks'],
+    },
+
+    {
         name: 'Soft Skills Engineering',
         categories: ['Podcast', 'Programming'],
         description:
@@ -621,6 +653,13 @@ export const resources: Resource[] = [
         url: 'https://squoosh.app/',
     },
     {
+        name: 'Srcbook',
+        description: 'Srcbook is the best online AI website builder. Go from your idea to a shareable app in seconds.',
+        categories: ['AI', 'Website Builder', 'Productivity'],
+        url: 'https://srcbook.com/',
+        keywords: ['assistant', 'no code', 'ai coding agent', 'website development'],
+    },
+    {
         name: 'Stack Overflow',
         categories: ['Programming'],
         description:
@@ -676,6 +715,13 @@ export const resources: Resource[] = [
             'A gallery of outstanding early-stage companies, fresh jobs and funding news curated in one place.',
         categories: ['Learn', 'Job', 'Remote'],
         url: 'https://startups.gallery/',
+    },
+    {
+        name: 'Stylo AI',
+        categories: ['AI', 'Productivity'],
+        description: 'Automatically solve Zendesk tickets with AI',
+        url: 'https://www.askstylo.com/',
+        keywords: ['zendesk', 'ai', 'productivity'],
     },
     {
         name: 'Stormkit',
@@ -846,6 +892,12 @@ export const resources: Resource[] = [
         description:
             'Massive repository of 300K+ free SVG icons, collections, and brand logos. It has a simple but mighty vector editing program right in the browser for quick file editing.',
         url: 'https://svgmix.com/',
+    },
+    {
+        name: 'SVGL',
+        categories: ['Icon'],
+        description: 'A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.',
+        url: 'https://svgl.app',
     },
     {
         name: 'SVGX',

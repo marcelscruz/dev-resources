@@ -123,7 +123,7 @@ export const resources: Resource[] = [
         name: 'DesignCourse',
         categories: ['Design', 'YouTube Channel', 'UX'],
         description:
-            "New videos weekly from Monday to Thursday @ 10:30 AM ET! Hi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlus.com, DigitalTutors.com, Pluralsight.com, LinkedIn Learning & Lynda.com. I teach full stack development! Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more! Interested in a sponsorship opportunity or review?  Contact me: contact@coursetro.com.",
+            "New videos weekly from Monday to Thursday @ 10:30 AM ET! Hi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlus.com, DigitalTutors.com, Pluralsight.com, LinkedIn Learning & Lynda.com. I teach full stack development! Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more! Interested in a sponsorship opportunity or review?",
         keywords: [
             '"web design" "logo design" "illustrator tutorials" "website design" free ui ux "user experience design" "ux design" "frontend development" "frontend developer"',
         ],
@@ -245,6 +245,12 @@ export const resources: Resource[] = [
         categories: ['Cheatsheet'],
         description: 'A ridiculous collection of web development cheatsheets · One-page guide to.',
         url: 'https://devhints.io/',
+    },
+    {
+        name: 'Devicons',
+        categories: ['Icon'],
+        description: 'An iconic font made for developers.',
+        url: 'http://vorillaz.github.io/devicons',
     },
     {
         name: 'DevNews',

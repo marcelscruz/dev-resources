@@ -454,6 +454,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Trotto',
+        description:
+            'Go links: an internal URL shortener that anyone can easily read, share, and remember (go/code, go/review)',
+        categories: ['Tooling'],
+        url: 'https://www.trot.to',
+        keywords: ['url shortener', 'link', 'link shortener'],
+    },
+    {
         name: 'Truelist',
         description:
             'Truelist is a subscription-based email verification platform that provides unlimited email validation for sales and marketing lists.',
@@ -461,7 +469,6 @@ export const resources: Resource[] = [
         url: 'https://truelist.io/',
         keywords: ['developer tool', 'email validation', 'sales prospecting', 'email deliverability'],
     },
-
     {
         name: 'Tweet Detective',
         categories: ['Social Media', 'AI'],
