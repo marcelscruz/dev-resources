@@ -61,9 +61,17 @@ export const resources: Resource[] = [
     },
     {
         name: 'Dark',
-        categories: ['Design', 'UI'],
+        categories: ['Design', 'UI', 'Inspiration'],
         description: 'The best hand-picked dark themed websites on the internet.',
         url: 'https://www.dark.design/',
+    },
+    {
+        name: 'Dark Mode Design',
+        categories: ['Design', 'UI', 'Inspiration'],
+        description:
+            'Dark Mode Design is a showcase of beautifully designed and inspiring dark mode websites. Dim the lights, lower your screen brightness, and enjoy.',
+        url: 'https://darkmodedesign.com',
+        keywords: ['dark mode', 'design', 'ui', 'inspiration'],
     },
     {
         name: 'Dart Cheatsheet Codelab',
@@ -146,6 +154,14 @@ export const resources: Resource[] = [
         categories: ['Job'],
         description: 'Remote and full time jobs for web designers and developers.',
         url: 'https://designmodo.com/jobs/',
+    },
+    {
+        name: 'Design Spells',
+        categories: ['Design', 'UI', 'Inspiration'],
+        description:
+            'Discover micro-interactions, easter eggs, and other seemingly extra design details that infuse life, personality, and fun back into the web.',
+        url: 'https://www.designspells.com/',
+        keywords: ['design', 'ui', 'inspiration'],
     },
     {
         name: 'DDEV',

@@ -222,6 +222,13 @@ export const resources: Resource[] = [
         url: 'https://www.microsoft.com/en-us/sql-server',
     },
     {
+        name: 'Minimal Gallery',
+        categories: ['Design', 'UI', 'Inspiration'],
+        description: 'Hand-picked website inspiration, tools, domains and more.',
+        url: 'https://minimal.gallery/',
+        keywords: ['minimal', 'design', 'ui', 'inspiration'],
+    },
+    {
         name: 'Miruni',
         description:
             'Miruni is a visual feedback and task management tool designed for webmasters, developers, and agencies managing websites across many platforms.',
