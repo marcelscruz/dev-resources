@@ -1,5 +1,5 @@
 {
-"count": 1042,
+"count": 1045,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2829,10 +2829,27 @@
         "name": "Dark",
         "categories": [
             "Design",
-            "UI"
+            "UI",
+            "Inspiration"
         ],
         "description": "The best hand-picked dark themed websites on the internet.",
         "url": "https://www.dark.design/"
+    },
+    {
+        "name": "Dark Mode Design",
+        "categories": [
+            "Design",
+            "UI",
+            "Inspiration"
+        ],
+        "description": "Dark Mode Design is a showcase of beautifully designed and inspiring dark mode websites. Dim the lights, lower your screen brightness, and enjoy.",
+        "url": "https://darkmodedesign.com",
+        "keywords": [
+            "dark mode",
+            "design",
+            "ui",
+            "inspiration"
+        ]
     },
     {
         "name": "Dart Cheatsheet Codelab",
@@ -2938,6 +2955,21 @@
         ],
         "description": "A curated list of the best design resources handpicked from around the web.",
         "url": "https://www.designresourc.es/"
+    },
+    {
+        "name": "Design Spells",
+        "categories": [
+            "Design",
+            "UI",
+            "Inspiration"
+        ],
+        "description": "Discover micro-interactions, easter eggs, and other seemingly extra design details that infuse life, personality, and fun back into the web.",
+        "url": "https://www.designspells.com/",
+        "keywords": [
+            "design",
+            "ui",
+            "inspiration"
+        ]
     },
     {
         "name": "Design System Cookbooks",
@@ -7224,6 +7256,22 @@
         ],
         "description": "Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge.",
         "url": "https://www.microsoft.com/en-us/sql-server"
+    },
+    {
+        "name": "Minimal Gallery",
+        "categories": [
+            "Design",
+            "UI",
+            "Inspiration"
+        ],
+        "description": "Hand-picked website inspiration, tools, domains and more.",
+        "url": "https://minimal.gallery/",
+        "keywords": [
+            "minimal",
+            "design",
+            "ui",
+            "inspiration"
+        ]
     },
     {
         "name": "Miruni",
