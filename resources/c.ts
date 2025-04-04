@@ -86,6 +86,13 @@ export const resources: Resource[] = [
         url: 'https://chakra-ui.com/',
     },
     {
+        name: 'Chargeblast',
+        categories: ['Analytics', 'Library'],
+        description: 'Chargeblast helps developers simplify their payment stack and not worry about blocking disputes',
+        url: 'https://www.chargeblast.com/',
+        keywords: ['payments', 'chargeback', 'stripe integration'],
+    },
+    {
         name: 'Chart.js',
         categories: ['Library', 'Programming'],
         description:
