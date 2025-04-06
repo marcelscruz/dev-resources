@@ -74,6 +74,12 @@ export const resources: Resource[] = [
         url: 'http://cassandra.apache.org/',
     },
     {
+        name: 'Catalog by Thesys',
+        categories: ['Database', 'AI'],
+        description: `Catalog by Thesys is a curated collection of AI agents designed to help you find the right agent for your needs. Whether you're exploring AI for automation, decision-making, or creative tasks, it simplifies your search with the categorization and listing of all the AI agents.`,
+        url: 'https://catalog.thesys.dev/',
+    },
+    {
         name: 'Chakra',
         categories: ['Library', 'Programming', 'UI'],
         description: 'Simple, Modular and Accessible UI Components for your React Applications.',
@@ -621,6 +627,20 @@ export const resources: Resource[] = [
         url: 'https://colorlib.com/',
     },
     {
+        name: 'ColorMagic',
+        categories: ['Color'],
+        description:
+            'Instantly generate stunning color palettes and schemes from a name, image, hex code, word, or one color with AI',
+        url: 'https://colormagic.app/',
+        keywords: [
+            'color palette',
+            'color palette generator',
+            'color themes',
+            'color palettes',
+            'ai color palette generator',
+        ],
+    },
+    {
         name: 'Colormind',
         categories: ['Color'],
         description:
@@ -996,6 +1016,20 @@ export const resources: Resource[] = [
         description:
             'CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.',
         url: 'https://cssreference.io/',
+    },
+    {
+        name: 'CSSnippets',
+        categories: ['Code Snippet', 'Programming', 'Animation'],
+        description:
+            'CSSnippets is a collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more.',
+        keywords: [
+            'css snippets',
+            'react snippets',
+            'tailwind css snippets',
+            'css code snippets',
+            'FREE Tailwind Components',
+        ],
+        url: 'https://cssnippets.shefali.dev/',
     },
     {
         name: 'CSS Scan',

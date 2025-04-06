@@ -454,7 +454,7 @@ export const resources: Resource[] = [
             'programming',
             'open source',
         ],
-        url: 'https://www.freeforgeeks.com',
+        url: 'https://freeforgeeks.jpdiaz.dev',
     },
     {
         name: 'Freesets',

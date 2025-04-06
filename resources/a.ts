@@ -74,6 +74,15 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Adligator',
+        description:
+            'Adligator - first of all is AI powered aggregator of ads from Facebook, Instagram, fb Messenger and the audience network.',
+        categories: ['AI', 'Marketing', 'Productivity'],
+        url: 'https://adligator.com/',
+        keywords: ['ads', 'ads aggregator', 'analyzing competitors', 'creatives'],
+    },
+
+    {
         name: 'AdminMart',
         categories: ['Template'],
         description: 'The Best Free and Premium Admin Templates by AdminMart.',
@@ -102,6 +111,13 @@ export const resources: Resource[] = [
         description: 'Place where developers showcase their AI Agents for businesses.',
         keywords: ['ai', 'artificial intelligence', 'developer', 'ai agent', 'marketplace', 'store'],
         url: 'https://aiagentstore.ai',
+    },
+    {
+        name: 'AI Agents Live',
+        categories: ['AI', 'Productivity'],
+        description: 'Discover best AI Agents by category, rating and reviews for your business needs',
+        keywords: ['ai', 'artificial intelligence', 'developer', 'ai agent', 'marketplace', 'store', 'news', 'blogs'],
+        url: 'https://aiagentslive.com',
     },
     {
         name: 'AI Best Tools',

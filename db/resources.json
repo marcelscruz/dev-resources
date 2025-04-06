@@ -1,5 +1,5 @@
 {
-"count": 1014,
+"count": 1045,
 "data": [
     {
         "name": "1001 Fonts",
@@ -193,6 +193,22 @@
         ]
     },
     {
+        "name": "Adligator",
+        "description": "Adligator - first of all is AI powered aggregator of ads from Facebook, Instagram, fb Messenger and the audience network.",
+        "categories": [
+            "AI",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://adligator.com/",
+        "keywords": [
+            "ads",
+            "ads aggregator",
+            "analyzing competitors",
+            "creatives"
+        ]
+    },
+    {
         "name": "AdminMart",
         "categories": [
             "Template"
@@ -236,6 +252,25 @@
             "store"
         ],
         "url": "https://aiagentstore.ai"
+    },
+    {
+        "name": "AI Agents Live",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Discover best AI Agents by category, rating and reviews for your business needs",
+        "keywords": [
+            "ai",
+            "artificial intelligence",
+            "developer",
+            "ai agent",
+            "marketplace",
+            "store",
+            "news",
+            "blogs"
+        ],
+        "url": "https://aiagentslive.com"
     },
     {
         "name": "AI Best Tools",
@@ -914,36 +949,6 @@
         ]
     },
     {
-        "name": "Bing Pros",
-        "categories": [
-            "Freelance"
-        ],
-        "description": "Bing Pros is a gig service platform that connects Bing Search users to providers who want higher profit for their services.",
-        "url": "https://www.bing.com/pros",
-        "keywords": [
-            "Graphic Design",
-            "Web Development",
-            "SEO Services",
-            "Accounting",
-            "IT Support",
-            "Data Management",
-            "Marketing",
-            "Interior Design",
-            "Software Development",
-            "Virtual Event Planning",
-            "Content Writing",
-            "Video & Audio",
-            "Life Coaching",
-            "Virtual Assistant Services",
-            "Translation Services",
-            "Travel Planners",
-            "Business Consulting",
-            "Employment Agent Services",
-            "Career Counseling",
-            "Health and Wellness Coaching"
-        ]
-    },
-    {
         "name": "Biteable",
         "categories": [
             "Editor",
@@ -1396,6 +1401,15 @@
         ],
         "description": "Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters.",
         "url": "http://cassandra.apache.org/"
+    },
+    {
+        "name": "Catalog by Thesys",
+        "categories": [
+            "Database",
+            "AI"
+        ],
+        "description": "Catalog by Thesys is a curated collection of AI agents designed to help you find the right agent for your needs. Whether you're exploring AI for automation, decision-making, or creative tasks, it simplifies your search with the categorization and listing of all the AI agents.",
+        "url": "https://catalog.thesys.dev/"
     },
     {
         "name": "Chaindesk",
@@ -2124,6 +2138,21 @@
         "url": "https://colorlib.com/"
     },
     {
+        "name": "ColorMagic",
+        "categories": [
+            "Color"
+        ],
+        "description": "Instantly generate stunning color palettes and schemes from a name, image, hex code, word, or one color with AI",
+        "url": "https://colormagic.app/",
+        "keywords": [
+            "color palette",
+            "color palette generator",
+            "color themes",
+            "color palettes",
+            "ai color palette generator"
+        ]
+    },
+    {
         "name": "Colormind",
         "categories": [
             "Color"
@@ -2646,6 +2675,23 @@
         "url": "https://axorax.github.io/css-button-maker/"
     },
     {
+        "name": "CSSnippets",
+        "categories": [
+            "Code Snippet",
+            "Programming",
+            "Animation"
+        ],
+        "description": "CSSnippets is a collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more.",
+        "keywords": [
+            "css snippets",
+            "react snippets",
+            "tailwind css snippets",
+            "css code snippets",
+            "FREE Tailwind Components"
+        ],
+        "url": "https://cssnippets.shefali.dev/"
+    },
+    {
         "name": "CSSViewer",
         "categories": [
             "Browser",
@@ -2783,10 +2829,27 @@
         "name": "Dark",
         "categories": [
             "Design",
-            "UI"
+            "UI",
+            "Inspiration"
         ],
         "description": "The best hand-picked dark themed websites on the internet.",
         "url": "https://www.dark.design/"
+    },
+    {
+        "name": "Dark Mode Design",
+        "categories": [
+            "Design",
+            "UI",
+            "Inspiration"
+        ],
+        "description": "Dark Mode Design is a showcase of beautifully designed and inspiring dark mode websites. Dim the lights, lower your screen brightness, and enjoy.",
+        "url": "https://darkmodedesign.com",
+        "keywords": [
+            "dark mode",
+            "design",
+            "ui",
+            "inspiration"
+        ]
     },
     {
         "name": "Dart Cheatsheet Codelab",
@@ -2894,6 +2957,21 @@
         "url": "https://www.designresourc.es/"
     },
     {
+        "name": "Design Spells",
+        "categories": [
+            "Design",
+            "UI",
+            "Inspiration"
+        ],
+        "description": "Discover micro-interactions, easter eggs, and other seemingly extra design details that infuse life, personality, and fun back into the web.",
+        "url": "https://www.designspells.com/",
+        "keywords": [
+            "design",
+            "ui",
+            "inspiration"
+        ]
+    },
+    {
         "name": "Design System Cookbooks",
         "categories": [
             "Design",
@@ -2909,7 +2987,7 @@
             "YouTube Channel",
             "UX"
         ],
-        "description": "New videos weekly from Monday to Thursday @ 10:30 AM ET! Hi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlus.com, DigitalTutors.com, Pluralsight.com, LinkedIn Learning & Lynda.com. I teach full stack development! Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more! Interested in a sponsorship opportunity or review?  Contact me: contact@coursetro.com.",
+        "description": "New videos weekly from Monday to Thursday @ 10:30 AM ET! Hi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlus.com, DigitalTutors.com, Pluralsight.com, LinkedIn Learning & Lynda.com. I teach full stack development! Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more! Interested in a sponsorship opportunity or review?",
         "keywords": [
             "\"web design\" \"logo design\" \"illustrator tutorials\" \"website design\" free ui ux \"user experience design\" \"ux design\" \"frontend development\" \"frontend developer\""
         ],
@@ -3026,6 +3104,14 @@
         ],
         "description": "A ridiculous collection of web development cheatsheets · One-page guide to.",
         "url": "https://devhints.io/"
+    },
+    {
+        "name": "Devicons",
+        "categories": [
+            "Icon"
+        ],
+        "description": "An iconic font made for developers.",
+        "url": "http://vorillaz.github.io/devicons"
     },
     {
         "name": "DevNews",
@@ -3638,6 +3724,16 @@
         "url": "https://extendsclass.com/csv-generator.html"
     },
     {
+        "name": "Extruct AI",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Scraping"
+        ],
+        "description": "Extruct AI is your platform to find, research, and decide on the right companies with precision. Powered by live AI research, our verticalized engine delivers custom, up-to-date insights tailored to your needs",
+        "url": "https://www.extruct.ai/"
+    },
+    {
         "name": "EzUptime",
         "categories": [
             "Performance",
@@ -4160,7 +4256,7 @@
             "programming",
             "open source"
         ],
-        "url": "https://www.freeforgeeks.com"
+        "url": "https://freeforgeeks.jpdiaz.dev"
     },
     {
         "name": "freeCodeCamp",
@@ -5707,6 +5803,24 @@
         ]
     },
     {
+        "name": "Interview Playground",
+        "description": "Practice interviewing before the big day",
+        "categories": [
+            "Interview",
+            "AI"
+        ],
+        "url": "https://interviewplayground.com",
+        "keywords": [
+            "interview helper",
+            "interview solver",
+            "ai copilot",
+            "career",
+            "practice",
+            "interview",
+            "jobs"
+        ]
+    },
+    {
         "name": "Interview Solver",
         "description": "Ace your live coding interviews with our AI Copilot",
         "categories": [
@@ -5992,6 +6106,22 @@
         ],
         "description": "Discover Remote Jobs from around the world. Give up the commute, work remotely and do what you love, daily, from anywhere. Find your perfect remote development, design, sales or marketing job today.",
         "url": "https://justremote.co/"
+    },
+    {
+        "name": "KarmaLinks",
+        "description": "KarmaLinks is an AI powered backlink exchange platform. Users are able receive backlinks from others and must give backlinks in exchange.",
+        "categories": [
+            "Marketing",
+            "SEO",
+            "Productivity"
+        ],
+        "url": "https://karmalinks.io/",
+        "keywords": [
+            "backlinks",
+            "netlinking",
+            "online reputation",
+            "off page seo"
+        ]
     },
     {
         "name": "Kempo",
@@ -6533,6 +6663,24 @@
         ]
     },
     {
+        "name": "Lindo AI",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Tooling"
+        ],
+        "description": "A white-label AI website builder empowering entrepreneurs and agencies to start their own web design businesses in minutes",
+        "keywords": [
+            "Website builder",
+            "White Label solution",
+            "Entrepreneurship",
+            "Agency",
+            "Freelancers",
+            "SaaS"
+        ],
+        "url": "https://www.lindo.ai"
+    },
+    {
         "name": "Line Icon Pack",
         "categories": [
             "Icon"
@@ -6866,6 +7014,21 @@
         "url": "https://makebook.io/"
     },
     {
+        "name": "ManagerTrack",
+        "categories": [
+            "Job"
+        ],
+        "description": "Senior management positions without the hassle",
+        "url": "https://www.managertrack.com",
+        "keywords": [
+            "senior management",
+            "senior positions",
+            "senior management positions",
+            "senior management jobs",
+            "job search"
+        ]
+    },
+    {
         "name": "Mantine",
         "categories": [
             "Library",
@@ -7093,6 +7256,38 @@
         ],
         "description": "Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge.",
         "url": "https://www.microsoft.com/en-us/sql-server"
+    },
+    {
+        "name": "Minimal Gallery",
+        "categories": [
+            "Design",
+            "UI",
+            "Inspiration"
+        ],
+        "description": "Hand-picked website inspiration, tools, domains and more.",
+        "url": "https://minimal.gallery/",
+        "keywords": [
+            "minimal",
+            "design",
+            "ui",
+            "inspiration"
+        ]
+    },
+    {
+        "name": "Miruni",
+        "description": "Miruni is a visual feedback and task management tool designed for webmasters, developers, and agencies managing websites across many platforms.",
+        "categories": [
+            "Design",
+            "Startup",
+            "Productivity"
+        ],
+        "url": "https://www.miruni.io/",
+        "keywords": [
+            "design tool",
+            "visual feedback",
+            "web development tools",
+            "website collaboration tools"
+        ]
     },
     {
         "name": "Mkdirs",
@@ -7854,6 +8049,16 @@
         "url": "https://www.pcloudy.com/"
     },
     {
+        "name": "pdforge",
+        "categories": [
+            "Editor",
+            "Design",
+            "Marketing"
+        ],
+        "description": "The new way to generate PDF documents for your SaaS. Use our no-code PDF builder and our easy-to-use API to generate modern PDF reports at scale without relying on your development team.",
+        "url": "https://pdforge.com/"
+    },
+    {
         "name": "PeoplePerHour",
         "categories": [
             "Freelance"
@@ -7966,6 +8171,19 @@
         "url": "https://www.jetbrains.com/phpstorm/"
     },
     {
+        "name": "Pictify",
+        "categories": [
+            "Image",
+            "Programming"
+        ],
+        "description": "Pictify.io provides API to convert HTML into image",
+        "url": "https://pictify.io",
+        "keywords": [
+            "image generation",
+            "HTML to image"
+        ]
+    },
+    {
         "name": "Pieces",
         "categories": [
             "AI",
@@ -7978,6 +8196,22 @@
             "Productivity",
             "Copilot",
             "easy snippet search"
+        ]
+    },
+    {
+        "name": "PimpMySnap",
+        "description": "PimpMySnap is a powerful screenshot editor capable of transforming your screenshots into eye-catching visuals.",
+        "categories": [
+            "Design",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://pimpmysnap.com/",
+        "keywords": [
+            "screenshot",
+            "social media",
+            "editor",
+            "content,"
         ]
     },
     {
@@ -8352,6 +8586,16 @@
         "url": "https://pythonjob.xyz/"
     },
     {
+        "name": "Python For Everybody",
+        "categories": [
+            "Learn",
+            "Book",
+            "Programming"
+        ],
+        "description": "Set of free materials, lectures, book and assignments to help students learn how to program in Python 3 (2016)",
+        "url": "https://py4e.com"
+    },
+    {
         "name": "Qoddi.com",
         "categories": [
             "Hosting",
@@ -8411,6 +8655,18 @@
             "color",
             "ui",
             "components"
+        ]
+    },
+    {
+        "name": "Random Color",
+        "categories": [
+            "Color"
+        ],
+        "description": "Simple tool to generate a random color.",
+        "url": "https://randomcolor.com/",
+        "keywords": [
+            "random color",
+            "color generator"
         ]
     },
     {
@@ -8618,6 +8874,22 @@
         ],
         "description": "Find employers and employees on Reddit.",
         "url": "https://www.reddit.com/r/forhire/"
+    },
+    {
+        "name": "ReelProof",
+        "description": "ReelProof makes it easy to gather authentic customer testimonials using AI-powered interviews and instantly generates shareable video reels.",
+        "categories": [
+            "Video",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://reelproof.io/",
+        "keywords": [
+            "video testimonials",
+            "ai interviewing",
+            "video automation",
+            "social proof"
+        ]
     },
     {
         "name": "Refactoring UI",
@@ -9129,6 +9401,21 @@
         ]
     },
     {
+        "name": "Scopebird",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Product scoping in minutes, not weeks.",
+        "keywords": [
+            "product",
+            "scoping",
+            "ai",
+            "product management"
+        ],
+        "url": "https://www.scopebird.com/"
+    },
+    {
         "name": "Scrapfly",
         "categories": [
             "Scraping"
@@ -9259,6 +9546,22 @@
         "url": "https://seogets.com/"
     },
     {
+        "name": "SEO Katana",
+        "description": "Katana helps you find your competitors top organic content, analyze it, and create unique content inspired by it for you.",
+        "categories": [
+            "AI",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://seokatana.com/",
+        "keywords": [
+            "business",
+            "seo",
+            "ai content generator",
+            "competitor research"
+        ]
+    },
+    {
         "name": "SEO Powersuite",
         "categories": [
             "SEO"
@@ -9298,6 +9601,25 @@
         ],
         "description": "Serverless Stack (SST) is a framework that makes it easy to build serverless applications.",
         "url": "https://serverless-stack.com/"
+    },
+    {
+        "name": "Servervana",
+        "categories": [
+            "Performance",
+            "Tooling"
+        ],
+        "description": "Team friendly performance and uptime monitoring platform for your website, API endpoints, DNS system and more. Has free plan.",
+        "url": "https://servervana.com",
+        "keywords": [
+            "Performance",
+            "Uptime",
+            "Monitoring",
+            "Status Page",
+            "Web Vitals",
+            "SSL",
+            "HTTP(s)",
+            "DNS"
+        ]
     },
     {
         "name": "Shape",
@@ -9706,6 +10028,22 @@
         "url": "https://snipit.io/"
     },
     {
+        "name": "Social Growth Engineers",
+        "description": "Social Growth Engineers is the #1 source for organic social marketing strategies and resources.",
+        "categories": [
+            "Marketing",
+            "Blog",
+            "Productivity"
+        ],
+        "url": "https://www.socialgrowthengineers.com/",
+        "keywords": [
+            "social",
+            "marketing resources",
+            "marketing strategies",
+            "tiktok growth hacks"
+        ]
+    },
+    {
         "name": "Social Intents",
         "categories": [
             "AI",
@@ -9876,6 +10214,22 @@
         ],
         "description": "Compress and compare images with different codecs, right in your browser.",
         "url": "https://squoosh.app/"
+    },
+    {
+        "name": "Srcbook",
+        "description": "Srcbook is the best online AI website builder. Go from your idea to a shareable app in seconds.",
+        "categories": [
+            "AI",
+            "Website Builder",
+            "Productivity"
+        ],
+        "url": "https://srcbook.com/",
+        "keywords": [
+            "assistant",
+            "no code",
+            "ai coding agent",
+            "website development"
+        ]
     },
     {
         "name": "Stack Overflow",
@@ -10058,6 +10412,20 @@
         "url": "https://www.styleshout.com/"
     },
     {
+        "name": "Stylo AI",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Automatically solve Zendesk tickets with AI",
+        "url": "https://www.askstylo.com/",
+        "keywords": [
+            "zendesk",
+            "ai",
+            "productivity"
+        ]
+    },
+    {
         "name": "Sublime Text",
         "categories": [
             "Editor",
@@ -10174,6 +10542,14 @@
         ],
         "description": "SVGBox allows you to add any of the 3,405 icons we have to your project by using simple tags. Instead of using downloading and uploading icons, simply copy tag and start using it. We are constantly adding more and more icons to serve different use cases.",
         "url": "https://svgbox.net/"
+    },
+    {
+        "name": "SVGL",
+        "categories": [
+            "Icon"
+        ],
+        "description": "A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.",
+        "url": "https://svgl.app"
     },
     {
         "name": "SVGmix",
@@ -10841,6 +11217,19 @@
         ]
     },
     {
+        "name": "Trotto",
+        "description": "Go links: an internal URL shortener that anyone can easily read, share, and remember (go/code, go/review)",
+        "categories": [
+            "Tooling"
+        ],
+        "url": "https://www.trot.to",
+        "keywords": [
+            "url shortener",
+            "link",
+            "link shortener"
+        ]
+    },
+    {
         "name": "Truelist",
         "description": "Truelist is a subscription-based email verification platform that provides unlimited email validation for sales and marketing lists.",
         "categories": [
@@ -11255,6 +11644,22 @@
         "url": "https://userbooster.co"
     },
     {
+        "name": "UtilPortal",
+        "categories": [
+            "SEO",
+            "Tooling",
+            "Startup"
+        ],
+        "description": "UtilPortal is your go-to platform for discovering and accessing a curated collection of essential tools and resources.",
+        "url": "https://utilportal.com/",
+        "keywords": [
+            "directory",
+            "tools",
+            "development",
+            "seo"
+        ]
+    },
+    {
         "name": "UXfolio",
         "categories": [
             "Template",
@@ -11320,6 +11725,22 @@
         "url": "https://vercel.com/"
     },
     {
+        "name": "Vesta",
+        "description": "Vesta generates content in your style across any of your marketing channels.",
+        "categories": [
+            "Writing",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://www.vesta-app.com/",
+        "keywords": [
+            "ai writing assistant",
+            "content marketing",
+            "content automation",
+            "content creation"
+        ]
+    },
+    {
         "name": "VideoEditor SDK",
         "categories": [
             "Editor",
@@ -11373,6 +11794,22 @@
         ],
         "description": "VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the \"Zelda meets text editing\" game. So come have some fun and learn some VIM!",
         "url": "https://vim-adventures.com/"
+    },
+    {
+        "name": "Virlo",
+        "description": "Virlo helps content creators track viral trends on short form content platforms.",
+        "categories": [
+            "AI",
+            "Social Media",
+            "Video"
+        ],
+        "url": "https://virlo.ai/",
+        "keywords": [
+            "data",
+            "trends",
+            "short form content",
+            "content creators"
+        ]
     },
     {
         "name": "Virtual Coffee",

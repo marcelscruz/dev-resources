@@ -208,7 +208,13 @@ export const resources: Resource[] = [
         url: 'https://interviewsolver.com',
         keywords: ['interview helper', 'interview solver', 'ai copilot', 'career'],
     },
-
+    {
+        name: 'Interview Playground',
+        description: 'Practice interviewing before the big day',
+        categories: ['Interview', 'AI'],
+        url: 'https://interviewplayground.com',
+        keywords: ['interview helper', 'interview solver', 'ai copilot', 'career', 'practice', 'interview', 'jobs'],
+    },
     {
         name: 'iOS Dev Jobs',
         categories: ['Job'],
