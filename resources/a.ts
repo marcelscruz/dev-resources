@@ -99,6 +99,13 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ',
     },
     {
+        name: 'Ad Swipe File',
+        description: 'Create top creatives: free access to 22,423+ proven ads!',
+        categories: ['Marketing', 'AI', 'Inspiration'],
+        url: 'https://adswipefile.com/',
+        keywords: ['e-commerce', 'advertising', 'ai', 'design'],
+    },
+    {
         name: 'Ahrefs',
         categories: ['SEO'],
         description:
