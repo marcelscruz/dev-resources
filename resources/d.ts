@@ -321,6 +321,13 @@ export const resources: Resource[] = [
         url: 'https://divjoy.com/',
     },
     {
+        name: 'DMARC Digests by ActiveCampaign',
+        description: 'Protect your email deliverability.',
+        categories: ['Tooling', 'Email',],
+        url: 'https://dmarcdigests.com',
+        keywords: ['DMARC', 'authentication', 'monitoring', 'spoofing'],
+    },
+    {
         name: 'Documind AI',
         categories: ['AI'],
         description:
