@@ -250,6 +250,13 @@ export const resources: Resource[] = [
         url: 'https://www.postman.com/',
     },
     {
+        name: 'Postmark by ActiveCampaign',
+        description: 'The email service people actually like. Email API & SMTP relay for developers.',
+        categories: ['Tooling', 'Email'],
+        url: 'https://postmarkapp.com',
+        keywords: ['email api', 'smtp', 'transactional email', 'mass email'],
+    },
+    {
         name: 'Postlyy',
         categories: ['AI', 'Productivity'],
         description: 'All in one platform to create (WITH AI), schedule, and analyze content on X and LinkedIn',
