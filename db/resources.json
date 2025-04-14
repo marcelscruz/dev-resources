@@ -1,5 +1,5 @@
 {
-"count": 1048,
+"count": 1049,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1048,6 +1048,23 @@
         ],
         "description": "Save weeks of setup time with production-ready boilerplates, templates and starter kits for SaaS, web and mobile applications. Carefully vetted and maintained by developers.",
         "url": "https://boilerplatehub.com/",
+        "keywords": [
+            "boilerplates",
+            "starter kits",
+            "frameworks",
+            "development",
+            "low code"
+        ]
+    },
+    {
+        "name": "BoilerplateHunt",
+        "categories": [
+            "Productivity",
+            "Template",
+            "Startup"
+        ],
+        "description": "Find the best boilerplates to ship faster. Explore production-ready boilerplates for SaaS, web, and mobile applications.",
+        "url": "https://boilerplatehunt.com/",
         "keywords": [
             "boilerplates",
             "starter kits",
