@@ -442,4 +442,11 @@ export const resources: Resource[] = [
             'Set of free materials, lectures, book and assignments to help students learn how to program in Python 3 (2016)',
         url: 'https://py4e.com',
     },
+    {
+        name: 'Pythonium',
+        categories: ['Programming', 'Tooling'],
+        description:
+            'Online Python tools: Linter, formatter, regex tester, converter, obfuscator, and mock API.',
+        url: 'https://pythonium.net/',
+    },
 ]
