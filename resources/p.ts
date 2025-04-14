@@ -445,8 +445,7 @@ export const resources: Resource[] = [
     {
         name: 'Pythonium',
         categories: ['Programming', 'Tooling'],
-        description:
-            'Online Python tools: Linter, formatter, regex tester, converter, obfuscator, and mock API.',
+        description: 'Online Python tools: Linter, formatter, regex tester, converter, obfuscator, and mock API.',
         url: 'https://pythonium.net/',
     },
 ]
