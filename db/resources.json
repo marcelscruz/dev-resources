@@ -1,5 +1,5 @@
 {
-"count": 1050,
+"count": 1051,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4243,6 +4243,23 @@
             "business",
             "sell",
             "buy"
+        ]
+    },
+    {
+        "name": "Fountn",
+        "categories": [
+            "Design",
+            "Learn",
+            "UI"
+        ],
+        "description": "World’s largest collection of design resources, curated by designers.",
+        "url": "https://fountn.design",
+        "keywords": [
+            "design",
+            "resources",
+            "ui kits",
+            "icons",
+            "templates"
         ]
     },
     {
