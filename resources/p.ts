@@ -257,6 +257,13 @@ export const resources: Resource[] = [
         keywords: ['ai', 'social media', 'content creation'],
     },
     {
+        name: 'Postmark by ActiveCampaign',
+        description: 'The email service people actually like. Email API & SMTP relay for developers.',
+        categories: ['Tooling', 'Email',],
+        url: 'https://postmarkapp.com',
+        keywords: ['email api', 'smtp', 'transactional email', 'mass email'],
+    },
+    {
         name: 'PoweredbyAI',
         description: 'A directory with 100+ AI tools to help you with your daily tasks',
         categories: ['AI'],
