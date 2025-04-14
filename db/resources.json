@@ -1,5 +1,5 @@
 {
-"count": 1049,
+"count": 1050,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5771,6 +5771,23 @@
         ],
         "description": "The worldwide virtual meetup of indie hackers, founders, and makers.",
         "url": "https://indieworldwide.co/"
+    },
+    {
+        "name": "IndieHub",
+        "categories": [
+            "Tooling",
+            "Startup",
+            "Productivity"
+        ],
+        "description": "Discover tools, Launch products, and Ship applications faster and better.",
+        "url": "https://indiehub.best",
+        "keywords": [
+            "directory",
+            "website",
+            "indiehacker",
+            "indie",
+            "boilerplate"
+        ]
     },
     {
         "name": "IndiesReadIt",
