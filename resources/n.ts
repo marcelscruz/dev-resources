@@ -62,10 +62,11 @@ export const resources: Resource[] = [
     },
     {
         name: 'NextUpKit',
-        description: 'NextUpKit is an affordable, fully-featured Next.js SaaS starter kit designed to help developers and entrepreneurs build and launch SaaS products faster.',
+        description:
+            'NextUpKit is an affordable, fully-featured Next.js SaaS starter kit designed to help developers and entrepreneurs build and launch SaaS products faster.',
         categories: ['Template', 'Productivity'],
         url: 'https://www.nextupkit.com/',
-        keywords: ['developer tool', 'boilerplate', 'starter kit', 'next.js boilerplate'], 
+        keywords: ['developer tool', 'boilerplate', 'starter kit', 'next.js boilerplate'],
     },
     {
         name: 'Nitric',
