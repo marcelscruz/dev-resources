@@ -667,6 +667,13 @@ export const resources: Resource[] = [
         url: 'http://stackoverflow.com/',
     },
     {
+        name: 'Staclo.host',
+        description: 'The easiest way to share your static site as a preview or on your own domain for production.',
+        categories: ['Hosting', 'Productivity'],
+        url: 'https://staclo.host/',
+        keywords: ['developer tool', 'web development', 'static site', 'no code'], 
+    },
+    {
         name: 'Stark',
         categories: ['Accessibility'],
         description:
