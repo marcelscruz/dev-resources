@@ -1,5 +1,5 @@
 {
-"count": 1045,
+"count": 1046,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1757,6 +1757,26 @@
             "redux"
         ],
         "url": "http://codewinds.com/podcast.html"
+    },
+    {
+        "name": "CodeBeaver",
+        "categories": [
+            "Programming",
+            "Testing",
+            "AI"
+        ],
+        "description": "Get an A.I. assistant that writes tests and spots bugs",
+        "keywords": [
+            "unit testing",
+            "unit test",
+            "unit tests",
+            "unit test generator",
+            "ai",
+            "ai assistant",
+            "ai testing",
+            "ai unit testing"
+        ],
+        "url": "https://www.codebeaver.ai/"
     },
     {
         "name": "Codecademy",

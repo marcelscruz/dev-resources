@@ -372,8 +372,7 @@ export const resources: Resource[] = [
     {
         name: 'CodeBeaver',
         categories: ['Programming', 'Testing', 'AI'],
-        description:
-            "Get an A.I. assistant that writes tests and spots bugs",
+        description: 'Get an A.I. assistant that writes tests and spots bugs',
         keywords: [
             'unit testing',
             'unit test',
