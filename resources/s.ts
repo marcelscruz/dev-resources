@@ -613,6 +613,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Spam Check by Postmark',
+        description: 'Instantly check the spam score of your email messages.',
+        categories: ['Tooling', 'Email',],
+        url: 'https://https://spamcheck.postmarkapp.com',
+        keywords: ['spam check', 'authentication', 'JSON API', 'email'],
+    },
+    {
         name: 'Sqlable',
         categories: ['Tooling', 'Database'],
         description:
