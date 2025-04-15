@@ -349,6 +349,13 @@ export const resources: Resource[] = [
         url: 'https://projectlearn.io/',
     },
     {
+        name: 'Proxed.AI',
+        description: 'Proxed.AI is a secure API proxy for iOS apps that protects AI API keys, prevents unauthorized access, and verifies real devices using Apple’s DeviceCheck.',
+        categories: ['AI', 'Security', 'Authentication'],
+        url: 'https://proxed.ai/',
+        keywords: ['ai api security', 'ios api protection', 'secure ai integration', 'api key management'], 
+    },
+    {
         name: 'Proxies API',
         categories: ['Scraping'],
         description:
