@@ -921,12 +921,7 @@ export const resources: Resource[] = [
         description:
             'Know if the core web vitals for a url or an origin have improved, degraded or remained stable for the last six months.',
         url: 'https://punits.dev/core-web-vitals-historical/',
-        keywords: [
-            'web performance',
-            'performance',
-            'crux',
-            'core web vitals',
-        ],
+        keywords: ['web performance', 'performance', 'crux', 'core web vitals'],
     },
     {
         name: 'CoreUI',

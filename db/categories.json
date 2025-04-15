@@ -1,5 +1,5 @@
 {
-"count": 72,
+"count": 74,
 "data": [
     {
         "name": "Accessibility",
@@ -72,6 +72,10 @@
     {
         "name": "Conference",
         "slug": "conference"
+    },
+    {
+        "name": "Core Web Vitals",
+        "slug": "core-web-vitals"
     },
     {
         "name": "Database",
@@ -272,6 +276,10 @@
     {
         "name": "Video",
         "slug": "video"
+    },
+    {
+        "name": "Web Performance",
+        "slug": "web-performance"
     },
     {
         "name": "Web3",
