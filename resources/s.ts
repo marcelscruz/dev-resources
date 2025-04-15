@@ -55,6 +55,13 @@ export const resources: Resource[] = [
         keywords: ['threads', 'marketing', 'instagram'],
     },
     {
+        name: 'Scopebird',
+        categories: ['AI', 'Productivity'],
+        description: 'Product scoping in minutes, not weeks.',
+        keywords: ['product', 'scoping', 'ai', 'product management'],
+        url: 'https://www.scopebird.com/',
+    },
+    {
         name: 'Scrapfly',
         categories: ['Scraping'],
         description:
@@ -181,6 +188,14 @@ export const resources: Resource[] = [
         categories: ['API Building', 'Serverless'],
         description: 'Serverless Stack (SST) is a framework that makes it easy to build serverless applications.',
         url: 'https://serverless-stack.com/',
+    },
+    {
+        name: 'Servervana',
+        categories: ['Performance', 'Tooling'],
+        description:
+            'Team friendly performance and uptime monitoring platform for your website, API endpoints, DNS system and more. Has free plan.',
+        url: 'https://servervana.com',
+        keywords: ['Performance', 'Uptime', 'Monitoring', 'Status Page', 'Web Vitals', 'SSL', 'HTTP(s)', 'DNS'],
     },
     {
         name: 'Shape',
@@ -638,11 +653,25 @@ export const resources: Resource[] = [
         url: 'https://squoosh.app/',
     },
     {
+        name: 'Srcbook',
+        description: 'Srcbook is the best online AI website builder. Go from your idea to a shareable app in seconds.',
+        categories: ['AI', 'Website Builder', 'Productivity'],
+        url: 'https://srcbook.com/',
+        keywords: ['assistant', 'no code', 'ai coding agent', 'website development'],
+    },
+    {
         name: 'Stack Overflow',
         categories: ['Programming'],
         description:
             'Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.',
         url: 'http://stackoverflow.com/',
+    },
+    {
+        name: 'Staclo.host',
+        description: 'The easiest way to share your static site as a preview or on your own domain for production.',
+        categories: ['Hosting', 'Productivity'],
+        url: 'https://staclo.host/',
+        keywords: ['developer tool', 'web development', 'static site', 'no code'],
     },
     {
         name: 'Stark',
@@ -870,6 +899,12 @@ export const resources: Resource[] = [
         description:
             'Massive repository of 300K+ free SVG icons, collections, and brand logos. It has a simple but mighty vector editing program right in the browser for quick file editing.',
         url: 'https://svgmix.com/',
+    },
+    {
+        name: 'SVGL',
+        categories: ['Icon'],
+        description: 'A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.',
+        url: 'https://svgl.app',
     },
     {
         name: 'SVGX',

@@ -72,6 +72,13 @@ export const resources: Resource[] = [
         url: 'https://www.pcloudy.com/',
     },
     {
+        name: 'pdforge',
+        categories: ['Editor', 'Design', 'Marketing'],
+        description:
+            'The new way to generate PDF documents for your SaaS. Use our no-code PDF builder and our easy-to-use API to generate modern PDF reports at scale without relying on your development team.',
+        url: 'https://pdforge.com/',
+    },
+    {
         name: 'PeoplePerHour',
         categories: ['Freelance'],
         description:
@@ -136,6 +143,13 @@ export const resources: Resource[] = [
         categories: ['AI', 'Image', 'Design'],
         url: 'https://photorush.io',
         keywords: ['image generation', 'professional photos'],
+    },
+    {
+        name: 'Pictify',
+        categories: ['Image', 'Programming'],
+        description: 'Pictify.io provides API to convert HTML into image',
+        url: 'https://pictify.io',
+        keywords: ['image generation', 'HTML to image'],
     },
     {
         name: 'Pieces',
@@ -420,5 +434,18 @@ export const resources: Resource[] = [
         description:
             'Find specific Python Developer Jobs, including Remote Jobs. You are looking for Python Developers? Submit your position for free.',
         url: 'https://pythonjob.xyz/',
+    },
+    {
+        name: 'Python For Everybody',
+        categories: ['Learn', 'Book', 'Programming'],
+        description:
+            'Set of free materials, lectures, book and assignments to help students learn how to program in Python 3 (2016)',
+        url: 'https://py4e.com',
+    },
+    {
+        name: 'Pythonium',
+        categories: ['Programming', 'Tooling'],
+        description: 'Online Python tools: Linter, formatter, regex tester, converter, obfuscator, and mock API.',
+        url: 'https://pythonium.net/',
     },
 ]

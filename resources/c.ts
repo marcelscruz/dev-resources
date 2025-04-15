@@ -74,6 +74,12 @@ export const resources: Resource[] = [
         url: 'http://cassandra.apache.org/',
     },
     {
+        name: 'Catalog by Thesys',
+        categories: ['Database', 'AI'],
+        description: `Catalog by Thesys is a curated collection of AI agents designed to help you find the right agent for your needs. Whether you're exploring AI for automation, decision-making, or creative tasks, it simplifies your search with the categorization and listing of all the AI agents.`,
+        url: 'https://catalog.thesys.dev/',
+    },
+    {
         name: 'Chakra',
         categories: ['Library', 'Programming', 'UI'],
         description: 'Simple, Modular and Accessible UI Components for your React Applications.',
@@ -366,8 +372,25 @@ export const resources: Resource[] = [
     {
         name: 'CodedThemes',
         categories: ['Template'],
-        description: 'CodedThemes provides a curated collection of high-quality, modern, professional, and easy-to-use Admin Templates and UI Kits.',
+        description:
+            'CodedThemes provides a curated collection of high-quality, modern, professional, and easy-to-use Admin Templates and UI Kits.',
         url: 'https://codedthemes.com/',
+    },
+    {
+        name: 'CodeBeaver',
+        categories: ['Programming', 'Testing', 'AI'],
+        description: 'Get an A.I. assistant that writes tests and spots bugs',
+        keywords: [
+            'unit testing',
+            'unit test',
+            'unit tests',
+            'unit test generator',
+            'ai',
+            'ai assistant',
+            'ai testing',
+            'ai unit testing',
+        ],
+        url: 'https://www.codebeaver.ai/',
     },
     {
         name: 'CodeKit',
@@ -625,6 +648,20 @@ export const resources: Resource[] = [
         description:
             "Colorlib is the ONLY resource you'll need to start a blog using WordPress! We offer comprehensive yet easy to follow guides well suited for beginner bloggers.",
         url: 'https://colorlib.com/',
+    },
+    {
+        name: 'ColorMagic',
+        categories: ['Color'],
+        description:
+            'Instantly generate stunning color palettes and schemes from a name, image, hex code, word, or one color with AI',
+        url: 'https://colormagic.app/',
+        keywords: [
+            'color palette',
+            'color palette generator',
+            'color themes',
+            'color palettes',
+            'ai color palette generator',
+        ],
     },
     {
         name: 'Colormind',

@@ -1,5 +1,5 @@
 {
-"count": 1025,
+"count": 1052,
 "data": [
     {
         "name": "1001 Fonts",
@@ -252,6 +252,25 @@
             "store"
         ],
         "url": "https://aiagentstore.ai"
+    },
+    {
+        "name": "AI Agents Live",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Discover best AI Agents by category, rating and reviews for your business needs",
+        "keywords": [
+            "ai",
+            "artificial intelligence",
+            "developer",
+            "ai agent",
+            "marketplace",
+            "store",
+            "news",
+            "blogs"
+        ],
+        "url": "https://aiagentslive.com"
     },
     {
         "name": "AI Best Tools",
@@ -930,36 +949,6 @@
         ]
     },
     {
-        "name": "Bing Pros",
-        "categories": [
-            "Freelance"
-        ],
-        "description": "Bing Pros is a gig service platform that connects Bing Search users to providers who want higher profit for their services.",
-        "url": "https://www.bing.com/pros",
-        "keywords": [
-            "Graphic Design",
-            "Web Development",
-            "SEO Services",
-            "Accounting",
-            "IT Support",
-            "Data Management",
-            "Marketing",
-            "Interior Design",
-            "Software Development",
-            "Virtual Event Planning",
-            "Content Writing",
-            "Video & Audio",
-            "Life Coaching",
-            "Virtual Assistant Services",
-            "Translation Services",
-            "Travel Planners",
-            "Business Consulting",
-            "Employment Agent Services",
-            "Career Counseling",
-            "Health and Wellness Coaching"
-        ]
-    },
-    {
         "name": "Biteable",
         "categories": [
             "Editor",
@@ -1059,6 +1048,23 @@
         ],
         "description": "Save weeks of setup time with production-ready boilerplates, templates and starter kits for SaaS, web and mobile applications. Carefully vetted and maintained by developers.",
         "url": "https://boilerplatehub.com/",
+        "keywords": [
+            "boilerplates",
+            "starter kits",
+            "frameworks",
+            "development",
+            "low code"
+        ]
+    },
+    {
+        "name": "BoilerplateHunt",
+        "categories": [
+            "Productivity",
+            "Template",
+            "Startup"
+        ],
+        "description": "Find the best boilerplates to ship faster. Explore production-ready boilerplates for SaaS, web, and mobile applications.",
+        "url": "https://boilerplatehunt.com/",
         "keywords": [
             "boilerplates",
             "starter kits",
@@ -1414,6 +1420,15 @@
         "url": "http://cassandra.apache.org/"
     },
     {
+        "name": "Catalog by Thesys",
+        "categories": [
+            "Database",
+            "AI"
+        ],
+        "description": "Catalog by Thesys is a curated collection of AI agents designed to help you find the right agent for your needs. Whether you're exploring AI for automation, decision-making, or creative tasks, it simplifies your search with the categorization and listing of all the AI agents.",
+        "url": "https://catalog.thesys.dev/"
+    },
+    {
         "name": "Chaindesk",
         "categories": [
             "AI",
@@ -1759,6 +1774,26 @@
             "redux"
         ],
         "url": "http://codewinds.com/podcast.html"
+    },
+    {
+        "name": "CodeBeaver",
+        "categories": [
+            "Programming",
+            "Testing",
+            "AI"
+        ],
+        "description": "Get an A.I. assistant that writes tests and spots bugs",
+        "keywords": [
+            "unit testing",
+            "unit test",
+            "unit tests",
+            "unit test generator",
+            "ai",
+            "ai assistant",
+            "ai testing",
+            "ai unit testing"
+        ],
+        "url": "https://www.codebeaver.ai/"
     },
     {
         "name": "Codecademy",
@@ -2138,6 +2173,21 @@
         ],
         "description": "Colorlib is the ONLY resource you'll need to start a blog using WordPress! We offer comprehensive yet easy to follow guides well suited for beginner bloggers.",
         "url": "https://colorlib.com/"
+    },
+    {
+        "name": "ColorMagic",
+        "categories": [
+            "Color"
+        ],
+        "description": "Instantly generate stunning color palettes and schemes from a name, image, hex code, word, or one color with AI",
+        "url": "https://colormagic.app/",
+        "keywords": [
+            "color palette",
+            "color palette generator",
+            "color themes",
+            "color palettes",
+            "ai color palette generator"
+        ]
     },
     {
         "name": "Colormind",
@@ -2816,10 +2866,27 @@
         "name": "Dark",
         "categories": [
             "Design",
-            "UI"
+            "UI",
+            "Inspiration"
         ],
         "description": "The best hand-picked dark themed websites on the internet.",
         "url": "https://www.dark.design/"
+    },
+    {
+        "name": "Dark Mode Design",
+        "categories": [
+            "Design",
+            "UI",
+            "Inspiration"
+        ],
+        "description": "Dark Mode Design is a showcase of beautifully designed and inspiring dark mode websites. Dim the lights, lower your screen brightness, and enjoy.",
+        "url": "https://darkmodedesign.com",
+        "keywords": [
+            "dark mode",
+            "design",
+            "ui",
+            "inspiration"
+        ]
     },
     {
         "name": "Dart Cheatsheet Codelab",
@@ -2927,6 +2994,21 @@
         "url": "https://www.designresourc.es/"
     },
     {
+        "name": "Design Spells",
+        "categories": [
+            "Design",
+            "UI",
+            "Inspiration"
+        ],
+        "description": "Discover micro-interactions, easter eggs, and other seemingly extra design details that infuse life, personality, and fun back into the web.",
+        "url": "https://www.designspells.com/",
+        "keywords": [
+            "design",
+            "ui",
+            "inspiration"
+        ]
+    },
+    {
         "name": "Design System Cookbooks",
         "categories": [
             "Design",
@@ -2942,7 +3024,7 @@
             "YouTube Channel",
             "UX"
         ],
-        "description": "New videos weekly from Monday to Thursday @ 10:30 AM ET! Hi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlus.com, DigitalTutors.com, Pluralsight.com, LinkedIn Learning & Lynda.com. I teach full stack development! Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more! Interested in a sponsorship opportunity or review?  Contact me: contact@coursetro.com.",
+        "description": "New videos weekly from Monday to Thursday @ 10:30 AM ET! Hi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlus.com, DigitalTutors.com, Pluralsight.com, LinkedIn Learning & Lynda.com. I teach full stack development! Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more! Interested in a sponsorship opportunity or review?",
         "keywords": [
             "\"web design\" \"logo design\" \"illustrator tutorials\" \"website design\" free ui ux \"user experience design\" \"ux design\" \"frontend development\" \"frontend developer\""
         ],
@@ -3059,6 +3141,14 @@
         ],
         "description": "A ridiculous collection of web development cheatsheets · One-page guide to.",
         "url": "https://devhints.io/"
+    },
+    {
+        "name": "Devicons",
+        "categories": [
+            "Icon"
+        ],
+        "description": "An iconic font made for developers.",
+        "url": "http://vorillaz.github.io/devicons"
     },
     {
         "name": "DevNews",
@@ -3671,6 +3761,16 @@
         "url": "https://extendsclass.com/csv-generator.html"
     },
     {
+        "name": "Extruct AI",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Scraping"
+        ],
+        "description": "Extruct AI is your platform to find, research, and decide on the right companies with precision. Powered by live AI research, our verticalized engine delivers custom, up-to-date insights tailored to your needs",
+        "url": "https://www.extruct.ai/"
+    },
+    {
         "name": "EzUptime",
         "categories": [
             "Performance",
@@ -4143,6 +4243,23 @@
             "business",
             "sell",
             "buy"
+        ]
+    },
+    {
+        "name": "Fountn",
+        "categories": [
+            "Design",
+            "Learn",
+            "UI"
+        ],
+        "description": "World’s largest collection of design resources, curated by designers.",
+        "url": "https://fountn.design",
+        "keywords": [
+            "design",
+            "resources",
+            "ui kits",
+            "icons",
+            "templates"
         ]
     },
     {
@@ -5673,6 +5790,23 @@
         "url": "https://indieworldwide.co/"
     },
     {
+        "name": "IndieHub",
+        "categories": [
+            "Tooling",
+            "Startup",
+            "Productivity"
+        ],
+        "description": "Discover tools, Launch products, and Ship applications faster and better.",
+        "url": "https://indiehub.best",
+        "keywords": [
+            "directory",
+            "website",
+            "indiehacker",
+            "indie",
+            "boilerplate"
+        ]
+    },
+    {
         "name": "IndiesReadIt",
         "description": "IndiesReadIt is a curated book directory for indiehackers, solopreneurs, and entrepreneurs. Discover books on skills, business management, and personal development.",
         "categories": [
@@ -5736,6 +5870,24 @@
             "interview AI copilot",
             "interview AI assistant",
             "career",
+            "jobs"
+        ]
+    },
+    {
+        "name": "Interview Playground",
+        "description": "Practice interviewing before the big day",
+        "categories": [
+            "Interview",
+            "AI"
+        ],
+        "url": "https://interviewplayground.com",
+        "keywords": [
+            "interview helper",
+            "interview solver",
+            "ai copilot",
+            "career",
+            "practice",
+            "interview",
             "jobs"
         ]
     },
@@ -7177,6 +7329,38 @@
         "url": "https://www.microsoft.com/en-us/sql-server"
     },
     {
+        "name": "Minimal Gallery",
+        "categories": [
+            "Design",
+            "UI",
+            "Inspiration"
+        ],
+        "description": "Hand-picked website inspiration, tools, domains and more.",
+        "url": "https://minimal.gallery/",
+        "keywords": [
+            "minimal",
+            "design",
+            "ui",
+            "inspiration"
+        ]
+    },
+    {
+        "name": "Miruni",
+        "description": "Miruni is a visual feedback and task management tool designed for webmasters, developers, and agencies managing websites across many platforms.",
+        "categories": [
+            "Design",
+            "Startup",
+            "Productivity"
+        ],
+        "url": "https://www.miruni.io/",
+        "keywords": [
+            "design tool",
+            "visual feedback",
+            "web development tools",
+            "website collaboration tools"
+        ]
+    },
+    {
         "name": "Mkdirs",
         "categories": [
             "Tooling",
@@ -7471,6 +7655,21 @@
             "ui",
             "nextui",
             "library"
+        ]
+    },
+    {
+        "name": "NextUpKit",
+        "description": "NextUpKit is an affordable, fully-featured Next.js SaaS starter kit designed to help developers and entrepreneurs build and launch SaaS products faster.",
+        "categories": [
+            "Template",
+            "Productivity"
+        ],
+        "url": "https://www.nextupkit.com/",
+        "keywords": [
+            "developer tool",
+            "boilerplate",
+            "starter kit",
+            "next.js boilerplate"
         ]
     },
     {
@@ -7936,6 +8135,16 @@
         "url": "https://www.pcloudy.com/"
     },
     {
+        "name": "pdforge",
+        "categories": [
+            "Editor",
+            "Design",
+            "Marketing"
+        ],
+        "description": "The new way to generate PDF documents for your SaaS. Use our no-code PDF builder and our easy-to-use API to generate modern PDF reports at scale without relying on your development team.",
+        "url": "https://pdforge.com/"
+    },
+    {
         "name": "PeoplePerHour",
         "categories": [
             "Freelance"
@@ -8046,6 +8255,19 @@
         ],
         "description": "PhpStorm is a perfect PHP IDE for working with Symfony, Laravel, Drupal, WordPress, Laminas, Magento, Joomla!, CakePHP, Yii, and other frameworks.",
         "url": "https://www.jetbrains.com/phpstorm/"
+    },
+    {
+        "name": "Pictify",
+        "categories": [
+            "Image",
+            "Programming"
+        ],
+        "description": "Pictify.io provides API to convert HTML into image",
+        "url": "https://pictify.io",
+        "keywords": [
+            "image generation",
+            "HTML to image"
+        ]
     },
     {
         "name": "Pieces",
@@ -8450,6 +8672,25 @@
         "url": "https://pythonjob.xyz/"
     },
     {
+        "name": "Python For Everybody",
+        "categories": [
+            "Learn",
+            "Book",
+            "Programming"
+        ],
+        "description": "Set of free materials, lectures, book and assignments to help students learn how to program in Python 3 (2016)",
+        "url": "https://py4e.com"
+    },
+    {
+        "name": "Pythonium",
+        "categories": [
+            "Programming",
+            "Tooling"
+        ],
+        "description": "Online Python tools: Linter, formatter, regex tester, converter, obfuscator, and mock API.",
+        "url": "https://pythonium.net/"
+    },
+    {
         "name": "Qoddi.com",
         "categories": [
             "Hosting",
@@ -8728,6 +8969,22 @@
         ],
         "description": "Find employers and employees on Reddit.",
         "url": "https://www.reddit.com/r/forhire/"
+    },
+    {
+        "name": "ReelProof",
+        "description": "ReelProof makes it easy to gather authentic customer testimonials using AI-powered interviews and instantly generates shareable video reels.",
+        "categories": [
+            "Video",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://reelproof.io/",
+        "keywords": [
+            "video testimonials",
+            "ai interviewing",
+            "video automation",
+            "social proof"
+        ]
     },
     {
         "name": "Refactoring UI",
@@ -9239,6 +9496,21 @@
         ]
     },
     {
+        "name": "Scopebird",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Product scoping in minutes, not weeks.",
+        "keywords": [
+            "product",
+            "scoping",
+            "ai",
+            "product management"
+        ],
+        "url": "https://www.scopebird.com/"
+    },
+    {
         "name": "Scrapfly",
         "categories": [
             "Scraping"
@@ -9424,6 +9696,25 @@
         ],
         "description": "Serverless Stack (SST) is a framework that makes it easy to build serverless applications.",
         "url": "https://serverless-stack.com/"
+    },
+    {
+        "name": "Servervana",
+        "categories": [
+            "Performance",
+            "Tooling"
+        ],
+        "description": "Team friendly performance and uptime monitoring platform for your website, API endpoints, DNS system and more. Has free plan.",
+        "url": "https://servervana.com",
+        "keywords": [
+            "Performance",
+            "Uptime",
+            "Monitoring",
+            "Status Page",
+            "Web Vitals",
+            "SSL",
+            "HTTP(s)",
+            "DNS"
+        ]
     },
     {
         "name": "Shape",
@@ -10020,12 +10311,43 @@
         "url": "https://squoosh.app/"
     },
     {
+        "name": "Srcbook",
+        "description": "Srcbook is the best online AI website builder. Go from your idea to a shareable app in seconds.",
+        "categories": [
+            "AI",
+            "Website Builder",
+            "Productivity"
+        ],
+        "url": "https://srcbook.com/",
+        "keywords": [
+            "assistant",
+            "no code",
+            "ai coding agent",
+            "website development"
+        ]
+    },
+    {
         "name": "Stack Overflow",
         "categories": [
             "Programming"
         ],
         "description": "Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.",
         "url": "http://stackoverflow.com/"
+    },
+    {
+        "name": "Staclo.host",
+        "description": "The easiest way to share your static site as a preview or on your own domain for production.",
+        "categories": [
+            "Hosting",
+            "Productivity"
+        ],
+        "url": "https://staclo.host/",
+        "keywords": [
+            "developer tool",
+            "web development",
+            "static site",
+            "no code"
+        ]
     },
     {
         "name": "Stark",
@@ -10330,6 +10652,14 @@
         ],
         "description": "SVGBox allows you to add any of the 3,405 icons we have to your project by using simple tags. Instead of using downloading and uploading icons, simply copy tag and start using it. We are constantly adding more and more icons to serve different use cases.",
         "url": "https://svgbox.net/"
+    },
+    {
+        "name": "SVGL",
+        "categories": [
+            "Icon"
+        ],
+        "description": "A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.",
+        "url": "https://svgl.app"
     },
     {
         "name": "SVGmix",
@@ -11424,6 +11754,22 @@
         "url": "https://userbooster.co"
     },
     {
+        "name": "UtilPortal",
+        "categories": [
+            "SEO",
+            "Tooling",
+            "Startup"
+        ],
+        "description": "UtilPortal is your go-to platform for discovering and accessing a curated collection of essential tools and resources.",
+        "url": "https://utilportal.com/",
+        "keywords": [
+            "directory",
+            "tools",
+            "development",
+            "seo"
+        ]
+    },
+    {
         "name": "UXfolio",
         "categories": [
             "Template",
@@ -11489,6 +11835,22 @@
         "url": "https://vercel.com/"
     },
     {
+        "name": "Vesta",
+        "description": "Vesta generates content in your style across any of your marketing channels.",
+        "categories": [
+            "Writing",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://www.vesta-app.com/",
+        "keywords": [
+            "ai writing assistant",
+            "content marketing",
+            "content automation",
+            "content creation"
+        ]
+    },
+    {
         "name": "VideoEditor SDK",
         "categories": [
             "Editor",
@@ -11542,6 +11904,22 @@
         ],
         "description": "VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the \"Zelda meets text editing\" game. So come have some fun and learn some VIM!",
         "url": "https://vim-adventures.com/"
+    },
+    {
+        "name": "Virlo",
+        "description": "Virlo helps content creators track viral trends on short form content platforms.",
+        "categories": [
+            "AI",
+            "Social Media",
+            "Video"
+        ],
+        "url": "https://virlo.ai/",
+        "keywords": [
+            "data",
+            "trends",
+            "short form content",
+            "content creators"
+        ]
     },
     {
         "name": "Virtual Coffee",

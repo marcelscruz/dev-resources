@@ -246,6 +246,13 @@ export const resources: Resource[] = [
         url: 'https://extendsclass.com/csv-generator.html',
     },
     {
+        name: 'Extruct AI',
+        categories: ['AI', 'Productivity', 'Scraping'],
+        description:
+            'Extruct AI is your platform to find, research, and decide on the right companies with precision. Powered by live AI research, our verticalized engine delivers custom, up-to-date insights tailored to your needs',
+        url: 'https://www.extruct.ai/',
+    },
+    {
         name: 'EzUptime',
         categories: ['Performance', 'Tooling'],
         description:

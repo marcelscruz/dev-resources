@@ -193,35 +193,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'Bing Pros',
-        categories: ['Freelance'],
-        description:
-            'Bing Pros is a gig service platform that connects Bing Search users to providers who want higher profit for their services.',
-        url: 'https://www.bing.com/pros',
-        keywords: [
-            'Graphic Design',
-            'Web Development',
-            'SEO Services',
-            'Accounting',
-            'IT Support',
-            'Data Management',
-            'Marketing',
-            'Interior Design',
-            'Software Development',
-            'Virtual Event Planning',
-            'Content Writing',
-            'Video & Audio',
-            'Life Coaching',
-            'Virtual Assistant Services',
-            'Translation Services',
-            'Travel Planners',
-            'Business Consulting',
-            'Employment Agent Services',
-            'Career Counseling',
-            'Health and Wellness Coaching',
-        ],
-    },
-    {
         name: 'Biteable',
         categories: ['Editor', 'Video'],
         description:
@@ -294,6 +265,14 @@ export const resources: Resource[] = [
         description:
             'Save weeks of setup time with production-ready boilerplates, templates and starter kits for SaaS, web and mobile applications. Carefully vetted and maintained by developers.',
         url: 'https://boilerplatehub.com/',
+        keywords: ['boilerplates', 'starter kits', 'frameworks', 'development', 'low code'],
+    },
+    {
+        name: 'BoilerplateHunt',
+        categories: ['Productivity', 'Template', 'Startup'],
+        description:
+            'Find the best boilerplates to ship faster. Explore production-ready boilerplates for SaaS, web, and mobile applications.',
+        url: 'https://boilerplatehunt.com/',
         keywords: ['boilerplates', 'starter kits', 'frameworks', 'development', 'low code'],
     },
     {
