@@ -1,5 +1,5 @@
 {
-"count": 1057,
+"count": 1059,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2517,8 +2517,7 @@
     {
         "name": "Core Web Vitals History Checker",
         "categories": [
-            "Web Performance",
-            "Core Web Vitals"
+            "Performance"
         ],
         "description": "Know if the core web vitals for a url or an origin have improved, degraded or remained stable for the last six months.",
         "url": "https://punits.dev/core-web-vitals-historical/",
@@ -3248,6 +3247,23 @@
             "javascript",
             "development tool",
             "boilerplate"
+        ]
+    },
+    {
+        "name": "DirectoryTemplates",
+        "description": "Directory for directory templates",
+        "categories": [
+            "Template",
+            "Programming"
+        ],
+        "url": "https://www.directorytemplates.co",
+        "keywords": [
+            "directory",
+            "template",
+            "javascript",
+            "development tool",
+            "boilerplate",
+            "starter"
         ]
     },
     {
@@ -12313,6 +12329,26 @@
         ],
         "description": "Free tool to check the \"authority\" of any website based on the quality and quantity of its external backlinks.",
         "url": "https://ahrefs.com/website-authority-checker"
+    },
+    {
+        "name": "Website Headlines (dotcom)",
+        "description": "Website headline inspiration, categorized.",
+        "categories": [
+            "Inspiration",
+            "Marketing",
+            "Writing"
+        ],
+        "url": "https://websiteheadlines.com/",
+        "keywords": [
+            "marketing",
+            "copy",
+            "copywriting",
+            "examples",
+            "conversion",
+            "cta",
+            "title",
+            "hero"
+        ]
     },
     {
         "name": "Websitevice",
