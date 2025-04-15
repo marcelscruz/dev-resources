@@ -1,5 +1,5 @@
 {
-"count": 1056,
+"count": 1057,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6035,6 +6035,21 @@
         ],
         "description": "An email update on the evolving JAMstack ecosystem.",
         "url": "https://jamstack.email/"
+    },
+    {
+        "name": "JavaGuide",
+        "categories": [
+            "Blog",
+            "Interview",
+            "Learn"
+        ],
+        "description": "JavaGuide is a comprehensive platform designed to help Java programmers and architects master core concepts. ",
+        "url": "https://javaguide.net/",
+        "keywords": [
+            "Java",
+            "JavaGuide",
+            "interview"
+        ]
     },
     {
         "name": "JavaScript Developer Jobs",

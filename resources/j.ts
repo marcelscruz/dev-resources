@@ -23,9 +23,10 @@ export const resources: Resource[] = [
     {
         name: 'JavaGuide',
         categories: ['Blog', 'Interview', 'Learn'],
-        description: 'JavaGuide is a comprehensive platform designed to help Java programmers and architects master core concepts. ',
+        description:
+            'JavaGuide is a comprehensive platform designed to help Java programmers and architects master core concepts. ',
         url: 'https://javaguide.net/',
-        keywords: ['Java', 'JavaGuide', 'interview']
+        keywords: ['Java', 'JavaGuide', 'interview'],
     },
     {
         name: 'JavaScript Developer Jobs',
