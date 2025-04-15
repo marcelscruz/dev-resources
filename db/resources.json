@@ -1,5 +1,5 @@
 {
-"count": 1053,
+"count": 1054,
 "data": [
     {
         "name": "1001 Fonts",
@@ -965,6 +965,21 @@
         ],
         "description": "Hey, Friends, I am a web developer and have knowledge of many languages. I made this channel to share my knowledge with you all and want to learn from you also.",
         "url": "https://www.youtube.com/bitfumes"
+    },
+    {
+        "name": "Bitzaro",
+        "description": "Fiat-Crypto Payment Gateway",
+        "categories": [
+            "Web3",
+            "Startup"
+        ],
+        "url": "https://www.bitzaro.com/",
+        "keywords": [
+            "bitcoin",
+            "blockchain",
+            "cryptocurrency",
+            "decentralized finance (defi)"
+        ]
     },
     {
         "name": "Black Illustrations",

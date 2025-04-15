@@ -204,7 +204,7 @@ export const resources: Resource[] = [
         description: 'Fiat-Crypto Payment Gateway',
         categories: ['Web3', 'Startup'],
         url: 'https://www.bitzaro.com/',
-        keywords: ['bitcoin', 'blockchain', 'cryptocurrency', 'decentralized finance (defi)'], 
+        keywords: ['bitcoin', 'blockchain', 'cryptocurrency', 'decentralized finance (defi)'],
     },
     {
         name: 'Black Illustrations',
