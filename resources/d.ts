@@ -306,7 +306,6 @@ export const resources: Resource[] = [
         url: 'https://www.directorykit.xyz',
         keywords: ['directory', 'template', 'javascript', 'development tool', 'boilerplate'],
     },
-    },
     {
         name: 'DirectoryTemplates',
         description: 'Directory for directory templates',
