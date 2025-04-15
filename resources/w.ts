@@ -175,6 +175,13 @@ export const resources: Resource[] = [
         url: 'https://ahrefs.com/website-authority-checker',
     },
     {
+        name: 'Website Headlines (dotcom)',
+        description: 'Website headline inspiration, categorized.',
+        categories: ['Inspiration', 'Marketing', 'Writing'],
+        url: 'https://websiteheadlines.com/',
+        keywords: ['marketing', 'copy', 'copywriting', 'examples', 'conversion', 'cta', 'title', 'hero'],
+    },
+    {
         name: 'Websitevice',
         categories: ['Design', 'Inspiration', 'UI'],
         description:
