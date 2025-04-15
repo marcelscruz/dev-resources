@@ -917,7 +917,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Core Web Vitals History Checker',
-        categories: ['Web Performance', 'Core Web Vitals'],
+        categories: ['Performance'],
         description:
             'Know if the core web vitals for a url or an origin have improved, degraded or remained stable for the last six months.',
         url: 'https://punits.dev/core-web-vitals-historical/',
