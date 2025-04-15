@@ -316,4 +316,11 @@ export const resources: Resource[] = [
             'Guru is one of the best freelance websites to find & hire Freelancers online and get work done. Freelancers can also search jobs for freelance work and get hired.',
         url: 'https://www.guru.com/',
     },
+    {
+        name: 'GIT for Your Browser Tabs - Never lose your tabs again!',
+        categories: ['Browser', 'Productivity', 'Tooling'],
+        description: 'Its like GIT, but for browser tabs! Unlock the Power of Version Control for Your Browser Tabs!',
+        url: 'https://browser-tabs.craftengineer.com/',
+        keywords: ['browser', 'tabs', 'git', 'browser tabs version control', 'browser extension', 'history'],
+    },
 ]
