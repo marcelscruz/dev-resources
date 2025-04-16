@@ -81,6 +81,12 @@ export const resources: Resource[] = [
         url: 'https://react-bootstrap.github.io/',
     },
     {
+        name: 'React Cheatsheet',
+        categories: ['Cheatsheet'],
+        description: 'Quick Cheatsheet for Faster Development',
+        url: 'https://medium.com/@codedthemes/react-js-cheatsheet-dcf7964e732c',
+    },
+    {
         name: 'React DevTools',
         categories: ['Browser', 'Extension'],
         description:
@@ -125,6 +131,12 @@ export const resources: Resource[] = [
         categories: ['Library', 'Programming', 'UI'],
         description: 'A suite of React components, sensible UI design, and a friendly development experience.',
         url: 'https://rsuitejs.com/',
+    },
+    {
+        name: 'React Template',
+        categories: ['Template'],
+        description: 'Collection of top React templates, React dashboard, and React themes. ',
+        url: 'https://react-template.com/',
     },
     {
         name: 'React Tutorial',

@@ -57,6 +57,13 @@ export const resources: Resource[] = [
         url: 'https://makebook.io/',
     },
     {
+        name: 'Mantis Dashboard',
+        categories: ['Template'],
+        description:
+            'Mantis is a React dashboard template built on the Material UI React component library and inspired by Ant Design principle.',
+        url: 'https://mantisdashboard.io/',
+    },
+    {
         name: 'ManyPixels',
         categories: ['Illustration'],
         description:

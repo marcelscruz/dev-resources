@@ -370,6 +370,13 @@ export const resources: Resource[] = [
         url: 'https://codeconia.com/',
     },
     {
+        name: 'CodedThemes',
+        categories: ['Template'],
+        description:
+            'CodedThemes provides a curated collection of high-quality, modern, professional, and easy-to-use Admin Templates and UI Kits.',
+        url: 'https://codedthemes.com/',
+    },
+    {
         name: 'CodeBeaver',
         categories: ['Programming', 'Testing', 'AI'],
         description: 'Get an A.I. assistant that writes tests and spots bugs',
