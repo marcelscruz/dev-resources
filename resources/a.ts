@@ -172,6 +172,13 @@ export const resources: Resource[] = [
         url: 'https://airtable.com/',
     },
     {
+        name: 'AI Song Maker',
+        categories: ['AI'],
+        description: 'AI Song Maker is an AI-powered platform that turns text and lyrics into custom songs. Create, remix, and produce royalty-free music effortlessly in various styles.',
+        keywords: ['ai', 'ai music', 'music generator', 'lyrics to music', 'text to music'],
+        url: 'https://aisongmaker.io/',
+    },
+    {
         name: 'AI-Text-Humanizer',
         categories: ['AI', 'Productivity'],
         description: 'Transform dull AI-generated text into easy-to-read copy and sound like a real person',
