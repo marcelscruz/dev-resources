@@ -371,6 +371,14 @@ export const resources: Resource[] = [
         url: 'https://boxicons.com/',
     },
     {
+        name: 'BoozeAPI',
+        description: 
+            'Practice your frontend or backend skills with this free REST API – featuring pagination, filtering, sorting, and full Swagger documentation.',
+        categories: ['API', 'Cocktail', 'Recipes'],
+        url: 'https://boozeapi.com',
+        keywords: ['cocktail', 'recipe', 'pagination', 'sorting', 'filtering', 'API', 'autocomplete'],
+    },
+    {
         name: 'Brackets',
         categories: ['Editor', 'Extension'],
         description:
