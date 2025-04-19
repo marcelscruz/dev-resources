@@ -36,7 +36,13 @@ export const resources: Resource[] = [
         url: 'https://www.vesta-app.com/',
         keywords: ['ai writing assistant', 'content marketing', 'content automation', 'content creation'],
     },
-
+    {
+        name: 'VibeStack',
+        description: 'Curated directory of AI, design, and development products and tools.',
+        categories: ['Tooling', 'AI', 'Design'],
+        url: 'https://www.vibestack.io/',
+        keywords: ['resource discovery', 'design tools', 'ai tools', 'developer resources'],
+    },
     {
         name: 'VideoEditor SDK',
         categories: ['Editor', 'Video'],
