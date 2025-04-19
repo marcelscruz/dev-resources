@@ -390,4 +390,12 @@ export const resources: Resource[] = [
         keywords: ['Azuesss', 'Windows Azure', 'Cloud Service', 'Cloud Computing Companies'],
         url: 'https://azure.microsoft.com/',
     },
+    {
+        name: 'AI Cartoon Generator',
+        categories: ['AI', 'Image', 'Design'],
+        description:
+            'AI Cartoon Generator is an innovative AI-powered tool that transforms text and photos into stunning cartoon-style images. With a wide range of artistic styles, customization options, and high-quality outputs, users can easily create unique avatars, social media content, and brand illustrations. Whether for personal fun or professional design, it offers a seamless and engaging experience for generating personalized cartoon characters with just a few clicks.',
+        keywords: ['Free', 'Online', 'No Login'],
+        url: 'https://aicartoongenerator.org',
+    },
 ]
