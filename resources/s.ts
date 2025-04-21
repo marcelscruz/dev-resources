@@ -512,6 +512,13 @@ export const resources: Resource[] = [
         url: 'https://snipit.io/',
     },
     {
+        name: 'soarSQL',
+        description: 'The only SQL editor that makes your queries faster.',
+        categories: ['Analytics', 'Database', 'Productivity'],
+        url: 'https://soarsql.com/',
+        keywords: ['analytics', 'data', 'sql', 'duckdb', 'postgres', 'mysql', 'csv', 'data analysis'],
+    },
+    {
         name: 'Social Growth Engineers',
         description: 'Social Growth Engineers is the #1 source for organic social marketing strategies and resources.',
         categories: ['Marketing', 'Blog', 'Productivity'],
