@@ -23,6 +23,13 @@ export const resources: Resource[] = [
         url: 'https://vemto.app/',
     },
     {
+        name: 'Venngage AI Infographic Generator',
+        description: 'AI-powered visuals that turn your ideas into infographics, instantly.',
+        categories: ['AI', 'Design', 'Marketing'],
+        url: 'https://venngage.com/ai-tools/infographic-generator',
+        keywords: ['ai infographics', 'venngage ai', 'infographics', 'text to template'],
+    },
+    {
         name: 'Vercel',
         categories: ['Hosting'],
         description:
