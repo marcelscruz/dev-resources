@@ -43,7 +43,7 @@ export const resources: Resource[] = [
         url: 'https://designcode.io/ui-design-for-developers',
     },
     {
-        name: 'UI HUT',
+        name: 'UIHut',
         categories: ['Design', 'Inspiration', 'UI', 'Icon', 'Illustration'],
         description:
             'Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices.',
