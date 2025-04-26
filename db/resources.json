@@ -11571,18 +11571,6 @@
         "url": "https://designcode.io/ui-design-for-developers"
     },
     {
-        "name": "UI HUT",
-        "categories": [
-            "Design",
-            "Inspiration",
-            "UI",
-            "Icon",
-            "Illustration"
-        ],
-        "description": "Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices.",
-        "url": "https://www.uihut.com/"
-    },
-    {
         "name": "UI Movement",
         "categories": [
             "Design",
@@ -11645,6 +11633,18 @@
         ],
         "description": "Library of dozens of Gradients ready to use with CSS class and also HEX color.",
         "url": "https://uigradients.com/"
+    },
+    {
+        "name": "UIHut",
+        "categories": [
+            "Design",
+            "Inspiration",
+            "UI",
+            "Icon",
+            "Illustration"
+        ],
+        "description": "Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices.",
+        "url": "https://www.uihut.com/"
     },
     {
         "name": "UIkit",
