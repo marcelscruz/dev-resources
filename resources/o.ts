@@ -63,6 +63,14 @@ export const resources: Resource[] = [
         url: 'https://onepagelove.com/',
     },
     {
+        name: 'Onlime',
+        description: 'Onlime is your secure cloud storage solution for what matters most.',
+        categories: ['Productivity', 'Security', 'Startup'],
+        url: 'https://onlime.app/',
+        keywords: ['cloud storage', 'cloud backup', 'file synchronization', 'Privacy and Security'], 
+    },
+
+    {
         name: 'OnlineWebFonts',
         categories: ['Icon', 'Font'],
         description: 'Fonts and icons for your next project.',
