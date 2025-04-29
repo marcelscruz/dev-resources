@@ -1,5 +1,5 @@
 {
-"count": 1059,
+"count": 1063,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1858,6 +1858,14 @@
         ],
         "description": "Learn programming with Codeconia.",
         "url": "https://codeconia.com/"
+    },
+    {
+        "name": "CodedThemes",
+        "categories": [
+            "Template"
+        ],
+        "description": "CodedThemes provides a curated collection of high-quality, modern, professional, and easy-to-use Admin Templates and UI Kits.",
+        "url": "https://codedthemes.com/"
     },
     {
         "name": "CodeKit",
@@ -7181,6 +7189,14 @@
         ]
     },
     {
+        "name": "Mantis Dashboard",
+        "categories": [
+            "Template"
+        ],
+        "description": "Mantis is a React dashboard template built on the Material UI React component library and inspired by Ant Design principle.",
+        "url": "https://mantisdashboard.io/"
+    },
+    {
         "name": "ManyPixels",
         "categories": [
             "Illustration"
@@ -8941,6 +8957,14 @@
         "url": "https://react-bootstrap.github.io/"
     },
     {
+        "name": "React Cheatsheet",
+        "categories": [
+            "Cheatsheet"
+        ],
+        "description": "Quick Cheatsheet for Faster Development",
+        "url": "https://medium.com/@codedthemes/react-js-cheatsheet-dcf7964e732c"
+    },
+    {
         "name": "React DevTools",
         "categories": [
             "Browser",
@@ -9013,6 +9037,14 @@
         ],
         "description": "A suite of React components, sensible UI design, and a friendly development experience.",
         "url": "https://rsuitejs.com/"
+    },
+    {
+        "name": "React Template",
+        "categories": [
+            "Template"
+        ],
+        "description": "Collection of top React templates, React dashboard, and React themes. ",
+        "url": "https://react-template.com/"
     },
     {
         "name": "React Tutorial",
