@@ -26,7 +26,7 @@ export const resources: Resource[] = [
         description: 'Show, Share, Approve: Mobile Apps in Any Browser',
         categories: ['Productivity', 'Testing', 'Tooling'],
         url: 'https://nativebridge.io/',
-        keywords: ['mobile app testing', 'mobile emulator', 'app testing', 'iOS testing'], 
+        keywords: ['mobile app testing', 'mobile emulator', 'app testing', 'iOS testing'],
     },
     {
         name: 'Netlify',
