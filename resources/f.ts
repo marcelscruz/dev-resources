@@ -217,7 +217,7 @@ export const resources: Resource[] = [
         description: 'AI Image Generator',
         categories: ['Design', 'Image', 'AI'],
         url: 'https://fluxaiart.ai/',
-        keywords: ['image generator', 'image processing', 'productivity tool', 'content creation'], 
+        keywords: ['image generator', 'image processing', 'productivity tool', 'content creation'],
     },
     {
         name: 'Font Awesome',

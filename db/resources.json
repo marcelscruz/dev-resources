@@ -1,5 +1,5 @@
 {
-"count": 1066,
+"count": 1067,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4111,6 +4111,22 @@
         ],
         "description": "Free lifetime account. Simple to learn, quick to master. Design interactive prototypes for Android, iOS, web and desktop in minutes.",
         "url": "https://www.fluidui.com/"
+    },
+    {
+        "name": "FLUX AI ART",
+        "description": "AI Image Generator",
+        "categories": [
+            "Design",
+            "Image",
+            "AI"
+        ],
+        "url": "https://fluxaiart.ai/",
+        "keywords": [
+            "image generator",
+            "image processing",
+            "productivity tool",
+            "content creation"
+        ]
     },
     {
         "name": "Font Awesome",
