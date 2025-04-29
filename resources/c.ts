@@ -199,6 +199,13 @@ export const resources: Resource[] = [
         url: 'https://circumicons.com/',
     },
     {
+        name: 'ClassX',
+        description: 'AI for the classroom',
+        categories: ['AI', 'Learn', 'Productivity'],
+        url: 'https://classx.org/',
+        keywords: ['ai tutor', 'edtech', 'study assistant', 'ai for education'],
+    },
+    {
         name: 'Clearbit',
         categories: ['Logo'],
         description:
