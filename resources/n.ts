@@ -34,7 +34,7 @@ export const resources: Resource[] = [
         description: 'NeuralTrust is the leading platform for securing and scaling LLM applications and agents.',
         categories: ['AI', 'Open Source', 'Startup'],
         url: 'https://neuraltrust.ai/',
-        keywords: ['llm', 'cybersecurity', 'iaas', 'compliance'], 
+        keywords: ['llm', 'cybersecurity', 'iaas', 'compliance'],
     },
     {
         name: 'Next.js',

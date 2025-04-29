@@ -265,7 +265,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Powerdrill',
-        description: 'An AI data analysis tool that supports auto-generation of data visuals, data reports, and PPT from your data',
+        description:
+            'An AI data analysis tool that supports auto-generation of data visuals, data reports, and PPT from your data',
         categories: ['AI', 'Productivity'],
         url: 'https://powerdrill.ai',
 

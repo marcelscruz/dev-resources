@@ -1,5 +1,5 @@
 {
-"count": 1063,
+"count": 1066,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7680,6 +7680,22 @@
         "url": "https://www.netlify.com/"
     },
     {
+        "name": "NeuralTrust",
+        "description": "NeuralTrust is the leading platform for securing and scaling LLM applications and agents.",
+        "categories": [
+            "AI",
+            "Open Source",
+            "Startup"
+        ],
+        "url": "https://neuraltrust.ai/",
+        "keywords": [
+            "llm",
+            "cybersecurity",
+            "iaas",
+            "compliance"
+        ]
+    },
+    {
         "name": "Next.js",
         "categories": [
             "Programming"
@@ -8531,6 +8547,21 @@
         ],
         "description": "Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.",
         "url": "https://www.postman.com/"
+    },
+    {
+        "name": "Powerdrill",
+        "description": "An AI data analysis tool that supports auto-generation of data visuals, data reports, and PPT from your data",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "url": "https://powerdrill.ai",
+        "keywords": [
+            "ai",
+            "ai tools",
+            "content generation",
+            "data analysis"
+        ]
     },
     {
         "name": "PoweredbyAI",
@@ -11508,6 +11539,21 @@
             "growth",
             "scheduling",
             "social media"
+        ]
+    },
+    {
+        "name": "Type Think AI",
+        "description": "TypeThinkAI is the LLM Frontend to access hundreds of AI models. You can access Multiple AI Models all from one app.",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "url": "https://typethinkai.com/",
+        "keywords": [
+            "ai assistant",
+            "llm frontend",
+            "multi model llms",
+            "chatbot"
         ]
     },
     {
