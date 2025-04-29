@@ -264,6 +264,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'social media', 'content creation'],
     },
     {
+        name: 'Powerdrill',
+        description: 'An AI data analysis tool that supports auto-generation of data visuals, data reports, and PPT from your data',
+        categories: ['AI', 'Productivity'],
+        url: 'https://powerdrill.ai',
+
+        keywords: ['ai', 'ai tools', 'content generation', 'data analysis'],
+    },
+    {
         name: 'PoweredbyAI',
         description: 'A directory with 100+ AI tools to help you with your daily tasks',
         categories: ['AI'],
