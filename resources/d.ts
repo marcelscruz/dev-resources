@@ -370,6 +370,13 @@ export const resources: Resource[] = [
         keywords: ['translation', 'ai', 'productivity', 'file formats'],
     },
     {
+        name: 'Dotnet Gig',
+        categories: ['Job'],
+        description: 'Find .NET developer jobs',
+        url: 'https://dotnetgig.com/',
+        keywords: ['dotnet', 'remote', 'jobs'],
+    },
+    {
         name: 'Dracula theme',
         categories: ['Editor', 'Extension', 'Terminal'],
         description:
