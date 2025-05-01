@@ -724,6 +724,14 @@ export const resources: Resource[] = [
         url: 'https://startups.gallery/',
     },
     {
+        name: 'Storyy',
+        description: 'Storyy is your content team in your pocket, seamlessly providing professionally crafted social media content to boost your brand presence.',
+        categories: ['AI', 'Marketing', 'Social Media'],
+        url: 'https://storyy.co/',
+        keywords: ['business', 'productivity', 'script generator', 'video creation'], 
+    },
+
+    {
         name: 'Stylo AI',
         categories: ['AI', 'Productivity'],
         description: 'Automatically solve Zendesk tickets with AI',
