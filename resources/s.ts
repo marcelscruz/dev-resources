@@ -626,6 +626,19 @@ export const resources: Resource[] = [
         url: 'https://splitbee.io',
     },
     {
+        name: 'Springular',
+        categories: ['Startup', 'Template'],
+        description: 'Springular is a Spring Boot & Angular SaaS boilerplate with fully configured GitHub CI/CD pipeline.',
+        url: 'https://springular.io/',
+        keywords: [
+            'boilerplate',
+            'startup',
+            'starterkit',
+            'Spring',
+            'Angular',
+        ],
+    },
+    {
         name: 'Spyder',
         categories: ['Editor', 'Programming'],
         description:
