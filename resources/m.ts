@@ -294,6 +294,13 @@ export const resources: Resource[] = [
         url: 'https://mochajs.org/',
     },
     {
+        name: 'Mocha',
+        description: 'AI app builder',
+        categories: ['AI', 'Website Builder', 'Productivity'],
+        url: 'https://getmocha.com',
+        keywords: ['ai app builder', 'ai website builder', 'no code', 'website builder', 'vibe coding'],
+    },
+    {
         name: 'Mockae',
         categories: ['API Building'],
         description: 'Fake REST APIs powered by Lua.',
