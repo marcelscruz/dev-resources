@@ -7222,17 +7222,18 @@
     },
     {
         "name": "Marblism",
-        "description": "Generate a SaaS boilerplate from a prompt",
+        "description": "AI Employees for your business",
         "categories": [
             "AI",
-            "Code Generator"
+            "Productivity",
+            "Startup"
         ],
         "url": "https://marblism.com",
         "keywords": [
-            "code generator",
-            "ai",
-            "boilerplate",
-            "dev tool"
+            "ai assistant",
+            "ai employee",
+            "ai executive assistant",
+            "social media"
         ]
     },
     {
