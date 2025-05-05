@@ -95,10 +95,10 @@ export const resources: Resource[] = [
     },
     {
         name: 'Marblism',
-        description: 'Generate a SaaS boilerplate from a prompt',
-        categories: ['AI', 'Code Generator'],
+        description: 'AI Employees for your business',
+        categories: ['AI', 'Productivity', 'Startup'],
         url: 'https://marblism.com',
-        keywords: ['code generator', 'ai', 'boilerplate', 'dev tool'],
+        keywords: ['ai assistant', 'ai employee', 'ai executive assistant', 'social media'],
     },
     {
         name: 'Marko Denic',
