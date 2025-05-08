@@ -24,6 +24,13 @@ export const resources: Resource[] = [
         keywords: ['ai tools', 'ai tools navigation', 'ai tools directory'],
     },
     {
+        name: 'MagicTask',
+        description: 'Fun, Gamified Productivity Tool',
+        categories: ['Productivity', 'Tooling', 'Startup'],
+        url: 'https://magictask.io/',
+        keywords: ['gamified task management', 'task management tool', 'team performance tracker', 'fun project management app'],
+    },
+    {
         name: 'Mailchimp',
         categories: ['Email', 'Marketing'],
         description:
