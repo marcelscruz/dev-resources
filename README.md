@@ -1297,6 +1297,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://cassidoo.co/newsletter/&sz=128" width="16" /> | [rendezvous with cassidoo](https://cassidoo.co/newsletter/) | Rendezvous with cassidoo, probably the best newsletter you'll ever read. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://sidebar.io/&sz=128" width="16" /> | [Sidebar](https://sidebar.io/) | The five best design links, every weekday. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.smashingmagazine.com/the-smashing-newsletter/&sz=128" width="16" /> | [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) | Every two weeks our editorial team works on short, relevant articles for the upcoming issue. The newsletter is sent out bi-weekly, on Tuesdays. |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://techwithmarko.com/&sz=128" width="16" /> | [Tech with Marko](https://techwithmarko.com/) | Useful tech tips, directly to your inbox. | AI, Programming, Newsletter, Content Creation |
  <img src="https://www.google.com/s2/favicons?domain=https://ui.dev/&sz=128" width="16" /> | [ui.dev](https://ui.dev/) | Comprehensive learning resources for mastering the JavaScript ecosystem. |  |
 
 **[⬆ Back to Index](#index)**

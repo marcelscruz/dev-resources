@@ -97,8 +97,7 @@ export const resources: Resource[] = [
     {
         name: 'Tech with Marko',
         categories: ['Newsletter'],
-        description:
-            'Useful tech tips, directly to your inbox.',
+        description: 'Useful tech tips, directly to your inbox.',
         url: 'https://techwithmarko.com/',
         keywords: ['AI', 'Programming', 'Newsletter', 'Content Creation'],
     },

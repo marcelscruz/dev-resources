@@ -1,5 +1,5 @@
 {
-"count": 1068,
+"count": 1069,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10991,6 +10991,20 @@
         ],
         "description": "Tech Jobs for Good helps connect software engineers to jobs at organizations working on social and environmental issues.",
         "url": "https://techjobsforgood.com/"
+    },
+    {
+        "name": "Tech with Marko",
+        "categories": [
+            "Newsletter"
+        ],
+        "description": "Useful tech tips, directly to your inbox.",
+        "url": "https://techwithmarko.com/",
+        "keywords": [
+            "AI",
+            "Programming",
+            "Newsletter",
+            "Content Creation"
+        ]
     },
     {
         "name": "TechCrunch",
