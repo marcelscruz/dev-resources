@@ -123,7 +123,7 @@ export const resources: Resource[] = [
         name: 'Voiden',
         categories: ['API Building', 'Documentation'],
         description:
-            'Voiden is a Git Native API Client that brings your API specs, docs, tests & mocks into a single workspace. No sign-in required. Free to use.',
+            'Voiden is a Git Native API Client that brings your API specs, docs, tests & mocks into a single workspace. Built for composability and extensibility in mind, Voiden blends building and Testing APIs into your Git workflows. No sign-in required. Free to use.',
         url: 'https://voiden.md',
         keywords: ['api', 'api client', 'api documentation', 'api testing', 'api mocks'],
     },
