@@ -24,17 +24,26 @@ const links = `<div align="center">
     <a href="LICENSE">License</a>
 </div>`
 
+const logoApyhub = `<div>
+    <p align="center"><a href="https://apyhub.com?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/apyhub-dark-mode.svg"         width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/apyhub-light-mode.svg" width="150px"><img alt="Scrapfly logo" src="./assets/apyhub-dark-mode.svg" width="150px"></picture></a></p>
+    <p align="center"><a href="https://apyhub.com?ref=dev_resources&utm_medium=repo_readme">Apyhub</a>: A Modern API Platform to streamline API Development, Testing and Management. Take your API game to the next level with ApyHub.</p>
+</div>`
+
+const logoSupadata = `<div>
+    <p align="center"><a href="https://supadata.ai?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/supadata-dark-mode.svg"         width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/supadata-light-mode.svg" width="150px"><img alt="Scrapfly logo" src="./assets/supadata-dark-mode.svg" width="150px"></picture></a></p>
+    <p align="center"><a href="https://supadata.ai?ref=dev_resources&utm_medium=repo_readme">Supadata</a> is one stop-shop API for makers to read web and YouTube content, ready for AI training and retrieval.</p>
+</div>`
+
 const logoScrapfly = `<div>
     <p align="center"><a href="https://scrapfly.io?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/scrapfly-dark-mode.svg"         width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="150px"><img alt="Scrapfly logo" src="./assets/scrapfly-dark-mode.svg" width="150px"></picture></a></p>
     <p align="center"><a href="https://scrapfly.io?ref=dev_resources&utm_medium=repo_readme">Scrapfly</a> offers a top-tier Web Scraping API that simplifies scraping by handling real browser rendering, rotating proxies, and various fingerprints to overcome major anti-bot measures.</p>
 </div>`
 
-// const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoScrapfly}<br/>\n\n`
-// const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoScrapfly}<br/>\n\n\n\n${logoZenlogin}\n\n`
-const sponsors = `<div align="center">Sponsored by</div> 
-    <br/>
-    ${logoScrapfly}
-`
+const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoApyhub}<br/>\n\n\n\n${logoScrapfly}<br/>\n\n\n\n${logoSupadata}\n\n\n`
+// const sponsors = `<div align="center">Sponsored by</div>
+//     <br/>
+//     ${logoScrapfly}
+// `
 
 async function updateReadme() {
     try {
