@@ -10,6 +10,13 @@ export const resources: Resource[] = [
         url: 'https://vatis.tech',
     },
     {
+        name: 'Vector Illustrations',
+        categories: ['Illustration'],
+        description:
+            'Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.',
+        url: 'https://www.artify.co/vector-illustrations',
+    },
+    {
         name: 'Vectr',
         categories: ['Editor', 'Image'],
         description:
@@ -21,6 +28,13 @@ export const resources: Resource[] = [
         categories: ['Code Generator'],
         description: 'Design and generate Laravel/PHP applications in minutes with this desktop tool',
         url: 'https://vemto.app/',
+    },
+    {
+        name: 'Verbatik AI',
+        categories: ['AI', 'Productivity'],
+        description:
+            'Create professional-quality Text to Speech and Voice Cloning in minutes. Generate natural voices in 150+ languages, perfect for videos, podcasts, and e-learning.',
+        url: 'https://verbatik.com/',
     },
     {
         name: 'Vercel',
@@ -106,6 +120,14 @@ export const resources: Resource[] = [
         url: 'https://code.visualstudio.com/',
     },
     {
+        name: 'Voiden',
+        categories: ['API Building', 'Documentation'],
+        description:
+            'Voiden is a Git Native API Client that brings your API specs, docs, tests & mocks into a single workspace. No sign-in required. Free to use.',
+        url: 'https://voiden.md',
+        keywords: ['api', 'api client', 'api documentation', 'api testing', 'api mocks'],
+    },
+    {
         name: 'Vue Cheatsheet',
         categories: ['Cheatsheet'],
         description: 'An interactive cheatsheet of Vue, Vue Router and, Pinia.',
@@ -126,19 +148,5 @@ export const resources: Resource[] = [
         description:
             'Vue.js jobs is the best place to hire or get hired as Vue.js developer. Find Vue.js talent and reach to thousands of developers.',
         url: 'https://vuejobs.com/',
-    },
-    {
-        name: 'Vector Illustrations',
-        categories: ['Illustration'],
-        description:
-            'Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.',
-        url: 'https://www.artify.co/vector-illustrations',
-    },
-    {
-        name: 'Verbatik AI',
-        categories: ['AI', 'Productivity'],
-        description:
-            'Create professional-quality Text to Speech and Voice Cloning in minutes. Generate natural voices in 150+ languages, perfect for videos, podcasts, and e-learning.',
-        url: 'https://verbatik.com/',
     },
 ]
