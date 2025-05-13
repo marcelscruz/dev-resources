@@ -81,7 +81,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Cert Decoder',
-        categories: ['Security','Testing','Tooling'],
+        categories: ['Security', 'Testing', 'Tooling'],
         description:
             'Cert Decoder is a free online tool for decoding X.509 SSL/TLS certificates in PEM format directly in your browser.',
         url: 'https://certdecoder.com/',

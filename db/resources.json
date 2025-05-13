@@ -1,5 +1,5 @@
 {
-"count": 1071,
+"count": 1072,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1442,6 +1442,16 @@
         ],
         "description": "Catalog by Thesys is a curated collection of AI agents designed to help you find the right agent for your needs. Whether you're exploring AI for automation, decision-making, or creative tasks, it simplifies your search with the categorization and listing of all the AI agents.",
         "url": "https://catalog.thesys.dev/"
+    },
+    {
+        "name": "Cert Decoder",
+        "categories": [
+            "Security",
+            "Testing",
+            "Tooling"
+        ],
+        "description": "Cert Decoder is a free online tool for decoding X.509 SSL/TLS certificates in PEM format directly in your browser.",
+        "url": "https://certdecoder.com/"
     },
     {
         "name": "Chaindesk",
