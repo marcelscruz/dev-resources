@@ -80,6 +80,13 @@ export const resources: Resource[] = [
         url: 'https://catalog.thesys.dev/',
     },
     {
+        name: 'Cert Decoder',
+        categories: ['Security','Testing','Tooling'],
+        description:
+            'Cert Decoder is a free online tool for decoding X.509 SSL/TLS certificates in PEM format directly in your browser.',
+        url: 'https://certdecoder.com/',
+    },
+    {
         name: 'Chakra',
         categories: ['Library', 'Programming', 'UI'],
         description: 'Simple, Modular and Accessible UI Components for your React Applications.',
