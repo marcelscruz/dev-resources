@@ -1,5 +1,5 @@
 {
-"count": 1072,
+"count": 1073,
 "data": [
     {
         "name": "1001 Fonts",
@@ -84,6 +84,24 @@
             "design"
         ],
         "url": "https://99designs.com/"
+    },
+    {
+        "name": "A1",
+        "description": "A collection of the best websites found on the web",
+        "categories": [
+            "Design",
+            "Inspiration",
+            "UI",
+            "UX",
+            "Template"
+        ],
+        "url": "https://www.a1.gallery/",
+        "keywords": [
+            "website design",
+            "inspiration",
+            "web",
+            "gallery"
+        ]
     },
     {
         "name": "A11y Coffee",

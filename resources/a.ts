@@ -6,7 +6,7 @@ export const resources: Resource[] = [
         description: 'A collection of the best websites found on the web',
         categories: ['Design', 'Inspiration', 'UI', 'UX', 'Template'],
         url: 'https://www.a1.gallery/',
-        keywords: ['website design', 'inspiration', 'web', 'gallery'], 
+        keywords: ['website design', 'inspiration', 'web', 'gallery'],
     },
     {
         name: 'A11Y Style Guide',

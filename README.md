@@ -537,6 +537,7 @@
 ### <a name="design">Design</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://www.a1.gallery/&sz=128" width="16" /> | [A1](https://www.a1.gallery/) | A collection of the best websites found on the web | website design, inspiration, web, gallery |
  <img src="https://www.google.com/s2/favicons?domain=https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ&sz=128" width="16" /> | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | I'm Adrian from Australia, a designer and developer who makes websites and apps using platforms like React Native. I'm hoping to share some of the things I've learnt over the years about my career and... | HTML CSS JS UI UX WordPress "React Native" "User Interface Design" Website JavaScript "Graphics desi... |
  <img src="https://www.google.com/s2/favicons?domain=https://www.awwwards.com/&sz=128" width="16" /> | [Awwwards](https://www.awwwards.com/) | Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world. | Website Awards, Web Design Inspiration, Webdesign Trends |
  <img src="https://www.google.com/s2/favicons?domain=https://balsamiq.com/&sz=128" width="16" /> | [Balsamiq](https://balsamiq.com/) | Balsamiq is the company behind Balsamiq Wireframes, the industry standard low-fidelity wireframing tool. |  |
@@ -971,6 +972,7 @@
 ### <a name="inspiration">Inspiration</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://www.a1.gallery/&sz=128" width="16" /> | [A1](https://www.a1.gallery/) | A collection of the best websites found on the web | website design, inspiration, web, gallery |
  <img src="https://www.google.com/s2/favicons?domain=https://www.awwwards.com/&sz=128" width="16" /> | [Awwwards](https://www.awwwards.com/) | Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world. | Website Awards, Web Design Inspiration, Webdesign Trends |
  <img src="https://www.google.com/s2/favicons?domain=https://www.behance.net/&sz=128" width="16" /> | [Behance](https://www.behance.net/) | Behance is the world's largest creative network for showcasing and discovering creative work. | online portfolio, online portfolio site, creative professional platform, creative network, creative ... |
  <img src="https://www.google.com/s2/favicons?domain=https://tympanus.net/codrops/&sz=128" width="16" /> | [Codrops](https://tympanus.net/codrops/) | Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities. |  |
@@ -1981,6 +1983,7 @@
 ### <a name="template">Template</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://www.a1.gallery/&sz=128" width="16" /> | [A1](https://www.a1.gallery/) | A collection of the best websites found on the web | website design, inspiration, web, gallery |
  <img src="https://www.google.com/s2/favicons?domain=https://achromatic.dev&sz=128" width="16" /> | [Achromatic](https://achromatic.dev) | Building your SaaS just got unfairly easy. Skip the noise and focus on your business with the best advanced Next.js SaaS starter kit on the market. | saas, starter kit, boilerplate, next.js, shadcn, next-auth, prisma |
  <img src="https://www.google.com/s2/favicons?domain=https://adminmart.com/&sz=128" width="16" /> | [AdminMart](https://adminmart.com/) | The Best Free and Premium Admin Templates by AdminMart. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://apparencekit.dev/&sz=128" width="16" /> | [ApparenceKit](https://apparencekit.dev/) | A flutter template to create iOS, Android and web app in days. Generate all the common boilerplate code and customize the design to fit your brand.  |  |
@@ -2148,6 +2151,7 @@
 ### <a name="ui">UI</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://www.a1.gallery/&sz=128" width="16" /> | [A1](https://www.a1.gallery/) | A collection of the best websites found on the web | website design, inspiration, web, gallery |
  <img src="https://www.google.com/s2/favicons?domain=https://www.awwwards.com/&sz=128" width="16" /> | [Awwwards](https://www.awwwards.com/) | Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world. | Website Awards, Web Design Inspiration, Webdesign Trends |
  <img src="https://www.google.com/s2/favicons?domain=https://balsamiq.com/&sz=128" width="16" /> | [Balsamiq](https://balsamiq.com/) | Balsamiq is the company behind Balsamiq Wireframes, the industry standard low-fidelity wireframing tool. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://getcssscan.com/css-box-shadow-examples&sz=128" width="16" /> | [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) | 🎨 Curated collection of 90+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy. |  |
@@ -2234,6 +2238,7 @@
 ### <a name="ux">UX</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://www.a1.gallery/&sz=128" width="16" /> | [A1](https://www.a1.gallery/) | A collection of the best websites found on the web | website design, inspiration, web, gallery |
  <img src="https://www.google.com/s2/favicons?domain=https://www.youtube.com/user/DesignCourse&sz=128" width="16" /> | [DesignCourse](https://www.youtube.com/user/DesignCourse) | New videos weekly from Monday to Thursday @ 10:30 AM ET! Hi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlu... | "web design" "logo design" "illustrator tutorials" "website design" free ui ux "user experience desi... |
  <img src="https://www.google.com/s2/favicons?domain=https://www.enhanceui.com/&sz=128" width="16" /> | [Enhance UI](https://www.enhanceui.com/) | Learn Design for Developers wanting to know UI, UX and more. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://gumroad.com/a/124908659&sz=128" width="16" /> | [Landing Page Hot Tips](https://gumroad.com/a/124908659) | The Landing Page Hot Tips Ebook features 100 digestible lessons to implement into your Landing Pages. Each tip features a few paragraphs, visual references and related resources. Additional features i... |  |
