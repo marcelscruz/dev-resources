@@ -1,5 +1,5 @@
 {
-"count": 1073,
+"count": 1074,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10607,6 +10607,23 @@
         ],
         "description": "Trusted by tens of millions of users worldwide since 2013, Start Bootstrap develops website themes, templates, snippets, and more to help you get started on your next project!",
         "url": "https://startbootstrap.com/snippets/"
+    },
+    {
+        "name": "StartEase",
+        "description": "The Nuxt SaaS boilerplate focused on Growth & Conversion.",
+        "categories": [
+            "Startup",
+            "Template",
+            "Productivity",
+            "Marketing"
+        ],
+        "url": "https://startease.dev/",
+        "keywords": [
+            "Nuxt template",
+            "SaaS boilerplate",
+            "email marketing",
+            "content marketing"
+        ]
     },
     {
         "name": "StartKit.AI",

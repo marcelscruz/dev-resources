@@ -725,11 +725,10 @@ export const resources: Resource[] = [
     },
     {
         name: 'StartEase',
-        description:
-            'The Nuxt SaaS boilerplate focused on Growth & Conversion.',
-        categories: ['Startup', 'Template','Productivity','Marketing'],
+        description: 'The Nuxt SaaS boilerplate focused on Growth & Conversion.',
+        categories: ['Startup', 'Template', 'Productivity', 'Marketing'],
         url: 'https://startease.dev/',
-        keywords:['Nuxt template','SaaS boilerplate','email marketing','content marketing']
+        keywords: ['Nuxt template', 'SaaS boilerplate', 'email marketing', 'content marketing'],
     },
     {
         name: 'Stylo AI',
