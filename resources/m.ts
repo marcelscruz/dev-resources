@@ -187,6 +187,13 @@ export const resources: Resource[] = [
         url: 'https://meetmoji.com',
     },
     {
+        name: 'Meshr',
+        description: 'AI-powered internal linking tool for better SEO & user experience',
+        categories: ['SEO', 'Marketing', 'Productivity'],
+        url: 'https://meshr.link',
+        keywords: ['internal linking tool', 'link building tool', 'best link building tools', 'automation'],
+    },
+    {
         name: 'Metaverse Jobs',
         categories: ['Job'],
         description: 'Search for metaverse jobs in augmented reality, virtual reality, NFT, crypto, gaming, and more.',
