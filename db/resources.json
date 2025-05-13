@@ -1,5 +1,5 @@
 {
-"count": 1074,
+"count": 1075,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11102,6 +11102,21 @@
             "Early-career professionals",
             "Skill development",
             "Tech projects"
+        ]
+    },
+    {
+        "name": "TechTeamFinder",
+        "description": "Connect companies with engineering teams",
+        "categories": [
+            "Job",
+            "Startup"
+        ],
+        "url": "https://techteamfinder.com/",
+        "keywords": [
+            "career",
+            "recruitment",
+            "it team sourcing",
+            "software development agencies"
         ]
     },
     {
