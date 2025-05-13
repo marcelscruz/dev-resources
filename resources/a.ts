@@ -390,4 +390,12 @@ export const resources: Resource[] = [
         keywords: ['Azuesss', 'Windows Azure', 'Cloud Service', 'Cloud Computing Companies'],
         url: 'https://azure.microsoft.com/',
     },
+    {
+        name: 'Character Headcanon Generator',
+        categories: ['AI', 'Writing'],
+        description:
+            'Character Headcanon Generator is a free online tool for writers, screenwriters, and role-playing enthusiasts—no login required—that generates rich, multidimensional character profiles in seconds. Simply enter or randomize a name and choose a story genre; the tool then automatically crafts background, personality traits, motivations, conflicts, and unique quirks to fuel your storytelling.',
+        keywords: ['character headcanon', 'character headcanon generator', 'character headcanon creator'],
+        url: 'https://characterheadcanongen.com',
+    },
 ]
