@@ -761,12 +761,12 @@ export const resources: Resource[] = [
         url: 'https://usepastel.com/compare-pixels',
     },
     {
-    name: 'Compot',
-    categories: ['Learn', 'Programming', 'Design', 'Inspiration', 'Library', 'Prototyping', 'Template', 'UI'],
-    description:
-        'Design and develop SwiftUI apps faster with Compot – a growing library of crafted SwiftUI components and templates ready to copy and use in your iOS apps.',
-    url: 'https://www.compotui.com',
-    keywords: ['ios', 'swift', 'swiftui', 'development', 'components', 'xcode', 'apple', 'iphone', 'app'],
+        name: 'Compot',
+        categories: ['Learn', 'Programming', 'Design', 'Inspiration', 'Library', 'Prototyping', 'Template', 'UI'],
+        description:
+            'Design and develop SwiftUI apps faster with Compot – a growing library of crafted SwiftUI components and templates ready to copy and use in your iOS apps.',
+        url: 'https://www.compotui.com',
+        keywords: ['ios', 'swift', 'swiftui', 'development', 'components', 'xcode', 'apple', 'iphone', 'app'],
     },
     {
         name: 'Compressor',
