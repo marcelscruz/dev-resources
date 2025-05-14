@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Vaiz',
+        description: 'One platform for Tasks & Documents',
+        categories: ['Productivity', 'Tooling', 'Documentation'],
+        url: 'https://vaiz.com',
+        keywords: ['task management', 'project management', 'documents', 'collaboration'],
+    },
+    {
         name: 'Vatis Tech',
         categories: ['AI', 'Productivity'],
         description:
