@@ -613,6 +613,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Spell',
+        description: 'Spell is an AI-native document editor that replaces the chaos of copy-pasting between ChatGPT and Google Docs.',
+        categories: ['AI', 'Documentation', 'Productivity'],
+        url: 'https://spellapp.com/',
+        keywords: ['document editors', 'ai notetakers', 'team collaboration', 'ai assistant'], 
+    },
+    {
         name: 'Sqlable',
         categories: ['Tooling', 'Database'],
         description:
