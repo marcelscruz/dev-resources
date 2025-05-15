@@ -198,6 +198,12 @@ export const resources: Resource[] = [
         keywords: ['Performance', 'Uptime', 'Monitoring', 'Status Page', 'Web Vitals', 'SSL', 'HTTP(s)', 'DNS'],
     },
     {
+        name: 'Shadcnblocks',
+        categories: ['Template', 'UI', 'Programming', 'Design'],
+        description:
+            'Hundreds of extra blocks and components for shadcn/ui, Tailwind & React.',
+    },
+    {
         name: 'Shape',
         categories: ['Icon'],
         description:
