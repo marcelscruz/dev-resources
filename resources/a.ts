@@ -311,6 +311,13 @@ export const resources: Resource[] = [
         keywords: ['youtube summarizer', 'youtube video summarizer', 'youtube ai summary', 'youtube video summary ai'],
     },
     {
+        name: 'Audio Forms',
+        description: 'AI-Powered Audio Surveys',
+        categories: ['Marketing', 'AI', 'Audio'],
+        url: 'https://getaudioforms.com/',
+        keywords: ['audio voice surveys', 'sentiment analysis', 'customer insights', 'product feedback'],
+    },
+    {
         name: 'Authentic Jobs',
         categories: ['Job'],
         description: 'The leading job board for designers, developers, and creative pros.',
