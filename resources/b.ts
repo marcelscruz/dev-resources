@@ -436,6 +436,22 @@ export const resources: Resource[] = [
         url: 'https://thebricks.com',
     },
     {
+        name: 'BuddAIr',
+        categories: ['AI', 'Productivity'],
+        description: 'Unlock your AI companion now',
+        keywords: [
+            'AI companion',
+            'virtual buddy',
+            'AI tools navigation',
+            'emotional support AI',
+            'find AI friend',
+            'best AI companion apps',
+            'personalized AI interactions',
+            'BuddAIr'
+        ],
+        url: 'https://buddair.com/',
+    },
+    {
         name: 'Build you SaaS',
         categories: ['Podcast', 'Startup'],
         description:
