@@ -824,6 +824,13 @@ export const resources: Resource[] = [
         url: 'https://www.sublimetext.com/',
     },
     {
+        name: 'Summara',
+        description: 'YouTube AI Summary and Transcript widget',
+        categories: ['AI', 'Extension', 'Learn'],
+        url: 'https://summara.io/',
+        keywords: ['youtube ai summary', 'youtube summarizer', 'youtube transcript', 'youtube captions'],
+    },
+    {
         name: 'Supabase',
         categories: ['Serverless', 'Database'],
         description:
