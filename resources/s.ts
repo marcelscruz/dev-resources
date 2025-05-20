@@ -512,6 +512,13 @@ export const resources: Resource[] = [
         url: 'https://snipit.io/',
     },
     {
+        name: 'SNSTracker',
+        description: 'All-in-One Social Media Tracking & Analytics Platform',
+        categories: ['Marketing', 'Social Media', 'Analytics'],
+        url: 'https://snstracker.com/',
+        keywords: ['social media analytics', 'social media monitoring', 'influencer marketing', 'social media tool'],
+    },
+    {
         name: 'Social Growth Engineers',
         description: 'Social Growth Engineers is the #1 source for organic social marketing strategies and resources.',
         categories: ['Marketing', 'Blog', 'Productivity'],
