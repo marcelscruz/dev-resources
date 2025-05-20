@@ -871,6 +871,13 @@ export const resources: Resource[] = [
         url: 'https://gumroad.com/a/399283315/WCKkj',
     },
     {
+        name: 'Convert.ai',
+        description: 'Generates quality B2B sales meetings with personalized AI outreach.',
+        categories: ['AI', 'Marketing', 'Startup'],
+        url: 'https://convert.ai/',
+        keywords: ['ai sdr', 'sales', 'ai sales outreach', 'b2b lead generation'], 
+    },
+    {
         name: 'CookieYes',
         categories: ['Legal'],
         description:
