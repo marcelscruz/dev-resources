@@ -10,6 +10,13 @@ export const resources: Resource[] = [
         url: 'https://www.gatsbyjs.com/',
     },
     {
+        name: 'Gauge',
+        description: 'Gauge helps your company show up in AI answers',
+        categories: ['Marketing', 'SEO', 'AI'],
+        url: 'https://withgauge.com/',
+        keywords: ['digital marketing', 'seo', 'ai seo', 'llmo'],
+    },
+    {
         name: 'Getillustrations',
         categories: ['Illustration'],
         description: 'Download stock illustration packs for websites, application and web design.',
