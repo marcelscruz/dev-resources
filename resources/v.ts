@@ -84,6 +84,14 @@ export const resources: Resource[] = [
         url: 'https://vim-adventures.com/',
     },
     {
+        name: 'VitePress',
+        categories: ['Documentation'],
+        description:
+            'VitePress is a Vite-powered static site generator. It provides fast, modern, and lightweight documentation sites with native ESM support and instant hot reload.',
+        url: 'https://vitepress.dev/',
+        keywords: ['vitepress', 'static site generator', 'documentation', 'vite', 'markdown', 'docs', 'site generator'],
+    },
+    {
         name: 'Virlo',
         description: 'Virlo helps content creators track viral trends on short form content platforms.',
         categories: ['AI', 'Social Media', 'Video'],
@@ -118,6 +126,14 @@ export const resources: Resource[] = [
         description:
             'Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.',
         url: 'https://code.visualstudio.com/',
+    },
+    {
+        name: 'Vitest',
+        categories: ['Testing'],
+        description:
+            'A blazing fast unit test framework powered by Vite. Provides instant startup, native ESM support, TypeScript support, and first-class DX for modern web development.',
+        url: 'https://vitest.dev/',
+        keywords: ['unit testing', 'vite', 'vitest', 'test runner', 'javascript', 'typescript', 'esm', 'fast testing'],
     },
     {
         name: 'Voiden',
