@@ -120,6 +120,14 @@ export const resources: Resource[] = [
         url: 'https://code.visualstudio.com/',
     },
     {
+        name: 'Vitest',
+        categories: ['Testing'],
+        description:
+            'A blazing fast unit test framework powered by Vite. Provides instant startup, native ESM support, TypeScript support, and first-class DX for modern web development.',
+        url: 'https://vitest.dev/',
+        keywords: ['unit testing', 'vite', 'vitest', 'test runner', 'javascript', 'typescript', 'esm', 'fast testing'],
+    },
+    {
         name: 'Voiden',
         categories: ['API Building', 'Documentation'],
         description:
