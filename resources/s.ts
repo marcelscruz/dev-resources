@@ -199,7 +199,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Shadcnblocks',
-        categories: ['Template', 'UI', 'Programming', 'Design'],
+        categories: ['Template', 'UI', 'Design'],
         description:
             'Hundreds of extra blocks and components for shadcn/ui, Tailwind & React.',
     },
