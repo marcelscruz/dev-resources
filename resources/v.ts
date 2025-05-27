@@ -24,6 +24,13 @@ export const resources: Resource[] = [
         url: 'https://vectr.com/',
     },
     {
+        name: 'Velocity',
+        description: 'On-demand feedback for Figma prototypes',
+        categories: ['UX', 'Prototyping', 'Testing'],
+        url: 'https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min',
+        keywords: ['feedback', 'figma', 'plugin', 'design review'],
+    },
+    {
         name: 'Vemto',
         categories: ['Code Generator'],
         description: 'Design and generate Laravel/PHP applications in minutes with this desktop tool',
