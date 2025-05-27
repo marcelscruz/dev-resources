@@ -949,7 +949,7 @@ export const resources: Resource[] = [
         categories: ['API Building', 'Tooling', 'Database'],
         description:
             'Convert Google Sheets to JSON API - Speed up your prototyping by skipping API development and using Google Sheets instead.',
-        url: 'https://sheets-2-api.craftengineer.com/?ref=marcelscruz/dev-resources',
+        url: 'https://sheets-2-api.craftengineer.com',
         keywords: ['api', 'google sheets', 'json', 'prototyping', 'sheets as DB'],
     },
 ]
