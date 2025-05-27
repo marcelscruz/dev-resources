@@ -27,7 +27,8 @@ export const resources: Resource[] = [
         name: 'Velocity',
         description: 'On-demand feedback for Figma prototypes',
         categories: ['UX', 'Prototyping', 'Testing'],
-        url: 'https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min',
+        url:
+            'https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min',
         keywords: ['feedback', 'figma', 'plugin', 'design review'],
     },
     {
