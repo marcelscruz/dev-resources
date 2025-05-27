@@ -1,5 +1,5 @@
 {
-"count": 1083,
+"count": 1084,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5004,6 +5004,24 @@
         ],
         "description": "Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.",
         "url": "https://training.github.com/"
+    },
+    {
+        "name": "GIT for Your Browser Tabs - Never lose your tabs again!",
+        "categories": [
+            "Browser",
+            "Productivity",
+            "Tooling"
+        ],
+        "description": "Its like GIT, but for browser tabs! Unlock the Power of Version Control for Your Browser Tabs!",
+        "url": "https://browser-tabs.craftengineer.com/",
+        "keywords": [
+            "browser",
+            "tabs",
+            "git",
+            "browser tabs version control",
+            "browser extension",
+            "history"
+        ]
     },
     {
         "name": "Gitbook",
