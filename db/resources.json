@@ -1,5 +1,5 @@
 {
-"count": 1078,
+"count": 1079,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2520,6 +2520,22 @@
         ],
         "description": "Join 881 smart founders and SaaS companies who are growing their sales with Swipe conversion strategies database.",
         "url": "https://gumroad.com/a/399283315/WCKkj"
+    },
+    {
+        "name": "Convert.ai",
+        "description": "Generates quality B2B sales meetings with personalized AI outreach.",
+        "categories": [
+            "AI",
+            "Marketing",
+            "Startup"
+        ],
+        "url": "https://convert.ai/",
+        "keywords": [
+            "ai sdr",
+            "sales",
+            "ai sales outreach",
+            "b2b lead generation"
+        ]
     },
     {
         "name": "CookieYes",
