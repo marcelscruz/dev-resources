@@ -92,6 +92,13 @@ export const resources: Resource[] = [
         url: 'https://www.jetbrains.com/datagrip/',
     },
     {
+        name: 'DAXRM',
+        categories: ['Marketing', 'SEO'],
+        description: 'DAXRM, The all-in-one CRM for digital marketers. Streamline SEO, PPC, and campaign management with real-time rank tracking and effortless drag-and-drop reporting.',
+        url: 'https://www.daxrm.com/',
+        keywords: ['Digital Marketing & SEO Reporting Tool', 'Rank Tracking Software'],
+    },
+    {
         name: 'DebugBear Speed Test',
         categories: ['Performance', 'Tooling'],
         description: 'Test the speed of your website and get recommendations on how to make it faster.',
