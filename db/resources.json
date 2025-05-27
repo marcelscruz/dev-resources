@@ -1,5 +1,5 @@
 {
-"count": 1080,
+"count": 1082,
 "data": [
     {
         "name": "1001 Fonts",
@@ -182,6 +182,22 @@
             "shadcn",
             "next-auth",
             "prisma"
+        ]
+    },
+    {
+        "name": "Ad Swipe File",
+        "description": "Create top creatives: free access to 22,423+ proven ads!",
+        "categories": [
+            "Marketing",
+            "AI",
+            "Inspiration"
+        ],
+        "url": "https://adswipefile.com/",
+        "keywords": [
+            "e-commerce",
+            "advertising",
+            "ai",
+            "design"
         ]
     },
     {
@@ -12232,6 +12248,22 @@
             "content marketing",
             "content automation",
             "content creation"
+        ]
+    },
+    {
+        "name": "VibeStack",
+        "description": "Curated directory of AI, design, and development products and tools.",
+        "categories": [
+            "Tooling",
+            "AI",
+            "Design"
+        ],
+        "url": "https://www.vibestack.io/",
+        "keywords": [
+            "resource discovery",
+            "design tools",
+            "ai tools",
+            "developer resources"
         ]
     },
     {
