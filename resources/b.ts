@@ -447,7 +447,7 @@ export const resources: Resource[] = [
             'find AI friend',
             'best AI companion apps',
             'personalized AI interactions',
-            'BuddAIr'
+            'BuddAIr',
         ],
         url: 'https://buddair.com/',
     },

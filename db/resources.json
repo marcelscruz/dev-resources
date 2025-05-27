@@ -1,5 +1,5 @@
 {
-"count": 1077,
+"count": 1078,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1298,6 +1298,25 @@
         ],
         "description": "Instant access to 2000+ browsers and real iOS and Android devices for cross browser testing. Ship apps and websites that work for everyone, every time. Get Free Trial.",
         "url": "https://www.browserstack.com/"
+    },
+    {
+        "name": "BuddAIr",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "description": "Unlock your AI companion now",
+        "keywords": [
+            "AI companion",
+            "virtual buddy",
+            "AI tools navigation",
+            "emotional support AI",
+            "find AI friend",
+            "best AI companion apps",
+            "personalized AI interactions",
+            "BuddAIr"
+        ],
+        "url": "https://buddair.com/"
     },
     {
         "name": "Build you SaaS",
