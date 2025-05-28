@@ -121,6 +121,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'chatbots', 'custom chatgpt', 'ai agents'],
     },
     {
+        name: 'Chatmoat',
+        categories: ['AI'],
+        description:
+            'Chatmoat helps you build an AI chatbot for your website in just 2 minutes, delivering instant AI-generated answers, 24/7 support, and happier visitors.',
+        url: 'https://chatmoat.com',
+        keywords: ['ai', 'Customer Support', 'Chatbot'],
+    },
+    {
         name: 'ChatWithCloud',
         categories: ['AI'],
         description:
