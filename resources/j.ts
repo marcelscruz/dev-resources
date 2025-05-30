@@ -57,6 +57,14 @@ export const resources: Resource[] = [
         url: 'https://iq.js.org/',
     },
     {
+        name: 'JavaScript Tutorial',
+        categories: ['Learn'],
+        description:
+            'JavaScript Tutorial provides clear and practical tutorials, tips, and examples to help developers learn JavaScript and improve their coding skills.',
+        url: 'https://www.javascripttutorial.net/',
+        keywords: ['javascript', 'tutorial', 'learn', 'programming', 'web development', 'js', 'coding', 'examples'],
+    },
+    {
         name: 'JavaScript Weekly',
         categories: ['Newsletter', 'Programming'],
         description: 'A newsletter of JavaScript articles, news and cool projects.',
