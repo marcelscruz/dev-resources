@@ -338,6 +338,13 @@ export const resources: Resource[] = [
         keywords: ['Marketing', 'SEO', 'link building', 'links', 'link', 'bento'],
     },
     {
+        name: 'Link Grabber',
+        description: 'Extract, Organize, and Filter page URLs',
+        categories: ['Productivity', 'Marketing', 'SEO'],
+        url: 'https://link-grabber.com/',
+        keywords: ['link extractor', 'backlink', 'link management', 'url scraping', 'link'],
+    },
+    {
         name: 'Linode',
         categories: ['Cloud Computing'],
         description:
