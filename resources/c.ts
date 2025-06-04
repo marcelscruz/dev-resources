@@ -776,7 +776,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Compot',
-        categories: ['Learn', 'Programming', 'Design', 'Inspiration', 'Library', 'Prototyping', 'Template', 'UI'],
+        categories: ['Prototyping', 'UI'],
         description:
             'Design and develop SwiftUI apps faster with Compot – a growing library of crafted SwiftUI components and templates ready to copy and use in your iOS apps.',
         url: 'https://www.compotui.com',
