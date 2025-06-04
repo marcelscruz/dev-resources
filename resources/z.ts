@@ -53,6 +53,13 @@ export const resources: Resource[] = [
         keywords: ['nextjs', 'saas', 'starter kit', 'template', 'boilerplate', 'tailwind', 'shadcn', 'typescript'],
     },
     {
+        name: 'Zuzia.app',
+        description: 'AI-powered server monitoring and task automation for Linux and VPS.',
+        categories: ['Tooling', 'Performance', 'AI'],
+        url: 'https://zuzia.app',
+        keywords: ['ai task monitoring', 'server cron tracking', 'linux automation', 'laravel forge tools'],
+    },
+    {
         name: 'Zyro',
         categories: ['Website Builder'],
         description:
