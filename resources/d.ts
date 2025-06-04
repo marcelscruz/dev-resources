@@ -94,7 +94,8 @@ export const resources: Resource[] = [
     {
         name: 'DAXRM',
         categories: ['Marketing', 'SEO'],
-        description: 'DAXRM, The all-in-one CRM for digital marketers. Streamline SEO, PPC, and campaign management with real-time rank tracking and effortless drag-and-drop reporting.',
+        description:
+            'DAXRM, The all-in-one CRM for digital marketers. Streamline SEO, PPC, and campaign management with real-time rank tracking and effortless drag-and-drop reporting.',
         url: 'https://www.daxrm.com/',
         keywords: ['Digital Marketing & SEO Reporting Tool', 'Rank Tracking Software'],
     },
