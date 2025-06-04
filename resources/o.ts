@@ -67,7 +67,7 @@ export const resources: Resource[] = [
         description: 'Onlime is your secure cloud storage solution for what matters most.',
         categories: ['Productivity', 'Security', 'Startup'],
         url: 'https://onlime.app/',
-        keywords: ['cloud storage', 'cloud backup', 'file synchronization', 'Privacy and Security'], 
+        keywords: ['cloud storage', 'cloud backup', 'file synchronization', 'Privacy and Security'],
     },
     {
         name: 'OnlineWebFonts',
