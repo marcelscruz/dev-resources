@@ -1,5 +1,5 @@
 {
-"count": 1085,
+"count": 1086,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10925,6 +10925,22 @@
         ],
         "description": "Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.",
         "url": "https://www.sublimetext.com/"
+    },
+    {
+        "name": "Summara",
+        "description": "YouTube AI Summary and Transcript widget",
+        "categories": [
+            "AI",
+            "Extension",
+            "Learn"
+        ],
+        "url": "https://summara.io/",
+        "keywords": [
+            "youtube ai summary",
+            "youtube summarizer",
+            "youtube transcript",
+            "youtube captions"
+        ]
     },
     {
         "name": "Supabase",
