@@ -69,7 +69,6 @@ export const resources: Resource[] = [
         url: 'https://onlime.app/',
         keywords: ['cloud storage', 'cloud backup', 'file synchronization', 'Privacy and Security'], 
     },
-
     {
         name: 'OnlineWebFonts',
         categories: ['Icon', 'Font'],
