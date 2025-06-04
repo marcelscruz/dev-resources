@@ -324,6 +324,13 @@ export const resources: Resource[] = [
         url: 'https://authenticjobs.com/',
     },
     {
+        name: 'Automation Tools Directory',
+        description: 'Handpicked Automation Tools to Boost Your Productivity',
+        categories: ['Productivity', 'Tooling', 'Marketing'],
+        url: 'https://www.automationtools.directory/',
+        keywords: ['marketing', 'tools', 'workflow automation', 'business'],
+    },
+    {
         name: 'Avodocs',
         categories: ['Legal'],
         description: "Free legal documents for startups. Get your company's legal documents in minutes.",
