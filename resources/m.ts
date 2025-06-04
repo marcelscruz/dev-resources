@@ -80,20 +80,6 @@ export const resources: Resource[] = [
         keywords: ['react', 'hooks', 'dark theme', 'accessibility', 'components', 'hooks', 'ui', 'library'],
     },
     {
-        name: 'ManagerTrack',
-        categories: ['Job'],
-        description: 'Senior management positions without the hassle',
-        url: 'https://www.managertrack.com',
-
-        keywords: [
-            'senior management',
-            'senior positions',
-            'senior management positions',
-            'senior management jobs',
-            'job search',
-        ],
-    },
-    {
         name: 'Marblism',
         description: 'Generate a SaaS boilerplate from a prompt',
         categories: ['AI', 'Code Generator'],
@@ -192,12 +178,6 @@ export const resources: Resource[] = [
         categories: ['SEO', 'Marketing', 'Productivity'],
         url: 'https://meshr.link',
         keywords: ['internal linking tool', 'link building tool', 'best link building tools', 'automation'],
-    },
-    {
-        name: 'Metaverse Jobs',
-        categories: ['Job'],
-        description: 'Search for metaverse jobs in augmented reality, virtual reality, NFT, crypto, gaming, and more.',
-        url: 'https://www.themetaversejobs.com/',
     },
     {
         name: 'Metazord',

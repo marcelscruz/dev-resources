@@ -68,12 +68,6 @@ export const resources: Resource[] = [
         url: 'https://ray.so/',
     },
     {
-        name: 'React 30',
-        categories: ['Podcast', 'Programming'],
-        description: 'A podcast about React.',
-        url: 'https://react30.com/',
-    },
-    {
         name: 'React Bootstrap',
         categories: ['Library', 'Programming', 'UI'],
         description:
@@ -219,13 +213,6 @@ export const resources: Resource[] = [
         url: 'https://remixicon.com/',
     },
     {
-        name: 'Remote Impact',
-        categories: ['Job', 'Remote'],
-        description:
-            'Remote dev jobs to save the world. Find a job with social impact in a company tackling the UNs Sustainable Development Goals. We add jobs daily in 17 key impact areas such as climate change, poverty, education + many more',
-        url: 'https://www.remoteimpact.io/',
-    },
-    {
         name: 'Remote Leaf',
         categories: ['Job', 'Remote'],
         description:
@@ -244,13 +231,6 @@ export const resources: Resource[] = [
         description:
             'Looking for a remote job? Remote OK® has 43,534+ remote jobs as a Developer, Designer, Copywriter, Customer Support Rep, Sales Professional, Project Manager and more! Find a career where you can work remotely from anywhere.',
         url: 'https://remoteok.io/',
-    },
-    {
-        name: 'Remotists.',
-        categories: ['Job', 'Remote'],
-        description:
-            'Get Remote Dev Jobs in your mailbox. 35.000+ exciting remote jobs on file from 16000+ top remote companies. Segmented for USA, Europe or Worldwide. Personally selected for you by our experienced remote hiring managers.',
-        url: 'https://remotists.com/',
     },
     {
         name: 'Remotive',
@@ -448,13 +428,6 @@ export const resources: Resource[] = [
         categories: ['Design', 'Image', 'Productivity'],
         url: 'https://www.getrupert.com/',
         keywords: ['ai', 'image generation', 'photography', 'advertising'],
-    },
-    {
-        name: 'Rust Jobs',
-        categories: ['Job'],
-        description:
-            'Find specific Rust Jobs, including Remote Rust Jobs. You are looking for Rust Developers? Submit your job ad',
-        url: 'https://rustjob.xyz/',
     },
     {
         name: 'React Free Admin',

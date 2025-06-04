@@ -86,15 +86,6 @@ export const resources: Resource[] = [
         url: 'https://larajobs.com/',
     },
     {
-        name: 'Launching Today',
-        description:
-            'Launching Today is a  community of entrepreneurs, builders, and dreamers. Discover new products, find inspiration and new ideas, and share your own.',
-        categories: ['Startup', 'Marketing', 'Productivity'],
-        url: 'https://www.launching.today/',
-        keywords: ['directory', 'community'],
-    },
-
-    {
         name: 'Launch Squad',
         categories: ['Productivity', 'Marketing'],
         description: 'The best Product Hunt alternatives for your next launch.',
@@ -199,22 +190,6 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw',
     },
     {
-        name: 'LeadKit',
-        categories: ['AI', 'Email', 'Scraping'],
-        description:
-            'Leadkit is a suite of tools every marketer needs, everyone pays for a lot of different tools from scraping the leads to verifying them and then a whole different tool-set for sending mass email campaigns.',
-        url: 'https://leadkit.ai',
-
-        keywords: [
-            'AI Scraper',
-            'Social Media Scraper',
-            'Instagram Scraping',
-            'Cold Email',
-            'Social Media Leads',
-            'Email Sender',
-        ],
-    },
-    {
         name: 'Lede',
         description: 'Generate In-Depth Blog Content',
         categories: ['Writing', 'Productivity', 'AI'],
@@ -280,13 +255,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'Lilybank AI',
-        categories: ['AI', 'Template', 'Marketing'],
-        description: 'At Lilybank AI, we provide a range of tools to boost your online content creation.',
-        url: 'https://lilybankai.com',
-        keywords: ['content', 'templates', 'voiceovers', 'speech-to-text', 'image generator', 'transcriptions'],
-    },
-    {
         name: 'Line Icon Pack',
         categories: ['Icon'],
         description:
@@ -345,15 +313,6 @@ export const resources: Resource[] = [
         url: 'https://www.linode.com/',
     },
     {
-        name: 'Lisapet.ai',
-        description:
-            'Lisapet.ai is the next-level AI product development platform that empowers teams to prototype, test, and ship robust AI features 10x faster.',
-        categories: ['AI', 'Testing', 'Productivity'],
-        url: 'https://www.lisapet.ai/',
-        keywords: ['ai prompt testing', 'ai prompt evaluation', 'prompt engineering', 'llm evaluation'],
-    },
-
-    {
         name: 'Lindo AI',
         categories: ['AI', 'Productivity', 'Tooling'],
         description:
@@ -367,23 +326,6 @@ export const resources: Resource[] = [
         description:
             "Lite Analytics is simple lightweight Google Analytics alternatice. It is privacy focused and doesn't use cookies.",
         url: 'https://liteanalytics.com/',
-    },
-    {
-        name: 'Loadjitsu',
-        categories: ['Performance', 'Testing', 'Tooling'],
-        description: 'Loadjitsu is a modern, cross-platform load testing tool powered by Rust.',
-        url: 'https://loadjitsu.io/',
-        keywords: [
-            'LoadTesting',
-            'Rust',
-            'CrossPlatform',
-            'PerformanceTesting',
-            'DesktopApp',
-            'Tauri',
-            'React',
-            'StressTesting',
-            'DevTools',
-        ],
     },
     {
         name: 'Lobsters',

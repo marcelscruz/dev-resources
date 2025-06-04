@@ -122,13 +122,6 @@ export const resources: Resource[] = [
         url: 'https://podtail.com/en/podcast/default-alive/',
     },
     {
-        name: 'Delesign',
-        categories: ['Illustration'],
-        description:
-            "We've created a collection of free illustrations and more. Fully customizable and completely free illustrations that you can use for your business.",
-        url: 'https://delesign.com/free-designs/graphics.php',
-    },
-    {
         name: 'Design System Cookbooks',
         categories: ['Design', 'UI'],
         description:
@@ -383,13 +376,6 @@ export const resources: Resource[] = [
         description:
             'Dracula is a color scheme for code editors and terminal emulators such as Vim, Notepad++, iTerm, VSCode, Terminal.app, ZSH, and much more.',
         url: 'https://draculatheme.com/',
-    },
-    {
-        name: 'DrawKit',
-        categories: ['Illustration'],
-        description:
-            'Free vector SVG illustrations for you to use on your next project, no attribution required! Vector illustrations, packs, icons and more.',
-        url: 'https://www.drawkit.io/',
     },
     {
         name: 'DreamHost',

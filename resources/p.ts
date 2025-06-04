@@ -28,13 +28,6 @@ export const resources: Resource[] = [
         url: 'https://www.palettelist.com/',
     },
     {
-        name: 'Palettes & Hues 🎨',
-        categories: ['Color', 'Editor', 'Extension'],
-        description:
-            'Palettes & Hues 🎨 is a chrome extension to extract, pick and manage the dominant color palette from the visible area of any webpage or pick and manage specific color palettes using an uploaded image.',
-        url: 'https://palettes.fyi/',
-    },
-    {
         name: 'Panem',
         description: 'AI Powered SaaS Spend Management',
         categories: ['Productivity', 'Startup'],

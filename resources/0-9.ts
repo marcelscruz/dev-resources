@@ -26,12 +26,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: '18F Accessibility Guide',
-        categories: ['Accessibility'],
-        description: 'A simple checklist for determining if your site is accessible.',
-        url: 'https://accessibility.18f.gov/checklist/',
-    },
-    {
         name: '1LOC',
         description: 'Favorite JavaScript Utilities in single line of code! No more!',
         categories: ['Code Snippet'],

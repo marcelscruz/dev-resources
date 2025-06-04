@@ -123,12 +123,6 @@ export const resources: Resource[] = [
         url: 'https://inclusive-components.design/',
     },
     {
-        name: 'Indeed',
-        categories: ['Resume'],
-        description: 'Build and upload your resume to Indeed and let your next job find you.',
-        url: 'https://www.indeed.com/create-resume',
-    },
-    {
         name: 'Indie Hackers',
         categories: ['Podcast', 'Startup'],
         description:
