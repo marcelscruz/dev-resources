@@ -1,5 +1,5 @@
 {
-"count": 1088,
+"count": 1071,
 "data": [
     {
         "name": "1001 Fonts",
@@ -25,14 +25,6 @@
             "10 fast fingers",
             "typing competition"
         ]
-    },
-    {
-        "name": "18F Accessibility Guide",
-        "categories": [
-            "Accessibility"
-        ],
-        "description": "A simple checklist for determining if your site is accessible.",
-        "url": "https://accessibility.18f.gov/checklist/"
     },
     {
         "name": "1LOC",
@@ -467,22 +459,6 @@
         ],
         "description": "10+ customizable AI demo apps: pick one, make it yours, launch your startup quickly and start making money",
         "url": "https://anotherwrapper.com"
-    },
-    {
-        "name": "API ChatAssistPro",
-        "description": "ChatAssist Pro is an advanced AI-powered chatbot designed to streamline customer support interactions. It offers prompt and accurate responses to a wide range of customer queries, ensuring a seamless and efficient user experience. With intelligent intent recognition and dynamic handling of FAQs, ChatAssist Pro enhances customer satisfaction and operational efficiency.",
-        "categories": [
-            "API Building",
-            "AI"
-        ],
-        "url": "https://jayanth-mkv-chat-assist-pro.hf.space/",
-        "keywords": [
-            "chatbot",
-            "customer support",
-            "AI",
-            "intent recognition",
-            "FAQ"
-        ]
     },
     {
         "name": "Apigee",
@@ -2167,7 +2143,7 @@
             "Programming",
             "YouTube Channel"
         ],
-        "description": "Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here's the list of Conferences that provided Coding Tech with EXPLICIT written publication permissions: PyData, MLConf, Build Stuff, Code::dive, PolyConf, AmsterdamJS, React Amsterdam, ReactiveConf, Jazoon Tech Days, SFNode, CppCon, Infinite Red, GDG Lviv, Mibuso.com, You Gotta Love Frontend, React Native EU, Node Summit, NodeConfEU, ConFoo, Pixels Camp, JavaScriptLA, The Linux Foundation, Oredev Conference, Techlahoma, fitcevents. Coding Tech also re-posts content which was originally published with the Creative Commons Attribution license (reuse allowed). For business inquiries, please connect on Twitter: https://twitter.com/yuriymatso.",
+        "description": "Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here's the list of Conferences that provided Coding Tech with EXPLICIT written publication permissions: PyData, MLConf, Build Stuff, Code::dive, PolyConf, AmsterdamJS, React Amsterdam, ReactiveConf, Jazoon Tech Days, SFNode, CppCon, Infinite Red, GDG Lviv, Mibuso.com, You Gotta Love Frontend, React Native EU, Node Summit, NodeConfEU, ConFoo, Pixels Camp, JavaScriptLA, The Linux Foundation, Oredev Conference, Techlahoma, fitcevents. Coding Tech also re-posts content which was originally published with the Creative Commons Attribution license (reuse allowed).",
         "keywords": [
             "javascript python css html \"machine learning\" \"artificial intelligence\" \"software development\" programming"
         ],
@@ -3140,14 +3116,6 @@
         "url": "https://podtail.com/en/podcast/default-alive/"
     },
     {
-        "name": "Delesign",
-        "categories": [
-            "Illustration"
-        ],
-        "description": "We've created a collection of free illustrations and more. Fully customizable and completely free illustrations that you can use for your business.",
-        "url": "https://delesign.com/free-designs/graphics.php"
-    },
-    {
         "name": "Design Resources",
         "categories": [
             "Design",
@@ -3495,14 +3463,6 @@
         ],
         "description": "Dracula is a color scheme for code editors and terminal emulators such as Vim, Notepad++, iTerm, VSCode, Terminal.app, ZSH, and much more.",
         "url": "https://draculatheme.com/"
-    },
-    {
-        "name": "DrawKit",
-        "categories": [
-            "Illustration"
-        ],
-        "description": "Free vector SVG illustrations for you to use on your next project, no attribution required! Vector illustrations, packs, icons and more.",
-        "url": "https://www.drawkit.io/"
     },
     {
         "name": "DreamHost",
@@ -5961,14 +5921,6 @@
         "url": "https://inclusive-components.design/"
     },
     {
-        "name": "Indeed",
-        "categories": [
-            "Resume"
-        ],
-        "description": "Build and upload your resume to Indeed and let your next job find you.",
-        "url": "https://www.indeed.com/create-resume"
-    },
-    {
         "name": "Indie Hackers",
         "categories": [
             "Podcast",
@@ -6707,44 +6659,12 @@
         "url": "https://www.launchsquad.club"
     },
     {
-        "name": "Launching Today",
-        "description": "Launching Today is a  community of entrepreneurs, builders, and dreamers. Discover new products, find inspiration and new ideas, and share your own.",
-        "categories": [
-            "Startup",
-            "Marketing",
-            "Productivity"
-        ],
-        "url": "https://www.launching.today/",
-        "keywords": [
-            "directory",
-            "community"
-        ]
-    },
-    {
         "name": "Layoutit Grid",
         "categories": [
             "Code Generator"
         ],
         "description": "Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.",
         "url": "https://grid.layoutit.com/"
-    },
-    {
-        "name": "LeadKit",
-        "categories": [
-            "AI",
-            "Email",
-            "Scraping"
-        ],
-        "description": "Leadkit is a suite of tools every marketer needs, everyone pays for a lot of different tools from scraping the leads to verifying them and then a whole different tool-set for sending mass email campaigns.",
-        "url": "https://leadkit.ai",
-        "keywords": [
-            "AI Scraper",
-            "Social Media Scraper",
-            "Instagram Scraping",
-            "Cold Email",
-            "Social Media Leads",
-            "Email Sender"
-        ]
     },
     {
         "name": "Learn CSS",
@@ -6945,24 +6865,6 @@
         ]
     },
     {
-        "name": "Lilybank AI",
-        "categories": [
-            "AI",
-            "Template",
-            "Marketing"
-        ],
-        "description": "At Lilybank AI, we provide a range of tools to boost your online content creation.",
-        "url": "https://lilybankai.com",
-        "keywords": [
-            "content",
-            "templates",
-            "voiceovers",
-            "speech-to-text",
-            "image generator",
-            "transcriptions"
-        ]
-    },
-    {
         "name": "Lindo AI",
         "categories": [
             "AI",
@@ -7080,49 +6982,12 @@
         "url": "https://www.linode.com/"
     },
     {
-        "name": "Lisapet.ai",
-        "description": "Lisapet.ai is the next-level AI product development platform that empowers teams to prototype, test, and ship robust AI features 10x faster.",
-        "categories": [
-            "AI",
-            "Testing",
-            "Productivity"
-        ],
-        "url": "https://www.lisapet.ai/",
-        "keywords": [
-            "ai prompt testing",
-            "ai prompt evaluation",
-            "prompt engineering",
-            "llm evaluation"
-        ]
-    },
-    {
         "name": "Lite Analytics",
         "categories": [
             "Analytics"
         ],
         "description": "Lite Analytics is simple lightweight Google Analytics alternatice. It is privacy focused and doesn't use cookies.",
         "url": "https://liteanalytics.com/"
-    },
-    {
-        "name": "Loadjitsu",
-        "categories": [
-            "Performance",
-            "Testing",
-            "Tooling"
-        ],
-        "description": "Loadjitsu is a modern, cross-platform load testing tool powered by Rust.",
-        "url": "https://loadjitsu.io/",
-        "keywords": [
-            "LoadTesting",
-            "Rust",
-            "CrossPlatform",
-            "PerformanceTesting",
-            "DesktopApp",
-            "Tauri",
-            "React",
-            "StressTesting",
-            "DevTools"
-        ]
     },
     {
         "name": "Lobsters",
@@ -7312,21 +7177,6 @@
         ],
         "description": "Learn to bootstrap profitable startups the indie way — $14.99.",
         "url": "https://makebook.io/"
-    },
-    {
-        "name": "ManagerTrack",
-        "categories": [
-            "Job"
-        ],
-        "description": "Senior management positions without the hassle",
-        "url": "https://www.managertrack.com",
-        "keywords": [
-            "senior management",
-            "senior positions",
-            "senior management positions",
-            "senior management jobs",
-            "job search"
-        ]
     },
     {
         "name": "Mantine",
@@ -7535,14 +7385,6 @@
             "best link building tools",
             "automation"
         ]
-    },
-    {
-        "name": "Metaverse Jobs",
-        "categories": [
-            "Job"
-        ],
-        "description": "Search for metaverse jobs in augmented reality, virtual reality, NFT, crypto, gaming, and more.",
-        "url": "https://www.themetaversejobs.com/"
     },
     {
         "name": "Metazord",
@@ -8373,16 +8215,6 @@
         "url": "https://www.palettelist.com/"
     },
     {
-        "name": "Palettes & Hues 🎨",
-        "categories": [
-            "Color",
-            "Editor",
-            "Extension"
-        ],
-        "description": "Palettes & Hues 🎨 is a chrome extension to extract, pick and manage the dominant color palette from the visible area of any webpage or pick and manage specific color palettes using an uploaded image.",
-        "url": "https://palettes.fyi/"
-    },
-    {
         "name": "Panem",
         "description": "AI Powered SaaS Spend Management",
         "categories": [
@@ -9177,15 +9009,6 @@
         "url": "https://www.raycast.com"
     },
     {
-        "name": "React 30",
-        "categories": [
-            "Podcast",
-            "Programming"
-        ],
-        "description": "A podcast about React.",
-        "url": "https://react30.com/"
-    },
-    {
         "name": "React Bootstrap",
         "categories": [
             "Library",
@@ -9401,15 +9224,6 @@
         "url": "https://remixicon.com/"
     },
     {
-        "name": "Remote Impact",
-        "categories": [
-            "Job",
-            "Remote"
-        ],
-        "description": "Remote dev jobs to save the world. Find a job with social impact in a company tackling the UNs Sustainable Development Goals. We add jobs daily in 17 key impact areas such as climate change, poverty, education + many more",
-        "url": "https://www.remoteimpact.io/"
-    },
-    {
         "name": "Remote Leaf",
         "categories": [
             "Job",
@@ -9451,15 +9265,6 @@
             "salary search",
             "development"
         ]
-    },
-    {
-        "name": "Remotists.",
-        "categories": [
-            "Job",
-            "Remote"
-        ],
-        "description": "Get Remote Dev Jobs in your mailbox. 35.000+ exciting remote jobs on file from 16000+ top remote companies. Segmented for USA, Europe or Worldwide. Personally selected for you by our experienced remote hiring managers.",
-        "url": "https://remotists.com/"
     },
     {
         "name": "Remotive",
@@ -9760,14 +9565,6 @@
             "photography",
             "advertising"
         ]
-    },
-    {
-        "name": "Rust Jobs",
-        "categories": [
-            "Job"
-        ],
-        "description": "Find specific Rust Jobs, including Remote Rust Jobs. You are looking for Rust Developers? Submit your job ad",
-        "url": "https://rustjob.xyz/"
     },
     {
         "name": "SaaS Boilerplates",
