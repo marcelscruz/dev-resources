@@ -134,6 +134,13 @@ export const resources: Resource[] = [
         url: 'https://aiagentslive.com',
     },
     {
+        name: 'AI Alternative',
+        description: 'Discover the best AI tools and their alternatives',
+        categories: ['AI', 'Tooling', 'Productivity'],
+        url: 'https://aialternative.co/',
+        keywords: ['ai directory', 'ai alternatives', 'ai tools directory', 'startup tools'],
+    },
+    {
         name: 'AI Best Tools',
         categories: ['AI', 'Tooling'],
         description: 'Discover the best AI tools in AIBest.tools',
