@@ -192,6 +192,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://webscrapeai.com&sz=128" width="16" /> | [WebscrapeAI](https://webscrapeai.com) | Scrape any website without code using AI | scraper, no code, ai web scraper, web scraper, visual web scraper |
  <img src="https://www.google.com/s2/favicons?domain=https://wlspy.com&sz=128" width="16" /> | [WLSpy](https://wlspy.com) | WLSpy helps users discover winning products by analyzing market trends and competitor strategies. | Product Research, Market Analysis, Competitor Monitoring |
  <img src="https://www.google.com/s2/favicons?domain=https://zapkit.dev/&sz=128" width="16" /> | [ZapKit](https://zapkit.dev/) | ZapKit is a Laravel boilerplate powered by AI that helps you build a Laravel application within minutes. | boilerplate, startup, starter kit, ai, sass |
+ <img src="https://www.google.com/s2/favicons?domain=https://zuzia.app&sz=128" width="16" /> | [Zuzia.app](https://zuzia.app) | AI-powered server monitoring and task automation for Linux and VPS. | ai task monitoring, server cron tracking, linux automation, laravel forge tools |
 
 **[⬆ Back to Index](#index)**
 
@@ -1381,6 +1382,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://www.sitespeed.io/&sz=128" width="16" /> | [Sitespeed](https://www.sitespeed.io/) | Sitespeed.io is an open source tool that helps you analyse and optimise your website speed and performance, based on performance best practices. | sitespeed.io, wpo, webperf, perfmatters, fast, site, speed, web performance optimisation, analyse, b... |
  <img src="https://www.google.com/s2/favicons?domain=https://ultimatewebspeed.com&sz=128" width="16" /> | [Ultimate Web Speed](https://ultimatewebspeed.com) | Improve your website performance and SEO in hours not days. Use our tools and compare features, ease of use, and compatibility of resources. | wordpress, cache, plugins, speed, performance, seo |
  <img src="https://www.google.com/s2/favicons?domain=https://www.webpagetest.org/&sz=128" width="16" /> | [WebPagetest](https://www.webpagetest.org/) | Run a free website speed test from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations. | WebPageTest, Website Speed Test, Page Speed |
+ <img src="https://www.google.com/s2/favicons?domain=https://zuzia.app&sz=128" width="16" /> | [Zuzia.app](https://zuzia.app) | AI-powered server monitoring and task automation for Linux and VPS. | ai task monitoring, server cron tracking, linux automation, laravel forge tools |
 
 **[⬆ Back to Index](#index)**
 
@@ -2157,6 +2159,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://utilportal.com/&sz=128" width="16" /> | [UtilPortal](https://utilportal.com/) | UtilPortal is your go-to platform for discovering and accessing a curated collection of essential tools and resources. | directory, tools, development, seo |
  <img src="https://www.google.com/s2/favicons?domain=https://www.vibestack.io/&sz=128" width="16" /> | [VibeStack](https://www.vibestack.io/) | Curated directory of AI, design, and development products and tools. | resource discovery, design tools, ai tools, developer resources |
  <img src="https://www.google.com/s2/favicons?domain=https://webacus.dev&sz=128" width="16" /> | [Webacus](https://webacus.dev) | Webacus is a versatile tool designed specifically for developers. It combines numerous operations that developers frequently need into a single, consistent interface. Instead of Googling and learning ... |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://zuzia.app&sz=128" width="16" /> | [Zuzia.app](https://zuzia.app) | AI-powered server monitoring and task automation for Linux and VPS. | ai task monitoring, server cron tracking, linux automation, laravel forge tools |
 
 **[⬆ Back to Index](#index)**
 

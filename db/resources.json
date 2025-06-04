@@ -1,5 +1,5 @@
 {
-"count": 1086,
+"count": 1087,
 "data": [
     {
         "name": "1001 Fonts",
@@ -13034,6 +13034,22 @@
             "tailwind",
             "shadcn",
             "typescript"
+        ]
+    },
+    {
+        "name": "Zuzia.app",
+        "description": "AI-powered server monitoring and task automation for Linux and VPS.",
+        "categories": [
+            "Tooling",
+            "Performance",
+            "AI"
+        ],
+        "url": "https://zuzia.app",
+        "keywords": [
+            "ai task monitoring",
+            "server cron tracking",
+            "linux automation",
+            "laravel forge tools"
         ]
     },
     {
