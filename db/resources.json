@@ -1,5 +1,5 @@
 {
-"count": 1072,
+"count": 1073,
 "data": [
     {
         "name": "1001 Fonts",
@@ -467,6 +467,14 @@
         ],
         "description": "Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.",
         "url": "https://cloud.google.com/apigee"
+    },
+    {
+        "name": "APIVerve",
+        "categories": [
+            "API Building"
+        ],
+        "description": "Unleash the potential of your applications and accelerate development with a single API Key and access to 100s of APIs. Start for free.",
+        "url": "https://apiverve.com/"
     },
     {
         "name": "App Icon Generator",
