@@ -243,6 +243,13 @@ export const resources: Resource[] = [
         url: 'https://cloud.google.com/apigee',
     },
     {
+        name: 'APIVerve',
+        categories: ['API Building'],
+        description:
+            'Unleash the potential of your applications and accelerate development with a single API Key and access to 100s of APIs. Start for free.',
+        url: 'https://apiverve.com/',
+    },
+    {
         name: 'ApparenceKit',
         categories: ['Template', 'Tooling', 'Programming'],
         description:
