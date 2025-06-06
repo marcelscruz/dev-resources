@@ -1,5 +1,5 @@
 {
-"count": 1071,
+"count": 1072,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10299,6 +10299,26 @@
         ],
         "description": "Save and organize your code snippets in the cloud. Share and collaborate with your team members.",
         "url": "https://snipit.io/"
+    },
+    {
+        "name": "soarSQL",
+        "description": "The only SQL editor that makes your queries faster.",
+        "categories": [
+            "Analytics",
+            "Database",
+            "Productivity"
+        ],
+        "url": "https://soarsql.com/",
+        "keywords": [
+            "analytics",
+            "data",
+            "sql",
+            "duckdb",
+            "postgres",
+            "mysql",
+            "csv",
+            "data analysis"
+        ]
     },
     {
         "name": "Social Growth Engineers",
