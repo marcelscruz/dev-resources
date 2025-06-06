@@ -436,11 +436,11 @@ export const resources: Resource[] = [
         url: 'https://www.wrappixel.com/templates/category/react-templates/',
     },
     {
-    name: 'Refgrow',
-    description:
-        'Refgrow helps SaaS founders grow through native affiliate programs. Embed a customizable referral dashboard directly into your product and get discovered by affiliates from similar tools — all on autopilot from just $9/mo.',
-    categories: ['Marketing'],
-    url: 'https://refgrow.com/',
-    keywords: ['affiliate', 'referral', 'SaaS', 'embedded', 'growth', 'marketing', 'startup'],
-},
+        name: 'Refgrow',
+        description:
+            'Refgrow helps SaaS founders grow through native affiliate programs. Embed a customizable referral dashboard directly into your product and get discovered by affiliates from similar tools — all on autopilot from just $9/mo.',
+        categories: ['Marketing'],
+        url: 'https://refgrow.com/',
+        keywords: ['affiliate', 'referral', 'SaaS', 'embedded', 'growth', 'marketing', 'startup'],
+    },
 ]
