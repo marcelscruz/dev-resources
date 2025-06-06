@@ -254,12 +254,6 @@ export const resources: Resource[] = [
         url: 'https://blush.design/',
     },
     {
-        name: 'BlogBud AI',
-        categories: ['AI', 'Writing', 'Blog'],
-        description: 'Generate SEO-optimized blog posts at scale',
-        url: 'https://blogbud.ai/',
-    },
-    {
         name: 'BoilerplateHub',
         categories: ['Productivity', 'Template', 'Startup'],
         description:
@@ -384,12 +378,6 @@ export const resources: Resource[] = [
             'Visually Design, Deploy & Manage modern cloud infrastructures starting from any Cloud Provider - AWS, GCP, Azure',
         keywords: ['cloud', 'cloud designer', 'deploy', 'designer', 'terraform', 'visual designer'],
         url: 'https://www.brainboard.co/',
-    },
-    {
-        name: 'Branition Colors',
-        categories: ['Color'],
-        description: 'Hand-curated collection of color palettes best fitted for branding.',
-        url: 'https://branition.com/colors',
     },
     {
         name: 'Brave',

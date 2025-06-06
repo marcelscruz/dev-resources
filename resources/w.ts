@@ -223,12 +223,6 @@ export const resources: Resource[] = [
         url: 'https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en',
     },
     {
-        name: 'Where to host my app?',
-        categories: ['Hosting', 'Cloud Computing'],
-        description: 'Find the best place to host your application based on its tech stack.',
-        url: 'https://wheretohostmy.app/',
-    },
-    {
         name: 'Windframe',
         categories: ['Website Builder'],
         description:

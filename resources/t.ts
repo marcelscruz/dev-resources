@@ -102,13 +102,6 @@ export const resources: Resource[] = [
         url: 'https://tech-blogs.dev/',
     },
     {
-        name: 'Tech with Marko',
-        categories: ['Newsletter'],
-        description: 'Useful tech tips, directly to your inbox.',
-        url: 'https://techwithmarko.com/',
-        keywords: ['AI', 'Programming', 'Newsletter', 'Content Creation'],
-    },
-    {
         name: 'Templated',
         categories: ['Editor', 'Design', 'Marketing'],
         description:
@@ -276,23 +269,6 @@ export const resources: Resource[] = [
         keywords: [
             'html css javascript tutorials "web design" "web development" development "front-end development" wordpress mvc "responsive design" "beginner html" "beginner ...',
         ],
-    },
-    {
-        name: 'The PR Creator',
-        categories: ['Marketing'],
-        description: 'Tool that creates custom press releases and includes a comment section for the users',
-        url: 'https://theprcreator.com/',
-
-        keywords: ['productivity', 'pr', 'SaaS', 'Artificial Intelligence'],
-    },
-    {
-        name: 'The Ultimate Guide to React Native Optimization',
-        categories: ['Book', 'Programming'],
-        description:
-            'This Guide is comprehensive source of knowledge on the best tools, tips, and tactics for optimizing your React Native app.',
-        url: 'https://www.callstack.com/campaigns/download-the-ultimate-guide-to-react-native-optimization',
-
-        keywords: ['react-native', 'optimization', 'callstack', 'guide'],
     },
     {
         name: 'thirdweb',

@@ -19,21 +19,7 @@ export const resources: Resource[] = [
         description:
             'PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster.',
         url: 'https://developers.google.com/speed/pagespeed/insights/',
-    },
-    {
-        name: 'Palette List',
-        categories: ['Color'],
-        description: 'Palette List is a dynamic palette generator.',
-        keywords: ['palette', 'colors', 'designer tools', 'developer tools', 'hex', 'rgb'],
-        url: 'https://www.palettelist.com/',
-    },
-    {
-        name: 'Panem',
-        description: 'AI Powered SaaS Spend Management',
-        categories: ['Productivity', 'Startup'],
-        url: 'https://panem.co',
-        keywords: ['fintech', 'finance'],
-    },
+    }, 
     {
         name: 'PassVult',
         description: 'Most private password manager',
@@ -250,13 +236,6 @@ export const resources: Resource[] = [
         url: 'https://www.postman.com/',
     },
     {
-        name: 'Postlyy',
-        categories: ['AI', 'Productivity'],
-        description: 'All in one platform to create (WITH AI), schedule, and analyze content on X and LinkedIn',
-        url: 'https://postlyy.com/',
-        keywords: ['ai', 'social media', 'content creation'],
-    },
-    {
         name: 'Powerdrill',
         description:
             'An AI data analysis tool that supports auto-generation of data visuals, data reports, and PPT from your data',
@@ -364,14 +343,6 @@ export const resources: Resource[] = [
         description:
             'Get HTML from any page with a simple API call. We handle proxy rotation, browser identities, automatic retries, CAPTCHAs, JavaScript rendering and much more.',
         url: 'https://proxiesapi.com',
-    },
-    {
-        name: 'ProtoUI',
-        description: 'ProtoUI generates responsive TailwindCSS code + UI in seconds.',
-        categories: ['AI', 'Design', 'Code Generator'],
-        url: 'https://protoui.dev',
-
-        keywords: ['Tailwind', 'frontend', 'AI', 'responsive ui'],
     },
     {
         name: 'Pttrns',

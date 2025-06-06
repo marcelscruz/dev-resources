@@ -251,12 +251,6 @@ export const resources: Resource[] = [
         url: 'https://isecjobs.com/',
     },
     {
-        name: 'Isometriclove',
-        description: 'Cute isometric objects for your design.',
-        categories: ['Illustration'],
-        url: 'https://isometriclove.com/',
-    },
-    {
         name: 'Illustrations-figma',
         description:
             'More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.',

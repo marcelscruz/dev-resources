@@ -205,13 +205,6 @@ export const resources: Resource[] = [
         url: 'https://usehooks.com/',
     },
     {
-        name: 'UserBooster',
-        categories: ['Marketing'],
-        description:
-            'UserBooster is a Notion template that helps startups to get their first users and build their launch strategy',
-        url: 'https://userbooster.co',
-    },
-    {
         name: 'UtilPortal',
         categories: ['SEO', 'Tooling', 'Startup'],
         description:

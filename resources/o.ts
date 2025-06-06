@@ -43,13 +43,6 @@ export const resources: Resource[] = [
         url: 'https://okjob.io/',
     },
     {
-        name: 'Omnigen',
-        categories: ['Marketing', 'AI', 'Productivity'],
-        description: 'Marketing and growth platform focused on outreach',
-        url: 'https://omnigen.co',
-        keywords: ['Marketing', 'AI', 'Productivity', 'Outreach', 'Growth', 'Influencers'],
-    },
-    {
         name: 'One.com',
         categories: ['Domain', 'Hosting', 'Email'],
         description: 'Web hosting, Domain, Hosting & E-mail',
@@ -149,13 +142,6 @@ export const resources: Resource[] = [
             'Discover and compare over 10,000 AI tools, curated and ranked by our community of over 50,000 users.',
         url: 'https://opentools.ai/',
         keywords: ['AI', 'Tools', 'Newsletter', 'AI Tools', 'Directory'],
-    },
-    {
-        name: 'Orbit',
-        categories: ['Marketing'],
-        description:
-            'Orbit is the community experience platform for developers, helping organizations build enthusiastic communities of technology adopters.',
-        url: 'https://orbit.love/',
     },
     {
         name: 'Orion',

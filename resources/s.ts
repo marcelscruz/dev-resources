@@ -288,12 +288,6 @@ export const resources: Resource[] = [
         url: 'https://sidebar.io/',
     },
     {
-        name: 'Sidebird',
-        categories: ['Social Media'],
-        description: 'Stop chasing Twitter followers. Get fans.',
-        url: 'https://www.sidebird.io/',
-    },
-    {
         name: 'sigma.js',
         categories: ['Library', 'Programming'],
         description:
@@ -426,12 +420,6 @@ export const resources: Resource[] = [
         description:
             "Join us as we share what it's like to build and launch a bootstrapped startup while working for yourself full-time. Benedikt is working on Userlist with two other co-founders and Brian is running solo on a product to combat loneliness on remote teams.",
         url: 'https://www.slowandsteadypodcast.com/',
-    },
-    {
-        name: 'Smash',
-        categories: ['Illustration'],
-        description: 'Changing and overlapping them, you can quickly illustrate an idea of your startup.',
-        url: 'https://usesmash.com/',
     },
     {
         name: 'Smashicons',

@@ -31,26 +31,11 @@ export const resources: Resource[] = [
         url: 'https://thebootstrappedfounder.com/zero-to-sold/',
     },
     {
-        name: 'Zerotheme',
-        categories: ['Template'],
-        description:
-            'Html5 Website Templates designed by #Mik. Free download all templates at Zerotheme : responsive templates, bootstrap themes, ecommerce themes, ...',
-        url: 'https://www.zerotheme.com/',
-    },
-    {
         name: 'Zety',
         categories: ['Resume'],
         description:
             'Use this online resume maker to build your resume fast and easy. Get expert advice as you write. Download in minutes and start getting interviews.',
         url: 'https://zety.com/',
-    },
-    {
-        name: 'ZTO - NextJS SaaS Starter Kit',
-        categories: ['Startup', 'Template'],
-        description:
-            'ZTO SaaS starter kit: Rapid deployment, scalable architecture, and essential features for MVPs and full-scale projects. Launch your SaaS faster.',
-        url: 'https://zto.dev/',
-        keywords: ['nextjs', 'saas', 'starter kit', 'template', 'boilerplate', 'tailwind', 'shadcn', 'typescript'],
     },
     {
         name: 'Zuzia.app',

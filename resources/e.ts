@@ -32,14 +32,6 @@ export const resources: Resource[] = [
         keywords: ['ai', 'ChatGPT', 'Claude', 'Browser Extension', 'Productivity'],
     },
     {
-        name: 'Easyreadme',
-        categories: ['AI', 'Productivity', 'Editor'],
-        description:
-            'Easyreadme helps you simplify README creation and generate visually stunning ones with the help of AI and elegant pre-designed templates.',
-        url: 'https://www.easyreadme.app',
-        keywords: ['ai', 'readme', 'documentation', 'markdown', 'editor', 'templates'],
-    },
-    {
         name: 'Eclipse',
         categories: ['Editor', 'Extension'],
         description:
@@ -173,13 +165,6 @@ export const resources: Resource[] = [
         categories: ['Learn', 'Programming'],
         description: 'Strap in and take your React applications to the next level.',
         url: 'https://epicreact.dev/',
-    },
-    {
-        name: 'Error 404 Illustrations',
-        categories: ['Illustration'],
-        description:
-            'Make a unique journey through 404 error pages on your website. Use these illustrations that describe better than words.',
-        url: 'https://error404.fun/',
     },
     {
         name: 'Escrow',

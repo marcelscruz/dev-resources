@@ -9,13 +9,6 @@ export const resources: Resource[] = [
         url: 'https://f5bot.com/',
     },
     {
-        name: 'Fake Img',
-        categories: ['Editor', 'Image'],
-        description:
-            'A little tool that generates placeholder images with an URL. Choose the size, the colors, even the text.',
-        url: 'https://fakeimg.pl/',
-    },
-    {
         name: 'Famewall',
         categories: ['Marketing'],
         description: 'Collect and add testimonials to your website.',
@@ -660,13 +653,6 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q',
     },
     {
-        name: 'FusionCharts',
-        categories: ['Programming'],
-        description:
-            'JavaScript charts for web and mobile apps. 95+ chart types, 1400+ maps and 20+ business dashboards with pre-built themes for any business use-case. Build fast, responsive and highly customizable data visualizations trusted by over 28,000 customers and 750,000 developers worldwide...',
-        url: 'https://www.fusioncharts.com/',
-    },
-    {
         name: 'Fuselio',
         categories: ['Productivity'],
         description:
@@ -682,12 +668,5 @@ export const resources: Resource[] = [
             'Mobile Development',
         ],
     },
-    {
-        name: 'Fusion',
-        categories: ['API Building'],
-        description:
-            'Fusion is the "Notion-like" API client. Modular API design, testing & collaboration for the entire API lifecycle. Available as SaaS and self hosted.',
-        url: 'https://apyhub.com/product/fusion',
-        keywords: ['API testing', 'API design', 'API collaboration', 'API documentation'],
-    },
+
 ]
