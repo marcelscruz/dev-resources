@@ -19,7 +19,7 @@ export const resources: Resource[] = [
         description:
             'PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster.',
         url: 'https://developers.google.com/speed/pagespeed/insights/',
-    }, 
+    },
     {
         name: 'PassVult',
         description: 'Most private password manager',

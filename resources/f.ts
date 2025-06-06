@@ -668,5 +668,4 @@ export const resources: Resource[] = [
             'Mobile Development',
         ],
     },
-
 ]

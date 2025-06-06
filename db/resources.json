@@ -1,5 +1,5 @@
 {
-"count": 1074,
+"count": 1049,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1039,16 +1039,6 @@
         "url": "https://blisk.io/"
     },
     {
-        "name": "BlogBud AI",
-        "categories": [
-            "AI",
-            "Writing",
-            "Blog"
-        ],
-        "description": "Generate SEO-optimized blog posts at scale",
-        "url": "https://blogbud.ai/"
-    },
-    {
         "name": "BlogFox",
         "description": "Generate impressive blogs from a Youtube video or SEO keywords at scale.",
         "categories": [
@@ -1246,14 +1236,6 @@
             "visual designer"
         ],
         "url": "https://www.brainboard.co/"
-    },
-    {
-        "name": "Branition Colors",
-        "categories": [
-            "Color"
-        ],
-        "description": "Hand-curated collection of color palettes best fitted for branding.",
-        "url": "https://branition.com/colors"
     },
     {
         "name": "Brave",
@@ -3623,24 +3605,6 @@
         ]
     },
     {
-        "name": "Easyreadme",
-        "categories": [
-            "AI",
-            "Productivity",
-            "Editor"
-        ],
-        "description": "Easyreadme helps you simplify README creation and generate visually stunning ones with the help of AI and elegant pre-designed templates.",
-        "url": "https://www.easyreadme.app",
-        "keywords": [
-            "ai",
-            "readme",
-            "documentation",
-            "markdown",
-            "editor",
-            "templates"
-        ]
-    },
-    {
         "name": "Eclipse",
         "categories": [
             "Editor",
@@ -3818,14 +3782,6 @@
         "url": "https://epicreact.dev/"
     },
     {
-        "name": "Error 404 Illustrations",
-        "categories": [
-            "Illustration"
-        ],
-        "description": "Make a unique journey through 404 error pages on your website. Use these illustrations that describe better than words.",
-        "url": "https://error404.fun/"
-    },
-    {
         "name": "Escrow",
         "categories": [
             "Domain"
@@ -3939,15 +3895,6 @@
         ],
         "description": "F5Bot is a free service that emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. Use it to monitor your brand, your projects, or just topics that you're interested in.",
         "url": "https://f5bot.com/"
-    },
-    {
-        "name": "Fake Img",
-        "categories": [
-            "Editor",
-            "Image"
-        ],
-        "description": "A little tool that generates placeholder images with an URL. Choose the size, the colors, even the text.",
-        "url": "https://fakeimg.pl/"
     },
     {
         "name": "Famewall",
@@ -4826,28 +4773,6 @@
         ]
     },
     {
-        "name": "Fusion",
-        "categories": [
-            "API Building"
-        ],
-        "description": "Fusion is the \"Notion-like\" API client. Modular API design, testing & collaboration for the entire API lifecycle. Available as SaaS and self hosted.",
-        "url": "https://apyhub.com/product/fusion",
-        "keywords": [
-            "API testing",
-            "API design",
-            "API collaboration",
-            "API documentation"
-        ]
-    },
-    {
-        "name": "FusionCharts",
-        "categories": [
-            "Programming"
-        ],
-        "description": "JavaScript charts for web and mobile apps. 95+ chart types, 1400+ maps and 20+ business dashboards with pre-built themes for any business use-case. Build fast, responsive and highly customizable data visualizations trusted by over 28,000 customers and 750,000 developers worldwide...",
-        "url": "https://www.fusioncharts.com/"
-    },
-    {
         "name": "Gatsby",
         "categories": [
             "Programming"
@@ -5041,22 +4966,6 @@
         ],
         "description": "Browse the most comprehensive list of online marketing strategies on the internet. Find the Social Media and Search Engine strategies of each company.",
         "url": "https://www.gliesess.com/online-marketing-strategies"
-    },
-    {
-        "name": "Global Sites AI",
-        "categories": [
-            "SEO",
-            "AI"
-        ],
-        "description": "Create multilingual static sites effortlessly with Global Sites AI.",
-        "url": "https://www.globalsites.ai/",
-        "keywords": [
-            "SEO",
-            "Multilingual",
-            "Translator",
-            "SEO Optimization",
-            "Multilingual"
-        ]
     },
     {
         "name": "GoatCounter",
@@ -6147,14 +6056,6 @@
         "url": "https://isecjobs.com/"
     },
     {
-        "name": "Isometriclove",
-        "description": "Cute isometric objects for your design.",
-        "categories": [
-            "Illustration"
-        ],
-        "url": "https://isometriclove.com/"
-    },
-    {
         "name": "Jam",
         "categories": [
             "Icon"
@@ -6179,21 +6080,6 @@
         ],
         "description": "An email update on the evolving JAMstack ecosystem.",
         "url": "https://jamstack.email/"
-    },
-    {
-        "name": "JavaGuide",
-        "categories": [
-            "Blog",
-            "Interview",
-            "Learn"
-        ],
-        "description": "JavaGuide is a comprehensive platform designed to help Java programmers and architects master core concepts. ",
-        "url": "https://javaguide.net/",
-        "keywords": [
-            "Java",
-            "JavaGuide",
-            "interview"
-        ]
     },
     {
         "name": "JavaScript Developer Jobs",
@@ -7977,24 +7863,6 @@
         "url": "https://okjob.io/"
     },
     {
-        "name": "Omnigen",
-        "categories": [
-            "Marketing",
-            "AI",
-            "Productivity"
-        ],
-        "description": "Marketing and growth platform focused on outreach",
-        "url": "https://omnigen.co",
-        "keywords": [
-            "Marketing",
-            "AI",
-            "Productivity",
-            "Outreach",
-            "Growth",
-            "Influencers"
-        ]
-    },
-    {
         "name": "One Page Love",
         "categories": [
             "Design",
@@ -8167,14 +8035,6 @@
         "url": "https://www.optimizeimages.com"
     },
     {
-        "name": "Orbit",
-        "categories": [
-            "Marketing"
-        ],
-        "description": "Orbit is the community experience platform for developers, helping organizations build enthusiastic communities of technology adopters.",
-        "url": "https://orbit.love/"
-    },
-    {
         "name": "Orion",
         "categories": [
             "Icon"
@@ -8205,35 +8065,6 @@
         ],
         "description": "PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster.",
         "url": "https://developers.google.com/speed/pagespeed/insights/"
-    },
-    {
-        "name": "Palette List",
-        "categories": [
-            "Color"
-        ],
-        "description": "Palette List is a dynamic palette generator.",
-        "keywords": [
-            "palette",
-            "colors",
-            "designer tools",
-            "developer tools",
-            "hex",
-            "rgb"
-        ],
-        "url": "https://www.palettelist.com/"
-    },
-    {
-        "name": "Panem",
-        "description": "AI Powered SaaS Spend Management",
-        "categories": [
-            "Productivity",
-            "Startup"
-        ],
-        "url": "https://panem.co",
-        "keywords": [
-            "fintech",
-            "finance"
-        ]
     },
     {
         "name": "PassVult",
@@ -8575,20 +8406,6 @@
         "url": "https://www.postgresql.org/"
     },
     {
-        "name": "Postlyy",
-        "categories": [
-            "AI",
-            "Productivity"
-        ],
-        "description": "All in one platform to create (WITH AI), schedule, and analyze content on X and LinkedIn",
-        "url": "https://postlyy.com/",
-        "keywords": [
-            "ai",
-            "social media",
-            "content creation"
-        ]
-    },
-    {
         "name": "Postman",
         "categories": [
             "API Building"
@@ -8730,22 +8547,6 @@
             "artificial intelligence"
         ],
         "url": "https://projectlearn.io/"
-    },
-    {
-        "name": "ProtoUI",
-        "description": "ProtoUI generates responsive TailwindCSS code + UI in seconds.",
-        "categories": [
-            "AI",
-            "Design",
-            "Code Generator"
-        ],
-        "url": "https://protoui.dev",
-        "keywords": [
-            "Tailwind",
-            "frontend",
-            "AI",
-            "responsive ui"
-        ]
     },
     {
         "name": "Proxed.AI",
@@ -10054,14 +9855,6 @@
         "url": "https://sidebar.io/"
     },
     {
-        "name": "Sidebird",
-        "categories": [
-            "Social Media"
-        ],
-        "description": "Stop chasing Twitter followers. Get fans.",
-        "url": "https://www.sidebird.io/"
-    },
-    {
         "name": "sigma.js",
         "categories": [
             "Library",
@@ -10230,14 +10023,6 @@
         ],
         "description": "Join us as we share what it's like to build and launch a bootstrapped startup while working for yourself full-time. Benedikt is working on Userlist with two other co-founders and Brian is running solo on a product to combat loneliness on remote teams.",
         "url": "https://www.slowandsteadypodcast.com/"
-    },
-    {
-        "name": "Smash",
-        "categories": [
-            "Illustration"
-        ],
-        "description": "Changing and overlapping them, you can quickly illustrate an idea of your startup.",
-        "url": "https://usesmash.com/"
     },
     {
         "name": "Smashicons",
@@ -11061,20 +10846,6 @@
         "url": "https://techjobsforgood.com/"
     },
     {
-        "name": "Tech with Marko",
-        "categories": [
-            "Newsletter"
-        ],
-        "description": "Useful tech tips, directly to your inbox.",
-        "url": "https://techwithmarko.com/",
-        "keywords": [
-            "AI",
-            "Programming",
-            "Newsletter",
-            "Content Creation"
-        ]
-    },
-    {
         "name": "TechCrunch",
         "categories": [
             "Blog"
@@ -11331,35 +11102,6 @@
         "description": "Black-belt your web skills. Learn JavaScript, CSS, Node.js, React, Vue.js, Firebase, HTML & more.",
         "keywords": [
             "html css javascript tutorials \"web design\" \"web development\" development \"front-end development\" wordpress mvc \"responsive design\" \"beginner html\" \"beginner ..."
-        ]
-    },
-    {
-        "name": "The PR Creator",
-        "categories": [
-            "Marketing"
-        ],
-        "description": "Tool that creates custom press releases and includes a comment section for the users",
-        "url": "https://theprcreator.com/",
-        "keywords": [
-            "productivity",
-            "pr",
-            "SaaS",
-            "Artificial Intelligence"
-        ]
-    },
-    {
-        "name": "The Ultimate Guide to React Native Optimization",
-        "categories": [
-            "Book",
-            "Programming"
-        ],
-        "description": "This Guide is comprehensive source of knowledge on the best tools, tips, and tactics for optimizing your React Native app.",
-        "url": "https://www.callstack.com/campaigns/download-the-ultimate-guide-to-react-native-optimization",
-        "keywords": [
-            "react-native",
-            "optimization",
-            "callstack",
-            "guide"
         ]
     },
     {
@@ -12046,14 +11788,6 @@
         "url": "https://usehooks.com/"
     },
     {
-        "name": "UserBooster",
-        "categories": [
-            "Marketing"
-        ],
-        "description": "UserBooster is a Notion template that helps startups to get their first users and build their launch strategy",
-        "url": "https://userbooster.co"
-    },
-    {
         "name": "UtilPortal",
         "categories": [
             "SEO",
@@ -12662,15 +12396,6 @@
         "url": "https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en"
     },
     {
-        "name": "Where to host my app?",
-        "categories": [
-            "Hosting",
-            "Cloud Computing"
-        ],
-        "description": "Find the best place to host your application based on its tech stack.",
-        "url": "https://wheretohostmy.app/"
-    },
-    {
         "name": "Windframe",
         "categories": [
             "Website Builder"
@@ -12860,39 +12585,12 @@
         "url": "https://thebootstrappedfounder.com/zero-to-sold/"
     },
     {
-        "name": "Zerotheme",
-        "categories": [
-            "Template"
-        ],
-        "description": "Html5 Website Templates designed by #Mik. Free download all templates at Zerotheme : responsive templates, bootstrap themes, ecommerce themes, ...",
-        "url": "https://www.zerotheme.com/"
-    },
-    {
         "name": "Zety",
         "categories": [
             "Resume"
         ],
         "description": "Use this online resume maker to build your resume fast and easy. Get expert advice as you write. Download in minutes and start getting interviews.",
         "url": "https://zety.com/"
-    },
-    {
-        "name": "ZTO - NextJS SaaS Starter Kit",
-        "categories": [
-            "Startup",
-            "Template"
-        ],
-        "description": "ZTO SaaS starter kit: Rapid deployment, scalable architecture, and essential features for MVPs and full-scale projects. Launch your SaaS faster.",
-        "url": "https://zto.dev/",
-        "keywords": [
-            "nextjs",
-            "saas",
-            "starter kit",
-            "template",
-            "boilerplate",
-            "tailwind",
-            "shadcn",
-            "typescript"
-        ]
     },
     {
         "name": "Zuzia.app",
