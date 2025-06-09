@@ -676,6 +676,13 @@ export const resources: Resource[] = [
         url: 'https://www.getstark.co/',
     },
     {
+        name: 'StarOps',
+        description: 'AI Platform Engineer',
+        categories: ['Cloud Computing', 'Tooling', 'AI'],
+        url: 'https://ingenimax.ai',
+        keywords: ['devops tool', 'mlops tool', 'kubernetes', 'cloud-native stack', 'ai agent', 'cloud infrastructure'],
+    },
+    {
         name: 'Start Bootstrap',
         categories: ['Template', 'Code Snippet'],
         description:
