@@ -129,6 +129,13 @@ export const resources: Resource[] = [
         url: 'https://opensource.builders/',
     },
     {
+        name: 'Open Source Alternatives',
+        description: 'Handpicked Open Source Alternatives to Paid Softwares',
+        categories: ['Open Source', 'Productivity', 'Tooling'],
+        url: 'https://www.opensourcealternatives.to',
+        keywords: ['directory', 'open source', 'marketing tools', 'development tools', 'alternatives'],
+    },
+    {
         name: 'Opera',
         categories: ['Browser'],
         description:
