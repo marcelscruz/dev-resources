@@ -484,7 +484,6 @@ export const resources: Resource[] = [
         url: 'https://typethinkai.com/',
         keywords: ['ai assistant', 'llm frontend', 'multi model llms', 'chatbot'],
     },
-
     {
         name: 'TypeLit',
         categories: ['Typing'],
@@ -492,6 +491,14 @@ export const resources: Resource[] = [
         url: 'https://www.typelit.io',
 
         keywords: ['typing'],
+    },  
+    {
+        name: 'Typersguild',
+        categories: ['Typing'],
+        description: 'Master typing by typing out classic literature and wikipedia articles',
+        url: 'https://typersguild.com',
+
+        keywords: ['typing', 'touch typing', 'type books', 'type wikipedia'],
     },
     {
         name: 'TypingBeast',
