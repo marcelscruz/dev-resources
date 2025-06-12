@@ -192,6 +192,12 @@ export const resources: Resource[] = [
         url: 'https://ai-text-humanizer.com/',
     },
     {
+        name: 'AITube',
+        categories: ['AI', 'AI Writing', 'Writing Content'],
+        description: 'Free AI-powered tools to generate text, images and more. Create content effortlessly with artificial intelligence.',
+        url: 'https://aitu.be/',   
+    },
+    {
         name: 'ally.js',
         categories: ['Accessibility', 'Library'],
         description:
