@@ -102,6 +102,13 @@ export const resources: Resource[] = [
         url: 'https://github.com/codedthemes/berry-free-react-admin-template/',
     },
     {
+        name: 'Best AI Agents Directory',
+        description: 'Curated Collection of the Best AI Agents to Boost Your Workflow',
+        categories: ['Productivity', 'AI', 'Startup'],
+        url: 'https://www.bestaiagents.directory/',
+        keywords: ['directory', 'ai agents', 'ai tools', 'ai automation', 'ai assistant'],
+    },
+    {
         name: 'Best Directories',
         categories: ['Tooling', 'SEO'],
         description: 'Discover the best directories in BestDirectories and launch your product with ease.',
