@@ -1,5 +1,5 @@
 {
-"count": 1057,
+"count": 1058,
 "data": [
     {
         "name": "1001 Fonts",
@@ -12129,6 +12129,24 @@
         ],
         "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.",
         "url": "https://code.visualstudio.com/"
+    },
+    {
+        "name": "Vitest",
+        "categories": [
+            "Testing"
+        ],
+        "description": "A blazing fast unit test framework powered by Vite. Provides instant startup, native ESM support, TypeScript support, and first-class DX for modern web development.",
+        "url": "https://vitest.dev/",
+        "keywords": [
+            "unit testing",
+            "vite",
+            "vitest",
+            "test runner",
+            "javascript",
+            "typescript",
+            "esm",
+            "fast testing"
+        ]
     },
     {
         "name": "Voiden",
