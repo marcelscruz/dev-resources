@@ -330,6 +330,13 @@ export const resources: Resource[] = [
         url: 'https://projectlearn.io/',
     },
     {
+        name: 'Promptly',
+        description: 'Discover, create and share powerful prompts',
+        categories: ['Productivity', 'AI', 'Library'],
+        url: 'https://searchpromptly.com/',
+        keywords: ['community', 'social network', 'social', 'prompt generator'],
+    },
+    {
         name: 'Proxed.AI',
         description:
             'Proxed.AI is a secure API proxy for iOS apps that protects AI API keys, prevents unauthorized access, and verifies real devices using Apple’s DeviceCheck.',
