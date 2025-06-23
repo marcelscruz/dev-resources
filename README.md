@@ -690,6 +690,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://skim.page&sz=128" width="16" /> | [SkimAI](https://skim.page) | The ultimate AI copilot for your email inbox | email, assistant, skimai, email copilot, email ai, automatic draft, autoamtic label, smart inbox |
  <img src="https://www.google.com/s2/favicons?domain=https://truelist.io/&sz=128" width="16" /> | [Truelist](https://truelist.io/) | Truelist is a subscription-based email verification platform that provides unlimited email validation for sales and marketing lists. | developer tool, email validation, sales prospecting, email deliverability |
  <img src="https://www.google.com/s2/favicons?domain=https://zenlogin.co&sz=128" width="16" /> | [Zenlogin](https://zenlogin.co) | Security API which uses user agent, geolocation and AI and Machine Learning signals to notify your users when a suspicious login occurs. Sends out those familiar "We notified a new login on your accou... | threat detection, suspicious login detection, email notifications, emails, ai, legal |
+ <img src="https://www.google.com/s2/favicons?domain=https://zyntra.app/&sz=128" width="16" /> | [Zyntra](https://zyntra.app/) | Unlimited e-mail inboxes with API/UI access. Catch OTPs, reset links, and sign-up emails in your test flows. | email, API, testing, qa |
 
 **[⬆ Back to Index](#index)**
 

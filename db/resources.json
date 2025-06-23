@@ -1,5 +1,5 @@
 {
-"count": 1054,
+"count": 1055,
 "data": [
     {
         "name": "1001 Fonts",
@@ -12682,6 +12682,20 @@
             "server cron tracking",
             "linux automation",
             "laravel forge tools"
+        ]
+    },
+    {
+        "name": "Zyntra",
+        "categories": [
+            "Email"
+        ],
+        "description": "Unlimited e-mail inboxes with API/UI access. Catch OTPs, reset links, and sign-up emails in your test flows.",
+        "url": "https://zyntra.app/",
+        "keywords": [
+            "email",
+            "API",
+            "testing",
+            "qa"
         ]
     },
     {

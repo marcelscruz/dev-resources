@@ -51,7 +51,7 @@ export const resources: Resource[] = [
             'Create a website or an online store easily with Zyro website builder. Choose from hundreds of designer-made templates. Launch your website in minutes.',
         url: 'https://zyro.com//',
     },
-        {
+    {
         name: 'Zyntra',
         categories: ['Email'],
         description:
