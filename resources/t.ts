@@ -491,7 +491,7 @@ export const resources: Resource[] = [
         url: 'https://www.typelit.io',
 
         keywords: ['typing'],
-    },  
+    },
     {
         name: 'Typersguild',
         categories: ['Typing'],

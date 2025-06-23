@@ -1,5 +1,5 @@
 {
-"count": 1058,
+"count": 1059,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11525,6 +11525,20 @@
         "url": "https://www.typelit.io",
         "keywords": [
             "typing"
+        ]
+    },
+    {
+        "name": "Typersguild",
+        "categories": [
+            "Typing"
+        ],
+        "description": "Master typing by typing out classic literature and wikipedia articles",
+        "url": "https://typersguild.com",
+        "keywords": [
+            "typing",
+            "touch typing",
+            "type books",
+            "type wikipedia"
         ]
     },
     {
