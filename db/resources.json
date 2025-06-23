@@ -1,5 +1,5 @@
 {
-"count": 1051,
+"count": 1052,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7425,6 +7425,23 @@
         ],
         "description": "Drag and drop website builder. Create awesome responsive websites. Easy & fast - No coding! 2500+ Templates. Free for commercial use.",
         "url": "https://mobirise.com/"
+    },
+    {
+        "name": "Mocha",
+        "description": "AI app builder",
+        "categories": [
+            "AI",
+            "Website Builder",
+            "Productivity"
+        ],
+        "url": "https://getmocha.com",
+        "keywords": [
+            "ai app builder",
+            "ai website builder",
+            "no code",
+            "website builder",
+            "vibe coding"
+        ]
     },
     {
         "name": "Mocha",
