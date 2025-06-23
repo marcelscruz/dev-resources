@@ -1,5 +1,5 @@
 {
-"count": 1053,
+"count": 1054,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8577,6 +8577,22 @@
             "artificial intelligence"
         ],
         "url": "https://projectlearn.io/"
+    },
+    {
+        "name": "Promptly",
+        "description": "Discover, create and share powerful prompts",
+        "categories": [
+            "Productivity",
+            "AI",
+            "Library"
+        ],
+        "url": "https://searchpromptly.com/",
+        "keywords": [
+            "community",
+            "social network",
+            "social",
+            "prompt generator"
+        ]
     },
     {
         "name": "Proxed.AI",
