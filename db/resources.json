@@ -1,5 +1,5 @@
 {
-"count": 1056,
+"count": 1057,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4812,6 +4812,22 @@
             "fast"
         ],
         "url": "https://www.gatsbyjs.com/"
+    },
+    {
+        "name": "Gauge",
+        "description": "Gauge helps your company show up in AI answers",
+        "categories": [
+            "Marketing",
+            "SEO",
+            "AI"
+        ],
+        "url": "https://withgauge.com/",
+        "keywords": [
+            "digital marketing",
+            "seo",
+            "ai seo",
+            "llmo"
+        ]
     },
     {
         "name": "Gcore Basic",
