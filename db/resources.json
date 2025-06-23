@@ -1,5 +1,5 @@
 {
-"count": 1059,
+"count": 1060,
 "data": [
     {
         "name": "1001 Fonts",
@@ -297,6 +297,22 @@
             "blogs"
         ],
         "url": "https://aiagentslive.com"
+    },
+    {
+        "name": "AI Alternative",
+        "description": "Discover the best AI tools and their alternatives",
+        "categories": [
+            "AI",
+            "Tooling",
+            "Productivity"
+        ],
+        "url": "https://aialternative.co/",
+        "keywords": [
+            "ai directory",
+            "ai alternatives",
+            "ai tools directory",
+            "startup tools"
+        ]
     },
     {
         "name": "AI Best Tools",
