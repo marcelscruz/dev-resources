@@ -1,5 +1,5 @@
 {
-"count": 1050,
+"count": 1051,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3442,6 +3442,19 @@
         "keywords": [
             "doodles",
             "scribbles"
+        ]
+    },
+    {
+        "name": "Dotnet Gig",
+        "categories": [
+            "Job"
+        ],
+        "description": "Find .NET developer jobs",
+        "url": "https://dotnetgig.com/",
+        "keywords": [
+            "dotnet",
+            "remote",
+            "jobs"
         ]
     },
     {
