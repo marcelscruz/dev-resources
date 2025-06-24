@@ -240,6 +240,14 @@ export const resources: Resource[] = [
         url: 'https://librestock.com/',
     },
     {
+        name: 'Lightpost',
+        categories: ['AI', 'Blog', 'Marketing'],
+        description:
+            'Fully automate or co-create your blogs and posts with an A.I. trained on your business. Plan, design, write and upload anywhere, while keeping full control.',
+        url: 'https://lightpost.ai',
+        keywords: ['AI Marketing Automation', 'AI Blog Writer', 'AI Social Media Manager'],
+    },
+    {
         name: 'Lightest',
         categories: ['Performance'],
         description: 'Web performance visualization and comparison tool. Analyze website loading against competitors.',
