@@ -422,6 +422,13 @@ export const resources: Resource[] = [
         url: 'https://www.slowandsteadypodcast.com/',
     },
     {
+        name: 'Smartshort',
+        description: 'Text to video',
+        categories: ['Video', 'AI', 'Marketing'],
+        url: 'https://smartshort.co',
+        keywords: ['video generator', 'tiktok generator', 'short form content generator', 'text to short'],
+    },
+    {
         name: 'Smashicons',
         categories: ['Icon'],
         description:
