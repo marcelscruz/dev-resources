@@ -247,6 +247,13 @@ export const resources: Resource[] = [
         keywords: ['writer', 'ai', 'article', 'marketing'],
     },
     {
+        name: 'Blurbackground AI',
+        description: 'Blurbackground.AI is a free online tool to edit background swiftly.',
+        categories: ['AI', 'Image', 'Design'],
+        url: 'https://blurbackground.ai/',
+        keywords: ['ai design', 'blur background', 'background remover', 'change background'],
+    },
+    {
         name: 'Blush',
         categories: ['Illustration'],
         description:
