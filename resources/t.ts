@@ -516,4 +516,12 @@ export const resources: Resource[] = [
         keywords: ['typing', 'typing tutorial', 'free touch typing tutorial', 'touch typing', 'typing game'],
         url: 'https://www.typingclub.com/',
     },
+    {
+        name: 'TradingLens',
+        categories: ['AI'],
+        description:
+            "Revolutionary AI-powered stock analysis platform delivering institutional-grade investment research with proven superior returns to retail investors.",
+        keywords: ['AI stock analysis', 'AI investing platform'],
+        url: 'https://www.tradinglens.ai',
+    },
 ]
