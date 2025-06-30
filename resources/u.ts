@@ -185,6 +185,13 @@ export const resources: Resource[] = [
         url: 'https://up-for-grabs.net/#/',
     },
     {
+        name: 'Url Opener',
+        description: 'Open multiple urls with one click',
+        categories: ['Extension', 'Productivity', 'Browser'],
+        url: 'https://chromewebstore.google.com/detail/url-opener/bebeelnjlafedkhklobpglpelcmidaee?hl=en',
+        keywords: ['url opener', 'open multiple urls', 'multiple url opener​', 'link opener'],
+    },
+    {
         name: 'Use The Keyboard',
         categories: ['Productivity'],
         description: 'A collection of keyboard shortcuts for Mac apps, Windows programs, and a variety of websites.',
