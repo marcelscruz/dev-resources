@@ -106,7 +106,7 @@ export const resources: Resource[] = [
             'Welcome to JS Remotely, the job board with all JavaScript remote jobs in the world. More than 200 remote Node.js, Meteor, Angular, React and Electron jobs are waiting for you. Find your perfect remote job now!',
         categories: ['Job', 'Remote'],
         url: 'https://jsremotely.com/',
-        keywords: ['javascript jobs', 'js jobs', 'remote jobs', 'remote', 'jobs', 'react jobs', 'angular jobs', 'vue jobs', '']
+        keywords: ['javascript jobs', 'js jobs', 'remote jobs', 'remote', 'jobs', 'react jobs', 'angular jobs', 'vue jobs']
     },
     {
         name: 'JSbooks',

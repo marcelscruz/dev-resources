@@ -42,7 +42,7 @@ export const resources: Resource[] = [
             'Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.',
         categories: ['Design', 'Prototyping', 'UI'],
         url: 'https://www.figma.com/',
-        keywords: ['design', 'design tools', 'ux', 'ui', 'user experience design', 'collaboration', 'design editor', 'constraints', 'vectors', 'vector editor', 'svg', 'user interface design', '']
+        keywords: ['design', 'design tools', 'ux', 'ui', 'user experience design', 'collaboration', 'design editor', 'constraints', 'vectors', 'vector editor', 'svg', 'user interface design']
     },
     {
         name: 'FigmaCrush',
@@ -93,7 +93,7 @@ export const resources: Resource[] = [
             'High-intensity ⚡ code tutorials to help you build & ship your app faster. Subscribe for new videos every week covering intermediate to advanced lessons about JavaScript, Flutter, Firebase, and modern app development. The original home of #100SecondsOfCode and #CodeThisNotThat. Created by Jeff Delaney.',
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/c/Fireship/featured',
-        keywords: ['#CodeThisNotThat', '#100SecondsOfCode', 'javaScript', 'flutter', 'firebase', 'coding tutorials', 'Jeff Delaney', 'development', 'angular', 'git', 'nextJS', 'developer productivity', 'top N lists', '']
+        keywords: ['#CodeThisNotThat', '#100SecondsOfCode', 'javaScript', 'flutter', 'firebase', 'coding tutorials', 'Jeff Delaney', 'development', 'angular', 'git', 'nextJS', 'developer productivity', 'top N lists']
     },
     {
         name: 'Firestore',
@@ -157,7 +157,7 @@ export const resources: Resource[] = [
             'The #1 job site to find hand-screened, remote work from home & flexible jobs since 2007. Find a better way to work in 50+ career categories today!',
         categories: ['Job', 'Remote'],
         url: 'https://www.flexjobs.com/',
-        keywords: ['remote jobs', 'remote work', 'telecommuting jobs', 'telecommute jobs', 'part-time jobs', 'freelance jobs', 'flexible jobs', 'flexible schedule jobs', '']
+        keywords: ['remote jobs', 'remote work', 'telecommuting jobs', 'telecommute jobs', 'part-time jobs', 'freelance jobs', 'flexible jobs', 'flexible schedule jobs']
     },
     {
         name: 'Flowbite',
@@ -188,7 +188,7 @@ export const resources: Resource[] = [
             'The world’s most popular and easiest to use icon set just got an upgrade. More icons. More styles. More Options.',
         categories: ['Icon'],
         url: 'https://fontawesome.com',
-        keywords: ['icons', 'vector icons', 'svg icons', 'free icons', 'icon font', 'webfont', 'desktop icons', 'svg', 'font awesome', 'font awesome free', 'font awesome pro', '']
+        keywords: ['icons', 'vector icons', 'svg icons', 'free icons', 'icon font', 'webfont', 'desktop icons', 'svg', 'font awesome', 'font awesome free', 'font awesome pro']
     },
     {
         name: 'Font Get',
@@ -227,7 +227,7 @@ export const resources: Resource[] = [
             'Handpicked free fonts for graphic designers with commercial-use licenses.',
         categories: ['Font'],
         url: 'https://www.fontsquirrel.com/',
-        keywords: ['free fonts', 'handwriting fonts', 'calligraphy free fonts', 'designer fonts', 'serif  fonts', 'sans serif  fonts', 'grunge  fonts', 'script fonts', 'typewriter fonts', '']
+        keywords: ['free fonts', 'handwriting fonts', 'calligraphy free fonts', 'designer fonts', 'serif  fonts', 'sans serif  fonts', 'grunge  fonts', 'script fonts', 'typewriter fonts']
     },
     {
         name: 'Fontello',
@@ -250,7 +250,7 @@ export const resources: Resource[] = [
             'FontPair is a typography tool that inspires the creative community to design better.',
         categories: ['Font'],
         url: 'https://fontpair.co/',
-        keywords: ['FontPair', 'Font Pair', 'Google Fonts', 'Google Font combinations', 'Google Font pairs', 'beautiful Google Fonts', 'typography', 'fonts', 'typefaces', '']
+        keywords: ['FontPair', 'Font Pair', 'Google Fonts', 'Google Font combinations', 'Google Font pairs', 'beautiful Google Fonts', 'typography', 'fonts', 'typefaces']
     },
     {
         name: 'Fonts In Use',
@@ -265,7 +265,7 @@ export const resources: Resource[] = [
             'Fonts2u offers a large collection of free fonts. Download free fonts for Windows and Macintosh.',
         categories: ['Font'],
         url: 'https://fonts2u.com/',
-        keywords: ['free fonts', 'download fonts', 'fonts', 'free', 'font', 'typefaces', 'typography', 'typeface', 'true type', 'truetype fonts', 'opentype', 'opentype fonts', 'windows', 'windows fonts', 'macintosh', 'mac fonts', 'macintosh fonts', '']
+        keywords: ['free fonts', 'download fonts', 'fonts', 'free', 'font', 'typefaces', 'typography', 'typeface', 'true type', 'truetype fonts', 'opentype', 'opentype fonts', 'windows', 'windows fonts', 'macintosh', 'mac fonts', 'macintosh fonts']
     },
     {
         name: 'FontSpark',
@@ -310,7 +310,7 @@ export const resources: Resource[] = [
             'Stop searching, start building. Free resources for developers.',
         categories: ['Open Source'],
         url: 'https://freeforgeeks.jpdiaz.dev',
-        keywords: ['free', 'javascript', 'website', 'web', 'development', 'course', 'courses', 'html', 'css', 'react', 'redux', 'api', 'frontend', 'backend', 'devops', 'devsecops', 'career development', 'learn', 'tutorial', 'programming', 'open source', '']
+        keywords: ['free', 'javascript', 'website', 'web', 'development', 'course', 'courses', 'html', 'css', 'react', 'redux', 'api', 'frontend', 'backend', 'devops', 'devsecops', 'career development', 'learn', 'tutorial', 'programming', 'open source']
     },
     {
         name: 'freeCodeCamp',
@@ -318,7 +318,7 @@ export const resources: Resource[] = [
             'Learn to code at home. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including Google, Apple, Amazon, and Microsoft.',
         categories: ['Learn', 'Programming'],
         url: 'https://www.freecodecamp.org/',
-        keywords: ['javascript', 'js', 'website', 'web', 'development', 'free', 'code', 'camp', 'course', 'courses', 'html', 'css', 'react', 'redux', 'api', 'front', 'back', 'end', 'learn', 'tutorial', 'programming', '']
+        keywords: ['javascript', 'js', 'website', 'web', 'development', 'free', 'code', 'camp', 'course', 'courses', 'html', 'css', 'react', 'redux', 'api', 'front', 'back', 'end', 'learn', 'tutorial', 'programming']
     },
     {
         name: 'FreeForDev',
@@ -326,7 +326,7 @@ export const resources: Resource[] = [
             'an Awesome List of Tools available for Free to Enhance your Productivity.',
         categories: ['Open Source'],
         url: 'https://free-for.dev/',
-        keywords: ['free', 'javascript', 'website', 'web', 'development', 'course', 'courses', 'html', 'css', 'react', 'api', 'frontend', 'backend', 'learn', 'programming', 'open source', '']
+        keywords: ['free', 'javascript', 'website', 'web', 'development', 'course', 'courses', 'html', 'css', 'react', 'api', 'frontend', 'backend', 'learn', 'programming', 'open source']
     },
     {
         name: 'FreeHTML5',
@@ -341,7 +341,7 @@ export const resources: Resource[] = [
             'Freeicons is  a free platform for download vector icons in SVG, PNG, EPS, AI and PSD format. Here You',
         categories: ['Icon'],
         url: 'https://freeicons.io/',
-        keywords: ['vector icons', 'download free icons', 'free icons', 'free vector icons', 'free icons for commercial use', 'free svg icons', 'free eps and ai icons', 'free psd icons', 'windows 8 icons', 'metro icons', 'iphone tab bar icons', 'android icons', 'material icons', 'monochrome icons', 'icon pack', 'windows 10 icons', 'pack', 'icons for iOS 11', 'iPhone icons', 'iPad icons', 'material icons', 'office style icons', '']
+        keywords: ['vector icons', 'download free icons', 'free icons', 'free vector icons', 'free icons for commercial use', 'free svg icons', 'free eps and ai icons', 'free psd icons', 'windows 8 icons', 'metro icons', 'iphone tab bar icons', 'android icons', 'material icons', 'monochrome icons', 'icon pack', 'windows 10 icons', 'pack', 'icons for iOS 11', 'iPhone icons', 'iPad icons', 'material icons', 'office style icons']
     },
     {
         name: 'Freelancer',
@@ -379,7 +379,7 @@ export const resources: Resource[] = [
             'Find any tools or services that free for developer to use.',
         categories: ['Open Source'],
         url: 'https://freestuff.dev/',
-        keywords: ['database', 'api', 'awesome-list', 'productivity', 'learning-resource', 'asset', 'hosting', 'storage', 'serverless', 'authentication', 'security', 'playground', 'image', 'monitoring', '']
+        keywords: ['database', 'api', 'awesome-list', 'productivity', 'learning-resource', 'asset', 'hosting', 'storage', 'serverless', 'authentication', 'security', 'playground', 'image', 'monitoring']
     },
     {
         name: 'Freeter',
@@ -483,7 +483,7 @@ export const resources: Resource[] = [
             'I’m Mattias Petter Johansson, mpj for short. I’ve been a full-time programmer for over twenty (!) years. Among others, I',
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q',
-        keywords: ['javascript web development programming software development technology computer science engineering developer creativity productivity', '']
+        keywords: ['javascript web development programming software development technology computer science engineering developer creativity productivity']
     },
     {
         name: 'Fuselio',
@@ -491,6 +491,6 @@ export const resources: Resource[] = [
             'Fuselio is a rapid MVP development platform for startups and SMEs, enabling the development of custom mobile and web applications in just 6 weeks. ',
         categories: ['Productivity'],
         url: 'https://www.fuselio.com/',
-        keywords: ['web development', 'programming', 'software development', 'technology', 'engineering', 'developer', 'Mobile Development', '']
+        keywords: ['web development', 'programming', 'software development', 'technology', 'engineering', 'developer', 'Mobile Development']
     }
 ]

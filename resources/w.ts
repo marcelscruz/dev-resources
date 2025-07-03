@@ -22,7 +22,7 @@ export const resources: Resource[] = [
             'W3Schools is a training website for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, C# and Java.',
         categories: ['Learn', 'Programming'],
         url: 'https://www.w3schools.com/',
-        keywords: ['HTML', 'CSS', 'JavaScript', 'DOM', 'jQuery', 'PHP', 'SQL', 'XML', 'Python', 'Java', 'Bootstrap', 'Web', 'W3CSS', 'W3C', 'tutorials', 'programming', 'development', 'training', 'learning', 'quiz', 'primer', 'lessons', 'reference', 'examples', 'source code', 'colors', 'demos', 'tips', 'w3c', '']
+        keywords: ['HTML', 'CSS', 'JavaScript', 'DOM', 'jQuery', 'PHP', 'SQL', 'XML', 'Python', 'Java', 'Bootstrap', 'Web', 'W3CSS', 'W3C', 'tutorials', 'programming', 'development', 'training', 'learning', 'quiz', 'primer', 'lessons', 'reference', 'examples', 'source code', 'colors', 'demos', 'tips', 'w3c']
     },
     {
         name: 'Wallaby.js',
@@ -235,7 +235,7 @@ export const resources: Resource[] = [
             'Remote jobs for digital working nomads. Start your telecommuting career and work remotely from home or places around the world.',
         categories: ['Job', 'Remote'],
         url: 'https://www.workingnomads.co/jobs',
-        keywords: ['remote jobs', 'telecommuting jobs', 'work from home jobs', 'remote', 'telecommuting', 'virtual', 'working nomads', '']
+        keywords: ['remote jobs', 'telecommuting jobs', 'work from home jobs', 'remote', 'telecommuting', 'virtual', 'working nomads']
     },
     {
         name: 'WP Foundry',

@@ -14,7 +14,7 @@ export const resources: Resource[] = [
             'Perform manual or automated cross browser testing on 2000+ browsers online. Deploy and scale faster with the most powerful cross browser testing tool online.',
         categories: ['Browser', 'Testing'],
         url: 'https://www.lambdatest.com/',
-        keywords: ['cross browser testing free', 'cross browser testing', 'cross browser testing tools', 'crossbrowser testing', 'cross browser testing online', 'browser testing tools', 'online browser testing tools', '']
+        keywords: ['cross browser testing free', 'cross browser testing', 'cross browser testing tools', 'crossbrowser testing', 'cross browser testing online', 'browser testing tools', 'online browser testing tools']
     },
     {
         name: 'Land-book',
@@ -51,7 +51,7 @@ export const resources: Resource[] = [
             'The best landing page design inspiration from around the web. Lapa Ninja is created to help designers find inspiration, learn and improve design skills. The contents are selected from the best designs, and daily updated.',
         categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://www.lapa.ninja/',
-        keywords: ['landing page example', 'landing page design inspiration', 'landing page design 2020', 'landing page design example', 'the best landing page design', 'landing page template', 'free landing page design', 'learn design', '']
+        keywords: ['landing page example', 'landing page design inspiration', 'landing page design 2020', 'landing page design example', 'the best landing page design', 'landing page template', 'free landing page design', 'learn design']
     },
     {
         name: 'Laradir',
@@ -59,7 +59,7 @@ export const resources: Resource[] = [
             'The biggest directory of Laravel engineers. Find your next role or gig. Laradir is a reverse job board, so teams reach out to you!',
         categories: ['Job', 'Freelance', 'Remote'],
         url: 'https://laradir.com/',
-        keywords: ['laravel developers', 'laravel freelancers', 'directory', 'collaborators', 'mentor', 'full-time', 'part-time', 'hybrid', 'remote', '']
+        keywords: ['laravel developers', 'laravel freelancers', 'directory', 'collaborators', 'mentor', 'full-time', 'part-time', 'hybrid', 'remote']
     },
     {
         name: 'Larajobs',
@@ -74,7 +74,7 @@ export const resources: Resource[] = [
             'The best Product Hunt alternatives for your next launch.',
         categories: ['Productivity', 'Marketing'],
         url: 'https://www.launchsquad.club',
-        keywords: ['Entrepreneurship', 'Collaboration', 'Startups', 'Growth Strategies', 'Community Support', 'Marketing', 'Project Management', '']
+        keywords: ['Entrepreneurship', 'Collaboration', 'Startups', 'Growth Strategies', 'Community Support', 'Marketing', 'Project Management']
     },
     {
         name: 'Layoutit Grid',
@@ -214,7 +214,7 @@ export const resources: Resource[] = [
             'Web performance visualization and comparison tool. Analyze website loading against competitors.',
         categories: ['Performance'],
         url: 'https://lightest.app',
-        keywords: ['web performance', 'website performance', 'website speed', 'website loading', 'website optimization', 'website analysis', '']
+        keywords: ['web performance', 'website performance', 'website speed', 'website loading', 'website optimization', 'website analysis']
     },
     {
         name: 'Lightpost',

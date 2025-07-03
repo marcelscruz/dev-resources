@@ -6,7 +6,7 @@
     "scripts": {
         "update-db": "ts-node utils/db/update-db.js",
         "update-readme": "ts-node utils/readme/update-readme.js",
-        "dev-order": "ts-node utils/order/order-resources.ts",
+        "dev-order": "node utils/order/resources-extractor.js",
         "prettier:format": "prettier --write \"**/*.{ts,js}\""
     },
     "dependencies": {

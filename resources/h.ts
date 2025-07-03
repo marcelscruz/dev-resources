@@ -156,7 +156,7 @@ export const resources: Resource[] = [
             'Highcharts - Interactive JavaScript charts for your web pages.',
         categories: ['Programming'],
         url: 'https://www.highcharts.com/',
-        keywords: ['highcharts', 'charts', 'javascript charts', 'ajax charts', 'plots', 'line charts', 'bar charts', 'pie charts', 'javascript plots', 'ajax plots', '']
+        keywords: ['highcharts', 'charts', 'javascript charts', 'ajax charts', 'plots', 'line charts', 'bar charts', 'pie charts', 'javascript plots', 'ajax plots']
     },
     {
         name: 'Himalayas',
@@ -201,7 +201,7 @@ export const resources: Resource[] = [
             'Helps you create requests faster, saving precious time on development.',
         categories: ['API Building'],
         url: 'https://hoppscotch.io/',
-        keywords: ['hoppscotch', 'hopp scotch', 'hoppscotch online', 'hoppscotch app', 'postwoman', 'postwoman chrome', 'postwoman online', 'postwoman for mac', 'postwoman app', 'postwoman for windows', 'postwoman google chrome', 'postwoman chrome app', 'get postwoman', 'postwoman web', 'postwoman android', 'postwoman app for chrome', 'postwoman mobile app', 'postwoman web app', 'api', 'request', 'testing', 'tool', 'rest', 'websocket', 'sse', 'graphql', 'socketio', '']
+        keywords: ['hoppscotch', 'hopp scotch', 'hoppscotch online', 'hoppscotch app', 'postwoman', 'postwoman chrome', 'postwoman online', 'postwoman for mac', 'postwoman app', 'postwoman for windows', 'postwoman google chrome', 'postwoman chrome app', 'get postwoman', 'postwoman web', 'postwoman android', 'postwoman app for chrome', 'postwoman mobile app', 'postwoman web app', 'api', 'request', 'testing', 'tool', 'rest', 'websocket', 'sse', 'graphql', 'socketio']
     },
     {
         name: 'Hostman',
@@ -216,7 +216,7 @@ export const resources: Resource[] = [
             'The Gateway to Advanced AI Chat and Expert AI Bots',
         categories: ['AI', 'Productivity'],
         url: 'https://www.hotbot.com/',
-        keywords: ['Claude', 'OpenAI', 'Chat GPT', 'AI Chat', 'AI Chat Bot', 'Googles Gemini', 'Metas Llama', 'Anthropic', 'Free AI chat', 'AI Search', '']
+        keywords: ['Claude', 'OpenAI', 'Chat GPT', 'AI Chat', 'AI Chat Bot', 'Googles Gemini', 'Metas Llama', 'Anthropic', 'Free AI chat', 'AI Search']
     },
     {
         name: 'HTML Reference',
@@ -283,6 +283,6 @@ export const resources: Resource[] = [
             'Type-safe feature flags, A/B testing, analytics and app configuration, with Git-style version control and local, synchronous, in-memory flag evaluation.',
         categories: ['Analytics', 'Tooling', 'Productivity'],
         url: 'https://www.hypertune.com/',
-        keywords: ['hypertune', 'feature flags', 'feature toggles', 'feature management', 'a/b testing', 'experimentation', 'analytics', 'product analytics', 'app configuration', 'cms', 'localization', 'internationalization', '']
+        keywords: ['hypertune', 'feature flags', 'feature toggles', 'feature management', 'a/b testing', 'experimentation', 'analytics', 'product analytics', 'app configuration', 'cms', 'localization', 'internationalization']
     }
 ]

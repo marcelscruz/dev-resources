@@ -38,7 +38,7 @@ export const resources: Resource[] = [
             'The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 375 open source projects, including runtimes, tools and frameworks.',
         categories: ['Editor', 'Extension'],
         url: 'https://www.eclipse.org/',
-        keywords: ['eclipse', 'project', 'plug-ins', 'plugins', 'java', 'ide', 'swt', 'refactoring', 'free java ide', 'tools', 'platform', 'open source', 'development environment', 'development', 'ide', '']
+        keywords: ['eclipse', 'project', 'plug-ins', 'plugins', 'java', 'ide', 'swt', 'refactoring', 'free java ide', 'tools', 'platform', 'open source', 'development environment', 'development', 'ide']
     },
     {
         name: 'ecomm.design',
@@ -50,7 +50,7 @@ export const resources: Resource[] = [
     {
         name: 'Edabit',
         description:
-            'Learn to code with fun, bite-sized challenges. Gain XP, unlock achievements and level up. It's like Duolingo for learning to code.',
+            'Learn to code with fun, bite-sized challenges. Gain XP, unlock achievements and level up. It\'s like Duolingo for learning to code.',
         categories: ['Code Challenge'],
         url: 'https://edabit.com/',
         keywords: ['learn to code', 'learn programming', 'how to code']
@@ -61,7 +61,7 @@ export const resources: Resource[] = [
             'See what',
         categories: ['Browser'],
         url: 'https://www.microsoft.com/en-us/edge',
-        keywords: ['internet browser', 'web browser', 'microsoft edge', 'download microsoft edge', 'new browser', 'new microsoft edge browser', '']
+        keywords: ['internet browser', 'web browser', 'microsoft edge', 'download microsoft edge', 'new browser', 'new microsoft edge browser']
     },
     {
         name: 'Edge Canary',
@@ -161,7 +161,7 @@ export const resources: Resource[] = [
             'Discover the best tech conferences and events for developers, designers, and tech professionals. Updated weekly.',
         categories: ['Conference'],
         url: 'https://dev.events/',
-        keywords: ['tech events', 'developer events', 'designer events', 'tech conferences', 'developer conferences', 'designer conferences', '']
+        keywords: ['tech events', 'developer events', 'designer events', 'tech conferences', 'developer conferences', 'designer conferences']
     },
     {
         name: 'Everyone Hates Marketers',

@@ -122,7 +122,7 @@ export const resources: Resource[] = [
             'A arctic, north-bluish color palette',
         categories: ['Color'],
         url: 'https://www.nordtheme.com/',
-        keywords: ['nord', 'arctic', 'north', 'bluish', 'clean', 'minimal', 'flat', 'ui', 'syntax', 'website', 'documentation', 'react', 'arcticicestudio', '']
+        keywords: ['nord', 'arctic', 'north', 'bluish', 'clean', 'minimal', 'flat', 'ui', 'syntax', 'website', 'documentation', 'react', 'arcticicestudio']
     },
     {
         name: 'Notepad++',

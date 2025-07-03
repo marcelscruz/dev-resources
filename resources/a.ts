@@ -75,7 +75,7 @@ export const resources: Resource[] = [
             'EVM smart contract creation and management for web3 projects - Use Add3 to deploy your smart contracts or dApp project in minutes. Signup today!',
         categories: ['Web3', 'Programming', 'Startup'],
         url: 'https://www.add3.io/',
-        keywords: ['crypto', 'cryptocurrency', 'web3', 'no-code', 'smart contract', 'token minting', 'create token', 'vesting contract', 'distribution contract', 'crypto staking', 'liquidity pool staking', 'onchain analytics', 'offchain analytics', 'blockchain analytics', '']
+        keywords: ['crypto', 'cryptocurrency', 'web3', 'no-code', 'smart contract', 'token minting', 'create token', 'vesting contract', 'distribution contract', 'crypto staking', 'liquidity pool staking', 'onchain analytics', 'offchain analytics', 'blockchain analytics']
     },
     {
         name: 'Adligator',
@@ -98,7 +98,7 @@ export const resources: Resource[] = [
             'I',
         categories: ['Design', 'Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ',
-        keywords: ['HTML CSS JS UI UX WordPress React Native User Interface Design Website JavaScript Graphics design', '']
+        keywords: ['HTML CSS JS UI UX WordPress React Native User Interface Design Website JavaScript Graphics design']
     },
     {
         name: 'Ahrefs',
@@ -176,7 +176,7 @@ export const resources: Resource[] = [
             'Find jobs and talents in AI, Machine Learning, Data Science and Big Data.',
         categories: ['AI', 'Job'],
         url: 'https://aijobs.net',
-        keywords: ['ai', 'artificial intelligence', 'career', 'data science', 'machine learning', 'remote', 'jobs', 'developer', '']
+        keywords: ['ai', 'artificial intelligence', 'career', 'data science', 'machine learning', 'remote', 'jobs', 'developer']
     },
     {
         name: 'Airtable',
@@ -321,7 +321,7 @@ export const resources: Resource[] = [
             'Free legal documents for startups. Get your company',
         categories: ['Legal'],
         url: 'https://www.avodocs.com',
-        keywords: ['legal', 'legal documents', 'legal templates', 'privacy policy', 'terms of service', 'terms and conditions', '']
+        keywords: ['legal', 'legal documents', 'legal templates', 'privacy policy', 'terms of service', 'terms and conditions']
     },
     {
         name: 'Awesome a11y',

@@ -73,7 +73,7 @@ export const resources: Resource[] = [
             'Fonts and icons for your next project.',
         categories: ['Icon', 'Font'],
         url: 'https://www.onlinewebfonts.com',
-        keywords: ['SVG icon', 'svg vector icons', 'png icon', 'psd vector icons', 'eps icon', 'pnm icon', 'free icons downloads', 'Best Fonts', 'Free Best Fonts', 'Top Free Font', 'Best Font Download', 'Top Best Font Dwonload', '']
+        keywords: ['SVG icon', 'svg vector icons', 'png icon', 'psd vector icons', 'eps icon', 'pnm icon', 'free icons downloads', 'Best Fonts', 'Free Best Fonts', 'Top Free Font', 'Best Font Download', 'Top Best Font Dwonload']
     },
     {
         name: 'Onsen UI',
@@ -110,7 +110,7 @@ export const resources: Resource[] = [
             'A curated list of open source boilerplates and starter kits for building modern applications. From web development with React & Next.js to mobile apps with React Native, Flutter, and native platforms.',
         categories: ['Programming', 'Template', 'Open Source'],
         url: 'https://opensourceboilerplates.com',
-        keywords: ['saas starter kits', 'open source boilerplates', 'saas boilerplates', 'react native boilerplates', 'flutter boilerplates', 'native boilerplates', '']
+        keywords: ['saas starter kits', 'open source boilerplates', 'saas boilerplates', 'react native boilerplates', 'flutter boilerplates', 'native boilerplates']
     },
     {
         name: 'Open Vim',

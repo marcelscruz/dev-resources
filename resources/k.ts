@@ -91,6 +91,6 @@ export const resources: Resource[] = [
             'Copilot for product teams',
         categories: ['Productivity', 'Analytics', 'AI'],
         url: 'https://www.kraftful.com/',
-        keywords: ['Research', 'Productivity', 'User Experience', 'Summarization', 'Business', 'Collaboration', 'Chatbot', 'Data analytics', 'Project management', 'Market research', 'Task management', 'ChatGPT plugin', 'Design', 'Tech & Development', '']
+        keywords: ['Research', 'Productivity', 'User Experience', 'Summarization', 'Business', 'Collaboration', 'Chatbot', 'Data analytics', 'Project management', 'Market research', 'Task management', 'ChatGPT plugin', 'Design', 'Tech & Development']
     }
 ]
