@@ -37,7 +37,7 @@ export const resources: Resource[] = [
             'Documentazione del tuo bando pronta in 48 ore',
         categories: ['AI', 'Productivity', 'Marketing'],
         url: 'https://bandofacile.com/',
-        keywords: ['Artificial Intelligence', 'AI Tender Automation', 'Grant Writing Software', 'Funding Application Tool', 'Automated Document Generation', 'Tender Consulting Services', '']
+        keywords: ['Artificial Intelligence', 'AI Tender Automation', 'Grant Writing Software', 'Funding Application Tool', 'Automated Document Generation', 'Tender Consulting Services']
     },
     {
         name: 'BCMS',
@@ -73,7 +73,7 @@ export const resources: Resource[] = [
             'Behance is the world',
         categories: ['UI', 'Inspiration'],
         url: 'https://www.behance.net/',
-        keywords: ['online portfolio', 'online portfolio site', 'creative professional platform', 'creative network', 'creative community', 'creative talent', '']
+        keywords: ['online portfolio', 'online portfolio site', 'creative professional platform', 'creative network', 'creative community', 'creative talent']
     },
     {
         name: 'Ben Awad',
@@ -134,7 +134,7 @@ export const resources: Resource[] = [
             'HTML, CSS, JS, React - blog articles, knowledge pills, projects with high-quality designs. Get out of tutorials hell and learn Frontend the right way.',
         categories: ['Learn', 'Programming'],
         url: 'https://bigsondev.com/',
-        keywords: ['Frontend Mentor', 'React Expert', 'React', 'Frontend Developer', 'Frontend projects', 'Frontend blog', 'Software Engineer', 'JavaScript', 'HTML', 'CSS', '']
+        keywords: ['Frontend Mentor', 'React Expert', 'React', 'Frontend Developer', 'Frontend projects', 'Frontend blog', 'Software Engineer', 'JavaScript', 'HTML', 'CSS']
     },
     {
         name: 'BigSpy',
@@ -150,7 +150,7 @@ export const resources: Resource[] = [
             'The world',
         categories: ['Job'],
         url: 'https://bilingualjobs.io',
-        keywords: ['bilingual', 'bilinguals', 'bilingual jobs', 'remote work', 'remote jobs', 'bilingual job', 'bilingual talent', 'jobs', 'job', '']
+        keywords: ['bilingual', 'bilinguals', 'bilingual jobs', 'remote work', 'remote jobs', 'bilingual job', 'bilingual talent', 'jobs', 'job']
     },
     {
         name: 'Biteable',
@@ -194,7 +194,7 @@ export const resources: Resource[] = [
             'Download Blisk - a browser for web developers. Blisk - is a developer oriented browser with devices, URL and scroll sync, auto-refresh, screenshots and screen recorder.',
         categories: ['Browser', 'Programming'],
         url: 'https://blisk.io/',
-        keywords: ['Blisk', 'browser', 'download', 'developer', 'actions synchronization', 'sync', 'devices', 'analytics', 'screenshots', 'integrations', '']
+        keywords: ['Blisk', 'browser', 'download', 'developer', 'actions synchronization', 'sync', 'devices', 'analytics', 'screenshots', 'integrations']
     },
     {
         name: 'BlogFox',
@@ -262,7 +262,7 @@ export const resources: Resource[] = [
             'At BootstrapMade, we create beautiful website templates and bootstrap themes using Bootstrap, the most popular HTML, CSS and JavaScript framework.',
         categories: ['Template'],
         url: 'https://bootstrapmade.com/',
-        keywords: ['Bootstrap templates', 'Bootstrap themes', 'Bootstrap', 'Free Bootstrap Templates', 'Free Bootstrap Themes', 'Website Templates', 'Templates', '']
+        keywords: ['Bootstrap templates', 'Bootstrap themes', 'Bootstrap', 'Free Bootstrap Templates', 'Free Bootstrap Themes', 'Website Templates', 'Templates']
     },
     {
         name: 'Bootstrapped',
@@ -284,7 +284,7 @@ export const resources: Resource[] = [
             '100+ Best Bootstrap templates and HTML Website Templates collections to build your website or app in 2020.',
         categories: ['Template'],
         url: 'http://bootstraptaste.com/',
-        keywords: ['Bootstrap themes', 'Bootstrap templates', 'Bootstrap', 'Free Bootstrap Templates', 'Website Templates', 'Templates', '']
+        keywords: ['Bootstrap themes', 'Bootstrap templates', 'Bootstrap', 'Free Bootstrap Templates', 'Website Templates', 'Templates']
     },
     {
         name: 'Boxicons',
@@ -292,7 +292,7 @@ export const resources: Resource[] = [
             'Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.',
         categories: ['Icon'],
         url: 'https://boxicons.com/',
-        keywords: ['boxicons', 'free icons', 'open source icons', 'royalty free icons', 'google icons', 'icon', 'line icon', 'sharp icon', 'material icons', 'premium icons', 'pixel perfect icons', 'open source icons', 'free icon set', '']
+        keywords: ['boxicons', 'free icons', 'open source icons', 'royalty free icons', 'google icons', 'icon', 'line icon', 'sharp icon', 'material icons', 'premium icons', 'pixel perfect icons', 'open source icons', 'free icon set']
     },
     {
         name: 'Brackets',
@@ -322,7 +322,7 @@ export const resources: Resource[] = [
             'The AI Spreadsheet to Create Reports, Presentations, Charts, and Visuals',
         categories: ['AI', 'Productivity'],
         url: 'https://thebricks.com',
-        keywords: ['productivity', 'collaboration tools', 'spreadsheets', 'presentations', 'slide decks', 'docs', 'wiki', '']
+        keywords: ['productivity', 'collaboration tools', 'spreadsheets', 'presentations', 'slide decks', 'docs', 'wiki']
     },
     {
         name: 'Browserling',
@@ -344,7 +344,7 @@ export const resources: Resource[] = [
             'Unlock your AI companion now',
         categories: ['AI', 'Productivity'],
         url: 'https://buddair.com/',
-        keywords: ['AI companion', 'virtual buddy', 'AI tools navigation', 'emotional support AI', 'find AI friend', 'best AI companion apps', 'personalized AI interactions', 'BuddAIr', '']
+        keywords: ['AI companion', 'virtual buddy', 'AI tools navigation', 'emotional support AI', 'find AI friend', 'best AI companion apps', 'personalized AI interactions', 'BuddAIr']
     },
     {
         name: 'Build you SaaS',

@@ -35,7 +35,7 @@ export const resources: Resource[] = [
             'Modern icon framework that allows you to use over 50,000 icons from popular icon sets.',
         categories: ['Icon'],
         url: 'https://icon-sets.iconify.design/',
-        keywords: ['icons', 'logo icons', 'web icons', 'logos', 'site logos', 'emoji', 'svg', 'maps', 'flags', 'animated icons', '']
+        keywords: ['icons', 'logo icons', 'web icons', 'logos', 'site logos', 'emoji', 'svg', 'maps', 'flags', 'animated icons']
     },
     {
         name: 'iconmonstr',
@@ -64,7 +64,7 @@ export const resources: Resource[] = [
             'Free icons and premium icon packs.  Flat icons, Material icons, Glyph icons, iOS icons, Font icons, and more design styles. Vector files, including PNG and SVG icons. Ready for apps, web or social media projects.',
         categories: ['Icon'],
         url: 'https://www.iconshock.com/',
-        keywords: ['web icons', 'web icon set', 'web icon', 'professional icons', 'software  web icons', 'web icons vista', 'xp web icons', 'windows vista icons', 'windows icons', 'vector icons', 'vector web icons', 'application icons', 'java web icons', 'video icons', 'business icons', 'multimedia icons', 'accounting icons', 'web icon packs', 'web icone', '']
+        keywords: ['web icons', 'web icon set', 'web icon', 'professional icons', 'software  web icons', 'web icons vista', 'xp web icons', 'windows vista icons', 'windows icons', 'vector icons', 'vector web icons', 'application icons', 'java web icons', 'video icons', 'business icons', 'multimedia icons', 'accounting icons', 'web icon packs', 'web icone']
     },
     {
         name: 'Iconshock',
@@ -173,7 +173,7 @@ export const resources: Resource[] = [
             'Practical, real world React examples of Intersection Observer',
         categories: ['Learn', 'Programming'],
         url: 'https://intersectionobserver.io',
-        keywords: ['IntersectionObserver', 'IntersectionObserver API', 'IntersectionObserver examples', 'React', 'React IntersectionObserver', '']
+        keywords: ['IntersectionObserver', 'IntersectionObserver API', 'IntersectionObserver examples', 'React', 'React IntersectionObserver']
     },
     {
         name: 'Interview Hammer',
@@ -220,7 +220,7 @@ export const resources: Resource[] = [
             'Open-source illustrations that fits perfectly for any project you desire.',
         categories: ['Illustration'],
         url: 'https://iradesign.io/gallery/illustrations',
-        keywords: ['illustration', 'app', 'website illustration', 'app illustration', 'design component', 'custom illustration', 'illustration component', 'color gradient', 'gradients', 'gallery', 'best illustrations', 'colorful illustrations', '']
+        keywords: ['illustration', 'app', 'website illustration', 'app illustration', 'design component', 'custom illustration', 'illustration component', 'color gradient', 'gradients', 'gallery', 'best illustrations', 'colorful illustrations']
     },
     {
         name: 'isecjobs.com',

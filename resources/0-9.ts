@@ -14,7 +14,7 @@ export const resources: Resource[] = [
             '10FastFingers is a website which offers users a way to test and improve their typing speed. Improve your Typing Speed with our Typing Games.',
         categories: ['Typing'],
         url: 'https://10fastfingers.com/',
-        keywords: ['typing', 'typing test', 'typing game', 'touch typing', 'fastest fingers', '10 fast fingers', 'typing competition', '']
+        keywords: ['typing', 'typing test', 'typing game', 'touch typing', 'fastest fingers', '10 fast fingers', 'typing competition']
     },
     {
         name: '1LOC',

@@ -262,7 +262,7 @@ export const resources: Resource[] = [
             'Check out the hand-picked collection of latest mobile design patterns from apps that reflect the best in design.',
         categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://mobbin.design/',
-        keywords: ['apps', 'mobbin', 'ios', 'ios ui inspiration', 'ios11', 'iphone', 'iphone X', 'ui', 'design', 'retina', 'screenshots', 'inspiration', 'mobile', 'ipad', 'android', 'apple watch', 'visual design', 'patterns', 'resources', 'framerjs', 'swift', 'sketch', 'framer', 'invision', 'photoshop', 'xcode', 'resources', '']
+        keywords: ['apps', 'mobbin', 'ios', 'ios ui inspiration', 'ios11', 'iphone', 'iphone X', 'ui', 'design', 'retina', 'screenshots', 'inspiration', 'mobile', 'ipad', 'android', 'apple watch', 'visual design', 'patterns', 'resources', 'framerjs', 'swift', 'sketch', 'framer', 'invision', 'photoshop', 'xcode', 'resources']
     },
     {
         name: 'Mobirise',
@@ -306,7 +306,7 @@ export const resources: Resource[] = [
             'A minimalistic, customisable typing website. Test yourself in various modes, track your progress and improve your typing speed.',
         categories: ['Typing'],
         url: 'https://monkeytype.com/',
-        keywords: ['typing speed test', 'typing speedtest', 'typing test', 'speetest', 'speed test', 'typing', 'test', 'typing-test', 'typing test', 'monkey-type', 'monkeytype', 'monkey type', 'monkey-types', 'minimalist typing website', 'minimalist typing test', 'minimalistic typing website', 'words per minute', '']
+        keywords: ['typing speed test', 'typing speedtest', 'typing test', 'speetest', 'speed test', 'typing', 'test', 'typing-test', 'typing test', 'monkey-type', 'monkeytype', 'monkey type', 'monkey-types', 'minimalist typing website', 'minimalist typing test', 'minimalistic typing website', 'words per minute']
     },
     {
         name: 'MonsterONE',
@@ -314,7 +314,7 @@ export const resources: Resource[] = [
             'MonsterONE offers access to 420K+ premium digital items like web themes, templates, graphics, and more—all with a single subscription. Pay once, access all!',
         categories: ['Design', 'Marketing', 'Template'],
         url: 'https://monsterone.com/',
-        keywords: ['MonsterONE subscription service', 'MonsterONE design service', 'free & premium website templates', 'WordPress themes', 'website templates', 'newsletter templates', 'audio & video assets', 'e-commerce templates and themes', '']
+        keywords: ['MonsterONE subscription service', 'MonsterONE design service', 'free & premium website templates', 'WordPress themes', 'website templates', 'newsletter templates', 'audio & video assets', 'e-commerce templates and themes']
     },
     {
         name: 'Moqups',

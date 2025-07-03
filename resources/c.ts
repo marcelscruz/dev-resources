@@ -232,7 +232,7 @@ export const resources: Resource[] = [
             'CleanSnap is a free AI Images maker. Create a beautiful image from a screenshot in seconds. Without any watermark.',
         categories: ['Image', 'Screenshot', 'AI'],
         url: 'https://www.cleansnap.co/',
-        keywords: ['image generation', 'beautiful screenshots', 'screenshots creator', 'how to make generate image', 'image', 'screenshot', 'download', 'easy', 'photo', 'gif', 'picture', 'instagram', 'facebook', '']
+        keywords: ['image generation', 'beautiful screenshots', 'screenshots creator', 'how to make generate image', 'image', 'screenshot', 'download', 'easy', 'photo', 'gif', 'picture', 'instagram', 'facebook']
     },
     {
         name: 'Clearbit',
@@ -256,7 +256,7 @@ export const resources: Resource[] = [
             'Make a video by combining photos, videos, GIFs and music together — it',
         categories: ['Editor', 'Video'],
         url: 'https://clideo.com',
-        keywords: ['free video maker', 'youtube', 'video creator', 'how to make a video', 'online video maker', 'music', 'windows', 'download', 'easy', 'photo', 'create a video', 'gif', 'picture', 'instagram', 'facebook cover', 'clip', 'mac', '']
+        keywords: ['free video maker', 'youtube', 'video creator', 'how to make a video', 'online video maker', 'music', 'windows', 'download', 'easy', 'photo', 'create a video', 'gif', 'picture', 'instagram', 'facebook cover', 'clip', 'mac']
     },
     {
         name: 'CLion',
@@ -308,7 +308,7 @@ export const resources: Resource[] = [
             'CodeWinds - Leading edge live and online developer training - in-person, public or private classes, webinars, video courses, resources, tutorials for fullstack web developers. Featuring javascript, React.js, Node.js, Redux, Functional programming, Reactive programming, RxJS, and related topics.',
         categories: ['Podcast', 'Programming'],
         url: 'http://codewinds.com/podcast.html',
-        keywords: ['web', 'developer', 'training', 'fullstack', 'live classes', 'private classes', 'custom classes', 'webinars', 'screencasts', 'video', 'audio', 'online training', 'tutorials', 'video tutorials', 'classes', 'react.js', 'reactjs', 'javascript', 'js', 'es6', 'es7', 'node.js', 'nodejs', 'iojs', 'html', 'html5', 'functional programming', 'reactive programming', 'rxjs', 'redux', '']
+        keywords: ['web', 'developer', 'training', 'fullstack', 'live classes', 'private classes', 'custom classes', 'webinars', 'screencasts', 'video', 'audio', 'online training', 'tutorials', 'video tutorials', 'classes', 'react.js', 'reactjs', 'javascript', 'js', 'es6', 'es7', 'node.js', 'nodejs', 'iojs', 'html', 'html5', 'functional programming', 'reactive programming', 'rxjs', 'redux']
     },
     {
         name: 'CodeBeaver',
@@ -316,7 +316,7 @@ export const resources: Resource[] = [
             'Get an A.I. assistant that writes tests and spots bugs',
         categories: ['Programming', 'Testing', 'AI'],
         url: 'https://www.codebeaver.ai/',
-        keywords: ['unit testing', 'unit test', 'unit tests', 'unit test generator', 'ai', 'ai assistant', 'ai testing', 'ai unit testing', '']
+        keywords: ['unit testing', 'unit test', 'unit tests', 'unit test generator', 'ai', 'ai assistant', 'ai testing', 'ai unit testing']
     },
     {
         name: 'Codecademy',
@@ -331,7 +331,7 @@ export const resources: Resource[] = [
             'Learn competitive programming with the help of CodeChef',
         categories: ['Code Challenge'],
         url: 'https://www.codechef.com/',
-        keywords: ['programming competition', 'programming contest', 'online programming', 'online computer programming', '']
+        keywords: ['programming competition', 'programming contest', 'online programming', 'online computer programming']
     },
     {
         name: 'CodeCombat',
@@ -398,7 +398,7 @@ export const resources: Resource[] = [
             'An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets, projects, and web applications.',
         categories: ['Editor', 'Programming'],
         url: 'https://codepen.io/',
-        keywords: ['javascript', 'css', 'editor', 'code', 'community', 'social', 'frontend', 'front', 'end', 'developer', 'designer', 'jobs', 'hiring', 'deploy', 'test', 'demo', 'spa', 'single', 'page', 'application', 'web', 'html', 'modern', 'ide', 'browser', 'pen', 'codepen', '']
+        keywords: ['javascript', 'css', 'editor', 'code', 'community', 'social', 'frontend', 'front', 'end', 'developer', 'designer', 'jobs', 'hiring', 'deploy', 'test', 'demo', 'spa', 'single', 'page', 'application', 'web', 'html', 'modern', 'ide', 'browser', 'pen', 'codepen']
     },
     {
         name: 'CodePen Radio',
@@ -420,7 +420,7 @@ export const resources: Resource[] = [
             'Improve your coding skills with our library of 300+ challenges and prepare for coding interviews with content from leading technology companies.',
         categories: ['Code Challenge'],
         url: 'https://coderbyte.com/',
-        keywords: ['coderbyte', 'coder byte', 'coding', 'coding', 'bootcamp', 'code school', 'programming challenges', 'practice coding', 'algorithm', 'math', 'puzzles', 'test you programming skills', 'codetbytes', '']
+        keywords: ['coderbyte', 'coder byte', 'coding', 'coding', 'bootcamp', 'code school', 'programming challenges', 'practice coding', 'algorithm', 'math', 'puzzles', 'test you programming skills', 'codetbytes']
     },
     {
         name: 'CodeSandbox',
@@ -428,7 +428,7 @@ export const resources: Resource[] = [
             'CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.',
         categories: ['Editor', 'Programming'],
         url: 'https://codesandbox.io/',
-        keywords: ['react', 'codesandbox', 'editor', 'vue', 'angular', 'ide', 'code', 'javascript', 'playground', 'sharing', 'spa', 'single', 'page', 'application', 'web', 'application', 'frontend', 'front', 'end', '']
+        keywords: ['react', 'codesandbox', 'editor', 'vue', 'angular', 'ide', 'code', 'javascript', 'playground', 'sharing', 'spa', 'single', 'page', 'application', 'web', 'application', 'frontend', 'front', 'end']
     },
     {
         name: 'Codeshare',
@@ -450,7 +450,7 @@ export const resources: Resource[] = [
             'Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.',
         categories: ['Code Challenge'],
         url: 'https://www.codewars.com/',
-        keywords: ['codewars', 'code kata', 'kata', 'code gym', 'coding', 'code practice', 'ruby', 'javascript', 'coffeescript', 'web development', 'software development', 'dojo', '']
+        keywords: ['codewars', 'code kata', 'kata', 'code gym', 'coding', 'code practice', 'ruby', 'javascript', 'coffeescript', 'web development', 'software development', 'dojo']
     },
     {
         name: 'Codiga',
@@ -465,7 +465,7 @@ export const resources: Resource[] = [
             'Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here',
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ',
-        keywords: ['javascript python css html machine learning artificial intelligence software development programming', '']
+        keywords: ['javascript python css html machine learning artificial intelligence software development programming']
     },
     {
         name: 'CodinGame',
@@ -545,7 +545,7 @@ export const resources: Resource[] = [
             'Instantly generate stunning color palettes and schemes from a name, image, hex code, word, or one color with AI',
         categories: ['Color'],
         url: 'https://colormagic.app/',
-        keywords: ['color palette', 'color palette generator', 'color themes', 'color palettes', 'ai color palette generator', '']
+        keywords: ['color palette', 'color palette generator', 'color themes', 'color palettes', 'ai color palette generator']
     },
     {
         name: 'Colormind',
@@ -588,7 +588,7 @@ export const resources: Resource[] = [
             'Commit Your Code is about motivating and inspiring developers of all levels to reach their goals in tech. We will be sharing stories and interviewing developers that have gone through this and made it to their dream jobs!',
         categories: ['Podcast', 'Programming'],
         url: 'https://anchor.fm/commityourcode',
-        keywords: ['podcast hosting', 'free podcast hosting', 'make a podcast', 'making a podcast', 'create a podcast', 'creating a podcast', 'podcast sponsorships', 'sponsor a podcast', 'free', 'audio', 'recording', 'audio clip', 'anchor', 'podcasts', 'voice', 'microphone', 'podcast', 'podcast creation', 'record', 'conversation', 'discussion', 'talk', 'talking', 'radio', 'public radio', 'npr', 'startup', 'talk radio', '']
+        keywords: ['podcast hosting', 'free podcast hosting', 'make a podcast', 'making a podcast', 'create a podcast', 'creating a podcast', 'podcast sponsorships', 'sponsor a podcast', 'free', 'audio', 'recording', 'audio clip', 'anchor', 'podcasts', 'voice', 'microphone', 'podcast', 'podcast creation', 'record', 'conversation', 'discussion', 'talk', 'talking', 'radio', 'public radio', 'npr', 'startup', 'talk radio']
     },
     {
         name: 'Community List',
@@ -603,7 +603,7 @@ export const resources: Resource[] = [
             'Use this tool to quickly check differences between design mockups and the live website.',
         categories: ['Design', 'UI'],
         url: 'https://usepastel.com/compare-pixels',
-        keywords: ['feedback', 'website', 'share', 'link', 'live', 'visual', 'comment', 'sticky', 'note', 'pin', 'server', 'web', '']
+        keywords: ['feedback', 'website', 'share', 'link', 'live', 'visual', 'comment', 'sticky', 'note', 'pin', 'server', 'web']
     },
     {
         name: 'Compot',
@@ -633,7 +633,7 @@ export const resources: Resource[] = [
             'Open-Source project that lists upcoming tech conferences. Everything is free and will stay free. It is a technical conferences finder.',
         categories: ['Conference'],
         url: 'https://confs.tech/',
-        keywords: ['.Net', 'Accessibility', 'Android', 'CSS', 'Data - AI', 'Design - UX', 'DevOps', 'Elixir', 'IoT', 'Java', 'JavaScript', 'PHP', 'Python', 'Ruby', 'Security', 'iOS', '']
+        keywords: ['.Net', 'Accessibility', 'Android', 'CSS', 'Data - AI', 'Design - UX', 'DevOps', 'Elixir', 'IoT', 'Java', 'JavaScript', 'PHP', 'Python', 'Ruby', 'Security', 'iOS']
     },
     {
         name: 'Console Ninja',
@@ -656,7 +656,7 @@ export const resources: Resource[] = [
             'Data Processing & ETL infrastructure for Generative AI applications',
         categories: ['AI', 'Database'],
         url: 'https://contextdata.ai',
-        keywords: ['ai infrastructure', 'generative ai', 'vector database', 'rag', 'data engineering', 'retrieval augmented generation', '']
+        keywords: ['ai infrastructure', 'generative ai', 'vector database', 'rag', 'data engineering', 'retrieval augmented generation']
     },
     {
         name: 'Contrast Ratio',
@@ -701,7 +701,7 @@ export const resources: Resource[] = [
             'Generate or browse beautiful color combinations for your designs.',
         categories: ['Color'],
         url: 'https://coolors.co/',
-        keywords: ['color scheme', 'scheme color', 'color schemes', 'color theme', 'color palette', 'color themes', 'color palettes', 'color combinations', 'color', 'colors', 'palettes', 'hex color wheel', 'pastel color palette', 'color wheel', 'color combination', 'color pallete', 'color names', 'web color schemes', 'color wheel generator', 'extract color palette from image', 'random color palette generator', 'color schemes generator', 'ui color palette generator', 'pretty colors', 'vintage color', 'color palette from image', '']
+        keywords: ['color scheme', 'scheme color', 'color schemes', 'color theme', 'color palette', 'color themes', 'color palettes', 'color combinations', 'color', 'colors', 'palettes', 'hex color wheel', 'pastel color palette', 'color wheel', 'color combination', 'color pallete', 'color names', 'web color schemes', 'color wheel generator', 'extract color palette from image', 'random color palette generator', 'color schemes generator', 'ui color palette generator', 'pretty colors', 'vintage color', 'color palette from image']
     },
     {
         name: 'Copy Paste CSS',
@@ -723,7 +723,7 @@ export const resources: Resource[] = [
             'Passkey-first authentication for developers',
         categories: ['Authentication', 'Library', 'Programming'],
         url: 'https://www.corbado.com',
-        keywords: ['passkeys', 'php', 'react', 'next.js', 'auth', ' user management', 'react auth', 'next.js auth', 'javascript auth', '']
+        keywords: ['passkeys', 'php', 'react', 'next.js', 'auth', ' user management', 'react auth', 'next.js auth', 'javascript auth']
     },
     {
         name: 'Core Web Vitals History Checker',
@@ -760,7 +760,7 @@ export const resources: Resource[] = [
             'A simple and aesthetic typing website to help improve your typing speed and accuracy. a simple typing website for keyboard enthusiasts. Practice in different different modes, personalize your settings and preferences, and improve your skills.',
         categories: ['Typing'],
         url: 'https://cozytypes.com',
-        keywords: ['typing', 'typing-test', 'cozytypes', 'words per minute', 'simple typing website', 'improve typing', 'practice typing', '']
+        keywords: ['typing', 'typing-test', 'cozytypes', 'words per minute', 'simple typing website', 'improve typing', 'practice typing']
     },
     {
         name: 'Craftwork',
@@ -783,7 +783,7 @@ export const resources: Resource[] = [
             'Creduse is a plug-and-play solution that lets developers integrate credits into their platforms via API without a lot of hassle. It’s aimed at startups and businesses that want to boost sales, user engagement, and retention.',
         categories: ['API Building', 'Analytics', 'Startup'],
         url: 'https://creduse.com/',
-        keywords: ['api', 'credits', 'payments', 'subscriptions', 'credit-based system', 'saas', 'startup', 'pay-as-you-go', '']
+        keywords: ['api', 'credits', 'payments', 'subscriptions', 'credit-based system', 'saas', 'startup', 'pay-as-you-go']
     },
     {
         name: 'Cruip',
@@ -883,7 +883,7 @@ export const resources: Resource[] = [
             'CSSnippets is a collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more.',
         categories: ['Code Snippet', 'Programming', 'Animation'],
         url: 'https://cssnippets.shefali.dev/',
-        keywords: ['css snippets', 'react snippets', 'tailwind css snippets', 'css code snippets', 'FREE Tailwind Components', '']
+        keywords: ['css snippets', 'react snippets', 'tailwind css snippets', 'css code snippets', 'FREE Tailwind Components']
     },
     {
         name: 'CSSViewer',

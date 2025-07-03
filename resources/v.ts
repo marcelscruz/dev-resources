@@ -95,7 +95,7 @@ export const resources: Resource[] = [
     {
         name: 'Vim',
         description:
-            'Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.',
+            'Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as \"vi\" with most UNIX systems and with Apple OS X.',
         categories: ['Editor', 'Programming'],
         url: 'https://www.vim.org/',
         keywords: ['Vim', 'Vi IMproved', 'text editor', 'home', 'documentation', 'tips', 'scripts', 'news']
@@ -103,7 +103,7 @@ export const resources: Resource[] = [
     {
         name: 'Vim Adventures',
         description:
-        'VIM Adventures is an online game based on VIM\'s keyboard shortcuts. It\'s the \"Zelda meets text editing\" game. So come have some fun and learn some VIM!',
+            'VIM Adventures is an online game based on VIM\'s keyboard shortcuts. It\'s the \"Zelda meets text editing\" game. So come have some fun and learn some VIM!',
         categories: ['Typing'],
         url: 'https://vim-adventures.com/'
     },

@@ -15,7 +15,7 @@ export const resources: Resource[] = [
             'Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.',
         categories: ['Font'],
         url: 'https://www.dafont.com/',
-        keywords: ['font', 'download', 'ttf', 'freeware', 'typefaces', 'typography', 'typeface', 'fonts', 'free', 'true type', 'dingbats', '']
+        keywords: ['font', 'download', 'ttf', 'freeware', 'typefaces', 'typography', 'typeface', 'fonts', 'free', 'true type', 'dingbats']
     },
     {
         name: 'daily.dev',
@@ -105,7 +105,7 @@ export const resources: Resource[] = [
             'Docker-based local PHP+Node.js web development environments',
         categories: ['Tooling', 'Open Source', 'Programming'],
         url: 'https://ddev.com/',
-        keywords: ['nodejs', 'windows', 'macos', 'linux', 'docker', 'php', 'wordpress', 'development', 'laravel', 'drupal', 'magento', 'mariadb', 'typo3', 'magento2', 'craftcms', 'moodle', 'backdrop', 'local-development', '']
+        keywords: ['nodejs', 'windows', 'macos', 'linux', 'docker', 'php', 'wordpress', 'development', 'laravel', 'drupal', 'magento', 'mariadb', 'typo3', 'magento2', 'craftcms', 'moodle', 'backdrop', 'local-development']
     },
     {
         name: 'DebugBear Speed Test',
@@ -125,7 +125,7 @@ export const resources: Resource[] = [
     {
         name: 'Default Alive',
         description:
-        'Two founders share an unedited look at what it\'s like to bootstrap a startup through weekly updates. Chris Spags is the founder of Jetboost, a suite of no-code plugins for Webflow. Corey Haines is the founder of Swipe Files, a membership site for marketers built with no-code tools. They chronicle their journeys getting to and staying "default alive": profitable, self-sustaining, with infinite runway. – Listen to Default Alive instantly on your tablet, phone or browser - no downloads needed.',
+            'Two founders share an unedited look at what it\'s like to bootstrap a startup through weekly updates. Chris Spags is the founder of Jetboost, a suite of no-code plugins for Webflow. Corey Haines is the founder of Swipe Files, a membership site for marketers built with no-code tools. They chronicle their journeys getting to and staying \"default alive\": profitable, self-sustaining, with infinite runway. – Listen to Default Alive instantly on your tablet, phone or browser - no downloads needed.',
         categories: ['Podcast', 'Startup'],
         url: 'https://podtail.com/en/podcast/default-alive/'
     },
@@ -157,7 +157,7 @@ export const resources: Resource[] = [
             'New videos weekly from Monday to Thursday @ 10:30 AM ET! Hi, I',
         categories: ['Design', 'YouTube Channel', 'UX'],
         url: 'https://www.youtube.com/user/DesignCourse',
-        keywords: ['web design logo design illustrator tutorials website design free ui ux user experience design ux design frontend development frontend developer', '']
+        keywords: ['web design logo design illustrator tutorials website design free ui ux user experience design ux design frontend development frontend developer']
     },
     {
         name: 'Designjoy',
@@ -202,7 +202,7 @@ export const resources: Resource[] = [
             'Dev.events is a comprehensive listing of tech conferences for developers. It covers a wide range of topics, from cutting-edge AI and computing to software development.',
         categories: ['Conference'],
         url: 'https://dev.events/',
-        keywords: ['.Net', 'Accessibility', 'Android', 'CSS', 'Data - AI', 'Design - UX', 'DevOps', 'Elixir', 'IoT', 'Java', 'JavaScript', 'PHP', 'Python', 'Ruby', 'Security', 'iOS', '']
+        keywords: ['.Net', 'Accessibility', 'Android', 'CSS', 'Data - AI', 'Design - UX', 'DevOps', 'Elixir', 'IoT', 'Java', 'JavaScript', 'PHP', 'Python', 'Ruby', 'Security', 'iOS']
     },
     {
         name: 'devChallenges',

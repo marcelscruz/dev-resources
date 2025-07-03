@@ -86,7 +86,7 @@ export const resources: Resource[] = [
             'Empower your tech career with Techstarta! Gain hands-on project experience and mentorship to connect with industry experts.',
         categories: ['Learn', 'AI'],
         url: 'https://techstarta.com/',
-        keywords: ['Techstarta', 'Tech career', 'Hands-on experience', 'Mentorship', 'Industry experts', 'Early-career professionals', 'Skill development', 'Tech projects', '']
+        keywords: ['Techstarta', 'Tech career', 'Hands-on experience', 'Mentorship', 'Industry experts', 'Early-career professionals', 'Skill development', 'Tech projects']
     },
     {
         name: 'TechTeamFinder',
@@ -232,7 +232,7 @@ export const resources: Resource[] = [
             'The Linux Foundation hosts a variety of events around the world, including leading open source conferences such as Open Source Summit, Embedded Linux Conference, KubeCon + CloudNativeCon, and more.',
         categories: ['Conference'],
         url: 'https://events.linuxfoundation.org/',
-        keywords: ['.Net', 'Accessibility', 'Android', 'CSS', 'Data - AI', 'Design - UX', 'DevOps', 'Elixir', 'IoT', 'Java', 'JavaScript', 'PHP', 'Python', 'Ruby', 'Security', 'iOS', '']
+        keywords: ['.Net', 'Accessibility', 'Android', 'CSS', 'Data - AI', 'Design - UX', 'DevOps', 'Elixir', 'IoT', 'Java', 'JavaScript', 'PHP', 'Python', 'Ruby', 'Security', 'iOS']
     },
     {
         name: 'The Net Ninja',
@@ -240,7 +240,7 @@ export const resources: Resource[] = [
             'Black-belt your web skills. Learn JavaScript, CSS, Node.js, React, Vue.js, Firebase, HTML & more.',
         categories: ['Programming', 'YouTube Channel', 'Learn', 'Programming'],
         url: 'https://www.thenetninja.co.uk/',
-        keywords: ['html css javascript tutorials web design web development development front-end development wordpress mvc responsive design beginner html beginner ...', '']
+        keywords: ['html css javascript tutorials web design web development development front-end development wordpress mvc responsive design beginner html beginner ...']
     },
     {
         name: 'Themeselection',
@@ -329,7 +329,7 @@ export const resources: Resource[] = [
             'A polyglot web converter.',
         categories: ['Programming'],
         url: 'https://transform.tools',
-        keywords: ['Big Query', 'Flow', 'Go Bson', 'Go', 'GraphQL', 'HTML', 'JSDoc', 'JSON Schema', 'JSON', 'Kotlin', 'MobX-State-Tree Model', 'Mongoose Schema', 'MySQL', 'React Native', 'React PropTypes', 'Rust Serde', 'SVG', 'Sarcastic', 'Scala Case Class', 'TailwindCSS', 'TypeScript', 'YAML', 'io-ts', '']
+        keywords: ['Big Query', 'Flow', 'Go Bson', 'Go', 'GraphQL', 'HTML', 'JSDoc', 'JSON Schema', 'JSON', 'Kotlin', 'MobX-State-Tree Model', 'Mongoose Schema', 'MySQL', 'React Native', 'React PropTypes', 'Rust Serde', 'SVG', 'Sarcastic', 'Scala Case Class', 'TailwindCSS', 'TypeScript', 'YAML', 'io-ts']
     },
     {
         name: 'Traversy Media',
@@ -337,7 +337,7 @@ export const resources: Resource[] = [
             'Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more.',
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA',
-        keywords: ['Programming Tutorials Web Development Tutorials Web Development Videos Web Design Tutorials Learn Web Design Learn Programming', '']
+        keywords: ['Programming Tutorials Web Development Tutorials Web Development Videos Web Design Tutorials Learn Web Design Learn Programming']
     },
     {
         name: 'Traversy Media',
@@ -352,7 +352,7 @@ export const resources: Resource[] = [
             'Treblle is the ultimate end to end APIOps Platform for Engineering and DevOps teams. Simplify and elevate your REST API development with our comprehensive solution that offers insightful observability of APIs in a single, user-friendly interface.',
         categories: ['API Building', 'Tooling', 'Analytics'],
         url: 'https://www.treblle.com',
-        keywords: ['API Observability', 'API Analytics', 'API Documentation', 'API Security', 'API Governance', 'API Testing', 'Developer Productivity', 'API Monitoring', 'Real-time API Insights', 'APIOps Platform', 'API Performance', 'API Compliance', 'OpenAPI Support', 'Microservices Scalability', 'AI-driven API Assistance', 'API Debugging', 'API Quality', '']
+        keywords: ['API Observability', 'API Analytics', 'API Documentation', 'API Security', 'API Governance', 'API Testing', 'Developer Productivity', 'API Monitoring', 'Real-time API Insights', 'APIOps Platform', 'API Performance', 'API Compliance', 'OpenAPI Support', 'Microservices Scalability', 'AI-driven API Assistance', 'API Debugging', 'API Quality']
     },
     {
         name: 'Treehouse',
@@ -375,7 +375,7 @@ export const resources: Resource[] = [
             'Create professional SEO articles, 2x faster',
         categories: ['SEO', 'Writing', 'Marketing'],
         url: 'https://trolly.ai/',
-        keywords: ['seo', 'ai-powered content creation', 'seo optimization tool', 'bulk article generator', 'content writer', '']
+        keywords: ['seo', 'ai-powered content creation', 'seo optimization tool', 'bulk article generator', 'content writer']
     },
     {
         name: 'Trotto',

@@ -165,7 +165,7 @@ export const resources: Resource[] = [
             'PimpMySnap is a powerful screenshot editor capable of transforming your screenshots into eye-catching visuals.',
         categories: ['Design', 'Marketing', 'Productivity'],
         url: 'https://pimpmysnap.com/',
-        keywords: ['screenshot', 'social media', 'editor', 'content', '']
+        keywords: ['screenshot', 'social media', 'editor', 'content']
     },
     {
         name: 'Pingdom',
@@ -335,7 +335,7 @@ export const resources: Resource[] = [
             'A project-based learning approach in web development, mobile development, game development, machine learning and artificial intelligence. Learn code the right way!',
         categories: ['Learn', 'Programming'],
         url: 'https://projectlearn.io/',
-        keywords: ['project', 'tutorial', 'learn code by doing', 'project based learning', 'learn code free', 'web development', 'app development', 'game development', 'machine learning', 'artificial intelligence', '']
+        keywords: ['project', 'tutorial', 'learn code by doing', 'project based learning', 'learn code free', 'web development', 'app development', 'game development', 'machine learning', 'artificial intelligence']
     },
     {
         name: 'Promptly',
@@ -366,7 +366,7 @@ export const resources: Resource[] = [
             'Check out the finest collection of design patterns, resources, mobile apps and inspiration.',
         categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://pttrns.com/',
-        keywords: ['apps', 'ios', 'ui', 'design', 'visual design', 'patterns', 'pttrns', 'iphone', 'retina', 'screenshots', 'inspiration', 'mobile', 'iphone', 'ipad', 'android', 'lumia', 'apple watch', 'internet of things', 'smartwatch', 'iot', 'resources', 'framerjs', 'swift', 'sketch', 'photoshop', 'xcode', 'resources', 'articles', '']
+        keywords: ['apps', 'ios', 'ui', 'design', 'visual design', 'patterns', 'pttrns', 'iphone', 'retina', 'screenshots', 'inspiration', 'mobile', 'iphone', 'ipad', 'android', 'lumia', 'apple watch', 'internet of things', 'smartwatch', 'iot', 'resources', 'framerjs', 'swift', 'sketch', 'photoshop', 'xcode', 'resources', 'articles']
     },
     {
         name: 'Puppeteer',
@@ -381,7 +381,7 @@ export const resources: Resource[] = [
             'Millions of public domain stock photos released under creative common zero lincense, all are free for commercial use.',
         categories: ['Image'],
         url: 'https://www.pxfuel.com/',
-        keywords: ['Royalty free', 'public domain', 'CC0', 'stock photos', 'commercial use', 'free download', 'unlimited download', 'free photos', 'HD photos', '1080P', '2K', '4k', '5K', '']
+        keywords: ['Royalty free', 'public domain', 'CC0', 'stock photos', 'commercial use', 'free download', 'unlimited download', 'free photos', 'HD photos', '1080P', '2K', '4k', '5K']
     },
     {
         name: 'PyCharm',

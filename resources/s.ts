@@ -164,7 +164,7 @@ export const resources: Resource[] = [
             'All-in-one SEO Tool for full cycle SEO optimisation, including keyword research, rank trackring, backlink analysis, link monitoring, site audit, technical and content optimisation tools.',
         categories: ['SEO'],
         url: 'https://www.link-assistant.com/',
-        keywords: ['rank tracker', 'backlink checker', 'backlink monitor', 'site audit', 'content optimisation', 'keyword research', '']
+        keywords: ['rank tracker', 'backlink checker', 'backlink monitor', 'site audit', 'content optimisation', 'keyword research']
     },
     {
         name: 'Seotisfy',
@@ -201,7 +201,7 @@ export const resources: Resource[] = [
             '26000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.',
         categories: ['Icon'],
         url: 'https://shape.so/',
-        keywords: ['icons', 'illustrations', 'library', 'animated icons', 'user interface', 'design', 'Figma', 'sketchapp', 'animated illustrations', 'svg', 'shape', 'downloads', 'ui templates', 'react', 'lottie files', 'image assets', 'design tool', 'editor', 'styles', 'JSON', 'Design+Code', 'export code', 'presets', '']
+        keywords: ['icons', 'illustrations', 'library', 'animated icons', 'user interface', 'design', 'Figma', 'sketchapp', 'animated illustrations', 'svg', 'shape', 'downloads', 'ui templates', 'react', 'lottie files', 'image assets', 'design tool', 'editor', 'styles', 'JSON', 'Design+Code', 'export code', 'presets']
     },
     {
         name: 'Sheets 2 API',
@@ -298,7 +298,7 @@ export const resources: Resource[] = [
             'AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.',
         categories: ['Authentication', 'Database', 'Startup'],
         url: 'https://singlebase.cloud',
-        keywords: ['developer tools', 'database', 'backend', 'baas', 'vectordb', 'nosql', 'documentdb', 'authentication', 'ai', '']
+        keywords: ['developer tools', 'database', 'backend', 'baas', 'vectordb', 'nosql', 'documentdb', 'authentication', 'ai']
     },
     {
         name: 'Site123',
@@ -321,7 +321,7 @@ export const resources: Resource[] = [
             'A curated gallery of beautiful, modern websites meant to inspire web developers and designers.',
         categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://sitesee.co/',
-        keywords: ['website inspiration', 'website design inspiration', 'web design gallery', 'web design', 'webdesign', 'inspiration', 'web designer', 'graphic design', 'best web designs', 'website design', '']
+        keywords: ['website inspiration', 'website design inspiration', 'web design gallery', 'web design', 'webdesign', 'inspiration', 'web designer', 'graphic design', 'best web designs', 'website design']
     },
     {
         name: 'Sitespeed',
@@ -329,7 +329,7 @@ export const resources: Resource[] = [
             'Sitespeed.io is an open source tool that helps you analyse and optimise your website speed and performance, based on performance best practices.',
         categories: ['Performance'],
         url: 'https://www.sitespeed.io/',
-        keywords: ['sitespeed.io', 'wpo', 'webperf', 'perfmatters', 'fast', 'site', 'speed', 'web performance optimisation', 'analyse', 'best practices', 'continuous integration', '']
+        keywords: ['sitespeed.io', 'wpo', 'webperf', 'perfmatters', 'fast', 'site', 'speed', 'web performance optimisation', 'analyse', 'best practices', 'continuous integration']
     },
     {
         name: 'Sizzy',
@@ -358,7 +358,7 @@ export const resources: Resource[] = [
             'The ultimate AI copilot for your email inbox',
         categories: ['Email', 'AI', 'Startup'],
         url: 'https://skim.page',
-        keywords: ['email', 'assistant', 'skimai', 'email copilot', 'email ai', 'automatic draft', 'autoamtic label', 'smart inbox', '']
+        keywords: ['email', 'assistant', 'skimai', 'email copilot', 'email ai', 'automatic draft', 'autoamtic label', 'smart inbox']
     },
     {
         name: 'Slow & Steady',
@@ -373,7 +373,7 @@ export const resources: Resource[] = [
             'Download the world',
         categories: ['Icon'],
         url: 'https://smashicons.com',
-        keywords: ['free icons', 'vector icon', 'SVG', 'png icon', 'free Ui kits', 'free fonts', 'illustrations', 'graphic resources', 'free graphic templates', 'wireframes', 'icons', 'icon font', 'ios icons', 'iphone tab bar icons', 'download free icons', '@3x icons', 'iOS 8 icons', 'developer tools', 'iPhone toolbars', 'Apple HIG', 'icon designer', 'monochrome icons', 'buy icon pack', 'pack', 'icons for iOS 8', 'buy iPhone icons', 'iPad icons', 'free icons', 'vector icon', 'SVG', 'png icon', 'AI', 'Sketch', 'Illustrator icons', 'free and premium', 'UI kits', 'free fonts', 'illustrations', 'graphic resources', 'free graphic templates', 'wireframes', 'Free graphic resources', 'free patterns', '']
+        keywords: ['free icons', 'vector icon', 'SVG', 'png icon', 'free Ui kits', 'free fonts', 'illustrations', 'graphic resources', 'free graphic templates', 'wireframes', 'icons', 'icon font', 'ios icons', 'iphone tab bar icons', 'download free icons', '@3x icons', 'iOS 8 icons', 'developer tools', 'iPhone toolbars', 'Apple HIG', 'icon designer', 'monochrome icons', 'buy icon pack', 'pack', 'icons for iOS 8', 'buy iPhone icons', 'iPad icons', 'free icons', 'vector icon', 'SVG', 'png icon', 'AI', 'Sketch', 'Illustrator icons', 'free and premium', 'UI kits', 'free fonts', 'illustrations', 'graphic resources', 'free graphic templates', 'wireframes', 'Free graphic resources', 'free patterns']
     },
     {
         name: 'Smashing Magazine',
@@ -454,7 +454,7 @@ export const resources: Resource[] = [
             'Join Now to learn the basics or advance your existing skills.',
         categories: ['Learn', 'Programming'],
         url: 'https://www.sololearn.com/',
-        keywords: ['SoloLearn', 'Coding', 'Code', 'Learn how to code', 'Learn to code', 'Learn coding', 'C++', 'Java', 'Python', 'HTML', 'CSS', 'JavaScript', 'C#', '']
+        keywords: ['SoloLearn', 'Coding', 'Code', 'Learn how to code', 'Learn to code', 'Learn coding', 'C++', 'Java', 'Python', 'HTML', 'CSS', 'JavaScript', 'C#']
     },
     {
         name: 'Soundstripe',
@@ -469,7 +469,7 @@ export const resources: Resource[] = [
             'Sourcetable is an AI spreadsheet and data analyst. It has the same notation, formulas and charting as Excel, paired with the world',
         categories: ['Analytics', 'Productivity', 'Startup'],
         url: 'https://sourcetable.com',
-        keywords: ['Spreadsheet', 'AI spreadsheet', 'Analysis', 'Analytics', 'Data Cleaning', 'Research Automation', 'XLSX and CSV Analysis', 'Data Summarization', 'SQL Generator', 'Integration Capabilities', 'Voice-Driven Spreadsheet', 'Spreadsheet Automation', 'Live Data Import', 'Executive Data Reviews', 'Automated Reporting', 'Bulk CSV Analysis', 'Business Intelligence', 'Task Automation', 'Direct Platform Import', 'Interactive User Experience', 'Data Enrichment', 'Code-Driven Analysis', 'Synthetic Data Generation', 'Financial Terms and Formulae Support', 'Interactive Report Creation', 'Data Infrastructure', 'Live Data Integration', 'Python Support', 'MySQL Integration', 'PostgreSQL Integration', 'Financial Platform Integration (QuickBooks', 'Stripe)', 'CRM Integration (HubSpot)', 'E-Commerce Integration (Shopify)', 'Advertising Integration (Google Ads)', 'Interactive Visualizations', 'No Signup Required for CSV Analysis', '']
+        keywords: ['Spreadsheet', 'AI spreadsheet', 'Analysis', 'Analytics', 'Data Cleaning', 'Research Automation', 'XLSX and CSV Analysis', 'Data Summarization', 'SQL Generator', 'Integration Capabilities', 'Voice-Driven Spreadsheet', 'Spreadsheet Automation', 'Live Data Import', 'Executive Data Reviews', 'Automated Reporting', 'Bulk CSV Analysis', 'Business Intelligence', 'Task Automation', 'Direct Platform Import', 'Interactive User Experience', 'Data Enrichment', 'Code-Driven Analysis', 'Synthetic Data Generation', 'Financial Terms and Formulae Support', 'Interactive Report Creation', 'Data Infrastructure', 'Live Data Integration', 'Python Support', 'MySQL Integration', 'PostgreSQL Integration', 'Financial Platform Integration (QuickBooks', 'Stripe)', 'CRM Integration (HubSpot)', 'E-Commerce Integration (Shopify)', 'Advertising Integration (Google Ads)', 'Interactive Visualizations', 'No Signup Required for CSV Analysis']
     },
     {
         name: 'Splitbee',
@@ -608,7 +608,7 @@ export const resources: Resource[] = [
             'Create Winning Content Strategies, powered by Data, supercharged by AI',
         categories: ['Marketing', 'AI'],
         url: 'https://www.storychief.io',
-        keywords: ['SEO', 'analytics', 'content calendar', 'content strategy', 'AI copywriting', 'content collaboration', '']
+        keywords: ['SEO', 'analytics', 'content calendar', 'content strategy', 'AI copywriting', 'content collaboration']
     },
     {
         name: 'Storyset',
@@ -631,7 +631,7 @@ export const resources: Resource[] = [
             'Download 30,000 free PNG icons for website, web app, software, web design. Buy our SVG vector icon pack, the world’s largest icon library for professionals.',
         categories: ['Icon'],
         url: 'https://streamlineicons.com/',
-        keywords: ['Free icons', 'Download icons', 'Web icons', 'Vector', 'SVG', 'Royalty free icons', 'Open source icons', 'Professional icons', 'icon pack', 'iOs icons', '']
+        keywords: ['Free icons', 'Download icons', 'Web icons', 'Vector', 'SVG', 'Royalty free icons', 'Open source icons', 'Professional icons', 'icon pack', 'iOs icons']
     },
     {
         name: 'Stride Bootstrap Landingpage Template',
@@ -647,7 +647,7 @@ export const resources: Resource[] = [
             'Stryng is an AI-powered platform designed to improve the process of content creation. It is both an article generator and editor, equipped with an AI Assistant that helps perfecting high-quality articles.',
         categories: ['Editor', 'SEO', 'Writing'],
         url: 'https://stryng.io',
-        keywords: ['seo', 'keyword research', 'content marketing', 'content creation', 'content optimization', 'copywriting', 'article generator', '']
+        keywords: ['seo', 'keyword research', 'content marketing', 'content creation', 'content optimization', 'copywriting', 'article generator']
     },
     {
         name: 'StyleShout',

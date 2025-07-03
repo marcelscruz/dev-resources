@@ -180,7 +180,7 @@ export const resources: Resource[] = [
             'The Google Developers channel features talks from events, educational series, best practices, tips, and the latest updates across our products and platforms.',
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw',
-        keywords: ['google developers developers Google developers videos google developer tutorials developer tutorials developer news android firebase tensorflow chr...', '']
+        keywords: ['google developers developers Google developers videos google developer tutorials developer tutorials developer news android firebase tensorflow chr...']
     },
     {
         name: 'Google Fonts',
@@ -217,7 +217,7 @@ export const resources: Resource[] = [
             'Resume Builder – Free and easy to use. Sample resumes and tips on how to write a resume available.',
         categories: ['Resume'],
         url: 'https://www.gotresumebuilder.com/',
-        keywords: ['resume builder', 'free resume builder', 'how to write a resume', 'how to make a resume', 'sample resumes', '']
+        keywords: ['resume builder', 'free resume builder', 'how to write a resume', 'how to make a resume', 'sample resumes']
     },
     {
         name: 'GPT4oMini',
@@ -225,7 +225,7 @@ export const resources: Resource[] = [
             'GPT4oMini.app: Free GPT4oMini Access - Advanced AI Conversation Generator',
         categories: ['AI'],
         url: 'https://gpt4omini.app/',
-        keywords: ['GPT4oMini', 'GPT4o', 'Free GPT-4', 'ChatGPT', 'ChatGPT4oMini', 'chatbot', 'Free ChatGPT Access', 'AI Conversation Generator', '']
+        keywords: ['GPT4oMini', 'GPT4o', 'Free GPT-4', 'ChatGPT', 'ChatGPT4oMini', 'chatbot', 'Free ChatGPT Access', 'AI Conversation Generator']
     },
     {
         name: 'Gradient',
