@@ -186,6 +186,13 @@ export const resources: Resource[] = [
         keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
     },
     {
+        name: 'AI SEO Tools',
+        description: 'Discover the Best AI SEO Tools in One Place',
+        categories: ['Marketing', 'SEO', 'AI'],
+        url: 'https://www.ai-seo.tools',
+        keywords: ['automation', 'ai', 'marketing', 'aggregators'],
+    },
+    {
         name: 'Airtable',
         categories: ['Database'],
         description:
