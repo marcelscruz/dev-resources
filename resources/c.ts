@@ -1,4 +1,4 @@
-﻿import { Resource } from 'types'
+import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
@@ -219,6 +219,13 @@ export const resources: Resource[] = [
         categories: ['Icon'],
         description: 'Consistent open source icons as SVG for React, Vue and Svelte.',
         url: 'https://circumicons.com/',
+    },
+    {
+        name: 'CloudCannon',
+        categories: ['CMS'],
+        description: 'The Git-based CMS that lets your team edit Jamstack sites. Sync your files from GitHub, Bitbucket, or GitLab to CloudCannon and edit content visually with your team.',
+        url: 'https://cloudcannon.com',
+        keywords: ['cms', 'static site', 'git', 'visual editor', 'jamstack'],
     },
     {
         name: 'Clearbit',
