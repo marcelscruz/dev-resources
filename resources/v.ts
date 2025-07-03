@@ -15,7 +15,7 @@ export const resources: Resource[] = [
             'Vatis Tech offers advanced speech-to-text technology, converting audio or video files into text with over 90% accuracy using proprietary deep-learning algorithms',
         categories: ['AI', 'Productivity'],
         url: 'https://vatis.tech',
-        keywords: ['Speech to Text ', 'Transcription ', 'Voice Recognition ']
+        keywords: ['Speech to Text', 'Transcription', 'Voice Recognition']
     },
     {
         name: 'Vector Illustrations',
@@ -95,7 +95,7 @@ export const resources: Resource[] = [
     {
         name: 'Vim',
         description:
-            'Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as ',
+            'Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.',
         categories: ['Editor', 'Programming'],
         url: 'https://www.vim.org/',
         keywords: ['Vim', 'Vi IMproved', 'text editor', 'home', 'documentation', 'tips', 'scripts', 'news']
