@@ -42,11 +42,19 @@ const extractResourcesFromFile = (filePath: string): ResourceObject[] => {
       try {
         // Extract properties from the match
         const resourceText = match[0];
-        const nameMatch = resourceText.match(/name:\s*['"](.*?)['"]/);
-        const descriptionMatch = resourceText.match(/description:\s*['"](.*?)['"]/);
-        const categoriesMatch = resourceText.match(/categories:\s*(\[[\s\S]*?\])/);
-        const urlMatch = resourceText.match(/url:\s*['"](.*?)['"]/);
-        const keywordsMatch = resourceText.match(/keywords:\s*(\[[\s\S]*?\])/);
+        const nameMatch = resourceText.match(/name:\s*['"](.*?)(?<!\\)['"]/);
+        
+        // Use a more sophisticated regex for description to handle escaped quotes
+        let descriptionMatch = null;
+        const descriptionRegex = /description:\s*['"]((?:(?!(?<!\\)['"]).|\n)*)['"]|description:\s*`((?:(?!`).)*)`/s;
+        const descResult = resourceText.match(descriptionRegex);
+        if (descResult) {
+            descriptionMatch = [descResult[0], descResult[1] || descResult[2]];
+        }
+        
+        const categoriesMatch = resourceText.match(/categories:\s*(\[\s\S]*?\])/);
+        const urlMatch = resourceText.match(/url:\s*['"](.*?)(?<!\\)['"]/);
+        const keywordsMatch = resourceText.match(/keywords:\s*(\[\s\S]*?\])/);
         
         if (nameMatch && urlMatch) {
           const resource: ResourceObject = {
@@ -119,7 +127,9 @@ const writeResourcesToFile = (filePath: string, resources: ResourceObject[]): vo
       // Add description if present
       if (resource.description) {
         result += `        description:\n`;
-        result += `            '${resource.description}',\n`;
+        // Preserve escaped quotes and apostrophes in the description
+        const safeDescription = resource.description.replace(/'/g, "\\'").replace(/"/g, '\\"');
+        result += `            '${safeDescription}',\n`;
       }
       
       // Add categories (always present)
