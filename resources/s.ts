@@ -761,6 +761,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Strapi',
+        categories: ['CMS'],
+        description: 'Strapi is the leading open-source headless CMS. 100% JavaScript and fully customizable.',
+        url: 'https://strapi.io/',
+        keywords: ['cms', 'headless', 'javascript', 'node.js', 'react', 'open source'],
+    },
+    {
         name: 'Streamline Icons',
         categories: ['Icon'],
         description:
