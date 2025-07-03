@@ -50,7 +50,7 @@ export const resources: Resource[] = [
     {
         name: 'Edabit',
         description:
-            'Learn to code with fun, bite-sized challenges. Gain XP, unlock achievements and level up. It's like Duolingo for learning to code.',
+            'Learn to code with fun, bite-sized challenges. Gain XP, unlock achievements and level up. It\'s like Duolingo for learning to code.',
         categories: ['Code Challenge'],
         url: 'https://edabit.com/',
         keywords: ['learn to code', 'learn programming', 'how to code']
