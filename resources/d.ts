@@ -47,7 +47,8 @@ export const resources: Resource[] = [
     {
         name: 'Darkmatter',
         categories: ['CMS'],
-        description: 'Open-source headless CMS with Git integration. Makes content editing easier in static site generators like Hugo, 11ty, Next.js, Astro, and more.',
+        description:
+            'Open-source headless CMS with Git integration. Makes content editing easier in static site generators like Hugo, 11ty, Next.js, Astro, and more.',
         url: 'https://getdarkmatter.dev',
         keywords: ['cms', 'git', 'static site', 'headless', 'ssg'],
     },
@@ -76,7 +77,7 @@ export const resources: Resource[] = [
         name: 'Dark Mode Design',
         categories: ['Design', 'UI', 'Inspiration'],
         description:
-        'Dark Mode Design is a showcase of beautifully designed and inspiring dark mode websites. Dim the lights, lower your screen brightness, and enjoy.',
+            'Dark Mode Design is a showcase of beautifully designed and inspiring dark mode websites. Dim the lights, lower your screen brightness, and enjoy.',
         url: 'https://darkmodedesign.com',
         keywords: ['dark mode', 'design', 'ui', 'inspiration'],
     },
@@ -102,7 +103,7 @@ export const resources: Resource[] = [
         name: 'DAXRM',
         categories: ['Marketing', 'SEO'],
         description:
-        'DAXRM, The all-in-one CRM for digital marketers. Streamline SEO, PPC, and campaign management with real-time rank tracking and effortless drag-and-drop reporting.',
+            'DAXRM, The all-in-one CRM for digital marketers. Streamline SEO, PPC, and campaign management with real-time rank tracking and effortless drag-and-drop reporting.',
         url: 'https://www.daxrm.com/',
         keywords: ['Digital Marketing & SEO Reporting Tool', 'Rank Tracking Software'],
     },
@@ -115,31 +116,31 @@ export const resources: Resource[] = [
     {
         name: 'Decoded Frontend',
         description:
-        'Decoded Frontend is a source of advanced & pragmatic video tutorials about Angular, GraphQL and Web Development in particular. My name is Dmytro Mezhenskyi. I am an author of this channel and I have been a Frontend Developer since 2012. It means 9 Years... whoa... and I still enjoy it 😄 During my carrier I have worked with various projects which had different scale and complexity and now I realised that it is a time to share my knowledge with another developers around the globe. My channel has already helped developers to find answers on sophisticated Angular topics and I am sure you will be able to find something interesting for you as well. Subscribe to my channel, leave your feedbacks and become a better Developer 😉',
+            'Decoded Frontend is a source of advanced & pragmatic video tutorials about Angular, GraphQL and Web Development in particular. My name is Dmytro Mezhenskyi. I am an author of this channel and I have been a Frontend Developer since 2012. It means 9 Years... whoa... and I still enjoy it 😄 During my carrier I have worked with various projects which had different scale and complexity and now I realised that it is a time to share my knowledge with another developers around the globe. My channel has already helped developers to find answers on sophisticated Angular topics and I am sure you will be able to find something interesting for you as well. Subscribe to my channel, leave your feedbacks and become a better Developer 😉',
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/c/DecodedFrontend/featured',
-        
+
         keywords: ['Angular', 'GraphQL', 'Web Development', 'tutorials'],
     },
     {
         name: 'Default Alive',
         categories: ['Podcast', 'Startup'],
         description:
-        'Two founders share an unedited look at what it\'s like to bootstrap a startup through weekly updates. Chris Spags is the founder of Jetboost, a suite of no-code plugins for Webflow. Corey Haines is the founder of Swipe Files, a membership site for marketers built with no-code tools. They chronicle their journeys getting to and staying "default alive": profitable, self-sustaining, with infinite runway. – Listen to Default Alive instantly on your tablet, phone or browser - no downloads needed.',
+            'Two founders share an unedited look at what it\'s like to bootstrap a startup through weekly updates. Chris Spags is the founder of Jetboost, a suite of no-code plugins for Webflow. Corey Haines is the founder of Swipe Files, a membership site for marketers built with no-code tools. They chronicle their journeys getting to and staying "default alive": profitable, self-sustaining, with infinite runway. – Listen to Default Alive instantly on your tablet, phone or browser - no downloads needed.',
         url: 'https://podtail.com/en/podcast/default-alive/',
     },
     {
         name: 'Design System Cookbooks',
         categories: ['Design', 'UI'],
         description:
-        'Comprehensive resources for creating, organizing, and implementing effective digital design recipes.',
+            'Comprehensive resources for creating, organizing, and implementing effective digital design recipes.',
         url: 'https://www.designsystemcookbooks.com/',
     },
     {
         name: 'DesignCourse',
         categories: ['Design', 'YouTube Channel', 'UX'],
         description:
-        "New videos weekly from Monday to Thursday @ 10:30 AM ET! Hi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlus.com, DigitalTutors.com, Pluralsight.com, LinkedIn Learning & Lynda.com. I teach full stack development! Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more! Interested in a sponsorship opportunity or review?",
+            "New videos weekly from Monday to Thursday @ 10:30 AM ET! Hi, I'm Gary. I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlus.com, DigitalTutors.com, Pluralsight.com, LinkedIn Learning & Lynda.com. I teach full stack development! Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more! Interested in a sponsorship opportunity or review?",
         keywords: [
             '"web design" "logo design" "illustrator tutorials" "website design" free ui ux "user experience design" "ux design" "frontend development" "frontend developer"',
         ],
@@ -167,7 +168,7 @@ export const resources: Resource[] = [
         name: 'Design Spells',
         categories: ['Design', 'UI', 'Inspiration'],
         description:
-        'Discover micro-interactions, easter eggs, and other seemingly extra design details that infuse life, personality, and fun back into the web.',
+            'Discover micro-interactions, easter eggs, and other seemingly extra design details that infuse life, personality, and fun back into the web.',
         url: 'https://www.designspells.com/',
         keywords: ['design', 'ui', 'inspiration'],
     },
@@ -201,7 +202,7 @@ export const resources: Resource[] = [
         name: 'DEV',
         categories: ['Blog'],
         description:
-        'A constructive and inclusive social network for software developers. With you every step of your journey.',
+            'A constructive and inclusive social network for software developers. With you every step of your journey.',
         keywords: ['software development', 'engineering', 'rails', 'javascript', 'ruby'],
         url: 'https://dev.to/',
     },
@@ -215,7 +216,7 @@ export const resources: Resource[] = [
         name: 'Dev Ed',
         categories: ['Programming', 'YouTube Channel'],
         description:
-        'Learn web development, web design, 3d modelling, tools like figma and more without getting bored! The goes of this channel is to get you to become as creative you can be! So if you like to create video games in Unity or develop an application in node.js, stick around and have fun!',
+            'Learn web development, web design, 3d modelling, tools like figma and more without getting bored! The goes of this channel is to get you to become as creative you can be! So if you like to create video games in Unity or develop an application in node.js, stick around and have fun!',
         keywords: ['web development design javascript tutorials'],
         url: 'https://www.youtube.com/c/DevEd/',
     },
@@ -229,7 +230,7 @@ export const resources: Resource[] = [
         name: 'Dev Events',
         categories: ['Conference'],
         description:
-        'Dev.events is a comprehensive listing of tech conferences for developers. It covers a wide range of topics, from cutting-edge AI and computing to software development.',
+            'Dev.events is a comprehensive listing of tech conferences for developers. It covers a wide range of topics, from cutting-edge AI and computing to software development.',
         url: 'https://dev.events/',
         keywords: [
             '.Net',
@@ -254,14 +255,14 @@ export const resources: Resource[] = [
         name: 'devChallenges',
         categories: ['Code Challenge'],
         description:
-        'devChallenges.io is a community and a platform for anyone who wants to become a Software Engineer by building real-life projects and solving practical tasks. devChallenges.io is built with the goal of enabling you to build an outstanding portfolio.',
+            'devChallenges.io is a community and a platform for anyone who wants to become a Software Engineer by building real-life projects and solving practical tasks. devChallenges.io is built with the goal of enabling you to build an outstanding portfolio.',
         url: 'https://devchallenges.io/',
     },
     {
         name: 'DevDocs',
         categories: ['Documentation'],
         description:
-        'Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app including HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, and many more.',
+            'Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app including HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, and many more.',
         url: 'https://devdocs.io',
     },
     {
@@ -280,7 +281,7 @@ export const resources: Resource[] = [
         name: 'DevNews',
         categories: ['Podcast', 'Programming'],
         description:
-        'DevNews is the news show for developers by developers, hosted by Saron Yitbarek, founder of CodeNewbie, and DEV senior engineers Josh Puetz and Vaidehi Joshi. Each season these experienced devs cover the latest in the world of tech, and speak with diverse guests from a variety of backgrounds to dig deep into meaty topics such as security, the pros and cons of outsourcing your authentication, and the latest bugs and hacks.',
+            'DevNews is the news show for developers by developers, hosted by Saron Yitbarek, founder of CodeNewbie, and DEV senior engineers Josh Puetz and Vaidehi Joshi. Each season these experienced devs cover the latest in the world of tech, and speak with diverse guests from a variety of backgrounds to dig deep into meaty topics such as security, the pros and cons of outsourcing your authentication, and the latest bugs and hacks.',
         keywords: ['software development', 'engineering', 'rails', 'javascript', 'ruby'],
         url: 'https://dev.to/devnews',
     },
@@ -288,14 +289,14 @@ export const resources: Resource[] = [
         name: 'DevSamples',
         categories: ['Code Snippet'],
         description:
-        'DevSamples is a list of code samples for you to copy and paste into your projects as needed. The primary focus is on web development, but there are samples from a variety of languages.',
+            'DevSamples is a list of code samples for you to copy and paste into your projects as needed. The primary focus is on web development, but there are samples from a variety of languages.',
         url: 'http://www.devsamples.com/',
     },
     {
         name: 'DevTips',
         categories: ['Programming', 'YouTube Channel'],
         description:
-        "DevTips is slowly opening back up! We're excited to start working with a long-time community member, Jay of iEatWebsites, on bringing back top-tier, front-end development content with designers in mind to the subscribers. DevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay! Everything you see and hear are the opinions and preferences of the individual who said them, and no one else's.",
+            "DevTips is slowly opening back up! We're excited to start working with a long-time community member, Jay of iEatWebsites, on bringing back top-tier, front-end development content with designers in mind to the subscribers. DevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay! Everything you see and hear are the opinions and preferences of the individual who said them, and no one else's.",
         keywords: ['HTML CSS Javascript "Web Development" Coding Design'],
         url: 'https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ',
     },
@@ -303,7 +304,7 @@ export const resources: Resource[] = [
         name: 'Dhiwise',
         categories: ['AI', 'Code Generator', 'Productivity'],
         description:
-        'Build React and Flutter Apps at blazing fast speed without compromising on code-quality and developer-experience.',
+            'Build React and Flutter Apps at blazing fast speed without compromising on code-quality and developer-experience.',
         keywords: ['android', 'kotlin', 'node.js', 'sql', 'no-sql', 'design to code'],
         url: 'https://dhiwise.com/',
     },
@@ -324,7 +325,8 @@ export const resources: Resource[] = [
     {
         name: 'Directus',
         categories: ['CMS'],
-        description: 'Directus is a headless CMS that instantly turns your SQL database into REST and GraphQL APIs and provides a beautiful no-code app to manage content.',
+        description:
+            'Directus is a headless CMS that instantly turns your SQL database into REST and GraphQL APIs and provides a beautiful no-code app to manage content.',
         url: 'https://directus.io',
         keywords: ['cms', 'headless', 'api', 'database', 'sql', 'rest', 'graphql'],
     },

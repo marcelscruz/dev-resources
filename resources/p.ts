@@ -46,7 +46,8 @@ export const resources: Resource[] = [
     {
         name: 'Payload CMS',
         categories: ['CMS'],
-        description: 'A TypeScript headless CMS built with Express, MongoDB, and React. Completely free and open-source with a GraphQL and REST API, admin dashboard, and serverless deployment.',
+        description:
+            'A TypeScript headless CMS built with Express, MongoDB, and React. Completely free and open-source with a GraphQL and REST API, admin dashboard, and serverless deployment.',
         url: 'https://payloadcms.com/',
         keywords: ['cms', 'headless', 'typescript', 'react', 'mongodb', 'express', 'graphql', 'rest'],
     },

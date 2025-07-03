@@ -1,5 +1,5 @@
 {
-"count": 1061,
+"count": 1066,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1782,6 +1782,21 @@
         "url": "https://www.jetbrains.com/clion/"
     },
     {
+        "name": "CloudCannon",
+        "categories": [
+            "CMS"
+        ],
+        "description": "The Git-based CMS that lets your team edit Jamstack sites. Sync your files from GitHub, Bitbucket, or GitLab to CloudCannon and edit content visually with your team.",
+        "url": "https://cloudcannon.com",
+        "keywords": [
+            "cms",
+            "static site",
+            "git",
+            "visual editor",
+            "jamstack"
+        ]
+    },
+    {
         "name": "Cloudflare Pages",
         "categories": [
             "Hosting",
@@ -3034,6 +3049,21 @@
         ]
     },
     {
+        "name": "Darkmatter",
+        "categories": [
+            "CMS"
+        ],
+        "description": "Open-source headless CMS with Git integration. Makes content editing easier in static site generators like Hugo, 11ty, Next.js, Astro, and more.",
+        "url": "https://getdarkmatter.dev",
+        "keywords": [
+            "cms",
+            "git",
+            "static site",
+            "headless",
+            "ssg"
+        ]
+    },
+    {
         "name": "Dart Cheatsheet Codelab",
         "categories": [
             "Cheatsheet"
@@ -3385,6 +3415,23 @@
             "development tool",
             "boilerplate",
             "starter"
+        ]
+    },
+    {
+        "name": "Directus",
+        "categories": [
+            "CMS"
+        ],
+        "description": "Directus is a headless CMS that instantly turns your SQL database into REST and GraphQL APIs and provides a beautiful no-code app to manage content.",
+        "url": "https://directus.io",
+        "keywords": [
+            "cms",
+            "headless",
+            "api",
+            "database",
+            "sql",
+            "rest",
+            "graphql"
         ]
     },
     {
@@ -8205,6 +8252,24 @@
         "url": "https://paw.cloud/"
     },
     {
+        "name": "Payload CMS",
+        "categories": [
+            "CMS"
+        ],
+        "description": "A TypeScript headless CMS built with Express, MongoDB, and React. Completely free and open-source with a GraphQL and REST API, admin dashboard, and serverless deployment.",
+        "url": "https://payloadcms.com/",
+        "keywords": [
+            "cms",
+            "headless",
+            "typescript",
+            "react",
+            "mongodb",
+            "express",
+            "graphql",
+            "rest"
+        ]
+    },
+    {
         "name": "pCloudy",
         "categories": [
             "Testing"
@@ -10601,6 +10666,22 @@
         ],
         "description": "Edit and animate all our customizable illustrations to enhance your projects totally free. Start now to be creative in our online editor.",
         "url": "https://storyset.com/"
+    },
+    {
+        "name": "Strapi",
+        "categories": [
+            "CMS"
+        ],
+        "description": "Strapi is the leading open-source headless CMS. 100% JavaScript and fully customizable.",
+        "url": "https://strapi.io/",
+        "keywords": [
+            "cms",
+            "headless",
+            "javascript",
+            "node.js",
+            "react",
+            "open source"
+        ]
     },
     {
         "name": "Streamline Icons",
