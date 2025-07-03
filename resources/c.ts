@@ -7,43 +7,42 @@ export const resources: Resource[] = [
             'Cadabra maximizes email efficiency using AI, saving users time on reading, writing, replying, and reviewing emails',
         categories: ['Email', 'AI', 'Marketing'],
         url: 'https://trycadabra.io/',
-        keywords: ['AI', 'Email Automation', 'Productivity', 'Customer Service', 'Translation']
+        keywords: ['AI', 'Email Automation', 'Productivity', 'Customer Service', 'Translation'],
     },
     {
         name: 'CakeResume',
         description:
             'Build an impressive resume and land that dream job. View online or download the PDF for FREE! CakeResume provides more than 50 resume templates and 1,000+ resume samples to help you make a professional resume in 10 minutes.',
         categories: ['Resume'],
-        url: 'https://www.cakeresume.com/'
+        url: 'https://www.cakeresume.com/',
     },
     {
         name: 'Callstack.ai Code Reviewer',
-        description:
-            'Effortless Code Reviews: Find Bugs, Fix Security Issues, and Speed Up Performance.',
+        description: 'Effortless Code Reviews: Find Bugs, Fix Security Issues, and Speed Up Performance.',
         categories: ['AI', 'Tooling'],
         url: 'https://callstack.ai',
-        keywords: ['github-integration', 'gitlab-integration', 'pull-requests', 'AI', 'ai-powered', 'code-review']
+        keywords: ['github-integration', 'gitlab-integration', 'pull-requests', 'AI', 'ai-powered', 'code-review'],
     },
     {
         name: 'CandyIcons',
         description:
             'CandyIcons offers thousands of unique and amazing app icons that have not yet appeared elsewhere, saving you time in spotting the perfect icon for your product.',
         categories: ['Icon'],
-        url: 'https://www.candyicons.com'
+        url: 'https://www.candyicons.com',
     },
     {
         name: 'Canva',
         description:
             'Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.',
         categories: ['Design', 'UI', 'Template'],
-        url: 'https://www.canva.com/'
+        url: 'https://www.canva.com/',
     },
     {
         name: 'CanvasJs',
         description:
             'HTML5 JavaScript Charts built on top of HTML5 Canvas Element. Renders across devices & is 10x faster than JavaScript Charting libraries based on SVG.',
         categories: ['Library', 'Programming'],
-        url: 'https://canvasjs.com/'
+        url: 'https://canvasjs.com/',
     },
     {
         name: 'CapCut',
@@ -51,40 +50,38 @@ export const resources: Resource[] = [
             'CapCut is an all-in-one online video editing software which makes creation, upload & share easier, with frame by frame track editor, cloud drive etc.',
         categories: ['Image', 'Editor', 'Video'],
         url: 'https://www.capcut.com',
-        keywords: ['video editor']
+        keywords: ['video editor'],
     },
     {
         name: 'Carbon',
-        description:
-            'Carbon is the easiest way to create and share beautiful images of your source code.',
+        description: 'Carbon is the easiest way to create and share beautiful images of your source code.',
         categories: ['Code Snippet', 'Screenshot'],
-        url: 'https://carbon.now.sh'
+        url: 'https://carbon.now.sh',
     },
     {
         name: 'Carrd',
-        description:
-            'A free platform for building simple, fully responsive one-page sites for pretty much anything.',
+        description: 'A free platform for building simple, fully responsive one-page sites for pretty much anything.',
         categories: ['Website Builder'],
-        url: 'https://carrd.co'
+        url: 'https://carrd.co',
     },
     {
         name: 'Cassandra',
         description:
             'Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters.',
         categories: ['Database'],
-        url: 'http://cassandra.apache.org/'
+        url: 'http://cassandra.apache.org/',
     },
     {
         name: 'Catalog by Thesys',
         categories: ['Database', 'AI'],
-        url: 'https://catalog.thesys.dev/'
+        url: 'https://catalog.thesys.dev/',
     },
     {
         name: 'Cert Decoder',
         description:
             'Cert Decoder is a free online tool for decoding X.509 SSL/TLS certificates in PEM format directly in your browser.',
         categories: ['Security', 'Testing', 'Tooling'],
-        url: 'https://certdecoder.com/'
+        url: 'https://certdecoder.com/',
     },
     {
         name: 'Chaindesk',
@@ -92,36 +89,33 @@ export const resources: Resource[] = [
             'Chaindesk is a complete support ecosystem to help you spend less time supporting your users - and more time growing your business.',
         categories: ['AI', 'Productivity'],
         url: 'https://www.chaindesk.ai/',
-        keywords: ['ChatGPT Chatbot', 'AI Chatbot', 'Customer Support', 'Chatbot']
+        keywords: ['ChatGPT Chatbot', 'AI Chatbot', 'Customer Support', 'Chatbot'],
     },
     {
         name: 'Chakra',
-        description:
-            'Simple, Modular and Accessible UI Components for your React Applications.',
+        description: 'Simple, Modular and Accessible UI Components for your React Applications.',
         categories: ['Library', 'Programming', 'UI'],
-        url: 'https://chakra-ui.com/'
+        url: 'https://chakra-ui.com/',
     },
     {
         name: 'Chargeblast',
-        description:
-            'Chargeblast helps developers simplify their payment stack and not worry about blocking disputes',
+        description: 'Chargeblast helps developers simplify their payment stack and not worry about blocking disputes',
         categories: ['Analytics', 'Library'],
         url: 'https://www.chargeblast.com/',
-        keywords: ['payments', 'chargeback', 'stripe integration']
+        keywords: ['payments', 'chargeback', 'stripe integration'],
     },
     {
         name: 'Chart.js',
         description:
             'Simple, clean and engaging HTML5 based JavaScript charts. Chart.js is an easy way to include animated, interactive graphs on your website for free.',
         categories: ['Library', 'Programming'],
-        url: 'https://www.chartjs.org/'
+        url: 'https://www.chartjs.org/',
     },
     {
         name: 'Chartist',
-        description:
-            'Create responsive, scalable and good looking charts with chartist.js.',
+        description: 'Create responsive, scalable and good looking charts with chartist.js.',
         categories: ['Library', 'Programming'],
-        url: 'https://gionkunz.github.io/chartist-js/'
+        url: 'https://gionkunz.github.io/chartist-js/',
     },
     {
         name: 'Chatclient AI',
@@ -129,7 +123,7 @@ export const resources: Resource[] = [
             'Build Custom AI Chatbot for Your Website. Chatclient helps you with creating your own custom AI Chatbot based on your website and company data, just like ChatGPT. Seamlessly integrate it as a widget on your website.',
         categories: ['AI'],
         url: 'https://chatclient.ai',
-        keywords: ['ai', 'chatbots', 'custom chatgpt', 'ai agents']
+        keywords: ['ai', 'chatbots', 'custom chatgpt', 'ai agents'],
     },
     {
         name: 'ChatGPT Prompts by Keywords Everywhere',
@@ -137,7 +131,7 @@ export const resources: Resource[] = [
             'Rewrite business rules with an arsenal of Supercharged ChatGPT prompts at your fingertips. Shape remarkable strategies, captivate your audience, & make your business truly shine.',
         categories: ['AI'],
         url: 'https://keywordseverywhere.com/ctl/chatgpt-prompts',
-        keywords: ['ai', 'prompts']
+        keywords: ['ai', 'prompts'],
     },
     {
         name: 'Chatim',
@@ -145,7 +139,7 @@ export const resources: Resource[] = [
             'Chatim is a live chat with a chatbot automation platform that lets you connect with customers anywhere, anytime',
         categories: ['AI', 'Productivity'],
         url: 'https://chatim.app/',
-        keywords: ['Live Chat', 'Lead Generation', 'Sales', 'Chatbot']
+        keywords: ['Live Chat', 'Lead Generation', 'Sales', 'Chatbot'],
     },
     {
         name: 'Chatmoat',
@@ -153,7 +147,7 @@ export const resources: Resource[] = [
             'Chatmoat helps you build an AI chatbot for your website in just 2 minutes, delivering instant AI-generated answers, 24/7 support, and happier visitors.',
         categories: ['AI'],
         url: 'https://chatmoat.com',
-        keywords: ['ai', 'Customer Support', 'Chatbot']
+        keywords: ['ai', 'Customer Support', 'Chatbot'],
     },
     {
         name: 'ChatWithCloud',
@@ -161,70 +155,66 @@ export const resources: Resource[] = [
             'CLI allowing you to interact with AWS Cloud using human language inside your Terminal thanks to generative AI.',
         categories: ['AI'],
         url: 'https://chatwithcloud.ai',
-        keywords: ['ai', 'cloud', 'aws']
+        keywords: ['ai', 'cloud', 'aws'],
     },
     {
         name: 'Cheatography',
-        description:
-            'Find thousands of incredible, original programming cheat sheets, all free to download.',
+        description: 'Find thousands of incredible, original programming cheat sheets, all free to download.',
         categories: ['Cheatsheet'],
-        url: 'https://cheatography.com/'
+        url: 'https://cheatography.com/',
     },
     {
         name: 'Check My Links',
-        description:
-            'Check My Links is a link checker that crawls through your webpage and looks for broken links.',
+        description: 'Check My Links is a link checker that crawls through your webpage and looks for broken links.',
         categories: ['Browser', 'Extension'],
-        url: 'https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en'
+        url: 'https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en',
     },
     {
         name: 'Checka11y.css',
-        description:
-            'A CSS stylesheet to quickly highlight a11y concerns. - jackdomleo7/Checka11y.css.',
+        description: 'A CSS stylesheet to quickly highlight a11y concerns. - jackdomleo7/Checka11y.css.',
         categories: ['Accessibility', 'Programming'],
-        url: 'https://github.com/jackdomleo7/Checka11y.css'
+        url: 'https://github.com/jackdomleo7/Checka11y.css',
     },
     {
         name: 'Checklist Design',
         description:
             'Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets.',
         categories: ['Design', 'UI'],
-        url: 'https://www.checklist.design/'
+        url: 'https://www.checklist.design/',
     },
     {
         name: 'Choc UI',
         description:
             'Choc UI is a set of accessible and reusable components that are commonly used in web applications.',
         categories: ['Library', 'Programming', 'UI'],
-        url: 'https://choc-ui.com/'
+        url: 'https://choc-ui.com/',
     },
     {
         name: 'Chrome',
         description:
             'Get more done with the new Google Chrome. A more simple, secure, and faster web browser than ever, with Google’s smarts built-in. Download now.',
         categories: ['Browser'],
-        url: 'https://www.google.com/chrome/'
+        url: 'https://www.google.com/chrome/',
     },
     {
         name: 'Chrome Canary',
         description:
             'Get on the bleeding edge of the web with Chrome Canary designed for experienced developers and updated nightly.',
         categories: ['Browser'],
-        url: 'https://www.google.com/chrome/canary/'
+        url: 'https://www.google.com/chrome/canary/',
     },
     {
         name: 'Chrome Dev',
         description:
             'Google Chrome for developers was built for the open web. Test cutting-edge web platform APIs and developer tools that are updated weekly.',
         categories: ['Browser'],
-        url: 'https://www.google.com/chrome/dev/'
+        url: 'https://www.google.com/chrome/dev/',
     },
     {
         name: 'Circum Icons',
-        description:
-            'Consistent open source icons as SVG for React, Vue and Svelte.',
+        description: 'Consistent open source icons as SVG for React, Vue and Svelte.',
         categories: ['Icon'],
-        url: 'https://circumicons.com/'
+        url: 'https://circumicons.com/',
     },
     {
         name: 'CleanSnap',
@@ -232,38 +222,66 @@ export const resources: Resource[] = [
             'CleanSnap is a free AI Images maker. Create a beautiful image from a screenshot in seconds. Without any watermark.',
         categories: ['Image', 'Screenshot', 'AI'],
         url: 'https://www.cleansnap.co/',
-        keywords: ['image generation', 'beautiful screenshots', 'screenshots creator', 'how to make generate image', 'image', 'screenshot', 'download', 'easy', 'photo', 'gif', 'picture', 'instagram', 'facebook']
+        keywords: [
+            'image generation',
+            'beautiful screenshots',
+            'screenshots creator',
+            'how to make generate image',
+            'image',
+            'screenshot',
+            'download',
+            'easy',
+            'photo',
+            'gif',
+            'picture',
+            'instagram',
+            'facebook',
+        ],
     },
     {
         name: 'Clearbit',
-        description:
-            'Easily embed any company',
+        description: 'Easily embed any company',
         categories: ['Logo'],
         url: 'https://clearbit.com/logo',
-        keywords: ['company logos']
+        keywords: ['company logos'],
     },
     {
         name: 'Clerk',
-        description:
-            'Drop-in React components for authentication and authorization.',
+        description: 'Drop-in React components for authentication and authorization.',
         categories: ['Authentication', 'Library', 'Programming'],
         url: 'https://clerk.com',
-        keywords: ['react', 'next.js', 'auth', ' user management', 'react auth', 'next.js auth', 'javascript auth']
+        keywords: ['react', 'next.js', 'auth', ' user management', 'react auth', 'next.js auth', 'javascript auth'],
     },
     {
         name: 'Clideo',
-        description:
-            'Make a video by combining photos, videos, GIFs and music together — it',
+        description: 'Make a video by combining photos, videos, GIFs and music together — it',
         categories: ['Editor', 'Video'],
         url: 'https://clideo.com',
-        keywords: ['free video maker', 'youtube', 'video creator', 'how to make a video', 'online video maker', 'music', 'windows', 'download', 'easy', 'photo', 'create a video', 'gif', 'picture', 'instagram', 'facebook cover', 'clip', 'mac']
+        keywords: [
+            'free video maker',
+            'youtube',
+            'video creator',
+            'how to make a video',
+            'online video maker',
+            'music',
+            'windows',
+            'download',
+            'easy',
+            'photo',
+            'create a video',
+            'gif',
+            'picture',
+            'instagram',
+            'facebook cover',
+            'clip',
+            'mac',
+        ],
     },
     {
         name: 'CLion',
-        description:
-            'A powerful IDE from JetBrains helps you develop in C and C++ on Linux, macOS and Windows.',
+        description: 'A powerful IDE from JetBrains helps you develop in C and C++ on Linux, macOS and Windows.',
         categories: ['Editor', 'Programming'],
-        url: 'https://www.jetbrains.com/clion/'
+        url: 'https://www.jetbrains.com/clion/',
     },
     {
         name: 'CloudCannon',
@@ -271,7 +289,7 @@ export const resources: Resource[] = [
             'The Git-based CMS that lets your team edit Jamstack sites. Sync your files from GitHub, Bitbucket, or GitLab to CloudCannon and edit content visually with your team.',
         categories: ['CMS'],
         url: 'https://cloudcannon.com',
-        keywords: ['cms', 'static site', 'git', 'visual editor', 'jamstack']
+        keywords: ['cms', 'static site', 'git', 'visual editor', 'jamstack'],
     },
     {
         name: 'Cloudflare Pages',
@@ -279,28 +297,26 @@ export const resources: Resource[] = [
             'Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.',
         categories: ['Hosting', 'Serverless'],
         url: 'https://pages.cloudflare.com/',
-        keywords: ['jamstack', 'serverless', 'hosting', 'development']
+        keywords: ['jamstack', 'serverless', 'hosting', 'development'],
     },
     {
         name: 'Cloudflare Workers',
         description:
             'Cloudflare workers allow you to host serverless code. The free plan is also ideal for static site hosting',
         categories: ['Serverless'],
-        url: 'https://workers.cloudflare.com/'
+        url: 'https://workers.cloudflare.com/',
     },
     {
         name: 'cmd challenge',
-        description:
-            'Learn the command line.',
+        description: 'Learn the command line.',
         categories: ['Terminal'],
-        url: 'https://cmdchallenge.com/'
+        url: 'https://cmdchallenge.com/',
     },
     {
         name: 'Code to go',
-        description:
-            'Javascript code to go: Find updated snippets for common JavaScript use cases.',
+        description: 'Javascript code to go: Find updated snippets for common JavaScript use cases.',
         categories: ['Code Snippet', 'Programming'],
-        url: 'https://codetogo.io/'
+        url: 'https://codetogo.io/',
     },
     {
         name: 'Code Winds',
@@ -308,30 +324,73 @@ export const resources: Resource[] = [
             'CodeWinds - Leading edge live and online developer training - in-person, public or private classes, webinars, video courses, resources, tutorials for fullstack web developers. Featuring javascript, React.js, Node.js, Redux, Functional programming, Reactive programming, RxJS, and related topics.',
         categories: ['Podcast', 'Programming'],
         url: 'http://codewinds.com/podcast.html',
-        keywords: ['web', 'developer', 'training', 'fullstack', 'live classes', 'private classes', 'custom classes', 'webinars', 'screencasts', 'video', 'audio', 'online training', 'tutorials', 'video tutorials', 'classes', 'react.js', 'reactjs', 'javascript', 'js', 'es6', 'es7', 'node.js', 'nodejs', 'iojs', 'html', 'html5', 'functional programming', 'reactive programming', 'rxjs', 'redux']
+        keywords: [
+            'web',
+            'developer',
+            'training',
+            'fullstack',
+            'live classes',
+            'private classes',
+            'custom classes',
+            'webinars',
+            'screencasts',
+            'video',
+            'audio',
+            'online training',
+            'tutorials',
+            'video tutorials',
+            'classes',
+            'react.js',
+            'reactjs',
+            'javascript',
+            'js',
+            'es6',
+            'es7',
+            'node.js',
+            'nodejs',
+            'iojs',
+            'html',
+            'html5',
+            'functional programming',
+            'reactive programming',
+            'rxjs',
+            'redux',
+        ],
     },
     {
         name: 'CodeBeaver',
-        description:
-            'Get an A.I. assistant that writes tests and spots bugs',
+        description: 'Get an A.I. assistant that writes tests and spots bugs',
         categories: ['Programming', 'Testing', 'AI'],
         url: 'https://www.codebeaver.ai/',
-        keywords: ['unit testing', 'unit test', 'unit tests', 'unit test generator', 'ai', 'ai assistant', 'ai testing', 'ai unit testing']
+        keywords: [
+            'unit testing',
+            'unit test',
+            'unit tests',
+            'unit test generator',
+            'ai',
+            'ai assistant',
+            'ai testing',
+            'ai unit testing',
+        ],
     },
     {
         name: 'Codecademy',
         description:
             'Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more.',
         categories: ['Learn', 'Programming'],
-        url: 'https://www.codecademy.com/'
+        url: 'https://www.codecademy.com/',
     },
     {
         name: 'CodeChef',
-        description:
-            'Learn competitive programming with the help of CodeChef',
+        description: 'Learn competitive programming with the help of CodeChef',
         categories: ['Code Challenge'],
         url: 'https://www.codechef.com/',
-        keywords: ['programming competition', 'programming contest', 'online programming', 'online computer programming']
+        keywords: [
+            'programming competition',
+            'programming contest',
+            'online programming',
+            'online computer programming',
+        ],
     },
     {
         name: 'CodeCombat',
@@ -339,58 +398,55 @@ export const resources: Resource[] = [
             'Learn programming languages by playing the Role Playing Game. Different languages, beginner-friendly learning curve.',
         categories: ['Learn', 'Programming'],
         url: 'https://www.codecombat.com/',
-        keywords: ['Python', 'JavaScript', 'CoffeeScript', 'Lua', 'C++', 'Java']
+        keywords: ['Python', 'JavaScript', 'CoffeeScript', 'Lua', 'C++', 'Java'],
     },
     {
         name: 'Codeconia',
-        description:
-            'Learn programming with Codeconia.',
+        description: 'Learn programming with Codeconia.',
         categories: ['Blog', 'Programming'],
-        url: 'https://codeconia.com/'
+        url: 'https://codeconia.com/',
     },
     {
         name: 'CodedThemes',
         description:
             'CodedThemes provides a curated collection of high-quality, modern, professional, and easy-to-use Admin Templates and UI Kits.',
         categories: ['Template'],
-        url: 'https://codedthemes.com/'
+        url: 'https://codedthemes.com/',
     },
     {
         name: 'CodeKit',
         description:
             'CodeKit is a Mac app that makes it easy to use modern web development tools like npm, Babel, Sass, JavaScript bundling, image optimization, and ESLint.',
         categories: ['Programming', 'Tooling'],
-        url: 'https://codekitapp.com/'
+        url: 'https://codekitapp.com/',
     },
     {
         name: 'CodeLobster',
-        description:
-            'CodeLobster is free cross-platform editor with plug-ins for all popular JS and PHP frameworks.',
+        description: 'CodeLobster is free cross-platform editor with plug-ins for all popular JS and PHP frameworks.',
         categories: ['Editor', 'Programming'],
         url: 'https://codelobster.com/',
-        keywords: ['html', 'css', 'javascript', 'php', 'editor', 'code', 'ide', 'codelobster']
+        keywords: ['html', 'css', 'javascript', 'php', 'editor', 'code', 'ide', 'codelobster'],
     },
     {
         name: 'Codementor',
         description:
             'Codementor is the largest community for developer mentorship and an on-demand marketplace for software developers. Get instant coding help, build projects faster, and read programming tutorials from our community of developers.',
         categories: ['Freelance'],
-        url: 'https://www.codementor.io/'
+        url: 'https://www.codementor.io/',
     },
     {
         name: 'CodeMyUI',
         description:
             'Handpicked collection of Web Design & UI Inspiration with Code Snippets. ✅ GIF preview ✅ HTML CSS copy paste code.',
         categories: ['Code Snippet', 'UI'],
-        url: 'https://codemyui.com/'
+        url: 'https://codemyui.com/',
     },
     {
         name: 'CodeNewbie',
-        description:
-            'Stories from people on their coding journey.',
+        description: 'Stories from people on their coding journey.',
         categories: ['Podcast', 'Programming'],
         url: 'https://www.codenewbie.org/podcast/',
-        keywords: ['careers', 'development', 'jobs']
+        keywords: ['careers', 'development', 'jobs'],
     },
     {
         name: 'CodePen',
@@ -398,21 +454,47 @@ export const resources: Resource[] = [
             'An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets, projects, and web applications.',
         categories: ['Editor', 'Programming'],
         url: 'https://codepen.io/',
-        keywords: ['javascript', 'css', 'editor', 'code', 'community', 'social', 'frontend', 'front', 'end', 'developer', 'designer', 'jobs', 'hiring', 'deploy', 'test', 'demo', 'spa', 'single', 'page', 'application', 'web', 'html', 'modern', 'ide', 'browser', 'pen', 'codepen']
+        keywords: [
+            'javascript',
+            'css',
+            'editor',
+            'code',
+            'community',
+            'social',
+            'frontend',
+            'front',
+            'end',
+            'developer',
+            'designer',
+            'jobs',
+            'hiring',
+            'deploy',
+            'test',
+            'demo',
+            'spa',
+            'single',
+            'page',
+            'application',
+            'web',
+            'html',
+            'modern',
+            'ide',
+            'browser',
+            'pen',
+            'codepen',
+        ],
     },
     {
         name: 'CodePen Radio',
-        description:
-            'A podcast all about what it',
+        description: 'A podcast all about what it',
         categories: ['Podcast', 'Programming'],
-        url: 'https://blog.codepen.io/radio/'
+        url: 'https://blog.codepen.io/radio/',
     },
     {
         name: 'Codepip',
-        description:
-            'Learn to code by playing games.',
+        description: 'Learn to code by playing games.',
         categories: ['Learn', 'Programming'],
-        url: 'https://codepip.com'
+        url: 'https://codepip.com',
     },
     {
         name: 'Coderbyte',
@@ -420,7 +502,21 @@ export const resources: Resource[] = [
             'Improve your coding skills with our library of 300+ challenges and prepare for coding interviews with content from leading technology companies.',
         categories: ['Code Challenge'],
         url: 'https://coderbyte.com/',
-        keywords: ['coderbyte', 'coder byte', 'coding', 'coding', 'bootcamp', 'code school', 'programming challenges', 'practice coding', 'algorithm', 'math', 'puzzles', 'test you programming skills', 'codetbytes']
+        keywords: [
+            'coderbyte',
+            'coder byte',
+            'coding',
+            'coding',
+            'bootcamp',
+            'code school',
+            'programming challenges',
+            'practice coding',
+            'algorithm',
+            'math',
+            'puzzles',
+            'test you programming skills',
+            'codetbytes',
+        ],
     },
     {
         name: 'CodeSandbox',
@@ -428,21 +524,41 @@ export const resources: Resource[] = [
             'CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.',
         categories: ['Editor', 'Programming'],
         url: 'https://codesandbox.io/',
-        keywords: ['react', 'codesandbox', 'editor', 'vue', 'angular', 'ide', 'code', 'javascript', 'playground', 'sharing', 'spa', 'single', 'page', 'application', 'web', 'application', 'frontend', 'front', 'end']
+        keywords: [
+            'react',
+            'codesandbox',
+            'editor',
+            'vue',
+            'angular',
+            'ide',
+            'code',
+            'javascript',
+            'playground',
+            'sharing',
+            'spa',
+            'single',
+            'page',
+            'application',
+            'web',
+            'application',
+            'frontend',
+            'front',
+            'end',
+        ],
     },
     {
         name: 'Codeshare',
         description:
             'Share code in real-time with developers in your browser. An online code editor for interviews, troubleshooting, teaching.',
         categories: ['Editor', 'Programming'],
-        url: 'https://codeshare.io/'
+        url: 'https://codeshare.io/',
     },
     {
         name: 'CodeTriage',
         description:
             'Discover the easiest way to get started contributing to open source. Over 62,317 devs are helping 6,584 projects with our free, community developed tools',
         categories: ['Hacktoberfest', 'Open Source'],
-        url: 'https://www.codetriage.com/'
+        url: 'https://www.codetriage.com/',
     },
     {
         name: 'Codewars',
@@ -450,14 +566,26 @@ export const resources: Resource[] = [
             'Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.',
         categories: ['Code Challenge'],
         url: 'https://www.codewars.com/',
-        keywords: ['codewars', 'code kata', 'kata', 'code gym', 'coding', 'code practice', 'ruby', 'javascript', 'coffeescript', 'web development', 'software development', 'dojo']
+        keywords: [
+            'codewars',
+            'code kata',
+            'kata',
+            'code gym',
+            'coding',
+            'code practice',
+            'ruby',
+            'javascript',
+            'coffeescript',
+            'web development',
+            'software development',
+            'dojo',
+        ],
     },
     {
         name: 'Codiga',
-        description:
-            'Codiga is a Coding Assistant that lets you create, share and import code snippets from your IDE.',
+        description: 'Codiga is a Coding Assistant that lets you create, share and import code snippets from your IDE.',
         categories: ['Editor', 'Extension'],
-        url: 'https://www.codiga.io'
+        url: 'https://www.codiga.io',
     },
     {
         name: 'Coding Tech',
@@ -465,14 +593,16 @@ export const resources: Resource[] = [
             'Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here',
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ',
-        keywords: ['javascript python css html machine learning artificial intelligence software development programming']
+        keywords: [
+            'javascript python css html machine learning artificial intelligence software development programming',
+        ],
     },
     {
         name: 'CodinGame',
         description:
             'CodinGame is a challenge-based training platform for programmers where you can improve your coding skills with fun exercises (25+ languages supported).',
         categories: ['Code Challenge'],
-        url: 'https://www.codingame.com/'
+        url: 'https://www.codingame.com/',
     },
     {
         name: 'Codinn',
@@ -480,14 +610,14 @@ export const resources: Resource[] = [
             '30 Days of ReactJs challenge is a step by step tutorial to level up your React skills in 30 days by developing 30 projects.',
         categories: ['Learn', 'Programming'],
         url: 'https://www.codinn.dev/',
-        keywords: ['frontend', 'html', 'css', 'reactjs', 'react', 'javascript', 'react projects', 'reactjs projects']
+        keywords: ['frontend', 'html', 'css', 'reactjs', 'react', 'javascript', 'react projects', 'reactjs projects'],
     },
     {
         name: 'Codrops',
         description:
             'Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.',
         categories: ['Inspiration', 'UI'],
-        url: 'https://tympanus.net/codrops/'
+        url: 'https://tympanus.net/codrops/',
     },
     {
         name: 'Collect UI',
@@ -495,49 +625,47 @@ export const resources: Resource[] = [
             'Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.',
         categories: ['Inspiration', 'UI'],
         url: 'http://collectui.com/',
-        keywords: ['dailyui', 'daily ui', 'ui challenge', 'daily inspiration', 'ui inspiration']
+        keywords: ['dailyui', 'daily ui', 'ui challenge', 'daily inspiration', 'ui inspiration'],
     },
     {
         name: 'Color Contrast Checker',
-        description:
-            'Make sure your website has accessible colors.',
+        description: 'Make sure your website has accessible colors.',
         categories: ['Accessibility'],
-        url: 'https://zarhasan.github.io/color-contrast-checker/'
+        url: 'https://zarhasan.github.io/color-contrast-checker/',
     },
     {
         name: 'Color Hunt',
         description:
             'Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.',
         categories: ['Color'],
-        url: 'https://colorhunt.co/'
+        url: 'https://colorhunt.co/',
     },
     {
         name: 'Color-hex',
         description:
             'Color hex is a easy to use tool to get the color codes information including color models (RGB,HSL,HSV and CMYK), css and html color codes.',
         categories: ['Color'],
-        url: 'https://www.color-hex.com/'
+        url: 'https://www.color-hex.com/',
     },
     {
         name: 'Color.review',
         description:
             'A modern tool for exploring and finding accessible colors. Make sure that everyone can see your creations.',
         categories: ['Accessibility', 'Color'],
-        url: 'https://color.review/'
+        url: 'https://color.review/',
     },
     {
         name: 'Colorffy',
         description:
             'Create many gradients and palettes or save one of many color schemes, for everyone who needs colors.',
         categories: ['Color'],
-        url: 'https://colorffy.com/'
+        url: 'https://colorffy.com/',
     },
     {
         name: 'Colorlib',
-        description:
-            'Colorlib is the ONLY resource you',
+        description: 'Colorlib is the ONLY resource you',
         categories: ['Template'],
-        url: 'https://colorlib.com/'
+        url: 'https://colorlib.com/',
     },
     {
         name: 'ColorMagic',
@@ -545,42 +673,46 @@ export const resources: Resource[] = [
             'Instantly generate stunning color palettes and schemes from a name, image, hex code, word, or one color with AI',
         categories: ['Color'],
         url: 'https://colormagic.app/',
-        keywords: ['color palette', 'color palette generator', 'color themes', 'color palettes', 'ai color palette generator']
+        keywords: [
+            'color palette',
+            'color palette generator',
+            'color themes',
+            'color palettes',
+            'ai color palette generator',
+        ],
     },
     {
         name: 'Colormind',
         description:
             'Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.',
         categories: ['Color'],
-        url: 'http://colormind.io/'
+        url: 'http://colormind.io/',
     },
     {
         name: 'colors.lol',
-        description:
-            'A fun way to discover interesting color combinations.',
+        description: 'A fun way to discover interesting color combinations.',
         categories: ['Color'],
-        url: 'https://colors.lol/'
+        url: 'https://colors.lol/',
     },
     {
         name: 'Colorsinspo',
         description:
             'Colorsinspo is all in one resource to find everything about colors with extreme ease. Also, you will get Freebies, Inspirations, Color Tools, Gradients, and thousands of trendy hand-picked color palettes.',
         categories: ['Color'],
-        url: 'https://colorsinspo.com/'
+        url: 'https://colorsinspo.com/',
     },
     {
         name: 'ColorSpace',
         description:
             'Here you can find the perfect matching color scheme for your next project! Generate nice color palettes, color gradients and much more! Your space for everything that has to do with color!',
         categories: ['Color'],
-        url: 'https://mycolor.space/'
+        url: 'https://mycolor.space/',
     },
     {
         name: 'ColorZilla',
-        description:
-            'Advanced Eyedropper, Color Picker, Gradient Generator and more.',
+        description: 'Advanced Eyedropper, Color Picker, Gradient Generator and more.',
         categories: ['Color', 'Editor', 'Extension'],
-        url: 'https://www.colorzilla.com/'
+        url: 'https://www.colorzilla.com/',
     },
     {
         name: 'Commit Your Code!',
@@ -588,22 +720,63 @@ export const resources: Resource[] = [
             'Commit Your Code is about motivating and inspiring developers of all levels to reach their goals in tech. We will be sharing stories and interviewing developers that have gone through this and made it to their dream jobs!',
         categories: ['Podcast', 'Programming'],
         url: 'https://anchor.fm/commityourcode',
-        keywords: ['podcast hosting', 'free podcast hosting', 'make a podcast', 'making a podcast', 'create a podcast', 'creating a podcast', 'podcast sponsorships', 'sponsor a podcast', 'free', 'audio', 'recording', 'audio clip', 'anchor', 'podcasts', 'voice', 'microphone', 'podcast', 'podcast creation', 'record', 'conversation', 'discussion', 'talk', 'talking', 'radio', 'public radio', 'npr', 'startup', 'talk radio']
+        keywords: [
+            'podcast hosting',
+            'free podcast hosting',
+            'make a podcast',
+            'making a podcast',
+            'create a podcast',
+            'creating a podcast',
+            'podcast sponsorships',
+            'sponsor a podcast',
+            'free',
+            'audio',
+            'recording',
+            'audio clip',
+            'anchor',
+            'podcasts',
+            'voice',
+            'microphone',
+            'podcast',
+            'podcast creation',
+            'record',
+            'conversation',
+            'discussion',
+            'talk',
+            'talking',
+            'radio',
+            'public radio',
+            'npr',
+            'startup',
+            'talk radio',
+        ],
     },
     {
         name: 'Community List',
         description:
             'Finding relevant communities takes hours and manual googling sucks. With Community List, quickly find relevant communities with all the data you need in one place.',
         categories: ['Marketing'],
-        url: 'https://getcommunitylist.com/'
+        url: 'https://getcommunitylist.com/',
     },
     {
         name: 'Compare pixels',
-        description:
-            'Use this tool to quickly check differences between design mockups and the live website.',
+        description: 'Use this tool to quickly check differences between design mockups and the live website.',
         categories: ['Design', 'UI'],
         url: 'https://usepastel.com/compare-pixels',
-        keywords: ['feedback', 'website', 'share', 'link', 'live', 'visual', 'comment', 'sticky', 'note', 'pin', 'server', 'web']
+        keywords: [
+            'feedback',
+            'website',
+            'share',
+            'link',
+            'live',
+            'visual',
+            'comment',
+            'sticky',
+            'note',
+            'pin',
+            'server',
+            'web',
+        ],
     },
     {
         name: 'Compot',
@@ -611,21 +784,20 @@ export const resources: Resource[] = [
             'Design and develop SwiftUI apps faster with Compot – a growing library of crafted SwiftUI components and templates ready to copy and use in your iOS apps.',
         categories: ['Prototyping', 'UI'],
         url: 'https://www.compotui.com',
-        keywords: ['ios', 'swift', 'swiftui', 'development', 'components', 'xcode', 'apple', 'iphone', 'app']
+        keywords: ['ios', 'swift', 'swiftui', 'development', 'components', 'xcode', 'apple', 'iphone', 'app'],
     },
     {
         name: 'Compressor',
         description:
             'Optimize and compress your jpeg and png images online. Compressor is a lossy and lossless photo compression tool.',
         categories: ['Image', 'Tooling'],
-        url: 'https://compressor.io/'
+        url: 'https://compressor.io/',
     },
     {
         name: 'Computer Science courses with video lectures',
-        description:
-            'List of Computer Science courses with video lectures.',
+        description: 'List of Computer Science courses with video lectures.',
         categories: ['Learn', 'Programming'],
-        url: 'https://github.com/Developer-Y/cs-video-courses'
+        url: 'https://github.com/Developer-Y/cs-video-courses',
     },
     {
         name: 'Confs.Tech',
@@ -633,14 +805,31 @@ export const resources: Resource[] = [
             'Open-Source project that lists upcoming tech conferences. Everything is free and will stay free. It is a technical conferences finder.',
         categories: ['Conference'],
         url: 'https://confs.tech/',
-        keywords: ['.Net', 'Accessibility', 'Android', 'CSS', 'Data - AI', 'Design - UX', 'DevOps', 'Elixir', 'IoT', 'Java', 'JavaScript', 'PHP', 'Python', 'Ruby', 'Security', 'iOS']
+        keywords: [
+            '.Net',
+            'Accessibility',
+            'Android',
+            'CSS',
+            'Data - AI',
+            'Design - UX',
+            'DevOps',
+            'Elixir',
+            'IoT',
+            'Java',
+            'JavaScript',
+            'PHP',
+            'Python',
+            'Ruby',
+            'Security',
+            'iOS',
+        ],
     },
     {
         name: 'Console Ninja',
         description:
             'Console Ninja is a VS Code extension that allows you to see console.log output and runtime errors right next to your code.',
         categories: ['Editor', 'Extension'],
-        url: 'https://console-ninja.com'
+        url: 'https://console-ninja.com',
     },
     {
         name: 'ContentKing',
@@ -648,44 +837,47 @@ export const resources: Resource[] = [
             'ContentKing keeps track of your website 24/7 so that you can catch unexpected changes and issues before search engines and visitors do.',
         categories: ['SEO'],
         url: 'https://www.contentkingapp.com/',
-        keywords: ['seo', 'content', 'monitoring', 'website', 'audit']
+        keywords: ['seo', 'content', 'monitoring', 'website', 'audit'],
     },
     {
         name: 'Context Data',
-        description:
-            'Data Processing & ETL infrastructure for Generative AI applications',
+        description: 'Data Processing & ETL infrastructure for Generative AI applications',
         categories: ['AI', 'Database'],
         url: 'https://contextdata.ai',
-        keywords: ['ai infrastructure', 'generative ai', 'vector database', 'rag', 'data engineering', 'retrieval augmented generation']
+        keywords: [
+            'ai infrastructure',
+            'generative ai',
+            'vector database',
+            'rag',
+            'data engineering',
+            'retrieval augmented generation',
+        ],
     },
     {
         name: 'Contrast Ratio',
-        description:
-            'Easily calculate color contrast ratios.',
+        description: 'Easily calculate color contrast ratios.',
         categories: ['Accessibility', 'Color'],
-        url: 'https://contrast-ratio.com/'
+        url: 'https://contrast-ratio.com/',
     },
     {
         name: 'Control',
-        description:
-            'Combo set of 108 customizable illustrations.',
+        description: 'Combo set of 108 customizable illustrations.',
         categories: ['Illustration'],
-        url: 'https://control.rocks/'
+        url: 'https://control.rocks/',
     },
     {
         name: 'Conversion Strategies Database',
         description:
             'Join 881 smart founders and SaaS companies who are growing their sales with Swipe conversion strategies database.',
         categories: ['Marketing'],
-        url: 'https://gumroad.com/a/399283315/WCKkj'
+        url: 'https://gumroad.com/a/399283315/WCKkj',
     },
     {
         name: 'Convert.ai',
-        description:
-            'Generates quality B2B sales meetings with personalized AI outreach.',
+        description: 'Generates quality B2B sales meetings with personalized AI outreach.',
         categories: ['AI', 'Marketing', 'Startup'],
         url: 'https://convert.ai/',
-        keywords: ['ai sdr', 'sales', 'ai sales outreach', 'b2b lead generation']
+        keywords: ['ai sdr', 'sales', 'ai sales outreach', 'b2b lead generation'],
     },
     {
         name: 'CookieYes',
@@ -693,37 +885,71 @@ export const resources: Resource[] = [
             'CookieYes is a cookie consent solution that helps your website achieve GDPR and CCPA compliance easily. Create a lifetime free account!',
         categories: ['Legal'],
         url: 'https://www.cookieyes.com/',
-        keywords: ['privacy', 'cookie', 'policy']
+        keywords: ['privacy', 'cookie', 'policy'],
     },
     {
         name: 'Coolors',
-        description:
-            'Generate or browse beautiful color combinations for your designs.',
+        description: 'Generate or browse beautiful color combinations for your designs.',
         categories: ['Color'],
         url: 'https://coolors.co/',
-        keywords: ['color scheme', 'scheme color', 'color schemes', 'color theme', 'color palette', 'color themes', 'color palettes', 'color combinations', 'color', 'colors', 'palettes', 'hex color wheel', 'pastel color palette', 'color wheel', 'color combination', 'color pallete', 'color names', 'web color schemes', 'color wheel generator', 'extract color palette from image', 'random color palette generator', 'color schemes generator', 'ui color palette generator', 'pretty colors', 'vintage color', 'color palette from image']
+        keywords: [
+            'color scheme',
+            'scheme color',
+            'color schemes',
+            'color theme',
+            'color palette',
+            'color themes',
+            'color palettes',
+            'color combinations',
+            'color',
+            'colors',
+            'palettes',
+            'hex color wheel',
+            'pastel color palette',
+            'color wheel',
+            'color combination',
+            'color pallete',
+            'color names',
+            'web color schemes',
+            'color wheel generator',
+            'extract color palette from image',
+            'random color palette generator',
+            'color schemes generator',
+            'ui color palette generator',
+            'pretty colors',
+            'vintage color',
+            'color palette from image',
+        ],
     },
     {
         name: 'Copy Paste CSS',
         description:
             'Find inspiration with a collection of simple CSS elements to copy and paste ( button, box-shadow, text-input, color palette )',
         categories: ['Code Snippet', 'Programming'],
-        url: 'https://copy-paste-css.com/'
+        url: 'https://copy-paste-css.com/',
     },
     {
         name: 'CopyAI',
-        description:
-            'We have created the world',
+        description: 'We have created the world',
         categories: ['AI', 'Writing'],
-        url: 'https://www.copy.ai/'
+        url: 'https://www.copy.ai/',
     },
     {
         name: 'Corbado',
-        description:
-            'Passkey-first authentication for developers',
+        description: 'Passkey-first authentication for developers',
         categories: ['Authentication', 'Library', 'Programming'],
         url: 'https://www.corbado.com',
-        keywords: ['passkeys', 'php', 'react', 'next.js', 'auth', ' user management', 'react auth', 'next.js auth', 'javascript auth']
+        keywords: [
+            'passkeys',
+            'php',
+            'react',
+            'next.js',
+            'auth',
+            ' user management',
+            'react auth',
+            'next.js auth',
+            'javascript auth',
+        ],
     },
     {
         name: 'Core Web Vitals History Checker',
@@ -731,28 +957,28 @@ export const resources: Resource[] = [
             'Know if the core web vitals for a url or an origin have improved, degraded or remained stable for the last six months.',
         categories: ['Performance'],
         url: 'https://punits.dev/core-web-vitals-historical/',
-        keywords: ['web performance', 'performance', 'crux', 'core web vitals']
+        keywords: ['web performance', 'performance', 'crux', 'core web vitals'],
     },
     {
         name: 'CoreUI',
         description:
             'Time is our most valuable asset, that’s why we want to help you save it by creating simple, customizable, easy to learn UI components and Admin Templates which significantly cut development time. CoreUI lets you save thousands of priceless hours because it offers everything you need to create modern, beautiful, and responsive applications.',
         categories: ['Template'],
-        url: 'https://coreui.io/'
+        url: 'https://coreui.io/',
     },
     {
         name: 'CouchDB',
         description:
             'CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice.',
         categories: ['Database'],
-        url: 'https://couchdb.apache.org/'
+        url: 'https://couchdb.apache.org/',
     },
     {
         name: 'Coursera',
         description:
             'Join Coursera for free and learn online. Build skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM. Advance your career with degrees, certificates, Specializations, &amp; MOOCs in data science, computer science, business, and dozens of other topics.',
         categories: ['Learn', 'Programming'],
-        url: 'https://www.coursera.org/'
+        url: 'https://www.coursera.org/',
     },
     {
         name: 'Cozytypes',
@@ -760,7 +986,15 @@ export const resources: Resource[] = [
             'A simple and aesthetic typing website to help improve your typing speed and accuracy. a simple typing website for keyboard enthusiasts. Practice in different different modes, personalize your settings and preferences, and improve your skills.',
         categories: ['Typing'],
         url: 'https://cozytypes.com',
-        keywords: ['typing', 'typing-test', 'cozytypes', 'words per minute', 'simple typing website', 'improve typing', 'practice typing']
+        keywords: [
+            'typing',
+            'typing-test',
+            'cozytypes',
+            'words per minute',
+            'simple typing website',
+            'improve typing',
+            'practice typing',
+        ],
     },
     {
         name: 'Craftwork',
@@ -768,14 +1002,14 @@ export const resources: Resource[] = [
             'Design resources for everyone. Freebies and premium web design products, custom illustrations and graphics on one marketplace.',
         categories: ['Font', 'Icon', 'Illustration'],
         url: 'https://craftwork.design',
-        keywords: ['ui', 'ux', 'vector', 'graphics', '3d']
+        keywords: ['ui', 'ux', 'vector', 'graphics', '3d'],
     },
     {
         name: 'CreativesFeed',
         description:
             'CreativesFeed works to share the best free code snippets and web development resources online. We create free, downloadable code snippets and provide tutorials on web design and development to help agencies and individuals learn and grow!',
         categories: ['Code Snippet'],
-        url: 'https://creativesfeed.com/topics/code-snippets/'
+        url: 'https://creativesfeed.com/topics/code-snippets/',
     },
     {
         name: 'Creduse',
@@ -783,99 +1017,100 @@ export const resources: Resource[] = [
             'Creduse is a plug-and-play solution that lets developers integrate credits into their platforms via API without a lot of hassle. It’s aimed at startups and businesses that want to boost sales, user engagement, and retention.',
         categories: ['API Building', 'Analytics', 'Startup'],
         url: 'https://creduse.com/',
-        keywords: ['api', 'credits', 'payments', 'subscriptions', 'credit-based system', 'saas', 'startup', 'pay-as-you-go']
+        keywords: [
+            'api',
+            'credits',
+            'payments',
+            'subscriptions',
+            'credit-based system',
+            'saas',
+            'startup',
+            'pay-as-you-go',
+        ],
     },
     {
         name: 'Cruip',
         description:
             'Cruip is a gallery of premium and free HTML, Vue.js and React landing page templates for startups and SaaS.',
         categories: ['Programming', 'Template'],
-        url: 'https://cruip.com/'
+        url: 'https://cruip.com/',
     },
     {
         name: 'CS50',
-        description:
-            'This is CS50, Harvard University',
+        description: 'This is CS50, Harvard University',
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/user/cs50tv',
-        keywords: ['cs50 harvard computer science david j. malan']
+        keywords: ['cs50 harvard computer science david j. malan'],
     },
     {
         name: 'CSS Diner',
-        description:
-            'A fun game to help you learn and practice CSS selectors.',
+        description: 'A fun game to help you learn and practice CSS selectors.',
         categories: ['Learn', 'Programming'],
-        url: 'https://flukeout.github.io/'
+        url: 'https://flukeout.github.io/',
     },
     {
         name: 'CSS Gradient',
         description:
             'As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.',
         categories: ['Code Challenge', 'Color', 'Programming'],
-        url: 'https://cssgradient.io/'
+        url: 'https://cssgradient.io/',
     },
     {
         name: 'CSS Layout News',
-        description:
-            'A weekly collection of tutorials, news and information on all things CSS Layout.',
+        description: 'A weekly collection of tutorials, news and information on all things CSS Layout.',
         categories: ['Newsletter', 'Programming'],
-        url: 'https://csslayout.news/'
+        url: 'https://csslayout.news/',
     },
     {
         name: 'CSS Nectar',
         description:
             'CSS Nectar is a css website design showcase for web designers and developers. Every day we select the best of the web design and add it to our gallery. Submit or suggest a website.',
         categories: ['Inspiration', 'UI'],
-        url: 'https://cssnectar.com//'
+        url: 'https://cssnectar.com//',
     },
     {
         name: 'CSS Reference',
         description:
             'CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.',
         categories: ['Cheatsheet'],
-        url: 'https://cssreference.io/'
+        url: 'https://cssreference.io/',
     },
     {
         name: 'CSS Scan',
-        description:
-            'Goodbye to ',
+        description: 'Goodbye to ',
         categories: ['Browser', 'Extension', 'Programming'],
-        url: 'https://getcssscan.com/'
+        url: 'https://getcssscan.com/',
     },
     {
         name: 'CSS Weekly',
-        description:
-            'Weekly e-mail roundup of latest css articles, tutorials, tools and experiments.',
+        description: 'Weekly e-mail roundup of latest css articles, tutorials, tools and experiments.',
         categories: ['Newsletter', 'Programming'],
-        url: 'https://css-weekly.com/'
+        url: 'https://css-weekly.com/',
     },
     {
         name: 'CSS-Tricks',
-        description:
-            'CSS-Tricks is a website about websites.',
+        description: 'CSS-Tricks is a website about websites.',
         categories: ['Blog', 'Code Snippet', 'Newsletter', 'Programming'],
-        url: 'https://css-tricks.com'
+        url: 'https://css-tricks.com',
     },
     {
         name: 'css.gg',
         description:
             'Pure CSS icons library, Customizable & Retina-Ready built 100% in pure CSS, SVG, SVG Sprite, styled-components, Figma and Adobe XD. Easy integration: Embed, NPM & API.',
         categories: ['Icon', 'Programming'],
-        url: 'https://css.gg/'
+        url: 'https://css.gg/',
     },
     {
         name: 'CSSBattle',
-        description:
-            'CSS Code Golfing is Here!',
+        description: 'CSS Code Golfing is Here!',
         categories: ['Code Challenge', 'Learn', 'Programming'],
-        url: 'https://cssbattle.dev/'
+        url: 'https://cssbattle.dev/',
     },
     {
         name: 'CSSButtonMaker',
-        description:
-            'Create stunning buttons in just a few clicks!',
+        description: 'Create stunning buttons in just a few clicks!',
         categories: ['Programming', 'Open Source', 'UI'],
-        url: 'https://axorax.github.io/css-button-maker/'
+        url: 'https://axorax.github.io/css-button-maker/',
     },
     {
         name: 'CSSnippets',
@@ -883,42 +1118,46 @@ export const resources: Resource[] = [
             'CSSnippets is a collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more.',
         categories: ['Code Snippet', 'Programming', 'Animation'],
         url: 'https://cssnippets.shefali.dev/',
-        keywords: ['css snippets', 'react snippets', 'tailwind css snippets', 'css code snippets', 'FREE Tailwind Components']
+        keywords: [
+            'css snippets',
+            'react snippets',
+            'tailwind css snippets',
+            'css code snippets',
+            'FREE Tailwind Components',
+        ],
     },
     {
         name: 'CSSViewer',
-        description:
-            'A simple CSS property viewer.',
+        description: 'A simple CSS property viewer.',
         categories: ['Browser', 'Extension'],
-        url: 'https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce'
+        url: 'https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce',
     },
     {
         name: 'Customer.io',
         description:
             'With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions.',
         categories: ['Marketing'],
-        url: 'https://customer.io/'
+        url: 'https://customer.io/',
     },
     {
         name: 'Cynagon',
-        description:
-            'Cynagon is the ultimate tool for creating viral and engaging short-form videos.',
+        description: 'Cynagon is the ultimate tool for creating viral and engaging short-form videos.',
         categories: ['AI', 'Video'],
         url: 'https://www.cynagon.com/',
-        keywords: ['ai', 'ai video', 'video generator', 'shorts generator', 'ai shorts', 'shorts content']
+        keywords: ['ai', 'ai video', 'video generator', 'shorts generator', 'ai shorts', 'shorts content'],
     },
     {
         name: 'Cypress',
         description:
             'Fast, easy and reliable testing for anything that runs in a browser. Install Cypress in seconds and take the pain out of front-end testing.',
         categories: ['Testing'],
-        url: 'https://www.cypress.io/'
+        url: 'https://www.cypress.io/',
     },
     {
         name: 'Cytoscape.js',
         description:
             'Graph theory / network library for analysis and visualisation - compatible with CommonJS/Node.js/Browserify/Webpack, AMD/Require.js, npm, Bower, jspm, Meteor/Atmosphere, jQuery, and plain JS/JavaScript.',
         categories: ['Library', 'Programming'],
-        url: 'https://js.cytoscape.org/'
-    }
+        url: 'https://js.cytoscape.org/',
+    },
 ]

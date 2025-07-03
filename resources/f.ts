@@ -6,35 +6,34 @@ export const resources: Resource[] = [
         description:
             'F5Bot is a free service that emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. Use it to monitor your brand, your projects, or just topics that you',
         categories: ['Productivity', 'Tooling'],
-        url: 'https://f5bot.com/'
+        url: 'https://f5bot.com/',
     },
     {
         name: 'Famewall',
-        description:
-            'Collect and add testimonials to your website.',
+        description: 'Collect and add testimonials to your website.',
         categories: ['Marketing'],
-        url: 'https://famewall.io/'
+        url: 'https://famewall.io/',
     },
     {
         name: 'Fast Articles AI',
         description:
             'Fast Articles AI is an advanced AI writing tool for SEO. Generate perfect SEO articles and blog posts in seconds.',
         categories: ['Marketing', 'SEO', 'Writing'],
-        url: 'https://fastarticles.ai/'
+        url: 'https://fastarticles.ai/',
     },
     {
         name: 'Fathom',
         description:
             'Fathom Analytics is simple, GDPR + CCPA + PECR compliant website analytics tool, no cookie notice required. No tracking or storing personal data of your users.',
         categories: ['Analytics'],
-        url: 'https://usefathom.com/'
+        url: 'https://usefathom.com/',
     },
     {
         name: 'Feather',
         description:
             'Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.',
         categories: ['Icon'],
-        url: 'https://feathericons.com/'
+        url: 'https://feathericons.com/',
     },
     {
         name: 'Figma',
@@ -42,50 +41,61 @@ export const resources: Resource[] = [
             'Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.',
         categories: ['Design', 'Prototyping', 'UI'],
         url: 'https://www.figma.com/',
-        keywords: ['design', 'design tools', 'ux', 'ui', 'user experience design', 'collaboration', 'design editor', 'constraints', 'vectors', 'vector editor', 'svg', 'user interface design']
+        keywords: [
+            'design',
+            'design tools',
+            'ux',
+            'ui',
+            'user experience design',
+            'collaboration',
+            'design editor',
+            'constraints',
+            'vectors',
+            'vector editor',
+            'svg',
+            'user interface design',
+        ],
     },
     {
         name: 'FigmaCrush',
         description:
             'FigmaCrush is a curated collection of Figma resources: UI kits, icons, website templates and all sorts of freebies created and shared by the Figma community.',
         categories: ['Design', 'Inspiration', 'UI'],
-        url: 'https://www.figmacrush.com/'
+        url: 'https://www.figmacrush.com/',
     },
     {
         name: 'FinetuneFast',
-        description:
-            'Finetune ML models in days, not weeks',
+        description: 'Finetune ML models in days, not weeks',
         categories: ['AI', 'Productivity', 'Programming'],
         url: 'https://finetunefast.com',
-        keywords: ['boilerplate', 'LLM', 'finetuning', 'machine learning']
+        keywords: ['boilerplate', 'LLM', 'finetuning', 'machine learning'],
     },
     {
         name: 'Firebase',
         description:
             'Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.',
         categories: ['Authentication', 'Database', 'Hosting', 'Serverless'],
-        url: 'https://firebase.google.com/'
+        url: 'https://firebase.google.com/',
     },
     {
         name: 'Firefox',
-        description:
-            'Faster page loading, less memory usage and packed with features, the new Firefox is here.',
+        description: 'Faster page loading, less memory usage and packed with features, the new Firefox is here.',
         categories: ['Browser'],
-        url: 'https://www.mozilla.org/en-US/firefox/new/'
+        url: 'https://www.mozilla.org/en-US/firefox/new/',
     },
     {
         name: 'Firefox Developer',
         description:
             'Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging.',
         categories: ['Browser'],
-        url: 'https://www.mozilla.org/en-US/firefox/developer/'
+        url: 'https://www.mozilla.org/en-US/firefox/developer/',
     },
     {
         name: 'Firefox Nightly',
         description:
             'Get a sneak peek at our next generation web browser, and help us make it the best browser it can be',
         categories: ['Browser'],
-        url: 'https://www.mozilla.org/en-US/firefox/69.0a1/releasenotes/'
+        url: 'https://www.mozilla.org/en-US/firefox/69.0a1/releasenotes/',
     },
     {
         name: 'Fireship',
@@ -93,63 +103,73 @@ export const resources: Resource[] = [
             'High-intensity ⚡ code tutorials to help you build & ship your app faster. Subscribe for new videos every week covering intermediate to advanced lessons about JavaScript, Flutter, Firebase, and modern app development. The original home of #100SecondsOfCode and #CodeThisNotThat. Created by Jeff Delaney.',
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/c/Fireship/featured',
-        keywords: ['#CodeThisNotThat', '#100SecondsOfCode', 'javaScript', 'flutter', 'firebase', 'coding tutorials', 'Jeff Delaney', 'development', 'angular', 'git', 'nextJS', 'developer productivity', 'top N lists']
+        keywords: [
+            '#CodeThisNotThat',
+            '#100SecondsOfCode',
+            'javaScript',
+            'flutter',
+            'firebase',
+            'coding tutorials',
+            'Jeff Delaney',
+            'development',
+            'angular',
+            'git',
+            'nextJS',
+            'developer productivity',
+            'top N lists',
+        ],
     },
     {
         name: 'Firestore',
         description:
             'Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps through realtime listeners and offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity. Cloud Firestore also offers seamless integration with other Firebase and Google Cloud products, including Cloud Functions.',
         categories: ['Database'],
-        url: 'https://firebase.google.com/docs/firestore'
+        url: 'https://firebase.google.com/docs/firestore',
     },
     {
         name: 'First Timers Only',
-        description:
-            'Find the best opportunities to create a pull request for the first time.',
+        description: 'Find the best opportunities to create a pull request for the first time.',
         categories: ['Hacktoberfest', 'Open Source'],
-        url: 'https://www.firsttimersonly.com/'
+        url: 'https://www.firsttimersonly.com/',
     },
     {
         name: 'Fiverr',
-        description:
-            'One marketplace, millions of professional services. Browse. Buy. Done.',
+        description: 'One marketplace, millions of professional services. Browse. Buy. Done.',
         categories: ['Freelance'],
-        url: 'https://www.fiverr.com/'
+        url: 'https://www.fiverr.com/',
     },
     {
         name: 'Flaticon',
-        description:
-            'Download all icons in SVG, PSD, PNG, EPS format or as webfonts.',
+        description: 'Download all icons in SVG, PSD, PNG, EPS format or as webfonts.',
         categories: ['Icon'],
-        url: 'https://www.flaticon.com'
+        url: 'https://www.flaticon.com',
     },
     {
         name: 'Fleexy',
         description:
             'Fleexy is a product company specializing in the development of easy-to-use microapps for businesses. Our microapps are backed by thousands of hours of development and continuous improvement, ensuring that your project stays up-to-date with the latest features and advancements.',
         categories: ['Programming', 'Startup', 'Website Builder'],
-        url: 'https://www.fleexy.dev'
+        url: 'https://www.fleexy.dev',
     },
     {
         name: 'Flexbox Adventure',
         description:
             'Flexbox layout has a lot of properties and nuances that are hard to remember, learn it in the fun and interesting way that works – a CSS RPG game!',
         categories: ['Learn', 'Programming'],
-        url: 'https://codingfantasy.com/games/flexboxadventure'
+        url: 'https://codingfantasy.com/games/flexboxadventure',
     },
     {
         name: 'Flexbox Defense',
         description:
             'Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!',
         categories: ['Learn', 'Programming'],
-        url: 'http://www.flexboxdefense.com/'
+        url: 'http://www.flexboxdefense.com/',
     },
     {
         name: 'Flexbox Froggy',
-        description:
-            'A game for learning CSS flexbox.',
+        description: 'A game for learning CSS flexbox.',
         categories: ['Learn', 'Programming'],
-        url: 'http://flexboxfroggy.com/'
+        url: 'http://flexboxfroggy.com/',
     },
     {
         name: 'FlexJobs',
@@ -157,7 +177,16 @@ export const resources: Resource[] = [
             'The #1 job site to find hand-screened, remote work from home & flexible jobs since 2007. Find a better way to work in 50+ career categories today!',
         categories: ['Job', 'Remote'],
         url: 'https://www.flexjobs.com/',
-        keywords: ['remote jobs', 'remote work', 'telecommuting jobs', 'telecommute jobs', 'part-time jobs', 'freelance jobs', 'flexible jobs', 'flexible schedule jobs']
+        keywords: [
+            'remote jobs',
+            'remote work',
+            'telecommuting jobs',
+            'telecommute jobs',
+            'part-time jobs',
+            'freelance jobs',
+            'flexible jobs',
+            'flexible schedule jobs',
+        ],
     },
     {
         name: 'Flowbite',
@@ -165,22 +194,21 @@ export const resources: Resource[] = [
             'Get started with an open-source library of over 600+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.',
         categories: ['Icon', 'Library', 'UI'],
         url: 'https://flowbite.com/',
-        keywords: ['tailwind', 'ui components', 'ui kits', 'icon']
+        keywords: ['tailwind', 'ui components', 'ui kits', 'icon'],
     },
     {
         name: 'Fluid UI',
         description:
             'Free lifetime account. Simple to learn, quick to master. Design interactive prototypes for Android, iOS, web and desktop in minutes.',
         categories: ['Prototyping', 'UI'],
-        url: 'https://www.fluidui.com/'
+        url: 'https://www.fluidui.com/',
     },
     {
         name: 'FLUX AI ART',
-        description:
-            'AI Image Generator',
+        description: 'AI Image Generator',
         categories: ['Design', 'Image', 'AI'],
         url: 'https://fluxaiart.ai/',
-        keywords: ['image generator', 'image processing', 'productivity tool', 'content creation']
+        keywords: ['image generator', 'image processing', 'productivity tool', 'content creation'],
     },
     {
         name: 'Font Awesome',
@@ -188,7 +216,19 @@ export const resources: Resource[] = [
             'The world’s most popular and easiest to use icon set just got an upgrade. More icons. More styles. More Options.',
         categories: ['Icon'],
         url: 'https://fontawesome.com',
-        keywords: ['icons', 'vector icons', 'svg icons', 'free icons', 'icon font', 'webfont', 'desktop icons', 'svg', 'font awesome', 'font awesome free', 'font awesome pro']
+        keywords: [
+            'icons',
+            'vector icons',
+            'svg icons',
+            'free icons',
+            'icon font',
+            'webfont',
+            'desktop icons',
+            'svg',
+            'font awesome',
+            'font awesome free',
+            'font awesome pro',
+        ],
     },
     {
         name: 'Font Get',
@@ -196,15 +236,14 @@ export const resources: Resource[] = [
             'Download Free Fonts for your website, Mac, Windows, Linux, iOS and Android. Try our best in class Font Generator for every kind of font!',
         categories: ['Font'],
         url: 'https://www.fontget.com/',
-        keywords: ['fonts', 'free fonts', 'download fonts', 'font generator', 'famous font']
+        keywords: ['fonts', 'free fonts', 'download fonts', 'font generator', 'famous font'],
     },
     {
         name: 'Font Of Web',
-        description:
-            'Identify and download website fonts.',
+        description: 'Identify and download website fonts.',
         categories: ['Font'],
         url: 'https://www.fontofweb.com/',
-        keywords: ['fonts', 'font identifier', 'font finder', 'free fonts', 'download fonts']
+        keywords: ['fonts', 'font identifier', 'font finder', 'free fonts', 'download fonts'],
     },
     {
         name: 'Font Share',
@@ -212,67 +251,100 @@ export const resources: Resource[] = [
             'Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all.',
         categories: ['Font'],
         url: 'https://www.fontshare.com/',
-        keywords: ['fonts', 'free fonts', 'download fonts']
+        keywords: ['fonts', 'free fonts', 'download fonts'],
     },
     {
         name: 'Font Space',
         description:
             'Free downloads of legally licensed fonts that are perfect for your design projects. The best place in the universe to search for amazing fonts.',
         categories: ['Font'],
-        url: 'https://www.fontspace.com/'
+        url: 'https://www.fontspace.com/',
     },
     {
         name: 'Font Squirrel',
-        description:
-            'Handpicked free fonts for graphic designers with commercial-use licenses.',
+        description: 'Handpicked free fonts for graphic designers with commercial-use licenses.',
         categories: ['Font'],
         url: 'https://www.fontsquirrel.com/',
-        keywords: ['free fonts', 'handwriting fonts', 'calligraphy free fonts', 'designer fonts', 'serif  fonts', 'sans serif  fonts', 'grunge  fonts', 'script fonts', 'typewriter fonts']
+        keywords: [
+            'free fonts',
+            'handwriting fonts',
+            'calligraphy free fonts',
+            'designer fonts',
+            'serif  fonts',
+            'sans serif  fonts',
+            'grunge  fonts',
+            'script fonts',
+            'typewriter fonts',
+        ],
     },
     {
         name: 'Fontello',
-        description:
-            'Build custom fonts from icons.',
+        description: 'Build custom fonts from icons.',
         categories: ['Icon'],
         url: 'https://fontello.com',
-        keywords: ['icons', 'fonts']
+        keywords: ['icons', 'fonts'],
     },
     {
         name: 'Fontjoy',
         description:
             'Fontjoy helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing.',
         categories: ['Font'],
-        url: 'https://fontjoy.com/'
+        url: 'https://fontjoy.com/',
     },
     {
         name: 'FontPair',
-        description:
-            'FontPair is a typography tool that inspires the creative community to design better.',
+        description: 'FontPair is a typography tool that inspires the creative community to design better.',
         categories: ['Font'],
         url: 'https://fontpair.co/',
-        keywords: ['FontPair', 'Font Pair', 'Google Fonts', 'Google Font combinations', 'Google Font pairs', 'beautiful Google Fonts', 'typography', 'fonts', 'typefaces']
+        keywords: [
+            'FontPair',
+            'Font Pair',
+            'Google Fonts',
+            'Google Font combinations',
+            'Google Font pairs',
+            'beautiful Google Fonts',
+            'typography',
+            'fonts',
+            'typefaces',
+        ],
     },
     {
         name: 'Fonts In Use',
-        description:
-            'A searchable archive of typographic design, indexed by typeface, format, and topic.',
+        description: 'A searchable archive of typographic design, indexed by typeface, format, and topic.',
         categories: ['Font'],
-        url: 'https://fontsinuse.com/'
+        url: 'https://fontsinuse.com/',
     },
     {
         name: 'Fonts2u',
-        description:
-            'Fonts2u offers a large collection of free fonts. Download free fonts for Windows and Macintosh.',
+        description: 'Fonts2u offers a large collection of free fonts. Download free fonts for Windows and Macintosh.',
         categories: ['Font'],
         url: 'https://fonts2u.com/',
-        keywords: ['free fonts', 'download fonts', 'fonts', 'free', 'font', 'typefaces', 'typography', 'typeface', 'true type', 'truetype fonts', 'opentype', 'opentype fonts', 'windows', 'windows fonts', 'macintosh', 'mac fonts', 'macintosh fonts']
+        keywords: [
+            'free fonts',
+            'download fonts',
+            'fonts',
+            'free',
+            'font',
+            'typefaces',
+            'typography',
+            'typeface',
+            'true type',
+            'truetype fonts',
+            'opentype',
+            'opentype fonts',
+            'windows',
+            'windows fonts',
+            'macintosh',
+            'mac fonts',
+            'macintosh fonts',
+        ],
     },
     {
         name: 'FontSpark',
         description:
             'Fontspark is the best place for you. We are providing all the latest and professional free fonts for download that you can use on your projects.',
         categories: ['Font'],
-        url: 'https://fontspark.com/'
+        url: 'https://fontspark.com/',
     },
     {
         name: 'Foundy',
@@ -280,37 +352,57 @@ export const resources: Resource[] = [
             'Sell your business at a higher valuation or find quality acquisitions with Foundy AI and expert support.',
         categories: ['Startup', 'AI'],
         url: 'https://foundy.com',
-        keywords: ['business', 'sell', 'buy']
+        keywords: ['business', 'sell', 'buy'],
     },
     {
         name: 'Fountn',
-        description:
-            'World’s largest collection of design resources, curated by designers.',
+        description: 'World’s largest collection of design resources, curated by designers.',
         categories: ['Design', 'Learn', 'UI'],
         url: 'https://fountn.design',
-        keywords: ['design', 'resources', 'ui kits', 'icons', 'templates']
+        keywords: ['design', 'resources', 'ui kits', 'icons', 'templates'],
     },
     {
         name: 'Framer',
         description:
             'Start your website with AI and design on a familiar canvas. Add animations, interactions and a CMS. Optimize for every breakpoint — no code needed and publish for free.',
         categories: ['Design', 'Prototyping', 'UI', 'Website Builder'],
-        url: 'https://www.framer.com'
+        url: 'https://www.framer.com',
     },
     {
         name: 'Free Faces',
         description:
             'This website is a curated collection of typefaces that are available under a variety of free licences somewhere on the interwebs.',
         categories: ['Font'],
-        url: 'https://www.freefaces.gallery'
+        url: 'https://www.freefaces.gallery',
     },
     {
         name: 'Free For Geeks',
-        description:
-            'Stop searching, start building. Free resources for developers.',
+        description: 'Stop searching, start building. Free resources for developers.',
         categories: ['Open Source'],
         url: 'https://freeforgeeks.jpdiaz.dev',
-        keywords: ['free', 'javascript', 'website', 'web', 'development', 'course', 'courses', 'html', 'css', 'react', 'redux', 'api', 'frontend', 'backend', 'devops', 'devsecops', 'career development', 'learn', 'tutorial', 'programming', 'open source']
+        keywords: [
+            'free',
+            'javascript',
+            'website',
+            'web',
+            'development',
+            'course',
+            'courses',
+            'html',
+            'css',
+            'react',
+            'redux',
+            'api',
+            'frontend',
+            'backend',
+            'devops',
+            'devsecops',
+            'career development',
+            'learn',
+            'tutorial',
+            'programming',
+            'open source',
+        ],
     },
     {
         name: 'freeCodeCamp',
@@ -318,22 +410,60 @@ export const resources: Resource[] = [
             'Learn to code at home. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including Google, Apple, Amazon, and Microsoft.',
         categories: ['Learn', 'Programming'],
         url: 'https://www.freecodecamp.org/',
-        keywords: ['javascript', 'js', 'website', 'web', 'development', 'free', 'code', 'camp', 'course', 'courses', 'html', 'css', 'react', 'redux', 'api', 'front', 'back', 'end', 'learn', 'tutorial', 'programming']
+        keywords: [
+            'javascript',
+            'js',
+            'website',
+            'web',
+            'development',
+            'free',
+            'code',
+            'camp',
+            'course',
+            'courses',
+            'html',
+            'css',
+            'react',
+            'redux',
+            'api',
+            'front',
+            'back',
+            'end',
+            'learn',
+            'tutorial',
+            'programming',
+        ],
     },
     {
         name: 'FreeForDev',
-        description:
-            'an Awesome List of Tools available for Free to Enhance your Productivity.',
+        description: 'an Awesome List of Tools available for Free to Enhance your Productivity.',
         categories: ['Open Source'],
         url: 'https://free-for.dev/',
-        keywords: ['free', 'javascript', 'website', 'web', 'development', 'course', 'courses', 'html', 'css', 'react', 'api', 'frontend', 'backend', 'learn', 'programming', 'open source']
+        keywords: [
+            'free',
+            'javascript',
+            'website',
+            'web',
+            'development',
+            'course',
+            'courses',
+            'html',
+            'css',
+            'react',
+            'api',
+            'frontend',
+            'backend',
+            'learn',
+            'programming',
+            'open source',
+        ],
     },
     {
         name: 'FreeHTML5',
         description:
             'Free website templates, free HTML5 templates using Bootstrap framework. High quality free website templates for all.',
         categories: ['Template'],
-        url: 'https://freehtml5.co/'
+        url: 'https://freehtml5.co/',
     },
     {
         name: 'Freeicons',
@@ -341,21 +471,43 @@ export const resources: Resource[] = [
             'Freeicons is  a free platform for download vector icons in SVG, PNG, EPS, AI and PSD format. Here You',
         categories: ['Icon'],
         url: 'https://freeicons.io/',
-        keywords: ['vector icons', 'download free icons', 'free icons', 'free vector icons', 'free icons for commercial use', 'free svg icons', 'free eps and ai icons', 'free psd icons', 'windows 8 icons', 'metro icons', 'iphone tab bar icons', 'android icons', 'material icons', 'monochrome icons', 'icon pack', 'windows 10 icons', 'pack', 'icons for iOS 11', 'iPhone icons', 'iPad icons', 'material icons', 'office style icons']
+        keywords: [
+            'vector icons',
+            'download free icons',
+            'free icons',
+            'free vector icons',
+            'free icons for commercial use',
+            'free svg icons',
+            'free eps and ai icons',
+            'free psd icons',
+            'windows 8 icons',
+            'metro icons',
+            'iphone tab bar icons',
+            'android icons',
+            'material icons',
+            'monochrome icons',
+            'icon pack',
+            'windows 10 icons',
+            'pack',
+            'icons for iOS 11',
+            'iPhone icons',
+            'iPad icons',
+            'material icons',
+            'office style icons',
+        ],
     },
     {
         name: 'Freelancer',
-        description:
-            'Find & hire top freelancers, web developers & designers inexpensively. World',
+        description: 'Find & hire top freelancers, web developers & designers inexpensively. World',
         categories: ['Freelance'],
-        url: 'https://www.freelancer.com/'
+        url: 'https://www.freelancer.com/',
     },
     {
         name: 'FreePhotos.cc',
         description:
             'Find free beautiful stock photos with Creative Commons (CC) licensing. Download royalty free images and use them on your website or print!',
         categories: ['Image'],
-        url: 'https://freephotos.cc/en'
+        url: 'https://freephotos.cc/en',
     },
     {
         name: 'Freepik',
@@ -363,74 +515,83 @@ export const resources: Resource[] = [
             'All the assets you need, in one place. Find and download the best high-quality photos, designs, and mockups.',
         categories: ['Illustration', 'Image'],
         url: 'https://www.freepik.com/',
-        keywords: ['freepik', 'vectors', 'illustration', 'photos']
+        keywords: ['freepik', 'vectors', 'illustration', 'photos'],
     },
     {
         name: 'Freesets',
-        description:
-            'Collection of free resources like icons, images, illustrations, components, libraries and more!',
+        description: 'Collection of free resources like icons, images, illustrations, components, libraries and more!',
         categories: ['Open Source'],
         url: 'https://freesets.vercel.app',
-        keywords: ['icons', 'images', 'videos', 'illustrations', 'fonts']
+        keywords: ['icons', 'images', 'videos', 'illustrations', 'fonts'],
     },
     {
         name: 'Freestuff',
-        description:
-            'Find any tools or services that free for developer to use.',
+        description: 'Find any tools or services that free for developer to use.',
         categories: ['Open Source'],
         url: 'https://freestuff.dev/',
-        keywords: ['database', 'api', 'awesome-list', 'productivity', 'learning-resource', 'asset', 'hosting', 'storage', 'serverless', 'authentication', 'security', 'playground', 'image', 'monitoring']
+        keywords: [
+            'database',
+            'api',
+            'awesome-list',
+            'productivity',
+            'learning-resource',
+            'asset',
+            'hosting',
+            'storage',
+            'serverless',
+            'authentication',
+            'security',
+            'playground',
+            'image',
+            'monitoring',
+        ],
     },
     {
         name: 'Freeter',
         description:
             'Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, MacOS. Free and Open-Source.',
         categories: ['Productivity', 'Tooling'],
-        url: 'https://freeter.io/'
+        url: 'https://freeter.io/',
     },
     {
         name: 'FreeTools.site',
-        description:
-            'Free online tools - convert or edit documents, images, audio, video and more.',
+        description: 'Free online tools - convert or edit documents, images, audio, video and more.',
         categories: ['Image'],
-        url: 'https://freetools.site/'
+        url: 'https://freetools.site/',
     },
     {
         name: 'FreshRemote.Work',
-        description:
-            'All fresh remote work and work from home opportunities with salaries in one place 🚀',
+        description: 'All fresh remote work and work from home opportunities with salaries in one place 🚀',
         categories: ['Job', 'Remote'],
         url: 'https://freshremote.work/',
-        keywords: ['career', 'fresh', 'opensalary', 'remote', 'jobs', 'jobsearch', 'developer', 'wfh']
+        keywords: ['career', 'fresh', 'opensalary', 'remote', 'jobs', 'jobsearch', 'developer', 'wfh'],
     },
     {
         name: 'FridayGPT',
-        description:
-            'Fast and Native ChatGPT mac app. Access ChatGPT instantly on top of any app or website.',
+        description: 'Fast and Native ChatGPT mac app. Access ChatGPT instantly on top of any app or website.',
         categories: ['AI', 'Productivity'],
         url: 'https://www.fridaygpt.app/',
-        keywords: ['chatgpt', 'mac', 'prompts']
+        keywords: ['chatgpt', 'mac', 'prompts'],
     },
     {
         name: 'Front End Happy Hour',
         description:
             'A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development.',
         categories: ['Podcast', 'Programming'],
-        url: 'https://frontendhappyhour.com/'
+        url: 'https://frontendhappyhour.com/',
     },
     {
         name: 'Frontend Focus',
         description:
             'A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.',
         categories: ['Newsletter', 'Programming'],
-        url: 'https://frontendfoc.us/'
+        url: 'https://frontendfoc.us/',
     },
     {
         name: 'Frontend Masters',
-        description:
-            'Advance your skills with in-depth, modern JavaScript and front-end engineering courses.',
+        description: 'Advance your skills with in-depth, modern JavaScript and front-end engineering courses.',
         categories: ['Learn', 'Programming'],
-        url: 'https://frontendmasters.com/'
+        url: 'https://frontendmasters.com/',
     },
     {
         name: 'Frontend Mentor',
@@ -438,44 +599,41 @@ export const resources: Resource[] = [
             'Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.',
         categories: ['Code Challenge'],
         url: 'https://www.frontendmentor.io/',
-        keywords: ['frontend', 'html', 'css', 'flexbox', 'grid', 'rwd', 'mobile-first', 'javascript']
+        keywords: ['frontend', 'html', 'css', 'flexbox', 'grid', 'rwd', 'mobile-first', 'javascript'],
     },
     {
         name: 'Frontend Practice',
-        description:
-            'A collection of real websites for developers to recreate to improve and test their skills.',
+        description: 'A collection of real websites for developers to recreate to improve and test their skills.',
         categories: ['Learn', 'Programming'],
-        url: 'https://www.frontendpractice.com/'
+        url: 'https://www.frontendpractice.com/',
     },
     {
         name: 'Frontend Tips',
-        description:
-            'Tiny tips, tricks & best practices for front-end development',
+        description: 'Tiny tips, tricks & best practices for front-end development',
         categories: ['Learn', 'Programming'],
         url: 'https://getfrontend.tips/',
-        keywords: ['Front-end tips', 'Front-end tricks', 'Best front-end practices']
+        keywords: ['Front-end tips', 'Front-end tricks', 'Best front-end practices'],
     },
     {
         name: 'Frontend Toolkit',
         description:
             'Frontend Toolkit is a customizable dashboard for your recurring Frontend tasks. Base64 encoder/decoder, SVG optimizations, SVG to JSX and many more!',
         categories: ['Productivity', 'Programming'],
-        url: 'https://www.fetoolkit.io/'
+        url: 'https://www.fetoolkit.io/',
     },
     {
         name: 'Frontendor',
         description:
             'Reusable HTML templates and blocks to help you build beautiful and professional landing pages quickly and easily by COPY-PASTE.',
         categories: ['Template'],
-        url: 'https://frontendor.com/'
+        url: 'https://frontendor.com/',
     },
     {
         name: 'Full Stack Radio',
-        description:
-            'A podcast for developers interested in building great software products. Hosted by Adam Wathan.',
+        description: 'A podcast for developers interested in building great software products. Hosted by Adam Wathan.',
         categories: ['Podcast', 'Programming'],
         url: 'https://fullstackradio.com/',
-        keywords: ['technology', 'software', 'web', 'development', 'product', 'startup']
+        keywords: ['technology', 'software', 'web', 'development', 'product', 'startup'],
     },
     {
         name: 'Fun Fun Function',
@@ -483,7 +641,9 @@ export const resources: Resource[] = [
             'I’m Mattias Petter Johansson, mpj for short. I’ve been a full-time programmer for over twenty (!) years. Among others, I',
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q',
-        keywords: ['javascript web development programming software development technology computer science engineering developer creativity productivity']
+        keywords: [
+            'javascript web development programming software development technology computer science engineering developer creativity productivity',
+        ],
     },
     {
         name: 'Fuselio',
@@ -491,6 +651,14 @@ export const resources: Resource[] = [
             'Fuselio is a rapid MVP development platform for startups and SMEs, enabling the development of custom mobile and web applications in just 6 weeks. ',
         categories: ['Productivity'],
         url: 'https://www.fuselio.com/',
-        keywords: ['web development', 'programming', 'software development', 'technology', 'engineering', 'developer', 'Mobile Development']
-    }
+        keywords: [
+            'web development',
+            'programming',
+            'software development',
+            'technology',
+            'engineering',
+            'developer',
+            'Mobile Development',
+        ],
+    },
 ]
