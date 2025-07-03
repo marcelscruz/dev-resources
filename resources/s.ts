@@ -132,6 +132,13 @@ export const resources: Resource[] = [
         keywords: ['html5', 'ui', 'library', 'framework', 'javascript'],
     },
     {
+        name: 'Server-side Rendering (SSR) Checker',
+        description: 'Check if a given URL is server-side rendered or not by visually comparing the server-side rendered and the regular versions of the page.',
+        categories: ['SEO', 'Performance'],
+        url: 'https://www.crawlably.com/ssr-checker/',
+        keywords: ['SEO', 'frontend', 'javascript', 'performance'],
+    },
+    {
         name: 'SEO Blueprint',
         description: 'Cutting-edge SEO tactics that are actually ranking websites.',
         categories: ['SEO'],
