@@ -103,7 +103,7 @@ export const resources: Resource[] = [
     {
         name: 'Vim Adventures',
         description:
-            'VIM Adventures is an online game based on VIM\',
+        'VIM Adventures is an online game based on VIM\'s keyboard shortcuts. It\'s the \"Zelda meets text editing\" game. So come have some fun and learn some VIM!',
         categories: ['Typing'],
         url: 'https://vim-adventures.com/'
     },
