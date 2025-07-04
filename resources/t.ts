@@ -332,6 +332,13 @@ export const resources: Resource[] = [
         url: 'https://www.toptal.com/',
     },
     {
+        name: 'Tracking Personal Finances using Python',
+        description: 'Learn double-entry bookkeeping with Python. Build a plaintext accounting system using Beancount in this comprehensive book for software developers.',
+        categories: ['Book', 'Productivity'],
+        url: 'https://personalfinancespython.com',
+        keywords: ['Beancount', 'Python', 'Finances'],
+    },
+    {
         name: 'Transform Tools',
         description: 'A polyglot web converter.',
         categories: ['Programming'],
