@@ -340,6 +340,13 @@ export const resources: Resource[] = [
         url: 'https://github.com/brunopulis/awesome-a11y',
     },
     {
+        name: 'Awesome AI Coding Tools',
+        description:
+            'A curated list of top best AI-powered coding tools and plugins.',
+        categories: ['AI'],
+        url: 'https://github.com/tokyo-dal/awesome-ai-coding-tools',
+    },
+    {
         name: 'Awesome Certificates',
         description: 'A curated list of IT, Computer Science and Business courses with free certificates to earn.',
         categories: ['Learn', 'Programming'],
