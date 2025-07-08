@@ -197,8 +197,7 @@ export const resources: Resource[] = [
     {
         name: 'Shadcnblocks',
         categories: ['Template', 'UI', 'Design'],
-        description:
-            'Hundreds of extra blocks and components for shadcn/ui, Tailwind & React.',
+        description: 'Hundreds of extra blocks and components for shadcn/ui, Tailwind & React.',
         url: 'https://shadcnblocks.com',
     },
     {

@@ -1,5 +1,5 @@
 {
-"count": 1072,
+"count": 1073,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9955,6 +9955,16 @@
             "HTTP(s)",
             "DNS"
         ]
+    },
+    {
+        "name": "Shadcnblocks",
+        "categories": [
+            "Template",
+            "UI",
+            "Design"
+        ],
+        "description": "Hundreds of extra blocks and components for shadcn/ui, Tailwind & React.",
+        "url": "https://shadcnblocks.com"
     },
     {
         "name": "Shape",
