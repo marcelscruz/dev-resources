@@ -115,6 +115,13 @@ export const resources: Resource[] = [
         url: 'https://grid.layoutit.com/',
     },
     {
+        name: 'Lead Generation Tools',
+        description: 'Handpicked Collection Of Lead Generation Tool',
+        categories: ['Marketing', 'Productivity', 'Startup'],
+        url: 'https://www.lead-generation.tools',
+        keywords: ['directory', 'automation', 'ai​', 'aggregators'],
+    },
+    {
         name: 'Learn CSS',
         description: 'An evergreen CSS course and reference to level up your web styling expertise.',
         categories: ['Learn', 'Programming'],
