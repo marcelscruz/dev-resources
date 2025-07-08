@@ -1,5 +1,5 @@
 {
-"count": 72,
+"count": 73,
 "data": [
     {
         "name": "Accessibility",
@@ -52,6 +52,10 @@
     {
         "name": "Cloud Computing",
         "slug": "cloud-computing"
+    },
+    {
+        "name": "CMS",
+        "slug": "cms"
     },
     {
         "name": "Code Challenge",
