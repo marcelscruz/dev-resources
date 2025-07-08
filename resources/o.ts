@@ -170,4 +170,11 @@ export const resources: Resource[] = [
         categories: ['Icon'],
         url: 'https://orioniconlibrary.com/',
     },
+    {
+        name: 'Outlier Kit',
+        description: 'Discover Youtube niches, trends & Keywords',
+        categories: ['Marketing', 'Video', 'AI'],
+        url: 'https://outlierkit.com/',
+        keywords: ['youtube', 'youtube content strategy', 'youtube keyword research tool', 'niche finder for youtube', 'youtube tools'],
+    },
 ]
