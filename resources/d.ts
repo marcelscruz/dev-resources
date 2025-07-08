@@ -148,10 +148,10 @@ export const resources: Resource[] = [
     {
         name: 'DeelFlows',
         description:
-            'Deel Flows is a WhatsApp First Marketing Platform that allows businesses to create broadcasts, design customer journeys, and segment users on WhatsApp. It\'s designed to make WhatsApp marketing more efficient and effective.',
+            "Deel Flows is a WhatsApp First Marketing Platform that allows businesses to create broadcasts, design customer journeys, and segment users on WhatsApp. It's designed to make WhatsApp marketing more efficient and effective.",
         categories: ['Marketing', 'Analytics'],
         url: 'https://www.deelflows.com',
-        keywords: ['whatsapp', 'marketing', 'analytics', 'customer'], 
+        keywords: ['whatsapp', 'marketing', 'analytics', 'customer'],
     },
     {
         name: 'Default Alive',
