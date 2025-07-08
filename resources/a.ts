@@ -186,6 +186,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'AI SEO Tools',
+        description: 'Discover the Best AI SEO Tools in One Place',
+        categories: ['Marketing', 'SEO', 'AI'],
+        url: 'https://www.ai-seo.tools',
+        keywords: ['automation', 'ai', 'marketing', 'aggregators'],
+    },
+    {
         name: 'Airtable',
         description:
             'Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.',
