@@ -115,6 +115,29 @@ export const resources: Resource[] = [
         url: 'https://grid.layoutit.com/',
     },
     {
+        name: 'LandingPro AI',
+        categories: ['AI', 'Marketing'],
+        description: 'AI that writes website copy that actually sell',
+        url: 'https://landingpro.ai/',
+
+        keywords: ['marketing', 'ai'],
+    },
+    {
+        name: 'Learnify',
+        categories: ['Learn', 'Programming'],
+        description: 'Learnify is an all-in-one web development learning platform designed for beginners to advanced learners. Explore easy-to-understand tutorials on HTML, CSS, JavaScript, and React—all in one place.',
+        url: 'https://learnify.shefali.dev/',
+        keywords: ['web development tutorials','frontend development'],
+    },
+    {
+        name: 'LearnWeb3',
+        categories: ['Learn', 'Web3'],
+        description: 'LearnWeb3 is the best place to turn you into a web3 developer for completely free.',
+        url: 'https://learnweb3.io/',
+
+        keywords: ['web3', 'web3 developer', 'web3 developer course'],
+    },
+    {
         name: 'Learn CSS',
         description: 'An evergreen CSS course and reference to level up your web styling expertise.',
         categories: ['Learn', 'Programming'],
