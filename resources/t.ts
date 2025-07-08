@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Table Format Converter',
+        categories: ['Productivity'],
+        description: 'Free online tool to convert your table data to CSV, HTML, JSON, Markdown and more.',
+        keywords: ['table', 'spreadsheet', 'converter', 'csv', 'html', 'json', 'markdown', 'excel'],
+        url: 'https://www.tableformatconverter.com',
+    },
+    {
         name: 'Tabler Icons',
         description: 'Over 3000 pixel-perfect, free and open source icons for web design.',
         categories: ['Icon'],
