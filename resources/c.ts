@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Cactro',
+        description: 'India’s Fairest Technical Test | Trusted by 300+ Companies',
+        categories: ['Job', 'Interview', 'Code Challenge'],
+        url: 'https://cactro.com/',
+        keywords: ['hiring', 'hr', 'marketplace', 'jobs', 'career'],
+    },
+    {
         name: 'Cadabra',
         description:
             'Cadabra maximizes email efficiency using AI, saving users time on reading, writing, replying, and reviewing emails',
