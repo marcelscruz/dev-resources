@@ -125,9 +125,10 @@ export const resources: Resource[] = [
     {
         name: 'Learnify',
         categories: ['Learn', 'Programming'],
-        description: 'Learnify is an all-in-one web development learning platform designed for beginners to advanced learners. Explore easy-to-understand tutorials on HTML, CSS, JavaScript, and React—all in one place.',
+        description:
+            'Learnify is an all-in-one web development learning platform designed for beginners to advanced learners. Explore easy-to-understand tutorials on HTML, CSS, JavaScript, and React—all in one place.',
         url: 'https://learnify.shefali.dev/',
-        keywords: ['web development tutorials','frontend development'],
+        keywords: ['web development tutorials', 'frontend development'],
     },
     {
         name: 'LearnWeb3',

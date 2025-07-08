@@ -1,5 +1,5 @@
 {
-"count": 1069,
+"count": 1072,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6591,6 +6591,19 @@
     },
     {
         "name": "LandingPro AI",
+        "categories": [
+            "AI",
+            "Marketing"
+        ],
+        "description": "AI that writes website copy that actually sell",
+        "url": "https://landingpro.ai/",
+        "keywords": [
+            "marketing",
+            "ai"
+        ]
+    },
+    {
+        "name": "LandingPro AI",
         "description": "AI that writes website copy that actually sell",
         "categories": [
             "AI",
@@ -6772,12 +6785,39 @@
         ]
     },
     {
+        "name": "Learnify",
+        "categories": [
+            "Learn",
+            "Programming"
+        ],
+        "description": "Learnify is an all-in-one web development learning platform designed for beginners to advanced learners. Explore easy-to-understand tutorials on HTML, CSS, JavaScript, and React—all in one place.",
+        "url": "https://learnify.shefali.dev/",
+        "keywords": [
+            "web development tutorials",
+            "frontend development"
+        ]
+    },
+    {
         "name": "LearnWeb3",
         "description": "LearnWeb3 is the best place to turn you into a web3 developer for completely free.",
         "categories": [
             "Learn",
             "Web3"
         ],
+        "url": "https://learnweb3.io/",
+        "keywords": [
+            "web3",
+            "web3 developer",
+            "web3 developer course"
+        ]
+    },
+    {
+        "name": "LearnWeb3",
+        "categories": [
+            "Learn",
+            "Web3"
+        ],
+        "description": "LearnWeb3 is the best place to turn you into a web3 developer for completely free.",
         "url": "https://learnweb3.io/",
         "keywords": [
             "web3",
