@@ -509,4 +509,11 @@ export const resources: Resource[] = [
         url: 'https://www.typingclub.com/',
         keywords: ['typing', 'typing tutorial', 'free touch typing tutorial', 'touch typing', 'typing game'],
     },
+    {
+        name: 'TarotQA',
+        categories: ['AI', 'Tooling'],
+        description: 'Free Online AI Tarot Reading',
+        url: 'https://tarotqa.com',
+        keywords: ['tarot', 'ai tarot', 'tarot card reading'],
+    },
 ]
