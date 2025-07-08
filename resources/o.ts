@@ -175,6 +175,12 @@ export const resources: Resource[] = [
         description: 'Discover Youtube niches, trends & Keywords',
         categories: ['Marketing', 'Video', 'AI'],
         url: 'https://outlierkit.com/',
-        keywords: ['youtube', 'youtube content strategy', 'youtube keyword research tool', 'niche finder for youtube', 'youtube tools'],
+        keywords: [
+            'youtube',
+            'youtube content strategy',
+            'youtube keyword research tool',
+            'niche finder for youtube',
+            'youtube tools',
+        ],
     },
 ]
