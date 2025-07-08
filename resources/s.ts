@@ -195,6 +195,13 @@ export const resources: Resource[] = [
         keywords: ['Performance', 'Uptime', 'Monitoring', 'Status Page', 'Web Vitals', 'SSL', 'HTTP(s)', 'DNS'],
     },
     {
+        name: 'Shadcnblocks',
+        categories: ['Template', 'UI', 'Design'],
+        description:
+            'Hundreds of extra blocks and components for shadcn/ui, Tailwind & React.',
+        url: 'https://shadcnblocks.com',
+    },
+    {
         name: 'Shape',
         description:
             '26000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.',
