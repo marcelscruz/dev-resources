@@ -1,5 +1,5 @@
 {
-"count": 1073,
+"count": 1074,
 "data": [
     {
         "name": "1001 Fonts",
@@ -376,6 +376,22 @@
             "Legal Jobs",
             "Remote AI Jobs",
             "Legal Jobs"
+        ]
+    },
+    {
+        "name": "AI SEO Tools",
+        "description": "Discover the Best AI SEO Tools in One Place",
+        "categories": [
+            "Marketing",
+            "SEO",
+            "AI"
+        ],
+        "url": "https://www.ai-seo.tools",
+        "keywords": [
+            "automation",
+            "ai",
+            "marketing",
+            "aggregators"
         ]
     },
     {
