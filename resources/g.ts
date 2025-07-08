@@ -188,6 +188,13 @@ export const resources: Resource[] = [
         keywords: ['icons'],
     },
     {
+        name: 'Google Maps Scraper',
+        description: 'The most efficient way to scrape Google Maps at scale.',
+        categories: ['Marketing', 'Scraping'],
+        url: 'https://apify.com/huncho/google-maps-scraper',
+        keywords: ['leads' , 'sales', 'marketing', 'scraping'],
+    },
+    {
         name: 'Google Search Console',
         description: 'Search Console tools and reports help you measure your site',
         categories: ['SEO'],
