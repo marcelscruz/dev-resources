@@ -73,6 +73,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Catalog by Thesys',
+         description:
+            `Catalog by Thesys is a curated collection of AI agents designed to help you find the right agent for your needs. Whether you're exploring AI for automation, decision-making, or creative tasks, it simplifies your search with the categorization and listing of all the AI agents.`,
         categories: ['Database', 'AI'],
         url: 'https://catalog.thesys.dev/',
     },
