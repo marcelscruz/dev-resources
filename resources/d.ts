@@ -146,6 +146,14 @@ export const resources: Resource[] = [
         keywords: ['Angular', 'GraphQL', 'Web Development', 'tutorials'],
     },
     {
+        name: 'DeelFlows',
+        description:
+            'Deel Flows is a WhatsApp First Marketing Platform that allows businesses to create broadcasts, design customer journeys, and segment users on WhatsApp. It\'s designed to make WhatsApp marketing more efficient and effective.',
+        categories: ['Marketing', 'Analytics'],
+        url: 'https://www.deelflows.com',
+        keywords: ['whatsapp', 'marketing', 'analytics', 'customer'], 
+    },
+    {
         name: 'Default Alive',
         description:
             'Two founders share an unedited look at what it\'s like to bootstrap a startup through weekly updates. Chris Spags is the founder of Jetboost, a suite of no-code plugins for Webflow. Corey Haines is the founder of Swipe Files, a membership site for marketers built with no-code tools. They chronicle their journeys getting to and staying "default alive": profitable, self-sustaining, with infinite runway. – Listen to Default Alive instantly on your tablet, phone or browser - no downloads needed.',
