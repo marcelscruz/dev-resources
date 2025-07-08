@@ -3,14 +3,14 @@ import { Resource } from 'types'
 export const resources: Resource[] = [
     {
         name: 'n3-charts',
-        categories: ['Library', 'Programming'],
         description: 'Awesome charts for Angular.',
+        categories: ['Library', 'Programming'],
         url: 'https://n3-charts.github.io/line-chart/#/home',
     },
     {
         name: 'Namecheap',
-        categories: ['Domain'],
         description: 'Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support.',
+        categories: ['Domain'],
         url: 'https://www.namecheap.com',
     },
     {
@@ -30,9 +30,9 @@ export const resources: Resource[] = [
     },
     {
         name: 'Netlify',
-        categories: ['Hosting'],
         description:
             'Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.',
+        categories: ['Hosting'],
         url: 'https://www.netlify.com/',
     },
     {
@@ -44,9 +44,9 @@ export const resources: Resource[] = [
     },
     {
         name: 'Next.js',
-        categories: ['Programming'],
         description:
             'Production grade React applications that scale. The world’s leading companies use Next.js by Vercel to build static and dynamic websites and web applications.',
+        categories: ['Programming'],
         url: 'https://nextjs.org/',
     },
     {
@@ -59,18 +59,17 @@ export const resources: Resource[] = [
     },
     {
         name: 'NextReady',
-        categories: ['Template', 'Programming'],
         description:
             'More than just a boilerplate. A ready-to-use Next.js template with Prisma, TypeScript, shadcn/ui, and more.',
-        keywords: ['next.js', 'boilerplate', 'template', 'typescript', 'prisma', 'shadcn/ui'],
+        categories: ['Template', 'Programming'],
         url: 'https://nextready.dev',
+        keywords: ['next.js', 'boilerplate', 'template', 'typescript', 'prisma', 'shadcn/ui'],
     },
     {
         name: 'NextUI',
         description: 'Beautiful, fast, modern React UI Library',
         categories: ['Library', 'Programming', 'UI'],
         url: 'https://nextui.org',
-
         keywords: ['next', 'ui', 'nextui', 'library'],
     },
     {
@@ -82,11 +81,18 @@ export const resources: Resource[] = [
         keywords: ['developer tool', 'boilerplate', 'starter kit', 'next.js boilerplate'],
     },
     {
+        name: 'Niche Tools',
+        description:
+            'Ditch the endless market research and unlock instant access to over 1200+ web tools you can build today',
+        categories: ['SEO', 'Marketing'],
+        url: ' https://nichetools.net',
+        keywords: ['SEO', 'Marketing'],
+    },
+    {
         name: 'Nitric',
         description: 'A fun and productive framework for building serverless apps',
         categories: ['API Building'],
         url: 'https://nitric.io',
-
         keywords: ['serverless', 'cloud', 'development', 'framework'],
     },
     {
@@ -98,8 +104,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Nomad List',
-        categories: ['Job', 'Job', 'Remote'],
         description: 'Best places to live for a digital nomad',
+        categories: ['Job', 'Job', 'Remote'],
         url: 'https://nomadlist.com/',
     },
     {
@@ -107,7 +113,6 @@ export const resources: Resource[] = [
         description: 'A arctic, north-bluish color palette',
         categories: ['Color'],
         url: 'https://www.nordtheme.com/',
-
         keywords: [
             'nord',
             'arctic',
@@ -126,32 +131,24 @@ export const resources: Resource[] = [
     },
     {
         name: 'Notepad++',
-        categories: ['Editor', 'Programming'],
         description:
             'Notepad++ is a text and source code editor for use with Microsoft Windows. It supports tabbed editing, which allows working with multiple open files in a single window.',
+        categories: ['Editor', 'Programming'],
         url: 'https://notepad-plus-plus.org/',
     },
     {
         name: 'Noun Project',
-        categories: ['Icon'],
         description:
             'Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.',
+        categories: ['Icon'],
         url: 'https://thenounproject.com/',
     },
     {
         name: 'Novorésumé',
-        categories: ['Resume'],
         description:
             'Make a perfect resume in 2021 and get your dream job using the free resume builder. Select a template. Personalize it. Get more interviews.',
-        keywords: ['professional resume builder'],
+        categories: ['Resume'],
         url: 'https://novoresume.com/',
-    },
-    {
-        name: 'Niche Tools',
-        categories: ['SEO', 'Marketing'],
-        description:
-            'Ditch the endless market research and unlock instant access to over 1200+ web tools you can build today',
-        keywords: ['SEO', 'Marketing'],
-        url: ' https://nichetools.net',
+        keywords: ['professional resume builder'],
     },
 ]
