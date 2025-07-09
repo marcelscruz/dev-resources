@@ -1817,7 +1817,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://proxiesapi.com&sz=128" width="16" /> | [Proxies API](https://proxiesapi.com) | Get HTML from any page with a simple API call. We handle proxy rotation, browser identities, automatic retries, CAPTCHAs, JavaScript rendering and much more. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://scrapfly.io&sz=128" width="16" /> | [Scrapfly](https://scrapfly.io) | Scrapfly is an enterprise-grade solution providing Web Scraping API that aims to simplify the scraping process by managing everything: real browser rendering, rotating proxies, and fingerprints (TLS, ... | scraping, screenshot, proxy, webhook, headless browser |
  <img src="https://www.google.com/s2/favicons?domain=https://www.scrapingbee.com/&sz=128" width="16" /> | [ScrapingBee](https://www.scrapingbee.com/) | ScrapingBee is a Web Scraping API that handles proxies and Headless browser for you, so you can focus on extracting the data you want, and nothing else. |  |
- <img src="https://www.google.com/s2/favicons?domain=https://serpapi.com/&sz=128" width="16" /> | [SerpApi](https://serpapi.com/) | SerpApi provides a simple API to scrape Google and other search engines. |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://serpapi.com/&sz=128" width="16" /> | [SerpApi](https://serpapi.com/) | SerpApi's Search API makes it easy and fast to scrape Google and other search engines. | scraping, google, search, api |
  <img src="https://www.google.com/s2/favicons?domain=https://webscrapeai.com&sz=128" width="16" /> | [WebscrapeAI](https://webscrapeai.com) | Scrape any website without code using AI | scraper, no code, ai web scraper, web scraper, visual web scraper |
 
 **[⬆ Back to Index](#index)**
