@@ -176,9 +176,10 @@ export const resources: Resource[] = [
     },
     {
         name: 'SerpApi',
-        description: 'SerpApi provides a simple API to scrape Google and other search engines.',
+        description: "SerpApi's Search API makes it easy and fast to scrape Google and other search engines.",
         categories: ['Scraping'],
         url: 'https://serpapi.com/',
+        keywords: ['scraping', 'google', 'search', 'api'],
     },
     {
         name: 'Serverless Stack',
