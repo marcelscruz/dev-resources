@@ -9,6 +9,13 @@ export const resources: Resource[] = [
         url: 'https://f5bot.com/',
     },
     {
+        name: 'FairPact AI',
+        description: 'Scan contracts & find gotchas before signing',
+        categories: ['Legal', 'Productivity', 'AI'],
+        url: 'https://fairpact.actualization.ai',
+        keywords: ['legal', 'contracts', 'artificial intelligence​', 'startup tools'],
+    },
+    {
         name: 'Famewall',
         description: 'Collect and add testimonials to your website.',
         categories: ['Marketing'],
