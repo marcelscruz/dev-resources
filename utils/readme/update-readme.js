@@ -31,7 +31,7 @@ const logoApyhub = `<div>
 
 const logoSerpApi = `<div>
     <p align="center"><a href="https://serpapi.com?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/serpapi-dark-mode.svg" width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/serpapi-light-mode.svg" width="150px"><img alt="SerpApi logo" src="./assets/serpapi-dark-mode.svg" width="150px"></picture></a></p>
-    <p align="center"><a href="https://serpapi.com?ref=dev_resources&utm_medium=repo_readme">SerpApi</a>'s Search API makes it easy and fast to scrape Google and other search engines.</p>
+    <p align="center"><a href="https://serpapi.com?ref=dev_resources&utm_medium=repo_readme">SerpApi - Search API</a> makes it easy and fast to scrape Google and other search engines.</p>
 </div>`
 
 const logoLightpost = `<div>

@@ -175,7 +175,7 @@ export const resources: Resource[] = [
         url: 'https://www.seotisfy.com',
     },
     {
-        name: 'SerpApi',
+        name: 'SerpApi - Search API',
         description: "SerpApi's Search API makes it easy and fast to scrape Google and other search engines.",
         categories: ['Scraping'],
         url: 'https://serpapi.com/',
