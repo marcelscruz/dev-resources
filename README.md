@@ -1,4 +1,3 @@
-<!--🛑 👉 This README file and the /db folder are auto-generated, so please DON'T edit them. Changes related to resources should happen in the /resources folder. --> 
 
  <div align="center">Sponsored by</div><br/>
 
