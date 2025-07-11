@@ -131,6 +131,13 @@ export const resources: Resource[] = [
         keywords: ['web development tutorials', 'frontend development'],
     },
     {
+        name: 'Lenis',
+        description: 'A smooth scroll library fresh out of darkroom.engineering',
+        categories: ['Library'],
+        url: 'https://lenis.darkroom.engineering/',
+        keywords: ['smooth scroll', 'scroll', 'animation', 'javascript', 'library'],
+    },
+    {
         name: 'LearnWeb3',
         categories: ['Learn', 'Web3'],
         description: 'LearnWeb3 is the best place to turn you into a web3 developer for completely free.',
