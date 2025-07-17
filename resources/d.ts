@@ -154,6 +154,13 @@ export const resources: Resource[] = [
         keywords: ['whatsapp', 'marketing', 'analytics', 'customer'],
     },
     {
+        name: 'DeepDocs',
+        description: 'AI that updates docs when you ship code.',
+        categories: ['Documentation', 'AI'],
+        url: 'https://deepdocs.dev/',
+        keywords: ['automate documentation', 'github docs automation', 'llm documentation update', 'ai technical writer'], 
+    },
+    {
         name: 'Default Alive',
         description:
             'Two founders share an unedited look at what it\'s like to bootstrap a startup through weekly updates. Chris Spags is the founder of Jetboost, a suite of no-code plugins for Webflow. Corey Haines is the founder of Swipe Files, a membership site for marketers built with no-code tools. They chronicle their journeys getting to and staying "default alive": profitable, self-sustaining, with infinite runway. – Listen to Default Alive instantly on your tablet, phone or browser - no downloads needed.',
