@@ -338,6 +338,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Botpool',
+        description: 'Marketplace for AI-Powered Freelancers.',
+        categories: ['Freelance', 'AI', 'Job'],
+        url: 'https://www.botpool.ai/',
+        keywords: ['freelance marketplace', 'marketplace', 'hiring', 'llm developer'], 
+    },
+    {
         name: 'Boxicons',
         description:
             'Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.',
