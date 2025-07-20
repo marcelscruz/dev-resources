@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Remove Text from Image',
+        description:
+            'AI Text Remover from Image - Start FreeRemove Text from Image AI Online Free',
+        categories: ['AI', 'Productivity'],
+        url: 'https://removetextfromimage.net/',
+        keywords: ['ai image editting', 'AI Text Remover','image edittig'],
+    },
+    {
         name: 'RabbitHoles AI',
         description:
             'RabbitHoles AI is an application designed to transform AI interactions by providing an infinite canvas where each node represents a separate conversation.',
