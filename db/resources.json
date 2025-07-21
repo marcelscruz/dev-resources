@@ -1,5 +1,5 @@
 {
-"count": 1074,
+"count": 1075,
 "data": [
     {
         "name": "1001 Fonts",
@@ -611,6 +611,22 @@
             "Job"
         ],
         "url": "https://authenticjobs.com/"
+    },
+    {
+        "name": "Automation Tools Directory",
+        "description": "Handpicked Automation Tools to Boost Your Productivity",
+        "categories": [
+            "Productivity",
+            "Tooling",
+            "Marketing"
+        ],
+        "url": "https://www.automationtools.directory/",
+        "keywords": [
+            "marketing",
+            "tools",
+            "workflow automation",
+            "business"
+        ]
     },
     {
         "name": "Avodocs",
