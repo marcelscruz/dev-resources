@@ -332,6 +332,13 @@ export const resources: Resource[] = [
         keywords: ['link in bio', 'personal site', 'share links', 'linktree', 'liinks', 'bento'],
     },
     {
+        name: 'LinkRocket',
+        description: 'Earn Credits. Build Backlinks. Dominate Rankings',
+        categories: ['Marketing', 'SEO', 'AI'],
+        url: 'https://linkrocket.ai',
+        keywords: ['seo', 'ai', 'backlinks', 'digital marketing'],
+    },
+    {
         name: 'LinksHub',
         description:
             'LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work.',
