@@ -15,8 +15,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Namekit',
-        categories: ['Domain'],
         description: 'AI-powered domain search - find available, standard-price names instantly. ',
+        categories: ['Domain'],
         url: 'https://namekit.app',
         keywords: ['domain name', 'dev tools', 'AI', 'CLI'],
     },
