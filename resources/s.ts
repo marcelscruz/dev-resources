@@ -691,6 +691,13 @@ export const resources: Resource[] = [
         url: 'https://www.getstark.co/',
     },
     {
+        name: 'StarOps',
+        description: 'AI Platform Engineer',
+        categories: ['Cloud Computing', 'Tooling', 'AI'],
+        url: 'https://ingenimax.ai',
+        keywords: ['devops tool', 'mlops tool', 'kubernetes', 'cloud-native stack', 'ai agent', 'cloud infrastructure'],
+    },
+    {
         name: 'Start Bootstrap',
         description:
             'Trusted by tens of millions of users worldwide since 2013, Start Bootstrap develops website themes, templates, snippets, and more to help you get started on your next project!',
