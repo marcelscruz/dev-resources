@@ -2,80 +2,91 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Table Format Converter',
+        categories: ['Productivity'],
+        description: 'Free online tool to convert your table data to CSV, HTML, JSON, Markdown and more.',
+        keywords: ['table', 'spreadsheet', 'converter', 'csv', 'html', 'json', 'markdown', 'excel'],
+        url: 'https://www.tableformatconverter.com',
+    },
+    {
         name: 'Tabler Icons',
-        categories: ['Icon'],
         description: 'Over 3000 pixel-perfect, free and open source icons for web design.',
+        categories: ['Icon'],
         url: 'https://tabler-icons.io/',
     },
     {
+        name: 'Tailanimista',
+        description: 'Animista, but for Tailwind CSS. Easily generate beautiful animations!',
+        categories: ['Animation'],
+        url: 'https://tail-animista.vercel.app',
+        keywords: ['animation', 'tailwind', 'css', 'tailwind css'],
+    },
+    {
         name: 'Tailor Brands',
+        description: 'Tailor Brands AI logo maker allows you to create a logo design that',
         categories: ['Logo'],
-        description:
-            "Tailor Brands AI logo maker allows you to create a logo design that's a perfect match for your business. No pre-made logo templates. Unique designs only.",
         url: 'https://www.tailorbrands.com/logo-maker',
     },
     {
-        name: 'Tailanimista',
-        categories: ['Animation'],
-        description: 'Animista, but for Tailwind CSS. Easily generate beautiful animations!',
-        keywords: ['animation', 'tailwind', 'css', 'tailwind css'],
-        url: 'https://tail-animista.vercel.app',
-    },
-    {
-        name: 'TailwindComponents',
-        categories: ['Library', 'Programming', 'UI'],
-        description:
-            'Tailwind CSS examples from components by the community. Tailwind chart, grids, inputs, forms, templates and much more.',
-        url: 'https://tailwindcomponents.com/',
-    },
-    {
         name: 'Tailwind CSS',
-        categories: ['Library', 'Programming', 'UI'],
         description: 'Documentation for the Tailwind CSS framework.',
+        categories: ['Library', 'Programming', 'UI'],
         url: 'https://tailwindcss.com/',
     },
     {
         name: 'Tailwind Toolbox',
-        categories: ['Template'],
         description:
             'Open source starter templates and components, a directory of handy building kits, generators, plugins and useful tools to kick start your Tailwind CSS project.',
+        categories: ['Template'],
         url: 'https://tailwindtoolbox.com/',
     },
     {
+        name: 'TailwindComponents',
+        description:
+            'Tailwind CSS examples from components by the community. Tailwind chart, grids, inputs, forms, templates and much more.',
+        categories: ['Library', 'Programming', 'UI'],
+        url: 'https://tailwindcomponents.com/',
+    },
+    {
         name: 'Tatask',
-        categories: ['Productivity'],
         description:
             'Break down your biggest goals into actionable tasks. Tatask is the zen productivity app from the future.',
+        categories: ['Productivity'],
         url: 'https://tatask.com/',
     },
     {
+        name: 'Tech Blogs',
+        description: 'This is a list of Awesome Tech Blogs. Add yourself.',
+        categories: ['Blog'],
+        url: 'https://tech-blogs.dev/',
+    },
+    {
         name: 'Tech Interview Pro',
-        categories: ['Interview'],
         description:
             'Learn the secrets to getting a software engineering job at a big tech company. Using years of industry experience, I have condensed my knowledge to the material that is most important for passing the coding interview and landing your dream tech job.',
+        categories: ['Interview'],
         url: 'https://www.techseries.dev/',
-
         keywords: ['algorithms', 'data structures'],
     },
     {
         name: 'Tech Jobs For Good',
-        categories: ['Job'],
         description:
             'Tech Jobs for Good helps connect software engineers to jobs at organizations working on social and environmental issues.',
+        categories: ['Job'],
         url: 'https://techjobsforgood.com/',
     },
     {
         name: 'TechCrunch',
-        categories: ['Blog'],
         description:
             'TechCrunch - Reporting on the business of technology, startups, venture capital funding, and Silicon Valley.',
+        categories: ['Blog'],
         url: 'https://techcrunch.com/',
     },
     {
         name: 'Techstarta',
-        categories: ['Learn', 'AI'],
         description:
             'Empower your tech career with Techstarta! Gain hands-on project experience and mentorship to connect with industry experts.',
+        categories: ['Learn', 'AI'],
         url: 'https://techstarta.com/',
         keywords: [
             'Techstarta',
@@ -96,149 +107,130 @@ export const resources: Resource[] = [
         keywords: ['career', 'recruitment', 'it team sourcing', 'software development agencies'],
     },
     {
-        name: 'Tech Blogs',
-        categories: ['Blog'],
-        description: 'This is a list of Awesome Tech Blogs. Add yourself.',
-        url: 'https://tech-blogs.dev/',
-    },
-    {
         name: 'Templated',
-        categories: ['Editor', 'Design', 'Marketing'],
         description:
             'Automate your images and PDFs with a simple API. Generate social media visuals, banners, PDFs and more with our API and no-code integrations.',
+        categories: ['Editor', 'Design', 'Marketing'],
         url: 'https://templated.io/',
     },
     {
         name: 'TemplateMo',
-        categories: ['Template'],
         description:
             'Download 548+ free HTML CSS website templates that included 140+ responsive Bootstrap themes from templatemo and use them for your sites.',
+        categories: ['Template'],
         url: 'https://templatemo.com/',
     },
     {
         name: 'Tenon',
-        categories: ['Accessibility'],
         description: 'Accessibility as a Service.',
-        keywords: ['accessibility', 'a11y', 'testing'],
+        categories: ['Accessibility'],
         url: 'https://tenon.io/',
+        keywords: ['accessibility', 'a11y', 'testing'],
     },
     {
         name: 'Test Automation University',
-        categories: ['Learn', 'Programming', 'Testing'],
         description: 'Become a test automation superstar! 🌟.',
+        categories: ['Learn', 'Programming', 'Testing'],
         url: 'https://testautomationu.applitools.com/',
     },
     {
-        name: 'Testing Accessibility',
-        categories: ['Accessibility'],
-        description:
-            'A self-paced workshop designed to teach you the principles and effective patterns of accessibility, from design to deployment.',
-        url: 'https://testingaccessibility.com/',
-
-        keywords: [],
-    },
-    {
-        name: 'Testing JavaScript',
-        categories: ['Learn', 'Programming'],
-        description:
-            'This course will teach you the fundamentals of testing your JavaScript applications using ESlint, TypeScript, Jest, and Cypress.',
-        url: 'https://testingjavascript.com/',
-    },
-    {
-        name: 'Testing Library',
-        categories: ['Testing'],
-        description: 'Simple and complete testing utilities that encourage good testing practices.',
-        url: 'https://testing-library.com/',
-    },
-    {
-        name: 'Testing Playground',
-        categories: ['Testing'],
-        description: 'Simple and complete DOM testing playground that encourage good testing practices.',
-        url: 'https://testing-playground.com/',
-    },
-    {
-        name: 'TestingBot',
-        categories: ['Testing'],
-        description:
-            'Manual and Automated testing on 5000+ browsers and mobile devices online. Make sure your website and mobile app looks and functions correctly on all devices. Free 14 day trial.',
-        url: 'https://testingbot.com/',
-    },
-    {
-        name: 'TestingWhiz',
-        categories: ['Testing'],
-        description:
-            'Experience effective test automation of web & mobile apps with an easy & intuitive codeless end-to-end software testing tool, TestingWhiz. Download 30-days free trial.',
-        url: 'https://www.testing-whiz.com/',
-    },
-    {
         name: 'TestDriver',
-        categories: ['Programming', 'Testing'],
         description:
             'AI QA agent for comprehensive testing & debugging. Boost productivity, ensure accuracy, and save time with this versatile tool',
+        categories: ['Programming', 'Testing'],
         url: 'https://www.testdriver.ai',
         keywords: ['developer tools', 'debugging', 'engineering'],
     },
     {
         name: 'Testimonial Donut',
-        categories: ['Marketing'],
         description: 'Testimonial collection so bloody easy, your gran can use it!',
+        categories: ['Marketing'],
         url: 'https://www.testimonialdonut.com/',
         keywords: ['ai', 'marketing', 'testimonial', 'lead magnet'],
     },
     {
-        name: 'Themeselection',
-        categories: ['Template'],
+        name: 'Testing Accessibility',
         description:
-            ' Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster.',
-        keywords: ['HTML', 'css', 'Admin template', 'bootstrap', 'Vuejs admin templates', 'UI kits', 'Freebies'],
-        url: 'https://themeselection.com/',
+            'A self-paced workshop designed to teach you the principles and effective patterns of accessibility, from design to deployment.',
+        categories: ['Accessibility'],
+        url: 'https://testingaccessibility.com/',
+    },
+    {
+        name: 'Testing JavaScript',
+        description:
+            'This course will teach you the fundamentals of testing your JavaScript applications using ESlint, TypeScript, Jest, and Cypress.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://testingjavascript.com/',
+    },
+    {
+        name: 'Testing Library',
+        description: 'Simple and complete testing utilities that encourage good testing practices.',
+        categories: ['Testing'],
+        url: 'https://testing-library.com/',
+    },
+    {
+        name: 'Testing Playground',
+        description: 'Simple and complete DOM testing playground that encourage good testing practices.',
+        categories: ['Testing'],
+        url: 'https://testing-playground.com/',
+    },
+    {
+        name: 'TestingBot',
+        description:
+            'Manual and Automated testing on 5000+ browsers and mobile devices online. Make sure your website and mobile app looks and functions correctly on all devices. Free 14 day trial.',
+        categories: ['Testing'],
+        url: 'https://testingbot.com/',
+    },
+    {
+        name: 'TestingWhiz',
+        description:
+            'Experience effective test automation of web & mobile apps with an easy & intuitive codeless end-to-end software testing tool, TestingWhiz. Download 30-days free trial.',
+        categories: ['Testing'],
+        url: 'https://www.testing-whiz.com/',
     },
     {
         name: 'The A11Y Project',
-        categories: ['Accessibility'],
         description: 'The A11Y Project is a community-driven effort to make digital accessibility easier.',
+        categories: ['Accessibility'],
         url: 'https://www.a11yproject.com/',
     },
     {
         name: 'The Art of Product',
-        categories: ['Podcast', 'Startup'],
         description: 'Ben and Derrick chat weekly about building software companies.',
+        categories: ['Podcast', 'Startup'],
         url: 'https://artofproductpodcast.com/',
     },
     {
         name: 'The Changelog',
-        categories: ['Podcast', 'Programming'],
         description: 'News and podcasts for developers.',
+        categories: ['Podcast', 'Programming'],
         url: 'https://changelog.com/',
     },
     {
         name: 'The Coding Train',
-        categories: ['Programming', 'YouTube Channel'],
         description:
             'All aboard! The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to algorithmic art, machine learning, simulation, generative poetry, and more. Choo choo!',
-        keywords: ['java javascript processing teaching programming beginner tutorial coding challenges art'],
+        categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw',
+        keywords: ['java javascript processing teaching programming beginner tutorial coding challenges art'],
     },
     {
         name: 'The Component Gallery',
-        categories: ['Design', 'Inspiration', 'UI'],
         description: 'The Component Gallery is a collection of components from the best design systems.',
+        categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://component.gallery',
-
-        keywords: [],
     },
     {
         name: 'The Hammerstone Podcast',
+        description: 'Listen in on Sean',
         categories: ['Podcast', 'Startup'],
-        description:
-            "Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm!",
         url: 'https://hammerstone.dev/podcast',
     },
     {
         name: 'The Linux Foundation - Events',
-        categories: ['Conference'],
         description:
             'The Linux Foundation hosts a variety of events around the world, including leading open source conferences such as Open Source Summit, Embedded Linux Conference, KubeCon + CloudNativeCon, and more.',
+        categories: ['Conference'],
         url: 'https://events.linuxfoundation.org/',
         keywords: [
             '.Net',
@@ -261,107 +253,96 @@ export const resources: Resource[] = [
     },
     {
         name: 'The Net Ninja',
-        categories: ['Programming', 'YouTube Channel', 'Learn', 'Programming'],
-        url: 'https://www.thenetninja.co.uk/',
-
         description:
             'Black-belt your web skills. Learn JavaScript, CSS, Node.js, React, Vue.js, Firebase, HTML & more.',
+        categories: ['Programming', 'YouTube Channel', 'Learn', 'Programming'],
+        url: 'https://www.thenetninja.co.uk/',
         keywords: [
-            'html css javascript tutorials "web design" "web development" development "front-end development" wordpress mvc "responsive design" "beginner html" "beginner ...',
+            'html css javascript tutorials web design web development development front-end development wordpress mvc responsive design beginner html beginner ...',
         ],
     },
     {
-        name: 'thirdweb',
-        categories: ['Web3'],
+        name: 'Themeselection',
         description:
-            "Build web3 apps easily with thirdweb's powerful SDKs, audited smart contracts, and developer tools—for Ethereum, Polygon, Solana, & more. Try now.",
+            ' Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster.',
+        categories: ['Template'],
+        url: 'https://themeselection.com/',
+        keywords: ['HTML', 'css', 'Admin template', 'bootstrap', 'Vuejs admin templates', 'UI kits', 'Freebies'],
+    },
+    {
+        name: 'thirdweb',
+        description: 'Build web3 apps easily with thirdweb',
+        categories: ['Web3'],
         url: 'https://thirdweb.com/',
         keywords: ['web3', 'sdk', 'smart contracts', 'developer tools', 'dapps', 'decentralized apps'],
     },
     {
         name: 'Thirus',
+        description: 'Thirus (pronounced ',
         categories: ['Programming', 'YouTube Channel'],
-        description:
-            'Thirus (pronounced "thigh-rus") is an effort to bring hundreds of simple web development tips and tutorials together that you can consume regularly on your coding journey. I am Shruti Balasa - the owner of this channel. I\'m a Full Stack Web Developer, Mentor, Course Creator, Tech Speaker and now a Youtuber from Bangalore, India.',
         url: 'https://www.youtube.com/channel/UCDQTzZ871T7uJpx9yeMPhAw',
     },
     {
         name: 'This VS That',
+        description: 'What is the difference between ___ and ___ in the front-end development?',
         categories: ['Learn', 'Programming'],
         url: 'https://phuoc.ng/collection/this-vs-that/',
-        description: 'What is the difference between ___ and ___ in the front-end development?',
         keywords: ['CSS', 'DOM', 'HTML', 'JavaScript', 'React', 'TypeScript'],
     },
     {
         name: 'TinyPNG',
-        categories: ['Image'],
         description:
             'Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency!',
+        categories: ['Image'],
         url: 'https://tinypng.com/',
     },
     {
         name: 'TinySeed',
-        categories: ['Startup'],
         description:
             'TinySeed is the first startup accelerator designed for founders who would traditionally bootstrap.',
+        categories: ['Startup'],
         url: 'https://tinyseed.com/',
     },
     {
         name: 'tl;dr Marketing',
-        categories: ['Marketing', 'SEO'],
         description:
             'Get the latest breaking news and trends about SEO, paid media and social media without all the fluff.',
+        categories: ['Marketing', 'SEO'],
         url: 'https://tldrmarketing.com/',
     },
     {
         name: 'toast.log',
-        categories: ['Browser', 'Extension'],
         description:
-            "See errors, warnings, and logs as they happen on your site — without having to open the browser’s console. Find bugs you didn't know were there via notifications in our unique toast format.",
+            'See errors, warnings, and logs as they happen on your site — without having to open the browser’s console. Find bugs you didn',
+        categories: ['Browser', 'Extension'],
         url: 'https://toastlog.com/',
     },
     {
         name: 'TOOOLS.design',
-        categories: ['Accessibility', 'Design', 'Blog'],
         description: 'A growing archive of 1,500+ design resources, frequently updated for the community.',
+        categories: ['Accessibility', 'Design', 'Blog'],
         url: 'https://www.toools.design/',
         keywords: ['design', 'resources', 'tools', 'icons', 'illustrations', 'colors', 'logos', 'accessibility'],
     },
     {
         name: 'Tooplate',
-        categories: ['Template'],
         description:
             'Download free HTML CSS website templates from Tooplate and use them for any purpose. Our templates are easy to modify and use for any website.',
+        categories: ['Template'],
         url: 'https://www.tooplate.com/',
     },
     {
         name: 'Toptal',
-        categories: ['Freelance'],
         description:
             'Toptal enables start-ups, businesses, and organizations to hire freelancers from a growing network of top talent in the world. Find quality talent to work full-time, part-time, or hourly who will seamlessly integrate into your team.',
+        categories: ['Freelance'],
         url: 'https://www.toptal.com/',
     },
     {
-        name: 'Traversy Media',
-        categories: ['Programming', 'YouTube Channel'],
-        description:
-            'Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more.',
-        keywords: [
-            '"Programming Tutorials" "Web Development Tutorials" "Web Development Videos" "Web Design Tutorials" "Learn Web Design" "Learn Programming"',
-        ],
-        url: 'https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA',
-    },
-    {
-        name: 'Traversy Media',
-        categories: ['Learn', 'Programming'],
-        description:
-            'Traversy Media offers professional, project-based web development and programming courses that explain complex topics in an easy-to-understand manner. Learn HTML, CSS, JavaScript, PHP, Python and More.',
-        url: 'https://www.traversymedia.com/',
-    },
-    {
         name: 'Transform Tools',
-        categories: ['Programming'],
         description: 'A polyglot web converter.',
+        categories: ['Programming'],
+        url: 'https://transform.tools',
         keywords: [
             'Big Query',
             'Flow',
@@ -387,13 +368,29 @@ export const resources: Resource[] = [
             'YAML',
             'io-ts',
         ],
-        url: 'https://transform.tools',
+    },
+    {
+        name: 'Traversy Media',
+        description:
+            'Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more.',
+        categories: ['Programming', 'YouTube Channel'],
+        url: 'https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA',
+        keywords: [
+            'Programming Tutorials Web Development Tutorials Web Development Videos Web Design Tutorials Learn Web Design Learn Programming',
+        ],
+    },
+    {
+        name: 'Traversy Media',
+        description:
+            'Traversy Media offers professional, project-based web development and programming courses that explain complex topics in an easy-to-understand manner. Learn HTML, CSS, JavaScript, PHP, Python and More.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://www.traversymedia.com/',
     },
     {
         name: 'Treblle',
-        categories: ['API Building', 'Tooling', 'Analytics'],
         description:
             'Treblle is the ultimate end to end APIOps Platform for Engineering and DevOps teams. Simplify and elevate your REST API development with our comprehensive solution that offers insightful observability of APIs in a single, user-friendly interface.',
+        categories: ['API Building', 'Tooling', 'Analytics'],
         url: 'https://www.treblle.com',
         keywords: [
             'API Observability',
@@ -417,16 +414,16 @@ export const resources: Resource[] = [
     },
     {
         name: 'Treehouse',
-        categories: ['Learn', 'Programming'],
         description:
             'High-quality, affordable video courses for coding and design. Build a website, learn a new coding language, and more.',
+        categories: ['Learn', 'Programming'],
         url: 'https://teamtreehouse.com/',
     },
     {
         name: 'Trigger.dev',
-        categories: ['Serverless'],
         description:
             'Create long-running jobs directly in your codebase with features like API integrations, webhooks, scheduling and delays.',
+        categories: ['Serverless'],
         url: 'https://trigger.dev/',
         keywords: ['webhook'],
     },
@@ -461,19 +458,18 @@ export const resources: Resource[] = [
     },
     {
         name: 'Tweet Detective',
-        categories: ['Social Media', 'AI'],
         description:
             'Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content',
+        categories: ['Social Media', 'AI'],
         url: 'https://www.tweetdetective.com/',
         keywords: ['twitter', 'social media', 'ai detection', 'ai text'],
     },
     {
         name: 'Tweet Hunter',
-        categories: ['Marketing', 'Social Media'],
         description:
-            "Build and monetize your Twitter audience. Get sales, growth and new networks. Faster than what you're currently trying.",
+            'Build and monetize your Twitter audience. Get sales, growth and new networks. Faster than what you',
+        categories: ['Marketing', 'Social Media'],
         url: 'https://tweethunter.io',
-
         keywords: ['twitter', 'growth', 'scheduling', 'social media'],
     },
     {
@@ -484,29 +480,33 @@ export const resources: Resource[] = [
         url: 'https://typethinkai.com/',
         keywords: ['ai assistant', 'llm frontend', 'multi model llms', 'chatbot'],
     },
-
     {
         name: 'TypeLit',
-        categories: ['Typing'],
         description: 'Practice typing by retyping entire novels.',
+        categories: ['Typing'],
         url: 'https://www.typelit.io',
-
         keywords: ['typing'],
     },
     {
+        name: 'Typersguild',
+        description: 'Master typing by typing out classic literature and wikipedia articles',
+        categories: ['Typing'],
+        url: 'https://typersguild.com',
+        keywords: ['typing', 'touch typing', 'type books', 'type wikipedia'],
+    },
+    {
         name: 'TypingBeast',
-        categories: ['Learn', 'Typing'],
         description:
             'Practice touch typing on various modes including zen mode, maintain streak and compete in leaderboards.',
+        categories: ['Learn', 'Typing'],
         url: 'https://typingbeast.com',
         keywords: ['typing', 'touch typing', 'typing zen', 'typing streak', 'typing leaderboards'],
     },
     {
         name: 'TypingClub',
+        description: 'Learn touch typing online using TypingClub',
         categories: ['Typing'],
-        description:
-            "Learn touch typing online using TypingClub's free typing courses. It includes 650 typing games, typing tests and videos.",
-        keywords: ['typing', 'typing tutorial', 'free touch typing tutorial', 'touch typing', 'typing game'],
         url: 'https://www.typingclub.com/',
+        keywords: ['typing', 'typing tutorial', 'free touch typing tutorial', 'touch typing', 'typing game'],
     },
 ]
