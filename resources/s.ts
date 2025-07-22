@@ -523,6 +523,13 @@ export const resources: Resource[] = [
         keywords: ['social', 'marketing resources', 'marketing strategies', 'tiktok growth hacks'],
     },
     {
+        name: 'Social Proof Examples',
+        description: 'Real-world examples of social proof strategies used by various brands to build trust, drive conversions, and enhance credibility.',
+        categories: ['Marketing', 'Startup'],
+        url: 'https://socialproofexamples.com/',
+        keywords: ['social proof', 'testimonials', 'reviews', 'trust', 'cro', 'converstion rate optimization'],
+    },
+    {
         name: 'Social Intents',
         description: 'Live Chat by Social Intents is the easiest way to boost sales and improve customer service',
         categories: ['AI', 'Productivity', 'Marketing'],
