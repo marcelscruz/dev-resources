@@ -69,7 +69,7 @@ export const resources: Resource[] = [
         description:
             'Mantis is a React dashboard template built on the Material UI React component library and inspired by Ant Design principle.',
         categories: ['Template'],
-        url: 'https://mantisdashboard.io/',
+        url: 'https://mantisdashboard.com/',
     },
     {
         name: 'ManyPixels',
