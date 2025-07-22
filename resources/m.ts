@@ -3,95 +3,80 @@ import { Resource } from 'types'
 export const resources: Resource[] = [
     {
         name: 'Madza Quizzes',
-        categories: ['Interview'],
         description: 'A great resource with 500 free interview questions',
+        categories: ['Interview'],
         url: 'https://quizzes.madza.dev/',
     },
     {
         name: 'Magic',
-        categories: ['Authentication'],
         description:
             'Bring your Web3 strategy to life with Magic. Passwordless Auth + NFT wallet onboarding (without seed phrase) for your customers.',
+        categories: ['Authentication'],
         url: 'https://magic.link',
-
         keywords: ['auth', 'authentication', 'passwordless'],
     },
     {
         name: 'MagicBox.tools',
-        categories: ['AI', 'Tooling'],
         description: 'Best AI Tools Explore 2024 | Magicbox.Tools AI Tools Directory',
+        categories: ['AI', 'Tooling'],
         url: 'https://magicbox.tools',
         keywords: ['ai tools', 'ai tools navigation', 'ai tools directory'],
     },
     {
         name: 'Mailchimp',
-        categories: ['Email', 'Marketing'],
         description:
             'Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.',
+        categories: ['Email', 'Marketing'],
         url: 'https://mailchimp.com/',
     },
     {
         name: 'Maildroppa',
-        categories: ['Email', 'Marketing'],
         description: 'German engineered email marketing and automation without the hefty price tag.',
+        categories: ['Email', 'Marketing'],
         url: 'https://maildroppa.com/',
     },
     {
         name: 'Mailgun',
-        categories: ['Email', 'Marketing'],
         description:
             'Powerful Transactional Email APIs that enable you to send, receive, and track emails, built with developers in mind. ',
+        categories: ['Email', 'Marketing'],
         url: 'https://www.mailgun.com/',
     },
     {
         name: 'Majestic',
-        categories: ['Testing'],
         description:
             '⚡ Zero config GUI for Jest. Contribute to Raathigesh/majestic development by creating an account on GitHub.',
+        categories: ['Testing'],
         url: 'https://github.com/Raathigesh/majestic',
     },
     {
-        name: "MAKE: Bootstrapper's Handbook",
+        name: 'MAKE: Bootstrapper',
+        description:
+            'Learn to bootstrap profitable startups the indie way — export const resources: Resource[] = [4.99.',
         categories: ['Book', 'Startup'],
-        description: 'Learn to bootstrap profitable startups the indie way — $14.99.',
         url: 'https://makebook.io/',
     },
     {
+        name: 'Mantine',
+        description:
+            'React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience.',
+        categories: ['Library', 'Programming', 'UI'],
+        url: 'https://mantine.dev',
+        keywords: ['react', 'hooks', 'dark theme', 'accessibility', 'components', 'hooks', 'ui', 'library'],
+    },
+    {
         name: 'Mantis Dashboard',
-        categories: ['Template'],
         description:
             'Mantis is a React dashboard template built on the Material UI React component library and inspired by Ant Design principle.',
+        categories: ['Template'],
         url: 'https://mantisdashboard.io/',
     },
     {
         name: 'ManyPixels',
-        categories: ['Illustration'],
         description:
             'Each week, discover royalty-free illustrations to power up your projects. Use them in a commercial or non-commercial way.',
+        categories: ['Illustration'],
         url: 'https://www.manypixels.co/gallery/',
-    },
-    {
-        name: 'Mantine',
-        categories: ['Library', 'Programming', 'UI'],
-        description:
-            'React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience.',
-        url: 'https://mantine.dev',
-
-        keywords: ['react', 'hooks', 'dark theme', 'accessibility', 'components', 'hooks', 'ui', 'library'],
-    },
-    {
-        name: 'ManagerTrack',
-        categories: ['Job'],
-        description: 'Senior management positions without the hassle',
-        url: 'https://www.managertrack.com',
-
-        keywords: [
-            'senior management',
-            'senior positions',
-            'senior management positions',
-            'senior management jobs',
-            'job search',
-        ],
     },
     {
         name: 'Marblism',
@@ -101,90 +86,103 @@ export const resources: Resource[] = [
         keywords: ['code generator', 'ai', 'boilerplate', 'dev tool'],
     },
     {
-        name: 'Marko Denic',
-        categories: ['Personal Website'],
-        description: 'Web Developer, Public speaker, IT trainer and consultant.',
-        url: 'https://markodenic.com/',
-    },
-    {
         name: 'Markdown Guide',
-        categories: ['Cheatsheet'],
         description: ' A free and open-source reference guide that explains how to use Markdown.',
+        categories: ['Cheatsheet'],
         url: 'https://markdownguide.org',
     },
     {
-        name: 'Mastery Games',
-        categories: ['Learn', 'Programming'],
-        description:
-            'Learn frontend development through play, repetition, and sleep. Each game builds up your skills from the ground up using the educational process of scaffolding. You learn one new concept at a time, and leverage spaced repetition to solidify each concept.',
-        url: 'https://mastery.games/',
-    },
-    {
-        name: 'Material Design',
-        categories: ['Library', 'Programming', 'UI'],
-        description:
-            'Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.',
-        url: 'https://material.io/',
-    },
-    {
-        name: 'Material Design',
-        categories: ['Icon'],
-        description: 'Get Material Icons.',
-        url: 'https://material.io/resources/icons',
-    },
-    {
-        name: 'Material Design Palette',
-        categories: ['Color'],
-        description: 'Choose your favorite colors and get your Material Design palette generated and downloadable.',
-        url: 'https://www.materialpalette.com/',
-    },
-    {
-        name: 'Material-UI',
-        categories: ['Library', 'Programming', 'UI'],
-        description:
-            'React components for faster and easier web development. Build your own design system, or start with Material Design.',
-        url: 'https://material-ui.com/',
-    },
-    {
-        name: 'Materialize',
-        categories: ['Library', 'Programming', 'UI'],
-        description: 'Materialize is a modern responsive CSS framework based on Material Design by Google.',
-        url: 'https://materializecss.com/',
-    },
-    {
-        name: 'Matomo',
-        categories: ['Analytics'],
-        description:
-            "Matomo's the Google Analytics alternative that protects your data and your customer's privacy. A powerful web analytics platform with 100% data ownership.",
-        url: 'https://matomo.org/',
-    },
-    {
         name: 'Marketing Auditor',
-        categories: ['Marketing', 'Analytics'],
         description:
             'Say goodbye to manual audit checklists with Marketing Auditor, the ultimate solution for agencies looking to streamline their audit process',
+        categories: ['Marketing', 'Analytics'],
         url: 'https://www.marketingauditor.com/',
         keywords: ['marketing', 'audit', 'checklist', 'automation', 'seo', 'google', 'analytics'],
     },
     {
+        name: 'Marko Denic',
+        description: 'Web Developer, Public speaker, IT trainer and consultant.',
+        categories: ['Personal Website'],
+        url: 'https://markodenic.com/',
+    },
+    {
+        name: 'Mastery Games',
+        description:
+            'Learn frontend development through play, repetition, and sleep. Each game builds up your skills from the ground up using the educational process of scaffolding. You learn one new concept at a time, and leverage spaced repetition to solidify each concept.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://mastery.games/',
+    },
+    {
+        name: 'Material Design',
+        description:
+            'Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.',
+        categories: ['Library', 'Programming', 'UI'],
+        url: 'https://material.io/',
+    },
+    {
+        name: 'Material Design',
+        description: 'Get Material Icons.',
+        categories: ['Icon'],
+        url: 'https://material.io/resources/icons',
+    },
+    {
+        name: 'Material Design Palette',
+        description: 'Choose your favorite colors and get your Material Design palette generated and downloadable.',
+        categories: ['Color'],
+        url: 'https://www.materialpalette.com/',
+    },
+    {
+        name: 'Material-UI',
+        description:
+            'React components for faster and easier web development. Build your own design system, or start with Material Design.',
+        categories: ['Library', 'Programming', 'UI'],
+        url: 'https://material-ui.com/',
+    },
+    {
+        name: 'Materialize',
+        description: 'Materialize is a modern responsive CSS framework based on Material Design by Google.',
+        categories: ['Library', 'Programming', 'UI'],
+        url: 'https://materializecss.com/',
+    },
+    {
+        name: 'Materio Free MUI React NextJS Admin Template',
+        description:
+            'Most Powerful & Comprehensive Open Source and Free MUI React NextJS Admin Dashboard Template built for developers.',
+        categories: ['Template'],
+        url: 'https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free',
+    },
+    {
+        name: 'Matomo',
+        description: 'Matomo',
+        categories: ['Analytics'],
+        url: 'https://matomo.org/',
+    },
+    {
         name: 'MDN Web Docs',
-        categories: ['Documentation'],
         description:
             'The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps. It also has some developer-oriented documentation for Mozilla products, such as Firefox Developer Tools.',
+        categories: ['Documentation'],
         url: 'https://developer.mozilla.org/en-US/',
     },
     {
         name: 'Medium',
-        categories: ['Blog', 'Writing'],
         description:
             'Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.',
+        categories: ['Blog', 'Writing'],
         url: 'http://medium.com/',
     },
     {
         name: 'MeetMoji',
-        categories: ['AI', 'Productivity', 'Writing'],
         description: 'Live Polls for Google Slides with an AI Assistant ',
+        categories: ['AI', 'Productivity', 'Writing'],
         url: 'https://meetmoji.com',
+    },
+    {
+        name: 'MemFree',
+        description:
+            'Hybrid AI Search Engine: Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://www.memfree.me/',
     },
     {
         name: 'Meshr',
@@ -194,51 +192,36 @@ export const resources: Resource[] = [
         keywords: ['internal linking tool', 'link building tool', 'best link building tools', 'automation'],
     },
     {
-        name: 'Metaverse Jobs',
-        categories: ['Job'],
-        description: 'Search for metaverse jobs in augmented reality, virtual reality, NFT, crypto, gaming, and more.',
-        url: 'https://www.themetaversejobs.com/',
-    },
-    {
         name: 'Metazord',
-        categories: ['SEO'],
         description: 'Get a complete information and preview of your site meta tags',
+        categories: ['SEO'],
         url: 'https://metazord.vercel.app/',
-
         keywords: ['metatags', 'tags', 'seo'],
     },
     {
         name: 'Metrical',
+        description: 'Metrical is web analytics tool that is easy to use, privacy oriented and where you don',
         categories: ['Analytics'],
-        description:
-            "Metrical is web analytics tool that is easy to use, privacy oriented and where you don't have to have a marketing degree to know how to use it.",
         url: 'https://metrical.xyz/',
     },
     {
-        name: 'MemFree',
-        categories: ['AI', 'Productivity'],
-        description:
-            'Hybrid AI Search Engine: Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs.',
-        url: 'https://www.memfree.me/',
-    },
-    {
         name: 'MicroAcquire',
-        categories: ['Startup'],
         description:
             'MicroAcquire helps startups find buyers. Simple as that. We’ll help you start conversations that lead to an acquisition in just 30 days – for free.',
+        categories: ['Startup'],
         url: 'https://microacquire.com/',
     },
     {
         name: 'Microsoft SQL Server',
-        categories: ['Database'],
         description:
             'Get the flexibility you need to use integrated solutions, apps, and innovations in technology with your data—wherever it lives — in the cloud, on-premises, or at the edge.',
+        categories: ['Database'],
         url: 'https://www.microsoft.com/en-us/sql-server',
     },
     {
         name: 'Minimal Gallery',
-        categories: ['Design', 'UI', 'Inspiration'],
         description: 'Hand-picked website inspiration, tools, domains and more.',
+        categories: ['Design', 'UI', 'Inspiration'],
         url: 'https://minimal.gallery/',
         keywords: ['minimal', 'design', 'ui', 'inspiration'],
     },
@@ -250,12 +233,19 @@ export const resources: Resource[] = [
         url: 'https://www.miruni.io/',
         keywords: ['design tool', 'visual feedback', 'web development tools', 'website collaboration tools'],
     },
-
+    {
+        name: 'Mkdirs',
+        description: 'Launch profitable directory website in minutes',
+        categories: ['Tooling', 'Code Generator', 'Productivity'],
+        url: 'https://mkdirs.com',
+        keywords: ['directory', 'website', 'profitable', 'minutes', 'boilerplate'],
+    },
     {
         name: 'Mobbin',
-        categories: ['Design', 'Inspiration', 'UI'],
         description:
             'Check out the hand-picked collection of latest mobile design patterns from apps that reflect the best in design.',
+        categories: ['Design', 'Inspiration', 'UI'],
+        url: 'https://mobbin.design/',
         keywords: [
             'apps',
             'mobbin',
@@ -285,32 +275,38 @@ export const resources: Resource[] = [
             'xcode',
             'resources',
         ],
-        url: 'https://mobbin.design/',
     },
     {
         name: 'Mobirise',
-        categories: ['Template'],
         description:
             'Drag and drop website builder. Create awesome responsive websites. Easy & fast - No coding! 2500+ Templates. Free for commercial use.',
+        categories: ['Template'],
         url: 'https://mobirise.com/',
     },
     {
         name: 'Mocha',
-        categories: ['Testing'],
         description: 'Simple, flexible, fun JavaScript test framework for Node.js and the browser.',
+        categories: ['Testing'],
         url: 'https://mochajs.org/',
     },
     {
+        name: 'Mocha',
+        description: 'AI app builder',
+        categories: ['AI', 'Website Builder', 'Productivity'],
+        url: 'https://getmocha.com',
+        keywords: ['ai app builder', 'ai website builder', 'no code', 'website builder', 'vibe coding'],
+    },
+    {
         name: 'Mockae',
-        categories: ['API Building'],
         description: 'Fake REST APIs powered by Lua.',
+        categories: ['API Building'],
         url: 'https://mockae.com/',
     },
     {
         name: 'MongoDB',
-        categories: ['Database'],
         description:
             'MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.',
+        categories: ['Database'],
         url: 'https://www.mongodb.com/',
     },
     {
@@ -319,7 +315,6 @@ export const resources: Resource[] = [
             'A minimalistic, customisable typing website. Test yourself in various modes, track your progress and improve your typing speed.',
         categories: ['Typing'],
         url: 'https://monkeytype.com/',
-
         keywords: [
             'typing speed test',
             'typing speedtest',
@@ -342,9 +337,9 @@ export const resources: Resource[] = [
     },
     {
         name: 'MonsterONE',
-        categories: ['Design', 'Marketing', 'Template'],
         description:
             'MonsterONE offers access to 420K+ premium digital items like web themes, templates, graphics, and more—all with a single subscription. Pay once, access all!',
+        categories: ['Design', 'Marketing', 'Template'],
         url: 'https://monsterone.com/',
         keywords: [
             'MonsterONE subscription service',
@@ -359,16 +354,15 @@ export const resources: Resource[] = [
     },
     {
         name: 'Moqups',
-        categories: ['Prototyping'],
         description:
             'Moqups is a streamlined and intuitive web app that helps you create and collaborate on wireframes, mockups, diagrams and prototypes — for any type of project.',
+        categories: ['Prototyping'],
         url: 'https://moqups.com/',
     },
     {
         name: 'morris.js',
+        description: 'Morris.js is the library that powers the graphs on http://howmanyleft.co.uk/. It',
         categories: ['Library', 'Programming'],
-        description:
-            "Morris.js is the library that powers the graphs on http://howmanyleft.co.uk/. It's a very simple API for drawing line, bar, area and donut charts.",
         url: 'https://morrisjs.github.io/morris.js/',
     },
     {
@@ -378,44 +372,28 @@ export const resources: Resource[] = [
         url: 'https://www.muckbrass.com',
         keywords: ['data', 'research', 'startupidea', 'idea', 'ai'],
     },
-
+    {
+        name: 'MyChatbots AI',
+        description: 'A platform for easily creating, training, and chatting with AI chatbots using your own data',
+        categories: ['AI', 'Productivity'],
+        url: 'https://mychatbots.ai',
+    },
     {
         name: 'MyPerfectResume',
+        description: 'Create a perfect resume in just minutes and land the job you deserve. It',
         categories: ['Resume'],
-        description:
-            "Create a perfect resume in just minutes and land the job you deserve. It's fast and easy. Pick a template, customize and download it. Try it now.",
         url: 'https://www.myperfectresume.com/',
     },
     {
         name: 'MySQL',
-        categories: ['Database'],
         description: 'MySQL Database Service is a fully managed database service to deploy cloud-native applications.',
+        categories: ['Database'],
         url: 'https://www.mysql.com/',
     },
     {
-        name: 'MyChatbots AI',
-        categories: ['AI', 'Productivity'],
-        description: 'A platform for easily creating, training, and chatting with AI chatbots using your own data',
-        url: 'https://mychatbots.ai',
-    },
-    {
         name: 'MySQL Visual Explain',
-        categories: ['Database', 'Performance'],
         description: 'Transform MySQL EXPLAIN output to easy-to-understand visualizations.',
+        categories: ['Database', 'Performance'],
         url: 'https://mysqlexplain.com/',
-    },
-    {
-        name: 'Materio Free MUI React NextJS Admin Template',
-        categories: ['Template'],
-        description:
-            'Most Powerful & Comprehensive Open Source and Free MUI React NextJS Admin Dashboard Template built for developers.',
-        url: 'https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free',
-    },
-    {
-        name: 'Mkdirs',
-        categories: ['Tooling', 'Code Generator', 'Productivity'],
-        description: 'Launch profitable directory website in minutes',
-        url: 'https://mkdirs.com',
-        keywords: ['directory', 'website', 'profitable', 'minutes', 'boilerplate'],
     },
 ]
