@@ -164,6 +164,13 @@ export const resources: Resource[] = [
         keywords: ['Software Jobs', 'Legal Jobs', 'Remote AI Jobs', 'Legal Jobs'],
     },
     {
+        name: 'AI Poster Generator',
+        description: 'Create custom posters fast with Venngage’s AI-powered design tool.',
+        categories: ['Design', 'AI', 'Marketing'],
+        url: 'https://venngage.com/ai-tools/poster-generator',
+        keywords: ['ai poster generator', 'ai-powered poster design', 'poster design with ai', 'automated poster creator'],
+    },
+    {
         name: 'AI-Text-Humanizer',
         description: 'Transform dull AI-generated text into easy-to-read copy and sound like a real person',
         categories: ['AI', 'Productivity'],
