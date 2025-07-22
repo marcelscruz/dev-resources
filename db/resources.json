@@ -1,5 +1,5 @@
 {
-"count": 1077,
+"count": 1079,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10492,6 +10492,23 @@
         ]
     },
     {
+        "name": "Social Proof Examples",
+        "description": "Real-world examples of social proof strategies used by various brands to build trust, drive conversions, and enhance credibility.",
+        "categories": [
+            "Marketing",
+            "Startup"
+        ],
+        "url": "https://socialproofexamples.com/",
+        "keywords": [
+            "social proof",
+            "testimonials",
+            "reviews",
+            "trust",
+            "cro",
+            "converstion rate optimization"
+        ]
+    },
+    {
         "name": "Soft Skills Engineering",
         "description": "It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer.",
         "categories": [
@@ -10694,6 +10711,24 @@
             "Accessibility"
         ],
         "url": "https://www.getstark.co/"
+    },
+    {
+        "name": "StarOps",
+        "description": "AI Platform Engineer",
+        "categories": [
+            "Cloud Computing",
+            "Tooling",
+            "AI"
+        ],
+        "url": "https://ingenimax.ai",
+        "keywords": [
+            "devops tool",
+            "mlops tool",
+            "kubernetes",
+            "cloud-native stack",
+            "ai agent",
+            "cloud infrastructure"
+        ]
     },
     {
         "name": "Start Bootstrap",

@@ -524,7 +524,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Social Proof Examples',
-        description: 'Real-world examples of social proof strategies used by various brands to build trust, drive conversions, and enhance credibility.',
+        description:
+            'Real-world examples of social proof strategies used by various brands to build trust, drive conversions, and enhance credibility.',
         categories: ['Marketing', 'Startup'],
         url: 'https://socialproofexamples.com/',
         keywords: ['social proof', 'testimonials', 'reviews', 'trust', 'cro', 'converstion rate optimization'],
