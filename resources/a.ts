@@ -325,7 +325,7 @@ export const resources: Resource[] = [
         categories: ['Template', 'Productivity'],
         url: 'https://atemplate.com',
         keywords: ['website templates', 'free website templates'],
-    }
+    },
     {
         name: 'Authentic Jobs',
         description: 'The leading job board for designers, developers, and creative pros.',
