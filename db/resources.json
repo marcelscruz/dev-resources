@@ -1,5 +1,5 @@
 {
-"count": 1075,
+"count": 1077,
 "data": [
     {
         "name": "1001 Fonts",
@@ -602,6 +602,19 @@
             "youtube video summarizer",
             "youtube ai summary",
             "youtube video summary ai"
+        ]
+    },
+    {
+        "name": "ATemplate",
+        "description": "Free WebSite Templates with A Template",
+        "categories": [
+            "Template",
+            "Productivity"
+        ],
+        "url": "https://atemplate.com",
+        "keywords": [
+            "website templates",
+            "free website templates"
         ]
     },
     {
@@ -7790,6 +7803,20 @@
             "Domain"
         ],
         "url": "https://www.namecheap.com"
+    },
+    {
+        "name": "Namekit",
+        "description": "AI-powered domain search - find available, standard-price names instantly. ",
+        "categories": [
+            "Domain"
+        ],
+        "url": "https://namekit.app",
+        "keywords": [
+            "domain name",
+            "dev tools",
+            "AI",
+            "CLI"
+        ]
     },
     {
         "name": "Narrow AI",
