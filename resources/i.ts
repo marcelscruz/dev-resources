@@ -262,4 +262,11 @@ export const resources: Resource[] = [
         url: 'https://isecjobs.com/',
         keywords: ['infosec', 'cybersecurity', 'career', 'developer', 'engineer', 'hacking', 'remote', 'jobs'],
     },
+    {
+        name: 'iPurix',
+        description: 'Easily remove watermarks from images with our free AI tool. Fast and simple, no login required. Get clean, watermark-free photos in seconds.',
+        categories: ['Image', 'Editor', 'AI'],
+        url: 'https://remove-watermark.org/',
+        keywords: ['watermark removal', 'photo editor'],
+    },
 ]
