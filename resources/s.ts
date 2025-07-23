@@ -538,6 +538,13 @@ export const resources: Resource[] = [
         keywords: ['live chat', 'ai', 'sales', 'customer service'],
     },
     {
+        name: 'SocialKit',
+        description: 'Analyze Social Media Videos with a simple API',
+        categories: ['Marketing', 'Analytics', 'AI'],
+        url: 'https://www.socialkit.dev/',
+        keywords: ['developer tool', 'api', 'youtube api', 'tiktok api'],
+    },
+    {
         name: 'Soft Skills Engineering',
         description:
             'It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer.',
