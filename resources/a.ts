@@ -142,6 +142,13 @@ export const resources: Resource[] = [
         keywords: ['ai', 'ai tools directory', 'developer tools', 'tools', 'ai tools', 'directory'],
     },
     {
+        name: 'AI Chart Generator',
+        description: 'Turn messy data into smart, stunning AI-generated charts in seconds',
+        categories: ['Design', 'AI', 'Marketing'],
+        url: 'https://venngage.com/ai-tools/chart',
+        keywords: ['ai chart generator', 'data visualization tool', 'ai data to chart', 'chart maker with ai'],
+    },
+    {
         name: 'AI Directories',
         description:
             'All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories',
