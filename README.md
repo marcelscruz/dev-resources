@@ -1914,7 +1914,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://usearticle.com/&sz=128" width="16" /> | [UseArticle](https://usearticle.com/) | UseArticle is the simplest and cheapest blogging platform you will ever need for your business. | Blogging platform, Blogs, SEO |
  <img src="https://www.google.com/s2/favicons?domain=https://utilportal.com/&sz=128" width="16" /> | [UtilPortal](https://utilportal.com/) | UtilPortal is your go-to platform for discovering and accessing a curated collection of essential tools and resources. | directory, tools, development, seo |
  <img src="https://www.google.com/s2/favicons?domain=https://ahrefs.com/website-authority-checker&sz=128" width="16" /> | [Website Authority Checker](https://ahrefs.com/website-authority-checker) | Free tool to check the  |  |
-
+<img src="https://www.google.com/s2/favicons?domain=https://serplux.com/favicon.ico&sz=128" width="16" /> | [Serplux](https://serplux.com/)|Supercharge your SEO and content workflows with serplux's AI- powered agents. Automate insights, accelerate organic growth, and unlock revenue- all without lifting a finger. |SEO, TOOLS, BLOG, CONTENT CREATION|
 **[⬆ Back to Index](#index)**
 
 ### <a name="serverless">Serverless</a>
