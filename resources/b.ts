@@ -382,6 +382,13 @@ export const resources: Resource[] = [
         keywords: ['cloud', 'cloud designer', 'deploy', 'designer', 'terraform', 'visual designer'],
     },
     {
+        name: 'BrandLife',
+        description: 'Digital asset management platform',
+        categories: ['Marketing', 'Productivity', 'AI'],
+        url: 'https://www.brandlife.io/',
+        keywords: ['digital asset management', 'brand management', 'asset organization', 'team collaboration'],
+    },
+    {
         name: 'Brave',
         description:
             'The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to enjoy a faster ad-free browsing experience that saves data and battery life by blocking tracking software.',
