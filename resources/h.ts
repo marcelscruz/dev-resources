@@ -91,6 +91,13 @@ export const resources: Resource[] = [
         url: 'https://hatchful.shopify.com/',
     },
     {
+        name: 'HeadsUp',
+        description: 'Your AI Competitive Intelligence Agent',
+        categories: ['Marketing', 'Analytics', 'AI'],
+        url: 'https://headsup.bot/',
+        keywords: ['competitive intelligence', 'competitor monitoring', 'market research', 'growth marketing'],
+    },
+    {
         name: 'Hemingway App',
         description:
             'Hemingway App makes your writing bold and clear. The app highlights lengthy, complex sentences and common errors.',
