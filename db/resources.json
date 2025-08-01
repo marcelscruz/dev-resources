@@ -1,5 +1,5 @@
 {
-"count": 1084,
+"count": 1085,
 "data": [
     {
         "name": "1001 Fonts",
@@ -329,6 +329,22 @@
             "tools",
             "ai tools",
             "directory"
+        ]
+    },
+    {
+        "name": "AI Brochure Generator",
+        "description": "Turn prompts into brochures - fast, polished, and on-brand.",
+        "categories": [
+            "Design",
+            "AI",
+            "Marketing"
+        ],
+        "url": "https://venngage.com/ai-tools/brochure-generator",
+        "keywords": [
+            "ai brochure maker",
+            "ai design tool",
+            "custom brochure generator",
+            "prompt-to-brochure"
         ]
     },
     {
