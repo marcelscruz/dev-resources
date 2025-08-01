@@ -182,6 +182,20 @@ export const resources: Resource[] = [
         url: 'https://www.upwork.com/',
     },
     {
+        name: 'Up For Grabs',
+        description:
+            'This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.',
+        categories: ['Hacktoberfest', 'Open Source'],
+        url: 'https://up-for-grabs.net/#/',
+    },
+    {
+        name: 'Url Opener',
+        description: 'Open multiple urls with one click',
+        categories: ['Extension', 'Productivity', 'Browser'],
+        url: 'https://chromewebstore.google.com/detail/url-opener/bebeelnjlafedkhklobpglpelcmidaee?hl=en',
+        keywords: ['url opener', 'open multiple urls', 'multiple url opener​', 'link opener'],
+    },
+    {
         name: 'Use The Keyboard',
         description: 'A collection of keyboard shortcuts for Mac apps, Windows programs, and a variety of websites.',
         categories: ['Productivity'],

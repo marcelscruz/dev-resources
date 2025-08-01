@@ -1,5 +1,5 @@
 {
-"count": 1087,
+"count": 1089,
 "data": [
     {
         "name": "1001 Fonts",
@@ -12235,6 +12235,15 @@
         "url": "https://up-for-grabs.net/#/"
     },
     {
+        "name": "Up For Grabs",
+        "description": "This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.",
+        "categories": [
+            "Hacktoberfest",
+            "Open Source"
+        ],
+        "url": "https://up-for-grabs.net/#/"
+    },
+    {
         "name": "Upstash",
         "description": "Serverless database with Redis API and durable storage. Low latency data. Durable storage. Ease of use.",
         "categories": [
@@ -12270,6 +12279,22 @@
             "Freelance"
         ],
         "url": "https://www.upwork.com/"
+    },
+    {
+        "name": "Url Opener",
+        "description": "Open multiple urls with one click",
+        "categories": [
+            "Extension",
+            "Productivity",
+            "Browser"
+        ],
+        "url": "https://chromewebstore.google.com/detail/url-opener/bebeelnjlafedkhklobpglpelcmidaee?hl=en",
+        "keywords": [
+            "url opener",
+            "open multiple urls",
+            "multiple url opener​",
+            "link opener"
+        ]
     },
     {
         "name": "Use The Keyboard",
