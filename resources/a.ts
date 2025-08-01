@@ -150,6 +150,13 @@ export const resources: Resource[] = [
         keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
     },
     {
+        name: 'AI Brochure Generator',
+        description: 'Turn prompts into brochures - fast, polished, and on-brand.',
+        categories: ['Design', 'AI', 'Marketing'],
+        url: 'https://venngage.com/ai-tools/brochure-generator',
+        keywords: ['ai brochure maker', 'ai design tool', 'custom brochure generator', 'prompt-to-brochure'],
+    },
+    {
         name: 'AI Jobs',
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
         categories: ['AI', 'Job'],
