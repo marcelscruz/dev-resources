@@ -6,10 +6,10 @@
     "scripts": {
         "update-db": "ts-node utils/db/update-db.js",
         "update-readme": "ts-node utils/readme/update-readme.js",
+        "dev-order": "node utils/order/resources-extractor.js",
         "prettier:format": "prettier --write \"**/*.{ts,js}\""
     },
     "dependencies": {
-        "@types/node": "^18.11.9",
         "eslint": "^7.18.0",
         "lodash.deburr": "^4.1.0",
         "prettier": "2.2.1",
@@ -25,5 +25,8 @@
     "homepage": "https://github.com/marcelscruz/dev-resources#readme",
     "bugs": {
         "url": "https://github.com/marcelscruz/dev-resources/issues"
+    },
+    "devDependencies": {
+        "@types/node": "^24.0.10"
     }
 }

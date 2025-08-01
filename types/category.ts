@@ -11,6 +11,7 @@ export type Category =
     | 'Book'
     | 'Browser'
     | 'CDN'
+    | 'CMS'
     | 'Cheatsheet'
     | 'Cloud Computing'
     | 'Code Challenge'
