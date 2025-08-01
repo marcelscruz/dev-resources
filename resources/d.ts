@@ -455,8 +455,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Dymo',
-        description:
-            'Data intelligence and protection, your security solution and Big Data for user recognition.',
+        description: 'Data intelligence and protection, your security solution and Big Data for user recognition.',
         categories: ['Security', 'Programming'],
         url: 'https://dymo.tpeoficial.com',
     },
