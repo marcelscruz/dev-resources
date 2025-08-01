@@ -454,6 +454,13 @@ export const resources: Resource[] = [
         url: 'https://dygraphs.com/',
     },
     {
+        name: 'Dymo',
+        description:
+            'Data intelligence and protection, your security solution and Big Data for user recognition.',
+        categories: ['Security', 'Programming'],
+        url: 'https://dymo.tpeoficial.com',
+    },
+    {
         name: 'DynamoDB',
         description:
             'Amazon DynamoDB is a nonrelational database. This database system provides consistent latency and offers built-in security and in-memory caching. DynamoDB is a serverless database which scales automatically and backs up your data for protection.',
