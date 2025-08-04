@@ -1,0 +1,8 @@
+{
+    name: 'Sitepins',
+    description:
+        'A modern Git-based CMS built for static site generators like Hugo, Astro, and Next.js. It offers a visual editor, Git integration, and AI content support for content teams and developers.',
+    categories: ['CMS'],
+    url: 'https://sitepins.com',
+    keywords: ['cms', 'git-based', 'static site generator', 'visual editor', 'markdown', 'next.js', 'astro', 'hugo'],
+},
