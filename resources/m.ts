@@ -198,6 +198,13 @@ export const resources: Resource[] = [
         url: 'https://www.memfree.me/',
     },
     {
+        name: 'Meridian',
+        description: 'Be more visible in AI search',
+        categories: ['Marketing', 'SEO', 'AI'],
+        url: 'https://trymeridian.com/',
+        keywords: ['answer engine optimization', 'generative engine optimization', 'generative ai seo', 'ai search optimization'],
+    },
+    {
         name: 'Meshr',
         description: 'AI-powered internal linking tool for better SEO & user experience',
         categories: ['SEO', 'Marketing', 'Productivity'],
