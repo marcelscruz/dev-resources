@@ -145,14 +145,6 @@ export const resources: Resource[] = [
         url: 'https://seogets.com/',
     },
     {
-        name: 'SEO Katana',
-        description:
-            'Katana helps you find your competitors top organic content, analyze it, and create unique content inspired by it for you.',
-        categories: ['AI', 'Marketing', 'Productivity'],
-        url: 'https://seokatana.com/',
-        keywords: ['business', 'seo', 'ai content generator', 'competitor research'],
-    },
-    {
         name: 'SEO Powersuite',
         description:
             'All-in-one SEO Tool for full cycle SEO optimisation, including keyword research, rank trackring, backlink analysis, link monitoring, site audit, technical and content optimisation tools.',
@@ -285,13 +277,6 @@ export const resources: Resource[] = [
         categories: ['Prototyping', 'Screenshot'],
         url: 'https://shots.so/',
         keywords: ['mockup', 'design', 'social', 'marketing'],
-    },
-    {
-        name: 'Shutterstock',
-        description:
-            'Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.',
-        categories: ['Video', 'Image', 'Icon'],
-        url: 'https://www.shutterstock.com/',
     },
     {
         name: 'Sidebar',
@@ -908,13 +893,6 @@ export const resources: Resource[] = [
             'Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI.',
         categories: ['Hosting'],
         url: 'https://surge.sh/',
-    },
-    {
-        name: 'SvelteLaunch',
-        description: 'Svelte 5 Boilerplate for building AI apps quickly',
-        categories: ['AI', 'Startup', 'Template'],
-        url: 'https://sveltelaunch.io',
-        keywords: ['boilerplate', 'svelte', 'development'],
     },
     {
         name: 'SVG Backgrounds',

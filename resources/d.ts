@@ -383,13 +383,6 @@ export const resources: Resource[] = [
         url: 'https://domain.garden/',
     },
     {
-        name: 'Doodlicons',
-        description: 'Over 700 hand-drawn vector design elements.',
-        categories: ['Illustration'],
-        url: 'https://doodlicons.com/',
-        keywords: ['doodles', 'scribbles'],
-    },
-    {
         name: 'Dotnet Gig',
         description: 'Find .NET developer jobs',
         categories: ['Job'],

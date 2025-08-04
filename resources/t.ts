@@ -283,13 +283,6 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/channel/UCDQTzZ871T7uJpx9yeMPhAw',
     },
     {
-        name: 'This VS That',
-        description: 'What is the difference between ___ and ___ in the front-end development?',
-        categories: ['Learn', 'Programming'],
-        url: 'https://phuoc.ng/collection/this-vs-that/',
-        keywords: ['CSS', 'DOM', 'HTML', 'JavaScript', 'React', 'TypeScript'],
-    },
-    {
         name: 'TinyPNG',
         description:
             'Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency!',

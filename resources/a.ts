@@ -64,29 +64,6 @@ export const resources: Resource[] = [
         keywords: ['e-commerce', 'advertising', 'ai', 'design'],
     },
     {
-        name: 'Add3',
-        description:
-            'EVM smart contract creation and management for web3 projects - Use Add3 to deploy your smart contracts or dApp project in minutes. Signup today!',
-        categories: ['Web3', 'Programming', 'Startup'],
-        url: 'https://www.add3.io/',
-        keywords: [
-            'crypto',
-            'cryptocurrency',
-            'web3',
-            'no-code',
-            'smart contract',
-            'token minting',
-            'create token',
-            'vesting contract',
-            'distribution contract',
-            'crypto staking',
-            'liquidity pool staking',
-            'onchain analytics',
-            'offchain analytics',
-            'blockchain analytics',
-        ],
-    },
-    {
         name: 'Adligator',
         description:
             'Adligator - first of all is AI powered aggregator of ads from Facebook, Instagram, fb Messenger and the audience network.',

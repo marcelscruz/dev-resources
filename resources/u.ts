@@ -36,13 +36,6 @@ export const resources: Resource[] = [
         url: 'https://designcode.io/ui-design-for-developers',
     },
     {
-        name: 'UI Movement',
-        description: 'Only the best mobile and web UI design inspiration, right in your inbox.',
-        categories: ['Design', 'Inspiration', 'UI'],
-        url: 'https://uimovement.com/',
-        keywords: ['ui', 'design', 'inspiration', 'ux', 'mobile', 'apps', 'screenshots'],
-    },
-    {
         name: 'ui.dev',
         description: 'Comprehensive learning resources for mastering the JavaScript ecosystem.',
         categories: ['Newsletter', 'Programming', 'Learn', 'Programming'],

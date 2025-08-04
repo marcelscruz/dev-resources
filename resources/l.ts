@@ -210,14 +210,6 @@ export const resources: Resource[] = [
         keywords: ['web3', 'web3 developer', 'web3 developer course'],
     },
     {
-        name: 'LectureKit',
-        description:
-            'Faster & simpler way to build course platforms, making it easy for developers to build course platforms.',
-        categories: ['AI', 'Editor', 'Tooling'],
-        url: 'https://lecturekit.io',
-        keywords: ['ai', 'courses', 'api'],
-    },
-    {
         name: 'Lede',
         description: 'Generate In-Depth Blog Content',
         categories: ['Writing', 'Productivity', 'AI'],

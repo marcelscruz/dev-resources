@@ -189,13 +189,6 @@ export const resources: Resource[] = [
         url: 'https://www.hloom.com/',
     },
     {
-        name: 'Homie',
-        description: 'AI project manager to speed up software development',
-        categories: ['AI', 'Productivity'],
-        url: 'https://homie.gg',
-        keywords: ['GitHub Integration', 'Code Management', 'Time Management'],
-    },
-    {
         name: 'Hoppscotch',
         description: 'Helps you create requests faster, saving precious time on development.',
         categories: ['API Building'],

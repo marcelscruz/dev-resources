@@ -207,13 +207,6 @@ export const resources: Resource[] = [
         keywords: ['interview helper', 'interview AI copilot', 'interview AI assistant', 'career', 'jobs'],
     },
     {
-        name: 'Interview Playground',
-        description: 'Practice interviewing before the big day',
-        categories: ['Interview', 'AI'],
-        url: 'https://interviewplayground.com',
-        keywords: ['interview helper', 'interview solver', 'ai copilot', 'career', 'practice', 'interview', 'jobs'],
-    },
-    {
         name: 'Interview Solver',
         description: 'Ace your live coding interviews with our AI Copilot',
         categories: ['Interview', 'AI'],
