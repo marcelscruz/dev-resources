@@ -21,6 +21,13 @@ export const resources: Resource[] = [
         url: 'https://developers.google.com/speed/pagespeed/insights/',
     },
     {
+        name: 'PageSpike.ai',
+        description: 'CRO Audits for landing pages - powered by AI',
+        categories: ['Marketing', 'Analytics', 'Performance'],
+        url: 'https://pagespike.ai/',
+        keywords: ['cro', 'conversion rate optimization', 'landing pages', 'cro audit'],
+    },
+    {
         name: 'PassVult',
         description: 'Most private password manager',
         categories: ['Productivity', 'Security', 'Startup'],
