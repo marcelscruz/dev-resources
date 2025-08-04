@@ -114,6 +114,13 @@ export const resources: Resource[] = [
         keywords: ['directory', 'tools', 'development'],
     },
     {
+        name: 'BestFarewell',
+        description: 'Family Estate Management System',
+        categories: ['Productivity', 'AI', 'Legal'],
+        url: 'https://bestfarewell.com',
+        keywords: ['family management system', 'ai obituary', 'farewell checklist', 'memorial page'],
+    },
+    {
         name: 'BetaList',
         description:
             'BetaList provides an overview of upcoming internet startups. Discover and get early access to the future.',
