@@ -1,5 +1,5 @@
 {
-"count": 1089,
+"count": 1072,
 "data": [
     {
         "name": "1001 Fonts",
@@ -190,32 +190,6 @@
             "advertising",
             "ai",
             "design"
-        ]
-    },
-    {
-        "name": "Add3",
-        "description": "EVM smart contract creation and management for web3 projects - Use Add3 to deploy your smart contracts or dApp project in minutes. Signup today!",
-        "categories": [
-            "Web3",
-            "Programming",
-            "Startup"
-        ],
-        "url": "https://www.add3.io/",
-        "keywords": [
-            "crypto",
-            "cryptocurrency",
-            "web3",
-            "no-code",
-            "smart contract",
-            "token minting",
-            "create token",
-            "vesting contract",
-            "distribution contract",
-            "crypto staking",
-            "liquidity pool staking",
-            "onchain analytics",
-            "offchain analytics",
-            "blockchain analytics"
         ]
     },
     {
@@ -1456,23 +1430,6 @@
         "url": "https://bytes.dev"
     },
     {
-        "name": "Cadabra",
-        "description": "Cadabra maximizes email efficiency using AI, saving users time on reading, writing, replying, and reviewing emails",
-        "categories": [
-            "Email",
-            "AI",
-            "Marketing"
-        ],
-        "url": "https://trycadabra.io/",
-        "keywords": [
-            "AI",
-            "Email Automation",
-            "Productivity",
-            "Customer Service",
-            "Translation"
-        ]
-    },
-    {
         "name": "CakeResume",
         "description": "Build an impressive resume and land that dream job. View online or download the PDF for FREE! CakeResume provides more than 50 resume templates and 1,000+ resume samples to help you make a professional resume in 10 minutes.",
         "categories": [
@@ -1971,26 +1928,6 @@
         ]
     },
     {
-        "name": "CodeBeaver",
-        "description": "Get an A.I. assistant that writes tests and spots bugs",
-        "categories": [
-            "Programming",
-            "Testing",
-            "AI"
-        ],
-        "url": "https://www.codebeaver.ai/",
-        "keywords": [
-            "unit testing",
-            "unit test",
-            "unit tests",
-            "unit test generator",
-            "ai",
-            "ai assistant",
-            "ai testing",
-            "ai unit testing"
-        ]
-    },
-    {
         "name": "Codecademy",
         "description": "Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more.",
         "categories": [
@@ -2055,25 +1992,6 @@
             "Tooling"
         ],
         "url": "https://codekitapp.com/"
-    },
-    {
-        "name": "CodeLobster",
-        "description": "CodeLobster is free cross-platform editor with plug-ins for all popular JS and PHP frameworks.",
-        "categories": [
-            "Editor",
-            "Programming"
-        ],
-        "url": "https://codelobster.com/",
-        "keywords": [
-            "html",
-            "css",
-            "javascript",
-            "php",
-            "editor",
-            "code",
-            "ide",
-            "codelobster"
-        ]
     },
     {
         "name": "Codementor",
@@ -3617,18 +3535,6 @@
         "url": "https://domain.garden/"
     },
     {
-        "name": "Doodlicons",
-        "description": "Over 700 hand-drawn vector design elements.",
-        "categories": [
-            "Illustration"
-        ],
-        "url": "https://doodlicons.com/",
-        "keywords": [
-            "doodles",
-            "scribbles"
-        ]
-    },
-    {
         "name": "Dotnet Gig",
         "description": "Find .NET developer jobs",
         "categories": [
@@ -4807,14 +4713,6 @@
         "url": "https://freeter.io/"
     },
     {
-        "name": "FreeTools.site",
-        "description": "Free online tools - convert or edit documents, images, audio, video and more.",
-        "categories": [
-            "Image"
-        ],
-        "url": "https://freetools.site/"
-    },
-    {
         "name": "FreshRemote.Work",
         "description": "All fresh remote work and work from home opportunities with salaries in one place 🚀",
         "categories": [
@@ -4900,20 +4798,6 @@
             "Programming"
         ],
         "url": "https://www.frontendpractice.com/"
-    },
-    {
-        "name": "Frontend Tips",
-        "description": "Tiny tips, tricks & best practices for front-end development",
-        "categories": [
-            "Learn",
-            "Programming"
-        ],
-        "url": "https://getfrontend.tips/",
-        "keywords": [
-            "Front-end tips",
-            "Front-end tricks",
-            "Best front-end practices"
-        ]
     },
     {
         "name": "Frontend Toolkit",
@@ -5706,20 +5590,6 @@
         "url": "https://www.hloom.com/"
     },
     {
-        "name": "Homie",
-        "description": "AI project manager to speed up software development",
-        "categories": [
-            "AI",
-            "Productivity"
-        ],
-        "url": "https://homie.gg",
-        "keywords": [
-            "GitHub Integration",
-            "Code Management",
-            "Time Management"
-        ]
-    },
-    {
         "name": "Hoppscotch",
         "description": "Helps you create requests faster, saving precious time on development.",
         "categories": [
@@ -6174,24 +6044,6 @@
             "interview AI copilot",
             "interview AI assistant",
             "career",
-            "jobs"
-        ]
-    },
-    {
-        "name": "Interview Playground",
-        "description": "Practice interviewing before the big day",
-        "categories": [
-            "Interview",
-            "AI"
-        ],
-        "url": "https://interviewplayground.com",
-        "keywords": [
-            "interview helper",
-            "interview solver",
-            "ai copilot",
-            "career",
-            "practice",
-            "interview",
             "jobs"
         ]
     },
@@ -6927,21 +6779,6 @@
             "web3",
             "web3 developer",
             "web3 developer course"
-        ]
-    },
-    {
-        "name": "LectureKit",
-        "description": "Faster & simpler way to build course platforms, making it easy for developers to build course platforms.",
-        "categories": [
-            "AI",
-            "Editor",
-            "Tooling"
-        ],
-        "url": "https://lecturekit.io",
-        "keywords": [
-            "ai",
-            "courses",
-            "api"
         ]
     },
     {
@@ -8409,14 +8246,6 @@
         ]
     },
     {
-        "name": "Page Collective",
-        "description": "Get inspired and keep up with the latest landing page design trends.",
-        "categories": [
-            "Inspiration"
-        ],
-        "url": "https://pagecollective.com/"
-    },
-    {
         "name": "Pagelet",
         "description": "Simple Free HTML hosting, get a shareable link and a QR code out of the box.",
         "categories": [
@@ -8535,22 +8364,6 @@
             "bug report",
             "bug report checklist",
             "how to write bug report"
-        ]
-    },
-    {
-        "name": "PersonaForce",
-        "description": "Create and chat with AI buyer personas for smarter marketing.",
-        "categories": [
-            "Marketing",
-            "Productivity",
-            "AI"
-        ],
-        "url": "https://personaforce.ai/",
-        "keywords": [
-            "ai assistant",
-            "persona marketing",
-            "audience research",
-            "sales"
         ]
     },
     {
@@ -10041,22 +9854,6 @@
         "url": "https://seogets.com/"
     },
     {
-        "name": "SEO Katana",
-        "description": "Katana helps you find your competitors top organic content, analyze it, and create unique content inspired by it for you.",
-        "categories": [
-            "AI",
-            "Marketing",
-            "Productivity"
-        ],
-        "url": "https://seokatana.com/",
-        "keywords": [
-            "business",
-            "seo",
-            "ai content generator",
-            "competitor research"
-        ]
-    },
-    {
         "name": "SEO Powersuite",
         "description": "All-in-one SEO Tool for full cycle SEO optimisation, including keyword research, rank trackring, backlink analysis, link monitoring, site audit, technical and content optimisation tools.",
         "categories": [
@@ -10263,16 +10060,6 @@
             "social",
             "marketing"
         ]
-    },
-    {
-        "name": "Shutterstock",
-        "description": "Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.",
-        "categories": [
-            "Video",
-            "Image",
-            "Icon"
-        ],
-        "url": "https://www.shutterstock.com/"
     },
     {
         "name": "Sidebar",
@@ -11143,21 +10930,6 @@
         "url": "https://surge.sh/"
     },
     {
-        "name": "SvelteLaunch",
-        "description": "Svelte 5 Boilerplate for building AI apps quickly",
-        "categories": [
-            "AI",
-            "Startup",
-            "Template"
-        ],
-        "url": "https://sveltelaunch.io",
-        "keywords": [
-            "boilerplate",
-            "svelte",
-            "development"
-        ]
-    },
-    {
         "name": "SVG Backgrounds",
         "description": "SVG Backgrounds hosts a collection of customizable SVG-based repeating patterns and backgrounds for websites and blogs.",
         "categories": [
@@ -11659,23 +11431,6 @@
         "url": "https://www.youtube.com/channel/UCDQTzZ871T7uJpx9yeMPhAw"
     },
     {
-        "name": "This VS That",
-        "description": "What is the difference between ___ and ___ in the front-end development?",
-        "categories": [
-            "Learn",
-            "Programming"
-        ],
-        "url": "https://phuoc.ng/collection/this-vs-that/",
-        "keywords": [
-            "CSS",
-            "DOM",
-            "HTML",
-            "JavaScript",
-            "React",
-            "TypeScript"
-        ]
-    },
-    {
         "name": "TinyPNG",
         "description": "Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency!",
         "categories": [
@@ -12044,25 +11799,6 @@
             "UI"
         ],
         "url": "https://designcode.io/ui-design-for-developers"
-    },
-    {
-        "name": "UI Movement",
-        "description": "Only the best mobile and web UI design inspiration, right in your inbox.",
-        "categories": [
-            "Design",
-            "Inspiration",
-            "UI"
-        ],
-        "url": "https://uimovement.com/",
-        "keywords": [
-            "ui",
-            "design",
-            "inspiration",
-            "ux",
-            "mobile",
-            "apps",
-            "screenshots"
-        ]
     },
     {
         "name": "ui.dev",
