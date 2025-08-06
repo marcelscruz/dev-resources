@@ -1,0 +1,48 @@
+name: Auto Fix Broken Links
+
+on:
+  workflow_dispatch:
+  schedule: # Run once a month
+    - cron: '0 0 1 * *'
+
+jobs:
+  fix-broken-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Lychee Link Checker (JSON Output)
+        uses: lycheeverse/lychee-action@v1.6.1
+        with:
+          args: '--format json --output lychee/out.json "**/*.ts"'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run Auto-Delete Broken Links Script
+        run: node scripts/remove-broken-links.js
+
+      - name: Commit & Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b auto-fix/broken-links
+          git add .
+          git commit -m "Auto-remove broken links"
+          git push origin auto-fix/broken-links
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          title: "Auto Remove Broken Links"
+          body: "This PR automatically removes broken links detected by Lychee."
+          branch: auto-fix/broken-links
