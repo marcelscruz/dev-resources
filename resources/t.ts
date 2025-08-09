@@ -311,6 +311,13 @@ export const resources: Resource[] = [
         url: 'https://toastlog.com/',
     },
     {
+        name: 'Toksta',
+        description: 'AI Software Research Agent',
+        categories: ['Marketing', 'AI', 'Analytics'],
+        url: 'https://www.toksta.com',
+        keywords: ['b2b saas influencer marketing', 'saas tool discovery', 'influencer data platform', 'ai-powered software research'],
+    },
+    {
         name: 'TOOOLS.design',
         description: 'A growing archive of 1,500+ design resources, frequently updated for the community.',
         categories: ['Accessibility', 'Design', 'Blog'],
