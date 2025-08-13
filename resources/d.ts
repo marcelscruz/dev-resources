@@ -9,6 +9,14 @@ export const resources: Resource[] = [
         keywords: ['d3', 'd3.js', 'visualization', 'dom', 'javascript'],
     },
     {
+        name: 'DALL·E Generate',
+        description:
+            'Free AI-powered text-to-image generator allowing users to create unique visuals instantly without sign-up or watermarks.',
+        categories: ['AI', 'Design', 'Productivity'],
+        url: 'https://dallegenerate.art',
+        keywords: ['ai', 'image generation', 'text-to-image', 'art'],
+    },
+    {
         name: 'DaFont',
         description:
             'Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.',
