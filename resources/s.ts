@@ -10,149 +10,145 @@ export const resources: Resource[] = [
         keywords: ['boilerplates', 'starter kits', 'frameworks', 'development', 'low code'],
     },
     {
+        name: 'SaaS Design',
+        description:
+            'For developers looking to create user-friendly designs in Figma: Free & open source Figma templates and UI kits to help kickstart your next project.',
+        categories: ['Design', 'Inspiration', 'UI'],
+        url: 'https://www.saasdesign.io/free-figma-templates/',
+        keywords: ['design', 'ui', 'figma', 'free-figma-templates', 'uiKitsAndLibraries'],
+    },
+    {
         name: 'SaaSCurate',
         description: 'SaaSCurate is a community-driven platform where SaaS founders launch and grow their products.',
         categories: ['Marketing', 'Startup'],
         url: 'https://saascurate.com/',
         keywords: ['directory', 'community', 'seo', 'growth'],
     },
-
-    {
-        name: 'SaaS Design',
-        categories: ['Design', 'Inspiration', 'UI'],
-        description:
-            'For developers looking to create user-friendly designs in Figma: Free & open source Figma templates and UI kits to help kickstart your next project.',
-        keywords: ['design', 'ui', 'figma', 'free-figma-templates', 'uiKitsAndLibraries'],
-        url: 'https://www.saasdesign.io/free-figma-templates/',
-    },
     {
         name: 'SaaSFrame',
-        categories: ['Inspiration', 'Startup', 'UI'],
         description:
             'Browse hundreds of SaaS marketing pages, product interfaces and email flows. Get inspired by the design and copywriting patterns used by top-class SaaS companies.',
+        categories: ['Inspiration', 'Startup', 'UI'],
         url: 'https://www.saasframe.io/',
     },
     {
         name: 'Safari Technology Preview',
-        categories: ['Browser'],
         description:
             'Safari is the best way to see the sites on iPhone, iPad, and Mac. Safari Technology Preview gives you an early look at upcoming web technologies in macOS and iOS.',
+        categories: ['Browser'],
         url: 'https://developer.apple.com/safari/technology-preview/',
     },
     {
         name: 'Scale',
-        categories: ['Illustration'],
         description:
             'Top-quality illustrations, 100% free - no attribution, no IP-related restrictions. Pick an illustration and customize to your branding using our color picker.',
+        categories: ['Illustration'],
         url: 'https://2.flexiple.com/scale/all-illustrations',
     },
     {
         name: 'Schedul',
-        categories: ['Marketing', 'Analytics', 'Social Media'],
         description:
             'The content publishing & scheduling platform the most exclusive content creators use for Threads: a SaaS to Build and monetize your content on Threads.',
+        categories: ['Marketing', 'Analytics', 'Social Media'],
         url: 'https://www.schedulethreads.com',
         keywords: ['threads', 'marketing', 'instagram'],
     },
     {
         name: 'Scopebird',
-        categories: ['AI', 'Productivity'],
         description: 'Product scoping in minutes, not weeks.',
-        keywords: ['product', 'scoping', 'ai', 'product management'],
+        categories: ['AI', 'Productivity'],
         url: 'https://www.scopebird.com/',
+        keywords: ['product', 'scoping', 'ai', 'product management'],
     },
     {
         name: 'Scrapfly',
-        categories: ['Scraping'],
         description:
             'Scrapfly is an enterprise-grade solution providing Web Scraping API that aims to simplify the scraping process by managing everything: real browser rendering, rotating proxies, and fingerprints (TLS, HTTP, browser) to bypass all major anti-bots.',
+        categories: ['Scraping'],
         url: 'https://scrapfly.io',
         keywords: ['scraping', 'screenshot', 'proxy', 'webhook', 'headless browser'],
     },
     {
         name: 'ScrapingBee',
-        categories: ['Scraping'],
         description:
             'ScrapingBee is a Web Scraping API that handles proxies and Headless browser for you, so you can focus on extracting the data you want, and nothing else.',
+        categories: ['Scraping'],
         url: 'https://www.scrapingbee.com/',
     },
     {
         name: 'Screaming Frog SEO Spider',
-        categories: ['SEO'],
         description:
             'The industry leading website crawler for Windows, macOS and Ubuntu, trusted by thousands of SEOs and agencies worldwide for technical SEO site audits.',
+        categories: ['SEO'],
         url: 'https://www.screamingfrog.co.uk/seo-spider/',
     },
     {
         name: 'Screen Studio',
-        categories: ['Editor', 'Video'],
         description:
             'Screen Studio is a professional and simple to use screen recorder for macOS that lets you create professionally looking screen recordings & tutorial videos in minutes, without video editing skills needed.',
+        categories: ['Editor', 'Video'],
         url: 'https://www.screen.studio',
-
         keywords: ['video', 'editor', 'mac', 'app', 'screen', 'recorder'],
     },
     {
         name: 'Screenstab',
-        categories: ['Screenshot'],
         description: 'Turn ordinary screenshots into beautiful image assets in no time',
+        categories: ['Screenshot'],
         url: 'https://www.screenstab.com/',
     },
     {
         name: 'Scrimba',
-        categories: ['Learn', 'Programming'],
         description:
             'Scrimba is a fun and fast way of learning to code! Our interactive courses and tutorials will teach you React, Vue, Angular, JavaScript, HTML, CSS, and more.',
+        categories: ['Learn', 'Programming'],
         url: 'https://scrimba.com/',
     },
     {
+        name: 'SeachAtlas',
+        description:
+            'Drive more traffic and revenue with the SearchAtlas SEO Software platform! Get better results from your SEO campaigns with cutting-edge marketing and SEO tools.',
+        categories: ['SEO', 'Marketing'],
+        url: 'https://searchatlas.com',
+    },
+    {
         name: 'Selenium',
-        categories: ['Testing'],
         description: 'Selenium is a suite of tools for automating web browsers.',
+        categories: ['Testing'],
         url: 'https://www.selenium.dev/',
     },
     {
         name: 'Seline',
-        categories: ['Analytics'],
         description:
             'Seline is a simple & private website and product analytics. Cookieless, lightweight, independent.',
+        categories: ['Analytics'],
         url: 'https://seline.so',
         keywords: ['analytics', 'dashboard', 'funnels', 'visits'],
     },
     {
         name: 'Semantic UI',
-        categories: ['Library', 'Programming', 'UI'],
         description: 'Semantic empowers designers and developers by creating a shared vocabulary for UI.',
-        keywords: ['html5', 'ui', 'library', 'framework', 'javascript'],
+        categories: ['Library', 'Programming', 'UI'],
         url: 'https://semantic-ui.com/',
+        keywords: ['html5', 'ui', 'library', 'framework', 'javascript'],
     },
     {
         name: 'SEO Blueprint',
-        categories: ['SEO'],
         description: 'Cutting-edge SEO tactics that are actually ranking websites.',
+        categories: ['SEO'],
         url: 'https://seoblueprint.com/',
     },
     {
         name: 'SEO Gets',
-        categories: ['SEO', 'Marketing'],
         description:
             'SEO Get is an alternative to Google Search Console performance reports. Minimalist and simple to use. Get actionable insights in minutes.',
+        categories: ['SEO', 'Marketing'],
         url: 'https://seogets.com/',
     },
     {
-        name: 'SEO Katana',
-        description:
-            'Katana helps you find your competitors top organic content, analyze it, and create unique content inspired by it for you.',
-        categories: ['AI', 'Marketing', 'Productivity'],
-        url: 'https://seokatana.com/',
-        keywords: ['business', 'seo', 'ai content generator', 'competitor research'],
-    },
-
-    {
         name: 'SEO Powersuite',
-        categories: ['SEO'],
         description:
             'All-in-one SEO Tool for full cycle SEO optimisation, including keyword research, rank trackring, backlink analysis, link monitoring, site audit, technical and content optimisation tools.',
+        categories: ['SEO'],
         url: 'https://www.link-assistant.com/',
         keywords: [
             'rank tracker',
@@ -164,44 +160,45 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'SeachAtlas',
-        categories: ['SEO', 'Marketing'],
-        description:
-            'Drive more traffic and revenue with the SearchAtlas SEO Software platform! Get better results from your SEO campaigns with cutting-edge marketing and SEO tools.',
-        url: 'https://searchatlas.com',
-    },
-    {
         name: 'Seotisfy',
-        categories: ['SEO'],
         description:
             'Stop wasting time with clunky, siloed SEO work. Get every campaign on the same page with a tool that helps you work better, faster, and based on results.',
+        categories: ['SEO'],
         url: 'https://www.seotisfy.com',
     },
     {
-        name: 'SerpApi',
+        name: 'SerpApi - Search API',
+        description: "SerpApi's Search API makes it easy and fast to scrape Google and other search engines.",
         categories: ['Scraping'],
-        description: 'SerpApi provides a simple API to scrape Google and other search engines.',
         url: 'https://serpapi.com/',
+        keywords: ['scraping', 'google', 'search', 'api'],
     },
     {
         name: 'Serverless Stack',
-        categories: ['API Building', 'Serverless'],
         description: 'Serverless Stack (SST) is a framework that makes it easy to build serverless applications.',
+        categories: ['API Building', 'Serverless'],
         url: 'https://serverless-stack.com/',
     },
     {
         name: 'Servervana',
-        categories: ['Performance', 'Tooling'],
         description:
             'Team friendly performance and uptime monitoring platform for your website, API endpoints, DNS system and more. Has free plan.',
+        categories: ['Performance', 'Tooling'],
         url: 'https://servervana.com',
         keywords: ['Performance', 'Uptime', 'Monitoring', 'Status Page', 'Web Vitals', 'SSL', 'HTTP(s)', 'DNS'],
     },
     {
+        name: 'Shadcnblocks',
+        categories: ['Template', 'UI', 'Design'],
+        description: 'Hundreds of extra blocks and components for shadcn/ui, Tailwind & React.',
+        url: 'https://shadcnblocks.com',
+    },
+    {
         name: 'Shape',
-        categories: ['Icon'],
         description:
             '26000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.',
+        categories: ['Icon'],
+        url: 'https://shape.so/',
         keywords: [
             'icons',
             'illustrations',
@@ -227,90 +224,84 @@ export const resources: Resource[] = [
             'export code',
             'presets',
         ],
-        url: 'https://shape.so/',
+    },
+    {
+        name: 'Sheets 2 API',
+        description:
+            'Convert Google Sheets to JSON API - Speed up your prototyping by skipping API development and using Google Sheets instead.',
+        categories: ['API Building', 'Tooling', 'Database'],
+        url: 'https://sheets-2-api.craftengineer.com',
+        keywords: ['api', 'google sheets', 'json', 'prototyping', 'sheets as DB'],
     },
     {
         name: 'Shift Nudge',
-        categories: ['Design', 'Learn', 'UI'],
         description:
-            "Shift Nudge is the systematic process to learn the visual skills of interface design, even if you don't have a design background. Perfect for those wanting to enter or advance in the field.",
+            'Shift Nudge is the systematic process to learn the visual skills of interface design, even if you don',
+        categories: ['Design', 'Learn', 'UI'],
         url: 'https://shiftnudge.com/',
     },
     {
         name: 'ShipFast',
-        categories: ['Productivity', 'Template', 'Website Builder'],
         description:
             'The NextJS boilerplate with all you need to build your SaaS, AI tool, or any other web app and make your first $ online fast.',
+        categories: ['Productivity', 'Template', 'Website Builder'],
         url: 'https://shipfa.st',
         keywords: ['ShipFast', 'NextJS boilerplate', 'NextJS starter', 'NextJS template', 'NextJS', 'ReactJS'],
     },
     {
         name: 'Shipped.club',
-        categories: ['Productivity', 'Template', 'Website Builder'],
         description:
             'The #1 Next.js SaaS Kit for busy founders. Build and ship your startup in days, not months, and make money online.',
+        categories: ['Productivity', 'Template', 'Website Builder'],
         url: 'https://shipped.club',
     },
     {
         name: 'ShopTalkShow',
-        keywords: ['product', 'apps'],
-        categories: ['Podcast', 'Programming'],
         description: 'A weekly podcast about just building websites from Dave Rupert and Chris Coyier.',
+        categories: ['Podcast', 'Programming'],
         url: 'https://shoptalkshow.com/',
+        keywords: ['product', 'apps'],
     },
     {
         name: 'Shortimize',
-        categories: ['Marketing', 'Social Media'],
         description:
             'Simplify content management: all your data, metrics, and reports for scalable strategies in one place.',
+        categories: ['Marketing', 'Social Media'],
         url: 'https://shortimize.com',
         keywords: ['tiktok', 'instagram', 'track videos', 'discover viral content', 'viral shorts'],
     },
     {
         name: 'Shots',
-        keywords: ['mockup', 'design', 'social', 'marketing'],
-        categories: ['Prototyping', 'Screenshot'],
         description:
             'Create amazing mockups with an image, from a website to a product, personalize any aspect of the outcome.',
+        categories: ['Prototyping', 'Screenshot'],
         url: 'https://shots.so/',
-    },
-    {
-        name: 'Shutterstock',
-        categories: ['Video', 'Image', 'Icon'],
-        description:
-            'Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.',
-        url: 'https://www.shutterstock.com/',
+        keywords: ['mockup', 'design', 'social', 'marketing'],
     },
     {
         name: 'Sidebar',
-        categories: ['Newsletter', 'Programming'],
         description: 'The five best design links, every weekday.',
+        categories: ['Newsletter', 'Programming'],
         url: 'https://sidebar.io/',
     },
     {
-        name: 'Sidebird',
-        categories: ['Social Media'],
-        description: 'Stop chasing Twitter followers. Get fans.',
-        url: 'https://www.sidebird.io/',
-    },
-    {
         name: 'sigma.js',
-        categories: ['Library', 'Programming'],
         description:
             'Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.',
+        categories: ['Library', 'Programming'],
         url: 'http://sigmajs.org/',
     },
     {
         name: 'Simple Analytics',
-        categories: ['Analytics'],
         description:
-            "Simple Analytics gives you the analytics you need without invading the privacy of your users, with a clean interface, and simple integration. GDPR, CCPA and, PECR compliant because we don't handle PII data and set no cookies.",
+            'Simple Analytics gives you the analytics you need without invading the privacy of your users, with a clean interface, and simple integration. GDPR, CCPA and, PECR compliant because we don',
+        categories: ['Analytics'],
         url: 'https://simpleanalytics.com/',
     },
     {
         name: 'Simple Icons',
-        categories: ['Icon'],
         description: '1493 Free SVG icons for popular brands.',
+        categories: ['Icon'],
         url: 'http://simpleicons.org/',
     },
     {
@@ -331,26 +322,26 @@ export const resources: Resource[] = [
             'ai',
         ],
     },
-
     {
         name: 'Site123',
-        categories: ['Website Builder'],
         description:
             'Create a free website with SITE123. No design or coding skills required. SITE123 is by far the easiest free website builder. Create your website now!',
-        keywords: ['Free website builder', 'Create a free website'],
+        categories: ['Website Builder'],
         url: 'https://www.site123.com/',
+        keywords: ['Free website builder', 'Create a free website'],
     },
     {
         name: 'siteInspire',
-        categories: ['Design', 'Inspiration', 'UI'],
         description:
             'A CSS gallery and showcase of the best web design inspiration, featuring over 2,500 websites searchable by type, subject, and style.',
+        categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://www.siteinspire.com/',
     },
     {
         name: 'SiteSee',
-        categories: ['Design', 'Inspiration', 'UI'],
         description: 'A curated gallery of beautiful, modern websites meant to inspire web developers and designers.',
+        categories: ['Design', 'Inspiration', 'UI'],
+        url: 'https://sitesee.co/',
         keywords: [
             'website inspiration',
             'website design inspiration',
@@ -363,13 +354,13 @@ export const resources: Resource[] = [
             'best web designs',
             'website design',
         ],
-        url: 'https://sitesee.co/',
     },
     {
         name: 'Sitespeed',
-        categories: ['Performance'],
         description:
             'Sitespeed.io is an open source tool that helps you analyse and optimise your website speed and performance, based on performance best practices.',
+        categories: ['Performance'],
+        url: 'https://www.sitespeed.io/',
         keywords: [
             'sitespeed.io',
             'wpo',
@@ -383,31 +374,31 @@ export const resources: Resource[] = [
             'best practices',
             'continuous integration',
         ],
-        url: 'https://www.sitespeed.io/',
     },
     {
         name: 'Sizzy',
-        categories: ['Browser', 'Programming', 'Testing'],
         description: 'Stop wasting time and speed up your development workflow.',
+        categories: ['Browser', 'Programming', 'Testing'],
         url: 'https://sizzy.co/',
     },
     {
-        name: 'Sketch',
-        categories: ['Design', 'Prototyping', 'UI'],
-        description:
-            'Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.',
-        url: 'https://www.sketch.com/',
-    },
-    {
         name: 'Skelementor',
-        categories: ['Template', 'UI', 'Design'],
         description: 'The largest ready-to-use, free Elementor component library',
+        categories: ['Template', 'UI', 'Design'],
         url: 'https://skelementor.com',
     },
     {
+        name: 'Sketch',
+        description:
+            'Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.',
+        categories: ['Design', 'Prototyping', 'UI'],
+        url: 'https://www.sketch.com/',
+    },
+    {
         name: 'SkimAI',
-        categories: ['Email', 'AI', 'Startup'],
         description: 'The ultimate AI copilot for your email inbox',
+        categories: ['Email', 'AI', 'Startup'],
+        url: 'https://skim.page',
         keywords: [
             'email',
             'assistant',
@@ -418,26 +409,25 @@ export const resources: Resource[] = [
             'autoamtic label',
             'smart inbox',
         ],
-        url: 'https://skim.page',
     },
     {
         name: 'Slow & Steady',
+        description: 'Join us as we share what it',
         categories: ['Podcast', 'Startup'],
-        description:
-            "Join us as we share what it's like to build and launch a bootstrapped startup while working for yourself full-time. Benedikt is working on Userlist with two other co-founders and Brian is running solo on a product to combat loneliness on remote teams.",
         url: 'https://www.slowandsteadypodcast.com/',
     },
     {
-        name: 'Smash',
-        categories: ['Illustration'],
-        description: 'Changing and overlapping them, you can quickly illustrate an idea of your startup.',
-        url: 'https://usesmash.com/',
+        name: 'Smartshort',
+        description: 'Text to video',
+        categories: ['Video', 'AI', 'Marketing'],
+        url: 'https://smartshort.co',
+        keywords: ['video generator', 'tiktok generator', 'short form content generator', 'text to short'],
     },
     {
         name: 'Smashicons',
+        description: 'Download the world',
         categories: ['Icon'],
-        description:
-            "Download the world's largest and most complete icon set. Smashicons includes over 335,975 icons for Designers and Developers.",
+        url: 'https://smashicons.com',
         keywords: [
             'free icons',
             'vector icon',
@@ -483,33 +473,39 @@ export const resources: Resource[] = [
             'Free graphic resources',
             'free patterns',
         ],
-        url: 'https://smashicons.com',
     },
     {
         name: 'Smashing Magazine',
-        categories: ['Blog'],
         description:
             'Smashing Magazine is a website and eBook publisher that offers editorial content and professional resources for web developers and web designers.',
+        categories: ['Blog'],
         url: 'https://www.smashingmagazine.com/',
     },
     {
         name: 'Smashing Newsletter',
-        categories: ['Newsletter', 'Programming'],
         description:
             'Every two weeks our editorial team works on short, relevant articles for the upcoming issue. The newsletter is sent out bi-weekly, on Tuesdays.',
+        categories: ['Newsletter', 'Programming'],
         url: 'https://www.smashingmagazine.com/the-smashing-newsletter/',
     },
     {
         name: 'snappify',
-        categories: ['Code Snippet'],
         description: 'Snappify helps you to create beautiful code snippets with ease.',
+        categories: ['Code Snippet'],
         url: 'https://snappify.io/',
     },
     {
         name: 'Snipit',
-        categories: ['Code Snippet'],
         description: 'Save and organize your code snippets in the cloud. Share and collaborate with your team members.',
+        categories: ['Code Snippet'],
         url: 'https://snipit.io/',
+    },
+    {
+        name: 'soarSQL',
+        description: 'The only SQL editor that makes your queries faster.',
+        categories: ['Analytics', 'Database', 'Productivity'],
+        url: 'https://soarsql.com/',
+        keywords: ['analytics', 'data', 'sql', 'duckdb', 'postgres', 'mysql', 'csv', 'data analysis'],
     },
     {
         name: 'Social Growth Engineers',
@@ -518,31 +514,46 @@ export const resources: Resource[] = [
         url: 'https://www.socialgrowthengineers.com/',
         keywords: ['social', 'marketing resources', 'marketing strategies', 'tiktok growth hacks'],
     },
-
+    {
+        name: 'Social Proof Examples',
+        description:
+            'Real-world examples of social proof strategies used by various brands to build trust, drive conversions, and enhance credibility.',
+        categories: ['Marketing', 'Startup'],
+        url: 'https://socialproofexamples.com/',
+        keywords: ['social proof', 'testimonials', 'reviews', 'trust', 'cro', 'converstion rate optimization'],
+    },
+    {
+        name: 'Social Intents',
+        description: 'Live Chat by Social Intents is the easiest way to boost sales and improve customer service',
+        categories: ['AI', 'Productivity', 'Marketing'],
+        url: 'https://www.socialintents.com/',
+        keywords: ['live chat', 'ai', 'sales', 'customer service'],
+    },
     {
         name: 'Soft Skills Engineering',
-        categories: ['Podcast', 'Programming'],
         description:
             'It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer.',
+        categories: ['Podcast', 'Programming'],
         url: 'https://softskills.audio/',
     },
     {
         name: 'Software Social',
-        categories: ['Podcast', 'Startup'],
         description:
             'Two bootstrapped software founders -- one transitioning from freelancing, and one with an established business -- invite you to join their weekly chats about their businesses.',
+        categories: ['Podcast', 'Startup'],
         url: 'https://softwaresocial.dev/',
     },
     {
         name: 'Softwium',
-        categories: ['Tooling'],
         description: 'Random data generator supports CSV, JSON, SQL, and XML formats.',
+        categories: ['Tooling'],
         url: 'https://softwium.com/mockium/',
     },
     {
         name: 'SoloLearn',
-        categories: ['Learn', 'Programming'],
         description: 'Join Now to learn the basics or advance your existing skills.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://www.sololearn.com/',
         keywords: [
             'SoloLearn',
             'Coding',
@@ -558,20 +569,18 @@ export const resources: Resource[] = [
             'JavaScript',
             'C#',
         ],
-        url: 'https://www.sololearn.com/',
     },
     {
         name: 'Soundstripe',
+        description: 'Every creator',
         categories: ['Audio'],
-        description:
-            "Every creator's one-stop shop for the best royalty free music, SFX, and stock video. Purchase a license for one file, or subscribe for unlimited access.",
         url: 'https://www.soundstripe.com/',
     },
     {
         name: 'Sourcetable',
-        categories: ['Analytics', 'Productivity', 'Startup'],
         description:
-            "Sourcetable is an AI spreadsheet and data analyst. It has the same notation, formulas and charting as Excel, paired with the world's most advanced AI.",
+            'Sourcetable is an AI spreadsheet and data analyst. It has the same notation, formulas and charting as Excel, paired with the world',
+        categories: ['Analytics', 'Productivity', 'Startup'],
         url: 'https://sourcetable.com',
         keywords: [
             'Spreadsheet',
@@ -604,7 +613,8 @@ export const resources: Resource[] = [
             'Python Support',
             'MySQL Integration',
             'PostgreSQL Integration',
-            'Financial Platform Integration (QuickBooks, Stripe)',
+            'Financial Platform Integration (QuickBooks',
+            'Stripe)',
             'CRM Integration (HubSpot)',
             'E-Commerce Integration (Shopify)',
             'Advertising Integration (Google Ads)',
@@ -613,43 +623,43 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'Sqlable',
-        categories: ['Tooling', 'Database'],
-        description:
-            'Online database tools: SQL formatter and validator, SQL regex tester, fake data generator, and database playgrounds.',
-        url: 'https://sqlable.com/',
-    },
-    {
         name: 'Splitbee',
-        categories: ['Analytics'],
         description: 'Splitbee provides Analytics, Automation, User Funnel and A/B Testing.',
+        categories: ['Analytics'],
         url: 'https://splitbee.io',
     },
     {
         name: 'Spyder',
-        categories: ['Editor', 'Programming'],
         description:
             'Spyder is a free and open source scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It features a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package.',
+        categories: ['Editor', 'Programming'],
         url: 'https://www.spyder-ide.org/',
     },
     {
+        name: 'Sqlable',
+        description:
+            'Online database tools: SQL formatter and validator, SQL regex tester, fake data generator, and database playgrounds.',
+        categories: ['Tooling', 'Database'],
+        url: 'https://sqlable.com/',
+    },
+    {
         name: 'SQLite',
-        categories: ['Database'],
         description:
             'SQLite is an open-source, embedded, relational database management system, designed circa 2000. It is a database, with zero configuration, no requirements of a server or installation. Despite its simplicity, it is laden with popular features of database management systems.',
+        categories: ['Database'],
         url: 'https://www.sqlite.org/index.html',
     },
     {
         name: 'Squarespace',
-        categories: ['Website Builder'],
         description:
             'Squarespace is the all-in-one solution for anyone looking to create a beautiful website. Domains, eCommerce, hosting, galleries, analytics, and 24/7 support all included.',
+        categories: ['Website Builder'],
         url: 'https://www.squarespace.com/',
     },
     {
         name: 'Squoosh',
-        categories: ['Image'],
         description: 'Compress and compare images with different codecs, right in your browser.',
+        categories: ['Image'],
         url: 'https://squoosh.app/',
     },
     {
@@ -661,9 +671,9 @@ export const resources: Resource[] = [
     },
     {
         name: 'Stack Overflow',
-        categories: ['Programming'],
         description:
             'Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.',
+        categories: ['Programming'],
         url: 'http://stackoverflow.com/',
     },
     {
@@ -675,17 +685,31 @@ export const resources: Resource[] = [
     },
     {
         name: 'Stark',
-        categories: ['Accessibility'],
         description:
             'The suite of integrated accessibility tools for your product design and development team • Making the world’s products accessible.',
+        categories: ['Accessibility'],
         url: 'https://www.getstark.co/',
     },
     {
+        name: 'StarOps',
+        description: 'AI Platform Engineer',
+        categories: ['Cloud Computing', 'Tooling', 'AI'],
+        url: 'https://ingenimax.ai',
+        keywords: ['devops tool', 'mlops tool', 'kubernetes', 'cloud-native stack', 'ai agent', 'cloud infrastructure'],
+    },
+    {
         name: 'Start Bootstrap',
-        categories: ['Template', 'Code Snippet'],
         description:
             'Trusted by tens of millions of users worldwide since 2013, Start Bootstrap develops website themes, templates, snippets, and more to help you get started on your next project!',
+        categories: ['Template', 'Code Snippet'],
         url: 'https://startbootstrap.com/snippets/',
+    },
+    {
+        name: 'StartEase',
+        description: 'The Nuxt SaaS boilerplate focused on Growth & Conversion.',
+        categories: ['Startup', 'Template', 'Productivity', 'Marketing'],
+        url: 'https://startease.dev/',
+        keywords: ['Nuxt template', 'SaaS boilerplate', 'email marketing', 'content marketing'],
     },
     {
         name: 'StartKit.AI',
@@ -693,6 +717,13 @@ export const resources: Resource[] = [
         categories: ['AI', 'Productivity', 'Template'],
         url: 'https://startkit.ai',
         keywords: ['boilerplate', 'startup', 'starterkit', 'ai'],
+    },
+    {
+        name: 'Startup Jobs',
+        description:
+            'Looking for a startup job? Apply to 10,000+ jobs at the fastest growing startups. Programming jobs, design jobs, marketing jobs, sales jobs, and more.',
+        categories: ['Job'],
+        url: 'https://startup.jobs/',
     },
     {
         name: 'StartupBolt',
@@ -703,17 +734,10 @@ export const resources: Resource[] = [
         keywords: ['boilerplate', 'Next.js', 'SaaS', 'starterkit'],
     },
     {
-        name: 'Startup Jobs',
-        categories: ['Job'],
-        description:
-            'Looking for a startup job? Apply to 10,000+ jobs at the fastest growing startups. Programming jobs, design jobs, marketing jobs, sales jobs, and more.',
-        url: 'https://startup.jobs/',
-    },
-    {
         name: 'Startups For the Rest of Us',
-        categories: ['Podcast', 'Startup'],
         description:
             'The startup podcast with more than 500 episodes to help you launch and grow. 10 million+ downloads. 500+ five-star reviews.',
+        categories: ['Podcast', 'Startup'],
         url: 'https://www.startupsfortherestofus.com/',
     },
     {
@@ -724,37 +748,16 @@ export const resources: Resource[] = [
         url: 'https://startups.gallery/',
     },
     {
-        name: 'StartEase',
-        description: 'The Nuxt SaaS boilerplate focused on Growth & Conversion.',
-        categories: ['Startup', 'Template', 'Productivity', 'Marketing'],
-        url: 'https://startease.dev/',
-        keywords: ['Nuxt template', 'SaaS boilerplate', 'email marketing', 'content marketing'],
-    },
-    {
-        name: 'Stylo AI',
-        categories: ['AI', 'Productivity'],
-        description: 'Automatically solve Zendesk tickets with AI',
-        url: 'https://www.askstylo.com/',
-        keywords: ['zendesk', 'ai', 'productivity'],
-    },
-    {
         name: 'Stormkit',
-        categories: ['Hosting'],
         description:
             'Stormkit integrates perfectly with your git flow. It builds, deploys and scales your javascript apps seamlessly.',
+        categories: ['Hosting'],
         url: 'https://www.stormkit.io/',
     },
     {
-        name: 'Storyset',
-        categories: ['Illustration'],
-        description:
-            'Edit and animate all our customizable illustrations to enhance your projects totally free. Start now to be creative in our online editor.',
-        url: 'https://storyset.com/',
-    },
-    {
         name: 'StoryChief',
-        categories: ['Marketing', 'AI'],
         description: 'Create Winning Content Strategies, powered by Data, supercharged by AI',
+        categories: ['Marketing', 'AI'],
         url: 'https://www.storychief.io',
         keywords: [
             'SEO',
@@ -766,10 +769,25 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Storyset',
+        description:
+            'Edit and animate all our customizable illustrations to enhance your projects totally free. Start now to be creative in our online editor.',
+        categories: ['Illustration'],
+        url: 'https://storyset.com/',
+    },
+    {
+        name: 'Strapi',
+        description: 'Strapi is the leading open-source headless CMS. 100% JavaScript and fully customizable.',
+        categories: ['CMS'],
+        url: 'https://strapi.io/',
+        keywords: ['cms', 'headless', 'javascript', 'node.js', 'react', 'open source'],
+    },
+    {
         name: 'Streamline Icons',
-        categories: ['Icon'],
         description:
             'Download 30,000 free PNG icons for website, web app, software, web design. Buy our SVG vector icon pack, the world’s largest icon library for professionals.',
+        categories: ['Icon'],
+        url: 'https://streamlineicons.com/',
         keywords: [
             'Free icons',
             'Download icons',
@@ -782,23 +800,21 @@ export const resources: Resource[] = [
             'icon pack',
             'iOs icons',
         ],
-        url: 'https://streamlineicons.com/',
     },
     {
         name: 'Stride Bootstrap Landingpage Template',
-        categories: ['Template'],
         description:
             'Made with an startup or tech company in mind. Bootstrap 5.2 based and developed with and for modern web standards.',
-        keywords: ['HTML', 'Bootstrap', 'Landingpage', 'Template', 'CSS', 'Open Source Template', 'Free Template'],
+        categories: ['Template'],
         url: 'https://templatedeck.com/stride-html-template.html',
+        keywords: ['HTML', 'Bootstrap', 'Landingpage', 'Template', 'CSS', 'Open Source Template', 'Free Template'],
     },
     {
         name: 'Stryng',
-        categories: ['Editor', 'SEO', 'Writing'],
         description:
             'Stryng is an AI-powered platform designed to improve the process of content creation. It is both an article generator and editor, equipped with an AI Assistant that helps perfecting high-quality articles.',
+        categories: ['Editor', 'SEO', 'Writing'],
         url: 'https://stryng.io',
-
         keywords: [
             'seo',
             'keyword research',
@@ -811,144 +827,139 @@ export const resources: Resource[] = [
     },
     {
         name: 'StyleShout',
-        categories: ['Template'],
         description:
             'Browse our collection of premium-like high-quality free website templates. Beautifully handcrafted designs. The best free website templates you can download.',
+        categories: ['Template'],
         url: 'https://www.styleshout.com/',
     },
     {
+        name: 'Stylo AI',
+        description: 'Automatically solve Zendesk tickets with AI',
+        categories: ['AI', 'Productivity'],
+        url: 'https://www.askstylo.com/',
+        keywords: ['zendesk', 'ai', 'productivity'],
+    },
+    {
         name: 'Sublime Text',
+        description: 'Sublime Text is a sophisticated text editor for code, markup and prose. You',
         categories: ['Editor', 'Programming'],
-        description:
-            "Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.",
         url: 'https://www.sublimetext.com/',
     },
     {
+        name: 'Summara',
+        description: 'YouTube AI Summary and Transcript widget',
+        categories: ['AI', 'Extension', 'Learn'],
+        url: 'https://summara.io/',
+        keywords: ['youtube ai summary', 'youtube summarizer', 'youtube transcript', 'youtube captions'],
+    },
+    {
         name: 'Supabase',
-        categories: ['Serverless', 'Database'],
         description:
             'Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.',
+        categories: ['Serverless', 'Database'],
         url: 'https://supabase.io/',
     },
     {
         name: 'Supabase UI',
-        categories: ['Library', 'Programming', 'UI'],
         description: 'An open-source UI component library inspired by Tailwind and AntDesign.',
+        categories: ['Library', 'Programming', 'UI'],
         url: 'https://ui.supabase.io/',
     },
     {
         name: 'Supaboost',
-        categories: ['Startup', 'Template'],
         description:
             'Supaboost is an all-in-one SaaS Starter Kit, aiming to provide developers with the right tools to save hours of setting up their new application. Supaboost comes readily available with user management, roles and access based on roles, billing/subscriptions, frontend layout and SQL statements to create your a new backend with security today..',
+        categories: ['Startup', 'Template'],
         url: 'https://www.supaboost.dev',
     },
     {
         name: 'supastarter',
-        categories: ['Startup', 'Template'],
         description:
             'Ship your SaaS in days, not months. Save time and focus on your business with our production-ready SaaS boilerplates and templates for Next.js and Nuxt.',
+        categories: ['Startup', 'Template'],
         url: 'https://supastarter.dev',
     },
     {
         name: 'Surfer',
-        categories: ['SEO'],
         description:
             'Use Surfer to research, write, optimize, and audit! Everything you need to create a comprehensive content strategy that yields real results is right here.',
+        categories: ['SEO'],
         url: 'https://surferseo.com',
-
         keywords: ['seo', 'keyword research', 'content marketing', 'content creation', 'content optimization'],
     },
     {
         name: 'Surge',
-        categories: ['Hosting'],
         description:
             'Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI.',
+        categories: ['Hosting'],
         url: 'https://surge.sh/',
     },
     {
-        name: 'Social Intents',
-        categories: ['AI', 'Productivity', 'Marketing'],
-        description: 'Live Chat by Social Intents is the easiest way to boost sales and improve customer service',
-        url: 'https://www.socialintents.com/',
-        keywords: ['live chat', 'ai', 'sales', 'customer service'],
-    },
-    {
-        name: 'SvelteLaunch',
-        description: 'Svelte 5 Boilerplate for building AI apps quickly',
-        categories: ['AI', 'Startup', 'Template'],
-        url: 'https://sveltelaunch.io',
-        keywords: ['boilerplate', 'svelte', 'development'],
-    },
-    {
         name: 'SVG Backgrounds',
-        categories: ['Image'],
         description:
             'SVG Backgrounds hosts a collection of customizable SVG-based repeating patterns and backgrounds for websites and blogs.',
+        categories: ['Image'],
         url: 'https://www.svgbackgrounds.com/',
     },
     {
+        name: 'SVG Repo',
+        description:
+            'Search, explore and edit the best-fitting free icons or vectors for your projects using a wide variety vector library.',
+        categories: ['Icon'],
+        url: 'https://www.svgrepo.com/',
+    },
+    {
         name: 'SVG to JSX',
-        categories: ['Image', 'Programming'],
         description: 'Web site created using create-react-app.',
+        categories: ['Image', 'Programming'],
         url: 'https://svg-jsx.netlify.app/',
     },
     {
         name: 'SVGBox',
-        categories: ['Icon'],
         description:
             'SVGBox allows you to add any of the 3,405 icons we have to your project by using simple tags. Instead of using downloading and uploading icons, simply copy tag and start using it. We are constantly adding more and more icons to serve different use cases.',
+        categories: ['Icon'],
         url: 'https://svgbox.net/',
     },
     {
-        name: 'SVGmix',
-        categories: ['Icon'],
-        description:
-            'Massive repository of 300K+ free SVG icons, collections, and brand logos. It has a simple but mighty vector editing program right in the browser for quick file editing.',
-        url: 'https://svgmix.com/',
-    },
-    {
         name: 'SVGL',
-        categories: ['Icon'],
         description: 'A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.',
+        categories: ['Icon'],
         url: 'https://svgl.app',
     },
     {
+        name: 'SVGmix',
+        description:
+            'Massive repository of 300K+ free SVG icons, collections, and brand logos. It has a simple but mighty vector editing program right in the browser for quick file editing.',
+        categories: ['Icon'],
+        url: 'https://svgmix.com/',
+    },
+    {
         name: 'SVGX',
-        categories: ['Image', 'Programming'],
         description: 'SVGX is the desktop SVG asset manager designers and developers wished they had.',
+        categories: ['Image', 'Programming'],
         url: 'https://svgx.app/',
     },
     {
-        name: 'SVG Repo',
-        categories: ['Icon'],
-        description:
-            'Search, explore and edit the best-fitting free icons or vectors for your projects using a wide variety vector library.',
-        url: 'https://www.svgrepo.com/',
-
-        keywords: [],
-    },
-    {
         name: 'Swagger',
-        categories: ['API Building'],
         description:
             'Simplify API development for users, teams, and enterprises with our open source and professional toolset. Find out how Swagger can help you and get started today.',
+        categories: ['API Building'],
         url: 'https://swagger.io/',
     },
     {
         name: 'Swetrix',
-        categories: ['Analytics'],
         description:
             'Swetrix is a privacy-focused, fully cookieless and opensource web analytics service with a free tier for small websites.',
+        categories: ['Analytics'],
         url: 'https://swetrix.com',
-
         keywords: ['analytics', 'marketing', 'web analytics', 'privacy', 'opensource'],
     },
     {
         name: 'Syntax',
-        categories: ['Podcast', 'Programming'],
         description:
             'Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling.',
+        categories: ['Podcast', 'Programming'],
         url: 'https://syntax.fm',
     },
 ]
