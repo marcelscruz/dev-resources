@@ -134,6 +134,13 @@ export const resources: Resource[] = [
         keywords: ['ai brochure maker', 'ai design tool', 'custom brochure generator', 'prompt-to-brochure'],
     },
     {
+        name: 'AI Flyer Generator',
+        description: 'Create professional flyers instantly with AI using simple text prompts.',
+        categories: ['Design', 'AI', 'Marketing'],
+        url: 'https://venngage.com/ai-tools/flyer-generator',
+        keywords: ['ai flyer generator', 'ai-powered flyer design', 'flyer design with ai', 'automated flyer creator'],
+    },
+    {
         name: 'AI Jobs',
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
         categories: ['AI', 'Job'],
