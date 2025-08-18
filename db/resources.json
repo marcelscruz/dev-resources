@@ -1,5 +1,5 @@
 {
-"count": 1078,
+"count": 1079,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10502,6 +10502,22 @@
             "trust",
             "cro",
             "converstion rate optimization"
+        ]
+    },
+    {
+        "name": "SocialKit",
+        "description": "Analyze Social Media Videos with a simple API",
+        "categories": [
+            "Marketing",
+            "Analytics",
+            "AI"
+        ],
+        "url": "https://www.socialkit.dev/",
+        "keywords": [
+            "developer tool",
+            "api",
+            "youtube api",
+            "tiktok api"
         ]
     },
     {
