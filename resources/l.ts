@@ -115,7 +115,6 @@ export const resources: Resource[] = [
         url: 'https://grid.layoutit.com/',
     },
     {
-
         name: 'Lead Generation Tools',
         description: 'Handpicked Collection Of Lead Generation Tool',
         categories: ['Marketing', 'Productivity', 'Startup'],
