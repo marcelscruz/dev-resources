@@ -3,57 +3,57 @@ import { Resource } from 'types'
 export const resources: Resource[] = [
     {
         name: 'Obi Helper',
+        description: 'Simple AI chat widget for small businesses that aren',
         categories: ['AI', 'Productivity'],
-        description: "Simple AI chat widget for small businesses that aren't ready for Intercom-like solutions.",
         url: 'https://www.obihelper.com/',
     },
     {
         name: 'Octotree',
-        categories: ['Browser', 'Extension'],
         description: 'GitHub on steroids.',
+        categories: ['Browser', 'Extension'],
         url: 'https://www.octotree.io/',
     },
     {
         name: 'Odin A',
-        categories: ['AI', 'Productivity'],
         description:
             'Odin AI is a versatile AI tool designed to streamline workflows, enhance productivity, and simplify complex tasks through automation and AI-driven features',
+        categories: ['AI', 'Productivity'],
         url: 'https://getodin.ai/',
     },
     {
         name: 'Odown',
-        categories: ['API Building', 'Remote', 'Website Builder'],
         description:
             'Simple website uptime monitoring tool to monitor your websites and APIs combined with public status pages',
-        keywords: ['website monitoring', 'slack', 'webhooks', 'performance'],
+        categories: ['API Building', 'Remote', 'Website Builder'],
         url: 'https://odown.io/',
+        keywords: ['website monitoring', 'slack', 'webhooks', 'performance'],
     },
     {
         name: 'Offen',
-        categories: ['Analytics'],
         description:
             'Offen is an open alternative to common web analytics tools. Gain insights while your users have full access to their data. Lightweight, self hosted and free.',
+        categories: ['Analytics'],
         url: 'https://www.offen.dev/',
     },
     {
         name: 'OkJob',
-        categories: ['Job'],
         description: '4 day Week Job Board',
-        keywords: ['Flexible work schedule', 'Work-life balance', 'Remote work options'],
+        categories: ['Job'],
         url: 'https://okjob.io/',
-    },
-    {
-        name: 'One.com',
-        categories: ['Domain', 'Hosting', 'Email'],
-        description: 'Web hosting, Domain, Hosting & E-mail',
-        url: 'https://one.com',
+        keywords: ['Flexible work schedule', 'Work-life balance', 'Remote work options'],
     },
     {
         name: 'One Page Love',
-        categories: ['Design', 'Inspiration', 'UI'],
         description:
             'One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.',
+        categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://onepagelove.com/',
+    },
+    {
+        name: 'One.com',
+        description: 'Web hosting, Domain, Hosting & E-mail',
+        categories: ['Domain', 'Hosting', 'Email'],
+        url: 'https://one.com',
     },
     {
         name: 'Onlime',
@@ -64,8 +64,9 @@ export const resources: Resource[] = [
     },
     {
         name: 'OnlineWebFonts',
-        categories: ['Icon', 'Font'],
         description: 'Fonts and icons for your next project.',
+        categories: ['Icon', 'Font'],
+        url: 'https://www.onlinewebfonts.com',
         keywords: [
             'SVG icon',
             'svg vector icons',
@@ -80,53 +81,73 @@ export const resources: Resource[] = [
             'Best Font Download',
             'Top Best Font Dwonload',
         ],
-        url: 'https://www.onlinewebfonts.com',
     },
     {
         name: 'Onsen UI',
-        categories: ['Programming'],
         description:
             'Make beautiful hybrid mobile apps using HTML5, CSS and JavaScript. Works with or without any framework including Angular, Meteor, React and Vue. iOS and Android.',
+        categories: ['Programming'],
         url: 'https://onsen.io/',
     },
     {
         name: 'Open Doodles',
-        categories: ['Illustration'],
         description: 'A library of sketchy illustrations of people free for personal and commercial use.',
+        categories: ['Illustration'],
         url: 'https://www.opendoodles.com/',
     },
     {
         name: 'Open Peeps',
-        categories: ['Illustration'],
         description:
             'Open Peeps is a hand-drawn illustration library to create scenes of people. You can use them in product illustration, marketing, comics, product states, user flows, personas, storyboarding, quinceañera invitations, or whatever you want! ⠀.',
+        categories: ['Illustration'],
         url: 'https://www.openpeeps.com/',
     },
     {
         name: 'Open Ports',
+        description: 'Manage open ports from your macOS menu bar. Never google ',
         categories: ['Tooling'],
-        description: 'Manage open ports from your macOS menu bar. Never google "How to kill a process by port?" again.',
         url: 'https://openports.app',
-
         keywords: ['web development', 'containers', 'macOS'],
     },
     {
+        name: 'Open Source Boilerplates',
+        description:
+            'A curated list of open source boilerplates and starter kits for building modern applications. From web development with React & Next.js to mobile apps with React Native, Flutter, and native platforms.',
+        categories: ['Programming', 'Template', 'Open Source'],
+        url: 'https://opensourceboilerplates.com',
+        keywords: [
+            'saas starter kits',
+            'open source boilerplates',
+            'saas boilerplates',
+            'react native boilerplates',
+            'flutter boilerplates',
+            'native boilerplates',
+        ],
+    },
+    {
         name: 'Open Vim',
-        categories: ['Typing'],
         description: 'An interactive Vim tutorial.',
+        categories: ['Typing'],
         url: 'https://openvim.com/',
     },
     {
         name: 'OpenChakra',
-        categories: ['Prototyping', 'UI'],
         description: 'React JSX visual editor for Chakra UI.',
+        categories: ['Prototyping', 'UI'],
         url: 'https://openchakra.app/',
     },
     {
         name: 'Opensource.Builders',
-        categories: ['Open Source'],
         description: 'Find open-source alternatives to popular software.',
+        categories: ['Open Source'],
         url: 'https://opensource.builders/',
+    },
+    {
+        name: 'Open Source Alternatives',
+        description: 'Handpicked Open Source Alternatives to Paid Softwares',
+        categories: ['Open Source', 'Productivity', 'Tooling'],
+        url: 'https://www.opensourcealternatives.to',
+        keywords: ['directory', 'open source', 'marketing tools', 'development tools', 'alternatives'],
     },
     {
         name: 'Opera',
@@ -137,39 +158,43 @@ export const resources: Resource[] = [
     },
     {
         name: 'OpenTools',
-        categories: ['Tooling', 'Newsletter'],
         description:
             'Discover and compare over 10,000 AI tools, curated and ranked by our community of over 50,000 users.',
+        categories: ['Tooling', 'Newsletter'],
         url: 'https://opentools.ai/',
         keywords: ['AI', 'Tools', 'Newsletter', 'AI Tools', 'Directory'],
     },
     {
-        name: 'Orion',
-        categories: ['Icon'],
-        description:
-            'The best Icon Tool. 8613 Free SVG & PNG Icons. Search, organize, edit and download our highly flexible Icons.',
-        url: 'https://orioniconlibrary.com/',
+        name: 'Opera',
+        description: 'Get a faster, better browser. Opera',
+        categories: ['Browser'],
+        url: 'https://www.opera.com/',
     },
     {
         name: 'Optimizeimages',
-        categories: ['Editor', 'Image'],
         description:
             'Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.',
+        categories: ['Editor', 'Image'],
         url: 'https://www.optimizeimages.com',
     },
     {
-        name: 'Open Source Boilerplates',
-        categories: ['Programming', 'Template', 'Open Source'],
+        name: 'Orion',
         description:
-            'A curated list of open source boilerplates and starter kits for building modern applications. From web development with React & Next.js to mobile apps with React Native, Flutter, and native platforms.',
-        url: 'https://opensourceboilerplates.com',
+            'The best Icon Tool. 8613 Free SVG & PNG Icons. Search, organize, edit and download our highly flexible Icons.',
+        categories: ['Icon'],
+        url: 'https://orioniconlibrary.com/',
+    },
+    {
+        name: 'Outlier Kit',
+        description: 'Discover Youtube niches, trends & Keywords',
+        categories: ['Marketing', 'Video', 'AI'],
+        url: 'https://outlierkit.com/',
         keywords: [
-            'saas starter kits',
-            'open source boilerplates',
-            'saas boilerplates',
-            'react native boilerplates',
-            'flutter boilerplates',
-            'native boilerplates',
+            'youtube',
+            'youtube content strategy',
+            'youtube keyword research tool',
+            'niche finder for youtube',
+            'youtube tools',
         ],
     },
 ]
