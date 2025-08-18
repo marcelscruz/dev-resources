@@ -1,5 +1,5 @@
 {
-"count": 1076,
+"count": 1077,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4023,6 +4023,22 @@
             "Tooling"
         ],
         "url": "https://f5bot.com/"
+    },
+    {
+        "name": "FairPact AI",
+        "description": "Scan contracts & find gotchas before signing",
+        "categories": [
+            "Legal",
+            "Productivity",
+            "AI"
+        ],
+        "url": "https://fairpact.actualization.ai",
+        "keywords": [
+            "legal",
+            "contracts",
+            "artificial intelligence​",
+            "startup tools"
+        ]
     },
     {
         "name": "Famewall",
