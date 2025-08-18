@@ -133,7 +133,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Server-side Rendering (SSR) Checker',
-        description: 'Check if a given URL is server-side rendered or not by visually comparing the server-side rendered and the regular versions of the page.',
+        description:
+            'Check if a given URL is server-side rendered or not by visually comparing the server-side rendered and the regular versions of the page.',
         categories: ['SEO', 'Performance'],
         url: 'https://www.crawlably.com/ssr-checker/',
         keywords: ['SEO', 'frontend', 'javascript', 'performance'],
