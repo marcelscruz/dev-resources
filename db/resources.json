@@ -1,5 +1,5 @@
 {
-"count": 1073,
+"count": 1074,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6645,6 +6645,22 @@
             "Code Generator"
         ],
         "url": "https://grid.layoutit.com/"
+    },
+    {
+        "name": "Lead Generation Tools",
+        "description": "Handpicked Collection Of Lead Generation Tool",
+        "categories": [
+            "Marketing",
+            "Productivity",
+            "Startup"
+        ],
+        "url": "https://www.lead-generation.tools",
+        "keywords": [
+            "directory",
+            "automation",
+            "ai",
+            "aggregators"
+        ]
     },
     {
         "name": "Learn CSS",
