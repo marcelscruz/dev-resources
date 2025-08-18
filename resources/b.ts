@@ -100,6 +100,13 @@ export const resources: Resource[] = [
         url: 'https://github.com/codedthemes/berry-free-react-admin-template/',
     },
     {
+        name: 'Best AI Agents Directory',
+        description: 'Curated Collection of the Best AI Agents to Boost Your Workflow',
+        categories: ['Productivity', 'AI', 'Startup'],
+        url: 'https://www.bestaiagents.directory/',
+        keywords: ['directory', 'ai agents', 'ai tools', 'ai automation', 'ai assistant'],
+    },
+    {
         name: 'Best Directories',
         description: 'Discover the best directories in BestDirectories and launch your product with ease.',
         categories: ['Tooling', 'SEO'],
@@ -240,6 +247,13 @@ export const resources: Resource[] = [
         categories: ['SEO', 'Writing', 'Blog'],
         url: 'https://blogfox.ai',
         keywords: ['writer', 'ai', 'article', 'marketing'],
+    },
+    {
+        name: 'Blurbackground AI',
+        description: 'Blurbackground.AI is a free online tool to edit background swiftly.',
+        categories: ['AI', 'Image', 'Design'],
+        url: 'https://blurbackground.ai/',
+        keywords: ['ai design', 'blur background', 'background remover', 'change background'],
     },
     {
         name: 'Blush',

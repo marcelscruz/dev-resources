@@ -14,6 +14,13 @@ export const resources: Resource[] = [
         url: 'https://www.namecheap.com',
     },
     {
+        name: 'Namekit',
+        description: 'AI-powered domain search - find available, standard-price names instantly. ',
+        categories: ['Domain'],
+        url: 'https://namekit.app',
+        keywords: ['domain name', 'dev tools', 'AI', 'CLI'],
+    },
+    {
         name: 'Narrow AI',
         description:
             'Automated Prompt Engineering and Optimization platform that can autonomously write, monitor, and optimize prompts for any model',

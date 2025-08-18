@@ -554,12 +554,6 @@ export const resources: Resource[] = [
         url: 'https://freeter.io/',
     },
     {
-        name: 'FreeTools.site',
-        description: 'Free online tools - convert or edit documents, images, audio, video and more.',
-        categories: ['Image'],
-        url: 'https://freetools.site/',
-    },
-    {
         name: 'FreshRemote.Work',
         description: 'All fresh remote work and work from home opportunities with salaries in one place 🚀',
         categories: ['Job', 'Remote'],
@@ -606,13 +600,6 @@ export const resources: Resource[] = [
         description: 'A collection of real websites for developers to recreate to improve and test their skills.',
         categories: ['Learn', 'Programming'],
         url: 'https://www.frontendpractice.com/',
-    },
-    {
-        name: 'Frontend Tips',
-        description: 'Tiny tips, tricks & best practices for front-end development',
-        categories: ['Learn', 'Programming'],
-        url: 'https://getfrontend.tips/',
-        keywords: ['Front-end tips', 'Front-end tricks', 'Best front-end practices'],
     },
     {
         name: 'Frontend Toolkit',

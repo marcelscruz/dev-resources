@@ -146,6 +146,14 @@ export const resources: Resource[] = [
         keywords: ['Angular', 'GraphQL', 'Web Development', 'tutorials'],
     },
     {
+        name: 'DeelFlows',
+        description:
+            "Deel Flows is a WhatsApp First Marketing Platform that allows businesses to create broadcasts, design customer journeys, and segment users on WhatsApp. It's designed to make WhatsApp marketing more efficient and effective.",
+        categories: ['Marketing', 'Analytics'],
+        url: 'https://www.deelflows.com',
+        keywords: ['whatsapp', 'marketing', 'analytics', 'customer'],
+    },
+    {
         name: 'Default Alive',
         description:
             'Two founders share an unedited look at what it\'s like to bootstrap a startup through weekly updates. Chris Spags is the founder of Jetboost, a suite of no-code plugins for Webflow. Corey Haines is the founder of Swipe Files, a membership site for marketers built with no-code tools. They chronicle their journeys getting to and staying "default alive": profitable, self-sustaining, with infinite runway. – Listen to Default Alive instantly on your tablet, phone or browser - no downloads needed.',
@@ -375,13 +383,6 @@ export const resources: Resource[] = [
         url: 'https://domain.garden/',
     },
     {
-        name: 'Doodlicons',
-        description: 'Over 700 hand-drawn vector design elements.',
-        categories: ['Illustration'],
-        url: 'https://doodlicons.com/',
-        keywords: ['doodles', 'scribbles'],
-    },
-    {
         name: 'Dotnet Gig',
         description: 'Find .NET developer jobs',
         categories: ['Job'],
@@ -444,6 +445,12 @@ export const resources: Resource[] = [
             'dygraphs is a fast, flexible open source JavaScript charting library. It allows users to explore and interpret dense data sets.',
         categories: ['Programming'],
         url: 'https://dygraphs.com/',
+    },
+    {
+        name: 'Dymo',
+        description: 'Data intelligence and protection, your security solution and Big Data for user recognition.',
+        categories: ['Security', 'Programming'],
+        url: 'https://dymo.tpeoficial.com',
     },
     {
         name: 'DynamoDB',

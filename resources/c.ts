@@ -2,14 +2,6 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
-        name: 'Cadabra',
-        description:
-            'Cadabra maximizes email efficiency using AI, saving users time on reading, writing, replying, and reviewing emails',
-        categories: ['Email', 'AI', 'Marketing'],
-        url: 'https://trycadabra.io/',
-        keywords: ['AI', 'Email Automation', 'Productivity', 'Customer Service', 'Translation'],
-    },
-    {
         name: 'CakeResume',
         description:
             'Build an impressive resume and land that dream job. View online or download the PDF for FREE! CakeResume provides more than 50 resume templates and 1,000+ resume samples to help you make a professional resume in 10 minutes.',
@@ -73,6 +65,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Catalog by Thesys',
+        description: `Catalog by Thesys is a curated collection of AI agents designed to help you find the right agent for your needs. Whether you're exploring AI for automation, decision-making, or creative tasks, it simplifies your search with the categorization and listing of all the AI agents.`,
         categories: ['Database', 'AI'],
         url: 'https://catalog.thesys.dev/',
     },
@@ -358,22 +351,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'CodeBeaver',
-        description: 'Get an A.I. assistant that writes tests and spots bugs',
-        categories: ['Programming', 'Testing', 'AI'],
-        url: 'https://www.codebeaver.ai/',
-        keywords: [
-            'unit testing',
-            'unit test',
-            'unit tests',
-            'unit test generator',
-            'ai',
-            'ai assistant',
-            'ai testing',
-            'ai unit testing',
-        ],
-    },
-    {
         name: 'Codecademy',
         description:
             'Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more.',
@@ -419,13 +396,6 @@ export const resources: Resource[] = [
             'CodeKit is a Mac app that makes it easy to use modern web development tools like npm, Babel, Sass, JavaScript bundling, image optimization, and ESLint.',
         categories: ['Programming', 'Tooling'],
         url: 'https://codekitapp.com/',
-    },
-    {
-        name: 'CodeLobster',
-        description: 'CodeLobster is free cross-platform editor with plug-ins for all popular JS and PHP frameworks.',
-        categories: ['Editor', 'Programming'],
-        url: 'https://codelobster.com/',
-        keywords: ['html', 'css', 'javascript', 'php', 'editor', 'code', 'ide', 'codelobster'],
     },
     {
         name: 'Codementor',

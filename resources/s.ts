@@ -132,6 +132,14 @@ export const resources: Resource[] = [
         keywords: ['html5', 'ui', 'library', 'framework', 'javascript'],
     },
     {
+        name: 'Server-side Rendering (SSR) Checker',
+        description:
+            'Check if a given URL is server-side rendered or not by visually comparing the server-side rendered and the regular versions of the page.',
+        categories: ['SEO', 'Performance'],
+        url: 'https://www.crawlably.com/ssr-checker/',
+        keywords: ['SEO', 'frontend', 'javascript', 'performance'],
+    },
+    {
         name: 'SEO Blueprint',
         description: 'Cutting-edge SEO tactics that are actually ranking websites.',
         categories: ['SEO'],
@@ -143,14 +151,6 @@ export const resources: Resource[] = [
             'SEO Get is an alternative to Google Search Console performance reports. Minimalist and simple to use. Get actionable insights in minutes.',
         categories: ['SEO', 'Marketing'],
         url: 'https://seogets.com/',
-    },
-    {
-        name: 'SEO Katana',
-        description:
-            'Katana helps you find your competitors top organic content, analyze it, and create unique content inspired by it for you.',
-        categories: ['AI', 'Marketing', 'Productivity'],
-        url: 'https://seokatana.com/',
-        keywords: ['business', 'seo', 'ai content generator', 'competitor research'],
     },
     {
         name: 'SEO Powersuite',
@@ -175,10 +175,11 @@ export const resources: Resource[] = [
         url: 'https://www.seotisfy.com',
     },
     {
-        name: 'SerpApi',
-        description: 'SerpApi provides a simple API to scrape Google and other search engines.',
+        name: 'SerpApi - Search API',
+        description: "SerpApi's Search API makes it easy and fast to scrape Google and other search engines.",
         categories: ['Scraping'],
         url: 'https://serpapi.com/',
+        keywords: ['scraping', 'google', 'search', 'api'],
     },
     {
         name: 'Serverless Stack',
@@ -193,6 +194,12 @@ export const resources: Resource[] = [
         categories: ['Performance', 'Tooling'],
         url: 'https://servervana.com',
         keywords: ['Performance', 'Uptime', 'Monitoring', 'Status Page', 'Web Vitals', 'SSL', 'HTTP(s)', 'DNS'],
+    },
+    {
+        name: 'Shadcnblocks',
+        categories: ['Template', 'UI', 'Design'],
+        description: 'Hundreds of extra blocks and components for shadcn/ui, Tailwind & React.',
+        url: 'https://shadcnblocks.com',
     },
     {
         name: 'Shape',
@@ -278,13 +285,6 @@ export const resources: Resource[] = [
         categories: ['Prototyping', 'Screenshot'],
         url: 'https://shots.so/',
         keywords: ['mockup', 'design', 'social', 'marketing'],
-    },
-    {
-        name: 'Shutterstock',
-        description:
-            'Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.',
-        categories: ['Video', 'Image', 'Icon'],
-        url: 'https://www.shutterstock.com/',
     },
     {
         name: 'Sidebar',
@@ -425,6 +425,13 @@ export const resources: Resource[] = [
         url: 'https://www.slowandsteadypodcast.com/',
     },
     {
+        name: 'Smartshort',
+        description: 'Text to video',
+        categories: ['Video', 'AI', 'Marketing'],
+        url: 'https://smartshort.co',
+        keywords: ['video generator', 'tiktok generator', 'short form content generator', 'text to short'],
+    },
+    {
         name: 'Smashicons',
         description: 'Download the world',
         categories: ['Icon'],
@@ -514,6 +521,14 @@ export const resources: Resource[] = [
         categories: ['Marketing', 'Blog', 'Productivity'],
         url: 'https://www.socialgrowthengineers.com/',
         keywords: ['social', 'marketing resources', 'marketing strategies', 'tiktok growth hacks'],
+    },
+    {
+        name: 'Social Proof Examples',
+        description:
+            'Real-world examples of social proof strategies used by various brands to build trust, drive conversions, and enhance credibility.',
+        categories: ['Marketing', 'Startup'],
+        url: 'https://socialproofexamples.com/',
+        keywords: ['social proof', 'testimonials', 'reviews', 'trust', 'cro', 'converstion rate optimization'],
     },
     {
         name: 'Social Intents',
@@ -682,6 +697,13 @@ export const resources: Resource[] = [
             'The suite of integrated accessibility tools for your product design and development team • Making the world’s products accessible.',
         categories: ['Accessibility'],
         url: 'https://www.getstark.co/',
+    },
+    {
+        name: 'StarOps',
+        description: 'AI Platform Engineer',
+        categories: ['Cloud Computing', 'Tooling', 'AI'],
+        url: 'https://ingenimax.ai',
+        keywords: ['devops tool', 'mlops tool', 'kubernetes', 'cloud-native stack', 'ai agent', 'cloud infrastructure'],
     },
     {
         name: 'Start Bootstrap',
@@ -879,13 +901,6 @@ export const resources: Resource[] = [
             'Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI.',
         categories: ['Hosting'],
         url: 'https://surge.sh/',
-    },
-    {
-        name: 'SvelteLaunch',
-        description: 'Svelte 5 Boilerplate for building AI apps quickly',
-        categories: ['AI', 'Startup', 'Template'],
-        url: 'https://sveltelaunch.io',
-        keywords: ['boilerplate', 'svelte', 'development'],
     },
     {
         name: 'SVG Backgrounds',

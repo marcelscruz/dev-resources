@@ -143,6 +143,20 @@ export const resources: Resource[] = [
         url: 'https://opensource.builders/',
     },
     {
+        name: 'Open Source Alternatives',
+        description: 'Handpicked Open Source Alternatives to Paid Softwares',
+        categories: ['Open Source', 'Productivity', 'Tooling'],
+        url: 'https://www.opensourcealternatives.to',
+        keywords: ['directory', 'open source', 'marketing tools', 'development tools', 'alternatives'],
+    },
+    {
+        name: 'Opera',
+        categories: ['Browser'],
+        description:
+            "Get a faster, better browser. Opera's free VPN, Ad Blocker, integrated messengers and private mode help you browse securely and smoothly. Share files instantly between your desktop and mobile browsers and experience web 3.0 with a free cryptowallet.",
+        url: 'https://www.opera.com/',
+    },
+    {
         name: 'OpenTools',
         description:
             'Discover and compare over 10,000 AI tools, curated and ranked by our community of over 50,000 users.',
@@ -169,5 +183,18 @@ export const resources: Resource[] = [
             'The best Icon Tool. 8613 Free SVG & PNG Icons. Search, organize, edit and download our highly flexible Icons.',
         categories: ['Icon'],
         url: 'https://orioniconlibrary.com/',
+    },
+    {
+        name: 'Outlier Kit',
+        description: 'Discover Youtube niches, trends & Keywords',
+        categories: ['Marketing', 'Video', 'AI'],
+        url: 'https://outlierkit.com/',
+        keywords: [
+            'youtube',
+            'youtube content strategy',
+            'youtube keyword research tool',
+            'niche finder for youtube',
+            'youtube tools',
+        ],
     },
 ]

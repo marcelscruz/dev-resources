@@ -36,13 +36,6 @@ export const resources: Resource[] = [
         url: 'https://designcode.io/ui-design-for-developers',
     },
     {
-        name: 'UI Movement',
-        description: 'Only the best mobile and web UI design inspiration, right in your inbox.',
-        categories: ['Design', 'Inspiration', 'UI'],
-        url: 'https://uimovement.com/',
-        keywords: ['ui', 'design', 'inspiration', 'ux', 'mobile', 'apps', 'screenshots'],
-    },
-    {
         name: 'ui.dev',
         description: 'Comprehensive learning resources for mastering the JavaScript ecosystem.',
         categories: ['Newsletter', 'Programming', 'Learn', 'Programming'],
@@ -180,6 +173,20 @@ export const resources: Resource[] = [
             'Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.',
         categories: ['Freelance'],
         url: 'https://www.upwork.com/',
+    },
+    {
+        name: 'Up For Grabs',
+        description:
+            'This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.',
+        categories: ['Hacktoberfest', 'Open Source'],
+        url: 'https://up-for-grabs.net/#/',
+    },
+    {
+        name: 'Url Opener',
+        description: 'Open multiple urls with one click',
+        categories: ['Extension', 'Productivity', 'Browser'],
+        url: 'https://chromewebstore.google.com/detail/url-opener/bebeelnjlafedkhklobpglpelcmidaee?hl=en',
+        keywords: ['url opener', 'open multiple urls', 'multiple url opener​', 'link opener'],
     },
     {
         name: 'Use The Keyboard',

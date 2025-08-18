@@ -64,29 +64,6 @@ export const resources: Resource[] = [
         keywords: ['e-commerce', 'advertising', 'ai', 'design'],
     },
     {
-        name: 'Add3',
-        description:
-            'EVM smart contract creation and management for web3 projects - Use Add3 to deploy your smart contracts or dApp project in minutes. Signup today!',
-        categories: ['Web3', 'Programming', 'Startup'],
-        url: 'https://www.add3.io/',
-        keywords: [
-            'crypto',
-            'cryptocurrency',
-            'web3',
-            'no-code',
-            'smart contract',
-            'token minting',
-            'create token',
-            'vesting contract',
-            'distribution contract',
-            'crypto staking',
-            'liquidity pool staking',
-            'onchain analytics',
-            'offchain analytics',
-            'blockchain analytics',
-        ],
-    },
-    {
         name: 'Adligator',
         description:
             'Adligator - first of all is AI powered aggregator of ads from Facebook, Instagram, fb Messenger and the audience network.',
@@ -150,6 +127,13 @@ export const resources: Resource[] = [
         keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
     },
     {
+        name: 'AI Brochure Generator',
+        description: 'Turn prompts into brochures - fast, polished, and on-brand.',
+        categories: ['Design', 'AI', 'Marketing'],
+        url: 'https://venngage.com/ai-tools/brochure-generator',
+        keywords: ['ai brochure maker', 'ai design tool', 'custom brochure generator', 'prompt-to-brochure'],
+    },
+    {
         name: 'AI Jobs',
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
         categories: ['AI', 'Job'],
@@ -184,6 +168,13 @@ export const resources: Resource[] = [
             'jobs',
             'developer',
         ],
+    },
+    {
+        name: 'AI SEO Tools',
+        description: 'Discover the Best AI SEO Tools in One Place',
+        categories: ['Marketing', 'SEO', 'AI'],
+        url: 'https://www.ai-seo.tools',
+        keywords: ['automation', 'ai', 'marketing', 'aggregators'],
     },
     {
         name: 'Airtable',
@@ -313,10 +304,24 @@ export const resources: Resource[] = [
         keywords: ['youtube summarizer', 'youtube video summarizer', 'youtube ai summary', 'youtube video summary ai'],
     },
     {
+        name: 'ATemplate',
+        description: 'Free WebSite Templates with A Template',
+        categories: ['Template', 'Productivity'],
+        url: 'https://atemplate.com',
+        keywords: ['website templates', 'free website templates'],
+    },
+    {
         name: 'Authentic Jobs',
         description: 'The leading job board for designers, developers, and creative pros.',
         categories: ['Job'],
         url: 'https://authenticjobs.com/',
+    },
+    {
+        name: 'Automation Tools Directory',
+        description: 'Handpicked Automation Tools to Boost Your Productivity',
+        categories: ['Productivity', 'Tooling', 'Marketing'],
+        url: 'https://www.automationtools.directory/',
+        keywords: ['marketing', 'tools', 'workflow automation', 'business'],
     },
     {
         name: 'Avodocs',

@@ -23,6 +23,19 @@ export const resources: Resource[] = [
         keywords: ['ai tools', 'ai tools navigation', 'ai tools directory'],
     },
     {
+        name: 'Magic Potion',
+        description: 'Visual AI Prompt Editor',
+        categories: ['Productivity', 'AI', 'Editor'],
+        url: 'https://www.magicpotion.app',
+        keywords: [
+            'ai content creation',
+            'ai prompt engineering',
+            'prompt optimization tool',
+            'visual prompt builder',
+            'llm prompt design',
+        ],
+    },
+    {
         name: 'Mailchimp',
         description:
             'Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way.',

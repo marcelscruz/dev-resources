@@ -2,12 +2,6 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
-        name: 'Page Collective',
-        description: 'Get inspired and keep up with the latest landing page design trends.',
-        categories: ['Inspiration'],
-        url: 'https://pagecollective.com/',
-    },
-    {
         name: 'Pagelet',
         description: 'Simple Free HTML hosting, get a shareable link and a QR code out of the box.',
         categories: ['Hosting'],
@@ -84,13 +78,6 @@ export const resources: Resource[] = [
         categories: ['Testing'],
         url: 'https://www.perfectbugreport.io/',
         keywords: ['bug report', 'bug report checklist', 'how to write bug report'],
-    },
-    {
-        name: 'PersonaForce',
-        description: 'Create and chat with AI buyer personas for smarter marketing.',
-        categories: ['Marketing', 'Productivity', 'AI'],
-        url: 'https://personaforce.ai/',
-        keywords: ['ai assistant', 'persona marketing', 'audience research', 'sales'],
     },
     {
         name: 'Pexels',

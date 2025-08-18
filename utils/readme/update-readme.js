@@ -25,16 +25,21 @@ const links = `<div align="center">
 </div>`
 
 const logoApyhub = `<div>
-    <p align="center"><a href="https://apyhub.com?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/apyhub-dark-mode.svg" width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/apyhub-light-mode.svg" width="150px"><img alt="Scrapfly logo" src="./assets/apyhub-dark-mode.svg" width="150px"></picture></a></p>
+    <p align="center"><a href="https://apyhub.com?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/apyhub-dark-mode.svg" width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/apyhub-light-mode.svg" width="150px"><img alt="ApyHub logo" src="./assets/apyhub-dark-mode.svg" width="150px"></picture></a></p>
     <p align="center"><a href="https://apyhub.com?ref=dev_resources&utm_medium=repo_readme">ApyHub</a>: A Modern API Platform to streamline API Development, Testing and Management. Take your API game to the next level with ApyHub.</p>
 </div>`
 
-const logoLightpost = `<div>
-    <p align="center"><a href="https://lightpost.ai?ref=dev_resources&utm_medium=repo_readme&via=dr-pa"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/lightpost.png" width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/lightpost.png" width="150px"><img alt="Lightpost logo" src="./assets/lightpost.png" width="150px"></picture></a></p>
-    <p align="center"><a href="https://lightpost.ai?ref=dev_resources&utm_medium=repo_readme&via=dr-pa">Lightpost</a>: Fully automate or co-create your blogs and posts with an A.I. trained on your business. Plan, design, write and upload anywhere, while keeping full control.</p>
+const logoSerpApi = `<div>
+    <p align="center"><a href="https://serpapi.com?ref=dev_resources&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/serpapi-dark-mode.svg" width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/serpapi-light-mode.svg" width="150px"><img alt="SerpApi logo" src="./assets/serpapi-dark-mode.svg" width="150px"></picture></a></p>
+    <p align="center"><a href="https://serpapi.com?ref=dev_resources&utm_medium=repo_readme">SerpApi - Search API</a> makes it easy and fast to scrape Google and other search engines.</p>
 </div>`
 
-const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoApyhub}<br/>\n\n\n\n${logoLightpost}<br/>\n\n\n\n`
+const logoCompanyEnrich = `<div>
+    <p align="center"><a href="https://companyenrich.com?ref=dev_resources&utm_medium=repo_readme&via=dr-pa"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/companyenrich-dark-mode.svg" width="200px"><source media="(prefers-color-scheme: light)" srcset="./assets/companyenrich-light-mode.svg" width="200px"><img alt="CompanyEnrich logo" src="./assets/companyenrich-dark-mode.svg" width="200px"></picture></a></p>
+    <p align="center"><a href="https://companyenrich.com?ref=dev_resources&utm_medium=repo_readme&via=dr-pa">CompanyEnrich</a>: Access exclusive company data of local and global businesses. Power your products, agentic workflows, and sales operations with fresh, instant company data APIs.</p>
+</div>`
+
+const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoApyhub}<br/>\n\n\n\n${logoSerpApi}<br/>\n\n\n\n${logoCompanyEnrich}<br/>\n\n\n\n`
 // const sponsors = `<div align="center">Sponsored by</div>
 //     <br/>
 //     ${logoScrapfly}

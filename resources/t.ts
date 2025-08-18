@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Table Format Converter',
+        categories: ['Productivity'],
+        description: 'Free online tool to convert your table data to CSV, HTML, JSON, Markdown and more.',
+        keywords: ['table', 'spreadsheet', 'converter', 'csv', 'html', 'json', 'markdown', 'excel'],
+        url: 'https://www.tableformatconverter.com',
+    },
+    {
         name: 'Tabler Icons',
         description: 'Over 3000 pixel-perfect, free and open source icons for web design.',
         categories: ['Icon'],
@@ -274,13 +281,6 @@ export const resources: Resource[] = [
         description: 'Thirus (pronounced ',
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UCDQTzZ871T7uJpx9yeMPhAw',
-    },
-    {
-        name: 'This VS That',
-        description: 'What is the difference between ___ and ___ in the front-end development?',
-        categories: ['Learn', 'Programming'],
-        url: 'https://phuoc.ng/collection/this-vs-that/',
-        keywords: ['CSS', 'DOM', 'HTML', 'JavaScript', 'React', 'TypeScript'],
     },
     {
         name: 'TinyPNG',
