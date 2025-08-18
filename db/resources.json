@@ -1,5 +1,5 @@
 {
-"count": 1074,
+"count": 1075,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5163,6 +5163,21 @@
         "url": "https://fonts.google.com/icons",
         "keywords": [
             "icons"
+        ]
+    },
+    {
+        "name": "Google Maps Scraper",
+        "description": "The most efficient way to scrape Google Maps at scale.",
+        "categories": [
+            "Marketing",
+            "Scraping"
+        ],
+        "url": "https://apify.com/huncho/google-maps-scraper",
+        "keywords": [
+            "leads",
+            "sales",
+            "marketing",
+            "scraping"
         ]
     },
     {

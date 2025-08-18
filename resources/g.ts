@@ -192,7 +192,7 @@ export const resources: Resource[] = [
         description: 'The most efficient way to scrape Google Maps at scale.',
         categories: ['Marketing', 'Scraping'],
         url: 'https://apify.com/huncho/google-maps-scraper',
-        keywords: ['leads' , 'sales', 'marketing', 'scraping'],
+        keywords: ['leads', 'sales', 'marketing', 'scraping'],
     },
     {
         name: 'Google Search Console',
