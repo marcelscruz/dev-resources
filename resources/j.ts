@@ -146,4 +146,13 @@ export const resources: Resource[] = [
         categories: ['Job', 'Remote'],
         url: 'https://justremote.co/',
     },
+    ,
+    {
+        name: 'JobBoardSearch 🔎',
+        categories: ['Jobs', 'Job boards'],
+        description:
+            'Meta directory of job boards with filters. Helping: Job seekers to find jobs, Job boards to promote, Recruiters to find the best candidates',
+        url: 'https://jobboardsearch.com/',
+        keywords: ['jobs', 'job boards'],
+    },
 ]
