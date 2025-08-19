@@ -432,4 +432,11 @@ export const resources: Resource[] = [
         url: 'https://www.getrupert.com/',
         keywords: ['ai', 'image generation', 'photography', 'advertising'],
     },
+    {
+        name: 'Rysa AI',
+        description: 'AI GTM Automation Agent',
+        categories: ['AI', 'Marketing', 'Productivity'],
+        url: 'https://www.rysa.ai',
+        keywords: ['assistant', 'automation', 'nocode', 'ai agent,'],
+    },
 ]
