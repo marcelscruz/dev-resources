@@ -276,6 +276,13 @@ export const resources: Resource[] = [
         url: 'https://renerehme.dev/',
     },
     {
+        name: 'Repohistory',
+        description: 'An analytics tool for tracking GitHub repo traffic history longer than 14 days.',
+        categories: ['Analytics', 'Open Source', 'Marketing'],
+        url: 'https://repohistory.com/',
+        keywords: ['github', 'repo', 'repository', 'traffic'],
+    },
+    {
         name: 'Resend',
         description:
             'The best email API to reach humans instead of spam folders. Build, test, and deliver transactional emails at scale.',
