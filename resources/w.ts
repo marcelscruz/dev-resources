@@ -228,6 +228,13 @@ export const resources: Resource[] = [
         keywords: ['website builder', 'tailwind css builder', 'drag and drop builder'],
     },
     {
+        name: 'Widget.video',
+        description: 'Embed interactive video widgets to your landing page',
+        categories: ['Video', 'Marketing', 'Analytics'],
+        url: 'https://widget.video/',
+        keywords: ['saas', 'marketing', 'growth', 'sales'],
+    },
+    {
         name: 'Wix',
         description:
             'Create a free website with Wix.com. Choose a stunning template and customize anything with the Wix website builder—no coding skills needed. Create yours today!',
