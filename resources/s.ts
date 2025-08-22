@@ -202,6 +202,12 @@ export const resources: Resource[] = [
         url: 'https://shadcnblocks.com',
     },
     {
+        name: 'Shadcn Templates',
+        categories: ['Template', 'UI', 'Design', ],
+        description: 'A collection of Shadcn UI templates, components, boilerplates, and more.',
+        url: 'https://shadcntemplates.com',
+    },
+    {
         name: 'Shape',
         description:
             '26000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.',
