@@ -313,6 +313,13 @@ export const resources: Resource[] = [
         url: 'https://gtmetrix.com/',
     },
     {
+        name: 'GuideToDocs',
+        description: 'Step by step instructions creation tool',
+        categories: ['Productivity', 'Documentation', 'Screenshot'],
+        url: 'https://guidetodocs.com/',
+        keywords: ['how-to guide creation tool', 'step by step instructions', 'steps recorder', 'sop generator'],
+    },
+    {
         name: 'Guru',
         description:
             'Guru is one of the best freelance websites to find & hire Freelancers online and get work done. Freelancers can also search jobs for freelance work and get hired.',
