@@ -1385,6 +1385,8 @@
  <img src="https://www.google.com/s2/favicons?domain=https://ultimatewebspeed.com&sz=128" width="16" /> | [Ultimate Web Speed](https://ultimatewebspeed.com) | Improve your website performance and SEO in hours not days. Use our tools and compare features, ease of use, and compatibility of resources. | wordpress, cache, plugins, speed, performance, seo |
  <img src="https://www.google.com/s2/favicons?domain=https://www.webpagetest.org/&sz=128" width="16" /> | [WebPagetest](https://www.webpagetest.org/) | Run a free website speed test from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations. | WebPageTest, Website Speed Test, Page Speed |
  <img src="https://www.google.com/s2/favicons?domain=https://zuzia.app&sz=128" width="16" /> | [Zuzia.app](https://zuzia.app) | AI-powered server monitoring and task automation for Linux and VPS. | ai task monitoring, server cron tracking, linux automation, laravel forge tools |
+ <img src="https://www.google.com/s2/favicons?domain=https://codeflash.ai&sz=128" width="16" /> | [CodeFlash.AI](https://codeflash.ai) | AI-powered Python code optimizer that rewrites your code for maximum performance while guaranteeing correctness. | ai code optimization, python performance, developer tools, github actions |
+ 
 
 **[⬆ Back to Index](#index)**
 
