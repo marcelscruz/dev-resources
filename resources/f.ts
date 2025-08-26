@@ -640,6 +640,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'FundedIQ',
+        description: 'Database of freshly funded startups that are ready to hire agencies',
+        categories: ['Marketing', 'Analytics', 'Database'],
+        url: 'https://fundediq.co/',
+        keywords: ['business database', 'startup database', 'funded startups', 'leads for agencies'],
+    },
+    {
         name: 'Fuselio',
         description:
             'Fuselio is a rapid MVP development platform for startups and SMEs, enabling the development of custom mobile and web applications in just 6 weeks. ',
