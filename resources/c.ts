@@ -393,8 +393,8 @@ export const resources: Resource[] = [
     {
         name: 'CodedThemes',
         description:
-            'CodedThemes provides a curated collection of high-quality, modern, professional, and easy-to-use Admin Templates and UI Kits.',
-        categories: ['Template'],
+            'Download free and pro developer-first admin templates in React, MUI, Vue, Next.js, Tailwind, and more. loved by 400K+ developers worldwide.',
+        categories: ['Template', 'UI'],
         url: 'https://codedthemes.com/',
     },
     {
