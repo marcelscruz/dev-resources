@@ -393,7 +393,7 @@ export const resources: Resource[] = [
     {
         name: 'CodedThemes',
         description:
-            'Download free and pro developer-first admin templates in React, MUI, Vue, Next.js, Tailwind, and more. loved by 400K+ developers worldwide.',
+            'Download free and pro developer-first admin templates in React, MUI, Vue, Next.js, Tailwind, and more. Loved by 400K+ developers worldwide.',
         categories: ['Template', 'UI'],
         url: 'https://codedthemes.com/',
     },
