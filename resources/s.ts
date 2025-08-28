@@ -39,6 +39,13 @@ export const resources: Resource[] = [
         url: 'https://developer.apple.com/safari/technology-preview/',
     },
     {
+        name: 'SalesMagic',
+        description: 'Virtual role-playing and live-call analysis for sales teams',
+        categories: ['Learn', 'AI', 'Analytics'],
+        url: 'https://www.salesmagic.com/',
+        keywords: ['ai chatbot', 'virtual role-play', 'sales coaching', 'manager coaching'],
+    },
+    {
         name: 'Scale',
         description:
             'Top-quality illustrations, 100% free - no attribution, no IP-related restrictions. Pick an illustration and customize to your branding using our color picker.',
