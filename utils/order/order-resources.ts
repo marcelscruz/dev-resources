@@ -1,6 +1,5 @@
 import * as fs from 'fs'
 import * as path from 'path'
-import { Resource } from '../../types'
 
 // Get the resources directory path
 const RESOURCES_DIR = path.join(process.cwd(), 'resources')
