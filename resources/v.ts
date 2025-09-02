@@ -148,7 +148,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Vitest',
-        description: 'VitePress is a Vite-powered static site generator. It provides fast, modern, and lightweight documentation sites with native ESM support and instant hot reload.',
+        description:
+            'VitePress is a Vite-powered static site generator. It provides fast, modern, and lightweight documentation sites with native ESM support and instant hot reload.',
         categories: ['Documentation'],
         url: 'https://vitest.dev/',
         keywords: ['unit testing', 'vite', 'vitest', 'test runner', 'javascript', 'typescript', 'esm', 'fast testing'],

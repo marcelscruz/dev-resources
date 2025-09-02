@@ -1,5 +1,5 @@
 {
-"count": 1079,
+"count": 1081,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6237,6 +6237,24 @@
         "url": "https://iq.js.org/"
     },
     {
+        "name": "JavaScript Tutorial",
+        "categories": [
+            "Learn"
+        ],
+        "description": "JavaScript Tutorial provides clear and practical tutorials, tips, and examples to help developers learn JavaScript and improve their coding skills.",
+        "url": "https://www.javascripttutorial.net/",
+        "keywords": [
+            "javascript",
+            "tutorial",
+            "learn",
+            "programming",
+            "web development",
+            "js",
+            "coding",
+            "examples"
+        ]
+    },
+    {
         "name": "JavaScript Weekly",
         "description": "A newsletter of JavaScript articles, news and cool projects.",
         "categories": [
@@ -12439,10 +12457,27 @@
         "url": "https://code.visualstudio.com/"
     },
     {
-        "name": "Vitest",
-        "description": "A blazing fast unit test framework powered by Vite. Provides instant startup, native ESM support, TypeScript support, and first-class DX for modern web development.",
+        "name": "VitePress",
         "categories": [
-            "Testing"
+            "Documentation"
+        ],
+        "description": "VitePress is a Vite-powered static site generator. It provides fast, modern, and lightweight documentation sites with native ESM support and instant hot reload.",
+        "url": "https://vitepress.dev/",
+        "keywords": [
+            "vitepress",
+            "static site generator",
+            "documentation",
+            "vite",
+            "markdown",
+            "docs",
+            "site generator"
+        ]
+    },
+    {
+        "name": "Vitest",
+        "description": "VitePress is a Vite-powered static site generator. It provides fast, modern, and lightweight documentation sites with native ESM support and instant hot reload.",
+        "categories": [
+            "Documentation"
         ],
         "url": "https://vitest.dev/",
         "keywords": [
