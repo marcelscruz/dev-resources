@@ -417,7 +417,6 @@
 ### <a name="code-challenge">Code Challenge</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
- <img src="https://www.google.com/s2/favicons?domain=https://cactro.com/&sz=128" width="16" /> | [Cactro](https://cactro.com/) | India’s Fairest Technical Test | Trusted by 300+ Companies | hiring, hr, marketplace, jobs, career |
  <img src="https://www.google.com/s2/favicons?domain=https://www.codechef.com/&sz=128" width="16" /> | [CodeChef](https://www.codechef.com/) | Learn competitive programming with the help of CodeChef | programming competition, programming contest, online programming, online computer programming |
  <img src="https://www.google.com/s2/favicons?domain=https://coderbyte.com/&sz=128" width="16" /> | [Coderbyte](https://coderbyte.com/) | Improve your coding skills with our library of 300+ challenges and prepare for coding interviews with content from leading technology companies. | coderbyte, coder byte, coding, coding, bootcamp, code school, programming challenges, practice codin... |
  <img src="https://www.google.com/s2/favicons?domain=https://www.codewars.com/&sz=128" width="16" /> | [Codewars](https://www.codewars.com/) | Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential. | codewars, code kata, kata, code gym, coding, code practice, ruby, javascript, coffeescript, web deve... |
@@ -704,7 +703,6 @@
 ### <a name="email">Email</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
- <img src="https://www.google.com/s2/favicons?domain=https://trycadabra.io/&sz=128" width="16" /> | [Cadabra](https://trycadabra.io/) | Cadabra maximizes email efficiency using AI, saving users time on reading, writing, replying, and reviewing emails | AI, Email Automation, Productivity, Customer Service, Translation |
  <img src="https://www.google.com/s2/favicons?domain=https://designmodo.com&sz=128" width="16" /> | [Designmodo](https://designmodo.com) | Create incredible websites and email newsletters with simple tools. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://enveloop.com/&sz=128" width="16" /> | [Enveloop](https://enveloop.com/) | Design, host, and send emails and texts. All from one place - with a simple API. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.heybounce.io/&sz=128" width="16" /> | [Heybounce](https://www.heybounce.io/) | Fast, Accurate & Secure Email Validation Service | email validation, email verification, disposable email detection, email validation api |
