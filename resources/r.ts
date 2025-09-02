@@ -75,7 +75,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'React Bits',
-        description: 'A large collection of animated React components made to spice up your web creations. Animations, components, backgrounds, and awesome stuff with customization options as props.',
+        description:
+            'A large collection of animated React components made to spice up your web creations. Animations, components, backgrounds, and awesome stuff with customization options as props.',
         categories: ['Library', 'Programming', 'UI', 'Animation'],
         url: 'https://reactbits.dev/',
         keywords: ['react', 'components', 'animated', 'backgrounds', 'customizable', 'free', 'props'],

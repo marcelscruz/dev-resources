@@ -158,7 +158,12 @@ export const resources: Resource[] = [
         description: 'AI that updates docs when you ship code.',
         categories: ['Documentation', 'AI'],
         url: 'https://deepdocs.dev/',
-        keywords: ['automate documentation', 'github docs automation', 'llm documentation update', 'ai technical writer'], 
+        keywords: [
+            'automate documentation',
+            'github docs automation',
+            'llm documentation update',
+            'ai technical writer',
+        ],
     },
     {
         name: 'Default Alive',

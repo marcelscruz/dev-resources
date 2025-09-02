@@ -1,5 +1,5 @@
 {
-"count": 1081,
+"count": 1086,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1273,6 +1273,22 @@
         ]
     },
     {
+        "name": "Botpool",
+        "description": "Marketplace for AI-Powered Freelancers.",
+        "categories": [
+            "Freelance",
+            "AI",
+            "Job"
+        ],
+        "url": "https://www.botpool.ai/",
+        "keywords": [
+            "freelance marketplace",
+            "marketplace",
+            "hiring",
+            "llm developer"
+        ]
+    },
+    {
         "name": "Boxicons",
         "description": "Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.",
         "categories": [
@@ -1428,6 +1444,23 @@
             "Programming"
         ],
         "url": "https://bytes.dev"
+    },
+    {
+        "name": "Cactro",
+        "description": "India’s Fairest Technical Test | Trusted by 300+ Companies",
+        "categories": [
+            "Job",
+            "Interview",
+            "Code Challenge"
+        ],
+        "url": "https://cactro.com/",
+        "keywords": [
+            "hiring",
+            "hr",
+            "marketplace",
+            "jobs",
+            "career"
+        ]
     },
     {
         "name": "CakeResume",
@@ -3196,6 +3229,21 @@
             "marketing",
             "analytics",
             "customer"
+        ]
+    },
+    {
+        "name": "DeepDocs",
+        "description": "AI that updates docs when you ship code.",
+        "categories": [
+            "Documentation",
+            "AI"
+        ],
+        "url": "https://deepdocs.dev/",
+        "keywords": [
+            "automate documentation",
+            "github docs automation",
+            "llm documentation update",
+            "ai technical writer"
         ]
     },
     {
@@ -6289,6 +6337,18 @@
         "url": "https://job.zip"
     },
     {
+        "name": "JobBoardSearch 🔎",
+        "categories": [
+            "Job"
+        ],
+        "description": "Meta directory of job boards with filters. Helping: Job seekers to find jobs, Job boards to promote, Recruiters to find the best candidates",
+        "url": "https://jobboardsearch.com/",
+        "keywords": [
+            "jobs",
+            "job boards"
+        ]
+    },
+    {
         "name": "Jobicy",
         "description": "Jobicy is an online career platform that bridges the gap between talented professionals seeking remote career opportunities and innovative companies offering such positions.",
         "categories": [
@@ -9140,6 +9200,26 @@
             "Productivity"
         ],
         "url": "https://www.raycast.com"
+    },
+    {
+        "name": "React Bits",
+        "description": "A large collection of animated React components made to spice up your web creations. Animations, components, backgrounds, and awesome stuff with customization options as props.",
+        "categories": [
+            "Library",
+            "Programming",
+            "UI",
+            "Animation"
+        ],
+        "url": "https://reactbits.dev/",
+        "keywords": [
+            "react",
+            "components",
+            "animated",
+            "backgrounds",
+            "customizable",
+            "free",
+            "props"
+        ]
     },
     {
         "name": "React Bootstrap",
