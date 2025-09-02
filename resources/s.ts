@@ -132,6 +132,14 @@ export const resources: Resource[] = [
         keywords: ['html5', 'ui', 'library', 'framework', 'javascript'],
     },
     {
+        name: 'Server-side Rendering (SSR) Checker',
+        description:
+            'Check if a given URL is server-side rendered or not by visually comparing the server-side rendered and the regular versions of the page.',
+        categories: ['SEO', 'Performance'],
+        url: 'https://www.crawlably.com/ssr-checker/',
+        keywords: ['SEO', 'frontend', 'javascript', 'performance'],
+    },
+    {
         name: 'SEO Blueprint',
         description: 'Cutting-edge SEO tactics that are actually ranking websites.',
         categories: ['SEO'],
@@ -528,6 +536,13 @@ export const resources: Resource[] = [
         categories: ['AI', 'Productivity', 'Marketing'],
         url: 'https://www.socialintents.com/',
         keywords: ['live chat', 'ai', 'sales', 'customer service'],
+    },
+    {
+        name: 'SocialKit',
+        description: 'Analyze Social Media Videos with a simple API',
+        categories: ['Marketing', 'Analytics', 'AI'],
+        url: 'https://www.socialkit.dev/',
+        keywords: ['developer tool', 'api', 'youtube api', 'tiktok api'],
     },
     {
         name: 'Soft Skills Engineering',

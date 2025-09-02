@@ -1,5 +1,5 @@
 {
-"count": 1074,
+"count": 1081,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1766,6 +1766,22 @@
         "url": "https://www.google.com/chrome/dev/"
     },
     {
+        "name": "Chrome Reader Mode",
+        "description": "Transform page to simple reading mode",
+        "categories": [
+            "Extension",
+            "Productivity",
+            "Browser"
+        ],
+        "url": "https://chromewebstore.google.com/detail/chrome-reader-mode/opfflfgjinednmneaiplkponjphblmmc?hl=en",
+        "keywords": [
+            "chrome reader mode",
+            "reader mode chrome",
+            "chrome reading mode​",
+            "reader mode in chrome"
+        ]
+    },
+    {
         "name": "Circum Icons",
         "description": "Consistent open source icons as SVG for React, Vue and Svelte.",
         "categories": [
@@ -2012,9 +2028,10 @@
     },
     {
         "name": "CodedThemes",
-        "description": "CodedThemes provides a curated collection of high-quality, modern, professional, and easy-to-use Admin Templates and UI Kits.",
+        "description": "Download free and pro developer-first admin templates in React, MUI, Vue, Next.js, Tailwind, and more. Loved by 400K+ developers worldwide.",
         "categories": [
-            "Template"
+            "Template",
+            "UI"
         ],
         "url": "https://codedthemes.com/"
     },
@@ -4043,6 +4060,22 @@
         "url": "https://f5bot.com/"
     },
     {
+        "name": "FairPact AI",
+        "description": "Scan contracts & find gotchas before signing",
+        "categories": [
+            "Legal",
+            "Productivity",
+            "AI"
+        ],
+        "url": "https://fairpact.actualization.ai",
+        "keywords": [
+            "legal",
+            "contracts",
+            "artificial intelligence​",
+            "startup tools"
+        ]
+    },
+    {
         "name": "Famewall",
         "description": "Collect and add testimonials to your website.",
         "categories": [
@@ -5200,6 +5233,21 @@
         ]
     },
     {
+        "name": "Google Maps Scraper",
+        "description": "The most efficient way to scrape Google Maps at scale.",
+        "categories": [
+            "Marketing",
+            "Scraping"
+        ],
+        "url": "https://apify.com/huncho/google-maps-scraper",
+        "keywords": [
+            "leads",
+            "sales",
+            "marketing",
+            "scraping"
+        ]
+    },
+    {
         "name": "Google Search Console",
         "description": "Search Console tools and reports help you measure your site",
         "categories": [
@@ -6223,6 +6271,24 @@
         "url": "https://iq.js.org/"
     },
     {
+        "name": "JavaScript Tutorial",
+        "categories": [
+            "Learn"
+        ],
+        "description": "JavaScript Tutorial provides clear and practical tutorials, tips, and examples to help developers learn JavaScript and improve their coding skills.",
+        "url": "https://www.javascripttutorial.net/",
+        "keywords": [
+            "javascript",
+            "tutorial",
+            "learn",
+            "programming",
+            "web development",
+            "js",
+            "coding",
+            "examples"
+        ]
+    },
+    {
         "name": "JavaScript Weekly",
         "description": "A newsletter of JavaScript articles, news and cool projects.",
         "categories": [
@@ -6681,6 +6747,22 @@
         "url": "https://grid.layoutit.com/"
     },
     {
+        "name": "Lead Generation Tools",
+        "description": "Handpicked Collection Of Lead Generation Tool",
+        "categories": [
+            "Marketing",
+            "Productivity",
+            "Startup"
+        ],
+        "url": "https://www.lead-generation.tools",
+        "keywords": [
+            "directory",
+            "automation",
+            "ai",
+            "aggregators"
+        ]
+    },
+    {
         "name": "Learn CSS",
         "description": "An evergreen CSS course and reference to level up your web styling expertise.",
         "categories": [
@@ -6838,6 +6920,21 @@
             "Code Challenge"
         ],
         "url": "https://leetcode.com/"
+    },
+    {
+        "name": "Lenis",
+        "description": "A smooth scroll library fresh out of darkroom.engineering",
+        "categories": [
+            "Library"
+        ],
+        "url": "https://lenis.darkroom.engineering/",
+        "keywords": [
+            "smooth scroll",
+            "scroll",
+            "animation",
+            "javascript",
+            "library"
+        ]
     },
     {
         "name": "Let",
@@ -9926,6 +10023,21 @@
         ]
     },
     {
+        "name": "Server-side Rendering (SSR) Checker",
+        "description": "Check if a given URL is server-side rendered or not by visually comparing the server-side rendered and the regular versions of the page.",
+        "categories": [
+            "SEO",
+            "Performance"
+        ],
+        "url": "https://www.crawlably.com/ssr-checker/",
+        "keywords": [
+            "SEO",
+            "frontend",
+            "javascript",
+            "performance"
+        ]
+    },
+    {
         "name": "Serverless Stack",
         "description": "Serverless Stack (SST) is a framework that makes it easy to build serverless applications.",
         "categories": [
@@ -10443,6 +10555,22 @@
             "trust",
             "cro",
             "converstion rate optimization"
+        ]
+    },
+    {
+        "name": "SocialKit",
+        "description": "Analyze Social Media Videos with a simple API",
+        "categories": [
+            "Marketing",
+            "Analytics",
+            "AI"
+        ],
+        "url": "https://www.socialkit.dev/",
+        "keywords": [
+            "developer tool",
+            "api",
+            "youtube api",
+            "tiktok api"
         ]
     },
     {
@@ -12363,10 +12491,27 @@
         "url": "https://code.visualstudio.com/"
     },
     {
-        "name": "Vitest",
-        "description": "A blazing fast unit test framework powered by Vite. Provides instant startup, native ESM support, TypeScript support, and first-class DX for modern web development.",
+        "name": "VitePress",
         "categories": [
-            "Testing"
+            "Documentation"
+        ],
+        "description": "VitePress is a Vite-powered static site generator. It provides fast, modern, and lightweight documentation sites with native ESM support and instant hot reload.",
+        "url": "https://vitepress.dev/",
+        "keywords": [
+            "vitepress",
+            "static site generator",
+            "documentation",
+            "vite",
+            "markdown",
+            "docs",
+            "site generator"
+        ]
+    },
+    {
+        "name": "Vitest",
+        "description": "VitePress is a Vite-powered static site generator. It provides fast, modern, and lightweight documentation sites with native ESM support and instant hot reload.",
+        "categories": [
+            "Documentation"
         ],
         "url": "https://vitest.dev/",
         "keywords": [

@@ -220,6 +220,13 @@ export const resources: Resource[] = [
         url: 'https://www.google.com/chrome/dev/',
     },
     {
+        name: 'Chrome Reader Mode',
+        description: 'Transform page to simple reading mode',
+        categories: ['Extension', 'Productivity', 'Browser'],
+        url: 'https://chromewebstore.google.com/detail/chrome-reader-mode/opfflfgjinednmneaiplkponjphblmmc?hl=en',
+        keywords: ['chrome reader mode', 'reader mode chrome', 'chrome reading mode​', 'reader mode in chrome'],
+    },
+    {
         name: 'Circum Icons',
         description: 'Consistent open source icons as SVG for React, Vue and Svelte.',
         categories: ['Icon'],
@@ -402,8 +409,8 @@ export const resources: Resource[] = [
     {
         name: 'CodedThemes',
         description:
-            'CodedThemes provides a curated collection of high-quality, modern, professional, and easy-to-use Admin Templates and UI Kits.',
-        categories: ['Template'],
+            'Download free and pro developer-first admin templates in React, MUI, Vue, Next.js, Tailwind, and more. Loved by 400K+ developers worldwide.',
+        categories: ['Template', 'UI'],
         url: 'https://codedthemes.com/',
     },
     {

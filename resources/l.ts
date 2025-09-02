@@ -115,6 +115,13 @@ export const resources: Resource[] = [
         url: 'https://grid.layoutit.com/',
     },
     {
+        name: 'Lead Generation Tools',
+        description: 'Handpicked Collection Of Lead Generation Tool',
+        categories: ['Marketing', 'Productivity', 'Startup'],
+        url: 'https://www.lead-generation.tools',
+        keywords: ['directory', 'automation', 'ai', 'aggregators'],
+    },
+    {
         name: 'LandingPro AI',
         categories: ['AI', 'Marketing'],
         description: 'AI that writes website copy that actually sell',
@@ -129,6 +136,13 @@ export const resources: Resource[] = [
             'Learnify is an all-in-one web development learning platform designed for beginners to advanced learners. Explore easy-to-understand tutorials on HTML, CSS, JavaScript, and React—all in one place.',
         url: 'https://learnify.shefali.dev/',
         keywords: ['web development tutorials', 'frontend development'],
+    },
+    {
+        name: 'Lenis',
+        description: 'A smooth scroll library fresh out of darkroom.engineering',
+        categories: ['Library'],
+        url: 'https://lenis.darkroom.engineering/',
+        keywords: ['smooth scroll', 'scroll', 'animation', 'javascript', 'library'],
     },
     {
         name: 'LearnWeb3',
