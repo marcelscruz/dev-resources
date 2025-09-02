@@ -1,5 +1,5 @@
 {
-"count": 1074,
+"count": 1072,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1428,40 +1428,6 @@
             "Programming"
         ],
         "url": "https://bytes.dev"
-    },
-    {
-        "name": "Cactro",
-        "description": "India’s Fairest Technical Test | Trusted by 300+ Companies",
-        "categories": [
-            "Job",
-            "Interview",
-            "Code Challenge"
-        ],
-        "url": "https://cactro.com/",
-        "keywords": [
-            "hiring",
-            "hr",
-            "marketplace",
-            "jobs",
-            "career"
-        ]
-    },
-    {
-        "name": "Cadabra",
-        "categories": [
-            "Email",
-            "AI",
-            "Marketing"
-        ],
-        "description": "Cadabra maximizes email efficiency using AI, saving users time on reading, writing, replying, and reviewing emails",
-        "url": "https://trycadabra.io/",
-        "keywords": [
-            "AI",
-            "Email Automation",
-            "Productivity",
-            "Customer Service",
-            "Translation"
-        ]
     },
     {
         "name": "CakeResume",
