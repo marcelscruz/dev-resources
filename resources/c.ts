@@ -9,15 +9,6 @@ export const resources: Resource[] = [
         keywords: ['hiring', 'hr', 'marketplace', 'jobs', 'career'],
     },
     {
-        name: 'Cadabra',
-        categories: ['Email', 'AI', 'Marketing'],
-        description:
-            'Cadabra maximizes email efficiency using AI, saving users time on reading, writing, replying, and reviewing emails',
-        url: 'https://trycadabra.io/',
-
-        keywords: ['AI', 'Email Automation', 'Productivity', 'Customer Service', 'Translation'],
-    },
-    {
         name: 'CakeResume',
         description:
             'Build an impressive resume and land that dream job. View online or download the PDF for FREE! CakeResume provides more than 50 resume templates and 1,000+ resume samples to help you make a professional resume in 10 minutes.',
