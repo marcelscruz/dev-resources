@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Cactro',
+        description: 'India’s Fairest Technical Test | Trusted by 300+ Companies',
+        categories: ['Job', 'Interview', 'Code Challenge'],
+        url: 'https://cactro.com/',
+        keywords: ['hiring', 'hr', 'marketplace', 'jobs', 'career'],
+    },
+    {
         name: 'CakeResume',
         description:
             'Build an impressive resume and land that dream job. View online or download the PDF for FREE! CakeResume provides more than 50 resume templates and 1,000+ resume samples to help you make a professional resume in 10 minutes.',
