@@ -1,5 +1,5 @@
 {
-"count": 73,
+"count": 74,
 "data": [
     {
         "name": "Accessibility",
@@ -224,6 +224,10 @@
     {
         "name": "Security",
         "slug": "security"
+    },
+    {
+        "name": "seo",
+        "slug": "seo"
     },
     {
         "name": "SEO",

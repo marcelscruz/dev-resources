@@ -1,5 +1,5 @@
 {
-"count": 1086,
+"count": 1087,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3611,6 +3611,16 @@
             "remote",
             "jobs"
         ]
+    },
+    {
+        "name": "DR Checker",
+        "categories": [
+            "Tooling",
+            "seo",
+            "Analytics"
+        ],
+        "description": "Build Trust with DR Checker",
+        "url": "https://drchecker.net/"
     },
     {
         "name": "Dracula theme",
