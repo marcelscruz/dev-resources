@@ -2,25 +2,32 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Vaiz',
+        description: 'One platform for Tasks & Documents',
+        categories: ['Productivity', 'Tooling', 'Documentation'],
+        url: 'https://vaiz.com',
+        keywords: ['task management', 'project management', 'documents', 'collaboration'],
+    },
+    {
         name: 'Vatis Tech',
-        categories: ['AI', 'Productivity'],
         description:
             'Vatis Tech offers advanced speech-to-text technology, converting audio or video files into text with over 90% accuracy using proprietary deep-learning algorithms',
-        keywords: ['Speech to Text ', 'Transcription ', 'Voice Recognition '],
+        categories: ['AI', 'Productivity'],
         url: 'https://vatis.tech',
+        keywords: ['Speech to Text', 'Transcription', 'Voice Recognition'],
     },
     {
         name: 'Vector Illustrations',
-        categories: ['Illustration'],
         description:
             'Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.',
+        categories: ['Illustration'],
         url: 'https://www.artify.co/vector-illustrations',
     },
     {
         name: 'Vectr',
-        categories: ['Editor', 'Image'],
         description:
             'Free vector graphics editor. A simple yet powerful web and desktop cross-platform tool for everyone.',
+        categories: ['Editor', 'Image'],
         url: 'https://vectr.com/',
     },
     {
@@ -33,22 +40,22 @@ export const resources: Resource[] = [
     },
     {
         name: 'Vemto',
-        categories: ['Code Generator'],
         description: 'Design and generate Laravel/PHP applications in minutes with this desktop tool',
+        categories: ['Code Generator'],
         url: 'https://vemto.app/',
     },
     {
         name: 'Verbatik AI',
-        categories: ['AI', 'Productivity'],
         description:
             'Create professional-quality Text to Speech and Voice Cloning in minutes. Generate natural voices in 150+ languages, perfect for videos, podcasts, and e-learning.',
+        categories: ['AI', 'Productivity'],
         url: 'https://verbatik.com/',
     },
     {
         name: 'Vercel',
-        categories: ['Hosting'],
         description:
             'Deploy web projects with the best frontend developer experience and highest end-user performance.',
+        categories: ['Hosting'],
         url: 'https://vercel.com/',
     },
     {
@@ -67,9 +74,9 @@ export const resources: Resource[] = [
     },
     {
         name: 'VideoEditor SDK',
-        categories: ['Editor', 'Video'],
         description:
             'Video Editor SDK (Android & iOS) is a fully-functional video editor that can be integrated into an app in minutes, designed to create exciting social media content with a wide range of effects and filters for professional-quality videos on phones.',
+        categories: ['Editor', 'Video'],
         url: 'https://www.banuba.com/video-editor-sdk-best-for-developers',
         keywords: ['video editor'],
     },
@@ -81,21 +88,28 @@ export const resources: Resource[] = [
         url: 'https://videofaceswap.io/',
         keywords: ['video face swap', 'photo face swap', 'ai video tools', 'ai image tools'],
     },
-
     {
         name: 'Vim',
-        categories: ['Editor', 'Programming'],
         description:
             'Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.',
-        keywords: ['Vim', 'Vi IMproved', 'text editor', 'home', 'documentation', 'tips', 'scripts', 'news'],
+        categories: ['Editor', 'Programming'],
         url: 'https://www.vim.org/',
+        keywords: ['Vim', 'Vi IMproved', 'text editor', 'home', 'documentation', 'tips', 'scripts', 'news'],
     },
     {
         name: 'Vim Adventures',
-        categories: ['Typing'],
         description:
             'VIM Adventures is an online game based on VIM\'s keyboard shortcuts. It\'s the "Zelda meets text editing" game. So come have some fun and learn some VIM!',
+        categories: ['Typing'],
         url: 'https://vim-adventures.com/',
+    },
+    {
+        name: 'VitePress',
+        categories: ['Documentation'],
+        description:
+            'VitePress is a Vite-powered static site generator. It provides fast, modern, and lightweight documentation sites with native ESM support and instant hot reload.',
+        url: 'https://vitepress.dev/',
+        keywords: ['vitepress', 'static site generator', 'documentation', 'vite', 'markdown', 'docs', 'site generator'],
     },
     {
         name: 'Virlo',
@@ -104,62 +118,68 @@ export const resources: Resource[] = [
         url: 'https://virlo.ai/',
         keywords: ['data', 'trends', 'short form content', 'content creators'],
     },
-
     {
         name: 'Virtual Coffee',
-        categories: ['Podcast'],
         description:
             'Virtual Coffee is an intimate community for developers at all stages of the journey. It is a place to ask questions, share knowledge, and build friendships.',
+        categories: ['Podcast'],
         url: 'https://virtualcoffee.io/podcast/',
     },
     {
         name: 'Visily',
-        categories: ['UI', 'UX', 'Design', 'Prototyping', 'AI'],
         description:
             'Visily leverages AI to generate stunning app wireframes and prototypes from various inputs such as text prompts, hand-drawn sketches, and screenshots of existing applications or websites.',
+        categories: ['UI', 'UX', 'Design', 'Prototyping', 'AI'],
         url: 'https://www.visily.ai/',
     },
     {
         name: 'Visiwig',
-        categories: ['Icon', 'Illustration'],
         description:
             'We provide visuals for busy designers. Visiwig is a place to find design inspiration, explore creative tools, and shop for timesaving graphics.',
+        categories: ['Icon', 'Illustration'],
         url: 'https://www.visiwig.com/',
     },
     {
         name: 'Visual Studio Code',
-        categories: ['Editor', 'Programming'],
         description:
             'Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.',
+        categories: ['Editor', 'Programming'],
         url: 'https://code.visualstudio.com/',
     },
     {
+        name: 'Vitest',
+        description:
+            'VitePress is a Vite-powered static site generator. It provides fast, modern, and lightweight documentation sites with native ESM support and instant hot reload.',
+        categories: ['Documentation'],
+        url: 'https://vitest.dev/',
+        keywords: ['unit testing', 'vite', 'vitest', 'test runner', 'javascript', 'typescript', 'esm', 'fast testing'],
+    },
+    {
         name: 'Voiden',
-        categories: ['API Building', 'Documentation'],
         description: '100% offline API client, free, no account required. Build and test APIs without the bloat.',
+        categories: ['API Building', 'Documentation'],
         url: 'https://voiden.md',
         keywords: ['api', 'api client', 'api documentation', 'api testing', 'api mocks'],
     },
     {
         name: 'Vue Cheatsheet',
-        categories: ['Cheatsheet'],
         description: 'An interactive cheatsheet of Vue, Vue Router and, Pinia.',
-        keywords: ['VueJS', 'vue cheatsheet', 'vue', 'Free cheatsheet', 'Opensource'],
+        categories: ['Cheatsheet'],
         url: 'https://vue-cheatsheet.themeselection.com/',
+        keywords: ['VueJS', 'vue cheatsheet', 'vue', 'Free cheatsheet', 'Opensource'],
     },
     {
         name: 'Vue.js devtools',
         description: 'Browser devtools extension for debugging Vue.js applications',
         categories: ['Browser', 'Extension'],
         url: 'https://devtools.vuejs.org/',
-
         keywords: ['dev tools', 'Vue', 'debugging', 'extension', 'browser extension'],
     },
     {
         name: 'VueJobs',
-        categories: ['Job'],
         description:
             'Vue.js jobs is the best place to hire or get hired as Vue.js developer. Find Vue.js talent and reach to thousands of developers.',
+        categories: ['Job'],
         url: 'https://vuejobs.com/',
     },
 ]
