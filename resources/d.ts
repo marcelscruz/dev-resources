@@ -378,6 +378,12 @@ export const resources: Resource[] = [
         keywords: ['translation', 'ai', 'productivity', 'file formats'],
     },
     {
+        name: 'DR Checker',
+        categories: ['Tooling', 'seo', 'Analytics'],
+        description: 'Build Trust with DR Checker',
+        url: 'https://drchecker.net/',
+    },
+    {
         name: 'Dracula theme',
         categories: ['Editor', 'Extension', 'Terminal'],
         description:
