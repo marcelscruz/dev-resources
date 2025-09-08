@@ -402,6 +402,12 @@ export const resources: Resource[] = [
         keywords: ['dotnet', 'remote', 'jobs'],
     },
     {
+        name: 'DR Checker',
+        categories: ['Tooling', 'seo', 'Analytics'],
+        description: 'Build Trust with DR Checker',
+        url: 'https://drchecker.net/',
+    },
+    {
         name: 'Dracula theme',
         description:
             'Dracula is a color scheme for code editors and terminal emulators such as Vim, Notepad++, iTerm, VSCode, Terminal.app, ZSH, and much more.',
