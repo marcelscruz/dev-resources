@@ -380,6 +380,13 @@ export const resources: Resource[] = [
         url: 'https://www.traversymedia.com/',
     },
     {
+        name: 'Transpocket',
+        description:
+            'AI-powered speech-to-text platform that transforms audio and video into accurate transcripts',
+        categories: ['Programming', 'Startup'],
+        url: 'http://transpocket.com/',
+    },
+    {
         name: 'Treblle',
         description:
             'Treblle is the ultimate end to end APIOps Platform for Engineering and DevOps teams. Simplify and elevate your REST API development with our comprehensive solution that offers insightful observability of APIs in a single, user-friendly interface.',
