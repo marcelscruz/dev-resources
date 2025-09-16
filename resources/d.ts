@@ -346,6 +346,13 @@ export const resources: Resource[] = [
         keywords: ['cms', 'headless', 'api', 'database', 'sql', 'rest', 'graphql'],
     },
     {
+        name: 'Dirstarter',
+        description: 'Launch Your Directory Website Start Making Money Today',
+        categories: ['Tooling', 'Code Generator', 'Productivity'],
+        url: 'https://dirstarter.com',
+        keywords: ['directory', 'website', 'template', 'starter', 'boilerplate', 'nextjs'],
+    },
+    {
         name: 'Divize',
         description: 'Learn, Write, Master: HTML/CSS Through Real UI Challenges.',
         categories: ['Code Challenge', 'Learn', 'Programming'],
