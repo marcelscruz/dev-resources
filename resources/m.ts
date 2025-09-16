@@ -202,7 +202,12 @@ export const resources: Resource[] = [
         description: 'Be more visible in AI search',
         categories: ['Marketing', 'SEO', 'AI'],
         url: 'https://trymeridian.com/',
-        keywords: ['answer engine optimization', 'generative engine optimization', 'generative ai seo', 'ai search optimization'],
+        keywords: [
+            'answer engine optimization',
+            'generative engine optimization',
+            'generative ai seo',
+            'ai search optimization',
+        ],
     },
     {
         name: 'Meshr',
