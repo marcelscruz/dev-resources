@@ -104,6 +104,14 @@ export const resources: Resource[] = [
         url: 'https://www.umbler.com/',
     },
     {
+        name: 'Unblur Image App',
+        description:
+            'Free AI-powered image deblurring tool that enhances blurry photos instantly. Supports batch processing and various image formats for professional image restoration.',
+        categories: ['AI', 'Image', 'Productivity'],
+        url: 'https://unblur-image.app/',
+        keywords: ['image deblurring', 'photo enhancement', 'ai image processing', 'blur removal', 'image quality'],
+    },
+    {
         name: 'Unblurimage AI',
         description:
             'Unblurimage AI offers a cutting-edge platform for enhancing and upscaling images, making them sharper, clearer, and more vivid.',
