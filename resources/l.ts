@@ -323,6 +323,13 @@ export const resources: Resource[] = [
         keywords: ['Marketing', 'SEO', 'link building', 'links', 'link', 'bento'],
     },
     {
+        name: 'Linkedin Bulk Search',
+        description: 'Automate your searches in Linkedin and output the results to your sheet',
+        categories: ['Marketing', 'AI', 'Scraping'],
+        url: 'https://growthtoolz.com/shop/linked-bulk-search/',
+        keywords: ['linkedin leads', 'sales automation', 'linkedin search', 'linkedin prospecting'],
+    },
+    {
         name: 'LinkedIn Learning',
         description:
             'Learn business, creative, and technology skills to achieve your personal and professional goals. Join LinkedIn Learning today to get access to thousands of courses.',
