@@ -313,6 +313,13 @@ export const resources: Resource[] = [
         url: 'http://simpleicons.org/',
     },
     {
+        name: 'SimplePerf',
+        description: 'A simple, guided 360° performance review tool made for small teams',
+        categories: ['Productivity', 'Performance', 'AI'],
+        url: 'https://buddieshr.com/simpleperf',
+        keywords: ['performance reviews', 'human resources', 'employee feedback', 'slack integration'],
+    },
+    {
         name: 'SinglebaseCloud',
         description:
             'AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.',
