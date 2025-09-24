@@ -32,6 +32,13 @@ export const resources: Resource[] = [
         url: 'https://www.saasframe.io/',
     },
     {
+        name: 'SaaSHunt',
+        description: 'SaasHunt is a platform to discover and upvote the best tech products. Find top products launching daily.',
+        categories: ['Marketing', 'Startup'],
+        url: 'https://saashunt.best/',
+        keywords: ['directory', 'community', 'seo', 'growth'],
+    },
+    {
         name: 'Safari Technology Preview',
         description:
             'Safari is the best way to see the sites on iPhone, iPad, and Mac. Safari Technology Preview gives you an early look at upcoming web technologies in macOS and iOS.',
