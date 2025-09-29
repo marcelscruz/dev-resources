@@ -139,12 +139,20 @@ export const resources: Resource[] = [
         url: 'https://unsplash.com/',
     },
     {
-        name: 'Untools',
+        name: 'uRoutine',
+        description:
+            'uRoutine is the worlds first productive social network, to help you achieve your goals, habits and commitments with accountability and AI',
+        categories: ['Productivity'],
+        url: 'https://www.uroutine.com/',
+    },
+    {
+        name: 'uRoutine',
         description:
             'Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.',
         categories: ['Productivity'],
         url: 'https://untools.co/',
     },
+    
     {
         name: 'Up For Grabs',
         description:
