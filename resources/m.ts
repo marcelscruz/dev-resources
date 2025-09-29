@@ -198,6 +198,13 @@ export const resources: Resource[] = [
         url: 'https://www.memfree.me/',
     },
     {
+        name: 'Merge JPG',
+        description: 'Merge JPG online free, no sign up required. Easy-to-use JPG Merger to merge jpg files into one, download as PNG/JPEG/WebP.',
+        categories: ['Productivity', 'Design'],
+        url: 'https://merge-jpg.net/',
+        keywords: ['JPG Merger', 'Merge images', 'Image Combiner', 'Image Merge'],
+    },
+    {
         name: 'Meridian',
         description: 'Be more visible in AI search',
         categories: ['Marketing', 'SEO', 'AI'],
