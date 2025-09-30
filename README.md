@@ -1035,6 +1035,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
  <img src="https://www.google.com/s2/favicons?domain=https://cactro.com/&sz=128" width="16" /> | [Cactro](https://cactro.com/) | India’s Fairest Technical Test | Trusted by 300+ Companies | hiring, hr, marketplace, jobs, career |
+ <img src="https://www.google.com/s2/favicons?domain=https://www.coderscreen.com/&sz=128" width="16" /> | [CoderScren](https://www.coderscreen.com/) | A modern, open-source technical hiring platform | cloudflare, open-source, react, tanstack, hono, screen, jobs, hiring, test, challenge |
  <img src="https://www.google.com/s2/favicons?domain=https://interviewhammer.com&sz=128" width="16" /> | [Interview Hammer](https://interviewhammer.com) | Nail your job interview with the your interview AI copilot | interview helper, interview AI copilot, interview AI assistant, career, jobs |
  <img src="https://www.google.com/s2/favicons?domain=https://interviewsolver.com&sz=128" width="16" /> | [Interview Solver](https://interviewsolver.com) | Ace your live coding interviews with our AI Copilot | interview helper, interview solver, ai copilot, career |
  <img src="https://www.google.com/s2/favicons?domain=https://iq.js.org/&sz=128" width="16" /> | [JavaScript Interview Questions](https://iq.js.org/) | Collection of questions that can help you improve your JavaScript knowledge and prepare to an interview. |  |
@@ -1366,6 +1367,7 @@
 |---|---|---|---|
  <img src="https://www.google.com/s2/favicons?domain=https://alteropen.com/&sz=128" width="16" /> | [Alteropen](https://alteropen.com/) | Alternative Directory to popular SaaS products (Free/ OpenSource or with Great Deals) for Developer, Indie |  |
  <img src="https://www.google.com/s2/favicons?domain=https://aptabase.com&sz=128" width="16" /> | [Aptabase](https://aptabase.com) | Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web apps. Get simple and actionable insights without compromising user privacy. | mobile, analytics, privacy, opensource |
+ <img src="https://www.google.com/s2/favicons?domain=https://www.coderscreen.com/&sz=128" width="16" /> | [CoderScren](https://www.coderscreen.com/) | A modern, open-source technical hiring platform | cloudflare, open-source, react, tanstack, hono, screen, jobs, hiring, test, challenge |
  <img src="https://www.google.com/s2/favicons?domain=https://www.codetriage.com/&sz=128" width="16" /> | [CodeTriage](https://www.codetriage.com/) | Discover the easiest way to get started contributing to open source. Over 62,317 devs are helping 6,584 projects with our free, community developed tools |  |
  <img src="https://www.google.com/s2/favicons?domain=https://axorax.github.io/css-button-maker/&sz=128" width="16" /> | [CSSButtonMaker](https://axorax.github.io/css-button-maker/) | Create stunning buttons in just a few clicks! |  |
  <img src="https://www.google.com/s2/favicons?domain=https://ddev.com/&sz=128" width="16" /> | [DDEV](https://ddev.com/) | Docker-based local PHP+Node.js web development environments | nodejs, windows, macos, linux, docker, php, wordpress, development, laravel, drupal, magento, mariad... |
