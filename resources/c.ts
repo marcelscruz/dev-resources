@@ -520,14 +520,11 @@ export const resources: Resource[] = [
         ],
     },
     {
-        "name": "CoderScren",
-        "description": "A modern, open-source technical hiring platform",
-        "categories": [
-            'Interview',
-            'Open Source'
-        ],
-        "url": "https://www.coderscreen.com/",
-        "keywords": [
+        name: 'CoderScren',
+        description: 'A modern, open-source technical hiring platform',
+        categories: ['Interview', 'Open Source'],
+        url: 'https://www.coderscreen.com/',
+        keywords: [
             'cloudflare',
             'open-source',
             'react',
@@ -537,8 +534,8 @@ export const resources: Resource[] = [
             'jobs',
             'hiring',
             'test',
-            'challenge'
-        ]
+            'challenge',
+        ],
     },
     {
         name: 'CodeSandbox',
