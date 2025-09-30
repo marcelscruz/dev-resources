@@ -1,5 +1,5 @@
 {
-"count": 1091,
+"count": 1092,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9606,6 +9606,22 @@
             "Personal Website"
         ],
         "url": "https://renerehme.dev/"
+    },
+    {
+        "name": "Repohistory",
+        "description": "An analytics tool for tracking GitHub repo traffic history longer than 14 days.",
+        "categories": [
+            "Analytics",
+            "Open Source",
+            "Marketing"
+        ],
+        "url": "https://repohistory.com/",
+        "keywords": [
+            "github",
+            "repo",
+            "repository",
+            "traffic"
+        ]
     },
     {
         "name": "Resend",
