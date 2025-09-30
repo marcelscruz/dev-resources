@@ -1,5 +1,5 @@
 {
-"count": 1090,
+"count": 1091,
 "data": [
     {
         "name": "1001 Fonts",
@@ -13009,6 +13009,22 @@
             "Extension"
         ],
         "url": "https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en"
+    },
+    {
+        "name": "Widget.video",
+        "description": "Embed interactive video widgets to your landing page",
+        "categories": [
+            "Video",
+            "Marketing",
+            "Analytics"
+        ],
+        "url": "https://widget.video/",
+        "keywords": [
+            "saas",
+            "marketing",
+            "growth",
+            "sales"
+        ]
     },
     {
         "name": "Windframe",

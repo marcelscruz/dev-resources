@@ -229,6 +229,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://splitbee.io&sz=128" width="16" /> | [Splitbee](https://splitbee.io) | Splitbee provides Analytics, Automation, User Funnel and A/B Testing. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://swetrix.com&sz=128" width="16" /> | [Swetrix](https://swetrix.com) | Swetrix is a privacy-focused, fully cookieless and opensource web analytics service with a free tier for small websites. | analytics, marketing, web analytics, privacy, opensource |
  <img src="https://www.google.com/s2/favicons?domain=https://www.treblle.com&sz=128" width="16" /> | [Treblle](https://www.treblle.com) | Treblle is the ultimate end to end APIOps Platform for Engineering and DevOps teams. Simplify and elevate your REST API development with our comprehensive solution that offers insightful observability... | API Observability, API Analytics, API Documentation, API Security, API Governance, API Testing, Deve... |
+ <img src="https://www.google.com/s2/favicons?domain=https://widget.video/&sz=128" width="16" /> | [Widget.video](https://widget.video/) | Embed interactive video widgets to your landing page | saas, marketing, growth, sales |
 
 **[⬆ Back to Index](#index)**
 
@@ -1341,6 +1342,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://usearticle.com/&sz=128" width="16" /> | [UseArticle](https://usearticle.com/) | UseArticle is the simplest and cheapest blogging platform you will ever need for your business. | Blogging platform, Blogs, SEO |
  <img src="https://www.google.com/s2/favicons?domain=https://www.vesta-app.com/&sz=128" width="16" /> | [Vesta](https://www.vesta-app.com/) | Vesta generates content in your style across any of your marketing channels. | ai writing assistant, content marketing, content automation, content creation |
  <img src="https://www.google.com/s2/favicons?domain=https://websiteheadlines.com/&sz=128" width="16" /> | [Website Headlines (dotcom)](https://websiteheadlines.com/) | Website headline inspiration, categorized. | marketing, copy, copywriting, examples, conversion, cta, title, hero |
+ <img src="https://www.google.com/s2/favicons?domain=https://widget.video/&sz=128" width="16" /> | [Widget.video](https://widget.video/) | Embed interactive video widgets to your landing page | saas, marketing, growth, sales |
  <img src="https://www.google.com/s2/favicons?domain=https://wlspy.com&sz=128" width="16" /> | [WLSpy](https://wlspy.com) | WLSpy helps users discover winning products by analyzing market trends and competitor strategies. | Product Research, Market Analysis, Competitor Monitoring |
 
 **[⬆ Back to Index](#index)**
@@ -2329,6 +2331,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://www.banuba.com/video-editor-sdk-best-for-developers&sz=128" width="16" /> | [VideoEditor SDK](https://www.banuba.com/video-editor-sdk-best-for-developers) | Video Editor SDK (Android & iOS) is a fully-functional video editor that can be integrated into an app in minutes, designed to create exciting social media content with a wide range of effects and fil... | video editor |
  <img src="https://www.google.com/s2/favicons?domain=https://videofaceswap.io/&sz=128" width="16" /> | [VideoFaceSwap](https://videofaceswap.io/) | VideoFaceSwap is a cutting-edge tool that leverages advanced technology to enable seamless face-swapping in videos and images, making creative multimedia processing easy and accessible. | video face swap, photo face swap, ai video tools, ai image tools |
  <img src="https://www.google.com/s2/favicons?domain=https://virlo.ai/&sz=128" width="16" /> | [Virlo](https://virlo.ai/) | Virlo helps content creators track viral trends on short form content platforms. | data, trends, short form content, content creators |
+ <img src="https://www.google.com/s2/favicons?domain=https://widget.video/&sz=128" width="16" /> | [Widget.video](https://widget.video/) | Embed interactive video widgets to your landing page | saas, marketing, growth, sales |
 
 **[⬆ Back to Index](#index)**
 
