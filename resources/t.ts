@@ -55,6 +55,13 @@ export const resources: Resource[] = [
         url: 'https://tatask.com/',
     },
     {
+        name: 'Tax Brackets',
+        description: 'TaxBrackets.io instantly estimates global income taxes',
+        categories: ['Tooling', 'Productivity', 'Analytics'],
+        url: 'https://taxbrackets.io/',
+        keywords: ['assistant', 'personal finance', 'tax calculator', 'income Tax'],
+    },
+    {
         name: 'Tech Blogs',
         description: 'This is a list of Awesome Tech Blogs. Add yourself.',
         categories: ['Blog'],
