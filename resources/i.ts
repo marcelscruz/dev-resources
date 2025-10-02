@@ -120,6 +120,13 @@ export const resources: Resource[] = [
         url: 'https://imgupscaler.com',
     },
     {
+        name: 'Image to Prompt Generator',
+        description: 'An AI Chrome extension to turn any image into a detailed prompt',
+        categories: ['Productivity', 'Extension', 'AI'],
+        url: 'https://imageprompt.dev/',
+        keywords: ['ai art', 'prompt generator', 'chrome extension', 'content creation'],
+    },
+    {
         name: 'IncidentHub',
         description:
             'Monitors the third-party Cloud and SaaS services that your application and team depend on. The Free (forever) tier has 20 services and 2 channels (Discord and Slack) for notifications.',
