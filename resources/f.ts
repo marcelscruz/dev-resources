@@ -568,6 +568,13 @@ export const resources: Resource[] = [
         keywords: ['career', 'fresh', 'opensalary', 'remote', 'jobs', 'jobsearch', 'developer', 'wfh'],
     },
     {
+        name: 'Freqens',
+        description: 'Intelligent Platform for Software Purchasing',
+        categories: ['AI', 'Analytics', 'Productivity'],
+        url: 'https://www.freqens.com/',
+        keywords: ['it purchasing', 'negotiation platform', 'ai negotiation', 'ai purchasing software'],
+    },
+    {
         name: 'FridayGPT',
         description: 'Fast and Native ChatGPT mac app. Access ChatGPT instantly on top of any app or website.',
         categories: ['AI', 'Productivity'],
