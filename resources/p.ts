@@ -124,6 +124,12 @@ export const resources: Resource[] = [
         url: 'https://www.photoroom.com',
     },
     {
+        name: 'PHPhub',
+        description: 'PHPhub is an online PHP toolbox featuring a code checker, formatter, code fixer, regex tester, and sandbox.',
+        categories: ['Programming', 'Tooling'],
+        url: 'https://phphub.net/',
+    },
+    {
         name: 'PhpStorm',
         description:
             'PhpStorm is a perfect PHP IDE for working with Symfony, Laravel, Drupal, WordPress, Laminas, Magento, Joomla!, CakePHP, Yii, and other frameworks.',
