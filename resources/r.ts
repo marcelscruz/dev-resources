@@ -166,6 +166,13 @@ export const resources: Resource[] = [
         url: 'https://www.realtimecolors.com',
     },
     {
+        name: 'Recurse ML',
+        description: 'Find bugs in AI Generated Code',
+        categories: ['Testing', 'AI', 'Tooling'],
+        url: 'https://recurse.ml',
+        keywords: ['ai coding', 'code review', 'code fixer ai', 'ai code review'],
+    },
+    {
         name: 'reddit',
         description: 'Reddit is a network of communities based on people',
         categories: ['Forum'],
