@@ -1,5 +1,5 @@
 {
-"count": 1095,
+"count": 1096,
 "data": [
     {
         "name": "1001 Fonts",
@@ -419,6 +419,20 @@
             "Database"
         ],
         "url": "https://airtable.com/"
+    },
+    {
+        "name": "aiwget",
+        "description": "Best AI Tools Directory for Indie Hackers, Creators, and More.Free Submit, Unique Editor's Review, Social Media Promote.",
+        "categories": [
+            "AI",
+            "Tools"
+        ],
+        "url": "https://aiwget.com",
+        "keywords": [
+            "AI",
+            "tools",
+            "directory"
+        ]
     },
     {
         "name": "ally.js",

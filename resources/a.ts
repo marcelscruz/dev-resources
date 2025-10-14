@@ -189,7 +189,7 @@ export const resources: Resource[] = [
             "Best AI Tools Directory for Indie Hackers, Creators, and More.Free Submit, Unique Editor's Review, Social Media Promote.",
         categories: ['AI', 'Tools'],
         url: 'https://aiwget.com',
-        keywords: ['AI', 'tools', 'directory']
+        keywords: ['AI', 'tools', 'directory'],
     },
     {
         name: 'ally.js',
