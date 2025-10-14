@@ -348,7 +348,12 @@ export const resources: Resource[] = [
         description: 'The easiest way to document your process',
         categories: ['Documentation', 'Productivity', 'AI'],
         url: 'https://trails.so/',
-        keywords: ['sop software', 'process documentation software', 'training documentation tool', 'workflow documentation software'],
+        keywords: [
+            'sop software',
+            'process documentation software',
+            'training documentation tool',
+            'workflow documentation software',
+        ],
     },
     {
         name: 'Transform Tools',
