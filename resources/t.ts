@@ -344,6 +344,13 @@ export const resources: Resource[] = [
         url: 'https://www.toptal.com/',
     },
     {
+        name: 'Trails',
+        description: 'The easiest way to document your process',
+        categories: ['Documentation', 'Productivity', 'AI'],
+        url: 'https://trails.so/',
+        keywords: ['sop software', 'process documentation software', 'training documentation tool', 'workflow documentation software'],
+    },
+    {
         name: 'Transform Tools',
         description: 'A polyglot web converter.',
         categories: ['Programming'],
