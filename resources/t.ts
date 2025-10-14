@@ -315,7 +315,12 @@ export const resources: Resource[] = [
         description: 'AI Software Research Agent',
         categories: ['Marketing', 'AI', 'Analytics'],
         url: 'https://www.toksta.com',
-        keywords: ['b2b saas influencer marketing', 'saas tool discovery', 'influencer data platform', 'ai-powered software research'],
+        keywords: [
+            'b2b saas influencer marketing',
+            'saas tool discovery',
+            'influencer data platform',
+            'ai-powered software research',
+        ],
     },
     {
         name: 'TOOOLS.design',
