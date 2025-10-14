@@ -184,6 +184,14 @@ export const resources: Resource[] = [
         url: 'https://airtable.com/',
     },
     {
+        name: 'aiwget',
+        description:
+            "Best AI Tools Directory for Indie Hackers, Creators, and More.Free Submit, Unique Editor's Review, Social Media Promote.",
+        categories: ['AI', 'Tools'],
+        url: 'https://aiwget.com',
+        keywords: ['AI', 'tools', 'directory']
+    },
+    {
         name: 'ally.js',
         description:
             'JavaScript library to help modern web applications with accessibility concerns by making accessibility simpler.',
