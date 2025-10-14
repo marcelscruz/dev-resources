@@ -1,5 +1,5 @@
 {
-"count": 1096,
+"count": 1097,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9908,6 +9908,22 @@
             "image generation",
             "photography",
             "advertising"
+        ]
+    },
+    {
+        "name": "Rysa AI",
+        "description": "AI GTM Automation Agent",
+        "categories": [
+            "AI",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://www.rysa.ai",
+        "keywords": [
+            "assistant",
+            "automation",
+            "nocode",
+            "ai agent,"
         ]
     },
     {
