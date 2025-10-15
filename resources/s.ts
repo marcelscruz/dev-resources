@@ -39,6 +39,13 @@ export const resources: Resource[] = [
         url: 'https://developer.apple.com/safari/technology-preview/',
     },
     {
+        name: 'Salary Calculator',
+        description: 'Salary-Calculator.ai helps you compare net salaries worldwide instantly',
+        categories: ['Productivity', 'AI', 'Job'],
+        url: 'https://salary-calculator.ai/',
+        keywords: ['salary calculator', 'take home pay', 'net income,', 'income tax calculator'],
+    },
+    {
         name: 'Scale',
         description:
             'Top-quality illustrations, 100% free - no attribution, no IP-related restrictions. Pick an illustration and customize to your branding using our color picker.',
