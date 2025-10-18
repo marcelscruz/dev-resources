@@ -192,6 +192,13 @@ export const resources: Resource[] = [
         keywords: ['AI', 'tools', 'directory'],
     },
     {
+        name: 'Alai',
+        description: 'Create high quality presentations with AI',
+        categories: ['Productivity', 'AI', 'Design'],
+        url: 'https://getalai.com',
+        keywords: ['presentations', 'slides', 'ai tools,', 'design'],
+    },
+    {
         name: 'ally.js',
         description:
             'JavaScript library to help modern web applications with accessibility concerns by making accessibility simpler.',
