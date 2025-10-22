@@ -2,6 +2,13 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'PageGym',
+        description: 'Advanced page speed analysis and optimization tool.',
+        categories: ['Performance'],
+        url: 'https://pagegym.com',
+        keywords: ['Page Speed', 'Core Web Vitals'],
+    },
+    {
         name: 'Pagelet',
         description: 'Simple Free HTML hosting, get a shareable link and a QR code out of the box.',
         categories: ['Hosting'],
