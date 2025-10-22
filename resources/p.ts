@@ -2,7 +2,7 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
-        name: 'Page Gym',
+        name: 'PageGym',
         description: 'Advanced page speed analysis and optimization tool.',
         categories: ['Performance'],
         url: 'https://pagegym.com',
