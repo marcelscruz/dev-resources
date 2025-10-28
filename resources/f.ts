@@ -354,6 +354,13 @@ export const resources: Resource[] = [
         url: 'https://fontspark.com/',
     },
     {
+        name: 'Formcn.dev',
+        description:
+            'Easily build single- and multi-step forms with auto-generated client- and server-side code.',
+        categories: ['Code Snippet'],
+        url: 'https://formcn.dev/',
+    },
+    {
         name: 'Foundy',
         description:
             'Sell your business at a higher valuation or find quality acquisitions with Foundy AI and expert support.',
