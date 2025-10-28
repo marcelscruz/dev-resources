@@ -901,6 +901,13 @@ export const resources: Resource[] = [
         url: 'https://supastarter.dev',
     },
     {
+        name: 'Supercamp',
+        description: 'AI workspace for business',
+        categories: ['Productivity', 'AI', 'Analytics'],
+        url: 'https://supercamp.ai/',
+        keywords: ['ai workspace', 'ai assistant', 'ai agents', 'workflow automation'],
+    },
+    {
         name: 'Surfer',
         description:
             'Use Surfer to research, write, optimize, and audit! Everything you need to create a comprehensive content strategy that yields real results is right here.',
