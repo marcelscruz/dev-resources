@@ -512,6 +512,13 @@ export const resources: Resource[] = [
         keywords: ['typing', 'touch typing', 'type books', 'type wikipedia'],
     },
     {
+        name: 'TypeQuicker',
+        description: 'Practice typing code in any language. Learn touch typing. Type paragraphs from books, trivia and mure more',
+        categories: ['Typing', 'Learn'],
+        url: 'https://typequicker.com',
+        keywords: ['typing', 'touch typing', 'ai-powered', 'typing speed', 'programming languages'],
+    },
+    {
         name: 'TypingBeast',
         description:
             'Practice touch typing on various modes including zen mode, maintain streak and compete in leaderboards.',
