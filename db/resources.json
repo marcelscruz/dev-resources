@@ -1,5 +1,5 @@
 {
-"count": 1099,
+"count": 1100,
 "data": [
     {
         "name": "1001 Fonts",
@@ -12092,6 +12092,22 @@
         "url": "https://www.typelit.io",
         "keywords": [
             "typing"
+        ]
+    },
+    {
+        "name": "TypeQuicker",
+        "description": "Practice typing code in any language. Learn touch typing. Type paragraphs from books, trivia and mure more",
+        "categories": [
+            "Typing",
+            "Learn"
+        ],
+        "url": "https://typequicker.com",
+        "keywords": [
+            "typing",
+            "touch typing",
+            "ai-powered",
+            "typing speed",
+            "programming languages"
         ]
     },
     {
