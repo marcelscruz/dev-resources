@@ -1,5 +1,5 @@
 {
-"count": 1098,
+"count": 1099,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10249,6 +10249,16 @@
             "HTTP(s)",
             "DNS"
         ]
+    },
+    {
+        "name": "Shadcn Templates",
+        "categories": [
+            "Template",
+            "UI",
+            "Design"
+        ],
+        "description": "A collection of Shadcn UI templates, components, boilerplates, and more.",
+        "url": "https://shadcntemplates.com"
     },
     {
         "name": "Shadcnblocks",

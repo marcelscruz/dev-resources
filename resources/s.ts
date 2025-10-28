@@ -203,7 +203,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Shadcn Templates',
-        categories: ['Template', 'UI', 'Design', ],
+        categories: ['Template', 'UI', 'Design'],
         description: 'A collection of Shadcn UI templates, components, boilerplates, and more.',
         url: 'https://shadcntemplates.com',
     },
