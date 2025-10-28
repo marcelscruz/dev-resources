@@ -1,5 +1,5 @@
 {
-"count": 1101,
+"count": 1103,
 "data": [
     {
         "name": "1001 Fonts",
@@ -425,7 +425,7 @@
         "description": "Best AI Tools Directory for Indie Hackers, Creators, and More.Free Submit, Unique Editor's Review, Social Media Promote.",
         "categories": [
             "AI",
-            "Tools"
+            "Tooling"
         ],
         "url": "https://aiwget.com",
         "keywords": [
@@ -3511,6 +3511,33 @@
         ]
     },
     {
+        "name": "Diploi",
+        "description": "Bootstrap full-stack apps + databases and deploy online in seconds, while skipping all DevOps or server config, with integrated support for remote development to start coding without running anything locally.",
+        "categories": [
+            "Hosting",
+            "Programming"
+        ],
+        "url": "https://diploi.com/",
+        "keywords": [
+            "diploi",
+            "app hosting",
+            "monorepo",
+            "app bootstrap",
+            "deployment",
+            "cloud hosting",
+            "remote development",
+            "codespaces",
+            "gitpod",
+            "render",
+            "fly.io",
+            "vm",
+            "virtual machine",
+            "devops",
+            "boilerplate",
+            "template generator"
+        ]
+    },
+    {
         "name": "DirectoryKit",
         "description": "Ready to use template for your Directory",
         "categories": [
@@ -3645,6 +3672,20 @@
             "dotnet",
             "remote",
             "jobs"
+        ]
+    },
+    {
+        "name": "DR Checker",
+        "categories": [
+            "Tooling",
+            "SEO",
+            "Analytics"
+        ],
+        "description": "Build Trust with DR Checker, Track changes in domain Rating",
+        "url": "https://drchecker.net/",
+        "keywords": [
+            "seo",
+            "Analytics"
         ]
     },
     {
