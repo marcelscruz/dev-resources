@@ -120,6 +120,13 @@ export const resources: Resource[] = [
         url: 'https://imgupscaler.com',
     },
     {
+        name: 'Inbox2Action',
+        description: 'Turn Emails into Tasks in Seconds',
+        categories: ['Productivity', 'Email', 'Extension'],
+        url: 'https://inbox2action.com',
+        keywords: ['email management', 'productivity tool', 'gmail Integration', 'notion integration'],
+    },
+    {
         name: 'IncidentHub',
         description:
             'Monitors the third-party Cloud and SaaS services that your application and team depend on. The Free (forever) tier has 20 services and 2 channels (Discord and Slack) for notifications.',
