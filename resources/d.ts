@@ -327,7 +327,7 @@ export const resources: Resource[] = [
         name: 'Diploi',
         description:
             'Bootstrap full-stack apps + databases and deploy online in seconds, while skipping all DevOps or server config, with integrated support for remote development to start coding without running anything locally.',
-        categories: ['Hosting', 'Programming', 'Remote'],
+        categories: ['Hosting', 'Programming'],
         url: 'https://diploi.com/',
         keywords: [
             'diploi',
