@@ -357,7 +357,7 @@ export const resources: Resource[] = [
         name: 'Formcn.dev',
         description:
             'Easily build single- and multi-step forms with auto-generated client- and server-side code.',
-        categories: ['code-snippet'],
+        categories: ['Code Snippet'],
         url: 'https://formcn.dev/',
     },
     {
