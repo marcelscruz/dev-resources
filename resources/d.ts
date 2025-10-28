@@ -403,7 +403,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'DR Checker',
-        categories: ['Tooling', 'seo', 'Analytics'],
+        categories: ['Tooling', 'SEO', 'Analytics'],
         description: 'Build Trust with DR Checker, Track changes in domain Rating',
         url: 'https://drchecker.net/',
         keywords: ['seo', 'Analytics'],
