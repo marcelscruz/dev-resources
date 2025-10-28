@@ -1,5 +1,5 @@
 {
-"count": 1100,
+"count": 1101,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11262,6 +11262,22 @@
             "Template"
         ],
         "url": "https://supastarter.dev"
+    },
+    {
+        "name": "Supercamp",
+        "description": "AI workspace for business",
+        "categories": [
+            "Productivity",
+            "AI",
+            "Analytics"
+        ],
+        "url": "https://supercamp.ai/",
+        "keywords": [
+            "ai workspace",
+            "ai assistant",
+            "ai agents",
+            "workflow automation"
+        ]
     },
     {
         "name": "Surfer",
