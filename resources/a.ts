@@ -187,7 +187,7 @@ export const resources: Resource[] = [
         name: 'aiwget',
         description:
             "Best AI Tools Directory for Indie Hackers, Creators, and More.Free Submit, Unique Editor's Review, Social Media Promote.",
-        categories: ['AI', 'Tools'],
+        categories: ['AI', 'Tooling'],
         url: 'https://aiwget.com',
         keywords: ['AI', 'tools', 'directory'],
     },

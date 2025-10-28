@@ -432,6 +432,7 @@ export const resources: Resource[] = [
         description: 'Build Trust with DR Checker, Track changes in domain Rating',
         url: 'https://drchecker.net/',
         keywords: ['seo', 'Analytics'],
+    },
     {
         name: 'Dracula theme',
         description:
