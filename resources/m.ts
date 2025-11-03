@@ -404,6 +404,13 @@ export const resources: Resource[] = [
         url: 'https://mychatbots.ai',
     },
     {
+        name: 'My Passion AI',
+        description: 'AI-powered quiz to find your passion career path',
+        categories: ['Productivity', 'Job', 'AI'],
+        url: 'https://mypassion.ai',
+        keywords: ['productivity tool', 'passion', 'career quiz', 'passion quiz'],
+    },
+    {
         name: 'MyPerfectResume',
         description: 'Create a perfect resume in just minutes and land the job you deserve. It',
         categories: ['Resume'],
