@@ -204,6 +204,13 @@ export const resources: Resource[] = [
         keywords: ['tailwind', 'ui components', 'ui kits', 'icon'],
     },
     {
+        name: 'Flowcart',
+        description: 'Flowcart helps B2C brands acquire, convert, retain customers on WhatsApp',
+        categories: ['Marketing', 'Analytics', 'AI'],
+        url: 'https://flowcart.ai/',
+        keywords: ['customer engagement platform', 'customer retention platform', 'whatsApp marketing solution', 'commerce marketing platform'],
+    },
+    {
         name: 'Fluid UI',
         description:
             'Free lifetime account. Simple to learn, quick to master. Design interactive prototypes for Android, iOS, web and desktop in minutes.',
