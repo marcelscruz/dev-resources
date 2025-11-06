@@ -22,6 +22,13 @@ export const resources: Resource[] = [
         url: 'https://famewall.io/',
     },
     {
+        name: 'Fantastic Portfolios',
+        description: 'An AI-powered portfolio website builder within 30 seconds.',
+        categories: ['AI', 'Website Builder', 'Personal Website'],
+        url: 'https://fantasticportfolios.com/',
+        keywords: ['free portfolio websites', 'online portfolio', 'portfolio website design', 'portfolio example'],
+    },
+    {
         name: 'Fast Articles AI',
         description:
             'Fast Articles AI is an advanced AI writing tool for SEO. Generate perfect SEO articles and blog posts in seconds.',
