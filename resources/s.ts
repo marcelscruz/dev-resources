@@ -111,6 +111,13 @@ export const resources: Resource[] = [
         url: 'https://searchatlas.com',
     },
     {
+        name: 'seenode',
+        description: 'Developer cloud for full-stack apps',
+        categories: ['Hosting', 'Cloud Computing', 'Tooling'],
+        url: 'https://seenode.com',
+        keywords: ['developer cloud', 'django hosting', 'nodejs hosting', 'paas'],
+    },
+    {
         name: 'Selenium',
         description: 'Selenium is a suite of tools for automating web browsers.',
         categories: ['Testing'],
