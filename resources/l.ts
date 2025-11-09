@@ -372,6 +372,22 @@ export const resources: Resource[] = [
         url: 'https://lobste.rs/',
     },
     {
+        name: "LocalStack",
+        description: "LocalStack is a cloud service emulator that runs in a single container on your laptop or in your CI environment. With LocalStack, you can run your AWS applications or Lambdas entirely on your local machine without connecting to a remote cloud provider!",
+        categories: ["Cloud Computing", "Open Source", "Serverless"],
+        url: 'https://www.localstack.cloud/',
+        keywords: [
+            "aws",
+            "localstack",
+            "cloud development",
+            "devops",
+            "local & open source",
+            "cloud emulator",
+            "serverless"
+        ]
+
+    },
+    {
         name: 'Logology',
         description:
             'No random generation and no symbols from a free database. Everything was crafted from the ground-up!',
