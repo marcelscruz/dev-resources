@@ -19,7 +19,6 @@ export type Category =
     | 'Code Snippet'
     | 'Color'
     | 'Conference'
-    | 'Content Engineering'
     | 'Database'
     | 'Design'
     | 'Documentation'
