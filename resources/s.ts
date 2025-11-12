@@ -184,7 +184,7 @@ export const resources: Resource[] = [
     {
         name: 'Serplux',
         description: 'Serplux is a data-driven SEO and marketing platform that leverages Ahrefs, DataForSEO, Semrush, and AI-powered content automation to deliver advanced keyword research, SEO audits, and content engineering solutions.',
-        categories: ['SEO', 'Marketing', 'Content Engineering'],
+        categories: ['SEO', 'Marketing'],
         url: 'https://serplux.com/',
         keywords: ['SEO', 'SEO AI Agent', 'Content Automation', 'SEO Audit', 'Keyword Finder'],
     },
