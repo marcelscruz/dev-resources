@@ -1,5 +1,5 @@
 {
-"count": 1103,
+"count": 1104,
 "data": [
     {
         "name": "1001 Fonts",
@@ -893,6 +893,22 @@
             "creative network",
             "creative community",
             "creative talent"
+        ]
+    },
+    {
+        "name": "Beheard Labs",
+        "description": "AI-Powered Customer Insight Platform",
+        "categories": [
+            "Marketing",
+            "AI",
+            "Analytics"
+        ],
+        "url": "https://www.gobeheard.com/",
+        "keywords": [
+            "market research",
+            "customer insights",
+            "research automation",
+            "voice of customer"
         ]
     },
     {
