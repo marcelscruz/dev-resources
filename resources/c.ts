@@ -1135,6 +1135,14 @@ export const resources: Resource[] = [
         url: 'https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce',
     },
     {
+        name: 'cubic',
+        description:
+            'cubic is an AI code reviewer for complex codebases, used by teams at n8n, Cal.com, Resend, and more to catch bugs, suggest fixes, and merge PRs 48% faster.',
+        categories: ['AI', 'Programming', 'Testing'],
+        url: 'https://cubic.dev/',
+        keywords: ['dev tools', 'developer tools', 'artificial intelligence', 'code review', 'ai code reviewer'],
+    },
+    {
         name: 'Customer.io',
         description:
             'With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions.',
