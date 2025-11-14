@@ -17,6 +17,13 @@ export const resources: Resource[] = [
         keywords: ['Speech to Text', 'Transcription', 'Voice Recognition'],
     },
     {
+        name: 'Vantage Charts',
+        description: 'Custom Charts for Monday.com',
+        categories: ['Analytics', 'Productivity', 'Design'],
+        url: 'https://monday.com/marketplace/listing/10000927/vantage-charts-',
+        keywords: ['monday marketplace', 'visualization', 'custom charts', 'plots'],
+    },
+    {
         name: 'Vector Illustrations',
         description:
             'Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.',
