@@ -385,7 +385,6 @@ export const resources: Resource[] = [
             "cloud emulator",
             "serverless"
         ]
-
     },
     {
         name: 'Logology',
