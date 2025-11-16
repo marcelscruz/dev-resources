@@ -86,6 +86,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Beheard Labs',
+        description: 'AI-Powered Customer Insight Platform',
+        categories: ['Marketing', 'AI', 'Analytics'],
+        url: 'https://www.gobeheard.com/',
+        keywords: ['market research', 'customer insights', 'research automation', 'voice of customer'],
+    },
+    {
         name: 'Ben Awad',
         description: 'I',
         categories: ['Programming', 'YouTube Channel'],
