@@ -122,6 +122,13 @@ export const resources: Resource[] = [
         url: 'https://www.gliesess.com/online-marketing-strategies',
     },
     {
+        name: 'Gloroots',
+        description: 'From hire to payroll—Gloroots powers your global team.',
+        categories: ['Remote', 'Job', 'Legal'],
+        url: 'https://www.gloroots.com/',
+        keywords: ['Human Resources', 'Staffing', 'Employer of Record', 'Contractor Management'],
+    },
+    {
         name: 'GoatCounter',
         description:
             'GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app.',
