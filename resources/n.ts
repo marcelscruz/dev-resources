@@ -109,6 +109,13 @@ export const resources: Resource[] = [
         url: 'https://www.nocodescraper.com',
         keywords: ['scraper', 'no code', 'ai web scraper', 'web scraper', 'visual web scraper', 'web scraping'],
     },
+     {
+        name: 'noryX',
+        description: 'AI automation for large Shopify catalogs. Auto-optimize SEO, JSON-LD schema, content & inventory to boost visibility & cut costs.',
+        categories: ['AI', 'SEO'],
+        url: 'https://www.sustern.ca/',
+        keywords: ['SEO', 'JSON-LD', 'JSON', 'Schema', 'Newsletters', 'Blogs', 'Automation', 'AI', 'GA4', 'GSC'],
+    },
     {
         name: 'Nomad List',
         description: 'Best places to live for a digital nomad',
