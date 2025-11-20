@@ -298,6 +298,21 @@ export const resources: Resource[] = [
         keywords: ['github', 'repo', 'repository', 'traffic'],
     },
     {
+        name: 'Requestly',
+        categories: ['API Building', 'Tooling'],
+        description: 'Build and test APIs faster. Lightweight Git-friendly API client built for modern developers.',
+        url: 'https://requestly.com',
+        keywords: [
+            'api',
+            'api client',
+            'api testing',
+            'api development',
+            'api documentation',
+            'api management',
+            'browserstack',
+        ],
+    },
+    {
         name: 'Resend',
         description:
             'The best email API to reach humans instead of spam folders. Build, test, and deliver transactional emails at scale.',
