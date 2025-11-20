@@ -1,5 +1,5 @@
 {
-"count": 1107,
+"count": 1108,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9751,6 +9751,24 @@
             "repo",
             "repository",
             "traffic"
+        ]
+    },
+    {
+        "name": "Requestly",
+        "categories": [
+            "API Building",
+            "Tooling"
+        ],
+        "description": "Build and test APIs faster. Lightweight Git-friendly API client built for modern developers.",
+        "url": "https://requestly.com",
+        "keywords": [
+            "api",
+            "api client",
+            "api testing",
+            "api development",
+            "api documentation",
+            "api management",
+            "browserstack"
         ]
     },
     {
