@@ -189,6 +189,13 @@ export const resources: Resource[] = [
         url: 'https://www.hloom.com/',
     },
     {
+        name: 'Hooked AI',
+        description: 'HookedAI - AI-Powered LinkedIn Marketing',
+        categories: ['Marketing', 'Social Media', 'AI'],
+        url: 'https://hookedai.ai/',
+        keywords: ['social media apps', 'multiple brands', 'social media', 'engage audiences'],
+    },
+    {
         name: 'Hoppscotch',
         description: 'Helps you create requests faster, saving precious time on development.',
         categories: ['API Building'],
