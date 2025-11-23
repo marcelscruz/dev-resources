@@ -148,6 +148,13 @@ export const resources: Resource[] = [
         keywords: ['Software Jobs', 'Legal Jobs', 'Remote AI Jobs', 'Legal Jobs'],
     },
     {
+        name: 'AI Roadmap Generator',
+        description: 'AI Roadmap Generator creates a visual, step-by-step roadmap instantly.',
+        categories: ['Marketing', 'Productivity', 'AI'],
+        url: 'https://venngage.com/ai-tools/roadmap-generator',
+        keywords: ['ai roadmap generator', 'roadmap maker', 'project roadmap template', 'visual roadmap tool'],
+    },
+    {
         name: 'AI-Text-Humanizer',
         description: 'Transform dull AI-generated text into easy-to-read copy and sound like a real person',
         categories: ['AI', 'Productivity'],
