@@ -1,5 +1,5 @@
 {
-"count": 1111,
+"count": 1112,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1446,6 +1446,25 @@
             "Web3"
         ],
         "url": "https://buildspace.so"
+    },
+    {
+        "name": "Buildstash",
+        "description": "Binary artifact and release management for app, game, and embedded software.",
+        "categories": [
+            "Tooling",
+            "Storage",
+            "Productivity"
+        ],
+        "url": "https://buildstash.com",
+        "keywords": [
+            "Buildstash",
+            "artifact management",
+            "artifacts",
+            "binary management",
+            "release management",
+            "build management",
+            "binaries"
+        ]
     },
     {
         "name": "Bulma",
