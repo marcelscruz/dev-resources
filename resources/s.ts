@@ -33,7 +33,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'SaaSHunt',
-        description: 'SaasHunt is a platform to discover and upvote the best tech products. Find top products launching daily.',
+        description:
+            'SaasHunt is a platform to discover and upvote the best tech products. Find top products launching daily.',
         categories: ['Marketing', 'Startup'],
         url: 'https://saashunt.best/',
         keywords: ['directory', 'community', 'seo', 'growth'],
