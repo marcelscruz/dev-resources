@@ -1,5 +1,5 @@
 {
-"count": 1110,
+"count": 1111,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8582,6 +8582,18 @@
             "youtube keyword research tool",
             "niche finder for youtube",
             "youtube tools"
+        ]
+    },
+    {
+        "name": "PageGym",
+        "description": "Advanced page speed analysis and optimization tool.",
+        "categories": [
+            "Performance"
+        ],
+        "url": "https://pagegym.com",
+        "keywords": [
+            "Page Speed",
+            "Core Web Vitals"
         ]
     },
     {
