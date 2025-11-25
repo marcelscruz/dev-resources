@@ -316,6 +316,13 @@ export const resources: Resource[] = [
         keywords: ['HTML CSS Javascript Web Development Coding Design'],
     },
     {
+        name: 'DevHub',
+        description: 'DevHub is a platform to discover and upvote the best tech products. Find top products launching daily.',
+        categories: ['Marketing', 'Startup'],
+        url: 'https://devhub.best/',
+        keywords: ['directory', 'community', 'seo', 'growth'],
+    },
+    {
         name: 'Dhiwise',
         description:
             'Build React and Flutter Apps at blazing fast speed without compromising on code-quality and developer-experience.',
