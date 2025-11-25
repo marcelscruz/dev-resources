@@ -468,6 +468,21 @@ export const resources: Resource[] = [
         url: 'https://buildspace.so',
     },
     {
+        name: 'Buildstash',
+        description: 'Binary artifact and release management for app, game, and embedded software.',
+        categories: ['Tooling', 'Storage', 'Productivity'],
+        url: 'https://buildstash.com',
+        keywords: [
+            'Buildstash',
+            'artifact management',
+            'artifacts',
+            'binary management',
+            'release management',
+            'build management',
+            'binaries',
+        ],
+    },
+    {
         name: 'Bulma',
         description: 'Bulma is a free, open source CSS framework based on Flexbox and built with Sass. It',
         categories: ['Programming', 'UI'],
