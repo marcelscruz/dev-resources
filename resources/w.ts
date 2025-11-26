@@ -273,6 +273,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Worklytics',
+        description: 'Analytics on AI and Productivity',
+        categories: ['Productivity', 'Analytics', 'AI'],
+        url: 'https://www.worklytics.co/',
+        keywords: ['workplace analytics', 'employee productivity', 'collaboration', 'organizational network analysis'],
+    },
+    {
         name: 'WP Foundry',
         description: 'A desktop WordPress management application.',
         categories: ['Extension'],
