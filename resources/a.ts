@@ -154,6 +154,13 @@ export const resources: Resource[] = [
         url: 'https://ai-text-humanizer.com/',
     },
     {
+        name: 'Aigazine',
+        description: 'The Go-To Source for AI Benchmarks, News, Research & Industry Insights',
+        categories: ['AI', 'Newsletter', 'Startup'],
+        url: 'https://aigazine.com',
+        keywords: ['ai benchmarks', 'ai news', 'ai analytics', 'research'],
+    },
+    {
         name: 'aijobs.net',
         description: 'Find jobs and talents in AI, Machine Learning, Data Science and Big Data.',
         categories: ['AI', 'Job'],
