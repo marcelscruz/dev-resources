@@ -1,5 +1,5 @@
 {
-"count": 1112,
+"count": 1113,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6392,6 +6392,14 @@
             "remote",
             "jobs"
         ]
+    },
+    {
+        "name": "Isocons",
+        "description": "Carefully crafted isometric icons.",
+        "categories": [
+            "Icon"
+        ],
+        "url": "https://www.isocons.app"
     },
     {
         "name": "Jam",
