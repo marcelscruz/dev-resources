@@ -255,4 +255,10 @@ export const resources: Resource[] = [
         url: 'https://isecjobs.com/',
         keywords: ['infosec', 'cybersecurity', 'career', 'developer', 'engineer', 'hacking', 'remote', 'jobs'],
     },
+    {
+        name: 'Isocons',
+        description: 'Carefully crafted isometric icons.',
+        categories: ['Icon'],
+        url: 'https://www.isocons.app',
+    },
 ]
