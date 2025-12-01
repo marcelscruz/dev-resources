@@ -15,6 +15,14 @@ export const resources: Resource[] = [
         url: 'https://pagelet.host',
     },
     {
+        name: 'PageRadar',
+        categories: ['SEO'],
+        description:
+            'Automated SEO monitoring platform that tracks Core Web Vitals, search rankings, HTML changes, affiliate links, and website performance with real-time alerts.',
+        url: 'https://pageradar.io',
+        keywords: ['SEO', 'Core Web Vitals', 'search rankings', 'website performance'],
+    },
+    {
         name: 'PageSpeed Insights',
         description:
             'PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster.',
