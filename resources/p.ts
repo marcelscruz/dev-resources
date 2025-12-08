@@ -404,7 +404,7 @@ export const resources: Resource[] = [
     {
         name: 'PureCut',
         description:
-            'Pro-level AI background removal without the pro-level price. Remove image backgrounds with 90% accuracy in 2-6 seconds, featuring dual processing models for standard and 4K precision, batch processing up to 50 images, and a free tier without watermarks.',
+            'AI-powered background removal tool featuring dual processing models, batch processing up to 50 images, and free tier without watermarks.',
         categories: ['Image', 'AI'],
         url: 'https://purecut.io/',
         keywords: [
