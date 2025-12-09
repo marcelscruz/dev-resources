@@ -1,5 +1,5 @@
 {
-"count": 1115,
+"count": 1116,
 "data": [
     {
         "name": "1001 Fonts",
@@ -12445,6 +12445,28 @@
             "UI"
         ],
         "url": "https://designcode.io/ui-design-for-developers"
+    },
+    {
+        "name": "UI Kits Design",
+        "description": "Find the best UI kits and component libraries to design and build websites in no time.",
+        "categories": [
+            "UI",
+            "Design",
+            "Library"
+        ],
+        "url": "https://uikits.design/",
+        "keywords": [
+            "ui kit",
+            "design",
+            "component library",
+            "shadcn",
+            "tailwind",
+            "figma",
+            "ui",
+            "blocks",
+            "components",
+            "sections"
+        ]
     },
     {
         "name": "ui.dev",
