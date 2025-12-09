@@ -140,7 +140,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'PHPhub',
-        description: 'PHPhub is an online PHP toolbox featuring a code checker, formatter, code fixer, regex tester, and sandbox.',
+        description:
+            'PHPhub is an online PHP toolbox featuring a code checker, formatter, code fixer, regex tester, and sandbox.',
         categories: ['Programming', 'Tooling'],
         url: 'https://phphub.net/',
     },
