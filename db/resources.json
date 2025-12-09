@@ -1,5 +1,5 @@
 {
-"count": 1116,
+"count": 1117,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10321,6 +10321,22 @@
             "Marketing"
         ],
         "url": "https://searchatlas.com"
+    },
+    {
+        "name": "seenode",
+        "description": "Developer cloud for full-stack apps",
+        "categories": [
+            "Hosting",
+            "Cloud Computing",
+            "Tooling"
+        ],
+        "url": "https://seenode.com",
+        "keywords": [
+            "developer cloud",
+            "django hosting",
+            "nodejs hosting",
+            "paas"
+        ]
     },
     {
         "name": "Selenium",
