@@ -83,6 +83,14 @@ export const resources: Resource[] = [
         url: 'https://getuikit.com/',
     },
     {
+        name: 'UI Kits Design',
+        description:
+            'Find the best UI kits and component libraries to design and build websites in no time.',
+        categories: ['UI', 'Design', 'Library'],
+        url: 'https://uikits.design/',
+        keywords: ['ui kit', 'design', 'component library', 'shadcn', 'tailwind', 'figma', 'ui', 'blocks', 'components', 'sections'],
+    },
+    {
         name: 'Uiverse',
         description: 'Community-made library of free and customizable UI elements made with CSS or Tailwind. It',
         categories: ['Design', 'Inspiration', 'UI', 'Illustration'],
