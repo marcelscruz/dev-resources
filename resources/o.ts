@@ -197,4 +197,11 @@ export const resources: Resource[] = [
             'youtube tools',
         ],
     },
+    {
+        name: 'Over.fig',
+        description: 'Compare Figma design to website in real time',
+        categories: ['Extension', 'UI', 'Design'],
+        url: 'https://overfig.com/',
+        keywords: ['web development tool', 'design to code', 'productivity tool', 'compare design'],
+    },
 ]
