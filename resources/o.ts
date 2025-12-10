@@ -185,6 +185,13 @@ export const resources: Resource[] = [
         url: 'https://orioniconlibrary.com/',
     },
     {
+        name: 'OSINT Researcher',
+        description: 'Explore GitHub orgs & repos',
+        categories: ['Open Source', 'Analytics', 'Security'],
+        url: 'https://osintresearcher.com/',
+        keywords: ['gitHub', 'osint', 'open source', 'repo search'],
+    },
+    {
         name: 'Outlier Kit',
         description: 'Discover Youtube niches, trends & Keywords',
         categories: ['Marketing', 'Video', 'AI'],
