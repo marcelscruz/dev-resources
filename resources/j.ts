@@ -148,6 +148,14 @@ export const resources: Resource[] = [
         keywords: ['JSON', 'JSON Schema'],
     },
     {
+        name: 'Juno',
+        description:
+            'Juno is an open-source serverless platform for hosting static websites, building web applications, and running serverless functions with the privacy and control of self-hosting.',
+        categories: ['Serverless', 'Productivity', 'Cloud Computing'],
+        url: 'https://juno.build/',
+        keywords: ['authentication', 'database', 'hosting', 'storage', 'analytics', 'serverless', 'development'],
+    },
+    {
         name: 'JustRemote',
         description:
             'Discover Remote Jobs from around the world. Give up the commute, work remotely and do what you love, daily, from anywhere. Find your perfect remote development, design, sales or marketing job today.',
