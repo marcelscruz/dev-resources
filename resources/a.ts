@@ -85,6 +85,13 @@ export const resources: Resource[] = [
         keywords: ['HTML CSS JS UI UX WordPress React Native User Interface Design Website JavaScript Graphics design'],
     },
     {
+        name: 'Agent Security',
+        description: 'Security for AI agents',
+        categories: ['Security', 'AI', 'Newsletter'],
+        url: 'https://agentsecurity.com',
+        keywords: ['data', 'ai security', 'agent security', 'llm security'],
+    },
+    {
         name: 'Ahrefs',
         description: 'You don',
         categories: ['SEO'],
