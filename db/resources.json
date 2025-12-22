@@ -1,5 +1,5 @@
 {
-"count": 1121,
+"count": 1122,
 "data": [
     {
         "name": "1001 Fonts",
@@ -227,6 +227,22 @@
         "url": "https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ",
         "keywords": [
             "HTML CSS JS UI UX WordPress React Native User Interface Design Website JavaScript Graphics design"
+        ]
+    },
+    {
+        "name": "Agent Security",
+        "description": "Security for AI agents",
+        "categories": [
+            "Security",
+            "AI",
+            "Newsletter"
+        ],
+        "url": "https://agentsecurity.com",
+        "keywords": [
+            "data",
+            "ai security",
+            "agent security",
+            "llm security"
         ]
     },
     {

@@ -74,6 +74,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://www.aaask.com/&sz=128" width="16" /> | [aaask](https://www.aaask.com/) | aaask is the best way to collect feedback from your team on autopilot | ai, productivity, feedback, team, autopilot |
  <img src="https://www.google.com/s2/favicons?domain=https://adswipefile.com/&sz=128" width="16" /> | [Ad Swipe File](https://adswipefile.com/) | Create top creatives: free access to 22,423+ proven ads! | e-commerce, advertising, ai, design |
  <img src="https://www.google.com/s2/favicons?domain=https://adligator.com/&sz=128" width="16" /> | [Adligator](https://adligator.com/) | Adligator - first of all is AI powered aggregator of ads from Facebook, Instagram, fb Messenger and the audience network. | ads, ads aggregator, analyzing competitors, creatives |
+ <img src="https://www.google.com/s2/favicons?domain=https://agentsecurity.com&sz=128" width="16" /> | [Agent Security](https://agentsecurity.com) | Security for AI agents | data, ai security, agent security, llm security |
  <img src="https://www.google.com/s2/favicons?domain=https://aiagentstore.ai&sz=128" width="16" /> | [AI Agent Store](https://aiagentstore.ai) | Place where developers showcase their AI Agents for businesses. | ai, artificial intelligence, developer, ai agent, marketplace, store |
  <img src="https://www.google.com/s2/favicons?domain=https://aiagentslive.com&sz=128" width="16" /> | [AI Agents Live](https://aiagentslive.com) | Discover best AI Agents by category, rating and reviews for your business needs | ai, artificial intelligence, developer, ai agent, marketplace, store, news, blogs |
  <img src="https://www.google.com/s2/favicons?domain=https://aialternative.co/&sz=128" width="16" /> | [AI Alternative](https://aialternative.co/) | Discover the best AI tools and their alternatives | ai directory, ai alternatives, ai tools directory, startup tools |
@@ -1394,6 +1395,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
  <img src="https://www.google.com/s2/favicons?domain=https://a11yweekly.com/&sz=128" width="16" /> | [A11yWeekly](https://a11yweekly.com/) | A weekly dose of web accessibility to help you bring it into your every day work. |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://agentsecurity.com&sz=128" width="16" /> | [Agent Security](https://agentsecurity.com) | Security for AI agents | data, ai security, agent security, llm security |
  <img src="https://www.google.com/s2/favicons?domain=https://bytes.dev&sz=128" width="16" /> | [Bytes](https://bytes.dev) | Staying informed on the JavaScript ecosystem has never been so entertaining. Delivered every Monday and Thursday, for free. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://csslayout.news/&sz=128" width="16" /> | [CSS Layout News](https://csslayout.news/) | A weekly collection of tutorials, news and information on all things CSS Layout. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://css-weekly.com/&sz=128" width="16" /> | [CSS Weekly](https://css-weekly.com/) | Weekly e-mail roundup of latest css articles, tutorials, tools and experiments. |  |
@@ -1938,6 +1940,7 @@
 ### <a name="security">Security</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://agentsecurity.com&sz=128" width="16" /> | [Agent Security](https://agentsecurity.com) | Security for AI agents | data, ai security, agent security, llm security |
  <img src="https://www.google.com/s2/favicons?domain=https://certdecoder.com/&sz=128" width="16" /> | [Cert Decoder](https://certdecoder.com/) | Cert Decoder is a free online tool for decoding X.509 SSL/TLS certificates in PEM format directly in your browser. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://dymo.tpeoficial.com&sz=128" width="16" /> | [Dymo](https://dymo.tpeoficial.com) | Data intelligence and protection, your security solution and Big Data for user recognition. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://greip.io/&sz=128" width="16" /> | [Greip](https://greip.io/) | One of the must trusted Fraud Prevention services, which allows you to deploy AI-Powered modules to prevent fraud and abuse. | ai, fraud prevention, api, geoip, profanity detection |
