@@ -250,6 +250,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://www.toksta.com&sz=128" width="16" /> | [Toksta](https://www.toksta.com) | AI Software Research Agent | b2b saas influencer marketing, saas tool discovery, influencer data platform, ai-powered software re... |
  <img src="https://www.google.com/s2/favicons?domain=https://www.treblle.com&sz=128" width="16" /> | [Treblle](https://www.treblle.com) | Treblle is the ultimate end to end APIOps Platform for Engineering and DevOps teams. Simplify and elevate your REST API development with our comprehensive solution that offers insightful observability... | API Observability, API Analytics, API Documentation, API Security, API Governance, API Testing, Deve... |
  <img src="https://www.google.com/s2/favicons?domain=https://widget.video/&sz=128" width="16" /> | [Widget.video](https://widget.video/) | Embed interactive video widgets to your landing page | saas, marketing, growth, sales |
+ <img src="https://www.google.com/s2/favicons?domain=https://worktypefocus.com/&sz=128" width="16" /> | [Work Type Focus](https://worktypefocus.com/) | Classify and visualize Jira work to stay focused and foster innovation | agile, sprint planning, work classification, team focus |
 
 **[⬆ Back to Index](#index)**
 
@@ -1623,6 +1624,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://videofaceswap.io/&sz=128" width="16" /> | [VideoFaceSwap](https://videofaceswap.io/) | VideoFaceSwap is a cutting-edge tool that leverages advanced technology to enable seamless face-swapping in videos and images, making creative multimedia processing easy and accessible. | video face swap, photo face swap, ai video tools, ai image tools |
  <img src="https://www.google.com/s2/favicons?domain=https://webacus.dev&sz=128" width="16" /> | [Webacus](https://webacus.dev) | Webacus is a versatile tool designed specifically for developers. It combines numerous operations that developers frequently need into a single, consistent interface. Instead of Googling and learning ... |  |
  <img src="https://www.google.com/s2/favicons?domain=https://webcurate.co/c/developer&sz=128" width="16" /> | [WebCurate Developer Tools](https://webcurate.co/c/developer) | A hand-curated collection of 380+ best developer tools and resources with detailed descriptions and features. | html, css, javascript, development |
+ <img src="https://www.google.com/s2/favicons?domain=https://worktypefocus.com/&sz=128" width="16" /> | [Work Type Focus](https://worktypefocus.com/) | Classify and visualize Jira work to stay focused and foster innovation | agile, sprint planning, work classification, team focus |
  <img src="https://www.google.com/s2/favicons?domain=https://zapkit.dev/&sz=128" width="16" /> | [ZapKit](https://zapkit.dev/) | ZapKit is a Laravel boilerplate powered by AI that helps you build a Laravel application within minutes. | boilerplate, startup, starter kit, ai, sass |
 
 **[⬆ Back to Index](#index)**
@@ -2259,6 +2261,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://vaiz.com&sz=128" width="16" /> | [Vaiz](https://vaiz.com) | One platform for Tasks & Documents | task management, project management, documents, collaboration |
  <img src="https://www.google.com/s2/favicons?domain=https://www.vibestack.io/&sz=128" width="16" /> | [VibeStack](https://www.vibestack.io/) | Curated directory of AI, design, and development products and tools. | resource discovery, design tools, ai tools, developer resources |
  <img src="https://www.google.com/s2/favicons?domain=https://webacus.dev&sz=128" width="16" /> | [Webacus](https://webacus.dev) | Webacus is a versatile tool designed specifically for developers. It combines numerous operations that developers frequently need into a single, consistent interface. Instead of Googling and learning ... |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://worktypefocus.com/&sz=128" width="16" /> | [Work Type Focus](https://worktypefocus.com/) | Classify and visualize Jira work to stay focused and foster innovation | agile, sprint planning, work classification, team focus |
  <img src="https://www.google.com/s2/favicons?domain=https://zuzia.app&sz=128" width="16" /> | [Zuzia.app](https://zuzia.app) | AI-powered server monitoring and task automation for Linux and VPS. | ai task monitoring, server cron tracking, linux automation, laravel forge tools |
 
 **[⬆ Back to Index](#index)**
