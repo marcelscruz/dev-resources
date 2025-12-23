@@ -155,6 +155,13 @@ export const resources: Resource[] = [
         keywords: ['unit testing', 'vite', 'vitest', 'test runner', 'javascript', 'typescript', 'esm', 'fast testing'],
     },
     {
+        name: 'Voibe',
+        description: 'Fast, private, on device AI voice dictation app for Mac',
+        categories: ['Productivity', 'AI', 'Writing'],
+        url: 'https://www.getvoibe.com',
+        keywords: ['mac dictation', 'voice to text', 'speech to text', 'voice typing'],
+    },
+    {
         name: 'Voiden',
         description: '100% offline API client, free, no account required. Build and test APIs without the bloat.',
         categories: ['API Building', 'Documentation'],
