@@ -142,6 +142,13 @@ export const resources: Resource[] = [
         keywords: ['developer tools', 'debugging', 'engineering'],
     },
     {
+        name: 'TestSprite',
+        description: 'The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow.',
+        categories: ['Testing', 'AI', 'Tooling'],
+        url: 'https://www.testsprite.com/',
+        keywords: ['ai testing agent', 'testing automation', 'software qa', 'ui testing'],
+    },
+    {
         name: 'Testimonial Donut',
         description: 'Testimonial collection so bloody easy, your gran can use it!',
         categories: ['Marketing'],
