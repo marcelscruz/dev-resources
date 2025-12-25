@@ -119,6 +119,13 @@ export const resources: Resource[] = [
         keywords: ['ai directory', 'ai alternatives', 'ai tools directory', 'startup tools'],
     },
     {
+        name: 'AI Anime',
+        description: 'AI Anime Generator',
+        categories: ['Design', 'AI', 'Image'],
+        url: 'https://www.getvoibe.com',
+        keywords: ['ai anime generator', 'ai image generator', 'image to video', 'text to image'],
+    },
+    {
         name: 'AI Best Tools',
         description: 'Discover the best AI tools in AIBest.tools',
         categories: ['AI', 'Tooling'],
