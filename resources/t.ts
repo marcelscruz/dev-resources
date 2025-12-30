@@ -189,6 +189,13 @@ export const resources: Resource[] = [
         url: 'https://www.testing-whiz.com/',
     },
     {
+        name: 'Text Zen - Text Expander',
+        description: 'Save time with web Text Expander shortcuts and power auto text snippets.',
+        categories: ['Productivity', 'Writing', 'Extension'],
+        url: 'https://www.textzen.app/',
+        keywords: ['text expander', 'productivity tool', 'text replacement', 'text expansion'],
+    },
+    {
         name: 'The A11Y Project',
         description: 'The A11Y Project is a community-driven effort to make digital accessibility easier.',
         categories: ['Accessibility'],
