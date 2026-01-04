@@ -104,8 +104,7 @@ export const resources: Resource[] = [
     {
         name: 'JPG To Excel Converter',
         description:
-            'A powerful AI-powered tool that extracts text and layout from images and converts them into Excel. Fast, free, and permanent.
-',
+            'A powerful AI-powered tool that extracts text and layout from images and converts them into Excel. Fast, free, and permanent.',
         categories: ['Data', 'Excel', 'Image2excel'],
         url: 'https://jpg2excel.app',
         keywords: ['ai', 'jpg2excel', 'image2excel', 'excel'],
