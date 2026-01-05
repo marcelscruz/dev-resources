@@ -615,6 +615,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Soro',
+        description: 'SEO Autopilot & Content Writer',
+        categories: ['Marketing', 'SEO', 'AI'],
+        url: 'https://trysoro.com/',
+        keywords: ['SEO', 'content automation', 'blogging', 'traffic growth'],
+    },
+    {
         name: 'Soundstripe',
         description: 'Every creator',
         categories: ['Audio'],
