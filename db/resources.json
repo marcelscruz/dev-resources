@@ -1,5 +1,5 @@
 {
-"count": 1126,
+"count": 1127,
 "data": [
     {
         "name": "1001 Fonts",
@@ -382,6 +382,22 @@
             "Legal Jobs",
             "Remote AI Jobs",
             "Legal Jobs"
+        ]
+    },
+    {
+        "name": "AI One Pager Generator",
+        "description": "AI-powered one-pager designs, fast and effortless.",
+        "categories": [
+            "Marketing",
+            "Design",
+            "AI"
+        ],
+        "url": "https://venngage.com/ai-tools/one-pager-generator",
+        "keywords": [
+            "one pager generator",
+            "ai one pager generator",
+            "create one pager",
+            "one pager template"
         ]
     },
     {
