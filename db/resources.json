@@ -1,5 +1,5 @@
 {
-"count": 1123,
+"count": 1124,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9362,6 +9362,15 @@
             "Programming"
         ],
         "url": "https://py4e.com"
+    },
+    {
+        "name": "Python Playground",
+        "description": "Online Python environment with package manager and data visualization",
+        "categories": [
+            "Programming",
+            "Extension"
+        ],
+        "url": "https://chromewebstore.google.com/detail/python-playground/jfippgilnpggpddhmfjaaecadnfhcopa"
     },
     {
         "name": "Pythonium",

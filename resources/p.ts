@@ -453,8 +453,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Python Playground',
-        description:
-            'Online Python environment with package manager and data visualization',
+        description: 'Online Python environment with package manager and data visualization',
         categories: ['Programming', 'Extension'],
         url: 'https://chromewebstore.google.com/detail/python-playground/jfippgilnpggpddhmfjaaecadnfhcopa',
     },
