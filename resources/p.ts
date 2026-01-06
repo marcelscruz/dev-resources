@@ -452,6 +452,13 @@ export const resources: Resource[] = [
         url: 'https://py4e.com',
     },
     {
+        name: 'Python Playground',
+        description:
+            'Online Python environment with package manager and data visualization',
+        categories: ['Programming', 'Extension'],
+        url: 'https://chromewebstore.google.com/detail/python-playground/jfippgilnpggpddhmfjaaecadnfhcopa',
+    },
+    {
         name: 'Pythonium',
         description: 'Online Python tools: Linter, formatter, regex tester, converter, obfuscator, and mock API.',
         categories: ['Programming', 'Tooling'],
