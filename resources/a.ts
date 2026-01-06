@@ -155,6 +155,13 @@ export const resources: Resource[] = [
         keywords: ['Software Jobs', 'Legal Jobs', 'Remote AI Jobs', 'Legal Jobs'],
     },
     {
+        name: 'AI One Pager Generator',
+        description: 'AI-powered one-pager designs, fast and effortless.',
+        categories: ['Marketing', 'Design', 'AI'],
+        url: 'https://venngage.com/ai-tools/one-pager-generator',
+        keywords: ['one pager generator', 'ai one pager generator', 'create one pager', 'one pager template'],
+    },
+    {
         name: 'AI-Text-Humanizer',
         description: 'Transform dull AI-generated text into easy-to-read copy and sound like a real person',
         categories: ['AI', 'Productivity'],
