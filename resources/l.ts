@@ -449,19 +449,12 @@ export const resources: Resource[] = [
         url: 'https://lukaszadam.com/illustrations',
     },
     {
-        name: "Luqum",
-        description: "Luqum is a Python library for parsing Lucene query expressions and converting them into structured Elasticsearch DSL queries. It helps developers safely interpret, transform, and analyze Lucene style search syntax without hand rolling parsers.",
-        categories: ["Library", "Open Source"],
-        url: "https://github.com/jurismarches/luqum",
-        keywords: [
-            "python",
-            "lucene",
-            "elasticsearch",
-            "query parser",
-            "search",
-            "dsl",
-            "developer tools"
-        ]
+        name: 'Luqum',
+        description:
+            'Luqum is a Python library for parsing Lucene query expressions and converting them into structured Elasticsearch DSL queries. It helps developers safely interpret, transform, and analyze Lucene style search syntax without hand rolling parsers.',
+        categories: ['Library', 'Open Source'],
+        url: 'https://github.com/jurismarches/luqum',
+        keywords: ['python', 'lucene', 'elasticsearch', 'query parser', 'search', 'dsl', 'developer tools'],
     },
     {
         name: 'Luthor',
