@@ -1,5 +1,5 @@
 {
-"count": 1125,
+"count": 1126,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8658,6 +8658,22 @@
             "Icon"
         ],
         "url": "https://orioniconlibrary.com/"
+    },
+    {
+        "name": "OSINT Researcher",
+        "description": "Explore GitHub orgs & repos",
+        "categories": [
+            "Open Source",
+            "Analytics",
+            "Security"
+        ],
+        "url": "https://osintresearcher.com/",
+        "keywords": [
+            "gitHub",
+            "osint",
+            "open source",
+            "repo search"
+        ]
     },
     {
         "name": "Outlier Kit",
