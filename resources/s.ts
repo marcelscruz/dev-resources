@@ -574,6 +574,13 @@ export const resources: Resource[] = [
         keywords: ['developer tool', 'api', 'youtube api', 'tiktok api'],
     },
     {
+        name: 'Socratic App',
+        description: 'AI homework helper that teaches students like a tutor',
+        categories: ['AI', 'Learn', 'Productivity'],
+        url: 'https://socraticapp.com/',
+        keywords: ['education', 'socratic app', 'ai tutor', 'homework helper'],
+    },
+    {
         name: 'Soft Skills Engineering',
         description:
             'It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer.',
