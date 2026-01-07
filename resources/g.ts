@@ -272,6 +272,13 @@ export const resources: Resource[] = [
         url: 'https://grammarly.com',
     },
     {
+        name: 'GrammarChecker',
+        description: 'AI Grammar Checker instantly fixes writing errors',
+        categories: ['Writing', 'AI', 'Productivity'],
+        url: 'https://aigrammarchecker.io/',
+        keywords: ['ai grammar checker', 'online grammar tool', 'writing assistant', 'english grammar correction'],
+    },
+    {
         name: 'GrayGrids',
         description:
             'Biggest Source of Free HTML Website Templates & Bootstrap Themes for Business, Landing Page, Admin Dashboards and Resume & Portfolio Websites.',
