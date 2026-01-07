@@ -47,6 +47,13 @@ export const resources: Resource[] = [
         url: 'https://developer.apple.com/safari/technology-preview/',
     },
     {
+        name: 'SENTENCIFY',
+        description: 'AI Free Paraphrasing Tool',
+        categories: ['Writing', 'AI', 'Productivity'],
+        url: 'https://www.sentencify.ai/en/',
+        keywords: ['paraphrasing tool', 'ai writing assistant', 'sentence rewriter', 'productivity'],
+    },
+    {
         name: 'Scale',
         description:
             'Top-quality illustrations, 100% free - no attribution, no IP-related restrictions. Pick an illustration and customize to your branding using our color picker.',
