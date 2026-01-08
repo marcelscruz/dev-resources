@@ -1,5 +1,5 @@
 {
-"count": 1127,
+"count": 1128,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6662,6 +6662,25 @@
         "keywords": [
             "JSON",
             "JSON Schema"
+        ]
+    },
+    {
+        "name": "Juno",
+        "description": "Juno is an open-source serverless platform for hosting static websites, building web applications, and running serverless functions with the privacy and control of self-hosting.",
+        "categories": [
+            "Serverless",
+            "Productivity",
+            "Cloud Computing"
+        ],
+        "url": "https://juno.build/",
+        "keywords": [
+            "authentication",
+            "database",
+            "hosting",
+            "storage",
+            "analytics",
+            "serverless",
+            "development"
         ]
     },
     {
