@@ -205,6 +205,12 @@ export const resources: Resource[] = [
         url: 'https://aiwget.com',
         keywords: ['AI', 'tools', 'directory'],
     },
+      {
+  name: 'AllInOneTools',
+  description: 'A free collection of browser-based utilities for bloggers, creators, students, and developers. No signup required.',
+  categories: ['Productivity', 'Developer Tools', 'Utilities'],
+  url: 'https://allinonetools.net/',
+},
     {
         name: 'ally.js',
         description:
