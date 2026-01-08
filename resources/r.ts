@@ -415,6 +415,13 @@ export const resources: Resource[] = [
         url: 'https://github.com/antfu/retypewriter',
     },
     {
+        name: 'Reverse Image Search Tools',
+        description: 'Search the web using any image',
+        categories: ['Extension', 'Image', 'Productivity'],
+        url: 'https://chromewebstore.google.com/detail/reverse-image-search-tool/hccicgceahocikgncfihpmkjamfpacpg',
+        keywords: ['tools', 'utilities', 'search engine', 'internet tools'],
+    },
+    {
         name: 'Revyou',
         description: 'Turn your reviews into a lead magnet',
         categories: ['AI', 'Marketing'],
