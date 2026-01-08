@@ -394,6 +394,13 @@ export const resources: Resource[] = [
         categories: ['Editor', 'Extension'],
         url: 'http://brackets.io/',
     },
+      {
+    name: 'BragDoc',
+    description: 'CLI tool that extracts achievements from git commits for performance reviews',
+    categories: ['Productivity', 'Terminal', 'Tooling'],
+    url: 'https://www.bragdoc.ai/',
+    keywords: ['git', 'cli', 'performance review', 'achievements', 'ai'],
+  },
     {
         name: 'Brainboard',
         description:
