@@ -664,7 +664,7 @@ export const resources: Resource[] = [
     {
         name: 'Format JSON Online',
         description: 'A Complete Toolkit for JSON & Data Processing.',
-        categories: ['Productivity', 'tools'],
+        categories: ['Productivity', 'Tooling'],
         url: 'https://formatjsononline.com/',
         keywords: ['json'],
     },
