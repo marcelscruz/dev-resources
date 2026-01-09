@@ -539,7 +539,7 @@ export const resources: Resource[] = [
         description:
             'Improve your typing skills with our free typing game. Explore single-player and multiplayer typing games to improve your typing speed and accuracy.',
         categories: ['Typing'],
-        url: 'https://www.typersworld.com/',
+        url: 'https://www.typersworld.com',
         keywords: [
             'typing speed test',
             'typing speedtest',
