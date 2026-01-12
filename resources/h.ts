@@ -306,7 +306,7 @@ export const resources: Resource[] = [
         name: 'Hypermail',
         description:
             'Hypermail is a cold email marketing solution that handles all aspects of email marketing with whitelabel built-in, email list verification, unlimited contact lists, email warm-up with AI replies & more',
-        categories: ['email', 'marketing', 'email  marketing'],
+        categories: ['Email', 'Marketing'],
         url: 'http://hypermail.com/',
         keywords: ['email marketing', 'cold email', 'list verification', 'white labeling'],
     },
