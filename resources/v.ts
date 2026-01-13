@@ -89,6 +89,13 @@ export const resources: Resource[] = [
         keywords: ['video face swap', 'photo face swap', 'ai video tools', 'ai image tools'],
     },
     {
+        name: 'Video Watermark Remover',
+        description: 'Remove video watermarks online for free',
+        categories: ['Video', 'AI', 'Design'],
+        url: 'https://videowatermarkremover.ai/',
+        keywords: ['video watermark remover', 'remove video watermark', 'video watermark removal', 'free watermark remover'],
+    },
+    {
         name: 'Vim',
         description:
             'Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.',
