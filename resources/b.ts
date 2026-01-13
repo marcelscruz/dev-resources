@@ -489,6 +489,13 @@ export const resources: Resource[] = [
         url: 'https://bulma.io/',
     },
     {
+        name: 'Bulk Mockup',
+        description: 'Generate 1000+ mockups in 10 minutes with Bulk Mockup',
+        categories: ['Design', 'Productivity', 'Marketing'],
+        url: 'https://www.bulkmockup.com/',
+        keywords: ['bulk mockup generator', 'product mockups', 'print on demand', 'etsy mockups'],
+    },
+    {
         name: 'ByPeople',
         description: 'ByPeople is a curated network of 10k ready-to-download resources for developers.',
         categories: ['Font', 'Illustration', 'Template'],
