@@ -36,6 +36,14 @@ export const resources: Resource[] = [
         keywords: ['mobile app testing', 'mobile emulator', 'app testing', 'iOS testing'],
     },
     {
+        name: 'NAT Checker',
+        description: 'Free, fast, accurate NAT check for developers and gamers on PS5, Xbox, Switch, and PC. Understand network status and improve play.
+',
+        categories: ['Productivity', 'Testing', 'Tooling'],
+        url: 'https://natchecker.com',
+        keywords: ['network testing', 'network troubleshoot', 'nat type test'],
+    },
+    {
         name: 'Netlify',
         description:
             'Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.',
