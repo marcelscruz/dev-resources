@@ -273,6 +273,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Work Type Focus',
+        description: 'Classify and visualize Jira work to stay focused and foster innovation',
+        categories: ['Productivity', 'Analytics', 'Tooling'],
+        url: 'https://worktypefocus.com/',
+        keywords: ['agile', 'sprint planning', 'work classification', 'team focus'],
+    },
+    {
         name: 'WP Foundry',
         description: 'A desktop WordPress management application.',
         categories: ['Extension'],

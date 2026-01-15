@@ -1,5 +1,5 @@
 {
-"count": 1119,
+"count": 1130,
 "data": [
     {
         "name": "1001 Fonts",
@@ -230,6 +230,22 @@
         ]
     },
     {
+        "name": "Agent Security",
+        "description": "Security for AI agents",
+        "categories": [
+            "Security",
+            "AI",
+            "Newsletter"
+        ],
+        "url": "https://agentsecurity.com",
+        "keywords": [
+            "data",
+            "ai security",
+            "agent security",
+            "llm security"
+        ]
+    },
+    {
         "name": "Ahrefs",
         "description": "You don",
         "categories": [
@@ -366,6 +382,22 @@
             "Legal Jobs",
             "Remote AI Jobs",
             "Legal Jobs"
+        ]
+    },
+    {
+        "name": "AI One Pager Generator",
+        "description": "AI-powered one-pager designs, fast and effortless.",
+        "categories": [
+            "Marketing",
+            "Design",
+            "AI"
+        ],
+        "url": "https://venngage.com/ai-tools/one-pager-generator",
+        "keywords": [
+            "one pager generator",
+            "ai one pager generator",
+            "create one pager",
+            "one pager template"
         ]
     },
     {
@@ -4701,7 +4733,7 @@
         "description": "A Complete Toolkit for JSON & Data Processing.",
         "categories": [
             "Productivity",
-            "tools"
+            "Tooling"
         ],
         "url": "https://formatjsononline.com/",
         "keywords": [
@@ -5537,6 +5569,22 @@
         "url": "https://gramara.com/"
     },
     {
+        "name": "GrammarChecker",
+        "description": "AI Grammar Checker instantly fixes writing errors",
+        "categories": [
+            "Writing",
+            "AI",
+            "Productivity"
+        ],
+        "url": "https://aigrammarchecker.io/",
+        "keywords": [
+            "ai grammar checker",
+            "online grammar tool",
+            "writing assistant",
+            "english grammar correction"
+        ]
+    },
+    {
         "name": "Grammarly",
         "description": "Grammarly makes sure everything you type is easy to read, effective, and mistake-free. Try it today:.",
         "categories": [
@@ -6015,6 +6063,21 @@
             "writing",
             "human",
             "text"
+        ]
+    },
+    {
+        "name": "Hypermail",
+        "description": "Hypermail is a cold email marketing solution that handles all aspects of email marketing with whitelabel built-in, email list verification, unlimited contact lists, email warm-up with AI replies & more",
+        "categories": [
+            "Email",
+            "Marketing"
+        ],
+        "url": "http://hypermail.com/",
+        "keywords": [
+            "email marketing",
+            "cold email",
+            "list verification",
+            "white labeling"
         ]
     },
     {
@@ -6630,6 +6693,25 @@
         "keywords": [
             "JSON",
             "JSON Schema"
+        ]
+    },
+    {
+        "name": "Juno",
+        "description": "Juno is an open-source serverless platform for hosting static websites, building web applications, and running serverless functions with the privacy and control of self-hosting.",
+        "categories": [
+            "Serverless",
+            "Productivity",
+            "Cloud Computing"
+        ],
+        "url": "https://juno.build/",
+        "keywords": [
+            "authentication",
+            "database",
+            "hosting",
+            "storage",
+            "analytics",
+            "serverless",
+            "development"
         ]
     },
     {
@@ -7367,6 +7449,25 @@
         "url": "https://lobste.rs/"
     },
     {
+        "name": "LocalStack",
+        "description": "LocalStack is a cloud service emulator that runs in a single container on your laptop or in your CI environment. With LocalStack, you can run your AWS applications or Lambdas entirely on your local machine without connecting to a remote cloud provider!",
+        "categories": [
+            "Cloud Computing",
+            "Open Source",
+            "Serverless"
+        ],
+        "url": "https://www.localstack.cloud/",
+        "keywords": [
+            "aws",
+            "localstack",
+            "cloud development",
+            "devops",
+            "local & open source",
+            "cloud emulator",
+            "serverless"
+        ]
+    },
+    {
         "name": "Logology",
         "description": "No random generation and no symbols from a free database. Everything was crafted from the ground-up!",
         "categories": [
@@ -7452,6 +7553,24 @@
             "Illustration"
         ],
         "url": "https://lukaszadam.com/illustrations"
+    },
+    {
+        "name": "Luqum",
+        "description": "Luqum is a Python library for parsing Lucene query expressions and converting them into structured Elasticsearch DSL queries. It helps developers safely interpret, transform, and analyze Lucene style search syntax without hand rolling parsers.",
+        "categories": [
+            "Library",
+            "Open Source"
+        ],
+        "url": "https://github.com/jurismarches/luqum",
+        "keywords": [
+            "python",
+            "lucene",
+            "elasticsearch",
+            "query parser",
+            "search",
+            "dsl",
+            "developer tools"
+        ]
     },
     {
         "name": "Luthor",
@@ -8607,6 +8726,22 @@
         "url": "https://orioniconlibrary.com/"
     },
     {
+        "name": "OSINT Researcher",
+        "description": "Explore GitHub orgs & repos",
+        "categories": [
+            "Open Source",
+            "Analytics",
+            "Security"
+        ],
+        "url": "https://osintresearcher.com/",
+        "keywords": [
+            "gitHub",
+            "osint",
+            "open source",
+            "repo search"
+        ]
+    },
+    {
         "name": "Outlier Kit",
         "description": "Discover Youtube niches, trends & Keywords",
         "categories": [
@@ -9329,6 +9464,15 @@
         "url": "https://py4e.com"
     },
     {
+        "name": "Python Playground",
+        "description": "Online Python environment with package manager and data visualization",
+        "categories": [
+            "Programming",
+            "Extension"
+        ],
+        "url": "https://chromewebstore.google.com/detail/python-playground/jfippgilnpggpddhmfjaaecadnfhcopa"
+    },
+    {
         "name": "Pythonium",
         "description": "Online Python tools: Linter, formatter, regex tester, converter, obfuscator, and mock API.",
         "categories": [
@@ -9621,6 +9765,22 @@
         "keywords": [
             "react tutorial",
             "interactive react course"
+        ]
+    },
+    {
+        "name": "ReactNative Jobs",
+        "description": "The #1 job board for React Native developers",
+        "categories": [
+            "Job",
+            "Remote",
+            "Resume"
+        ],
+        "url": "https://reactnative-jobs.com/",
+        "keywords": [
+            "react native",
+            "mobile development",
+            "remote jobs,",
+            "tech jobs"
         ]
     },
     {
@@ -13496,6 +13656,22 @@
             "Website Builder"
         ],
         "url": "https://wordpress.com/"
+    },
+    {
+        "name": "Work Type Focus",
+        "description": "Classify and visualize Jira work to stay focused and foster innovation",
+        "categories": [
+            "Productivity",
+            "Analytics",
+            "Tooling"
+        ],
+        "url": "https://worktypefocus.com/",
+        "keywords": [
+            "agile",
+            "sprint planning",
+            "work classification",
+            "team focus"
+        ]
     },
     {
         "name": "Working Nomads",

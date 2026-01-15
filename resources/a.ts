@@ -85,6 +85,13 @@ export const resources: Resource[] = [
         keywords: ['HTML CSS JS UI UX WordPress React Native User Interface Design Website JavaScript Graphics design'],
     },
     {
+        name: 'Agent Security',
+        description: 'Security for AI agents',
+        categories: ['Security', 'AI', 'Newsletter'],
+        url: 'https://agentsecurity.com',
+        keywords: ['data', 'ai security', 'agent security', 'llm security'],
+    },
+    {
         name: 'Ahrefs',
         description: 'You don',
         categories: ['SEO'],
@@ -146,6 +153,13 @@ export const resources: Resource[] = [
         categories: ['Job'],
         url: 'https://aijobster.work',
         keywords: ['Software Jobs', 'Legal Jobs', 'Remote AI Jobs', 'Legal Jobs'],
+    },
+    {
+        name: 'AI One Pager Generator',
+        description: 'AI-powered one-pager designs, fast and effortless.',
+        categories: ['Marketing', 'Design', 'AI'],
+        url: 'https://venngage.com/ai-tools/one-pager-generator',
+        keywords: ['one pager generator', 'ai one pager generator', 'create one pager', 'one pager template'],
     },
     {
         name: 'AI-Text-Humanizer',
