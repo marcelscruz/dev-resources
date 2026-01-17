@@ -66,6 +66,8 @@ Contributions not related to the resources are also welcome, but please open an 
 
 This project relies on [Prettier](https://prettier.io/) and [ESLint](https://eslint.org/) for code formatting and error/standards checking, so please ensure you have both installed globally or run `npm install` in order to install them in the project directory.
 
+> Tip: You can format your contribution with the command `npm run prettier:format` 
+
 ## Updating README and DB
 
 This repository uses a GitHub action to automatically update `README.md` and `db` (which serves our API), so no action is required from you.

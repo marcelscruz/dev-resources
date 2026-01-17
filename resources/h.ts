@@ -303,6 +303,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'writing', 'human', 'text'],
     },
     {
+        name: 'Hypermail',
+        description:
+            'Hypermail is a cold email marketing solution that handles all aspects of email marketing with whitelabel built-in, email list verification, unlimited contact lists, email warm-up with AI replies & more',
+        categories: ['Email', 'Marketing'],
+        url: 'http://hypermail.com/',
+        keywords: ['email marketing', 'cold email', 'list verification', 'white labeling'],
+    },
+    {
         name: 'Hypertune',
         description:
             'Type-safe feature flags, A/B testing, analytics and app configuration, with Git-style version control and local, synchronous, in-memory flag evaluation.',
