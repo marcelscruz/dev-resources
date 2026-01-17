@@ -288,6 +288,13 @@ export const resources: Resource[] = [
         categories: ['Prototyping', 'Screenshot'],
         url: 'https://app-mockup.com/',
     },
+    {
+        name: 'AppStore Tracker',
+        description: 'An open AppStore Explorer',
+        categories: ['Analytics', 'Marketing'],
+        url: 'https://appstoretracker.com/',
+        keywords: ['appstore explorer', 'mobile apps', 'app revenue data', 'app downloads'],
+    },
     {
         name: 'Appwrite',
         description:
