@@ -83,11 +83,12 @@ export const resources: Resource[] = [
         categories: ['Security', 'Testing', 'Tooling'],
         url: 'https://certdecoder.com/',
     },
-      {
+    {
         name: 'Certificates.dev',
-        description: "Recognized certification exams for Vue (official certification endorsed by Evan You), React, Angular, Nuxt, and JS. We’ve helped developers from 680+ companies worldwide validate their frontend skills.",
+        description:
+            'Recognized certification exams for Vue (official certification endorsed by Evan You), React, Angular, Nuxt, and JS. We’ve helped developers from 680+ companies worldwide validate their frontend skills.',
         keywords: ['frontend', 'Javascript', 'Vue', 'React', 'Angular', 'Certification', 'coding challenge'],
-        categories: ['Programming', 'Resume', 'Code Challenge'],  
+        categories: ['Programming', 'Resume', 'Code Challenge'],
         url: 'https://certificates.dev/',
     },
     {
