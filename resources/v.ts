@@ -182,4 +182,12 @@ export const resources: Resource[] = [
         categories: ['Job'],
         url: 'https://vuejobs.com/',
     },
+    {
+        name: 'Vue School',
+        description:
+            ' The #1 source for learning the Vue ecosystem. Basic to advanced Vue.js, Nuxt, Pinia, and more. Vue Masterclass and over 1500+ lessons from core team members & industry experts.',
+        categories: ['Learn'],
+        keywords: ['vue', 'vue.js', 'pinia', 'nuxt', 'javascript', 'typescript', 'learning'],
+        url: 'https://vueschool.io?utm_source=github&utm_medium=dev-resources&utm_campaign=ongoing',
+    }
 ]
