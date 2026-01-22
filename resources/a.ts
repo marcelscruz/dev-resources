@@ -126,6 +126,13 @@ export const resources: Resource[] = [
         keywords: ['ai', 'ai tools directory', 'developer tools', 'tools', 'ai tools', 'directory'],
     },
     {
+        name: 'AI Image to Text',
+        description: 'Image to Text converts images into editable text',
+        categories: ['AI', 'Productivity', 'Image'],
+        url: 'https://aiimagetotext.com/',
+        keywords: ['ai image to text', 'ocr converter', 'handwriting recognition', 'batch image processing'],
+    },
+    {
         name: 'AI Directories',
         description:
             'All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories',
