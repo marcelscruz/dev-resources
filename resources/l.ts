@@ -366,6 +366,20 @@ export const resources: Resource[] = [
         url: 'https://liteanalytics.com/',
     },
     {
+        name: 'LITSLINK',
+        categories: ['AI', 'Startup'],
+        description:
+            'LITSLINK is a software development company that builds custom web and mobile products, including SaaS, AI-driven solutions, and cloud platforms, helping businesses design, develop, and scale digital products from idea to launch.',
+        url: 'https://litslink.com',
+        keywords: [
+            'software development',
+            'custom web and mobile products',
+            'SaaS',
+            'AI-driven solutions',
+            'cloud platforms',
+        ],
+    },
+    {
         name: 'Lobsters',
         description: 'Lobsters is a computing-focused community centered around link aggregation and discussion.',
         categories: ['Forum'],
