@@ -1,5 +1,5 @@
 {
-"count": 1134,
+"count": 1133,
 "data": [
     {
         "name": "1001 Fonts",
@@ -83,9 +83,7 @@
         "categories": [
             "Design",
             "Inspiration",
-            "UI",
-            "UX",
-            "Template"
+            "UI"
         ],
         "url": "https://www.a1.gallery/",
         "keywords": [
@@ -759,10 +757,8 @@
         "description": "Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use.",
         "categories": [
             "Cloud Computing",
-            "Database",
             "Hosting",
-            "Serverless",
-            "Storage"
+            "Serverless"
         ],
         "url": "https://aws.amazon.com/"
     },
@@ -809,10 +805,8 @@
         "description": "Invent with purpose, realise cost savings and make your organisation more efficient with Microsoft Azure’s open and flexible cloud computing platform.",
         "categories": [
             "Cloud Computing",
-            "Database",
             "Hosting",
-            "Serverless",
-            "Storage"
+            "Serverless"
         ],
         "url": "https://azure.microsoft.com/",
         "keywords": [
@@ -3035,8 +3029,7 @@
         "categories": [
             "Blog",
             "Code Snippet",
-            "Newsletter",
-            "Programming"
+            "Newsletter"
         ],
         "url": "https://css-tricks.com"
     },
@@ -4154,8 +4147,7 @@
         "categories": [
             "Design",
             "Learn",
-            "UI",
-            "UX"
+            "UI"
         ],
         "url": "https://www.enhanceui.com/"
     },
@@ -4193,22 +4185,6 @@
             "Domain"
         ],
         "url": "https://www.escrow.com/"
-    },
-    {
-        "name": "Eventyco",
-        "description": "Discover the best tech conferences and events for developers, designers, and tech professionals. Updated weekly.",
-        "categories": [
-            "Conference"
-        ],
-        "url": "https://dev.events/",
-        "keywords": [
-            "tech events",
-            "developer events",
-            "designer events",
-            "tech conferences",
-            "developer conferences",
-            "designer conferences"
-        ]
     },
     {
         "name": "Everyone Hates Marketers",
@@ -4407,7 +4383,6 @@
         "categories": [
             "Authentication",
             "Database",
-            "Hosting",
             "Serverless"
         ],
         "url": "https://firebase.google.com/"
@@ -4818,7 +4793,6 @@
         "name": "Framer",
         "description": "Start your website with AI and design on a familiar canvas. Add animations, interactions and a CMS. Optimize for every breakpoint — no code needed and publish for free.",
         "categories": [
-            "Design",
             "Prototyping",
             "UI",
             "Website Builder"
