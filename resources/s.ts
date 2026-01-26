@@ -147,14 +147,6 @@ export const resources: Resource[] = [
         keywords: ['html5', 'ui', 'library', 'framework', 'javascript'],
     },
     {
-        name: 'Server-side Rendering (SSR) Checker',
-        description:
-            'Check if a given URL is server-side rendered or not by visually comparing the server-side rendered and the regular versions of the page.',
-        categories: ['SEO', 'Performance'],
-        url: 'https://www.crawlably.com/ssr-checker/',
-        keywords: ['SEO', 'frontend', 'javascript', 'performance'],
-    },
-    {
         name: 'SEO Blueprint',
         description: 'Cutting-edge SEO tactics that are actually ranking websites.',
         categories: ['SEO'],
@@ -190,19 +182,20 @@ export const resources: Resource[] = [
         url: 'https://www.seotisfy.com',
     },
     {
-        name: 'SerpApi - Search API',
-        description: "SerpApi's Search API makes it easy and fast to scrape Google and other search engines.",
-        categories: ['Scraping'],
-        url: 'https://serpapi.com/',
-        keywords: ['scraping', 'google', 'search', 'api'],
-    },
-    {
         name: 'Serplux',
         description:
             'Serplux is a data-driven SEO and marketing platform that leverages Ahrefs, DataForSEO, Semrush, and AI-powered content automation to deliver advanced keyword research, SEO audits, and content engineering solutions.',
         categories: ['SEO', 'Marketing'],
         url: 'https://serplux.com/',
         keywords: ['SEO', 'SEO AI Agent', 'Content Automation', 'SEO Audit', 'Keyword Finder'],
+    },
+    {
+        name: 'Server-side Rendering (SSR) Checker',
+        description:
+            'Check if a given URL is server-side rendered or not by visually comparing the server-side rendered and the regular versions of the page.',
+        categories: ['SEO', 'Performance'],
+        url: 'https://www.crawlably.com/ssr-checker/',
+        keywords: ['SEO', 'frontend', 'javascript', 'performance'],
     },
     {
         name: 'Serverless Stack',
@@ -217,18 +210,6 @@ export const resources: Resource[] = [
         categories: ['Performance', 'Tooling'],
         url: 'https://servervana.com',
         keywords: ['Performance', 'Uptime', 'Monitoring', 'Status Page', 'Web Vitals', 'SSL', 'HTTP(s)', 'DNS'],
-    },
-    {
-        name: 'Shadcnblocks',
-        categories: ['Template', 'UI', 'Design'],
-        description: 'Hundreds of extra blocks and components for shadcn/ui, Tailwind & React.',
-        url: 'https://shadcnblocks.com',
-    },
-    {
-        name: 'Shadcn Templates',
-        categories: ['Template', 'UI', 'Design'],
-        description: 'A collection of Shadcn UI templates, components, boilerplates, and more.',
-        url: 'https://shadcntemplates.com',
     },
     {
         name: 'Shape',
@@ -552,19 +533,19 @@ export const resources: Resource[] = [
         keywords: ['social', 'marketing resources', 'marketing strategies', 'tiktok growth hacks'],
     },
     {
+        name: 'Social Intents',
+        description: 'Live Chat by Social Intents is the easiest way to boost sales and improve customer service',
+        categories: ['AI', 'Productivity', 'Marketing'],
+        url: 'https://www.socialintents.com/',
+        keywords: ['live chat', 'ai', 'sales', 'customer service'],
+    },
+    {
         name: 'Social Proof Examples',
         description:
             'Real-world examples of social proof strategies used by various brands to build trust, drive conversions, and enhance credibility.',
         categories: ['Marketing', 'Startup'],
         url: 'https://socialproofexamples.com/',
         keywords: ['social proof', 'testimonials', 'reviews', 'trust', 'cro', 'converstion rate optimization'],
-    },
-    {
-        name: 'Social Intents',
-        description: 'Live Chat by Social Intents is the easiest way to boost sales and improve customer service',
-        categories: ['AI', 'Productivity', 'Marketing'],
-        url: 'https://www.socialintents.com/',
-        keywords: ['live chat', 'ai', 'sales', 'customer service'],
     },
     {
         name: 'SocialKit',

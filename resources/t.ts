@@ -2,13 +2,6 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
-        name: 'Table Format Converter',
-        categories: ['Productivity'],
-        description: 'Free online tool to convert your table data to CSV, HTML, JSON, Markdown and more.',
-        keywords: ['table', 'spreadsheet', 'converter', 'csv', 'html', 'json', 'markdown', 'excel'],
-        url: 'https://www.tableformatconverter.com',
-    },
-    {
         name: 'Tabler Icons',
         description: 'Over 3000 pixel-perfect, free and open source icons for web design.',
         categories: ['Icon'],
@@ -513,19 +506,19 @@ export const resources: Resource[] = [
         keywords: ['typing'],
     },
     {
-        name: 'Typersguild',
-        description: 'Master typing by typing out classic literature and wikipedia articles',
-        categories: ['Typing'],
-        url: 'https://typersguild.com',
-        keywords: ['typing', 'touch typing', 'type books', 'type wikipedia'],
-    },
-    {
         name: 'TypeQuicker',
         description:
             'Practice typing code in any language. Learn touch typing. Type paragraphs from books, trivia and mure more',
         categories: ['Typing', 'Learn'],
         url: 'https://typequicker.com',
         keywords: ['typing', 'touch typing', 'ai-powered', 'typing speed', 'programming languages'],
+    },
+    {
+        name: 'Typersguild',
+        description: 'Master typing by typing out classic literature and wikipedia articles',
+        categories: ['Typing'],
+        url: 'https://typersguild.com',
+        keywords: ['typing', 'touch typing', 'type books', 'type wikipedia'],
     },
     {
         name: 'TypingBeast',

@@ -16,13 +16,6 @@ export const resources: Resource[] = [
         keywords: ['auth', 'authentication', 'passwordless'],
     },
     {
-        name: 'MagicBox.tools',
-        description: 'Best AI Tools Explore 2024 | Magicbox.Tools AI Tools Directory',
-        categories: ['AI', 'Tooling'],
-        url: 'https://magicbox.tools',
-        keywords: ['ai tools', 'ai tools navigation', 'ai tools directory'],
-    },
-    {
         name: 'Magic Potion',
         description: 'Visual AI Prompt Editor',
         categories: ['Productivity', 'AI', 'Editor'],
@@ -34,6 +27,13 @@ export const resources: Resource[] = [
             'visual prompt builder',
             'llm prompt design',
         ],
+    },
+    {
+        name: 'MagicBox.tools',
+        description: 'Best AI Tools Explore 2024 | Magicbox.Tools AI Tools Directory',
+        categories: ['AI', 'Tooling'],
+        url: 'https://magicbox.tools',
+        keywords: ['ai tools', 'ai tools navigation', 'ai tools directory'],
     },
     {
         name: 'Mailchimp',

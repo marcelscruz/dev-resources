@@ -162,17 +162,17 @@ export const resources: Resource[] = [
         keywords: ['one pager generator', 'ai one pager generator', 'create one pager', 'one pager template'],
     },
     {
-        name: 'AI-Text-Humanizer',
-        description: 'Transform dull AI-generated text into easy-to-read copy and sound like a real person',
-        categories: ['AI', 'Productivity'],
-        url: 'https://ai-text-humanizer.com/',
-    },
-    {
         name: 'AI SEO Tools',
         description: 'Discover the Best AI SEO Tools in One Place',
         categories: ['Marketing', 'SEO', 'AI'],
         url: 'https://www.ai-seo.tools',
         keywords: ['automation', 'ai', 'marketing', 'aggregators'],
+    },
+    {
+        name: 'AI-Text-Humanizer',
+        description: 'Transform dull AI-generated text into easy-to-read copy and sound like a real person',
+        categories: ['AI', 'Productivity'],
+        url: 'https://ai-text-humanizer.com/',
     },
     {
         name: 'Aigazine',
@@ -203,14 +203,6 @@ export const resources: Resource[] = [
             'Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.',
         categories: ['Database'],
         url: 'https://airtable.com/',
-    },
-    {
-        name: 'aiwget',
-        description:
-            "Best AI Tools Directory for Indie Hackers, Creators, and More.Free Submit, Unique Editor's Review, Social Media Promote.",
-        categories: ['AI', 'Tooling'],
-        url: 'https://aiwget.com',
-        keywords: ['AI', 'tools', 'directory'],
     },
     {
         name: 'ally.js',
