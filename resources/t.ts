@@ -129,11 +129,12 @@ export const resources: Resource[] = [
     },
     {
         name: 'Test API',
-        description: 'Use Test API for RESTful API testing. This Postman alternative tests REST APIs online with support for all HTTP methods, custom headers, and real-time response visualization.',
-        categories: ['Developer Tools'],
+        description:
+            'Use Test API for RESTful API testing. This Postman alternative tests REST APIs online with support for all HTTP methods, custom headers, and real-time response visualization.',
+        categories: ['Browser', 'Extension'],
         url: 'https://chromewebstore.google.com/detail/test-api/bkndipmbnodeicgpmldococoiolcoicg',
         keywords: ['api', 'rest', 'http', 'postman', 'developer', 'testing', 'endpoint', 'request', 'json', 'curl'],
-    }
+    },
     {
         name: 'Test Automation University',
         description: 'Become a test automation superstar! 🌟.',
