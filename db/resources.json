@@ -1,5 +1,5 @@
 {
-"count": 1134,
+"count": 1135,
 "data": [
     {
         "name": "1001 Fonts",
@@ -12147,6 +12147,22 @@
             "Testing"
         ],
         "url": "https://www.testing-whiz.com/"
+    },
+    {
+        "name": "TestSprite",
+        "description": "The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow.",
+        "categories": [
+            "Testing",
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://www.testsprite.com/",
+        "keywords": [
+            "ai testing agent",
+            "testing automation",
+            "software qa",
+            "ui testing"
+        ]
     },
     {
         "name": "The A11Y Project",
