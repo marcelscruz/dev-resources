@@ -354,6 +354,13 @@ export const resources: Resource[] = [
         url: 'https://fontspark.com/',
     },
     {
+        name: 'Format JSON Online',
+        description: 'A Complete Toolkit for JSON & Data Processing.',
+        categories: ['Productivity', 'Tooling'],
+        url: 'https://formatjsononline.com/',
+        keywords: ['json'],
+    },
+    {
         name: 'Formcn.dev',
         description: 'Easily build single- and multi-step forms with auto-generated client- and server-side code.',
         categories: ['Code Snippet'],
@@ -644,13 +651,6 @@ export const resources: Resource[] = [
         keywords: [
             'javascript web development programming software development technology computer science engineering developer creativity productivity',
         ],
-    },
-    {
-        name: 'Format JSON Online',
-        description: 'A Complete Toolkit for JSON & Data Processing.',
-        categories: ['Productivity', 'Tooling'],
-        url: 'https://formatjsononline.com/',
-        keywords: ['json'],
     },
     {
         name: 'Fuselio',

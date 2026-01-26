@@ -220,19 +220,19 @@ export const resources: Resource[] = [
         url: 'https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en',
     },
     {
+        name: 'Widget.video',
+        description: 'Embed interactive video widgets to your landing page',
+        categories: ['Video', 'Marketing', 'Analytics'],
+        url: 'https://widget.video/',
+        keywords: ['saas', 'marketing', 'growth', 'sales'],
+    },
+    {
         name: 'Windframe',
         description:
             'Rapidly Build and Prototype responsive websites using a drag and drop Tailwind CSS website builder',
         categories: ['Website Builder'],
         url: 'https://www.devwares.com/windframe/',
         keywords: ['website builder', 'tailwind css builder', 'drag and drop builder'],
-    },
-    {
-        name: 'Widget.video',
-        description: 'Embed interactive video widgets to your landing page',
-        categories: ['Video', 'Marketing', 'Analytics'],
-        url: 'https://widget.video/',
-        keywords: ['saas', 'marketing', 'growth', 'sales'],
     },
     {
         name: 'Wix',
@@ -257,6 +257,13 @@ export const resources: Resource[] = [
         url: 'https://wordpress.com/',
     },
     {
+        name: 'Work Type Focus',
+        description: 'Classify and visualize Jira work to stay focused and foster innovation',
+        categories: ['Productivity', 'Analytics', 'Tooling'],
+        url: 'https://worktypefocus.com/',
+        keywords: ['agile', 'sprint planning', 'work classification', 'team focus'],
+    },
+    {
         name: 'Working Nomads',
         description:
             'Remote jobs for digital working nomads. Start your telecommuting career and work remotely from home or places around the world.',
@@ -271,13 +278,6 @@ export const resources: Resource[] = [
             'virtual',
             'working nomads',
         ],
-    },
-    {
-        name: 'Work Type Focus',
-        description: 'Classify and visualize Jira work to stay focused and foster innovation',
-        categories: ['Productivity', 'Analytics', 'Tooling'],
-        url: 'https://worktypefocus.com/',
-        keywords: ['agile', 'sprint planning', 'work classification', 'team focus'],
     },
     {
         name: 'WP Foundry',
