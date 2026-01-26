@@ -1,235 +1,230 @@
 name: Validate Resources & Request Copilot Review
 
 on:
-  pull_request_target:
-    paths:
-      - resources/**
-      - db/**
-      - README.md
-    types: [opened, synchronize]
+    pull_request_target:
+        paths:
+            - resources/**
+            - db/**
+            - README.md
+        types: [opened, synchronize]
 
 permissions:
-  contents: read
-  pull-requests: write
-  issues: write
+    contents: read
+    pull-requests: write
+    issues: write
 
 jobs:
-  # Job to check for changes to auto-generated files (db/ and README.md)
-  check-auto-generated:
-    runs-on: ubuntu-latest
-    outputs:
-      has_db_changes: ${{ steps.check.outputs.has_db_changes }}
-      has_readme_changes: ${{ steps.check.outputs.has_readme_changes }}
-    steps:
-      - name: Check for auto-generated file changes
-        id: check
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const pr = context.payload.pull_request;
-            
-            // Get list of changed files
-            const { data: files } = await github.rest.pulls.listFiles({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: pr.number
-            });
-            
-            // Check for db folder changes
-            const dbChanges = files.some(f => f.filename.startsWith('db/'));
-            core.setOutput('has_db_changes', dbChanges.toString());
-            
-            // Check for README changes
-            const readmeChanges = files.some(f => f.filename.toLowerCase() === 'readme.md');
-            core.setOutput('has_readme_changes', readmeChanges.toString());
+    # Job to check for changes to auto-generated files (db/ and README.md)
+    check-auto-generated:
+        runs-on: ubuntu-latest
+        outputs:
+            has_db_changes: ${{ steps.check.outputs.has_db_changes }}
+            has_readme_changes: ${{ steps.check.outputs.has_readme_changes }}
+        steps:
+            - name: Check for auto-generated file changes
+              id: check
+              uses: actions/github-script@v7
+              with:
+                  github-token: ${{ secrets.GITHUB_TOKEN }}
+                  script: |
+                      const pr = context.payload.pull_request;
 
-      - name: Post comment about db folder changes
-        if: steps.check.outputs.has_db_changes == 'true'
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const pr = context.payload.pull_request;
-            
-            const commentBody = 'Hi, and thank you for the contribution.\n\n' +
-              'The `/db` folder is auto-generated, and changes must be made in the `/resources` folder.\n' +
-              'Could you please amend this PR?\n' +
-              'Our [CONTRIBUTING](https://github.com/marcelscruz/dev-resources/blob/main/CONTRIBUTING.md) guide has instructions that might help you.\n\n' +
-              'Thanks!';
+                      // Get list of changed files
+                      const { data: files } = await github.rest.pulls.listFiles({
+                        owner: context.repo.owner,
+                        repo: context.repo.repo,
+                        pull_number: pr.number
+                      });
 
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: pr.number,
-              body: commentBody
-            });
+                      // Check for db folder changes
+                      const dbChanges = files.some(f => f.filename.startsWith('db/'));
+                      core.setOutput('has_db_changes', dbChanges.toString());
 
-      - name: Post comment about README changes
-        if: steps.check.outputs.has_readme_changes == 'true'
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const pr = context.payload.pull_request;
-            
-            const commentBody = 'Hi, and thank you for the contribution.\n\n' +
-              'The README file is auto-generated, and changes must be made in the `/resources` folder.\n' +
-              'Could you please amend this PR?\n' +
-              'Our [CONTRIBUTING](https://github.com/marcelscruz/dev-resources/blob/main/CONTRIBUTING.md) guide has instructions that might help you.\n\n' +
-              'Thanks!';
+                      // Check for README changes
+                      const readmeChanges = files.some(f => f.filename.toLowerCase() === 'readme.md');
+                      core.setOutput('has_readme_changes', readmeChanges.toString());
 
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: pr.number,
-              body: commentBody
-            });
+            - name: Post comment about db folder changes
+              if: steps.check.outputs.has_db_changes == 'true'
+              uses: actions/github-script@v7
+              with:
+                  github-token: ${{ secrets.GITHUB_TOKEN }}
+                  script: |
+                      const pr = context.payload.pull_request;
 
-  validate-and-request-copilot-review:
-    runs-on: ubuntu-latest
-    needs: check-auto-generated
-    # Only run if no auto-generated files were changed
-    if: needs.check-auto-generated.outputs.has_db_changes != 'true' && needs.check-auto-generated.outputs.has_readme_changes != 'true'
-    steps:
-      - name: Checkout PR head
-        uses: actions/checkout@v4
-        with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.ref }}
-          fetch-depth: 0
+                      const commentBody = 'Hi, and thank you for the contribution.\n\n' +
+                        'The `/db` folder is auto-generated, and changes must be made in the `/resources` folder.\n' +
+                        'Could you please amend this PR?\n' +
+                        'Our [CONTRIBUTING](https://github.com/marcelscruz/dev-resources/blob/main/CONTRIBUTING.md) guide has instructions that might help you.\n\n' +
+                        'Thanks!';
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
+                      await github.rest.issues.createComment({
+                        owner: context.repo.owner,
+                        repo: context.repo.repo,
+                        issue_number: pr.number,
+                        body: commentBody
+                      });
 
-      - name: Run resource validation
-        id: validate
-        run: |
-          node scripts/validate-resources.js json 2>&1 | tee validation-output.json
-          EXIT_CODE=${PIPESTATUS[0]}
-          echo "exit_code=$EXIT_CODE" >> $GITHUB_OUTPUT
-        continue-on-error: true
+            - name: Post comment about README changes
+              if: steps.check.outputs.has_readme_changes == 'true'
+              uses: actions/github-script@v7
+              with:
+                  github-token: ${{ secrets.GITHUB_TOKEN }}
+                  script: |
+                      const pr = context.payload.pull_request;
 
-      - name: Run TypeScript check
-        id: typescript
-        run: |
-          npx tsc --noEmit 2>&1 | tee typescript-output.txt || true
-          if grep -q "error TS" typescript-output.txt; then
-            echo "has_errors=true" >> $GITHUB_OUTPUT
-          else
-            echo "has_errors=false" >> $GITHUB_OUTPUT
-          fi
-        continue-on-error: true
+                      const commentBody = 'Hi, and thank you for the contribution.\n\n' +
+                        'The README file is auto-generated, and changes must be made in the `/resources` folder.\n' +
+                        'Could you please amend this PR?\n' +
+                        'Our [CONTRIBUTING](https://github.com/marcelscruz/dev-resources/blob/main/CONTRIBUTING.md) guide has instructions that might help you.\n\n' +
+                        'Thanks!';
 
-      - name: Post validation results and request Copilot review
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const fs = require('fs');
-            const exitCode = '${{ steps.validate.outputs.exit_code }}';
-            const tsHasErrors = '${{ steps.typescript.outputs.has_errors }}' === 'true';
-            
-            let validationData;
-            try {
-              const rawOutput = fs.readFileSync('validation-output.json', 'utf8');
-              validationData = JSON.parse(rawOutput);
-            } catch (e) {
-              validationData = null;
-            }
-            
-            let commentBody = '## 🤖 Automated PR Validation\n\n';
-            
-            // Validation passed
-            if (exitCode === '0' && !tsHasErrors) {
-              commentBody += '### ✅ All Checks Passed!\n\n';
-              commentBody += 'Your resource submission looks good. ';
-              commentBody += 'GitHub Copilot will review the code quality and style.\n\n';
-            } else {
-              // Validation failed - provide detailed guidance for Copilot
-              commentBody += '### ⚠️ Issues Found\n\n';
-              commentBody += 'The following issues need to be fixed. ';
-              commentBody += '**GitHub Copilot** will suggest fixes for these issues.\n\n';
-              
-              if (validationData && validationData.errors && validationData.errors.length > 0) {
-                commentBody += '#### Resource Validation Errors\n\n';
-                
-                // Group errors by type for better readability
-                const errorsByType = {};
-                for (const error of validationData.errors) {
-                  if (!errorsByType[error.type]) {
-                    errorsByType[error.type] = [];
-                  }
-                  errorsByType[error.type].push(error);
-                }
-                
-                for (const [type, errors] of Object.entries(errorsByType)) {
-                  const typeLabels = {
-                    'invalid_category': '🏷️ Invalid Categories',
-                    'alphabetical_order': '🔤 Alphabetical Order',
-                    'missing_description': '📝 Missing Description',
-                    'missing_url': '🔗 Missing URL',
-                    'invalid_url_protocol': '🔗 Invalid URL Protocol',
-                    'duplicate_url': '🔁 Duplicate URL',
-                    'too_many_categories': '📊 Too Many Categories',
-                    'wrong_file': '📁 Wrong File Location',
-                    'typescript_syntax': '⚠️ Syntax Error'
-                  };
-                  
-                  commentBody += `**${typeLabels[type] || type}**\n\n`;
-                  
-                  for (const error of errors) {
-                    commentBody += `- \`${error.location}\`: ${error.message}\n`;
-                    if (error.fix) {
-                      commentBody += `  - 💡 **Fix**: ${error.fix}\n`;
-                    }
-                  }
-                  commentBody += '\n';
-                }
-              }
-              
-              if (tsHasErrors) {
-                const tsOutput = fs.readFileSync('typescript-output.txt', 'utf8');
-                commentBody += '#### TypeScript Errors\n\n';
-                commentBody += '```\n' + tsOutput.substring(0, 2000) + '\n```\n\n';
-              }
-              
-              // Instructions for Copilot
-              commentBody += '---\n\n';
-              commentBody += '### 📋 Fix Instructions for Copilot\n\n';
-              commentBody += 'When reviewing this PR, please suggest fixes for:\n\n';
-              commentBody += '1. **Invalid categories**: Replace with the closest valid category from [types/category.ts](https://github.com/marcelscruz/dev-resources/blob/main/types/category.ts)\n';
-              commentBody += '2. **Alphabetical order**: Resources in each file must be sorted alphabetically by `name`\n';
-              commentBody += '3. **URL protocol**: All URLs must start with `https://`\n';
-              commentBody += '4. **Max 3 categories**: Each resource can have at most 3 categories\n';
-              commentBody += '5. **Correct file**: Resources starting with "A" go in `a.ts`, "B" in `b.ts`, etc.\n\n';
-            }
-            
-            // Add helpful links
-            commentBody += '---\n\n';
-            commentBody += '📚 **Resources:**\n';
-            commentBody += '- [Contribution Guidelines](https://github.com/marcelscruz/dev-resources/blob/main/CONTRIBUTING.md)\n';
-            commentBody += '- [Valid Categories](https://github.com/marcelscruz/dev-resources/blob/main/types/category.ts)\n\n';
-            commentBody += '*GitHub Copilot will automatically review this PR and suggest fixes.*';
-            
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.payload.pull_request.number,
-              body: commentBody
-            });
-            
-            // Request Copilot as a reviewer (this works if Copilot review is enabled in repo settings)
-            try {
-              await github.rest.pulls.requestReviewers({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: context.payload.pull_request.number,
-                reviewers: ['copilot']
-              });
-              console.log('Requested Copilot review');
-            } catch (error) {
-              console.log('Could not request Copilot review (may need to enable in repo settings):', error.message);
-            }
+                      await github.rest.issues.createComment({
+                        owner: context.repo.owner,
+                        repo: context.repo.repo,
+                        issue_number: pr.number,
+                        body: commentBody
+                      });
+
+    validate-and-request-copilot-review:
+        runs-on: ubuntu-latest
+        needs: check-auto-generated
+        # Only run if no auto-generated files were changed
+        if: needs.check-auto-generated.outputs.has_db_changes != 'true' && needs.check-auto-generated.outputs.has_readme_changes != 'true'
+        steps:
+            - name: Checkout PR head
+              uses: actions/checkout@v4
+              with:
+                  repository: ${{ github.event.pull_request.head.repo.full_name }}
+                  ref: ${{ github.event.pull_request.head.ref }}
+                  fetch-depth: 0
+
+            - name: Setup Node
+              uses: actions/setup-node@v4
+              with:
+                  node-version: 20
+
+            - name: Run resource validation
+              id: validate
+              run: |
+                  node scripts/validate-resources.js json 2>&1 | tee validation-output.json
+                  EXIT_CODE=${PIPESTATUS[0]}
+                  echo "exit_code=$EXIT_CODE" >> $GITHUB_OUTPUT
+              continue-on-error: true
+
+            - name: Run TypeScript check
+              id: typescript
+              run: |
+                  npx tsc --noEmit 2>&1 | tee typescript-output.txt || true
+                  if grep -q "error TS" typescript-output.txt; then
+                    echo "has_errors=true" >> $GITHUB_OUTPUT
+                  else
+                    echo "has_errors=false" >> $GITHUB_OUTPUT
+                  fi
+              continue-on-error: true
+
+            - name: Report validation results and request Copilot review
+              uses: actions/github-script@v7
+              with:
+                  github-token: ${{ secrets.GITHUB_TOKEN }}
+                  script: |
+                      const fs = require('fs');
+                      const exitCode = '${{ steps.validate.outputs.exit_code }}';
+                      const tsHasErrors = '${{ steps.typescript.outputs.has_errors }}' === 'true';
+
+                      let validationData;
+                      try {
+                        const rawOutput = fs.readFileSync('validation-output.json', 'utf8');
+                        validationData = JSON.parse(rawOutput);
+                      } catch (e) {
+                        validationData = null;
+                      }
+
+                      let commentBody = '## 🤖 Automated PR Validation\n\n';
+
+                      // Validation passed
+                      if (exitCode === '0' && !tsHasErrors) {
+                        commentBody += '### ✅ All Checks Passed!\n\n';
+                        commentBody += 'Your resource submission looks good. ';
+                        commentBody += 'GitHub Copilot will review the code quality and style.\n\n';
+                      } else {
+                        // Validation failed - report issues for Copilot to review
+                        commentBody += '### ⚠️ Issues Found\n\n';
+                        commentBody += 'The following issues were detected. ';
+                        commentBody += '**GitHub Copilot** will review this PR and report any additional issues.\n\n';
+                        
+                        if (validationData && validationData.errors && validationData.errors.length > 0) {
+                          commentBody += '#### Resource Validation Errors\n\n';
+                          
+                          // Group errors by type for better readability
+                          const errorsByType = {};
+                          for (const error of validationData.errors) {
+                            if (!errorsByType[error.type]) {
+                              errorsByType[error.type] = [];
+                            }
+                            errorsByType[error.type].push(error);
+                          }
+                          
+                          for (const [type, errors] of Object.entries(errorsByType)) {
+                            const typeLabels = {
+                              'invalid_category': '🏷️ Invalid Categories',
+                              'alphabetical_order': '🔤 Alphabetical Order',
+                              'missing_description': '📝 Missing Description',
+                              'missing_url': '🔗 Missing URL',
+                              'invalid_url_protocol': '🔗 Invalid URL Protocol',
+                              'duplicate_url': '🔁 Duplicate URL',
+                              'too_many_categories': '📊 Too Many Categories',
+                              'wrong_file': '📁 Wrong File Location',
+                              'typescript_syntax': '⚠️ Syntax Error'
+                            };
+                            
+                            commentBody += `**${typeLabels[type] || type}**\n\n`;
+                            
+                            for (const error of errors) {
+                              commentBody += `- \`${error.location}\`: ${error.message}\n`;
+                            }
+                            commentBody += '\n';
+                          }
+                        }
+                        
+                        if (tsHasErrors) {
+                          const tsOutput = fs.readFileSync('typescript-output.txt', 'utf8');
+                          commentBody += '#### TypeScript Errors\n\n';
+                          commentBody += '```\n' + tsOutput.substring(0, 2000) + '\n```\n\n';
+                        }
+                        
+                        // Instructions for Copilot
+                        commentBody += '---\n\n';
+                        commentBody += '### 📋 Request for GitHub Copilot\n\n';
+                        commentBody += 'Review this PR and report any issues you find, including:\n\n';
+                        commentBody += '- Code quality and style issues\n';
+                        commentBody += '- Additional validation errors not caught by automated checks\n';
+                        commentBody += '- Best practices and improvements\n\n';
+                      }
+
+                      // Add helpful links
+                      commentBody += '---\n\n';
+                      commentBody += '📚 **Resources:**\n';
+                      commentBody += '- [Contribution Guidelines](https://github.com/marcelscruz/dev-resources/blob/main/CONTRIBUTING.md)\n';
+                      commentBody += '- [Valid Categories](https://github.com/marcelscruz/dev-resources/blob/main/types/category.ts)\n\n';
+                      commentBody += '*GitHub Copilot will review this PR and report any issues found.*';
+
+                      await github.rest.issues.createComment({
+                        owner: context.repo.owner,
+                        repo: context.repo.repo,
+                        issue_number: context.payload.pull_request.number,
+                        body: commentBody
+                      });
+
+                      // Request Copilot as a reviewer (this works if Copilot review is enabled in repo settings)
+                      try {
+                        await github.rest.pulls.requestReviewers({
+                          owner: context.repo.owner,
+                          repo: context.repo.repo,
+                          pull_number: context.payload.pull_request.number,
+                          reviewers: ['copilot']
+                        });
+                        console.log('Requested Copilot review');
+                      } catch (error) {
+                        console.log('Could not request Copilot review (may need to enable in repo settings):', error.message);
+                      }
