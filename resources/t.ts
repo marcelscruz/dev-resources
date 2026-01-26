@@ -143,14 +143,6 @@ export const resources: Resource[] = [
         keywords: ['developer tools', 'debugging', 'engineering'],
     },
     {
-        name: 'TestSprite',
-        description:
-            'The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow.',
-        categories: ['Testing', 'AI', 'Tooling'],
-        url: 'https://www.testsprite.com/',
-        keywords: ['ai testing agent', 'testing automation', 'software qa', 'ui testing'],
-    },
-    {
         name: 'Testimonial Donut',
         description: 'Testimonial collection so bloody easy, your gran can use it!',
         categories: ['Marketing'],
@@ -196,6 +188,14 @@ export const resources: Resource[] = [
             'Experience effective test automation of web & mobile apps with an easy & intuitive codeless end-to-end software testing tool, TestingWhiz. Download 30-days free trial.',
         categories: ['Testing'],
         url: 'https://www.testing-whiz.com/',
+    },
+    {
+        name: 'TestSprite',
+        description:
+            'The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow.',
+        categories: ['Testing', 'AI', 'Tooling'],
+        url: 'https://www.testsprite.com/',
+        keywords: ['ai testing agent', 'testing automation', 'software qa', 'ui testing'],
     },
     {
         name: 'The A11Y Project',
@@ -264,7 +264,7 @@ export const resources: Resource[] = [
         name: 'The Net Ninja',
         description:
             'Black-belt your web skills. Learn JavaScript, CSS, Node.js, React, Vue.js, Firebase, HTML & more.',
-        categories: ['Programming', 'YouTube Channel', 'Learn', 'Programming'],
+        categories: ['Programming', 'YouTube Channel', 'Learn'],
         url: 'https://www.thenetninja.co.uk/',
         keywords: [
             'html css javascript tutorials web design web development development front-end development wordpress mvc responsive design beginner html beginner ...',
@@ -398,19 +398,19 @@ export const resources: Resource[] = [
     {
         name: 'Traversy Media',
         description:
+            'Traversy Media offers professional, project-based web development and programming courses that explain complex topics in an easy-to-understand manner. Learn HTML, CSS, JavaScript, PHP, Python and More.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://www.traversymedia.com/',
+    },
+    {
+        name: 'Traversy Media - YouTube Channel',
+        description:
             'Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more.',
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA',
         keywords: [
             'Programming Tutorials Web Development Tutorials Web Development Videos Web Design Tutorials Learn Web Design Learn Programming',
         ],
-    },
-    {
-        name: 'Traversy Media',
-        description:
-            'Traversy Media offers professional, project-based web development and programming courses that explain complex topics in an easy-to-understand manner. Learn HTML, CSS, JavaScript, PHP, Python and More.',
-        categories: ['Learn', 'Programming'],
-        url: 'https://www.traversymedia.com/',
     },
     {
         name: 'Treblle',

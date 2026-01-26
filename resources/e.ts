@@ -164,7 +164,7 @@ export const resources: Resource[] = [
     {
         name: 'Escrow',
         description:
-            'Secure online payment processing from the world’s largest online escrow service since 1999. Trusted by 1M+ users. Priced as low as 0.89%. For transactions export const resources: Resource[] = [00 to export const resources: Resource[] = [0M+.',
+            'Secure online payment processing from the world’s largest online escrow service since 1999. Trusted by 1M+ users. Priced as low as 0.89%.',
         categories: ['Domain'],
         url: 'https://www.escrow.com/',
     },

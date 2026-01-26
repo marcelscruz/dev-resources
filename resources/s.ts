@@ -730,13 +730,6 @@ export const resources: Resource[] = [
         url: 'https://startbootstrap.com/snippets/',
     },
     {
-        name: 'StartEase',
-        description: 'The Nuxt SaaS boilerplate focused on Growth & Conversion.',
-        categories: ['Startup', 'Template', 'Productivity', 'Marketing'],
-        url: 'https://startease.dev/',
-        keywords: ['Nuxt template', 'SaaS boilerplate', 'email marketing', 'content marketing'],
-    },
-    {
         name: 'StartKit.AI',
         description: 'Boilerplate for quickly building AI products',
         categories: ['AI', 'Productivity', 'Template'],

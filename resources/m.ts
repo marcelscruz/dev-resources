@@ -132,12 +132,6 @@ export const resources: Resource[] = [
         url: 'https://material.io/',
     },
     {
-        name: 'Material Design',
-        description: 'Get Material Icons.',
-        categories: ['Icon'],
-        url: 'https://material.io/resources/icons',
-    },
-    {
         name: 'Material Design Palette',
         description: 'Choose your favorite colors and get your Material Design palette generated and downloadable.',
         categories: ['Color'],
@@ -314,8 +308,8 @@ export const resources: Resource[] = [
         url: 'https://mochajs.org/',
     },
     {
-        name: 'Mocha',
-        description: 'AI app builder',
+        name: 'Mocha - AI app builder',
+        description: 'Create beautiful websites with words, not code.',
         categories: ['AI', 'Website Builder', 'Productivity'],
         url: 'https://getmocha.com',
         keywords: ['ai app builder', 'ai website builder', 'no code', 'website builder', 'vibe coding'],

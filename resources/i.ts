@@ -48,7 +48,7 @@ export const resources: Resource[] = [
         name: 'Icons8',
         description:
             'Download design elements for free: icons, photos, vector illustrations, and music for your videos.',
-        categories: ['Icon', 'Illustration', 'Image', 'Audio'],
+        categories: ['Icon', 'Illustration', 'Image'],
         url: 'https://icons8.com',
     },
     {
@@ -85,13 +85,6 @@ export const resources: Resource[] = [
             'web icon packs',
             'web icone',
         ],
-    },
-    {
-        name: 'Iconshock',
-        description:
-            'The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.',
-        categories: ['Icon'],
-        url: 'https://www.iconshock.com/',
     },
     {
         name: 'IconSweets',
