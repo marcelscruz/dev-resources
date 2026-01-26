@@ -1,4 +1,4 @@
-name: Copilot PR Review & Auto-Fix
+name: Validate Resources & Request Copilot Review
 
 on:
   pull_request_target:
@@ -9,7 +9,7 @@ on:
     types: [opened, synchronize]
 
 permissions:
-  contents: write
+  contents: read
   pull-requests: write
   issues: write
 
@@ -17,6 +17,9 @@ jobs:
   # Job to check for changes to auto-generated files (db/ and README.md)
   check-auto-generated:
     runs-on: ubuntu-latest
+    outputs:
+      has_db_changes: ${{ steps.check.outputs.has_db_changes }}
+      has_readme_changes: ${{ steps.check.outputs.has_readme_changes }}
     steps:
       - name: Check for auto-generated file changes
         id: check
@@ -40,13 +43,6 @@ jobs:
             // Check for README changes
             const readmeChanges = files.some(f => f.filename.toLowerCase() === 'readme.md');
             core.setOutput('has_readme_changes', readmeChanges.toString());
-            
-            if (dbChanges) {
-              console.log('db/ folder was modified');
-            }
-            if (readmeChanges) {
-              console.log('README.md was modified');
-            }
 
       - name: Post comment about db folder changes
         if: steps.check.outputs.has_db_changes == 'true'
@@ -90,17 +86,12 @@ jobs:
               body: commentBody
             });
 
-  validate-and-review:
+  validate-and-request-copilot-review:
     runs-on: ubuntu-latest
     needs: check-auto-generated
-    outputs:
-      has_errors: ${{ steps.validation-result.outputs.has_errors }}
+    # Only run if no auto-generated files were changed
+    if: needs.check-auto-generated.outputs.has_db_changes != 'true' && needs.check-auto-generated.outputs.has_readme_changes != 'true'
     steps:
-      - name: Checkout base branch
-        uses: actions/checkout@v4
-        with:
-          ref: ${{ github.event.pull_request.base.ref }}
-
       - name: Checkout PR head
         uses: actions/checkout@v4
         with:
@@ -113,69 +104,115 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install dependencies
-        run: npm install @actions/github
-
       - name: Run resource validation
         id: validate
         run: |
-          node scripts/validate-resources.js github 2>&1 | tee validation-output.txt
+          node scripts/validate-resources.js json 2>&1 | tee validation-output.json
           EXIT_CODE=${PIPESTATUS[0]}
           echo "exit_code=$EXIT_CODE" >> $GITHUB_OUTPUT
-          # Store multiline output
-          {
-            echo 'output<<EOF'
-            cat validation-output.txt
-            echo 'EOF'
-          } >> $GITHUB_OUTPUT
         continue-on-error: true
-
-      - name: Set validation result output
-        id: validation-result
-        run: |
-          echo "has_errors=${{ steps.validate.outputs.exit_code != '0' }}" >> $GITHUB_OUTPUT
 
       - name: Run TypeScript check
         id: typescript
         run: |
           npx tsc --noEmit 2>&1 | tee typescript-output.txt || true
-          {
-            echo 'output<<EOF'
-            cat typescript-output.txt
-            echo 'EOF'
-          } >> $GITHUB_OUTPUT
+          if grep -q "error TS" typescript-output.txt; then
+            echo "has_errors=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_errors=false" >> $GITHUB_OUTPUT
+          fi
         continue-on-error: true
 
-      - name: Post validation results
+      - name: Post validation results and request Copilot review
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const validationOutput = `${{ steps.validate.outputs.output }}`;
-            const typescriptOutput = `${{ steps.typescript.outputs.output }}`;
+            const fs = require('fs');
             const exitCode = '${{ steps.validate.outputs.exit_code }}';
+            const tsHasErrors = '${{ steps.typescript.outputs.has_errors }}' === 'true';
             
-            let commentBody = '## 🤖 Automated PR Review\n\n';
-            
-            // Add validation results
-            if (exitCode !== '0') {
-              commentBody += '### ❌ Resource Validation Issues Found\n\n';
-              commentBody += '```\n' + validationOutput + '\n```\n\n';
-            } else {
-              commentBody += '### ✅ Resource Validation Passed\n\n';
+            let validationData;
+            try {
+              const rawOutput = fs.readFileSync('validation-output.json', 'utf8');
+              validationData = JSON.parse(rawOutput);
+            } catch (e) {
+              validationData = null;
             }
             
-            // Add TypeScript results if there are errors
-            if (typescriptOutput && typescriptOutput.includes('error')) {
-              commentBody += '### ❌ TypeScript Errors\n\n';
-              commentBody += '```\n' + typescriptOutput + '\n```\n\n';
+            let commentBody = '## 🤖 Automated PR Validation\n\n';
+            
+            // Validation passed
+            if (exitCode === '0' && !tsHasErrors) {
+              commentBody += '### ✅ All Checks Passed!\n\n';
+              commentBody += 'Your resource submission looks good. ';
+              commentBody += 'GitHub Copilot will review the code quality and style.\n\n';
+            } else {
+              // Validation failed - provide detailed guidance for Copilot
+              commentBody += '### ⚠️ Issues Found\n\n';
+              commentBody += 'The following issues need to be fixed. ';
+              commentBody += '**GitHub Copilot** will suggest fixes for these issues.\n\n';
+              
+              if (validationData && validationData.errors && validationData.errors.length > 0) {
+                commentBody += '#### Resource Validation Errors\n\n';
+                
+                // Group errors by type for better readability
+                const errorsByType = {};
+                for (const error of validationData.errors) {
+                  if (!errorsByType[error.type]) {
+                    errorsByType[error.type] = [];
+                  }
+                  errorsByType[error.type].push(error);
+                }
+                
+                for (const [type, errors] of Object.entries(errorsByType)) {
+                  const typeLabels = {
+                    'invalid_category': '🏷️ Invalid Categories',
+                    'alphabetical_order': '🔤 Alphabetical Order',
+                    'missing_description': '📝 Missing Description',
+                    'missing_url': '🔗 Missing URL',
+                    'invalid_url_protocol': '🔗 Invalid URL Protocol',
+                    'duplicate_url': '🔁 Duplicate URL',
+                    'too_many_categories': '📊 Too Many Categories',
+                    'wrong_file': '📁 Wrong File Location',
+                    'typescript_syntax': '⚠️ Syntax Error'
+                  };
+                  
+                  commentBody += `**${typeLabels[type] || type}**\n\n`;
+                  
+                  for (const error of errors) {
+                    commentBody += `- \`${error.location}\`: ${error.message}\n`;
+                    if (error.fix) {
+                      commentBody += `  - 💡 **Fix**: ${error.fix}\n`;
+                    }
+                  }
+                  commentBody += '\n';
+                }
+              }
+              
+              if (tsHasErrors) {
+                const tsOutput = fs.readFileSync('typescript-output.txt', 'utf8');
+                commentBody += '#### TypeScript Errors\n\n';
+                commentBody += '```\n' + tsOutput.substring(0, 2000) + '\n```\n\n';
+              }
+              
+              // Instructions for Copilot
+              commentBody += '---\n\n';
+              commentBody += '### 📋 Fix Instructions for Copilot\n\n';
+              commentBody += 'When reviewing this PR, please suggest fixes for:\n\n';
+              commentBody += '1. **Invalid categories**: Replace with the closest valid category from [types/category.ts](https://github.com/marcelscruz/dev-resources/blob/main/types/category.ts)\n';
+              commentBody += '2. **Alphabetical order**: Resources in each file must be sorted alphabetically by `name`\n';
+              commentBody += '3. **URL protocol**: All URLs must start with `https://`\n';
+              commentBody += '4. **Max 3 categories**: Each resource can have at most 3 categories\n';
+              commentBody += '5. **Correct file**: Resources starting with "A" go in `a.ts`, "B" in `b.ts`, etc.\n\n';
             }
             
             // Add helpful links
             commentBody += '---\n\n';
             commentBody += '📚 **Resources:**\n';
             commentBody += '- [Contribution Guidelines](https://github.com/marcelscruz/dev-resources/blob/main/CONTRIBUTING.md)\n';
-            commentBody += '- [Valid Categories](https://github.com/marcelscruz/dev-resources/blob/main/types/category.ts)\n';
+            commentBody += '- [Valid Categories](https://github.com/marcelscruz/dev-resources/blob/main/types/category.ts)\n\n';
+            commentBody += '*GitHub Copilot will automatically review this PR and suggest fixes.*';
             
             await github.rest.issues.createComment({
               owner: context.repo.owner,
@@ -183,179 +220,16 @@ jobs:
               issue_number: context.payload.pull_request.number,
               body: commentBody
             });
-
-  copilot-review:
-    runs-on: ubuntu-latest
-    needs: [check-auto-generated, validate-and-review]
-    steps:
-      - name: Checkout PR
-        uses: actions/checkout@v4
-        with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.ref }}
-
-      - name: Request Copilot Code Review
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            // Request a review from GitHub Copilot (if enabled in repo settings)
-            // This will trigger Copilot's code review feature
+            
+            // Request Copilot as a reviewer (this works if Copilot review is enabled in repo settings)
             try {
-              // Add a label to indicate Copilot review requested
-              await github.rest.issues.addLabels({
+              await github.rest.pulls.requestReviewers({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                issue_number: context.payload.pull_request.number,
-                labels: ['copilot-review']
+                pull_number: context.payload.pull_request.number,
+                reviewers: ['copilot']
               });
+              console.log('Requested Copilot review');
             } catch (error) {
-              console.log('Could not add label:', error.message);
-            }
-            
-            // Log that Copilot review was triggered
-            console.log('Copilot review triggered for PR #' + context.payload.pull_request.number);
-
-  auto-fix:
-    runs-on: ubuntu-latest
-    needs: validate-and-review
-    if: needs.validate-and-review.outputs.has_errors == 'true' && github.event.pull_request.head.repo.full_name == github.event.pull_request.base.repo.full_name
-    steps:
-      - name: Checkout PR
-        uses: actions/checkout@v4
-        with:
-          ref: ${{ github.event.pull_request.head.ref }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Configure Git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Apply automatic fixes
-        id: auto-fix
-        run: |
-          node scripts/auto-fix-resources.js 2>&1 | tee auto-fix-output.txt
-          EXIT_CODE=${PIPESTATUS[0]}
-          echo "exit_code=$EXIT_CODE" >> $GITHUB_OUTPUT
-          {
-            echo 'output<<EOF'
-            cat auto-fix-output.txt
-            echo 'EOF'
-          } >> $GITHUB_OUTPUT
-        continue-on-error: true
-
-      - name: Commit and push fixes
-        if: steps.auto-fix.outputs.exit_code == '0' && steps.auto-fix.outputs.output != ''
-        run: |
-          # Check if there are changes to commit
-          if git diff --quiet && git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git add resources/
-            git commit -m "🤖 Auto-fix: Apply automatic fixes for validation errors" -m "Applied fixes based on validation errors:" -m "- Fixed invalid category names with suggested replacements" -m "- Fixed URL protocol issues (added https:// where missing)" -m "- Fixed alphabetical ordering of resources" -m "- Fixed missing commas between resource objects" -m "" -m "These fixes were automatically applied by the Copilot PR Review workflow."
-            git push
-            echo "✅ Automatic fixes have been applied and pushed to the PR"
-          fi
-
-      - name: Post auto-fix results
-        if: steps.auto-fix.outputs.output != ''
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const fixOutput = `${{ steps.auto-fix.outputs.output }}`;
-            let fixData;
-            try {
-              fixData = JSON.parse(fixOutput);
-            } catch (e) {
-              fixData = null;
-            }
-            
-            let commentBody = '## 🤖 Automatic Fixes Applied\n\n';
-            
-            if (fixData && fixData.totalFixes > 0) {
-              commentBody += `✅ **${fixData.totalFixes} fix(es) applied automatically:**\n\n`;
-              
-              // Group fixes by file
-              const byFile = {};
-              for (const fix of fixData.fixesApplied) {
-                if (!byFile[fix.file]) byFile[fix.file] = [];
-                byFile[fix.file].push(fix);
-              }
-              
-              for (const [file, fixes] of Object.entries(byFile)) {
-                commentBody += `### ${file}\n`;
-                for (const fix of fixes) {
-                  commentBody += `- Line ${fix.line}: ${fix.change}\n`;
-                }
-                commentBody += '\n';
-              }
-              
-              commentBody += '---\n\n';
-              commentBody += '✨ These fixes have been automatically applied and committed to your PR branch.\n';
-              commentBody += 'Please review the changes and ensure they look correct.';
-            } else {
-              commentBody += 'No automatic fixes were available for the issues found.\n';
-              commentBody += 'Please review the validation errors and apply fixes manually.';
-            }
-            
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.payload.pull_request.number,
-              body: commentBody
-            });
-
-  auto-fix-suggestions:
-    runs-on: ubuntu-latest
-    needs: [check-auto-generated, validate-and-review]
-    if: failure() && github.event.pull_request.head.repo.full_name != github.event.pull_request.base.repo.full_name
-    steps:
-      - name: Checkout PR
-        uses: actions/checkout@v4
-        with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.ref }}
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Generate fix suggestions
-        id: fixes
-        run: |
-          node scripts/generate-fix-suggestions.js 2>&1 | tee fixes-output.txt || true
-          {
-            echo 'output<<EOF'
-            cat fixes-output.txt
-            echo 'EOF'
-          } >> $GITHUB_OUTPUT
-
-      - name: Post fix suggestions
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const fixesOutput = `${{ steps.fixes.outputs.output }}`;
-            
-            if (fixesOutput && fixesOutput.trim()) {
-              const commentBody = '## 💡 Suggested Fixes\n\n' +
-                'Based on the validation errors, here are suggested fixes:\n\n' +
-                '```diff\n' + fixesOutput + '\n```\n\n' +
-                '---\n\n' +
-                '🤖 *These suggestions were generated automatically. Please review them before applying.*';
-              
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.payload.pull_request.number,
-                body: commentBody
-              });
+              console.log('Could not request Copilot review (may need to enable in repo settings):', error.message);
             }
