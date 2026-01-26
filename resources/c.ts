@@ -1100,7 +1100,7 @@ export const resources: Resource[] = [
     {
         name: 'CSS-Tricks',
         description: 'CSS-Tricks is a website about websites.',
-        categories: ['Blog', 'Code Snippet', 'Newsletter', 'Programming'],
+        categories: ['Blog', 'Code Snippet', 'Newsletter'],
         url: 'https://css-tricks.com',
     },
     {

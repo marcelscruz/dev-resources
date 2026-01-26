@@ -309,19 +309,19 @@ export const resources: Resource[] = [
         url: 'http://www.devsamples.com/',
     },
     {
-        name: 'DevTips',
-        description: 'DevTips is slowly opening back up! We',
-        categories: ['Programming', 'YouTube Channel'],
-        url: 'https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ',
-        keywords: ['HTML CSS Javascript Web Development Coding Design'],
-    },
-    {
         name: 'DevHub',
         description:
             'DevHub is a platform to discover and upvote the best tech products. Find top products launching daily.',
         categories: ['Marketing', 'Startup'],
         url: 'https://devhub.best/',
         keywords: ['directory', 'community', 'seo', 'growth'],
+    },
+    {
+        name: 'DevTips',
+        description: 'DevTips is slowly opening back up! We',
+        categories: ['Programming', 'YouTube Channel'],
+        url: 'https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ',
+        keywords: ['HTML CSS Javascript Web Development Coding Design'],
     },
     {
         name: 'Dhiwise',
