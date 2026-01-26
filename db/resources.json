@@ -1,5 +1,5 @@
 {
-"count": 1120,
+"count": 1115,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4116,7 +4116,7 @@
     },
     {
         "name": "Escrow",
-        "description": "Secure online payment processing from the world’s largest online escrow service since 1999. Trusted by 1M+ users. Priced as low as 0.89%. For transactions export const resources: Resource[] = [00 to export const resources: Resource[] = [0M+.",
+        "description": "Secure online payment processing from the world’s largest online escrow service since 1999. Trusted by 1M+ users. Priced as low as 0.89%.",
         "categories": [
             "Domain"
         ],
@@ -6108,8 +6108,7 @@
         "categories": [
             "Icon",
             "Illustration",
-            "Image",
-            "Audio"
+            "Image"
         ],
         "url": "https://icons8.com"
     },
@@ -6120,14 +6119,6 @@
             "Icon"
         ],
         "url": "https://iconscout.com/unicons"
-    },
-    {
-        "name": "Iconshock",
-        "description": "The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.",
-        "categories": [
-            "Icon"
-        ],
-        "url": "https://www.iconshock.com/"
     },
     {
         "name": "Iconshock",
@@ -7684,14 +7675,6 @@
     },
     {
         "name": "Material Design",
-        "description": "Get Material Icons.",
-        "categories": [
-            "Icon"
-        ],
-        "url": "https://material.io/resources/icons"
-    },
-    {
-        "name": "Material Design",
         "description": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
         "categories": [
             "Library",
@@ -7947,7 +7930,15 @@
     },
     {
         "name": "Mocha",
-        "description": "AI app builder",
+        "description": "Simple, flexible, fun JavaScript test framework for Node.js and the browser.",
+        "categories": [
+            "Testing"
+        ],
+        "url": "https://mochajs.org/"
+    },
+    {
+        "name": "Mocha - AI app builder",
+        "description": "Create beautiful websites with words, not code.",
         "categories": [
             "AI",
             "Website Builder",
@@ -7961,14 +7952,6 @@
             "website builder",
             "vibe coding"
         ]
-    },
-    {
-        "name": "Mocha",
-        "description": "Simple, flexible, fun JavaScript test framework for Node.js and the browser.",
-        "categories": [
-            "Testing"
-        ],
-        "url": "https://mochajs.org/"
     },
     {
         "name": "Mockae",
@@ -9441,8 +9424,7 @@
         "categories": [
             "Icon",
             "UI",
-            "Design",
-            "Color"
+            "Design"
         ],
         "url": "https://www.radix-ui.com/",
         "keywords": [
@@ -9534,7 +9516,6 @@
         "name": "React Bits",
         "description": "A large collection of animated React components made to spice up your web creations. Animations, components, backgrounds, and awesome stuff with customization options as props.",
         "categories": [
-            "Library",
             "Programming",
             "UI",
             "Animation"
@@ -9843,7 +9824,7 @@
     },
     {
         "name": "RemoteSalary",
-        "description": "20,000+ jobs all over export const resources: Resource[] = [50,000 salary. Find your ideal high paying remote role. Searches 2,000,000+ job postings across 12,000+ companies daily to find the highest paying remote roles.",
+        "description": "20,000+ jobs all over $50,000 salary. Find your ideal high paying remote role. Searches 2,000,000+ job postings across 12,000+ companies daily to find the highest paying remote roles.",
         "categories": [
             "Job",
             "Remote",
@@ -11285,23 +11266,6 @@
         "url": "https://startbootstrap.com/snippets/"
     },
     {
-        "name": "StartEase",
-        "description": "The Nuxt SaaS boilerplate focused on Growth & Conversion.",
-        "categories": [
-            "Startup",
-            "Template",
-            "Productivity",
-            "Marketing"
-        ],
-        "url": "https://startease.dev/",
-        "keywords": [
-            "Nuxt template",
-            "SaaS boilerplate",
-            "email marketing",
-            "content marketing"
-        ]
-    },
-    {
         "name": "StartKit.AI",
         "description": "Boilerplate for quickly building AI products",
         "categories": [
@@ -12057,8 +12021,7 @@
         "categories": [
             "Programming",
             "YouTube Channel",
-            "Learn",
-            "Programming"
+            "Learn"
         ],
         "url": "https://www.thenetninja.co.uk/",
         "keywords": [
@@ -12252,7 +12215,7 @@
         "url": "https://www.traversymedia.com/"
     },
     {
-        "name": "Traversy Media",
+        "name": "Traversy Media - YouTube Channel",
         "description": "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more.",
         "categories": [
             "Programming",
@@ -12553,8 +12516,7 @@
         "categories": [
             "Newsletter",
             "Programming",
-            "Learn",
-            "Programming"
+            "Learn"
         ],
         "url": "https://ui.dev/"
     },
@@ -12593,18 +12555,6 @@
         "url": "https://uigradients.com/"
     },
     {
-        "name": "UIHut",
-        "description": "Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices.",
-        "categories": [
-            "Design",
-            "Inspiration",
-            "UI",
-            "Icon",
-            "Illustration"
-        ],
-        "url": "https://www.uihut.com/"
-    },
-    {
         "name": "UIkit",
         "description": "UIkit, a lightweight and modular front-end framework for developing fast and powerful web interfaces.",
         "categories": [
@@ -12620,8 +12570,7 @@
         "categories": [
             "Design",
             "Inspiration",
-            "UI",
-            "Illustration"
+            "UI"
         ],
         "url": "https://uiverse.io/"
     },
@@ -12707,15 +12656,6 @@
             "Productivity"
         ],
         "url": "https://untools.co/"
-    },
-    {
-        "name": "Up For Grabs",
-        "description": "This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.",
-        "categories": [
-            "Hacktoberfest",
-            "Open Source"
-        ],
-        "url": "https://up-for-grabs.net/#/"
     },
     {
         "name": "Up For Grabs",
@@ -13049,8 +12989,6 @@
         "name": "Visily",
         "description": "Visily leverages AI to generate stunning app wireframes and prototypes from various inputs such as text prompts, hand-drawn sketches, and screenshots of existing applications or websites.",
         "categories": [
-            "UI",
-            "UX",
             "Design",
             "Prototyping",
             "AI"
