@@ -830,7 +830,7 @@ export const resources: Resource[] = [
         name: 'Confetti Trigger',
         description:
             'A cross-platform background service that generates celebratory confetti animations triggered via HTTP API, enabling developers to add visual celebrations to automated workflows.',
-        categories: ['API Building', 'Tooling', 'Productivity'],
+        categories: ['Tooling'],
         url: 'https://confetti-trigger.dev/',
         keywords: ['confetti', 'celebration', 'automation', 'api', 'ci/cd', 'background service'],
     },
