@@ -81,7 +81,7 @@ export const resources: Resource[] = [
         name: 'Firebase',
         description:
             'Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.',
-        categories: ['Authentication', 'Database', 'Hosting', 'Serverless'],
+        categories: ['Authentication', 'Database', 'Serverless'],
         url: 'https://firebase.google.com/',
     },
     {
@@ -378,7 +378,7 @@ export const resources: Resource[] = [
         name: 'Framer',
         description:
             'Start your website with AI and design on a familiar canvas. Add animations, interactions and a CMS. Optimize for every breakpoint — no code needed and publish for free.',
-        categories: ['Design', 'Prototyping', 'UI', 'Website Builder'],
+        categories: ['Prototyping', 'UI', 'Website Builder'],
         url: 'https://www.framer.com',
     },
     {
@@ -646,6 +646,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Format JSON Online',
+        description: 'A Complete Toolkit for JSON & Data Processing.',
+        categories: ['Productivity', 'Tooling'],
+        url: 'https://formatjsononline.com/',
+        keywords: ['json'],
+    },
+    {
         name: 'Fuselio',
         description:
             'Fuselio is a rapid MVP development platform for startups and SMEs, enabling the development of custom mobile and web applications in just 6 weeks. ',
@@ -660,12 +667,5 @@ export const resources: Resource[] = [
             'developer',
             'Mobile Development',
         ],
-    },
-    {
-        name: 'Format JSON Online',
-        description: 'A Complete Toolkit for JSON & Data Processing.',
-        categories: ['Productivity', 'Tooling'],
-        url: 'https://formatjsononline.com/',
-        keywords: ['json'],
     },
 ]

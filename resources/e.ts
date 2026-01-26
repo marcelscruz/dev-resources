@@ -140,7 +140,7 @@ export const resources: Resource[] = [
     {
         name: 'Enhance UI',
         description: 'Learn Design for Developers wanting to know UI, UX and more.',
-        categories: ['Design', 'Learn', 'UI', 'UX'],
+        categories: ['Design', 'Learn', 'UI'],
         url: 'https://www.enhanceui.com/',
     },
     {
@@ -167,21 +167,6 @@ export const resources: Resource[] = [
             'Secure online payment processing from the world’s largest online escrow service since 1999. Trusted by 1M+ users. Priced as low as 0.89%. For transactions export const resources: Resource[] = [00 to export const resources: Resource[] = [0M+.',
         categories: ['Domain'],
         url: 'https://www.escrow.com/',
-    },
-    {
-        name: 'Eventyco',
-        description:
-            'Discover the best tech conferences and events for developers, designers, and tech professionals. Updated weekly.',
-        categories: ['Conference'],
-        url: 'https://dev.events/',
-        keywords: [
-            'tech events',
-            'developer events',
-            'designer events',
-            'tech conferences',
-            'developer conferences',
-            'designer conferences',
-        ],
     },
     {
         name: 'Everyone Hates Marketers',
