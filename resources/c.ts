@@ -835,6 +835,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Confetti Trigger',
+        description:
+            'A cross-platform background service that generates celebratory confetti animations triggered via HTTP API, enabling developers to add visual celebrations to automated workflows.',
+        categories: ['Tooling'],
+        url: 'https://confetti-trigger.dev/',
+        keywords: ['confetti', 'celebration', 'automation', 'api', 'ci/cd', 'background service'],
+    },
+    {
         name: 'Console Ninja',
         description:
             'Console Ninja is a VS Code extension that allows you to see console.log output and runtime errors right next to your code.',
