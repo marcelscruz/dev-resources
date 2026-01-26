@@ -168,18 +168,18 @@ export const resources: Resource[] = [
         url: 'https://ai-text-humanizer.com/',
     },
     {
-        name: 'Aigazine',
-        description: 'The Go-To Source for AI Benchmarks, News, Research & Industry Insights',
-        categories: ['AI', 'Newsletter', 'Startup'],
-        url: 'https://aigazine.com',
-        keywords: ['ai benchmarks', 'ai news', 'ai analytics', 'research'],
-    },
-    {
         name: 'AI SEO Tools',
         description: 'Discover the Best AI SEO Tools in One Place',
         categories: ['Marketing', 'SEO', 'AI'],
         url: 'https://www.ai-seo.tools',
         keywords: ['automation', 'ai', 'marketing', 'aggregators'],
+    },
+    {
+        name: 'Aigazine',
+        description: 'The Go-To Source for AI Benchmarks, News, Research & Industry Insights',
+        categories: ['AI', 'Newsletter', 'Startup'],
+        url: 'https://aigazine.com',
+        keywords: ['ai benchmarks', 'ai news', 'ai analytics', 'research'],
     },
     {
         name: 'aijobs.net',
