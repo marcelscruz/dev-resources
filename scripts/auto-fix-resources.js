@@ -192,7 +192,7 @@ class AutoFixer {
             if (braceDepth === 0 && currentResource.length > 0 && arrayBracketDepth > 0) {
                 const resourceText = currentResource.join('\n')
                 const name = this.extractResourceName(resourceText)
-                
+
                 // Check if this resource matches the validator's regex pattern
                 // Only include resources that the validator would recognize
                 // Use a new regex instance each time to avoid global state issues

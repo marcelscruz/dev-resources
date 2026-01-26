@@ -5611,7 +5611,7 @@
     },
     {
         "name": "Grammarly",
-        "description": "Grammarly makes sure everything you type is easy to read, effective, and mistake-free. Try it today:.",
+        "description": "Grammarly makes sure everything you type is easy to read, effective, and mistake-free.",
         "categories": [
             "Productivity",
             "Writing"
@@ -7717,7 +7717,7 @@
     },
     {
         "name": "MAKE: Bootstrapper",
-        "description": "Learn to bootstrap profitable startups the indie way — export const resources: Resource[] = [4.99.",
+        "description": "Learn to bootstrap profitable startups the indie way.",
         "categories": [
             "Book",
             "Startup"
