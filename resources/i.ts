@@ -9,12 +9,6 @@ export const resources: Resource[] = [
         url: 'https://iconbuddy.app',
     },
     {
-        name: 'Icônes',
-        description: 'Icon Explorer with Instant searching, powered by Iconify',
-        categories: ['Icon'],
-        url: 'https://icones.netlify.app/',
-    },
-    {
         name: 'Iconfinder',
         description: 'Millions of graphics for your design projects. Created by independent designers.',
         categories: ['Icon', 'Illustration'],
@@ -105,6 +99,12 @@ export const resources: Resource[] = [
             'IconSweets is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.',
         categories: ['Icon'],
         url: 'https://www.designbombs.com/iconsweets2/',
+    },
+    {
+        name: 'Icônes',
+        description: 'Icon Explorer with Instant searching, powered by Iconify',
+        categories: ['Icon'],
+        url: 'https://icones.netlify.app/',
     },
     {
         name: 'Illustrations-figma',

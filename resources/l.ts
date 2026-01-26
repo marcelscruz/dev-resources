@@ -122,37 +122,6 @@ export const resources: Resource[] = [
         keywords: ['directory', 'automation', 'ai', 'aggregators'],
     },
     {
-        name: 'LandingPro AI',
-        categories: ['AI', 'Marketing'],
-        description: 'AI that writes website copy that actually sell',
-        url: 'https://landingpro.ai/',
-
-        keywords: ['marketing', 'ai'],
-    },
-    {
-        name: 'Learnify',
-        categories: ['Learn', 'Programming'],
-        description:
-            'Learnify is an all-in-one web development learning platform designed for beginners to advanced learners. Explore easy-to-understand tutorials on HTML, CSS, JavaScript, and React—all in one place.',
-        url: 'https://learnify.shefali.dev/',
-        keywords: ['web development tutorials', 'frontend development'],
-    },
-    {
-        name: 'Lenis',
-        description: 'A smooth scroll library fresh out of darkroom.engineering',
-        categories: ['Library'],
-        url: 'https://lenis.darkroom.engineering/',
-        keywords: ['smooth scroll', 'scroll', 'animation', 'javascript', 'library'],
-    },
-    {
-        name: 'LearnWeb3',
-        categories: ['Learn', 'Web3'],
-        description: 'LearnWeb3 is the best place to turn you into a web3 developer for completely free.',
-        url: 'https://learnweb3.io/',
-
-        keywords: ['web3', 'web3 developer', 'web3 developer course'],
-    },
-    {
         name: 'Learn CSS',
         description: 'An evergreen CSS course and reference to level up your web styling expertise.',
         categories: ['Learn', 'Programming'],
@@ -236,6 +205,13 @@ export const resources: Resource[] = [
             'Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview.',
         categories: ['Code Challenge'],
         url: 'https://leetcode.com/',
+    },
+    {
+        name: 'Lenis',
+        description: 'A smooth scroll library fresh out of darkroom.engineering',
+        categories: ['Library'],
+        url: 'https://lenis.darkroom.engineering/',
+        keywords: ['smooth scroll', 'scroll', 'animation', 'javascript', 'library'],
     },
     {
         name: 'Let',
@@ -364,20 +340,6 @@ export const resources: Resource[] = [
             'Lite Analytics is simple lightweight Google Analytics alternatice. It is privacy focused and doesn',
         categories: ['Analytics'],
         url: 'https://liteanalytics.com/',
-    },
-    {
-        name: 'LITSLINK',
-        categories: ['AI', 'Startup'],
-        description:
-            'LITSLINK is a software development company that builds custom web and mobile products, including SaaS, AI-driven solutions, and cloud platforms, helping businesses design, develop, and scale digital products from idea to launch.',
-        url: 'https://litslink.com',
-        keywords: [
-            'software development',
-            'custom web and mobile products',
-            'SaaS',
-            'AI-driven solutions',
-            'cloud platforms',
-        ],
     },
     {
         name: 'Lobsters',

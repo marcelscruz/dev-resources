@@ -146,14 +146,6 @@ export const resources: Resource[] = [
         keywords: ['Angular', 'GraphQL', 'Web Development', 'tutorials'],
     },
     {
-        name: 'DeelFlows',
-        description:
-            "Deel Flows is a WhatsApp First Marketing Platform that allows businesses to create broadcasts, design customer journeys, and segment users on WhatsApp. It's designed to make WhatsApp marketing more efficient and effective.",
-        categories: ['Marketing', 'Analytics'],
-        url: 'https://www.deelflows.com',
-        keywords: ['whatsapp', 'marketing', 'analytics', 'customer'],
-    },
-    {
         name: 'DeepDocs',
         description: 'AI that updates docs when you ship code.',
         categories: ['Documentation', 'AI'],
@@ -164,13 +156,6 @@ export const resources: Resource[] = [
             'llm documentation update',
             'ai technical writer',
         ],
-    },
-    {
-        name: 'Default Alive',
-        description:
-            'Two founders share an unedited look at what it\'s like to bootstrap a startup through weekly updates. Chris Spags is the founder of Jetboost, a suite of no-code plugins for Webflow. Corey Haines is the founder of Swipe Files, a membership site for marketers built with no-code tools. They chronicle their journeys getting to and staying "default alive": profitable, self-sustaining, with infinite runway. – Listen to Default Alive instantly on your tablet, phone or browser - no downloads needed.',
-        categories: ['Podcast', 'Startup'],
-        url: 'https://podtail.com/en/podcast/default-alive/',
     },
     {
         name: 'Design Resources',
@@ -288,6 +273,14 @@ export const resources: Resource[] = [
         url: 'https://devhints.io/',
     },
     {
+        name: 'DevHub',
+        description:
+            'DevHub is a platform to discover and upvote the best tech products. Find top products launching daily.',
+        categories: ['Marketing', 'Startup'],
+        url: 'https://devhub.best/',
+        keywords: ['directory', 'community', 'seo', 'growth'],
+    },
+    {
         name: 'Devicons',
         description: 'An iconic font made for developers.',
         categories: ['Icon'],
@@ -307,14 +300,6 @@ export const resources: Resource[] = [
             'DevSamples is a list of code samples for you to copy and paste into your projects as needed. The primary focus is on web development, but there are samples from a variety of languages.',
         categories: ['Code Snippet'],
         url: 'http://www.devsamples.com/',
-    },
-    {
-        name: 'DevHub',
-        description:
-            'DevHub is a platform to discover and upvote the best tech products. Find top products launching daily.',
-        categories: ['Marketing', 'Startup'],
-        url: 'https://devhub.best/',
-        keywords: ['directory', 'community', 'seo', 'growth'],
     },
     {
         name: 'DevTips',
@@ -440,13 +425,6 @@ export const resources: Resource[] = [
         categories: ['Job'],
         url: 'https://dotnetgig.com/',
         keywords: ['dotnet', 'remote', 'jobs'],
-    },
-    {
-        name: 'DR Checker',
-        categories: ['Tooling', 'SEO', 'Analytics'],
-        description: 'Build Trust with DR Checker, Track changes in domain Rating',
-        url: 'https://drchecker.net/',
-        keywords: ['seo', 'Analytics'],
     },
     {
         name: 'Dracula theme',
