@@ -154,18 +154,21 @@ class AutoFixer {
 
         if (!needsSorting) return false
 
-        // Parse the file to extract resource objects as strings
+        // Extract resource objects using brace tracking, matching only those found by validator regex
         const lines = content.split('\n')
         const resourceObjects = []
         let inResourcesArray = false
         let braceDepth = 0
         let currentResource = []
+        let arrayBracketDepth = 0
 
         for (let i = 0; i < lines.length; i++) {
             const line = lines[i]
 
             if (line.includes('export const resources')) {
                 inResourcesArray = true
+                const openBrackets = (line.match(/\[/g) || []).length
+                arrayBracketDepth = openBrackets
                 continue
             }
 
@@ -173,8 +176,12 @@ class AutoFixer {
 
             const openBraces = (line.match(/\{/g) || []).length
             const closeBraces = (line.match(/\}/g) || []).length
+            const openBrackets = (line.match(/\[/g) || []).length
+            const closeBrackets = (line.match(/\]/g) || []).length
 
-            if (braceDepth === 1 && openBraces > closeBraces) {
+            arrayBracketDepth += openBrackets - closeBrackets
+
+            if (braceDepth === 0 && openBraces > 0 && arrayBracketDepth > 0) {
                 currentResource = [line]
             } else if (currentResource.length > 0) {
                 currentResource.push(line)
@@ -182,18 +189,25 @@ class AutoFixer {
 
             braceDepth += openBraces - closeBraces
 
-            if (braceDepth === 1 && closeBraces > 0 && currentResource.length > 0) {
+            if (braceDepth === 0 && currentResource.length > 0 && arrayBracketDepth > 0) {
                 const resourceText = currentResource.join('\n')
                 const name = this.extractResourceName(resourceText)
-                resourceObjects.push({
-                    text: resourceText,
-                    name: name.toLowerCase(),
-                    originalIndex: resourceObjects.length,
-                })
+                
+                // Check if this resource matches the validator's regex pattern
+                // Only include resources that the validator would recognize
+                // Use a new regex instance each time to avoid global state issues
+                const validatorRegex = /\{\s*name:\s*['"`]([^'"`]+)['"`]\s*,\s*description:\s*['"`]([^'"`]+)['"`]\s*,\s*categories:\s*\[([^\]]*)\]\s*,\s*url:\s*['"`]([^'"`]+)['"`](?:\s*,\s*keywords:\s*\[([^\]]*)\])?\s*,?\s*\}/s
+                if (name && validatorRegex.test(resourceText)) {
+                    resourceObjects.push({
+                        text: resourceText,
+                        name: name.toLowerCase(),
+                        originalIndex: resourceObjects.length,
+                    })
+                }
                 currentResource = []
             }
 
-            if (braceDepth === 0 && inResourcesArray) {
+            if (arrayBracketDepth <= 0) {
                 break
             }
         }
@@ -203,8 +217,12 @@ class AutoFixer {
             return false
         }
 
-        // Sort resource objects by name
-        resourceObjects.sort((a, b) => a.name.localeCompare(b.name))
+        // Sort resource objects by name (using same comparison as validator: simple string comparison)
+        resourceObjects.sort((a, b) => {
+            if (a.name < b.name) return -1
+            if (a.name > b.name) return 1
+            return 0
+        })
 
         // Check if order actually changed
         let orderChanged = false
@@ -221,15 +239,15 @@ class AutoFixer {
         const resourcesStartIndex = lines.findIndex((line) => line.includes('export const resources'))
         const beforeResources = lines.slice(0, resourcesStartIndex + 1).join('\n')
 
-        // Find where resources array ends
-        let arrayEndIndex = resourcesStartIndex + 1
-        braceDepth = 0
+        // Find where resources array ends (track square brackets for the array)
+        let arrayEndIndex = lines.length // Default to end of file if not found
+        let arrayDepth = 1 // Start at 1 because we're already inside the opening [
         for (let i = resourcesStartIndex + 1; i < lines.length; i++) {
-            const openBraces = (lines[i].match(/\[/g) || []).length
-            const closeBraces = (lines[i].match(/\]/g) || []).length
-            braceDepth += openBraces - closeBraces
-            if (braceDepth < 0) {
-                arrayEndIndex = i + 1
+            const openBrackets = (lines[i].match(/\[/g) || []).length
+            const closeBrackets = (lines[i].match(/\]/g) || []).length
+            arrayDepth += openBrackets - closeBrackets
+            if (arrayDepth <= 0) {
+                arrayEndIndex = i + 1 // Include the line with the closing bracket
                 break
             }
         }
@@ -246,9 +264,16 @@ class AutoFixer {
                 }
                 return text
             })
-            .join('\n\n    ')
+            .join('\n    ')
 
-        const newContent = beforeResources + '\n    ' + sortedResourcesText + '\n' + afterResources
+        // Build final content - ensure we have a closing bracket
+        let newContent = beforeResources + '\n    ' + sortedResourcesText
+        if (afterResources.trim()) {
+            newContent += '\n' + afterResources
+        } else {
+            // No afterResources means we need to add the closing bracket
+            newContent += '\n]'
+        }
 
         fs.writeFileSync(filepath, newContent, 'utf8')
         this.filesModified.add(filepath)
