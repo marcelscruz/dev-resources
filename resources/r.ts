@@ -67,19 +67,19 @@ export const resources: Resource[] = [
         url: 'https://www.raycast.com',
     },
     {
-        name: 'React Bootstrap',
-        description:
-            'React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built from scratch as a true React component, without unneeded dependencies like jQuery.',
-        categories: ['Library', 'Programming', 'UI'],
-        url: 'https://react-bootstrap.github.io/',
-    },
-    {
         name: 'React Bits',
         description:
             'A large collection of animated React components made to spice up your web creations. Animations, components, backgrounds, and awesome stuff with customization options as props.',
         categories: ['Library', 'Programming', 'UI', 'Animation'],
         url: 'https://reactbits.dev/',
         keywords: ['react', 'components', 'animated', 'backgrounds', 'customizable', 'free', 'props'],
+    },
+    {
+        name: 'React Bootstrap',
+        description:
+            'React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built from scratch as a true React component, without unneeded dependencies like jQuery.',
+        categories: ['Library', 'Programming', 'UI'],
+        url: 'https://react-bootstrap.github.io/',
     },
     {
         name: 'React Cheatsheet',
