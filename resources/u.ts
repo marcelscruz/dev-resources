@@ -36,6 +36,24 @@ export const resources: Resource[] = [
         url: 'https://designcode.io/ui-design-for-developers',
     },
     {
+        name: 'UI Kits Design',
+        description: 'Find the best UI kits and component libraries to design and build websites in no time.',
+        categories: ['UI', 'Design', 'Library'],
+        url: 'https://uikits.design/',
+        keywords: [
+            'ui kit',
+            'design',
+            'component library',
+            'shadcn',
+            'tailwind',
+            'figma',
+            'ui',
+            'blocks',
+            'components',
+            'sections',
+        ],
+    },
+    {
         name: 'ui.dev',
         description: 'Comprehensive learning resources for mastering the JavaScript ecosystem.',
         categories: ['Newsletter', 'Programming', 'Learn', 'Programming'],
@@ -81,24 +99,6 @@ export const resources: Resource[] = [
             'UIkit, a lightweight and modular front-end framework for developing fast and powerful web interfaces.',
         categories: ['Library', 'Programming', 'UI'],
         url: 'https://getuikit.com/',
-    },
-    {
-        name: 'UI Kits Design',
-        description: 'Find the best UI kits and component libraries to design and build websites in no time.',
-        categories: ['UI', 'Design', 'Library'],
-        url: 'https://uikits.design/',
-        keywords: [
-            'ui kit',
-            'design',
-            'component library',
-            'shadcn',
-            'tailwind',
-            'figma',
-            'ui',
-            'blocks',
-            'components',
-            'sections',
-        ],
     },
     {
         name: 'Uiverse',
@@ -171,6 +171,13 @@ export const resources: Resource[] = [
         url: 'https://up-for-grabs.net/#/',
     },
     {
+        name: 'Up For Grabs',
+        description:
+            'This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.',
+        categories: ['Hacktoberfest', 'Open Source'],
+        url: 'https://up-for-grabs.net/#/',
+    },
+    {
         name: 'Upstash',
         description:
             'Serverless database with Redis API and durable storage. Low latency data. Durable storage. Ease of use.',
@@ -191,13 +198,6 @@ export const resources: Resource[] = [
             'Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.',
         categories: ['Freelance'],
         url: 'https://www.upwork.com/',
-    },
-    {
-        name: 'Up For Grabs',
-        description:
-            'This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.',
-        categories: ['Hacktoberfest', 'Open Source'],
-        url: 'https://up-for-grabs.net/#/',
     },
     {
         name: 'Url Opener',

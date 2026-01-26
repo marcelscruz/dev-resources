@@ -64,8 +64,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'MAKE: Bootstrapper',
-        description:
-            'Learn to bootstrap profitable startups the indie way — export const resources: Resource[] = [4.99.',
+        description: 'Learn to bootstrap profitable startups the indie way.',
         categories: ['Book', 'Startup'],
         url: 'https://makebook.io/',
     },
