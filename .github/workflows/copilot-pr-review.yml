@@ -56,13 +56,11 @@ jobs:
           script: |
             const pr = context.payload.pull_request;
             
-            const commentBody = `Hi, and thank you for the contribution.
-
-The \`/db\` folder is auto-generated, and changes must be made in the \`/resources\` folder.
-Could you please amend this PR?
-Our [CONTRIBUTING](https://github.com/marcelscruz/dev-resources/blob/main/CONTRIBUTING.md) guide has instructions that might help you.
-
-Thanks!`;
+            const commentBody = 'Hi, and thank you for the contribution.\n\n' +
+              'The `/db` folder is auto-generated, and changes must be made in the `/resources` folder.\n' +
+              'Could you please amend this PR?\n' +
+              'Our [CONTRIBUTING](https://github.com/marcelscruz/dev-resources/blob/main/CONTRIBUTING.md) guide has instructions that might help you.\n\n' +
+              'Thanks!';
 
             await github.rest.issues.createComment({
               owner: context.repo.owner,
@@ -79,13 +77,11 @@ Thanks!`;
           script: |
             const pr = context.payload.pull_request;
             
-            const commentBody = `Hi, and thank you for the contribution.
-
-The README file is auto-generated, and changes must be made in the \`/resources\` folder.
-Could you please amend this PR?
-Our [CONTRIBUTING](https://github.com/marcelscruz/dev-resources/blob/main/CONTRIBUTING.md) guide has instructions that might help you.
-
-Thanks!`;
+            const commentBody = 'Hi, and thank you for the contribution.\n\n' +
+              'The README file is auto-generated, and changes must be made in the `/resources` folder.\n' +
+              'Could you please amend this PR?\n' +
+              'Our [CONTRIBUTING](https://github.com/marcelscruz/dev-resources/blob/main/CONTRIBUTING.md) guide has instructions that might help you.\n\n' +
+              'Thanks!';
 
             await github.rest.issues.createComment({
               owner: context.repo.owner,
@@ -255,15 +251,7 @@ Thanks!`;
             echo "No changes to commit"
           else
             git add resources/
-            git commit -m "🤖 Auto-fix: Apply automatic fixes for validation errors
-
-Applied fixes based on validation errors:
-- Fixed invalid category names with suggested replacements
-- Fixed URL protocol issues (added https:// where missing)
-- Fixed alphabetical ordering of resources
-- Fixed missing commas between resource objects
-
-These fixes were automatically applied by the Copilot PR Review workflow."
+            git commit -m "🤖 Auto-fix: Apply automatic fixes for validation errors" -m "Applied fixes based on validation errors:" -m "- Fixed invalid category names with suggested replacements" -m "- Fixed URL protocol issues (added https:// where missing)" -m "- Fixed alphabetical ordering of resources" -m "- Fixed missing commas between resource objects" -m "" -m "These fixes were automatically applied by the Copilot PR Review workflow."
             git push
             echo "✅ Automatic fixes have been applied and pushed to the PR"
           fi
