@@ -369,15 +369,7 @@ class ResourceValidator {
         // Extract and validate resources
         const resources = this.extractResources(content)
 
-        if (resources.length === 0) {
-            this.warnings.push({
-                type: 'no_resources',
-                message: `No resources found in ${filename}`,
-                location: filename,
-                fix: 'Check if the file format is correct',
-            })
-            return
-        }
+        if (resources.length === 0) return
 
         // Validate each resource
         for (const resource of resources) {

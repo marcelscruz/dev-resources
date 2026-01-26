@@ -56,7 +56,7 @@ export const resources: Resource[] = [
     {
         name: 'ui.dev',
         description: 'Comprehensive learning resources for mastering the JavaScript ecosystem.',
-        categories: ['Newsletter', 'Programming', 'Learn', 'Programming'],
+        categories: ['Newsletter', 'Programming', 'Learn'],
         url: 'https://ui.dev/',
     },
     {
@@ -87,13 +87,6 @@ export const resources: Resource[] = [
         url: 'https://uigradients.com/',
     },
     {
-        name: 'UIHut',
-        description:
-            'Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices.',
-        categories: ['Design', 'Inspiration', 'UI', 'Icon', 'Illustration'],
-        url: 'https://www.uihut.com/',
-    },
-    {
         name: 'UIkit',
         description:
             'UIkit, a lightweight and modular front-end framework for developing fast and powerful web interfaces.',
@@ -103,7 +96,7 @@ export const resources: Resource[] = [
     {
         name: 'Uiverse',
         description: 'Community-made library of free and customizable UI elements made with CSS or Tailwind. It',
-        categories: ['Design', 'Inspiration', 'UI', 'Illustration'],
+        categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://uiverse.io/',
     },
     {
@@ -162,13 +155,6 @@ export const resources: Resource[] = [
             'Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.',
         categories: ['Productivity'],
         url: 'https://untools.co/',
-    },
-    {
-        name: 'Up For Grabs',
-        description:
-            'This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.',
-        categories: ['Hacktoberfest', 'Open Source'],
-        url: 'https://up-for-grabs.net/#/',
     },
     {
         name: 'Up For Grabs',
