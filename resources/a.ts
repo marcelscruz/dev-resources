@@ -4,7 +4,7 @@ export const resources: Resource[] = [
     {
         name: 'A1',
         description: 'A collection of the best websites found on the web',
-        categories: ['Design', 'Inspiration', 'UI', 'UX', 'Template'],
+        categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://www.a1.gallery/',
         keywords: ['website design', 'inspiration', 'web', 'gallery'],
     },
@@ -126,19 +126,19 @@ export const resources: Resource[] = [
         keywords: ['ai', 'ai tools directory', 'developer tools', 'tools', 'ai tools', 'directory'],
     },
     {
+        name: 'AI Brochure Generator',
+        description: 'Turn prompts into brochures - fast, polished, and on-brand.',
+        categories: ['Design', 'AI', 'Marketing'],
+        url: 'https://venngage.com/ai-tools/brochure-generator',
+        keywords: ['ai brochure maker', 'ai design tool', 'custom brochure generator', 'prompt-to-brochure'],
+    },
+    {
         name: 'AI Directories',
         description:
             'All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories',
         categories: ['AI', 'SEO', 'Marketing'],
         url: 'https://aidirectori.es/',
         keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
-    },
-    {
-        name: 'AI Brochure Generator',
-        description: 'Turn prompts into brochures - fast, polished, and on-brand.',
-        categories: ['Design', 'AI', 'Marketing'],
-        url: 'https://venngage.com/ai-tools/brochure-generator',
-        keywords: ['ai brochure maker', 'ai design tool', 'custom brochure generator', 'prompt-to-brochure'],
     },
     {
         name: 'AI Jobs',
@@ -175,6 +175,13 @@ export const resources: Resource[] = [
         keywords: ['ai benchmarks', 'ai news', 'ai analytics', 'research'],
     },
     {
+        name: 'AI SEO Tools',
+        description: 'Discover the Best AI SEO Tools in One Place',
+        categories: ['Marketing', 'SEO', 'AI'],
+        url: 'https://www.ai-seo.tools',
+        keywords: ['automation', 'ai', 'marketing', 'aggregators'],
+    },
+    {
         name: 'aijobs.net',
         description: 'Find jobs and talents in AI, Machine Learning, Data Science and Big Data.',
         categories: ['AI', 'Job'],
@@ -189,13 +196,6 @@ export const resources: Resource[] = [
             'jobs',
             'developer',
         ],
-    },
-    {
-        name: 'AI SEO Tools',
-        description: 'Discover the Best AI SEO Tools in One Place',
-        categories: ['Marketing', 'SEO', 'AI'],
-        url: 'https://www.ai-seo.tools',
-        keywords: ['automation', 'ai', 'marketing', 'aggregators'],
     },
     {
         name: 'Airtable',
@@ -397,7 +397,7 @@ export const resources: Resource[] = [
         name: 'AWS',
         description:
             'Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use.',
-        categories: ['Cloud Computing', 'Database', 'Hosting', 'Serverless', 'Storage'],
+        categories: ['Cloud Computing', 'Hosting', 'Serverless'],
         url: 'https://aws.amazon.com/',
     },
     {
@@ -426,7 +426,7 @@ export const resources: Resource[] = [
         name: 'Azure',
         description:
             'Invent with purpose, realise cost savings and make your organisation more efficient with Microsoft Azure’s open and flexible cloud computing platform.',
-        categories: ['Cloud Computing', 'Database', 'Hosting', 'Serverless', 'Storage'],
+        categories: ['Cloud Computing', 'Hosting', 'Serverless'],
         url: 'https://azure.microsoft.com/',
         keywords: ['Azuesss', 'Windows Azure', 'Cloud Service', 'Cloud Computing Companies'],
     },

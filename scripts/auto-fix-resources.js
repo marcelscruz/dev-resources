@@ -1,6 +1,6 @@
 const fs = require('fs')
 const path = require('path')
-const { ResourceValidator, VALID_CATEGORIES } = require('./validate-resources')
+const { ResourceValidator } = require('./validate-resources')
 
 /**
  * Automatically fix safe issues in resource files
@@ -160,7 +160,6 @@ class AutoFixer {
         let inResourcesArray = false
         let braceDepth = 0
         let currentResource = []
-        let resourceStartLine = -1
 
         for (let i = 0; i < lines.length; i++) {
             const line = lines[i]
@@ -176,7 +175,6 @@ class AutoFixer {
             const closeBraces = (line.match(/\}/g) || []).length
 
             if (braceDepth === 1 && openBraces > closeBraces) {
-                resourceStartLine = i
                 currentResource = [line]
             } else if (currentResource.length > 0) {
                 currentResource.push(line)
@@ -336,11 +334,6 @@ class AutoFixer {
                 const updatedValidator = new ResourceValidator()
                 updatedValidator.validateFile(filepath)
             }
-
-            // Check if this file has alphabetical order issues
-            const hasOrderIssue = results.errors.some(
-                (e) => e.location.startsWith(filename) && e.type === 'alphabetical_order',
-            )
 
             // Always check alphabetical order, not just when error is reported
             // (in case validation didn't catch it or we want to fix it proactively)
