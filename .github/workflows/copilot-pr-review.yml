@@ -228,3 +228,123 @@ jobs:
                       } catch (error) {
                         console.log('Could not request Copilot review (may need to enable in repo settings):', error.message);
                       }
+
+    extract-new-resource-links:
+        runs-on: ubuntu-latest
+        needs: check-auto-generated
+        # Only run if resource files are changed and no auto-generated files were changed
+        if: needs.check-auto-generated.outputs.has_db_changes != 'true' && needs.check-auto-generated.outputs.has_readme_changes != 'true'
+        steps:
+            - name: Extract and post new resource links
+              uses: actions/github-script@v7
+              with:
+                  github-token: ${{ secrets.GITHUB_TOKEN }}
+                  script: |
+                      const pr = context.payload.pull_request;
+                      const { owner, repo } = context.repo;
+                      const prNumber = pr.number;
+
+                      // Get list of changed files
+                      const { data: files } = await github.rest.pulls.listFiles({
+                          owner,
+                          repo,
+                          pull_number: prNumber,
+                      });
+
+                      // Filter for resource files
+                      const resourceFiles = files.filter(
+                          (file) => file.filename.startsWith('resources/') && file.filename.endsWith('.ts'),
+                      );
+
+                      if (resourceFiles.length === 0) {
+                          console.log('No resource files changed in this PR.');
+                          return;
+                      }
+
+                      console.log(`Found ${resourceFiles.length} modified resource file(s). Checking for new resource links...`);
+
+                      const newLinks = [];
+
+                      // Helper function to extract URLs from TypeScript content
+                      function extractUrlsFromTypeScript(content) {
+                          const urls = [];
+                          // Match url property in TypeScript objects: url: 'https://...' or url: "https://..."
+                          const urlMatches = content.matchAll(/url:\s*['"`]([^'"`]+)['"`]/g);
+                          for (const match of urlMatches) {
+                              const url = match[1];
+                              // Only include http/https URLs
+                              if (url.startsWith('http://') || url.startsWith('https://')) {
+                                  urls.push(url);
+                              }
+                          }
+                          return urls;
+                      }
+
+                      // Check each resource file for new links
+                      for (const file of resourceFiles) {
+                          console.log(`Checking file: ${file.filename}`);
+
+                          let baseContent = '';
+                          let headContent = '';
+
+                          // Get base content (if file exists in base)
+                          try {
+                              const baseRes = await github.rest.repos.getContent({
+                                  owner,
+                                  repo,
+                                  path: file.filename,
+                                  ref: pr.base.sha,
+                              });
+                              baseContent = Buffer.from(baseRes.data.content, 'base64').toString('utf8');
+                          } catch (error) {
+                              // File doesn't exist in base (new file)
+                              console.log(`File ${file.filename} is new in this PR`);
+                          }
+
+                          // Get head content
+                          try {
+                              const headRes = await github.rest.repos.getContent({
+                                  owner: pr.head.repo.owner.login,
+                                  repo: pr.head.repo.name,
+                                  path: file.filename,
+                                  ref: pr.head.sha,
+                              });
+                              headContent = Buffer.from(headRes.data.content, 'base64').toString('utf8');
+                          } catch (error) {
+                              console.log(`Could not get head content for ${file.filename}:`, error.message);
+                              continue;
+                          }
+
+                          // Extract URLs from TypeScript resource files
+                          const baseUrls = new Set(extractUrlsFromTypeScript(baseContent));
+                          const headUrls = new Set(extractUrlsFromTypeScript(headContent));
+
+                          const fileNewLinks = [...headUrls].filter((url) => !baseUrls.has(url));
+                          newLinks.push(...fileNewLinks);
+
+                          console.log(
+                              `File ${file.filename}: Base URLs: ${baseUrls.size}, Head URLs: ${headUrls.size}, New: ${fileNewLinks.length}`,
+                          );
+                      }
+
+                      console.log(`Total new resource links found: ${newLinks.length}`);
+                      if (newLinks.length > 0) {
+                          console.log('New links:', newLinks);
+
+                          // Post comment with new links
+                          const linkComment =
+                              newLinks.length === 1
+                                  ? `**New resource link:** ${newLinks[0]}`
+                                  : ['**New resource links:**', '', ...newLinks.map((link) => `- ${link}`)].join('\n');
+
+                          await github.rest.issues.createComment({
+                              owner,
+                              repo,
+                              issue_number: prNumber,
+                              body: linkComment,
+                          });
+
+                          console.log('Comment posted with new resource links.');
+                      } else {
+                          console.log('No new resource links found in this PR.');
+                      }
