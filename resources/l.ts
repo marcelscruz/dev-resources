@@ -178,6 +178,14 @@ export const resources: Resource[] = [
         url: 'https://learnxinyminutes.com/',
     },
     {
+        name: 'Learnify',
+        categories: ['Learn', 'Programming'],
+        description:
+            'Learnify is an all-in-one web development learning platform designed for beginners to advanced learners. Explore easy-to-understand tutorials on HTML, CSS, JavaScript, and React—all in one place.',
+        url: 'https://learnify.shefali.dev/',
+        keywords: ['web development tutorials', 'frontend development'],
+    },
+    {
         name: 'LearnCode.academy',
         description:
             '100% FREE Web Development tutorials, web site design tutorials and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev Ops, Server Administration, Deployment Strategies.',
@@ -340,6 +348,20 @@ export const resources: Resource[] = [
             'Lite Analytics is simple lightweight Google Analytics alternatice. It is privacy focused and doesn',
         categories: ['Analytics'],
         url: 'https://liteanalytics.com/',
+    },
+    {
+        name: 'LITSLINK',
+        categories: ['AI', 'Startup'],
+        description:
+            'LITSLINK is a software development company that builds custom web and mobile products, including SaaS, AI-driven solutions, and cloud platforms, helping businesses design, develop, and scale digital products from idea to launch.',
+        url: 'https://litslink.com',
+        keywords: [
+            'software development',
+            'custom web and mobile products',
+            'SaaS',
+            'AI-driven solutions',
+            'cloud platforms',
+        ],
     },
     {
         name: 'Lobsters',

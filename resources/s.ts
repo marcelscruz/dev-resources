@@ -182,6 +182,13 @@ export const resources: Resource[] = [
         url: 'https://www.seotisfy.com',
     },
     {
+        name: 'SerpApi - Search API',
+        description: "SerpApi's Search API makes it easy and fast to scrape Google and other search engines.",
+        categories: ['Scraping'],
+        url: 'https://serpapi.com/',
+        keywords: ['scraping', 'google', 'search', 'api'],
+    },
+    {
         name: 'Serplux',
         description:
             'Serplux is a data-driven SEO and marketing platform that leverages Ahrefs, DataForSEO, Semrush, and AI-powered content automation to deliver advanced keyword research, SEO audits, and content engineering solutions.',
@@ -210,6 +217,18 @@ export const resources: Resource[] = [
         categories: ['Performance', 'Tooling'],
         url: 'https://servervana.com',
         keywords: ['Performance', 'Uptime', 'Monitoring', 'Status Page', 'Web Vitals', 'SSL', 'HTTP(s)', 'DNS'],
+    },
+    {
+        name: 'Shadcnblocks',
+        categories: ['Template', 'UI', 'Design'],
+        description: 'Hundreds of extra blocks and components for shadcn/ui, Tailwind & React.',
+        url: 'https://shadcnblocks.com',
+    },
+    {
+        name: 'Shadcn Templates',
+        categories: ['Template', 'UI', 'Design'],
+        description: 'A collection of Shadcn UI templates, components, boilerplates, and more.',
+        url: 'https://shadcntemplates.com',
     },
     {
         name: 'Shape',

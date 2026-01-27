@@ -71,11 +71,25 @@ export const resources: Resource[] = [
         url: 'http://cassandra.apache.org/',
     },
     {
+        name: 'Catalog by Thesys',
+        description: `Catalog by Thesys is a curated collection of AI agents designed to help you find the right agent for your needs. Whether you're exploring AI for automation, decision-making, or creative tasks, it simplifies your search with the categorization and listing of all the AI agents.`,
+        categories: ['Database', 'AI'],
+        url: 'https://catalog.thesys.dev/',
+    },
+    {
         name: 'Cert Decoder',
         description:
             'Cert Decoder is a free online tool for decoding X.509 SSL/TLS certificates in PEM format directly in your browser.',
         categories: ['Security', 'Testing', 'Tooling'],
         url: 'https://certdecoder.com/',
+    },
+    {
+        name: 'Certificates.dev',
+        description:
+            'Recognized certification exams for Vue (official certification endorsed by Evan You), React, Angular, Nuxt, and JS. We’ve helped developers from 680+ companies worldwide validate their frontend skills.',
+        keywords: ['frontend', 'Javascript', 'Vue', 'React', 'Angular', 'Certification', 'coding challenge'],
+        categories: ['Programming', 'Resume', 'Code Challenge'],
+        url: 'https://certificates.dev/',
     },
     {
         name: 'Chaindesk',
