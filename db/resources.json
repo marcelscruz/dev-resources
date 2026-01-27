@@ -1,5 +1,5 @@
 {
-"count": 1115,
+"count": 1125,
 "data": [
     {
         "name": "1001 Fonts",
@@ -465,6 +465,20 @@
             "Database"
         ],
         "url": "https://airtable.com/"
+    },
+    {
+        "name": "aiwget",
+        "description": "Best AI Tools Directory for Indie Hackers, Creators, and More.Free Submit, Unique Editor's Review, Social Media Promote.",
+        "categories": [
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://aiwget.com",
+        "keywords": [
+            "AI",
+            "tools",
+            "directory"
+        ]
     },
     {
         "name": "ally.js",
@@ -1630,6 +1644,15 @@
         "url": "http://cassandra.apache.org/"
     },
     {
+        "name": "Catalog by Thesys",
+        "description": "Catalog by Thesys is a curated collection of AI agents designed to help you find the right agent for your needs. Whether you're exploring AI for automation, decision-making, or creative tasks, it simplifies your search with the categorization and listing of all the AI agents.",
+        "categories": [
+            "Database",
+            "AI"
+        ],
+        "url": "https://catalog.thesys.dev/"
+    },
+    {
         "name": "Cert Decoder",
         "description": "Cert Decoder is a free online tool for decoding X.509 SSL/TLS certificates in PEM format directly in your browser.",
         "categories": [
@@ -1638,6 +1661,25 @@
             "Tooling"
         ],
         "url": "https://certdecoder.com/"
+    },
+    {
+        "name": "Certificates.dev",
+        "description": "Recognized certification exams for Vue (official certification endorsed by Evan You), React, Angular, Nuxt, and JS. We’ve helped developers from 680+ companies worldwide validate their frontend skills.",
+        "keywords": [
+            "frontend",
+            "Javascript",
+            "Vue",
+            "React",
+            "Angular",
+            "Certification",
+            "coding challenge"
+        ],
+        "categories": [
+            "Programming",
+            "Resume",
+            "Code Challenge"
+        ],
+        "url": "https://certificates.dev/"
     },
     {
         "name": "Chaindesk",
@@ -3335,6 +3377,21 @@
             "GraphQL",
             "Web Development",
             "tutorials"
+        ]
+    },
+    {
+        "name": "DeelFlows",
+        "description": "Deel Flows is a WhatsApp First Marketing Platform that allows businesses to create broadcasts, design customer journeys, and segment users on WhatsApp. It's designed to make WhatsApp marketing more efficient and effective.",
+        "categories": [
+            "Marketing",
+            "Analytics"
+        ],
+        "url": "https://www.deelflows.com",
+        "keywords": [
+            "whatsapp",
+            "marketing",
+            "analytics",
+            "customer"
         ]
     },
     {
@@ -7077,6 +7134,19 @@
         ]
     },
     {
+        "name": "Learnify",
+        "categories": [
+            "Learn",
+            "Programming"
+        ],
+        "description": "Learnify is an all-in-one web development learning platform designed for beginners to advanced learners. Explore easy-to-understand tutorials on HTML, CSS, JavaScript, and React—all in one place.",
+        "url": "https://learnify.shefali.dev/",
+        "keywords": [
+            "web development tutorials",
+            "frontend development"
+        ]
+    },
+    {
         "name": "LearnWeb3",
         "description": "LearnWeb3 is the best place to turn you into a web3 developer for completely free.",
         "categories": [
@@ -7335,6 +7405,22 @@
             "Analytics"
         ],
         "url": "https://liteanalytics.com/"
+    },
+    {
+        "name": "LITSLINK",
+        "categories": [
+            "AI",
+            "Startup"
+        ],
+        "description": "LITSLINK is a software development company that builds custom web and mobile products, including SaaS, AI-driven solutions, and cloud platforms, helping businesses design, develop, and scale digital products from idea to launch.",
+        "url": "https://litslink.com",
+        "keywords": [
+            "software development",
+            "custom web and mobile products",
+            "SaaS",
+            "AI-driven solutions",
+            "cloud platforms"
+        ]
     },
     {
         "name": "Lobsters",
@@ -10478,6 +10564,20 @@
         "url": "https://www.seotisfy.com"
     },
     {
+        "name": "SerpApi - Search API",
+        "description": "SerpApi's Search API makes it easy and fast to scrape Google and other search engines.",
+        "categories": [
+            "Scraping"
+        ],
+        "url": "https://serpapi.com/",
+        "keywords": [
+            "scraping",
+            "google",
+            "search",
+            "api"
+        ]
+    },
+    {
         "name": "Serplux",
         "description": "Serplux is a data-driven SEO and marketing platform that leverages Ahrefs, DataForSEO, Semrush, and AI-powered content automation to deliver advanced keyword research, SEO audits, and content engineering solutions.",
         "categories": [
@@ -10535,6 +10635,26 @@
             "HTTP(s)",
             "DNS"
         ]
+    },
+    {
+        "name": "Shadcn Templates",
+        "categories": [
+            "Template",
+            "UI",
+            "Design"
+        ],
+        "description": "A collection of Shadcn UI templates, components, boilerplates, and more.",
+        "url": "https://shadcntemplates.com"
+    },
+    {
+        "name": "Shadcnblocks",
+        "categories": [
+            "Template",
+            "UI",
+            "Design"
+        ],
+        "description": "Hundreds of extra blocks and components for shadcn/ui, Tailwind & React.",
+        "url": "https://shadcnblocks.com"
     },
     {
         "name": "Shape",
@@ -11640,6 +11760,24 @@
             "Programming"
         ],
         "url": "https://syntax.fm"
+    },
+    {
+        "name": "Table Format Converter",
+        "categories": [
+            "Productivity"
+        ],
+        "description": "Free online tool to convert your table data to CSV, HTML, JSON, Markdown and more.",
+        "keywords": [
+            "table",
+            "spreadsheet",
+            "converter",
+            "csv",
+            "html",
+            "json",
+            "markdown",
+            "excel"
+        ],
+        "url": "https://www.tableformatconverter.com"
     },
     {
         "name": "Tabler Icons",
