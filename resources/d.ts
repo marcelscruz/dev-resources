@@ -391,6 +391,13 @@ export const resources: Resource[] = [
         categories: ['Programming', 'Template'],
         url: 'https://divjoy.com/',
     },
+    {
+        name: 'dnAI',
+        description: 'Brand-first AI marketing platform',
+        categories: ['Marketing', 'AI', 'Analytics'],
+        url: 'https://humandnai.com/',
+        keywords: ['marketing intelligence platform', 'content alignment software', 'messaging consistency management', 'ai content governance'],
+    },
     {
         name: 'Doculator',
         description:
