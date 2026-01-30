@@ -140,6 +140,13 @@ export const resources: Resource[] = [
         url: 'https://aidirectori.es/',
         keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
     },
+    {
+        name: 'AI Image Generator',
+        description: 'Go from concept to custom AI-generated images in just a few clicks.',
+        categories: ['Design', 'AI', 'Image'],
+        url: 'https://venngage.com/ai-tools/image-generator',
+        keywords: ['ai image generator', 'text to image ai', 'ai art generator', 'image generator from prompts'],
+    },
     {
         name: 'AI Jobs',
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
