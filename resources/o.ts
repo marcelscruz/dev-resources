@@ -104,8 +104,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Open Ports',
-        description:
-            'Manage open ports from your macOS menu bar. Never google "How to kill a process by port?" again.',
+        description: 'Manage open ports from your macOS menu bar. Never google "How to kill a process by port?" again.',
         categories: ['Tooling'],
         url: 'https://openports.app',
         keywords: ['web development', 'containers', 'macOS'],
