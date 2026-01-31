@@ -3,7 +3,8 @@ import { Resource } from 'types'
 export const resources: Resource[] = [
     {
         name: 'Backlink Checker',
-        description: 'With the world',
+        description:
+            "With the world's biggest index of live backlinks (over 15 trillion), Ahrefs Backlink Checker will show you the most complete backlink profile for any website.",
         categories: ['SEO'],
         url: 'https://ahrefs.com/backlink-checker',
     },
@@ -73,7 +74,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Behance',
-        description: 'Behance is the world',
+        description: "Behance is the world's largest creative network for showcasing and discovering creative work.",
         categories: ['UI', 'Inspiration'],
         url: 'https://www.behance.net/',
         keywords: [
@@ -94,7 +95,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Ben Awad',
-        description: 'I',
+        description:
+            "I'm a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding.",
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw',
         keywords: ['react graphql typescript'],
@@ -179,7 +181,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'BilingualJobs.io',
-        description: 'The world',
+        description:
+            "The world's first bilingual job board. Find bilingual talent faster, or stand out as a bilingual.",
         categories: ['Job'],
         url: 'https://bilingualjobs.io',
         keywords: [

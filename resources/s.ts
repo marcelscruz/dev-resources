@@ -331,7 +331,7 @@ export const resources: Resource[] = [
     {
         name: 'Simple Analytics',
         description:
-            'Simple Analytics gives you the analytics you need without invading the privacy of your users, with a clean interface, and simple integration. GDPR, CCPA and, PECR compliant because we don',
+            "Simple Analytics gives you the analytics you need without invading the privacy of your users, with a clean interface, and simple integration. GDPR, CCPA and, PECR compliant because we don't handle PII data and set no cookies.",
         categories: ['Analytics'],
         url: 'https://simpleanalytics.com/',
     },
@@ -449,20 +449,15 @@ export const resources: Resource[] = [
     },
     {
         name: 'Slow & Steady',
-        description: 'Join us as we share what it',
+        description:
+            "Join us as we share what it's like to build and launch a bootstrapped startup while working for yourself full-time. Benedikt is working on Userlist with two other co-founders and Brian is running solo on a product to combat loneliness on remote teams.",
         categories: ['Podcast', 'Startup'],
         url: 'https://www.slowandsteadypodcast.com/',
     },
     {
-        name: 'Smartshort',
-        description: 'Text to video',
-        categories: ['Video', 'AI', 'Marketing'],
-        url: 'https://smartshort.co',
-        keywords: ['video generator', 'tiktok generator', 'short form content generator', 'text to short'],
-    },
-    {
         name: 'Smashicons',
-        description: 'Download the world',
+        description:
+            "Download the world's largest and most complete icon set. Smashicons includes over 335,975 icons for Designers and Developers.",
         categories: ['Icon'],
         url: 'https://smashicons.com',
         keywords: [
@@ -616,14 +611,15 @@ export const resources: Resource[] = [
     },
     {
         name: 'Soundstripe',
-        description: 'Every creator',
+        description:
+            "Every creator's one-stop shop for the best royalty free music, SFX, and stock video. Purchase a license for one file, or subscribe for unlimited access.",
         categories: ['Audio'],
         url: 'https://www.soundstripe.com/',
     },
     {
         name: 'Sourcetable',
         description:
-            'Sourcetable is an AI spreadsheet and data analyst. It has the same notation, formulas and charting as Excel, paired with the world',
+            "Sourcetable is an AI spreadsheet and data analyst. It has the same notation, formulas and charting as Excel, paired with the world's most advanced AI.",
         categories: ['Analytics', 'Productivity', 'Startup'],
         url: 'https://sourcetable.com',
         keywords: [
@@ -736,7 +732,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'StarOps',
-        description: 'AI Platform Engineer',
+        description:
+            'Intelligent agents for platform engineering teams that automate and streamline your cloud-native infrastructure at production scale.',
         categories: ['Cloud Computing', 'Tooling', 'AI'],
         url: 'https://ingenimax.ai',
         keywords: ['devops tool', 'mlops tool', 'kubernetes', 'cloud-native stack', 'ai agent', 'cloud infrastructure'],
@@ -878,7 +875,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Sublime Text',
-        description: 'Sublime Text is a sophisticated text editor for code, markup and prose. You',
+        description:
+            "Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.",
         categories: ['Editor', 'Programming'],
         url: 'https://www.sublimetext.com/',
     },
@@ -918,7 +916,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Supercamp',
-        description: 'AI workspace for business',
+        description: 'A managed AI interface that connects everything — LLM providers, MCP tools, your workflows.',
         categories: ['Productivity', 'AI', 'Analytics'],
         url: 'https://supercamp.ai/',
         keywords: ['ai workspace', 'ai assistant', 'ai agents', 'workflow automation'],

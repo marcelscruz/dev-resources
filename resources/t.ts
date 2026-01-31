@@ -23,7 +23,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Tailor Brands',
-        description: 'Tailor Brands AI logo maker allows you to create a logo design that',
+        description:
+            "Tailor Brands AI logo maker allows you to create a logo design that's a perfect match for your business. No pre-made logo templates. Unique designs only.",
         categories: ['Logo'],
         url: 'https://www.tailorbrands.com/logo-maker',
     },
@@ -238,7 +239,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'The Hammerstone Podcast',
-        description: 'Listen in on Sean',
+        description:
+            "Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm!",
         categories: ['Podcast', 'Startup'],
         url: 'https://hammerstone.dev/podcast',
     },
@@ -294,7 +296,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Thirus',
-        description: 'Thirus (pronounced ',
+        description:
+            'Thirus (pronounced "thigh-rus") is an effort to bring hundreds of simple web development tips and tutorials together that you can consume regularly on your coding journey. I am Shruti Balasa - the owner of this channel. I\'m a Full Stack Web Developer, Mentor, Course Creator, Tech Speaker and now a Youtuber from Bangalore, India.',
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UCDQTzZ871T7uJpx9yeMPhAw',
     },
@@ -500,7 +503,7 @@ export const resources: Resource[] = [
     {
         name: 'Tweet Hunter',
         description:
-            'Build and monetize your Twitter audience. Get sales, growth and new networks. Faster than what you',
+            "Build and monetize your Twitter audience. Get sales, growth and new networks. Faster than what you're currently trying.",
         categories: ['Marketing', 'Social Media'],
         url: 'https://tweethunter.io',
         keywords: ['twitter', 'growth', 'scheduling', 'social media'],

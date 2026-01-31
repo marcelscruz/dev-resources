@@ -4,7 +4,7 @@ export const resources: Resource[] = [
     {
         name: 'F5Bot',
         description:
-            'F5Bot is a free service that emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. Use it to monitor your brand, your projects, or just topics that you',
+            "F5Bot is a free service that emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. Use it to monitor your brand, your projects, or just topics that you're interested in.",
         categories: ['Productivity', 'Tooling'],
         url: 'https://f5bot.com/',
     },

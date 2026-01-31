@@ -387,7 +387,7 @@ export const resources: Resource[] = [
     {
         name: 'Divjoy',
         description:
-            'The React codebase generator. Divjoy handles all the integration details. From routing to React hooks, you',
+            "The React codebase generator. Divjoy handles all the integration details. From routing to React hooks, you'll have everything you need to build something great.",
         categories: ['Programming', 'Template'],
         url: 'https://divjoy.com/',
     },
@@ -443,13 +443,15 @@ export const resources: Resource[] = [
     },
     {
         name: 'DreamHost',
-        description: 'What',
+        description:
+            "What's better than WordPress? A Website and Page Builder for WordPress. Choose a theme, add content, images and more with ZERO code!",
         categories: ['Website Builder'],
         url: 'https://www.dreamhost.com/website-builder/',
     },
     {
         name: 'DreamStudio',
-        description: 'DreamStudio is an online creative tool to generate images with AI. Made by the world',
+        description:
+            "DreamStudio is an online creative tool to generate images with AI. Made by the world's leading open source generative AI company, Stability.ai.",
         categories: ['AI', 'Image'],
         url: 'https://dreamstudio.ai',
         keywords: ['ai', 'image'],

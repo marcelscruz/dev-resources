@@ -287,7 +287,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'rendezvous with cassidoo',
-        description: 'Rendezvous with cassidoo, probably the best newsletter you',
+        description: "Rendezvous with cassidoo, probably the best newsletter you'll ever read.",
         categories: ['Newsletter', 'Programming'],
         url: 'https://cassidoo.co/newsletter/',
     },

@@ -167,7 +167,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Website Authority Checker',
-        description: 'Free tool to check the ',
+        description:
+            'Free tool to check the "authority" of any website based on the quality and quantity of its external backlinks.',
         categories: ['SEO'],
         url: 'https://ahrefs.com/website-authority-checker',
     },

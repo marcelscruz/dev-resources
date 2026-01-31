@@ -71,7 +71,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Edge',
-        description: 'See what',
+        description:
+            "See what's new on the latest version of the Microsoft Edge browser. Explore features, rewards, and more before you download the new browser today.",
         categories: ['Browser'],
         url: 'https://www.microsoft.com/en-us/edge',
         keywords: [
@@ -106,7 +107,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Eleventy High Performance Blog',
-        description: 'I',
+        description:
+            "I'm excited to announce the beta-release of eleventy-high-performance-blog–a high-performance blog template for 11ty based on this very...",
         categories: ['Template'],
         url: 'https://www.industrialempathy.com/posts/eleventy-high-performance-blog/',
     },
@@ -119,13 +121,14 @@ export const resources: Resource[] = [
     {
         name: 'Emacs',
         description:
-            'Emacs or EMACS is a family of text editors that are characterized by their extensibility. The manual for the most widely used variant, GNU Emacs, describes it as ',
+            'Emacs or EMACS is a family of text editors that are characterized by their extensibility. The manual for the most widely used variant, GNU Emacs, describes it as "the extensible, customizable, self-documenting, real-time display editor".',
         categories: ['Editor', 'Terminal'],
         url: 'https://www.gnu.org/software/emacs/',
     },
     {
         name: 'EMBERWORK',
-        description: 'Whether you',
+        description:
+            "Whether you're actively looking for a new job or just always open to new opportunities you'll always have access to the best Ember.js jobs- here at EMBERWORK.",
         categories: ['Job'],
         url: 'https://emberwork.com/',
     },
@@ -170,7 +173,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Everyone Hates Marketers',
-        description: 'It',
+        description:
+            "It's the antidote to marketing bullshit. Receive a free, 8-lesson video course + a super practical, no-bullshit essay in your inbox every Tuesday.",
         categories: ['Marketing'],
         url: 'https://www.everyonehatesmarketers.com/',
     },

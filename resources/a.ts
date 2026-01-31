@@ -79,7 +79,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Adrian Twarog',
-        description: 'I',
+        description:
+            "I'm Adrian from Australia, a designer and developer who makes websites and apps using platforms like React Native. I'm hoping to share some of the things I've learnt over the years about my career and hobbies for coding, user interface and experience.",
         categories: ['Design', 'Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ',
         keywords: ['HTML CSS JS UI UX WordPress React Native User Interface Design Website JavaScript Graphics design'],
@@ -93,7 +94,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Ahrefs',
-        description: 'You don',
+        description:
+            "You don't have to be an SEO pro to rank higher and get more traffic. Join Ahrefs – we're a powerful but easy to learn SEO toolset with a passionate community.",
         categories: ['SEO'],
         url: 'https://ahrefs.com/',
     },
@@ -291,7 +293,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'AppMockUp',
-        description: 'Use AppMockUp, the world',
+        description:
+            "Use AppMockUp, the world's most powerful screenshot builder to create the most compelling screenshots for your app.",
         categories: ['Prototyping', 'Screenshot'],
         url: 'https://app-mockup.com/',
     },
@@ -354,7 +357,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Avodocs',
-        description: 'Free legal documents for startups. Get your company',
+        description: "Free legal documents for startups. Get your company's legal documents in minutes.",
         categories: ['Legal'],
         url: 'https://www.avodocs.com',
         keywords: [
