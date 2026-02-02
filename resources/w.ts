@@ -257,6 +257,13 @@ export const resources: Resource[] = [
         categories: ['Website Builder'],
         url: 'https://wordpress.com/',
     },
+    {
+        name: 'Word Cloud Generator',
+        description: 'Create word clouds from text.',
+        categories: ['Extension', 'Design', 'AI'],
+        url: 'https://chromewebstore.google.com/detail/word-cloud-generator/ohdkpdnmamkdpmbcenpohkjhkmhnnfkf',
+        keywords: ['visualization', 'productivity', 'data', 'design'],
+    },
     {
         name: 'Work Type Focus',
         description: 'Classify and visualize Jira work to stay focused and foster innovation',
