@@ -410,6 +410,23 @@ export const resources: Resource[] = [
         url: 'https://pptr.dev/',
     },
     {
+        name: 'PureCut',
+        description:
+            'AI-powered background removal tool featuring dual processing models, batch processing up to 50 images, and free tier without watermarks.',
+        categories: ['Image', 'AI'],
+        url: 'https://purecut.io/',
+        keywords: [
+            'background removal',
+            'remove background',
+            'image editing',
+            'ai',
+            'batch processing',
+            'transparent background',
+            'free',
+            'no watermark',
+        ],
+    },
+    {
         name: 'Pxfuel',
         description:
             'Millions of public domain stock photos released under creative common zero lincense, all are free for commercial use.',
