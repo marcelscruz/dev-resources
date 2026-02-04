@@ -2257,6 +2257,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://www.vibestack.io/&sz=128" width="16" /> | [VibeStack](https://www.vibestack.io/) | Curated directory of AI, design, and development products and tools. | resource discovery, design tools, ai tools, developer resources |
  <img src="https://www.google.com/s2/favicons?domain=https://webacus.dev&sz=128" width="16" /> | [Webacus](https://webacus.dev) | Webacus is a versatile tool designed specifically for developers. It combines numerous operations that developers frequently need into a single, consistent interface. Instead of Googling and learning ... |  |
  <img src="https://www.google.com/s2/favicons?domain=https://worktypefocus.com/&sz=128" width="16" /> | [Work Type Focus](https://worktypefocus.com/) | Classify and visualize Jira work to stay focused and foster innovation | agile, sprint planning, work classification, team focus |
+ <img src="https://www.google.com/s2/favicons?domain=https://yamline.com/&sz=128" width="16" /> | [YAMLine](https://yamline.com/) | YAMLine is an online YAML toolbox featuring a linter, formatter, merger, AI fixer, converters, and a Kubernetes manifest validator. | yaml, web, developer tools, tools |
  <img src="https://www.google.com/s2/favicons?domain=https://zuzia.app&sz=128" width="16" /> | [Zuzia.app](https://zuzia.app) | AI-powered server monitoring and task automation for Linux and VPS. | ai task monitoring, server cron tracking, linux automation, laravel forge tools |
 
 **[⬆ Back to Index](#index)**
