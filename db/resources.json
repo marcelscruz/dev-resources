@@ -83,9 +83,7 @@
         "categories": [
             "Design",
             "Inspiration",
-            "UI",
-            "UX",
-            "Template"
+            "UI"
         ],
         "url": "https://www.a1.gallery/",
         "keywords": [
@@ -218,7 +216,7 @@
     },
     {
         "name": "Adrian Twarog",
-        "description": "I",
+        "description": "I'm Adrian from Australia, a designer and developer who makes websites and apps using platforms like React Native. I'm hoping to share some of the things I've learnt over the years about my career and hobbies for coding, user interface and experience.",
         "categories": [
             "Design",
             "Programming",
@@ -247,7 +245,7 @@
     },
     {
         "name": "Ahrefs",
-        "description": "You don",
+        "description": "You don't have to be an SEO pro to rank higher and get more traffic. Join Ahrefs – we're a powerful but easy to learn SEO toolset with a passionate community.",
         "categories": [
             "SEO"
         ],
@@ -426,6 +424,22 @@
         "url": "https://ai-text-humanizer.com/"
     },
     {
+        "name": "Aigazine",
+        "description": "The Go-To Source for AI Benchmarks, News, Research & Industry Insights",
+        "categories": [
+            "AI",
+            "Newsletter",
+            "Startup"
+        ],
+        "url": "https://aigazine.com",
+        "keywords": [
+            "ai benchmarks",
+            "ai news",
+            "ai analytics",
+            "research"
+        ]
+    },
+    {
         "name": "aijobs.net",
         "description": "Find jobs and talents in AI, Machine Learning, Data Science and Big Data.",
         "categories": [
@@ -574,7 +588,7 @@
     },
     {
         "name": "AppMockUp",
-        "description": "Use AppMockUp, the world",
+        "description": "Use AppMockUp, the world's most powerful screenshot builder to create the most compelling screenshots for your app.",
         "categories": [
             "Prototyping",
             "Screenshot"
@@ -679,7 +693,7 @@
     },
     {
         "name": "Avodocs",
-        "description": "Free legal documents for startups. Get your company",
+        "description": "Free legal documents for startups. Get your company's legal documents in minutes.",
         "categories": [
             "Legal"
         ],
@@ -743,10 +757,8 @@
         "description": "Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use.",
         "categories": [
             "Cloud Computing",
-            "Database",
             "Hosting",
-            "Serverless",
-            "Storage"
+            "Serverless"
         ],
         "url": "https://aws.amazon.com/"
     },
@@ -793,10 +805,8 @@
         "description": "Invent with purpose, realise cost savings and make your organisation more efficient with Microsoft Azure’s open and flexible cloud computing platform.",
         "categories": [
             "Cloud Computing",
-            "Database",
             "Hosting",
-            "Serverless",
-            "Storage"
+            "Serverless"
         ],
         "url": "https://azure.microsoft.com/",
         "keywords": [
@@ -808,7 +818,7 @@
     },
     {
         "name": "Backlink Checker",
-        "description": "With the world",
+        "description": "With the world's biggest index of live backlinks (over 15 trillion), Ahrefs Backlink Checker will show you the most complete backlink profile for any website.",
         "categories": [
             "SEO"
         ],
@@ -912,7 +922,7 @@
     },
     {
         "name": "Behance",
-        "description": "Behance is the world",
+        "description": "Behance is the world's largest creative network for showcasing and discovering creative work.",
         "categories": [
             "UI",
             "Inspiration"
@@ -945,7 +955,7 @@
     },
     {
         "name": "Ben Awad",
-        "description": "I",
+        "description": "I'm a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding.",
         "categories": [
             "Programming",
             "YouTube Channel"
@@ -1079,7 +1089,7 @@
     },
     {
         "name": "BilingualJobs.io",
-        "description": "The world",
+        "description": "The world's first bilingual job board. Find bilingual talent faster, or stand out as a bilingual.",
         "categories": [
             "Job"
         ],
@@ -1653,6 +1663,25 @@
         "url": "https://certdecoder.com/"
     },
     {
+        "name": "Certificates.dev",
+        "description": "Recognized certification exams for Vue (official certification endorsed by Evan You), React, Angular, Nuxt, and JS. We’ve helped developers from 680+ companies worldwide validate their frontend skills.",
+        "keywords": [
+            "frontend",
+            "Javascript",
+            "Vue",
+            "React",
+            "Angular",
+            "Certification",
+            "coding challenge"
+        ],
+        "categories": [
+            "Programming",
+            "Resume",
+            "Code Challenge"
+        ],
+        "url": "https://certificates.dev/"
+    },
+    {
         "name": "Chaindesk",
         "description": "Chaindesk is a complete support ecosystem to help you spend less time supporting your users - and more time growing your business.",
         "categories": [
@@ -1896,7 +1925,7 @@
     },
     {
         "name": "Clearbit",
-        "description": "Easily embed any company",
+        "description": "Easily embed any company's logo in your project with this simple & free API. Quickly lookup company logos using their domain. It's as easy as typing in a URL.",
         "categories": [
             "Logo"
         ],
@@ -2195,7 +2224,7 @@
     },
     {
         "name": "CodePen Radio",
-        "description": "A podcast all about what it",
+        "description": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
         "categories": [
             "Podcast",
             "Programming"
@@ -2336,7 +2365,7 @@
     },
     {
         "name": "Coding Tech",
-        "description": "Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here",
+        "description": "Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here's the list of Conferences that provided Coding Tech with EXPLICIT written publication permissions: PyData, MLConf, Build Stuff, Code::dive, PolyConf, AmsterdamJS, React Amsterdam, ReactiveConf, Jazoon Tech Days, SFNode, CppCon, Infinite Red, GDG Lviv, Mibuso.com, You Gotta Love Frontend, React Native EU, Node Summit, NodeConfEU, ConFoo, Pixels Camp, JavaScriptLA, The Linux Foundation, Oredev Conference, Techlahoma, fitcevents. Coding Tech also re-posts content which was originally published with the Creative Commons Attribution license (reuse allowed).",
         "categories": [
             "Programming",
             "YouTube Channel"
@@ -2441,7 +2470,7 @@
     },
     {
         "name": "Colorlib",
-        "description": "Colorlib is the ONLY resource you",
+        "description": "Colorlib is the ONLY resource you'll need to start a blog using WordPress! We offer comprehensive yet easy to follow guides well suited for beginner bloggers.",
         "categories": [
             "Template"
         ],
@@ -2613,6 +2642,22 @@
         "url": "https://github.com/Developer-Y/cs-video-courses"
     },
     {
+        "name": "Confetti Trigger",
+        "description": "A cross-platform background service that generates celebratory confetti animations triggered via HTTP API, enabling developers to add visual celebrations to automated workflows.",
+        "categories": [
+            "Tooling"
+        ],
+        "url": "https://confetti-trigger.dev/",
+        "keywords": [
+            "confetti",
+            "celebration",
+            "automation",
+            "api",
+            "ci/cd",
+            "background service"
+        ]
+    },
+    {
         "name": "Confs.Tech",
         "description": "Open-Source project that lists upcoming tech conferences. Everything is free and will stay free. It is a technical conferences finder.",
         "categories": [
@@ -2780,7 +2825,7 @@
     },
     {
         "name": "CopyAI",
-        "description": "We have created the world",
+        "description": "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds!",
         "categories": [
             "AI",
             "Writing"
@@ -2920,7 +2965,7 @@
     },
     {
         "name": "CS50",
-        "description": "This is CS50, Harvard University",
+        "description": "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard (and Yale!) course.",
         "categories": [
             "Programming",
             "YouTube Channel"
@@ -2977,7 +3022,7 @@
     },
     {
         "name": "CSS Scan",
-        "description": "Goodbye to ",
+        "description": "Goodbye to \"Inspect Element\" — Visualize the CSS of any element you hover over, instantly, and copy its entire rules with a single click.",
         "categories": [
             "Browser",
             "Extension",
@@ -3000,8 +3045,7 @@
         "categories": [
             "Blog",
             "Code Snippet",
-            "Newsletter",
-            "Programming"
+            "Newsletter"
         ],
         "url": "https://css-tricks.com"
     },
@@ -3366,15 +3410,6 @@
         ]
     },
     {
-        "name": "Default Alive",
-        "description": "Two founders share an unedited look at what it's like to bootstrap a startup through weekly updates. Chris Spags is the founder of Jetboost, a suite of no-code plugins for Webflow. Corey Haines is the founder of Swipe Files, a membership site for marketers built with no-code tools. They chronicle their journeys getting to and staying \"default alive\": profitable, self-sustaining, with infinite runway. – Listen to Default Alive instantly on your tablet, phone or browser - no downloads needed.",
-        "categories": [
-            "Podcast",
-            "Startup"
-        ],
-        "url": "https://podtail.com/en/podcast/default-alive/"
-    },
-    {
         "name": "Design Resources",
         "description": "A curated list of the best design resources handpicked from around the web.",
         "categories": [
@@ -3716,7 +3751,7 @@
     },
     {
         "name": "Divjoy",
-        "description": "The React codebase generator. Divjoy handles all the integration details. From routing to React hooks, you",
+        "description": "The React codebase generator. Divjoy handles all the integration details. From routing to React hooks, you'll have everything you need to build something great.",
         "categories": [
             "Programming",
             "Template"
@@ -3792,20 +3827,6 @@
         ]
     },
     {
-        "name": "DR Checker",
-        "categories": [
-            "Tooling",
-            "SEO",
-            "Analytics"
-        ],
-        "description": "Build Trust with DR Checker, Track changes in domain Rating",
-        "url": "https://drchecker.net/",
-        "keywords": [
-            "seo",
-            "Analytics"
-        ]
-    },
-    {
         "name": "Dracula theme",
         "description": "Dracula is a color scheme for code editors and terminal emulators such as Vim, Notepad++, iTerm, VSCode, Terminal.app, ZSH, and much more.",
         "categories": [
@@ -3817,7 +3838,7 @@
     },
     {
         "name": "DreamHost",
-        "description": "What",
+        "description": "What's better than WordPress? A Website and Page Builder for WordPress. Choose a theme, add content, images and more with ZERO code!",
         "categories": [
             "Website Builder"
         ],
@@ -3825,7 +3846,7 @@
     },
     {
         "name": "DreamStudio",
-        "description": "DreamStudio is an online creative tool to generate images with AI. Made by the world",
+        "description": "DreamStudio is an online creative tool to generate images with AI. Made by the world's leading open source generative AI company, Stability.ai.",
         "categories": [
             "AI",
             "Image"
@@ -4025,7 +4046,7 @@
     },
     {
         "name": "Edge",
-        "description": "See what",
+        "description": "See what's new on the latest version of the Microsoft Edge browser. Explore features, rewards, and more before you download the new browser today.",
         "categories": [
             "Browser"
         ],
@@ -4065,7 +4086,7 @@
     },
     {
         "name": "Eleventy High Performance Blog",
-        "description": "I",
+        "description": "I'm excited to announce the beta-release of eleventy-high-performance-blog–a high-performance blog template for 11ty based on this very...",
         "categories": [
             "Template"
         ],
@@ -4082,7 +4103,7 @@
     },
     {
         "name": "Emacs",
-        "description": "Emacs or EMACS is a family of text editors that are characterized by their extensibility. The manual for the most widely used variant, GNU Emacs, describes it as ",
+        "description": "Emacs or EMACS is a family of text editors that are characterized by their extensibility. The manual for the most widely used variant, GNU Emacs, describes it as \"the extensible, customizable, self-documenting, real-time display editor\".",
         "categories": [
             "Editor",
             "Terminal"
@@ -4091,7 +4112,7 @@
     },
     {
         "name": "EMBERWORK",
-        "description": "Whether you",
+        "description": "Whether you're actively looking for a new job or just always open to new opportunities you'll always have access to the best Ember.js jobs- here at EMBERWORK.",
         "categories": [
             "Job"
         ],
@@ -4119,8 +4140,7 @@
         "categories": [
             "Design",
             "Learn",
-            "UI",
-            "UX"
+            "UI"
         ],
         "url": "https://www.enhanceui.com/"
     },
@@ -4153,31 +4173,15 @@
     },
     {
         "name": "Escrow",
-        "description": "Secure online payment processing from the world’s largest online escrow service since 1999. Trusted by 1M+ users. Priced as low as 0.89%. For transactions export const resources: Resource[] = [00 to export const resources: Resource[] = [0M+.",
+        "description": "Secure online payment processing from the world’s largest online escrow service since 1999. Trusted by 1M+ users. Priced as low as 0.89%.",
         "categories": [
             "Domain"
         ],
         "url": "https://www.escrow.com/"
     },
     {
-        "name": "Eventyco",
-        "description": "Discover the best tech conferences and events for developers, designers, and tech professionals. Updated weekly.",
-        "categories": [
-            "Conference"
-        ],
-        "url": "https://dev.events/",
-        "keywords": [
-            "tech events",
-            "developer events",
-            "designer events",
-            "tech conferences",
-            "developer conferences",
-            "designer conferences"
-        ]
-    },
-    {
         "name": "Everyone Hates Marketers",
-        "description": "It",
+        "description": "It's the antidote to marketing bullshit. Receive a free, 8-lesson video course + a super practical, no-bullshit essay in your inbox every Tuesday.",
         "categories": [
             "Marketing"
         ],
@@ -4259,7 +4263,7 @@
     },
     {
         "name": "F5Bot",
-        "description": "F5Bot is a free service that emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. Use it to monitor your brand, your projects, or just topics that you",
+        "description": "F5Bot is a free service that emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. Use it to monitor your brand, your projects, or just topics that you're interested in.",
         "categories": [
             "Productivity",
             "Tooling"
@@ -4372,7 +4376,6 @@
         "categories": [
             "Authentication",
             "Database",
-            "Hosting",
             "Serverless"
         ],
         "url": "https://firebase.google.com/"
@@ -4783,7 +4786,6 @@
         "name": "Framer",
         "description": "Start your website with AI and design on a familiar canvas. Add animations, interactions and a CMS. Optimize for every breakpoint — no code needed and publish for free.",
         "categories": [
-            "Design",
             "Prototyping",
             "UI",
             "Website Builder"
@@ -5586,7 +5588,7 @@
     },
     {
         "name": "Grammarly",
-        "description": "Grammarly makes sure everything you type is easy to read, effective, and mistake-free. Try it today:.",
+        "description": "Grammarly makes sure everything you type is easy to read, effective, and mistake-free.",
         "categories": [
             "Productivity",
             "Writing"
@@ -6163,8 +6165,7 @@
         "categories": [
             "Icon",
             "Illustration",
-            "Image",
-            "Audio"
+            "Image"
         ],
         "url": "https://icons8.com"
     },
@@ -6175,14 +6176,6 @@
             "Icon"
         ],
         "url": "https://iconscout.com/unicons"
-    },
-    {
-        "name": "Iconshock",
-        "description": "The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.",
-        "categories": [
-            "Icon"
-        ],
-        "url": "https://www.iconshock.com/"
     },
     {
         "name": "Iconshock",
@@ -6675,7 +6668,7 @@
     },
     {
         "name": "Jsonify",
-        "description": "Jsonify is an AI ",
+        "description": "Jsonify is an AI \"data intern\" in the cloud -- an intelligent AI agent that can automate data collection and maintenance tasks involving the web and documents. Never update a spreadsheet yourself again!",
         "categories": [
             "AI",
             "Programming",
@@ -6767,7 +6760,7 @@
     },
     {
         "name": "Kevin Powell",
-        "description": "Helping you learn how to make the web, and make it look good while you",
+        "description": "Helping you learn how to make the web, and make it look good while you're at it. With videos every Tuesday and Thursday, I'll be bringing you How Tos and Tutorials, as well as simple tips and tricks, with a big focus on helping people see how wonderful CSS is!",
         "categories": [
             "Programming",
             "YouTube Channel",
@@ -6941,19 +6934,6 @@
             "UX"
         ],
         "url": "https://gumroad.com/a/124908659"
-    },
-    {
-        "name": "LandingPro AI",
-        "categories": [
-            "AI",
-            "Marketing"
-        ],
-        "description": "AI that writes website copy that actually sell",
-        "url": "https://landingpro.ai/",
-        "keywords": [
-            "marketing",
-            "ai"
-        ]
     },
     {
         "name": "LandingPro AI",
@@ -7173,20 +7153,6 @@
             "Learn",
             "Web3"
         ],
-        "url": "https://learnweb3.io/",
-        "keywords": [
-            "web3",
-            "web3 developer",
-            "web3 developer course"
-        ]
-    },
-    {
-        "name": "LearnWeb3",
-        "categories": [
-            "Learn",
-            "Web3"
-        ],
-        "description": "LearnWeb3 is the best place to turn you into a web3 developer for completely free.",
         "url": "https://learnweb3.io/",
         "keywords": [
             "web3",
@@ -7441,6 +7407,22 @@
         "url": "https://liteanalytics.com/"
     },
     {
+        "name": "LITSLINK",
+        "categories": [
+            "AI",
+            "Startup"
+        ],
+        "description": "LITSLINK is a software development company that builds custom web and mobile products, including SaaS, AI-driven solutions, and cloud platforms, helping businesses design, develop, and scale digital products from idea to launch.",
+        "url": "https://litslink.com",
+        "keywords": [
+            "software development",
+            "custom web and mobile products",
+            "SaaS",
+            "AI-driven solutions",
+            "cloud platforms"
+        ]
+    },
+    {
         "name": "Lobsters",
         "description": "Lobsters is a computing-focused community centered around link aggregation and discussion.",
         "categories": [
@@ -7676,7 +7658,7 @@
     },
     {
         "name": "MAKE: Bootstrapper",
-        "description": "Learn to bootstrap profitable startups the indie way — export const resources: Resource[] = [4.99.",
+        "description": "Learn to bootstrap profitable startups the indie way.",
         "categories": [
             "Book",
             "Startup"
@@ -7776,14 +7758,6 @@
             "Programming"
         ],
         "url": "https://mastery.games/"
-    },
-    {
-        "name": "Material Design",
-        "description": "Get Material Icons.",
-        "categories": [
-            "Icon"
-        ],
-        "url": "https://material.io/resources/icons"
     },
     {
         "name": "Material Design",
@@ -8042,7 +8016,15 @@
     },
     {
         "name": "Mocha",
-        "description": "AI app builder",
+        "description": "Simple, flexible, fun JavaScript test framework for Node.js and the browser.",
+        "categories": [
+            "Testing"
+        ],
+        "url": "https://mochajs.org/"
+    },
+    {
+        "name": "Mocha - AI app builder",
+        "description": "Create beautiful websites with words, not code.",
         "categories": [
             "AI",
             "Website Builder",
@@ -8056,14 +8038,6 @@
             "website builder",
             "vibe coding"
         ]
-    },
-    {
-        "name": "Mocha",
-        "description": "Simple, flexible, fun JavaScript test framework for Node.js and the browser.",
-        "categories": [
-            "Testing"
-        ],
-        "url": "https://mochajs.org/"
     },
     {
         "name": "Mockae",
@@ -8458,7 +8432,7 @@
     },
     {
         "name": "Obi Helper",
-        "description": "Simple AI chat widget for small businesses that aren",
+        "description": "Simple AI chat widget for small businesses that aren't ready for Intercom-like solutions.",
         "categories": [
             "AI",
             "Productivity"
@@ -8605,7 +8579,7 @@
     },
     {
         "name": "Open Ports",
-        "description": "Manage open ports from your macOS menu bar. Never google ",
+        "description": "Manage open ports from your macOS menu bar. Never google \"How to kill a process by port?\" again.",
         "categories": [
             "Tooling"
         ],
@@ -8694,18 +8668,10 @@
     },
     {
         "name": "Opera",
-        "description": "Get a faster, better browser. Opera",
-        "categories": [
-            "Browser"
-        ],
-        "url": "https://www.opera.com/"
-    },
-    {
-        "name": "Opera",
-        "categories": [
-            "Browser"
-        ],
         "description": "Get a faster, better browser. Opera's free VPN, Ad Blocker, integrated messengers and private mode help you browse securely and smoothly. Share files instantly between your desktop and mobile browsers and experience web 3.0 with a free cryptowallet.",
+        "categories": [
+            "Browser"
+        ],
         "url": "https://www.opera.com/"
     },
     {
@@ -9283,7 +9249,7 @@
     },
     {
         "name": "Programming podcast",
-        "description": "The ",
+        "description": "The \"Programming\" podcast with Minko Gechev is a weekly show that aims to make us better software engineers! With each new episode, you'll get exposed to a new idea in a brief and accessible way",
         "categories": [
             "Podcast",
             "Programming"
@@ -9544,8 +9510,7 @@
         "categories": [
             "Icon",
             "UI",
-            "Design",
-            "Color"
+            "Design"
         ],
         "url": "https://www.radix-ui.com/",
         "keywords": [
@@ -9637,7 +9602,6 @@
         "name": "React Bits",
         "description": "A large collection of animated React components made to spice up your web creations. Animations, components, backgrounds, and awesome stuff with customization options as props.",
         "categories": [
-            "Library",
             "Programming",
             "UI",
             "Animation"
@@ -9946,7 +9910,7 @@
     },
     {
         "name": "RemoteSalary",
-        "description": "20,000+ jobs all over export const resources: Resource[] = [50,000 salary. Find your ideal high paying remote role. Searches 2,000,000+ job postings across 12,000+ companies daily to find the highest paying remote roles.",
+        "description": "20,000+ jobs all over $50,000 salary. Find your ideal high paying remote role. Searches 2,000,000+ job postings across 12,000+ companies daily to find the highest paying remote roles.",
         "categories": [
             "Job",
             "Remote",
@@ -9987,7 +9951,7 @@
     },
     {
         "name": "rendezvous with cassidoo",
-        "description": "Rendezvous with cassidoo, probably the best newsletter you",
+        "description": "Rendezvous with cassidoo, probably the best newsletter you'll ever read.",
         "categories": [
             "Newsletter",
             "Programming"
@@ -10844,7 +10808,7 @@
     },
     {
         "name": "Simple Analytics",
-        "description": "Simple Analytics gives you the analytics you need without invading the privacy of your users, with a clean interface, and simple integration. GDPR, CCPA and, PECR compliant because we don",
+        "description": "Simple Analytics gives you the analytics you need without invading the privacy of your users, with a clean interface, and simple integration. GDPR, CCPA and, PECR compliant because we don't handle PII data and set no cookies.",
         "categories": [
             "Analytics"
         ],
@@ -10996,7 +10960,7 @@
     },
     {
         "name": "Slow & Steady",
-        "description": "Join us as we share what it",
+        "description": "Join us as we share what it's like to build and launch a bootstrapped startup while working for yourself full-time. Benedikt is working on Userlist with two other co-founders and Brian is running solo on a product to combat loneliness on remote teams.",
         "categories": [
             "Podcast",
             "Startup"
@@ -11004,24 +10968,8 @@
         "url": "https://www.slowandsteadypodcast.com/"
     },
     {
-        "name": "Smartshort",
-        "description": "Text to video",
-        "categories": [
-            "Video",
-            "AI",
-            "Marketing"
-        ],
-        "url": "https://smartshort.co",
-        "keywords": [
-            "video generator",
-            "tiktok generator",
-            "short form content generator",
-            "text to short"
-        ]
-    },
-    {
         "name": "Smashicons",
-        "description": "Download the world",
+        "description": "Download the world's largest and most complete icon set. Smashicons includes over 335,975 icons for Designers and Developers.",
         "categories": [
             "Icon"
         ],
@@ -11242,7 +11190,7 @@
     },
     {
         "name": "Soundstripe",
-        "description": "Every creator",
+        "description": "Every creator's one-stop shop for the best royalty free music, SFX, and stock video. Purchase a license for one file, or subscribe for unlimited access.",
         "categories": [
             "Audio"
         ],
@@ -11250,7 +11198,7 @@
     },
     {
         "name": "Sourcetable",
-        "description": "Sourcetable is an AI spreadsheet and data analyst. It has the same notation, formulas and charting as Excel, paired with the world",
+        "description": "Sourcetable is an AI spreadsheet and data analyst. It has the same notation, formulas and charting as Excel, paired with the world's most advanced AI.",
         "categories": [
             "Analytics",
             "Productivity",
@@ -11396,7 +11344,7 @@
     },
     {
         "name": "StarOps",
-        "description": "AI Platform Engineer",
+        "description": "Intelligent agents for platform engineering teams that automate and streamline your cloud-native infrastructure at production scale.",
         "categories": [
             "Cloud Computing",
             "Tooling",
@@ -11420,23 +11368,6 @@
             "Code Snippet"
         ],
         "url": "https://startbootstrap.com/snippets/"
-    },
-    {
-        "name": "StartEase",
-        "description": "The Nuxt SaaS boilerplate focused on Growth & Conversion.",
-        "categories": [
-            "Startup",
-            "Template",
-            "Productivity",
-            "Marketing"
-        ],
-        "url": "https://startease.dev/",
-        "keywords": [
-            "Nuxt template",
-            "SaaS boilerplate",
-            "email marketing",
-            "content marketing"
-        ]
     },
     {
         "name": "StartKit.AI",
@@ -11625,7 +11556,7 @@
     },
     {
         "name": "Sublime Text",
-        "description": "Sublime Text is a sophisticated text editor for code, markup and prose. You",
+        "description": "Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.",
         "categories": [
             "Editor",
             "Programming"
@@ -11687,7 +11618,7 @@
     },
     {
         "name": "Supercamp",
-        "description": "AI workspace for business",
+        "description": "A managed AI interface that connects everything — LLM providers, MCP tools, your workflows.",
         "categories": [
             "Productivity",
             "AI",
@@ -11856,7 +11787,7 @@
     },
     {
         "name": "Tailor Brands",
-        "description": "Tailor Brands AI logo maker allows you to create a logo design that",
+        "description": "Tailor Brands AI logo maker allows you to create a logo design that's a perfect match for your business. No pre-made logo templates. Unique designs only.",
         "categories": [
             "Logo"
         ],
@@ -12000,6 +11931,27 @@
         ]
     },
     {
+        "name": "Test API",
+        "description": "Use Test API for RESTful API testing. This Postman alternative tests REST APIs online with support for all HTTP methods, custom headers, and real-time response visualization.",
+        "categories": [
+            "Browser",
+            "Extension"
+        ],
+        "url": "https://chromewebstore.google.com/detail/test-api/bkndipmbnodeicgpmldococoiolcoicg",
+        "keywords": [
+            "api",
+            "rest",
+            "http",
+            "postman",
+            "developer",
+            "testing",
+            "endpoint",
+            "request",
+            "json",
+            "curl"
+        ]
+    },
+    {
         "name": "Test Automation University",
         "description": "Become a test automation superstar! 🌟.",
         "categories": [
@@ -12087,6 +12039,22 @@
         "url": "https://www.testing-whiz.com/"
     },
     {
+        "name": "TestSprite",
+        "description": "The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow.",
+        "categories": [
+            "Testing",
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://www.testsprite.com/",
+        "keywords": [
+            "ai testing agent",
+            "testing automation",
+            "software qa",
+            "ui testing"
+        ]
+    },
+    {
         "name": "The A11Y Project",
         "description": "The A11Y Project is a community-driven effort to make digital accessibility easier.",
         "categories": [
@@ -12136,7 +12104,7 @@
     },
     {
         "name": "The Hammerstone Podcast",
-        "description": "Listen in on Sean",
+        "description": "Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm!",
         "categories": [
             "Podcast",
             "Startup"
@@ -12175,8 +12143,7 @@
         "categories": [
             "Programming",
             "YouTube Channel",
-            "Learn",
-            "Programming"
+            "Learn"
         ],
         "url": "https://www.thenetninja.co.uk/",
         "keywords": [
@@ -12218,7 +12185,7 @@
     },
     {
         "name": "Thirus",
-        "description": "Thirus (pronounced ",
+        "description": "Thirus (pronounced \"thigh-rus\") is an effort to bring hundreds of simple web development tips and tutorials together that you can consume regularly on your coding journey. I am Shruti Balasa - the owner of this channel. I'm a Full Stack Web Developer, Mentor, Course Creator, Tech Speaker and now a Youtuber from Bangalore, India.",
         "categories": [
             "Programming",
             "YouTube Channel"
@@ -12370,7 +12337,7 @@
         "url": "https://www.traversymedia.com/"
     },
     {
-        "name": "Traversy Media",
+        "name": "Traversy Media - YouTube Channel",
         "description": "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more.",
         "categories": [
             "Programming",
@@ -12493,7 +12460,7 @@
     },
     {
         "name": "Tweet Hunter",
-        "description": "Build and monetize your Twitter audience. Get sales, growth and new networks. Faster than what you",
+        "description": "Build and monetize your Twitter audience. Get sales, growth and new networks. Faster than what you're currently trying.",
         "categories": [
             "Marketing",
             "Social Media"
@@ -12671,8 +12638,7 @@
         "categories": [
             "Newsletter",
             "Programming",
-            "Learn",
-            "Programming"
+            "Learn"
         ],
         "url": "https://ui.dev/"
     },
@@ -12711,18 +12677,6 @@
         "url": "https://uigradients.com/"
     },
     {
-        "name": "UIHut",
-        "description": "Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices.",
-        "categories": [
-            "Design",
-            "Inspiration",
-            "UI",
-            "Icon",
-            "Illustration"
-        ],
-        "url": "https://www.uihut.com/"
-    },
-    {
         "name": "UIkit",
         "description": "UIkit, a lightweight and modular front-end framework for developing fast and powerful web interfaces.",
         "categories": [
@@ -12738,8 +12692,7 @@
         "categories": [
             "Design",
             "Inspiration",
-            "UI",
-            "Illustration"
+            "UI"
         ],
         "url": "https://uiverse.io/"
     },
@@ -12825,15 +12778,6 @@
             "Productivity"
         ],
         "url": "https://untools.co/"
-    },
-    {
-        "name": "Up For Grabs",
-        "description": "This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.",
-        "categories": [
-            "Hacktoberfest",
-            "Open Source"
-        ],
-        "url": "https://up-for-grabs.net/#/"
     },
     {
         "name": "Up For Grabs",
@@ -13167,8 +13111,6 @@
         "name": "Visily",
         "description": "Visily leverages AI to generate stunning app wireframes and prototypes from various inputs such as text prompts, hand-drawn sketches, and screenshots of existing applications or websites.",
         "categories": [
-            "UI",
-            "UX",
             "Design",
             "Prototyping",
             "AI"
@@ -13532,7 +13474,7 @@
     },
     {
         "name": "Website Authority Checker",
-        "description": "Free tool to check the ",
+        "description": "Free tool to check the \"authority\" of any website based on the quality and quantity of its external backlinks.",
         "categories": [
             "SEO"
         ],
@@ -13782,6 +13724,20 @@
             "UI"
         ],
         "url": "https://xstyled.dev/"
+    },
+    {
+        "name": "YAMLine",
+        "description": "YAMLine is an online YAML toolbox featuring a linter, formatter, merger, AI fixer, converters, and a Kubernetes manifest validator.",
+        "categories": [
+            "Tooling"
+        ],
+        "url": "https://yamline.com/",
+        "keywords": [
+            "yaml",
+            "web",
+            "developer tools",
+            "tools"
+        ]
     },
     {
         "name": "ZapKit",

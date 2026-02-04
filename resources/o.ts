@@ -3,7 +3,7 @@ import { Resource } from 'types'
 export const resources: Resource[] = [
     {
         name: 'Obi Helper',
-        description: 'Simple AI chat widget for small businesses that aren',
+        description: "Simple AI chat widget for small businesses that aren't ready for Intercom-like solutions.",
         categories: ['AI', 'Productivity'],
         url: 'https://www.obihelper.com/',
     },
@@ -104,10 +104,17 @@ export const resources: Resource[] = [
     },
     {
         name: 'Open Ports',
-        description: 'Manage open ports from your macOS menu bar. Never google ',
+        description: 'Manage open ports from your macOS menu bar. Never google "How to kill a process by port?" again.',
         categories: ['Tooling'],
         url: 'https://openports.app',
         keywords: ['web development', 'containers', 'macOS'],
+    },
+    {
+        name: 'Open Source Alternatives',
+        description: 'Handpicked Open Source Alternatives to Paid Softwares',
+        categories: ['Open Source', 'Productivity', 'Tooling'],
+        url: 'https://www.opensourcealternatives.to',
+        keywords: ['directory', 'open source', 'marketing tools', 'development tools', 'alternatives'],
     },
     {
         name: 'Open Source Boilerplates',
@@ -143,20 +150,6 @@ export const resources: Resource[] = [
         url: 'https://opensource.builders/',
     },
     {
-        name: 'Open Source Alternatives',
-        description: 'Handpicked Open Source Alternatives to Paid Softwares',
-        categories: ['Open Source', 'Productivity', 'Tooling'],
-        url: 'https://www.opensourcealternatives.to',
-        keywords: ['directory', 'open source', 'marketing tools', 'development tools', 'alternatives'],
-    },
-    {
-        name: 'Opera',
-        categories: ['Browser'],
-        description:
-            "Get a faster, better browser. Opera's free VPN, Ad Blocker, integrated messengers and private mode help you browse securely and smoothly. Share files instantly between your desktop and mobile browsers and experience web 3.0 with a free cryptowallet.",
-        url: 'https://www.opera.com/',
-    },
-    {
         name: 'OpenTools',
         description:
             'Discover and compare over 10,000 AI tools, curated and ranked by our community of over 50,000 users.',
@@ -166,7 +159,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Opera',
-        description: 'Get a faster, better browser. Opera',
+        description:
+            "Get a faster, better browser. Opera's free VPN, Ad Blocker, integrated messengers and private mode help you browse securely and smoothly. Share files instantly between your desktop and mobile browsers and experience web 3.0 with a free cryptowallet.",
         categories: ['Browser'],
         url: 'https://www.opera.com/',
     },

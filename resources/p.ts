@@ -313,7 +313,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Programming podcast',
-        description: 'The ',
+        description:
+            'The "Programming" podcast with Minko Gechev is a weekly show that aims to make us better software engineers! With each new episode, you\'ll get exposed to a new idea in a brief and accessible way',
         categories: ['Podcast', 'Programming'],
         url: 'https://podcast.mgechev.com/',
     },

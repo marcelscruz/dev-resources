@@ -16,13 +16,6 @@ export const resources: Resource[] = [
         keywords: ['auth', 'authentication', 'passwordless'],
     },
     {
-        name: 'MagicBox.tools',
-        description: 'Best AI Tools Explore 2024 | Magicbox.Tools AI Tools Directory',
-        categories: ['AI', 'Tooling'],
-        url: 'https://magicbox.tools',
-        keywords: ['ai tools', 'ai tools navigation', 'ai tools directory'],
-    },
-    {
         name: 'Magic Potion',
         description: 'Visual AI Prompt Editor',
         categories: ['Productivity', 'AI', 'Editor'],
@@ -34,6 +27,13 @@ export const resources: Resource[] = [
             'visual prompt builder',
             'llm prompt design',
         ],
+    },
+    {
+        name: 'MagicBox.tools',
+        description: 'Best AI Tools Explore 2024 | Magicbox.Tools AI Tools Directory',
+        categories: ['AI', 'Tooling'],
+        url: 'https://magicbox.tools',
+        keywords: ['ai tools', 'ai tools navigation', 'ai tools directory'],
     },
     {
         name: 'Mailchimp',
@@ -64,8 +64,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'MAKE: Bootstrapper',
-        description:
-            'Learn to bootstrap profitable startups the indie way — export const resources: Resource[] = [4.99.',
+        description: 'Learn to bootstrap profitable startups the indie way.',
         categories: ['Book', 'Startup'],
         url: 'https://makebook.io/',
     },
@@ -131,12 +130,6 @@ export const resources: Resource[] = [
             'Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.',
         categories: ['Library', 'Programming', 'UI'],
         url: 'https://material.io/',
-    },
-    {
-        name: 'Material Design',
-        description: 'Get Material Icons.',
-        categories: ['Icon'],
-        url: 'https://material.io/resources/icons',
     },
     {
         name: 'Material Design Palette',
@@ -315,8 +308,8 @@ export const resources: Resource[] = [
         url: 'https://mochajs.org/',
     },
     {
-        name: 'Mocha',
-        description: 'AI app builder',
+        name: 'Mocha - AI app builder',
+        description: 'Create beautiful websites with words, not code.',
         categories: ['AI', 'Website Builder', 'Productivity'],
         url: 'https://getmocha.com',
         keywords: ['ai app builder', 'ai website builder', 'no code', 'website builder', 'vibe coding'],

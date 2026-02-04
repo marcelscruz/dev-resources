@@ -166,13 +166,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'Default Alive',
-        description:
-            'Two founders share an unedited look at what it\'s like to bootstrap a startup through weekly updates. Chris Spags is the founder of Jetboost, a suite of no-code plugins for Webflow. Corey Haines is the founder of Swipe Files, a membership site for marketers built with no-code tools. They chronicle their journeys getting to and staying "default alive": profitable, self-sustaining, with infinite runway. – Listen to Default Alive instantly on your tablet, phone or browser - no downloads needed.',
-        categories: ['Podcast', 'Startup'],
-        url: 'https://podtail.com/en/podcast/default-alive/',
-    },
-    {
         name: 'Design Resources',
         description: 'A curated list of the best design resources handpicked from around the web.',
         categories: ['Design', 'UI'],
@@ -288,6 +281,14 @@ export const resources: Resource[] = [
         url: 'https://devhints.io/',
     },
     {
+        name: 'DevHub',
+        description:
+            'DevHub is a platform to discover and upvote the best tech products. Find top products launching daily.',
+        categories: ['Marketing', 'Startup'],
+        url: 'https://devhub.best/',
+        keywords: ['directory', 'community', 'seo', 'growth'],
+    },
+    {
         name: 'Devicons',
         description: 'An iconic font made for developers.',
         categories: ['Icon'],
@@ -314,14 +315,6 @@ export const resources: Resource[] = [
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ',
         keywords: ['HTML CSS Javascript Web Development Coding Design'],
-    },
-    {
-        name: 'DevHub',
-        description:
-            'DevHub is a platform to discover and upvote the best tech products. Find top products launching daily.',
-        categories: ['Marketing', 'Startup'],
-        url: 'https://devhub.best/',
-        keywords: ['directory', 'community', 'seo', 'growth'],
     },
     {
         name: 'Dhiwise',
@@ -394,7 +387,7 @@ export const resources: Resource[] = [
     {
         name: 'Divjoy',
         description:
-            'The React codebase generator. Divjoy handles all the integration details. From routing to React hooks, you',
+            "The React codebase generator. Divjoy handles all the integration details. From routing to React hooks, you'll have everything you need to build something great.",
         categories: ['Programming', 'Template'],
         url: 'https://divjoy.com/',
     },
@@ -442,13 +435,6 @@ export const resources: Resource[] = [
         keywords: ['dotnet', 'remote', 'jobs'],
     },
     {
-        name: 'DR Checker',
-        categories: ['Tooling', 'SEO', 'Analytics'],
-        description: 'Build Trust with DR Checker, Track changes in domain Rating',
-        url: 'https://drchecker.net/',
-        keywords: ['seo', 'Analytics'],
-    },
-    {
         name: 'Dracula theme',
         description:
             'Dracula is a color scheme for code editors and terminal emulators such as Vim, Notepad++, iTerm, VSCode, Terminal.app, ZSH, and much more.',
@@ -457,13 +443,15 @@ export const resources: Resource[] = [
     },
     {
         name: 'DreamHost',
-        description: 'What',
+        description:
+            "What's better than WordPress? A Website and Page Builder for WordPress. Choose a theme, add content, images and more with ZERO code!",
         categories: ['Website Builder'],
         url: 'https://www.dreamhost.com/website-builder/',
     },
     {
         name: 'DreamStudio',
-        description: 'DreamStudio is an online creative tool to generate images with AI. Made by the world',
+        description:
+            "DreamStudio is an online creative tool to generate images with AI. Made by the world's leading open source generative AI company, Stability.ai.",
         categories: ['AI', 'Image'],
         url: 'https://dreamstudio.ai',
         keywords: ['ai', 'image'],

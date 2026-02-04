@@ -23,7 +23,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Tailor Brands',
-        description: 'Tailor Brands AI logo maker allows you to create a logo design that',
+        description:
+            "Tailor Brands AI logo maker allows you to create a logo design that's a perfect match for your business. No pre-made logo templates. Unique designs only.",
         categories: ['Logo'],
         url: 'https://www.tailorbrands.com/logo-maker',
     },
@@ -128,6 +129,14 @@ export const resources: Resource[] = [
         keywords: ['accessibility', 'a11y', 'testing'],
     },
     {
+        name: 'Test API',
+        description:
+            'Use Test API for RESTful API testing. This Postman alternative tests REST APIs online with support for all HTTP methods, custom headers, and real-time response visualization.',
+        categories: ['Browser', 'Extension'],
+        url: 'https://chromewebstore.google.com/detail/test-api/bkndipmbnodeicgpmldococoiolcoicg',
+        keywords: ['api', 'rest', 'http', 'postman', 'developer', 'testing', 'endpoint', 'request', 'json', 'curl'],
+    },
+    {
         name: 'Test Automation University',
         description: 'Become a test automation superstar! 🌟.',
         categories: ['Learn', 'Programming', 'Testing'],
@@ -189,6 +198,14 @@ export const resources: Resource[] = [
         url: 'https://www.testing-whiz.com/',
     },
     {
+        name: 'TestSprite',
+        description:
+            'The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow.',
+        categories: ['Testing', 'AI', 'Tooling'],
+        url: 'https://www.testsprite.com/',
+        keywords: ['ai testing agent', 'testing automation', 'software qa', 'ui testing'],
+    },
+    {
         name: 'The A11Y Project',
         description: 'The A11Y Project is a community-driven effort to make digital accessibility easier.',
         categories: ['Accessibility'],
@@ -222,7 +239,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'The Hammerstone Podcast',
-        description: 'Listen in on Sean',
+        description:
+            "Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm!",
         categories: ['Podcast', 'Startup'],
         url: 'https://hammerstone.dev/podcast',
     },
@@ -255,7 +273,7 @@ export const resources: Resource[] = [
         name: 'The Net Ninja',
         description:
             'Black-belt your web skills. Learn JavaScript, CSS, Node.js, React, Vue.js, Firebase, HTML & more.',
-        categories: ['Programming', 'YouTube Channel', 'Learn', 'Programming'],
+        categories: ['Programming', 'YouTube Channel', 'Learn'],
         url: 'https://www.thenetninja.co.uk/',
         keywords: [
             'html css javascript tutorials web design web development development front-end development wordpress mvc responsive design beginner html beginner ...',
@@ -278,7 +296,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Thirus',
-        description: 'Thirus (pronounced ',
+        description:
+            'Thirus (pronounced "thigh-rus") is an effort to bring hundreds of simple web development tips and tutorials together that you can consume regularly on your coding journey. I am Shruti Balasa - the owner of this channel. I\'m a Full Stack Web Developer, Mentor, Course Creator, Tech Speaker and now a Youtuber from Bangalore, India.',
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UCDQTzZ871T7uJpx9yeMPhAw',
     },
@@ -389,19 +408,19 @@ export const resources: Resource[] = [
     {
         name: 'Traversy Media',
         description:
+            'Traversy Media offers professional, project-based web development and programming courses that explain complex topics in an easy-to-understand manner. Learn HTML, CSS, JavaScript, PHP, Python and More.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://www.traversymedia.com/',
+    },
+    {
+        name: 'Traversy Media - YouTube Channel',
+        description:
             'Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more.',
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA',
         keywords: [
             'Programming Tutorials Web Development Tutorials Web Development Videos Web Design Tutorials Learn Web Design Learn Programming',
         ],
-    },
-    {
-        name: 'Traversy Media',
-        description:
-            'Traversy Media offers professional, project-based web development and programming courses that explain complex topics in an easy-to-understand manner. Learn HTML, CSS, JavaScript, PHP, Python and More.',
-        categories: ['Learn', 'Programming'],
-        url: 'https://www.traversymedia.com/',
     },
     {
         name: 'Treblle',
@@ -484,7 +503,7 @@ export const resources: Resource[] = [
     {
         name: 'Tweet Hunter',
         description:
-            'Build and monetize your Twitter audience. Get sales, growth and new networks. Faster than what you',
+            "Build and monetize your Twitter audience. Get sales, growth and new networks. Faster than what you're currently trying.",
         categories: ['Marketing', 'Social Media'],
         url: 'https://tweethunter.io',
         keywords: ['twitter', 'growth', 'scheduling', 'social media'],
@@ -505,19 +524,19 @@ export const resources: Resource[] = [
         keywords: ['typing'],
     },
     {
-        name: 'Typersguild',
-        description: 'Master typing by typing out classic literature and wikipedia articles',
-        categories: ['Typing'],
-        url: 'https://typersguild.com',
-        keywords: ['typing', 'touch typing', 'type books', 'type wikipedia'],
-    },
-    {
         name: 'TypeQuicker',
         description:
             'Practice typing code in any language. Learn touch typing. Type paragraphs from books, trivia and mure more',
         categories: ['Typing', 'Learn'],
         url: 'https://typequicker.com',
         keywords: ['typing', 'touch typing', 'ai-powered', 'typing speed', 'programming languages'],
+    },
+    {
+        name: 'Typersguild',
+        description: 'Master typing by typing out classic literature and wikipedia articles',
+        categories: ['Typing'],
+        url: 'https://typersguild.com',
+        keywords: ['typing', 'touch typing', 'type books', 'type wikipedia'],
     },
     {
         name: 'TypingBeast',

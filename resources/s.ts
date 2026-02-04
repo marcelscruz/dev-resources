@@ -147,14 +147,6 @@ export const resources: Resource[] = [
         keywords: ['html5', 'ui', 'library', 'framework', 'javascript'],
     },
     {
-        name: 'Server-side Rendering (SSR) Checker',
-        description:
-            'Check if a given URL is server-side rendered or not by visually comparing the server-side rendered and the regular versions of the page.',
-        categories: ['SEO', 'Performance'],
-        url: 'https://www.crawlably.com/ssr-checker/',
-        keywords: ['SEO', 'frontend', 'javascript', 'performance'],
-    },
-    {
         name: 'SEO Blueprint',
         description: 'Cutting-edge SEO tactics that are actually ranking websites.',
         categories: ['SEO'],
@@ -203,6 +195,14 @@ export const resources: Resource[] = [
         categories: ['SEO', 'Marketing'],
         url: 'https://serplux.com/',
         keywords: ['SEO', 'SEO AI Agent', 'Content Automation', 'SEO Audit', 'Keyword Finder'],
+    },
+    {
+        name: 'Server-side Rendering (SSR) Checker',
+        description:
+            'Check if a given URL is server-side rendered or not by visually comparing the server-side rendered and the regular versions of the page.',
+        categories: ['SEO', 'Performance'],
+        url: 'https://www.crawlably.com/ssr-checker/',
+        keywords: ['SEO', 'frontend', 'javascript', 'performance'],
     },
     {
         name: 'Serverless Stack',
@@ -331,7 +331,7 @@ export const resources: Resource[] = [
     {
         name: 'Simple Analytics',
         description:
-            'Simple Analytics gives you the analytics you need without invading the privacy of your users, with a clean interface, and simple integration. GDPR, CCPA and, PECR compliant because we don',
+            "Simple Analytics gives you the analytics you need without invading the privacy of your users, with a clean interface, and simple integration. GDPR, CCPA and, PECR compliant because we don't handle PII data and set no cookies.",
         categories: ['Analytics'],
         url: 'https://simpleanalytics.com/',
     },
@@ -449,20 +449,15 @@ export const resources: Resource[] = [
     },
     {
         name: 'Slow & Steady',
-        description: 'Join us as we share what it',
+        description:
+            "Join us as we share what it's like to build and launch a bootstrapped startup while working for yourself full-time. Benedikt is working on Userlist with two other co-founders and Brian is running solo on a product to combat loneliness on remote teams.",
         categories: ['Podcast', 'Startup'],
         url: 'https://www.slowandsteadypodcast.com/',
     },
     {
-        name: 'Smartshort',
-        description: 'Text to video',
-        categories: ['Video', 'AI', 'Marketing'],
-        url: 'https://smartshort.co',
-        keywords: ['video generator', 'tiktok generator', 'short form content generator', 'text to short'],
-    },
-    {
         name: 'Smashicons',
-        description: 'Download the world',
+        description:
+            "Download the world's largest and most complete icon set. Smashicons includes over 335,975 icons for Designers and Developers.",
         categories: ['Icon'],
         url: 'https://smashicons.com',
         keywords: [
@@ -552,19 +547,19 @@ export const resources: Resource[] = [
         keywords: ['social', 'marketing resources', 'marketing strategies', 'tiktok growth hacks'],
     },
     {
+        name: 'Social Intents',
+        description: 'Live Chat by Social Intents is the easiest way to boost sales and improve customer service',
+        categories: ['AI', 'Productivity', 'Marketing'],
+        url: 'https://www.socialintents.com/',
+        keywords: ['live chat', 'ai', 'sales', 'customer service'],
+    },
+    {
         name: 'Social Proof Examples',
         description:
             'Real-world examples of social proof strategies used by various brands to build trust, drive conversions, and enhance credibility.',
         categories: ['Marketing', 'Startup'],
         url: 'https://socialproofexamples.com/',
         keywords: ['social proof', 'testimonials', 'reviews', 'trust', 'cro', 'converstion rate optimization'],
-    },
-    {
-        name: 'Social Intents',
-        description: 'Live Chat by Social Intents is the easiest way to boost sales and improve customer service',
-        categories: ['AI', 'Productivity', 'Marketing'],
-        url: 'https://www.socialintents.com/',
-        keywords: ['live chat', 'ai', 'sales', 'customer service'],
     },
     {
         name: 'SocialKit',
@@ -616,14 +611,15 @@ export const resources: Resource[] = [
     },
     {
         name: 'Soundstripe',
-        description: 'Every creator',
+        description:
+            "Every creator's one-stop shop for the best royalty free music, SFX, and stock video. Purchase a license for one file, or subscribe for unlimited access.",
         categories: ['Audio'],
         url: 'https://www.soundstripe.com/',
     },
     {
         name: 'Sourcetable',
         description:
-            'Sourcetable is an AI spreadsheet and data analyst. It has the same notation, formulas and charting as Excel, paired with the world',
+            "Sourcetable is an AI spreadsheet and data analyst. It has the same notation, formulas and charting as Excel, paired with the world's most advanced AI.",
         categories: ['Analytics', 'Productivity', 'Startup'],
         url: 'https://sourcetable.com',
         keywords: [
@@ -736,7 +732,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'StarOps',
-        description: 'AI Platform Engineer',
+        description:
+            'Intelligent agents for platform engineering teams that automate and streamline your cloud-native infrastructure at production scale.',
         categories: ['Cloud Computing', 'Tooling', 'AI'],
         url: 'https://ingenimax.ai',
         keywords: ['devops tool', 'mlops tool', 'kubernetes', 'cloud-native stack', 'ai agent', 'cloud infrastructure'],
@@ -747,13 +744,6 @@ export const resources: Resource[] = [
             'Trusted by tens of millions of users worldwide since 2013, Start Bootstrap develops website themes, templates, snippets, and more to help you get started on your next project!',
         categories: ['Template', 'Code Snippet'],
         url: 'https://startbootstrap.com/snippets/',
-    },
-    {
-        name: 'StartEase',
-        description: 'The Nuxt SaaS boilerplate focused on Growth & Conversion.',
-        categories: ['Startup', 'Template', 'Productivity', 'Marketing'],
-        url: 'https://startease.dev/',
-        keywords: ['Nuxt template', 'SaaS boilerplate', 'email marketing', 'content marketing'],
     },
     {
         name: 'StartKit.AI',
@@ -885,7 +875,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Sublime Text',
-        description: 'Sublime Text is a sophisticated text editor for code, markup and prose. You',
+        description:
+            "Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.",
         categories: ['Editor', 'Programming'],
         url: 'https://www.sublimetext.com/',
     },
@@ -925,7 +916,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Supercamp',
-        description: 'AI workspace for business',
+        description: 'A managed AI interface that connects everything — LLM providers, MCP tools, your workflows.',
         categories: ['Productivity', 'AI', 'Analytics'],
         url: 'https://supercamp.ai/',
         keywords: ['ai workspace', 'ai assistant', 'ai agents', 'workflow automation'],

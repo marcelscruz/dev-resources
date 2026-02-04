@@ -84,6 +84,14 @@ export const resources: Resource[] = [
         url: 'https://certdecoder.com/',
     },
     {
+        name: 'Certificates.dev',
+        description:
+            'Recognized certification exams for Vue (official certification endorsed by Evan You), React, Angular, Nuxt, and JS. We’ve helped developers from 680+ companies worldwide validate their frontend skills.',
+        keywords: ['frontend', 'Javascript', 'Vue', 'React', 'Angular', 'Certification', 'coding challenge'],
+        categories: ['Programming', 'Resume', 'Code Challenge'],
+        url: 'https://certificates.dev/',
+    },
+    {
         name: 'Chaindesk',
         description:
             'Chaindesk is a complete support ecosystem to help you spend less time supporting your users - and more time growing your business.',
@@ -247,7 +255,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Clearbit',
-        description: 'Easily embed any company',
+        description:
+            "Easily embed any company's logo in your project with this simple & free API. Quickly lookup company logos using their domain. It's as easy as typing in a URL.",
         categories: ['Logo'],
         url: 'https://clearbit.com/logo',
         keywords: ['company logos'],
@@ -470,7 +479,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'CodePen Radio',
-        description: 'A podcast all about what it',
+        description:
+            "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
         categories: ['Podcast', 'Programming'],
         url: 'https://blog.codepen.io/radio/',
     },
@@ -592,7 +602,7 @@ export const resources: Resource[] = [
     {
         name: 'Coding Tech',
         description:
-            'Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here',
+            "Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here's the list of Conferences that provided Coding Tech with EXPLICIT written publication permissions: PyData, MLConf, Build Stuff, Code::dive, PolyConf, AmsterdamJS, React Amsterdam, ReactiveConf, Jazoon Tech Days, SFNode, CppCon, Infinite Red, GDG Lviv, Mibuso.com, You Gotta Love Frontend, React Native EU, Node Summit, NodeConfEU, ConFoo, Pixels Camp, JavaScriptLA, The Linux Foundation, Oredev Conference, Techlahoma, fitcevents. Coding Tech also re-posts content which was originally published with the Creative Commons Attribution license (reuse allowed).",
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ',
         keywords: [
@@ -665,7 +675,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Colorlib',
-        description: 'Colorlib is the ONLY resource you',
+        description:
+            "Colorlib is the ONLY resource you'll need to start a blog using WordPress! We offer comprehensive yet easy to follow guides well suited for beginner bloggers.",
         categories: ['Template'],
         url: 'https://colorlib.com/',
     },
@@ -802,6 +813,14 @@ export const resources: Resource[] = [
         url: 'https://github.com/Developer-Y/cs-video-courses',
     },
     {
+        name: 'Confetti Trigger',
+        description:
+            'A cross-platform background service that generates celebratory confetti animations triggered via HTTP API, enabling developers to add visual celebrations to automated workflows.',
+        categories: ['Tooling'],
+        url: 'https://confetti-trigger.dev/',
+        keywords: ['confetti', 'celebration', 'automation', 'api', 'ci/cd', 'background service'],
+    },
+    {
         name: 'Confs.Tech',
         description:
             'Open-Source project that lists upcoming tech conferences. Everything is free and will stay free. It is a technical conferences finder.',
@@ -932,7 +951,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'CopyAI',
-        description: 'We have created the world',
+        description:
+            "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds!",
         categories: ['AI', 'Writing'],
         url: 'https://www.copy.ai/',
     },
@@ -1039,7 +1059,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'CS50',
-        description: 'This is CS50, Harvard University',
+        description:
+            "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard (and Yale!) course.",
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/user/cs50tv',
         keywords: ['cs50 harvard computer science david j. malan'],
@@ -1079,7 +1100,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'CSS Scan',
-        description: 'Goodbye to ',
+        description:
+            'Goodbye to "Inspect Element" — Visualize the CSS of any element you hover over, instantly, and copy its entire rules with a single click.',
         categories: ['Browser', 'Extension', 'Programming'],
         url: 'https://getcssscan.com/',
     },
@@ -1092,7 +1114,7 @@ export const resources: Resource[] = [
     {
         name: 'CSS-Tricks',
         description: 'CSS-Tricks is a website about websites.',
-        categories: ['Blog', 'Code Snippet', 'Newsletter', 'Programming'],
+        categories: ['Blog', 'Code Snippet', 'Newsletter'],
         url: 'https://css-tricks.com',
     },
     {
