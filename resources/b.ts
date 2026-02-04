@@ -45,6 +45,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Bazzly',
+        description: 'Get Customers From Reddit on Autopilot',
+        categories: ['Marketing', 'AI', 'Social Media'],
+        url: 'https://www.bazzly.ai/',
+        keywords: ['reddit', 'marketing', 'lead generation', 'sales'],
+    },
+    {
         name: 'BCMS',
         description:
             'BCMS, a headless CMS provides flexible content modeling for creative projects in Next.js, Gatsby.js, and Nuxt.js.',
