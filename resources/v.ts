@@ -182,4 +182,11 @@ export const resources: Resource[] = [
         categories: ['Job'],
         url: 'https://vuejobs.com/',
     },
+    {
+        name: 'Vurge',
+        description: "It's like Clay but in Google Sheets",
+        categories: ['AI', 'Productivity'],
+        url: 'https://getvurge.com/',
+        keywords: ['google sheets', 'ai', 'web scraping', 'data enrichment', 'sales'],
+    },
 ]
