@@ -134,6 +134,13 @@ export const resources: Resource[] = [
         url: 'https://venngage.com/ai-tools/brochure-generator',
         keywords: ['ai brochure maker', 'ai design tool', 'custom brochure generator', 'prompt-to-brochure'],
     },
+    {
+        name: 'AI Flowchart Generator',
+        description: 'Turn ideas into clear, structured AI flowcharts.',
+        categories: ['Design', 'AI', 'Analytics'],
+        url: 'https://venngage.com/ai-tools/flowchart-generator',
+        keywords: ['ai flowchart generator', 'flowchart maker with ai', 'process mapping tool', 'diagram generator'],
+    },
     {
         name: 'AI Directories',
         description:
