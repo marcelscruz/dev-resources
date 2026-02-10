@@ -60,6 +60,13 @@ export const resources: Resource[] = [
         url: 'https://speedtest.gcore.com/',
         keywords: ['gcore', 'speed test', 'internet speed', 'bandwidth'],
     },
+    {
+        name: 'GenDesigns',
+        description: 'AI Mobile App Design Generator',
+        categories: ['Design', 'AI', 'UI'],
+        url: 'https://gendesigns.ai/',
+        keywords: ['ai app designer', 'mobile app mockup generator', 'ai ui design tool', 'ai prototype generator'],
+    },
     {
         name: 'Get The Audience',
         description:
