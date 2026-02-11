@@ -1,5 +1,5 @@
 {
-"count": 1127,
+"count": 1128,
 "data": [
     {
         "name": "1001 Fonts",
@@ -13184,6 +13184,22 @@
             "typescript",
             "esm",
             "fast testing"
+        ]
+    },
+    {
+        "name": "Voibe",
+        "description": "Fast, private, on device AI voice dictation app for Mac",
+        "categories": [
+            "Productivity",
+            "AI",
+            "Writing"
+        ],
+        "url": "https://www.getvoibe.com",
+        "keywords": [
+            "mac dictation",
+            "voice to text",
+            "speech to text",
+            "voice typing"
         ]
     },
     {
