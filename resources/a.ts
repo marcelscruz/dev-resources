@@ -289,7 +289,12 @@ export const resources: Resource[] = [
         description: 'Free app market analytics for growth and competition insights',
         categories: ['Analytics', 'Marketing', 'SEO'],
         url: 'https://appark.ai/en',
-        keywords: ['app market research', 'mobile app market intelligence', 'mobile apps analytics', 'app store ranking'],
+        keywords: [
+            'app market research',
+            'mobile app market intelligence',
+            'mobile apps analytics',
+            'app store ranking',
+        ],
     },
     {
         name: 'AppCode',

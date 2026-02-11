@@ -1,5 +1,5 @@
 {
-"count": 1128,
+"count": 1129,
 "data": [
     {
         "name": "1001 Fonts",
@@ -576,6 +576,22 @@
             "Programming"
         ],
         "url": "https://apparencekit.dev/"
+    },
+    {
+        "name": "Appark",
+        "description": "Free app market analytics for growth and competition insights",
+        "categories": [
+            "Analytics",
+            "Marketing",
+            "SEO"
+        ],
+        "url": "https://appark.ai/en",
+        "keywords": [
+            "app market research",
+            "mobile app market intelligence",
+            "mobile apps analytics",
+            "app store ranking"
+        ]
     },
     {
         "name": "AppCode",
