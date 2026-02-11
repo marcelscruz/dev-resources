@@ -1,5 +1,5 @@
 {
-"count": 1129,
+"count": 1130,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3803,6 +3803,32 @@
             "ai",
             "productivity",
             "file formats"
+        ]
+    },
+    {
+        "name": "Doculearn",
+        "description": "Intelligent productivity platform that automatically generates AI-powered flashcards from your GitHub commits, updates team boards in real-time, and fills knowledge gaps with Context Cards—all without manual updates. Learn your codebase while you build.",
+        "categories": [
+            "Learn",
+            "Programming",
+            "Productivity"
+        ],
+        "url": "https://doculearnapp.com",
+        "keywords": [
+            "flashcards",
+            "ai",
+            "github",
+            "learning",
+            "productivity",
+            "knowledge retention",
+            "spaced repetition",
+            "context cards",
+            "code learning",
+            "team collaboration",
+            "automatic boards",
+            "developer tools",
+            "azure ai",
+            "build in public"
         ]
     },
     {

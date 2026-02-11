@@ -419,7 +419,7 @@ export const resources: Resource[] = [
             'automatic boards',
             'developer tools',
             'azure ai',
-            'build in public'
+            'build in public',
         ],
     },
     {
