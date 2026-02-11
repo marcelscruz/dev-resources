@@ -110,19 +110,19 @@ export const resources: Resource[] = [
         url: 'https://heroicons.com/',
     },
     {
+        name: 'Heroku',
+        description:
+            'Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.',
+        categories: ['Hosting'],
+        url: 'https://www.heroku.com/',
+    },
+    {
         name: 'Heroshot',
         description:
             'Screenshot automation CLI for documentation. Define screenshots once in config, regenerate all with one command using Playwright.',
         categories: ['Screenshot', 'Documentation', 'Tooling'],
         url: 'https://heroshot.sh',
         keywords: ['screenshot', 'automation', 'documentation', 'playwright', 'cli'],
-    },
-    {
-        name: 'Heroku',
-        description:
-            'Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.',
-        categories: ['Hosting'],
-        url: 'https://www.heroku.com/',
     },
     {
         name: 'Hexabot',
