@@ -400,6 +400,29 @@ export const resources: Resource[] = [
         keywords: ['translation', 'ai', 'productivity', 'file formats'],
     },
     {
+        name: 'Doculearn',
+        description:
+            'Intelligent productivity platform that automatically generates AI-powered flashcards from your GitHub commits, updates team boards in real-time, and fills knowledge gaps with Context Cards—all without manual updates. Learn your codebase while you build.',
+        categories: ['Learn', 'Programming', 'Productivity'],
+        url: 'https://doculearnapp.com',
+        keywords: [
+            'flashcards',
+            'ai',
+            'github',
+            'learning',
+            'productivity',
+            'knowledge retention',
+            'spaced repetition',
+            'context cards',
+            'code learning',
+            'team collaboration',
+            'automatic boards',
+            'developer tools',
+            'azure ai',
+            'build in public'
+        ],
+    },
+    {
         name: 'Documind AI',
         description:
             'Documind AI is a new and advanced chat with pdf tool. It uses GPT4 turbo and advanced vector search to give accurate answers.',
