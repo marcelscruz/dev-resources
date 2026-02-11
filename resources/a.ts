@@ -285,6 +285,13 @@ export const resources: Resource[] = [
         url: 'https://apparencekit.dev/',
     },
     {
+        name: 'Appark',
+        description: 'Free app market analytics for growth and competition insights',
+        categories: ['Analytics', 'Marketing', 'SEO'],
+        url: 'https://appark.ai/en',
+        keywords: ['app market research', 'mobile app market intelligence', 'mobile apps analytics', 'app store ranking'],
+    },
+    {
         name: 'AppCode',
         description:
             'An intelligent IDE for iOS/macOS development focused on code quality, efficient code navigation, smart code completion, on-the-fly code analysis with quick-fixes and superior code refactorings.',
