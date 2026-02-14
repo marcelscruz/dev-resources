@@ -65,6 +65,14 @@ export const resources: Resource[] = [
         keywords: ['Nextjs', 'React', 'Vercel'],
     },
     {
+        name: 'NexTool',
+        description:
+            '228+ free browser-based developer tools including JSON formatter, Base64 encoder, regex tester, color converter, UUID generator, and more. No signup required.',
+        categories: ['Tooling', 'Programming'],
+        url: 'https://nextool.app/free-tools/',
+        keywords: ['developer tools', 'free tools', 'json', 'base64', 'regex', 'converter', 'formatter', 'generator'],
+    },
+    {
         name: 'NextReady',
         description:
             'More than just a boilerplate. A ready-to-use Next.js template with Prisma, TypeScript, shadcn/ui, and more.',
