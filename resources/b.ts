@@ -153,9 +153,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'BigDevSoon',
-        description:
-            'Build real-world projects, daily challenges, and solve practice problems. Maximize your learning potential.',
-        categories: ['Learn', 'Programming'],
+        description: 'Build real-world projects with Figma designs and an AI copilot in a zero-config browser IDE.',
+        categories: ['Code Challenge'],
         url: 'https://bigdevsoon.me',
         keywords: ['Figma', 'AI', 'Gamified Learning', 'Code', 'Projects', 'Insights', 'Learn', 'Programming'],
     },
