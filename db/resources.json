@@ -1067,10 +1067,9 @@
     },
     {
         "name": "BigDevSoon",
-        "description": "Build real-world projects, daily challenges, and solve practice problems. Maximize your learning potential.",
+        "description": "Build real-world projects with Figma designs and an AI copilot in a zero-config browser IDE.",
         "categories": [
-            "Learn",
-            "Programming"
+            "Code Challenge"
         ],
         "url": "https://bigdevsoon.me",
         "keywords": [
