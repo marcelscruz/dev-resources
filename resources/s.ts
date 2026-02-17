@@ -448,6 +448,20 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'SlingSite',
+        description:
+            'Optimize your images and videos for your website in batch with full privacy. Slingsite will create compressed versions of your images and videos for all device resolutions.',
+        categories: ['Design', 'Illustration', 'Image', 'Open Source', 'Performance', 'SEO', 'UX', 'Video'],
+        url: 'https://slingsite.github.io',
+        keywords: [
+            'image optimization',
+            'video optimization',
+            'batch processing',
+            'privacy focused',
+            'web performance',
+        ],
+    },
+    {
         name: 'Slow & Steady',
         description:
             "Join us as we share what it's like to build and launch a bootstrapped startup while working for yourself full-time. Benedikt is working on Userlist with two other co-founders and Brian is running solo on a product to combat loneliness on remote teams.",
