@@ -450,7 +450,7 @@ export const resources: Resource[] = [
     {
         name: 'SlingSite',
         description:
-            'Optimize your images and videos for your website in batch with full privacy. Slingsite will create compressed versions of your images and videos for all device resolutions. Additionally, you will get them in modern formats for maximum performance and in legacy formats for maximum compatibility. In the case of videos, Slingsite will also create multiple quality levels for adaptive streaming, you also get the first frame as an image in order to use it as a cover image. Your image never leaves your computer, everything is done in your browser. So, your privacy is 100% guaranteed.',
+            'Optimize your images and videos for your website in batch with full privacy. Slingsite will create compressed versions of your images and videos for all device resolutions.',
         categories: ['Design', 'Illustration', 'Image', 'Open Source', 'Performance', 'SEO', 'UX', 'Video'],
         url: 'https://slingsite.github.io',
         keywords: [
