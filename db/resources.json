@@ -1,5 +1,5 @@
 {
-"count": 1130,
+"count": 1131,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11013,6 +11013,28 @@
             "automatic draft",
             "autoamtic label",
             "smart inbox"
+        ]
+    },
+    {
+        "name": "SlingSite",
+        "description": "Optimize your images and videos for your website in batch with full privacy. Slingsite will create compressed versions of your images and videos for all device resolutions.",
+        "categories": [
+            "Design",
+            "Illustration",
+            "Image",
+            "Open Source",
+            "Performance",
+            "SEO",
+            "UX",
+            "Video"
+        ],
+        "url": "https://slingsite.github.io",
+        "keywords": [
+            "image optimization",
+            "video optimization",
+            "batch processing",
+            "privacy focused",
+            "web performance"
         ]
     },
     {
