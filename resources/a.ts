@@ -127,6 +127,13 @@ export const resources: Resource[] = [
         url: 'https://aibest.tools',
         keywords: ['ai', 'ai tools directory', 'developer tools', 'tools', 'ai tools', 'directory'],
     },
+    {
+        name: 'AI Book Cover Generator',
+        description: 'Design eye-catching book covers with AI',
+        categories: ['Design', 'Book', 'AI'],
+        url: 'https://venngage.com/ai-tools/book-cover-generator',
+        keywords: ['testimonial ai book cover generatortool', 'book cover design tool', 'ai cover art generator', 'ebook cover creator'],
+    },
     {
         name: 'AI Brochure Generator',
         description: 'Turn prompts into brochures - fast, polished, and on-brand.',
