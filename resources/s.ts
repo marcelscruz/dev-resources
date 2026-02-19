@@ -99,6 +99,14 @@ export const resources: Resource[] = [
         keywords: ['video', 'editor', 'mac', 'app', 'screen', 'recorder'],
     },
     {
+        name: 'Screenshot Scout',
+        description: 
+            'Screenshot Scout is a screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request.',
+        categories: ['Screenshot'],
+        url: 'https://screenshotscout.com/',
+        keywords: ['screenshot api', 'screenshot automation', 'screenshot service'],
+    },
+    {
         name: 'Screenstab',
         description: 'Turn ordinary screenshots into beautiful image assets in no time',
         categories: ['Screenshot'],
