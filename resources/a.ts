@@ -334,6 +334,14 @@ export const resources: Resource[] = [
         keywords: ['kubernetes'],
     },
     {
+        name: 'Ark',
+        description:
+            'White label email API built for platforms that send on behalf of their customers. Manage thousands of customer domains, SPF, DKIM & DMARC — from one integration.',
+        categories: ['API Building', 'Email'],
+        url: 'https://arkhq.io/',
+        keywords: ['email api', 'transactional email', 'white-label email', 'email infrastructure', 'smtp'],
+    },
+    {
         name: 'Artify',
         description:
             'Artify is an online and easy-to-use design editor that features thousands of customizable illustrations and template packs.',
