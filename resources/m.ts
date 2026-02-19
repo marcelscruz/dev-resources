@@ -384,6 +384,13 @@ export const resources: Resource[] = [
         url: 'https://morrisjs.github.io/morris.js/',
     },
     {
+  name: 'MP3 to Text',
+  description: 'A free online tool to convert MP3 and other audio formats into accurate text transcripts, useful for developers building transcription-based applications.',
+  categories: ['Tools', 'AI'],
+  url: 'https://mp3totext.net',
+  keywords: ['audio-to-text', 'transcription', 'mp3-converter', 'speech-recognition']
+},
+    {
         name: 'MuckBrass',
         description: 'Find & Validate Startup Ideas using AI',
         categories: ['SEO', 'Productivity', 'Startup'],
