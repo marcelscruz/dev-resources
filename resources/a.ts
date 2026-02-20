@@ -142,6 +142,13 @@ export const resources: Resource[] = [
         url: 'https://aidirectori.es/',
         keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
     },
+ {
+        name: 'AI Graph Generator',
+        description: 'Turn raw data into clear, AI-generated graphs in seconds.',
+        categories: ['Design', 'AI', 'Analytics'],
+        url: 'https://venngage.com/ai-tools/graph-generator',
+        keywords: ['ai graph generator', 'data visualization tool', 'graph maker with ai', 'automated graph creator'],
+    },
     {
         name: 'AI Jobs',
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
