@@ -163,6 +163,13 @@ export const resources: Resource[] = [
         url: 'https://venngage.com/ai-tools/one-pager-generator',
         keywords: ['one pager generator', 'ai one pager generator', 'create one pager', 'one pager template'],
     },
+    {
+        name: 'AI Proposal Generator',
+        description: 'Build clear, professional proposals with AI',
+        categories: ['Design', 'Productivity', 'AI'],
+        url: 'https://venngage.com/ai-tools/proposal-generator',
+        keywords: ['ai proposal generator', 'proposal writing tool', 'business proposal generator', 'ai document generator'],
+    },
     {
         name: 'AI SEO Tools',
         description: 'Discover the Best AI SEO Tools in One Place',
