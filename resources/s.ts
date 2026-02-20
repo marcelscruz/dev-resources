@@ -46,6 +46,13 @@ export const resources: Resource[] = [
         categories: ['Browser'],
         url: 'https://developer.apple.com/safari/technology-preview/',
     },
+    {
+        name: 'Say About Us',
+        description: 'Collect unlimited video and text testimonials',
+        categories: ['Marketing', 'Social Media', 'Startup'],
+        url: 'https://sayabout.us/',
+        keywords: ['testimonial tool', 'testimonial collection tool', 'video testimonial', 'unlimited testimonial'],
+    },
     {
         name: 'Scale',
         description:
