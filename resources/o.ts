@@ -42,6 +42,13 @@ export const resources: Resource[] = [
         url: 'https://okjob.io/',
         keywords: ['Flexible work schedule', 'Work-life balance', 'Remote work options'],
     },
+    {
+        name: 'Omnara',
+        description: 'Command Center for AI Coding Agents',
+        categories: ['AI', 'Programming', 'Tooling'],
+        url: 'https://www.omnara.com/',
+        keywords: ['ai coding agents', 'claude code', 'mobile app', 'voice control'],
+    },
     {
         name: 'One Page Love',
         description:
