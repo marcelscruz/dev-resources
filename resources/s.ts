@@ -100,7 +100,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Screenshot Scout',
-        description: 
+        description:
             'Screenshot Scout is a screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request.',
         categories: ['Screenshot'],
         url: 'https://screenshotscout.com/',

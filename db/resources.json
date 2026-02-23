@@ -1,5 +1,5 @@
 {
-"count": 1131,
+"count": 1133,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8273,6 +8273,21 @@
         ]
     },
     {
+        "name": "NAT Checker",
+        "description": "Free, fast, accurate NAT check for developers and gamers on PS5, Xbox, Switch, and PC. Understand network status and improve play.",
+        "categories": [
+            "Productivity",
+            "Testing",
+            "Tooling"
+        ],
+        "url": "https://natchecker.com",
+        "keywords": [
+            "network testing",
+            "network troubleshoot",
+            "nat type test"
+        ]
+    },
+    {
         "name": "NativeBridge",
         "description": "Show, Share, Approve: Mobile Apps in Any Browser",
         "categories": [
@@ -10496,6 +10511,19 @@
             "app",
             "screen",
             "recorder"
+        ]
+    },
+    {
+        "name": "Screenshot Scout",
+        "description": "Screenshot Scout is a screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request.",
+        "categories": [
+            "Screenshot"
+        ],
+        "url": "https://screenshotscout.com/",
+        "keywords": [
+            "screenshot api",
+            "screenshot automation",
+            "screenshot service"
         ]
     },
     {
