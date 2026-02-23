@@ -632,6 +632,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Soro',
+        description: 'SEO Autopilot & Content Writer',
+        categories: ['Marketing', 'SEO', 'AI'],
+        url: 'https://trysoro.com/',
+        keywords: ['SEO', 'content automation', 'blogging', 'traffic growth'],
+    },
+    {
         name: 'Soundstripe',
         description:
             "Every creator's one-stop shop for the best royalty free music, SFX, and stock video. Purchase a license for one file, or subscribe for unlimited access.",
