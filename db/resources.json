@@ -1,5 +1,5 @@
 {
-"count": 1133,
+"count": 1134,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11293,6 +11293,22 @@
             "CSS",
             "JavaScript",
             "C#"
+        ]
+    },
+    {
+        "name": "Soro",
+        "description": "SEO Autopilot & Content Writer",
+        "categories": [
+            "Marketing",
+            "SEO",
+            "AI"
+        ],
+        "url": "https://trysoro.com/",
+        "keywords": [
+            "SEO",
+            "content automation",
+            "blogging",
+            "traffic growth"
         ]
     },
     {
