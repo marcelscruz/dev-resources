@@ -1,6 +1,13 @@
 import { Resource } from 'types'
 
 export const resources: Resource[] = [
+        {
+        name: '300 AI Directories',
+        description: 'Submit your AI tool to 300+ curated AI directories with manual execution and a detailed submission report.',
+        categories: ['AI', 'SEO', 'Marketing'],
+        url: 'https://300aidirectories.com',
+        keywords: [ 'ai directories', 'directory submission', 'ai tool promotion', 'backlinks', 'seo', 'product launch'],
+    },
     {
         name: 'A1',
         description: 'A collection of the best websites found on the web',
