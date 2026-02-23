@@ -37,8 +37,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'NAT Checker',
-        description: 'Free, fast, accurate NAT check for developers and gamers on PS5, Xbox, Switch, and PC. Understand network status and improve play.
-',
+        description:
+            'Free, fast, accurate NAT check for developers and gamers on PS5, Xbox, Switch, and PC. Understand network status and improve play.',
         categories: ['Productivity', 'Testing', 'Tooling'],
         url: 'https://natchecker.com',
         keywords: ['network testing', 'network troubleshoot', 'nat type test'],
