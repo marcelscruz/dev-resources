@@ -102,6 +102,14 @@ export const resources: Resource[] = [
         url: 'https://jobspresso.co/',
     },
     {
+        name: 'JPG To Excel Converter',
+        description:
+            'A powerful AI-powered tool that extracts text and layout from images and converts them into Excel. Fast, free, and permanent.',
+        categories: ['Data', 'Excel', 'Image2excel'],
+        url: 'https://jpg2excel.app',
+        keywords: ['ai', 'jpg2excel', 'image2excel', 'excel'],
+    },
+    {
         name: 'JS Remotely',
         description:
             'Welcome to JS Remotely, the job board with all JavaScript remote jobs in the world. More than 200 remote Node.js, Meteor, Angular, React and Electron jobs are waiting for you. Find your perfect remote job now!',
