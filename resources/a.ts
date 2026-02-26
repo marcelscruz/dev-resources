@@ -258,6 +258,24 @@ export const resources: Resource[] = [
         url: 'https://anotherwrapper.com',
     },
     {
+        name: 'AntForms',
+        description:
+            'Unlimited free submissions + free analytics + integrations + AI + fastest support',
+        categories: ['Productivity', 'Website Builder', 'Tooling'],
+        url: 'https://antforms.com',
+        keywords: [
+            'form builder',
+            'online forms',
+            'survey',
+            'contact forms',
+            'lead generation',
+            'drag and drop',
+            'form templates',
+            'analytics',
+            'integrations',
+        ],
+    },
+    {
         name: 'Apigee',
         description:
             'Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.',
