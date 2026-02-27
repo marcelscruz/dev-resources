@@ -298,6 +298,13 @@ export const resources: Resource[] = [
         categories: ['Learn', 'Programming'],
         url: 'https://cssgridgarden.com/',
     },
+    {
+        name: 'Gro',
+        description: 'AI Sales Agent for B2B Lead Generation',
+        categories: ['AI', 'Marketing', 'Productivity'],
+        url: 'https://thegro.ai/',
+        keywords: ['sales', 'automation', 'lead generation', 'marketing'],
+    },
     {
         name: 'Grommet',
         description: 'Grommet documentation.',
