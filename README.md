@@ -1642,6 +1642,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://webcurate.co/c/developer&sz=128" width="16" /> | [WebCurate Developer Tools](https://webcurate.co/c/developer) | A hand-curated collection of 380+ best developer tools and resources with detailed descriptions and features. | html, css, javascript, development |
  <img src="https://www.google.com/s2/favicons?domain=https://worktypefocus.com/&sz=128" width="16" /> | [Work Type Focus](https://worktypefocus.com/) | Classify and visualize Jira work to stay focused and foster innovation | agile, sprint planning, work classification, team focus |
  <img src="https://www.google.com/s2/favicons?domain=https://zapkit.dev/&sz=128" width="16" /> | [ZapKit](https://zapkit.dev/) | ZapKit is a Laravel boilerplate powered by AI that helps you build a Laravel application within minutes. | boilerplate, startup, starter kit, ai, sass |
+ <img src="https://testdino.com/wp-content/uploads/2025/10/Testdino.svg" height="20" width="20" /> | [TestDino](https://testdino.com/)) | Smart PLaywright Dashboard with MCP Support | Playwright test reporting, AI test reporting, Playwright analytics, Flaky test detection, Test intelligence platform |
 
 **[⬆ Back to Index](#index)**
 
