@@ -2231,6 +2231,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://www.testsprite.com/&sz=128" width="16" /> | [TestSprite](https://www.testsprite.com/) | The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow. | ai testing agent, testing automation, software qa, ui testing |
  <img src="https://www.google.com/s2/favicons?domain=https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min&sz=128" width="16" /> | [Velocity](https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min) | On-demand feedback for Figma prototypes | feedback, figma, plugin, design review |
  <img src="https://www.google.com/s2/favicons?domain=https://www.getxray.app/&sz=128" width="16" /> | [Xray](https://www.getxray.app/) | The #1 Manual & Automated Testing App for Jira. Plan, Execute and Track your Quality Assurance with Requirements Traceability. |  |
+ <img src="https://testdino.com/wp-content/uploads/2025/10/Testdino.svg" height="20" width="20" /> | [TestDino](https://testdino.com/) | Smart PLaywright Dashboard with MCP Support | Playwright test reporting, AI test reporting, Playwright analytics, Flaky test detection, Test intelligence platform . Get Free Trial.|  |
 
 **[⬆ Back to Index](#index)**
 
