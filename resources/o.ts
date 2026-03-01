@@ -90,6 +90,14 @@ export const resources: Resource[] = [
         url: 'https://onsen.io/',
     },
     {
+        name: 'OpenCulture',
+        description: 'OpenCulture is a Slack app that enables anonymous Q&A sessions within organizations, fostering open communication and psychological safety.',
+        categories: ['Startup', 'Productivity'],
+        url: 'https://www.openculturebot.com/',
+        keywords: ['remote work', 'business', 'slack integration', 'team communication'], 
+    },
+
+    {
         name: 'Open Doodles',
         description: 'A library of sketchy illustrations of people free for personal and commercial use.',
         categories: ['Illustration'],
