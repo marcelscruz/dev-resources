@@ -73,6 +73,14 @@ export const resources: Resource[] = [
         keywords: ['resource discovery', 'design tools', 'ai tools', 'developer resources'],
     },
     {
+        name: 'VicSee',
+        description:
+            'AI video and image studio with Sora 2, Sora 2 Pro, Veo 3.1, Kling 2.6, Hailuo 2.3, Nano Banana Pro, and FLUX.2. Generate videos and 4K images with 7 model families.',
+        categories: ['AI', 'Video'],
+        url: 'https://vicsee.com',
+        keywords: ['ai video', 'video generator', 'image generator', 'sora', 'flux', 'api', 'nano banana'],
+    },
+    {
         name: 'VideoEditor SDK',
         description:
             'Video Editor SDK (Android & iOS) is a fully-functional video editor that can be integrated into an app in minutes, designed to create exciting social media content with a wide range of effects and filters for professional-quality videos on phones.',
