@@ -492,6 +492,13 @@ export const resources: Resource[] = [
         url: 'https://truelist.io/',
         keywords: ['developer tool', 'email validation', 'sales prospecting', 'email deliverability'],
     },
+    {
+        name: 'Tubetranscript',
+        description: 'YouTube Transcript Generator',
+        categories: ['Productivity', 'AI', 'Video'],
+        url: 'https://www.tubetranscript.com/',
+        keywords: ['youtube transcript Generator', 'youtube video summarizer', 'youtube subtitle downloader', 'download youtube transcript'],
+    },
     {
         name: 'Tweet Detective',
         description:
