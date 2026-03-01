@@ -52,6 +52,13 @@ export const resources: Resource[] = [
         keywords: ['video editor'],
     },
     {
+        name: 'CaptureKit',
+        description: 'The Ultimate Web Scraping API for Developers',
+        categories: ['Scraping', 'Productivity', 'Startup'],
+        url: 'https://www.capturekit.dev',
+        keywords: ['api', 'screenshot api', 'developer tools', 'web scraping api'], 
+    },
+    {
         name: 'Carbon',
         description: 'Carbon is the easiest way to create and share beautiful images of your source code.',
         categories: ['Code Snippet', 'Screenshot'],
