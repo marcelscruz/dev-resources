@@ -142,6 +142,13 @@ export const resources: Resource[] = [
         url: 'https://aidirectori.es/',
         keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
     },
+    {
+        name: 'AI Instagram Post Generator',
+        description: 'Create consistent, high-quality Instagram posts with AI',
+        categories: ['Social Media', 'AI', 'Design'],
+        url: 'https://venngage.com/ai-tools/instagram-post-generator',
+        keywords: ['ai instagram post generator', 'instagram content creator', 'social media post generator', 'ai social media tool'],
+    },
     {
         name: 'AI Jobs',
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
