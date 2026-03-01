@@ -134,6 +134,13 @@ export const resources: Resource[] = [
         url: 'https://venngage.com/ai-tools/brochure-generator',
         keywords: ['ai brochure maker', 'ai design tool', 'custom brochure generator', 'prompt-to-brochure'],
     },
+    {
+        name: 'AI Contract Generator',
+        description: 'Create clear, reliable contracts with AI',
+        categories: ['Design', 'AI', 'Productivity'],
+        url: 'https://venngage.com/ai-tools/ai-contract-generator',
+        keywords: ['ai contract generator', 'contract drafting tool', 'legal document generator', 'agreement generator with ai'],
+    },
     {
         name: 'AI Directories',
         description:
