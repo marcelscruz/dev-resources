@@ -200,6 +200,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'AI PPT Maker',
+        description: 'Make your unique PPT with AI online for free.',
+        categories: ['AI', 'Marketing', 'Productivity'],
+        url: 'https://aipptmaker.ai',
+        keywords: ['ai presentation', 'powerpoint tool', 'slides'], 
+    },
+
+    {
         name: 'Airtable',
         description:
             'Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.',
