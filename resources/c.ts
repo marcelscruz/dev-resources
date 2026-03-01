@@ -30,6 +30,12 @@ export const resources: Resource[] = [
         url: 'https://www.candyicons.com',
     },
     {
+            name: 'CamClo3D',
+            description: 'AI-powered fashion visualization platform. Generate catalogue poses, product photography & videos in seconds. Trusted by 500+ brands.',
+            categories: ['AI', 'Design', 'Image'],
+            url: 'https://camclo3d.com',
+            keywords: ['fashion', 'ai', '3d', 'visualization', 'photography', 'modeling', 'ecommerce'],
+          },
         name: 'Canva',
         description:
             'Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.',
