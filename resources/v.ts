@@ -88,6 +88,13 @@ export const resources: Resource[] = [
         url: 'https://videofaceswap.io/',
         keywords: ['video face swap', 'photo face swap', 'ai video tools', 'ai image tools'],
     },
+    {
+        name: 'Vidocu',
+        description: 'Turn screen recordings into professional videos and documentation',
+        categories: ['Documentation', 'Video', 'AI'],
+        url: 'https://vidocu.ai/',
+        keywords: ['customer support', 'ai documentation', 'video to text', 'knowledge base'],
+    },
     {
         name: 'Vim',
         description:
