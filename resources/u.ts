@@ -221,6 +221,14 @@ export const resources: Resource[] = [
         keywords: ['directory', 'tools', 'development', 'seo'],
     },
     {
+        name: 'Unwatermark',
+        description: 'Easily remove watermarks with advanced AI image recognition technology',
+        categories: ['Design', 'Image', 'Productivity'],
+        url: 'https://unwatermark.ai/',
+        keywords: ['ai', 'watermark remover', 'design tool', 'video enhancer'], 
+    },
+
+    {
         name: 'UXfolio',
         description:
             'UXfolio is a powerful UX portfolio builder with no coding required. Pick a stunning template and tell the story behind your design process.',
