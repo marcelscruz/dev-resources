@@ -86,6 +86,14 @@ export const resources: Resource[] = [
         keywords: ['HTML CSS JS UI UX WordPress React Native User Interface Design Website JavaScript Graphics design'],
     },
     {
+        name: 'Agent Gateway',
+        description:
+            'Free unified REST API for AI agent infrastructure — real-time crypto prices for 500+ tokens via Hyperliquid, LLM access, identity, email, scheduling, web scraping, and 35+ services. No API key required for basic use, with OpenAPI spec.',
+        categories: ['AI', 'API Building', 'Blockchain'],
+        url: 'https://agent-gateway-kappa.vercel.app',
+        keywords: ['api', 'crypto', 'blockchain', 'ai agent', 'rest api', 'hyperliquid', 'openapi', 'free api'],
+    },
+    {
         name: 'Agent Security',
         description: 'Security for AI agents',
         categories: ['Security', 'AI', 'Newsletter'],
