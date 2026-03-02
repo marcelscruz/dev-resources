@@ -1,5 +1,5 @@
 {
-"count": 1135,
+"count": 1136,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1435,6 +1435,23 @@
             "Extension"
         ],
         "url": "http://brackets.io/"
+    },
+    {
+        "name": "BragDoc",
+        "description": "CLI tool that extracts achievements from git commits for performance reviews",
+        "categories": [
+            "Productivity",
+            "Terminal",
+            "Tooling"
+        ],
+        "url": "https://www.bragdoc.ai/",
+        "keywords": [
+            "git",
+            "cli",
+            "performance review",
+            "achievements",
+            "ai"
+        ]
     },
     {
         "name": "Brainboard",
