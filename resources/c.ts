@@ -531,6 +531,24 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'CoderTools',
+        description:
+            'Free, secure, and offline-capable developer tools. Features Formatter, Encoder/Decoder, Encryption/Decryption, and so on. 100% client-side processing for privacy.',
+        categories: ['Programming'],
+        url: 'https://www.codertools.net/',
+        keywords: [
+            'formatter',
+            'minifier',
+            'encoder',
+            'decoder',
+            'encryption',
+            'decryption',
+            'hash',
+            'protobuf',
+            'hardware access tools',
+        ],
+    },
+    {
         name: 'CodeSandbox',
         description:
             'CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.',
