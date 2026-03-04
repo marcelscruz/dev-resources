@@ -13341,10 +13341,10 @@
     },
     {
         "name": "Voiden",
-        "description": "100% offline API client, free, no account required. Build and test APIs without the bloat.",
+        "description": "Offline, Git Native API Client - Design, Test & Document APIs in one place. Plain text executable files all the way. Community plugins.",
         "categories": [
             "API Building",
-            "Documentation"
+            "Tooling"
         ],
         "url": "https://voiden.md",
         "keywords": [
