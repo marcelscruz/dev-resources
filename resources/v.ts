@@ -164,7 +164,7 @@ export const resources: Resource[] = [
     {
         name: 'Voiden API Client',
         description:
-            'Offline, Git Native API Client - Design, Test & Document APIs in one place. Plain text executable files all the way. Community plugins.',
+            'Offline, Git Native API Client - Design, Test & Document APIs in one place. Plain text executable files all the way. Community plugins.',
         categories: ['API Building', 'Tooling'],
         url: 'https://voiden.md',
         keywords: ['api', 'api client', 'api documentation', 'api testing', 'api mocks'],
