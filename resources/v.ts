@@ -162,7 +162,7 @@ export const resources: Resource[] = [
         keywords: ['mac dictation', 'voice to text', 'speech to text', 'voice typing'],
     },
     {
-        name: 'Voiden',
+        name: 'Voiden API Client',
         description:
             'Offline, Git Native API Client - Design, Test & Document APIs in one place. Plain text executable files all the way. Community plugins.',
         categories: ['API Building', 'Tooling'],
