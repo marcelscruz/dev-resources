@@ -142,6 +142,13 @@ export const resources: Resource[] = [
         url: 'https://aidirectori.es/',
         keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
     },
+    {
+        name: 'AI Grant Proposal Generator',
+        description: 'Create clear, well-structured grant proposals with AI.',
+        categories: ['Design', 'AI', 'Writing'],
+        url: 'https://venngage.com/ai-tools/grant-proposal-generator',
+        keywords: ['ai grant proposal generator', 'grant writing tool', 'proposal generator with ai', 'funding proposal tool'],
+    },
     {
         name: 'AI Jobs',
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
