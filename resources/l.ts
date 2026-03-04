@@ -263,14 +263,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'Lightpost',
-        description:
-            'Fully automate or co-create your blogs and posts with an A.I. trained on your business. Plan, design, write and upload anywhere, while keeping full control.',
-        categories: ['AI', 'Blog', 'Marketing'],
-        url: 'https://lightpost.ai',
-        keywords: ['AI Marketing Automation', 'AI Blog Writer', 'AI Social Media Manager'],
-    },
-    {
         name: 'Lindo AI',
         description:
             'A white-label AI website builder empowering entrepreneurs and agencies to start their own web design businesses in minutes',
