@@ -80,6 +80,14 @@ export const resources: Resource[] = [
         url: 'https://getcssscan.com/css-buttons-examples',
     },
     {
+        name: 'BeginThings',
+        description:
+            '90+ free browser-based developer tools for freelancers and developers — JSON formatter, regex tester, base64 encoder, image compressor, QR code generator, and more. No login required.',
+        categories: ['Productivity', 'Tooling', 'Freelance'],
+        url: 'https://beginthings.com',
+        keywords: ['tools', 'utilities', 'json', 'regex', 'base64', 'image', 'developer', 'browser', 'freelance'],
+    },
+    {
         name: 'Behance',
         description: "Behance is the world's largest creative network for showcasing and discovering creative work.",
         categories: ['UI', 'Inspiration'],
