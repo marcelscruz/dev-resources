@@ -361,6 +361,13 @@ export const resources: Resource[] = [
         categories: ['Forum'],
         url: 'https://lobste.rs/',
     },
+    {
+        name: 'LocalChat.app',
+        description: 'Local-first MacOS AI application - 100% Private, Works Fully Offline',
+        categories: ['AI', 'Productivity', 'Security'],
+        url: 'https://www.localchat.app/',
+        keywords: ['ai chat', 'private', 'productivity tool', 'ollama alternative'],
+    },
     {
         name: 'LocalStack',
         description:
