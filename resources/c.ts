@@ -106,6 +106,14 @@ export const resources: Resource[] = [
         url: 'https://chakra-ui.com/',
     },
     {
+        name: 'Changelog.dev',
+        description:
+            'AI-powered hosted changelog pages for SaaS products, connected to GitHub commits.',
+        categories: ['Tooling', 'Productivity'],
+        url: 'https://www.changelogdev.com',
+        keywords: ['changelog', 'release notes', 'saas', 'ai', 'github'],
+    },
+    {
         name: 'Chargeblast',
         description: 'Chargeblast helps developers simplify their payment stack and not worry about blocking disputes',
         categories: ['Analytics', 'Library'],
