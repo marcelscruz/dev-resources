@@ -100,6 +100,14 @@ export const resources: Resource[] = [
         keywords: ['ChatGPT Chatbot', 'AI Chatbot', 'Customer Support', 'Chatbot'],
     },
     {
+        name: 'Changelog.dev',
+        description:
+            'AI-powered hosted changelog pages for SaaS products, connected to GitHub commits.',
+        categories: ['Tooling', 'Productivity'],
+        url: 'https://www.changelogdev.com',
+        keywords: ['changelog', 'release notes', 'saas', 'ai', 'github'],
+    },
+    {
         name: 'Chakra',
         description: 'Simple, Modular and Accessible UI Components for your React Applications.',
         categories: ['Library', 'Programming', 'UI'],
