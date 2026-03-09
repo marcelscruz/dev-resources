@@ -467,7 +467,7 @@ export const resources: Resource[] = [
         name: 'LargeMI',
         description:
             'LargeMI is a curated directory of AI tools focused on productivity, development, content creation, and business use cases, helping users discover and explore modern AI products through clear categorization.',
-        categories: ['AI', 'Productivity', 'Developer Tools'],
+        categories: ['AI', 'Productivity'],
         url: 'https://largemi.com',
         keywords: ['ai tools', 'ai directory', 'developer productivity', 'generative ai'],
     },
