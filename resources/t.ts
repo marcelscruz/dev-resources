@@ -553,7 +553,7 @@ export const resources: Resource[] = [
         url: 'https://www.typingclub.com/',
         keywords: ['typing', 'typing tutorial', 'free touch typing tutorial', 'touch typing', 'typing game'],
     },
-        {
+    {
         name: 'TypersWorld',
         description:
             'Improve your typing skills with our free typing game. Explore single-player and multiplayer typing games to improve your typing speed and accuracy.',
