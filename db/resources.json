@@ -1,5 +1,5 @@
 {
-"count": 1136,
+"count": 1137,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7083,6 +7083,21 @@
             "Job"
         ],
         "url": "https://larajobs.com/"
+    },
+    {
+        "name": "LargeMI",
+        "description": "LargeMI is a curated directory of AI tools focused on productivity, development, content creation, and business use cases, helping users discover and explore modern AI products through clear categorization.",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "url": "https://largemi.com",
+        "keywords": [
+            "ai tools",
+            "ai directory",
+            "developer productivity",
+            "generative ai"
+        ]
     },
     {
         "name": "Launch Squad",
