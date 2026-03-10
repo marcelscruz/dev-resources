@@ -222,6 +222,14 @@ export const resources: Resource[] = [
         url: 'https://iosdevjobs.com/',
     },
     {
+        name: 'IPWho IP Geolocation API',
+        categories: ['Tooling'],
+        description:
+            '2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency.',
+        url: 'https://www.ipwho.org',
+        keywords: ['ip geolocation api', 'ip location api', 'ip lookup api'],
+    },
+    {
         name: 'IRA Design',
         description: 'Open-source illustrations that fits perfectly for any project you desire.',
         categories: ['Illustration'],
