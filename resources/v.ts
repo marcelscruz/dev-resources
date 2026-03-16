@@ -199,7 +199,6 @@ export const resources: Resource[] = [
         url: 'https://vueschool.io',
     },
     {
-  
         name: 'Vurge',
         description: "It's like Clay but in Google Sheets",
         categories: ['AI', 'Productivity'],
