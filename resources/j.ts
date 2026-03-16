@@ -135,7 +135,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Jsonify',
-        description: 'Jsonify is an AI ',
+        description:
+            'Jsonify is an AI "data intern" in the cloud -- an intelligent AI agent that can automate data collection and maintenance tasks involving the web and documents. Never update a spreadsheet yourself again!',
         categories: ['AI', 'Programming', 'Code Snippet'],
         url: 'https://jsonify.com',
     },

@@ -9,12 +9,6 @@ export const resources: Resource[] = [
         url: 'https://iconbuddy.app',
     },
     {
-        name: 'Icônes',
-        description: 'Icon Explorer with Instant searching, powered by Iconify',
-        categories: ['Icon'],
-        url: 'https://icones.netlify.app/',
-    },
-    {
         name: 'Iconfinder',
         description: 'Millions of graphics for your design projects. Created by independent designers.',
         categories: ['Icon', 'Illustration'],
@@ -54,7 +48,7 @@ export const resources: Resource[] = [
         name: 'Icons8',
         description:
             'Download design elements for free: icons, photos, vector illustrations, and music for your videos.',
-        categories: ['Icon', 'Illustration', 'Image', 'Audio'],
+        categories: ['Icon', 'Illustration', 'Image'],
         url: 'https://icons8.com',
     },
     {
@@ -93,18 +87,17 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'Iconshock',
-        description:
-            'The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.',
-        categories: ['Icon'],
-        url: 'https://www.iconshock.com/',
-    },
-    {
         name: 'IconSweets',
         description:
             'IconSweets is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.',
         categories: ['Icon'],
         url: 'https://www.designbombs.com/iconsweets2/',
+    },
+    {
+        name: 'Icônes',
+        description: 'Icon Explorer with Instant searching, powered by Iconify',
+        categories: ['Icon'],
+        url: 'https://icones.netlify.app/',
     },
     {
         name: 'Illustrations-figma',
@@ -227,6 +220,14 @@ export const resources: Resource[] = [
             'Browse the very best iOS development jobs available, or sign up and get a weekly digest delivered by email every Monday.',
         categories: ['Job'],
         url: 'https://iosdevjobs.com/',
+    },
+    {
+        name: 'IPWho IP Geolocation API',
+        categories: ['Tooling'],
+        description:
+            '2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency.',
+        url: 'https://www.ipwho.org',
+        keywords: ['ip geolocation api', 'ip location api', 'ip lookup api'],
     },
     {
         name: 'IRA Design',

@@ -7,7 +7,11 @@
         "update-db": "ts-node utils/db/update-db.js",
         "update-readme": "ts-node utils/readme/update-readme.js",
         "dev-order": "node utils/order/resources-extractor.js",
-        "prettier:format": "prettier --write \"**/*.{ts,js}\""
+        "prettier:format": "prettier --write \"**/*.{ts,js}\"",
+        "validate": "node scripts/validate-resources.js",
+        "validate:github": "node scripts/validate-resources.js github",
+        "suggest-fixes": "node scripts/generate-fix-suggestions.js",
+        "auto-fix": "node scripts/auto-fix-resources.js"
     },
     "dependencies": {
         "eslint": "^7.18.0",

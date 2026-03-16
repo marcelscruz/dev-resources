@@ -122,37 +122,6 @@ export const resources: Resource[] = [
         keywords: ['directory', 'automation', 'ai', 'aggregators'],
     },
     {
-        name: 'LandingPro AI',
-        categories: ['AI', 'Marketing'],
-        description: 'AI that writes website copy that actually sell',
-        url: 'https://landingpro.ai/',
-
-        keywords: ['marketing', 'ai'],
-    },
-    {
-        name: 'Learnify',
-        categories: ['Learn', 'Programming'],
-        description:
-            'Learnify is an all-in-one web development learning platform designed for beginners to advanced learners. Explore easy-to-understand tutorials on HTML, CSS, JavaScript, and React—all in one place.',
-        url: 'https://learnify.shefali.dev/',
-        keywords: ['web development tutorials', 'frontend development'],
-    },
-    {
-        name: 'Lenis',
-        description: 'A smooth scroll library fresh out of darkroom.engineering',
-        categories: ['Library'],
-        url: 'https://lenis.darkroom.engineering/',
-        keywords: ['smooth scroll', 'scroll', 'animation', 'javascript', 'library'],
-    },
-    {
-        name: 'LearnWeb3',
-        categories: ['Learn', 'Web3'],
-        description: 'LearnWeb3 is the best place to turn you into a web3 developer for completely free.',
-        url: 'https://learnweb3.io/',
-
-        keywords: ['web3', 'web3 developer', 'web3 developer course'],
-    },
-    {
         name: 'Learn CSS',
         description: 'An evergreen CSS course and reference to level up your web styling expertise.',
         categories: ['Learn', 'Programming'],
@@ -209,6 +178,14 @@ export const resources: Resource[] = [
         url: 'https://learnxinyminutes.com/',
     },
     {
+        name: 'Learnify',
+        categories: ['Learn', 'Programming'],
+        description:
+            'Learnify is an all-in-one web development learning platform designed for beginners to advanced learners. Explore easy-to-understand tutorials on HTML, CSS, JavaScript, and React—all in one place.',
+        url: 'https://learnify.shefali.dev/',
+        keywords: ['web development tutorials', 'frontend development'],
+    },
+    {
         name: 'LearnCode.academy',
         description:
             '100% FREE Web Development tutorials, web site design tutorials and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev Ops, Server Administration, Deployment Strategies.',
@@ -236,6 +213,13 @@ export const resources: Resource[] = [
             'Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview.',
         categories: ['Code Challenge'],
         url: 'https://leetcode.com/',
+    },
+    {
+        name: 'Lenis',
+        description: 'A smooth scroll library fresh out of darkroom.engineering',
+        categories: ['Library'],
+        url: 'https://lenis.darkroom.engineering/',
+        keywords: ['smooth scroll', 'scroll', 'animation', 'javascript', 'library'],
     },
     {
         name: 'Let',
@@ -277,14 +261,6 @@ export const resources: Resource[] = [
             'website optimization',
             'website analysis',
         ],
-    },
-    {
-        name: 'Lightpost',
-        description:
-            'Fully automate or co-create your blogs and posts with an A.I. trained on your business. Plan, design, write and upload anywhere, while keeping full control.',
-        categories: ['AI', 'Blog', 'Marketing'],
-        url: 'https://lightpost.ai',
-        keywords: ['AI Marketing Automation', 'AI Blog Writer', 'AI Social Media Manager'],
     },
     {
         name: 'Lindo AI',
@@ -364,6 +340,20 @@ export const resources: Resource[] = [
             'Lite Analytics is simple lightweight Google Analytics alternatice. It is privacy focused and doesn',
         categories: ['Analytics'],
         url: 'https://liteanalytics.com/',
+    },
+    {
+        name: 'LITSLINK',
+        categories: ['AI', 'Startup'],
+        description:
+            'LITSLINK is a software development company that builds custom web and mobile products, including SaaS, AI-driven solutions, and cloud platforms, helping businesses design, develop, and scale digital products from idea to launch.',
+        url: 'https://litslink.com',
+        keywords: [
+            'software development',
+            'custom web and mobile products',
+            'SaaS',
+            'AI-driven solutions',
+            'cloud platforms',
+        ],
     },
     {
         name: 'Lobsters',
@@ -462,5 +452,13 @@ export const resources: Resource[] = [
         categories: ['Marketing', 'SEO', 'AI'],
         url: 'https://luthor.ai/',
         keywords: ['automation', 'content', 'productivity'],
+    },
+    {
+        name: 'LargeMI',
+        description:
+            'LargeMI is a curated directory of AI tools focused on productivity, development, content creation, and business use cases, helping users discover and explore modern AI products through clear categorization.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://largemi.com',
+        keywords: ['ai tools', 'ai directory', 'developer productivity', 'generative ai'],
     },
 ]

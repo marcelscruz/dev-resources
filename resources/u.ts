@@ -36,9 +36,27 @@ export const resources: Resource[] = [
         url: 'https://designcode.io/ui-design-for-developers',
     },
     {
+        name: 'UI Kits Design',
+        description: 'Find the best UI kits and component libraries to design and build websites in no time.',
+        categories: ['UI', 'Design', 'Library'],
+        url: 'https://uikits.design/',
+        keywords: [
+            'ui kit',
+            'design',
+            'component library',
+            'shadcn',
+            'tailwind',
+            'figma',
+            'ui',
+            'blocks',
+            'components',
+            'sections',
+        ],
+    },
+    {
         name: 'ui.dev',
         description: 'Comprehensive learning resources for mastering the JavaScript ecosystem.',
-        categories: ['Newsletter', 'Programming', 'Learn', 'Programming'],
+        categories: ['Newsletter', 'Programming', 'Learn'],
         url: 'https://ui.dev/',
     },
     {
@@ -69,13 +87,6 @@ export const resources: Resource[] = [
         url: 'https://uigradients.com/',
     },
     {
-        name: 'UIHut',
-        description:
-            'Download thousands of templates, illustrations, icons, and ui design kits for web and mobile app design without paying designer prices.',
-        categories: ['Design', 'Inspiration', 'UI', 'Icon', 'Illustration'],
-        url: 'https://www.uihut.com/',
-    },
-    {
         name: 'UIkit',
         description:
             'UIkit, a lightweight and modular front-end framework for developing fast and powerful web interfaces.',
@@ -83,27 +94,9 @@ export const resources: Resource[] = [
         url: 'https://getuikit.com/',
     },
     {
-        name: 'UI Kits Design',
-        description: 'Find the best UI kits and component libraries to design and build websites in no time.',
-        categories: ['UI', 'Design', 'Library'],
-        url: 'https://uikits.design/',
-        keywords: [
-            'ui kit',
-            'design',
-            'component library',
-            'shadcn',
-            'tailwind',
-            'figma',
-            'ui',
-            'blocks',
-            'components',
-            'sections',
-        ],
-    },
-    {
         name: 'Uiverse',
         description: 'Community-made library of free and customizable UI elements made with CSS or Tailwind. It',
-        categories: ['Design', 'Inspiration', 'UI', 'Illustration'],
+        categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://uiverse.io/',
     },
     {
@@ -191,13 +184,6 @@ export const resources: Resource[] = [
             'Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.',
         categories: ['Freelance'],
         url: 'https://www.upwork.com/',
-    },
-    {
-        name: 'Up For Grabs',
-        description:
-            'This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.',
-        categories: ['Hacktoberfest', 'Open Source'],
-        url: 'https://up-for-grabs.net/#/',
     },
     {
         name: 'Url Opener',

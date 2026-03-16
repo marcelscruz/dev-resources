@@ -129,7 +129,7 @@ export const resources: Resource[] = [
         name: 'Visily',
         description:
             'Visily leverages AI to generate stunning app wireframes and prototypes from various inputs such as text prompts, hand-drawn sketches, and screenshots of existing applications or websites.',
-        categories: ['UI', 'UX', 'Design', 'Prototyping', 'AI'],
+        categories: ['Design', 'Prototyping', 'AI'],
         url: 'https://www.visily.ai/',
     },
     {
@@ -155,9 +155,17 @@ export const resources: Resource[] = [
         keywords: ['unit testing', 'vite', 'vitest', 'test runner', 'javascript', 'typescript', 'esm', 'fast testing'],
     },
     {
-        name: 'Voiden',
-        description: '100% offline API client, free, no account required. Build and test APIs without the bloat.',
-        categories: ['API Building', 'Documentation'],
+        name: 'Voibe',
+        description: 'Fast, private, on device AI voice dictation app for Mac',
+        categories: ['Productivity', 'AI', 'Writing'],
+        url: 'https://www.getvoibe.com',
+        keywords: ['mac dictation', 'voice to text', 'speech to text', 'voice typing'],
+    },
+    {
+        name: 'Voiden API Client',
+        description:
+            'Offline, Git Native API Client - Design, Test & Document APIs in one place. Plain text executable files all the way. Community plugins.',
+        categories: ['API Building', 'Tooling'],
         url: 'https://voiden.md',
         keywords: ['api', 'api client', 'api documentation', 'api testing', 'api mocks'],
     },
@@ -189,5 +197,13 @@ export const resources: Resource[] = [
         categories: ['Learn'],
         keywords: ['vue', 'vue.js', 'pinia', 'nuxt', 'javascript', 'typescript', 'learning'],
         url: 'https://vueschool.io',
-    }
+    },
+    {
+  
+        name: 'Vurge',
+        description: "It's like Clay but in Google Sheets",
+        categories: ['AI', 'Productivity'],
+        url: 'https://getvurge.com/',
+        keywords: ['google sheets', 'ai', 'web scraping', 'data enrichment', 'sales'],
+    },
 ]

@@ -265,18 +265,17 @@ export const resources: Resource[] = [
         url: 'https://gramara.com/',
     },
     {
-        name: 'Grammarly',
-        description:
-            'Grammarly makes sure everything you type is easy to read, effective, and mistake-free. Try it today:.',
-        categories: ['Productivity', 'Writing'],
-        url: 'https://grammarly.com',
-    },
-    {
         name: 'GrammarChecker',
         description: 'AI Grammar Checker instantly fixes writing errors',
         categories: ['Writing', 'AI', 'Productivity'],
         url: 'https://aigrammarchecker.io/',
         keywords: ['ai grammar checker', 'online grammar tool', 'writing assistant', 'english grammar correction'],
+    },
+    {
+        name: 'Grammarly',
+        description: 'Grammarly makes sure everything you type is easy to read, effective, and mistake-free.',
+        categories: ['Productivity', 'Writing'],
+        url: 'https://grammarly.com',
     },
     {
         name: 'GrayGrids',

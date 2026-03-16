@@ -12,7 +12,7 @@ export const resources: Resource[] = [
     {
         name: 'Radix',
         description: 'Components, icons, and colors for building high‑quality, accessible UI. Free and open-source.',
-        categories: ['Icon', 'UI', 'Design', 'Color'],
+        categories: ['Icon', 'UI', 'Design'],
         url: 'https://www.radix-ui.com/',
         keywords: ['icons', 'icon', 'design', 'color', 'ui', 'components'],
     },
@@ -67,19 +67,19 @@ export const resources: Resource[] = [
         url: 'https://www.raycast.com',
     },
     {
+        name: 'React Bits',
+        description:
+            'A large collection of animated React components made to spice up your web creations. Animations, components, backgrounds, and awesome stuff with customization options as props.',
+        categories: ['Programming', 'UI', 'Animation'],
+        url: 'https://reactbits.dev/',
+        keywords: ['react', 'components', 'animated', 'backgrounds', 'customizable', 'free', 'props'],
+    },
+    {
         name: 'React Bootstrap',
         description:
             'React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built from scratch as a true React component, without unneeded dependencies like jQuery.',
         categories: ['Library', 'Programming', 'UI'],
         url: 'https://react-bootstrap.github.io/',
-    },
-    {
-        name: 'React Bits',
-        description:
-            'A large collection of animated React components made to spice up your web creations. Animations, components, backgrounds, and awesome stuff with customization options as props.',
-        categories: ['Library', 'Programming', 'UI', 'Animation'],
-        url: 'https://reactbits.dev/',
-        keywords: ['react', 'components', 'animated', 'backgrounds', 'customizable', 'free', 'props'],
     },
     {
         name: 'React Cheatsheet',
@@ -113,13 +113,6 @@ export const resources: Resource[] = [
             'Find specific React Jobs, including Remote ReactJS Jobs. You are looking for React JS Developers? Submit your job ad',
         categories: ['Job'],
         url: 'https://reactjsjob.com/',
-    },
-    {
-        name: 'ReactNative Jobs',
-        description: 'The #1 job board for React Native developers',
-        categories: ['Job', 'Remote', 'Resume'],
-        url: 'https://reactnative-jobs.com/',
-        keywords: ['react native', 'mobile development', 'remote jobs,', 'tech jobs'],
     },
     {
         name: 'React Native Radio',
@@ -159,6 +152,13 @@ export const resources: Resource[] = [
         categories: ['Learn', 'Programming', 'Code Challenge'],
         url: 'https://react-tutorial.app',
         keywords: ['react tutorial', 'interactive react course'],
+    },
+    {
+        name: 'ReactNative Jobs',
+        description: 'The #1 job board for React Native developers',
+        categories: ['Job', 'Remote', 'Resume'],
+        url: 'https://reactnative-jobs.com/',
+        keywords: ['react native', 'mobile development', 'remote jobs,', 'tech jobs'],
     },
     {
         name: 'readme.so',
@@ -260,7 +260,7 @@ export const resources: Resource[] = [
     {
         name: 'RemoteSalary',
         description:
-            '20,000+ jobs all over export const resources: Resource[] = [50,000 salary. Find your ideal high paying remote role. Searches 2,000,000+ job postings across 12,000+ companies daily to find the highest paying remote roles.',
+            '20,000+ jobs all over $50,000 salary. Find your ideal high paying remote role. Searches 2,000,000+ job postings across 12,000+ companies daily to find the highest paying remote roles.',
         categories: ['Job', 'Remote', 'AI'],
         url: 'https://remotesalary.ai/board?remote=true',
         keywords: ['remote', 'salary', 'salary search', 'development'],
@@ -287,7 +287,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'rendezvous with cassidoo',
-        description: 'Rendezvous with cassidoo, probably the best newsletter you',
+        description: "Rendezvous with cassidoo, probably the best newsletter you'll ever read.",
         categories: ['Newsletter', 'Programming'],
         url: 'https://cassidoo.co/newsletter/',
     },

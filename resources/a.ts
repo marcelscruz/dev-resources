@@ -4,7 +4,7 @@ export const resources: Resource[] = [
     {
         name: 'A1',
         description: 'A collection of the best websites found on the web',
-        categories: ['Design', 'Inspiration', 'UI', 'UX', 'Template'],
+        categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://www.a1.gallery/',
         keywords: ['website design', 'inspiration', 'web', 'gallery'],
     },
@@ -79,7 +79,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Adrian Twarog',
-        description: 'I',
+        description:
+            "I'm Adrian from Australia, a designer and developer who makes websites and apps using platforms like React Native. I'm hoping to share some of the things I've learnt over the years about my career and hobbies for coding, user interface and experience.",
         categories: ['Design', 'Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ',
         keywords: ['HTML CSS JS UI UX WordPress React Native User Interface Design Website JavaScript Graphics design'],
@@ -93,7 +94,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Ahrefs',
-        description: 'You don',
+        description:
+            "You don't have to be an SEO pro to rank higher and get more traffic. Join Ahrefs – we're a powerful but easy to learn SEO toolset with a passionate community.",
         categories: ['SEO'],
         url: 'https://ahrefs.com/',
     },
@@ -126,19 +128,19 @@ export const resources: Resource[] = [
         keywords: ['ai', 'ai tools directory', 'developer tools', 'tools', 'ai tools', 'directory'],
     },
     {
+        name: 'AI Brochure Generator',
+        description: 'Turn prompts into brochures - fast, polished, and on-brand.',
+        categories: ['Design', 'AI', 'Marketing'],
+        url: 'https://venngage.com/ai-tools/brochure-generator',
+        keywords: ['ai brochure maker', 'ai design tool', 'custom brochure generator', 'prompt-to-brochure'],
+    },
+    {
         name: 'AI Directories',
         description:
             'All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories',
         categories: ['AI', 'SEO', 'Marketing'],
         url: 'https://aidirectori.es/',
         keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
-    },
-    {
-        name: 'AI Brochure Generator',
-        description: 'Turn prompts into brochures - fast, polished, and on-brand.',
-        categories: ['Design', 'AI', 'Marketing'],
-        url: 'https://venngage.com/ai-tools/brochure-generator',
-        keywords: ['ai brochure maker', 'ai design tool', 'custom brochure generator', 'prompt-to-brochure'],
     },
     {
         name: 'AI Jobs',
@@ -160,6 +162,13 @@ export const resources: Resource[] = [
         categories: ['Marketing', 'Design', 'AI'],
         url: 'https://venngage.com/ai-tools/one-pager-generator',
         keywords: ['one pager generator', 'ai one pager generator', 'create one pager', 'one pager template'],
+    },
+    {
+        name: 'AI SEO Tools',
+        description: 'Discover the Best AI SEO Tools in One Place',
+        categories: ['Marketing', 'SEO', 'AI'],
+        url: 'https://www.ai-seo.tools',
+        keywords: ['automation', 'ai', 'marketing', 'aggregators'],
     },
     {
         name: 'AI-Text-Humanizer',
@@ -189,13 +198,6 @@ export const resources: Resource[] = [
             'jobs',
             'developer',
         ],
-    },
-    {
-        name: 'AI SEO Tools',
-        description: 'Discover the Best AI SEO Tools in One Place',
-        categories: ['Marketing', 'SEO', 'AI'],
-        url: 'https://www.ai-seo.tools',
-        keywords: ['automation', 'ai', 'marketing', 'aggregators'],
     },
     {
         name: 'Airtable',
@@ -283,6 +285,18 @@ export const resources: Resource[] = [
         url: 'https://apparencekit.dev/',
     },
     {
+        name: 'Appark',
+        description: 'Free app market analytics for growth and competition insights',
+        categories: ['Analytics', 'Marketing', 'SEO'],
+        url: 'https://appark.ai/en',
+        keywords: [
+            'app market research',
+            'mobile app market intelligence',
+            'mobile apps analytics',
+            'app store ranking',
+        ],
+    },
+    {
         name: 'AppCode',
         description:
             'An intelligent IDE for iOS/macOS development focused on code quality, efficient code navigation, smart code completion, on-the-fly code analysis with quick-fixes and superior code refactorings.',
@@ -291,9 +305,17 @@ export const resources: Resource[] = [
     },
     {
         name: 'AppMockUp',
-        description: 'Use AppMockUp, the world',
+        description:
+            "Use AppMockUp, the world's most powerful screenshot builder to create the most compelling screenshots for your app.",
         categories: ['Prototyping', 'Screenshot'],
         url: 'https://app-mockup.com/',
+    },
+    {
+        name: 'AppStore Tracker',
+        description: 'An open AppStore Explorer',
+        categories: ['Analytics', 'Marketing'],
+        url: 'https://appstoretracker.com/',
+        keywords: ['appstore explorer', 'mobile apps', 'app revenue data', 'app downloads'],
     },
     {
         name: 'Appwrite',
@@ -354,7 +376,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Avodocs',
-        description: 'Free legal documents for startups. Get your company',
+        description: "Free legal documents for startups. Get your company's legal documents in minutes.",
         categories: ['Legal'],
         url: 'https://www.avodocs.com',
         keywords: [
@@ -397,7 +419,7 @@ export const resources: Resource[] = [
         name: 'AWS',
         description:
             'Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use.',
-        categories: ['Cloud Computing', 'Database', 'Hosting', 'Serverless', 'Storage'],
+        categories: ['Cloud Computing', 'Hosting', 'Serverless'],
         url: 'https://aws.amazon.com/',
     },
     {
@@ -426,8 +448,15 @@ export const resources: Resource[] = [
         name: 'Azure',
         description:
             'Invent with purpose, realise cost savings and make your organisation more efficient with Microsoft Azure’s open and flexible cloud computing platform.',
-        categories: ['Cloud Computing', 'Database', 'Hosting', 'Serverless', 'Storage'],
+        categories: ['Cloud Computing', 'Hosting', 'Serverless'],
         url: 'https://azure.microsoft.com/',
         keywords: ['Azuesss', 'Windows Azure', 'Cloud Service', 'Cloud Computing Companies'],
+    },
+    {
+        name: 'All SVG Icons',
+        description: 'Browse and download 250,000+ free SVG icons from 220 carefully curated icon libraries.',
+        categories: ['Icon'],
+        url: 'https://allsvgicons.com/',
+        keywords: ['icons', 'svg icons', 'open source icons'],
     },
 ]

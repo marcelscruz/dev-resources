@@ -3,7 +3,8 @@ import { Resource } from 'types'
 export const resources: Resource[] = [
     {
         name: 'Backlink Checker',
-        description: 'With the world',
+        description:
+            "With the world's biggest index of live backlinks (over 15 trillion), Ahrefs Backlink Checker will show you the most complete backlink profile for any website.",
         categories: ['SEO'],
         url: 'https://ahrefs.com/backlink-checker',
     },
@@ -44,6 +45,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Bazzly',
+        description: 'Get Customers From Reddit on Autopilot',
+        categories: ['Marketing', 'AI', 'Social Media'],
+        url: 'https://www.bazzly.ai/',
+        keywords: ['reddit', 'marketing', 'lead generation', 'sales'],
+    },
+    {
         name: 'BCMS',
         description:
             'BCMS, a headless CMS provides flexible content modeling for creative projects in Next.js, Gatsby.js, and Nuxt.js.',
@@ -73,7 +81,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Behance',
-        description: 'Behance is the world',
+        description: "Behance is the world's largest creative network for showcasing and discovering creative work.",
         categories: ['UI', 'Inspiration'],
         url: 'https://www.behance.net/',
         keywords: [
@@ -94,7 +102,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Ben Awad',
-        description: 'I',
+        description:
+            "I'm a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding.",
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw',
         keywords: ['react graphql typescript'],
@@ -144,9 +153,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'BigDevSoon',
-        description:
-            'Build real-world projects, daily challenges, and solve practice problems. Maximize your learning potential.',
-        categories: ['Learn', 'Programming'],
+        description: 'Build real-world projects with Figma designs and an AI copilot in a zero-config browser IDE.',
+        categories: ['Code Challenge'],
         url: 'https://bigdevsoon.me',
         keywords: ['Figma', 'AI', 'Gamified Learning', 'Code', 'Projects', 'Insights', 'Learn', 'Programming'],
     },
@@ -179,7 +187,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'BilingualJobs.io',
-        description: 'The world',
+        description:
+            "The world's first bilingual job board. Find bilingual talent faster, or stand out as a bilingual.",
         categories: ['Job'],
         url: 'https://bilingualjobs.io',
         keywords: [
@@ -393,6 +402,13 @@ export const resources: Resource[] = [
             'Brackets is a lightweight, yet powerful, modern text editor. We blend visual tools into the editor so you get the right amount of help when you want it. With new features and extensions released every 3-4 weeks, it',
         categories: ['Editor', 'Extension'],
         url: 'http://brackets.io/',
+    },
+    {
+        name: 'BragDoc',
+        description: 'CLI tool that extracts achievements from git commits for performance reviews',
+        categories: ['Productivity', 'Terminal', 'Tooling'],
+        url: 'https://www.bragdoc.ai/',
+        keywords: ['git', 'cli', 'performance review', 'achievements', 'ai'],
     },
     {
         name: 'Brainboard',
