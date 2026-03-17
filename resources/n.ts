@@ -118,6 +118,13 @@ export const resources: Resource[] = [
         keywords: ['scraper', 'no code', 'ai web scraper', 'web scraper', 'visual web scraper', 'web scraping'],
     },
     {
+        name: 'No Code Website Builder',
+        description: 'A marketplace for premium no-code website, web app, and mobile app templates built on platforms like Webflow, Framer, Bubble, Lovable, Replit and more.',
+        categories: ['Design', 'Template', 'Website Builder'],
+        url: 'https://nocodewebsitebuilder.com',
+        keywords: ['no-code', 'templates', 'webflow', 'framer', 'bubble'],
+    },
+    {
         name: 'Nomad List',
         description: 'Best places to live for a digital nomad',
         categories: ['Job', 'Job', 'Remote'],
