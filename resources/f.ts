@@ -595,25 +595,6 @@ export const resources: Resource[] = [
         url: 'https://frontendhappyhour.com/',
     },
     {
-        name: 'FrontendAtlas',
-        description:
-            'Frontend interview prep platform with hands-on JavaScript, UI, and DOM-oriented coding challenges.',
-        categories: ['Code Challenge', 'Learn', 'Programming'],
-        url: 'https://frontendatlas.com/coding',
-        keywords: [
-            'frontend',
-            'javascript',
-            'typescript',
-            'ui',
-            'dom',
-            'react',
-            'angular',
-            'vue',
-            'interview',
-            'system design',
-        ],
-    },
-    {
         name: 'Frontend Focus',
         description:
             'A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.',
@@ -646,6 +627,25 @@ export const resources: Resource[] = [
             'Frontend Toolkit is a customizable dashboard for your recurring Frontend tasks. Base64 encoder/decoder, SVG optimizations, SVG to JSX and many more!',
         categories: ['Productivity', 'Programming'],
         url: 'https://www.fetoolkit.io/',
+    },
+    {
+        name: 'FrontendAtlas',
+        description:
+            'Frontend interview prep platform with hands-on JavaScript, UI, and DOM-oriented coding challenges.',
+        categories: ['Code Challenge', 'Learn', 'Programming'],
+        url: 'https://frontendatlas.com/coding',
+        keywords: [
+            'frontend',
+            'javascript',
+            'typescript',
+            'ui',
+            'dom',
+            'react',
+            'angular',
+            'vue',
+            'interview',
+            'system design',
+        ],
     },
     {
         name: 'Frontendor',
