@@ -31,6 +31,14 @@ export const resources: Resource[] = [
         url: 'https://land-book.com/',
     },
     {
+        name: 'LargeMI',
+        description:
+            'LargeMI is a curated directory of AI tools focused on productivity, development, content creation, and business use cases, helping users discover and explore modern AI products through clear categorization.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://largemi.com',
+        keywords: ['ai tools', 'ai directory', 'developer productivity', 'generative ai'],
+    },
+    {
         name: 'Landing AI',
         description:
             'Make a stunning landing page with AI in seconds. Get your perfect copywriting, color board, logo and illustrations thanks to generative Artificial Intelligence.',
@@ -452,13 +460,5 @@ export const resources: Resource[] = [
         categories: ['Marketing', 'SEO', 'AI'],
         url: 'https://luthor.ai/',
         keywords: ['automation', 'content', 'productivity'],
-    },
-    {
-        name: 'LargeMI',
-        description:
-            'LargeMI is a curated directory of AI tools focused on productivity, development, content creation, and business use cases, helping users discover and explore modern AI products through clear categorization.',
-        categories: ['AI', 'Productivity'],
-        url: 'https://largemi.com',
-        keywords: ['ai tools', 'ai directory', 'developer productivity', 'generative ai'],
     },
 ]
