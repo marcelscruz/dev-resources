@@ -215,6 +215,13 @@ export const resources: Resource[] = [
         keywords: ['AI', 'tools', 'directory'],
     },
     {
+        name: 'All SVG Icons',
+        description: 'Browse and download 250,000+ free SVG icons from 220 carefully curated icon libraries.',
+        categories: ['Icon'],
+        url: 'https://allsvgicons.com/',
+        keywords: ['icons', 'svg icons', 'open source icons'],
+    },
+    {
         name: 'ally.js',
         description:
             'JavaScript library to help modern web applications with accessibility concerns by making accessibility simpler.',
@@ -451,12 +458,5 @@ export const resources: Resource[] = [
         categories: ['Cloud Computing', 'Hosting', 'Serverless'],
         url: 'https://azure.microsoft.com/',
         keywords: ['Azuesss', 'Windows Azure', 'Cloud Service', 'Cloud Computing Companies'],
-    },
-    {
-        name: 'All SVG Icons',
-        description: 'Browse and download 250,000+ free SVG icons from 220 carefully curated icon libraries.',
-        categories: ['Icon'],
-        url: 'https://allsvgicons.com/',
-        keywords: ['icons', 'svg icons', 'open source icons'],
     },
 ]
