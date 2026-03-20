@@ -595,6 +595,25 @@ export const resources: Resource[] = [
         url: 'https://frontendhappyhour.com/',
     },
     {
+        name: 'FrontendAtlas',
+        description:
+            'Frontend interview prep platform with hands-on JavaScript, UI, and DOM-oriented coding challenges.',
+        categories: ['Code Challenge', 'Learn', 'Programming'],
+        url: 'https://frontendatlas.com/coding',
+        keywords: [
+            'frontend',
+            'javascript',
+            'typescript',
+            'ui',
+            'dom',
+            'react',
+            'angular',
+            'vue',
+            'interview',
+            'system design',
+        ],
+    },
+    {
         name: 'Frontend Focus',
         description:
             'A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.',
