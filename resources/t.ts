@@ -115,6 +115,14 @@ export const resources: Resource[] = [
         url: 'https://templated.io/',
     },
     {
+        name: 'TemplateFox',
+        description:
+            'Generate PDFs from reusable templates via API. Design templates visually, then generate documents with dynamic data using a REST API or SDKs in 7 languages.',
+        categories: ['API Building', 'Template', 'Code Generator'],
+        url: 'https://pdftemplateapi.com',
+        keywords: ['pdf', 'api', 'pdf generation', 'template', 'document automation', 'invoice generator'],
+    },
+    {
         name: 'TemplateMo',
         description:
             'Download 548+ free HTML CSS website templates that included 140+ responsive Bootstrap themes from templatemo and use them for your sites.',
