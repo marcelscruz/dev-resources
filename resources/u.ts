@@ -140,7 +140,7 @@ export const resources: Resource[] = [
         description:
             'Unlearn.dev is developer education for the AI era and beyond. It helps engineers turn AI into a 24/7 execution team while strengthening the judgment, architecture, and evaluation skills that make developers irreplaceable.',
         categories: ['AI', 'Learn', 'Programming'],
-        url: 'https://unlearn.dev/?utm_source=devresources&utm_medium=partners&utm_campaign=unlearn_announcement',
+        url: 'https://unlearn.dev/',
     },
     {
         name: 'Unscreen',
