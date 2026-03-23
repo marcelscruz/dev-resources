@@ -136,6 +136,13 @@ export const resources: Resource[] = [
         url: 'https://undraw.co/',
     },
     {
+        name: 'unlearn.dev',
+        description:
+            'Unlearn.dev is developer education for the AI era and beyond. It helps engineers turn AI into a 24/7 execution team while strengthening the judgment, architecture, and evaluation skills that make developers irreplaceable.',
+        categories: ['AI', 'Learn', 'Programming'],
+        url: 'https://unlearn.dev/?utm_source=devresources&utm_medium=partners&utm_campaign=unlearn_announcement',
+    },
+    {
         name: 'Unscreen',
         description:
             'Remove the background of any video - 100% automatically, online & free! Goodbye Greenscreen. Hello Unscreen.',
