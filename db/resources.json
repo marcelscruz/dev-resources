@@ -1,5 +1,5 @@
 {
-"count": 1141,
+"count": 1142,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2358,6 +2358,25 @@
             "hiring",
             "test",
             "challenge"
+        ]
+    },
+    {
+        "name": "CoderTools",
+        "description": "Free, secure, and offline-capable developer tools. Features Formatter, Encoder/Decoder, Encryption/Decryption, and so on. 100% client-side processing for privacy.",
+        "categories": [
+            "Programming"
+        ],
+        "url": "https://www.codertools.net/",
+        "keywords": [
+            "formatter",
+            "minifier",
+            "encoder",
+            "decoder",
+            "encryption",
+            "decryption",
+            "hash",
+            "protobuf",
+            "hardware access tools"
         ]
     },
     {
