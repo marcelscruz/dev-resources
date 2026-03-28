@@ -966,12 +966,22 @@ export const resources: Resource[] = [
         url: 'https://surge.sh/',
     },
     {
-    name: 'SurveyJS',
-    description:
-        'SurveyJS is an open-source JavaScript library for building dynamic forms and surveys using JSON. It works with React, Angular, Vue, and plain JavaScript, and can be connected to any backend.',
-    categories: ['Open Source', 'Library', 'Programming'],
-    url: 'https://surveyjs.io/',
-    keywords: ['form builder', 'form library', 'survey', 'javascript', 'angular', 'react', 'vue', 'json forms', 'dynamic forms'],
+        name: 'SurveyJS',
+        description:
+            'SurveyJS is an open-source JavaScript library for building dynamic forms and surveys using JSON. It works with React, Angular, Vue, and plain JavaScript, and can be connected to any backend.',
+        categories: ['Open Source', 'Library', 'Programming'],
+        url: 'https://surveyjs.io/',
+        keywords: [
+            'form builder',
+            'form library',
+            'survey',
+            'javascript',
+            'angular',
+            'react',
+            'vue',
+            'json forms',
+            'dynamic forms',
+        ],
     },
     {
         name: 'SVG Backgrounds',
