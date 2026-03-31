@@ -107,6 +107,13 @@ export const resources: Resource[] = [
         keywords: ['screenshot api', 'screenshot automation', 'screenshot service'],
     },
     {
+      name: 'Screenshot to Code',
+      description: 'Tool for converting screenshots and UI mockups into frontend code to accelerate prototyping workflows.',
+      categories: ['AI', 'Programming'],
+      url: 'https://screenshottocode.net/',
+      keywords: ['screenshot', 'ui', 'frontend', 'prototyping', 'react', 'tailwind'],
+    },
+    {
         name: 'Screenstab',
         description: 'Turn ordinary screenshots into beautiful image assets in no time',
         categories: ['Screenshot'],
@@ -1043,13 +1050,6 @@ export const resources: Resource[] = [
         categories: ['Analytics'],
         url: 'https://swetrix.com',
         keywords: ['analytics', 'marketing', 'web analytics', 'privacy', 'opensource'],
-    },
-    {
-      name: 'Screenshot to Code',
-      description: 'Tool for converting screenshots and UI mockups into frontend code to accelerate prototyping workflows.',
-      categories: ['AI', 'Programming'],
-      url: 'https://screenshottocode.net/',
-      keywords: ['screenshot', 'ui', 'frontend', 'prototyping', 'react', 'tailwind'],
     },
     {
         name: 'Syntax',
