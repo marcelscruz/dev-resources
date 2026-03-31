@@ -299,11 +299,27 @@ export const resources: Resource[] = [
         keywords: ['Marketing', 'SEO', 'link building', 'links', 'link', 'bento'],
     },
     {
+        name: 'LinkMeta',
+        description:
+            'Free URL metadata extraction API. Fetch Open Graph tags, Twitter Cards, favicons, and meta tags from any URL. No API keys required.',
+        categories: ['API Building', 'SEO'],
+        url: 'https://linkmeta.dev',
+        keywords: ['metadata', 'open graph', 'twitter cards', 'link preview', 'free api', 'rest api'],
+    },
+    {
         name: 'LinkedIn Learning',
         description:
             'Learn business, creative, and technology skills to achieve your personal and professional goals. Join LinkedIn Learning today to get access to thousands of courses.',
         categories: ['Learn', 'Programming'],
         url: 'https://www.linkedin.com/learning',
+    },
+    {
+        name: 'LinkShrink',
+        description:
+            'Free privacy-first URL shortener API. Shorten URLs with no tracking, no ads, and no API keys required. Built for developers who value user privacy.',
+        categories: ['API Building', 'Security'],
+        url: 'https://linkshrink.dev',
+        keywords: ['url shortener', 'short url', 'privacy', 'free api', 'rest api', 'link shortener'],
     },
     {
         name: 'Linkero',

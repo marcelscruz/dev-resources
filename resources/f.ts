@@ -479,6 +479,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'FreeKit',
+        description:
+            'Free instant HTML hosting API. Upload HTML content and get a live URL instantly. No signup or API keys required.',
+        categories: ['API Building', 'Hosting'],
+        url: 'https://freekit.dev',
+        keywords: ['html hosting', 'free api', 'instant hosting', 'deploy html', 'rest api'],
+    },
+    {
         name: 'FreeHTML5',
         description:
             'Free website templates, free HTML5 templates using Bootstrap framework. High quality free website templates for all.',

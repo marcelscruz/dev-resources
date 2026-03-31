@@ -16,6 +16,14 @@ export const resources: Resource[] = [
         url: 'https://qoqo.ai/',
     },
     {
+        name: 'QRMint',
+        description:
+            'Free styled QR code generator and API. Create customizable QR codes with colors, logos, and styles programmatically. No API keys required.',
+        categories: ['API Building', 'Image'],
+        url: 'https://qrmint.dev',
+        keywords: ['qr code', 'qr generator', 'styled qr', 'free api', 'rest api', 'qr code api'],
+    },
+    {
         name: 'Quicklisting',
         description:
             'Done-for-you growth marketing for tech startups. From content and SEO to backlinks and design, Quicklisting helps you scale without hiring full-time.',
