@@ -1045,17 +1045,17 @@ export const resources: Resource[] = [
         keywords: ['analytics', 'marketing', 'web analytics', 'privacy', 'opensource'],
     },
     {
+      name: 'Screenshot to Code',
+      description: 'Tool for converting screenshots and UI mockups into frontend code to accelerate prototyping workflows.',
+      categories: ['AI', 'Programming'],
+      url: 'https://screenshottocode.net/',
+      keywords: ['screenshot', 'ui', 'frontend', 'prototyping', 'react', 'tailwind'],
+    },
+    {
         name: 'Syntax',
         description:
             'Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling.',
         categories: ['Podcast', 'Programming'],
         url: 'https://syntax.fm',
-    },
-    {
-      name: 'Screenshot to Code',
-      description: 'Tool for converting screenshots and UI mockups into frontend code to accelerate prototyping workflows.',
-      categories: ['AI', 'Frontend', 'Tools'],
-      url: 'https://screenshottocode.net/',
-      keywords: ['screenshot', 'ui', 'frontend', 'prototyping', 'react', 'tailwind'],
     },
 ]
