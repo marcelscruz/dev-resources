@@ -1051,4 +1051,11 @@ export const resources: Resource[] = [
         categories: ['Podcast', 'Programming'],
         url: 'https://syntax.fm',
     },
+    {
+      name: 'Screenshot to Code',
+      description: 'Tool for converting screenshots and UI mockups into frontend code to accelerate prototyping workflows.',
+      categories: ['AI', 'Frontend', 'Tools'],
+      url: 'https://screenshottocode.net/',
+      keywords: ['screenshot', 'ui', 'frontend', 'prototyping', 'react', 'tailwind'],
+    },
 ]
