@@ -1523,6 +1523,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="productivity">Productivity</a>
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
  <img src="https://www.google.com/s2/favicons?domain=https://www.aaask.com/&sz=128" width="16" /> | [aaask](https://www.aaask.com/) | aaask is the best way to collect feedback from your team on autopilot | ai, productivity, feedback, team, autopilot |
