@@ -919,6 +919,14 @@ export const resources: Resource[] = [
         keywords: ['ai sdr', 'sales', 'ai sales outreach', 'b2b lead generation'],
     },
     {
+        name: 'ConvertImage.tools',
+        description:
+            'Free browser-based image tools including converter, compressor, background remover, and more. All processing happens client-side with no signup required.',
+        categories: ['Image', 'Tooling'],
+        url: 'https://convertimage.tools',
+        keywords: ['image converter', 'image compressor', 'background remover', 'client-side', 'image tools'],
+    },
+    {
         name: 'CookieYes',
         description:
             'CookieYes is a cookie consent solution that helps your website achieve GDPR and CCPA compliance easily. Create a lifetime free account!',
