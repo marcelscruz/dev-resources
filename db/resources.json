@@ -11177,14 +11177,9 @@
         "name": "SlingSite",
         "description": "Optimize your images and videos for your website in batch with full privacy. Slingsite will create compressed versions of your images and videos for all device resolutions.",
         "categories": [
-            "Design",
-            "Illustration",
             "Image",
-            "Open Source",
             "Performance",
-            "SEO",
-            "UX",
-            "Video"
+            "Open Source"
         ],
         "url": "https://slingsite.github.io",
         "keywords": [
