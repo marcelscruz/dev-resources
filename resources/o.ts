@@ -7,6 +7,13 @@ export const resources: Resource[] = [
         categories: ['AI', 'Productivity'],
         url: 'https://www.obihelper.com/',
     },
+    {
+        name: 'OctoStream',
+        description: 'IP Camera Streaming Service',
+        categories: ['Video', 'Hosting'],
+        url: 'https://www.octostream.com/',
+        keywords: ['live camera streaming', 'ip camera web embed', 'rtsp', 'rtmp'],
+    },
     {
         name: 'OrcaSheets',
         description:
