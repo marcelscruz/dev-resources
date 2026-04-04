@@ -142,6 +142,13 @@ export const resources: Resource[] = [
         url: 'https://aidirectori.es/',
         keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
     },
+   {
+        name: 'AI Facebook Ad Generator',
+        description: 'Create tailored Facebook ads with AI in seconds',
+        categories: ['Design', 'Social Media', 'Marketing'],
+        url: 'https://venngage.com/ai-tools/facebook-ad-generator',
+        keywords: ['ai facebook ad generator', 'facebook ad creator', 'social media ad generator', 'ai ad design tool'],
+    },
     {
         name: 'AI Jobs',
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
