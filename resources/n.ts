@@ -29,19 +29,19 @@ export const resources: Resource[] = [
         keywords: ['automation', 'prompt engineering', 'llm'],
     },
     {
-        name: 'NativeBridge',
-        description: 'Show, Share, Approve: Mobile Apps in Any Browser',
-        categories: ['Productivity', 'Testing', 'Tooling'],
-        url: 'https://nativebridge.io/',
-        keywords: ['mobile app testing', 'mobile emulator', 'app testing', 'iOS testing'],
-    },
-    {
         name: 'NAT Checker',
         description:
             'Free, fast, accurate NAT check for developers and gamers on PS5, Xbox, Switch, and PC. Understand network status and improve play.',
         categories: ['Productivity', 'Testing', 'Tooling'],
         url: 'https://natchecker.com',
         keywords: ['network testing', 'network troubleshoot', 'nat type test'],
+    },
+    {
+        name: 'NativeBridge',
+        description: 'Show, Share, Approve: Mobile Apps in Any Browser',
+        categories: ['Productivity', 'Testing', 'Tooling'],
+        url: 'https://nativebridge.io/',
+        keywords: ['mobile app testing', 'mobile emulator', 'app testing', 'iOS testing'],
     },
     {
         name: 'Netlify',

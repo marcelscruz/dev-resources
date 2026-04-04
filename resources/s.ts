@@ -459,7 +459,7 @@ export const resources: Resource[] = [
         name: 'SlingSite',
         description:
             'Optimize your images and videos for your website in batch with full privacy. Slingsite will create compressed versions of your images and videos for all device resolutions.',
-        categories: ['Design', 'Illustration', 'Image', 'Open Source', 'Performance', 'SEO', 'UX', 'Video'],
+        categories: ['Performance', 'Image', 'Video'],
         url: 'https://slingsite.github.io',
         keywords: [
             'image optimization',

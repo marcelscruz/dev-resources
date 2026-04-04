@@ -305,6 +305,14 @@ export const resources: Resource[] = [
         url: 'https://www.productive-hub.com/',
     },
     {
+        name: 'ProductToModel',
+        description:
+            'ProductToModel helps clothing brands turn flat-lay garment photos into reviewed on-model images for PDPs, ads, and launches.',
+        categories: ['AI', 'Image', 'Marketing'],
+        url: 'https://producttomodel.com',
+        keywords: ['product to model', 'on-model photos', 'ai clothing model', 'flat lay to model', 'apparel ecommerce'],
+    },
+    {
         name: 'Programiz',
         description:
             'Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references.',
