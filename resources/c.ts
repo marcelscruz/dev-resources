@@ -591,6 +591,22 @@ export const resources: Resource[] = [
         url: 'https://www.codetriage.com/',
     },
     {
+        name: 'CodeType',
+        description:
+            'A typing speed test designed for developers. Practice typing real code snippets in 9 programming languages with 3 difficulty levels. Track WPM, accuracy, and symbol speed.',
+        categories: ['Typing', 'Code Challenge'],
+        url: 'https://codetype-sigma.vercel.app/',
+        keywords: [
+            'typing test',
+            'typing speed',
+            'developer typing',
+            'code typing',
+            'wpm',
+            'programming practice',
+            'typing game',
+        ],
+    },
+    {
         name: 'Codewars',
         description:
             'Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.',
