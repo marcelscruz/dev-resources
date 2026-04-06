@@ -122,6 +122,14 @@ export const resources: Resource[] = [
         keywords: ['Coding', 'Codebase', 'Repositories', 'Code Review', 'Git', 'Commits', 'Pull Requests'],
     },
     {
+        name: 'gitty',
+        description:
+            'Git workflow CLI tool. Stage, commit, and push in one command, with selective line commits, interactive conflict resolution, and history rewriting.',
+        categories: ['Terminal', 'Tooling'],
+        url: 'https://github.com/Omibranch/gitty',
+        keywords: ['git', 'cli', 'workflow', 'terminal', 'commit', 'golang'],
+    },
+    {
         name: 'Gliesess 90 marketing strategy breakdowns',
         description:
             'Browse the most comprehensive list of online marketing strategies on the internet. Find the Social Media and Search Engine strategies of each company.',
