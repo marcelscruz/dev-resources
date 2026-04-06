@@ -1,5 +1,5 @@
 {
-"count": 1145,
+"count": 1149,
 "data": [
     {
         "name": "1001 Fonts",
@@ -63,6 +63,23 @@
             "Job"
         ],
         "url": "https://4dayweek.io/"
+    },
+    {
+        "name": "404life",
+        "description": "Background terminal daemon that posts existential idle reminders when you stop typing.",
+        "categories": [
+            "Terminal",
+            "Productivity",
+            "Tooling"
+        ],
+        "url": "https://github.com/Omibranch/404life",
+        "keywords": [
+            "daemon",
+            "terminal idle",
+            "linux",
+            "cli",
+            "go"
+        ]
     },
     {
         "name": "99designs",
@@ -1741,6 +1758,12 @@
     {
         "name": "Certificates.dev",
         "description": "Recognized certification exams for Vue (official certification endorsed by Evan You), React, Angular, Nuxt, and JS. We’ve helped developers from 680+ companies worldwide validate their frontend skills.",
+        "categories": [
+            "Programming",
+            "Resume",
+            "Code Challenge"
+        ],
+        "url": "https://certificates.dev/",
         "keywords": [
             "frontend",
             "Javascript",
@@ -1749,13 +1772,7 @@
             "Angular",
             "Certification",
             "coding challenge"
-        ],
-        "categories": [
-            "Programming",
-            "Resume",
-            "Code Challenge"
-        ],
-        "url": "https://certificates.dev/"
+        ]
     },
     {
         "name": "Chaindesk",
@@ -2665,6 +2682,23 @@
             "npr",
             "startup",
             "talk radio"
+        ]
+    },
+    {
+        "name": "commit-roast",
+        "description": "AI-powered CLI that roasts recent git commit messages with online and offline modes.",
+        "categories": [
+            "Terminal",
+            "Tooling",
+            "AI"
+        ],
+        "url": "https://github.com/Omibranch/commit-roast",
+        "keywords": [
+            "git",
+            "cli",
+            "commit messages",
+            "roast",
+            "go"
         ]
     },
     {
@@ -5437,6 +5471,23 @@
         "url": "https://getterms.io/"
     },
     {
+        "name": "ghostwriter",
+        "description": "CLI tool that types realistic code snippets in terminal for demos and recordings.",
+        "categories": [
+            "Terminal",
+            "Tooling",
+            "Productivity"
+        ],
+        "url": "https://github.com/Omibranch/ghostwriter",
+        "keywords": [
+            "cli",
+            "typing simulation",
+            "terminal",
+            "demos",
+            "go"
+        ]
+    },
+    {
         "name": "Git Cheat Sheets",
         "description": "Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.",
         "categories": [
@@ -6038,6 +6089,23 @@
         "url": "https://hired.com/"
     },
     {
+        "name": "hiring",
+        "description": "Linux CLI/daemon that reviews project files and sends passive-aggressive HR rejection letters.",
+        "categories": [
+            "Terminal",
+            "Tooling",
+            "AI"
+        ],
+        "url": "https://github.com/Omibranch/hiring",
+        "keywords": [
+            "cli",
+            "daemon",
+            "code review",
+            "hr",
+            "notify-send"
+        ]
+    },
+    {
         "name": "Hive Index",
         "description": "Find online communities, across all platforms, for any topic.",
         "categories": [
@@ -6559,10 +6627,10 @@
     },
     {
         "name": "IPWho IP Geolocation API",
+        "description": "2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency.",
         "categories": [
             "Tooling"
         ],
-        "description": "2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency.",
         "url": "https://www.ipwho.org",
         "keywords": [
             "ip geolocation api",
@@ -6681,10 +6749,10 @@
     },
     {
         "name": "JavaScript Tutorial",
+        "description": "JavaScript Tutorial provides clear and practical tutorials, tips, and examples to help developers learn JavaScript and improve their coding skills.",
         "categories": [
             "Learn"
         ],
-        "description": "JavaScript Tutorial provides clear and practical tutorials, tips, and examples to help developers learn JavaScript and improve their coding skills.",
         "url": "https://www.javascripttutorial.net/",
         "keywords": [
             "javascript",
@@ -6733,10 +6801,10 @@
     },
     {
         "name": "JobBoardSearch 🔎",
+        "description": "Meta directory of job boards with filters. Helping: Job seekers to find jobs, Job boards to promote, Recruiters to find the best candidates",
         "categories": [
             "Job"
         ],
-        "description": "Meta directory of job boards with filters. Helping: Job seekers to find jobs, Job boards to promote, Recruiters to find the best candidates",
         "url": "https://jobboardsearch.com/",
         "keywords": [
             "jobs",
@@ -7300,11 +7368,11 @@
     },
     {
         "name": "Learnify",
+        "description": "Learnify is an all-in-one web development learning platform designed for beginners to advanced learners. Explore easy-to-understand tutorials on HTML, CSS, JavaScript, and React—all in one place.",
         "categories": [
             "Learn",
             "Programming"
         ],
-        "description": "Learnify is an all-in-one web development learning platform designed for beginners to advanced learners. Explore easy-to-understand tutorials on HTML, CSS, JavaScript, and React—all in one place.",
         "url": "https://learnify.shefali.dev/",
         "keywords": [
             "web development tutorials",
@@ -7558,11 +7626,11 @@
     },
     {
         "name": "LITSLINK",
+        "description": "LITSLINK is a software development company that builds custom web and mobile products, including SaaS, AI-driven solutions, and cloud platforms, helping businesses design, develop, and scale digital products from idea to launch.",
         "categories": [
             "AI",
             "Startup"
         ],
-        "description": "LITSLINK is a software development company that builds custom web and mobile products, including SaaS, AI-driven solutions, and cloud platforms, helping businesses design, develop, and scale digital products from idea to launch.",
         "url": "https://litslink.com",
         "keywords": [
             "software development",
@@ -8964,10 +9032,10 @@
     },
     {
         "name": "PageRadar",
+        "description": "Automated SEO monitoring platform that tracks Core Web Vitals, search rankings, HTML changes, affiliate links, and website performance with real-time alerts.",
         "categories": [
             "SEO"
         ],
-        "description": "Automated SEO monitoring platform that tracks Core Web Vitals, search rankings, HTML changes, affiliate links, and website performance with real-time alerts.",
         "url": "https://pageradar.io",
         "keywords": [
             "SEO",
@@ -9945,7 +10013,7 @@
         "keywords": [
             "react native",
             "mobile development",
-            "remote jobs,",
+            "remote jobs",
             "tech jobs"
         ]
     },
@@ -10186,11 +10254,11 @@
     },
     {
         "name": "Requestly",
+        "description": "Build and test APIs faster. Lightweight Git-friendly API client built for modern developers.",
         "categories": [
             "API Building",
             "Tooling"
         ],
-        "description": "Build and test APIs faster. Lightweight Git-friendly API client built for modern developers.",
         "url": "https://requestly.com",
         "keywords": [
             "api",
@@ -10472,7 +10540,7 @@
             "assistant",
             "automation",
             "nocode",
-            "ai agent,"
+            "ai agent"
         ]
     },
     {
@@ -10853,22 +10921,22 @@
     },
     {
         "name": "Shadcn Templates",
+        "description": "A collection of Shadcn UI templates, components, boilerplates, and more.",
         "categories": [
             "Template",
             "UI",
             "Design"
         ],
-        "description": "A collection of Shadcn UI templates, components, boilerplates, and more.",
         "url": "https://shadcntemplates.com"
     },
     {
         "name": "Shadcnblocks",
+        "description": "Hundreds of extra blocks and components for shadcn/ui, Tailwind & React.",
         "categories": [
             "Template",
             "UI",
             "Design"
         ],
-        "description": "Hundreds of extra blocks and components for shadcn/ui, Tailwind & React.",
         "url": "https://shadcnblocks.com"
     },
     {
@@ -12016,10 +12084,11 @@
     },
     {
         "name": "Table Format Converter",
+        "description": "Free online tool to convert your table data to CSV, HTML, JSON, Markdown and more.",
         "categories": [
             "Productivity"
         ],
-        "description": "Free online tool to convert your table data to CSV, HTML, JSON, Markdown and more.",
+        "url": "https://www.tableformatconverter.com",
         "keywords": [
             "table",
             "spreadsheet",
@@ -12029,8 +12098,7 @@
             "json",
             "markdown",
             "excel"
-        ],
-        "url": "https://www.tableformatconverter.com"
+        ]
     },
     {
         "name": "Tabler Icons",
@@ -13432,10 +13500,10 @@
     },
     {
         "name": "VitePress",
+        "description": "VitePress is a Vite-powered static site generator. It provides fast, modern, and lightweight documentation sites with native ESM support and instant hot reload.",
         "categories": [
             "Documentation"
         ],
-        "description": "VitePress is a Vite-powered static site generator. It provides fast, modern, and lightweight documentation sites with native ESM support and instant hot reload.",
         "url": "https://vitepress.dev/",
         "keywords": [
             "vitepress",
@@ -13518,6 +13586,7 @@
         "categories": [
             "Learn"
         ],
+        "url": "https://vueschool.io",
         "keywords": [
             "vue",
             "vue.js",
@@ -13526,8 +13595,7 @@
             "javascript",
             "typescript",
             "learning"
-        ],
-        "url": "https://vueschool.io"
+        ]
     },
     {
         "name": "Vue.js devtools",
