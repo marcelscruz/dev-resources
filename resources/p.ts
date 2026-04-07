@@ -256,6 +256,13 @@ export const resources: Resource[] = [
         url: 'https://www.postman.com/',
     },
     {
+        name: 'PostPeer',
+        description: 'Social media posting API for cross-platform posting and scheduling',
+        categories: ['Social Media', 'Programming', 'Marketing' ],
+        url: 'https://www.postpeer.dev/',
+        keywords: ['social media api', 'developer tools', 'api', 'social media automation'], 
+    },
+    {
         name: 'Powerdrill',
         description:
             'An AI data analysis tool that supports auto-generation of data visuals, data reports, and PPT from your data',
