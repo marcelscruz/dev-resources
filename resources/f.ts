@@ -653,6 +653,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'FurniMesh',
+        description: 'AI-powered 3D furniture model generator that transforms text descriptions and images into production-ready 3D models for interior design, e-commerce, and architecture.',
+        categories: ['AI', 'Design', 'Image'],
+        url: 'https://www.furnimesh.com',
+        keywords: ['3d', 'ai', 'furniture', 'design', '3d model', 'generative ai', 'interior design'],
+    },
+    {
         name: 'Fuselio',
         description:
             'Fuselio is a rapid MVP development platform for startups and SMEs, enabling the development of custom mobile and web applications in just 6 weeks. ',
