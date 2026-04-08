@@ -1,5 +1,5 @@
 {
-"count": 1145,
+"count": 1146,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5954,6 +5954,23 @@
             "Hosting"
         ],
         "url": "https://www.heroku.com/"
+    },
+    {
+        "name": "Heroshot",
+        "description": "Screenshot automation CLI for documentation. Define screenshots once in config, regenerate all with one command using Playwright.",
+        "categories": [
+            "Screenshot",
+            "Documentation",
+            "Tooling"
+        ],
+        "url": "https://heroshot.sh",
+        "keywords": [
+            "screenshot",
+            "automation",
+            "documentation",
+            "playwright",
+            "cli"
+        ]
     },
     {
         "name": "Hexabot",
