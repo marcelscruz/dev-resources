@@ -108,6 +108,13 @@ export const resources: Resource[] = [
             'Top Best Font Dwonload',
         ],
     },
+    {
+        name: 'onmediamarket',
+        description: 'Marketplace platform to connect clients with marketers and creators',
+        categories: ['Marketing', 'Freelance', 'Video'],
+        url: 'https://www.onmediamarket.com/',
+        keywords: ['content creator marketplace', 'marketing freelance platform', 'performance-based marketing', 'ugc creator platform'],
+    },
     {
         name: 'Onsen UI',
         description:
