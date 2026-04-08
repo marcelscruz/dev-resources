@@ -265,6 +265,14 @@ export const resources: Resource[] = [
         url: 'https://anotherwrapper.com',
     },
     {
+        name: 'AnveVoice',
+        description:
+            'AI voice agent for websites that trains on your content, navigates pages, fills forms, and books appointments in 50+ languages with sub-700ms latency.',
+        categories: ['AI'],
+        url: 'https://anvevoice.app',
+        keywords: ['voice ai', 'ai agent', 'chatbot', 'voice assistant', 'website widget'],
+    },
+    {
         name: 'Apigee',
         description:
             'Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.',
