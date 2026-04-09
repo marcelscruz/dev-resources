@@ -89,19 +89,19 @@ export const resources: Resource[] = [
         url: 'https://www.pcloudy.com/',
     },
     {
+        name: 'pdforge',
+        description:
+            'The new way to generate PDF documents for your SaaS. Use our no-code PDF builder and our easy-to-use API to generate modern PDF reports at scale without relying on your development team.',
+        categories: ['Editor', 'Design', 'Marketing'],
+        url: 'https://pdforge.com/',
+    },
+    {
         name: 'PDFSpark',
         description:
             'Free HTML/URL to PDF conversion API. Convert any webpage or HTML content into a PDF document programmatically. No API keys required.',
         categories: ['API Building', 'Tooling'],
         url: 'https://pdfspark.dev',
         keywords: ['html to pdf', 'url to pdf', 'pdf generation', 'free api', 'rest api', 'document conversion'],
-    },
-    {
-        name: 'pdforge',
-        description:
-            'The new way to generate PDF documents for your SaaS. Use our no-code PDF builder and our easy-to-use API to generate modern PDF reports at scale without relying on your development team.',
-        categories: ['Editor', 'Design', 'Marketing'],
-        url: 'https://pdforge.com/',
     },
     {
         name: 'PeoplePerHour',
