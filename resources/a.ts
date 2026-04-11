@@ -265,6 +265,14 @@ export const resources: Resource[] = [
         url: 'https://anotherwrapper.com',
     },
     {
+        name: 'ApexToWWW',
+        description:
+            'Free DNS apex/naked domain to www subdomain 301 redirect service. Automatic SSL, IPv6, HTTP/3. No signup needed — just add two DNS records.',
+        categories: ['Domain'],
+        url: 'https://www.apextowww.com/',
+        keywords: ['dns', 'domain', 'redirect', 'apex domain', 'naked domain', '301 redirect', 'www'],
+    },
+    {
         name: 'Apigee',
         description:
             'Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.',
