@@ -322,11 +322,27 @@ export const resources: Resource[] = [
         keywords: ['link in bio', 'personal site', 'share links', 'linktree', 'liinks', 'bento'],
     },
     {
+        name: 'LinkMeta',
+        description:
+            'Free URL metadata extraction API. Fetch Open Graph tags, Twitter Cards, favicons, and meta tags from any URL. No API keys required.',
+        categories: ['API Building', 'SEO'],
+        url: 'https://linkmeta.dev',
+        keywords: ['metadata', 'open graph', 'twitter cards', 'link preview', 'free api', 'rest api'],
+    },
+    {
         name: 'LinkRocket',
         description: 'Earn Credits. Build Backlinks. Dominate Rankings',
         categories: ['Marketing', 'SEO', 'AI'],
         url: 'https://linkrocket.ai',
         keywords: ['seo', 'ai', 'backlinks', 'digital marketing'],
+    },
+    {
+        name: 'LinkShrink',
+        description:
+            'Free privacy-first URL shortener API. Shorten URLs with no tracking, no ads, and no API keys required. Built for developers who value user privacy.',
+        categories: ['API Building', 'Security'],
+        url: 'https://linkshrink.dev',
+        keywords: ['url shortener', 'short url', 'privacy', 'free api', 'rest api', 'link shortener'],
     },
     {
         name: 'LinksHub',

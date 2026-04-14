@@ -55,6 +55,14 @@ export const resources: Resource[] = [
         url: 'https://www.offen.dev/',
     },
     {
+        name: 'OGForge',
+        description:
+            'Free Open Graph image generator API. Create dynamic OG images for social media previews programmatically. No API keys required.',
+        categories: ['API Building', 'Image'],
+        url: 'https://ogforge.dev',
+        keywords: ['open graph', 'og image', 'social media', 'image generation', 'free api', 'rest api'],
+    },
+    {
         name: 'OkJob',
         description: '4 day Week Job Board',
         categories: ['Job'],

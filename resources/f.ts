@@ -517,6 +517,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'FreeKit',
+        description:
+            'Free instant HTML hosting API. Upload HTML content and get a live URL instantly. No signup or API keys required.',
+        categories: ['API Building', 'Hosting'],
+        url: 'https://freekit.dev',
+        keywords: ['html hosting', 'free api', 'instant hosting', 'deploy html', 'rest api'],
+    },
+    {
         name: 'Freelancer',
         description: 'Find & hire top freelancers, web developers & designers inexpensively. World',
         categories: ['Freelance'],
