@@ -302,6 +302,14 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/channel/UCDQTzZ871T7uJpx9yeMPhAw',
     },
     {
+        name: 'TikTok Data Pro API',
+        description:
+            'REST API for TikTok profile and hashtag data. Returns follower counts, engagement metrics, video lists, and music metadata. Free tier available.',
+        categories: ['API Building', 'Social Media', 'Analytics'],
+        url: 'https://rapidapi.com/bhaumikdhameliya30/api/tiktok-data-pro',
+        keywords: ['tiktok', 'api', 'rapidapi', 'hashtag', 'profile', 'followers', 'engagement', 'videos', 'music'],
+    },
+    {
         name: 'TinyPNG',
         description:
             'Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency!',
