@@ -235,6 +235,13 @@ export const resources: Resource[] = [
         url: 'https://www.pluralsight.com/',
     },
     {
+        name: 'Podtastic',
+        description: 'Podtastic is a podcast player powered by Pod-telligence',
+        categories: ['Podcast', 'AI', 'Productivity' ],
+        url: 'https://podtastic.app/',
+        keywords: ['podcasting', 'podcast ai', 'podcast app', 'podcasting app'], 
+    },
+    {
         name: 'Polypane',
         description:
             'A browser for web developers and designers with all the tools you need to build responsive, accessible and fast sites five times faster.',
