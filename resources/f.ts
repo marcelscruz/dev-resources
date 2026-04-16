@@ -629,6 +629,25 @@ export const resources: Resource[] = [
         url: 'https://www.fetoolkit.io/',
     },
     {
+        name: 'FrontendAtlas',
+        description:
+            'Frontend interview prep platform with hands-on JavaScript, UI, and DOM-oriented coding challenges.',
+        categories: ['Code Challenge', 'Learn', 'Programming'],
+        url: 'https://frontendatlas.com/coding',
+        keywords: [
+            'frontend',
+            'javascript',
+            'typescript',
+            'ui',
+            'dom',
+            'react',
+            'angular',
+            'vue',
+            'interview',
+            'system design',
+        ],
+    },
+    {
         name: 'Frontendor',
         description:
             'Reusable HTML templates and blocks to help you build beautiful and professional landing pages quickly and easily by COPY-PASTE.',
