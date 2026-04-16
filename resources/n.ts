@@ -119,6 +119,13 @@ export const resources: Resource[] = [
         keywords: ['serverless', 'cloud', 'development', 'framework'],
     },
     {
+        name: 'No Code Website Builder',
+        description: 'A marketplace for premium no-code website, web app, and mobile app templates built on platforms like Webflow, Framer, Bubble, Lovable, Replit and more.',
+        categories: ['Design', 'Template', 'Website Builder'],
+        url: 'https://nocodewebsitebuilder.com',
+        keywords: ['no-code', 'templates', 'webflow', 'framer', 'bubble'],
+    },
+    {
         name: 'No-Code Scraper',
         description: 'Seamlessly extract data from any website with just a few simple inputs.',
         categories: ['Scraping', 'AI'],
