@@ -870,6 +870,13 @@ export const resources: Resource[] = [
         categories: ['Editor', 'Extension'],
         url: 'https://console-ninja.com',
     },
+    {
+        name: 'Consul',
+        description: 'Executive Assistant That Runs Your Calendar, Inbox & Scheduling',
+        categories: ['Productivity', 'AI', 'Startup'],
+        url: 'https://consul.so/',
+        keywords: ['ai', 'agent', 'email', 'calendar'],
+    },
     {
         name: 'ContentKing',
         description:
