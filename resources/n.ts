@@ -65,6 +65,14 @@ export const resources: Resource[] = [
         url: 'https://nextjs.org/',
     },
     {
+        name: 'Nextjsshop',
+        description:
+            'Premium Next.js UI components and templates for SaaS, landing pages, and product websites, designed to accelerate modern storefront and marketing sites.',
+        categories: ['Programming', 'Template'],
+        url: 'https://nextjsshop.com',
+        keywords: ['next.js', 'ecommerce', 'templates', 'UI components', 'storefront', 'react'],
+    },
+    {
         name: 'Nextradar',
         description:
             'Navigate the Next.js Ecosystem with ease. Stay up to date with the latest Next.js tools and resources.',
