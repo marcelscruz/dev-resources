@@ -8,6 +8,12 @@ export const resources: Resource[] = [
         url: 'https://www.obihelper.com/',
     },
     {
+        name: 'Octotree',
+        description: 'GitHub on steroids.',
+        categories: ['Browser', 'Extension'],
+        url: 'https://www.octotree.io/',
+    },
+    {
         name: 'OrcaSheets',
         description:
             'Enterprise-grade analytics as simple as spreadsheets. Process billions of rows locally on your PC with AI-powered insights in plain English. Local-first architecture ensures your sensitive data stays completely under your control while delivering insights in seconds, not hours.',
@@ -25,12 +31,6 @@ export const resources: Resource[] = [
             'offline',
             'desktop',
         ],
-    },
-    {
-        name: 'Octotree',
-        description: 'GitHub on steroids.',
-        categories: ['Browser', 'Extension'],
-        url: 'https://www.octotree.io/',
     },
     {
         name: 'Odin A',

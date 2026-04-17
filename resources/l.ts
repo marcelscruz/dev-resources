@@ -69,14 +69,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'LogoInspo',
-        description:
-            'The ultimate logo design inspiration library with 1,200+ hand-picked real and fictional logos searchable by style, industry, and color.',
-        categories: ['Logo', 'Design', 'Inspiration'],
-        url: 'https://logoinspo.com',
-        keywords: ['logo inspiration', 'branding', 'logo design', 'brand marks'],
-    },
-    {
         name: 'Laradir',
         description:
             'The biggest directory of Laravel engineers. Find your next role or gig. Laradir is a reverse job board, so teams reach out to you!',
@@ -93,6 +85,14 @@ export const resources: Resource[] = [
             'hybrid',
             'remote',
         ],
+    },
+    {
+        name: 'LogoInspo',
+        description:
+            'The ultimate logo design inspiration library with 1,200+ hand-picked real and fictional logos searchable by style, industry, and color.',
+        categories: ['Logo', 'Design', 'Inspiration'],
+        url: 'https://logoinspo.com',
+        keywords: ['logo inspiration', 'branding', 'logo design', 'brand marks'],
     },
     {
         name: 'Larajobs',

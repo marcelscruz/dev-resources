@@ -122,19 +122,19 @@ export const resources: Resource[] = [
         url: 'https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en',
     },
     {
+        name: 'Webacus',
+        description:
+            'Webacus is a versatile tool designed specifically for developers. It combines numerous operations that developers frequently need into a single, consistent interface. Instead of Googling and learning the interface for each operation, you can perform everything you need within Webacus, seamlessly.',
+        categories: ['Productivity', 'Tooling'],
+        url: 'https://webacus.dev',
+    },
+    {
         name: 'Webinspoo',
         description:
             'A curated SaaS web design inspiration gallery featuring the best landing pages, UI patterns, and product pages for designers, developers, and founders.',
         categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://webinspoo.com',
         keywords: ['web design inspiration', 'website gallery', 'landing page ideas', 'UI inspiration'],
-    },
-    {
-        name: 'Webacus',
-        description:
-            'Webacus is a versatile tool designed specifically for developers. It combines numerous operations that developers frequently need into a single, consistent interface. Instead of Googling and learning the interface for each operation, you can perform everything you need within Webacus, seamlessly.',
-        categories: ['Productivity', 'Tooling'],
-        url: 'https://webacus.dev',
     },
     {
         name: 'WebCurate Developer Tools',

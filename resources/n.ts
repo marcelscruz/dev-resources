@@ -73,20 +73,20 @@ export const resources: Resource[] = [
         keywords: ['next.js', 'ecommerce', 'templates', 'UI components', 'storefront', 'react'],
     },
     {
-        name: 'Nextradar',
-        description:
-            'Navigate the Next.js Ecosystem with ease. Stay up to date with the latest Next.js tools and resources.',
-        categories: ['Learn', 'Programming'],
-        url: 'https://nextradar.dev',
-        keywords: ['Nextjs', 'React', 'Vercel'],
-    },
-    {
         name: 'NexTool',
         description:
             '228+ free browser-based developer tools including JSON formatter, Base64 encoder, regex tester, color converter, UUID generator, and more. No signup required.',
         categories: ['Tooling', 'Programming'],
         url: 'https://nextool.app/free-tools/',
         keywords: ['developer tools', 'free tools', 'json', 'base64', 'regex', 'converter', 'formatter', 'generator'],
+    },
+    {
+        name: 'Nextradar',
+        description:
+            'Navigate the Next.js Ecosystem with ease. Stay up to date with the latest Next.js tools and resources.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://nextradar.dev',
+        keywords: ['Nextjs', 'React', 'Vercel'],
     },
     {
         name: 'NextReady',
