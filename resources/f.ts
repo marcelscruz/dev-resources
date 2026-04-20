@@ -668,4 +668,22 @@ export const resources: Resource[] = [
             'Mobile Development',
         ],
     },
+    {
+        name: 'ToolKit',
+        description:
+            'ToolKit is a collection of free online utilities built for developers, designers, and everyday users. Every tool runs entirely in the browser using Web APIs — nothing is sent to a server. The toolkit includes a cryptographically secure password generator (with 20+ specialized variants for WiFi, banking, SSH, and more), a word counter with keyword density analysis, a JSON formatter and validator, a regex tester with live match highlighting, a QR code generator with PNG/SVG export, a color converter (HEX/RGB/HSL/CMYK), Base64 encoder/decoder, UUID v4 generator, hash generator (SHA-256/512), URL encoder, case converter, lorem ipsum generator, markdown editor with live preview, color palette generator, and a username generator. Built with Next.js and TypeScript, deployed on Vercel. New tools added regularly.',
+        categories: ['Tooling'],
+        url: 'https://www.webtoolkit.tech',
+        keywords: [
+            'developer tools',
+            'online tools',
+            'password generator',
+            'JSON formatter',
+            'regex tester',
+            'base64',
+            'free tools',
+            'browser-based',
+            'no signup',
+        ],
+    },
 ]
