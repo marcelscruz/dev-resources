@@ -517,4 +517,11 @@ export const resources: Resource[] = [
         categories: ['Newsletter', 'Programming'],
         url: 'https://bytes.dev',
     },
+    {
+        name: 'BashExplain',
+        description: 'Paste any bash command and get a plain-English explanation of what it does. Useful for understanding unfamiliar shell commands before running them. Free, no signup, 100% client-side.',
+        categories: ['Tooling', 'Productivity'],
+        url: 'https://genesisaiservices.github.io/bashexplain/',
+        keywords: ['bash', 'shell', 'command', 'explainer', 'terminal', 'unix'],
+    },
 ]
