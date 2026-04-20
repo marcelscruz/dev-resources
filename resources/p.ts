@@ -284,6 +284,14 @@ export const resources: Resource[] = [
         url: 'https://www.primefaces.org/',
     },
     {
+        name: 'PR Radar',
+        description:
+            'Free, open-source browser extension for a unified PR dashboard across GitHub, GitLab, and Bitbucket. CI status, review tracking, notifications, and keyboard shortcuts.',
+        categories: ['Extension', 'Open Source', 'Tooling'],
+        url: 'https://www.deployhq.com/features/pr-radar',
+        keywords: ['pull requests', 'code review', 'CI', 'GitHub', 'GitLab', 'Bitbucket'],
+    },
+    {
         name: 'Privacyboard',
         description: 'Privacyboard helps you comply with GDPR in minutes so you can focus on what',
         categories: ['Legal'],
