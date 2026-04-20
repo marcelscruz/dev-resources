@@ -839,6 +839,13 @@ export const resources: Resource[] = [
         keywords: ['confetti', 'celebration', 'automation', 'api', 'ci/cd', 'background service'],
     },
     {
+        name: 'CronExplain',
+        description: 'Paste any cron expression and get an instant plain-English explanation. Handles 5-field POSIX cron and @-shorthand forms like @daily, @weekly. No signup required.',
+        categories: ['Tooling', 'Productivity'],
+        url: 'https://genesisaiservices.github.io/cronexplain/',
+        keywords: ['cron', 'crontab', 'scheduler', 'expression', 'explainer', 'syntax'],
+    },
+    {
         name: 'Confs.Tech',
         description:
             'Open-Source project that lists upcoming tech conferences. Everything is free and will stay free. It is a technical conferences finder.',
