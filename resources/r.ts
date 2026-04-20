@@ -483,4 +483,11 @@ export const resources: Resource[] = [
         url: 'https://www.rysa.ai',
         keywords: ['assistant', 'automation', 'nocode', 'ai agent,'],
     },
+    {
+        name: 'RegExplain',
+        description: 'Paste any regex pattern and get a plain-English explanation of what it matches. Useful for understanding unfamiliar regex before modifying it. Free, no signup, 100% client-side.',
+        categories: ['Tooling', 'Productivity'],
+        url: 'https://genesisaiservices.github.io/regexplain/',
+        keywords: ['regex', 'regexp', 'regular expression', 'explainer', 'pattern'],
+    },
 ]
