@@ -334,12 +334,7 @@ export const resources: Resource[] = [
         description: 'B2B Influencer Marketing Platform',
         categories: ['Marketing', 'Social Media', 'AI'],
         url: 'https://www.toksta.com',
-        keywords: [
-            'b2b influencer marketing',
-            'influencer discovery',
-            'influencer analytics',
-            'creator intelligence',
-        ],
+        keywords: ['b2b influencer marketing', 'influencer discovery', 'influencer analytics', 'creator intelligence'],
     },
     {
         name: 'TOOOLS.design',
