@@ -7,7 +7,14 @@ export const resources: Resource[] = [
             'Free all-in-one website health scanner. Checks SEO, ADA/WCAG accessibility, Core Web Vitals performance, and best practices in one scan. Paid plans add automated monitoring and alerts.',
         categories: ['SEO', 'Accessibility', 'Performance'],
         url: 'https://pageguard.org',
-        keywords: ['SEO checker', 'accessibility checker', 'ADA compliance', 'website health', 'WCAG', 'Core Web Vitals'],
+        keywords: [
+            'SEO checker',
+            'accessibility checker',
+            'ADA compliance',
+            'website health',
+            'WCAG',
+            'Core Web Vitals',
+        ],
     },
     {
         name: 'PageGym',

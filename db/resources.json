@@ -1,5 +1,5 @@
 {
-"count": 1150,
+"count": 1151,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8997,6 +8997,24 @@
             "design to code",
             "productivity tool",
             "compare design"
+        ]
+    },
+    {
+        "name": "PageGuard",
+        "description": "Free all-in-one website health scanner. Checks SEO, ADA/WCAG accessibility, Core Web Vitals performance, and best practices in one scan. Paid plans add automated monitoring and alerts.",
+        "categories": [
+            "SEO",
+            "Accessibility",
+            "Performance"
+        ],
+        "url": "https://pageguard.org",
+        "keywords": [
+            "SEO checker",
+            "accessibility checker",
+            "ADA compliance",
+            "website health",
+            "WCAG",
+            "Core Web Vitals"
         ]
     },
     {
