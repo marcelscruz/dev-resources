@@ -42,6 +42,13 @@ export const resources: Resource[] = [
         keywords: ['ai', 'productivity', 'feedback', 'team', 'autopilot'],
     },
     {
+        name: 'Accessalyze',
+        description: 'Free WCAG 2.1 AA accessibility scanner with AI-powered fix suggestions for your website.',
+        categories: ['Accessibility', 'Testing'],
+        url: 'https://accessalyze.com',
+        keywords: ['accessibility', 'wcag', 'a11y', 'scanner', 'ai', 'testing'],
+    },
+    {
         name: 'Accessible Color Generator',
         description:
             'A tool for creating color variations on a base color to meet WCAG AA or AAA color contrast ratio guidelines.',
