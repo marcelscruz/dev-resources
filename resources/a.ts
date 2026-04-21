@@ -266,8 +266,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'AntForms',
-        description:
-            'Unlimited free submissions + free analytics + integrations + AI + fastest support',
+        description: 'Unlimited free submissions + free analytics + integrations + AI + fastest support',
         categories: ['Productivity', 'Website Builder', 'Tooling'],
         url: 'https://antforms.com',
         keywords: [
