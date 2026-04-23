@@ -351,6 +351,13 @@ export const resources: Resource[] = [
         url: 'https://www.tooplate.com/',
     },
     {
+        name: 'Top SaaS Directories',
+        description: '100+ Top Directories and Launch Platforms to List your SaaS',
+        categories: ['Marketing', 'SEO', 'Startup' ],
+        url: 'https://topsaasdirectories.com/',
+        keywords: ['startup directory', 'saas directory', 'software directory', 'productivity'], 
+    },
+    {
         name: 'Toptal',
         description:
             'Toptal enables start-ups, businesses, and organizations to hire freelancers from a growing network of top talent in the world. Find quality talent to work full-time, part-time, or hourly who will seamlessly integrate into your team.',
