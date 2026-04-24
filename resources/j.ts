@@ -171,4 +171,11 @@ export const resources: Resource[] = [
         url: 'https://jobboardsearch.com/',
         keywords: ['jobs', 'job boards'],
     },
+    {
+        name: 'JSON2TS',
+        description: 'Paste JSON and get TypeScript interface definitions instantly. Handles nested objects, arrays, and infers optional fields from null values. Free, no signup, 100% client-side.',
+        categories: ['Tooling', 'Code Generator'],
+        url: 'https://genesisaiservices.github.io/json2ts/',
+        keywords: ['json', 'typescript', 'interface', 'types', 'converter', 'generator'],
+    },
 ]
