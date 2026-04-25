@@ -48,7 +48,7 @@ export const resources: Resource[] = [
                 name: '3STF Tools',
                 description:
                                 'A clean collection of free browser tools for developers, writers, and creators. No accounts. No ads. No data collected.',
-                categories: ['Tool', 'Productivity'],
+                categories: ['Tooling', 'Productivity'],
                 url: 'https://www.3stf.com/',
                 keywords: ['json formatter', 'image converter', 'password generator', 'word counter', 'developer tools', 'free tools', 'privacy', 'client-side'],
     },
