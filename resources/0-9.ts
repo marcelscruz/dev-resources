@@ -45,6 +45,14 @@ export const resources: Resource[] = [
         url: 'https://www.3dicons.com/',
     },
     {
+                name: '3STF Tools',
+                description:
+                                'A clean collection of free browser tools for developers, writers, and creators. No accounts. No ads. No data collected.',
+                categories: ['Tooling', 'Productivity'],
+                url: 'https://www.3stf.com/',
+                keywords: ['json formatter', 'image converter', 'password generator', 'word counter', 'developer tools', 'free tools', 'privacy', 'client-side'],
+    },
+    {
         name: '4 day week',
         description: 'Software jobs with a better work / life balance.',
         categories: ['Job'],
