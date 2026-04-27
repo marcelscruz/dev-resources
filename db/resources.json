@@ -1,5 +1,5 @@
 {
-"count": 1151,
+"count": 1152,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5786,6 +5786,22 @@
             "Programming"
         ],
         "url": "https://cssgridgarden.com/"
+    },
+    {
+        "name": "Gro",
+        "description": "AI Sales Agent for B2B Lead Generation",
+        "categories": [
+            "AI",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://thegro.ai/",
+        "keywords": [
+            "sales",
+            "automation",
+            "lead generation",
+            "marketing"
+        ]
     },
     {
         "name": "Grommet",
