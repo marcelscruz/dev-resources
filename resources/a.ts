@@ -143,6 +143,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
     },
     {
+        name: 'AI Dev Jobs',
+        description:
+            'Free AI and machine learning job board with 7,600+ jobs from 480+ companies. Includes a free REST API and MCP server for programmatic access.',
+        categories: ['AI', 'Job', 'API Building'],
+        url: 'https://aidevboard.com',
+        keywords: ['ai', 'machine learning', 'jobs', 'api', 'mcp', 'developer', 'career'],
+    },
+    {
         name: 'AI Jobs',
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
         categories: ['AI', 'Job'],
