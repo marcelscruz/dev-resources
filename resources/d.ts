@@ -51,6 +51,14 @@ export const resources: Resource[] = [
         url: 'https://dailyremote.com/',
     },
     {
+        name: 'DailyTips',
+        description:
+            'A 5-minute daily read on decisions, logic, distribution, and the thinking that turns code into products people use.',
+        categories: ['Blog', 'Learn'],
+        url: 'https://dailytips.dev',
+        keywords: ['tips', 'programming', 'daily', 'product thinking', 'software development'],
+    },
+    {
         name: 'daisyUI',
         description: 'Tailwind CSS Components plugin — daisyUI tailwind component library',
         categories: ['Library', 'Programming', 'UI'],
