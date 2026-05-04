@@ -698,13 +698,13 @@ export const resources: Resource[] = [
             'No Signup Required for CSV Analysis',
         ],
     },
-    {
-        name: 'SpeedUp AI',
-        description: 'End-to-End AI Circuit Schematic Design',
-        categories: ['AI', 'Design', 'Prototyping'],
-        url: 'https://speed-up.ai/',
-        keywords: ['ai', 'pcb design', 'circuit design', 'hardware design'],
-    },
+    {
+        name: 'SpeedUp AI',
+        description: 'End-to-End AI Circuit Schematic Design',
+        categories: ['AI', 'Design', 'Prototyping'],
+        url: 'https://speed-up.ai/',
+        keywords: ['ai', 'pcb design', 'circuit design', 'hardware design'],
+    },
     {
         name: 'Splitbee',
         description: 'Splitbee provides Analytics, Automation, User Funnel and A/B Testing.',

@@ -1,5 +1,5 @@
 {
-"count": 1154,
+"count": 1155,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11630,6 +11630,22 @@
             "Advertising Integration (Google Ads)",
             "Interactive Visualizations",
             "No Signup Required for CSV Analysis"
+        ]
+    },
+    {
+        "name": "SpeedUp AI",
+        "description": "End-to-End AI Circuit Schematic Design",
+        "categories": [
+            "AI",
+            "Design",
+            "Prototyping"
+        ],
+        "url": "https://speed-up.ai/",
+        "keywords": [
+            "ai",
+            "pcb design",
+            "circuit design",
+            "hardware design"
         ]
     },
     {
