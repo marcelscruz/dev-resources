@@ -86,6 +86,14 @@ export const resources: Resource[] = [
         keywords: ['HTML CSS JS UI UX WordPress React Native User Interface Design Website JavaScript Graphics design'],
     },
     {
+        name: 'AeroFTP',
+        description:
+            'Open-source multi-protocol file transfer client supporting 22 protocols (FTP, SFTP, WebDAV, S3, Google Drive, Dropbox and more), with encrypted vaults, a built-in terminal and an AI assistant. Built with Tauri, React and Rust.',
+        categories: ['Open Source', 'Tooling', 'Security'],
+        url: 'https://github.com/axpnet/aeroftp',
+        keywords: ['ftp', 'sftp', 'webdav', 's3', 'file transfer', 'cloud storage', 'encryption', 'tauri', 'rust'],
+    },
+    {
         name: 'Agent Security',
         description: 'Security for AI agents',
         categories: ['Security', 'AI', 'Newsletter'],
