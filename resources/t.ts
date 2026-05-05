@@ -454,6 +454,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'TransClipper',
+        description:
+            'Turn Viral Video Into Proven Content Ideas',
+        categories: ['AI', 'Marketing', 'Productivity'],
+        url: 'https://www.transclipper.ai/',
+        keywords: ['ai', 'marketing', 'content creation', 'video', 'content ideas','viral video','content ideas generator','transcript','Speech to Text','Text to Speech','voice recognition'],
+    },
+    {
         name: 'Truelist',
         description:
             'Truelist is a subscription-based email verification platform that provides unlimited email validation for sales and marketing lists.',
