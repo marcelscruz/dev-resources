@@ -160,6 +160,13 @@ export const resources: Resource[] = [
         url: 'https://notepad-plus-plus.org/',
     },
     {
+        name: 'notetime',
+        description: 'note taking app with automatic timestamps',
+        categories: ['Productivity', 'Writing', 'Logging' ],
+        url: 'https://www.notetimeapp.com/',
+        keywords: ['note taking', 'timestamp', 'notes', 'timeline'], 
+    },
+    {
         name: 'Noun Project',
         description:
             'Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.',
