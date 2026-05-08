@@ -153,6 +153,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'NotaSalud',
+        description:
+            'Spanish ICD-10 and ICD-11 search reference with a public JSON API and embeddable CIE-10 widget for healthcare tools.',
+        categories: ['API Building', 'Documentation', 'Tooling'],
+        url: 'https://notasalud.com/api-cie-10',
+        keywords: ['icd', 'cie', 'healthcare', 'medical coding', 'spanish', 'api'],
+    },
+    {
         name: 'Notepad++',
         description:
             'Notepad++ is a text and source code editor for use with Microsoft Windows. It supports tabbed editing, which allows working with multiple open files in a single window.',
