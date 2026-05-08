@@ -155,7 +155,7 @@ export const resources: Resource[] = [
     {
         name: 'NotaSalud',
         description:
-            'Spanish ICD-10 and ICD-11 search reference with a public JSON API and embeddable CIE-10 widget for healthcare tools.',
+            'Spanish ICD/CIE search reference with a public CIE-10 JSON search endpoint and embeddable CIE-10 widget for healthcare tools.',
         categories: ['API Building', 'Documentation', 'Tooling'],
         url: 'https://notasalud.com/api-cie-10',
         keywords: ['icd', 'cie', 'healthcare', 'medical coding', 'spanish', 'api'],
