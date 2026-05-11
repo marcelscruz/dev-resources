@@ -215,6 +215,13 @@ export const resources: Resource[] = [
         keywords: ['AI', 'tools', 'directory'],
     },
     {
+        name: 'All SVG Icons',
+        description: 'Browse and download 250,000+ free SVG icons from 220 carefully curated icon libraries.',
+        categories: ['Icon'],
+        url: 'https://allsvgicons.com/',
+        keywords: ['icons', 'svg icons', 'open source icons'],
+    },
+    {
         name: 'ally.js',
         description:
             'JavaScript library to help modern web applications with accessibility concerns by making accessibility simpler.',
@@ -264,6 +271,23 @@ export const resources: Resource[] = [
         categories: ['AI'],
         url: 'https://anvevoice.app',
         keywords: ['voice ai', 'ai agent', 'chatbot', 'voice assistant', 'website widget'],
+    },
+    {
+        name: 'AntForms',
+        description: 'Unlimited free submissions + free analytics + integrations + AI + fastest support',
+        categories: ['Productivity', 'Website Builder', 'Tooling'],
+        url: 'https://antforms.com',
+        keywords: [
+            'form builder',
+            'online forms',
+            'survey',
+            'contact forms',
+            'lead generation',
+            'drag and drop',
+            'form templates',
+            'analytics',
+            'integrations',
+        ],
     },
     {
         name: 'Apigee',
@@ -459,12 +483,5 @@ export const resources: Resource[] = [
         categories: ['Cloud Computing', 'Hosting', 'Serverless'],
         url: 'https://azure.microsoft.com/',
         keywords: ['Azuesss', 'Windows Azure', 'Cloud Service', 'Cloud Computing Companies'],
-    },
-    {
-        name: 'All SVG Icons',
-        description: 'Browse and download 250,000+ free SVG icons from 220 carefully curated icon libraries.',
-        categories: ['Icon'],
-        url: 'https://allsvgicons.com/',
-        keywords: ['icons', 'svg icons', 'open source icons'],
     },
 ]

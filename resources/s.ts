@@ -47,6 +47,13 @@ export const resources: Resource[] = [
         url: 'https://developer.apple.com/safari/technology-preview/',
     },
     {
+        name: 'Say About Us',
+        description: 'Collect unlimited video and text testimonials',
+        categories: ['Marketing', 'Social Media', 'Startup'],
+        url: 'https://sayabout.us/',
+        keywords: ['testimonial tool', 'testimonial collection tool', 'video testimonial', 'unlimited testimonial'],
+    },
+    {
         name: 'Scale',
         description:
             'Top-quality illustrations, 100% free - no attribution, no IP-related restrictions. Pick an illustration and customize to your branding using our color picker.',
@@ -459,7 +466,7 @@ export const resources: Resource[] = [
         name: 'SlingSite',
         description:
             'Optimize your images and videos for your website in batch with full privacy. Slingsite will create compressed versions of your images and videos for all device resolutions.',
-        categories: ['Design', 'Illustration', 'Image', 'Open Source', 'Performance', 'SEO', 'UX', 'Video'],
+        categories: ['Image', 'Performance', 'Open Source'],
         url: 'https://slingsite.github.io',
         keywords: [
             'image optimization',
@@ -690,6 +697,13 @@ export const resources: Resource[] = [
             'Interactive Visualizations',
             'No Signup Required for CSV Analysis',
         ],
+    },
+    {
+        name: 'SpeedUp AI',
+        description: 'End-to-End AI Circuit Schematic Design',
+        categories: ['AI', 'Design', 'Prototyping'],
+        url: 'https://speed-up.ai/',
+        keywords: ['ai', 'pcb design', 'circuit design', 'hardware design'],
     },
     {
         name: 'Splitbee',
@@ -964,6 +978,24 @@ export const resources: Resource[] = [
             'Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI.',
         categories: ['Hosting'],
         url: 'https://surge.sh/',
+    },
+    {
+        name: 'SurveyJS',
+        description:
+            'SurveyJS is an open-source JavaScript library for building dynamic forms and surveys using JSON. It works with React, Angular, Vue, and plain JavaScript, and can be connected to any backend.',
+        categories: ['Open Source', 'Library', 'Programming'],
+        url: 'https://surveyjs.io/',
+        keywords: [
+            'form builder',
+            'form library',
+            'survey',
+            'javascript',
+            'angular',
+            'react',
+            'vue',
+            'json forms',
+            'dynamic forms',
+        ],
     },
     {
         name: 'SVG Backgrounds',

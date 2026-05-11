@@ -117,6 +117,14 @@ export const resources: Resource[] = [
         url: 'https://www.heroku.com/',
     },
     {
+        name: 'Heroshot',
+        description:
+            'Screenshot automation CLI for documentation. Define screenshots once in config, regenerate all with one command using Playwright.',
+        categories: ['Screenshot', 'Documentation', 'Tooling'],
+        url: 'https://heroshot.sh',
+        keywords: ['screenshot', 'automation', 'documentation', 'playwright', 'cli'],
+    },
+    {
         name: 'Hexabot',
         description: 'Open-Source AI Tool to build multi-channel, multi-lingual, text-to-action chatbots agents.',
         categories: ['AI'],

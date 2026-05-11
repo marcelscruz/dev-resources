@@ -34,17 +34,12 @@ const logoSerpApi = `<div>
     <p align="center"><a href="https://serpapi.com?ref=dr-pa&utm_medium=dev-resources-repo-readme">SerpApi - Search API</a> makes it easy and fast to scrape Google and other search engines.</p>
 </div>`
 
-const logoRequestly = `<div>
-    <p align="center"><a href="https://requestly.com?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/requestly-dark-mode.png" width="160px"><source media="(prefers-color-scheme: light)" srcset="./assets/requestly-light-mode.png" width="160px"><img alt="Requestly logo" src="./assets/requestly-dark-mode.png" width="160px"></picture></a></p>
-    <p align="center"><a href="https://requestly.com?ref=dr-pa&utm_medium=dev-resources-repo-readme">Requestly</a>: Build and test APIs faster. Lightweight Git-friendly API client built for modern developers.</p>
-</div>`
-
 const logoBigDevSoon = `<div>
     <p align="center"><a href="https://bigdevsoon.me?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/bigdevsoon-dark-mode.svg" width="160px"><source media="(prefers-color-scheme: light)" srcset="./assets/bigdevsoon-light-mode.svg" width="160px"><img alt="BigDevSoon logo" src="./assets/bigdevsoon-dark-mode.svg" width="160px"></picture></a></p>
     <p align="center"><a href="https://bigdevsoon.me?ref=dr-pa&utm_medium=dev-resources-repo-readme">BigDevSoon</a>: Build real-world projects with Figma designs and an AI copilot in a zero-config browser IDE.</p>
 </div>`
 
-const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoApyhub}<br/>\n\n\n\n${logoSerpApi}<br/>\n\n\n\n${logoRequestly}<br/>\n\n\n\n${logoBigDevSoon}<br/>\n\n\n\n`
+const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoApyhub}<br/>\n\n\n\n${logoSerpApi}<br/>\n\n\n\n${logoBigDevSoon}<br/>\n\n\n\n`
 // const sponsors = `<div align="center">Sponsored by</div>
 //     <br/>
 //     ${logoScrapfly}

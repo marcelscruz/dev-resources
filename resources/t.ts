@@ -331,15 +331,10 @@ export const resources: Resource[] = [
     },
     {
         name: 'Toksta',
-        description: 'AI Software Research Agent',
-        categories: ['Marketing', 'AI', 'Analytics'],
+        description: 'B2B Influencer Marketing Platform',
+        categories: ['Marketing', 'Social Media', 'AI'],
         url: 'https://www.toksta.com',
-        keywords: [
-            'b2b saas influencer marketing',
-            'saas tool discovery',
-            'influencer data platform',
-            'ai-powered software research',
-        ],
+        keywords: ['b2b influencer marketing', 'influencer discovery', 'influencer analytics', 'creator intelligence'],
     },
     {
         name: 'TOOOLS.design',
@@ -539,21 +534,6 @@ export const resources: Resource[] = [
         keywords: ['typing', 'touch typing', 'type books', 'type wikipedia'],
     },
     {
-        name: 'TypingBeast',
-        description:
-            'Practice touch typing on various modes including zen mode, maintain streak and compete in leaderboards.',
-        categories: ['Learn', 'Typing'],
-        url: 'https://typingbeast.com',
-        keywords: ['typing', 'touch typing', 'typing zen', 'typing streak', 'typing leaderboards'],
-    },
-    {
-        name: 'TypingClub',
-        description: 'Learn touch typing online using TypingClub',
-        categories: ['Typing'],
-        url: 'https://www.typingclub.com/',
-        keywords: ['typing', 'typing tutorial', 'free touch typing tutorial', 'touch typing', 'typing game'],
-    },
-    {
         name: 'TypersWorld',
         description:
             'Improve your typing skills with our free typing game. Explore single-player and multiplayer typing games to improve your typing speed and accuracy.',
@@ -577,5 +557,20 @@ export const resources: Resource[] = [
             'free typing website',
             'words per minute',
         ],
+    },
+    {
+        name: 'TypingBeast',
+        description:
+            'Practice touch typing on various modes including zen mode, maintain streak and compete in leaderboards.',
+        categories: ['Learn', 'Typing'],
+        url: 'https://typingbeast.com',
+        keywords: ['typing', 'touch typing', 'typing zen', 'typing streak', 'typing leaderboards'],
+    },
+    {
+        name: 'TypingClub',
+        description: 'Learn touch typing online using TypingClub',
+        categories: ['Typing'],
+        url: 'https://www.typingclub.com/',
+        keywords: ['typing', 'typing tutorial', 'free touch typing tutorial', 'touch typing', 'typing game'],
     },
 ]

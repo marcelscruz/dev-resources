@@ -89,6 +89,14 @@ export const resources: Resource[] = [
         keywords: ['video face swap', 'photo face swap', 'ai video tools', 'ai image tools'],
     },
     {
+        name: 'ViewJSON',
+        description:
+            'Free online JSON viewer that automatically detects and previews Base64-encoded images, audio, video, and PDFs inline. Also supports JSON formatting and file-to-Base64 conversion.',
+        categories: ['Tooling', 'Productivity'],
+        url: 'https://viewjson.net',
+        keywords: ['json', 'base64', 'viewer', 'formatter', 'api', 'developer tools'],
+    },
+    {
         name: 'Vim',
         description:
             'Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.',

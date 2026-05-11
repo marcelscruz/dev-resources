@@ -93,6 +93,14 @@ export const resources: Resource[] = [
         url: 'https://larajobs.com/',
     },
     {
+        name: 'LargeMI',
+        description:
+            'LargeMI is a curated directory of AI tools focused on productivity, development, content creation, and business use cases, helping users discover and explore modern AI products through clear categorization.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://largemi.com',
+        keywords: ['ai tools', 'ai directory', 'developer productivity', 'generative ai'],
+    },
+    {
         name: 'Launch Squad',
         description: 'The best Product Hunt alternatives for your next launch.',
         categories: ['Productivity', 'Marketing'],
@@ -362,6 +370,13 @@ export const resources: Resource[] = [
         url: 'https://lobste.rs/',
     },
     {
+        name: 'LocalChat.app',
+        description: 'Local-first MacOS AI application - 100% Private, Works Fully Offline',
+        categories: ['AI', 'Productivity', 'Security'],
+        url: 'https://www.localchat.app/',
+        keywords: ['ai chat', 'private', 'productivity tool', 'ollama alternative'],
+    },
+    {
         name: 'LocalStack',
         description:
             'LocalStack is a cloud service emulator that runs in a single container on your laptop or in your CI environment. With LocalStack, you can run your AWS applications or Lambdas entirely on your local machine without connecting to a remote cloud provider!',
@@ -452,13 +467,5 @@ export const resources: Resource[] = [
         categories: ['Marketing', 'SEO', 'AI'],
         url: 'https://luthor.ai/',
         keywords: ['automation', 'content', 'productivity'],
-    },
-    {
-        name: 'LargeMI',
-        description:
-            'LargeMI is a curated directory of AI tools focused on productivity, development, content creation, and business use cases, helping users discover and explore modern AI products through clear categorization.',
-        categories: ['AI', 'Productivity'],
-        url: 'https://largemi.com',
-        keywords: ['ai tools', 'ai directory', 'developer productivity', 'generative ai'],
     },
 ]

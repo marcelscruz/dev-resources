@@ -1,5 +1,5 @@
 {
-"count": 1140,
+"count": 1156,
 "data": [
     {
         "name": "1001 Fonts",
@@ -554,6 +554,27 @@
             "Productivity"
         ],
         "url": "https://anotherwrapper.com"
+    },
+    {
+        "name": "AntForms",
+        "description": "Unlimited free submissions + free analytics + integrations + AI + fastest support",
+        "categories": [
+            "Productivity",
+            "Website Builder",
+            "Tooling"
+        ],
+        "url": "https://antforms.com",
+        "keywords": [
+            "form builder",
+            "online forms",
+            "survey",
+            "contact forms",
+            "lead generation",
+            "drag and drop",
+            "form templates",
+            "analytics",
+            "integrations"
+        ]
     },
     {
         "name": "Apigee",
@@ -2361,6 +2382,25 @@
         ]
     },
     {
+        "name": "CoderTools",
+        "description": "Free, secure, and offline-capable developer tools. Features Formatter, Encoder/Decoder, Encryption/Decryption, and so on. 100% client-side processing for privacy.",
+        "categories": [
+            "Programming"
+        ],
+        "url": "https://www.codertools.net/",
+        "keywords": [
+            "formatter",
+            "minifier",
+            "encoder",
+            "decoder",
+            "encryption",
+            "decryption",
+            "hash",
+            "protobuf",
+            "hardware access tools"
+        ]
+    },
+    {
         "name": "CodeSandbox",
         "description": "CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.",
         "categories": [
@@ -3305,6 +3345,22 @@
             "Job"
         ],
         "url": "https://dailyremote.com/"
+    },
+    {
+        "name": "DailyTips",
+        "description": "A 5-minute daily read on decisions, logic, distribution, and the thinking that turns code into products people use.",
+        "categories": [
+            "Blog",
+            "Learn"
+        ],
+        "url": "https://dailytips.dev",
+        "keywords": [
+            "tips",
+            "programming",
+            "daily",
+            "product thinking",
+            "software development"
+        ]
     },
     {
         "name": "daisyUI",
@@ -5377,6 +5433,22 @@
         ]
     },
     {
+        "name": "GenDesigns",
+        "description": "AI Mobile App Design Generator",
+        "categories": [
+            "Design",
+            "AI",
+            "UI"
+        ],
+        "url": "https://gendesigns.ai/",
+        "keywords": [
+            "ai app designer",
+            "mobile app mockup generator",
+            "ai ui design tool",
+            "ai prototype generator"
+        ]
+    },
+    {
         "name": "Get The Audience",
         "description": "Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached.",
         "categories": [
@@ -5732,6 +5804,22 @@
         "url": "https://cssgridgarden.com/"
     },
     {
+        "name": "Gro",
+        "description": "AI Sales Agent for B2B Lead Generation",
+        "categories": [
+            "AI",
+            "Marketing",
+            "Productivity"
+        ],
+        "url": "https://thegro.ai/",
+        "keywords": [
+            "sales",
+            "automation",
+            "lead generation",
+            "marketing"
+        ]
+    },
+    {
         "name": "Grommet",
         "description": "Grommet documentation.",
         "categories": [
@@ -5919,6 +6007,23 @@
             "Hosting"
         ],
         "url": "https://www.heroku.com/"
+    },
+    {
+        "name": "Heroshot",
+        "description": "Screenshot automation CLI for documentation. Define screenshots once in config, regenerate all with one command using Playwright.",
+        "categories": [
+            "Screenshot",
+            "Documentation",
+            "Tooling"
+        ],
+        "url": "https://heroshot.sh",
+        "keywords": [
+            "screenshot",
+            "automation",
+            "documentation",
+            "playwright",
+            "cli"
+        ]
     },
     {
         "name": "Hexabot",
@@ -7546,6 +7651,22 @@
         "url": "https://lobste.rs/"
     },
     {
+        "name": "LocalChat.app",
+        "description": "Local-first MacOS AI application - 100% Private, Works Fully Offline",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Security"
+        ],
+        "url": "https://www.localchat.app/",
+        "keywords": [
+            "ai chat",
+            "private",
+            "productivity tool",
+            "ollama alternative"
+        ]
+    },
+    {
         "name": "LocalStack",
         "description": "LocalStack is a cloud service emulator that runs in a single container on your laptop or in your CI environment. With LocalStack, you can run your AWS applications or Lambdas entirely on your local machine without connecting to a remote cloud provider!",
         "categories": [
@@ -8394,6 +8515,25 @@
         "url": "https://nextjs.org/"
     },
     {
+        "name": "NexTool",
+        "description": "228+ free browser-based developer tools including JSON formatter, Base64 encoder, regex tester, color converter, UUID generator, and more. No signup required.",
+        "categories": [
+            "Tooling",
+            "Programming"
+        ],
+        "url": "https://nextool.app/free-tools/",
+        "keywords": [
+            "developer tools",
+            "free tools",
+            "json",
+            "base64",
+            "regex",
+            "converter",
+            "formatter",
+            "generator"
+        ]
+    },
+    {
         "name": "Nextradar",
         "description": "Navigate the Next.js Ecosystem with ease. Stay up to date with the latest Next.js tools and resources.",
         "categories": [
@@ -8480,6 +8620,23 @@
             "cloud",
             "development",
             "framework"
+        ]
+    },
+    {
+        "name": "No Code Website Builder",
+        "description": "A marketplace for premium no-code website, web app, and mobile app templates built on platforms like Webflow, Framer, Bubble, Lovable, Replit and more.",
+        "categories": [
+            "Design",
+            "Template",
+            "Website Builder"
+        ],
+        "url": "https://nocodewebsitebuilder.com",
+        "keywords": [
+            "no-code",
+            "templates",
+            "webflow",
+            "framer",
+            "bubble"
         ]
     },
     {
@@ -8622,6 +8779,22 @@
             "Flexible work schedule",
             "Work-life balance",
             "Remote work options"
+        ]
+    },
+    {
+        "name": "Omnara",
+        "description": "Command Center for AI Coding Agents",
+        "categories": [
+            "AI",
+            "Programming",
+            "Tooling"
+        ],
+        "url": "https://www.omnara.com/",
+        "keywords": [
+            "ai coding agents",
+            "claude code",
+            "mobile app",
+            "voice control"
         ]
     },
     {
@@ -8814,6 +8987,27 @@
         "url": "https://www.optimizeimages.com"
     },
     {
+        "name": "OrcaSheets",
+        "description": "Enterprise-grade analytics as simple as spreadsheets. Process billions of rows locally on your PC with AI-powered insights in plain English. Local-first architecture ensures your sensitive data stays completely under your control while delivering insights in seconds, not hours.",
+        "categories": [
+            "Analytics",
+            "Productivity"
+        ],
+        "url": "https://orcasheets.ai/",
+        "keywords": [
+            "spreadsheet",
+            "analytics",
+            "big data",
+            "local-first",
+            "privacy",
+            "AI",
+            "data analysis",
+            "billion rows",
+            "offline",
+            "desktop"
+        ]
+    },
+    {
         "name": "Orion",
         "description": "The best Icon Tool. 8613 Free SVG & PNG Icons. Search, organize, edit and download our highly flexible Icons.",
         "categories": [
@@ -8868,6 +9062,24 @@
             "design to code",
             "productivity tool",
             "compare design"
+        ]
+    },
+    {
+        "name": "PageGuard",
+        "description": "Free all-in-one website health scanner. Checks SEO, ADA/WCAG accessibility, Core Web Vitals performance, and best practices in one scan. Paid plans add automated monitoring and alerts.",
+        "categories": [
+            "SEO",
+            "Accessibility",
+            "Performance"
+        ],
+        "url": "https://pageguard.org",
+        "keywords": [
+            "SEO checker",
+            "accessibility checker",
+            "ADA compliance",
+            "website health",
+            "WCAG",
+            "Core Web Vitals"
         ]
     },
     {
@@ -10486,6 +10698,22 @@
         "url": "https://developer.apple.com/safari/technology-preview/"
     },
     {
+        "name": "Say About Us",
+        "description": "Collect unlimited video and text testimonials",
+        "categories": [
+            "Marketing",
+            "Social Media",
+            "Startup"
+        ],
+        "url": "https://sayabout.us/",
+        "keywords": [
+            "testimonial tool",
+            "testimonial collection tool",
+            "video testimonial",
+            "unlimited testimonial"
+        ]
+    },
+    {
         "name": "Scale",
         "description": "Top-quality illustrations, 100% free - no attribution, no IP-related restrictions. Pick an illustration and customize to your branding using our color picker.",
         "categories": [
@@ -11105,14 +11333,9 @@
         "name": "SlingSite",
         "description": "Optimize your images and videos for your website in batch with full privacy. Slingsite will create compressed versions of your images and videos for all device resolutions.",
         "categories": [
-            "Design",
-            "Illustration",
             "Image",
-            "Open Source",
             "Performance",
-            "SEO",
-            "UX",
-            "Video"
+            "Open Source"
         ],
         "url": "https://slingsite.github.io",
         "keywords": [
@@ -11424,6 +11647,22 @@
             "Advertising Integration (Google Ads)",
             "Interactive Visualizations",
             "No Signup Required for CSV Analysis"
+        ]
+    },
+    {
+        "name": "SpeedUp AI",
+        "description": "End-to-End AI Circuit Schematic Design",
+        "categories": [
+            "AI",
+            "Design",
+            "Prototyping"
+        ],
+        "url": "https://speed-up.ai/",
+        "keywords": [
+            "ai",
+            "pcb design",
+            "circuit design",
+            "hardware design"
         ]
     },
     {
@@ -11835,6 +12074,27 @@
             "Hosting"
         ],
         "url": "https://surge.sh/"
+    },
+    {
+        "name": "SurveyJS",
+        "description": "SurveyJS is an open-source JavaScript library for building dynamic forms and surveys using JSON. It works with React, Angular, Vue, and plain JavaScript, and can be connected to any backend.",
+        "categories": [
+            "Open Source",
+            "Library",
+            "Programming"
+        ],
+        "url": "https://surveyjs.io/",
+        "keywords": [
+            "form builder",
+            "form library",
+            "survey",
+            "javascript",
+            "angular",
+            "react",
+            "vue",
+            "json forms",
+            "dynamic forms"
+        ]
     },
     {
         "name": "SVG Backgrounds",
@@ -12409,18 +12669,18 @@
     },
     {
         "name": "Toksta",
-        "description": "AI Software Research Agent",
+        "description": "B2B Influencer Marketing Platform",
         "categories": [
             "Marketing",
-            "AI",
-            "Analytics"
+            "Social Media",
+            "AI"
         ],
         "url": "https://www.toksta.com",
         "keywords": [
-            "b2b saas influencer marketing",
-            "saas tool discovery",
-            "influencer data platform",
-            "ai-powered software research"
+            "b2b influencer marketing",
+            "influencer discovery",
+            "influencer analytics",
+            "creator intelligence"
         ]
     },
     {
@@ -13261,6 +13521,23 @@
             "photo face swap",
             "ai video tools",
             "ai image tools"
+        ]
+    },
+    {
+        "name": "ViewJSON",
+        "description": "Free online JSON viewer that automatically detects and previews Base64-encoded images, audio, video, and PDFs inline. Also supports JSON formatting and file-to-Base64 conversion.",
+        "categories": [
+            "Tooling",
+            "Productivity"
+        ],
+        "url": "https://viewjson.net",
+        "keywords": [
+            "json",
+            "base64",
+            "viewer",
+            "formatter",
+            "api",
+            "developer tools"
         ]
     },
     {

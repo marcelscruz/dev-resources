@@ -29,19 +29,19 @@ export const resources: Resource[] = [
         keywords: ['automation', 'prompt engineering', 'llm'],
     },
     {
-        name: 'NativeBridge',
-        description: 'Show, Share, Approve: Mobile Apps in Any Browser',
-        categories: ['Productivity', 'Testing', 'Tooling'],
-        url: 'https://nativebridge.io/',
-        keywords: ['mobile app testing', 'mobile emulator', 'app testing', 'iOS testing'],
-    },
-    {
         name: 'NAT Checker',
         description:
             'Free, fast, accurate NAT check for developers and gamers on PS5, Xbox, Switch, and PC. Understand network status and improve play.',
         categories: ['Productivity', 'Testing', 'Tooling'],
         url: 'https://natchecker.com',
         keywords: ['network testing', 'network troubleshoot', 'nat type test'],
+    },
+    {
+        name: 'NativeBridge',
+        description: 'Show, Share, Approve: Mobile Apps in Any Browser',
+        categories: ['Productivity', 'Testing', 'Tooling'],
+        url: 'https://nativebridge.io/',
+        keywords: ['mobile app testing', 'mobile emulator', 'app testing', 'iOS testing'],
     },
     {
         name: 'Netlify',
@@ -71,6 +71,14 @@ export const resources: Resource[] = [
         categories: ['Learn', 'Programming'],
         url: 'https://nextradar.dev',
         keywords: ['Nextjs', 'React', 'Vercel'],
+    },
+    {
+        name: 'NexTool',
+        description:
+            '228+ free browser-based developer tools including JSON formatter, Base64 encoder, regex tester, color converter, UUID generator, and more. No signup required.',
+        categories: ['Tooling', 'Programming'],
+        url: 'https://nextool.app/free-tools/',
+        keywords: ['developer tools', 'free tools', 'json', 'base64', 'regex', 'converter', 'formatter', 'generator'],
     },
     {
         name: 'NextReady',
@@ -109,6 +117,14 @@ export const resources: Resource[] = [
         categories: ['API Building'],
         url: 'https://nitric.io',
         keywords: ['serverless', 'cloud', 'development', 'framework'],
+    },
+    {
+        name: 'No Code Website Builder',
+        description:
+            'A marketplace for premium no-code website, web app, and mobile app templates built on platforms like Webflow, Framer, Bubble, Lovable, Replit and more.',
+        categories: ['Design', 'Template', 'Website Builder'],
+        url: 'https://nocodewebsitebuilder.com',
+        keywords: ['no-code', 'templates', 'webflow', 'framer', 'bubble'],
     },
     {
         name: 'No-Code Scraper',

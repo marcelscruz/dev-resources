@@ -8,6 +8,25 @@ export const resources: Resource[] = [
         url: 'https://www.obihelper.com/',
     },
     {
+        name: 'OrcaSheets',
+        description:
+            'Enterprise-grade analytics as simple as spreadsheets. Process billions of rows locally on your PC with AI-powered insights in plain English. Local-first architecture ensures your sensitive data stays completely under your control while delivering insights in seconds, not hours.',
+        categories: ['Analytics', 'Productivity'],
+        url: 'https://orcasheets.ai/',
+        keywords: [
+            'spreadsheet',
+            'analytics',
+            'big data',
+            'local-first',
+            'privacy',
+            'AI',
+            'data analysis',
+            'billion rows',
+            'offline',
+            'desktop',
+        ],
+    },
+    {
         name: 'Octotree',
         description: 'GitHub on steroids.',
         categories: ['Browser', 'Extension'],
@@ -41,6 +60,13 @@ export const resources: Resource[] = [
         categories: ['Job'],
         url: 'https://okjob.io/',
         keywords: ['Flexible work schedule', 'Work-life balance', 'Remote work options'],
+    },
+    {
+        name: 'Omnara',
+        description: 'Command Center for AI Coding Agents',
+        categories: ['AI', 'Programming', 'Tooling'],
+        url: 'https://www.omnara.com/',
+        keywords: ['ai coding agents', 'claude code', 'mobile app', 'voice control'],
     },
     {
         name: 'One Page Love',

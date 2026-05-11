@@ -61,6 +61,13 @@ export const resources: Resource[] = [
         keywords: ['gcore', 'speed test', 'internet speed', 'bandwidth'],
     },
     {
+        name: 'GenDesigns',
+        description: 'AI Mobile App Design Generator',
+        categories: ['Design', 'AI', 'UI'],
+        url: 'https://gendesigns.ai/',
+        keywords: ['ai app designer', 'mobile app mockup generator', 'ai ui design tool', 'ai prototype generator'],
+    },
+    {
         name: 'Get The Audience',
         description:
             'Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached.',
@@ -297,6 +304,13 @@ export const resources: Resource[] = [
         description: 'A game for learning CSS grid layout.',
         categories: ['Learn', 'Programming'],
         url: 'https://cssgridgarden.com/',
+    },
+    {
+        name: 'Gro',
+        description: 'AI Sales Agent for B2B Lead Generation',
+        categories: ['AI', 'Marketing', 'Productivity'],
+        url: 'https://thegro.ai/',
+        keywords: ['sales', 'automation', 'lead generation', 'marketing'],
     },
     {
         name: 'Grommet',
