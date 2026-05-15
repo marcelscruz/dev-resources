@@ -77,6 +77,24 @@ export const resources: Resource[] = [
         url: 'https://catalog.thesys.dev/',
     },
     {
+        name: 'CatchDoms',
+        description:
+            'Expired and auction domain finder aggregating 100k+ domains from 17 marketplaces, enriched with SEO metrics (Trust Flow, backlinks, age, historical tech stack). Ships a public REST API and an open-source MCP server so AI assistants like Claude can query the catalog in natural language.',
+        categories: ['Domain', 'SEO', 'AI'],
+        url: 'https://catchdoms.com',
+        keywords: [
+            'expired-domains',
+            'domain-finder',
+            'seo',
+            'backlinks',
+            'trust-flow',
+            'mcp',
+            'api',
+            'wayback',
+            'domainer',
+        ],
+    },
+    {
         name: 'Cert Decoder',
         description:
             'Cert Decoder is a free online tool for decoding X.509 SSL/TLS certificates in PEM format directly in your browser.',
