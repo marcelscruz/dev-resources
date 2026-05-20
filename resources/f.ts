@@ -567,6 +567,15 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'FreeTextUtils',
+        description:
+            '30 free online text tools including word counter, regex, case converter, URL slug generator, password generator, and base64 encoder. All processing runs entirely in your browser — no data sent to servers, no signup required, works offline.',
+        categories: ['Tooling', 'Writing'],
+        url: 'https://freetextutils.com',
+        keywords: ['text tools', 'word counter', 'case converter', 'regex', 'slug generator', 'developer tools', 'password generator'],
+    },
+    
+    {
         name: 'Freeter',
         description:
             'Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, MacOS. Free and Open-Source.',
