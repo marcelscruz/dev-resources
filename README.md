@@ -1433,6 +1433,7 @@
 ### <a name="open-source">Open Source</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://github.com/axpnet/aeroftp&sz=128" width="16" /> | [AeroFTP](https://github.com/axpnet/aeroftp) | Open-source multi-protocol file transfer client supporting 22 protocols (FTP, SFTP, WebDAV, S3, Google Drive, Dropbox and more), with encrypted vaults, a built-in terminal and an AI assistant. Built w... | ftp, sftp, webdav, s3, file transfer, cloud storage, encryption, tauri, rust |
  <img src="https://www.google.com/s2/favicons?domain=https://alteropen.com/&sz=128" width="16" /> | [Alteropen](https://alteropen.com/) | Alternative Directory to popular SaaS products (Free/ OpenSource or with Great Deals) for Developer, Indie |  |
  <img src="https://www.google.com/s2/favicons?domain=https://aptabase.com&sz=128" width="16" /> | [Aptabase](https://aptabase.com) | Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web apps. Get simple and actionable insights without compromising user privacy. | mobile, analytics, privacy, opensource |
  <img src="https://www.google.com/s2/favicons?domain=https://www.coderscreen.com/&sz=128" width="16" /> | [CoderScren](https://www.coderscreen.com/) | A modern, open-source technical hiring platform | cloudflare, open-source, react, tanstack, hono, screen, jobs, hiring, test, challenge |
@@ -1985,6 +1986,7 @@
 ### <a name="security">Security</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://github.com/axpnet/aeroftp&sz=128" width="16" /> | [AeroFTP](https://github.com/axpnet/aeroftp) | Open-source multi-protocol file transfer client supporting 22 protocols (FTP, SFTP, WebDAV, S3, Google Drive, Dropbox and more), with encrypted vaults, a built-in terminal and an AI assistant. Built w... | ftp, sftp, webdav, s3, file transfer, cloud storage, encryption, tauri, rust |
  <img src="https://www.google.com/s2/favicons?domain=https://agentsecurity.com&sz=128" width="16" /> | [Agent Security](https://agentsecurity.com) | Security for AI agents | data, ai security, agent security, llm security |
  <img src="https://www.google.com/s2/favicons?domain=https://certdecoder.com/&sz=128" width="16" /> | [Cert Decoder](https://certdecoder.com/) | Cert Decoder is a free online tool for decoding X.509 SSL/TLS certificates in PEM format directly in your browser. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://dymo.tpeoficial.com&sz=128" width="16" /> | [Dymo](https://dymo.tpeoficial.com) | Data intelligence and protection, your security solution and Big Data for user recognition. |  |
@@ -2272,6 +2274,7 @@
 ### <a name="tooling">Tooling</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://github.com/axpnet/aeroftp&sz=128" width="16" /> | [AeroFTP](https://github.com/axpnet/aeroftp) | Open-source multi-protocol file transfer client supporting 22 protocols (FTP, SFTP, WebDAV, S3, Google Drive, Dropbox and more), with encrypted vaults, a built-in terminal and an AI assistant. Built w... | ftp, sftp, webdav, s3, file transfer, cloud storage, encryption, tauri, rust |
  <img src="https://www.google.com/s2/favicons?domain=https://aialternative.co/&sz=128" width="16" /> | [AI Alternative](https://aialternative.co/) | Discover the best AI tools and their alternatives | ai directory, ai alternatives, ai tools directory, startup tools |
  <img src="https://www.google.com/s2/favicons?domain=https://aibest.tools&sz=128" width="16" /> | [AI Best Tools](https://aibest.tools) | Discover the best AI tools in AIBest.tools | ai, ai tools directory, developer tools, tools, ai tools, directory |
  <img src="https://www.google.com/s2/favicons?domain=https://aiwget.com&sz=128" width="16" /> | [aiwget](https://aiwget.com) | Best AI Tools Directory for Indie Hackers, Creators, and More.Free Submit, Unique Editor's Review, Social Media Promote. | AI, tools, directory |
