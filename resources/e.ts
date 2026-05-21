@@ -147,6 +147,23 @@ export const resources: Resource[] = [
         url: 'https://www.enhanceui.com/',
     },
     {
+        name: 'EnigmaEasel',
+        description:
+           'AI-powered design suite for generating accessible color palettes, gradients, and font pairings. Includes real-time WCAG auditing and production-ready exports for Tailwind, SCSS, and mobile.',
+        categories: ['AI', 'Color', 'Font'],
+        url: 'https://enigmaeasel.com/',
+        keywords: [
+            'ai color palette generator', 
+            'gradient generator', 
+            'font pairing generator', 
+            'wcag contrast checker', 
+            'accessibility tools',
+            'design resources',
+            'google fonts pairing', 
+            'tailwind css generator'
+        ], 
+    },
+    {
         name: 'Envato Elements',
         description: 'Find stock video footages and photos for your next video project.',
         categories: ['Image', 'Video'],
