@@ -78,7 +78,7 @@ export const resources: Resource[] = [
             'Navigate the Next.js Ecosystem with ease. Stay up to date with the latest Next.js tools and resources.',
         categories: ['Learn', 'Programming'],
         url: 'https://nextradar.dev',
-        keywords: ['Nextjs', 'React', 'Vercel'],
+        keywords: ['nextjs', 'react', 'vercel'],
     },
     {
         name: 'NextReady',

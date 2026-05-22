@@ -13,7 +13,7 @@ export const resources: Resource[] = [
         description:
             'Xquik provides REST and MCP APIs for X/Twitter automation, including tweet search, user lookup, timelines, posting, webhooks and media workflows.',
         categories: ['API Building', 'Scraping', 'Social Media'],
-        url: 'https://xquik.com',
+        url: 'https://xquik.com/',
         keywords: ['twitter api', 'x api', 'social media automation', 'mcp', 'webhooks'],
     },
     {
