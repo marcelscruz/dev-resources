@@ -337,6 +337,14 @@ export const resources: Resource[] = [
         keywords: ['b2b influencer marketing', 'influencer discovery', 'influencer analytics', 'creator intelligence'],
     },
     {
+        name: 'Toolflux',
+        description:
+            'Free browser-based developer utilities including JSON formatter, Base64/URL/Hash/JWT encoders and decoders, UUID generator, crontab generator, regex helpers, and timestamp/color converters. All processing client-side, no signup required.',
+        categories: ['Tooling', 'Productivity', 'Code Generator'],
+        url: 'https://www.toolflux.app/',
+        keywords: ['utilities', 'json formatter', 'encoders', 'uuid', 'hash generator', 'jwt decoder', 'crontab', 'developer tools', 'browser-based', 'no signup'],
+    },
+    {
         name: 'TOOOLS.design',
         description: 'A growing archive of 1,500+ design resources, frequently updated for the community.',
         categories: ['Accessibility', 'Design', 'Blog'],
