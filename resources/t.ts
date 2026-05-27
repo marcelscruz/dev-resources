@@ -316,6 +316,14 @@ export const resources: Resource[] = [
         url: 'https://tinyseed.com/',
     },
     {
+        name: 'TinyTools',
+        description:
+            'Free, single-purpose, browser-based web utilities — AI background remover (runs locally), favicon generator, color palette generator, OG image generator, SEO meta tag generator, AI cost calculator, AI robots.txt generator, AI content disclosure generator (EU AI Act), domain name generator. No signup, open source.',
+        categories: ['SEO', 'Tooling', 'AI'],
+        url: 'https://tinytools-smoky.vercel.app/',
+        keywords: ['free tools', 'browser tools', 'no signup', 'open source', 'favicon', 'og image', 'color palette', 'background removal', 'meta tags', 'robots.txt', 'ai cost', 'domain generator'],
+    },
+    {
         name: 'tl;dr Marketing',
         description:
             'Get the latest breaking news and trends about SEO, paid media and social media without all the fluff.',
