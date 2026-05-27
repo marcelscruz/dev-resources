@@ -1063,6 +1063,13 @@ export const resources: Resource[] = [
         keywords: ['ui', 'ux', 'vector', 'graphics', '3d'],
     },
     {
+        name: 'CrawlRaven',
+        description: 'Professional SEO audits with 200+ checks and prioritized fixes',
+        categories: ['SEO', 'Marketing', 'Scraping'],
+        url: 'https://www.crawlraven.com/',
+        keywords: ['marketing', 'seo audit', 'technical seo', 'site crawler'], 
+    },
+    {
         name: 'CreativesFeed',
         description:
             'CreativesFeed works to share the best free code snippets and web development resources online. We create free, downloadable code snippets and provide tutorials on web design and development to help agencies and individuals learn and grow!',
