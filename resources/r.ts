@@ -230,6 +230,14 @@ export const resources: Resource[] = [
         keywords: ['ai search', 'enterprise search', 'ai assistant', 'knowledge management'],
     },
     {
+        name: 'Related Repos',
+        description:
+            'Related Repos helps developers to discover open source projects that are related to each other. This can be useful to find alternative or complementary packages when building a full application. Data and results are updated daily.',
+        categories: ['Open Source', 'Programming', 'Extension'],
+        url: 'https://relatedrepos.com/',
+        keywords: ['github', 'open source', 'repository', 'discovery', 'software', 'programming', 'alternatives'],
+    },
+    {
         name: 'Remix Icon',
         description:
             'Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.',
