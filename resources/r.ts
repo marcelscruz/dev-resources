@@ -230,6 +230,14 @@ export const resources: Resource[] = [
         keywords: ['ai search', 'enterprise search', 'ai assistant', 'knowledge management'],
     },
     {
+        name: 'ReleaseRun',
+        description:
+            'Track software releases across the dev ecosystem. Get real-time version monitoring for Node.js, Python, Go, Rust, Kubernetes, PostgreSQL, and more — with free tools for dependency health checks, K8s security scanning, and CI/CD analysis.',
+        categories: ['Tooling', 'Security', 'Programming'],
+        url: 'https://releaserun.com',
+        keywords: ['kubernetes', 'devops', 'dependency health', 'version tracking', 'release monitoring'],
+    },
+    {
         name: 'Remix Icon',
         description:
             'Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.',
