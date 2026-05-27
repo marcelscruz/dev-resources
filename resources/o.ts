@@ -8,25 +8,6 @@ export const resources: Resource[] = [
         url: 'https://www.obihelper.com/',
     },
     {
-        name: 'OrcaSheets',
-        description:
-            'Enterprise-grade analytics as simple as spreadsheets. Process billions of rows locally on your PC with AI-powered insights in plain English. Local-first architecture ensures your sensitive data stays completely under your control while delivering insights in seconds, not hours.',
-        categories: ['Analytics', 'Productivity'],
-        url: 'https://orcasheets.ai/',
-        keywords: [
-            'spreadsheet',
-            'analytics',
-            'big data',
-            'local-first',
-            'privacy',
-            'AI',
-            'data analysis',
-            'billion rows',
-            'offline',
-            'desktop',
-        ],
-    },
-    {
         name: 'Octotree',
         description: 'GitHub on steroids.',
         categories: ['Browser', 'Extension'],
@@ -196,6 +177,25 @@ export const resources: Resource[] = [
             'Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.',
         categories: ['Editor', 'Image'],
         url: 'https://www.optimizeimages.com',
+    },
+    {
+        name: 'OrcaSheets',
+        description:
+            'Enterprise-grade analytics as simple as spreadsheets. Process billions of rows locally on your PC with AI-powered insights in plain English. Local-first architecture ensures your sensitive data stays completely under your control while delivering insights in seconds, not hours.',
+        categories: ['Analytics', 'Productivity'],
+        url: 'https://orcasheets.ai/',
+        keywords: [
+            'spreadsheet',
+            'analytics',
+            'big data',
+            'local-first',
+            'privacy',
+            'AI',
+            'data analysis',
+            'billion rows',
+            'offline',
+            'desktop',
+        ],
     },
     {
         name: 'Orion',

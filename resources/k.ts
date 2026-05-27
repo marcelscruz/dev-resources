@@ -102,4 +102,12 @@ export const resources: Resource[] = [
             'Tech & Development',
         ],
     },
+    {
+        name: 'KubeStellar Console',
+        description:
+            'AI-powered open-source web console for managing multi-cluster Kubernetes environments. Features a natural-language agent, real-time cluster health dashboards, workload deployment, policy and RBAC views, and an MCP bridge for integrating AI coding tools with live Kubernetes clusters.',
+        categories: ['Cloud Computing', 'Open Source', 'AI'],
+        url: 'https://console.kubestellar.io',
+        keywords: ['kubernetes', 'multi-cluster', 'dashboard', 'devops', 'cloud-native', 'ai agent', 'mcp'],
+    },
 ]
