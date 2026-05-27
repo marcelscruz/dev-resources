@@ -1,5 +1,5 @@
 {
-"count": 1161,
+"count": 1162,
 "data": [
     {
         "name": "1001 Fonts",
@@ -13314,6 +13314,16 @@
             "Illustration"
         ],
         "url": "https://undraw.co/"
+    },
+    {
+        "name": "unlearn.dev",
+        "description": "Unlearn.dev is developer education for the AI era and beyond. It helps engineers turn AI into a 24/7 execution team while strengthening the judgment, architecture, and evaluation skills that make developers irreplaceable.",
+        "categories": [
+            "AI",
+            "Learn",
+            "Programming"
+        ],
+        "url": "https://unlearn.dev/"
     },
     {
         "name": "Unscreen",
