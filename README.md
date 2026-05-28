@@ -1957,6 +1957,7 @@
 **[⬆ Back to Index](#index)**
 
 ### <a name="scraping">Scraping</a>
+- [Geonode](https://geonode.com) — Rotating residential + datacenter proxies and a Firecrawl-compatible scraper API.
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
  <img src="https://www.google.com/s2/favicons?domain=https://www.extruct.ai/&sz=128" width="16" /> | [Extruct AI](https://www.extruct.ai/) | Extruct AI is your platform to find, research, and decide on the right companies with precision. Powered by live AI research, our verticalized engine delivers custom, up-to-date insights tailored to y... |  |
