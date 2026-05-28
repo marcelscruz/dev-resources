@@ -562,6 +562,14 @@ export const resources: Resource[] = [
         url: 'https://snipit.io/',
     },
     {
+        name: 'SnapAPI',
+        description:
+            'Multi-tool developer utility API for QR codes, screenshots, image resize, hashing, UUIDs, and more.',
+        categories: ['API Building', 'Tooling'],
+        url: 'https://snapapi-production-3fa2.up.railway.app',
+        keywords: ['api', 'developer-tools', 'qr-code', 'screenshot', 'utilities'],
+    },
+    {
         name: 'soarSQL',
         description: 'The only SQL editor that makes your queries faster.',
         categories: ['Analytics', 'Database', 'Productivity'],
