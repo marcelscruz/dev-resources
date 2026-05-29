@@ -31,6 +31,14 @@ export const resources: Resource[] = [
         url: 'https://vectr.com/',
     },
     {
+        name: 'VeilStrat',
+        url: 'https://veilstrat.com',
+        description:
+            'B2B SaaS platform that surfaces AI adoption signals across organizations, with a playbooks directory to help teams discover and implement AI agent skills and MCP use cases.',
+        categories: ['AI', 'Productivity', 'Marketing'],
+        keywords: ['ai adoption', 'ai signals', 'GTM signals', 'b2b saas', 'workflows', 'enterprise ai'],
+    },
+    {
         name: 'Velocity',
         description: 'On-demand feedback for Figma prototypes',
         categories: ['UX', 'Prototyping', 'Testing'],
