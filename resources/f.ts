@@ -668,4 +668,12 @@ export const resources: Resource[] = [
             'Mobile Development',
         ],
     },
+    {
+    name: 'Foohat',
+    description:
+        'Free Salon Software with online booking, smart scheduling, gift cards, POS, CRM, and marketing tools, built for the beauty, wellness and fitness businesses.',
+    categories: ['Startup', 'Website Builder', 'Marketing'],
+    url: 'https://www.foohat.com',
+    keywords: ['saas', 'salon software', 'crm', 'pos'], // Optional, but used on the search feature on the website
+},
 ]
