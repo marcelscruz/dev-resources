@@ -14,7 +14,15 @@ export const resources: Resource[] = [
             'Free online validation tools for HTML, CSS, JSON, XML, meta tags, and Open Graph. Get instant quality scores from 0 to 100.',
         categories: ['Testing', 'Tooling', 'SEO'],
         url: 'https://validatehtml.com',
-        keywords: ['html validator', 'css validator', 'json validator', 'xml validator', 'meta tag checker', 'open graph checker', 'accessibility checker'],
+        keywords: [
+            'html validator',
+            'css validator',
+            'json validator',
+            'xml validator',
+            'meta tag checker',
+            'open graph checker',
+            'accessibility checker',
+        ],
     },
     {
         name: 'Vatis Tech',
