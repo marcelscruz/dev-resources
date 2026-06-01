@@ -320,6 +320,13 @@ export const resources: Resource[] = [
         keywords: ['React', 'UI Kit', 'Grommet', 'Grommet Design', 'UI/UX Framework'],
     },
     {
+        name: 'Groups Watcher',
+        description: 'Monitor Facebook groups for leads and brand mentions. Alerts in 60 sec.',
+        categories: ['Marketing', 'Social Media', 'AI'],
+        url: 'https://www.groupswatcher.com/',
+        keywords: ['lead generation', 'brand monitoring', 'social listening', 'facebook groups monitoring'], 
+    },
+    {
         name: 'Growth List',
         description:
             'GrowthList is the go-to resource hub for tech-savvy marketers in fast-growing companies. Find hundred of Growth Hacks to boost your startup !',
