@@ -45,6 +45,14 @@ export const resources: Resource[] = [
         url: 'https://rapidapi.com/',
     },
     {
+        name: 'RapidProxy',
+        categories: ['Tooling'],
+        description:
+            '90M+ residential IPs in 200+ countries, starting at $0.65/GB with non-expiring traffic. Power your scraping and automation. Try it free today.',
+        url: 'https://www.rapidproxy.io',
+        keywords: ['proxy', 'residential proxy', 'datacenter proxy', 'mobile proxy', 'web scraping', 'automation'],
+    },
+    {
         name: 'Ratatype',
         description:
             'Learn to type faster. Take touch typing lessons, practice your keyboarding skills online, take a typing test and get typing speed certificate for free.',
