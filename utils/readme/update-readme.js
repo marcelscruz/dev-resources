@@ -34,12 +34,12 @@ const logoTalordata = `<div>
     <p align="center"><a href="https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=dev-resources-repo-readme">TalorData</a>: Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses.</p>
 </div>`
 
-const logoBigDevSoon = `<div>
-    <p align="center"><a href="https://bigdevsoon.me?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/bigdevsoon-dark-mode.svg" width="160px"><source media="(prefers-color-scheme: light)" srcset="./assets/bigdevsoon-light-mode.svg" width="160px"><img alt="BigDevSoon logo" src="./assets/bigdevsoon-dark-mode.svg" width="160px"></picture></a></p>
-    <p align="center"><a href="https://bigdevsoon.me?ref=dr-pa&utm_medium=dev-resources-repo-readme">BigDevSoon</a>: Build real-world projects with Figma designs and an AI copilot in a zero-config browser IDE.</p>
+const logoRapidProxy = `<div>
+    <p align="center"><a href="https://www.rapidproxy.io/?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rapidproxy-dark-mode.svg" width="160px"><source media="(prefers-color-scheme: light)" srcset="./assets/rapidproxy-light-mode.svg" width="160px"><img alt="RapidProxy logo" src="./assets/rapidproxy-dark-mode.svg" width="160px"></picture></a></p>
+    <p align="center"><a href="https://www.rapidproxy.io/?ref=dr-pa&utm_medium=dev-resources-repo-readme">RapidProxy</a>: 90M+ residential IPs in 200+ countries, starting at $0.65/GB with non-expiring traffic. Power your scraping and automation. Try it free today.</p>
 </div>`
 
-const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoSerpApi}<br/>\n\n\n\n${logoTalordata}<br/>\n\n\n\n${logoBigDevSoon}<br/>\n\n\n\n`
+const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoSerpApi}<br/>\n\n\n\n${logoTalordata}<br/>\n\n\n\n${logoRapidProxy}<br/>\n\n\n\n`
 // const sponsors = `<div align="center">Sponsored by</div>
 //     <br/>
 //     ${logoScrapfly}
