@@ -1,5 +1,5 @@
 {
-"count": 1165,
+"count": 1166,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9984,6 +9984,22 @@
             "API Building"
         ],
         "url": "https://rapidapi.com/"
+    },
+    {
+        "name": "RapidProxy",
+        "categories": [
+            "Tooling"
+        ],
+        "description": "90M+ residential IPs in 200+ countries, starting at $0.65/GB with non-expiring traffic. Power your scraping and automation. Try it free today.",
+        "url": "https://www.rapidproxy.io",
+        "keywords": [
+            "proxy",
+            "residential proxy",
+            "datacenter proxy",
+            "mobile proxy",
+            "web scraping",
+            "automation"
+        ]
     },
     {
         "name": "Ratatype",
