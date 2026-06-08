@@ -337,6 +337,24 @@ export const resources: Resource[] = [
         keywords: ['b2b influencer marketing', 'influencer discovery', 'influencer analytics', 'creator intelligence'],
     },
     {
+        name: 'ToolKit',
+        description:
+            'ToolKit is a collection of free online utilities built for developers, designers, and everyday users. Every tool runs entirely in the browser using Web APIs — nothing is sent to a server.',
+        categories: ['Tooling'],
+        url: 'https://www.webtoolkit.tech',
+        keywords: [
+            'developer tools',
+            'online tools',
+            'password generator',
+            'JSON formatter',
+            'regex tester',
+            'base64',
+            'free tools',
+            'browser-based',
+            'no signup',
+        ],
+    },
+    {
         name: 'TOOOLS.design',
         description: 'A growing archive of 1,500+ design resources, frequently updated for the community.',
         categories: ['Accessibility', 'Design', 'Blog'],

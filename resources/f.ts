@@ -668,22 +668,4 @@ export const resources: Resource[] = [
             'Mobile Development',
         ],
     },
-    {
-        name: 'ToolKit',
-        description:
-            'ToolKit is a collection of free online utilities built for developers, designers, and everyday users. Every tool runs entirely in the browser using Web APIs — nothing is sent to a server.',
-        categories: ['Tooling'],
-        url: 'https://www.webtoolkit.tech',
-        keywords: [
-            'developer tools',
-            'online tools',
-            'password generator',
-            'JSON formatter',
-            'regex tester',
-            'base64',
-            'free tools',
-            'browser-based',
-            'no signup',
-        ],
-    },
 ]
