@@ -471,6 +471,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Slate',
+        description: 'Automation platform for SEO, Web and Content Teams',
+        categories: ['Marketing', 'SEO', 'AI'],
+        url: 'https://slatehq.com/',
+        keywords: ['ai seo', 'content automation', 'seo tools', 'ai writing'], 
+    },
+    {
         name: 'SlingSite',
         description:
             'Optimize your images and videos for your website in batch with full privacy. Slingsite will create compressed versions of your images and videos for all device resolutions.',
