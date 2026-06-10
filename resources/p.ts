@@ -360,18 +360,18 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'PromptPlanner',
-        description: 'Prompt manager for Mac to organize, schedule, and copy reusable AI prompts',
-        categories: ['Productivity', 'AI', 'Library'],
-        url: 'https://promptplanner.app/',
-        keywords: ['prompt library', 'prompt manager', 'prompt management', 'prompt engineering'], 
-    },
-    {
         name: 'Promptly',
         description: 'Discover, create and share powerful prompts',
         categories: ['Productivity', 'AI', 'Library'],
         url: 'https://searchpromptly.com/',
         keywords: ['community', 'social network', 'social', 'prompt generator'],
+    },
+    {
+        name: 'PromptPlanner',
+        description: 'Prompt manager for Mac to organize, schedule, and copy reusable AI prompts',
+        categories: ['Productivity', 'AI', 'Library'],
+        url: 'https://promptplanner.app/',
+        keywords: ['prompt library', 'prompt manager', 'prompt management', 'prompt engineering'], 
     },
     {
         name: 'Proxed.AI',
