@@ -440,6 +440,13 @@ export const resources: Resource[] = [
         keywords: ['animation', 'motion'],
     },
     {
+        name: 'Lucebox',
+        description: 'The computer for local AI',
+        categories: ['AI', 'Open Source', 'Tooling'],
+        url: 'https://www.lucebox.com/',
+        keywords: ['developer tool', 'computer', 'local ai', 'locallms'], 
+    },
+    {
         name: 'Lucide',
         description: 'Beautiful & consistent icon toolkit made by the community.',
         categories: ['Icon'],
