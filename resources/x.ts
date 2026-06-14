@@ -9,6 +9,14 @@ export const resources: Resource[] = [
         url: 'https://www.xda-developers.com/',
     },
     {
+        name: 'Xquik',
+        description:
+            'Xquik provides REST and MCP APIs for X/Twitter automation, including tweet search, user lookup, timelines, posting, webhooks and media workflows.',
+        categories: ['API Building', 'Scraping', 'Social Media'],
+        url: 'https://xquik.com/',
+        keywords: ['twitter api', 'x api', 'social media automation', 'mcp', 'webhooks'],
+    },
+    {
         name: 'Xray',
         description:
             'The #1 Manual & Automated Testing App for Jira. Plan, Execute and Track your Quality Assurance with Requirements Traceability.',
