@@ -343,6 +343,23 @@ export const resources: Resource[] = [
         url: 'https://www.linode.com/',
     },
     {
+        name: 'LLC Class',
+        description:
+            'Wyoming LLC registration for non-US founders — includes state filing, registered agent, EIN application, and Operating Agreement to access Stripe and Mercury bank from anywhere in the world.',
+        categories: ['Legal', 'Startup'],
+        url: 'https://llcclass.com',
+        keywords: [
+            'llc',
+            'wyoming',
+            'registered agent',
+            'ein',
+            'company formation',
+            'non-us founders',
+            'stripe',
+            'mercury',
+        ],
+    },
+    {
         name: 'Lite Analytics',
         description:
             'Lite Analytics is simple lightweight Google Analytics alternatice. It is privacy focused and doesn',
