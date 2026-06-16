@@ -152,7 +152,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'AI for Database',
-        description: 'Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.',
+        description:
+            'Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.',
         categories: ['AI', 'Database', 'Productivity'],
         url: 'https://aifordatabase.com',
         keywords: ['ai', 'database', 'sql', 'natural language', 'analytics', 'dashboard'],
