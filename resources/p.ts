@@ -273,9 +273,9 @@ export const resources: Resource[] = [
     {
         name: 'PostPeer',
         description: 'Social media posting API for cross-platform posting and scheduling',
-        categories: ['Social Media', 'Programming', 'Marketing' ],
+        categories: ['Social Media', 'Programming', 'Marketing'],
         url: 'https://www.postpeer.dev/',
-        keywords: ['social media api', 'developer tools', 'api', 'social media automation'], 
+        keywords: ['social media api', 'developer tools', 'api', 'social media automation'],
     },
     {
         name: 'Powerdrill',

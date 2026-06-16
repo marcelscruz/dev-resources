@@ -1,5 +1,5 @@
 {
-"count": 1169,
+"count": 1170,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9609,6 +9609,22 @@
             "API Building"
         ],
         "url": "https://www.postman.com/"
+    },
+    {
+        "name": "PostPeer",
+        "description": "Social media posting API for cross-platform posting and scheduling",
+        "categories": [
+            "Social Media",
+            "Programming",
+            "Marketing"
+        ],
+        "url": "https://www.postpeer.dev/",
+        "keywords": [
+            "social media api",
+            "developer tools",
+            "api",
+            "social media automation"
+        ]
     },
     {
         "name": "Powerdrill",
