@@ -459,6 +459,13 @@ export const resources: Resource[] = [
         url: 'https://domain.garden/',
     },
     {
+        name: 'Domainee',
+        description: 'Custom Domains & Domain Purchasing API for SaaS',
+        categories: ['Domain', 'Tooling', 'Startup'],
+        url: 'https://domainee.dev/',
+        keywords: ['developer tool', 'custom domains api', 'white label domains', 'saas infrastructure'], 
+    },
+    {
         name: 'Dotnet Gig',
         description: 'Find .NET developer jobs',
         categories: ['Job'],
