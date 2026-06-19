@@ -397,6 +397,13 @@ export const resources: Resource[] = [
         url: 'https://mychatbots.ai',
     },
     {
+        name: 'MyndField',
+        description: 'World First Decision Engine',
+        categories: ['AI', 'Analytics', 'Productivity'],
+        url: 'https://myndfield.ai/',
+        keywords: ['Data', 'Strategy', 'Sales', 'Decision engine'], 
+    },
+    {
         name: 'MyPerfectResume',
         description: 'Create a perfect resume in just minutes and land the job you deserve. It',
         categories: ['Resume'],
