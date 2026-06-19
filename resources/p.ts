@@ -257,6 +257,14 @@ export const resources: Resource[] = [
         url: 'https://polypane.app/',
     },
     {
+        name: 'PostalCodes.info',
+        description:
+            'Global postal code dataset and API for developers, with country coverage, downloadable CSV/JSON data, API documentation, and a citable Zenodo release.',
+        categories: ['API Building', 'Database', 'Open Source'],
+        url: 'https://postalcodes.info/api',
+        keywords: ['postal codes', 'postcodes', 'zip codes', 'geocoding', 'datasets', 'address validation'],
+    },
+    {
         name: 'PostgreSQL',
         description:
             'PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.',
