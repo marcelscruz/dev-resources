@@ -96,6 +96,14 @@ export const resources: Resource[] = [
         url: 'https://www.pcloudy.com/',
     },
     {
+        name: 'PDF Dark',
+        description:
+            'Convert any PDF to a real dark-mode file fully in your browser. Open-source WebAssembly pipeline preserves photo and chart colors. No upload, no signup, no ads, MIT-licensed.',
+        categories: ['Browser', 'Productivity', 'Open Source'],
+        url: 'https://pdfdark.org',
+        keywords: ['pdf', 'dark mode', 'webassembly', 'open source', 'browser tool', 'mit license'],
+    },
+    {
         name: 'pdforge',
         description:
             'The new way to generate PDF documents for your SaaS. Use our no-code PDF builder and our easy-to-use API to generate modern PDF reports at scale without relying on your development team.',
