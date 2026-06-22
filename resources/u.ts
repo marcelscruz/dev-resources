@@ -143,6 +143,14 @@ export const resources: Resource[] = [
         url: 'https://unlearn.dev/',
     },
     {
+        name: 'UnfoldCMS',
+        description:
+            'Self-hosted CMS built with Laravel 12, React 19, shadcn/ui, and Tailwind v4. Features a REST API v1 with 42 endpoints, HMAC-signed webhooks, and headless mode for Next.js, Astro, SvelteKit, and Nuxt.',
+        categories: ['CMS'],
+        url: 'https://unfoldcms.com',
+        keywords: ['cms', 'laravel', 'react', 'headless', 'self-hosted', 'open source', 'rest api', 'webhooks'],
+    },
+    {
         name: 'Unscreen',
         description:
             'Remove the background of any video - 100% automatically, online & free! Goodbye Greenscreen. Hello Unscreen.',
