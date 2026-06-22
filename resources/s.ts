@@ -114,6 +114,14 @@ export const resources: Resource[] = [
         keywords: ['screenshot api', 'screenshot automation', 'screenshot service'],
     },
     {
+        name: 'Screenshot to Code',
+        description:
+            'Tool for converting screenshots and UI mockups into frontend code to accelerate prototyping workflows.',
+        categories: ['AI', 'Programming'],
+        url: 'https://screenshottocode.net/',
+        keywords: ['screenshot', 'ui', 'frontend', 'prototyping', 'react', 'tailwind'],
+    },
+    {
         name: 'Screenstab',
         description: 'Turn ordinary screenshots into beautiful image assets in no time',
         categories: ['Screenshot'],
@@ -697,6 +705,13 @@ export const resources: Resource[] = [
             'Interactive Visualizations',
             'No Signup Required for CSV Analysis',
         ],
+    },
+    {
+        name: 'SpeedUp AI',
+        description: 'End-to-End AI Circuit Schematic Design',
+        categories: ['AI', 'Design', 'Prototyping'],
+        url: 'https://speed-up.ai/',
+        keywords: ['ai', 'pcb design', 'circuit design', 'hardware design'],
     },
     {
         name: 'Splitbee',

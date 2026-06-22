@@ -370,6 +370,13 @@ export const resources: Resource[] = [
         url: 'https://lobste.rs/',
     },
     {
+        name: 'LocalChat.app',
+        description: 'Local-first MacOS AI application - 100% Private, Works Fully Offline',
+        categories: ['AI', 'Productivity', 'Security'],
+        url: 'https://www.localchat.app/',
+        keywords: ['ai chat', 'private', 'productivity tool', 'ollama alternative'],
+    },
+    {
         name: 'LocalStack',
         description:
             'LocalStack is a cloud service emulator that runs in a single container on your laptop or in your CI environment. With LocalStack, you can run your AWS applications or Lambdas entirely on your local machine without connecting to a remote cloud provider!',

@@ -9,6 +9,22 @@ export const resources: Resource[] = [
         keywords: ['task management', 'project management', 'documents', 'collaboration'],
     },
     {
+        name: 'ValidateHTML',
+        description:
+            'Free online validation tools for HTML, CSS, JSON, XML, meta tags, and Open Graph. Get instant quality scores from 0 to 100.',
+        categories: ['Testing', 'Tooling', 'SEO'],
+        url: 'https://validatehtml.com',
+        keywords: [
+            'html validator',
+            'css validator',
+            'json validator',
+            'xml validator',
+            'meta tag checker',
+            'open graph checker',
+            'accessibility checker',
+        ],
+    },
+    {
         name: 'Vatis Tech',
         description:
             'Vatis Tech offers advanced speech-to-text technology, converting audio or video files into text with over 90% accuracy using proprietary deep-learning algorithms',
@@ -29,6 +45,14 @@ export const resources: Resource[] = [
             'Free vector graphics editor. A simple yet powerful web and desktop cross-platform tool for everyone.',
         categories: ['Editor', 'Image'],
         url: 'https://vectr.com/',
+    },
+    {
+        name: 'VeilStrat',
+        url: 'https://veilstrat.com',
+        description:
+            'B2B SaaS platform that surfaces AI adoption signals across organizations, with a playbooks directory to help teams discover and implement AI agent skills and MCP use cases.',
+        categories: ['AI', 'Productivity', 'Marketing'],
+        keywords: ['ai adoption', 'ai signals', 'GTM signals', 'b2b saas', 'workflows', 'enterprise ai'],
     },
     {
         name: 'Velocity',

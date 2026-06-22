@@ -24,27 +24,17 @@ const links = `<div align="center">
     <a href="LICENSE">License</a>
 </div>`
 
-const logoApyhub = `<div>
-    <p align="center"><a href="https://apyhub.com?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/apyhub-dark-mode.svg" width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/apyhub-light-mode.svg" width="150px"><img alt="ApyHub logo" src="./assets/apyhub-dark-mode.svg" width="150px"></picture></a></p>
-    <p align="center"><a href="https://apyhub.com?ref=dr-pa&utm_medium=dev-resources-repo-readme">ApyHub</a>: A Modern API Platform to streamline API Development, Testing and Management. Take your API game to the next level with ApyHub.</p>
-</div>`
-
 const logoSerpApi = `<div>
     <p align="center"><a href="https://serpapi.com?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/serpapi-dark-mode.svg" width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/serpapi-light-mode.svg" width="150px"><img alt="SerpApi logo" src="./assets/serpapi-dark-mode.svg" width="150px"></picture></a></p>
     <p align="center"><a href="https://serpapi.com?ref=dr-pa&utm_medium=dev-resources-repo-readme">SerpApi - Search API</a> makes it easy and fast to scrape Google and other search engines.</p>
 </div>`
 
-const logoRequestly = `<div>
-    <p align="center"><a href="https://requestly.com?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/requestly-dark-mode.png" width="160px"><source media="(prefers-color-scheme: light)" srcset="./assets/requestly-light-mode.png" width="160px"><img alt="Requestly logo" src="./assets/requestly-dark-mode.png" width="160px"></picture></a></p>
-    <p align="center"><a href="https://requestly.com?ref=dr-pa&utm_medium=dev-resources-repo-readme">Requestly</a>: Build and test APIs faster. Lightweight Git-friendly API client built for modern developers.</p>
+const logoRapidProxy = `<div>
+    <p align="center"><a href="https://www.rapidproxy.io/?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rapidproxy-dark-mode.svg" width="160px"><source media="(prefers-color-scheme: light)" srcset="./assets/rapidproxy-light-mode.svg" width="160px"><img alt="RapidProxy logo" src="./assets/rapidproxy-dark-mode.svg" width="160px"></picture></a></p>
+    <p align="center"><a href="https://www.rapidproxy.io/?ref=dr-pa&utm_medium=dev-resources-repo-readme">RapidProxy</a>: 90M+ residential IPs in 200+ countries, starting at $0.65/GB with non-expiring traffic. Power your scraping and automation. Try it free today.</p>
 </div>`
 
-const logoBigDevSoon = `<div>
-    <p align="center"><a href="https://bigdevsoon.me?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/bigdevsoon-dark-mode.svg" width="160px"><source media="(prefers-color-scheme: light)" srcset="./assets/bigdevsoon-light-mode.svg" width="160px"><img alt="BigDevSoon logo" src="./assets/bigdevsoon-dark-mode.svg" width="160px"></picture></a></p>
-    <p align="center"><a href="https://bigdevsoon.me?ref=dr-pa&utm_medium=dev-resources-repo-readme">BigDevSoon</a>: Build real-world projects with Figma designs and an AI copilot in a zero-config browser IDE.</p>
-</div>`
-
-const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoApyhub}<br/>\n\n\n\n${logoSerpApi}<br/>\n\n\n\n${logoRequestly}<br/>\n\n\n\n${logoBigDevSoon}<br/>\n\n\n\n`
+const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoSerpApi}<br/>\n\n\n\n${logoRapidProxy}<br/>\n\n\n\n`
 // const sponsors = `<div align="center">Sponsored by</div>
 //     <br/>
 //     ${logoScrapfly}

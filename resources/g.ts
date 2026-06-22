@@ -122,6 +122,14 @@ export const resources: Resource[] = [
         keywords: ['Coding', 'Codebase', 'Repositories', 'Code Review', 'Git', 'Commits', 'Pull Requests'],
     },
     {
+        name: 'gitty',
+        description:
+            'Git workflow CLI tool. Stage, commit, and push in one command, with selective line commits, interactive conflict resolution, and history rewriting.',
+        categories: ['Terminal', 'Tooling'],
+        url: 'https://github.com/Omibranch/gitty',
+        keywords: ['git', 'cli', 'workflow', 'terminal', 'commit', 'golang'],
+    },
+    {
         name: 'Gliesess 90 marketing strategy breakdowns',
         description:
             'Browse the most comprehensive list of online marketing strategies on the internet. Find the Social Media and Search Engine strategies of each company.',
@@ -304,6 +312,13 @@ export const resources: Resource[] = [
         description: 'A game for learning CSS grid layout.',
         categories: ['Learn', 'Programming'],
         url: 'https://cssgridgarden.com/',
+    },
+    {
+        name: 'Gro',
+        description: 'AI Sales Agent for B2B Lead Generation',
+        categories: ['AI', 'Marketing', 'Productivity'],
+        url: 'https://thegro.ai/',
+        keywords: ['sales', 'automation', 'lead generation', 'marketing'],
     },
     {
         name: 'Grommet',

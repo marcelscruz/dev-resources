@@ -331,14 +331,27 @@ export const resources: Resource[] = [
     },
     {
         name: 'Toksta',
-        description: 'AI Software Research Agent',
-        categories: ['Marketing', 'AI', 'Analytics'],
+        description: 'B2B Influencer Marketing Platform',
+        categories: ['Marketing', 'Social Media', 'AI'],
         url: 'https://www.toksta.com',
+        keywords: ['b2b influencer marketing', 'influencer discovery', 'influencer analytics', 'creator intelligence'],
+    },
+    {
+        name: 'ToolKit',
+        description:
+            'ToolKit is a collection of free online utilities built for developers, designers, and everyday users. Every tool runs entirely in the browser using Web APIs — nothing is sent to a server.',
+        categories: ['Tooling'],
+        url: 'https://www.webtoolkit.tech',
         keywords: [
-            'b2b saas influencer marketing',
-            'saas tool discovery',
-            'influencer data platform',
-            'ai-powered software research',
+            'developer tools',
+            'online tools',
+            'password generator',
+            'JSON formatter',
+            'regex tester',
+            'base64',
+            'free tools',
+            'browser-based',
+            'no signup',
         ],
     },
     {

@@ -86,6 +86,14 @@ export const resources: Resource[] = [
         keywords: ['HTML CSS JS UI UX WordPress React Native User Interface Design Website JavaScript Graphics design'],
     },
     {
+        name: 'AeroFTP',
+        description:
+            'Open-source multi-protocol file transfer client supporting 22 protocols (FTP, SFTP, WebDAV, S3, Google Drive, Dropbox and more), with encrypted vaults, a built-in terminal and an AI assistant. Built with Tauri, React and Rust.',
+        categories: ['Open Source', 'Tooling', 'Security'],
+        url: 'https://github.com/axpnet/aeroftp',
+        keywords: ['ftp', 'sftp', 'webdav', 's3', 'file transfer', 'cloud storage', 'encryption', 'tauri', 'rust'],
+    },
+    {
         name: 'Agent Security',
         description: 'Security for AI agents',
         categories: ['Security', 'AI', 'Newsletter'],
@@ -149,6 +157,14 @@ export const resources: Resource[] = [
         categories: ['AI', 'Job', 'API Building'],
         url: 'https://aidevboard.com',
         keywords: ['ai', 'machine learning', 'jobs', 'api', 'mcp', 'developer', 'career'],
+    },
+    {
+        name: 'AI for Database',
+        description:
+            'Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.',
+        categories: ['AI', 'Database', 'Productivity'],
+        url: 'https://aifordatabase.com',
+        keywords: ['ai', 'database', 'sql', 'natural language', 'analytics', 'dashboard'],
     },
     {
         name: 'AI Jobs',
@@ -271,6 +287,31 @@ export const resources: Resource[] = [
             '10+ customizable AI demo apps: pick one, make it yours, launch your startup quickly and start making money',
         categories: ['AI', 'Programming', 'Productivity'],
         url: 'https://anotherwrapper.com',
+    },
+    {
+        name: 'AnveVoice',
+        description:
+            'AI voice agent for websites that trains on your content, navigates pages, fills forms, and books appointments in 50+ languages with sub-700ms latency.',
+        categories: ['AI'],
+        url: 'https://anvevoice.app',
+        keywords: ['voice ai', 'ai agent', 'chatbot', 'voice assistant', 'website widget'],
+    },
+    {
+        name: 'AntForms',
+        description: 'Unlimited free submissions + free analytics + integrations + AI + fastest support',
+        categories: ['Productivity', 'Website Builder', 'Tooling'],
+        url: 'https://antforms.com',
+        keywords: [
+            'form builder',
+            'online forms',
+            'survey',
+            'contact forms',
+            'lead generation',
+            'drag and drop',
+            'form templates',
+            'analytics',
+            'integrations',
+        ],
     },
     {
         name: 'Apigee',
