@@ -136,19 +136,19 @@ export const resources: Resource[] = [
         url: 'https://undraw.co/',
     },
     {
-        name: 'unlearn.dev',
-        description:
-            'Unlearn.dev is developer education for the AI era and beyond. It helps engineers turn AI into a 24/7 execution team while strengthening the judgment, architecture, and evaluation skills that make developers irreplaceable.',
-        categories: ['AI', 'Learn', 'Programming'],
-        url: 'https://unlearn.dev/',
-    },
-    {
         name: 'UnfoldCMS',
         description:
             'Self-hosted CMS built with Laravel 12, React 19, shadcn/ui, and Tailwind v4. Features a REST API v1 with 42 endpoints, HMAC-signed webhooks, and headless mode for Next.js, Astro, SvelteKit, and Nuxt.',
         categories: ['CMS'],
         url: 'https://unfoldcms.com',
         keywords: ['cms', 'laravel', 'react', 'headless', 'self-hosted', 'open source', 'rest api', 'webhooks'],
+    },
+    {
+        name: 'unlearn.dev',
+        description:
+            'Unlearn.dev is developer education for the AI era and beyond. It helps engineers turn AI into a 24/7 execution team while strengthening the judgment, architecture, and evaluation skills that make developers irreplaceable.',
+        categories: ['AI', 'Learn', 'Programming'],
+        url: 'https://unlearn.dev/',
     },
     {
         name: 'Unscreen',
