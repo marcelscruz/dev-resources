@@ -44,6 +44,14 @@ export const resources: Resource[] = [
         keywords: ['mobile app testing', 'mobile emulator', 'app testing', 'iOS testing'],
     },
     {
+        name: 'NeoSpark',
+        description:
+            'Your on-demand AI digital creative team — 5 specialists including an E-Commerce Listing Expert who generates complete Amazon-grade listings in 60 seconds without uploads or prompts.',
+        categories: ['AI', 'Design', 'Marketing'],
+        url: 'https://useneospark.com/',
+        keywords: ['ai creative team', 'ai design', 'ai content creation', 'ai marketing', 'ai copywriter'],
+    },
+    {
         name: 'Netlify',
         description:
             'Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.',
