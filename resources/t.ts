@@ -506,6 +506,13 @@ export const resources: Resource[] = [
         keywords: ['developer tool', 'email validation', 'sales prospecting', 'email deliverability'],
     },
     {
+        name: 'Tuku',
+        description: 'TikTok comment-to-DM automation for SEA creators & merchants.',
+        categories: ['Social Media', 'Marketing', 'AI'],
+        url: 'https://tuku.co/',
+        keywords: ['tiktok automation', 'dm automation', 'marketing automation', 'social media marketing'],
+    },
+    {
         name: 'Tweet Detective',
         description:
             'Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content',
