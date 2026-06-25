@@ -447,7 +447,7 @@ export const resources: Resource[] = [
     {
         name: 'Awesome a11y',
         description:
-            ':wheelchair: A curate list about A11Y. Contribute to brunopulis/awesome-a11y development by creating an account on GitHub.',
+            'A curate list about A11Y. Contribute to brunopulis/awesome-a11y development by creating an account on GitHub.',
         categories: ['Accessibility'],
         url: 'https://github.com/brunopulis/awesome-a11y',
     },
