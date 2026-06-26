@@ -376,6 +376,13 @@ export const resources: Resource[] = [
         url: 'https://www.toptal.com/',
     },
     {
+        name: 'TrackingCoder',
+        description: 'Set up website tracking in 2 minutes, not 2 hours.',
+        categories: ['Analytics', 'Marketing', 'Tooling'],
+        url: 'https://trackingcoder.com/',
+        keywords: ['website tracking', 'conversion tracking', 'ads tracking', 'google analytics'],
+    },  
+    {
         name: 'Trails',
         description: 'The easiest way to document your process',
         categories: ['Documentation', 'Productivity', 'AI'],
