@@ -38,6 +38,21 @@ export const resources: Resource[] = [
         url: 'https://zety.com/',
     },
     {
+        name: 'ZPlatform.ai',
+        description:
+            'Directory of AI tools and software lifetime deals, each tested hands-on with a Buy, Wait, or Skip verdict, organized across categories like writing, SEO, design, and productivity.',
+        categories: ['AI', 'Tooling'],
+        url: 'https://zplatform.ai',
+        keywords: [
+            'ai tools',
+            'ai tools directory',
+            'software deals',
+            'lifetime deals',
+            'saas deals',
+            'ai tool reviews',
+        ],
+    },
+    {
         name: 'Zuzia.app',
         description: 'AI-powered server monitoring and task automation for Linux and VPS.',
         categories: ['Tooling', 'Performance', 'AI'],
