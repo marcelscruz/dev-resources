@@ -371,9 +371,9 @@ export const resources: Resource[] = [
     {
         name: 'Top SaaS Directories',
         description: '100+ Top Directories and Launch Platforms to List your SaaS',
-        categories: ['Marketing', 'SEO', 'Startup' ],
+        categories: ['Marketing', 'SEO', 'Startup'],
         url: 'https://topsaasdirectories.com/',
-        keywords: ['startup directory', 'saas directory', 'software directory', 'productivity'], 
+        keywords: ['startup directory', 'saas directory', 'software directory', 'productivity'],
     },
     {
         name: 'Toptal',
