@@ -44,6 +44,13 @@ export const resources: Resource[] = [
         keywords: ['mobile app testing', 'mobile emulator', 'app testing', 'iOS testing'],
     },
     {
+        name: 'Nearbase',
+        description: 'Affordable managed Postgres in Asia',
+        categories: ['Database', 'Hosting', 'Cloud Computing'],
+        url: 'https://nearbase.dev/',
+        keywords: ['database', 'postgreSQL', 'dbaaS', 'postgres hosting'], 
+    },
+    {
         name: 'Netlify',
         description:
             'Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.',
