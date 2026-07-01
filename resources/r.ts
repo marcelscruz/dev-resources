@@ -470,6 +470,14 @@ export const resources: Resource[] = [
         keywords: ['ai answering service', 'ai assistant', 'voice', 'audio', 'phone'],
     },
     {
+        name: 'RouterBase',
+        description:
+            'RouterBase is an AI API gateway for developers and small teams. Through a single OpenAI-compatible endpoint, it provides access to 200+ AI models from providers like OpenAI, Anthropic, Google, and Meta, with smart routing, automatic failover, and unified usage and cost tracking.',
+        categories: ['AI', 'API Building', 'Tooling'],
+        url: 'https://routerbase.com',
+        keywords: ['ai', 'api', 'llm', 'openai-compatible', 'ai gateway', 'model routing', 'developer tools'],
+    },
+    {
         name: 'RubyMine',
         description:
             'The Ruby and Rails IDE with first-class support for Ruby and Rails, JavaScript and CoffeeScript, ERB and HAML, CSS, Sass and Less, and more.',
