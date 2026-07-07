@@ -217,7 +217,7 @@ export const resources: Resource[] = [
             'The cheapest Google SERP API and AI rank tracking infrastructure. Deliver search engine results and direct AI model citation tracking as structured JSON.',
         categories: ['Scraping'],
         url: 'https://apiserpent.com',
-        keywords: ['serp api', 'google search api', 'rank tracking', 'ai citations', 'scraping'],
+        keywords: ['scraping', 'google', 'search', 'api'],
     },
     {
         name: 'Serplux',
