@@ -215,7 +215,7 @@ export const resources: Resource[] = [
         name: 'Serpent API',
         description:
             'The cheapest Google SERP API and AI rank tracking infrastructure. Deliver search engine results and direct AI model citation tracking as structured JSON.',
-        categories: ['Scraping', 'Webscraper'],
+        categories: ['Scraping'],
         url: 'https://apiserpent.com',
         keywords: ['serp api', 'google search api', 'rank tracking', 'ai citations', 'scraping'],
     },
