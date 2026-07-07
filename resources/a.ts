@@ -289,6 +289,14 @@ export const resources: Resource[] = [
         url: 'https://anotherwrapper.com',
     },
     {
+        name: 'AnswerLens',
+        description:
+            'AnswerLens audits public B2B SaaS website evidence for AI search, checking pricing, proof, docs, trust pages, metadata, and llms.txt gaps against source-backed fixes.',
+        categories: ['AI', 'SEO', 'Marketing'],
+        url: 'https://app.sfdj.net',
+        keywords: ['ai search', 'seo audit', 'b2b saas', 'public evidence', 'llms.txt'],
+    },
+    {
         name: 'AnveVoice',
         description:
             'AI voice agent for websites that trains on your content, navigates pages, fills forms, and books appointments in 50+ languages with sub-700ms latency.',
