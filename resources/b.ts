@@ -501,8 +501,9 @@ export const resources: Resource[] = [
     {
         name: 'BulkPicTools',
         url: 'https://bulkpictools.com',
-        description: 'Free browser-based bulk image processor. Compress to exact file sizes, convert HEIC/WebP/AVIF/PNG/JPG, resize, crop, watermark 1,000+ images at once. No upload, no account, works offline.',
-        categories: ['Image','Productivity']
+        description:
+            'Free browser-based bulk image processor. Compress to exact file sizes, convert HEIC/WebP/AVIF/PNG/JPG, resize, crop, watermark 1,000+ images at once. No upload, no account, works offline.',
+        categories: ['Image', 'Productivity'],
     },
     {
         name: 'Bulma',
