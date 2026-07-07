@@ -137,6 +137,14 @@ export const resources: Resource[] = [
         url: 'https://www.gliesess.com/online-marketing-strategies',
     },
     {
+        name: 'GMapsScraper',
+        description:
+            'Scrape Google Maps business data including emails, phone numbers, ratings, and reviews. Export leads to CSV, JSON, or CRM tools like HubSpot.',
+        categories: ['Scraping', 'AI', 'Marketing'],
+        url: 'https://gmapsscraper.io',
+        keywords: ['google maps', 'scraper', 'lead generation', 'email extraction', 'web scraping'],
+    },
+    {
         name: 'GoatCounter',
         description:
             'GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app.',
