@@ -23,7 +23,7 @@ Before submitting, make sure your resource meets all of the following criteria:
 -   **Main product only** — the resource must be the main product itself; internal tools or features of a larger product are not accepted
 -   **Custom domain required** — projects hosted on shared subdomains (`vercel.app`, `netlify.app`, `herokuapp.com`, `github.io`, `pages.dev` and similar) are not accepted
 -   **Available now** — no waitlists, betas behind closed signups, or "coming soon" products
--   **Quality bar** — low-effort or AI-generated listings are rejected
+-   **Quality bar** — low-effort projects are not accepted
 -   **APIs belong elsewhere** — API submissions should go to the [public-apis](https://github.com/marcelscruz/public-apis) repository, or be submitted directly on https://publicapis.dev/submit
 
 Submissions are reviewed by an automated reviewer first — a bot account may comment on, approve, or close your pull request — and by the maintainer for the final merge.
