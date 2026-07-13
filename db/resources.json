@@ -1,5 +1,5 @@
 {
-"count": 1176,
+"count": 1178,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1695,6 +1695,15 @@
             "release management",
             "build management",
             "binaries"
+        ]
+    },
+    {
+        "name": "BulkPicTools",
+        "url": "https://bulkpictools.com",
+        "description": "Free browser-based bulk image processor. Compress to exact file sizes, convert HEIC/WebP/AVIF/PNG/JPG, resize, crop, watermark 1,000+ images at once. No upload, no account, works offline.",
+        "categories": [
+            "Image",
+            "Productivity"
         ]
     },
     {
@@ -12598,6 +12607,24 @@
             "Marketing"
         ],
         "url": "https://templated.io/"
+    },
+    {
+        "name": "TemplateFox",
+        "description": "Generate PDFs from reusable templates via API. Design templates visually, then generate documents with dynamic data using a REST API or SDKs in 7 languages.",
+        "categories": [
+            "API Building",
+            "Template",
+            "Editor"
+        ],
+        "url": "https://pdftemplateapi.com",
+        "keywords": [
+            "pdf",
+            "api",
+            "pdf generation",
+            "template",
+            "document automation",
+            "invoice generator"
+        ]
     },
     {
         "name": "TemplateMo",

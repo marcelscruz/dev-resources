@@ -29,9 +29,9 @@ const logoSerpApi = `<div>
     <p align="center"><a href="https://serpapi.com?ref=dr-pa&utm_medium=dev-resources-repo-readme">SerpApi - Search API</a> makes it easy and fast to scrape Google and other search engines.</p>
 </div>`
 
-const logoRapidProxy = `<div>
-    <p align="center"><a href="https://www.rapidproxy.io/?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rapidproxy-dark-mode.svg" width="160px"><source media="(prefers-color-scheme: light)" srcset="./assets/rapidproxy-light-mode.svg" width="160px"><img alt="RapidProxy logo" src="./assets/rapidproxy-dark-mode.svg" width="160px"></picture></a></p>
-    <p align="center"><a href="https://www.rapidproxy.io/?ref=dr-pa&utm_medium=dev-resources-repo-readme">RapidProxy</a>: 90M+ residential IPs in 200+ countries, starting at $0.65/GB with non-expiring traffic. Power your scraping and automation. Try it free today.</p>
+const logoTalordata = `<div>
+    <p align="center"><a href="https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/talordata-dark-mode.svg" width="80px"><source media="(prefers-color-scheme: light)" srcset="./assets/talordata-light-mode.svg" width="80px"><img alt="Talordata logo" src="./assets/talordata-dark-mode.svg" width="80px"></picture></a></p>
+    <p align="center"><a href="https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=dev-resources-repo-readme">Talordata</a>: Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses.</p>
 </div>`
 
 const logoScreenshotScout = `<div>
@@ -39,7 +39,7 @@ const logoScreenshotScout = `<div>
     <p align="center"><a href="https://screenshotscout.com/?ref=dr-pa&utm_medium=dev-resources-repo-readme">Screenshot Scout</a>: a screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request.</p>
 </div>`
 
-const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoSerpApi}<br/>\n\n\n\n${logoRapidProxy}<br/>\n\n\n\n${logoScreenshotScout}<br/>\n\n\n\n`
+const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoSerpApi}<br/>\n\n\n\n${logoTalordata}<br/>\n\n\n\n${logoScreenshotScout}<br/>\n\n\n\n`
 // const sponsors = `<div align="center">Sponsored by</div>
 //     <br/>
 //     ${logoScrapfly}

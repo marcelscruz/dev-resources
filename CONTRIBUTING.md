@@ -20,11 +20,13 @@ Everyone is welcome to collaborate to this project, but please take into conside
 
 Before submitting, make sure your resource meets all of the following criteria:
 
+-   **For developers** — the resource must be something developers would use to build software. Free or paid, both are fine. Products aimed at a non-developer audience are not accepted, however well made they are
 -   **Main product only** — the resource must be the main product itself; internal tools or features of a larger product are not accepted
 -   **Custom domain required** — projects hosted on shared subdomains (`vercel.app`, `netlify.app`, `herokuapp.com`, `github.io`, `pages.dev` and similar) are not accepted
 -   **Available now** — no waitlists, betas behind closed signups, or "coming soon" products
--   **Quality bar** — low-effort or AI-generated listings are rejected
--   **APIs belong elsewhere** — API submissions should go to the [public-apis](https://github.com/marcelscruz/public-apis) repository, or be submitted directly on https://publicapis.dev/submit
+-   **Quality bar** — low-effort projects are not accepted
+
+Having an API does **not** disqualify a resource — most developer tools have one. If your product also exposes a public API that others can connect to, it belongs in [public-apis](https://github.com/marcelscruz/public-apis) **as well**; the two directories overlap on purpose, and a listing in one is not a duplicate of the other.
 
 Submissions are reviewed by an automated reviewer first — a bot account may comment on, approve, or close your pull request — and by the maintainer for the final merge.
 
@@ -55,6 +57,7 @@ Observe that:
 -   `name` is a **string** and **required**.
 -   `description` is a **string** and **required**.
     -   You can use https://metatags.io to easily copy the description from the website.
+    -   Keep it under 160 characters so it fits the listing card. Longer descriptions are automatically shortened by our reviewer, kept as close to the original as possible while retaining the most important information.
 -   `categories` is an **array of strings** and **required**.
     -   A resource can belong to 3 categories maximum (use `keywords` to improve discoverability on search results).
     -   The available categories are listed in `types/category.ts`.
