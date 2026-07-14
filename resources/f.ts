@@ -204,6 +204,13 @@ export const resources: Resource[] = [
         keywords: ['tailwind', 'ui components', 'ui kits', 'icon'],
     },
     {
+        name: 'FlowRunner',
+        description: 'FlowRunner runs your Salesforce Screen Flows inside Outlook and Gmail',
+        categories: ['Productivity', 'Email', 'Extension'],
+        url: 'https://flow-runner.com/',
+        keywords: ['salesforce', 'Salesforce for outlook', 'sales productivity', 'salesforce adoption'],
+    },
+    {
         name: 'Fluid UI',
         description:
             'Free lifetime account. Simple to learn, quick to master. Design interactive prototypes for Android, iOS, web and desktop in minutes.',
