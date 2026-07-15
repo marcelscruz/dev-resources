@@ -43,6 +43,14 @@ export const resources: Resource[] = [
         url: 'https://feathericons.com/',
     },
     {
+        name: 'Feedframer',
+        description:
+            'Instagram feed API that handles OAuth and automatic token refresh, serving posts as JSON, GraphQL, or RSS. Free tier available.',
+        categories: ['API Building', 'Social Media'],
+        url: 'https://feedframer.com',
+        keywords: ['instagram', 'api', 'feed', 'rss', 'json', 'graphql'],
+    },
+    {
         name: 'Figma',
         description:
             'Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.',
