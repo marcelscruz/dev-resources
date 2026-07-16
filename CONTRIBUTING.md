@@ -23,6 +23,7 @@ Before submitting, make sure your resource meets all of the following criteria:
 -   **For developers** — the resource must be something developers would use to build software. Free or paid, both are fine. Products aimed at a non-developer audience are not accepted, however well made they are
 -   **Main product only** — the resource must be the main product itself; internal tools or features of a larger product are not accepted
 -   **Custom domain required** — projects hosted on shared subdomains (`vercel.app`, `netlify.app`, `herokuapp.com`, `github.io`, `pages.dev` and similar) are not accepted
+-   **Clean URLs** — the URL must not contain query parameters (anything after `?`); link to the plain page instead
 -   **Available now** — no waitlists, betas behind closed signups, or "coming soon" products
 -   **Quality bar** — low-effort projects are not accepted
 
