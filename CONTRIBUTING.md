@@ -58,7 +58,7 @@ Observe that:
 -   `name` is a **string** and **required**.
 -   `description` is a **string** and **required**.
     -   You can use https://metatags.io to easily copy the description from the website.
-    -   Keep it under 160 characters so it fits the listing card. Longer descriptions are automatically shortened by our reviewer, kept as close to the original as possible while retaining the most important information.
+    -   Keep it under 160 characters so it fits the listing card.
 -   `categories` is an **array of strings** and **required**.
     -   A resource can belong to 3 categories maximum (use `keywords` to improve discoverability on search results).
     -   The available categories are listed in `types/category.ts`.
