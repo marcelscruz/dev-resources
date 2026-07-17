@@ -523,7 +523,7 @@ export const resources: Resource[] = [
     {
         name: 'Tura',
         description:
-            'Local-first open-source coding agent with CLI, TUI and GUI interfaces, project rules, checkpoints, built-in verification and public benchmarks.',
+            'Tura is a local, open-source coding agent for developers tired of vague claims, evidence-free token-saving tools, and agents that edit before understanding.',
         categories: ['AI', 'Programming', 'Terminal'],
         url: 'https://turaai.net/',
         keywords: ['coding agent', 'developer tool', 'rust', 'cli', 'tui', 'open source'],
