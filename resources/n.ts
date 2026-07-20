@@ -190,4 +190,12 @@ export const resources: Resource[] = [
         url: 'https://novoresume.com/',
         keywords: ['professional resume builder'],
     },
+    {
+        name: 'Nutilz',
+        description:
+            'Free online tools for developers and everyday tasks: calculators, text and image utilities, JSON/CSV converters, password generators, and more. No signup required.',
+        categories: ['Productivity', 'Tooling'],
+        url: 'https://nutilz.com',
+        keywords: ['free tools', 'calculators', 'json formatter', 'image converter', 'developer tools', 'text tools'],
+    },
 ]
