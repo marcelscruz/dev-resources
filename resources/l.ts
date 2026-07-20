@@ -87,14 +87,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'LogoInspo',
-        description:
-            'The ultimate logo design inspiration library with 1,200+ hand-picked real and fictional logos searchable by style, industry, and color.',
-        categories: ['Logo', 'Design', 'Inspiration'],
-        url: 'https://logoinspo.com',
-        keywords: ['logo inspiration', 'branding', 'logo design', 'brand marks'],
-    },
-    {
         name: 'Larajobs',
         description: 'Since 2014, the #1 Laravel job board connecting the best jobs with top talent.',
         categories: ['Job'],
@@ -399,6 +391,14 @@ export const resources: Resource[] = [
             'cloud emulator',
             'serverless',
         ],
+    },
+    {
+        name: 'LogoInspo',
+        description:
+            'The ultimate logo design inspiration library with 1,200+ hand-picked real and fictional logos searchable by style, industry, and color.',
+        categories: ['Logo', 'Design', 'Inspiration'],
+        url: 'https://logoinspo.com',
+        keywords: ['logo inspiration', 'branding', 'logo design', 'brand marks'],
     },
     {
         name: 'Logology',
