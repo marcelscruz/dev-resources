@@ -1,5 +1,5 @@
 {
-"count": 1179,
+"count": 1180,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5419,6 +5419,28 @@
             "Programming"
         ],
         "url": "https://www.fetoolkit.io/"
+    },
+    {
+        "name": "FrontendAtlas",
+        "description": "Frontend interview prep platform with hands-on JavaScript, UI, and DOM-oriented coding challenges.",
+        "categories": [
+            "Code Challenge",
+            "Learn",
+            "Programming"
+        ],
+        "url": "https://frontendatlas.com/coding",
+        "keywords": [
+            "frontend",
+            "javascript",
+            "typescript",
+            "ui",
+            "dom",
+            "react",
+            "angular",
+            "vue",
+            "interview",
+            "system design"
+        ]
     },
     {
         "name": "Frontendor",
