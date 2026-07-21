@@ -181,6 +181,13 @@ export const resources: Resource[] = [
         url: 'https://www.realtimecolors.com',
     },
     {
+        name: 'Receipt Mocker',
+        description: 'Free purchase receipt generator tool',
+        categories: ['Testing', 'Prototyping', 'Design'],
+        url: 'https://receiptmocker.com/',
+        keywords: ['receipt maker', 'receipt generator', 'fake receipt maker', 'fake receipt generator'],
+    },
+    {
         name: 'Recurse ML',
         description: 'Find bugs in AI Generated Code',
         categories: ['Testing', 'AI', 'Tooling'],
