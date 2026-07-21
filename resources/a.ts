@@ -57,6 +57,14 @@ export const resources: Resource[] = [
         keywords: ['saas', 'starter kit', 'boilerplate', 'next.js', 'shadcn', 'next-auth', 'prisma'],
     },
     {
+        name: 'Actvt',
+        description:
+            'macOS menu bar app that monitors your Mac and your AI coding agents, with Claude Code and Codex session history, cost and token analytics, and an embedded MCP server.',
+        categories: ['AI', 'Productivity', 'Tooling'],
+        url: 'https://actvt.io',
+        keywords: ['macos', 'menu bar', 'system monitor', 'claude code', 'codex', 'mcp', 'ai agents', 'cost tracking'],
+    },
+    {
         name: 'Ad Swipe File',
         description: 'Create top creatives: free access to 22,423+ proven ads!',
         categories: ['Marketing', 'AI', 'Inspiration'],
