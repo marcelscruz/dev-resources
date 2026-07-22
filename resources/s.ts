@@ -1067,6 +1067,13 @@ export const resources: Resource[] = [
         keywords: ['analytics', 'marketing', 'web analytics', 'privacy', 'opensource'],
     },
     {
+        name: 'Swiftsell AI',
+        description: 'Voice and WhatsApp AI Agents for Services Businesses',
+        categories: ['AI', 'Marketing', 'Productivity'],
+        url: 'https://swiftsellai.com/',
+        keywords: ['customer support', 'business', 'sales', 'automation'],
+    },
+    {
         name: 'Syntax',
         description:
             'Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling.',
