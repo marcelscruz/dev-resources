@@ -390,6 +390,13 @@ export const resources: Resource[] = [
         keywords: ['community', 'social network', 'social', 'prompt generator'],
     },
     {
+        name: 'PromptPlanner',
+        description: 'Prompt manager for Mac to organize, schedule, and copy reusable AI prompts',
+        categories: ['Productivity', 'AI', 'Library'],
+        url: 'https://promptplanner.app/',
+        keywords: ['prompt library', 'prompt manager', 'prompt management', 'prompt engineering'], 
+    },
+    {
         name: 'Proxed.AI',
         description:
             'Proxed.AI is a secure API proxy for iOS apps that protects AI API keys, prevents unauthorized access, and verifies real devices using Apple’s DeviceCheck.',
