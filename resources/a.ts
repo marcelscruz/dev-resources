@@ -94,6 +94,14 @@ export const resources: Resource[] = [
         keywords: ['ftp', 'sftp', 'webdav', 's3', 'file transfer', 'cloud storage', 'encryption', 'tauri', 'rust'],
     },
     {
+        name: 'Agent Island',
+        description:
+            'Open-source local status companion for Claude Code and Codex sessions on macOS and Windows, with working, your-turn, stalled and attention states.',
+        categories: ['Open Source', 'Productivity', 'Tooling'],
+        url: 'https://agent-island.dev/',
+        keywords: ['claude code', 'codex', 'coding agents', 'session monitoring', 'developer tools'],
+    },
+    {
         name: 'Agent Security',
         description: 'Security for AI agents',
         categories: ['Security', 'AI', 'Newsletter'],
