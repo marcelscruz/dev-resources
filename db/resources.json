@@ -1,5 +1,5 @@
 {
-"count": 1190,
+"count": 1191,
 "data": [
     {
         "name": "1001 Fonts",
@@ -265,6 +265,23 @@
             "encryption",
             "tauri",
             "rust"
+        ]
+    },
+    {
+        "name": "Agent Island",
+        "description": "Open-source local status companion for Claude Code and Codex sessions on macOS and Windows, with working, your-turn, stalled and attention states.",
+        "categories": [
+            "Open Source",
+            "Productivity",
+            "Tooling"
+        ],
+        "url": "https://agent-island.dev/",
+        "keywords": [
+            "claude code",
+            "codex",
+            "coding agents",
+            "session monitoring",
+            "developer tools"
         ]
     },
     {
