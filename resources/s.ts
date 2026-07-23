@@ -212,6 +212,14 @@ export const resources: Resource[] = [
         keywords: ['scraping', 'google', 'search', 'api'],
     },
     {
+        name: 'Serpent API',
+        description:
+            'The cheapest Google SERP API and AI rank tracking infrastructure. Deliver search engine results and direct AI model citation tracking as structured JSON.',
+        categories: ['Scraping'],
+        url: 'https://apiserpent.com',
+        keywords: ['scraping', 'google', 'search', 'api'],
+    },
+    {
         name: 'Serplux',
         description:
             'Serplux is a data-driven SEO and marketing platform that leverages Ahrefs, DataForSEO, Semrush, and AI-powered content automation to deliver advanced keyword research, SEO audits, and content engineering solutions.',
