@@ -64,6 +64,14 @@ export const resources: Resource[] = [
         url: 'https://app.haikei.app',
     },
     {
+        name: 'Hanzilla Jobs',
+        description:
+            'Daily-updated Canadian student and recent-grad software engineering jobs board with internships, co-ops, new grad, junior, and entry-level developer roles.',
+        categories: ['Job', 'Programming'],
+        url: 'https://jobs.hanzilla.co/categories/software-engineering/',
+        keywords: ['canada', 'software engineering', 'internships', 'new grad', 'junior developer'],
+    },
+    {
         name: 'Happy Hues',
         description:
             'See color palette inspiration on a real example website. As you click on different palettes every color on this site updates to give you context of how that color could be used for your design or illustration projects.',
