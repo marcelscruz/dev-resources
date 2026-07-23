@@ -521,6 +521,14 @@ export const resources: Resource[] = [
         keywords: ['developer tool', 'email validation', 'sales prospecting', 'email deliverability'],
     },
     {
+        name: 'Tura',
+        description:
+            'Tura is a local, open-source coding agent for developers tired of vague claims, evidence-free token-saving tools, and agents that edit before understanding.',
+        categories: ['AI', 'Programming', 'Terminal'],
+        url: 'https://turaai.net/',
+        keywords: ['coding agent', 'developer tool', 'rust', 'cli', 'tui', 'open source'],
+    },
+    {
         name: 'Tweet Detective',
         description:
             'Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content',
