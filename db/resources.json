@@ -1,5 +1,5 @@
 {
-"count": 1192,
+"count": 1193,
 "data": [
     {
         "name": "1001 Fonts",
@@ -13421,6 +13421,24 @@
             "email validation",
             "sales prospecting",
             "email deliverability"
+        ]
+    },
+    {
+        "name": "Tura",
+        "description": "Tura is a local, open-source coding agent for developers tired of vague claims, evidence-free token-saving tools, and agents that edit before understanding.",
+        "categories": [
+            "AI",
+            "Programming",
+            "Terminal"
+        ],
+        "url": "https://turaai.net/",
+        "keywords": [
+            "coding agent",
+            "developer tool",
+            "rust",
+            "cli",
+            "tui",
+            "open source"
         ]
     },
     {
