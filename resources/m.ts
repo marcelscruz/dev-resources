@@ -118,6 +118,14 @@ export const resources: Resource[] = [
         url: 'https://markodenic.com/',
     },
     {
+        name: 'Markstream',
+        description:
+            'Streaming Markdown renderers for AI chat interfaces across Vue, React, Svelte, Angular, Nuxt, and Next.js, with diagrams, math, code, and safe HTML.',
+        categories: ['Library', 'Open Source', 'UI'],
+        url: 'https://markstream.simonhe.me/',
+        keywords: ['streaming markdown', 'ai chat', 'frontend', 'vue', 'react', 'svelte', 'angular'],
+    },
+    {
         name: 'Mastery Games',
         description:
             'Learn frontend development through play, repetition, and sleep. Each game builds up your skills from the ground up using the educational process of scaffolding. You learn one new concept at a time, and leverage spaced repetition to solidify each concept.',
