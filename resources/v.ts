@@ -33,6 +33,13 @@ export const resources: Resource[] = [
         keywords: ['Speech to Text', 'Transcription', 'Voice Recognition'],
     },
     {
+        name: 'Vaultion',
+        description: 'Non-custodial auto crypto escrow with Kleros arbitration',
+        categories: ['Web3', 'Freelance', 'Startup'],
+        url: 'https://vaultion.org/',
+        keywords: ['crypto escrow', 'non custodial escrow', 'stablecoin escrow', 'usdt escrow'],
+    },
+    {
         name: 'Vector Illustrations',
         description:
             'Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.',
