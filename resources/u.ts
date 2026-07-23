@@ -100,6 +100,14 @@ export const resources: Resource[] = [
         url: 'https://uiverse.io/',
     },
     {
+        name: 'UIZZE',
+        description:
+            'Fix AI UI slop before it ships with a free-to-browse Web and iOS reference catalog plus full-access research tools for coding agents.',
+        categories: ['AI', 'Design', 'UI'],
+        url: 'https://uizze.com',
+        keywords: ['ai agents', 'coding agents', 'ui reference', 'web ui', 'ios ui', 'mcp', 'anti-slop'],
+    },
+    {
         name: 'Ultimate Web Speed',
         description:
             'Improve your website performance and SEO in hours not days. Use our tools and compare features, ease of use, and compatibility of resources.',
