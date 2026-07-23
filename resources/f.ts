@@ -367,6 +367,14 @@ export const resources: Resource[] = [
         url: 'https://formcn.dev/',
     },
     {
+        name: 'FoundRole',
+        description:
+            'AI-powered job search platform for developers: an AI job search engine, a built-in Kanban application tracker, and an open-source MCP server to search live listings from Claude and ChatGPT.',
+        categories: ['Job', 'AI', 'Remote'],
+        url: 'https://www.foundrole.com/',
+        keywords: ['jobs', 'job search', 'developer jobs', 'remote', 'tracker', 'mcp'],
+    },
+    {
         name: 'Foundy',
         description:
             'Sell your business at a higher valuation or find quality acquisitions with Foundy AI and expert support.',
