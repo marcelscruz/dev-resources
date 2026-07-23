@@ -405,6 +405,14 @@ export const resources: Resource[] = [
         url: 'https://appwrite.io/',
     },
     {
+        name: 'Apstal',
+        description:
+            'AI-first web analytics with session replay, heatmaps, and conversational AI queries. Free tier available.',
+        categories: ['Analytics', 'AI'],
+        url: 'https://apstal.com',
+        keywords: ['web analytics', 'session replay', 'heatmaps', 'ai analytics', 'privacy analytics'],
+    },
+    {
         name: 'Aptabase',
         description:
             'Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web apps. Get simple and actionable insights without compromising user privacy.',
