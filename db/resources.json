@@ -1,5 +1,5 @@
 {
-"count": 1180,
+"count": 1181,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9711,6 +9711,24 @@
             "Testing"
         ],
         "url": "https://polypane.app/"
+    },
+    {
+        "name": "PostalCodes.info",
+        "description": "Global postal code dataset and API for developers, with country coverage, downloadable CSV/JSON data, API documentation, and a citable Zenodo release.",
+        "categories": [
+            "API Building",
+            "Database",
+            "Open Source"
+        ],
+        "url": "https://postalcodes.info/api",
+        "keywords": [
+            "postal codes",
+            "postcodes",
+            "zip codes",
+            "geocoding",
+            "datasets",
+            "address validation"
+        ]
     },
     {
         "name": "PostgreSQL",
