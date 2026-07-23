@@ -463,7 +463,7 @@ export const resources: Resource[] = [
         description: 'Custom Domains & Domain Purchasing API for SaaS',
         categories: ['Domain', 'Tooling', 'Startup'],
         url: 'https://domainee.dev/',
-        keywords: ['developer tool', 'custom domains api', 'white label domains', 'saas infrastructure'], 
+        keywords: ['developer tool', 'custom domains api', 'white label domains', 'saas infrastructure'],
     },
     {
         name: 'Dotnet Gig',
