@@ -39,6 +39,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'IconKing',
+        description:
+            'Free browser-based Lottie animation previewer, color editor, and .json ↔ .lottie format converter. 100% client-side — no upload, no account needed.',
+        categories: ['Animation', 'Design'],
+        url: 'https://iconking.net',
+        keywords: ['lottie', 'lottie animation', 'dotlottie', 'animation preview', 'lottie converter', 'lottie editor'],
+    },
+    {
         name: 'iconmonstr',
         description: 'Free simple icons for your next project.',
         categories: ['Icon'],
