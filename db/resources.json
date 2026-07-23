@@ -1,5 +1,5 @@
 {
-"count": 1194,
+"count": 1195,
 "data": [
     {
         "name": "1001 Fonts",
@@ -191,6 +191,26 @@
             "shadcn",
             "next-auth",
             "prisma"
+        ]
+    },
+    {
+        "name": "Actvt",
+        "description": "macOS menu bar app that monitors your Mac and your AI coding agents, with Claude Code and Codex session history, cost and token analytics, and an embedded MCP server.",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Tooling"
+        ],
+        "url": "https://actvt.io",
+        "keywords": [
+            "macos",
+            "menu bar",
+            "system monitor",
+            "claude code",
+            "codex",
+            "mcp",
+            "ai agents",
+            "cost tracking"
         ]
     },
     {
