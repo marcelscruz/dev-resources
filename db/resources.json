@@ -1,5 +1,5 @@
 {
-"count": 1184,
+"count": 1185,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5066,6 +5066,24 @@
             "Code Snippet"
         ],
         "url": "https://formcn.dev/"
+    },
+    {
+        "name": "FoundRole",
+        "description": "AI-powered job search platform for developers: an AI job search engine, a built-in Kanban application tracker, and an open-source MCP server to search live listings from Claude and ChatGPT.",
+        "categories": [
+            "Job",
+            "AI",
+            "Remote"
+        ],
+        "url": "https://www.foundrole.com/",
+        "keywords": [
+            "jobs",
+            "job search",
+            "developer jobs",
+            "remote",
+            "tracker",
+            "mcp"
+        ]
     },
     {
         "name": "Foundy",
