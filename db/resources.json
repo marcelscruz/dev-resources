@@ -1,5 +1,5 @@
 {
-"count": 1187,
+"count": 1188,
 "data": [
     {
         "name": "1001 Fonts",
@@ -281,6 +281,25 @@
             "ai security",
             "agent security",
             "llm security"
+        ]
+    },
+    {
+        "name": "agent-qa",
+        "description": "Self-improving QA agent for web and mobile apps with natural-language tests, run memory, UI-change adaptation, and regression detection before shipping.",
+        "categories": [
+            "AI",
+            "Testing",
+            "Tooling"
+        ],
+        "url": "https://github.com/vostride/agent-qa",
+        "keywords": [
+            "ai",
+            "testing",
+            "qa",
+            "web",
+            "mobile",
+            "regression testing",
+            "natural language tests"
         ]
     },
     {
