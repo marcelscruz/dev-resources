@@ -143,20 +143,20 @@ export const resources: Resource[] = [
         keywords: ['ai brochure maker', 'ai design tool', 'custom brochure generator', 'prompt-to-brochure'],
     },
     {
-        name: 'AI Directories',
-        description:
-            'All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories',
-        categories: ['AI', 'SEO', 'Marketing'],
-        url: 'https://aidirectori.es/',
-        keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
-    },
-    {
         name: 'AI Dev Jobs',
         description:
             'Free AI and machine learning job board with 7,600+ jobs from 480+ companies. Includes a free REST API and MCP server for programmatic access.',
         categories: ['AI', 'Job', 'API Building'],
         url: 'https://aidevboard.com',
         keywords: ['ai', 'machine learning', 'jobs', 'api', 'mcp', 'developer', 'career'],
+    },
+    {
+        name: 'AI Directories',
+        description:
+            'All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories',
+        categories: ['AI', 'SEO', 'Marketing'],
+        url: 'https://aidirectori.es/',
+        keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
     },
     {
         name: 'AI for Database',
@@ -289,14 +289,6 @@ export const resources: Resource[] = [
         url: 'https://anotherwrapper.com',
     },
     {
-        name: 'AnveVoice',
-        description:
-            'AI voice agent for websites that trains on your content, navigates pages, fills forms, and books appointments in 50+ languages with sub-700ms latency.',
-        categories: ['AI'],
-        url: 'https://anvevoice.app',
-        keywords: ['voice ai', 'ai agent', 'chatbot', 'voice assistant', 'website widget'],
-    },
-    {
         name: 'AntForms',
         description: 'Unlimited free submissions + free analytics + integrations + AI + fastest support',
         categories: ['Productivity', 'Website Builder', 'Tooling'],
@@ -312,6 +304,14 @@ export const resources: Resource[] = [
             'analytics',
             'integrations',
         ],
+    },
+    {
+        name: 'AnveVoice',
+        description:
+            'AI voice agent for websites that trains on your content, navigates pages, fills forms, and books appointments in 50+ languages with sub-700ms latency.',
+        categories: ['AI'],
+        url: 'https://anvevoice.app',
+        keywords: ['voice ai', 'ai agent', 'chatbot', 'voice assistant', 'website widget'],
     },
     {
         name: 'Apigee',
