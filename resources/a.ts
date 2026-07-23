@@ -101,6 +101,14 @@ export const resources: Resource[] = [
         keywords: ['data', 'ai security', 'agent security', 'llm security'],
     },
     {
+        name: 'agent-qa',
+        description:
+            'Self-improving QA agent for web and mobile apps with natural-language tests, run memory, UI-change adaptation, and regression detection before shipping.',
+        categories: ['AI', 'Testing', 'Tooling'],
+        url: 'https://github.com/vostride/agent-qa',
+        keywords: ['ai', 'testing', 'qa', 'web', 'mobile', 'regression testing', 'natural language tests'],
+    },
+    {
         name: 'Ahrefs',
         description:
             "You don't have to be an SEO pro to rank higher and get more traffic. Join Ahrefs – we're a powerful but easy to learn SEO toolset with a passionate community.",
