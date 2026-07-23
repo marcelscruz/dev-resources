@@ -227,7 +227,15 @@ export const resources: Resource[] = [
             'Real-time bot detection and fraud prevention API. Combines IP reputation, VPN/proxy detection, and email validation in a single call. Free tier: 100 requests/day.',
         categories: ['Security', 'API Building'],
         url: 'https://ipasis.com',
-        keywords: ['bot detection', 'fraud prevention', 'ip reputation', 'email validation', 'vpn detection', 'proxy detection', 'api security'],
+        keywords: [
+            'bot detection',
+            'fraud prevention',
+            'ip reputation',
+            'email validation',
+            'vpn detection',
+            'proxy detection',
+            'api security',
+        ],
     },
     {
         name: 'IPWho IP Geolocation API',
