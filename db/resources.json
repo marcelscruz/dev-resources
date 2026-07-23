@@ -1,5 +1,5 @@
 {
-"count": 1181,
+"count": 1182,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6140,6 +6140,22 @@
             "Illustration"
         ],
         "url": "https://app.haikei.app"
+    },
+    {
+        "name": "Hanzilla Jobs",
+        "description": "Daily-updated Canadian student and recent-grad software engineering jobs board with internships, co-ops, new grad, junior, and entry-level developer roles.",
+        "categories": [
+            "Job",
+            "Programming"
+        ],
+        "url": "https://jobs.hanzilla.co/categories/software-engineering/",
+        "keywords": [
+            "canada",
+            "software engineering",
+            "internships",
+            "new grad",
+            "junior developer"
+        ]
     },
     {
         "name": "Happy Hues",
