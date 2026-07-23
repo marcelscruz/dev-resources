@@ -1,5 +1,5 @@
 {
-"count": 1193,
+"count": 1194,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8301,6 +8301,25 @@
             "Personal Website"
         ],
         "url": "https://markodenic.com/"
+    },
+    {
+        "name": "Markstream",
+        "description": "Streaming Markdown renderers for AI chat interfaces across Vue, React, Svelte, Angular, Nuxt, and Next.js, with diagrams, math, code, and safe HTML.",
+        "categories": [
+            "Library",
+            "Open Source",
+            "UI"
+        ],
+        "url": "https://markstream.simonhe.me/",
+        "keywords": [
+            "streaming markdown",
+            "ai chat",
+            "frontend",
+            "vue",
+            "react",
+            "svelte",
+            "angular"
+        ]
     },
     {
         "name": "Mastery Games",
