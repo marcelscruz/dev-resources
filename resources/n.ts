@@ -48,7 +48,7 @@ export const resources: Resource[] = [
         description: 'Affordable managed Postgres in Asia',
         categories: ['Database', 'Hosting', 'Cloud Computing'],
         url: 'https://nearbase.dev/',
-        keywords: ['database', 'postgreSQL', 'dbaaS', 'postgres hosting'], 
+        keywords: ['database', 'postgreSQL', 'dbaaS', 'postgres hosting'],
     },
     {
         name: 'Netlify',
