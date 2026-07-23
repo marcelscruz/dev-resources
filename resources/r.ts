@@ -457,6 +457,14 @@ export const resources: Resource[] = [
         url: 'https://roadmap.sh/',
     },
     {
+        name: 'Roblox GUI Maker',
+        description:
+            'AI-assisted Roblox Studio interface planner for ScreenGui layouts, HUDs, menus, and Lua UI starter code.',
+        categories: ['AI', 'Programming', 'UI'],
+        url: 'https://robloxguimaker.dev/',
+        keywords: ['roblox', 'roblox studio', 'lua', 'ui', 'screen gui', 'game development'],
+    },
+    {
         name: 'Rocket Crew',
         description: 'The biggest list of Space jobs from New space companies.',
         categories: ['Job'],
