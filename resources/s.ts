@@ -331,6 +331,14 @@ export const resources: Resource[] = [
         keywords: ['tiktok', 'instagram', 'track videos', 'discover viral content', 'viral shorts'],
     },
     {
+        name: 'ShotLab',
+        description:
+            'Make your screenshots stand out with stunning backgrounds, frames, cool stickers, emojis, and more. No design skills required.',
+        categories: ['Prototyping', 'Screenshot'],
+        url: 'https://shotlab.pro/',
+        keywords: ['mockup', 'design', 'social', 'marketing'],
+    },
+    {
         name: 'Shots',
         description:
             'Create amazing mockups with an image, from a website to a product, personalize any aspect of the outcome.',
