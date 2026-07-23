@@ -308,6 +308,14 @@ export const resources: Resource[] = [
         keywords: ['cv', 'LaTeX'],
     },
     {
+        name: 'PracHub',
+        description:
+            'Practice 8,500+ real tech-interview questions from 400+ top companies — coding, SQL, ML, and system design — in an in-browser console with AI-assisted hints.',
+        categories: ['Interview', 'Learn', 'Code Challenge'],
+        url: 'https://prachub.com',
+        keywords: ['interview', 'coding interview', 'leetcode alternative', 'system design', 'sql', 'machine learning'],
+    },
+    {
         name: 'Prime',
         description: 'Ultimate UI Framework.',
         categories: ['UI'],
