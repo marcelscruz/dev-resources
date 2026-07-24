@@ -1,5 +1,5 @@
 {
-"count": 1155,
+"count": 1195,
 "data": [
     {
         "name": "1001 Fonts",
@@ -55,6 +55,25 @@
             "Icon"
         ],
         "url": "https://www.3dicons.com/"
+    },
+    {
+        "name": "3STF Tools",
+        "description": "A clean collection of free browser tools for developers, writers, and creators. No accounts. No ads. No data collected.",
+        "categories": [
+            "Tool",
+            "Productivity"
+        ],
+        "url": "https://www.3stf.com/",
+        "keywords": [
+            "json formatter",
+            "image converter",
+            "password generator",
+            "word counter",
+            "developer tools",
+            "free tools",
+            "privacy",
+            "client-side"
+        ]
     },
     {
         "name": "4 day week",
@@ -175,6 +194,26 @@
         ]
     },
     {
+        "name": "Actvt",
+        "description": "macOS menu bar app that monitors your Mac and your AI coding agents, with Claude Code and Codex session history, cost and token analytics, and an embedded MCP server.",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Tooling"
+        ],
+        "url": "https://actvt.io",
+        "keywords": [
+            "macos",
+            "menu bar",
+            "system monitor",
+            "claude code",
+            "codex",
+            "mcp",
+            "ai agents",
+            "cost tracking"
+        ]
+    },
+    {
         "name": "Ad Swipe File",
         "description": "Create top creatives: free access to 22,423+ proven ads!",
         "categories": [
@@ -228,6 +267,44 @@
         ]
     },
     {
+        "name": "AeroFTP",
+        "description": "Open-source multi-protocol file transfer client supporting 22 protocols (FTP, SFTP, WebDAV, S3, Google Drive, Dropbox and more), with encrypted vaults, a built-in terminal and an AI assistant. Built with Tauri, React and Rust.",
+        "categories": [
+            "Open Source",
+            "Tooling",
+            "Security"
+        ],
+        "url": "https://github.com/axpnet/aeroftp",
+        "keywords": [
+            "ftp",
+            "sftp",
+            "webdav",
+            "s3",
+            "file transfer",
+            "cloud storage",
+            "encryption",
+            "tauri",
+            "rust"
+        ]
+    },
+    {
+        "name": "Agent Island",
+        "description": "Open-source local status companion for Claude Code and Codex sessions on macOS and Windows, with working, your-turn, stalled and attention states.",
+        "categories": [
+            "Open Source",
+            "Productivity",
+            "Tooling"
+        ],
+        "url": "https://agent-island.dev/",
+        "keywords": [
+            "claude code",
+            "codex",
+            "coding agents",
+            "session monitoring",
+            "developer tools"
+        ]
+    },
+    {
         "name": "Agent Security",
         "description": "Security for AI agents",
         "categories": [
@@ -241,6 +318,25 @@
             "ai security",
             "agent security",
             "llm security"
+        ]
+    },
+    {
+        "name": "agent-qa",
+        "description": "Self-improving QA agent for web and mobile apps with natural-language tests, run memory, UI-change adaptation, and regression detection before shipping.",
+        "categories": [
+            "AI",
+            "Testing",
+            "Tooling"
+        ],
+        "url": "https://github.com/vostride/agent-qa",
+        "keywords": [
+            "ai",
+            "testing",
+            "qa",
+            "web",
+            "mobile",
+            "regression testing",
+            "natural language tests"
         ]
     },
     {
@@ -336,6 +432,25 @@
         ]
     },
     {
+        "name": "AI Dev Jobs",
+        "description": "Free AI and machine learning job board with 7,600+ jobs from 480+ companies. Includes a free REST API and MCP server for programmatic access.",
+        "categories": [
+            "AI",
+            "Job",
+            "API Building"
+        ],
+        "url": "https://aidevboard.com",
+        "keywords": [
+            "ai",
+            "machine learning",
+            "jobs",
+            "api",
+            "mcp",
+            "developer",
+            "career"
+        ]
+    },
+    {
         "name": "AI Directories",
         "description": "All your AI Directories in one place.Promote your AI Tool and stay up to date with the curated list of AI Directories",
         "categories": [
@@ -350,6 +465,24 @@
             "promote",
             "directory",
             "traffic"
+        ]
+    },
+    {
+        "name": "AI for Database",
+        "description": "Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.",
+        "categories": [
+            "AI",
+            "Database",
+            "Productivity"
+        ],
+        "url": "https://aifordatabase.com",
+        "keywords": [
+            "ai",
+            "database",
+            "sql",
+            "natural language",
+            "analytics",
+            "dashboard"
         ]
     },
     {
@@ -577,6 +710,21 @@
         ]
     },
     {
+        "name": "AnveVoice",
+        "description": "AI voice agent for websites that trains on your content, navigates pages, fills forms, and books appointments in 50+ languages with sub-700ms latency.",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://anvevoice.app",
+        "keywords": [
+            "voice ai",
+            "ai agent",
+            "chatbot",
+            "voice assistant",
+            "website widget"
+        ]
+    },
+    {
         "name": "Apigee",
         "description": "Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.",
         "categories": [
@@ -774,7 +922,7 @@
     },
     {
         "name": "Awesome a11y",
-        "description": ":wheelchair: A curate list about A11Y. Contribute to brunopulis/awesome-a11y development by creating an account on GitHub.",
+        "description": "A curate list about A11Y. Contribute to brunopulis/awesome-a11y development by creating an account on GitHub.",
         "categories": [
             "Accessibility"
         ],
@@ -1606,6 +1754,15 @@
         ]
     },
     {
+        "name": "BulkPicTools",
+        "url": "https://bulkpictools.com",
+        "description": "Free browser-based bulk image processor. Compress to exact file sizes, convert HEIC/WebP/AVIF/PNG/JPG, resize, crop, watermark 1,000+ images at once. No upload, no account, works offline.",
+        "categories": [
+            "Image",
+            "Productivity"
+        ]
+    },
+    {
         "name": "Bulma",
         "description": "Bulma is a free, open source CSS framework based on Flexbox and built with Sass. It",
         "categories": [
@@ -1748,6 +1905,27 @@
             "AI"
         ],
         "url": "https://catalog.thesys.dev/"
+    },
+    {
+        "name": "CatchDoms",
+        "description": "Expired and auction domain finder aggregating 100k+ domains from 17 marketplaces, enriched with SEO metrics (Trust Flow, backlinks, age, historical tech stack). Ships a public REST API and an open-source MCP server so AI assistants like Claude can query the catalog in natural language.",
+        "categories": [
+            "Domain",
+            "SEO",
+            "AI"
+        ],
+        "url": "https://catchdoms.com",
+        "keywords": [
+            "expired-domains",
+            "domain-finder",
+            "seo",
+            "backlinks",
+            "trust-flow",
+            "mcp",
+            "api",
+            "wayback",
+            "domainer"
+        ]
     },
     {
         "name": "Cert Decoder",
@@ -2879,6 +3057,22 @@
             "sales",
             "ai sales outreach",
             "b2b lead generation"
+        ]
+    },
+    {
+        "name": "ConvertImage.tools",
+        "description": "Free browser-based image tools including converter, compressor, background remover, and more. All processing happens client-side with no signup required.",
+        "categories": [
+            "Image",
+            "Tooling"
+        ],
+        "url": "https://convertimage.tools",
+        "keywords": [
+            "image converter",
+            "image compressor",
+            "background remover",
+            "client-side",
+            "image tools"
         ]
     },
     {
@@ -4303,6 +4497,26 @@
         "url": "https://www.enhanceui.com/"
     },
     {
+        "name": "EnigmaEasel",
+        "description": "AI-powered design suite for generating accessible color palettes, gradients, and font pairings. Includes real-time WCAG auditing and production-ready exports for Tailwind, SCSS, and mobile.",
+        "categories": [
+            "AI",
+            "Color",
+            "Font"
+        ],
+        "url": "https://enigmaeasel.com/",
+        "keywords": [
+            "ai color palette generator",
+            "gradient generator",
+            "font pairing generator",
+            "wcag contrast checker",
+            "accessibility tools",
+            "design resources",
+            "google fonts pairing",
+            "tailwind css generator"
+        ]
+    },
+    {
         "name": "Envato Elements",
         "description": "Find stock video footages and photos for your next video project.",
         "categories": [
@@ -4477,6 +4691,23 @@
             "Icon"
         ],
         "url": "https://feathericons.com/"
+    },
+    {
+        "name": "Feedframer",
+        "description": "Instagram feed API that handles OAuth and automatic token refresh, serving posts as JSON, GraphQL, or RSS. Free tier available.",
+        "categories": [
+            "API Building",
+            "Social Media"
+        ],
+        "url": "https://feedframer.com",
+        "keywords": [
+            "instagram",
+            "api",
+            "feed",
+            "rss",
+            "json",
+            "graphql"
+        ]
     },
     {
         "name": "Figma",
@@ -4910,6 +5141,24 @@
         "url": "https://formcn.dev/"
     },
     {
+        "name": "FoundRole",
+        "description": "AI-powered job search platform for developers: an AI job search engine, a built-in Kanban application tracker, and an open-source MCP server to search live listings from Claude and ChatGPT.",
+        "categories": [
+            "Job",
+            "AI",
+            "Remote"
+        ],
+        "url": "https://www.foundrole.com/",
+        "keywords": [
+            "jobs",
+            "job search",
+            "developer jobs",
+            "remote",
+            "tracker",
+            "mcp"
+        ]
+    },
+    {
         "name": "Foundy",
         "description": "Sell your business at a higher valuation or find quality acquisitions with Foundy AI and expert support.",
         "categories": [
@@ -5263,6 +5512,28 @@
         "url": "https://www.fetoolkit.io/"
     },
     {
+        "name": "FrontendAtlas",
+        "description": "Frontend interview prep platform with hands-on JavaScript, UI, and DOM-oriented coding challenges.",
+        "categories": [
+            "Code Challenge",
+            "Learn",
+            "Programming"
+        ],
+        "url": "https://frontendatlas.com/coding",
+        "keywords": [
+            "frontend",
+            "javascript",
+            "typescript",
+            "ui",
+            "dom",
+            "react",
+            "angular",
+            "vue",
+            "interview",
+            "system design"
+        ]
+    },
+    {
         "name": "Frontendor",
         "description": "Reusable HTML templates and blocks to help you build beautiful and professional landing pages quickly and easily by COPY-PASTE.",
         "categories": [
@@ -5531,6 +5802,23 @@
             "Git",
             "Commits",
             "Pull Requests"
+        ]
+    },
+    {
+        "name": "gitty",
+        "description": "Git workflow CLI tool. Stage, commit, and push in one command, with selective line commits, interactive conflict resolution, and history rewriting.",
+        "categories": [
+            "Terminal",
+            "Tooling"
+        ],
+        "url": "https://github.com/Omibranch/gitty",
+        "keywords": [
+            "git",
+            "cli",
+            "workflow",
+            "terminal",
+            "commit",
+            "golang"
         ]
     },
     {
@@ -5943,6 +6231,22 @@
             "Illustration"
         ],
         "url": "https://app.haikei.app"
+    },
+    {
+        "name": "Hanzilla Jobs",
+        "description": "Daily-updated Canadian student and recent-grad software engineering jobs board with internships, co-ops, new grad, junior, and entry-level developer roles.",
+        "categories": [
+            "Job",
+            "Programming"
+        ],
+        "url": "https://jobs.hanzilla.co/categories/software-engineering/",
+        "keywords": [
+            "canada",
+            "software engineering",
+            "internships",
+            "new grad",
+            "junior developer"
+        ]
     },
     {
         "name": "Happy Hues",
@@ -7100,6 +7404,22 @@
         ]
     },
     {
+        "name": "Kube-DC Cloud",
+        "description": "A Kubernetes-native cloud platform to manage VMs, Kubernetes clusters, databases, and networks via manifests, AI assistants, or a real-time web console — all running in a fixed-price resource pool starting at €19/mo, hosted in Amsterdam.",
+        "categories": [
+            "Hosting",
+            "Cloud Computing"
+        ],
+        "url": "https://kube-dc.cloud/",
+        "keywords": [
+            "kubernetes",
+            "cloud hosting",
+            "kubevirt",
+            "vps",
+            "devops"
+        ]
+    },
+    {
         "name": "Ladybug",
         "description": "We’re debugging the tech industry. Every Monday.",
         "categories": [
@@ -7686,6 +8006,22 @@
         ]
     },
     {
+        "name": "LogoInspo",
+        "description": "The ultimate logo design inspiration library with 1,200+ hand-picked real and fictional logos searchable by style, industry, and color.",
+        "categories": [
+            "Logo",
+            "Design",
+            "Inspiration"
+        ],
+        "url": "https://logoinspo.com",
+        "keywords": [
+            "logo inspiration",
+            "branding",
+            "logo design",
+            "brand marks"
+        ]
+    },
+    {
         "name": "Logology",
         "description": "No random generation and no symbols from a free database. Everything was crafted from the ground-up!",
         "categories": [
@@ -7985,6 +8321,25 @@
             "Personal Website"
         ],
         "url": "https://markodenic.com/"
+    },
+    {
+        "name": "Markstream",
+        "description": "Streaming Markdown renderers for AI chat interfaces across Vue, React, Svelte, Angular, Nuxt, and Next.js, with diagrams, math, code, and safe HTML.",
+        "categories": [
+            "Library",
+            "Open Source",
+            "UI"
+        ],
+        "url": "https://markstream.simonhe.me/",
+        "keywords": [
+            "streaming markdown",
+            "ai chat",
+            "frontend",
+            "vue",
+            "react",
+            "svelte",
+            "angular"
+        ]
     },
     {
         "name": "Mastery Games",
@@ -8515,6 +8870,23 @@
         "url": "https://nextjs.org/"
     },
     {
+        "name": "Nextjsshop",
+        "description": "Premium Next.js UI components and templates for SaaS, landing pages, and product websites, designed to accelerate modern storefront and marketing sites.",
+        "categories": [
+            "Programming",
+            "Template"
+        ],
+        "url": "https://nextjsshop.com",
+        "keywords": [
+            "next.js",
+            "ecommerce",
+            "templates",
+            "UI components",
+            "storefront",
+            "react"
+        ]
+    },
+    {
         "name": "NexTool",
         "description": "228+ free browser-based developer tools including JSON formatter, Base64 encoder, regex tester, color converter, UUID generator, and more. No signup required.",
         "categories": [
@@ -8620,6 +8992,23 @@
             "cloud",
             "development",
             "framework"
+        ]
+    },
+    {
+        "name": "No Code Website Builder",
+        "description": "A marketplace for premium no-code website, web app, and mobile app templates built on platforms like Webflow, Framer, Bubble, Lovable, Replit and more.",
+        "categories": [
+            "Design",
+            "Template",
+            "Website Builder"
+        ],
+        "url": "https://nocodewebsitebuilder.com",
+        "keywords": [
+            "no-code",
+            "templates",
+            "webflow",
+            "framer",
+            "bubble"
         ]
     },
     {
@@ -9466,6 +9855,24 @@
         "url": "https://polypane.app/"
     },
     {
+        "name": "PostalCodes.info",
+        "description": "Global postal code dataset and API for developers, with country coverage, downloadable CSV/JSON data, API documentation, and a citable Zenodo release.",
+        "categories": [
+            "API Building",
+            "Database",
+            "Open Source"
+        ],
+        "url": "https://postalcodes.info/api",
+        "keywords": [
+            "postal codes",
+            "postcodes",
+            "zip codes",
+            "geocoding",
+            "datasets",
+            "address validation"
+        ]
+    },
+    {
         "name": "PostgreSQL",
         "description": "PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.",
         "categories": [
@@ -9480,6 +9887,22 @@
             "API Building"
         ],
         "url": "https://www.postman.com/"
+    },
+    {
+        "name": "PostPeer",
+        "description": "Social media posting API for cross-platform posting and scheduling",
+        "categories": [
+            "Social Media",
+            "Programming",
+            "Marketing"
+        ],
+        "url": "https://www.postpeer.dev/",
+        "keywords": [
+            "social media api",
+            "developer tools",
+            "api",
+            "social media automation"
+        ]
     },
     {
         "name": "Powerdrill",
@@ -9522,6 +9945,24 @@
         "keywords": [
             "cv",
             "LaTeX"
+        ]
+    },
+    {
+        "name": "PracHub",
+        "description": "Practice 8,500+ real tech-interview questions from 400+ top companies — coding, SQL, ML, and system design — in an in-browser console with AI-assisted hints.",
+        "categories": [
+            "Interview",
+            "Learn",
+            "Code Challenge"
+        ],
+        "url": "https://prachub.com",
+        "keywords": [
+            "interview",
+            "coding interview",
+            "leetcode alternative",
+            "system design",
+            "sql",
+            "machine learning"
         ]
     },
     {
@@ -9892,6 +10333,22 @@
         "url": "https://rapidapi.com/"
     },
     {
+        "name": "RapidProxy",
+        "categories": [
+            "Tooling"
+        ],
+        "description": "90M+ residential IPs in 200+ countries, starting at $0.65/GB with non-expiring traffic. Power your scraping and automation. Try it free today.",
+        "url": "https://www.rapidproxy.io",
+        "keywords": [
+            "proxy",
+            "residential proxy",
+            "datacenter proxy",
+            "mobile proxy",
+            "web scraping",
+            "automation"
+        ]
+    },
+    {
         "name": "Ratatype",
         "description": "Learn to type faster. Take touch typing lessons, practice your keyboarding skills online, take a typing test and get typing speed certificate for free.",
         "categories": [
@@ -10189,6 +10646,23 @@
             "enterprise search",
             "ai assistant",
             "knowledge management"
+        ]
+    },
+    {
+        "name": "ReleaseRun",
+        "description": "Track software releases across the dev ecosystem. Get real-time version monitoring for Node.js, Python, Go, Rust, Kubernetes, PostgreSQL, and more — with free tools for dependency health checks, K8s security scanning, and CI/CD analysis.",
+        "categories": [
+            "Tooling",
+            "Security",
+            "Programming"
+        ],
+        "url": "https://releaserun.com",
+        "keywords": [
+            "kubernetes",
+            "devops",
+            "dependency health",
+            "version tracking",
+            "release monitoring"
         ]
     },
     {
@@ -10515,6 +10989,24 @@
         "url": "https://roadmap.sh/"
     },
     {
+        "name": "Roblox GUI Maker",
+        "description": "AI-assisted Roblox Studio interface planner for ScreenGui layouts, HUDs, menus, and Lua UI starter code.",
+        "categories": [
+            "AI",
+            "Programming",
+            "UI"
+        ],
+        "url": "https://robloxguimaker.dev/",
+        "keywords": [
+            "roblox",
+            "roblox studio",
+            "lua",
+            "ui",
+            "screen gui",
+            "game development"
+        ]
+    },
+    {
         "name": "Rocket Crew",
         "description": "The biggest list of Space jobs from New space companies.",
         "categories": [
@@ -10537,6 +11029,25 @@
             "voice",
             "audio",
             "phone"
+        ]
+    },
+    {
+        "name": "RouterBase",
+        "description": "RouterBase is an AI API gateway for developers and small teams. Through a single OpenAI-compatible endpoint, it provides access to 200+ AI models from providers like OpenAI, Anthropic, Google, and Meta, with smart routing, automatic failover, and unified usage and cost tracking.",
+        "categories": [
+            "AI",
+            "API Building",
+            "Tooling"
+        ],
+        "url": "https://routerbase.com",
+        "keywords": [
+            "ai",
+            "api",
+            "llm",
+            "openai-compatible",
+            "ai gateway",
+            "model routing",
+            "developer tools"
         ]
     },
     {
@@ -10796,6 +11307,23 @@
         ]
     },
     {
+        "name": "Screenshot to Code",
+        "description": "Tool for converting screenshots and UI mockups into frontend code to accelerate prototyping workflows.",
+        "categories": [
+            "AI",
+            "Programming"
+        ],
+        "url": "https://screenshottocode.net/",
+        "keywords": [
+            "screenshot",
+            "ui",
+            "frontend",
+            "prototyping",
+            "react",
+            "tailwind"
+        ]
+    },
+    {
         "name": "Screenstab",
         "description": "Turn ordinary screenshots into beautiful image assets in no time",
         "categories": [
@@ -10924,6 +11452,20 @@
             "Scraping"
         ],
         "url": "https://serpapi.com/",
+        "keywords": [
+            "scraping",
+            "google",
+            "search",
+            "api"
+        ]
+    },
+    {
+        "name": "Serpent API",
+        "description": "The cheapest Google SERP API and AI rank tracking infrastructure. Deliver search engine results and direct AI model citation tracking as structured JSON.",
+        "categories": [
+            "Scraping"
+        ],
+        "url": "https://apiserpent.com",
         "keywords": [
             "scraping",
             "google",
@@ -12334,6 +12876,24 @@
         "url": "https://templated.io/"
     },
     {
+        "name": "TemplateFox",
+        "description": "Generate PDFs from reusable templates via API. Design templates visually, then generate documents with dynamic data using a REST API or SDKs in 7 languages.",
+        "categories": [
+            "API Building",
+            "Template",
+            "Editor"
+        ],
+        "url": "https://pdftemplateapi.com",
+        "keywords": [
+            "pdf",
+            "api",
+            "pdf generation",
+            "template",
+            "document automation",
+            "invoice generator"
+        ]
+    },
+    {
         "name": "TemplateMo",
         "description": "Download 548+ free HTML CSS website templates that included 140+ responsive Bootstrap themes from templatemo and use them for your sites.",
         "categories": [
@@ -12667,6 +13227,25 @@
         ]
     },
     {
+        "name": "ToolKit",
+        "description": "ToolKit is a collection of free online utilities built for developers, designers, and everyday users. Every tool runs entirely in the browser using Web APIs — nothing is sent to a server.",
+        "categories": [
+            "Tooling"
+        ],
+        "url": "https://www.webtoolkit.tech",
+        "keywords": [
+            "developer tools",
+            "online tools",
+            "password generator",
+            "JSON formatter",
+            "regex tester",
+            "base64",
+            "free tools",
+            "browser-based",
+            "no signup"
+        ]
+    },
+    {
         "name": "TOOOLS.design",
         "description": "A growing archive of 1,500+ design resources, frequently updated for the community.",
         "categories": [
@@ -12693,6 +13272,22 @@
             "Template"
         ],
         "url": "https://www.tooplate.com/"
+    },
+    {
+        "name": "Top SaaS Directories",
+        "description": "100+ Top Directories and Launch Platforms to List your SaaS",
+        "categories": [
+            "Marketing",
+            "SEO",
+            "Startup"
+        ],
+        "url": "https://topsaasdirectories.com/",
+        "keywords": [
+            "startup directory",
+            "saas directory",
+            "software directory",
+            "productivity"
+        ]
     },
     {
         "name": "Toptal",
@@ -12865,6 +13460,24 @@
             "email validation",
             "sales prospecting",
             "email deliverability"
+        ]
+    },
+    {
+        "name": "Tura",
+        "description": "Tura is a local, open-source coding agent for developers tired of vague claims, evidence-free token-saving tools, and agents that edit before understanding.",
+        "categories": [
+            "AI",
+            "Programming",
+            "Terminal"
+        ],
+        "url": "https://turaai.net/",
+        "keywords": [
+            "coding agent",
+            "developer tool",
+            "rust",
+            "cli",
+            "tui",
+            "open source"
         ]
     },
     {
@@ -13147,6 +13760,25 @@
         "url": "https://uiverse.io/"
     },
     {
+        "name": "UIZZE",
+        "description": "Fix AI UI slop before it ships with a free-to-browse Web and iOS reference catalog plus full-access research tools for coding agents.",
+        "categories": [
+            "AI",
+            "Design",
+            "UI"
+        ],
+        "url": "https://uizze.com",
+        "keywords": [
+            "ai agents",
+            "coding agents",
+            "ui reference",
+            "web ui",
+            "ios ui",
+            "mcp",
+            "anti-slop"
+        ]
+    },
+    {
         "name": "Ultimate Web Speed",
         "description": "Improve your website performance and SEO in hours not days. Use our tools and compare features, ease of use, and compatibility of resources.",
         "categories": [
@@ -13203,6 +13835,16 @@
             "Illustration"
         ],
         "url": "https://undraw.co/"
+    },
+    {
+        "name": "unlearn.dev",
+        "description": "Unlearn.dev is developer education for the AI era and beyond. It helps engineers turn AI into a 24/7 execution team while strengthening the judgment, architecture, and evaluation skills that make developers irreplaceable.",
+        "categories": [
+            "AI",
+            "Learn",
+            "Programming"
+        ],
+        "url": "https://unlearn.dev/"
     },
     {
         "name": "Unscreen",
@@ -13375,6 +14017,25 @@
         ]
     },
     {
+        "name": "ValidateHTML",
+        "description": "Free online validation tools for HTML, CSS, JSON, XML, meta tags, and Open Graph. Get instant quality scores from 0 to 100.",
+        "categories": [
+            "Testing",
+            "Tooling",
+            "SEO"
+        ],
+        "url": "https://validatehtml.com",
+        "keywords": [
+            "html validator",
+            "css validator",
+            "json validator",
+            "xml validator",
+            "meta tag checker",
+            "open graph checker",
+            "accessibility checker"
+        ]
+    },
+    {
         "name": "Vatis Tech",
         "description": "Vatis Tech offers advanced speech-to-text technology, converting audio or video files into text with over 90% accuracy using proprietary deep-learning algorithms",
         "categories": [
@@ -13404,6 +14065,24 @@
             "Image"
         ],
         "url": "https://vectr.com/"
+    },
+    {
+        "name": "VeilStrat",
+        "url": "https://veilstrat.com",
+        "description": "B2B SaaS platform that surfaces AI adoption signals across organizations, with a playbooks directory to help teams discover and implement AI agent skills and MCP use cases.",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Marketing"
+        ],
+        "keywords": [
+            "ai adoption",
+            "ai signals",
+            "GTM signals",
+            "b2b saas",
+            "workflows",
+            "enterprise ai"
+        ]
     },
     {
         "name": "Velocity",
@@ -13942,6 +14621,22 @@
             "UI"
         ],
         "url": "https://webframe.xyz/"
+    },
+    {
+        "name": "Webinspoo",
+        "description": "A curated SaaS web design inspiration gallery featuring the best landing pages, UI patterns, and product pages for designers, developers, and founders.",
+        "categories": [
+            "Design",
+            "Inspiration",
+            "UI"
+        ],
+        "url": "https://webinspoo.com",
+        "keywords": [
+            "web design inspiration",
+            "website gallery",
+            "landing page ideas",
+            "UI inspiration"
+        ]
     },
     {
         "name": "WebPagetest",

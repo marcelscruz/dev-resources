@@ -65,12 +65,12 @@ export const resources: Resource[] = [
         url: 'https://nextjs.org/',
     },
     {
-        name: 'Nextradar',
+        name: 'Nextjsshop',
         description:
-            'Navigate the Next.js Ecosystem with ease. Stay up to date with the latest Next.js tools and resources.',
-        categories: ['Learn', 'Programming'],
-        url: 'https://nextradar.dev',
-        keywords: ['Nextjs', 'React', 'Vercel'],
+            'Premium Next.js UI components and templates for SaaS, landing pages, and product websites, designed to accelerate modern storefront and marketing sites.',
+        categories: ['Programming', 'Template'],
+        url: 'https://nextjsshop.com',
+        keywords: ['next.js', 'ecommerce', 'templates', 'UI components', 'storefront', 'react'],
     },
     {
         name: 'NexTool',
@@ -79,6 +79,14 @@ export const resources: Resource[] = [
         categories: ['Tooling', 'Programming'],
         url: 'https://nextool.app/free-tools/',
         keywords: ['developer tools', 'free tools', 'json', 'base64', 'regex', 'converter', 'formatter', 'generator'],
+    },
+    {
+        name: 'Nextradar',
+        description:
+            'Navigate the Next.js Ecosystem with ease. Stay up to date with the latest Next.js tools and resources.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://nextradar.dev',
+        keywords: ['Nextjs', 'React', 'Vercel'],
     },
     {
         name: 'NextReady',
@@ -117,6 +125,14 @@ export const resources: Resource[] = [
         categories: ['API Building'],
         url: 'https://nitric.io',
         keywords: ['serverless', 'cloud', 'development', 'framework'],
+    },
+    {
+        name: 'No Code Website Builder',
+        description:
+            'A marketplace for premium no-code website, web app, and mobile app templates built on platforms like Webflow, Framer, Bubble, Lovable, Replit and more.',
+        categories: ['Design', 'Template', 'Website Builder'],
+        url: 'https://nocodewebsitebuilder.com',
+        keywords: ['no-code', 'templates', 'webflow', 'framer', 'bubble'],
     },
     {
         name: 'No-Code Scraper',

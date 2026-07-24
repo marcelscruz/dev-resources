@@ -45,6 +45,14 @@ export const resources: Resource[] = [
         url: 'https://rapidapi.com/',
     },
     {
+        name: 'RapidProxy',
+        categories: ['Tooling'],
+        description:
+            '90M+ residential IPs in 200+ countries, starting at $0.65/GB with non-expiring traffic. Power your scraping and automation. Try it free today.',
+        url: 'https://www.rapidproxy.io',
+        keywords: ['proxy', 'residential proxy', 'datacenter proxy', 'mobile proxy', 'web scraping', 'automation'],
+    },
+    {
         name: 'Ratatype',
         description:
             'Learn to type faster. Take touch typing lessons, practice your keyboarding skills online, take a typing test and get typing speed certificate for free.',
@@ -236,6 +244,14 @@ export const resources: Resource[] = [
         categories: ['Open Source', 'Programming', 'Extension'],
         url: 'https://relatedrepos.com/',
         keywords: ['github', 'open source', 'repository', 'discovery', 'software', 'programming', 'alternatives'],
+    },
+    {
+        name: 'ReleaseRun',
+        description:
+            'Track software releases across the dev ecosystem. Get real-time version monitoring for Node.js, Python, Go, Rust, Kubernetes, PostgreSQL, and more — with free tools for dependency health checks, K8s security scanning, and CI/CD analysis.',
+        categories: ['Tooling', 'Security', 'Programming'],
+        url: 'https://releaserun.com',
+        keywords: ['kubernetes', 'devops', 'dependency health', 'version tracking', 'release monitoring'],
     },
     {
         name: 'Remix Icon',
@@ -449,6 +465,14 @@ export const resources: Resource[] = [
         url: 'https://roadmap.sh/',
     },
     {
+        name: 'Roblox GUI Maker',
+        description:
+            'AI-assisted Roblox Studio interface planner for ScreenGui layouts, HUDs, menus, and Lua UI starter code.',
+        categories: ['AI', 'Programming', 'UI'],
+        url: 'https://robloxguimaker.dev/',
+        keywords: ['roblox', 'roblox studio', 'lua', 'ui', 'screen gui', 'game development'],
+    },
+    {
         name: 'Rocket Crew',
         description: 'The biggest list of Space jobs from New space companies.',
         categories: ['Job'],
@@ -460,6 +484,14 @@ export const resources: Resource[] = [
         categories: ['AI', 'Startup', 'Marketing'],
         url: 'https://heyrosie.com/',
         keywords: ['ai answering service', 'ai assistant', 'voice', 'audio', 'phone'],
+    },
+    {
+        name: 'RouterBase',
+        description:
+            'RouterBase is an AI API gateway for developers and small teams. Through a single OpenAI-compatible endpoint, it provides access to 200+ AI models from providers like OpenAI, Anthropic, Google, and Meta, with smart routing, automatic failover, and unified usage and cost tracking.',
+        categories: ['AI', 'API Building', 'Tooling'],
+        url: 'https://routerbase.com',
+        keywords: ['ai', 'api', 'llm', 'openai-compatible', 'ai gateway', 'model routing', 'developer tools'],
     },
     {
         name: 'RubyMine',

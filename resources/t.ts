@@ -115,6 +115,14 @@ export const resources: Resource[] = [
         url: 'https://templated.io/',
     },
     {
+        name: 'TemplateFox',
+        description:
+            'Generate PDFs from reusable templates via API. Design templates visually, then generate documents with dynamic data using a REST API or SDKs in 7 languages.',
+        categories: ['API Building', 'Template', 'Editor'],
+        url: 'https://pdftemplateapi.com',
+        keywords: ['pdf', 'api', 'pdf generation', 'template', 'document automation', 'invoice generator'],
+    },
+    {
         name: 'TemplateMo',
         description:
             'Download 548+ free HTML CSS website templates that included 140+ responsive Bootstrap themes from templatemo and use them for your sites.',
@@ -337,6 +345,24 @@ export const resources: Resource[] = [
         keywords: ['b2b influencer marketing', 'influencer discovery', 'influencer analytics', 'creator intelligence'],
     },
     {
+        name: 'ToolKit',
+        description:
+            'ToolKit is a collection of free online utilities built for developers, designers, and everyday users. Every tool runs entirely in the browser using Web APIs — nothing is sent to a server.',
+        categories: ['Tooling'],
+        url: 'https://www.webtoolkit.tech',
+        keywords: [
+            'developer tools',
+            'online tools',
+            'password generator',
+            'JSON formatter',
+            'regex tester',
+            'base64',
+            'free tools',
+            'browser-based',
+            'no signup',
+        ],
+    },
+    {
         name: 'TOOOLS.design',
         description: 'A growing archive of 1,500+ design resources, frequently updated for the community.',
         categories: ['Accessibility', 'Design', 'Blog'],
@@ -349,6 +375,13 @@ export const resources: Resource[] = [
             'Download free HTML CSS website templates from Tooplate and use them for any purpose. Our templates are easy to modify and use for any website.',
         categories: ['Template'],
         url: 'https://www.tooplate.com/',
+    },
+    {
+        name: 'Top SaaS Directories',
+        description: '100+ Top Directories and Launch Platforms to List your SaaS',
+        categories: ['Marketing', 'SEO', 'Startup'],
+        url: 'https://topsaasdirectories.com/',
+        keywords: ['startup directory', 'saas directory', 'software directory', 'productivity'],
     },
     {
         name: 'Toptal',
@@ -486,6 +519,14 @@ export const resources: Resource[] = [
         categories: ['Email', 'Marketing', 'Productivity'],
         url: 'https://truelist.io/',
         keywords: ['developer tool', 'email validation', 'sales prospecting', 'email deliverability'],
+    },
+    {
+        name: 'Tura',
+        description:
+            'Tura is a local, open-source coding agent for developers tired of vague claims, evidence-free token-saving tools, and agents that edit before understanding.',
+        categories: ['AI', 'Programming', 'Terminal'],
+        url: 'https://turaai.net/',
+        keywords: ['coding agent', 'developer tool', 'rust', 'cli', 'tui', 'open source'],
     },
     {
         name: 'Tweet Detective',

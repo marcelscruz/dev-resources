@@ -43,6 +43,14 @@ export const resources: Resource[] = [
         url: 'https://feathericons.com/',
     },
     {
+        name: 'Feedframer',
+        description:
+            'Instagram feed API that handles OAuth and automatic token refresh, serving posts as JSON, GraphQL, or RSS. Free tier available.',
+        categories: ['API Building', 'Social Media'],
+        url: 'https://feedframer.com',
+        keywords: ['instagram', 'api', 'feed', 'rss', 'json', 'graphql'],
+    },
+    {
         name: 'Figma',
         description:
             'Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.',
@@ -367,6 +375,14 @@ export const resources: Resource[] = [
         url: 'https://formcn.dev/',
     },
     {
+        name: 'FoundRole',
+        description:
+            'AI-powered job search platform for developers: an AI job search engine, a built-in Kanban application tracker, and an open-source MCP server to search live listings from Claude and ChatGPT.',
+        categories: ['Job', 'AI', 'Remote'],
+        url: 'https://www.foundrole.com/',
+        keywords: ['jobs', 'job search', 'developer jobs', 'remote', 'tracker', 'mcp'],
+    },
+    {
         name: 'Foundy',
         description:
             'Sell your business at a higher valuation or find quality acquisitions with Foundy AI and expert support.',
@@ -627,6 +643,25 @@ export const resources: Resource[] = [
             'Frontend Toolkit is a customizable dashboard for your recurring Frontend tasks. Base64 encoder/decoder, SVG optimizations, SVG to JSX and many more!',
         categories: ['Productivity', 'Programming'],
         url: 'https://www.fetoolkit.io/',
+    },
+    {
+        name: 'FrontendAtlas',
+        description:
+            'Frontend interview prep platform with hands-on JavaScript, UI, and DOM-oriented coding challenges.',
+        categories: ['Code Challenge', 'Learn', 'Programming'],
+        url: 'https://frontendatlas.com/coding',
+        keywords: [
+            'frontend',
+            'javascript',
+            'typescript',
+            'ui',
+            'dom',
+            'react',
+            'angular',
+            'vue',
+            'interview',
+            'system design',
+        ],
     },
     {
         name: 'Frontendor',

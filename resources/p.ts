@@ -257,6 +257,14 @@ export const resources: Resource[] = [
         url: 'https://polypane.app/',
     },
     {
+        name: 'PostalCodes.info',
+        description:
+            'Global postal code dataset and API for developers, with country coverage, downloadable CSV/JSON data, API documentation, and a citable Zenodo release.',
+        categories: ['API Building', 'Database', 'Open Source'],
+        url: 'https://postalcodes.info/api',
+        keywords: ['postal codes', 'postcodes', 'zip codes', 'geocoding', 'datasets', 'address validation'],
+    },
+    {
         name: 'PostgreSQL',
         description:
             'PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.',
@@ -269,6 +277,13 @@ export const resources: Resource[] = [
             'Postman makes API development easy. Our platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster.',
         categories: ['API Building'],
         url: 'https://www.postman.com/',
+    },
+    {
+        name: 'PostPeer',
+        description: 'Social media posting API for cross-platform posting and scheduling',
+        categories: ['Social Media', 'Programming', 'Marketing'],
+        url: 'https://www.postpeer.dev/',
+        keywords: ['social media api', 'developer tools', 'api', 'social media automation'],
     },
     {
         name: 'Powerdrill',
@@ -291,6 +306,14 @@ export const resources: Resource[] = [
         categories: ['Resume', 'Job', 'Productivity'],
         url: 'https://ppresume.com',
         keywords: ['cv', 'LaTeX'],
+    },
+    {
+        name: 'PracHub',
+        description:
+            'Practice 8,500+ real tech-interview questions from 400+ top companies — coding, SQL, ML, and system design — in an in-browser console with AI-assisted hints.',
+        categories: ['Interview', 'Learn', 'Code Challenge'],
+        url: 'https://prachub.com',
+        keywords: ['interview', 'coding interview', 'leetcode alternative', 'system design', 'sql', 'machine learning'],
     },
     {
         name: 'Prime',

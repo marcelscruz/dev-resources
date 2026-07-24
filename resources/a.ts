@@ -57,6 +57,14 @@ export const resources: Resource[] = [
         keywords: ['saas', 'starter kit', 'boilerplate', 'next.js', 'shadcn', 'next-auth', 'prisma'],
     },
     {
+        name: 'Actvt',
+        description:
+            'macOS menu bar app that monitors your Mac and your AI coding agents, with Claude Code and Codex session history, cost and token analytics, and an embedded MCP server.',
+        categories: ['AI', 'Productivity', 'Tooling'],
+        url: 'https://actvt.io',
+        keywords: ['macos', 'menu bar', 'system monitor', 'claude code', 'codex', 'mcp', 'ai agents', 'cost tracking'],
+    },
+    {
         name: 'Ad Swipe File',
         description: 'Create top creatives: free access to 22,423+ proven ads!',
         categories: ['Marketing', 'AI', 'Inspiration'],
@@ -86,11 +94,35 @@ export const resources: Resource[] = [
         keywords: ['HTML CSS JS UI UX WordPress React Native User Interface Design Website JavaScript Graphics design'],
     },
     {
+        name: 'AeroFTP',
+        description:
+            'Open-source multi-protocol file transfer client supporting 22 protocols (FTP, SFTP, WebDAV, S3, Google Drive, Dropbox and more), with encrypted vaults, a built-in terminal and an AI assistant. Built with Tauri, React and Rust.',
+        categories: ['Open Source', 'Tooling', 'Security'],
+        url: 'https://github.com/axpnet/aeroftp',
+        keywords: ['ftp', 'sftp', 'webdav', 's3', 'file transfer', 'cloud storage', 'encryption', 'tauri', 'rust'],
+    },
+    {
+        name: 'Agent Island',
+        description:
+            'Open-source local status companion for Claude Code and Codex sessions on macOS and Windows, with working, your-turn, stalled and attention states.',
+        categories: ['Open Source', 'Productivity', 'Tooling'],
+        url: 'https://agent-island.dev/',
+        keywords: ['claude code', 'codex', 'coding agents', 'session monitoring', 'developer tools'],
+    },
+    {
         name: 'Agent Security',
         description: 'Security for AI agents',
         categories: ['Security', 'AI', 'Newsletter'],
         url: 'https://agentsecurity.com',
         keywords: ['data', 'ai security', 'agent security', 'llm security'],
+    },
+    {
+        name: 'agent-qa',
+        description:
+            'Self-improving QA agent for web and mobile apps with natural-language tests, run memory, UI-change adaptation, and regression detection before shipping.',
+        categories: ['AI', 'Testing', 'Tooling'],
+        url: 'https://github.com/vostride/agent-qa',
+        keywords: ['ai', 'testing', 'qa', 'web', 'mobile', 'regression testing', 'natural language tests'],
     },
     {
         name: 'Ahrefs',
@@ -141,6 +173,22 @@ export const resources: Resource[] = [
         categories: ['AI', 'SEO', 'Marketing'],
         url: 'https://aidirectori.es/',
         keywords: ['ai', 'artificial intelligence', 'promote', 'directory', 'traffic'],
+    },
+    {
+        name: 'AI Dev Jobs',
+        description:
+            'Free AI and machine learning job board with 7,600+ jobs from 480+ companies. Includes a free REST API and MCP server for programmatic access.',
+        categories: ['AI', 'Job', 'API Building'],
+        url: 'https://aidevboard.com',
+        keywords: ['ai', 'machine learning', 'jobs', 'api', 'mcp', 'developer', 'career'],
+    },
+    {
+        name: 'AI for Database',
+        description:
+            'Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.',
+        categories: ['AI', 'Database', 'Productivity'],
+        url: 'https://aifordatabase.com',
+        keywords: ['ai', 'database', 'sql', 'natural language', 'analytics', 'dashboard'],
     },
     {
         name: 'AI Jobs',
@@ -263,6 +311,14 @@ export const resources: Resource[] = [
             '10+ customizable AI demo apps: pick one, make it yours, launch your startup quickly and start making money',
         categories: ['AI', 'Programming', 'Productivity'],
         url: 'https://anotherwrapper.com',
+    },
+    {
+        name: 'AnveVoice',
+        description:
+            'AI voice agent for websites that trains on your content, navigates pages, fills forms, and books appointments in 50+ languages with sub-700ms latency.',
+        categories: ['AI'],
+        url: 'https://anvevoice.app',
+        keywords: ['voice ai', 'ai agent', 'chatbot', 'voice assistant', 'website widget'],
     },
     {
         name: 'AntForms',
@@ -415,7 +471,7 @@ export const resources: Resource[] = [
     {
         name: 'Awesome a11y',
         description:
-            ':wheelchair: A curate list about A11Y. Contribute to brunopulis/awesome-a11y development by creating an account on GitHub.',
+            'A curate list about A11Y. Contribute to brunopulis/awesome-a11y development by creating an account on GitHub.',
         categories: ['Accessibility'],
         url: 'https://github.com/brunopulis/awesome-a11y',
     },

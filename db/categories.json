@@ -1,5 +1,5 @@
 {
-"count": 73,
+"count": 74,
 "data": [
     {
         "name": "Accessibility",
@@ -256,6 +256,10 @@
     {
         "name": "Testing",
         "slug": "testing"
+    },
+    {
+        "name": "Tool",
+        "slug": "tool"
     },
     {
         "name": "Tooling",

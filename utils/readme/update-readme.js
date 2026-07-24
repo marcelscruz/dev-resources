@@ -24,22 +24,22 @@ const links = `<div align="center">
     <a href="LICENSE">License</a>
 </div>`
 
-const logoApyhub = `<div>
-    <p align="center"><a href="https://apyhub.com?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/apyhub-dark-mode.svg" width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/apyhub-light-mode.svg" width="150px"><img alt="ApyHub logo" src="./assets/apyhub-dark-mode.svg" width="150px"></picture></a></p>
-    <p align="center"><a href="https://apyhub.com?ref=dr-pa&utm_medium=dev-resources-repo-readme">ApyHub</a>: A Modern API Platform to streamline API Development, Testing and Management. Take your API game to the next level with ApyHub.</p>
-</div>`
-
 const logoSerpApi = `<div>
     <p align="center"><a href="https://serpapi.com?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/serpapi-dark-mode.svg" width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/serpapi-light-mode.svg" width="150px"><img alt="SerpApi logo" src="./assets/serpapi-dark-mode.svg" width="150px"></picture></a></p>
     <p align="center"><a href="https://serpapi.com?ref=dr-pa&utm_medium=dev-resources-repo-readme">SerpApi - Search API</a> makes it easy and fast to scrape Google and other search engines.</p>
 </div>`
 
-const logoBigDevSoon = `<div>
-    <p align="center"><a href="https://bigdevsoon.me?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/bigdevsoon-dark-mode.svg" width="160px"><source media="(prefers-color-scheme: light)" srcset="./assets/bigdevsoon-light-mode.svg" width="160px"><img alt="BigDevSoon logo" src="./assets/bigdevsoon-dark-mode.svg" width="160px"></picture></a></p>
-    <p align="center"><a href="https://bigdevsoon.me?ref=dr-pa&utm_medium=dev-resources-repo-readme">BigDevSoon</a>: Build real-world projects with Figma designs and an AI copilot in a zero-config browser IDE.</p>
+const logoTalordata = `<div>
+    <p align="center"><a href="https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/talordata-dark-mode.svg" width="80px"><source media="(prefers-color-scheme: light)" srcset="./assets/talordata-light-mode.svg" width="80px"><img alt="Talordata logo" src="./assets/talordata-dark-mode.svg" width="80px"></picture></a></p>
+    <p align="center"><a href="https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=dev-resources-repo-readme">Talordata</a>: Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses.</p>
 </div>`
 
-const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoApyhub}<br/>\n\n\n\n${logoSerpApi}<br/>\n\n\n\n${logoBigDevSoon}<br/>\n\n\n\n`
+const logoScreenshotScout = `<div>
+    <p align="center"><a href="https://screenshotscout.com/?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/screenshot-scout-dark-mode.svg" width="160px"><source media="(prefers-color-scheme: light)" srcset="./assets/screenshot-scout-light-mode.svg" width="160px"><img alt="Screenshot Scout logo" src="./assets/screenshot-scout-dark-mode.svg" width="160px"></picture></a></p>
+    <p align="center"><a href="https://screenshotscout.com/?ref=dr-pa&utm_medium=dev-resources-repo-readme">Screenshot Scout</a>: a screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request.</p>
+</div>`
+
+const sponsors = `<div align="center">Sponsored by</div><br/>\n\n${logoSerpApi}<br/>\n\n\n\n${logoTalordata}<br/>\n\n\n\n${logoScreenshotScout}<br/>\n\n\n\n`
 // const sponsors = `<div align="center">Sponsored by</div>
 //     <br/>
 //     ${logoScrapfly}
