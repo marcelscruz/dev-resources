@@ -1,5 +1,5 @@
 {
-"count": 1196,
+"count": 1197,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11687,6 +11687,21 @@
             "track videos",
             "discover viral content",
             "viral shorts"
+        ]
+    },
+    {
+        "name": "ShotLab",
+        "description": "Make your screenshots stand out with stunning backgrounds, frames, cool stickers, emojis, and more. No design skills required.",
+        "categories": [
+            "Prototyping",
+            "Screenshot"
+        ],
+        "url": "https://shotlab.pro/",
+        "keywords": [
+            "mockup",
+            "design",
+            "social",
+            "marketing"
         ]
     },
     {
