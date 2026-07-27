@@ -89,6 +89,14 @@ export const resources: Resource[] = [
         keywords: ['cms', 'headless', 'typescript', 'react', 'mongodb', 'express', 'graphql', 'rest'],
     },
     {
+        name: 'Payload Components',
+        description:
+            'An MIT registry and CLI that installs typed Payload CMS blocks into Payload v3 and Next.js projects with automated collection, renderer, type, and admin import-map wiring.',
+        categories: ['CMS', 'Programming', 'Tooling'],
+        url: 'https://www.payload-components.xyz/',
+        keywords: ['payload cms', 'next.js', 'typescript', 'shadcn', 'component registry', 'open source'],
+    },
+    {
         name: 'pCloudy',
         description:
             'Continuous testing platform that helps to speed up the app testing by enabling end to end continuous testing for enterprises.',
