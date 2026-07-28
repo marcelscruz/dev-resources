@@ -1,5 +1,5 @@
 {
-"count": 1199,
+"count": 1200,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3753,6 +3753,26 @@
             "github docs automation",
             "llm documentation update",
             "ai technical writer"
+        ]
+    },
+    {
+        "name": "DepthFeed",
+        "description": "Historical and live prediction-market order-book data APIs and MCP for backtesting Polymarket, Kalshi, Limitless, and Predict.fun.",
+        "categories": [
+            "Analytics",
+            "AI",
+            "Web3"
+        ],
+        "url": "https://depthfeed.com",
+        "keywords": [
+            "prediction markets",
+            "order book",
+            "backtesting",
+            "market data",
+            "api",
+            "mcp",
+            "polymarket",
+            "kalshi"
         ]
     },
     {
