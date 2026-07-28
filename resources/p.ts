@@ -225,6 +225,14 @@ export const resources: Resource[] = [
         keywords: ['icons', 'line icons', 'vector icons', 'iOS icons', 'Android icons'],
     },
     {
+        name: 'Planomy Tax Data',
+        description:
+            '2026 US federal tax brackets, retirement contribution limits, Social Security, Medicare IRMAA and RMD ages as JSON, each figure cited to its IRS/SSA/CMS source',
+        categories: ['Library', 'Open Source'],
+        url: 'https://github.com/demorphed6-lgtm/planomy-tax-data',
+        keywords: ['tax', 'irs', 'tax brackets', 'dataset', 'open data', 'retirement', '401k', 'ira', 'hsa'],
+    },
+    {
         name: 'Plausible',
         description:
             'Plausible is a lightweight and open-source web analytics tool. Your website data is 100% yours and the privacy of your visitors is respected.',
