@@ -174,6 +174,23 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'DepthFeed',
+        description:
+            'Historical and live prediction-market order-book data APIs and MCP for backtesting Polymarket, Kalshi, Limitless, and Predict.fun.',
+        categories: ['Analytics', 'AI', 'Web3'],
+        url: 'https://depthfeed.com',
+        keywords: [
+            'prediction markets',
+            'order book',
+            'backtesting',
+            'market data',
+            'api',
+            'mcp',
+            'polymarket',
+            'kalshi',
+        ],
+    },
+    {
         name: 'Design Resources',
         description: 'A curated list of the best design resources handpicked from around the web.',
         categories: ['Design', 'UI'],
