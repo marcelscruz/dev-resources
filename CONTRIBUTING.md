@@ -67,6 +67,7 @@ Observe that:
 -   `url` is a **string** and required.
 
     -   Must start with `http://` or `https://`.
+    -   Prefer the product's homepage — it becomes your listing's screenshot on devresourc.es, and visitors can find docs and details from there. Avoid deep links to inner pages or subdomains when the product has a homepage of its own.
 
 -   `keywords` is an **array of strings** and **optional**, used on the search feature on the website.
 
