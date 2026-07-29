@@ -277,7 +277,7 @@ export const resources: Resource[] = [
         description:
             'Global postal code dataset and API for developers, with country coverage, downloadable CSV/JSON data, API documentation, and a citable Zenodo release.',
         categories: ['API Building', 'Database', 'Open Source'],
-        url: 'https://postalcodes.info/api',
+        url: 'https://postalcodes.info',
         keywords: ['postal codes', 'postcodes', 'zip codes', 'geocoding', 'datasets', 'address validation'],
     },
     {
