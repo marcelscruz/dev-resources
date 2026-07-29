@@ -649,7 +649,7 @@ export const resources: Resource[] = [
         description:
             'Frontend interview prep platform with hands-on JavaScript, UI, and DOM-oriented coding challenges.',
         categories: ['Code Challenge', 'Learn', 'Programming'],
-        url: 'https://frontendatlas.com/coding',
+        url: 'https://frontendatlas.com',
         keywords: [
             'frontend',
             'javascript',
