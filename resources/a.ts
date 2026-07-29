@@ -121,7 +121,7 @@ export const resources: Resource[] = [
         description:
             'Self-improving QA agent for web and mobile apps with natural-language tests, run memory, UI-change adaptation, and regression detection before shipping.',
         categories: ['AI', 'Testing', 'Tooling'],
-        url: 'https://github.com',
+        url: 'https://github.com/vostride/agent-qa',
         keywords: ['ai', 'testing', 'qa', 'web', 'mobile', 'regression testing', 'natural language tests'],
     },
     {
