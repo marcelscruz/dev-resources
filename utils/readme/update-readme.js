@@ -39,9 +39,15 @@ const sponsorsData = (() => {
 })()
 
 const sponsorBlocks = sponsorsData.map(
-    s => `<div>
-    <p align="center"><a href="${s.link}"><picture><source media="(prefers-color-scheme: dark)" srcset="./${s.logoDark}" width="${s.width}px"><source media="(prefers-color-scheme: light)" srcset="./${s.logoLight}" width="${s.width}px"><img alt="${s.name} logo" src="./${s.logoDark}" width="${s.width}px"></picture></a></p>
-    <p align="center"><a href="${s.link}">${s.name}</a>${s.blurb ? (/^[a-z]/.test(s.blurb) ? ' ' : ': ') + s.blurb : ''}</p>
+    (s) => `<div>
+    <p align="center"><a href="${s.link}"><picture><source media="(prefers-color-scheme: dark)" srcset="./${
+        s.logoDark
+    }" width="${s.width}px"><source media="(prefers-color-scheme: light)" srcset="./${s.logoLight}" width="${
+        s.width
+    }px"><img alt="${s.name} logo" src="./${s.logoDark}" width="${s.width}px"></picture></a></p>
+    <p align="center"><a href="${s.link}">${s.name}</a>${
+        s.blurb ? (/^[a-z]/.test(s.blurb) ? ' ' : ': ') + s.blurb : ''
+    }</p>
 </div>`,
 )
 
