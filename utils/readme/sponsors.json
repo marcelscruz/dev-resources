@@ -1,14 +1,14 @@
 [
     {
         "name": "SerpApi - Search API",
-        "link": "https://serpapi.com?ref=dr-pa&utm_medium=dev-resources-repo-readme",
+        "link": "https://serpapi.com/?ref=dr-pa&utm_medium=dev-resources-repo-readme",
         "blurb": "makes it easy and fast to scrape Google and other search engines.",
         "logoDark": "assets/serpapi-dark-mode.svg",
         "logoLight": "assets/serpapi-light-mode.svg",
         "width": 150
     },
     {
-        "name": "Talordata",
+        "name": "TalorData",
         "link": "https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=dev-resources-repo-readme",
         "blurb": "Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses.",
         "logoDark": "assets/talordata-dark-mode.svg",
