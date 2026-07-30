@@ -3,7 +3,7 @@
  <div align="center">Sponsored by</div><br/>
 
 <div>
-    <p align="center"><a href="https://serpapi.com?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/serpapi-dark-mode.svg" width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/serpapi-light-mode.svg" width="150px"><img alt="SerpApi logo" src="./assets/serpapi-dark-mode.svg" width="150px"></picture></a></p>
+    <p align="center"><a href="https://serpapi.com?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/serpapi-dark-mode.svg" width="150px"><source media="(prefers-color-scheme: light)" srcset="./assets/serpapi-light-mode.svg" width="150px"><img alt="SerpApi - Search API logo" src="./assets/serpapi-dark-mode.svg" width="150px"></picture></a></p>
     <p align="center"><a href="https://serpapi.com?ref=dr-pa&utm_medium=dev-resources-repo-readme">SerpApi - Search API</a> makes it easy and fast to scrape Google and other search engines.</p>
 </div><br/>
 
@@ -18,7 +18,7 @@
 
 <div>
     <p align="center"><a href="https://screenshotscout.com/?ref=dr-pa&utm_medium=dev-resources-repo-readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/screenshot-scout-dark-mode.svg" width="160px"><source media="(prefers-color-scheme: light)" srcset="./assets/screenshot-scout-light-mode.svg" width="160px"><img alt="Screenshot Scout logo" src="./assets/screenshot-scout-dark-mode.svg" width="160px"></picture></a></p>
-    <p align="center"><a href="https://screenshotscout.com/?ref=dr-pa&utm_medium=dev-resources-repo-readme">Screenshot Scout</a>: a screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request.</p>
+    <p align="center"><a href="https://screenshotscout.com/?ref=dr-pa&utm_medium=dev-resources-repo-readme">Screenshot Scout</a>: A screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request.</p>
 </div><br/>
 
 
