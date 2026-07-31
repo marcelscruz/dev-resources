@@ -1,8 +1,8 @@
 [
     {
-        "name": "SerpApi - Search API",
+        "name": "SerpApi",
         "link": "https://serpapi.com/?ref=dr-pa&utm_medium=dev-resources-repo-readme",
-        "blurb": "makes it easy and fast to scrape Google and other search engines.",
+        "blurb": "Search API that makes it easy and fast to scrape Google and other search engines.",
         "logoDark": "assets/serpapi-dark-mode.svg",
         "logoLight": "assets/serpapi-light-mode.svg",
         "width": 150
