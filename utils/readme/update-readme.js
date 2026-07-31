@@ -46,7 +46,7 @@ const sponsorBlocks = sponsorsData.map(
         s.width
     }px"><img alt="${s.name} logo" src="./${s.logoDark}" width="${s.width}px"></picture></a></p>
     <p align="center"><a href="${s.link}">${s.name}</a>${
-        s.blurb ? (/^[a-z]/.test(s.blurb) ? ' ' : ': ') + s.blurb : ''
+        s.blurb ? ': ' + s.blurb : ''
     }</p>
 </div>`,
 )
