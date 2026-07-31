@@ -8,6 +8,14 @@
         "width": 150
     },
     {
+        "name": "Screenshot Scout",
+        "link": "https://screenshotscout.com/?ref=dr-pa&utm_medium=dev-resources-repo-readme",
+        "blurb": "A screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request.",
+        "logoDark": "assets/screenshot-scout-dark-mode.svg",
+        "logoLight": "assets/screenshot-scout-light-mode.svg",
+        "width": 160
+    },
+    {
         "name": "TalorData",
         "link": "https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=dev-resources-repo-readme",
         "blurb": "Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses.",
@@ -16,11 +24,11 @@
         "width": 80
     },
     {
-        "name": "Screenshot Scout",
-        "link": "https://screenshotscout.com/?ref=dr-pa&utm_medium=dev-resources-repo-readme",
-        "blurb": "A screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request.",
-        "logoDark": "assets/screenshot-scout-dark-mode.svg",
-        "logoLight": "assets/screenshot-scout-light-mode.svg",
-        "width": 160
+        "name": "CoreClaw",
+        "link": "https://coreclaw.com?ref=dr-pa&utm_medium=dev-resources-repo-readme",
+        "blurb": "",
+        "logoDark": "assets/coreclaw-dark-mode.png",
+        "logoLight": "assets/coreclaw-light-mode.svg",
+        "width": 165
     }
 ]
