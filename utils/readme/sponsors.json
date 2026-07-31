@@ -26,7 +26,7 @@
     {
         "name": "CoreClaw",
         "link": "https://coreclaw.com?ref=dr-pa&utm_medium=dev-resources-repo-readme",
-        "blurb": "",
+        "blurb": "Real-time public data, ready to use. Extract web data from Amazon, TikTok, Google Maps and more with 100+ ready-made tools.",
         "logoDark": "assets/coreclaw-dark-mode.png",
         "logoLight": "assets/coreclaw-light-mode.svg",
         "width": 165
