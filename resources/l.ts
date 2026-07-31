@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Lacuna',
+        description:
+            'AI music platform with a developer API: generate full songs with vocals and lyrics, or instrumentals, plus stem separation and mastering. Official TypeScript SDK, CLI, and MCP server on npm.',
+        categories: ['Audio', 'AI'],
+        url: 'https://lacuna.fm',
+        keywords: ['music', 'audio', 'generation', 'api'],
+    },
+    {
         name: 'Ladybug',
         description: 'We’re debugging the tech industry. Every Monday.',
         categories: ['Podcast', 'Programming'],
