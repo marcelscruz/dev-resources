@@ -156,6 +156,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://jsonify.com&sz=128" width="16" /> | [Jsonify](https://jsonify.com) | Jsonify is an AI "data intern" in the cloud -- an intelligent AI agent that can automate data collection and maintenance tasks involving the web and documents. Never update a spreadsheet yourself agai... |  |
  <img src="https://www.google.com/s2/favicons?domain=https://kitops.ml/&sz=128" width="16" /> | [KitOps](https://kitops.ml/) | Simple, secure, and reproducible packaging for AI/ML projects | ai, ml, productivity, devops |
  <img src="https://www.google.com/s2/favicons?domain=https://www.kraftful.com/&sz=128" width="16" /> | [Kraftful](https://www.kraftful.com/) | Copilot for product teams | Research, Productivity, User Experience, Summarization, Business, Collaboration, Chatbot, Data analy... |
+ <img src="https://www.google.com/s2/favicons?domain=https://lacuna.fm&sz=128" width="16" /> | [Lacuna](https://lacuna.fm) | AI music platform with a developer API: generate full songs with vocals and lyrics, or instrumentals, plus stem separation and mastering. Official TypeScript SDK, CLI, and MCP server on npm. | music, audio, generation, api |
  <img src="https://www.google.com/s2/favicons?domain=https://landing-ai.com/&sz=128" width="16" /> | [Landing AI](https://landing-ai.com/) | Make a stunning landing page with AI in seconds. Get your perfect copywriting, color board, logo and illustrations thanks to generative Artificial Intelligence. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://landingpro.ai/&sz=128" width="16" /> | [LandingPro AI](https://landingpro.ai/) | AI that writes website copy that actually sell | marketing, ai |
  <img src="https://www.google.com/s2/favicons?domain=https://largemi.com&sz=128" width="16" /> | [LargeMI](https://largemi.com) | LargeMI is a curated directory of AI tools focused on productivity, development, content creation, and business use cases, helping users discover and explore modern AI products through clear categoriz... | ai tools, ai directory, developer productivity, generative ai |
@@ -330,6 +331,7 @@
 ### <a name="audio">Audio</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://lacuna.fm&sz=128" width="16" /> | [Lacuna](https://lacuna.fm) | AI music platform with a developer API: generate full songs with vocals and lyrics, or instrumentals, plus stem separation and mastering. Official TypeScript SDK, CLI, and MCP server on npm. | music, audio, generation, api |
  <img src="https://www.google.com/s2/favicons?domain=https://www.soundstripe.com/&sz=128" width="16" /> | [Soundstripe](https://www.soundstripe.com/) | Every creator's one-stop shop for the best royalty free music, SFX, and stock video. Purchase a license for one file, or subscribe for unlimited access. |  |
 
 **[⬆ Back to Index](#index)**

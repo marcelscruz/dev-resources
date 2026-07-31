@@ -1,5 +1,5 @@
 {
-"count": 1199,
+"count": 1200,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7457,6 +7457,21 @@
             "kubevirt",
             "vps",
             "devops"
+        ]
+    },
+    {
+        "name": "Lacuna",
+        "description": "AI music platform with a developer API: generate full songs with vocals and lyrics, or instrumentals, plus stem separation and mastering. Official TypeScript SDK, CLI, and MCP server on npm.",
+        "categories": [
+            "Audio",
+            "AI"
+        ],
+        "url": "https://lacuna.fm",
+        "keywords": [
+            "music",
+            "audio",
+            "generation",
+            "api"
         ]
     },
     {
