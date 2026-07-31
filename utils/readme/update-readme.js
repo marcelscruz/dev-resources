@@ -45,9 +45,7 @@ const sponsorBlocks = sponsorsData.map(
     }" width="${s.width}px"><source media="(prefers-color-scheme: light)" srcset="./${s.logoLight}" width="${
         s.width
     }px"><img alt="${s.name} logo" src="./${s.logoDark}" width="${s.width}px"></picture></a></p>
-    <p align="center"><a href="${s.link}">${s.name}</a>${
-        s.blurb ? ': ' + s.blurb : ''
-    }</p>
+    <p align="center"><a href="${s.link}">${s.name}</a>${s.blurb ? ': ' + s.blurb : ''}</p>
 </div>`,
 )
 
