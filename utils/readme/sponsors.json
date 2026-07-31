@@ -5,7 +5,7 @@
         "blurb": "Search API that makes it easy and fast to scrape Google and other search engines.",
         "logoDark": "assets/serpapi-dark-mode.svg",
         "logoLight": "assets/serpapi-light-mode.svg",
-        "width": 140
+        "width": 116
     },
     {
         "name": "Screenshot Scout",
@@ -13,7 +13,7 @@
         "blurb": "A screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request.",
         "logoDark": "assets/screenshot-scout-dark-mode.svg",
         "logoLight": "assets/screenshot-scout-light-mode.svg",
-        "width": 267
+        "width": 220
     },
     {
         "name": "TalorData",
@@ -21,7 +21,7 @@
         "blurb": "Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses.",
         "logoDark": "assets/talordata-dark-mode.svg",
         "logoLight": "assets/talordata-light-mode.svg",
-        "width": 84
+        "width": 69
     },
     {
         "name": "CoreClaw",
@@ -29,6 +29,6 @@
         "blurb": "Real-time public data, ready to use. Extract web data from Amazon, TikTok, Google Maps and more with 100+ ready-made tools.",
         "logoDark": "assets/coreclaw-dark-mode.png",
         "logoLight": "assets/coreclaw-light-mode.svg",
-        "width": 165
+        "width": 136
     }
 ]
