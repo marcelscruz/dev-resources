@@ -1732,6 +1732,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://zapkit.dev/&sz=128" width="16" /> | [ZapKit](https://zapkit.dev/) | ZapKit is a Laravel boilerplate powered by AI that helps you build a Laravel application within minutes. | boilerplate, startup, starter kit, ai, sass |
 
 **[⬆ Back to Index](#index)**
+- [WeekLife](https://letmethink.cc/app/weeklife/) - A lightweight life check-in tool for reclaiming everyday life beyond work.
 
 ### <a name="programming">Programming</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
