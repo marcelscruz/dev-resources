@@ -1,5 +1,5 @@
 {
-"count": 1200,
+"count": 1201,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11459,6 +11459,24 @@
             "library",
             "framework",
             "javascript"
+        ]
+    },
+    {
+        "name": "Semaphore",
+        "description": "Turn images into ASCII and Braille art locally in the browser, with plain-text and PNG exports and no uploads, accounts, or analytics.",
+        "categories": [
+            "Image",
+            "Tooling",
+            "Open Source"
+        ],
+        "url": "https://semaphore.bobochang.cn",
+        "keywords": [
+            "image to ascii",
+            "ascii art",
+            "braille art",
+            "client-side",
+            "local-first",
+            "privacy"
         ]
     },
     {
