@@ -170,6 +170,14 @@ export const resources: Resource[] = [
         keywords: ['html5', 'ui', 'library', 'framework', 'javascript'],
     },
     {
+        name: 'Semaphore',
+        description:
+            'Turn images into ASCII and Braille art locally in the browser, with plain-text and PNG exports and no uploads, accounts, or analytics.',
+        categories: ['Image', 'Tooling', 'Open Source'],
+        url: 'https://semaphore.bobochang.cn',
+        keywords: ['image to ascii', 'ascii art', 'braille art', 'client-side', 'local-first', 'privacy'],
+    },
+    {
         name: 'SEO Blueprint',
         description: 'Cutting-edge SEO tactics that are actually ranking websites.',
         categories: ['SEO'],
