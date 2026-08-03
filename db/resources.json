@@ -1,5 +1,5 @@
 {
-"count": 1201,
+"count": 1202,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6700,6 +6700,23 @@
             "maps",
             "flags",
             "animated icons"
+        ]
+    },
+    {
+        "name": "IconKing",
+        "description": "Free browser-based Lottie animation previewer, color editor, and .json ↔ .lottie format converter. 100% client-side — no upload, no account needed.",
+        "categories": [
+            "Animation",
+            "Design"
+        ],
+        "url": "https://iconking.net",
+        "keywords": [
+            "lottie",
+            "lottie animation",
+            "dotlottie",
+            "animation preview",
+            "lottie converter",
+            "lottie editor"
         ]
     },
     {
