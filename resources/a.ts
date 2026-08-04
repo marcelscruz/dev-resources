@@ -319,8 +319,8 @@ export const resources: Resource[] = [
         categories: ['Domain'],
         url: 'https://www.apextowww.com/',
         keywords: ['dns', 'domain', 'redirect', 'apex domain', 'naked domain', '301 redirect', 'www'],
-     },
-     {
+    },
+    {
         name: 'AntForms',
         description: 'Unlimited free submissions + free analytics + integrations + AI + fastest support',
         categories: ['Productivity', 'Website Builder', 'Tooling'],
