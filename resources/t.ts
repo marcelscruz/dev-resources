@@ -396,7 +396,7 @@ export const resources: Resource[] = [
         categories: ['Analytics', 'Marketing', 'Tooling'],
         url: 'https://trackingcoder.com/',
         keywords: ['website tracking', 'conversion tracking', 'ads tracking', 'google analytics'],
-    },  
+    },
     {
         name: 'Trails',
         description: 'The easiest way to document your process',
