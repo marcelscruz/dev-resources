@@ -499,7 +499,7 @@ export const resources: Resource[] = [
         description: 'Automation platform for SEO, Web and Content Teams',
         categories: ['Marketing', 'SEO', 'AI'],
         url: 'https://slatehq.com/',
-        keywords: ['ai seo', 'content automation', 'seo tools', 'ai writing'], 
+        keywords: ['ai seo', 'content automation', 'seo tools', 'ai writing'],
     },
     {
         name: 'SlingSite',
