@@ -95,6 +95,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Causeway',
+        description:
+            'Give your AI a real Chromium browser: Causeway exposes 52 MCP tools to navigate, read, click, type, screenshot, and run JavaScript through CDP.',
+        categories: ['Browser', 'Tooling', 'AI'],
+        url: 'https://wildernessinteractive.com/causeway',
+        keywords: ['mcp', 'browser automation', 'chromium', 'chrome devtools protocol', 'rust', 'ai agents'],
+    },
+    {
         name: 'Cert Decoder',
         description:
             'Cert Decoder is a free online tool for decoding X.509 SSL/TLS certificates in PEM format directly in your browser.',
