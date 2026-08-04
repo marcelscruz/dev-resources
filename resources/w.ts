@@ -96,6 +96,14 @@ export const resources: Resource[] = [
         url: 'https://weworkremotely.com/',
     },
     {
+        name: 'WealthVille',
+        description:
+            'Scores DeFi liquidity pools so you can tell whether one is worth providing liquidity to. Covers Solana and EVM pools, returning a 0-100 score and an Enter/Hold/Exit verdict, with a public track record that includes the misses. Free keyless REST API and an MCP server for AI agents.',
+        categories: ['Web3', 'Analytics'],
+        url: 'https://wealthville.net/developers',
+        keywords: ['DeFi', 'liquidity pools', 'Solana', 'EVM', 'API', 'MCP'],
+    },
+    {
         name: 'Web Code Tools',
         description:
             'Web Code Tools is a suite of code generators for HTML, CSS, Meta Tags, Open Graph, Structured Data, Twitter Cards and more.',
@@ -149,6 +157,14 @@ export const resources: Resource[] = [
             'A showcase of beautiful and well designed web app screens for design inspiration. Including screens from behind signup/paywalls! 😱.',
         categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://webframe.xyz/',
+    },
+    {
+        name: 'Webinspoo',
+        description:
+            'A curated SaaS web design inspiration gallery featuring the best landing pages, UI patterns, and product pages for designers, developers, and founders.',
+        categories: ['Design', 'Inspiration', 'UI'],
+        url: 'https://webinspoo.com',
+        keywords: ['web design inspiration', 'website gallery', 'landing page ideas', 'UI inspiration'],
     },
     {
         name: 'WebPagetest',

@@ -51,6 +51,14 @@ export const resources: Resource[] = [
         url: 'https://dailyremote.com/',
     },
     {
+        name: 'DailyTips',
+        description:
+            'A 5-minute daily read on decisions, logic, distribution, and the thinking that turns code into products people use.',
+        categories: ['Blog', 'Learn'],
+        url: 'https://dailytips.dev',
+        keywords: ['tips', 'programming', 'daily', 'product thinking', 'software development'],
+    },
+    {
         name: 'daisyUI',
         description: 'Tailwind CSS Components plugin — daisyUI tailwind component library',
         categories: ['Library', 'Programming', 'UI'],
@@ -163,6 +171,23 @@ export const resources: Resource[] = [
             'github docs automation',
             'llm documentation update',
             'ai technical writer',
+        ],
+    },
+    {
+        name: 'DepthFeed',
+        description:
+            'Historical and live prediction-market order-book data APIs and MCP for backtesting Polymarket, Kalshi, Limitless, and Predict.fun.',
+        categories: ['Analytics', 'AI', 'Web3'],
+        url: 'https://depthfeed.com',
+        keywords: [
+            'prediction markets',
+            'order book',
+            'backtesting',
+            'market data',
+            'api',
+            'mcp',
+            'polymarket',
+            'kalshi',
         ],
     },
     {
@@ -449,6 +474,13 @@ export const resources: Resource[] = [
             'Instantly search across 1000+ new domain name extensions. Generate clever names, compare registry prices, and list popular examples per TLD.',
         categories: ['Domain'],
         url: 'https://domain.garden/',
+    },
+    {
+        name: 'Domainee',
+        description: 'Custom Domains & Domain Purchasing API for SaaS',
+        categories: ['Domain', 'Tooling', 'Startup'],
+        url: 'https://domainee.dev/',
+        keywords: ['developer tool', 'custom domains api', 'white label domains', 'saas infrastructure'],
     },
     {
         name: 'Dotnet Gig',

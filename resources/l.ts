@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Lacuna',
+        description:
+            'AI music platform with a developer API: generate full songs with vocals and lyrics, or instrumentals, plus stem separation and mastering. Official TypeScript SDK, CLI, and MCP server on npm.',
+        categories: ['Audio', 'AI'],
+        url: 'https://lacuna.fm',
+        keywords: ['music', 'audio', 'generation', 'api'],
+    },
+    {
         name: 'Ladybug',
         description: 'We’re debugging the tech industry. Every Monday.',
         categories: ['Podcast', 'Programming'],
@@ -370,6 +378,13 @@ export const resources: Resource[] = [
         url: 'https://lobste.rs/',
     },
     {
+        name: 'LocalChat.app',
+        description: 'Local-first MacOS AI application - 100% Private, Works Fully Offline',
+        categories: ['AI', 'Productivity', 'Security'],
+        url: 'https://www.localchat.app/',
+        keywords: ['ai chat', 'private', 'productivity tool', 'ollama alternative'],
+    },
+    {
         name: 'LocalStack',
         description:
             'LocalStack is a cloud service emulator that runs in a single container on your laptop or in your CI environment. With LocalStack, you can run your AWS applications or Lambdas entirely on your local machine without connecting to a remote cloud provider!',
@@ -384,6 +399,14 @@ export const resources: Resource[] = [
             'cloud emulator',
             'serverless',
         ],
+    },
+    {
+        name: 'LogoInspo',
+        description:
+            'The ultimate logo design inspiration library with 1,200+ hand-picked real and fictional logos searchable by style, industry, and color.',
+        categories: ['Logo', 'Design', 'Inspiration'],
+        url: 'https://logoinspo.com',
+        keywords: ['logo inspiration', 'branding', 'logo design', 'brand marks'],
     },
     {
         name: 'Logology',

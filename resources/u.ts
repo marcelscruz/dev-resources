@@ -100,6 +100,14 @@ export const resources: Resource[] = [
         url: 'https://uiverse.io/',
     },
     {
+        name: 'UIZZE',
+        description:
+            'Fix AI UI slop before it ships with a free-to-browse Web and iOS reference catalog plus full-access research tools for coding agents.',
+        categories: ['AI', 'Design', 'UI'],
+        url: 'https://uizze.com',
+        keywords: ['ai agents', 'coding agents', 'ui reference', 'web ui', 'ios ui', 'mcp', 'anti-slop'],
+    },
+    {
         name: 'Ultimate Web Speed',
         description:
             'Improve your website performance and SEO in hours not days. Use our tools and compare features, ease of use, and compatibility of resources.',
@@ -134,6 +142,13 @@ export const resources: Resource[] = [
             'The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.',
         categories: ['Illustration'],
         url: 'https://undraw.co/',
+    },
+    {
+        name: 'unlearn.dev',
+        description:
+            'Unlearn.dev is developer education for the AI era and beyond. It helps engineers turn AI into a 24/7 execution team while strengthening the judgment, architecture, and evaluation skills that make developers irreplaceable.',
+        categories: ['AI', 'Learn', 'Programming'],
+        url: 'https://unlearn.dev/',
     },
     {
         name: 'Unscreen',

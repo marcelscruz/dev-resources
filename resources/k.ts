@@ -102,4 +102,12 @@ export const resources: Resource[] = [
             'Tech & Development',
         ],
     },
+    {
+        name: 'Kube-DC Cloud',
+        description:
+            'A Kubernetes-native cloud platform to manage VMs, Kubernetes clusters, databases, and networks via manifests, AI assistants, or a real-time web console — all running in a fixed-price resource pool starting at €19/mo, hosted in Amsterdam.',
+        categories: ['Hosting', 'Cloud Computing'],
+        url: 'https://kube-dc.cloud/',
+        keywords: ['kubernetes', 'cloud hosting', 'kubevirt', 'vps', 'devops'],
+    },
 ]
