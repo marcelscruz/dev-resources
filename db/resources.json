@@ -1,5 +1,5 @@
 {
-"count": 1203,
+"count": 1204,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1925,6 +1925,24 @@
             "api",
             "wayback",
             "domainer"
+        ]
+    },
+    {
+        "name": "Causeway",
+        "description": "Give your AI a real Chromium browser: Causeway exposes 52 MCP tools to navigate, read, click, type, screenshot, and run JavaScript through CDP.",
+        "categories": [
+            "Browser",
+            "Tooling",
+            "AI"
+        ],
+        "url": "https://wildernessinteractive.com/causeway",
+        "keywords": [
+            "mcp",
+            "browser automation",
+            "chromium",
+            "chrome devtools protocol",
+            "rust",
+            "ai agents"
         ]
     },
     {
