@@ -270,6 +270,14 @@ export const resources: Resource[] = [
         keywords: ['icons', 'svg icons', 'open source icons'],
     },
     {
+        name: 'All Tools Verse',
+        description:
+            'A searchable collection of 1,000+ free browser tools, with 97 developer utilities for JSON, CSV, SQL, regex, encoding, CSS, and APIs.',
+        categories: ['Tooling', 'Programming', 'Browser'],
+        url: 'https://alltoolsverse.com/',
+        keywords: ['developer tools', 'browser tools', 'json', 'csv', 'sql', 'regex', 'encoding', 'css', 'api utilities'],
+    },
+    {
         name: 'ally.js',
         description:
             'JavaScript library to help modern web applications with accessibility concerns by making accessibility simpler.',
