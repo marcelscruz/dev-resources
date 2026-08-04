@@ -410,7 +410,7 @@ export const resources: Resource[] = [
         description: 'Prompt manager for Mac to organize, schedule, and copy reusable AI prompts',
         categories: ['Productivity', 'AI', 'Library'],
         url: 'https://promptplanner.app/',
-        keywords: ['prompt library', 'prompt manager', 'prompt management', 'prompt engineering'], 
+        keywords: ['prompt library', 'prompt manager', 'prompt management', 'prompt engineering'],
     },
     {
         name: 'Proxed.AI',

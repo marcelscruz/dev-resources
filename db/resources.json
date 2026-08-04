@@ -1,5 +1,5 @@
 {
-"count": 1212,
+"count": 1213,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10273,6 +10273,22 @@
             "social network",
             "social",
             "prompt generator"
+        ]
+    },
+    {
+        "name": "PromptPlanner",
+        "description": "Prompt manager for Mac to organize, schedule, and copy reusable AI prompts",
+        "categories": [
+            "Productivity",
+            "AI",
+            "Library"
+        ],
+        "url": "https://promptplanner.app/",
+        "keywords": [
+            "prompt library",
+            "prompt manager",
+            "prompt management",
+            "prompt engineering"
         ]
     },
     {
