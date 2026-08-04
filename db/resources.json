@@ -1,5 +1,5 @@
 {
-"count": 1207,
+"count": 1208,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3272,6 +3272,22 @@
             "vector",
             "graphics",
             "3d"
+        ]
+    },
+    {
+        "name": "CrawlRaven",
+        "description": "Professional SEO audits with 200+ checks and prioritized fixes",
+        "categories": [
+            "SEO",
+            "Marketing",
+            "Scraping"
+        ],
+        "url": "https://www.crawlraven.com/",
+        "keywords": [
+            "marketing",
+            "seo audit",
+            "technical seo",
+            "site crawler"
         ]
     },
     {

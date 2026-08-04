@@ -1100,7 +1100,7 @@ export const resources: Resource[] = [
         description: 'Professional SEO audits with 200+ checks and prioritized fixes',
         categories: ['SEO', 'Marketing', 'Scraping'],
         url: 'https://www.crawlraven.com/',
-        keywords: ['marketing', 'seo audit', 'technical seo', 'site crawler'], 
+        keywords: ['marketing', 'seo audit', 'technical seo', 'site crawler'],
     },
     {
         name: 'CreativesFeed',
