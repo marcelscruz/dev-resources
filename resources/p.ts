@@ -316,6 +316,14 @@ export const resources: Resource[] = [
         keywords: ['cv', 'LaTeX'],
     },
     {
+        name: 'PR Radar',
+        description:
+            'Free, open-source browser extension for a unified PR dashboard across GitHub, GitLab, and Bitbucket. CI status, review tracking, notifications, and keyboard shortcuts.',
+        categories: ['Extension', 'Open Source', 'Tooling'],
+        url: 'https://github.com/deployhq/pr-radar',
+        keywords: ['pull requests', 'code review', 'CI', 'GitHub', 'GitLab', 'Bitbucket'],
+    },
+    {
         name: 'PracHub',
         description:
             'Practice 8,500+ real tech-interview questions from 400+ top companies — coding, SQL, ML, and system design — in an in-browser console with AI-assisted hints.',
