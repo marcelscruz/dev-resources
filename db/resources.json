@@ -1,5 +1,5 @@
 {
-"count": 1206,
+"count": 1207,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10097,6 +10097,24 @@
         "keywords": [
             "cv",
             "LaTeX"
+        ]
+    },
+    {
+        "name": "PR Radar",
+        "description": "Free, open-source browser extension for a unified PR dashboard across GitHub, GitLab, and Bitbucket. CI status, review tracking, notifications, and keyboard shortcuts.",
+        "categories": [
+            "Extension",
+            "Open Source",
+            "Tooling"
+        ],
+        "url": "https://github.com/deployhq/pr-radar",
+        "keywords": [
+            "pull requests",
+            "code review",
+            "CI",
+            "GitHub",
+            "GitLab",
+            "Bitbucket"
         ]
     },
     {
