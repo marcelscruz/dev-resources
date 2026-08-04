@@ -238,6 +238,14 @@ export const resources: Resource[] = [
         keywords: ['ai search', 'enterprise search', 'ai assistant', 'knowledge management'],
     },
     {
+        name: 'Related Repos',
+        description:
+            'Related Repos helps developers to discover open source projects that are related to each other. This can be useful to find alternative or complementary packages when building a full application. Data and results are updated daily.',
+        categories: ['Open Source', 'Programming', 'Extension'],
+        url: 'https://relatedrepos.com/',
+        keywords: ['github', 'open source', 'repository', 'discovery', 'software', 'programming', 'alternatives'],
+    },
+    {
         name: 'ReleaseRun',
         description:
             'Track software releases across the dev ecosystem. Get real-time version monitoring for Node.js, Python, Go, Rust, Kubernetes, PostgreSQL, and more — with free tools for dependency health checks, K8s security scanning, and CI/CD analysis.',
