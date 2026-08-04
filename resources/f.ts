@@ -246,6 +246,29 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'FontGlyph',
+        description:
+            'Create custom web icon fonts from SVG and PNG files with color and monochrome icons, privacy-first processing and CDN publishing.',
+        categories: ['Icon', 'Font', 'Tooling'],
+        url: 'https://fontglyph.com',
+        keywords: [
+            'font',
+            'icon',
+            'tooling',
+            'design',
+            'CDN',
+            'SVG',
+            'WOFF2',
+            'webfont',
+            'icon font',
+            'font generator',
+            'SVG to WOFF2',
+            'color glyphs',
+            'monochrome icons',
+            'custom icons'
+        ],
+    },
+    {
         name: 'Font Get',
         description:
             'Download Free Fonts for your website, Mac, Windows, Linux, iOS and Android. Try our best in class Font Generator for every kind of font!',
