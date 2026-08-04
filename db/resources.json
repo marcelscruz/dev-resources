@@ -1,5 +1,5 @@
 {
-"count": 1215,
+"count": 1216,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9016,6 +9016,22 @@
             "mobile emulator",
             "app testing",
             "iOS testing"
+        ]
+    },
+    {
+        "name": "Nearbase",
+        "description": "Affordable managed Postgres in Asia",
+        "categories": [
+            "Database",
+            "Hosting",
+            "Cloud Computing"
+        ],
+        "url": "https://nearbase.dev/",
+        "keywords": [
+            "database",
+            "postgreSQL",
+            "dbaaS",
+            "postgres hosting"
         ]
     },
     {
