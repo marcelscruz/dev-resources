@@ -4,7 +4,9 @@ Please ensure all items below are checked before creating a pull request:
 
 -   [ ] My changes were made in the `resources` folder, not in the auto-generated `README.md` file or `db` folder
 -   [ ] The resource is _highly_ or _exclusively_ related to **programming** and **development**
+-   [ ] My submission meets the What we accept criteria in the [contributing guide](CONTRIBUTING.md)
 -   [ ] My submission is formatted according to the guidelines in the [contributing guide](CONTRIBUTING.md)
 -   [ ] My submission is ordered alphabetically based on the resource `name`
 -   [ ] My submission has a useful description
+-   [ ] The URL points to the product's homepage (not a deep link, docs page or subdomain), where applicable
 -   [ ] I have searched the repository for any relevant issues or pull requests

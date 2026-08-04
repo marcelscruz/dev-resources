@@ -2,6 +2,21 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'PageGuard',
+        description:
+            'Free all-in-one website health scanner. Checks SEO, ADA/WCAG accessibility, Core Web Vitals performance, and best practices in one scan. Paid plans add automated monitoring and alerts.',
+        categories: ['SEO', 'Accessibility', 'Performance'],
+        url: 'https://pageguard.org',
+        keywords: [
+            'SEO checker',
+            'accessibility checker',
+            'ADA compliance',
+            'website health',
+            'WCAG',
+            'Core Web Vitals',
+        ],
+    },
+    {
         name: 'PageGym',
         description: 'Advanced page speed analysis and optimization tool.',
         categories: ['Performance'],
@@ -72,6 +87,14 @@ export const resources: Resource[] = [
         categories: ['CMS'],
         url: 'https://payloadcms.com/',
         keywords: ['cms', 'headless', 'typescript', 'react', 'mongodb', 'express', 'graphql', 'rest'],
+    },
+    {
+        name: 'Payload Components',
+        description:
+            'An MIT registry and CLI that installs typed Payload CMS blocks into Payload v3 and Next.js projects with automated collection, renderer, type, and admin import-map wiring.',
+        categories: ['CMS', 'Programming', 'Tooling'],
+        url: 'https://www.payload-components.xyz/',
+        keywords: ['payload cms', 'next.js', 'typescript', 'shadcn', 'component registry', 'open source'],
     },
     {
         name: 'pCloudy',
@@ -202,6 +225,14 @@ export const resources: Resource[] = [
         keywords: ['icons', 'line icons', 'vector icons', 'iOS icons', 'Android icons'],
     },
     {
+        name: 'Planomy Tax Data',
+        description:
+            '2026 US federal tax brackets, retirement contribution limits, Social Security, Medicare IRMAA and RMD ages as JSON, each figure cited to its IRS/SSA/CMS source',
+        categories: ['Library', 'Open Source'],
+        url: 'https://github.com/demorphed6-lgtm/planomy-tax-data',
+        keywords: ['tax', 'irs', 'tax brackets', 'dataset', 'open data', 'retirement', '401k', 'ira', 'hsa'],
+    },
+    {
         name: 'Plausible',
         description:
             'Plausible is a lightweight and open-source web analytics tool. Your website data is 100% yours and the privacy of your visitors is respected.',
@@ -256,6 +287,13 @@ export const resources: Resource[] = [
         url: 'https://www.postman.com/',
     },
     {
+        name: 'PostPeer',
+        description: 'Social media posting API for cross-platform posting and scheduling',
+        categories: ['Social Media', 'Programming', 'Marketing'],
+        url: 'https://www.postpeer.dev/',
+        keywords: ['social media api', 'developer tools', 'api', 'social media automation'],
+    },
+    {
         name: 'Powerdrill',
         description:
             'An AI data analysis tool that supports auto-generation of data visuals, data reports, and PPT from your data',
@@ -276,6 +314,22 @@ export const resources: Resource[] = [
         categories: ['Resume', 'Job', 'Productivity'],
         url: 'https://ppresume.com',
         keywords: ['cv', 'LaTeX'],
+    },
+    {
+        name: 'PR Radar',
+        description:
+            'Free, open-source browser extension for a unified PR dashboard across GitHub, GitLab, and Bitbucket. CI status, review tracking, notifications, and keyboard shortcuts.',
+        categories: ['Extension', 'Open Source', 'Tooling'],
+        url: 'https://github.com/deployhq/pr-radar',
+        keywords: ['pull requests', 'code review', 'CI', 'GitHub', 'GitLab', 'Bitbucket'],
+    },
+    {
+        name: 'PracHub',
+        description:
+            'Practice 8,500+ real tech-interview questions from 400+ top companies — coding, SQL, ML, and system design — in an in-browser console with AI-assisted hints.',
+        categories: ['Interview', 'Learn', 'Code Challenge'],
+        url: 'https://prachub.com',
+        keywords: ['interview', 'coding interview', 'leetcode alternative', 'system design', 'sql', 'machine learning'],
     },
     {
         name: 'Prime',
@@ -350,6 +404,13 @@ export const resources: Resource[] = [
         categories: ['Productivity', 'AI', 'Library'],
         url: 'https://searchpromptly.com/',
         keywords: ['community', 'social network', 'social', 'prompt generator'],
+    },
+    {
+        name: 'PromptPlanner',
+        description: 'Prompt manager for Mac to organize, schedule, and copy reusable AI prompts',
+        categories: ['Productivity', 'AI', 'Library'],
+        url: 'https://promptplanner.app/',
+        keywords: ['prompt library', 'prompt manager', 'prompt management', 'prompt engineering'],
     },
     {
         name: 'Proxed.AI',

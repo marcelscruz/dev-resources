@@ -1,0 +1,34 @@
+[
+    {
+        "name": "SerpApi",
+        "link": "https://serpapi.com/?ref=dr-pa&utm_medium=dev-resources-repo-readme",
+        "blurb": "Search API that makes it easy and fast to scrape Google and other search engines.",
+        "logoDark": "assets/serpapi-dark-mode.svg",
+        "logoLight": "assets/serpapi-light-mode.svg",
+        "width": 116
+    },
+    {
+        "name": "Screenshot Scout",
+        "link": "https://screenshotscout.com/?ref=dr-pa&utm_medium=dev-resources-repo-readme",
+        "blurb": "A screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request.",
+        "logoDark": "assets/screenshot-scout-dark-mode.svg",
+        "logoLight": "assets/screenshot-scout-light-mode.svg",
+        "width": 220
+    },
+    {
+        "name": "TalorData",
+        "link": "https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=dev-resources-repo-readme",
+        "blurb": "Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses.",
+        "logoDark": "assets/talordata-dark-mode.svg",
+        "logoLight": "assets/talordata-light-mode.svg",
+        "width": 69
+    },
+    {
+        "name": "CoreClaw",
+        "link": "https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=dev4&utm_term=&utm_id=dev4&ref=dr-pa",
+        "blurb": "Real-time public data, ready to use. Extract web data from Amazon, TikTok, Google Maps and more with 100+ ready-made tools.",
+        "logoDark": "assets/coreclaw-dark-mode.png",
+        "logoLight": "assets/coreclaw-light-mode.svg",
+        "width": 136
+    }
+]

@@ -114,6 +114,14 @@ export const resources: Resource[] = [
         keywords: ['screenshot api', 'screenshot automation', 'screenshot service'],
     },
     {
+        name: 'Screenshot to Code',
+        description:
+            'Tool for converting screenshots and UI mockups into frontend code to accelerate prototyping workflows.',
+        categories: ['AI', 'Programming'],
+        url: 'https://screenshottocode.net/',
+        keywords: ['screenshot', 'ui', 'frontend', 'prototyping', 'react', 'tailwind'],
+    },
+    {
         name: 'Screenstab',
         description: 'Turn ordinary screenshots into beautiful image assets in no time',
         categories: ['Screenshot'],
@@ -162,6 +170,14 @@ export const resources: Resource[] = [
         keywords: ['html5', 'ui', 'library', 'framework', 'javascript'],
     },
     {
+        name: 'Semaphore',
+        description:
+            'Turn images into ASCII and Braille art locally in the browser, with plain-text and PNG exports and no uploads, accounts, or analytics.',
+        categories: ['Image', 'Tooling', 'Open Source'],
+        url: 'https://semaphore.bobochang.cn',
+        keywords: ['image to ascii', 'ascii art', 'braille art', 'client-side', 'local-first', 'privacy'],
+    },
+    {
         name: 'SEO Blueprint',
         description: 'Cutting-edge SEO tactics that are actually ranking websites.',
         categories: ['SEO'],
@@ -201,6 +217,14 @@ export const resources: Resource[] = [
         description: "SerpApi's Search API makes it easy and fast to scrape Google and other search engines.",
         categories: ['Scraping'],
         url: 'https://serpapi.com/',
+        keywords: ['scraping', 'google', 'search', 'api'],
+    },
+    {
+        name: 'Serpent API',
+        description:
+            'The cheapest Google SERP API and AI rank tracking infrastructure. Deliver search engine results and direct AI model citation tracking as structured JSON.',
+        categories: ['Scraping'],
+        url: 'https://apiserpent.com',
         keywords: ['scraping', 'google', 'search', 'api'],
     },
     {
@@ -321,6 +345,14 @@ export const resources: Resource[] = [
         categories: ['Marketing', 'Social Media'],
         url: 'https://shortimize.com',
         keywords: ['tiktok', 'instagram', 'track videos', 'discover viral content', 'viral shorts'],
+    },
+    {
+        name: 'ShotLab',
+        description:
+            'Make your screenshots stand out with stunning backgrounds, frames, cool stickers, emojis, and more. No design skills required.',
+        categories: ['Prototyping', 'Screenshot'],
+        url: 'https://shotlab.pro/',
+        keywords: ['mockup', 'design', 'social', 'marketing'],
     },
     {
         name: 'Shots',
@@ -461,6 +493,13 @@ export const resources: Resource[] = [
             'autoamtic label',
             'smart inbox',
         ],
+    },
+    {
+        name: 'Slate',
+        description: 'Automation platform for SEO, Web and Content Teams',
+        categories: ['Marketing', 'SEO', 'AI'],
+        url: 'https://slatehq.com/',
+        keywords: ['ai seo', 'content automation', 'seo tools', 'ai writing'],
     },
     {
         name: 'SlingSite',
@@ -697,6 +736,13 @@ export const resources: Resource[] = [
             'Interactive Visualizations',
             'No Signup Required for CSV Analysis',
         ],
+    },
+    {
+        name: 'SpeedUp AI',
+        description: 'End-to-End AI Circuit Schematic Design',
+        categories: ['AI', 'Design', 'Prototyping'],
+        url: 'https://speed-up.ai/',
+        keywords: ['ai', 'pcb design', 'circuit design', 'hardware design'],
     },
     {
         name: 'Splitbee',
@@ -1050,6 +1096,13 @@ export const resources: Resource[] = [
         categories: ['Analytics'],
         url: 'https://swetrix.com',
         keywords: ['analytics', 'marketing', 'web analytics', 'privacy', 'opensource'],
+    },
+    {
+        name: 'Swiftsell AI',
+        description: 'Voice and WhatsApp AI Agents for Services Businesses',
+        categories: ['AI', 'Marketing', 'Productivity'],
+        url: 'https://swiftsellai.com/',
+        keywords: ['customer support', 'business', 'sales', 'automation'],
     },
     {
         name: 'Syntax',

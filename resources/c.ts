@@ -77,6 +77,32 @@ export const resources: Resource[] = [
         url: 'https://catalog.thesys.dev/',
     },
     {
+        name: 'CatchDoms',
+        description:
+            'Expired and auction domain finder aggregating 100k+ domains from 17 marketplaces, enriched with SEO metrics (Trust Flow, backlinks, age, historical tech stack). Ships a public REST API and an open-source MCP server so AI assistants like Claude can query the catalog in natural language.',
+        categories: ['Domain', 'SEO', 'AI'],
+        url: 'https://catchdoms.com',
+        keywords: [
+            'expired-domains',
+            'domain-finder',
+            'seo',
+            'backlinks',
+            'trust-flow',
+            'mcp',
+            'api',
+            'wayback',
+            'domainer',
+        ],
+    },
+    {
+        name: 'Causeway',
+        description:
+            'Give your AI a real Chromium browser: Causeway exposes 52 MCP tools to navigate, read, click, type, screenshot, and run JavaScript through CDP.',
+        categories: ['Browser', 'Tooling', 'AI'],
+        url: 'https://wildernessinteractive.com/causeway',
+        keywords: ['mcp', 'browser automation', 'chromium', 'chrome devtools protocol', 'rust', 'ai agents'],
+    },
+    {
         name: 'Cert Decoder',
         description:
             'Cert Decoder is a free online tool for decoding X.509 SSL/TLS certificates in PEM format directly in your browser.',
@@ -164,6 +190,23 @@ export const resources: Resource[] = [
         categories: ['AI'],
         url: 'https://chatwithcloud.ai',
         keywords: ['ai', 'cloud', 'aws'],
+    },
+    {
+        name: 'CheatGrid',
+        description:
+            'Developer cheat sheets covering web development, programming languages, DevOps, AI, and more. Free cheat sheets available with no account needed.',
+        categories: ['Cheatsheet', 'Learn', 'Programming'],
+        url: 'https://www.cheatgrid.com/web-development/0022-react-frontend-framework-cheat-sheet',
+        keywords: [
+            'react',
+            'cheat sheet',
+            'reference',
+            'web development',
+            'javascript',
+            'frontend',
+            'python',
+            'devops',
+        ],
     },
     {
         name: 'Cheatography',
@@ -919,6 +962,14 @@ export const resources: Resource[] = [
         keywords: ['ai sdr', 'sales', 'ai sales outreach', 'b2b lead generation'],
     },
     {
+        name: 'ConvertImage.tools',
+        description:
+            'Free browser-based image tools including converter, compressor, background remover, and more. All processing happens client-side with no signup required.',
+        categories: ['Image', 'Tooling'],
+        url: 'https://convertimage.tools',
+        keywords: ['image converter', 'image compressor', 'background remover', 'client-side', 'image tools'],
+    },
+    {
         name: 'CookieYes',
         description:
             'CookieYes is a cookie consent solution that helps your website achieve GDPR and CCPA compliance easily. Create a lifetime free account!',
@@ -1043,6 +1094,13 @@ export const resources: Resource[] = [
         categories: ['Font', 'Icon', 'Illustration'],
         url: 'https://craftwork.design',
         keywords: ['ui', 'ux', 'vector', 'graphics', '3d'],
+    },
+    {
+        name: 'CrawlRaven',
+        description: 'Professional SEO audits with 200+ checks and prioritized fixes',
+        categories: ['SEO', 'Marketing', 'Scraping'],
+        url: 'https://www.crawlraven.com/',
+        keywords: ['marketing', 'seo audit', 'technical seo', 'site crawler'],
     },
     {
         name: 'CreativesFeed',
