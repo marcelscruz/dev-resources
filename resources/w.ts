@@ -137,14 +137,6 @@ export const resources: Resource[] = [
         url: 'https://webacus.dev',
     },
     {
-        name: 'Webinspoo',
-        description:
-            'A curated SaaS web design inspiration gallery featuring the best landing pages, UI patterns, and product pages for designers, developers, and founders.',
-        categories: ['Design', 'Inspiration', 'UI'],
-        url: 'https://webinspoo.com',
-        keywords: ['web design inspiration', 'website gallery', 'landing page ideas', 'UI inspiration'],
-    },
-    {
         name: 'WebCurate Developer Tools',
         description:
             'A hand-curated collection of 380+ best developer tools and resources with detailed descriptions and features.',
@@ -165,6 +157,14 @@ export const resources: Resource[] = [
             'A showcase of beautiful and well designed web app screens for design inspiration. Including screens from behind signup/paywalls! 😱.',
         categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://webframe.xyz/',
+    },
+    {
+        name: 'Webinspoo',
+        description:
+            'A curated SaaS web design inspiration gallery featuring the best landing pages, UI patterns, and product pages for designers, developers, and founders.',
+        categories: ['Design', 'Inspiration', 'UI'],
+        url: 'https://webinspoo.com',
+        keywords: ['web design inspiration', 'website gallery', 'landing page ideas', 'UI inspiration'],
     },
     {
         name: 'WebPagetest',
