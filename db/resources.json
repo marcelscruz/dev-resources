@@ -1,5 +1,5 @@
 {
-"count": 1211,
+"count": 1212,
 "data": [
     {
         "name": "1001 Fonts",
@@ -815,6 +815,22 @@
             "API Building"
         ],
         "url": "https://appwrite.io/"
+    },
+    {
+        "name": "Apstal",
+        "description": "AI-first web analytics with session replay, heatmaps, and conversational AI queries. Free tier available.",
+        "categories": [
+            "Analytics",
+            "AI"
+        ],
+        "url": "https://apstal.com",
+        "keywords": [
+            "web analytics",
+            "session replay",
+            "heatmaps",
+            "ai analytics",
+            "privacy analytics"
+        ]
     },
     {
         "name": "Aptabase",
