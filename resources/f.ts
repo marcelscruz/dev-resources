@@ -265,7 +265,7 @@ export const resources: Resource[] = [
             'SVG to WOFF2',
             'color glyphs',
             'monochrome icons',
-            'custom icons'
+            'custom icons',
         ],
     },
     {
