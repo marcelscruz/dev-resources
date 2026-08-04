@@ -1,5 +1,5 @@
 {
-"count": 1204,
+"count": 1205,
 "data": [
     {
         "name": "1001 Fonts",
@@ -60,7 +60,7 @@
         "name": "3STF Tools",
         "description": "A clean collection of free browser tools for developers, writers, and creators. No accounts. No ads. No data collected.",
         "categories": [
-            "Tool",
+            "Tooling",
             "Productivity"
         ],
         "url": "https://www.3stf.com/",
@@ -9020,9 +9020,9 @@
         ],
         "url": "https://nextradar.dev",
         "keywords": [
-            "Nextjs",
-            "React",
-            "Vercel"
+            "nextjs",
+            "react",
+            "vercel"
         ]
     },
     {
@@ -9466,7 +9466,7 @@
     },
     {
         "name": "OrcaSheets",
-        "description": "Enterprise-grade analytics as simple as spreadsheets. Process billions of rows locally on your PC with AI-powered insights in plain English. Local-first architecture ensures your sensitive data stays completely under your control while delivering insights in seconds, not hours.",
+        "description": "Local-first spreadsheet analytics that processes billions of rows on your PC and adds AI insights while keeping sensitive data under your control.",
         "categories": [
             "Analytics",
             "Productivity"
@@ -15059,6 +15059,23 @@
             "Blog"
         ],
         "url": "https://www.xda-developers.com/"
+    },
+    {
+        "name": "Xquik",
+        "description": "Hosted X data platform with REST, MCP, SDKs, monitoring, HMAC webhooks, and approval-gated automation. Not affiliated with X Corp.",
+        "categories": [
+            "API Building",
+            "Scraping",
+            "Social Media"
+        ],
+        "url": "https://xquik.com/",
+        "keywords": [
+            "twitter api",
+            "x api",
+            "social media automation",
+            "mcp",
+            "webhooks"
+        ]
     },
     {
         "name": "Xray",
