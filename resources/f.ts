@@ -402,7 +402,7 @@ export const resources: Resource[] = [
         description:
             'AI-powered job search platform for developers: an AI job search engine, a built-in Kanban application tracker, and an open-source MCP server to search live listings from Claude and ChatGPT.',
         categories: ['Job', 'AI', 'Remote'],
-        url: 'https://www.foundrole.com/',
+        url: 'https://foundrole.com',
         keywords: ['jobs', 'job search', 'developer jobs', 'remote', 'tracker', 'mcp'],
     },
     {
