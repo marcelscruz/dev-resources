@@ -228,6 +228,14 @@ export const resources: Resource[] = [
         keywords: ['react', 'javascript', 'hooks', 'useState', 'useEffect', 'tutorial', 'demo', 'code'],
     },
     {
+        name: 'Utilorax',
+        description:
+            '1,162 free browser-based tools: 116 calculators, 652 unit converters, and text, developer, SEO, image and PDF utilities. Nothing is uploaded, no account.',
+        categories: ['Tooling', 'Productivity', 'SEO'],
+        url: 'https://utilorax.com',
+        keywords: ['calculator', 'unit converter', 'pdf tools', 'image tools', 'developer tools', 'seo tools', 'qr code', 'free', 'no signup', 'offline'],
+    },
+    {
         name: 'UtilPortal',
         description:
             'UtilPortal is your go-to platform for discovering and accessing a curated collection of essential tools and resources.',
