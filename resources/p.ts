@@ -225,6 +225,14 @@ export const resources: Resource[] = [
         keywords: ['icons', 'line icons', 'vector icons', 'iOS icons', 'Android icons'],
     },
     {
+        name: 'PixelVault',
+        description:
+            'Agent-first image hosting on the Cloudflare edge. Uploads return a raw image URL that AI coding agents can fetch, plus on-the-fly transforms. Free tier.',
+        categories: ['Image', 'Hosting', 'AI'],
+        url: 'https://pixelvault.dev',
+        keywords: ['image hosting', 'AI agents', 'screenshot hosting', 'image CDN', 'image transforms'],
+    },
+    {
         name: 'Planomy Tax Data',
         description:
             '2026 US federal tax brackets, retirement contribution limits, Social Security, Medicare IRMAA and RMD ages as JSON, each figure cited to its IRS/SSA/CMS source',
