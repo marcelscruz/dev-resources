@@ -1,5 +1,5 @@
 {
-"count": 1217,
+"count": 1218,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10023,6 +10023,23 @@
             "vector icons",
             "iOS icons",
             "Android icons"
+        ]
+    },
+    {
+        "name": "PixelVault",
+        "description": "Agent-first image hosting on the Cloudflare edge. Uploads return a raw image URL that AI coding agents can fetch, plus on-the-fly transforms. Free tier.",
+        "categories": [
+            "Image",
+            "Hosting",
+            "AI"
+        ],
+        "url": "https://pixelvault.dev",
+        "keywords": [
+            "image hosting",
+            "AI agents",
+            "screenshot hosting",
+            "image CDN",
+            "image transforms"
         ]
     },
     {
