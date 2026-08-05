@@ -228,6 +228,14 @@ export const resources: Resource[] = [
         keywords: ['react', 'javascript', 'hooks', 'useState', 'useEffect', 'tutorial', 'demo', 'code'],
     },
     {
+        name: 'Utiliza',
+        description:
+            'Free browser tools for developers, including JSON, YAML, JWT, Base64, UUID, regex, PDF, image and text utilities.',
+        categories: ['Tooling', 'Productivity', 'Programming'],
+        url: 'https://utiliza.net/',
+        keywords: ['developer tools', 'json', 'yaml', 'jwt', 'base64', 'uuid', 'regex', 'pdf', 'image tools'],
+    },
+    {
         name: 'UtilPortal',
         description:
             'UtilPortal is your go-to platform for discovering and accessing a curated collection of essential tools and resources.',

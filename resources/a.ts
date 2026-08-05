@@ -313,14 +313,6 @@ export const resources: Resource[] = [
         url: 'https://anotherwrapper.com',
     },
     {
-        name: 'ApexToWWW',
-        description:
-            'Free DNS apex/naked domain to www subdomain 301 redirect service. Automatic SSL, IPv6, HTTP/3. No signup needed — just add two DNS records.',
-        categories: ['Domain'],
-        url: 'https://www.apextowww.com/',
-        keywords: ['dns', 'domain', 'redirect', 'apex domain', 'naked domain', '301 redirect', 'www'],
-    },
-    {
         name: 'AntForms',
         description: 'Unlimited free submissions + free analytics + integrations + AI + fastest support',
         categories: ['Productivity', 'Website Builder', 'Tooling'],
@@ -344,6 +336,14 @@ export const resources: Resource[] = [
         categories: ['AI'],
         url: 'https://anvevoice.app',
         keywords: ['voice ai', 'ai agent', 'chatbot', 'voice assistant', 'website widget'],
+    },
+    {
+        name: 'ApexToWWW',
+        description:
+            'Free DNS apex/naked domain to www subdomain 301 redirect service. Automatic SSL, IPv6, HTTP/3. No signup needed — just add two DNS records.',
+        categories: ['Domain'],
+        url: 'https://www.apextowww.com/',
+        keywords: ['dns', 'domain', 'redirect', 'apex domain', 'naked domain', '301 redirect', 'www'],
     },
     {
         name: 'Apigee',
