@@ -40,6 +40,27 @@ export const resources: Resource[] = [
         url: 'https://www.artify.co/vector-illustrations',
     },
     {
+        name: 'VectorElements',
+        description:
+            'VectorElements offers free and premium vector illustrations, icons, UI kits, textures, and design assets for websites, apps, print, and digital projects.',
+        categories: ['Illustration'],
+        url: 'https://vectorelements.net/',
+        keywords: [
+            'vector illustrations',
+            'free vectors',
+            'SVG graphics',
+            'design resources',
+            'web graphics',
+            'SVG illustrations',
+            'icons',
+            'graphic assets',
+            'web design',
+            'icons pack',
+            'creative resources',
+            'vector graphics',
+        ],
+    },
+    {
         name: 'Vectr',
         description:
             'Free vector graphics editor. A simple yet powerful web and desktop cross-platform tool for everyone.',
