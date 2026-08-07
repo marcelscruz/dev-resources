@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Cactal',
+        description:
+            'Cactal is the website platform for AI agents. Connect Claude, Cursor, or your own agent and build, host, and operate production websites from one API.',
+        categories: ['Website Builder', 'AI', 'Tooling'],
+        url: 'https://cactal.ai',
+        keywords: ['AI agents', 'MCP', 'website builder', 'AI website builder', 'developer tools', 'headless CMS'],
+    },
+    {
         name: 'Cactro',
         description: 'India’s Fairest Technical Test | Trusted by 300+ Companies',
         categories: ['Job', 'Interview', 'Code Challenge'],
