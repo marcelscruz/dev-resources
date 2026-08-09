@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'LabEx',
+        description:
+            'Hands-on online learning platform for Linux, DevOps, cybersecurity, programming, data science, and more through interactive labs.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://labex.io',
+        keywords: ['hands-on labs', 'linux', 'devops', 'cybersecurity', 'programming'],
+    },
+    {
         name: 'Lacuna',
         description:
             'AI music platform with a developer API: generate full songs with vocals and lyrics, or instrumentals, plus stem separation and mastering. Official TypeScript SDK, CLI, and MCP server on npm.',
