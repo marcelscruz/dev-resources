@@ -119,6 +119,14 @@ export const resources: Resource[] = [
         keywords: ['developer tool', 'boilerplate', 'starter kit', 'next.js boilerplate'],
     },
     {
+        name: 'Nexus Shell',
+        description:
+            'Native macOS SSH workspace with terminal sessions, two-pane SFTP, server monitoring, Docker tools, encrypted logs, and optional local agent access.',
+        categories: ['Terminal', 'Tooling', 'Remote'],
+        url: 'https://nexusshell.app',
+        keywords: ['ssh', 'sftp', 'macos', 'server monitoring', 'docker', 'mcp', 'remote development'],
+    },
+    {
         name: 'Niche Tools',
         description:
             'Ditch the endless market research and unlock instant access to over 1200+ web tools you can build today',
