@@ -104,10 +104,10 @@ export const resources: Resource[] = [
     {
         name: 'Agent Island',
         description:
-            'Free, MIT-licensed native companion for Claude, Codex, Gemini, Grok and Cursor, with local session status, alerts and provider usage views.',
+            'Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok and Cursor, with local session status, alerts and provider usage views.',
         categories: ['Open Source', 'Productivity', 'Tooling'],
         url: 'https://agent-island.dev/',
-        keywords: ['claude code', 'codex', 'gemini', 'grok', 'cursor', 'session monitoring', 'developer tools'],
+        keywords: ['claude code', 'codex', 'antigravity', 'grok', 'cursor', 'session monitoring', 'developer tools'],
     },
     {
         name: 'Agent Security',
