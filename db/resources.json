@@ -1,5 +1,5 @@
 {
-"count": 1222,
+"count": 1223,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9214,6 +9214,25 @@
             "boilerplate",
             "starter kit",
             "next.js boilerplate"
+        ]
+    },
+    {
+        "name": "Nexus Shell",
+        "description": "Native macOS SSH workspace with terminal sessions, two-pane SFTP, server monitoring, Docker tools, encrypted logs, and optional local agent access.",
+        "categories": [
+            "Terminal",
+            "Tooling",
+            "Remote"
+        ],
+        "url": "https://nexusshell.app",
+        "keywords": [
+            "ssh",
+            "sftp",
+            "macos",
+            "server monitoring",
+            "docker",
+            "mcp",
+            "remote development"
         ]
     },
     {
