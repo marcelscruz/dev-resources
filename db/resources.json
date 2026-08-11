@@ -1,5 +1,5 @@
 {
-"count": 1223,
+"count": 1224,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7194,6 +7194,16 @@
             "Icon"
         ],
         "url": "https://www.isocons.app"
+    },
+    {
+        "name": "ItsPaint",
+        "description": "Free, open-source native macOS paint app for marking up screenshots and bug reports, with numbered step badges, pixelate, and 8 export formats.",
+        "categories": [
+            "Screenshot",
+            "Image",
+            "Design"
+        ],
+        "url": "https://itspaintmac.com"
     },
     {
         "name": "Jam",
