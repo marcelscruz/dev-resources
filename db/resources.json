@@ -2202,7 +2202,7 @@
             "Browser",
             "Extension"
         ],
-        "url": "https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en"
+        "url": "https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf"
     },
     {
         "name": "Checka11y.css",
@@ -2264,11 +2264,11 @@
             "Productivity",
             "Browser"
         ],
-        "url": "https://chromewebstore.google.com/detail/chrome-reader-mode/opfflfgjinednmneaiplkponjphblmmc?hl=en",
+        "url": "https://chromewebstore.google.com/detail/chrome-reader-mode/opfflfgjinednmneaiplkponjphblmmc",
         "keywords": [
             "chrome reader mode",
             "reader mode chrome",
-            "chrome reading mode​",
+            "chrome reading mode",
             "reader mode in chrome"
         ]
     },
@@ -2329,7 +2329,7 @@
             "react",
             "next.js",
             "auth",
-            " user management",
+            "user management",
             "react auth",
             "next.js auth",
             "javascript auth"
@@ -3264,7 +3264,7 @@
             "react",
             "next.js",
             "auth",
-            " user management",
+            "user management",
             "react auth",
             "next.js auth",
             "javascript auth"
@@ -4720,7 +4720,7 @@
     },
     {
         "name": "Everything Fonts",
-        "description": "Everything Fonts is a place for font tools/font information/font download/font-face hosting  and one of a kind font market place.",
+        "description": "Everything Fonts is a place for font tools/font information/font download/font-face hosting and one of a kind font market place.",
         "categories": [
             "Font"
         ],
@@ -6892,7 +6892,7 @@
     },
     {
         "name": "Iconshock",
-        "description": "Free icons and premium icon packs.  Flat icons, Material icons, Glyph icons, iOS icons, Font icons, and more design styles. Vector files, including PNG and SVG icons. Ready for apps, web or social media projects.",
+        "description": "Free icons and premium icon packs. Flat icons, Material icons, Glyph icons, iOS icons, Font icons, and more design styles. Vector files, including PNG and SVG icons. Ready for apps, web or social media projects.",
         "categories": [
             "Icon"
         ],
@@ -6902,7 +6902,7 @@
             "web icon set",
             "web icon",
             "professional icons",
-            "software  web icons",
+            "software web icons",
             "web icons vista",
             "xp web icons",
             "windows vista icons",
@@ -8474,7 +8474,7 @@
     },
     {
         "name": "Mailgun",
-        "description": "Powerful Transactional Email APIs that enable you to send, receive, and track emails, built with developers in mind. ",
+        "description": "Powerful Transactional Email APIs that enable you to send, receive, and track emails, built with developers in mind.",
         "categories": [
             "Email",
             "Marketing"
@@ -8551,7 +8551,7 @@
     },
     {
         "name": "Markdown Guide",
-        "description": " A free and open-source reference guide that explains how to use Markdown.",
+        "description": "A free and open-source reference guide that explains how to use Markdown.",
         "categories": [
             "Cheatsheet"
         ],
@@ -8684,7 +8684,7 @@
     },
     {
         "name": "MeetMoji",
-        "description": "Live Polls for Google Slides with an AI Assistant ",
+        "description": "Live Polls for Google Slides with an AI Assistant",
         "categories": [
             "AI",
             "Productivity",
@@ -9041,7 +9041,7 @@
     },
     {
         "name": "Namekit",
-        "description": "AI-powered domain search - find available, standard-price names instantly. ",
+        "description": "AI-powered domain search - find available, standard-price names instantly.",
         "categories": [
             "Domain"
         ],
@@ -9270,7 +9270,7 @@
             "SEO",
             "Marketing"
         ],
-        "url": " https://nichetools.net",
+        "url": "https://nichetools.net",
         "keywords": [
             "SEO",
             "Marketing"
@@ -10808,7 +10808,7 @@
             "Browser",
             "Extension"
         ],
-        "url": "https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en"
+        "url": "https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi"
     },
     {
         "name": "React Free Admin",
@@ -10877,7 +10877,7 @@
     },
     {
         "name": "React Template",
-        "description": "Collection of top React templates, React dashboard, and React themes. ",
+        "description": "Collection of top React templates, React dashboard, and React themes.",
         "categories": [
             "Template"
         ],
@@ -11118,7 +11118,7 @@
             "Remote",
             "AI"
         ],
-        "url": "https://remotesalary.ai/board?remote=true",
+        "url": "https://remotesalary.ai/board",
         "keywords": [
             "remote",
             "salary",
@@ -11335,7 +11335,7 @@
     },
     {
         "name": "Retool",
-        "description": "Retool is the fast way to build internal tools. Drag-and-drop our building blocks and connect them to your databases and APIs to build your own tools, instantly. Connects with Postgres, REST APIs, GraphQL, Firebase, Google Sheets, and more.  Built by developers, for developers. Trusted by startups and Fortune 500s. Sign up for free.",
+        "description": "Retool is the fast way to build internal tools. Drag-and-drop our building blocks and connect them to your databases and APIs to build your own tools, instantly. Connects with Postgres, REST APIs, GraphQL, Firebase, Google Sheets, and more. Built by developers, for developers. Trusted by startups and Fortune 500s. Sign up for free.",
         "categories": [
             "API Building",
             "Productivity"
@@ -12035,7 +12035,7 @@
     },
     {
         "name": "Shipped.club",
-        "description": "The #1 Next.js SaaS Kit for busy founders. Build and ship your startup in days, not months, and make money online.",
+        "description": "The #1 Next.js SaaS Kit for busy founders. Build and ship your startup in days, not months, and make money online.",
         "categories": [
             "Productivity",
             "Template",
@@ -12692,7 +12692,7 @@
     },
     {
         "name": "Stack Overflow",
-        "description": "Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.",
+        "description": "Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.",
         "categories": [
             "Programming"
         ],
@@ -13586,7 +13586,7 @@
     },
     {
         "name": "Themeselection",
-        "description": " Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster.",
+        "description": "Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster.",
         "categories": [
             "Template"
         ],
@@ -14413,11 +14413,11 @@
             "Productivity",
             "Browser"
         ],
-        "url": "https://chromewebstore.google.com/detail/url-opener/bebeelnjlafedkhklobpglpelcmidaee?hl=en",
+        "url": "https://chromewebstore.google.com/detail/url-opener/bebeelnjlafedkhklobpglpelcmidaee",
         "keywords": [
             "url opener",
             "open multiple urls",
-            "multiple url opener​",
+            "multiple url opener",
             "link opener"
         ]
     },
@@ -14784,7 +14784,7 @@
     },
     {
         "name": "Visual Studio Code",
-        "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.",
+        "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.",
         "categories": [
             "Editor",
             "Programming"
@@ -14875,7 +14875,7 @@
     },
     {
         "name": "Vue School",
-        "description": " The #1 source for learning the Vue ecosystem. Basic to advanced Vue.js, Nuxt, Pinia, and more. Vue Masterclass and over 1500+ lessons from core team members & industry experts.",
+        "description": "The #1 source for learning the Vue ecosystem. Basic to advanced Vue.js, Nuxt, Pinia, and more. Vue Masterclass and over 1500+ lessons from core team members & industry experts.",
         "categories": [
             "Learn"
         ],
@@ -15106,7 +15106,7 @@
             "Browser",
             "Extension"
         ],
-        "url": "https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en"
+        "url": "https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp"
     },
     {
         "name": "Webacus",
@@ -15276,7 +15276,7 @@
             "Browser",
             "Extension"
         ],
-        "url": "https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en"
+        "url": "https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm"
     },
     {
         "name": "Widget.video",
@@ -15497,7 +15497,7 @@
     },
     {
         "name": "Zenlogin",
-        "description": "Security API which uses user agent, geolocation and AI and Machine Learning signals to notify your users when a suspicious login occurs. Sends out those familiar ",
+        "description": "Security API which uses user agent, geolocation and AI and Machine Learning signals to notify your users when a suspicious login occurs. Sends out those familiar",
         "categories": [
             "Authentication",
             "Email",
