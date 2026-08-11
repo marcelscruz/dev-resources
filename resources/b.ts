@@ -45,6 +45,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Base Converter',
+        description:
+            'Convert numbers between binary, octal, decimal and hexadecimal instantly, with input validation and prefix support. 100% client-side, no signup required.',
+        categories: ['Programming', 'Tooling'],
+        url: 'https://nutilz.com/base-converter',
+        keywords: ['base converter', 'binary to decimal', 'hex converter', 'octal converter', 'number base conversion'],
+    },
+    {
         name: 'Bazzly',
         description: 'Get Customers From Reddit on Autopilot',
         categories: ['Marketing', 'AI', 'Social Media'],
