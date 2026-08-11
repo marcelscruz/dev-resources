@@ -770,7 +770,7 @@
     },
     {
         "name": "ApparenceKit",
-        "description": "A flutter template to create iOS, Android and web app in days. Generate all the common boilerplate code and customize the design to fit your brand. ",
+        "description": "A flutter template to create iOS, Android and web app in days. Generate all the common boilerplate code and customize the design to fit your brand.",
         "categories": [
             "Template",
             "Tooling",
@@ -1002,7 +1002,7 @@
     },
     {
         "name": "AWS",
-        "description": "Amazon Web Services offers reliable, scalable, and  inexpensive cloud computing services. Free to join, pay only for what you use.",
+        "description": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.",
         "categories": [
             "Cloud Computing",
             "Hosting",
@@ -4813,7 +4813,7 @@
         "keywords": [
             "legal",
             "contracts",
-            "artificial intelligence​",
+            "artificial intelligence",
             "startup tools"
         ]
     },
@@ -5190,9 +5190,9 @@
             "handwriting fonts",
             "calligraphy free fonts",
             "designer fonts",
-            "serif  fonts",
-            "sans serif  fonts",
-            "grunge  fonts",
+            "serif fonts",
+            "sans serif fonts",
+            "grunge fonts",
             "script fonts",
             "typewriter fonts"
         ]
@@ -5491,7 +5491,7 @@
     },
     {
         "name": "Freeicons",
-        "description": "Freeicons is  a free platform for download vector icons in SVG, PNG, EPS, AI and PSD format. Here You",
+        "description": "Freeicons is a free platform for download vector icons in SVG, PNG, EPS, AI and PSD format. Here You",
         "categories": [
             "Icon"
         ],
@@ -5757,7 +5757,7 @@
     },
     {
         "name": "Fuselio",
-        "description": "Fuselio is a rapid MVP development platform for startups and SMEs, enabling the development of custom mobile and web applications in just 6 weeks. ",
+        "description": "Fuselio is a rapid MVP development platform for startups and SMEs, enabling the development of custom mobile and web applications in just 6 weeks.",
         "categories": [
             "Productivity"
         ],
