@@ -199,4 +199,3 @@ export const resources: Resource[] = [
         keywords: ['regex', 'json', 'developer tools', 'converters', 'calculators'],
     },
 ]
-
