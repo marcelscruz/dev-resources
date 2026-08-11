@@ -187,7 +187,7 @@ export const resources: Resource[] = [
     {
         name: 'Visual Studio Code',
         description:
-            'Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.',
+            'Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.',
         categories: ['Editor', 'Programming'],
         url: 'https://code.visualstudio.com/',
     },
@@ -232,7 +232,7 @@ export const resources: Resource[] = [
     {
         name: 'Vue School',
         description:
-            ' The #1 source for learning the Vue ecosystem. Basic to advanced Vue.js, Nuxt, Pinia, and more. Vue Masterclass and over 1500+ lessons from core team members & industry experts.',
+            'The #1 source for learning the Vue ecosystem. Basic to advanced Vue.js, Nuxt, Pinia, and more. Vue Masterclass and over 1500+ lessons from core team members & industry experts.',
         categories: ['Learn'],
         keywords: ['vue', 'vue.js', 'pinia', 'nuxt', 'javascript', 'typescript', 'learning'],
         url: 'https://vueschool.io',

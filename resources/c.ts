@@ -226,7 +226,7 @@ export const resources: Resource[] = [
         name: 'Check My Links',
         description: 'Check My Links is a link checker that crawls through your webpage and looks for broken links.',
         categories: ['Browser', 'Extension'],
-        url: 'https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en',
+        url: 'https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf',
     },
     {
         name: 'Checka11y.css',
@@ -273,8 +273,8 @@ export const resources: Resource[] = [
         name: 'Chrome Reader Mode',
         description: 'Transform page to simple reading mode',
         categories: ['Extension', 'Productivity', 'Browser'],
-        url: 'https://chromewebstore.google.com/detail/chrome-reader-mode/opfflfgjinednmneaiplkponjphblmmc?hl=en',
-        keywords: ['chrome reader mode', 'reader mode chrome', 'chrome reading mode​', 'reader mode in chrome'],
+        url: 'https://chromewebstore.google.com/detail/chrome-reader-mode/opfflfgjinednmneaiplkponjphblmmc',
+        keywords: ['chrome reader mode', 'reader mode chrome', 'chrome reading mode', 'reader mode in chrome'],
     },
     {
         name: 'Circum Icons',
@@ -317,7 +317,7 @@ export const resources: Resource[] = [
         description: 'Drop-in React components for authentication and authorization.',
         categories: ['Authentication', 'Library', 'Programming'],
         url: 'https://clerk.com',
-        keywords: ['react', 'next.js', 'auth', ' user management', 'react auth', 'next.js auth', 'javascript auth'],
+        keywords: ['react', 'next.js', 'auth', 'user management', 'react auth', 'next.js auth', 'javascript auth'],
     },
     {
         name: 'Clideo',
@@ -1044,7 +1044,7 @@ export const resources: Resource[] = [
             'react',
             'next.js',
             'auth',
-            ' user management',
+            'user management',
             'react auth',
             'next.js auth',
             'javascript auth',

@@ -204,8 +204,8 @@ export const resources: Resource[] = [
         name: 'Url Opener',
         description: 'Open multiple urls with one click',
         categories: ['Extension', 'Productivity', 'Browser'],
-        url: 'https://chromewebstore.google.com/detail/url-opener/bebeelnjlafedkhklobpglpelcmidaee?hl=en',
-        keywords: ['url opener', 'open multiple urls', 'multiple url opener​', 'link opener'],
+        url: 'https://chromewebstore.google.com/detail/url-opener/bebeelnjlafedkhklobpglpelcmidaee',
+        keywords: ['url opener', 'open multiple urls', 'multiple url opener', 'link opener'],
     },
     {
         name: 'Use The Keyboard',

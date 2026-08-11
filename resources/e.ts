@@ -198,7 +198,7 @@ export const resources: Resource[] = [
     {
         name: 'Everything Fonts',
         description:
-            'Everything Fonts is a place for font tools/font information/font download/font-face hosting  and one of a kind font market place.',
+            'Everything Fonts is a place for font tools/font information/font download/font-face hosting and one of a kind font market place.',
         categories: ['Font'],
         url: 'https://everythingfonts.com/',
         keywords: ['font'],

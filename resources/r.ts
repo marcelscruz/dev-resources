@@ -100,7 +100,7 @@ export const resources: Resource[] = [
         description:
             'Adds React debugging tools to the Chrome Developer Tools. Created from revision f160547f47 on 12/4/2020.',
         categories: ['Browser', 'Extension'],
-        url: 'https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en',
+        url: 'https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi',
     },
     {
         name: 'React Free Admin',
@@ -149,7 +149,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'React Template',
-        description: 'Collection of top React templates, React dashboard, and React themes. ',
+        description: 'Collection of top React templates, React dashboard, and React themes.',
         categories: ['Template'],
         url: 'https://react-template.com/',
     },
@@ -286,7 +286,7 @@ export const resources: Resource[] = [
         description:
             '20,000+ jobs all over $50,000 salary. Find your ideal high paying remote role. Searches 2,000,000+ job postings across 12,000+ companies daily to find the highest paying remote roles.',
         categories: ['Job', 'Remote', 'AI'],
-        url: 'https://remotesalary.ai/board?remote=true',
+        url: 'https://remotesalary.ai/board',
         keywords: ['remote', 'salary', 'salary search', 'development'],
     },
     {
@@ -428,7 +428,7 @@ export const resources: Resource[] = [
     {
         name: 'Retool',
         description:
-            'Retool is the fast way to build internal tools. Drag-and-drop our building blocks and connect them to your databases and APIs to build your own tools, instantly. Connects with Postgres, REST APIs, GraphQL, Firebase, Google Sheets, and more.  Built by developers, for developers. Trusted by startups and Fortune 500s. Sign up for free.',
+            'Retool is the fast way to build internal tools. Drag-and-drop our building blocks and connect them to your databases and APIs to build your own tools, instantly. Connects with Postgres, REST APIs, GraphQL, Firebase, Google Sheets, and more. Built by developers, for developers. Trusted by startups and Fortune 500s. Sign up for free.',
         categories: ['API Building', 'Productivity'],
         url: 'https://retool.com/',
     },

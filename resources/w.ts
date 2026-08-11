@@ -127,7 +127,7 @@ export const resources: Resource[] = [
         name: 'Web Developer Checklist',
         description: 'Analyses any web page for violations of best practices.',
         categories: ['Browser', 'Extension'],
-        url: 'https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en',
+        url: 'https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp',
     },
     {
         name: 'Webacus',
@@ -234,7 +234,7 @@ export const resources: Resource[] = [
         name: 'WhatFont',
         description: 'The easiest way to identify fonts on web pages.',
         categories: ['Browser', 'Extension'],
-        url: 'https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en',
+        url: 'https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm',
     },
     {
         name: 'Widget.video',

@@ -51,7 +51,7 @@ export const resources: Resource[] = [
     {
         name: 'Mailgun',
         description:
-            'Powerful Transactional Email APIs that enable you to send, receive, and track emails, built with developers in mind. ',
+            'Powerful Transactional Email APIs that enable you to send, receive, and track emails, built with developers in mind.',
         categories: ['Email', 'Marketing'],
         url: 'https://www.mailgun.com/',
     },
@@ -99,7 +99,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Markdown Guide',
-        description: ' A free and open-source reference guide that explains how to use Markdown.',
+        description: 'A free and open-source reference guide that explains how to use Markdown.',
         categories: ['Cheatsheet'],
         url: 'https://markdownguide.org',
     },
@@ -187,7 +187,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'MeetMoji',
-        description: 'Live Polls for Google Slides with an AI Assistant ',
+        description: 'Live Polls for Google Slides with an AI Assistant',
         categories: ['AI', 'Productivity', 'Writing'],
         url: 'https://meetmoji.com',
     },

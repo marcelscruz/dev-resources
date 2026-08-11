@@ -12,7 +12,7 @@ export const resources: Resource[] = [
     {
         name: 'Zenlogin',
         description:
-            'Security API which uses user agent, geolocation and AI and Machine Learning signals to notify your users when a suspicious login occurs. Sends out those familiar ',
+            'Security API which uses user agent, geolocation and AI and Machine Learning signals to notify your users when a suspicious login occurs. Sends out those familiar',
         categories: ['Authentication', 'Email', 'Security'],
         url: 'https://zenlogin.co',
         keywords: ['threat detection', 'suspicious login detection', 'email notifications', 'emails', 'ai', 'legal'],

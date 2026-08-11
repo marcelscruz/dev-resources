@@ -290,7 +290,7 @@ export const resources: Resource[] = [
     {
         name: 'Themeselection',
         description:
-            ' Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster.',
+            'Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster.',
         categories: ['Template'],
         url: 'https://themeselection.com/',
         keywords: ['HTML', 'css', 'Admin template', 'bootstrap', 'Vuejs admin templates', 'UI kits', 'Freebies'],

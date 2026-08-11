@@ -15,7 +15,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Namekit',
-        description: 'AI-powered domain search - find available, standard-price names instantly. ',
+        description: 'AI-powered domain search - find available, standard-price names instantly.',
         categories: ['Domain'],
         url: 'https://namekit.app',
         keywords: ['domain name', 'dev tools', 'AI', 'CLI'],
@@ -131,7 +131,7 @@ export const resources: Resource[] = [
         description:
             'Ditch the endless market research and unlock instant access to over 1200+ web tools you can build today',
         categories: ['SEO', 'Marketing'],
-        url: ' https://nichetools.net',
+        url: 'https://nichetools.net',
         keywords: ['SEO', 'Marketing'],
     },
     {

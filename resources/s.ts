@@ -327,7 +327,7 @@ export const resources: Resource[] = [
     {
         name: 'Shipped.club',
         description:
-            'The #1 Next.js SaaS Kit for busy founders. Build and ship your startup in days, not months, and make money online.',
+            'The #1 Next.js SaaS Kit for busy founders. Build and ship your startup in days, not months, and make money online.',
         categories: ['Productivity', 'Template', 'Website Builder'],
         url: 'https://shipped.club',
     },
@@ -794,7 +794,7 @@ export const resources: Resource[] = [
     {
         name: 'Stack Overflow',
         description:
-            'Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.',
+            'Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.',
         categories: ['Programming'],
         url: 'http://stackoverflow.com/',
     },
