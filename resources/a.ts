@@ -104,10 +104,10 @@ export const resources: Resource[] = [
     {
         name: 'Agent Island',
         description:
-            'Open-source local status companion for Claude Code and Codex sessions on macOS and Windows, with working, your-turn, stalled and attention states.',
+            'Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok and Cursor, with local session status, alerts and provider usage views.',
         categories: ['Open Source', 'Productivity', 'Tooling'],
         url: 'https://agent-island.dev/',
-        keywords: ['claude code', 'codex', 'coding agents', 'session monitoring', 'developer tools'],
+        keywords: ['claude code', 'codex', 'antigravity', 'grok', 'cursor', 'session monitoring', 'developer tools'],
     },
     {
         name: 'Agent Security',
