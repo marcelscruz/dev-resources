@@ -81,6 +81,14 @@ export const resources: Resource[] = [
         url: 'https://job.zip',
     },
     {
+        name: 'JobBoardSearch 🔎',
+        categories: ['Job'],
+        description:
+            'Meta directory of job boards with filters. Helping: Job seekers to find jobs, Job boards to promote, Recruiters to find the best candidates',
+        url: 'https://jobboardsearch.com/',
+        keywords: ['jobs', 'job boards'],
+    },
+    {
         name: 'Jobicy',
         description:
             'Jobicy is an online career platform that bridges the gap between talented professionals seeking remote career opportunities and innovative companies offering such positions.',
@@ -162,13 +170,5 @@ export const resources: Resource[] = [
             'Discover Remote Jobs from around the world. Give up the commute, work remotely and do what you love, daily, from anywhere. Find your perfect remote development, design, sales or marketing job today.',
         categories: ['Job', 'Remote'],
         url: 'https://justremote.co/',
-    },
-    {
-        name: 'JobBoardSearch 🔎',
-        categories: ['Job'],
-        description:
-            'Meta directory of job boards with filters. Helping: Job seekers to find jobs, Job boards to promote, Recruiters to find the best candidates',
-        url: 'https://jobboardsearch.com/',
-        keywords: ['jobs', 'job boards'],
     },
 ]

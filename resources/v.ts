@@ -157,14 +157,6 @@ export const resources: Resource[] = [
         url: 'https://vim-adventures.com/',
     },
     {
-        name: 'VitePress',
-        categories: ['Documentation'],
-        description:
-            'VitePress is a Vite-powered static site generator. It provides fast, modern, and lightweight documentation sites with native ESM support and instant hot reload.',
-        url: 'https://vitepress.dev/',
-        keywords: ['vitepress', 'static site generator', 'documentation', 'vite', 'markdown', 'docs', 'site generator'],
-    },
-    {
         name: 'Virlo',
         description: 'Virlo helps content creators track viral trends on short form content platforms.',
         categories: ['AI', 'Social Media', 'Video'],
@@ -200,6 +192,14 @@ export const resources: Resource[] = [
         url: 'https://code.visualstudio.com/',
     },
     {
+        name: 'VitePress',
+        categories: ['Documentation'],
+        description:
+            'VitePress is a Vite-powered static site generator. It provides fast, modern, and lightweight documentation sites with native ESM support and instant hot reload.',
+        url: 'https://vitepress.dev/',
+        keywords: ['vitepress', 'static site generator', 'documentation', 'vite', 'markdown', 'docs', 'site generator'],
+    },
+    {
         name: 'Vitest',
         description:
             'VitePress is a Vite-powered static site generator. It provides fast, modern, and lightweight documentation sites with native ESM support and instant hot reload.',
@@ -230,6 +230,14 @@ export const resources: Resource[] = [
         keywords: ['VueJS', 'vue cheatsheet', 'vue', 'Free cheatsheet', 'Opensource'],
     },
     {
+        name: 'Vue School',
+        description:
+            ' The #1 source for learning the Vue ecosystem. Basic to advanced Vue.js, Nuxt, Pinia, and more. Vue Masterclass and over 1500+ lessons from core team members & industry experts.',
+        categories: ['Learn'],
+        keywords: ['vue', 'vue.js', 'pinia', 'nuxt', 'javascript', 'typescript', 'learning'],
+        url: 'https://vueschool.io',
+    },
+    {
         name: 'Vue.js devtools',
         description: 'Browser devtools extension for debugging Vue.js applications',
         categories: ['Browser', 'Extension'],
@@ -242,14 +250,6 @@ export const resources: Resource[] = [
             'Vue.js jobs is the best place to hire or get hired as Vue.js developer. Find Vue.js talent and reach to thousands of developers.',
         categories: ['Job'],
         url: 'https://vuejobs.com/',
-    },
-    {
-        name: 'Vue School',
-        description:
-            ' The #1 source for learning the Vue ecosystem. Basic to advanced Vue.js, Nuxt, Pinia, and more. Vue Masterclass and over 1500+ lessons from core team members & industry experts.',
-        categories: ['Learn'],
-        keywords: ['vue', 'vue.js', 'pinia', 'nuxt', 'javascript', 'typescript', 'learning'],
-        url: 'https://vueschool.io',
     },
     {
         name: 'Vurge',
