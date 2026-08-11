@@ -422,6 +422,14 @@ export const resources: Resource[] = [
         url: 'https://www.siteinspire.com/',
     },
     {
+        name: 'Sitemap Partitioning for Large Sites',
+        description:
+            'Guide to stable sitemap cohorts, honest freshness, submission telemetry, and coverage reconciliation for large websites.',
+        categories: ['Learn', 'Programming', 'SEO'],
+        url: 'https://edilec.com/blog/proeng-11045/sitemap-partitioning-large-sites-coverage-diagnostics/',
+        keywords: ['xml sitemap', 'technical seo', 'sitemap index', 'index coverage', 'release engineering'],
+    },
+    {
         name: 'SiteSee',
         description: 'A curated gallery of beautiful, modern websites meant to inspire web developers and designers.',
         categories: ['Design', 'Inspiration', 'UI'],
