@@ -286,4 +286,11 @@ export const resources: Resource[] = [
         categories: ['Icon'],
         url: 'https://www.isocons.app',
     },
+    {
+        name: 'ItsPaint',
+        description:
+            'Free, open-source native macOS paint app for marking up screenshots and bug reports, with numbered step badges, pixelate, and 8 export formats.',
+        categories: ['Screenshot', 'Image', 'Design'],
+        url: 'https://itspaintmac.com',
+    },
 ]
