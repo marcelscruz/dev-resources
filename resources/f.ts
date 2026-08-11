@@ -13,7 +13,7 @@ export const resources: Resource[] = [
         description: 'Scan contracts & find gotchas before signing',
         categories: ['Legal', 'Productivity', 'AI'],
         url: 'https://fairpact.actualization.ai',
-        keywords: ['legal', 'contracts', 'artificial intelligence​', 'startup tools'],
+        keywords: ['legal', 'contracts', 'artificial intelligence', 'startup tools'],
     },
     {
         name: 'Famewall',
@@ -246,29 +246,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'FontGlyph',
-        description:
-            'Create custom web icon fonts from SVG and PNG files with color and monochrome icons, privacy-first processing and CDN publishing.',
-        categories: ['Icon', 'Font', 'Tooling'],
-        url: 'https://fontglyph.com',
-        keywords: [
-            'font',
-            'icon',
-            'tooling',
-            'design',
-            'CDN',
-            'SVG',
-            'WOFF2',
-            'webfont',
-            'icon font',
-            'font generator',
-            'SVG to WOFF2',
-            'color glyphs',
-            'monochrome icons',
-            'custom icons',
-        ],
-    },
-    {
         name: 'Font Get',
         description:
             'Download Free Fonts for your website, Mac, Windows, Linux, iOS and Android. Try our best in class Font Generator for every kind of font!',
@@ -308,9 +285,9 @@ export const resources: Resource[] = [
             'handwriting fonts',
             'calligraphy free fonts',
             'designer fonts',
-            'serif  fonts',
-            'sans serif  fonts',
-            'grunge  fonts',
+            'serif fonts',
+            'sans serif fonts',
+            'grunge fonts',
             'script fonts',
             'typewriter fonts',
         ],
@@ -321,6 +298,29 @@ export const resources: Resource[] = [
         categories: ['Icon'],
         url: 'https://fontello.com',
         keywords: ['icons', 'fonts'],
+    },
+    {
+        name: 'FontGlyph',
+        description:
+            'Create custom web icon fonts from SVG and PNG files with color and monochrome icons, privacy-first processing and CDN publishing.',
+        categories: ['Icon', 'Font', 'Tooling'],
+        url: 'https://fontglyph.com',
+        keywords: [
+            'font',
+            'icon',
+            'tooling',
+            'design',
+            'CDN',
+            'SVG',
+            'WOFF2',
+            'webfont',
+            'icon font',
+            'font generator',
+            'SVG to WOFF2',
+            'color glyphs',
+            'monochrome icons',
+            'custom icons',
+        ],
     },
     {
         name: 'Fontjoy',
@@ -527,7 +527,7 @@ export const resources: Resource[] = [
     {
         name: 'Freeicons',
         description:
-            'Freeicons is  a free platform for download vector icons in SVG, PNG, EPS, AI and PSD format. Here You',
+            'Freeicons is a free platform for download vector icons in SVG, PNG, EPS, AI and PSD format. Here You',
         categories: ['Icon'],
         url: 'https://freeicons.io/',
         keywords: [
@@ -713,7 +713,7 @@ export const resources: Resource[] = [
     {
         name: 'Fuselio',
         description:
-            'Fuselio is a rapid MVP development platform for startups and SMEs, enabling the development of custom mobile and web applications in just 6 weeks. ',
+            'Fuselio is a rapid MVP development platform for startups and SMEs, enabling the development of custom mobile and web applications in just 6 weeks.',
         categories: ['Productivity'],
         url: 'https://www.fuselio.com/',
         keywords: [
