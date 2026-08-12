@@ -25,13 +25,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: '1LOC',
-        description: 'Favorite JavaScript Utilities in single line of code! No more!',
-        categories: ['Code Snippet'],
-        url: 'https://1loc.dev/',
-        keywords: ['JavaScript', 'JavaScript Utilities', 'one-liner', 'one-liner javascript'],
-    },
-    {
         name: '30 seconds of code',
         description: 'Browse 1078 short code snippets for all your development needs on 30 seconds of code.',
         categories: ['Code Snippet'],
