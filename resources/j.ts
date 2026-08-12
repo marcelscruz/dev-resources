@@ -15,12 +15,6 @@ export const resources: Resource[] = [
         url: 'https://www.heavybit.com/library/podcasts/jamstack-radio/',
     },
     {
-        name: 'JAMstacked',
-        description: 'An email update on the evolving JAMstack ecosystem.',
-        categories: ['Newsletter', 'Programming'],
-        url: 'https://jamstack.email/',
-    },
-    {
         name: 'JavaScript Developer Jobs',
         description:
             'Find specific JavaScript Developer Jobs, including Remote Jobs. You are looking for JavaScript Developers? Submit your position for free.',
