@@ -1,5 +1,5 @@
 {
-"count": 1224,
+"count": 1223,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7217,15 +7217,6 @@
             "Programming"
         ],
         "url": "https://www.heavybit.com/library/podcasts/jamstack-radio/"
-    },
-    {
-        "name": "JAMstacked",
-        "description": "An email update on the evolving JAMstack ecosystem.",
-        "categories": [
-            "Newsletter",
-            "Programming"
-        ],
-        "url": "https://jamstack.email/"
     },
     {
         "name": "JavaScript Developer Jobs",
