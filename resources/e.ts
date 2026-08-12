@@ -182,13 +182,6 @@ export const resources: Resource[] = [
         url: 'https://epicreact.dev/',
     },
     {
-        name: 'Escrow',
-        description:
-            'Secure online payment processing from the world’s largest online escrow service since 1999. Trusted by 1M+ users. Priced as low as 0.89%.',
-        categories: ['Domain'],
-        url: 'https://www.escrow.com/',
-    },
-    {
         name: 'Everyone Hates Marketers',
         description:
             "It's the antidote to marketing bullshit. Receive a free, 8-lesson video course + a super practical, no-bullshit essay in your inbox every Tuesday.",
