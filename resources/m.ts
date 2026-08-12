@@ -392,13 +392,6 @@ export const resources: Resource[] = [
         url: 'https://morrisjs.github.io/morris.js/',
     },
     {
-        name: 'MuckBrass',
-        description: 'Find & Validate Startup Ideas using AI',
-        categories: ['SEO', 'Productivity', 'Startup'],
-        url: 'https://www.muckbrass.com',
-        keywords: ['data', 'research', 'startupidea', 'idea', 'ai'],
-    },
-    {
         name: 'MyChatbots AI',
         description: 'A platform for easily creating, training, and chatting with AI chatbots using your own data',
         categories: ['AI', 'Productivity'],
