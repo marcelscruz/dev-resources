@@ -1,5 +1,5 @@
 {
-"count": 1223,
+"count": 1224,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6625,6 +6625,24 @@
             "sse",
             "graphql",
             "socketio"
+        ]
+    },
+    {
+        "name": "HorizonX",
+        "description": "Premium UI and code library for vibe coders, designers, and developers, with Figma assets, components, coded templates, and interactive tools.",
+        "categories": [
+            "Library",
+            "UI",
+            "Design"
+        ],
+        "url": "https://horizonx.so",
+        "keywords": [
+            "ui components",
+            "design system",
+            "figma",
+            "react",
+            "tailwind css",
+            "vibe coding"
         ]
     },
     {
