@@ -240,6 +240,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'HorizonX',
+        description:
+            'Premium UI and code library for vibe coders, designers, and developers, with Figma assets, components, coded templates, and interactive tools.',
+        categories: ['Library', 'UI', 'Design'],
+        url: 'https://horizonx.so',
+        keywords: ['ui components', 'design system', 'figma', 'react', 'tailwind css', 'vibe coding'],
+    },
+    {
         name: 'Hostman',
         description: 'Cloud hosting for startups and developers.',
         categories: ['Hosting'],
