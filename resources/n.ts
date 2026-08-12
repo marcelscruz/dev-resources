@@ -51,6 +51,14 @@ export const resources: Resource[] = [
         keywords: ['database', 'postgreSQL', 'dbaaS', 'postgres hosting'],
     },
     {
+        name: 'Neenja AI',
+        description:
+            'Neenja AI is a real-time AI platform that provides assistance during live interviews and assessments.',
+        categories: ['Interview'],
+        url: 'https://www.neenja.ai/',
+        keywords: ['AI Interview Assistance', 'Assessments', 'AI'],
+    },
+    {
         name: 'Netlify',
         description:
             'Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.',
