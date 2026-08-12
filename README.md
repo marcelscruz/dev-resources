@@ -552,7 +552,6 @@
 ### <a name="code-snippet">Code Snippet</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
- <img src="https://www.google.com/s2/favicons?domain=https://1loc.dev/&sz=128" width="16" /> | [1LOC](https://1loc.dev/) | Favorite JavaScript Utilities in single line of code! No more! | JavaScript, JavaScript Utilities, one-liner, one-liner javascript |
  <img src="https://www.google.com/s2/favicons?domain=https://www.30secondsofcode.org/&sz=128" width="16" /> | [30 seconds of code](https://www.30secondsofcode.org/) | Browse 1078 short code snippets for all your development needs on 30 seconds of code. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://getcssscan.com/css-box-shadow-examples&sz=128" width="16" /> | [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) | 🎨 Curated collection of 90+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://getcssscan.com/css-buttons-examples&sz=128" width="16" /> | [Beautiful CSS buttons examples](https://getcssscan.com/css-buttons-examples) | 🎨 Curated collection of 80+ free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy. |  |

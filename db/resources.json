@@ -1,5 +1,5 @@
 {
-"count": 1226,
+"count": 1225,
 "data": [
     {
         "name": "1001 Fonts",
@@ -24,20 +24,6 @@
             "fastest fingers",
             "10 fast fingers",
             "typing competition"
-        ]
-    },
-    {
-        "name": "1LOC",
-        "description": "Favorite JavaScript Utilities in single line of code! No more!",
-        "categories": [
-            "Code Snippet"
-        ],
-        "url": "https://1loc.dev/",
-        "keywords": [
-            "JavaScript",
-            "JavaScript Utilities",
-            "one-liner",
-            "one-liner javascript"
         ]
     },
     {
