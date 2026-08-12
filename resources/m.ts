@@ -104,6 +104,14 @@ export const resources: Resource[] = [
         url: 'https://markdownguide.org',
     },
     {
+        name: 'Markdown Tools Online',
+        description:
+            'Free online document converter. Convert Markdown to PDF, HTML to Markdown, and more. No signup required, no data stored.',
+        categories: ['Tool'],
+        url: 'https://markdowntoolsonline.com',
+        keywords: ['markdown to pdf', 'markdown editor'],
+    },
+    {
         name: 'Marketing Auditor',
         description:
             'Say goodbye to manual audit checklists with Marketing Auditor, the ultimate solution for agencies looking to streamline their audit process',
