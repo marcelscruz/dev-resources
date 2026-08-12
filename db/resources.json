@@ -1,5 +1,5 @@
 {
-"count": 1223,
+"count": 1222,
 "data": [
     {
         "name": "1001 Fonts",
@@ -14350,20 +14350,6 @@
             "serverless",
             "durable storage",
             "low latency"
-        ]
-    },
-    {
-        "name": "Upto.Site",
-        "description": "Upto.Site is the ultimate url shortener which can be used to create instant FREE short urls.",
-        "categories": [
-            "Tooling"
-        ],
-        "url": "https://upto.site",
-        "keywords": [
-            "url shortener",
-            "link",
-            "link shortener",
-            "link shortener api"
         ]
     },
     {
