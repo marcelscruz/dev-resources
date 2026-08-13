@@ -1,5 +1,5 @@
 {
-"count": 1224,
+"count": 1221,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1583,7 +1583,7 @@
             "Podcast",
             "Startup"
         ],
-        "url": "http://bootstrappedweb.com/"
+        "url": "https://bootstrappedweb.com/"
     },
     {
         "name": "BootstrapTaste",
@@ -1591,7 +1591,7 @@
         "categories": [
             "Template"
         ],
-        "url": "http://bootstraptaste.com/",
+        "url": "https://bootstraptaste.com/",
         "keywords": [
             "Bootstrap themes",
             "Bootstrap templates",
@@ -1647,7 +1647,7 @@
             "Editor",
             "Extension"
         ],
-        "url": "http://brackets.io/"
+        "url": "https://brackets.io/"
     },
     {
         "name": "BragDoc",
@@ -1942,7 +1942,7 @@
         "categories": [
             "Database"
         ],
-        "url": "http://cassandra.apache.org/"
+        "url": "https://cassandra.apache.org/"
     },
     {
         "name": "Catalog by Thesys",
@@ -2412,7 +2412,7 @@
             "Podcast",
             "Programming"
         ],
-        "url": "http://codewinds.com/podcast.html",
+        "url": "https://codewinds.com/podcast.html",
         "keywords": [
             "web",
             "developer",
@@ -2797,7 +2797,7 @@
             "Inspiration",
             "UI"
         ],
-        "url": "http://collectui.com/",
+        "url": "https://collectui.com/",
         "keywords": [
             "dailyui",
             "daily ui",
@@ -2876,7 +2876,7 @@
         "categories": [
             "Color"
         ],
-        "url": "http://colormind.io/"
+        "url": "https://colormind.io/"
     },
     {
         "name": "colors.lol",
@@ -4035,7 +4035,7 @@
         "categories": [
             "Icon"
         ],
-        "url": "http://vorillaz.github.io/devicons"
+        "url": "https://vorillaz.github.io/devicons"
     },
     {
         "name": "DevNews",
@@ -4059,7 +4059,7 @@
         "categories": [
             "Code Snippet"
         ],
-        "url": "http://www.devsamples.com/"
+        "url": "https://www.devsamples.com/"
     },
     {
         "name": "DevTips",
@@ -4999,22 +4999,13 @@
         "url": "https://codingfantasy.com/games/flexboxadventure"
     },
     {
-        "name": "Flexbox Defense",
-        "description": "Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!",
-        "categories": [
-            "Learn",
-            "Programming"
-        ],
-        "url": "http://www.flexboxdefense.com/"
-    },
-    {
         "name": "Flexbox Froggy",
         "description": "A game for learning CSS flexbox.",
         "categories": [
             "Learn",
             "Programming"
         ],
-        "url": "http://flexboxfroggy.com/"
+        "url": "https://flexboxfroggy.com/"
     },
     {
         "name": "FlexJobs",
@@ -6449,7 +6440,7 @@
         "categories": [
             "Illustration"
         ],
-        "url": "http://www.heropatterns.com/"
+        "url": "https://www.heropatterns.com/"
     },
     {
         "name": "Heroicons",
@@ -6749,21 +6740,6 @@
             "writing",
             "human",
             "text"
-        ]
-    },
-    {
-        "name": "Hypermail",
-        "description": "Hypermail is a cold email marketing solution that handles all aspects of email marketing with whitelabel built-in, email list verification, unlimited contact lists, email warm-up with AI replies & more",
-        "categories": [
-            "Email",
-            "Marketing"
-        ],
-        "url": "http://hypermail.com/",
-        "keywords": [
-            "email marketing",
-            "cold email",
-            "list verification",
-            "white labeling"
         ]
     },
     {
@@ -8307,7 +8283,7 @@
         "categories": [
             "Font"
         ],
-        "url": "http://losttype.com/"
+        "url": "https://losttype.com/"
     },
     {
         "name": "Lottielab",
@@ -8671,7 +8647,7 @@
             "Blog",
             "Writing"
         ],
-        "url": "http://medium.com/"
+        "url": "https://medium.com/"
     },
     {
         "name": "MeetMoji",
@@ -10200,15 +10176,6 @@
             "AI"
         ],
         "url": "https://www.plotline.so/"
-    },
-    {
-        "name": "Plottable",
-        "description": "Flexible, interactive, performant charts for the web made easy.",
-        "categories": [
-            "Library",
-            "Programming"
-        ],
-        "url": "http://plottablejs.org/"
     },
     {
         "name": "Pluralsight",
@@ -12124,7 +12091,7 @@
             "Library",
             "Programming"
         ],
-        "url": "http://sigmajs.org/"
+        "url": "https://sigmajs.org/"
     },
     {
         "name": "Simple Analytics",
@@ -12140,7 +12107,7 @@
         "categories": [
             "Icon"
         ],
-        "url": "http://simpleicons.org/"
+        "url": "https://simpleicons.org/"
     },
     {
         "name": "SinglebaseCloud",
@@ -12702,7 +12669,7 @@
         "categories": [
             "Programming"
         ],
-        "url": "http://stackoverflow.com/"
+        "url": "https://stackoverflow.com/"
     },
     {
         "name": "Staclo.host",
