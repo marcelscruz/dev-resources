@@ -206,6 +206,25 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'SEO Site Checkup',
+        description:
+            'Analyze websites with automated SEO audits, technical checks, and actionable recommendations to improve search engine performance.',
+        categories: ['SEO', 'Performance'],
+        url: 'https://seositecheckup.com/',
+        keywords: [
+            'seo',
+            'technical seo',
+            'seo audit',
+            'website audit',
+            'site analysis',
+            'search engine optimization',
+            'page speed',
+            'meta tags',
+            'schema',
+            'performance',
+        ],
+    },
+    {
         name: 'Seotisfy',
         description:
             'Stop wasting time with clunky, siloed SEO work. Get every campaign on the same page with a tool that helps you work better, faster, and based on results.',
