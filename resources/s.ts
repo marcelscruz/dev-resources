@@ -373,7 +373,7 @@ export const resources: Resource[] = [
         description:
             'Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.',
         categories: ['Library', 'Programming'],
-        url: 'http://sigmajs.org/',
+        url: 'https://sigmajs.org/',
     },
     {
         name: 'Simple Analytics',
@@ -386,7 +386,7 @@ export const resources: Resource[] = [
         name: 'Simple Icons',
         description: '1493 Free SVG icons for popular brands.',
         categories: ['Icon'],
-        url: 'http://simpleicons.org/',
+        url: 'https://simpleicons.org/',
     },
     {
         name: 'SinglebaseCloud',
@@ -796,7 +796,7 @@ export const resources: Resource[] = [
         description:
             'Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.',
         categories: ['Programming'],
-        url: 'http://stackoverflow.com/',
+        url: 'https://stackoverflow.com/',
     },
     {
         name: 'Staclo.host',

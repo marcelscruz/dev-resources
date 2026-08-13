@@ -191,7 +191,7 @@ export const resources: Resource[] = [
         description:
             'Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.',
         categories: ['Blog', 'Writing'],
-        url: 'http://medium.com/',
+        url: 'https://medium.com/',
     },
     {
         name: 'MeetMoji',

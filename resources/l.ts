@@ -453,7 +453,7 @@ export const resources: Resource[] = [
         name: 'Lost Type Co-op',
         description: 'Lost Type is a collaborative digital type foundry.',
         categories: ['Font'],
-        url: 'http://losttype.com/',
+        url: 'https://losttype.com/',
     },
     {
         name: 'Lottielab',

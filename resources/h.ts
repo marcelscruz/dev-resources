@@ -109,7 +109,7 @@ export const resources: Resource[] = [
         name: 'Hero Patterns',
         description: 'Zondicons.',
         categories: ['Illustration'],
-        url: 'http://www.heropatterns.com/',
+        url: 'https://www.heropatterns.com/',
     },
     {
         name: 'Heroicons',
@@ -325,14 +325,6 @@ export const resources: Resource[] = [
         categories: ['AI', 'Productivity', 'Writing'],
         url: 'https://humanizeaitext.ai/',
         keywords: ['ai', 'writing', 'human', 'text'],
-    },
-    {
-        name: 'Hypermail',
-        description:
-            'Hypermail is a cold email marketing solution that handles all aspects of email marketing with whitelabel built-in, email list verification, unlimited contact lists, email warm-up with AI replies & more',
-        categories: ['Email', 'Marketing'],
-        url: 'http://hypermail.com/',
-        keywords: ['email marketing', 'cold email', 'list verification', 'white labeling'],
     },
     {
         name: 'Hypertune',

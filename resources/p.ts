@@ -279,12 +279,6 @@ export const resources: Resource[] = [
         url: 'https://www.plotline.so/',
     },
     {
-        name: 'Plottable',
-        description: 'Flexible, interactive, performant charts for the web made easy.',
-        categories: ['Library', 'Programming'],
-        url: 'http://plottablejs.org/',
-    },
-    {
         name: 'Pluralsight',
         description:
             'Build your IT toolkit with the skills you need to excel in your job, including security best practices, server infrastructure and virtualization. Explore our IT courses now.',

@@ -351,14 +351,14 @@ export const resources: Resource[] = [
         name: 'Bootstrapped Web',
         description: 'The podcast for founders bootstrapping their startups online.',
         categories: ['Podcast', 'Startup'],
-        url: 'http://bootstrappedweb.com/',
+        url: 'https://bootstrappedweb.com/',
     },
     {
         name: 'BootstrapTaste',
         description:
             '100+ Best Bootstrap templates and HTML Website Templates collections to build your website or app in 2020.',
         categories: ['Template'],
-        url: 'http://bootstraptaste.com/',
+        url: 'https://bootstraptaste.com/',
         keywords: [
             'Bootstrap themes',
             'Bootstrap templates',
@@ -402,7 +402,7 @@ export const resources: Resource[] = [
         description:
             'Brackets is a lightweight, yet powerful, modern text editor. We blend visual tools into the editor so you get the right amount of help when you want it. With new features and extensions released every 3-4 weeks, it',
         categories: ['Editor', 'Extension'],
-        url: 'http://brackets.io/',
+        url: 'https://brackets.io/',
     },
     {
         name: 'BragDoc',

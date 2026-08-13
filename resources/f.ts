@@ -174,17 +174,10 @@ export const resources: Resource[] = [
         url: 'https://codingfantasy.com/games/flexboxadventure',
     },
     {
-        name: 'Flexbox Defense',
-        description:
-            'Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!',
-        categories: ['Learn', 'Programming'],
-        url: 'http://www.flexboxdefense.com/',
-    },
-    {
         name: 'Flexbox Froggy',
         description: 'A game for learning CSS flexbox.',
         categories: ['Learn', 'Programming'],
-        url: 'http://flexboxfroggy.com/',
+        url: 'https://flexboxfroggy.com/',
     },
     {
         name: 'FlexJobs',

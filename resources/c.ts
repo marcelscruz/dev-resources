@@ -76,7 +76,7 @@ export const resources: Resource[] = [
         description:
             'Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters.',
         categories: ['Database'],
-        url: 'http://cassandra.apache.org/',
+        url: 'https://cassandra.apache.org/',
     },
     {
         name: 'Catalog by Thesys',
@@ -390,7 +390,7 @@ export const resources: Resource[] = [
         description:
             'CodeWinds - Leading edge live and online developer training - in-person, public or private classes, webinars, video courses, resources, tutorials for fullstack web developers. Featuring javascript, React.js, Node.js, Redux, Functional programming, Reactive programming, RxJS, and related topics.',
         categories: ['Podcast', 'Programming'],
-        url: 'http://codewinds.com/podcast.html',
+        url: 'https://codewinds.com/podcast.html',
         keywords: [
             'web',
             'developer',
@@ -705,7 +705,7 @@ export const resources: Resource[] = [
         description:
             'Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.',
         categories: ['Inspiration', 'UI'],
-        url: 'http://collectui.com/',
+        url: 'https://collectui.com/',
         keywords: ['dailyui', 'daily ui', 'ui challenge', 'daily inspiration', 'ui inspiration'],
     },
     {
@@ -768,7 +768,7 @@ export const resources: Resource[] = [
         description:
             'Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.',
         categories: ['Color'],
-        url: 'http://colormind.io/',
+        url: 'https://colormind.io/',
     },
     {
         name: 'colors.lol',

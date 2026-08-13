@@ -317,7 +317,7 @@ export const resources: Resource[] = [
         name: 'Devicons',
         description: 'An iconic font made for developers.',
         categories: ['Icon'],
-        url: 'http://vorillaz.github.io/devicons',
+        url: 'https://vorillaz.github.io/devicons',
     },
     {
         name: 'DevNews',
@@ -332,7 +332,7 @@ export const resources: Resource[] = [
         description:
             'DevSamples is a list of code samples for you to copy and paste into your projects as needed. The primary focus is on web development, but there are samples from a variety of languages.',
         categories: ['Code Snippet'],
-        url: 'http://www.devsamples.com/',
+        url: 'https://www.devsamples.com/',
     },
     {
         name: 'DevTips',
