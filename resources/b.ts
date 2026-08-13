@@ -153,13 +153,6 @@ export const resources: Resource[] = [
         keywords: ['programming web development javascript react node.js'],
     },
     {
-        name: 'Big Heads',
-        description:
-            'Combine expressions, clothing, hair styles and colors into billions of different unique characters.',
-        categories: ['Illustration'],
-        url: 'https://bigheads.io/',
-    },
-    {
         name: 'BigDevSoon',
         description: 'Build real-world projects with Figma designs and an AI copilot in a zero-config browser IDE.',
         categories: ['Code Challenge'],
