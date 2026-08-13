@@ -198,6 +198,24 @@ export const resources: Resource[] = [
         keywords: ['screenshot', 'social media', 'editor', 'content'],
     },
     {
+        name: 'PineGen AI',
+        description:
+            'PineGen AI is an AI-powered, no-code Pine Script generator for TradingView. Turn plain English into error-free strategies, backtest, and refine code easily.',
+        categories: ['Code Generator'],
+        url: 'https://www.pinegen.ai/us',
+        keywords: [
+            'Pine Script generator',
+            'TradingView',
+            'AI strategy builder',
+            'no-code trading',
+            'Pine Script AI',
+            'backtesting',
+            'TradingView bot',
+            'Pine Script v6',
+            'algorithmic trading',
+        ],
+    },
+    {
         name: 'Pingdom',
         description: 'Full Page Test Analysis.',
         categories: ['Performance'],
