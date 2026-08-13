@@ -1,5 +1,5 @@
 {
-"count": 1221,
+"count": 1222,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11811,6 +11811,27 @@
             "site audit",
             "content optimisation",
             "keyword research"
+        ]
+    },
+    {
+        "name": "SEO Site Checkup",
+        "description": "Analyze websites with automated SEO audits, technical checks, and actionable recommendations to improve search engine performance.",
+        "categories": [
+            "SEO",
+            "Performance"
+        ],
+        "url": "https://seositecheckup.com/",
+        "keywords": [
+            "seo",
+            "technical seo",
+            "seo audit",
+            "website audit",
+            "site analysis",
+            "search engine optimization",
+            "page speed",
+            "meta tags",
+            "schema",
+            "performance"
         ]
     },
     {
