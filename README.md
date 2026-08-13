@@ -1029,7 +1029,6 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
  <img src="https://www.google.com/s2/favicons?domain=https://www.artify.co/&sz=128" width="16" /> | [Artify](https://www.artify.co/) | Artify is an online and easy-to-use design editor that features thousands of customizable illustrations and template packs. |  |
- <img src="https://www.google.com/s2/favicons?domain=https://bigheads.io/&sz=128" width="16" /> | [Big Heads](https://bigheads.io/) | Combine expressions, clothing, hair styles and colors into billions of different unique characters. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.blackillustrations.com/&sz=128" width="16" /> | [Black Illustrations](https://www.blackillustrations.com/) | Black illustrations is a series of FREE digital designs of black people for your next online project. Free for commercial and personal use. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://blush.design/&sz=128" width="16" /> | [Blush](https://blush.design/) | Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.bypeople.com/&sz=128" width="16" /> | [ByPeople](https://www.bypeople.com/) | ByPeople is a curated network of 10k ready-to-download resources for developers. |  |
