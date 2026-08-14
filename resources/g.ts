@@ -87,6 +87,24 @@ export const resources: Resource[] = [
         url: 'https://getterms.io/',
     },
     {
+        name: 'GIF Master',
+        description:
+            'GIF tools for compression, speed control, background removal, GIF-to-WebP, GIF-to-PNG, GIF-to-video, PNG-to-GIF, video-to-GIF, and screen recording.',
+        categories: ['Image', 'Video', 'Tooling'],
+        url: 'https://gif-master.com',
+        keywords: [
+            'gif compressor',
+            'gif speed changer',
+            'remove gif background',
+            'gif to webp',
+            'gif to png',
+            'gif to video',
+            'png to gif',
+            'video to gif',
+            'screen recorder',
+        ],
+    },
+    {
         name: 'Git Cheat Sheets',
         description:
             'Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.',
