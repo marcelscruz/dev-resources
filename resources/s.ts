@@ -503,7 +503,16 @@ export const resources: Resource[] = [
             'A shared library for the AI skills a team recommends. Collect skills in one searchable place and let every teammate use them through GitHub source, an install command, a ZIP download, or an authenticated MCP endpoint. Free forever and open source.',
         categories: ['AI', 'Open Source'],
         url: 'https://www.skillsboard.sh',
-        keywords: ['ai skills', 'claude skills', 'agent skills', 'mcp', 'claude code', 'codex', 'cursor', 'team library'],
+        keywords: [
+            'ai skills',
+            'claude skills',
+            'agent skills',
+            'mcp',
+            'claude code',
+            'codex',
+            'cursor',
+            'team library',
+        ],
     },
     {
         name: 'SkimAI',
