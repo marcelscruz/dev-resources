@@ -97,6 +97,14 @@ export const resources: Resource[] = [
         url: 'https://joblist.app/',
     },
     {
+        name: 'Jobs in JavaScript',
+        description:
+            'Job board for the JavaScript ecosystem. Roles are sourced directly from company career pages and refreshed daily, with filters for TypeScript, React, Node.js and remote work.',
+        categories: ['Job'],
+        url: 'https://jobsinjs.com/',
+        keywords: ['javascript jobs', 'typescript jobs', 'node.js jobs', 'react jobs', 'remote jobs'],
+    },
+    {
         name: 'Jobspresso',
         description:
             'Jobspresso is the easiest way to find remote jobs and careers at interesting and innovative companies.',
