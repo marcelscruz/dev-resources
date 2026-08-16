@@ -1,5 +1,5 @@
 {
-"count": 1224,
+"count": 1225,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8197,6 +8197,23 @@
             "SaaS",
             "AI-driven solutions",
             "cloud platforms"
+        ]
+    },
+    {
+        "name": "Live Tennis API",
+        "description": "Tennis data API with live scores (serving and break-point state), player rankings, fixtures, and match history; free keyed tier available.",
+        "categories": [
+            "Analytics",
+            "Tooling"
+        ],
+        "url": "https://livetennisapi.com",
+        "keywords": [
+            "tennis",
+            "live scores",
+            "sports data",
+            "rankings",
+            "fixtures",
+            "api"
         ]
     },
     {
