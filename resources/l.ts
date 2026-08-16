@@ -380,6 +380,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Live Tennis API',
+        description:
+            'Tennis data API with live scores (serving and break-point state), player rankings, fixtures, and match history; free keyed tier available.',
+        categories: ['Analytics', 'Tooling'],
+        url: 'https://livetennisapi.com',
+        keywords: ['tennis', 'live scores', 'sports data', 'rankings', 'fixtures', 'api'],
+    },
+    {
         name: 'Lobsters',
         description: 'Lobsters is a computing-focused community centered around link aggregation and discussion.',
         categories: ['Forum'],
