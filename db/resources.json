@@ -1,5 +1,5 @@
 {
-"count": 1226,
+"count": 1224,
 "data": [
     {
         "name": "1001 Fonts",
@@ -744,15 +744,6 @@
             "API Building"
         ],
         "url": "https://apiverve.com/"
-    },
-    {
-        "name": "App Icon Generator",
-        "description": "Create beautiful app icons for iOS and Android. Generate all required sizes with just one click.",
-        "categories": [
-            "Code Generator",
-            "Programming"
-        ],
-        "url": "https://launchyourapp.dev/tools/app-icon-generator"
     },
     {
         "name": "ApparenceKit",
@@ -15522,23 +15513,6 @@
             "web",
             "developer tools",
             "tools"
-        ]
-    },
-    {
-        "name": "ZapKit",
-        "description": "ZapKit is a Laravel boilerplate powered by AI that helps you build a Laravel application within minutes.",
-        "categories": [
-            "Productivity",
-            "AI",
-            "Startup"
-        ],
-        "url": "https://zapkit.dev/",
-        "keywords": [
-            "boilerplate",
-            "startup",
-            "starter kit",
-            "ai",
-            "sass"
         ]
     },
     {

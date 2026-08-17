@@ -247,7 +247,6 @@
  <img src="https://www.google.com/s2/favicons?domain=https://getvurge.com/&sz=128" width="16" /> | [Vurge](https://getvurge.com/) | It's like Clay but in Google Sheets | google sheets, ai, web scraping, data enrichment, sales |
  <img src="https://www.google.com/s2/favicons?domain=https://webscrapeai.com&sz=128" width="16" /> | [WebscrapeAI](https://webscrapeai.com) | Scrape any website without code using AI | scraper, no code, ai web scraper, web scraper, visual web scraper |
  <img src="https://www.google.com/s2/favicons?domain=https://wlspy.com&sz=128" width="16" /> | [WLSpy](https://wlspy.com) | WLSpy helps users discover winning products by analyzing market trends and competitor strategies. | Product Research, Market Analysis, Competitor Monitoring |
- <img src="https://www.google.com/s2/favicons?domain=https://zapkit.dev/&sz=128" width="16" /> | [ZapKit](https://zapkit.dev/) | ZapKit is a Laravel boilerplate powered by AI that helps you build a Laravel application within minutes. | boilerplate, startup, starter kit, ai, sass |
  <img src="https://www.google.com/s2/favicons?domain=https://zuzia.app&sz=128" width="16" /> | [Zuzia.app](https://zuzia.app) | AI-powered server monitoring and task automation for Linux and VPS. | ai task monitoring, server cron tracking, linux automation, laravel forge tools |
 
 **[⬆ Back to Index](#index)**
@@ -537,7 +536,6 @@
 ### <a name="code-generator">Code Generator</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
- <img src="https://www.google.com/s2/favicons?domain=https://launchyourapp.dev/tools/app-icon-generator&sz=128" width="16" /> | [App Icon Generator](https://launchyourapp.dev/tools/app-icon-generator) | Create beautiful app icons for iOS and Android. Generate all required sizes with just one click. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://bootify.io/&sz=128" width="16" /> | [Bootify](https://bootify.io/) | Generate Spring Boot prototypes in your browser - with custom database, REST API and best practices applied. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://dhiwise.com/&sz=128" width="16" /> | [Dhiwise](https://dhiwise.com/) | Build React and Flutter Apps at blazing fast speed without compromising on code-quality and developer-experience. | android, kotlin, node.js, sql, no-sql, design to code |
  <img src="https://www.google.com/s2/favicons?domain=https://dirstarter.com&sz=128" width="16" /> | [Dirstarter](https://dirstarter.com) | Launch Your Directory Website Start Making Money Today | directory, website, template, starter, boilerplate, nextjs |
@@ -1772,7 +1770,6 @@
  <img src="https://www.google.com/s2/favicons?domain=https://webacus.dev&sz=128" width="16" /> | [Webacus](https://webacus.dev) | Webacus is a versatile tool designed specifically for developers. It combines numerous operations that developers frequently need into a single, consistent interface. Instead of Googling and learning ... |  |
  <img src="https://www.google.com/s2/favicons?domain=https://webcurate.co/c/developer&sz=128" width="16" /> | [WebCurate Developer Tools](https://webcurate.co/c/developer) | A hand-curated collection of 380+ best developer tools and resources with detailed descriptions and features. | html, css, javascript, development |
  <img src="https://www.google.com/s2/favicons?domain=https://worktypefocus.com/&sz=128" width="16" /> | [Work Type Focus](https://worktypefocus.com/) | Classify and visualize Jira work to stay focused and foster innovation | agile, sprint planning, work classification, team focus |
- <img src="https://www.google.com/s2/favicons?domain=https://zapkit.dev/&sz=128" width="16" /> | [ZapKit](https://zapkit.dev/) | ZapKit is a Laravel boilerplate powered by AI that helps you build a Laravel application within minutes. | boilerplate, startup, starter kit, ai, sass |
 
 **[⬆ Back to Index](#index)**
 
@@ -1783,7 +1780,6 @@
  <img src="https://www.google.com/s2/favicons?domain=https://angular.io/guide/devtools&sz=128" width="16" /> | [Angular DevTools](https://angular.io/guide/devtools) | Angular DevTools extends Chrome DevTools adding Angular specific debugging and profiling capabilities. You can use Angular DevTools to understand the structure of your application and preview the stat... | dev tools, angular, profiler, profiling |
  <img src="https://www.google.com/s2/favicons?domain=https://animista.net/&sz=128" width="16" /> | [Animista](https://animista.net/) | Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://anotherwrapper.com&sz=128" width="16" /> | [AnotherWrapper](https://anotherwrapper.com) | 10+ customizable AI demo apps: pick one, make it yours, launch your startup quickly and start making money |  |
- <img src="https://www.google.com/s2/favicons?domain=https://launchyourapp.dev/tools/app-icon-generator&sz=128" width="16" /> | [App Icon Generator](https://launchyourapp.dev/tools/app-icon-generator) | Create beautiful app icons for iOS and Android. Generate all required sizes with just one click. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://apparencekit.dev/&sz=128" width="16" /> | [ApparenceKit](https://apparencekit.dev/) | A flutter template to create iOS, Android and web app in days. Generate all the common boilerplate code and customize the design to fit your brand. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.jetbrains.com/objc/&sz=128" width="16" /> | [AppCode](https://www.jetbrains.com/objc/) | An intelligent IDE for iOS/macOS development focused on code quality, efficient code navigation, smart code completion, on-the-fly code analysis with quick-fixes and superior code refactorings. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://github.com/panxproject/awesome-certificates&sz=128" width="16" /> | [Awesome Certificates](https://github.com/panxproject/awesome-certificates) | A curated list of IT, Computer Science and Business courses with free certificates to earn. | learn, courses, certificates, awesome, panx, free, it, cs, business |
@@ -2284,7 +2280,6 @@
  <img src="https://www.google.com/s2/favicons?domain=https://tinyseed.com/&sz=128" width="16" /> | [TinySeed](https://tinyseed.com/) | TinySeed is the first startup accelerator designed for founders who would traditionally bootstrap. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://topsaasdirectories.com/&sz=128" width="16" /> | [Top SaaS Directories](https://topsaasdirectories.com/) | 100+ Top Directories and Launch Platforms to List your SaaS | startup directory, saas directory, software directory, productivity |
  <img src="https://www.google.com/s2/favicons?domain=https://utilportal.com/&sz=128" width="16" /> | [UtilPortal](https://utilportal.com/) | UtilPortal is your go-to platform for discovering and accessing a curated collection of essential tools and resources. | directory, tools, development, seo |
- <img src="https://www.google.com/s2/favicons?domain=https://zapkit.dev/&sz=128" width="16" /> | [ZapKit](https://zapkit.dev/) | ZapKit is a Laravel boilerplate powered by AI that helps you build a Laravel application within minutes. | boilerplate, startup, starter kit, ai, sass |
  <img src="https://www.google.com/s2/favicons?domain=https://thebootstrappedfounder.com/zero-to-sold/&sz=128" width="16" /> | [Zero To Sold](https://thebootstrappedfounder.com/zero-to-sold/) | Zero to Sold is an actionable guide through all stages of a bootstrapped business: Preparation, Survival, Stability, and Growth. Sold on Amazon and Gumroad. |  |
 
 **[⬆ Back to Index](#index)**
