@@ -69,12 +69,6 @@ export const resources: Resource[] = [
         url: 'https://jestjs.io/',
     },
     {
-        name: 'Job.zip',
-        description: 'We analyze over 10 million jobs per month to identify trends.',
-        categories: ['Job'],
-        url: 'https://job.zip',
-    },
-    {
         name: 'JobBoardSearch 🔎',
         categories: ['Job'],
         description:
