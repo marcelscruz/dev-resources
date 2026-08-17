@@ -360,12 +360,6 @@ export const resources: Resource[] = [
         url: 'https://apiverve.com/',
     },
     {
-        name: 'App Icon Generator',
-        description: 'Create beautiful app icons for iOS and Android. Generate all required sizes with just one click.',
-        categories: ['Code Generator', 'Programming'],
-        url: 'https://launchyourapp.dev/tools/app-icon-generator',
-    },
-    {
         name: 'ApparenceKit',
         description:
             'A flutter template to create iOS, Android and web app in days. Generate all the common boilerplate code and customize the design to fit your brand.',
