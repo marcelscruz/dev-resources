@@ -545,4 +545,12 @@ export const resources: Resource[] = [
         categories: ['Programming', 'Tooling'],
         url: 'https://pythonium.net/',
     },
+    {
+        name: 'Pythonlings',
+        description:
+            'Learn Python by fixing small programs in a terminal-based, Rustlings-style exercise suite with automated checks and guided progression.',
+        categories: ['Learn', 'Programming', 'Code Challenge'],
+        url: 'https://pythonlings.abhik.ai/',
+        keywords: ['python', 'exercises', 'terminal', 'tui'],
+    },
 ]
