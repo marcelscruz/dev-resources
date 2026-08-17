@@ -1,5 +1,5 @@
 {
-"count": 1220,
+"count": 1218,
 "data": [
     {
         "name": "1001 Fonts",
@@ -622,16 +622,6 @@
             "Library"
         ],
         "url": "https://allyjs.io/"
-    },
-    {
-        "name": "Alteropen",
-        "description": "Alternative Directory to popular SaaS products (Free/ OpenSource or with Great Deals) for Developer, Indie",
-        "categories": [
-            "Marketing",
-            "SEO",
-            "Open Source"
-        ],
-        "url": "https://alteropen.com/"
     },
     {
         "name": "Angular DevTools",
@@ -11660,23 +11650,6 @@
             "screenshot api",
             "screenshot automation",
             "screenshot service"
-        ]
-    },
-    {
-        "name": "Screenshot to Code",
-        "description": "Tool for converting screenshots and UI mockups into frontend code to accelerate prototyping workflows.",
-        "categories": [
-            "AI",
-            "Programming"
-        ],
-        "url": "https://screenshottocode.net/",
-        "keywords": [
-            "screenshot",
-            "ui",
-            "frontend",
-            "prototyping",
-            "react",
-            "tailwind"
         ]
     },
     {
