@@ -1,5 +1,5 @@
 {
-"count": 1226,
+"count": 1227,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5025,6 +5025,15 @@
             "flexible jobs",
             "flexible schedule jobs"
         ]
+    },
+    {
+        "name": "flow-chart.io",
+        "description": "AI diagram generator that produces fully editable C4 architecture, BPMN, cloud architecture, and ERD diagrams as a live scene graph. Every node, connector, and label stays editable after generation.",
+        "categories": [
+            "AI",
+            "Design"
+        ],
+        "url": "https://flow-chart.io"
     },
     {
         "name": "Flowbite",
