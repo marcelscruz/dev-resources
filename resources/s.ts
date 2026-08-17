@@ -954,14 +954,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'Stride Bootstrap Landingpage Template',
-        description:
-            'Made with an startup or tech company in mind. Bootstrap 5.2 based and developed with and for modern web standards.',
-        categories: ['Template'],
-        url: 'https://templatedeck.com/stride-html-template.html',
-        keywords: ['HTML', 'Bootstrap', 'Landingpage', 'Template', 'CSS', 'Open Source Template', 'Free Template'],
-    },
-    {
         name: 'Stryng',
         description:
             'Stryng is an AI-powered platform designed to improve the process of content creation. It is both an article generator and editor, equipped with an AI Assistant that helps perfecting high-quality articles.',
