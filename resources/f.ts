@@ -197,6 +197,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'flow-chart.io',
+        description:
+            'AI diagram generator that produces fully editable C4 architecture, BPMN, cloud architecture, and ERD diagrams as a live scene graph. Every node, connector, and label stays editable after generation.',
+        categories: ['AI', 'Design'],
+        url: 'https://flow-chart.io',
+    },
+    {
         name: 'Flowbite',
         description:
             'Get started with an open-source library of over 600+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.',
