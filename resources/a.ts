@@ -465,20 +465,6 @@ export const resources: Resource[] = [
         keywords: ['marketing', 'tools', 'workflow automation', 'business'],
     },
     {
-        name: 'Avodocs',
-        description: "Free legal documents for startups. Get your company's legal documents in minutes.",
-        categories: ['Legal'],
-        url: 'https://www.avodocs.com',
-        keywords: [
-            'legal',
-            'legal documents',
-            'legal templates',
-            'privacy policy',
-            'terms of service',
-            'terms and conditions',
-        ],
-    },
-    {
         name: 'Awesome a11y',
         description:
             'A curate list about A11Y. Contribute to brunopulis/awesome-a11y development by creating an account on GitHub.',
