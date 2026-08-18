@@ -1,5 +1,5 @@
 {
-"count": 1218,
+"count": 1220,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8142,6 +8142,14 @@
         "url": "https://www.linode.com/"
     },
     {
+        "name": "Linxalium",
+        "description": "Linxalium is a curated discovery platform for useful software, online services, and independent products.",
+        "categories": [
+            "SEO"
+        ],
+        "url": "https://linxalium.com"
+    },
+    {
         "name": "Lite Analytics",
         "description": "Lite Analytics is simple lightweight Google Analytics alternatice. It is privacy focused and doesn",
         "categories": [
@@ -14497,6 +14505,14 @@
             "Illustration"
         ],
         "url": "https://www.artify.co/vector-illustrations"
+    },
+    {
+        "name": "Vectoralix",
+        "description": "Vectoralix is a managed platform for building and operating Model Context Protocol servers without creating the infrastructure from scratch.",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://vectoralix.com"
     },
     {
         "name": "VectorElements",
