@@ -359,6 +359,13 @@ export const resources: Resource[] = [
         url: 'https://www.linode.com/',
     },
     {
+        name: 'Linxalium',
+        description:
+            'Linxalium is a curated discovery platform for useful software, online services, and independent products.',
+        categories: ['SEO'],
+        url: 'https://linxalium.com',
+    },
+    {
         name: 'Lite Analytics',
         description:
             'Lite Analytics is simple lightweight Google Analytics alternatice. It is privacy focused and doesn',
