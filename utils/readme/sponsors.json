@@ -1,7 +1,7 @@
 [
     {
         "name": "SerpApi",
-        "link": "https://serpapi.com/?ref=dr-pa&utm_medium=dev-resources-repo-readme",
+        "link": "https://serpapi.com/?ref=dr-pa&utm_source=dev-resources-repo-readme&utm_medium=referral&utm_content=sponsored",
         "blurb": "Search API that makes it easy and fast to scrape Google and other search engines.",
         "logoDark": "assets/serpapi-dark-mode.svg",
         "logoLight": "assets/serpapi-light-mode.svg",
@@ -9,7 +9,7 @@
     },
     {
         "name": "Screenshot Scout",
-        "link": "https://screenshotscout.com/?ref=dr-pa&utm_medium=dev-resources-repo-readme",
+        "link": "https://screenshotscout.com/?ref=dr-pa&utm_source=dev-resources-repo-readme&utm_medium=referral&utm_content=sponsored",
         "blurb": "A screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request.",
         "logoDark": "assets/screenshot-scout-dark-mode.svg",
         "logoLight": "assets/screenshot-scout-light-mode.svg",
@@ -17,7 +17,7 @@
     },
     {
         "name": "TalorData",
-        "link": "https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=dev-resources-repo-readme",
+        "link": "https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=referral&utm_content=sponsored",
         "blurb": "Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses.",
         "logoDark": "assets/talordata-dark-mode.svg",
         "logoLight": "assets/talordata-light-mode.svg",
@@ -25,7 +25,7 @@
     },
     {
         "name": "CoreClaw",
-        "link": "https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=dev4&utm_term=&utm_id=dev4&ref=dr-pa",
+        "link": "https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=dev4&utm_term=&utm_id=dev4&ref=dr-pa&utm_content=sponsored",
         "blurb": "Real-time public data, ready to use. Extract web data from Amazon, TikTok, Google Maps and more with 100+ ready-made tools.",
         "logoDark": "assets/coreclaw-dark-mode.png",
         "logoLight": "assets/coreclaw-light-mode.svg",
