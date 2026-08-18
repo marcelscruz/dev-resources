@@ -400,12 +400,6 @@ export const resources: Resource[] = [
         url: 'https://morrisjs.github.io/morris.js/',
     },
     {
-        name: 'MyChatbots AI',
-        description: 'A platform for easily creating, training, and chatting with AI chatbots using your own data',
-        categories: ['AI', 'Productivity'],
-        url: 'https://mychatbots.ai',
-    },
-    {
         name: 'MyPerfectResume',
         description: 'Create a perfect resume in just minutes and land the job you deserve. It',
         categories: ['Resume'],

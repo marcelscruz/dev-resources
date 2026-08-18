@@ -15,13 +15,6 @@ export const resources: Resource[] = [
         url: 'https://www.heavybit.com/library/podcasts/jamstack-radio/',
     },
     {
-        name: 'JavaScript Developer Jobs',
-        description:
-            'Find specific JavaScript Developer Jobs, including Remote Jobs. You are looking for JavaScript Developers? Submit your position for free.',
-        categories: ['Job'],
-        url: 'https://javascriptjob.xyz/',
-    },
-    {
         name: 'JavaScript for impatient programmers',
         description:
             'This book makes JavaScript less challenging to learn for newcomers, by offering a modern view that is as consistent as possible.',
@@ -83,12 +76,6 @@ export const resources: Resource[] = [
         categories: ['Job', 'Remote'],
         url: 'https://jobicy.com',
         keywords: ['remote jobs', 'remote work', 'jobs', 'employment'],
-    },
-    {
-        name: 'Joblist.app',
-        description: 'A Job Board for Tech Enthusiasts.',
-        categories: ['Job'],
-        url: 'https://joblist.app/',
     },
     {
         name: 'Jobspresso',

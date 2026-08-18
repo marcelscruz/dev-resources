@@ -24,13 +24,6 @@ export const resources: Resource[] = [
         url: 'https://www.cakeresume.com/',
     },
     {
-        name: 'Callstack.ai Code Reviewer',
-        description: 'Effortless Code Reviews: Find Bugs, Fix Security Issues, and Speed Up Performance.',
-        categories: ['AI', 'Tooling'],
-        url: 'https://callstack.ai',
-        keywords: ['github-integration', 'gitlab-integration', 'pull-requests', 'AI', 'ai-powered', 'code-review'],
-    },
-    {
         name: 'CandyIcons',
         description:
             'CandyIcons offers thousands of unique and amazing app icons that have not yet appeared elsewhere, saving you time in spotting the perfect icon for your product.',
@@ -832,13 +825,6 @@ export const resources: Resource[] = [
             'startup',
             'talk radio',
         ],
-    },
-    {
-        name: 'Community List',
-        description:
-            'Finding relevant communities takes hours and manual googling sucks. With Community List, quickly find relevant communities with all the data you need in one place.',
-        categories: ['Marketing'],
-        url: 'https://getcommunitylist.com/',
     },
     {
         name: 'Compare pixels',

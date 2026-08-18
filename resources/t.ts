@@ -84,23 +84,6 @@ export const resources: Resource[] = [
         url: 'https://techcrunch.com/',
     },
     {
-        name: 'Techstarta',
-        description:
-            'Empower your tech career with Techstarta! Gain hands-on project experience and mentorship to connect with industry experts.',
-        categories: ['Learn', 'AI'],
-        url: 'https://techstarta.com/',
-        keywords: [
-            'Techstarta',
-            'Tech career',
-            'Hands-on experience',
-            'Mentorship',
-            'Industry experts',
-            'Early-career professionals',
-            'Skill development',
-            'Tech projects',
-        ],
-    },
-    {
         name: 'TechTeamFinder',
         description: 'Connect companies with engineering teams',
         categories: ['Job', 'Startup'],

@@ -23,10 +23,4 @@ export const resources: Resource[] = [
         categories: ['Testing'],
         url: 'https://www.getxray.app/',
     },
-    {
-        name: 'xstyled',
-        description: 'A utility-first CSS-in-JS framework built for React.',
-        categories: ['Library', 'Programming', 'UI'],
-        url: 'https://xstyled.dev/',
-    },
 ]

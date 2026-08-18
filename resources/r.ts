@@ -274,14 +274,6 @@ export const resources: Resource[] = [
         url: 'https://remoteok.io/',
     },
     {
-        name: 'RemoteSalary',
-        description:
-            '20,000+ jobs all over $50,000 salary. Find your ideal high paying remote role. Searches 2,000,000+ job postings across 12,000+ companies daily to find the highest paying remote roles.',
-        categories: ['Job', 'Remote', 'AI'],
-        url: 'https://remotesalary.ai/board',
-        keywords: ['remote', 'salary', 'salary search', 'development'],
-    },
-    {
         name: 'Remotive',
         description:
             'Find the best remote job, working as a developer, customer support rep, product or sales professional... See openings in our categories. All jobs are hand curated and allow remote work. We serve the best work from home jobs in popular categories. Talent is everywhere, work remotely today!',
@@ -436,13 +428,6 @@ export const resources: Resource[] = [
         categories: ['AI', 'Marketing'],
         url: 'https://www.revyou.me/',
         keywords: ['ai', 'marketing', 'lead magnet', 'reviews'],
-    },
-    {
-        name: 'Rick Blyth',
-        description:
-            'Rick Blyth is a Micro SaaS Founder who shares tips on getting started with Micro SaaS, Passive Income, Quit Your Job and Chrome Extensions. Home of the free 12 chapter Micro SaaS Handbook.',
-        categories: ['Personal Website'],
-        url: 'https://rickblyth.com/',
     },
     {
         name: 'Rider',

@@ -382,13 +382,6 @@ export const resources: Resource[] = [
         keywords: ['directory', 'template', 'javascript', 'development tool', 'boilerplate'],
     },
     {
-        name: 'DirectoryTemplates',
-        description: 'Directory for directory templates',
-        categories: ['Template', 'Programming'],
-        url: 'https://www.directorytemplates.co',
-        keywords: ['directory', 'template', 'javascript', 'development tool', 'boilerplate', 'starter'],
-    },
-    {
         name: 'Directus',
         description:
             'Directus is a headless CMS that instantly turns your SQL database into REST and GraphQL APIs and provides a beautiful no-code app to manage content.',
@@ -423,29 +416,6 @@ export const resources: Resource[] = [
         categories: ['AI', 'Productivity'],
         url: 'https://www.doculator.org/',
         keywords: ['translation', 'ai', 'productivity', 'file formats'],
-    },
-    {
-        name: 'Doculearn',
-        description:
-            'Intelligent productivity platform that automatically generates AI-powered flashcards from your GitHub commits, updates team boards in real-time, and fills knowledge gaps with Context Cards—all without manual updates. Learn your codebase while you build.',
-        categories: ['Learn', 'Programming', 'Productivity'],
-        url: 'https://doculearnapp.com',
-        keywords: [
-            'flashcards',
-            'ai',
-            'github',
-            'learning',
-            'productivity',
-            'knowledge retention',
-            'spaced repetition',
-            'context cards',
-            'code learning',
-            'team collaboration',
-            'automatic boards',
-            'developer tools',
-            'azure ai',
-            'build in public',
-        ],
     },
     {
         name: 'Documind AI',

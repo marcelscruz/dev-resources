@@ -61,13 +61,6 @@ export const resources: Resource[] = [
         url: 'https://gumroad.com/a/124908659',
     },
     {
-        name: 'LandingPro AI',
-        description: 'AI that writes website copy that actually sell',
-        categories: ['AI', 'Marketing'],
-        url: 'https://landingpro.ai/',
-        keywords: ['marketing', 'ai'],
-    },
-    {
         name: 'Lapa Ninja',
         description:
             'The best landing page design inspiration from around the web. Lapa Ninja is created to help designers find inspiration, learn and improve design skills. The contents are selected from the best designs, and daily updated.',
@@ -85,24 +78,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'Laradir',
-        description:
-            'The biggest directory of Laravel engineers. Find your next role or gig. Laradir is a reverse job board, so teams reach out to you!',
-        categories: ['Job', 'Freelance', 'Remote'],
-        url: 'https://laradir.com/',
-        keywords: [
-            'laravel developers',
-            'laravel freelancers',
-            'directory',
-            'collaborators',
-            'mentor',
-            'full-time',
-            'part-time',
-            'hybrid',
-            'remote',
-        ],
-    },
-    {
         name: 'Larajobs',
         description: 'Since 2014, the #1 Laravel job board connecting the best jobs with top talent.',
         categories: ['Job'],
@@ -117,33 +92,11 @@ export const resources: Resource[] = [
         keywords: ['ai tools', 'ai directory', 'developer productivity', 'generative ai'],
     },
     {
-        name: 'Launch Squad',
-        description: 'The best Product Hunt alternatives for your next launch.',
-        categories: ['Productivity', 'Marketing'],
-        url: 'https://www.launchsquad.club',
-        keywords: [
-            'Entrepreneurship',
-            'Collaboration',
-            'Startups',
-            'Growth Strategies',
-            'Community Support',
-            'Marketing',
-            'Project Management',
-        ],
-    },
-    {
         name: 'Layoutit Grid',
         description:
             'Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.',
         categories: ['Code Generator'],
         url: 'https://grid.layoutit.com/',
-    },
-    {
-        name: 'Lead Generation Tools',
-        description: 'Handpicked Collection Of Lead Generation Tool',
-        categories: ['Marketing', 'Productivity', 'Startup'],
-        url: 'https://www.lead-generation.tools',
-        keywords: ['directory', 'automation', 'ai', 'aggregators'],
     },
     {
         name: 'Learn CSS',
@@ -225,13 +178,6 @@ export const resources: Resource[] = [
         keywords: ['web3', 'web3 developer', 'web3 developer course'],
     },
     {
-        name: 'Lede',
-        description: 'Generate In-Depth Blog Content',
-        categories: ['Writing', 'Productivity', 'AI'],
-        url: 'https://thelede.ai',
-        keywords: ['assistant', 'research', 'content', 'blog'],
-    },
-    {
         name: 'LeetCode',
         description:
             'Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview.',
@@ -307,13 +253,6 @@ export const resources: Resource[] = [
             '2000+ Essential Line Icons, A Complete Yet Most Simplified Free Line Icon Pack of the Web - Available in WebFont, SVG, PNG, React, PNG, and PDF Files.',
         categories: ['Icon'],
         url: 'https://lineicons.com/',
-    },
-    {
-        name: 'Linito',
-        description: 'A better interface for Google Analytics',
-        categories: ['Analytics', 'Marketing'],
-        url: 'https://linito.io/',
-        keywords: ['Google Analytics', 'Analytics', 'web analytics', 'website analytics'],
     },
     {
         name: 'LinkDR',
@@ -437,13 +376,6 @@ export const resources: Resource[] = [
             'No random generation and no symbols from a free database. Everything was crafted from the ground-up!',
         categories: ['Logo'],
         url: 'https://www.logology.co/',
-    },
-    {
-        name: 'LogoTaco',
-        description:
-            'Create or make your own logo design from our resource of free downloads and templates for businesses, companies, MVP',
-        categories: ['Logo'],
-        url: 'https://www.logotaco.com/',
     },
     {
         name: 'LogRocket',

@@ -183,13 +183,6 @@ export const resources: Resource[] = [
         url: 'https://www.jetbrains.com/go/',
     },
     {
-        name: 'Golang Developer Jobs',
-        description:
-            'Find specific Golang Developer Jobs, including Remote Jobs. You are looking for Golang Developers? Submit your position for free.',
-        categories: ['Job'],
-        url: 'https://golangjob.xyz/',
-    },
-    {
         name: 'Google Chrome Developers',
         description: 'Making the web more awesome.',
         categories: ['Programming', 'YouTube Channel'],

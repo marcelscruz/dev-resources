@@ -372,13 +372,6 @@ export const resources: Resource[] = [
         url: 'https://www.producthunt.com/',
     },
     {
-        name: 'ProductiveHub',
-        description:
-            'Discover top apps and websites on Productive Hub that enhance your productivity and help you beat procrastination, streamlining your journey to peak productivity.',
-        categories: ['Productivity', 'Blog'],
-        url: 'https://www.productive-hub.com/',
-    },
-    {
         name: 'Programiz',
         description:
             'Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references.',
@@ -439,13 +432,6 @@ export const resources: Resource[] = [
         categories: ['AI', 'Security', 'Authentication'],
         url: 'https://proxed.ai/',
         keywords: ['ai api security', 'ios api protection', 'secure ai integration', 'api key management'],
-    },
-    {
-        name: 'Proxies API',
-        description:
-            'Get HTML from any page with a simple API call. We handle proxy rotation, browser identities, automatic retries, CAPTCHAs, JavaScript rendering and much more.',
-        categories: ['Scraping'],
-        url: 'https://proxiesapi.com',
     },
     {
         name: 'Pttrns',
@@ -518,13 +504,6 @@ export const resources: Resource[] = [
             'The Python & Django IDE with intelligent code completion, on-the-fly error checking, quick-fixes, and much more...',
         categories: ['Editor', 'Programming'],
         url: 'https://www.jetbrains.com/pycharm/',
-    },
-    {
-        name: 'Python Developer Jobs',
-        description:
-            'Find specific Python Developer Jobs, including Remote Jobs. You are looking for Python Developers? Submit your position for free.',
-        categories: ['Job'],
-        url: 'https://pythonjob.xyz/',
     },
     {
         name: 'Python For Everybody',

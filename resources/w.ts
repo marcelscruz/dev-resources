@@ -259,14 +259,6 @@ export const resources: Resource[] = [
         url: 'https://www.wix.com/',
     },
     {
-        name: 'WLSpy',
-        description:
-            'WLSpy helps users discover winning products by analyzing market trends and competitor strategies.',
-        categories: ['Marketing', 'AI'],
-        url: 'https://wlspy.com',
-        keywords: ['Product Research', 'Market Analysis', 'Competitor Monitoring'],
-    },
-    {
         name: 'WordPress',
         description:
             'Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.',
