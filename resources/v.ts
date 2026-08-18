@@ -40,6 +40,13 @@ export const resources: Resource[] = [
         url: 'https://www.artify.co/vector-illustrations',
     },
     {
+        name: 'Vectoralix',
+        description:
+            'Vectoralix is a managed platform for building and operating Model Context Protocol servers without creating the infrastructure from scratch.',
+        categories: ['AI'],
+        url: 'https://vectoralix.com',
+    },
+    {
         name: 'VectorElements',
         description:
             'VectorElements offers free and premium vector illustrations, icons, UI kits, textures, and design assets for websites, apps, print, and digital projects.',
