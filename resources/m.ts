@@ -16,6 +16,14 @@ export const resources: Resource[] = [
         keywords: ['auth', 'authentication', 'passwordless'],
     },
     {
+        name: 'Magic Eraser',
+        description:
+            'AI photo editing platform for removing objects/backgrounds, enhancing images, expanding borders, applying filters, and generating visuals.',
+        categories: ['Image'],
+        url: 'https://magiceraser.live/',
+        keywords: ['AI', 'photo editing', 'image editing', 'background remover'],
+    },
+    {
         name: 'Magic Potion',
         description: 'Visual AI Prompt Editor',
         categories: ['Productivity', 'AI', 'Editor'],
