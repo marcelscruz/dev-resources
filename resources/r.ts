@@ -335,6 +335,13 @@ export const resources: Resource[] = [
         url: 'https://resend.com/',
     },
     {
+        name: 'Reserp',
+        description: 'Send a Google Search URL and receive visible result blocks as structured JSON.',
+        categories: ['Scraping'],
+        url: 'https://reserp.ai',
+        keywords: ['google', 'search', 'serp', 'api', 'json'],
+    },
+    {
         name: 'Reshot',
         description:
             'Find tons of curated, non-stocky images for you to use in your next creative project, for free! Free for commercial use. No attribution required.',
