@@ -128,6 +128,27 @@ export const resources: Resource[] = [
         keywords: ['marketing', 'audit', 'checklist', 'automation', 'seo', 'google', 'analytics'],
     },
     {
+        name: 'Markleyo',
+        description:
+            'Markleyo helps businesses automate customer support, capture leads, and engage customers with AI chatbots across websites and messaging channels.',
+        categories: ['AI'],
+        url: 'https://markleyo.com/',
+        keywords: [
+            'AI chatbot',
+            'customer support',
+            'lead generation',
+            'business automation',
+            'conversational AI',
+            'live chat',
+            'AI agents',
+            'SaaS',
+            'WhatsApp',
+            'ecommerce',
+            'chatbot builder',
+            'productivity',
+        ],
+    },
+    {
         name: 'Marko Denic',
         description: 'Web Developer, Public speaker, IT trainer and consultant.',
         categories: ['Personal Website'],
