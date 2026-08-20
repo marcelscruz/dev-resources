@@ -293,6 +293,13 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/channel/UCDQTzZ871T7uJpx9yeMPhAw',
     },
     {
+        name: 'Thridy',
+        description:
+            'Free library of 13,000+ 3D icons rendered in one consistent style. Icons download as HD transparent PNGs, free for personal and commercial use with no attribution or signup.',
+        categories: ['Icon'],
+        url: 'https://thridy.com',
+    },
+    {
         name: 'TinyPNG',
         description:
             'Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency!',
