@@ -424,6 +424,14 @@ export const resources: Resource[] = [
         keywords: ['kubernetes'],
     },
     {
+        name: 'ArtboardLab',
+        description:
+            'Free browser-based tools that convert Adobe Illustrator .ai files to SVG, PNG or PDF and compress images. Files are processed locally, never uploaded.',
+        categories: ['Design', 'Image', 'Tooling'],
+        url: 'https://artboardlab.com',
+        keywords: ['illustrator', 'ai to svg', 'svg', 'image compression', 'webassembly', 'converter'],
+    },
+    {
         name: 'Artify',
         description:
             'Artify is an online and easy-to-use design editor that features thousands of customizable illustrations and template packs.',
