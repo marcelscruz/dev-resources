@@ -8,14 +8,6 @@
         "width": 116
     },
     {
-        "name": "TalorData",
-        "link": "https://talordata.com/?campaignid=qhVxesdsTkpe2rOg&utm_source=publicapis&utm_term=publicapis&ref=dr-pa&utm_medium=referral&utm_content=sponsored",
-        "blurb": "Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses.",
-        "logoDark": "assets/talordata-dark-mode.svg",
-        "logoLight": "assets/talordata-light-mode.svg",
-        "width": 69
-    },
-    {
         "name": "CoreClaw",
         "link": "https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=dev4&utm_term=&utm_id=dev4&ref=dr-pa&utm_content=sponsored",
         "blurb": "Real-time public data, ready to use. Extract web data from Amazon, TikTok, Google Maps and more with 100+ ready-made tools.",
