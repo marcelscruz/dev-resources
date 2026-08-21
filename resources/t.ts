@@ -631,5 +631,13 @@ export const resources: Resource[] = [
         categories: ['Typing'],
         url: 'https://www.typingclub.com/',
         keywords: ['typing', 'typing tutorial', 'free touch typing tutorial', 'touch typing', 'typing game'],
+    }, 
+    {
+        name: 'Typre',
+        description:
+            'Typing practice for programmers: real code in 14 languages, live races, and a drill for brackets and operators. Works offline, no account needed.',
+        categories: ['Learn', 'Typing'],
+        url: 'https://www.typre.dev',
+        keywords: ['typing', 'code typing', 'programming', 'wpm', 'touch typing'],
     },
 ]
