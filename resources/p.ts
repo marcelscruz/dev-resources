@@ -358,6 +358,14 @@ export const resources: Resource[] = [
         url: 'https://www.primefaces.org/',
     },
     {
+        name: 'Prismix',
+        description:
+            'Real-time status for 75+ AI services, curated news from 70+ sources, and a directory of 500+ MCP servers. Free REST API for status data.',
+        categories: ['AI', 'Tooling'],
+        url: 'https://prismix.dev',
+        keywords: ['ai status', 'mcp servers', 'ai news', 'uptime monitoring', 'openai status', 'anthropic status'],
+    },
+    {
         name: 'Privacyboard',
         description: 'Privacyboard helps you comply with GDPR in minutes so you can focus on what',
         categories: ['Legal'],
