@@ -964,6 +964,14 @@ export const resources: Resource[] = [
         keywords: ['image converter', 'image compressor', 'background remover', 'client-side', 'image tools'],
     },
     {
+        name: 'Convertyard',
+        description:
+            'ConvertYard converts images, PDFs, audio, and video files locally using WebAssembly — your files never leave your device.',
+        categories: ['Image'],
+        url: 'https://convertyard.com/',
+        keywords: ['JPG to WebP', 'JPG to AVIF', 'Image Compressor', 'Image Resizer', 'Image Cropper'],
+    },
+    {
         name: 'CookieYes',
         description:
             'CookieYes is a cookie consent solution that helps your website achieve GDPR and CCPA compliance easily. Create a lifetime free account!',
