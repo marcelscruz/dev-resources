@@ -825,6 +825,14 @@ export const resources: Resource[] = [
         url: 'https://startups.gallery/',
     },
     {
+        name: 'Statable',
+        description:
+            'Cookieless web analytics built and hosted in the European Union. Reports visitors, traffic sources, campaigns, goals and funnels without setting cookies or storing persistent identifiers, so there is no consent gate to configure. The tracking script ranges from 504 to 1,855 bytes compressed depending on which features a site enables, and the data is queryable through a documented REST API with an OpenAPI spec.',
+        categories: ['Analytics'],
+        url: 'https://statable.com',
+        keywords: ['web analytics', 'cookieless', 'privacy', 'eu hosted', 'api'],
+    },
+    {
         name: 'Stormkit',
         description:
             'Stormkit integrates perfectly with your git flow. It builds, deploys and scales your javascript apps seamlessly.',
