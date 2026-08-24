@@ -339,6 +339,22 @@ export const resources: Resource[] = [
         keywords: ['dns', 'domain', 'redirect', 'apex domain', 'naked domain', '301 redirect', 'www'],
     },
     {
+        name: 'ApexVerify',
+        description:
+            'Verify emails, phone numbers, and addresses with real-time accuracy. Keep your contact data clean, compliant, and reliable with our all-in-one suite.',
+        categories: ['Marketing'],
+        url: 'https://apexverify.com/',
+        keywords: [
+            'email verification',
+            'phone verification',
+            'data verification',
+            'email',
+            'telephony',
+            'contact',
+            'lead',
+        ],
+    },
+    {
         name: 'Apigee',
         description:
             'Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.',
