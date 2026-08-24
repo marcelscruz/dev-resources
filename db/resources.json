@@ -1,5 +1,5 @@
 {
-"count": 1195,
+"count": 1196,
 "data": [
     {
         "name": "1001 Fonts",
@@ -717,6 +717,23 @@
             "naked domain",
             "301 redirect",
             "www"
+        ]
+    },
+    {
+        "name": "ApexVerify",
+        "description": "Verify emails, phone numbers, and addresses with real-time accuracy. Keep your contact data clean, compliant, and reliable with our all-in-one suite.",
+        "categories": [
+            "Marketing"
+        ],
+        "url": "https://apexverify.com/",
+        "keywords": [
+            "email verification",
+            "phone verification",
+            "data verification",
+            "email",
+            "telephony",
+            "contact",
+            "lead"
         ]
     },
     {
