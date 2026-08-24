@@ -212,6 +212,14 @@ export const resources: Resource[] = [
         keywords: ['tailwind', 'ui components', 'ui kits', 'icon'],
     },
     {
+        name: 'FluentEDI',
+        description:
+            'Deterministic tools for AI agents over HTTP and MCP, with no API key or signup. Parse, generate and validate X12 EDI (850, 856, 810, 997), compute GS1 and IBAN check digits, do timezone and delivery-window arithmetic, resolve cron schedules, repair malformed JSON with the line and column where it broke, verify Ed25519 signatures, and scan text for leaked credentials.',
+        categories: ['AI', 'Tooling', 'Programming'],
+        url: 'https://fluentedi.com',
+        keywords: ['edi', 'x12', 'ai agents', 'mcp', 'api', 'developer tools'],
+    },
+    {
         name: 'Fluid UI',
         description:
             'Free lifetime account. Simple to learn, quick to master. Design interactive prototypes for Android, iOS, web and desktop in minutes.',
