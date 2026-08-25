@@ -1,5 +1,5 @@
 {
-"count": 1198,
+"count": 1199,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9935,6 +9935,22 @@
             "screenshot hosting",
             "image CDN",
             "image transforms"
+        ]
+    },
+    {
+        "name": "Planet Cert",
+        "description": "PlanetCert offers professional certification training and exam preparation. Get certified in IT, Project Management, and more with our comprehensive courses.",
+        "categories": [
+            "Writing"
+        ],
+        "url": "https://planetcert.com/",
+        "keywords": [
+            "Cisco 200-301",
+            "AZ-900 practice test",
+            "AWS cloud practitioner",
+            "IT certifications",
+            "AI exam prep",
+            "network associate"
         ]
     },
     {
