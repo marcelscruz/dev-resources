@@ -251,6 +251,21 @@ export const resources: Resource[] = [
         keywords: ['image hosting', 'AI agents', 'screenshot hosting', 'image CDN', 'image transforms'],
     },
     {
+        name: 'Planet Cert',
+        description:
+            'PlanetCert offers professional certification training and exam preparation. Get certified in IT, Project Management, and more with our comprehensive courses.',
+        categories: ['Writing'],
+        url: 'https://planetcert.com/',
+        keywords: [
+            'Cisco 200-301',
+            'AZ-900 practice test',
+            'AWS cloud practitioner',
+            'IT certifications',
+            'AI exam prep',
+            'network associate',
+        ],
+    },
+    {
         name: 'Planomy Tax Data',
         description:
             '2026 US federal tax brackets, retirement contribution limits, Social Security, Medicare IRMAA and RMD ages as JSON, each figure cited to its IRS/SSA/CMS source',
