@@ -418,6 +418,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Site Punchlist',
+        description:
+            'Crawls a whole site with axe-core, groups repeated findings by the component causing them, and returns a prioritised fix list as HTML, PDF and CSV.',
+        categories: ['Accessibility', 'Testing', 'Tooling'],
+        url: 'https://sitepunchlist.com',
+        keywords: ['accessibility', 'a11y', 'wcag', 'axe-core', 'accessibility testing'],
+    },
+    {
         name: 'Site123',
         description:
             'Create a free website with SITE123. No design or coding skills required. SITE123 is by far the easiest free website builder. Create your website now!',
@@ -431,14 +439,6 @@ export const resources: Resource[] = [
             'A CSS gallery and showcase of the best web design inspiration, featuring over 2,500 websites searchable by type, subject, and style.',
         categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://www.siteinspire.com/',
-    },
-    {
-        name: 'Site Punchlist',
-        description:
-            'Crawls a whole site with axe-core, groups repeated findings by the component causing them, and returns a prioritised fix list as HTML, PDF and CSV.',
-        categories: ['Accessibility', 'Testing', 'Tooling'],
-        url: 'https://sitepunchlist.com',
-        keywords: ['accessibility', 'a11y', 'wcag', 'axe-core', 'accessibility testing'],
     },
     {
         name: 'SiteSee',
