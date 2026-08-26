@@ -234,7 +234,15 @@ export const resources: Resource[] = [
         categories: ['Design', 'UI'],
         url: 'https://www.checklist.design/',
     },
-    {
+        {
+        name: 'Chemistry AI',
+        description:
+            'AI chemistry tutor with step-by-step explanations for equations, stoichiometry, molarity, reactions, and study questions.',
+        categories: ['AI', 'Learn'],
+        url: 'https://chemistryai.chat/',
+        keywords: ['chemistry', 'education', 'AI tutor', 'stoichiometry', 'problem solver'],
+    },
+{
         name: 'Choc UI',
         description:
             'Choc UI is a set of accessible and reusable components that are commonly used in web applications.',
