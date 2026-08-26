@@ -175,6 +175,13 @@ export const resources: Resource[] = [
         url: 'https://readme.so/',
     },
     {
+        name: 'Realistic AI Image Generator',
+        description: 'Browser-based AI image generator for photorealistic assets, product mockups, and visual prototypes from text prompts.',
+        categories: ['AI', 'Design', 'Image', 'Productivity'],
+        url: 'https://realisticaiimagegenerator.online/',
+        keywords: ['ai', 'image generation', 'photorealistic images', 'product mockups', 'visual prototyping'],
+    },
+    {
         name: 'Realtime Colors',
         description: 'Visualize your colors and fonts on a real website.',
         categories: ['Color', 'Design'],
