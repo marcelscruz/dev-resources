@@ -1,5 +1,5 @@
 {
-"count": 1200,
+"count": 1201,
 "data": [
     {
         "name": "1001 Fonts",
@@ -80,6 +80,24 @@
             "crowdsource",
             "graphic design",
             "design"
+        ]
+    },
+    {
+        "name": "A Box of Tools",
+        "description": "Client-side file tools for developers: format JSON, diff text, base64, hashes, favicons, image to data URI, compress images. No upload.",
+        "categories": [
+            "Image",
+            "Tooling",
+            "Open Source"
+        ],
+        "url": "https://abox.tools",
+        "keywords": [
+            "json formatter",
+            "base64",
+            "favicon",
+            "image compression",
+            "client-side",
+            "no upload"
         ]
     },
     {
