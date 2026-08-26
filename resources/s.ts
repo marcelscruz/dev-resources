@@ -707,6 +707,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Sparqo AI',
+        description:
+            'Sparqo is an AI CMO platform that helps founders and small teams grow through content, SEO, and Reddit.',
+        categories: ['Marketing'],
+        url: 'https://sparqo.ai/',
+        keywords: ['marketing'],
+    },
+    {
         name: 'SpeedUp AI',
         description: 'End-to-End AI Circuit Schematic Design',
         categories: ['AI', 'Design', 'Prototyping'],
