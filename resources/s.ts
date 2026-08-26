@@ -433,6 +433,14 @@ export const resources: Resource[] = [
         url: 'https://www.siteinspire.com/',
     },
     {
+        name: 'Site Punchlist',
+        description:
+            'Crawls a whole site with axe-core, groups repeated findings by the component causing them, and returns a prioritised fix list as HTML, PDF and CSV.',
+        categories: ['Accessibility', 'Testing', 'Tooling'],
+        url: 'https://sitepunchlist.com',
+        keywords: ['accessibility', 'a11y', 'wcag', 'axe-core', 'accessibility testing'],
+    },
+    {
         name: 'SiteSee',
         description: 'A curated gallery of beautiful, modern websites meant to inspire web developers and designers.',
         categories: ['Design', 'Inspiration', 'UI'],
