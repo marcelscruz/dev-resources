@@ -1,5 +1,5 @@
 {
-"count": 1199,
+"count": 1200,
 "data": [
     {
         "name": "1001 Fonts",
@@ -12327,6 +12327,17 @@
             "Advertising Integration (Google Ads)",
             "Interactive Visualizations",
             "No Signup Required for CSV Analysis"
+        ]
+    },
+    {
+        "name": "Sparqo AI",
+        "description": "Sparqo is an AI CMO platform that helps founders and small teams grow through content, SEO, and Reddit.",
+        "categories": [
+            "Marketing"
+        ],
+        "url": "https://sparqo.ai/",
+        "keywords": [
+            "marketing"
         ]
     },
     {
