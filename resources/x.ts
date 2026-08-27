@@ -9,6 +9,14 @@ export const resources: Resource[] = [
         url: 'https://www.xda-developers.com/',
     },
     {
+        name: 'XiuRouter',
+        description:
+            'One API for GPT, Claude, and Gemini with native protocol routes, scoped keys, usage records, and transparent usage-based pricing.',
+        categories: ['AI', 'API Building', 'Tooling'],
+        url: 'https://router.xiu.ai',
+        keywords: ['llm api', 'ai gateway', 'openai', 'anthropic', 'gemini', 'model routing'],
+    },
+    {
         name: 'Xquik',
         description:
             'Hosted X data platform with REST, MCP, SDKs, monitoring, HMAC webhooks, and approval-gated automation. Not affiliated with X Corp.',
