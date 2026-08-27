@@ -145,6 +145,14 @@ export const resources: Resource[] = [
         url: 'https://openvim.com/',
     },
     {
+        name: 'open-banking.io',
+        description:
+            'Unified REST API for European bank accounts. PSD2 open-banking data — connect to thousands of EU banks without your own banking certificates.',
+        categories: ['API Building'],
+        url: 'https://open-banking.io',
+        keywords: ['open banking', 'psd2', 'bank api', 'fintech', 'payments'],
+    },
+    {
         name: 'OpenChakra',
         description: 'React JSX visual editor for Chakra UI.',
         categories: ['Prototyping', 'UI'],
