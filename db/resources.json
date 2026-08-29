@@ -1,5 +1,5 @@
 {
-"count": 1203,
+"count": 1204,
 "data": [
     {
         "name": "1001 Fonts",
@@ -13404,6 +13404,23 @@
             "free tools",
             "browser-based",
             "no signup"
+        ]
+    },
+    {
+        "name": "ToolSuite",
+        "description": "ToolSuite provides free in-browser developer utilities including Base64 encoder, Unix timestamp converter, JSON formatter, and image optimization tools.",
+        "categories": [
+            "Tooling",
+            "Productivity"
+        ],
+        "url": "https://toolsuite.fit",
+        "keywords": [
+            "developer tools",
+            "base64 encoder",
+            "unix timestamp",
+            "json formatter",
+            "image compressor",
+            "browser-based"
         ]
     },
     {
