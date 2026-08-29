@@ -353,6 +353,21 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'ToolSuite',
+        description:
+            'ToolSuite provides free in-browser developer utilities including Base64 encoder, Unix timestamp converter, JSON formatter, and image optimization tools.',
+        categories: ['Tooling', 'Productivity'],
+        url: 'https://toolsuite.fit',
+        keywords: [
+            'developer tools',
+            'base64 encoder',
+            'unix timestamp',
+            'json formatter',
+            'image compressor',
+            'browser-based',
+        ],
+    },
+    {
         name: 'TOOOLS.design',
         description: 'A growing archive of 1,500+ design resources, frequently updated for the community.',
         categories: ['Accessibility', 'Design', 'Blog'],
