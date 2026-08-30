@@ -6,13 +6,5 @@
         "logoDark": "assets/serpapi-dark-mode.svg",
         "logoLight": "assets/serpapi-light-mode.svg",
         "width": 116
-    },
-    {
-        "name": "CoreClaw",
-        "link": "https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=dev4&utm_term=&utm_id=dev4&ref=dr-pa&utm_content=sponsored",
-        "blurb": "Real-time public data, ready to use. Extract web data from Amazon, TikTok, Google Maps and more with 100+ ready-made tools.",
-        "logoDark": "assets/coreclaw-dark-mode.png",
-        "logoLight": "assets/coreclaw-light-mode.svg",
-        "width": 136
     }
 ]
