@@ -56,6 +56,13 @@ export const resources: Resource[] = [
         url: 'https://tatask.com/',
     },
     {
+        name: 'TeamBrain',
+        description: 'Shared workspace for AI teams',
+        categories: ['Productivity', 'AI', 'Startup'],
+        url: 'https://teambrain.co/',
+        keywords: ['team collaboration', 'productivity tool', 'project management', 'knowledge base'],
+    },
+    {
         name: 'Tech Blogs',
         description: 'This is a list of Awesome Tech Blogs. Add yourself.',
         categories: ['Blog'],
