@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'RAADS-R Test',
+        description:
+            'A browser-based self-assessment that presents structured results across four trait domains with clear educational context.',
+        categories: ['AI', 'Tooling'],
+        url: 'https://raads-rtest.online/',
+        keywords: ['autism', 'self-assessment', 'screening', 'neurodiversity'],
+    },
+    {
         name: 'RabbitHoles AI',
         description:
             'RabbitHoles AI is an application designed to transform AI interactions by providing an infinite canvas where each node represents a separate conversation.',
