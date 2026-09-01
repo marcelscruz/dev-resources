@@ -99,8 +99,8 @@ export const resources: Resource[] = [
         name: 'WealthVille',
         description:
             'Scores DeFi liquidity pools so you can tell whether one is worth providing liquidity to. Covers Solana and EVM pools, returning a 0-100 score and an Enter/Hold/Exit verdict, with a public track record that includes the misses. Free keyless REST API and an MCP server for AI agents.',
-        categories: ['Web3', 'Analytics'],
-        url: 'https://wealthville.net/developers',
+        categories: ['Web3'],
+        url: 'https://wealthville.net',
         keywords: ['DeFi', 'liquidity pools', 'Solana', 'EVM', 'API', 'MCP'],
     },
     {
