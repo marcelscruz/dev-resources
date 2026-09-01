@@ -197,7 +197,7 @@ export const resources: Resource[] = [
         description:
             'Developer cheat sheets covering web development, programming languages, DevOps, AI, and more. Free cheat sheets available with no account needed.',
         categories: ['Cheatsheet', 'Learn', 'Programming'],
-        url: 'https://www.cheatgrid.com/web-development/0022-react-frontend-framework-cheat-sheet',
+        url: 'https://cheatgrid.com',
         keywords: [
             'react',
             'cheat sheet',
