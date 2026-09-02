@@ -115,7 +115,7 @@ export const resources: Resource[] = [
         name: 'Markdown Tools Online',
         description:
             'Free online document converter. Convert Markdown to PDF, HTML to Markdown, and more. No signup required, no data stored.',
-        categories: ['Tool'],
+        categories: ['Tooling'],
         url: 'https://markdowntoolsonline.com',
         keywords: ['markdown to pdf', 'markdown editor'],
     },
