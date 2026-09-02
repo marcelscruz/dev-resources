@@ -7938,7 +7938,7 @@
         "description": "Habit tracker and planner that helps you actually stick with it",
         "categories": [
             "Productivity",
-            "Tool",
+            "Tooling",
             "Startup"
         ],
         "url": "https://loggd.life/",
@@ -8250,7 +8250,7 @@
         "name": "Markdown Tools Online",
         "description": "Free online document converter. Convert Markdown to PDF, HTML to Markdown, and more. No signup required, no data stored.",
         "categories": [
-            "Tool"
+            "Tooling"
         ],
         "url": "https://markdowntoolsonline.com",
         "keywords": [

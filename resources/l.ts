@@ -365,7 +365,7 @@ export const resources: Resource[] = [
     {
         name: 'Loggd',
         description: 'Habit tracker and planner that helps you actually stick with it',
-        categories: ['Productivity', 'Tool', 'Startup'],
+        categories: ['Productivity', 'Tooling', 'Startup'],
         url: 'https://loggd.life/',
         keywords: ['habit tracker', 'planner', 'task management', 'goal tracking'],
     },
