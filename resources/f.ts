@@ -22,13 +22,6 @@ export const resources: Resource[] = [
         url: 'https://famewall.io/',
     },
     {
-        name: 'Fast Articles AI',
-        description:
-            'Fast Articles AI is an advanced AI writing tool for SEO. Generate perfect SEO articles and blog posts in seconds.',
-        categories: ['Marketing', 'SEO', 'Writing'],
-        url: 'https://fastarticles.ai/',
-    },
-    {
         name: 'Fathom',
         description:
             'Fathom Analytics is simple, GDPR + CCPA + PECR compliant website analytics tool, no cookie notice required. No tracking or storing personal data of your users.',
