@@ -127,7 +127,7 @@ export const resources: Resource[] = [
         url: 'https://scrimba.com/',
     },
     {
-        name: 'SeachAtlas',
+        name: 'Search Atlas',
         description:
             'Drive more traffic and revenue with the SearchAtlas SEO Software platform! Get better results from your SEO campaigns with cutting-edge marketing and SEO tools.',
         categories: ['SEO', 'Marketing'],
