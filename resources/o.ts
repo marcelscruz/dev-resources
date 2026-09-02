@@ -36,13 +36,6 @@ export const resources: Resource[] = [
         url: 'https://www.offen.dev/',
     },
     {
-        name: 'OkJob',
-        description: '4 day Week Job Board',
-        categories: ['Job'],
-        url: 'https://okjob.io/',
-        keywords: ['Flexible work schedule', 'Work-life balance', 'Remote work options'],
-    },
-    {
         name: 'Omnara',
         description: 'Command Center for AI Coding Agents',
         categories: ['AI', 'Programming', 'Tooling'],

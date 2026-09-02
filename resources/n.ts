@@ -158,13 +158,6 @@ export const resources: Resource[] = [
         keywords: ['no-code', 'templates', 'webflow', 'framer', 'bubble'],
     },
     {
-        name: 'No-Code Scraper',
-        description: 'Seamlessly extract data from any website with just a few simple inputs.',
-        categories: ['Scraping', 'AI'],
-        url: 'https://www.nocodescraper.com',
-        keywords: ['scraper', 'no code', 'ai web scraper', 'web scraper', 'visual web scraper', 'web scraping'],
-    },
-    {
         name: 'Nomad List',
         description: 'Best places to live for a digital nomad',
         categories: ['Job', 'Job', 'Remote'],

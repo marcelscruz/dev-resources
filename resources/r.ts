@@ -430,13 +430,6 @@ export const resources: Resource[] = [
         url: 'https://github.com/antfu/retypewriter',
     },
     {
-        name: 'Revyou',
-        description: 'Turn your reviews into a lead magnet',
-        categories: ['AI', 'Marketing'],
-        url: 'https://www.revyou.me/',
-        keywords: ['ai', 'marketing', 'lead magnet', 'reviews'],
-    },
-    {
         name: 'Rider',
         description: 'Develop .NET, ASP.NET, .NET Core, Xamarin or Unity applications on Windows, Mac, Linux.',
         categories: ['Editor', 'Programming'],

@@ -381,13 +381,6 @@ export const resources: Resource[] = [
         keywords: ['ai status', 'mcp servers', 'ai news', 'uptime monitoring', 'openai status', 'anthropic status'],
     },
     {
-        name: 'Privacyboard',
-        description: 'Privacyboard helps you comply with GDPR in minutes so you can focus on what',
-        categories: ['Legal'],
-        url: 'https://www.privacyboard.co',
-        keywords: ['privacy', 'gdpr', 'compliance'],
-    },
-    {
         name: 'Product Hunt',
         description:
             'Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone',

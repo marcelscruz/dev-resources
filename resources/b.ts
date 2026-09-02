@@ -456,22 +456,6 @@ export const resources: Resource[] = [
         url: 'https://www.browserstack.com/',
     },
     {
-        name: 'BuddAIr',
-        description: 'Unlock your AI companion now',
-        categories: ['AI', 'Productivity'],
-        url: 'https://buddair.com/',
-        keywords: [
-            'AI companion',
-            'virtual buddy',
-            'AI tools navigation',
-            'emotional support AI',
-            'find AI friend',
-            'best AI companion apps',
-            'personalized AI interactions',
-            'BuddAIr',
-        ],
-    },
-    {
         name: 'Build you SaaS',
         description:
             'Can you bootstrap a profitable startup in 2021? Thousands of entrepreneurs, developers, designers, and product people have tried to launch their own web apps. But with so many venture-backed startups now, is it still possible? Follow Jon and Justin as they build their podcasting SaaS, Transistor.fm.',

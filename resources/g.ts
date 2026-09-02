@@ -148,13 +148,6 @@ export const resources: Resource[] = [
         keywords: ['git', 'cli', 'workflow', 'terminal', 'commit', 'golang'],
     },
     {
-        name: 'Gliesess 90 marketing strategy breakdowns',
-        description:
-            'Browse the most comprehensive list of online marketing strategies on the internet. Find the Social Media and Search Engine strategies of each company.',
-        categories: ['SEO', 'Learn', 'Marketing'],
-        url: 'https://www.gliesess.com/online-marketing-strategies',
-    },
-    {
         name: 'GoatCounter',
         description:
             'GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app.',
@@ -245,22 +238,6 @@ export const resources: Resource[] = [
             'how to write a resume',
             'how to make a resume',
             'sample resumes',
-        ],
-    },
-    {
-        name: 'GPT4oMini',
-        description: 'GPT4oMini.app: Free GPT4oMini Access - Advanced AI Conversation Generator',
-        categories: ['AI'],
-        url: 'https://gpt4omini.app/',
-        keywords: [
-            'GPT4oMini',
-            'GPT4o',
-            'Free GPT-4',
-            'ChatGPT',
-            'ChatGPT4oMini',
-            'chatbot',
-            'Free ChatGPT Access',
-            'AI Conversation Generator',
         ],
     },
     {

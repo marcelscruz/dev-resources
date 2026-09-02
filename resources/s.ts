@@ -924,13 +924,6 @@ export const resources: Resource[] = [
         url: 'https://www.sublimetext.com/',
     },
     {
-        name: 'Summara',
-        description: 'YouTube AI Summary and Transcript widget',
-        categories: ['AI', 'Extension', 'Learn'],
-        url: 'https://summara.io/',
-        keywords: ['youtube ai summary', 'youtube summarizer', 'youtube transcript', 'youtube captions'],
-    },
-    {
         name: 'Supabase',
         description:
             'Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.',
@@ -942,13 +935,6 @@ export const resources: Resource[] = [
         description: 'An open-source UI component library inspired by Tailwind and AntDesign.',
         categories: ['Library', 'Programming', 'UI'],
         url: 'https://ui.supabase.io/',
-    },
-    {
-        name: 'Supaboost',
-        description:
-            'Supaboost is an all-in-one SaaS Starter Kit, aiming to provide developers with the right tools to save hours of setting up their new application. Supaboost comes readily available with user management, roles and access based on roles, billing/subscriptions, frontend layout and SQL statements to create your a new backend with security today..',
-        categories: ['Startup', 'Template'],
-        url: 'https://www.supaboost.dev',
     },
     {
         name: 'supastarter',

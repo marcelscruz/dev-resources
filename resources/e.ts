@@ -153,12 +153,6 @@ export const resources: Resource[] = [
         url: 'https://elements.envato.com/',
     },
     {
-        name: 'Enveloop',
-        description: 'Design, host, and send emails and texts. All from one place - with a simple API.',
-        categories: ['Email', 'Design'],
-        url: 'https://enveloop.com/',
-    },
-    {
         name: 'Epic React',
         description: 'Strap in and take your React applications to the next level.',
         categories: ['Learn', 'Programming'],
