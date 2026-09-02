@@ -1,5 +1,5 @@
 {
-"count": 1193,
+"count": 1194,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8732,6 +8732,23 @@
             "dev tools",
             "AI",
             "CLI"
+        ]
+    },
+    {
+        "name": "Naratake",
+        "description": "Drag-and-drop website builder for local businesses. 111 components, 15 design styles, publishes a real Next.js app with full source-code export.",
+        "categories": [
+            "Website Builder",
+            "CMS",
+            "Template"
+        ],
+        "url": "https://naratake.com",
+        "keywords": [
+            "website builder",
+            "no-code",
+            "next.js",
+            "small business",
+            "source code export"
         ]
     },
     {
