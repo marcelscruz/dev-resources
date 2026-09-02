@@ -44,11 +44,4 @@ export const resources: Resource[] = [
         url: 'https://zyntra.app/',
         keywords: ['email', 'API', 'testing', 'qa'],
     },
-    {
-        name: 'Zyro',
-        description:
-            'Create a website or an online store easily with Zyro website builder. Choose from hundreds of designer-made templates. Launch your website in minutes.',
-        categories: ['Website Builder'],
-        url: 'https://zyro.com//',
-    },
 ]
