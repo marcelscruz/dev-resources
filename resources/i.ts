@@ -9,12 +9,6 @@ export const resources: Resource[] = [
         url: 'https://iconbuddy.app',
     },
     {
-        name: 'Iconfinder',
-        description: 'Millions of graphics for your design projects. Created by independent designers.',
-        categories: ['Icon', 'Illustration'],
-        url: 'https://www.iconfinder.com',
-    },
-    {
         name: 'Iconic',
         description: 'Free, “do wtf you want with” pixel-perfect icons. New icons added every week',
         categories: ['Icon'],

@@ -9,13 +9,6 @@ export const resources: Resource[] = [
         url: 'https://neilpatel.com/ubersuggest',
     },
     {
-        name: 'Ucraft',
-        description:
-            'Logo maker by Ucraft is the #1 free online logo creator, trusted by hundreds of thousands. Design a cool, professional logo and download it in a high resolution format.',
-        categories: ['Logo'],
-        url: 'https://www.ucraft.com/free-logo-maker',
-    },
-    {
         name: 'Udemy',
         description:
             'Udemy is an online learning and teaching marketplace with over 130,000 courses and 35 million students. Learn programming, marketing, data science and more.',

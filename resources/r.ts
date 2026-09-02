@@ -342,13 +342,6 @@ export const resources: Resource[] = [
         keywords: ['google', 'search', 'serp', 'api', 'json'],
     },
     {
-        name: 'Reshot',
-        description:
-            'Find tons of curated, non-stocky images for you to use in your next creative project, for free! Free for commercial use. No attribution required.',
-        categories: ['Image'],
-        url: 'https://www.reshot.com/',
-    },
-    {
         name: 'Resmume',
         description: 'Craft the Perfect Resume with AI-Powered Resume Builder.',
         categories: ['Resume'],
