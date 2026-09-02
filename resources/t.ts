@@ -640,6 +640,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Typing Words GIF',
+        description: 'Free online typing text GIF maker — type words and export animated GIF, no login.',
+        categories: ['Image'],
+        url: 'https://typingwordsgif.com/',
+        keywords: ['typing gif', 'text gif', 'animation'],
+    },
+    {
         name: 'TypingBeast',
         description:
             'Practice touch typing on various modes including zen mode, maintain streak and compete in leaderboards.',
