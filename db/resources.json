@@ -1,5 +1,5 @@
 {
-"count": 1208,
+"count": 1209,
 "data": [
     {
         "name": "1001 Fonts",
@@ -13866,6 +13866,19 @@
             "free typing test",
             "free typing website",
             "words per minute"
+        ]
+    },
+    {
+        "name": "Typing Words GIF",
+        "description": "Free online typing text GIF maker — type words and export animated GIF, no login.",
+        "categories": [
+            "Image"
+        ],
+        "url": "https://typingwordsgif.com/",
+        "keywords": [
+            "typing gif",
+            "text gif",
+            "animation"
         ]
     },
     {
