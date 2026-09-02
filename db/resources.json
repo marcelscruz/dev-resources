@@ -1,5 +1,5 @@
 {
-"count": 1209,
+"count": 1196,
 "data": [
     {
         "name": "1001 Fonts",
@@ -389,22 +389,6 @@
         ]
     },
     {
-        "name": "AI Alternative",
-        "description": "Discover the best AI tools and their alternatives",
-        "categories": [
-            "AI",
-            "Tooling",
-            "Productivity"
-        ],
-        "url": "https://aialternative.co/",
-        "keywords": [
-            "ai directory",
-            "ai alternatives",
-            "ai tools directory",
-            "startup tools"
-        ]
-    },
-    {
         "name": "AI Best Tools",
         "description": "Discover the best AI tools in AIBest.tools",
         "categories": [
@@ -535,22 +519,6 @@
             "ai one pager generator",
             "create one pager",
             "one pager template"
-        ]
-    },
-    {
-        "name": "AI SEO Tools",
-        "description": "Discover the Best AI SEO Tools in One Place",
-        "categories": [
-            "Marketing",
-            "SEO",
-            "AI"
-        ],
-        "url": "https://www.ai-seo.tools",
-        "keywords": [
-            "automation",
-            "ai",
-            "marketing",
-            "aggregators"
         ]
     },
     {
@@ -1759,25 +1727,6 @@
             "Testing"
         ],
         "url": "https://www.browserstack.com/"
-    },
-    {
-        "name": "BuddAIr",
-        "description": "Unlock your AI companion now",
-        "categories": [
-            "AI",
-            "Productivity"
-        ],
-        "url": "https://buddair.com/",
-        "keywords": [
-            "AI companion",
-            "virtual buddy",
-            "AI tools navigation",
-            "emotional support AI",
-            "find AI friend",
-            "best AI companion apps",
-            "personalized AI interactions",
-            "BuddAIr"
-        ]
     },
     {
         "name": "Build you SaaS",
@@ -4623,15 +4572,6 @@
         "url": "https://elements.envato.com/"
     },
     {
-        "name": "Enveloop",
-        "description": "Design, host, and send emails and texts. All from one place - with a simple API.",
-        "categories": [
-            "Email",
-            "Design"
-        ],
-        "url": "https://enveloop.com/"
-    },
-    {
         "name": "Epic React",
         "description": "Strap in and take your React applications to the next level.",
         "categories": [
@@ -4738,16 +4678,6 @@
             "Marketing"
         ],
         "url": "https://famewall.io/"
-    },
-    {
-        "name": "Fast Articles AI",
-        "description": "Fast Articles AI is an advanced AI writing tool for SEO. Generate perfect SEO articles and blog posts in seconds.",
-        "categories": [
-            "Marketing",
-            "SEO",
-            "Writing"
-        ],
-        "url": "https://fastarticles.ai/"
     },
     {
         "name": "Fathom",
@@ -5941,16 +5871,6 @@
         ]
     },
     {
-        "name": "Gliesess 90 marketing strategy breakdowns",
-        "description": "Browse the most comprehensive list of online marketing strategies on the internet. Find the Social Media and Search Engine strategies of each company.",
-        "categories": [
-            "SEO",
-            "Learn",
-            "Marketing"
-        ],
-        "url": "https://www.gliesess.com/online-marketing-strategies"
-    },
-    {
         "name": "GoatCounter",
         "description": "GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app.",
         "categories": [
@@ -6078,24 +5998,6 @@
             "how to write a resume",
             "how to make a resume",
             "sample resumes"
-        ]
-    },
-    {
-        "name": "GPT4oMini",
-        "description": "GPT4oMini.app: Free GPT4oMini Access - Advanced AI Conversation Generator",
-        "categories": [
-            "AI"
-        ],
-        "url": "https://gpt4omini.app/",
-        "keywords": [
-            "GPT4oMini",
-            "GPT4o",
-            "Free GPT-4",
-            "ChatGPT",
-            "ChatGPT4oMini",
-            "chatbot",
-            "Free ChatGPT Access",
-            "AI Conversation Generator"
         ]
     },
     {
@@ -9116,23 +9018,6 @@
         ]
     },
     {
-        "name": "No-Code Scraper",
-        "description": "Seamlessly extract data from any website with just a few simple inputs.",
-        "categories": [
-            "Scraping",
-            "AI"
-        ],
-        "url": "https://www.nocodescraper.com",
-        "keywords": [
-            "scraper",
-            "no code",
-            "ai web scraper",
-            "web scraper",
-            "visual web scraper",
-            "web scraping"
-        ]
-    },
-    {
         "name": "Nomad List",
         "description": "Best places to live for a digital nomad",
         "categories": [
@@ -9260,19 +9145,6 @@
             "Analytics"
         ],
         "url": "https://www.offen.dev/"
-    },
-    {
-        "name": "OkJob",
-        "description": "4 day Week Job Board",
-        "categories": [
-            "Job"
-        ],
-        "url": "https://okjob.io/",
-        "keywords": [
-            "Flexible work schedule",
-            "Work-life balance",
-            "Remote work options"
-        ]
     },
     {
         "name": "Omnara",
@@ -10205,19 +10077,6 @@
             "uptime monitoring",
             "openai status",
             "anthropic status"
-        ]
-    },
-    {
-        "name": "Privacyboard",
-        "description": "Privacyboard helps you comply with GDPR in minutes so you can focus on what",
-        "categories": [
-            "Legal"
-        ],
-        "url": "https://www.privacyboard.co",
-        "keywords": [
-            "privacy",
-            "gdpr",
-            "compliance"
         ]
     },
     {
@@ -11189,21 +11048,6 @@
             "Typing"
         ],
         "url": "https://github.com/antfu/retypewriter"
-    },
-    {
-        "name": "Revyou",
-        "description": "Turn your reviews into a lead magnet",
-        "categories": [
-            "AI",
-            "Marketing"
-        ],
-        "url": "https://www.revyou.me/",
-        "keywords": [
-            "ai",
-            "marketing",
-            "lead magnet",
-            "reviews"
-        ]
     },
     {
         "name": "Rider",
@@ -12717,22 +12561,6 @@
         "url": "https://www.sublimetext.com/"
     },
     {
-        "name": "Summara",
-        "description": "YouTube AI Summary and Transcript widget",
-        "categories": [
-            "AI",
-            "Extension",
-            "Learn"
-        ],
-        "url": "https://summara.io/",
-        "keywords": [
-            "youtube ai summary",
-            "youtube summarizer",
-            "youtube transcript",
-            "youtube captions"
-        ]
-    },
-    {
         "name": "Supabase",
         "description": "Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.",
         "categories": [
@@ -12750,15 +12578,6 @@
             "UI"
         ],
         "url": "https://ui.supabase.io/"
-    },
-    {
-        "name": "Supaboost",
-        "description": "Supaboost is an all-in-one SaaS Starter Kit, aiming to provide developers with the right tools to save hours of setting up their new application. Supaboost comes readily available with user management, roles and access based on roles, billing/subscriptions, frontend layout and SQL statements to create your a new backend with security today..",
-        "categories": [
-            "Startup",
-            "Template"
-        ],
-        "url": "https://www.supaboost.dev"
     },
     {
         "name": "supastarter",
