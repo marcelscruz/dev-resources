@@ -888,7 +888,7 @@ export const resources: Resource[] = [
         description:
             'Download 30,000 free PNG icons for website, web app, software, web design. Buy our SVG vector icon pack, the world’s largest icon library for professionals.',
         categories: ['Icon'],
-        url: 'https://streamlineicons.com/',
+        url: 'https://streamlinehq.com/',
         keywords: [
             'Free icons',
             'Download icons',
