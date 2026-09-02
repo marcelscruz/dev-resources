@@ -339,6 +339,14 @@ export const resources: Resource[] = [
         keywords: ['voice ai', 'ai agent', 'chatbot', 'voice assistant', 'website widget'],
     },
     {
+        name: 'AnyGradient',
+        description:
+            'NextGen gradient generator with OKLCH interpolation, Display-P3 color support, customizable noise, and production-ready code exports',
+        categories: ['Design'],
+        url: 'https://anygradient.com/',
+        keywords: ['gradient', 'css', 'design tool', 'developer tool', 'background'],
+    },
+    {
         name: 'ApexToWWW',
         description:
             'Free DNS apex/naked domain to www subdomain 301 redirect service. Automatic SSL, IPv6, HTTP/3. No signup needed — just add two DNS records.',
