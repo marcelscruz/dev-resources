@@ -21,6 +21,14 @@ export const resources: Resource[] = [
         keywords: ['domain name', 'dev tools', 'AI', 'CLI'],
     },
     {
+        name: 'Naratake',
+        description:
+            'Drag-and-drop website builder for local businesses. 111 components, 15 design styles, publishes a real Next.js app with full source-code export.',
+        categories: ['Website Builder', 'CMS', 'Template'],
+        url: 'https://naratake.com',
+        keywords: ['website builder', 'no-code', 'next.js', 'small business', 'source code export'],
+    },
+    {
         name: 'Narrow AI',
         description:
             'Automated Prompt Engineering and Optimization platform that can autonomously write, monitor, and optimize prompts for any model',
