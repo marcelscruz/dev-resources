@@ -1,5 +1,5 @@
 {
-"count": 1207,
+"count": 1208,
 "data": [
     {
         "name": "1001 Fonts",
@@ -718,6 +718,21 @@
             "chatbot",
             "voice assistant",
             "website widget"
+        ]
+    },
+    {
+        "name": "AnyGradient",
+        "description": "NextGen gradient generator with OKLCH interpolation, Display-P3 color support, customizable noise, and production-ready code exports",
+        "categories": [
+            "Design"
+        ],
+        "url": "https://anygradient.com/",
+        "keywords": [
+            "gradient",
+            "css",
+            "design tool",
+            "developer tool",
+            "background"
         ]
     },
     {
