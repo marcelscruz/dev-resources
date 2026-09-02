@@ -271,7 +271,7 @@ export const resources: Resource[] = [
         description:
             'Looking for a remote job? Remote OK® has 43,534+ remote jobs as a Developer, Designer, Copywriter, Customer Support Rep, Sales Professional, Project Manager and more! Find a career where you can work remotely from anywhere.',
         categories: ['Job', 'Remote'],
-        url: 'https://remoteok.io/',
+        url: 'https://remoteok.com/',
     },
     {
         name: 'Remotive',
