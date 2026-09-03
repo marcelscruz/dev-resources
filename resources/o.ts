@@ -56,6 +56,14 @@ export const resources: Resource[] = [
         url: 'https://one.com',
     },
     {
+        name: 'OuterCheck',
+        description:
+            'Free public API that verifies a website the way the outside web sees it: DNS, TLS, robots.txt, indexability and HTML checks with evidence-first JSON. No sign-up or key required.',
+        categories: ['Security', 'SEO', 'Tooling'],
+        url: 'https://outercheck.com/',
+        keywords: ['website verification', 'dns', 'tls', 'robots.txt', 'seo'],
+    },
+    {
         name: 'Onlime',
         description: 'Onlime is your secure cloud storage solution for what matters most.',
         categories: ['Productivity', 'Security', 'Startup'],
