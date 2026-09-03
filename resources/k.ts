@@ -10,6 +10,13 @@ export const resources: Resource[] = [
         keywords: ['backlinks', 'netlinking', 'online reputation', 'off page seo'],
     },
     {
+        name: 'Keeping',
+        description: 'Turns Google Workspace Into Your Team’s Help Desk',
+        categories: ['Email', 'Productivity', 'Tooling'],
+        url: 'https://www.keeping.com/',
+        keywords: ['help desk', 'shared inbox for gmail', 'team email management', 'collaborative Email platform'],
+    },
+    {
         name: 'Kempo',
         description: 'Customized code playgrounds powered by CodeSandbox’s Sandpack.',
         categories: ['Programming', 'Blog'],
