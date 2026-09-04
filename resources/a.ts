@@ -325,6 +325,14 @@ export const resources: Resource[] = [
         keywords: ['voice ai', 'ai agent', 'chatbot', 'voice assistant', 'website widget'],
     },
     {
+        name: 'AnyAPI',
+        description:
+            'Hundreds of scraping and data APIs behind one key and one normalized JSON schema, priced per request in USD with no subscription.',
+        categories: ['Scraping', 'Social Media', 'Tooling'],
+        url: 'https://getanyapi.com',
+        keywords: ['scraping', 'data api', 'serp', 'social media data', 'api marketplace', 'mcp'],
+    },
+    {
         name: 'AnyGradient',
         description:
             'NextGen gradient generator with OKLCH interpolation, Display-P3 color support, customizable noise, and production-ready code exports',
