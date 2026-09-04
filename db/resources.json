@@ -1,5 +1,5 @@
 {
-"count": 1196,
+"count": 1197,
 "data": [
     {
         "name": "1001 Fonts",
@@ -15105,6 +15105,21 @@
             "Testing"
         ],
         "url": "https://www.getxray.app/"
+    },
+    {
+        "name": "YAML Preflight",
+        "description": "Validate strict YAML, duplicate keys, and common GitHub Actions permission mistakes locally in your browser.",
+        "categories": [
+            "Testing",
+            "Tooling"
+        ],
+        "url": "https://yaml.aevumere.com/yaml-preflight",
+        "keywords": [
+            "yaml",
+            "github actions",
+            "validator",
+            "permissions"
+        ]
     },
     {
         "name": "YAMLine",
