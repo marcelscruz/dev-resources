@@ -1,5 +1,5 @@
 {
-"count": 1196,
+"count": 1197,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11228,6 +11228,21 @@
             "community",
             "seo",
             "growth"
+        ]
+    },
+    {
+        "name": "SaaSCity",
+        "description": "SaaSCity is a directory for launching SaaS and AI products, rendered as an isometric city map where every listing becomes a building.",
+        "categories": [
+            "Marketing",
+            "Startup"
+        ],
+        "url": "https://saascity.io/",
+        "keywords": [
+            "directory",
+            "launch",
+            "seo",
+            "backlinks"
         ]
     },
     {
