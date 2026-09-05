@@ -1,5 +1,5 @@
 {
-"count": 1198,
+"count": 1200,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6926,6 +6926,21 @@
         ]
     },
     {
+        "name": "Interview Man",
+        "description": "AI-powered mock interviews with realistic questions, voice interaction, and actionable feedback to help candidates prepare.",
+        "categories": [
+            "Interview"
+        ],
+        "url": "https://interviewman.com",
+        "keywords": [
+            "interview",
+            "AI",
+            "career",
+            "mock interview",
+            "job search"
+        ]
+    },
+    {
         "name": "Interview Solver",
         "description": "Ace your live coding interviews with our AI Copilot",
         "categories": [
@@ -13111,6 +13126,22 @@
             "testing automation",
             "software qa",
             "ui testing"
+        ]
+    },
+    {
+        "name": "Text Differ",
+        "description": "Whether you're revising an article, checking document updates, or reviewing code, Text Differ helps you spot every change quickly and confidently.",
+        "categories": [
+            "Tool"
+        ],
+        "url": "https://text-differ.com/",
+        "keywords": [
+            "text compare",
+            "text differ",
+            "compare",
+            "productivity",
+            "devtool",
+            "json formatter"
         ]
     },
     {
