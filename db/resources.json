@@ -1,5 +1,5 @@
 {
-"count": 1197,
+"count": 1198,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7145,6 +7145,22 @@
             "remote work",
             "jobs",
             "employment"
+        ]
+    },
+    {
+        "name": "JobsPipe",
+        "description": "Job postings from 30+ ATS and job boards, deduplicated into one JSON schema with salary, seniority and tech stack fields. REST API, CLI and Python/Go SDKs.",
+        "categories": [
+            "Job",
+            "Scraping"
+        ],
+        "url": "https://jobspipe.dev",
+        "keywords": [
+            "jobs api",
+            "job postings",
+            "job data",
+            "ats",
+            "tech stack"
         ]
     },
     {
