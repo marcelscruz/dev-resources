@@ -189,6 +189,14 @@ export const resources: Resource[] = [
         keywords: ['interview helper', 'interview AI copilot', 'interview AI assistant', 'career', 'jobs'],
     },
     {
+        name: 'Interview Man',
+        description:
+            'AI-powered mock interviews with realistic questions, voice interaction, and actionable feedback to help candidates prepare.',
+        categories: ['Interview'],
+        url: 'https://interviewman.com',
+        keywords: ['interview', 'AI', 'career', 'mock interview', 'job search'],
+    },
+    {
         name: 'Interview Solver',
         description: 'Ace your live coding interviews with our AI Copilot',
         categories: ['Interview', 'AI'],
