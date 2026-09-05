@@ -204,6 +204,14 @@ export const resources: Resource[] = [
         keywords: ['ai testing agent', 'testing automation', 'software qa', 'ui testing'],
     },
     {
+        name: 'Text Differ',
+        description:
+            "Whether you're revising an article, checking document updates, or reviewing code, Text Differ helps you spot every change quickly and confidently.",
+        categories: ['Tool'],
+        url: 'https://text-differ.com/',
+        keywords: ['text compare', 'text differ', 'compare', 'productivity', 'devtool', 'json formatter'],
+    },
+    {
         name: 'The A11Y Project',
         description: 'The A11Y Project is a community-driven effort to make digital accessibility easier.',
         categories: ['Accessibility'],
