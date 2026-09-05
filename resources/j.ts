@@ -78,6 +78,14 @@ export const resources: Resource[] = [
         keywords: ['remote jobs', 'remote work', 'jobs', 'employment'],
     },
     {
+        name: 'JobsPipe',
+        description:
+            'Job postings from 30+ ATS and job boards, deduplicated into one JSON schema with salary, seniority and tech stack fields. REST API, CLI and Python/Go SDKs.',
+        categories: ['Job', 'Scraping'],
+        url: 'https://jobspipe.dev',
+        keywords: ['jobs api', 'job postings', 'job data', 'ats', 'tech stack'],
+    },
+    {
         name: 'Jobspresso',
         description:
             'Jobspresso is the easiest way to find remote jobs and careers at interesting and innovative companies.',
