@@ -1,5 +1,5 @@
 {
-"count": 1200,
+"count": 1201,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1134,6 +1134,22 @@
             "Funding Application Tool",
             "Automated Document Generation",
             "Tender Consulting Services"
+        ]
+    },
+    {
+        "name": "Barra",
+        "description": "Website Toolbar Built to Improve Conversion rate by simplifying UX",
+        "categories": [
+            "Marketing",
+            "UX",
+            "Analytics"
+        ],
+        "url": "https://www.barra.ai/",
+        "keywords": [
+            "navigation bar",
+            "action bar",
+            "offer bar",
+            "floating action bar"
         ]
     },
     {
