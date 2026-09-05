@@ -45,6 +45,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Barra',
+        description: 'Website Toolbar Built to Improve Conversion rate by simplifying UX',
+        categories: ['Marketing', 'UX', 'Analytics'],
+        url: 'https://www.barra.ai/',
+        keywords: ['navigation bar', 'action bar', 'offer bar', 'floating action bar'],
+    },
+    {
         name: 'Base Converter',
         description:
             'Convert numbers between binary, octal, decimal and hexadecimal instantly, with input validation and prefix support. 100% client-side, no signup required.',
