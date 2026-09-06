@@ -52,6 +52,14 @@ export const resources: Resource[] = [
         keywords: ['cro', 'conversion rate optimization', 'landing pages', 'cro audit'],
     },
     {
+        name: 'ParlayAPI',
+        description:
+            'Sports odds REST API for private research tools. Each user supplies their own API key. Free tier: 1,000 credits/month. No public data redistribution.',
+        categories: ['Programming', 'Tooling'],
+        url: 'https://parlay-api.com',
+        keywords: ['sports odds', 'REST API', 'Python', 'private research'],
+    },
+    {
         name: 'PassVult',
         description: 'Most private password manager',
         categories: ['Productivity', 'Security', 'Startup'],
