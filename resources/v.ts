@@ -2,19 +2,19 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
-        name: 'Vaiz',
-        description: 'One platform for Tasks & Documents',
-        categories: ['Productivity', 'Tooling', 'Documentation'],
-        url: 'https://vaiz.com',
-        keywords: ['task management', 'project management', 'documents', 'collaboration'],
-    },
-{
         name: 'Vacato',
         description:
             'RDAP domain watchlist for developers — scheduled checks and Telegram/email when a taken name looks available. Free 10 domains; alerts only, not a drop-catcher.',
         categories: ['Domain', 'Tooling'],
         url: 'https://vacato.io',
         keywords: ['domain', 'rdap', 'whois', 'watchlist', 'availability', 'telegram', 'dns'],
+    },
+    {
+        name: 'Vaiz',
+        description: 'One platform for Tasks & Documents',
+        categories: ['Productivity', 'Tooling', 'Documentation'],
+        url: 'https://vaiz.com',
+        keywords: ['task management', 'project management', 'documents', 'collaboration'],
     },
     {
         name: 'ValidateHTML',
@@ -94,8 +94,7 @@ export const resources: Resource[] = [
         name: 'Velocity',
         description: 'On-demand feedback for Figma prototypes',
         categories: ['UX', 'Prototyping', 'Testing'],
-        url:
-            'https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min',
+        url: 'https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min',
         keywords: ['feedback', 'figma', 'plugin', 'design review'],
     },
     {
