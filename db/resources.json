@@ -1,5 +1,5 @@
 {
-"count": 1202,
+"count": 1203,
 "data": [
     {
         "name": "1001 Fonts",
@@ -13859,6 +13859,22 @@
             "SEO"
         ],
         "url": "https://neilpatel.com/ubersuggest"
+    },
+    {
+        "name": "uChecker",
+        "description": "Email list verification (Good/Bad/Unknown) plus free SPF/DKIM/DMARC DNS checkers. No signup on the DNS tools.",
+        "categories": [
+            "Email",
+            "Domain",
+            "Tooling"
+        ],
+        "url": "https://uchecker.net",
+        "keywords": [
+            "email verification",
+            "dkim",
+            "spf",
+            "dmarc"
+        ]
     },
     {
         "name": "Udemy",
