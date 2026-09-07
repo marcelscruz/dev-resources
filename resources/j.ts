@@ -36,6 +36,14 @@ export const resources: Resource[] = [
         url: 'https://iq.js.org/',
     },
     {
+        name: 'JavaScript Tools',
+        description:
+            'JSTools.Space is a growing collection of privacy-first online developer tools for everyday programming, testing, debugging, writing, and data work.',
+        categories: ['Productivity'],
+        url: 'https://www.jstools.space/',
+        keywords: ['javascript', 'tool', 'json', 'jwt', 'security'],
+    },
+    {
         name: 'JavaScript Tutorial',
         categories: ['Learn'],
         description:
