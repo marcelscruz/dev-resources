@@ -8,6 +8,14 @@ export const resources: Resource[] = [
         url: 'https://vaiz.com',
         keywords: ['task management', 'project management', 'documents', 'collaboration'],
     },
+{
+        name: 'Vacato',
+        description:
+            'RDAP domain watchlist for developers — scheduled checks and Telegram/email when a taken name looks available. Free 10 domains; alerts only, not a drop-catcher.',
+        categories: ['Domain', 'Tooling'],
+        url: 'https://vacato.io',
+        keywords: ['domain', 'rdap', 'whois', 'watchlist', 'availability', 'telegram', 'dns'],
+    },
     {
         name: 'ValidateHTML',
         description:
