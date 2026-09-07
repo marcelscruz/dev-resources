@@ -336,10 +336,10 @@ export const resources: Resource[] = [
     },
     {
         name: 'Reserp',
-        description: 'Send a Google Search URL and receive visible result blocks as structured JSON.',
+        description: 'Google Search API with flat results and structured SERP blocks.',
         categories: ['Scraping'],
         url: 'https://reserp.ai',
-        keywords: ['google', 'search', 'serp', 'api', 'json'],
+        keywords: ['google', 'search', 'serp', 'api', 'search results', 'structured data'],
     },
     {
         name: 'Resmume',
