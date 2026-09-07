@@ -9,6 +9,14 @@ export const resources: Resource[] = [
         url: 'https://neilpatel.com/ubersuggest',
     },
     {
+        name: 'uChecker',
+        description:
+            'Email list verification (Good/Bad/Unknown) plus free SPF/DKIM/DMARC DNS checkers. No signup on the DNS tools.',
+        categories: ['Email', 'Domain', 'Tooling'],
+        url: 'https://uchecker.net',
+        keywords: ['email verification', 'dkim', 'spf', 'dmarc'],
+    },
+    {
         name: 'Udemy',
         description:
             'Udemy is an online learning and teaching marketplace with over 130,000 courses and 35 million students. Learn programming, marketing, data science and more.',
