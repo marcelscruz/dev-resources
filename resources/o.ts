@@ -14,6 +14,14 @@ export const resources: Resource[] = [
         url: 'https://www.octotree.io/',
     },
     {
+        name: 'OrcaReplay',
+        description:
+            'Records a coding agent below the harness — model traffic, shell exit codes, per-turn file changes and MCP calls on one timeline — then replays the run offline with the network off, or forks it from a checkpoint onto a different model.',
+        categories: ['AI', 'CLI', 'Debugging'],
+        url: 'https://github.com/Continuum-AI-Corp/OrcaReplay',
+        keywords: ['coding agent', 'record and replay', 'observability', 'open source'],
+    },
+    {
         name: 'Odin A',
         description:
             'Odin AI is a versatile AI tool designed to streamline workflows, enhance productivity, and simplify complex tasks through automation and AI-driven features',
