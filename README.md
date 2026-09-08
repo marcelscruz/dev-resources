@@ -420,6 +420,7 @@
 |---|---|---|---|
  <img src="https://www.google.com/s2/favicons?domain=https://gcore.com/cdn&sz=128" width="16" /> | [Gcore CDN](https://gcore.com/cdn) | Make your app fast and responsive for a global audience with Gcore CDN. | gcore, cdn, content delivery network |
  <img src="https://www.google.com/s2/favicons?domain=https://gcore.com/image-stack&sz=128" width="16" /> | [Gcore Image Stack](https://gcore.com/image-stack) | An image CDN for convenient transformation, compression, and delivery of website images on the fly. | gcore, cdn, content delivery network, image cdn |
+ <img src="https://www.google.com/s2/favicons?domain=https://motomarks.io&sz=128" width="16" /> | [Motomarks](https://motomarks.io) | Image CDN for car manufacturer logos. One URL for badge, wordmark, or full logo, so app builders stop shipping a private asset folder. | automotive, car, manufacturer, logo, cdn |
 
 **[⬆ Back to Index](#index)**
 
@@ -1051,6 +1052,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://librestock.com/&sz=128" width="16" /> | [Librestock](https://librestock.com/) | We scan and index the best free photos from the top stock sites. All photos are free for personal and commercial. No attribution required. CC0. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://picsum.photos&sz=128" width="16" /> | [Lorem Picsum](https://picsum.photos) | Lorem Ipsum... but for photos |  |
  <img src="https://www.google.com/s2/favicons?domain=https://magiceraser.live/&sz=128" width="16" /> | [Magic Eraser](https://magiceraser.live/) | AI photo editing platform for removing objects/backgrounds, enhancing images, expanding borders, applying filters, and generating visuals. | AI, photo editing, image editing, background remover |
+ <img src="https://www.google.com/s2/favicons?domain=https://motomarks.io&sz=128" width="16" /> | [Motomarks](https://motomarks.io) | Image CDN for car manufacturer logos. One URL for badge, wordmark, or full logo, so app builders stop shipping a private asset folder. | automotive, car, manufacturer, logo, cdn |
  <img src="https://www.google.com/s2/favicons?domain=https://www.optimizeimages.com&sz=128" width="16" /> | [Optimizeimages](https://www.optimizeimages.com) | Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.pexels.com/&sz=128" width="16" /> | [Pexels](https://www.pexels.com/) | Finding the perfect photo or video shouldn | free stock videos, pexels, videos, design resource, footage, hd |
  <img src="https://www.google.com/s2/favicons?domain=https://photorush.io&sz=128" width="16" /> | [Photo Rush](https://photorush.io) | Generate professional images of products with AI. Save money and use AI to do a photo shoot from your laptop or phone instead of hiring an expensive photographer.Get your product images in minutes | image generation, professional photos |
@@ -1340,6 +1342,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://logoinspo.com&sz=128" width="16" /> | [LogoInspo](https://logoinspo.com) | The ultimate logo design inspiration library with 1,200+ hand-picked real and fictional logos searchable by style, industry, and color. | logo inspiration, branding, logo design, brand marks |
  <img src="https://www.google.com/s2/favicons?domain=https://www.logology.co/&sz=128" width="16" /> | [Logology](https://www.logology.co/) | No random generation and no symbols from a free database. Everything was crafted from the ground-up! |  |
  <img src="https://www.google.com/s2/favicons?domain=https://looka.com&sz=128" width="16" /> | [Looka](https://looka.com) | Make a logo and build a brand you love with Looka. |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://motomarks.io&sz=128" width="16" /> | [Motomarks](https://motomarks.io) | Image CDN for car manufacturer logos. One URL for badge, wordmark, or full logo, so app builders stop shipping a private asset folder. | automotive, car, manufacturer, logo, cdn |
  <img src="https://www.google.com/s2/favicons?domain=https://www.tailorbrands.com/logo-maker&sz=128" width="16" /> | [Tailor Brands](https://www.tailorbrands.com/logo-maker) | Tailor Brands AI logo maker allows you to create a logo design that's a perfect match for your business. No pre-made logo templates. Unique designs only. |  |
 
 **[⬆ Back to Index](#index)**
