@@ -1,5 +1,5 @@
 {
-"count": 1205,
+"count": 1206,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6969,6 +6969,21 @@
             "interview solver",
             "ai copilot",
             "career"
+        ]
+    },
+    {
+        "name": "Interview VIP",
+        "description": "AI interview coach with realistic practice sessions, voice interaction, and actionable feedback for job candidates.",
+        "categories": [
+            "Interview"
+        ],
+        "url": "https://interviewvip.com",
+        "keywords": [
+            "interview",
+            "AI",
+            "career",
+            "interview coach",
+            "job search"
         ]
     },
     {
