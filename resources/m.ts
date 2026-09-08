@@ -414,6 +414,14 @@ export const resources: Resource[] = [
         url: 'https://morrisjs.github.io/morris.js/',
     },
     {
+        name: 'Motomarks',
+        description:
+            'Image CDN for car manufacturer logos. One URL for badge, wordmark, or full logo, so app builders stop shipping a private asset folder.',
+        categories: ['CDN', 'Logo', 'Image'],
+        url: 'https://motomarks.io',
+        keywords: ['automotive', 'car', 'manufacturer', 'logo', 'cdn'],
+    },
+    {
         name: 'MyPerfectResume',
         description: 'Create a perfect resume in just minutes and land the job you deserve. It',
         categories: ['Resume'],
