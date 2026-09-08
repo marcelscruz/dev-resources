@@ -204,6 +204,14 @@ export const resources: Resource[] = [
         keywords: ['interview helper', 'interview solver', 'ai copilot', 'career'],
     },
     {
+        name: 'Interview VIP',
+        description:
+            'AI interview coach with realistic practice sessions, voice interaction, and actionable feedback for job candidates.',
+        categories: ['Interview'],
+        url: 'https://interviewvip.com',
+        keywords: ['interview', 'AI', 'career', 'interview coach', 'job search'],
+    },
+    {
         name: 'InterviewPal',
         description:
             'InterviewPal is an AI-powered platform that helps developers and career changers prepare for interviews with personalized simulations and feedback.',
