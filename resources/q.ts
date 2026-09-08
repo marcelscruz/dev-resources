@@ -16,14 +16,6 @@ export const resources: Resource[] = [
         url: 'https://qoqo.ai/',
     },
     {
-        name: 'Quicklisting',
-        description:
-            'Done-for-you growth marketing for tech startups. From content and SEO to backlinks and design, Quicklisting helps you scale without hiring full-time.',
-        categories: ['Marketing', 'SEO', 'Design'],
-        url: 'https://quicklist.ing',
-        keywords: ['fractional marketing', 'directory submissions'],
-    },
-    {
         name: 'Quokka.js',
         description:
             'Quokka.js runs your JavaScript and TypeScript code and displays results inline in VS Code, WebStorm, and Sublime Text.',
