@@ -1,5 +1,5 @@
 {
-"count": 1207,
+"count": 1208,
 "data": [
     {
         "name": "1001 Fonts",
@@ -13441,6 +13441,22 @@
             "free tools",
             "browser-based",
             "no signup"
+        ]
+    },
+    {
+        "name": "Tools in a Tab",
+        "description": "Free browser tools for JSON, YAML, Base64, Unix timestamps and SHA-256. Local input processing, no account required; English and Spanish.",
+        "categories": [
+            "Tooling",
+            "Productivity"
+        ],
+        "url": "https://toolsinatab.com/",
+        "keywords": [
+            "json",
+            "yaml",
+            "base64",
+            "timestamp",
+            "sha256"
         ]
     },
     {
