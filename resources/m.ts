@@ -64,6 +64,14 @@ export const resources: Resource[] = [
         url: 'https://www.mailgun.com/',
     },
     {
+        name: 'MailKite SaaS Starter',
+        description:
+            'MIT-licensed Next.js SaaS starter: self-contained auth (OAuth + email/password, no auth vendor), Stripe subscriptions, teams, Postgres/Drizzle, dark-first UI.',
+        categories: ['Template', 'Open Source', 'Startup'],
+        url: 'https://github.com/mailkite/saas-startup',
+        keywords: ['nextjs', 'saas', 'boilerplate', 'starter kit', 'stripe', 'drizzle', 'authentication', 'typescript'],
+    },
+    {
         name: 'Majestic',
         description:
             '⚡ Zero config GUI for Jest. Contribute to Raathigesh/majestic development by creating an account on GitHub.',
