@@ -849,6 +849,14 @@ export const resources: Resource[] = [
         keywords: ['web analytics', 'cookieless', 'privacy', 'eu hosted', 'api'],
     },
     {
+        name: 'Stellary',
+        description:
+            'AI-native project board for teams and agents, with governed missions, REST API, and hosted MCP.',
+        categories: ['AI', 'Productivity', 'Tooling'],
+        url: 'https://stellary.co',
+        keywords: ['project management', 'mcp', 'ai agents', 'kanban', 'productivity'],
+    },
+    {
         name: 'Stormkit',
         description:
             'Stormkit integrates perfectly with your git flow. It builds, deploys and scales your javascript apps seamlessly.',
