@@ -368,6 +368,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Tools in a Tab',
+        description:
+            'Free browser tools for JSON, YAML, Base64, Unix timestamps and SHA-256. Local input processing, no account required; English and Spanish.',
+        categories: ['Tooling', 'Productivity'],
+        url: 'https://toolsinatab.com/',
+        keywords: ['json', 'yaml', 'base64', 'timestamp', 'sha256'],
+    },
+    {
         name: 'ToolSuite',
         description:
             'ToolSuite provides free in-browser developer utilities including Base64 encoder, Unix timestamp converter, JSON formatter, and image optimization tools.',
