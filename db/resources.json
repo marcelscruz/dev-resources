@@ -1,5 +1,5 @@
 {
-"count": 1206,
+"count": 1207,
 "data": [
     {
         "name": "1001 Fonts",
@@ -13511,6 +13511,22 @@
             "Freelance"
         ],
         "url": "https://www.toptal.com/"
+    },
+    {
+        "name": "Trackee",
+        "description": "SEO & AI visibility, in one API",
+        "categories": [
+            "SEO",
+            "Marketing",
+            "Analytics"
+        ],
+        "url": "https://www.trackee.dev/",
+        "keywords": [
+            "ai visibility api",
+            "seo api",
+            "ai search tracking",
+            "brand monitoring"
+        ]
     },
     {
         "name": "TrackingCoder",
