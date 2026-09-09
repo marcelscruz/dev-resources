@@ -850,8 +850,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Stellary',
-        description:
-            'AI-native project board for teams and agents, with governed missions, REST API, and hosted MCP.',
+        description: 'AI-native project board for teams and agents, with governed missions, REST API, and hosted MCP.',
         categories: ['AI', 'Productivity', 'Tooling'],
         url: 'https://stellary.co',
         keywords: ['project management', 'mcp', 'ai agents', 'kanban', 'productivity'],
