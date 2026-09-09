@@ -411,6 +411,13 @@ export const resources: Resource[] = [
         url: 'https://www.toptal.com/',
     },
     {
+        name: 'Trackee',
+        description: 'SEO & AI visibility, in one API',
+        categories: ['SEO', 'Marketing', 'Analytics'],
+        url: 'https://www.trackee.dev/',
+        keywords: ['ai visibility api', 'seo api', 'ai search tracking', 'brand monitoring'],
+    },
+    {
         name: 'TrackingCoder',
         description: 'Set up website tracking in 2 minutes, not 2 hours.',
         categories: ['Analytics', 'Marketing', 'Tooling'],
