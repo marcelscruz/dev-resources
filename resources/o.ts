@@ -213,6 +213,14 @@ export const resources: Resource[] = [
         keywords: ['gitHub', 'osint', 'open source', 'repo search'],
     },
     {
+        name: 'OuterCheck',
+        description:
+            'Free public API that verifies a website the way the outside web sees it: DNS, TLS, robots.txt, indexability and HTML checks with evidence-first JSON. No sign-up or key required.',
+        categories: ['Security', 'SEO', 'Tooling'],
+        url: 'https://outercheck.com/',
+        keywords: ['website verification', 'dns', 'tls', 'robots.txt', 'seo'],
+    },
+    {
         name: 'Outlier Kit',
         description: 'Discover Youtube niches, trends & Keywords',
         categories: ['Marketing', 'Video', 'AI'],
