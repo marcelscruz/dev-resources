@@ -67,6 +67,14 @@ export const resources: Resource[] = [
         keywords: ['cybersecurity', 'password manager', 'privacy', 'loyalty card'],
     },
     {
+        name: 'PastAGI',
+        description:
+            'Practical AI engineering publication: LLM inference cost audits, serving math, eval methodology, and tool reviews with verifiable numbers.',
+        categories: ['Blog', 'AI'],
+        url: 'https://pastagi.com',
+        keywords: ['ai engineering', 'llm', 'inference cost', 'evals', 'tutorials'],
+    },
+    {
         name: 'Patterninja',
         description:
             'Combine images from our free library or use your own. Produced patterns can be downloaded in high resolution and used for printing and the web.',
