@@ -1,5 +1,5 @@
 {
-"count": 1208,
+"count": 1209,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10495,6 +10495,19 @@
             "UX"
         ],
         "url": "https://qoqo.ai/"
+    },
+    {
+        "name": "Quicklisting",
+        "description": "Auto-submit to 50+ directories",
+        "categories": [
+            "Marketing"
+        ],
+        "url": "https://quicklisting.tech",
+        "keywords": [
+            "marketing",
+            "SEO",
+            "directories"
+        ]
     },
     {
         "name": "Quokka.js",
