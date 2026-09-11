@@ -1,5 +1,5 @@
 {
-"count": 1209,
+"count": 1210,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9698,6 +9698,22 @@
             "password manager",
             "privacy",
             "loyalty card"
+        ]
+    },
+    {
+        "name": "PastAGI",
+        "description": "Practical AI engineering publication: LLM inference cost audits, serving math, eval methodology, and tool reviews with verifiable numbers.",
+        "categories": [
+            "Blog",
+            "AI"
+        ],
+        "url": "https://pastagi.com",
+        "keywords": [
+            "ai engineering",
+            "llm",
+            "inference cost",
+            "evals",
+            "tutorials"
         ]
     },
     {
