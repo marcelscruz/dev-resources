@@ -16,6 +16,13 @@ export const resources: Resource[] = [
         url: 'https://qoqo.ai/',
     },
     {
+        name: 'Quicklisting',
+        description: 'Auto-submit to 50+ directories',
+        categories: ['Marketing'],
+        url: 'https://quicklisting.tech',
+        keywords: ['marketing', 'SEO', 'directories'],
+    },
+    {
         name: 'Quokka.js',
         description:
             'Quokka.js runs your JavaScript and TypeScript code and displays results inline in VS Code, WebStorm, and Sublime Text.',
