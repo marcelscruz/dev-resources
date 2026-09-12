@@ -148,6 +148,14 @@ export const resources: Resource[] = [
         keywords: ['git', 'cli', 'workflow', 'terminal', 'commit', 'golang'],
     },
     {
+        name: 'GlobalEntity',
+        description:
+            'One REST API for official company data from 50+ European business registers, returning status, legal form, address, VAT and LEI as normalized JSON.',
+        categories: ['Database', 'Security'],
+        url: 'https://www.globalentityapi.com',
+        keywords: ['company data', 'kyc', 'business registry', 'lei', 'vat'],
+    },
+    {
         name: 'GoatCounter',
         description:
             'GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app.',
