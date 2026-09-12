@@ -1,5 +1,5 @@
 {
-"count": 1211,
+"count": 1212,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5902,6 +5902,22 @@
             "terminal",
             "commit",
             "golang"
+        ]
+    },
+    {
+        "name": "GlobalEntity",
+        "description": "One REST API for official company data from 50+ European business registers, returning status, legal form, address, VAT and LEI as normalized JSON.",
+        "categories": [
+            "Database",
+            "Security"
+        ],
+        "url": "https://www.globalentityapi.com",
+        "keywords": [
+            "company data",
+            "kyc",
+            "business registry",
+            "lei",
+            "vat"
         ]
     },
     {
