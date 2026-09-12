@@ -389,6 +389,14 @@ export const resources: Resource[] = [
         url: 'https://resume.io',
     },
     {
+        name: 'ResumeAI',
+        description:
+            'Free ATS resume checker (3/day anonymous, 10/day free account) plus the open State of ATS 2026 employer dataset.',
+        categories: ['Resume', 'Job'],
+        url: 'https://withresumeai.com/',
+        keywords: ['ats', 'resume checker', 'job search', 'ats score'],
+    },
+    {
         name: 'ResumeBoostAI',
         description: 'Create a professional resume using AI.',
         categories: ['Resume', 'AI'],
