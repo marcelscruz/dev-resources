@@ -230,6 +230,14 @@ export const resources: Resource[] = [
         keywords: ['directory', 'tools', 'development', 'seo'],
     },
     {
+        name: 'Uwarp',
+        description:
+            'Free browser UI design tools for developers and designers—SVG, color, icons, mockups, image and audio converters. No signup required.',
+        categories: ['Design', 'UI', 'Tooling'],
+        url: 'https://www.uwarp.design/',
+        keywords: ['design tools', 'svg', 'color', 'icons', 'mockups', 'ui tools'],
+    },
+    {
         name: 'UXfolio',
         description:
             'UXfolio is a powerful UX portfolio builder with no coding required. Pick a stunning template and tell the story behind your design process.',
