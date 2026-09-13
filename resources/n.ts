@@ -151,6 +151,14 @@ export const resources: Resource[] = [
         keywords: ['SEO', 'Marketing'],
     },
     {
+        name: 'Nick Launches',
+        description:
+            'Launch directory for indie makers and startups. Submit a product, get it listed in a browsable catalogue, and earn a dofollow backlink.',
+        categories: ['Marketing', 'Startup', 'SEO'],
+        url: 'https://nicklaunches.com',
+        keywords: ['launch', 'directory', 'startup', 'backlink', 'indie'],
+    },
+    {
         name: 'Nitric',
         description: 'A fun and productive framework for building serverless apps',
         categories: ['API Building'],
