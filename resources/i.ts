@@ -109,6 +109,14 @@ export const resources: Resource[] = [
         url: 'https://www.artify.co/illustrations-figma',
     },
     {
+        name: 'Image to ASCII',
+        description:
+            'Convert images locally into ASCII art for READMEs and terminals. Copy text or Markdown; export TXT, PNG, SVG, HTML, or ANSI. Free, no signup.',
+        categories: ['Image', 'Terminal', 'Tooling'],
+        url: 'https://imagetoascii.art/',
+        keywords: ['ascii art', 'image to ascii', 'readme', 'ansi', 'markdown', 'local processing'],
+    },
+    {
         name: 'Img.Upscaler',
         description: 'Upscale and enhance your image by using the latest AI technology. Support batch process.',
         categories: ['AI', 'Image'],
