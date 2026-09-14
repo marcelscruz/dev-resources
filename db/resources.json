@@ -1,5 +1,5 @@
 {
-"count": 1214,
+"count": 1215,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9940,6 +9940,23 @@
             "Programming"
         ],
         "url": "https://www.jetbrains.com/phpstorm/"
+    },
+    {
+        "name": "PicPrepper",
+        "description": "Browser-based image preparation for web projects: compress, resize, and convert JPG, PNG, and WebP locally without uploading.",
+        "categories": [
+            "Image",
+            "Performance",
+            "Tooling"
+        ],
+        "url": "https://picprepper.com",
+        "keywords": [
+            "image compression",
+            "image resize",
+            "webp",
+            "frontend",
+            "browser-based"
+        ]
     },
     {
         "name": "Pictify",
