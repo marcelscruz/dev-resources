@@ -192,6 +192,14 @@ export const resources: Resource[] = [
         url: 'https://www.jetbrains.com/phpstorm/',
     },
     {
+        name: 'PicPrepper',
+        description:
+            'Browser-based image preparation for web projects: compress, resize, and convert JPG, PNG, and WebP locally without uploading.',
+        categories: ['Image', 'Performance', 'Tooling'],
+        url: 'https://picprepper.com',
+        keywords: ['image compression', 'image resize', 'webp', 'frontend', 'browser-based'],
+    },
+    {
         name: 'Pictify',
         description: 'Pictify.io provides API to convert HTML into image',
         categories: ['Image', 'Programming'],
