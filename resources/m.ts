@@ -297,6 +297,14 @@ export const resources: Resource[] = [
         keywords: ['minimal', 'design', 'ui', 'inspiration'],
     },
     {
+        name: 'Mirage Cloud IA',
+        description:
+            'Mirage Cloud is an AI platform with 12 specialised agents that automate accounting, HR, finance and sales for French SMEs.',
+        categories: ['AI'],
+        url: 'https://mirage-cloud.com',
+        keywords: ['AI agents for SME', 'French AI SaaS', 'AI CFO tool'],
+    },
+    {
         name: 'Miruni',
         description:
             'Miruni is a visual feedback and task management tool designed for webmasters, developers, and agencies managing websites across many platforms.',
