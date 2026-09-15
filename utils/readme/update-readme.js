@@ -43,8 +43,9 @@ const sponsorsData = (() => {
 // inline style, so the whole layout rides attributes its sanitizer keeps:
 // `absmiddle` is real vertical-align middle (plain `middle` is
 // -webkit-baseline-middle, which pins the mark's middle to the text baseline
-// and drops it 6px), `hspace` is the gap, and the <h3> exists only to size the
-// name to 20px — the one surviving way, since style/font/big are all stripped.
+// and drops it 6px) and `hspace` is the gap. The line stays a <p>: a heading is
+// the only surviving way to enlarge the name (style/font/big are all stripped),
+// and it listed the sponsor at the top of GitHub's README outline panel.
 // The name is PLAIN TEXT outside the anchor, never a link: inside it rendered in
 // link blue, unlike every wordmark sponsor's mark. The logo keeps the click, and
 // the caption line below already links the same name. No whitespace between the
@@ -55,12 +56,8 @@ const sponsorBlocks = sponsorsData.map((s) => {
     }px"><source media="(prefers-color-scheme: light)" srcset="./${s.logoLight}" width="${s.width}px"><img alt="${
         s.name
     } logo" src="./${s.logoDark}" width="${s.width}px"${s.lockup ? ' align="absmiddle" hspace="8"' : ''}></picture>`
-    const logoLine = s.lockup
-        ? `<h3 align="center"><a href="${s.link}">${picture}</a><b>${s.name}</b></h3>`
-        : `<p align="center"><a href="${s.link}">${picture}</a></p>`
-
     return `<div>
-    ${logoLine}
+    <p align="center"><a href="${s.link}">${picture}</a>${s.lockup ? `<b>${s.name}</b>` : ''}</p>
     <p align="center"><a href="${s.link}">${s.name}</a>${s.blurb ? ': ' + s.blurb : ''}</p>
 </div>`
 })
