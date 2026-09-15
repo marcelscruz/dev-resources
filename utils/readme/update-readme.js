@@ -40,7 +40,9 @@ const sponsorsData = (() => {
 
 // `lockup` sponsors uploaded an app icon rather than a horizontal wordmark, so
 // the mark carries no name — the name is drawn beside it instead (align/hspace
-// because GitHub strips inline style).
+// because GitHub strips inline style). No whitespace between the mark and the
+// name: a text node inside the anchor is link text, so a literal space renders
+// as an underlined blank before the first letter — hspace carries the gap.
 const sponsorBlocks = sponsorsData.map(
     (s) => `<div>
     <p align="center"><a href="${s.link}"><picture><source media="(prefers-color-scheme: dark)" srcset="./${
@@ -48,8 +50,8 @@ const sponsorBlocks = sponsorsData.map(
     }" width="${s.width}px"><source media="(prefers-color-scheme: light)" srcset="./${s.logoLight}" width="${
         s.width
     }px"><img alt="${s.name} logo" src="./${s.logoDark}" width="${s.width}px"${
-        s.lockup ? ' align="middle" hspace="4"' : ''
-    }></picture>${s.lockup ? ` <b>${s.name}</b>` : ''}</a></p>
+        s.lockup ? ' align="middle" hspace="8"' : ''
+    }></picture>${s.lockup ? `<b>${s.name}</b>` : ''}</a></p>
     <p align="center"><a href="${s.link}">${s.name}</a>${s.blurb ? ': ' + s.blurb : ''}</p>
 </div>`,
 )
