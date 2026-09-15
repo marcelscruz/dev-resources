@@ -38,13 +38,18 @@ const sponsorsData = (() => {
     }
 })()
 
+// `lockup` sponsors uploaded an app icon rather than a horizontal wordmark, so
+// the mark carries no name — the name is drawn beside it instead (align/hspace
+// because GitHub strips inline style).
 const sponsorBlocks = sponsorsData.map(
     (s) => `<div>
     <p align="center"><a href="${s.link}"><picture><source media="(prefers-color-scheme: dark)" srcset="./${
         s.logoDark
     }" width="${s.width}px"><source media="(prefers-color-scheme: light)" srcset="./${s.logoLight}" width="${
         s.width
-    }px"><img alt="${s.name} logo" src="./${s.logoDark}" width="${s.width}px"></picture></a></p>
+    }px"><img alt="${s.name} logo" src="./${s.logoDark}" width="${s.width}px"${
+        s.lockup ? ' align="middle" hspace="4"' : ''
+    }></picture>${s.lockup ? ` <b>${s.name}</b>` : ''}</a></p>
     <p align="center"><a href="${s.link}">${s.name}</a>${s.blurb ? ': ' + s.blurb : ''}</p>
 </div>`,
 )
