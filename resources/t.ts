@@ -207,7 +207,7 @@ export const resources: Resource[] = [
         name: 'Text Differ',
         description:
             "Whether you're revising an article, checking document updates, or reviewing code, Text Differ helps you spot every change quickly and confidently.",
-        categories: ['Tool'],
+        categories: ['Tooling'],
         url: 'https://text-differ.com/',
         keywords: ['text compare', 'text differ', 'compare', 'productivity', 'devtool', 'json formatter'],
     },
