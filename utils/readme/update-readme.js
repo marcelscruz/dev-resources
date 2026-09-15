@@ -50,13 +50,11 @@ const sponsorsData = (() => {
 // the caption line below already links the same name. No whitespace between the
 // mark and the name either — the gap is hspace alone, so a space would double it.
 const sponsorBlocks = sponsorsData.map((s) => {
-    const picture = `<picture><source media="(prefers-color-scheme: dark)" srcset="./${
-        s.logoDark
-    }" width="${s.width}px"><source media="(prefers-color-scheme: light)" srcset="./${s.logoLight}" width="${
+    const picture = `<picture><source media="(prefers-color-scheme: dark)" srcset="./${s.logoDark}" width="${
         s.width
-    }px"><img alt="${s.name} logo" src="./${s.logoDark}" width="${s.width}px"${
-        s.lockup ? ' align="absmiddle" hspace="8"' : ''
-    }></picture>`
+    }px"><source media="(prefers-color-scheme: light)" srcset="./${s.logoLight}" width="${s.width}px"><img alt="${
+        s.name
+    } logo" src="./${s.logoDark}" width="${s.width}px"${s.lockup ? ' align="absmiddle" hspace="8"' : ''}></picture>`
     const logoLine = s.lockup
         ? `<h3 align="center"><a href="${s.link}">${picture}</a><b>${s.name}</b></h3>`
         : `<p align="center"><a href="${s.link}">${picture}</a></p>`
