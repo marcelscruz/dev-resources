@@ -447,7 +447,7 @@ export const resources: Resource[] = [
     {
         name: 'TranscriptFetch',
         description:
-            'Transcript API for YouTube, TikTok, Instagram and podcasts. Clean, timestamped JSON from one call, with AI fallback when there are no captions.',
+            'Transcript data from any YouTube, TikTok or Instagram video, or a whole channel or playlist, inside your assistant. Analyze a video, a creator, or a whole topic.',
         categories: ['Video'],
         url: 'https://transcriptfetch.com',
         keywords: [
