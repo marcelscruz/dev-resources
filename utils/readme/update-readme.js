@@ -39,24 +39,33 @@ const sponsorsData = (() => {
 })()
 
 // `lockup` sponsors uploaded an app icon rather than a horizontal wordmark, so
-// the mark carries no name — the name is drawn beside it instead (align/hspace
-// because GitHub strips inline style). The name is PLAIN TEXT outside the
-// anchor, never a link: inside it rendered in link blue, unlike every wordmark
-// sponsor's mark. The logo keeps the click, and the caption line below already
-// links the same name. No whitespace between the mark and the name either —
-// the gap is hspace alone, so a space character would double it.
-const sponsorBlocks = sponsorsData.map(
-    (s) => `<div>
-    <p align="center"><a href="${s.link}"><picture><source media="(prefers-color-scheme: dark)" srcset="./${
+// the mark carries no name — the name is drawn beside it instead. GitHub strips
+// inline style, so the whole layout rides attributes its sanitizer keeps:
+// `absmiddle` is real vertical-align middle (plain `middle` is
+// -webkit-baseline-middle, which pins the mark's middle to the text baseline
+// and drops it 6px), `hspace` is the gap, and the <h3> exists only to size the
+// name to 20px — the one surviving way, since style/font/big are all stripped.
+// The name is PLAIN TEXT outside the anchor, never a link: inside it rendered in
+// link blue, unlike every wordmark sponsor's mark. The logo keeps the click, and
+// the caption line below already links the same name. No whitespace between the
+// mark and the name either — the gap is hspace alone, so a space would double it.
+const sponsorBlocks = sponsorsData.map((s) => {
+    const picture = `<picture><source media="(prefers-color-scheme: dark)" srcset="./${
         s.logoDark
     }" width="${s.width}px"><source media="(prefers-color-scheme: light)" srcset="./${s.logoLight}" width="${
         s.width
     }px"><img alt="${s.name} logo" src="./${s.logoDark}" width="${s.width}px"${
-        s.lockup ? ' align="middle" hspace="8"' : ''
-    }></picture></a>${s.lockup ? `<b>${s.name}</b>` : ''}</p>
+        s.lockup ? ' align="absmiddle" hspace="8"' : ''
+    }></picture>`
+    const logoLine = s.lockup
+        ? `<h3 align="center"><a href="${s.link}">${picture}</a><b>${s.name}</b></h3>`
+        : `<p align="center"><a href="${s.link}">${picture}</a></p>`
+
+    return `<div>
+    ${logoLine}
     <p align="center"><a href="${s.link}">${s.name}</a>${s.blurb ? ': ' + s.blurb : ''}</p>
-</div>`,
-)
+</div>`
+})
 
 const sponsors = sponsorBlocks.length
     ? `<div align="center">Sponsored by</div><br/>\n\n${sponsorBlocks.join('<br/>\n\n\n\n')}<br/>\n\n\n\n`
