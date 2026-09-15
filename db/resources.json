@@ -5125,7 +5125,9 @@
             "webfont",
             "icon font",
             "font generator",
+            "SVG to WOFF2",
             "color glyphs",
+            "monochrome icons",
             "custom icons"
         ]
     },
