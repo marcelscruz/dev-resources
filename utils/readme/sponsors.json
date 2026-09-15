@@ -5,6 +5,16 @@
         "blurb": "Search API that makes it easy and fast to scrape Google and other search engines.",
         "logoDark": "assets/serpapi-dark-mode.svg",
         "logoLight": "assets/serpapi-light-mode.svg",
-        "width": 116
+        "width": 116,
+        "lockup": false
+    },
+    {
+        "name": "TranscriptFetch",
+        "link": "https://transcriptfetch.com?ref=dr-pa&utm_source=dev-resources-repo-readme&utm_medium=referral&utm_content=sponsored",
+        "blurb": "Transcript data from any YouTube, TikTok or Instagram video, or a whole channel or playlist, inside your assistant. Analyze a video, a creator, or a whole topic.",
+        "logoDark": "assets/transcriptfetch-dark-mode.png",
+        "logoLight": "assets/transcriptfetch-light-mode.png",
+        "width": 28,
+        "lockup": true
     }
 ]
