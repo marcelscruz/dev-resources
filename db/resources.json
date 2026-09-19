@@ -1,5 +1,5 @@
 {
-"count": 1212,
+"count": 1213,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11052,6 +11052,24 @@
             "repo",
             "repository",
             "traffic"
+        ]
+    },
+    {
+        "name": "ReqKey",
+        "description": "ReqKey validates API keys, meters credits, enforces rate limits, and logs every request — from a single SDK call inside your own middleware.",
+        "categories": [
+            "API Building"
+        ],
+        "url": "https://www.reqkey.com",
+        "keywords": [
+            "api keys",
+            "authentication",
+            "rate limits",
+            "usage metering",
+            "api analytics",
+            "developer tools",
+            "sdk",
+            "saas"
         ]
     },
     {
