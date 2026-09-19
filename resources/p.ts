@@ -389,6 +389,14 @@ export const resources: Resource[] = [
         url: 'https://www.primefaces.org/',
     },
     {
+        name: 'PrintSocket',
+        description:
+            'Send PDFs, ZPL labels and ESC/POS receipts to printers you control, from any language, over a REST API.',
+        categories: ['API Building'],
+        url: 'https://www.printsocket.com',
+        keywords: ['printing', 'cloud printing', 'escpos', 'zpl', 'receipt printer', 'label printer', 'rest api'],
+    },
+    {
         name: 'Prismix',
         description:
             'Real-time status for 75+ AI services, curated news from 70+ sources, and a directory of 500+ MCP servers. Free REST API for status data.',
