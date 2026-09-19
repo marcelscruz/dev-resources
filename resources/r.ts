@@ -313,6 +313,23 @@ export const resources: Resource[] = [
         keywords: ['github', 'repo', 'repository', 'traffic'],
     },
     {
+        name: 'ReqKey',
+        description:
+            'ReqKey validates API keys, meters credits, enforces rate limits, and logs every request — from a single SDK call inside your own middleware.',
+        categories: ['API Building'],
+        url: 'https://www.reqkey.com',
+        keywords: [
+            'api keys',
+            'authentication',
+            'rate limits',
+            'usage metering',
+            'api analytics',
+            'developer tools',
+            'sdk',
+            'saas',
+        ],
+    },
+    {
         name: 'Requestly',
         categories: ['API Building', 'Tooling'],
         description: 'Build and test APIs faster. Lightweight Git-friendly API client built for modern developers.',
