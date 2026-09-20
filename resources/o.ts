@@ -180,6 +180,13 @@ export const resources: Resource[] = [
         url: 'https://www.optimizeimages.com',
     },
     {
+        name: 'Orbi',
+        description:
+            'Takes a labeled GitHub Issue through implementation, an independent review that can block the merge, and a tagged release, with no human in the loop.',
+        categories: ['AI', 'Programming', 'Tooling'],
+        url: 'https://orbi.build/',
+    },
+    {
         name: 'OrcaSheets',
         description:
             'Local-first spreadsheet analytics that processes billions of rows on your PC and adds AI insights while keeping sensitive data under your control.',
