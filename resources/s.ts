@@ -134,6 +134,15 @@ export const resources: Resource[] = [
         url: 'https://searchatlas.com',
     },
     {
+        name: 'Seed Imagine',
+        description:
+            'Browser-based AI workspace for text-to-image and photo-to-video. Generate creative assets for demos, content, and product visuals.',
+        categories: ['AI', 'Image', 'Video'],
+        url: 'https://www.seedimagine.com',
+        keywords: ['ai image', 'text to image', 'image to video', 'ai video', 'creative tools'],
+    },
+
+    {
         name: 'seenode',
         description: 'Developer cloud for full-stack apps',
         categories: ['Hosting', 'Cloud Computing', 'Tooling'],

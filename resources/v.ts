@@ -125,6 +125,24 @@ export const resources: Resource[] = [
         keywords: ['resource discovery', 'design tools', 'ai tools', 'developer resources'],
     },
     {
+        name: 'Video Background Remover',
+        description:
+            'AI tool to remove video backgrounds online. Upload common video formats and export background-free clips for demos and content.',
+        categories: ['AI', 'Video'],
+        url: 'https://www.videobgremover.org',
+        keywords: ['video background remover', 'remove video background', 'ai video', 'green screen'],
+    },
+    {
+        name: 'Video Watermark Remover',
+        description:
+            'AI video watermark remover for MP4, AVI, and MOV. Upload a video online and download a cleaner watermark-free export.',
+        categories: ['AI', 'Video'],
+        url: 'https://www.videowatermarkremover.org',
+        keywords: ['video watermark remover', 'remove watermark', 'ai video', 'mp4'],
+    },
+
+
+    {
         name: 'VideoEditor SDK',
         description:
             'Video Editor SDK (Android & iOS) is a fully-functional video editor that can be integrated into an app in minutes, designed to create exciting social media content with a wide range of effects and filters for professional-quality videos on phones.',
