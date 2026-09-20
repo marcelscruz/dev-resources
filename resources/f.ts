@@ -192,10 +192,17 @@ export const resources: Resource[] = [
     {
         name: 'Flow AI Video',
         description:
-            'Browser-based AI video studio for text-to-video, image-to-video, and reference-to-video. Create cinematic clips and download MP4 results.',
+            'Browser-based AI video generator for developers and creators. Turn text or images into MP4 clips for product demos, docs, and marketing.',
         categories: ['AI', 'Video'],
         url: 'https://flowaivideo.org',
-        keywords: ['ai video', 'text to video', 'image to video', 'video generator', 'mp4'],
+        keywords: [
+            'ai video',
+            'text to video',
+            'image to video',
+            'video generator',
+            'product demo',
+            'mp4',
+        ],
     },
     {
         name: 'flow-chart.io',
