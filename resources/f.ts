@@ -190,6 +190,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Flow AI Video',
+        description:
+            'Browser-based AI video studio for text-to-video, image-to-video, and reference-to-video. Create cinematic clips and download MP4 results.',
+        categories: ['AI', 'Video'],
+        url: 'https://flowaivideo.org',
+        keywords: ['ai video', 'text to video', 'image to video', 'video generator', 'mp4'],
+    },
+    {
         name: 'flow-chart.io',
         description:
             'AI diagram generator that produces fully editable C4 architecture, BPMN, cloud architecture, and ERD diagrams as a live scene graph. Every node, connector, and label stays editable after generation.',
