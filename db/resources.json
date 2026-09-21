@@ -1,5 +1,5 @@
 {
-"count": 1215,
+"count": 1216,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9734,6 +9734,21 @@
             "inference cost",
             "evals",
             "tutorials"
+        ]
+    },
+    {
+        "name": "Patronus Protect",
+        "description": "Hosted API to detect prompt injection in text, public webpages and documents for AI agents and RAG pipelines. Free tier available.",
+        "categories": [
+            "AI",
+            "Security"
+        ],
+        "url": "https://api.patronus.studio",
+        "keywords": [
+            "prompt injection",
+            "agent security",
+            "RAG",
+            "API"
         ]
     },
     {
