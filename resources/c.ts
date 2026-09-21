@@ -795,13 +795,7 @@ export const resources: Resource[] = [
             'CommentKeyword turns Instagram comments into qualified leads: auto-replies to keyword comments, sends an instant DM with your offer, and can continue the conversation with an AI agent. Billed per DM, not per contact.',
         categories: ['Marketing', 'Social Media', 'AI'],
         url: 'https://commentkeyword.com/',
-        keywords: [
-            'instagram',
-            'instagram marketing',
-            'comment automation',
-            'dm automation',
-            'lead generation',
-        ],
+        keywords: ['instagram', 'instagram marketing', 'comment automation', 'dm automation', 'lead generation'],
     },
     {
         name: 'Commit Your Code!',
