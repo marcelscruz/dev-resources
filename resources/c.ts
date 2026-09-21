@@ -790,6 +790,20 @@ export const resources: Resource[] = [
         url: 'https://www.colorzilla.com/',
     },
     {
+        name: 'CommentKeyword',
+        description:
+            'CommentKeyword turns Instagram comments into qualified leads: auto-replies to keyword comments, sends an instant DM with your offer, and can continue the conversation with an AI agent. Billed per DM, not per contact.',
+        categories: ['Marketing', 'Social Media', 'AI'],
+        url: 'https://commentkeyword.com/',
+        keywords: [
+            'instagram',
+            'instagram marketing',
+            'comment automation',
+            'dm automation',
+            'lead generation',
+        ],
+    },
+    {
         name: 'Commit Your Code!',
         description:
             'Commit Your Code is about motivating and inspiring developers of all levels to reach their goals in tech. We will be sharing stories and interviewing developers that have gone through this and made it to their dream jobs!',
