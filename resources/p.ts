@@ -75,6 +75,14 @@ export const resources: Resource[] = [
         keywords: ['ai engineering', 'llm', 'inference cost', 'evals', 'tutorials'],
     },
     {
+        name: 'Patronus Protect',
+        description:
+            'Hosted API to detect prompt injection in text, public webpages and documents for AI agents and RAG pipelines. Free tier available.',
+        categories: ['AI', 'Security'],
+        url: 'https://api.patronus.studio',
+        keywords: ['prompt injection', 'agent security', 'RAG', 'API'],
+    },
+    {
         name: 'Patterninja',
         description:
             'Combine images from our free library or use your own. Produced patterns can be downloaded in high resolution and used for printing and the web.',
