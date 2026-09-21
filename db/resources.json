@@ -1,5 +1,5 @@
 {
-"count": 1216,
+"count": 1217,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2910,6 +2910,23 @@
             "Extension"
         ],
         "url": "https://www.colorzilla.com/"
+    },
+    {
+        "name": "CommentKeyword",
+        "description": "CommentKeyword turns Instagram comments into qualified leads: auto-replies to keyword comments, sends an instant DM with your offer, and can continue the conversation with an AI agent. Billed per DM, not per contact.",
+        "categories": [
+            "Marketing",
+            "Social Media",
+            "AI"
+        ],
+        "url": "https://commentkeyword.com/",
+        "keywords": [
+            "instagram",
+            "instagram marketing",
+            "comment automation",
+            "dm automation",
+            "lead generation"
+        ]
     },
     {
         "name": "Commit Your Code!",
