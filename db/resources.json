@@ -1,5 +1,5 @@
 {
-"count": 1219,
+"count": 1220,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3876,6 +3876,24 @@
             "github docs automation",
             "llm documentation update",
             "ai technical writer"
+        ]
+    },
+    {
+        "name": "DeepZero",
+        "description": "MIT-licensed Python engine for building resumable security-analysis pipelines with custom processors, Ghidra, Semgrep, and optional LLM assessment.",
+        "categories": [
+            "Security",
+            "Open Source",
+            "Tooling"
+        ],
+        "url": "https://blog.ahmadz.ai/DeepZero/en/",
+        "keywords": [
+            "python",
+            "pipeline",
+            "reverse engineering",
+            "windows drivers",
+            "ghidra",
+            "semgrep"
         ]
     },
     {
