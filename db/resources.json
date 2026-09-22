@@ -1,5 +1,5 @@
 {
-"count": 1218,
+"count": 1219,
 "data": [
     {
         "name": "1001 Fonts",
@@ -15254,6 +15254,17 @@
             "Extension"
         ],
         "url": "https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm"
+    },
+    {
+        "name": "wheretosubmit",
+        "description": "A curated directory of 500+ launch platforms and backlink sites, tagged with pricing, DR, traffic, and first-hand submission tips.track what you submitted",
+        "categories": [
+            "SEO"
+        ],
+        "url": "https://wheretosubmit.org",
+        "keywords": [
+            "seo"
+        ]
     },
     {
         "name": "Widget.video",

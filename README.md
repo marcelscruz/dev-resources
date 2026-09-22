@@ -2135,6 +2135,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://utilportal.com/&sz=128" width="16" /> | [UtilPortal](https://utilportal.com/) | UtilPortal is your go-to platform for discovering and accessing a curated collection of essential tools and resources. | directory, tools, development, seo |
  <img src="https://www.google.com/s2/favicons?domain=https://validatehtml.com&sz=128" width="16" /> | [ValidateHTML](https://validatehtml.com) | Free online validation tools for HTML, CSS, JSON, XML, meta tags, and Open Graph. Get instant quality scores from 0 to 100. | html validator, css validator, json validator, xml validator, meta tag checker, open graph checker, ... |
  <img src="https://www.google.com/s2/favicons?domain=https://ahrefs.com/website-authority-checker&sz=128" width="16" /> | [Website Authority Checker](https://ahrefs.com/website-authority-checker) | Free tool to check the "authority" of any website based on the quality and quantity of its external backlinks. |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://wheretosubmit.org&sz=128" width="16" /> | [wheretosubmit](https://wheretosubmit.org) | A curated directory of 500+ launch platforms and backlink sites, tagged with pricing, DR, traffic, and first-hand submission tips.track what you submitted | seo |
 
 **[⬆ Back to Index](#index)**
 
