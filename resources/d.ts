@@ -174,6 +174,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'DeepZero',
+        description:
+            'MIT-licensed Python engine for building resumable security-analysis pipelines with custom processors, Ghidra, Semgrep, and optional LLM assessment.',
+        categories: ['Security', 'Open Source', 'Tooling'],
+        url: 'https://blog.ahmadz.ai/DeepZero/en/',
+        keywords: ['python', 'pipeline', 'reverse engineering', 'windows drivers', 'ghidra', 'semgrep'],
+    },
+    {
         name: 'Design Resources',
         description: 'A curated list of the best design resources handpicked from around the web.',
         categories: ['Design', 'UI'],
