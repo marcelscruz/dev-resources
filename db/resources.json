@@ -1,5 +1,5 @@
 {
-"count": 1217,
+"count": 1218,
 "data": [
     {
         "name": "1001 Fonts",
@@ -343,6 +343,25 @@
             "mobile",
             "regression testing",
             "natural language tests"
+        ]
+    },
+    {
+        "name": "AgileHero",
+        "description": "Agile project management for software teams: boards, epics, roadmaps, retrospectives, whiteboards and wiki pages, plus a remote MCP server for coding agents.",
+        "categories": [
+            "Productivity",
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://agilehero.io",
+        "keywords": [
+            "project management",
+            "agile",
+            "kanban",
+            "scrum",
+            "tasks tracking",
+            "mcp",
+            "ai agents"
         ]
     },
     {
