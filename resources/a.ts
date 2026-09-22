@@ -138,7 +138,7 @@ export const resources: Resource[] = [
             'Agile project management for software teams: boards, epics, roadmaps, retrospectives, whiteboards and wiki pages, plus a remote MCP server for coding agents.',
         categories: ['Productivity', 'AI', 'Tooling'],
         url: 'https://agilehero.io',
-        keywords: ['project management', 'agile', 'kanban', 'scrum', 'task tracking', 'mcp', 'ai agents'],
+        keywords: ['project management', 'agile', 'kanban', 'scrum', 'tasks tracking', 'mcp', 'ai agents'],
     },
     {
         name: 'Ahrefs',
