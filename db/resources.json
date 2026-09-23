@@ -1,5 +1,5 @@
 {
-"count": 1220,
+"count": 1221,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3311,6 +3311,25 @@
             "Template"
         ],
         "url": "https://coreui.io/"
+    },
+    {
+        "name": "Cortex",
+        "description": "Generate interactive API documentation, typed SDKs, and MCP servers from API specifications and Markdown.",
+        "categories": [
+            "API Building",
+            "Documentation",
+            "Tooling"
+        ],
+        "url": "https://cortexdocs.dev",
+        "keywords": [
+            "openapi",
+            "asyncapi",
+            "graphql",
+            "grpc",
+            "openrpc",
+            "sdk",
+            "mcp"
+        ]
     },
     {
         "name": "CouchDB",
