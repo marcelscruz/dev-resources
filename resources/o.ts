@@ -37,10 +37,10 @@ export const resources: Resource[] = [
     },
     {
         name: 'Omnara',
-        description: 'Command Center for AI Coding Agents',
-        categories: ['AI', 'Programming', 'Tooling'],
-        url: 'https://www.omnara.com/',
-        keywords: ['ai coding agents', 'claude code', 'mobile app', 'voice control'],
+        description: 'The open-source API for production-ready AI agents',
+        categories: ['AI', 'Open Source', 'Serverless'],
+        url: 'https://omnara.com/',
+        keywords: ['developer tool', 'ai agents', 'ai infrastructure', 'api'],
     },
     {
         name: 'One Page Love',
