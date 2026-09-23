@@ -1068,6 +1068,14 @@ export const resources: Resource[] = [
         url: 'https://coreui.io/',
     },
     {
+        name: 'Cortex',
+        description:
+            'Generate interactive API documentation, typed SDKs, and MCP servers from API specifications and Markdown.',
+        categories: ['API Building', 'Documentation', 'Tooling'],
+        url: 'https://cortexdocs.dev',
+        keywords: ['openapi', 'asyncapi', 'graphql', 'grpc', 'openrpc', 'sdk', 'mcp'],
+    },
+    {
         name: 'CouchDB',
         description:
             'CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice.',
