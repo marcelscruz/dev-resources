@@ -281,6 +281,15 @@ export const resources: Resource[] = [
         url: 'https://remotive.io/',
     },
     {
+        name: 'Remove Bg',
+        description:
+            'AI background remover for product photos, portraits, and logos. Upload an image, preview the cutout, and download a transparent PNG.',
+        categories: ['AI', 'Image'],
+        url: 'https://www.remove-bg.dev',
+        keywords: ['background remover', 'remove background', 'transparent png', 'ai image', 'product photo'],
+    },
+
+    {
         name: 'remove.bg',
         description: 'Remove Image Background: 100% automatically – in 5 seconds – without a single click – for free.',
         categories: ['Image'],
