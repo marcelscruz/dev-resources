@@ -397,6 +397,13 @@ export const resources: Resource[] = [
         url: 'https://formcn.dev/',
     },
     {
+        name: 'FounderAgreement.com',
+        description:
+            "Free Founders' / Co-Founders' Agreement Builder — private, browser-based, no signup or database storage.",
+        categories: ['Legal'],
+        url: 'https://FounderAgreement.com/?utm_source=dir&utm_medium=ref&utm_campaign=fts&utm_content=devresourc_',
+    },
+    {
         name: 'FoundRole',
         description:
             'AI-powered job search platform for developers: an AI job search engine, a built-in Kanban application tracker, and an open-source MCP server to search live listings from Claude and ChatGPT.',
