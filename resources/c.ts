@@ -1286,4 +1286,23 @@ export const resources: Resource[] = [
         categories: ['Library', 'Programming'],
         url: 'https://js.cytoscape.org/',
     },
+    {
+        name: 'Código ao Ponto',
+        description:
+            'Free browser-based developer tools with no signup: Brazilian test data generators and validators (CPF, CNPJ, RG, CNH), JWT, hash, Base64, UUID and JSON tools.',
+        categories: ['Testing', 'Tooling', 'Programming'],
+        url: 'https://codigoaoponto.com/en',
+        keywords: [
+            'test data',
+            'cpf generator',
+            'cnpj generator',
+            'brazilian documents',
+            'jwt decoder',
+            'hash generator',
+            'base64',
+            'uuid generator',
+            'json formatter',
+            'unix timestamp',
+        ],
+    },
 ]
