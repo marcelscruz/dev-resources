@@ -662,25 +662,6 @@ export const resources: Resource[] = [
         url: 'https://www.codiga.io',
     },
     {
-        name: 'Código ao Ponto',
-        description:
-            'Free browser-based developer tools with no signup: Brazilian test data generators and validators (CPF, CNPJ, RG, CNH), JWT, hash, Base64, UUID and JSON tools.',
-        categories: ['Testing', 'Tooling', 'Programming'],
-        url: 'https://codigoaoponto.com/en',
-        keywords: [
-            'test data',
-            'cpf generator',
-            'cnpj generator',
-            'brazilian documents',
-            'jwt decoder',
-            'hash generator',
-            'base64',
-            'uuid generator',
-            'json formatter',
-            'unix timestamp',
-        ],
-    },
-    {
         name: 'Coding Tech',
         description:
             "Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here's the list of Conferences that provided Coding Tech with EXPLICIT written publication permissions: PyData, MLConf, Build Stuff, Code::dive, PolyConf, AmsterdamJS, React Amsterdam, ReactiveConf, Jazoon Tech Days, SFNode, CppCon, Infinite Red, GDG Lviv, Mibuso.com, You Gotta Love Frontend, React Native EU, Node Summit, NodeConfEU, ConFoo, Pixels Camp, JavaScriptLA, The Linux Foundation, Oredev Conference, Techlahoma, fitcevents. Coding Tech also re-posts content which was originally published with the Creative Commons Attribution license (reuse allowed).",
@@ -1304,5 +1285,24 @@ export const resources: Resource[] = [
             'Graph theory / network library for analysis and visualisation - compatible with CommonJS/Node.js/Browserify/Webpack, AMD/Require.js, npm, Bower, jspm, Meteor/Atmosphere, jQuery, and plain JS/JavaScript.',
         categories: ['Library', 'Programming'],
         url: 'https://js.cytoscape.org/',
+    },
+    {
+        name: 'Código ao Ponto',
+        description:
+            'Free browser-based developer tools with no signup: Brazilian test data generators and validators (CPF, CNPJ, RG, CNH), JWT, hash, Base64, UUID and JSON tools.',
+        categories: ['Testing', 'Tooling', 'Programming'],
+        url: 'https://codigoaoponto.com/en',
+        keywords: [
+            'test data',
+            'cpf generator',
+            'cnpj generator',
+            'brazilian documents',
+            'jwt decoder',
+            'hash generator',
+            'base64',
+            'uuid generator',
+            'json formatter',
+            'unix timestamp',
+        ],
     },
 ]
