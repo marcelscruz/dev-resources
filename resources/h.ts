@@ -99,6 +99,13 @@ export const resources: Resource[] = [
         url: 'https://hatchful.shopify.com/',
     },
     {
+        name: 'HelloCounsel',
+        description: 'AI voice agents that answer calls and log every note in your CMS',
+        categories: ['AI', 'Legal', 'Productivity'],
+        url: 'https://www.hellocounsel.ai/',
+        keywords: ['ai voice agent', 'legal tech', 'personal injury', 'legal intake'],
+    },
+    {
         name: 'Hemingway App',
         description:
             'Hemingway App makes your writing bold and clear. The app highlights lengthy, complex sentences and common errors.',
