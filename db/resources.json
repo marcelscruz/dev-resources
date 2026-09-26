@@ -1,5 +1,5 @@
 {
-"count": 1222,
+"count": 1223,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10079,6 +10079,21 @@
             "Productivity",
             "Copilot",
             "easy snippet search"
+        ]
+    },
+    {
+        "name": "Pilot Protocol",
+        "description": "Overlay network for AI agents: permanent virtual addresses, encrypted UDP tunnels, NAT traversal, and a trust model — plus an app store of agent-native apps.",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://pilotprotocol.network",
+        "keywords": [
+            "agent networking",
+            "overlay network",
+            "NAT traversal",
+            "p2p",
+            "app store"
         ]
     },
     {
