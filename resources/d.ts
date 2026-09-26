@@ -271,6 +271,24 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Dev Tools',
+        description:
+            '600+ free developer tools in the browser: JSON, Base64, regex, JWT, cron, subnet, SQL, PDF and image utilities. Most run client-side, no sign-up.',
+        categories: ['Tooling', 'Productivity', 'Programming'],
+        url: 'https://tools.bubble.ro/',
+        keywords: [
+            'json formatter',
+            'base64',
+            'regex tester',
+            'jwt decoder',
+            'cron',
+            'subnet calculator',
+            'developer tools',
+            'online tools',
+            'privacy',
+        ],
+    },
+    {
         name: 'devChallenges',
         description:
             'devChallenges.io is a community and a platform for anyone who wants to become a Software Engineer by building real-life projects and solving practical tasks. devChallenges.io is built with the goal of enabling you to build an outstanding portfolio.',
