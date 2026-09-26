@@ -1,5 +1,5 @@
 {
-"count": 1221,
+"count": 1222,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4038,6 +4038,27 @@
             "Ruby",
             "Security",
             "iOS"
+        ]
+    },
+    {
+        "name": "Dev Tools",
+        "description": "600+ free developer tools in the browser: JSON, Base64, regex, JWT, cron, subnet, SQL, PDF and image utilities. Most run client-side, no sign-up.",
+        "categories": [
+            "Tooling",
+            "Productivity",
+            "Programming"
+        ],
+        "url": "https://tools.bubble.ro/",
+        "keywords": [
+            "json formatter",
+            "base64",
+            "regex tester",
+            "jwt decoder",
+            "cron",
+            "subnet calculator",
+            "developer tools",
+            "online tools",
+            "privacy"
         ]
     },
     {
