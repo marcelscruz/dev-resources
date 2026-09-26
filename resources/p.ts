@@ -222,6 +222,14 @@ export const resources: Resource[] = [
         keywords: ['Productivity', 'Copilot', 'easy snippet search'],
     },
     {
+        name: 'Pilot Protocol',
+        description:
+            'Overlay network for AI agents: permanent virtual addresses, encrypted UDP tunnels, NAT traversal, and a trust model — plus an app store of agent-native apps.',
+        categories: ['AI'],
+        url: 'https://pilotprotocol.network',
+        keywords: ['agent networking', 'overlay network', 'NAT traversal', 'p2p', 'app store'],
+    },
+    {
         name: 'PimpMySnap',
         description:
             'PimpMySnap is a powerful screenshot editor capable of transforming your screenshots into eye-catching visuals.',
