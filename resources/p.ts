@@ -343,7 +343,7 @@ export const resources: Resource[] = [
     {
         name: 'Poket Dev',
         description:
-            'Unlimited software development subscription. One flat monthly fee covers unlimited requests, handled one at a time and delivered through a private GitHub repo with a 72-hour turnaround. Python-first scope: AI/ML, backends, automation, data engineering, and cloud/DevOps.',
+            'Software development on a subscription: submit as many requests as you need each month for one flat fee. Work happens one request at a time in a private GitHub repo, with a 72-hour turnaround on delivery. Python-first scope covering AI/ML, backends, automation, data engineering, and cloud/DevOps.',
         categories: ['Startup', 'Freelance'],
         url: 'https://www.poketdev.com',
         keywords: [
