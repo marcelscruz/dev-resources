@@ -341,6 +341,24 @@ export const resources: Resource[] = [
         url: 'https://www.pluralsight.com/',
     },
     {
+        name: 'Poket Dev',
+        description:
+            'Software development on a subscription: submit as many requests as you need each month for one flat fee. Work happens one request at a time in a private GitHub repo, with a 72-hour turnaround on delivery. Python-first scope covering AI/ML, backends, automation, data engineering, and cloud/DevOps.',
+        categories: ['Startup', 'Freelance'],
+        url: 'https://www.poketdev.com',
+        keywords: [
+            'productized service',
+            'subscription development',
+            'python development',
+            'django',
+            'fastapi',
+            'devops',
+            'aws',
+            'etl',
+            'web scraping',
+        ],
+    },
+    {
         name: 'Polypane',
         description:
             'A browser for web developers and designers with all the tools you need to build responsive, accessible and fast sites five times faster.',
