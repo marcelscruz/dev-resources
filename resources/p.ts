@@ -171,6 +171,14 @@ export const resources: Resource[] = [
         keywords: ['image generation', 'professional photos'],
     },
     {
+        name: 'PhotonConsole',
+        description:
+            'PhotonConsole is a cloud-based SMTP Relay and Email API platform built for developers, startups, SaaS businesses, and enterprises.',
+        categories: ['Blog'],
+        url: 'https://www.photonconsole.com/',
+        keywords: ['email relay'],
+    },
+    {
         name: 'Photopea',
         description:
             'Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures.',
