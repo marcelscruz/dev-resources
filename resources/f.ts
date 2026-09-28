@@ -397,6 +397,24 @@ export const resources: Resource[] = [
         url: 'https://formcn.dev/',
     },
     {
+        name: 'Formfeed',
+        description:
+            'PDF and image generation API. HTML templates in Jinja2, Liquid or Handlebars, or your own Word files, rendered by one API call. EU-hosted, free plan.',
+        categories: ['Tooling', 'Template', 'Image'],
+        url: 'https://formfeed.dev',
+        keywords: [
+            'pdf',
+            'html to pdf',
+            'pdf api',
+            'document generation',
+            'invoice',
+            'jinja2',
+            'liquid',
+            'handlebars',
+            'mcp',
+        ],
+    },
+    {
         name: 'FoundRole',
         description:
             'AI-powered job search platform for developers: an AI job search engine, a built-in Kanban application tracker, and an open-source MCP server to search live listings from Claude and ChatGPT.',
