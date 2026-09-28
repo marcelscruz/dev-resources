@@ -1,5 +1,5 @@
 {
-"count": 1226,
+"count": 1227,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5292,6 +5292,27 @@
             "Code Snippet"
         ],
         "url": "https://formcn.dev/"
+    },
+    {
+        "name": "Formfeed",
+        "description": "PDF and image generation API. HTML templates in Jinja2, Liquid or Handlebars, or your own Word files, rendered by one API call. EU-hosted, free plan.",
+        "categories": [
+            "Tooling",
+            "Template",
+            "Image"
+        ],
+        "url": "https://formfeed.dev",
+        "keywords": [
+            "pdf",
+            "html to pdf",
+            "pdf api",
+            "document generation",
+            "invoice",
+            "jinja2",
+            "liquid",
+            "handlebars",
+            "mcp"
+        ]
     },
     {
         "name": "FoundRole",
