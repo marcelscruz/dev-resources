@@ -172,6 +172,14 @@ export const resources: Resource[] = [
         url: 'https://nomadlist.com/',
     },
     {
+        name: 'Noms',
+        description:
+            'Nutrition data API: 3.7M foods and 298K brands across 230 countries, with barcode lookup, up to 177 nutrients per food and a free tier.',
+        categories: ['Database'],
+        url: 'https://noms.sh',
+        keywords: ['nutrition', 'food', 'barcode', 'calories', 'rest api', 'openapi'],
+    },
+    {
         name: 'Nord',
         description: 'A arctic, north-bluish color palette',
         categories: ['Color'],
