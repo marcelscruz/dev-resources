@@ -70,6 +70,14 @@ export const resources: Resource[] = [
         url: 'https://jestjs.io/',
     },
     {
+        name: 'JEV API Guide',
+        description:
+            'Independent guide to the JEV API with a free first-request tutorial, request examples, and practical use cases for typed decisions.',
+        categories: ['Learn', 'Documentation', 'API Building'],
+        url: 'https://jevapi.io/',
+        keywords: ['JEV API', 'free JEV API', 'decision model', 'API tutorial'],
+    },
+    {
         name: 'JobBoardSearch 🔎',
         categories: ['Job'],
         description:
