@@ -1,5 +1,5 @@
 {
-"count": 1227,
+"count": 1229,
 "data": [
     {
         "name": "1001 Fonts",
@@ -538,6 +538,23 @@
             "ai one pager generator",
             "create one pager",
             "one pager template"
+        ]
+    },
+    {
+        "name": "AI Website Prompt Generator",
+        "description": "AI Website Prompt Generator is an all-in-one AI platform that helps designers, developers, agencies, and businesses create  professional, SEO-friendly  websites",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://aiwebsitepromptgenerator.com/",
+        "keywords": [
+            "AI web design",
+            "Web design prompt",
+            "website to prompt",
+            "prompt generator",
+            "AI prompt maker",
+            "AI Logo Maker",
+            "AI thumbnail generator"
         ]
     },
     {
@@ -14753,6 +14770,22 @@
             "Hosting"
         ],
         "url": "https://vercel.com/"
+    },
+    {
+        "name": "Verva",
+        "description": "Verva humanizes AI-generated text into natural writing that bypasses AI detectors while preserving its meaning. For writers, marketers, and creators.",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://verva.com/",
+        "keywords": [
+            "AI humanizer",
+            "humanize AI text",
+            "AI detector",
+            "AI writing",
+            "content creation",
+            "rewriting"
+        ]
     },
     {
         "name": "Vesta",
