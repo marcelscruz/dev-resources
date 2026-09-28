@@ -111,6 +111,14 @@ export const resources: Resource[] = [
         url: 'https://vercel.com/',
     },
     {
+        name: 'Verva',
+        description:
+            'Verva humanizes AI-generated text into natural writing that bypasses AI detectors while preserving its meaning. For writers, marketers, and creators.',
+        categories: ['AI'],
+        url: 'https://verva.com/',
+        keywords: ['AI humanizer', 'humanize AI text', 'AI detector', 'AI writing', 'content creation', 'rewriting'],
+    },
+    {
         name: 'Vesta',
         description: 'Vesta generates content in your style across any of your marketing channels.',
         categories: ['Writing', 'Marketing', 'Productivity'],
