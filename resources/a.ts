@@ -221,6 +221,22 @@ export const resources: Resource[] = [
         keywords: ['one pager generator', 'ai one pager generator', 'create one pager', 'one pager template'],
     },
     {
+        name: 'AI Website Prompt Generator',
+        description:
+            'AI Website Prompt Generator is an all-in-one AI platform that helps designers, developers, agencies, and businesses create  professional, SEO-friendly  websites',
+        categories: ['AI'],
+        url: 'https://aiwebsitepromptgenerator.com/',
+        keywords: [
+            'AI web design',
+            'Web design prompt',
+            'website to prompt',
+            'prompt generator',
+            'AI prompt maker',
+            'AI Logo Maker',
+            'AI thumbnail generator',
+        ],
+    },
+    {
         name: 'AI-Text-Humanizer',
         description: 'Transform dull AI-generated text into easy-to-read copy and sound like a real person',
         categories: ['AI', 'Productivity'],
