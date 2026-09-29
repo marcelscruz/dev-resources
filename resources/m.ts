@@ -367,6 +367,13 @@ export const resources: Resource[] = [
         url: 'https://mockae.com/',
     },
     {
+        name: 'Modellix',
+        description: 'All leading AI models. One API. Zero hassle.',
+        categories: ['AI', 'Programming', 'Tooling'],
+        url: 'https://www.modellix.ai/',
+        keywords: ['marketing', 'developer Tools', 'api', 'ai image generator'],
+    },
+    {
         name: 'MongoDB',
         description:
             'MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.',
