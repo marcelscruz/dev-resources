@@ -138,6 +138,14 @@ export const resources: Resource[] = [
         url: 'https://inclusive-components.design/',
     },
     {
+        name: 'Indexed',
+        description:
+            'REST API for private company data: look up companies by name or domain and get funding rounds, investors and tech stacks for CRM and pipeline enrichment.',
+        categories: ['Database', 'Startup'],
+        url: 'https://indexed.vc',
+        keywords: ['company data', 'funding data', 'investors', 'enrichment', 'openapi'],
+    },
+    {
         name: 'Indie Hackers',
         description:
             'Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.',
