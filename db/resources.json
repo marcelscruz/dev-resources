@@ -1,5 +1,5 @@
 {
-"count": 1230,
+"count": 1231,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8894,6 +8894,22 @@
             "API Building"
         ],
         "url": "https://mockae.com/"
+    },
+    {
+        "name": "Modellix",
+        "description": "All leading AI models. One API. Zero hassle.",
+        "categories": [
+            "AI",
+            "Programming",
+            "Tooling"
+        ],
+        "url": "https://www.modellix.ai/",
+        "keywords": [
+            "marketing",
+            "developer Tools",
+            "api",
+            "ai image generator"
+        ]
     },
     {
         "name": "MongoDB",
