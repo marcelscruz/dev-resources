@@ -127,6 +127,14 @@ export const resources: Resource[] = [
         url: 'https://scrimba.com/',
     },
     {
+        name: 'Sealed Rose',
+        description:
+            'Free browser-based forensic laboratory for detecting AI deepfakes, synthetic media manipulation, and voice cloning with zero data retention.',
+        categories: ['AI', 'Security', 'Tooling'],
+        url: 'https://sealedrose.com/verify-video',
+        keywords: ['deepfake', 'ai detector', 'video verification', 'forensics', 'synthetic media'],
+    },
+    {
         name: 'Search Atlas',
         description:
             'Drive more traffic and revenue with the SearchAtlas SEO Software platform! Get better results from your SEO campaigns with cutting-edge marketing and SEO tools.',
