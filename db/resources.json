@@ -1,5 +1,5 @@
 {
-"count": 1234,
+"count": 1235,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11882,6 +11882,23 @@
             "Programming"
         ],
         "url": "https://scrimba.com/"
+    },
+    {
+        "name": "Sealed Rose",
+        "description": "Free browser-based forensic laboratory for detecting AI deepfakes, synthetic media manipulation, and voice cloning with zero data retention.",
+        "categories": [
+            "AI",
+            "Security",
+            "Tooling"
+        ],
+        "url": "https://sealedrose.com/verify-video",
+        "keywords": [
+            "deepfake",
+            "ai detector",
+            "video verification",
+            "forensics",
+            "synthetic media"
+        ]
     },
     {
         "name": "Search Atlas",
