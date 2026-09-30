@@ -17,4 +17,12 @@ export const resources: Resource[] = [
         url: 'https://yamline.com/',
         keywords: ['yaml', 'web', 'developer tools', 'tools'],
     },
+    {
+        name: 'YunCMS',
+        description:
+            'Open-source, self-hosted MySQL CMS with a React admin studio, REST API, role-based permissions, file storage and built-in MCP tools.',
+        categories: ['CMS', 'API Building', 'Open Source'],
+        url: 'https://yunsoft.com/case-study/yuncms-programmable-cms-backend',
+        keywords: ['mysql', 'headless cms', 'node.js', 'react', 'rest api', 'mcp', 'self-hosted'],
+    },
 ]
