@@ -325,6 +325,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://voiden.md&sz=128" width="16" /> | [Voiden API Client](https://voiden.md) | Offline, Git Native API Client - Design, Test & Document APIs in one place. Plain text executable files all the way. Community plugins. | api, api client, api documentation, api testing, api mocks |
  <img src="https://www.google.com/s2/favicons?domain=https://router.xiu.ai&sz=128" width="16" /> | [XiuRouter](https://router.xiu.ai) | One API for GPT, Claude, and Gemini with native protocol routes, scoped keys, usage records, and transparent usage-based pricing. | llm api, ai gateway, openai, anthropic, gemini, model routing |
  <img src="https://www.google.com/s2/favicons?domain=https://xquik.com/&sz=128" width="16" /> | [Xquik](https://xquik.com/) | Hosted X data platform with REST, MCP, SDKs, monitoring, HMAC webhooks, and approval-gated automation. Not affiliated with X Corp. | twitter api, x api, social media automation, mcp, webhooks |
+ <img src="https://www.google.com/s2/favicons?domain=https://yunsoft.com/case-study/yuncms-programmable-cms-backend&sz=128" width="16" /> | [YunCMS](https://yunsoft.com/case-study/yuncms-programmable-cms-backend) | Open-source, self-hosted MySQL CMS with a React admin studio, REST API, role-based permissions, file storage and built-in MCP tools. | mysql, headless cms, node.js, react, rest api, mcp, self-hosted |
 
 **[⬆ Back to Index](#index)**
 
@@ -489,6 +490,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://payloadcms.com/&sz=128" width="16" /> | [Payload CMS](https://payloadcms.com/) | A TypeScript headless CMS built with Express, MongoDB, and React. Completely free and open-source with a GraphQL and REST API, admin dashboard, and serverless deployment. | cms, headless, typescript, react, mongodb, express, graphql, rest |
  <img src="https://www.google.com/s2/favicons?domain=https://www.payload-components.xyz/&sz=128" width="16" /> | [Payload Components](https://www.payload-components.xyz/) | An MIT registry and CLI that installs typed Payload CMS blocks into Payload v3 and Next.js projects with automated collection, renderer, type, and admin import-map wiring. | payload cms, next.js, typescript, shadcn, component registry, open source |
  <img src="https://www.google.com/s2/favicons?domain=https://strapi.io/&sz=128" width="16" /> | [Strapi](https://strapi.io/) | Strapi is the leading open-source headless CMS. 100% JavaScript and fully customizable. | cms, headless, javascript, node.js, react, open source |
+ <img src="https://www.google.com/s2/favicons?domain=https://yunsoft.com/case-study/yuncms-programmable-cms-backend&sz=128" width="16" /> | [YunCMS](https://yunsoft.com/case-study/yuncms-programmable-cms-backend) | Open-source, self-hosted MySQL CMS with a React admin studio, REST API, role-based permissions, file storage and built-in MCP tools. | mysql, headless cms, node.js, react, rest api, mcp, self-hosted |
 
 **[⬆ Back to Index](#index)**
 
@@ -1530,6 +1532,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://slingsite.github.io&sz=128" width="16" /> | [SlingSite](https://slingsite.github.io) | Optimize your images and videos for your website in batch with full privacy. Slingsite will create compressed versions of your images and videos for all device resolutions. | image optimization, video optimization, batch processing, privacy focused, web performance |
  <img src="https://www.google.com/s2/favicons?domain=https://surveyjs.io/&sz=128" width="16" /> | [SurveyJS](https://surveyjs.io/) | SurveyJS is an open-source JavaScript library for building dynamic forms and surveys using JSON. It works with React, Angular, Vue, and plain JavaScript, and can be connected to any backend. | form builder, form library, survey, javascript, angular, react, vue, json forms, dynamic forms |
  <img src="https://www.google.com/s2/favicons?domain=https://up-for-grabs.net/#/&sz=128" width="16" /> | [Up For Grabs](https://up-for-grabs.net/#/) | This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects... |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://yunsoft.com/case-study/yuncms-programmable-cms-backend&sz=128" width="16" /> | [YunCMS](https://yunsoft.com/case-study/yuncms-programmable-cms-backend) | Open-source, self-hosted MySQL CMS with a React admin studio, REST API, role-based permissions, file storage and built-in MCP tools. | mysql, headless cms, node.js, react, rest api, mcp, self-hosted |
 
 **[⬆ Back to Index](#index)**
 
