@@ -1,5 +1,5 @@
 {
-"count": 1236,
+"count": 1237,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5305,6 +5305,22 @@
             "Font"
         ],
         "url": "https://fontspark.com/"
+    },
+    {
+        "name": "Forgex",
+        "description": "Vibe coding platform for backend orchestration layer.",
+        "categories": [
+            "AI",
+            "API Building",
+            "Code Generator"
+        ],
+        "url": "https://forgex.r-kinetics.com/",
+        "keywords": [
+            "developer tool",
+            "productivity tool",
+            "saaS",
+            "vibe coding"
+        ]
     },
     {
         "name": "Format JSON Online",
