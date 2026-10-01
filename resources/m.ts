@@ -256,6 +256,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Merlin',
+        description:
+            'Coordinate local Claude Code and Codex agents from Slack, Linear, and GitHub. Assign coding tasks, track progress, and guide agents as a team.',
+        categories: ['AI', 'Tooling', 'Productivity'],
+        url: 'https://usemerlin.ai',
+        keywords: ['claude code', 'codex', 'ai agents', 'coding', 'slack', 'linear', 'github', 'collaboration'],
+    },
+    {
         name: 'Meshr',
         description: 'AI-powered internal linking tool for better SEO & user experience',
         categories: ['SEO', 'Marketing', 'Productivity'],
