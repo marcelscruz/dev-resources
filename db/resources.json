@@ -1,5 +1,5 @@
 {
-"count": 1235,
+"count": 1236,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8729,6 +8729,26 @@
             "generative engine optimization",
             "generative ai seo",
             "ai search optimization"
+        ]
+    },
+    {
+        "name": "Merlin",
+        "description": "Coordinate local Claude Code and Codex agents from Slack, Linear, and GitHub. Assign coding tasks, track progress, and guide agents as a team.",
+        "categories": [
+            "AI",
+            "Tooling",
+            "Productivity"
+        ],
+        "url": "https://usemerlin.ai",
+        "keywords": [
+            "claude code",
+            "codex",
+            "ai agents",
+            "coding",
+            "slack",
+            "linear",
+            "github",
+            "collaboration"
         ]
     },
     {
