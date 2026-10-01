@@ -149,6 +149,14 @@ export const resources: Resource[] = [
         keywords: ['video face swap', 'photo face swap', 'ai video tools', 'ai image tools'],
     },
     {
+        name: 'Vidily',
+        description:
+            'Compare AI video, image, and audio API providers by price, output settings, and terms before integrating a model into your app.',
+        categories: ['AI', 'Tooling'],
+        url: 'https://vidily.ai/',
+        keywords: ['API pricing', 'AI video', 'AI image', 'AI audio', 'provider comparison'],
+    },
+    {
         name: 'ViewJSON',
         description:
             'Free online JSON viewer that automatically detects and previews Base64-encoded images, audio, video, and PDFs inline. Also supports JSON formatting and file-to-Base64 conversion.',
