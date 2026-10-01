@@ -392,6 +392,13 @@ export const resources: Resource[] = [
         url: 'https://fontspark.com/',
     },
     {
+        name: 'Forgex',
+        description: 'Vibe coding platform for backend orchestration layer.',
+        categories: ['AI', 'API Building', 'Code Generator'],
+        url: 'https://forgex.r-kinetics.com/',
+        keywords: ['developer tool', 'productivity tool', 'saaS', 'vibe coding'],
+    },
+    {
         name: 'Format JSON Online',
         description: 'A Complete Toolkit for JSON & Data Processing.',
         categories: ['Productivity', 'Tooling'],
