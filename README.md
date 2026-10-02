@@ -233,6 +233,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://getvurge.com/&sz=128" width="16" /> | [Vurge](https://getvurge.com/) | It's like Clay but in Google Sheets | google sheets, ai, web scraping, data enrichment, sales |
  <img src="https://www.google.com/s2/favicons?domain=https://webscrapeai.com&sz=128" width="16" /> | [WebscrapeAI](https://webscrapeai.com) | Scrape any website without code using AI | scraper, no code, ai web scraper, web scraper, visual web scraper |
  <img src="https://www.google.com/s2/favicons?domain=https://router.xiu.ai&sz=128" width="16" /> | [XiuRouter](https://router.xiu.ai) | One API for GPT, Claude, and Gemini with native protocol routes, scoped keys, usage records, and transparent usage-based pricing. | llm api, ai gateway, openai, anthropic, gemini, model routing |
+ <img src="https://www.google.com/s2/favicons?domain=https://github.com/yylo-dev/yylo&sz=128" width="16" /> | [YYLO](https://github.com/yylo-dev/yylo) | Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries. | ai, coding agents, cli, orchestration, terminal, workflows, developer tools |
  <img src="https://www.google.com/s2/favicons?domain=https://zuzia.app&sz=128" width="16" /> | [Zuzia.app](https://zuzia.app) | AI-powered server monitoring and task automation for Linux and VPS. | ai task monitoring, server cron tracking, linux automation, laravel forge tools |
 
 **[⬆ Back to Index](#index)**
@@ -1538,6 +1539,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://surveyjs.io/&sz=128" width="16" /> | [SurveyJS](https://surveyjs.io/) | SurveyJS is an open-source JavaScript library for building dynamic forms and surveys using JSON. It works with React, Angular, Vue, and plain JavaScript, and can be connected to any backend. | form builder, form library, survey, javascript, angular, react, vue, json forms, dynamic forms |
  <img src="https://www.google.com/s2/favicons?domain=https://up-for-grabs.net/#/&sz=128" width="16" /> | [Up For Grabs](https://up-for-grabs.net/#/) | This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects... |  |
  <img src="https://www.google.com/s2/favicons?domain=https://yunsoft.com/case-study/yuncms-programmable-cms-backend&sz=128" width="16" /> | [YunCMS](https://yunsoft.com/case-study/yuncms-programmable-cms-backend) | Open-source, self-hosted MySQL CMS with a React admin studio, REST API, role-based permissions, file storage and built-in MCP tools. | mysql, headless cms, node.js, react, rest api, mcp, self-hosted |
+ <img src="https://www.google.com/s2/favicons?domain=https://github.com/yylo-dev/yylo&sz=128" width="16" /> | [YYLO](https://github.com/yylo-dev/yylo) | Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries. | ai, coding agents, cli, orchestration, terminal, workflows, developer tools |
 
 **[⬆ Back to Index](#index)**
 
@@ -2354,6 +2356,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://imagetoascii.art/&sz=128" width="16" /> | [Image to ASCII](https://imagetoascii.art/) | Convert images locally into ASCII art for READMEs and terminals. Copy text or Markdown; export TXT, PNG, SVG, HTML, or ANSI. Free, no signup. | ascii art, image to ascii, readme, ansi, markdown, local processing |
  <img src="https://www.google.com/s2/favicons?domain=https://nexusshell.app&sz=128" width="16" /> | [Nexus Shell](https://nexusshell.app) | Native macOS SSH workspace with terminal sessions, two-pane SFTP, server monitoring, Docker tools, encrypted logs, and optional local agent access. | ssh, sftp, macos, server monitoring, docker, mcp, remote development |
  <img src="https://www.google.com/s2/favicons?domain=https://turaai.net/&sz=128" width="16" /> | [Tura](https://turaai.net/) | Tura is a local, open-source coding agent for developers tired of vague claims, evidence-free token-saving tools, and agents that edit before understanding. | coding agent, developer tool, rust, cli, tui, open source |
+ <img src="https://www.google.com/s2/favicons?domain=https://github.com/yylo-dev/yylo&sz=128" width="16" /> | [YYLO](https://github.com/yylo-dev/yylo) | Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries. | ai, coding agents, cli, orchestration, terminal, workflows, developer tools |
 
 **[⬆ Back to Index](#index)**
 
