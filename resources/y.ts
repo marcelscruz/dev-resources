@@ -25,4 +25,12 @@ export const resources: Resource[] = [
         url: 'https://yunsoft.com/case-study/yuncms-programmable-cms-backend',
         keywords: ['mysql', 'headless cms', 'node.js', 'react', 'rest api', 'mcp', 'self-hosted'],
     },
+    {
+        name: 'YYLO',
+        description:
+            'Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries.',
+        categories: ['AI', 'Terminal', 'Open Source'],
+        url: 'https://github.com/yylo-dev/yylo',
+        keywords: ['ai', 'coding agents', 'cli', 'orchestration', 'terminal', 'workflows', 'developer tools'],
+    },
 ]
