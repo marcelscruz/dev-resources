@@ -1,5 +1,5 @@
 {
-"count": 1238,
+"count": 1239,
 "data": [
     {
         "name": "1001 Fonts",
@@ -12274,6 +12274,24 @@
             "Website Builder"
         ],
         "url": "https://shipped.club"
+    },
+    {
+        "name": "Shipvela",
+        "description": "Host static websites and React/Vite frontends from GitHub or the CLI, with custom domains and managed HTTPS.",
+        "categories": [
+            "Hosting",
+            "Cloud Computing"
+        ],
+        "url": "https://shipvela.com/",
+        "keywords": [
+            "static hosting",
+            "react",
+            "vite",
+            "github",
+            "cli",
+            "deployment",
+            "https"
+        ]
     },
     {
         "name": "ShopTalkShow",

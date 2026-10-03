@@ -482,6 +482,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://nearbase.dev/&sz=128" width="16" /> | [Nearbase](https://nearbase.dev/) | Affordable managed Postgres in Asia | database, postgreSQL, dbaaS, postgres hosting |
  <img src="https://www.google.com/s2/favicons?domain=https://qoddi.com&sz=128" width="16" /> | [Qoddi.com](https://qoddi.com) | Hosting Qoddi.com is a PaaS service similar to Heroku with a developer-centric approach and a free tier for developers and micro-services. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://seenode.com&sz=128" width="16" /> | [seenode](https://seenode.com) | Developer cloud for full-stack apps | developer cloud, django hosting, nodejs hosting, paas |
+ <img src="https://www.google.com/s2/favicons?domain=https://shipvela.com/&sz=128" width="16" /> | [Shipvela](https://shipvela.com/) | Host static websites and React/Vite frontends from GitHub or the CLI, with custom domains and managed HTTPS. | static hosting, react, vite, github, cli, deployment, https |
 
 **[⬆ Back to Index](#index)**
 
@@ -958,6 +959,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://qoddi.com&sz=128" width="16" /> | [Qoddi.com](https://qoddi.com) | Hosting Qoddi.com is a PaaS service similar to Heroku with a developer-centric approach and a free tier for developers and micro-services. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://render.com/&sz=128" width="16" /> | [Render](https://render.com/) | Render is a unified platform to build and run all your apps and websites with free SSL, global CDN, private networks and auto deploys from Git. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://seenode.com&sz=128" width="16" /> | [seenode](https://seenode.com) | Developer cloud for full-stack apps | developer cloud, django hosting, nodejs hosting, paas |
+ <img src="https://www.google.com/s2/favicons?domain=https://shipvela.com/&sz=128" width="16" /> | [Shipvela](https://shipvela.com/) | Host static websites and React/Vite frontends from GitHub or the CLI, with custom domains and managed HTTPS. | static hosting, react, vite, github, cli, deployment, https |
  <img src="https://www.google.com/s2/favicons?domain=https://staclo.host/&sz=128" width="16" /> | [Staclo.host](https://staclo.host/) | The easiest way to share your static site as a preview or on your own domain for production. | developer tool, web development, static site, no code |
  <img src="https://www.google.com/s2/favicons?domain=https://www.stormkit.io/&sz=128" width="16" /> | [Stormkit](https://www.stormkit.io/) | Stormkit integrates perfectly with your git flow. It builds, deploys and scales your javascript apps seamlessly. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://surge.sh/&sz=128" width="16" /> | [Surge](https://surge.sh/) | Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI. |  |
