@@ -86,8 +86,7 @@ export const resources: Resource[] = [
         name: 'Velocity',
         description: 'On-demand feedback for Figma prototypes',
         categories: ['UX', 'Prototyping', 'Testing'],
-        url:
-            'https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min',
+        url: 'https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min',
         keywords: ['feedback', 'figma', 'plugin', 'design review'],
     },
     {
@@ -147,6 +146,14 @@ export const resources: Resource[] = [
         categories: ['AI', 'Video', 'Productivity'],
         url: 'https://videofaceswap.io/',
         keywords: ['video face swap', 'photo face swap', 'ai video tools', 'ai image tools'],
+    },
+    {
+        name: 'Vidily',
+        description:
+            'Compare AI video, image, and audio API providers by price, output settings, and terms before integrating a model into your app.',
+        categories: ['AI', 'Tooling'],
+        url: 'https://vidily.ai/',
+        keywords: ['API pricing', 'AI video', 'AI image', 'AI audio', 'provider comparison'],
     },
     {
         name: 'ViewJSON',
