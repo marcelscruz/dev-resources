@@ -351,6 +351,14 @@ export const resources: Resource[] = [
         url: 'https://shipped.club',
     },
     {
+        name: 'Shipvela',
+        description:
+            'Host static websites and React/Vite frontends from GitHub or the CLI, with custom domains and managed HTTPS.',
+        categories: ['Hosting', 'Cloud Computing'],
+        url: 'https://shipvela.com/',
+        keywords: ['static hosting', 'react', 'vite', 'github', 'cli', 'deployment', 'https'],
+    },
+    {
         name: 'ShopTalkShow',
         description: 'A weekly podcast about just building websites from Dave Rupert and Chris Coyier.',
         categories: ['Podcast', 'Programming'],
