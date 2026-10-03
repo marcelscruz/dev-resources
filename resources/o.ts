@@ -36,6 +36,13 @@ export const resources: Resource[] = [
         url: 'https://www.offen.dev/',
     },
     {
+        name: 'OG Stamp',
+        description: 'Open Graph and social card images from a title or a page URL. Pay once. Credits never expire.',
+        categories: ['API Building', 'Image', 'SEO'],
+        url: 'https://ogstamp.com',
+        keywords: ['open graph', 'og image', 'social cards', 'twitter card', 'meta tags'],
+    },
+    {
         name: 'Omnara',
         description: 'Command Center for AI Coding Agents',
         categories: ['AI', 'Programming', 'Tooling'],
