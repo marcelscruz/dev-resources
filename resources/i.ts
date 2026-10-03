@@ -123,6 +123,14 @@ export const resources: Resource[] = [
         url: 'https://imgupscaler.com',
     },
     {
+        name: 'inboxsink',
+        description:
+            'Disposable email inboxes for end-to-end tests. A wait endpoint blocks until the email arrives and returns the verification code or confirmation link already extracted.',
+        categories: ['Testing'],
+        url: 'https://inboxsink.com',
+        keywords: ['email testing', 'disposable email', 'otp', 'magic link', 'playwright', 'cypress', 'selenium', 'e2e'],
+    },
+    {
         name: 'IncidentHub',
         description:
             'Monitors the third-party Cloud and SaaS services that your application and team depend on. The Free (forever) tier has 20 services and 2 channels (Discord and Slack) for notifications.',
