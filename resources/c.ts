@@ -1090,6 +1090,14 @@ export const resources: Resource[] = [
         url: 'https://www.coursera.org/',
     },
     {
+        name: 'Court Rules',
+        description:
+            'Free federal court rules, local rules, judge standing orders and filing deadlines, with a deadline calculator for every district.',
+        categories: ['Legal', 'API Building'],
+        url: 'https://www.courtrules.app',
+        keywords: ['legal', 'court rules', 'deadline calculator', 'api', 'mcp'],
+    },
+    {
         name: 'Cozytypes',
         description:
             'A simple and aesthetic typing website to help improve your typing speed and accuracy. a simple typing website for keyboard enthusiasts. Practice in different different modes, personalize your settings and preferences, and improve your skills.',
