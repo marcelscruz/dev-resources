@@ -474,6 +474,23 @@ export const resources: Resource[] = [
         keywords: ['kubernetes'],
     },
     {
+        name: 'Arcmira',
+        description:
+            'YouTube transcript search API with timestamps, speaker appearances, TypeScript and Python SDKs, CLI and MCP access.',
+        categories: ['AI', 'Tooling', 'Video'],
+        url: 'https://arcmira.com',
+        keywords: [
+            'youtube transcript search',
+            'api',
+            'typescript',
+            'python',
+            'sdk',
+            'cli',
+            'mcp',
+            'speaker identification',
+        ],
+    },
+    {
         name: 'ArtboardLab',
         description:
             'Free browser-based tools that convert Adobe Illustrator .ai files to SVG, PNG or PDF and compress images. Files are processed locally, never uploaded.',
