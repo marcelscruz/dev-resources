@@ -53,6 +53,24 @@ export const resources: Resource[] = [
         keywords: ['video editor'],
     },
     {
+        name: 'Caprock',
+        description:
+            'Open-source local dashboard for Claude Code, Codex, OpenCode and Gemini CLI: live activity, cost per repo, loop alerts, searchable history. No telemetry.',
+        categories: ['AI', 'Analytics', 'Open Source'],
+        url: 'https://caprock.dev',
+        keywords: [
+            'claude code',
+            'codex',
+            'opencode',
+            'gemini cli',
+            'ai coding agents',
+            'token usage',
+            'cost tracking',
+            'dashboard',
+            'local-first',
+        ],
+    },
+    {
         name: 'Carbon',
         description: 'Carbon is the easiest way to create and share beautiful images of your source code.',
         categories: ['Code Snippet', 'Screenshot'],
