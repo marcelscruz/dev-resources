@@ -1,5 +1,5 @@
 {
-"count": 1240,
+"count": 1241,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1972,6 +1972,27 @@
         "url": "https://www.capcut.com",
         "keywords": [
             "video editor"
+        ]
+    },
+    {
+        "name": "Caprock",
+        "description": "Open-source local dashboard for Claude Code, Codex, OpenCode and Gemini CLI: live activity, cost per repo, loop alerts, searchable history. No telemetry.",
+        "categories": [
+            "AI",
+            "Analytics",
+            "Open Source"
+        ],
+        "url": "https://caprock.dev",
+        "keywords": [
+            "claude code",
+            "codex",
+            "opencode",
+            "gemini cli",
+            "ai coding agents",
+            "token usage",
+            "cost tracking",
+            "dashboard",
+            "local-first"
         ]
     },
     {
