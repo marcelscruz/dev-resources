@@ -1,5 +1,5 @@
 {
-"count": 1239,
+"count": 1240,
 "data": [
     {
         "name": "1001 Fonts",
@@ -915,6 +915,26 @@
         "url": "https://aptakube.com",
         "keywords": [
             "kubernetes"
+        ]
+    },
+    {
+        "name": "Arcmira",
+        "description": "YouTube transcript search API with timestamps, speaker appearances, TypeScript and Python SDKs, CLI and MCP access.",
+        "categories": [
+            "AI",
+            "Tooling",
+            "Video"
+        ],
+        "url": "https://arcmira.com",
+        "keywords": [
+            "youtube transcript search",
+            "api",
+            "typescript",
+            "python",
+            "sdk",
+            "cli",
+            "mcp",
+            "speaker identification"
         ]
     },
     {
