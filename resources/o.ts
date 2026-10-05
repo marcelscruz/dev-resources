@@ -213,6 +213,14 @@ export const resources: Resource[] = [
         url: 'https://orioniconlibrary.com/',
     },
     {
+        name: 'Orkas',
+        description:
+            'Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. Coordinates Claude Code, Codex and OpenCode.',
+        categories: ['AI', 'Programming', 'Tooling'],
+        url: 'https://orkas.ai/',
+        keywords: ['ai agents', 'coding agents', 'claude code', 'codex', 'opencode', 'open source'],
+    },
+    {
         name: 'OSINT Researcher',
         description: 'Explore GitHub orgs & repos',
         categories: ['Open Source', 'Analytics', 'Security'],
