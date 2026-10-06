@@ -1,5 +1,5 @@
 {
-"count": 1243,
+"count": 1244,
 "data": [
     {
         "name": "1001 Fonts",
@@ -68,6 +68,24 @@
             "Job"
         ],
         "url": "https://4dayweek.io/"
+    },
+    {
+        "name": "5dive",
+        "description": "Open-source runtime that runs Claude Code, Codex and other coding CLIs as persistent agents on your own server, with a shared task queue and an org chart.",
+        "categories": [
+            "AI",
+            "Open Source",
+            "Tooling"
+        ],
+        "url": "https://5dive.ai",
+        "keywords": [
+            "ai agents",
+            "claude code",
+            "codex",
+            "multi-agent",
+            "self-hosted",
+            "agent orchestration"
+        ]
     },
     {
         "name": "99designs",
