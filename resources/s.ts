@@ -587,6 +587,13 @@ export const resources: Resource[] = [
         url: 'https://snappify.io/',
     },
     {
+        name: 'SnappyKit',
+        description:
+            '40+ free browser-based image tools with a developer focus: favicon/ICO generation, image-to-Base64, image-to-PDF, plus 40+ conversion pairs (incl. HEIC), compression, resizing and EXIF cleanup. All processing runs client-side; files never leave the device.',
+        categories: ['Image', 'Design', 'Productivity'],
+        url: 'https://snappykit.site',
+    },
+    {
         name: 'Snipit',
         description: 'Save and organize your code snippets in the cloud. Share and collaborate with your team members.',
         categories: ['Code Snippet'],
