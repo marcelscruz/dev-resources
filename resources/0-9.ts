@@ -61,6 +61,14 @@ export const resources: Resource[] = [
         url: 'https://4dayweek.io/',
     },
     {
+        name: '5dive',
+        description:
+            'Open-source runtime that runs Claude Code, Codex and other coding CLIs as persistent agents on your own server, with a shared task queue and an org chart.',
+        categories: ['AI', 'Open Source', 'Tooling'],
+        url: 'https://5dive.ai',
+        keywords: ['ai agents', 'claude code', 'codex', 'multi-agent', 'self-hosted', 'agent orchestration'],
+    },
+    {
         name: '99designs',
         description:
             'The global creative platform for custom graphic design: logos, websites and more. Hire a talented designer or start a design contest. 500k+ happy customers have used 99designs to grow their business.',
