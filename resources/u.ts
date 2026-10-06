@@ -180,6 +180,24 @@ export const resources: Resource[] = [
         url: 'https://up-for-grabs.net/#/',
     },
     {
+        name: 'Upscale Image',
+        description:
+            'AI image upscaler to improve resolution and recover detail in portraits, product shots, and artwork. Free online upscaling in the browser.',
+        categories: ['AI', 'Image'],
+        url: 'https://www.upscaleimg.org',
+        keywords: ['image upscaler', 'upscale image', 'ai enhance', 'unblur', '4k'],
+    },
+    {
+        name: 'Upscayl',
+        description:
+            'AI image upscaler for blurry or low-resolution photos. Choose an enhancement mode, preview, and download a sharper image online.',
+        categories: ['AI', 'Image'],
+        url: 'https://www.upscayl.app',
+        keywords: ['image upscaler', 'upscale to 4k', 'ai enhance', 'photo enhancer'],
+    },
+
+
+    {
         name: 'Upstash',
         description:
             'Serverless database with Redis API and durable storage. Low latency data. Durable storage. Ease of use.',
