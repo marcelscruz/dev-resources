@@ -391,6 +391,27 @@ export const resources: Resource[] = [
         url: 'https://cmdchallenge.com/',
     },
     {
+        name: 'Code Specimen',
+        description:
+            "Code Specimen shows any website's fonts, colors, spacing and CSS in Chrome's side panel, each with a copy button. Free, no account and no tracking.",
+        categories: ['Extension', 'Font', 'Color'],
+        url: 'https://codespecimen.com/',
+        keywords: [
+            'CSS inspector',
+            'font finder',
+            'color picker',
+            'Chrome extension',
+            'web design',
+            'front-end development',
+            'design tokens',
+            'contrast checker',
+            'Tailwind',
+            'developer tools',
+            'typography',
+            'eyedropper',
+        ],
+    },
+    {
         name: 'Code to go',
         description: 'Javascript code to go: Find updated snippets for common JavaScript use cases.',
         categories: ['Code Snippet', 'Programming'],
