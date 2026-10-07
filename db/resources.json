@@ -1,5 +1,5 @@
 {
-"count": 1245,
+"count": 1244,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7749,22 +7749,6 @@
             "kubevirt",
             "vps",
             "devops"
-        ]
-    },
-    {
-        "name": "LabEx",
-        "description": "Hands-on online learning platform for Linux, DevOps, cybersecurity, programming, data science, and more through interactive labs.",
-        "categories": [
-            "Learn",
-            "Programming"
-        ],
-        "url": "https://labex.io",
-        "keywords": [
-            "hands-on labs",
-            "linux",
-            "devops",
-            "cybersecurity",
-            "programming"
         ]
     },
     {
