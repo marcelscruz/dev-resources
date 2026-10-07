@@ -47,6 +47,14 @@ export const resources: Resource[] = [
         url: 'https://developer.apple.com/safari/technology-preview/',
     },
     {
+        name: 'SanctionsKit',
+        description:
+            'Sanctions screening API, SDKs and batch checks for business onboarding workflows. Free synthetic sandbox; paid production.',
+        categories: ['Programming', 'Security'],
+        url: 'https://www.sanctionskit.com/',
+        keywords: ['sanctions screening', 'OFAC', 'compliance', 'api', 'sdk'],
+    },
+    {
         name: 'Say About Us',
         description: 'Collect unlimited video and text testimonials',
         categories: ['Marketing', 'Social Media', 'Startup'],
