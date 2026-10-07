@@ -1,5 +1,5 @@
 {
-"count": 1244,
+"count": 1245,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11863,6 +11863,22 @@
             "Browser"
         ],
         "url": "https://developer.apple.com/safari/technology-preview/"
+    },
+    {
+        "name": "SanctionsKit",
+        "description": "Sanctions screening API, SDKs and batch checks for business onboarding workflows. Free synthetic sandbox; paid production.",
+        "categories": [
+            "Programming",
+            "Security"
+        ],
+        "url": "https://www.sanctionskit.com/",
+        "keywords": [
+            "sanctions screening",
+            "OFAC",
+            "compliance",
+            "api",
+            "sdk"
+        ]
     },
     {
         "name": "Say About Us",
