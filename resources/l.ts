@@ -2,14 +2,6 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
-        name: 'LabEx',
-        description:
-            'Hands-on online learning platform for Linux, DevOps, cybersecurity, programming, data science, and more through interactive labs.',
-        categories: ['Learn', 'Programming'],
-        url: 'https://labex.io',
-        keywords: ['hands-on labs', 'linux', 'devops', 'cybersecurity', 'programming'],
-    },
-    {
         name: 'Ladybug',
         description: 'We’re debugging the tech industry. Every Monday.',
         categories: ['Podcast', 'Programming'],
