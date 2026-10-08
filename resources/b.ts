@@ -45,6 +45,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'barcodegen.net',
+        description:
+            'Free online barcode generator and image API for 35 symbologies: Code 128, EAN-13, UPC-A, QR Code, Data Matrix, PDF417. No API key, signup or watermark.',
+        categories: ['API Building', 'Image', 'Tooling'],
+        url: 'https://www.barcodegen.net/',
+        keywords: ['barcode', 'qr code', 'ean-13', 'upc-a', 'code 128', 'image api', 'svg'],
+    },
+    {
         name: 'Barra',
         description: 'Website Toolbar Built to Improve Conversion rate by simplifying UX',
         categories: ['Marketing', 'UX', 'Analytics'],
