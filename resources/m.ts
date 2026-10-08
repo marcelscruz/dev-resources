@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'MacMD Viewer',
+        description:
+            'Read-only Markdown viewer for macOS 14+ for READMEs, docs and agent-written plans, with Mermaid, syntax highlighting, live reload and Quick Look.',
+        categories: ['Documentation'],
+        url: 'https://macmdviewer.com',
+        keywords: ['markdown', 'markdown viewer', 'mermaid', 'macos', 'quick look'],
+    },
+    {
         name: 'Madza Quizzes',
         description: 'A great resource with 500 free interview questions',
         categories: ['Interview'],
