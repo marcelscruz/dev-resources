@@ -1,5 +1,5 @@
 {
-"count": 1247,
+"count": 1248,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1225,6 +1225,25 @@
             "Funding Application Tool",
             "Automated Document Generation",
             "Tender Consulting Services"
+        ]
+    },
+    {
+        "name": "barcodegen.net",
+        "description": "Free online barcode generator and image API for 35 symbologies: Code 128, EAN-13, UPC-A, QR Code, Data Matrix, PDF417. No API key, signup or watermark.",
+        "categories": [
+            "API Building",
+            "Image",
+            "Tooling"
+        ],
+        "url": "https://www.barcodegen.net/",
+        "keywords": [
+            "barcode",
+            "qr code",
+            "ean-13",
+            "upc-a",
+            "code 128",
+            "image api",
+            "svg"
         ]
     },
     {
