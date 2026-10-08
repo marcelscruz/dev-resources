@@ -238,6 +238,14 @@ export const resources: Resource[] = [
         keywords: ['api', 'api client', 'api documentation', 'api testing', 'api mocks'],
     },
     {
+        name: 'Voidmail',
+        description:
+            'Email inboxes for AI agents: read and search incoming mail through an MCP server or REST API, and send only to recipients the owner approved.',
+        categories: ['Email', 'AI'],
+        url: 'https://voidly.ai/agent-email',
+        keywords: ['email api', 'ai agents', 'agent inbox', 'mcp server'],
+    },
+    {
         name: 'Vue Cheatsheet',
         description: 'An interactive cheatsheet of Vue, Vue Router and, Pinia.',
         categories: ['Cheatsheet'],
