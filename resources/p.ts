@@ -439,6 +439,21 @@ export const resources: Resource[] = [
         keywords: ['printing', 'cloud printing', 'escpos', 'zpl', 'receipt printer', 'label printer', 'rest api'],
     },
     {
+        name: 'Prisma Compute',
+        description: 'Hosts TypeScript apps (Node.js, Bun, Next.js) next to Prisma Postgres, with a free tier of 1M requests/month.',
+        categories: ['Hosting'],
+        url: 'https://www.prisma.io/compute',
+        keywords: ['hosting', 'paas', 'typescript', 'node.js', 'bun', 'next.js'],
+    },
+    {
+        name: 'Prisma Postgres',
+        description:
+            'Managed PostgreSQL with a free plan (1.01 GB storage, 200,000 operations/month, up to 50 databases, no credit card) and zero cold starts.',
+        categories: ['Serverless', 'Database'],
+        url: 'https://www.prisma.io/postgres',
+        keywords: ['postgres', 'postgresql', 'database', 'serverless', 'free tier'],
+    },
+    {
         name: 'Prismix',
         description:
             'Real-time status for 75+ AI services, curated news from 70+ sources, and a directory of 500+ MCP servers. Free REST API for status data.',
