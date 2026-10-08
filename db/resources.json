@@ -1,5 +1,5 @@
 {
-"count": 1246,
+"count": 1247,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10680,6 +10680,26 @@
             "receipt printer",
             "label printer",
             "rest api"
+        ]
+    },
+    {
+        "name": "Prisma",
+        "description": "Prisma ORM, Prisma Postgres (managed PostgreSQL with a free plan, no credit card, zero cold starts) and Prisma Compute hosting for TypeScript apps.",
+        "categories": [
+            "Database",
+            "Hosting",
+            "Serverless"
+        ],
+        "url": "https://www.prisma.io",
+        "keywords": [
+            "orm",
+            "postgres",
+            "postgresql",
+            "database",
+            "hosting",
+            "typescript",
+            "serverless",
+            "free tier"
         ]
     },
     {
