@@ -389,6 +389,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'APIClaw',
+        description:
+            'OpenAI-compatible API gateway for coding agents: one key for Claude, GPT, DeepSeek, Qwen, Kimi and GLM on flat monthly plans, no per-token billing.',
+        categories: ['AI', 'API Building'],
+        url: 'https://apiclaw.biz',
+        keywords: ['openai compatible', 'llm gateway', 'ai api', 'claude', 'coding agents', 'flat rate'],
+    },
+    {
         name: 'Apigee',
         description:
             'Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.',
