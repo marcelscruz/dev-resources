@@ -80,6 +80,14 @@ export const resources: Resource[] = [
         keywords: ['e-commerce', 'advertising', 'ai', 'design'],
     },
     {
+        name: 'Adeli',
+        description:
+            'Unified API to publish to Instagram, TikTok, X, YouTube, and Facebook, with comments, DMs, analytics, and an MCP server for AI agents.',
+        categories: ['Social Media'],
+        url: 'https://www.tryadeli.com',
+        keywords: ['social media api', 'instagram api', 'tiktok api', 'x api', 'youtube api', 'mcp'],
+    },
+    {
         name: 'Adligator',
         description:
             'Adligator - first of all is AI powered aggregator of ads from Facebook, Instagram, fb Messenger and the audience network.',
