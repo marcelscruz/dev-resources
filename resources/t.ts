@@ -49,6 +49,14 @@ export const resources: Resource[] = [
         url: 'https://tailwindcomponents.com/',
     },
     {
+        name: 'Tale',
+        description:
+            'Self-hosted team workspace for coordinating coding agents, project tasks, shared knowledge and reviewed deliverables.',
+        categories: ['AI', 'Programming', 'Tooling'],
+        url: 'https://tale.dev',
+        keywords: ['coding agents', 'agent orchestration', 'project management', 'self-hosted', 'open source'],
+    },
+    {
         name: 'Tatask',
         description:
             'Break down your biggest goals into actionable tasks. Tatask is the zen productivity app from the future.',
