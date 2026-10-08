@@ -1,5 +1,5 @@
 {
-"count": 1248,
+"count": 1250,
 "data": [
     {
         "name": "1001 Fonts",
@@ -249,6 +249,22 @@
             "advertising",
             "ai",
             "design"
+        ]
+    },
+    {
+        "name": "Adeli",
+        "description": "Unified API to publish to Instagram, TikTok, X, YouTube, and Facebook, with comments, DMs, analytics, and an MCP server for AI agents.",
+        "categories": [
+            "Social Media"
+        ],
+        "url": "https://www.tryadeli.com",
+        "keywords": [
+            "social media api",
+            "instagram api",
+            "tiktok api",
+            "x api",
+            "youtube api",
+            "mcp"
         ]
     },
     {
@@ -13550,6 +13566,23 @@
             "UI"
         ],
         "url": "https://tailwindcomponents.com/"
+    },
+    {
+        "name": "Tale",
+        "description": "Self-hosted team workspace for coordinating coding agents, project tasks, shared knowledge and reviewed deliverables.",
+        "categories": [
+            "AI",
+            "Programming",
+            "Tooling"
+        ],
+        "url": "https://tale.dev",
+        "keywords": [
+            "coding agents",
+            "agent orchestration",
+            "project management",
+            "self-hosted",
+            "open source"
+        ]
     },
     {
         "name": "Tatask",
