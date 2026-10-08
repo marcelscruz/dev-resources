@@ -1,5 +1,5 @@
 {
-"count": 1244,
+"count": 1245,
 "data": [
     {
         "name": "1001 Fonts",
@@ -807,6 +807,23 @@
             "telephony",
             "contact",
             "lead"
+        ]
+    },
+    {
+        "name": "APIClaw",
+        "description": "OpenAI-compatible API gateway for coding agents: one key for Claude, GPT, DeepSeek, Qwen, Kimi and GLM on flat monthly plans, no per-token billing.",
+        "categories": [
+            "AI",
+            "API Building"
+        ],
+        "url": "https://apiclaw.biz",
+        "keywords": [
+            "openai compatible",
+            "llm gateway",
+            "ai api",
+            "claude",
+            "coding agents",
+            "flat rate"
         ]
     },
     {
