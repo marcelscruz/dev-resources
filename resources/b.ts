@@ -220,6 +220,23 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'biquote',
+        description:
+            'Free market data API with JavaScript and Python SDKs and embeddable widgets: live and historical forex, metals, crypto and stock prices. No API key.',
+        categories: ['Library', 'Tooling'],
+        url: 'https://biquote.io',
+        keywords: [
+            'market data',
+            'forex',
+            'exchange rates',
+            'crypto',
+            'stocks',
+            'gold price',
+            'websocket',
+            'api',
+        ],
+    },
+    {
         name: 'Biteable',
         description:
             'Make standout videos in a snap with the Biteable video maker. Sparkle with studio-quality animation, footage, and effects. Start now, share in minutes.',
