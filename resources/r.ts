@@ -75,6 +75,14 @@ export const resources: Resource[] = [
         url: 'https://www.raycast.com',
     },
     {
+        name: 'REA',
+        description:
+            'Local CLI and MCP tools for agents to inspect binaries and JavaScript/Electron apps with evidence. Deep native analysis needs Hopper, Ghidra, or IDA.',
+        categories: ['AI', 'Security', 'Tooling'],
+        url: 'https://rea.tools',
+        keywords: ['reverse engineering', 'binary analysis', 'electron', 'mcp', 'cli'],
+    },
+    {
         name: 'React Bits',
         description:
             'A large collection of animated React components made to spice up your web creations. Animations, components, backgrounds, and awesome stuff with customization options as props.',
