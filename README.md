@@ -496,6 +496,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://qoddi.com&sz=128" width="16" /> | [Qoddi.com](https://qoddi.com) | Hosting Qoddi.com is a PaaS service similar to Heroku with a developer-centric approach and a free tier for developers and micro-services. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://seenode.com&sz=128" width="16" /> | [seenode](https://seenode.com) | Developer cloud for full-stack apps | developer cloud, django hosting, nodejs hosting, paas |
  <img src="https://www.google.com/s2/favicons?domain=https://shipvela.com/&sz=128" width="16" /> | [Shipvela](https://shipvela.com/) | Host static websites and React/Vite frontends from GitHub or the CLI, with custom domains and managed HTTPS. | static hosting, react, vite, github, cli, deployment, https |
+ <img src="https://www.google.com/s2/favicons?domain=https://xora.sh/&sz=128" width="16" /> | [Xora](https://xora.sh/) | Cloud FFmpeg API for media jobs | developer tool, ffmpeg, video api, media processing |
 
 **[⬆ Back to Index](#index)**
 
@@ -2556,6 +2557,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://webacus.dev&sz=128" width="16" /> | [Webacus](https://webacus.dev) | Webacus is a versatile tool designed specifically for developers. It combines numerous operations that developers frequently need into a single, consistent interface. Instead of Googling and learning ... |  |
  <img src="https://www.google.com/s2/favicons?domain=https://worktypefocus.com/&sz=128" width="16" /> | [Work Type Focus](https://worktypefocus.com/) | Classify and visualize Jira work to stay focused and foster innovation | agile, sprint planning, work classification, team focus |
  <img src="https://www.google.com/s2/favicons?domain=https://router.xiu.ai&sz=128" width="16" /> | [XiuRouter](https://router.xiu.ai) | One API for GPT, Claude, and Gemini with native protocol routes, scoped keys, usage records, and transparent usage-based pricing. | llm api, ai gateway, openai, anthropic, gemini, model routing |
+ <img src="https://www.google.com/s2/favicons?domain=https://xora.sh/&sz=128" width="16" /> | [Xora](https://xora.sh/) | Cloud FFmpeg API for media jobs | developer tool, ffmpeg, video api, media processing |
  <img src="https://www.google.com/s2/favicons?domain=https://yaml.aevumere.com/yaml-preflight&sz=128" width="16" /> | [YAML Preflight](https://yaml.aevumere.com/yaml-preflight) | Validate strict YAML, duplicate keys, and common GitHub Actions permission mistakes locally in your browser. | yaml, github actions, validator, permissions |
  <img src="https://www.google.com/s2/favicons?domain=https://yamline.com/&sz=128" width="16" /> | [YAMLine](https://yamline.com/) | YAMLine is an online YAML toolbox featuring a linter, formatter, merger, AI fixer, converters, and a Kubernetes manifest validator. | yaml, web, developer tools, tools |
  <img src="https://www.google.com/s2/favicons?domain=https://zuzia.app&sz=128" width="16" /> | [Zuzia.app](https://zuzia.app) | AI-powered server monitoring and task automation for Linux and VPS. | ai task monitoring, server cron tracking, linux automation, laravel forge tools |
@@ -2711,6 +2713,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://videofaceswap.io/&sz=128" width="16" /> | [VideoFaceSwap](https://videofaceswap.io/) | VideoFaceSwap is a cutting-edge tool that leverages advanced technology to enable seamless face-swapping in videos and images, making creative multimedia processing easy and accessible. | video face swap, photo face swap, ai video tools, ai image tools |
  <img src="https://www.google.com/s2/favicons?domain=https://virlo.ai/&sz=128" width="16" /> | [Virlo](https://virlo.ai/) | Virlo helps content creators track viral trends on short form content platforms. | data, trends, short form content, content creators |
  <img src="https://www.google.com/s2/favicons?domain=https://widget.video/&sz=128" width="16" /> | [Widget.video](https://widget.video/) | Embed interactive video widgets to your landing page | saas, marketing, growth, sales |
+ <img src="https://www.google.com/s2/favicons?domain=https://xora.sh/&sz=128" width="16" /> | [Xora](https://xora.sh/) | Cloud FFmpeg API for media jobs | developer tool, ffmpeg, video api, media processing |
 
 **[⬆ Back to Index](#index)**
 

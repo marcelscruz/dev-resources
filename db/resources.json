@@ -1,5 +1,5 @@
 {
-"count": 1255,
+"count": 1256,
 "data": [
     {
         "name": "1001 Fonts",
@@ -16008,6 +16008,22 @@
             "anthropic",
             "gemini",
             "model routing"
+        ]
+    },
+    {
+        "name": "Xora",
+        "description": "Cloud FFmpeg API for media jobs",
+        "categories": [
+            "Video",
+            "Cloud Computing",
+            "Tooling"
+        ],
+        "url": "https://xora.sh/",
+        "keywords": [
+            "developer tool",
+            "ffmpeg",
+            "video api",
+            "media processing"
         ]
     },
     {
