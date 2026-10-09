@@ -1,5 +1,5 @@
 {
-"count": 1254,
+"count": 1255,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4315,6 +4315,23 @@
             "sql",
             "no-sql",
             "design to code"
+        ]
+    },
+    {
+        "name": "dif",
+        "description": "Feature flags and A/B tests as Markdown files in your git repo. A CLI validates them and compiles a typed TypeScript client. Open source, no signup.",
+        "categories": [
+            "Open Source",
+            "Testing",
+            "Tooling"
+        ],
+        "url": "https://www.dif.sh",
+        "keywords": [
+            "feature flags",
+            "ab testing",
+            "experimentation",
+            "cli",
+            "typescript"
         ]
     },
     {
