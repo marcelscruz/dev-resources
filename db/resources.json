@@ -1,5 +1,5 @@
 {
-"count": 1252,
+"count": 1253,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3918,6 +3918,24 @@
             "Color"
         ],
         "url": "https://learnui.design/tools/data-color-picker.html"
+    },
+    {
+        "name": "Datacircle",
+        "description": "Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup.",
+        "categories": [
+            "Programming",
+            "AI",
+            "Marketing"
+        ],
+        "url": "https://datacircle.dev/",
+        "keywords": [
+            "b2b data",
+            "data enrichment",
+            "linkedin profile api",
+            "lead generation",
+            "mcp server",
+            "api"
+        ]
     },
     {
         "name": "DataGrip",
