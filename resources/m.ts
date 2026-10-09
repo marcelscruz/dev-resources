@@ -10,6 +10,28 @@ export const resources: Resource[] = [
         keywords: ['markdown', 'markdown viewer', 'mermaid', 'macos', 'quick look'],
     },
     {
+        name: 'Macsmith',
+        description:
+            'A native Mac GUI for command-line developer tools. Manage Homebrew, local databases, runtimes, Docker, SSH keys and ports from one app.',
+        categories: ['Tooling', 'Terminal', 'Productivity'],
+        url: 'https://macsmith.app',
+        keywords: [
+            'macos',
+            'gui',
+            'cli',
+            'homebrew',
+            'postgresql',
+            'mysql',
+            'mongodb',
+            'mise',
+            'nvm',
+            'colima',
+            'docker',
+            'ssh keys',
+            'local development',
+        ],
+    },
+    {
         name: 'Madza Quizzes',
         description: 'A great resource with 500 free interview questions',
         categories: ['Interview'],
