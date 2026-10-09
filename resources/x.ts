@@ -17,6 +17,13 @@ export const resources: Resource[] = [
         keywords: ['llm api', 'ai gateway', 'openai', 'anthropic', 'gemini', 'model routing'],
     },
     {
+        name: 'Xora',
+        description: 'Cloud FFmpeg API for media jobs',
+        categories: ['Video', 'Cloud Computing', 'Tooling'],
+        url: 'https://xora.sh/',
+        keywords: ['developer tool', 'ffmpeg', 'video api', 'media processing'],
+    },
+    {
         name: 'Xquik',
         description:
             'Hosted X data platform with REST, MCP, SDKs, monitoring, HMAC webhooks, and approval-gated automation. Not affiliated with X Corp.',
