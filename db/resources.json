@@ -1,5 +1,5 @@
 {
-"count": 1253,
+"count": 1254,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11204,6 +11204,23 @@
             "Productivity"
         ],
         "url": "https://www.raycast.com"
+    },
+    {
+        "name": "REA",
+        "description": "Local CLI and MCP tools for agents to inspect binaries and JavaScript/Electron apps with evidence. Deep native analysis needs Hopper, Ghidra, or IDA.",
+        "categories": [
+            "AI",
+            "Security",
+            "Tooling"
+        ],
+        "url": "https://rea.tools",
+        "keywords": [
+            "reverse engineering",
+            "binary analysis",
+            "electron",
+            "mcp",
+            "cli"
+        ]
     },
     {
         "name": "React Bits",
