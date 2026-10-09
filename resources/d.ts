@@ -100,6 +100,14 @@ export const resources: Resource[] = [
         url: 'https://learnui.design/tools/data-color-picker.html',
     },
     {
+        name: 'Datacircle',
+        description:
+            'Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup.',
+        categories: ['Programming', 'AI', 'Marketing'],
+        url: 'https://datacircle.dev/',
+        keywords: ['b2b data', 'data enrichment', 'linkedin profile api', 'lead generation', 'mcp server', 'api'],
+    },
+    {
         name: 'DataGrip',
         description: 'A powerful IDE from JetBrains for SQL on macOS, Windows, and Linux.',
         categories: ['Editor', 'Programming'],
