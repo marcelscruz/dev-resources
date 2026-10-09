@@ -329,6 +329,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'ShareScan',
+        description:
+            'Check Open Graph tags and image URLs across up to 10 pages at once, for free and without an account. Optional monitoring and paid plans are available.',
+        categories: ['SEO', 'Testing', 'Tooling'],
+        url: 'https://sharescan.io/',
+        keywords: ['open graph', 'meta tags', 'link previews', 'social sharing', 'website testing'],
+    },
+    {
         name: 'Sheets 2 API',
         description:
             'Convert Google Sheets to JSON API - Speed up your prototyping by skipping API development and using Google Sheets instead.',
