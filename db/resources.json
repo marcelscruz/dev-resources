@@ -1,5 +1,5 @@
 {
-"count": 1250,
+"count": 1252,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5418,6 +5418,22 @@
         "url": "https://fontspark.com/"
     },
     {
+        "name": "ForgeSprite",
+        "description": "AI game art workspace for static 2D sprites, props and icons, with reference-image editing and browser tools to pack, cut and resize sprite sheets.",
+        "categories": [
+            "AI",
+            "Image",
+            "Tooling"
+        ],
+        "url": "https://forgesprite.com/",
+        "keywords": [
+            "game development",
+            "2d sprites",
+            "game assets",
+            "sprite sheets"
+        ]
+    },
+    {
         "name": "Forgex",
         "description": "Vibe coding platform for backend orchestration layer.",
         "categories": [
@@ -8796,6 +8812,23 @@
             "Template"
         ],
         "url": "https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free"
+    },
+    {
+        "name": "Materix",
+        "description": "Curated directory of AI tools for game developers, organized by task, asset type and engine, with guides and practical workflows.",
+        "categories": [
+            "AI",
+            "Learn",
+            "Tooling"
+        ],
+        "url": "https://materix.org/",
+        "keywords": [
+            "game development",
+            "ai tools directory",
+            "unity",
+            "godot",
+            "unreal"
+        ]
     },
     {
         "name": "Matomo",
