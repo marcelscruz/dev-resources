@@ -219,6 +219,14 @@ export const resources: Resource[] = [
         url: 'https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free',
     },
     {
+        name: 'Materix',
+        description:
+            'Curated directory of AI tools for game developers, organized by task, asset type and engine, with guides and practical workflows.',
+        categories: ['AI', 'Learn', 'Tooling'],
+        url: 'https://materix.org/',
+        keywords: ['game development', 'ai tools directory', 'unity', 'godot', 'unreal'],
+    },
+    {
         name: 'Matomo',
         description: 'Matomo',
         categories: ['Analytics'],

@@ -392,6 +392,14 @@ export const resources: Resource[] = [
         url: 'https://fontspark.com/',
     },
     {
+        name: 'ForgeSprite',
+        description:
+            'AI game art workspace for static 2D sprites, props and icons, with reference-image editing and browser tools to pack, cut and resize sprite sheets.',
+        categories: ['AI', 'Image', 'Tooling'],
+        url: 'https://forgesprite.com/',
+        keywords: ['game development', '2d sprites', 'game assets', 'sprite sheets'],
+    },
+    {
         name: 'Forgex',
         description: 'Vibe coding platform for backend orchestration layer.',
         categories: ['AI', 'API Building', 'Code Generator'],
