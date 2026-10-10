@@ -1,5 +1,5 @@
 {
-"count": 1261,
+"count": 1262,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10456,6 +10456,22 @@
             "Programming"
         ],
         "url": "https://www.jetbrains.com/phpstorm/"
+    },
+    {
+        "name": "pic2svg",
+        "description": "Hosted raster-to-vector converter that turns PNG/JPG images into editable SVG paths and exports PDF, EPS, AI, and DXF for design and CNC workflows.",
+        "categories": [
+            "Image",
+            "Design",
+            "Logo"
+        ],
+        "url": "https://pic2svg.com",
+        "keywords": [
+            "image to svg",
+            "raster to vector",
+            "png to svg",
+            "DXF export"
+        ]
     },
     {
         "name": "PicPrepper",
