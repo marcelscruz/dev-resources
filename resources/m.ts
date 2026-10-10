@@ -329,6 +329,14 @@ export const resources: Resource[] = [
         keywords: ['AI agents for SME', 'French AI SaaS', 'AI CFO tool'],
     },
     {
+        name: 'Mistral Large 4',
+        description:
+            'A free multimodal AI playground for exploring coding, writing, image tasks, and an OpenAI-compatible API.',
+        categories: ['AI', 'Programming', 'API Building'],
+        url: 'https://mistrallarge4.com/',
+        keywords: ['multimodal AI', 'AI playground', 'large language model', 'OpenAI-compatible API'],
+    },
+    {
         name: 'Miruni',
         description:
             'Miruni is a visual feedback and task management tool designed for webmasters, developers, and agencies managing websites across many platforms.',
