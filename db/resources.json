@@ -1,5 +1,5 @@
 {
-"count": 1258,
+"count": 1259,
 "data": [
     {
         "name": "1001 Fonts",
@@ -14196,6 +14196,25 @@
             "base64",
             "timestamp",
             "sha256"
+        ]
+    },
+    {
+        "name": "ToolStack",
+        "description": "32 free browser-based developer tools: JSON formatter and validator, Base64, image compressor, color and unit converters, calculators, QR codes. No sign-up.",
+        "categories": [
+            "Tooling",
+            "Productivity"
+        ],
+        "url": "https://tools.mindutil.com/",
+        "keywords": [
+            "json",
+            "base64",
+            "image compressor",
+            "color converter",
+            "unit converter",
+            "calculator",
+            "qr code",
+            "no signup"
         ]
     },
     {
