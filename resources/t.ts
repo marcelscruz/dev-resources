@@ -384,6 +384,23 @@ export const resources: Resource[] = [
         keywords: ['json', 'yaml', 'base64', 'timestamp', 'sha256'],
     },
     {
+        name: 'ToolStack',
+        description:
+            '32 free browser-based developer tools: JSON formatter and validator, Base64, image compressor, color and unit converters, calculators, QR codes. No sign-up.',
+        categories: ['Tooling', 'Productivity'],
+        url: 'https://tools.mindutil.com/',
+        keywords: [
+            'json',
+            'base64',
+            'image compressor',
+            'color converter',
+            'unit converter',
+            'calculator',
+            'qr code',
+            'no signup',
+        ],
+    },
+    {
         name: 'ToolSuite',
         description:
             'ToolSuite provides free in-browser developer utilities including Base64 encoder, Unix timestamp converter, JSON formatter, and image optimization tools.',
