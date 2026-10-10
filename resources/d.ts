@@ -154,6 +154,14 @@ export const resources: Resource[] = [
         url: 'https://www.debugbear.com/test/website-speed',
     },
     {
+        name: 'Decisions API',
+        description:
+            'Hosted decision models in one playground and API: classify, score, and route text through structured Choice, Score, and Noul workflows.',
+        categories: ['AI', 'API Building', 'Programming'],
+        url: 'https://decisions-api.dev/',
+        keywords: ['decision models', 'text classification', 'decision api', 'model playground', 'llm routing'],
+    },
+    {
         name: 'Decoded Frontend',
         description:
             'Decoded Frontend is a source of advanced & pragmatic video tutorials about Angular, GraphQL and Web Development in particular. My name is Dmytro Mezhenskyi. I am an author of this channel and I have been a Frontend Developer since 2012. It means 9 Years... whoa... and I still enjoy it 😄 During my carrier I have worked with various projects which had different scale and complexity and now I realised that it is a time to share my knowledge with another developers around the globe. My channel has already helped developers to find answers on sophisticated Angular topics and I am sure you will be able to find something interesting for you as well. Subscribe to my channel, leave your feedbacks and become a better Developer 😉',
