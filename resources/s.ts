@@ -186,6 +186,14 @@ export const resources: Resource[] = [
         keywords: ['image to ascii', 'ascii art', 'braille art', 'client-side', 'local-first', 'privacy'],
     },
     {
+        name: 'SendHQ',
+        description:
+            'Email API for verified-domain transactional sending, inbound email, delivery events, scoped API keys and AI agent workflows.',
+        categories: ['Email', 'API Building'],
+        url: 'https://sendhq.cc',
+        keywords: ['email api', 'transactional email', 'inbound email', 'ai agents', 'webhooks'],
+    },
+    {
         name: 'SEO Blueprint',
         description: 'Cutting-edge SEO tactics that are actually ranking websites.',
         categories: ['SEO'],
