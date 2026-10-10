@@ -1,5 +1,5 @@
 {
-"count": 1260,
+"count": 1261,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3997,6 +3997,23 @@
             "Tooling"
         ],
         "url": "https://www.debugbear.com/test/website-speed"
+    },
+    {
+        "name": "Decisions API",
+        "description": "Hosted decision models in one playground and API: classify, score, and route text through structured Choice, Score, and Noul workflows.",
+        "categories": [
+            "AI",
+            "API Building",
+            "Programming"
+        ],
+        "url": "https://decisions-api.dev/",
+        "keywords": [
+            "decision models",
+            "text classification",
+            "decision api",
+            "model playground",
+            "llm routing"
+        ]
     },
     {
         "name": "Decoded Frontend",
