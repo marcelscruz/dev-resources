@@ -186,6 +186,14 @@ export const resources: Resource[] = [
         keywords: ['image to ascii', 'ascii art', 'braille art', 'client-side', 'local-first', 'privacy'],
     },
     {
+        name: 'SendRaven',
+        description:
+            "Email API and MCP server for AI agents. Send from your own domain, receive replies as threads, and cap or hold a key\\'s sends for approval.",
+        categories: ['Email', 'AI'],
+        url: 'https://sendraven.ai',
+        keywords: ['email api', 'mcp', 'ai agents', 'inbound email', 'transactional email'],
+    },
+    {
         name: 'SEO Blueprint',
         description: 'Cutting-edge SEO tactics that are actually ranking websites.',
         categories: ['SEO'],
