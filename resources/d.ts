@@ -105,7 +105,7 @@ export const resources: Resource[] = [
             'Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup.',
         categories: ['Programming', 'AI', 'Marketing'],
         url: 'https://datacircle.dev/',
-        keywords: ['b2b data', 'data enrichment', 'linkedin profile api', 'lead generation', 'mcp server', 'api'],
+        keywords: ['b2b data', 'data enrichment', 'linkedin profile api', 'mcp server', 'api'],
     },
     {
         name: 'DataGrip',
