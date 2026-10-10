@@ -537,6 +537,14 @@ export const resources: Resource[] = [
         keywords: ['website builder', 'content management system', 'CMS', 'open source'],
     },
     {
+        name: 'DSH Plugins',
+        description:
+            'An independent, human-reviewed directory for discovering DeepSeek Harness plugins, comparing installation paths, and inspecting public source and README notes.',
+        categories: ['AI', 'Open Source', 'Programming'],
+        url: 'https://dshplugins.com/',
+        keywords: ['DeepSeek Harness', 'plugins', 'plugin directory', 'AI agents', 'developer tools'],
+    },
+    {
         name: 'dygraphs',
         description:
             'dygraphs is a fast, flexible open source JavaScript charting library. It allows users to explore and interpret dense data sets.',
