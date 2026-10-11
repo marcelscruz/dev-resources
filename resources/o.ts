@@ -36,6 +36,14 @@ export const resources: Resource[] = [
         url: 'https://www.offen.dev/',
     },
     {
+        name: 'Oh My Android',
+        description:
+            'Free, open-source macOS control panel for the Android Emulator and phones: dark mode, font scale, RTL, TalkBack, Layout Inspector in dp, plus an MCP server.',
+        categories: ['Testing', 'Tooling', 'Accessibility'],
+        url: 'https://royan.se/work/oh-my-android/',
+        keywords: ['android', 'android emulator', 'adb', 'macos', 'mcp', 'layout inspector', 'talkback', 'rtl'],
+    },
+    {
         name: 'Omnara',
         description: 'Command Center for AI Coding Agents',
         categories: ['AI', 'Programming', 'Tooling'],
