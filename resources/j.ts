@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Jaabz',
+        description:
+            'Tech job board with filters for remote, visa sponsorship, and relocation roles for international candidates.',
+        categories: ['Job', 'Remote'],
+        url: 'https://jaabz.com/',
+        keywords: ['remote jobs', 'visa sponsorship', 'relocation', 'tech jobs'],
+    },
+    {
         name: 'Jam',
         description: '890+ handcrafted SVG icons to make your web app awesome.',
         categories: ['Icon'],
