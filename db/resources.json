@@ -1,5 +1,5 @@
 {
-"count": 1262,
+"count": 1263,
 "data": [
     {
         "name": "1001 Fonts",
@@ -14970,6 +14970,24 @@
             "Illustration"
         ],
         "url": "https://undraw.co/"
+    },
+    {
+        "name": "Universal Modder Field Guide",
+        "description": "Free, independent documentation for Universal Modder: coding-agent setup, game modding routes, and installation troubleshooting.",
+        "categories": [
+            "Documentation",
+            "Learn",
+            "Programming"
+        ],
+        "url": "https://universalmodder.dev/",
+        "keywords": [
+            "universal modder",
+            "game modding",
+            "claude code",
+            "codex",
+            "installation",
+            "troubleshooting"
+        ]
     },
     {
         "name": "unlearn.dev",
