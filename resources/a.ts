@@ -490,6 +490,13 @@ export const resources: Resource[] = [
         keywords: ['kubernetes'],
     },
     {
+        name: 'Archcore',
+        description: 'Git-native context engineering and spec-driven development for AI coding agents.',
+        categories: ['AI', 'Tooling'],
+        url: 'https://archcore.ai',
+        keywords: ['context engineering', 'spec-driven development', 'mcp', 'ai coding agents', 'cli'],
+    },
+    {
         name: 'Arcmira',
         description:
             'YouTube transcript search API with timestamps, speaker appearances, TypeScript and Python SDKs, CLI and MCP access.',
