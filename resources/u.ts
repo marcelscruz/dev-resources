@@ -145,6 +145,14 @@ export const resources: Resource[] = [
         url: 'https://undraw.co/',
     },
     {
+        name: 'Universal Modder Field Guide',
+        description:
+            'Free, independent documentation for Universal Modder: coding-agent setup, game modding routes, and installation troubleshooting.',
+        categories: ['Documentation', 'Learn', 'Programming'],
+        url: 'https://universalmodder.dev/',
+        keywords: ['universal modder', 'game modding', 'claude code', 'codex', 'installation', 'troubleshooting'],
+    },
+    {
         name: 'unlearn.dev',
         description:
             'Unlearn.dev is developer education for the AI era and beyond. It helps engineers turn AI into a 24/7 execution team while strengthening the judgment, architecture, and evaluation skills that make developers irreplaceable.',
