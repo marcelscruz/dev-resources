@@ -1,5 +1,5 @@
 {
-"count": 1263,
+"count": 1264,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7488,6 +7488,21 @@
             "Design"
         ],
         "url": "https://itspaintmac.com"
+    },
+    {
+        "name": "Jaabz",
+        "description": "Tech job board with filters for remote, visa sponsorship, and relocation roles for international candidates.",
+        "categories": [
+            "Job",
+            "Remote"
+        ],
+        "url": "https://jaabz.com/",
+        "keywords": [
+            "remote jobs",
+            "visa sponsorship",
+            "relocation",
+            "tech jobs"
+        ]
     },
     {
         "name": "Jam",
