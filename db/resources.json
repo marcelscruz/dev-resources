@@ -1,5 +1,5 @@
 {
-"count": 1265,
+"count": 1266,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7427,6 +7427,23 @@
             "Resume AI",
             "interview question",
             "interview practice"
+        ]
+    },
+    {
+        "name": "Invokely",
+        "description": "Query cited official statistics by place and period through REST or MCP, with a unit and source included in each result.",
+        "categories": [
+            "AI",
+            "Analytics"
+        ],
+        "url": "https://invokely.ai",
+        "keywords": [
+            "statistics",
+            "data API",
+            "REST",
+            "MCP",
+            "AI agents",
+            "official data"
         ]
     },
     {
