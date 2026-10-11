@@ -1,5 +1,5 @@
 {
-"count": 1264,
+"count": 1265,
 "data": [
     {
         "name": "1001 Fonts",
@@ -966,6 +966,22 @@
         "url": "https://aptakube.com",
         "keywords": [
             "kubernetes"
+        ]
+    },
+    {
+        "name": "Archcore",
+        "description": "Git-native context engineering and spec-driven development for AI coding agents.",
+        "categories": [
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://archcore.ai",
+        "keywords": [
+            "context engineering",
+            "spec-driven development",
+            "mcp",
+            "ai coding agents",
+            "cli"
         ]
     },
     {
