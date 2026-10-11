@@ -236,6 +236,14 @@ export const resources: Resource[] = [
         keywords: ['Interview Prep', 'Job AI', 'Resume AI', 'interview question', 'interview practice'],
     },
     {
+        name: 'Invokely',
+        description:
+            'Query cited official statistics by place and period through REST or MCP, with a unit and source included in each result.',
+        categories: ['AI', 'Analytics'],
+        url: 'https://invokely.ai',
+        keywords: ['statistics', 'data API', 'REST', 'MCP', 'AI agents', 'official data'],
+    },
+    {
         name: 'iOS Dev Jobs',
         description:
             'Browse the very best iOS development jobs available, or sign up and get a weekly digest delivered by email every Monday.',
