@@ -1,5 +1,5 @@
 {
-"count": 1269,
+"count": 1270,
 "data": [
     {
         "name": "1001 Fonts",
@@ -12439,6 +12439,24 @@
             "client-side",
             "local-first",
             "privacy"
+        ]
+    },
+    {
+        "name": "Sengi Runners",
+        "description": "Managed Ubuntu x64 runners for GitHub Actions. Fresh VM per job, 2/4/8 vCPU, execution-minute billing, and a cardless monthly free allowance.",
+        "categories": [
+            "Cloud Computing",
+            "Testing",
+            "Tooling"
+        ],
+        "url": "https://sengi.run/",
+        "keywords": [
+            "github actions",
+            "ci",
+            "cicd",
+            "runners",
+            "linux",
+            "ubuntu"
         ]
     },
     {
