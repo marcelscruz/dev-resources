@@ -29,6 +29,14 @@ export const resources: Resource[] = [
         url: 'https://usefathom.com/',
     },
     {
+        name: 'favicondl',
+        description:
+            "Find and download any website's favicon in its best available size (SVG, PNG, ICO), bulk-download up to 100 sites, or call the free no-key favicon API.",
+        categories: ['Icon', 'Image', 'Tooling'],
+        url: 'https://favicondl.com',
+        keywords: ['favicon', 'favicon downloader', 'favicon extractor', 'favicon api', 'website icon', 'mcp'],
+    },
+    {
         name: 'Feather',
         description:
             'Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.',
