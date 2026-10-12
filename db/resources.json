@@ -1,5 +1,5 @@
 {
-"count": 1267,
+"count": 1268,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10035,6 +10035,24 @@
             "UI"
         ],
         "url": "https://openchakra.app/"
+    },
+    {
+        "name": "OpenKline",
+        "description": "MIT-licensed TypeScript library for Canvas candlestick charts, indicators and drawing tools, with React and Vue wrappers.",
+        "categories": [
+            "Library",
+            "Open Source",
+            "UI"
+        ],
+        "url": "https://openkline.tech/",
+        "keywords": [
+            "typescript",
+            "canvas",
+            "candlestick",
+            "ohlcv",
+            "react",
+            "vue"
+        ]
     },
     {
         "name": "Opensource.Builders",
