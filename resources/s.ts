@@ -186,6 +186,14 @@ export const resources: Resource[] = [
         keywords: ['image to ascii', 'ascii art', 'braille art', 'client-side', 'local-first', 'privacy'],
     },
     {
+        name: 'Sengi Runners',
+        description:
+            'Managed Ubuntu x64 runners for GitHub Actions. Fresh VM per job, 2/4/8 vCPU, execution-minute billing, and a cardless monthly free allowance.',
+        categories: ['Cloud Computing', 'Testing', 'Tooling'],
+        url: 'https://sengi.run/',
+        keywords: ['github actions', 'ci', 'cicd', 'runners', 'linux', 'ubuntu'],
+    },
+    {
         name: 'SEO Blueprint',
         description: 'Cutting-edge SEO tactics that are actually ranking websites.',
         categories: ['SEO'],
