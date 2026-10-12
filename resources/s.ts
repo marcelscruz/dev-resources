@@ -666,7 +666,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'SolidPing',
-        description: 'Open-source uptime monitoring: 40+ check types, status pages, incidents and alerts. Self-host it or use the hosted free plan.',
+        description:
+            'Open-source uptime monitoring: 40+ check types, status pages, incidents and alerts. Self-host it or use the hosted free plan.',
         categories: ['Open Source', 'Performance', 'Tooling'],
         url: 'https://www.solidping.io/',
         keywords: ['uptime monitoring', 'status page', 'synthetic monitoring', 'self-hosted'],
