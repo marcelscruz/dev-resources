@@ -382,6 +382,14 @@ export const resources: Resource[] = [
         url: 'https://looka.com',
     },
     {
+        name: 'looot',
+        description:
+            'One API key and prepaid balance for about 2,500 data endpoints: work emails, phones, company enrichment, Google SERP, web pages. Also a remote MCP server.',
+        categories: ['API Building', 'AI', 'Scraping'],
+        url: 'https://looot.ai',
+        keywords: ['mcp server', 'data api', 'email finder', 'company enrichment', 'serp api', 'lead generation'],
+    },
+    {
         name: 'Lorem Picsum',
         description: 'Lorem Ipsum... but for photos',
         categories: ['Image'],
