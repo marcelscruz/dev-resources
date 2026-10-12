@@ -1,5 +1,5 @@
 {
-"count": 1266,
+"count": 1267,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5029,6 +5029,24 @@
             "Analytics"
         ],
         "url": "https://usefathom.com/"
+    },
+    {
+        "name": "favicondl",
+        "description": "Find and download any website's favicon in its best available size (SVG, PNG, ICO), bulk-download up to 100 sites, or call the free no-key favicon API.",
+        "categories": [
+            "Icon",
+            "Image",
+            "Tooling"
+        ],
+        "url": "https://favicondl.com",
+        "keywords": [
+            "favicon",
+            "favicon downloader",
+            "favicon extractor",
+            "favicon api",
+            "website icon",
+            "mcp"
+        ]
     },
     {
         "name": "Feather",
