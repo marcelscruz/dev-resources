@@ -152,6 +152,14 @@ export const resources: Resource[] = [
         url: 'https://openchakra.app/',
     },
     {
+        name: 'OpenKline',
+        description:
+            'MIT-licensed TypeScript library for Canvas candlestick charts, indicators and drawing tools, with React and Vue wrappers.',
+        categories: ['Library', 'Open Source', 'UI'],
+        url: 'https://openkline.tech/',
+        keywords: ['typescript', 'canvas', 'candlestick', 'ohlcv', 'react', 'vue'],
+    },
+    {
         name: 'Opensource.Builders',
         description: 'Find open-source alternatives to popular software.',
         categories: ['Open Source'],
