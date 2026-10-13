@@ -178,6 +178,14 @@ export const resources: Resource[] = [
         keywords: ['email api', 'mcp', 'ai agents', 'inbound email', 'transactional email'],
     },
     {
+        name: 'Sengi Runners',
+        description:
+            'Managed Ubuntu x64 runners for GitHub Actions. Fresh VM per job, 2/4/8 vCPU, execution-minute billing, and a cardless monthly free allowance.',
+        categories: ['Cloud Computing', 'Testing', 'Tooling'],
+        url: 'https://sengi.run/',
+        keywords: ['github actions', 'ci', 'cicd', 'runners', 'linux', 'ubuntu'],
+    },
+    {
         name: 'SEO Blueprint',
         description: 'Cutting-edge SEO tactics that are actually ranking websites.',
         categories: ['SEO'],
@@ -321,6 +329,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'ShareScan',
+        description:
+            'Check Open Graph tags and image URLs across up to 10 pages at once, for free and without an account. Optional monitoring and paid plans are available.',
+        categories: ['SEO', 'Testing', 'Tooling'],
+        url: 'https://sharescan.io/',
+        keywords: ['open graph', 'meta tags', 'link previews', 'social sharing', 'website testing'],
+    },
+    {
         name: 'Sheets 2 API',
         description:
             'Convert Google Sheets to JSON API - Speed up your prototyping by skipping API development and using Google Sheets instead.',
@@ -349,6 +365,14 @@ export const resources: Resource[] = [
             'The #1 Next.js SaaS Kit for busy founders. Build and ship your startup in days, not months, and make money online.',
         categories: ['Productivity', 'Template', 'Website Builder'],
         url: 'https://shipped.club',
+    },
+    {
+        name: 'Shipvela',
+        description:
+            'Host static websites and React/Vite frontends from GitHub or the CLI, with custom domains and managed HTTPS.',
+        categories: ['Hosting', 'Cloud Computing'],
+        url: 'https://shipvela.com/',
+        keywords: ['static hosting', 'react', 'vite', 'github', 'cli', 'deployment', 'https'],
     },
     {
         name: 'ShopTalkShow',
@@ -577,6 +601,13 @@ export const resources: Resource[] = [
         description: 'Snappify helps you to create beautiful code snippets with ease.',
         categories: ['Code Snippet'],
         url: 'https://snappify.io/',
+    },
+    {
+        name: 'SnappyKit',
+        description:
+            '40+ free browser-based image tools with a developer focus: favicon/ICO generation, image-to-Base64, image-to-PDF, plus 40+ conversion pairs (incl. HEIC), compression, resizing and EXIF cleanup. All processing runs client-side; files never leave the device.',
+        categories: ['Image', 'Design', 'Productivity'],
+        url: 'https://snappykit.site',
     },
     {
         name: 'Snipit',
@@ -839,14 +870,6 @@ export const resources: Resource[] = [
             'A gallery of outstanding early-stage companies, fresh jobs and funding news curated in one place.',
         categories: ['Learn', 'Job', 'Remote'],
         url: 'https://startups.gallery/',
-    },
-    {
-        name: 'Statable',
-        description:
-            'Cookieless web analytics built and hosted in the European Union. Reports visitors, traffic sources, campaigns, goals and funnels without setting cookies or storing persistent identifiers, so there is no consent gate to configure. The tracking script ranges from 504 to 1,855 bytes compressed depending on which features a site enables, and the data is queryable through a documented REST API with an OpenAPI spec.',
-        categories: ['Analytics'],
-        url: 'https://statable.com',
-        keywords: ['web analytics', 'cookieless', 'privacy', 'eu hosted', 'api'],
     },
     {
         name: 'Stormkit',
