@@ -1,5 +1,5 @@
 {
-"count": 1249,
+"count": 1247,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3685,6 +3685,24 @@
         ]
     },
     {
+        "name": "CurlShot",
+        "description": "Screenshot API that turns any URL, HTML or Markdown into a PNG, JPEG, WebP, PDF or scrolling video, rendered in a real browser. Free plan, no card.",
+        "categories": [
+            "Screenshot",
+            "Image",
+            "AI"
+        ],
+        "url": "https://curlshot.com",
+        "keywords": [
+            "screenshot api",
+            "website screenshot",
+            "html to pdf",
+            "html to image",
+            "og image",
+            "mcp server"
+        ]
+    },
+    {
         "name": "Customer.io",
         "description": "With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions.",
         "categories": [
@@ -6081,27 +6099,6 @@
         "url": "https://getterms.io/"
     },
     {
-        "name": "GIF Master",
-        "description": "GIF tools for compression, speed control, background removal, GIF-to-WebP, GIF-to-PNG, GIF-to-video, PNG-to-GIF, video-to-GIF, and screen recording.",
-        "categories": [
-            "Image",
-            "Video",
-            "Tooling"
-        ],
-        "url": "https://gif-master.com",
-        "keywords": [
-            "gif compressor",
-            "gif speed changer",
-            "remove gif background",
-            "gif to webp",
-            "gif to png",
-            "gif to video",
-            "png to gif",
-            "video to gif",
-            "screen recorder"
-        ]
-    },
-    {
         "name": "Git Cheat Sheets",
         "description": "Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.",
         "categories": [
@@ -6783,24 +6780,6 @@
             "sse",
             "graphql",
             "socketio"
-        ]
-    },
-    {
-        "name": "HorizonX",
-        "description": "Premium UI and code library for vibe coders, designers, and developers, with Figma assets, components, coded templates, and interactive tools.",
-        "categories": [
-            "Library",
-            "UI",
-            "Design"
-        ],
-        "url": "https://horizonx.so",
-        "keywords": [
-            "ui components",
-            "design system",
-            "figma",
-            "react",
-            "tailwind css",
-            "vibe coding"
         ]
     },
     {
@@ -9254,6 +9233,23 @@
         ]
     },
     {
+        "name": "Navarch",
+        "description": "Command a fleet of AI coding agents across every project.",
+        "categories": [
+            "AI",
+            "Tooling",
+            "Productivity"
+        ],
+        "url": "https://sagentlab.com/navarch",
+        "keywords": [
+            "coding agents",
+            "ai agents",
+            "agent orchestration",
+            "developer tools",
+            "claude code"
+        ]
+    },
+    {
         "name": "Nearbase",
         "description": "Affordable managed Postgres in Asia",
         "categories": [
@@ -9413,25 +9409,6 @@
         ]
     },
     {
-        "name": "Nexus Shell",
-        "description": "Native macOS SSH workspace with terminal sessions, two-pane SFTP, server monitoring, Docker tools, encrypted logs, and optional local agent access.",
-        "categories": [
-            "Terminal",
-            "Tooling",
-            "Remote"
-        ],
-        "url": "https://nexusshell.app",
-        "keywords": [
-            "ssh",
-            "sftp",
-            "macos",
-            "server monitoring",
-            "docker",
-            "mcp",
-            "remote development"
-        ]
-    },
-    {
         "name": "Niche Tools",
         "description": "Ditch the endless market research and unlock instant access to over 1200+ web tools you can build today",
         "categories": [
@@ -9554,23 +9531,6 @@
         "url": "https://novoresume.com/",
         "keywords": [
             "professional resume builder"
-        ]
-    },
-    {
-        "name": "Nutilz",
-        "description": "Free browser-based developer tools including regex tester, JSON formatter, converters, and calculators. No sign-up required.",
-        "categories": [
-            "Tooling",
-            "Productivity",
-            "Code Generator"
-        ],
-        "url": "https://nutilz.com",
-        "keywords": [
-            "regex",
-            "json",
-            "developer tools",
-            "converters",
-            "calculators"
         ]
     },
     {
