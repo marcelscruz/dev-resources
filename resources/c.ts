@@ -1269,6 +1269,14 @@ export const resources: Resource[] = [
         keywords: ['dev tools', 'developer tools', 'artificial intelligence', 'code review', 'ai code reviewer'],
     },
     {
+        name: 'CurlShot',
+        description:
+            'Screenshot API that turns any URL, HTML or Markdown into a PNG, JPEG, WebP, PDF or scrolling video, rendered in a real browser. Free plan, no card.',
+        categories: ['Screenshot', 'Image', 'AI'],
+        url: 'https://curlshot.com',
+        keywords: ['screenshot api', 'website screenshot', 'html to pdf', 'html to image', 'og image', 'mcp server'],
+    },
+    {
         name: 'Customer.io',
         description:
             'With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions.',
