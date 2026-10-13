@@ -1,5 +1,5 @@
 {
-"count": 1247,
+"count": 1248,
 "data": [
     {
         "name": "1001 Fonts",
@@ -892,6 +892,25 @@
             "Programming"
         ],
         "url": "https://www.jetbrains.com/objc/"
+    },
+    {
+        "name": "APPLORE",
+        "description": "App icon and store asset tools for app developers: export every iOS, Android and web icon size, generate App Store screenshots, animate a logo into Lottie or SVG, with an archive of 18,000+ real app icons for reference.",
+        "categories": [
+            "Icon",
+            "Design",
+            "Image"
+        ],
+        "url": "https://applore.app",
+        "keywords": [
+            "app icon",
+            "app icon generator",
+            "app store screenshots",
+            "lottie",
+            "ios",
+            "android",
+            "icon sizes"
+        ]
     },
     {
         "name": "AppMockUp",
