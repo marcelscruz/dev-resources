@@ -31,6 +31,14 @@ export const resources: Resource[] = [
         keywords: ['JavaScript Programming'],
     },
     {
+        name: 'Keploy',
+        description:
+            'Open-source tool that records real API traffic and replays it as tests with auto-generated mocks for databases and external services.',
+        categories: ['Testing', 'API Building', 'Open Source'],
+        url: 'https://keploy.io',
+        keywords: ['service virtualization', 'api mocking', 'regression testing', 'api testing', 'test generation'],
+    },
+    {
         name: 'Kevin Powell',
         description:
             "Helping you learn how to make the web, and make it look good while you're at it. With videos every Tuesday and Thursday, I'll be bringing you How Tos and Tutorials, as well as simple tips and tricks, with a big focus on helping people see how wonderful CSS is!",
