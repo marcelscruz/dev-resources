@@ -52,6 +52,13 @@ export const resources: Resource[] = [
         keywords: ['mobile app testing', 'mobile emulator', 'app testing', 'iOS testing'],
     },
     {
+        name: 'Navarch',
+        description: 'Command a fleet of AI coding agents across every project.',
+        categories: ['AI', 'Tooling', 'Productivity'],
+        url: 'https://sagentlab.com/navarch',
+        keywords: ['coding agents', 'ai agents', 'agent orchestration', 'developer tools', 'claude code'],
+    },
+    {
         name: 'Nearbase',
         description: 'Affordable managed Postgres in Asia',
         categories: ['Database', 'Hosting', 'Cloud Computing'],
