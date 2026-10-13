@@ -128,7 +128,16 @@ export const resources: Resource[] = [
             'Disposable email inboxes for end-to-end tests. A wait endpoint blocks until the email arrives and returns the verification code or confirmation link already extracted.',
         categories: ['Testing'],
         url: 'https://inboxsink.com',
-        keywords: ['email testing', 'disposable email', 'otp', 'magic link', 'playwright', 'cypress', 'selenium', 'e2e'],
+        keywords: [
+            'email testing',
+            'disposable email',
+            'otp',
+            'magic link',
+            'playwright',
+            'cypress',
+            'selenium',
+            'e2e',
+        ],
     },
     {
         name: 'IncidentHub',
