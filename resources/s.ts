@@ -47,14 +47,6 @@ export const resources: Resource[] = [
         url: 'https://developer.apple.com/safari/technology-preview/',
     },
     {
-        name: 'SanctionsKit',
-        description:
-            'Sanctions screening API, SDKs and batch checks for business onboarding workflows. Free synthetic sandbox; paid production.',
-        categories: ['Programming', 'Security'],
-        url: 'https://www.sanctionskit.com/',
-        keywords: ['sanctions screening', 'OFAC', 'compliance', 'api', 'sdk'],
-    },
-    {
         name: 'Say About Us',
         description: 'Collect unlimited video and text testimonials',
         categories: ['Marketing', 'Social Media', 'Startup'],
@@ -133,14 +125,6 @@ export const resources: Resource[] = [
             'Scrimba is a fun and fast way of learning to code! Our interactive courses and tutorials will teach you React, Vue, Angular, JavaScript, HTML, CSS, and more.',
         categories: ['Learn', 'Programming'],
         url: 'https://scrimba.com/',
-    },
-    {
-        name: 'Sealed Rose',
-        description:
-            'Free browser-based forensic laboratory for detecting AI deepfakes, synthetic media manipulation, and voice cloning with zero data retention.',
-        categories: ['AI', 'Security', 'Tooling'],
-        url: 'https://sealedrose.com/verify-video',
-        keywords: ['deepfake', 'ai detector', 'video verification', 'forensics', 'synthetic media'],
     },
     {
         name: 'Search Atlas',

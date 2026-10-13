@@ -80,14 +80,6 @@ export const resources: Resource[] = [
         url: 'https://www.figmacrush.com/',
     },
     {
-        name: 'FileOnTap HEIC to PNG',
-        description:
-            'Free browser-based HEIC to PNG converter. All conversion runs locally in the browser, files are never uploaded, no account required.',
-        categories: ['Image', 'Tooling', 'Productivity'],
-        url: 'https://fileontap.com/heic-to-png/',
-        keywords: ['heic to png', 'image converter', 'browser-based', 'privacy'],
-    },
-    {
         name: 'FinetuneFast',
         description: 'Finetune ML models in days, not weeks',
         categories: ['AI', 'Productivity', 'Programming'],
@@ -406,13 +398,6 @@ export const resources: Resource[] = [
         categories: ['AI', 'Image', 'Tooling'],
         url: 'https://forgesprite.com/',
         keywords: ['game development', '2d sprites', 'game assets', 'sprite sheets'],
-    },
-    {
-        name: 'Forgex',
-        description: 'Vibe coding platform for backend orchestration layer.',
-        categories: ['AI', 'API Building', 'Code Generator'],
-        url: 'https://forgex.r-kinetics.com/',
-        keywords: ['developer tool', 'productivity tool', 'saaS', 'vibe coding'],
     },
     {
         name: 'Format JSON Online',

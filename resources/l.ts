@@ -310,14 +310,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'Live Tennis API',
-        description:
-            'Tennis data API with live scores (serving and break-point state), player rankings, fixtures, and match history; free keyed tier available.',
-        categories: ['Analytics', 'Tooling'],
-        url: 'https://livetennisapi.com',
-        keywords: ['tennis', 'live scores', 'sports data', 'rankings', 'fixtures', 'api'],
-    },
-    {
         name: 'Lobsters',
         description: 'Lobsters is a computing-focused community centered around link aggregation and discussion.',
         categories: ['Forum'],
@@ -347,13 +339,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'Loggd',
-        description: 'Habit tracker and planner that helps you actually stick with it',
-        categories: ['Productivity', 'Tooling', 'Startup'],
-        url: 'https://loggd.life/',
-        keywords: ['habit tracker', 'planner', 'task management', 'goal tracking'],
-    },
-    {
         name: 'LogoInspo',
         description:
             'The ultimate logo design inspiration library with 1,200+ hand-picked real and fictional logos searchable by style, industry, and color.',
@@ -380,14 +365,6 @@ export const resources: Resource[] = [
         description: 'Make a logo and build a brand you love with Looka.',
         categories: ['Logo'],
         url: 'https://looka.com',
-    },
-    {
-        name: 'looot',
-        description:
-            'One API key and prepaid balance for about 2,500 data endpoints: work emails, phones, company enrichment, Google SERP, web pages. Also a remote MCP server.',
-        categories: ['API Building', 'AI', 'Scraping'],
-        url: 'https://looot.ai',
-        keywords: ['mcp server', 'data api', 'email finder', 'company enrichment', 'serp api', 'lead generation'],
     },
     {
         name: 'Lorem Picsum',

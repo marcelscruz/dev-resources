@@ -138,14 +138,6 @@ export const resources: Resource[] = [
         url: 'https://inclusive-components.design/',
     },
     {
-        name: 'Indexed',
-        description:
-            'REST API for private company data: look up companies by name or domain and get funding rounds, investors and tech stacks for CRM and pipeline enrichment.',
-        categories: ['Database', 'Startup'],
-        url: 'https://indexed.vc',
-        keywords: ['company data', 'funding data', 'investors', 'enrichment', 'openapi'],
-    },
-    {
         name: 'Indie Hackers',
         description:
             'Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.',
@@ -234,14 +226,6 @@ export const resources: Resource[] = [
         categories: ['AI', 'Job', 'Resume'],
         url: 'https://interviewpal.com',
         keywords: ['Interview Prep', 'Job AI', 'Resume AI', 'interview question', 'interview practice'],
-    },
-    {
-        name: 'Invokely',
-        description:
-            'Query cited official statistics by place and period through REST or MCP, with a unit and source included in each result.',
-        categories: ['AI', 'Analytics'],
-        url: 'https://invokely.ai',
-        keywords: ['statistics', 'data API', 'REST', 'MCP', 'AI agents', 'official data'],
     },
     {
         name: 'iOS Dev Jobs',

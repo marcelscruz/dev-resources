@@ -100,14 +100,6 @@ export const resources: Resource[] = [
         url: 'https://learnui.design/tools/data-color-picker.html',
     },
     {
-        name: 'Datacircle',
-        description:
-            'Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup.',
-        categories: ['Programming', 'AI', 'Marketing'],
-        url: 'https://datacircle.dev/',
-        keywords: ['b2b data', 'data enrichment', 'linkedin profile api', 'lead generation', 'mcp server', 'api'],
-    },
-    {
         name: 'DataGrip',
         description: 'A powerful IDE from JetBrains for SQL on macOS, Windows, and Linux.',
         categories: ['Editor', 'Programming'],
@@ -152,14 +144,6 @@ export const resources: Resource[] = [
         description: 'Test the speed of your website and get recommendations on how to make it faster.',
         categories: ['Performance', 'Tooling'],
         url: 'https://www.debugbear.com/test/website-speed',
-    },
-    {
-        name: 'Decisions API',
-        description:
-            'Hosted decision models in one playground and API: classify, score, and route text through structured Choice, Score, and Noul workflows.',
-        categories: ['AI', 'API Building', 'Programming'],
-        url: 'https://decisions-api.dev/',
-        keywords: ['decision models', 'text classification', 'decision api', 'model playground', 'llm routing'],
     },
     {
         name: 'Decoded Frontend',

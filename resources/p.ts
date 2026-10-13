@@ -52,14 +52,6 @@ export const resources: Resource[] = [
         keywords: ['cro', 'conversion rate optimization', 'landing pages', 'cro audit'],
     },
     {
-        name: 'ParlayAPI',
-        description:
-            'Sports odds REST API for private research tools. Each user supplies their own API key. Free tier: 1,000 credits/month. No public data redistribution.',
-        categories: ['Programming', 'Tooling'],
-        url: 'https://parlay-api.com',
-        keywords: ['sports odds', 'REST API', 'Python', 'private research'],
-    },
-    {
         name: 'PassVult',
         description: 'Most private password manager',
         categories: ['Productivity', 'Security', 'Startup'],
@@ -347,24 +339,6 @@ export const resources: Resource[] = [
             'Build your IT toolkit with the skills you need to excel in your job, including security best practices, server infrastructure and virtualization. Explore our IT courses now.',
         categories: ['Learn', 'Programming'],
         url: 'https://www.pluralsight.com/',
-    },
-    {
-        name: 'Poket Dev',
-        description:
-            'Software development on a subscription: submit as many requests as you need each month for one flat fee. Work happens one request at a time in a private GitHub repo, with a 72-hour turnaround on delivery. Python-first scope covering AI/ML, backends, automation, data engineering, and cloud/DevOps.',
-        categories: ['Startup', 'Freelance'],
-        url: 'https://www.poketdev.com',
-        keywords: [
-            'productized service',
-            'subscription development',
-            'python development',
-            'django',
-            'fastapi',
-            'devops',
-            'aws',
-            'etl',
-            'web scraping',
-        ],
     },
     {
         name: 'Polypane',
