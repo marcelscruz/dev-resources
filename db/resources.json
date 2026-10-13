@@ -1,5 +1,5 @@
 {
-"count": 1270,
+"count": 1271,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7837,6 +7837,23 @@
         "url": "https://www.youtube.com/user/kentdoddsfamily",
         "keywords": [
             "JavaScript Programming"
+        ]
+    },
+    {
+        "name": "Keploy",
+        "description": "Open-source tool that records real API traffic and replays it as tests with auto-generated mocks for databases and external services.",
+        "categories": [
+            "Testing",
+            "API Building",
+            "Open Source"
+        ],
+        "url": "https://keploy.io",
+        "keywords": [
+            "service virtualization",
+            "api mocking",
+            "regression testing",
+            "api testing",
+            "test generation"
         ]
     },
     {
