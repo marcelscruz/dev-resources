@@ -259,6 +259,14 @@ export const resources: Resource[] = [
         keywords: ['ip geolocation api', 'ip location api', 'ip lookup api'],
     },
     {
+        name: 'Is It Disposable',
+        description:
+            'Is It Disposable provides disposable email detection to protect your signups and sender reputation.',
+        categories: ['Email'],
+        url: 'https://isitdisposable.com/',
+        keywords: ['Security', 'Developer Tools', 'Productivity'],
+    },
+    {
         name: 'isecjobs.com',
         description: 'Find jobs and talents in InfoSec and Cybersecurity.',
         categories: ['Job', 'Security'],
