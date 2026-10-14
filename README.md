@@ -836,6 +836,7 @@
 |---|---|---|---|
  <img src="https://www.google.com/s2/favicons?domain=https://designmodo.com&sz=128" width="16" /> | [Designmodo](https://designmodo.com) | Create incredible websites and email newsletters with simple tools. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.heybounce.io/&sz=128" width="16" /> | [Heybounce](https://www.heybounce.io/) | Fast, Accurate & Secure Email Validation Service | email validation, email verification, disposable email detection, email validation api |
+ <img src="https://www.google.com/s2/favicons?domain=https://isitdisposable.com/&sz=128" width="16" /> | [Is It Disposable](https://isitdisposable.com/) | Is It Disposable provides disposable email detection to protect your signups and sender reputation. | Security, Developer Tools, Productivity |
  <img src="https://www.google.com/s2/favicons?domain=https://www.keeping.com/&sz=128" width="16" /> | [Keeping](https://www.keeping.com/) | Turns Google Workspace Into Your Team’s Help Desk | help desk, shared inbox for gmail, team email management, collaborative Email platform |
  <img src="https://www.google.com/s2/favicons?domain=https://mailchimp.com/&sz=128" width="16" /> | [Mailchimp](https://mailchimp.com/) | Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://maildroppa.com/&sz=128" width="16" /> | [Maildroppa](https://maildroppa.com/) | German engineered email marketing and automation without the hefty price tag. |  |
