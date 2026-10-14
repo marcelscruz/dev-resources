@@ -358,6 +358,14 @@ export const resources: Resource[] = [
         keywords: ['b2b influencer marketing', 'influencer discovery', 'influencer analytics', 'creator intelligence'],
     },
     {
+        name: 'Tool Kumar',
+        description:
+            'Free JSON viewer, formatter, validator, repair and comparison tools. Tree and table views, local processing and no account required.',
+        categories: ['Tooling', 'Editor'],
+        url: 'https://tools.vikasmaur.com/',
+        keywords: ['json', 'formatter', 'validator', 'repair', 'diff', 'tree view', 'client-side'],
+    },
+    {
         name: 'ToolKit',
         description:
             'ToolKit is a collection of free online utilities built for developers, designers, and everyday users. Every tool runs entirely in the browser using Web APIs — nothing is sent to a server.',
