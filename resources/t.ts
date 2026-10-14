@@ -580,6 +580,14 @@ export const resources: Resource[] = [
         url: 'https://teamtreehouse.com/',
     },
     {
+        name: 'Trends Monitor',
+        description:
+            'Trends Monitor tracks Google Trends, rising related queries, saved keywords, daily monitoring and historical snapshots for SEO and product research.',
+        categories: ['Analytics', 'SEO', 'Marketing'],
+        url: 'https://trendsmonitor.net/',
+        keywords: ['Google Trends', 'keyword research', 'rising keywords', 'SEO', 'search trends'],
+    },
+    {
         name: 'Trigger.dev',
         description:
             'Create long-running jobs directly in your codebase with features like API integrations, webhooks, scheduling and delays.',
@@ -615,13 +623,6 @@ export const resources: Resource[] = [
         categories: ['Email', 'Marketing', 'Productivity'],
         url: 'https://truelist.io/',
         keywords: ['developer tool', 'email validation', 'sales prospecting', 'email deliverability'],
-    },
-    {
-        name: 'Trends Monitor',
-        description: 'Trends Monitor tracks Google Trends, rising related queries, saved keywords, daily monitoring and historical snapshots for SEO and product research.',
-        categories: ['Analytics', 'SEO', 'Marketing'],
-        url: 'https://trendsmonitor.net/',
-        keywords: ['Google Trends', 'keyword research', 'rising keywords', 'SEO', 'search trends'],
     },
     {
         name: 'Tura',
