@@ -646,6 +646,14 @@ export const resources: Resource[] = [
         url: 'https://codeshare.io/',
     },
     {
+        name: 'CodeToPDF',
+        description:
+            'Fast, free, and modern online utilities. Format JSON, convert code to PDF, decode JWTs, generate UUIDs, test regex — and much more.',
+        categories: ['Programming'],
+        url: 'https://www.codetopdf.com',
+        keywords: ['codetopdf', 'htmltopdf', 'mdtopdf'],
+    },
+    {
         name: 'CodeTriage',
         description:
             'Discover the easiest way to get started contributing to open source. Over 62,317 devs are helping 6,584 projects with our free, community developed tools',
