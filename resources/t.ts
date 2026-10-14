@@ -617,6 +617,13 @@ export const resources: Resource[] = [
         keywords: ['developer tool', 'email validation', 'sales prospecting', 'email deliverability'],
     },
     {
+        name: 'Trends Monitor',
+        description: 'Trends Monitor tracks Google Trends, rising related queries, saved keywords, daily monitoring and historical snapshots for SEO and product research.',
+        categories: ['Analytics', 'SEO', 'Marketing'],
+        url: 'https://trendsmonitor.net/',
+        keywords: ['Google Trends', 'keyword research', 'rising keywords', 'SEO', 'search trends'],
+    },
+    {
         name: 'Tura',
         description:
             'Tura is a local, open-source coding agent for developers tired of vague claims, evidence-free token-saving tools, and agents that edit before understanding.',
