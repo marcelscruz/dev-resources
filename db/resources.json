@@ -1,5 +1,5 @@
 {
-"count": 1253,
+"count": 1254,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10491,6 +10491,25 @@
             "screenshot hosting",
             "image CDN",
             "image transforms"
+        ]
+    },
+    {
+        "name": "PixVibe",
+        "description": "Image toolkit for developers and AI agents: compress, convert (HEIC, WebP, AVIF), resize, crop, upscale and remove backgrounds. Free tools run in the browser.",
+        "categories": [
+            "Image",
+            "Performance",
+            "AI"
+        ],
+        "url": "https://pixvibe.ai",
+        "keywords": [
+            "image compression",
+            "image converter",
+            "webp",
+            "avif",
+            "heic",
+            "background removal",
+            "AI agents"
         ]
     },
     {
