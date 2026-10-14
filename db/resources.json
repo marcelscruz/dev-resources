@@ -1,5 +1,5 @@
 {
-"count": 1254,
+"count": 1255,
 "data": [
     {
         "name": "1001 Fonts",
@@ -14351,6 +14351,23 @@
             "Programming"
         ],
         "url": "https://teamtreehouse.com/"
+    },
+    {
+        "name": "Trends Monitor",
+        "description": "Trends Monitor tracks Google Trends, rising related queries, saved keywords, daily monitoring and historical snapshots for SEO and product research.",
+        "categories": [
+            "Analytics",
+            "SEO",
+            "Marketing"
+        ],
+        "url": "https://trendsmonitor.net/",
+        "keywords": [
+            "Google Trends",
+            "keyword research",
+            "rising keywords",
+            "SEO",
+            "search trends"
+        ]
     },
     {
         "name": "Trigger.dev",
