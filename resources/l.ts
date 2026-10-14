@@ -76,6 +76,14 @@ export const resources: Resource[] = [
         keywords: ['ai tools', 'ai directory', 'developer productivity', 'generative ai'],
     },
     {
+        name: 'Latchkey',
+        description:
+            'Self-healing GitHub Actions runners with a CLI and MCP server, so coding agents can run CI on a fresh machine, read failure bundles and fix the cause.',
+        categories: ['Tooling', 'Testing', 'AI'],
+        url: 'https://latchkey.dev',
+        keywords: ['ci', 'github actions', 'runners', 'mcp', 'coding agents'],
+    },
+    {
         name: 'Layoutit Grid',
         description:
             'Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.',
