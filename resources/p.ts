@@ -299,6 +299,14 @@ export const resources: Resource[] = [
         keywords: ['image hosting', 'AI agents', 'screenshot hosting', 'image CDN', 'image transforms'],
     },
     {
+        name: 'PixVibe',
+        description:
+            'Image toolkit for developers and AI agents: compress, convert (HEIC, WebP, AVIF), resize, crop, upscale and remove backgrounds. Free tools run in the browser.',
+        categories: ['Image', 'Performance', 'AI'],
+        url: 'https://pixvibe.ai',
+        keywords: ['image compression', 'image converter', 'webp', 'avif', 'heic', 'background removal', 'AI agents'],
+    },
+    {
         name: 'Planet Cert',
         description:
             'PlanetCert offers professional certification training and exam preparation. Get certified in IT, Project Management, and more with our comprehensive courses.',
