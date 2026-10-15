@@ -260,6 +260,14 @@ export const resources: Resource[] = [
         url: 'https://choc-ui.com/',
     },
     {
+        name: 'Chord',
+        description:
+            'DEX aggregator API: best-route swap quotes split across DEXs and unsigned swap transactions on Base, Arbitrum, BNB Chain, Avalanche, Monad and more.',
+        categories: ['Web3'],
+        url: 'https://getchord.xyz',
+        keywords: ['dex aggregator', 'swap api', 'defi', 'evm', 'base', 'arbitrum', 'web3'],
+    },
+    {
         name: 'Chrome',
         description:
             'Get more done with the new Google Chrome. A more simple, secure, and faster web browser than ever, with Google’s smarts built-in. Download now.',
