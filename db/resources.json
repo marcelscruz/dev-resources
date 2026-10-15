@@ -1,5 +1,5 @@
 {
-"count": 1255,
+"count": 1256,
 "data": [
     {
         "name": "1001 Fonts",
@@ -15022,6 +15022,24 @@
             "UX"
         ],
         "url": "https://uxfol.io/"
+    },
+    {
+        "name": "Vacato",
+        "description": "RDAP domain watchlist for developers — scheduled checks and Telegram/email when a taken name looks available. Free 10 domains; alerts only, not a drop-catcher.",
+        "categories": [
+            "Domain",
+            "Tooling"
+        ],
+        "url": "https://vacato.io",
+        "keywords": [
+            "domain",
+            "rdap",
+            "whois",
+            "watchlist",
+            "availability",
+            "telegram",
+            "dns"
+        ]
     },
     {
         "name": "Vaiz",
