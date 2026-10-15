@@ -412,6 +412,14 @@ export const resources: Resource[] = [
         url: 'https://mockae.com/',
     },
     {
+        name: 'MoltNode',
+        description:
+            'Free JSON-RPC gateway for 31 blockchains, including Ethereum, Base, Arbitrum, Solana and Sui. One URL per chain, no sign-up or API key.',
+        categories: ['Web3'],
+        url: 'https://moltnode.ag',
+        keywords: ['rpc', 'json-rpc', 'blockchain', 'ethereum', 'evm', 'solana', 'web3'],
+    },
+    {
         name: 'MongoDB',
         description:
             'MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.',
