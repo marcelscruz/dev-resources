@@ -130,10 +130,35 @@ export const resources: Resource[] = [
         url: 'https://www.artify.co/illustrations-figma',
     },
     {
+        name: 'Image to ASCII',
+        description:
+            'Convert images locally into ASCII art for READMEs and terminals. Copy text or Markdown; export TXT, PNG, SVG, HTML, or ANSI. Free, no signup.',
+        categories: ['Image', 'Terminal', 'Tooling'],
+        url: 'https://imagetoascii.art/',
+        keywords: ['ascii art', 'image to ascii', 'readme', 'ansi', 'markdown', 'local processing'],
+    },
+    {
         name: 'Img.Upscaler',
         description: 'Upscale and enhance your image by using the latest AI technology. Support batch process.',
         categories: ['AI', 'Image'],
         url: 'https://imgupscaler.com',
+    },
+    {
+        name: 'inboxsink',
+        description:
+            'Disposable email inboxes for end-to-end tests. A wait endpoint blocks until the email arrives and returns the verification code or confirmation link already extracted.',
+        categories: ['Testing'],
+        url: 'https://inboxsink.com',
+        keywords: [
+            'email testing',
+            'disposable email',
+            'otp',
+            'magic link',
+            'playwright',
+            'cypress',
+            'selenium',
+            'e2e',
+        ],
     },
     {
         name: 'IncidentHub',
@@ -270,6 +295,14 @@ export const resources: Resource[] = [
             '2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency.',
         url: 'https://www.ipwho.org',
         keywords: ['ip geolocation api', 'ip location api', 'ip lookup api'],
+    },
+    {
+        name: 'Is It Disposable',
+        description:
+            'Is It Disposable provides disposable email detection to protect your signups and sender reputation.',
+        categories: ['Email'],
+        url: 'https://isitdisposable.com/',
+        keywords: ['Security', 'Developer Tools', 'Productivity'],
     },
     {
         name: 'isecjobs.com',
