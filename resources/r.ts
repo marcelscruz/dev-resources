@@ -482,6 +482,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'api', 'llm', 'openai-compatible', 'ai gateway', 'model routing', 'developer tools'],
     },
     {
+        name: 'RowSafe',
+        description:
+            'PostgreSQL backups, point-in-time recovery and scheduled restore tests for developers, with an open-source agent and CLI.',
+        categories: ['Database', 'Storage', 'Tooling'],
+        url: 'https://rowsafe.sh',
+        keywords: ['postgresql', 'backup', 'recovery', 'restore testing', 'database'],
+    },
+    {
         name: 'RubyMine',
         description:
             'The Ruby and Rails IDE with first-class support for Ruby and Rails, JavaScript and CoffeeScript, ERB and HAML, CSS, Sass and Less, and more.',
