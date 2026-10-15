@@ -114,10 +114,6 @@ export const resources: Resource[] = [
             'xaml',
             'vectordrawable',
             'swiftui',
-            'mcp',
-            'ai agents',
-            'batch processing',
-            'svg optimization',
         ],
     },
     {
