@@ -28,7 +28,6 @@ export const resources: Resource[] = [
             'colima',
             'docker',
             'ssh keys',
-            'local development',
         ],
     },
     {
