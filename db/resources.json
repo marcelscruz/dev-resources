@@ -1,5 +1,5 @@
 {
-"count": 1257,
+"count": 1258,
 "data": [
     {
         "name": "1001 Fonts",
@@ -13918,6 +13918,23 @@
             "UI"
         ],
         "url": "https://component.gallery"
+    },
+    {
+        "name": "The Enso Method",
+        "description": "Agent skills for Claude Code and Codex that record business assumptions with evidence and confidence, and preserve requirements as the source of truth.",
+        "categories": [
+            "AI",
+            "Open Source",
+            "Tooling"
+        ],
+        "url": "https://ensomethod.org",
+        "keywords": [
+            "claude-code",
+            "codex",
+            "agent-skills",
+            "requirements",
+            "methodology"
+        ]
     },
     {
         "name": "The Hammerstone Podcast",
