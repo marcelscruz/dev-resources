@@ -172,7 +172,7 @@ export const resources: Resource[] = [
     {
         name: 'SendRaven',
         description:
-            "Email API and MCP server for AI agents. Send from your own domain, receive replies as threads, and cap or hold a key\\\\'s sends for approval.",
+            "Email API and MCP server for AI agents. Send from your own domain, receive replies as threads, and cap or hold a key\\'s sends for approval.",
         categories: ['Email', 'AI'],
         url: 'https://sendraven.ai',
         keywords: ['email api', 'mcp', 'ai agents', 'inbound email', 'transactional email'],
