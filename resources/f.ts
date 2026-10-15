@@ -392,6 +392,14 @@ export const resources: Resource[] = [
         url: 'https://fontspark.com/',
     },
     {
+        name: 'FontVibe',
+        description:
+            'AI text effect and lettering designs for logos, banners and thumbnails, with an MCP server so coding agents can generate these graphics.',
+        categories: ['Font', 'AI', 'Design'],
+        url: 'https://fontvibe.ai/',
+        keywords: ['text effects', 'lettering', 'ai font generator', 'mcp'],
+    },
+    {
         name: 'ForgeSprite',
         description:
             'AI game art workspace for static 2D sprites, props and icons, with reference-image editing and browser tools to pack, cut and resize sprite sheets.',
