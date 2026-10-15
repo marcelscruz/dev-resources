@@ -1,5 +1,5 @@
 {
-"count": 1258,
+"count": 1259,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11828,6 +11828,23 @@
             "ai gateway",
             "model routing",
             "developer tools"
+        ]
+    },
+    {
+        "name": "RowSafe",
+        "description": "PostgreSQL backups, point-in-time recovery and scheduled restore tests for developers, with an open-source agent and CLI.",
+        "categories": [
+            "Database",
+            "Storage",
+            "Tooling"
+        ],
+        "url": "https://rowsafe.sh",
+        "keywords": [
+            "postgresql",
+            "backup",
+            "recovery",
+            "restore testing",
+            "database"
         ]
     },
     {
