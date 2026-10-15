@@ -657,6 +657,14 @@ export const resources: Resource[] = [
         url: 'https://softwium.com/mockium/',
     },
     {
+        name: 'SolidPing',
+        description:
+            'Open-source uptime monitoring: 40+ check types, status pages, incidents and alerts. Self-host it or use the hosted free plan.',
+        categories: ['Open Source', 'Performance', 'Tooling'],
+        url: 'https://www.solidping.io/',
+        keywords: ['uptime monitoring', 'status page', 'synthetic monitoring', 'self-hosted'],
+    },
+    {
         name: 'SoloLearn',
         description: 'Join Now to learn the basics or advance your existing skills.',
         categories: ['Learn', 'Programming'],
