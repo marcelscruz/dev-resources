@@ -252,6 +252,14 @@ export const resources: Resource[] = [
         url: 'https://component.gallery',
     },
     {
+        name: 'The Enso Method',
+        description:
+            'Agent skills for Claude Code and Codex that record business assumptions with evidence and confidence, and preserve requirements as the source of truth.',
+        categories: ['AI', 'Open Source', 'Tooling'],
+        url: 'https://ensomethod.org',
+        keywords: ['claude-code', 'codex', 'agent-skills', 'requirements', 'methodology'],
+    },
+    {
         name: 'The Hammerstone Podcast',
         description:
             "Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm!",
