@@ -1,5 +1,5 @@
 {
-"count": 1259,
+"count": 1260,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8486,6 +8486,30 @@
             "mermaid",
             "macos",
             "quick look"
+        ]
+    },
+    {
+        "name": "Macsmith",
+        "description": "A native Mac GUI for command-line developer tools. Manage Homebrew, local databases, runtimes, Docker, SSH keys and ports from one app.",
+        "categories": [
+            "Tooling",
+            "Terminal",
+            "Productivity"
+        ],
+        "url": "https://macsmith.app",
+        "keywords": [
+            "macos",
+            "gui",
+            "cli",
+            "homebrew",
+            "postgresql",
+            "mysql",
+            "mongodb",
+            "mise",
+            "nvm",
+            "colima",
+            "docker",
+            "ssh keys"
         ]
     },
     {
