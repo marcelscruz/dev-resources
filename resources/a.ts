@@ -527,6 +527,14 @@ export const resources: Resource[] = [
         keywords: ['youtube summarizer', 'youtube video summarizer', 'youtube ai summary', 'youtube video summary ai'],
     },
     {
+        name: 'Aspect Ratio Calculator',
+        description:
+            'Free browser-based aspect ratio calculator with visual crop previews for print and digital dimensions.',
+        categories: ['Design', 'Image', 'Tooling'],
+        url: 'https://printpixeltool.com/',
+        keywords: ['aspect ratio', 'calculator', 'crop preview', 'image tool', 'print size'],
+    },
+    {
         name: 'ATemplate',
         description: 'Free WebSite Templates with A Template',
         categories: ['Template', 'Productivity'],
