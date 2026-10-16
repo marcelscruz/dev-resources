@@ -14,6 +14,14 @@ export const resources: Resource[] = [
         url: 'https://www.octotree.io/',
     },
     {
+        name: 'OddsRelay',
+        description:
+            'Pre-match odds API for UK and Irish bookmakers with exchange lay prices from Betfair, Smarkets, Matchbook and BETDAQ. JSON, client libraries and an MCP server.',
+        categories: ['API Building', 'Tooling'],
+        url: 'https://oddsrelay.io',
+        keywords: ['odds api', 'sports betting', 'bookmaker odds', 'betting exchange', 'json api', 'mcp'],
+    },
+    {
         name: 'Odin A',
         description:
             'Odin AI is a versatile AI tool designed to streamline workflows, enhance productivity, and simplify complex tasks through automation and AI-driven features',
