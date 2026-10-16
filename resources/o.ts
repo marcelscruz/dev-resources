@@ -160,6 +160,14 @@ export const resources: Resource[] = [
         url: 'https://openchakra.app/',
     },
     {
+        name: 'Openhook',
+        description:
+            'Open-source callback inbox for testing HTTP, email and DNS integrations, with API, MCP and browser inspection; hosted or self-hosted.',
+        categories: ['API Building', 'Testing', 'Open Source'],
+        url: 'https://openhook.dev',
+        keywords: ['webhooks', 'callback testing', 'mcp', 'http', 'email', 'dns'],
+    },
+    {
         name: 'OpenKline',
         description:
             'MIT-licensed TypeScript library for Canvas candlestick charts, indicators and drawing tools, with React and Vue wrappers.',
