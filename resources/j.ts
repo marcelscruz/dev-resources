@@ -94,6 +94,14 @@ export const resources: Resource[] = [
         keywords: ['remote jobs', 'remote work', 'jobs', 'employment'],
     },
     {
+        name: 'Jobs in Javascript',
+        description:
+            'A job board for the Javascript industry. Filter by experience level or location. 100% free, no sign-up required.',
+        categories: ['Job'],
+        url: 'https://jobsinjs.com/',
+        keywords: ['javascript', 'jobs', 'job board'],
+    },
+    {
         name: 'Jobspresso',
         description:
             'Jobspresso is the easiest way to find remote jobs and careers at interesting and innovative companies.',
