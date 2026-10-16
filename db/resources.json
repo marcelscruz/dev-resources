@@ -1,5 +1,5 @@
 {
-"count": 1262,
+"count": 1263,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9910,6 +9910,24 @@
             "UI"
         ],
         "url": "https://openchakra.app/"
+    },
+    {
+        "name": "Openhook",
+        "description": "Open-source callback inbox for testing HTTP, email and DNS integrations, with API, MCP and browser inspection; hosted or self-hosted.",
+        "categories": [
+            "API Building",
+            "Testing",
+            "Open Source"
+        ],
+        "url": "https://openhook.dev",
+        "keywords": [
+            "webhooks",
+            "callback testing",
+            "mcp",
+            "http",
+            "email",
+            "dns"
+        ]
     },
     {
         "name": "OpenKline",
