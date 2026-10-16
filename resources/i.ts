@@ -289,6 +289,27 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'IPGeolocation.io',
+        description:
+            'IP geolocation and intelligence APIs with company information, ASN and network data, IP security, time zones and user-agent parsing.',
+        categories: ['Tooling'],
+        url: 'https://ipgeolocation.io',
+        keywords: [
+            'ip geolocation api',
+            'ip intelligence',
+            'ip lookup',
+            'ipv4',
+            'ipv6',
+            'asn',
+            'company information',
+            'vpn detection',
+            'proxy detection',
+            'abuse contacts',
+            'time zone',
+            'user agent',
+        ],
+    },
+    {
         name: 'IPWho IP Geolocation API',
         categories: ['Tooling'],
         description:
