@@ -152,6 +152,13 @@ export const resources: Resource[] = [
         keywords: ['email validation', 'email verification', 'disposable email detection', 'email validation api'],
     },
     {
+        name: 'HeyBop.ai',
+        description: 'Turn your song into an AI music video, cut to the beat.',
+        categories: ['Video', 'AI', 'Audio'],
+        url: 'https://heybop.ai/',
+        keywords: ['ai music video generator', 'music video maker', 'beat-synced video', 'ai video'],
+    },
+    {
         name: 'High Compress',
         description:
             'HighCompress is an incredibly powerful tool that can compress images upto 95%. Make your website load faster, optimize your images and boost SEO.',
