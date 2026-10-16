@@ -1,5 +1,5 @@
 {
-"count": 1263,
+"count": 1264,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7596,6 +7596,19 @@
             "remote work",
             "jobs",
             "employment"
+        ]
+    },
+    {
+        "name": "Jobs in Javascript",
+        "description": "A job board for the Javascript industry. Filter by experience level or location. 100% free, no sign-up required.",
+        "categories": [
+            "Job"
+        ],
+        "url": "https://jobsinjs.com/",
+        "keywords": [
+            "javascript",
+            "jobs",
+            "job board"
         ]
     },
     {
