@@ -1,5 +1,5 @@
 {
-"count": 1261,
+"count": 1262,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7092,6 +7092,30 @@
             "Icon"
         ],
         "url": "https://www.designbombs.com/iconsweets2/"
+    },
+    {
+        "name": "IconVectors",
+        "description": "Desktop SVG icon editor for developers with visual editing, icon management, batch processing, code export, and MCP automation.",
+        "categories": [
+            "Icon",
+            "Editor",
+            "Tooling"
+        ],
+        "url": "https://iconvectors.io/",
+        "keywords": [
+            "svg",
+            "svg icons",
+            "icon editor",
+            "vector editor",
+            "icon management",
+            "developer tools",
+            "code export",
+            "react",
+            "vue",
+            "xaml",
+            "vectordrawable",
+            "swiftui"
+        ]
     },
     {
         "name": "Icônes",
