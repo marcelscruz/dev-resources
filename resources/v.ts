@@ -246,6 +246,14 @@ export const resources: Resource[] = [
         keywords: ['api', 'api client', 'api documentation', 'api testing', 'api mocks'],
     },
     {
+        name: 'VPS Host Review',
+        description:
+            'Independent VPS hosting reviews from customers, with YABS benchmark comparisons and a provider network report.',
+        categories: ['Hosting', 'Cloud Computing', 'Performance'],
+        url: 'https://vpshostreview.com/',
+        keywords: ['vps', 'hosting', 'reviews', 'benchmark', 'yabs'],
+    },
+    {
         name: 'Vue Cheatsheet',
         description: 'An interactive cheatsheet of Vue, Vue Router and, Pinia.',
         categories: ['Cheatsheet'],
