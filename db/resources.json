@@ -1,5 +1,5 @@
 {
-"count": 1267,
+"count": 1268,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2247,6 +2247,19 @@
         "keywords": [
             "ai",
             "prompts"
+        ]
+    },
+    {
+        "name": "ChatGpt Resume builder",
+        "description": "> ResumUp is an all-in-one AI career platform designed to help job seekers land more interviews with less effort. The platform enables users to create professio",
+        "categories": [
+            "Resume"
+        ],
+        "url": "https://chatgptresume.com/",
+        "keywords": [
+            "Tailor to any job description",
+            "optimize for ATS",
+            "and write compelling cover letters"
         ]
     },
     {
