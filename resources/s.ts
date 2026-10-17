@@ -277,6 +277,14 @@ export const resources: Resource[] = [
         keywords: ['Performance', 'Uptime', 'Monitoring', 'Status Page', 'Web Vitals', 'SSL', 'HTTP(s)', 'DNS'],
     },
     {
+        name: 'SFXMint',
+        description:
+            'CC0 AI-generated and synthesized sound effects for apps and games, with a free library, API, MCP server, CLI, and optional paid generation.',
+        categories: ['Audio', 'UI', 'Tooling'],
+        url: 'https://sfxmint.com/',
+        keywords: ['sound effects', 'web audio', 'game audio', 'api', 'mcp', 'cli'],
+    },
+    {
         name: 'Shadcn Templates',
         categories: ['Template', 'UI', 'Design'],
         description: 'A collection of Shadcn UI templates, components, boilerplates, and more.',
