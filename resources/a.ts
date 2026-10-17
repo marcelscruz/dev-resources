@@ -251,6 +251,24 @@ export const resources: Resource[] = [
         url: 'https://ai-text-humanizer.com/',
     },
     {
+        name: 'Aident Loadout',
+        description:
+            'Hosted MCP server and CLI that connects AI agents like Claude Code, Codex and Cursor to your apps, with 400+ Skills, a credential vault and audit logs.',
+        categories: ['AI', 'Tooling', 'Productivity'],
+        url: 'https://aident.ai',
+        keywords: [
+            'mcp',
+            'mcp server',
+            'ai agents',
+            'claude code',
+            'codex',
+            'cursor',
+            'cli',
+            'integrations',
+            'agent skills',
+        ],
+    },
+    {
         name: 'Aigazine',
         description: 'The Go-To Source for AI Benchmarks, News, Research & Industry Insights',
         categories: ['AI', 'Newsletter', 'Startup'],
