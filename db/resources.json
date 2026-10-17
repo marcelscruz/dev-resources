@@ -1,5 +1,5 @@
 {
-"count": 1270,
+"count": 1267,
 "data": [
     {
         "name": "1001 Fonts",
@@ -964,22 +964,6 @@
             "API Building"
         ],
         "url": "https://appwrite.io/"
-    },
-    {
-        "name": "Apstal",
-        "description": "AI-first web analytics with session replay, heatmaps, and conversational AI queries. Free tier available.",
-        "categories": [
-            "Analytics",
-            "AI"
-        ],
-        "url": "https://apstal.com",
-        "keywords": [
-            "web analytics",
-            "session replay",
-            "heatmaps",
-            "ai analytics",
-            "privacy analytics"
-        ]
     },
     {
         "name": "Aptabase",
@@ -13091,22 +13075,6 @@
         "url": "https://softwium.com/mockium/"
     },
     {
-        "name": "SolidPing",
-        "description": "Open-source uptime monitoring: 40+ check types, status pages, incidents and alerts. Self-host it or use the hosted free plan.",
-        "categories": [
-            "Open Source",
-            "Performance",
-            "Tooling"
-        ],
-        "url": "https://www.solidping.io/",
-        "keywords": [
-            "uptime monitoring",
-            "status page",
-            "synthetic monitoring",
-            "self-hosted"
-        ]
-    },
-    {
         "name": "SoloLearn",
         "description": "Join Now to learn the basics or advance your existing skills.",
         "categories": [
@@ -14837,22 +14805,6 @@
             "free touch typing tutorial",
             "touch typing",
             "typing game"
-        ]
-    },
-    {
-        "name": "Typre",
-        "description": "Typing practice for programmers: real code in 14 languages, live races, and a drill for brackets and operators. Works offline, no account needed.",
-        "categories": [
-            "Learn",
-            "Typing"
-        ],
-        "url": "https://www.typre.dev",
-        "keywords": [
-            "typing",
-            "code typing",
-            "programming",
-            "wpm",
-            "touch typing"
         ]
     },
     {
