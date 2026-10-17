@@ -1,5 +1,5 @@
 {
-"count": 1266,
+"count": 1267,
 "data": [
     {
         "name": "1001 Fonts",
@@ -14638,6 +14638,25 @@
             "growth",
             "scheduling",
             "social media"
+        ]
+    },
+    {
+        "name": "TwitterAPI.io",
+        "description": "X (Twitter) data API for developers: search tweets, profiles, followers and timelines, real-time streams and webhooks, with MCP and AI SDK tools.",
+        "categories": [
+            "Social Media",
+            "Scraping",
+            "AI"
+        ],
+        "url": "https://twitterapi.io",
+        "keywords": [
+            "twitter",
+            "x",
+            "twitter api",
+            "tweets",
+            "social media data",
+            "mcp",
+            "webhooks"
         ]
     },
     {
