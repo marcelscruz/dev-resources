@@ -499,6 +499,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://seenode.com&sz=128" width="16" /> | [seenode](https://seenode.com) | Developer cloud for full-stack apps | developer cloud, django hosting, nodejs hosting, paas |
  <img src="https://www.google.com/s2/favicons?domain=https://sengi.run/&sz=128" width="16" /> | [Sengi Runners](https://sengi.run/) | Managed Ubuntu x64 runners for GitHub Actions. Fresh VM per job, 2/4/8 vCPU, execution-minute billing, and a cardless monthly free allowance. | github actions, ci, cicd, runners, linux, ubuntu |
  <img src="https://www.google.com/s2/favicons?domain=https://shipvela.com/&sz=128" width="16" /> | [Shipvela](https://shipvela.com/) | Host static websites and React/Vite frontends from GitHub or the CLI, with custom domains and managed HTTPS. | static hosting, react, vite, github, cli, deployment, https |
+ <img src="https://www.google.com/s2/favicons?domain=https://vpshostreview.com/&sz=128" width="16" /> | [VPS Host Review](https://vpshostreview.com/) | Independent VPS hosting reviews from customers, with YABS benchmark comparisons and a provider network report. | vps, hosting, reviews, benchmark, yabs |
  <img src="https://www.google.com/s2/favicons?domain=https://xora.sh/&sz=128" width="16" /> | [Xora](https://xora.sh/) | Cloud FFmpeg API for media jobs | developer tool, ffmpeg, video api, media processing |
 
 **[⬆ Back to Index](#index)**
@@ -987,6 +988,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://surge.sh/&sz=128" width="16" /> | [Surge](https://surge.sh/) | Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.umbler.com/&sz=128" width="16" /> | [Umbler](https://www.umbler.com/) | We are the website and applications hosting that you can trust. Perfect for the current needs of agencies, developers and entrepreneurs. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://vercel.com/&sz=128" width="16" /> | [Vercel](https://vercel.com/) | Deploy web projects with the best frontend developer experience and highest end-user performance. |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://vpshostreview.com/&sz=128" width="16" /> | [VPS Host Review](https://vpshostreview.com/) | Independent VPS hosting reviews from customers, with YABS benchmark comparisons and a provider network report. | vps, hosting, reviews, benchmark, yabs |
 
 **[⬆ Back to Index](#index)**
 
@@ -1612,6 +1614,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://slingsite.github.io&sz=128" width="16" /> | [SlingSite](https://slingsite.github.io) | Optimize your images and videos for your website in batch with full privacy. Slingsite will create compressed versions of your images and videos for all device resolutions. | image optimization, video optimization, batch processing, privacy focused, web performance |
  <img src="https://www.google.com/s2/favicons?domain=https://www.solidping.io/&sz=128" width="16" /> | [SolidPing](https://www.solidping.io/) | Open-source uptime monitoring: 40+ check types, status pages, incidents and alerts. Self-host it or use the hosted free plan. | uptime monitoring, status page, synthetic monitoring, self-hosted |
  <img src="https://www.google.com/s2/favicons?domain=https://ultimatewebspeed.com&sz=128" width="16" /> | [Ultimate Web Speed](https://ultimatewebspeed.com) | Improve your website performance and SEO in hours not days. Use our tools and compare features, ease of use, and compatibility of resources. | wordpress, cache, plugins, speed, performance, seo |
+ <img src="https://www.google.com/s2/favicons?domain=https://vpshostreview.com/&sz=128" width="16" /> | [VPS Host Review](https://vpshostreview.com/) | Independent VPS hosting reviews from customers, with YABS benchmark comparisons and a provider network report. | vps, hosting, reviews, benchmark, yabs |
  <img src="https://www.google.com/s2/favicons?domain=https://www.webpagetest.org/&sz=128" width="16" /> | [WebPagetest](https://www.webpagetest.org/) | Run a free website speed test from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations. | WebPageTest, Website Speed Test, Page Speed |
  <img src="https://www.google.com/s2/favicons?domain=https://zuzia.app&sz=128" width="16" /> | [Zuzia.app](https://zuzia.app) | AI-powered server monitoring and task automation for Linux and VPS. | ai task monitoring, server cron tracking, linux automation, laravel forge tools |
 

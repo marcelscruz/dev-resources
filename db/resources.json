@@ -1,5 +1,5 @@
 {
-"count": 1264,
+"count": 1265,
 "data": [
     {
         "name": "1001 Fonts",
@@ -15581,6 +15581,23 @@
             "api documentation",
             "api testing",
             "api mocks"
+        ]
+    },
+    {
+        "name": "VPS Host Review",
+        "description": "Independent VPS hosting reviews from customers, with YABS benchmark comparisons and a provider network report.",
+        "categories": [
+            "Hosting",
+            "Cloud Computing",
+            "Performance"
+        ],
+        "url": "https://vpshostreview.com/",
+        "keywords": [
+            "vps",
+            "hosting",
+            "reviews",
+            "benchmark",
+            "yabs"
         ]
     },
     {
