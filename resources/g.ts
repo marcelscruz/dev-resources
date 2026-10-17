@@ -87,6 +87,14 @@ export const resources: Resource[] = [
         url: 'https://getterms.io/',
     },
     {
+        name: 'GifSnap API',
+        description:
+            'GIF search API and native/web SDKs for adding animated media to apps with JavaScript, React, Angular, Swift and Kotlin.',
+        categories: ['Image', 'Library', 'Programming'],
+        url: 'https://gifsnap.com/developers',
+        keywords: ['gif', 'sticker', 'api', 'react', 'javascript', 'angular', 'swift', 'kotlin'],
+    },
+    {
         name: 'Git Cheat Sheets',
         description:
             'Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.',
