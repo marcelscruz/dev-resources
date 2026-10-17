@@ -1,5 +1,5 @@
 {
-"count": 1265,
+"count": 1266,
 "data": [
     {
         "name": "1001 Fonts",
@@ -12447,6 +12447,24 @@
             "SSL",
             "HTTP(s)",
             "DNS"
+        ]
+    },
+    {
+        "name": "SFXMint",
+        "description": "CC0 AI-generated and synthesized sound effects for apps and games, with a free library, API, MCP server, CLI, and optional paid generation.",
+        "categories": [
+            "Audio",
+            "UI",
+            "Tooling"
+        ],
+        "url": "https://sfxmint.com/",
+        "keywords": [
+            "sound effects",
+            "web audio",
+            "game audio",
+            "api",
+            "mcp",
+            "cli"
         ]
     },
     {
