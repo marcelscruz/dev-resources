@@ -657,6 +657,14 @@ export const resources: Resource[] = [
         keywords: ['twitter', 'growth', 'scheduling', 'social media'],
     },
     {
+        name: 'TwitterAPI.io',
+        description:
+            'X (Twitter) data API for developers: search tweets, profiles, followers and timelines, real-time streams and webhooks, with MCP and AI SDK tools.',
+        categories: ['Social Media', 'Scraping', 'AI'],
+        url: 'https://twitterapi.io',
+        keywords: ['twitter', 'x', 'twitter api', 'tweets', 'social media data', 'mcp', 'webhooks'],
+    },
+    {
         name: 'Type Think AI',
         description:
             'TypeThinkAI is the LLM Frontend to access hundreds of AI models. You can access Multiple AI Models all from one app.',
