@@ -187,6 +187,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'prompts'],
     },
     {
+        name: 'ChatGpt Resume builder',
+        description:
+            '> ResumUp is an all-in-one AI career platform designed to help job seekers land more interviews with less effort. The platform enables users to create professio',
+        categories: ['Resume'],
+        url: 'https://chatgptresume.com/',
+        keywords: ['Tailor to any job description', 'optimize for ATS', 'and write compelling cover letters'],
+    },
+    {
         name: 'Chatim',
         description:
             'Chatim is a live chat with a chatbot automation platform that lets you connect with customers anywhere, anytime',
