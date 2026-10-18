@@ -60,6 +60,21 @@ export const resources: Resource[] = [
         keywords: ['navigation bar', 'action bar', 'offer bar', 'floating action bar'],
     },
     {
+        name: 'BatchSet',
+        description:
+            'Bulk image converter in the browser: WebP, AVIF, HEIC, JPG and PNG, compress to an exact KB, resize. Includes a website image auditor. No upload.',
+        categories: ['Image', 'Performance'],
+        url: 'https://batchset.com',
+        keywords: [
+            'webp converter',
+            'avif',
+            'heic to jpg',
+            'image compression',
+            'bulk image converter',
+            'image optimization',
+        ],
+    },
+    {
         name: 'Bazzly',
         description: 'Get Customers From Reddit on Autopilot',
         categories: ['Marketing', 'AI', 'Social Media'],
