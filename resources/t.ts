@@ -267,6 +267,14 @@ export const resources: Resource[] = [
         url: 'https://hammerstone.dev/podcast',
     },
     {
+        name: 'The Jobs API',
+        description:
+            'US and Canada job listings from employer career sites, with search filters, full descriptions, apply links and a resumable change feed.',
+        categories: ['Job', 'API Building'],
+        url: 'https://thejobsapi.com',
+        keywords: ['jobs api', 'job data', 'USA', 'Canada', 'ATS', 'job boards', 'change feed'],
+    },
+    {
         name: 'The Linux Foundation - Events',
         description:
             'The Linux Foundation hosts a variety of events around the world, including leading open source conferences such as Open Source Summit, Embedded Linux Conference, KubeCon + CloudNativeCon, and more.',
