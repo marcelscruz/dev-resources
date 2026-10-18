@@ -64,6 +64,13 @@ export const resources: Resource[] = [
         url: 'https://one.com',
     },
     {
+        name: 'Online Mini Tools',
+        description:
+            'Free catalog of 2,300+ browser-based utilities for developers and designers, covering JSON and XML formatting, encoders and decoders, validators, CSS and color generators, converters and calculators. Most tools run client-side with no account required.',
+        categories: ['Tooling', 'Productivity'],
+        url: 'https://onlineminitools.com/',
+    },
+    {
         name: 'Onlime',
         description: 'Onlime is your secure cloud storage solution for what matters most.',
         categories: ['Productivity', 'Security', 'Startup'],
