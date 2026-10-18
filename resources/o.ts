@@ -71,6 +71,13 @@ export const resources: Resource[] = [
         keywords: ['cloud storage', 'cloud backup', 'file synchronization', 'Privacy and Security'],
     },
     {
+        name: 'Online Mini Tools',
+        description:
+            'Free catalog of 2,300+ browser-based utilities for developers and designers, covering JSON and XML formatting, encoders and decoders, validators, CSS and color generators, converters and calculators. Most tools run client-side with no account required.',
+        categories: ['Tooling', 'Productivity'],
+        url: 'https://onlineminitools.com/',
+    },
+    {
         name: 'OnlineWebFonts',
         description: 'Fonts and icons for your next project.',
         categories: ['Icon', 'Font'],
