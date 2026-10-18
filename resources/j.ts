@@ -78,6 +78,14 @@ export const resources: Resource[] = [
         url: 'https://jestjs.io/',
     },
     {
+        name: 'JFmt',
+        description:
+            'Free JSON formatter, validator and viewer that runs in the browser. Repair, diff, JSONPath and conversion to CSV, XML, YAML and TOML. Nothing is uploaded.',
+        categories: ['Tooling'],
+        url: 'https://jfmt.dev',
+        keywords: ['JSON', 'formatter', 'validator', 'converter'],
+    },
+    {
         name: 'JobBoardSearch 🔎',
         categories: ['Job'],
         description:
