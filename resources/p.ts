@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Pangolinfo',
+        description:
+            'Developer data platform for real-time Amazon product, review, category, and market research through HTTP APIs and MCP integrations.',
+        categories: ['Scraping', 'API Building', 'AI'],
+        url: 'https://www.pangolinfo.com/',
+        keywords: ['Amazon API', 'Amazon product data', 'Amazon reviews', 'MCP', 'web scraping', 'AI agents'],
+    },
+    {
         name: 'PageGuard',
         description:
             'Free all-in-one website health scanner. Checks SEO, ADA/WCAG accessibility, Core Web Vitals performance, and best practices in one scan. Paid plans add automated monitoring and alerts.',
