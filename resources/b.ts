@@ -65,7 +65,14 @@ export const resources: Resource[] = [
             'Bulk image converter in the browser: WebP, AVIF, HEIC, JPG and PNG, compress to an exact KB, resize. Includes a website image auditor. No upload.',
         categories: ['Image', 'Performance'],
         url: 'https://batchset.com',
-        keywords: ['webp converter', 'avif', 'heic to jpg', 'image compression', 'bulk image converter', 'image optimization'],
+        keywords: [
+            'webp converter',
+            'avif',
+            'heic to jpg',
+            'image compression',
+            'bulk image converter',
+            'image optimization',
+        ],
     },
     {
         name: 'Bazzly',
