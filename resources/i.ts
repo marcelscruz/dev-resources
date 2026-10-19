@@ -222,6 +222,27 @@ export const resources: Resource[] = [
         url: 'https://insomnia.rest/',
     },
     {
+        name: 'inspo ai',
+        description:
+            'AI design intelligence for builders to research UI patterns, explore screens, create moodboards, and generate production-ready interface ideas.',
+        categories: ['Design'],
+        url: 'https://inspoai.io/',
+        keywords: [
+            'AI design',
+            'UI inspiration',
+            'UX research',
+            'design intelligence',
+            'UI patterns',
+            'moodboards',
+            'web design',
+            'app design',
+            'product design',
+            'design system',
+            'AI UI',
+            'frontend',
+        ],
+    },
+    {
         name: 'IntelliJ IDEA',
         description: 'A Capable and Ergonomic Java IDE for Enterprise Java, Scala, Kotlin and much more...',
         categories: ['Editor', 'Programming'],
