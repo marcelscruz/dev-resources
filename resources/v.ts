@@ -55,6 +55,14 @@ export const resources: Resource[] = [
         url: 'https://vectoralix.com',
     },
     {
+        name: 'Vectoree',
+        description:
+            'Give your coding agent a backend: models, auth, Postgres and storage behind one key. Skill + CLI + OpenAI-compatible gateway. Pay-as-you-go.',
+        categories: ['AI', 'Database', 'Authentication'],
+        url: 'https://vectoree.ai',
+        keywords: ['ai agents', 'llm gateway', 'openai-compatible', 'postgres', 'storage', 'cli'],
+    },
+    {
         name: 'VectorElements',
         description:
             'VectorElements offers free and premium vector illustrations, icons, UI kits, textures, and design assets for websites, apps, print, and digital projects.',
