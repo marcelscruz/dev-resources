@@ -218,6 +218,24 @@ export const resources: Resource[] = [
         url: 'https://notepad-plus-plus.org/',
     },
     {
+        name: 'NotFair',
+        description:
+            'Open-source SEO, GEO, and marketing skills for AI agents like Claude Code and Codex, with a hosted MCP for GA4, Search Console, and ad accounts.',
+        categories: ['SEO', 'Marketing', 'AI'],
+        url: 'https://notfair.co',
+        keywords: [
+            'agent skills',
+            'claude code',
+            'codex',
+            'mcp',
+            'geo',
+            'google ads',
+            'search console',
+            'ga4',
+            'open source',
+        ],
+    },
+    {
         name: 'Noun Project',
         description:
             'Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.',
