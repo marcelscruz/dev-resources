@@ -412,7 +412,17 @@ export const resources: Resource[] = [
             'Learn to code with free interactive courses, in-browser playgrounds and coding challenges in Python, JavaScript, SQL, C++, Java and 20+ more.',
         categories: ['Learn', 'Programming'],
         url: 'https://coddy.tech',
-        keywords: ['learn to code', 'coding courses', 'interactive', 'python', 'javascript', 'sql', 'online compiler', 'playground', 'beginner'],
+        keywords: [
+            'learn to code',
+            'coding courses',
+            'interactive',
+            'python',
+            'javascript',
+            'sql',
+            'online compiler',
+            'playground',
+            'beginner',
+        ],
     },
     {
         name: 'Code to go',
