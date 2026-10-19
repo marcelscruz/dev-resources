@@ -139,6 +139,13 @@ export const resources: Resource[] = [
         keywords: ['react graphql typescript'],
     },
     {
+        name: 'Benchvale',
+        description:
+            'Developer utilities that run in the browser: UUID v4 and v7, base64, hashing and HMAC, JSON formatting, URL encoding and password tools. No signup.',
+        categories: ['Tooling', 'Code Generator'],
+        url: 'https://benchvale.com/',
+    },
+    {
         name: 'Berry Free React Material Admin Template',
         description:
             'Berry is a creative free React admin template build using the Material-UI. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptops.',
