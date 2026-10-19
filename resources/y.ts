@@ -23,7 +23,16 @@ export const resources: Resource[] = [
             'Open-source MCP server and CLI that transcribes audio files on your own computer for Claude, Cursor and other MCP clients. No upload or API key.',
         categories: ['AI', 'Audio', 'Open Source'],
         url: 'https://github.com/founden-bot/yap-mcp',
-        keywords: ['mcp', 'speech to text', 'transcription', 'claude code', 'cursor', 'on-device', 'cli', 'local-first'],
+        keywords: [
+            'mcp',
+            'speech to text',
+            'transcription',
+            'claude code',
+            'cursor',
+            'on-device',
+            'cli',
+            'local-first',
+        ],
     },
     {
         name: 'YunCMS',
