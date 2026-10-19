@@ -430,6 +430,14 @@ export const resources: Resource[] = [
         url: 'https://cloud.google.com/apigee',
     },
     {
+        name: 'APISign',
+        description:
+            'E-signature for AI agents: an MCP server, REST API and CLI that send legally binding contracts. $0.25 per contract, 20 free to start, no monthly fee.',
+        categories: ['Legal', 'AI', 'Tooling'],
+        url: 'https://apisign.io',
+        keywords: ['e-signature', 'esign', 'contracts', 'mcp', 'pdf', 'webhooks', 'docusign alternative'],
+    },
+    {
         name: 'APIVerve',
         description:
             'Unleash the potential of your applications and accelerate development with a single API Key and access to 100s of APIs. Start for free.',
