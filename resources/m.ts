@@ -475,6 +475,14 @@ export const resources: Resource[] = [
         url: 'https://morrisjs.github.io/morris.js/',
     },
     {
+        name: 'MotionVault.site',
+        description:
+            'Cinematic website templates with live previews, editable source, motion assets and build prompts, plus a read-only MCP toolkit for AI coding tools.',
+        categories: ['Template', 'Animation', 'Tooling'],
+        url: 'https://motionvault.site/',
+        keywords: ['cinematic websites', 'website templates', 'animation', 'motion', 'mcp', 'source code'],
+    },
+    {
         name: 'Motomarks',
         description:
             'Image CDN for car manufacturer logos. One URL for badge, wordmark, or full logo, so app builders stop shipping a private asset folder.',
