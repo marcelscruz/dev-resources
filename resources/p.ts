@@ -307,6 +307,14 @@ export const resources: Resource[] = [
         keywords: ['image compression', 'image converter', 'webp', 'avif', 'heic', 'background removal', 'AI agents'],
     },
     {
+        name: 'PlaceCall',
+        description:
+            'API, remote MCP server and agent skill that let an AI agent place real outbound phone calls to US businesses and get back the outcome and transcript.',
+        categories: ['AI', 'Audio'],
+        url: 'https://voygr.tech/placecall/',
+        keywords: ['phone calls', 'voice agent', 'telephony', 'MCP', 'AI agents'],
+    },
+    {
         name: 'Planet Cert',
         description:
             'PlanetCert offers professional certification training and exam preparation. Get certified in IT, Project Management, and more with our comprehensive courses.',
