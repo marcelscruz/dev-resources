@@ -1,5 +1,5 @@
 {
-"count": 1279,
+"count": 1280,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3866,6 +3866,28 @@
             "Programming"
         ],
         "url": "https://js.cytoscape.org/"
+    },
+    {
+        "name": "Código ao Ponto",
+        "description": "Free browser-based developer tools with no signup: Brazilian test data generators and validators (CPF, CNPJ, RG, CNH), JWT, hash, Base64, UUID and JSON tools.",
+        "categories": [
+            "Testing",
+            "Tooling",
+            "Programming"
+        ],
+        "url": "https://codigoaoponto.com/en",
+        "keywords": [
+            "test data",
+            "cpf generator",
+            "cnpj generator",
+            "brazilian documents",
+            "jwt decoder",
+            "hash generator",
+            "base64",
+            "uuid generator",
+            "json formatter",
+            "unix timestamp"
+        ]
     },
     {
         "name": "D3.js",
@@ -9916,18 +9938,18 @@
     },
     {
         "name": "Omnara",
-        "description": "Command Center for AI Coding Agents",
+        "description": "The open-source API for production-ready AI agents",
         "categories": [
             "AI",
-            "Programming",
-            "Tooling"
+            "Open Source",
+            "Serverless"
         ],
-        "url": "https://www.omnara.com/",
+        "url": "https://omnara.com/",
         "keywords": [
-            "ai coding agents",
-            "claude code",
-            "mobile app",
-            "voice control"
+            "developer tool",
+            "ai agents",
+            "ai infrastructure",
+            "api"
         ]
     },
     {
