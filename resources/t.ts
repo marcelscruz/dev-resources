@@ -49,6 +49,14 @@ export const resources: Resource[] = [
         url: 'https://tailwindcomponents.com/',
     },
     {
+        name: 'Tale',
+        description:
+            'Self-hosted team workspace for coordinating coding agents, project tasks, shared knowledge and reviewed deliverables.',
+        categories: ['AI', 'Programming', 'Tooling'],
+        url: 'https://tale.dev',
+        keywords: ['coding agents', 'agent orchestration', 'project management', 'self-hosted', 'open source'],
+    },
+    {
         name: 'Tatask',
         description:
             'Break down your biggest goals into actionable tasks. Tatask is the zen productivity app from the future.',
@@ -207,7 +215,7 @@ export const resources: Resource[] = [
         name: 'Text Differ',
         description:
             "Whether you're revising an article, checking document updates, or reviewing code, Text Differ helps you spot every change quickly and confidently.",
-        categories: ['Tool'],
+        categories: ['Tooling'],
         url: 'https://text-differ.com/',
         keywords: ['text compare', 'text differ', 'compare', 'productivity', 'devtool', 'json formatter'],
     },
@@ -242,6 +250,14 @@ export const resources: Resource[] = [
         description: 'The Component Gallery is a collection of components from the best design systems.',
         categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://component.gallery',
+    },
+    {
+        name: 'The Enso Method',
+        description:
+            'Agent skills for Claude Code and Codex that record business assumptions with evidence and confidence, and preserve requirements as the source of truth.',
+        categories: ['AI', 'Open Source', 'Tooling'],
+        url: 'https://ensomethod.org',
+        keywords: ['claude-code', 'codex', 'agent-skills', 'requirements', 'methodology'],
     },
     {
         name: 'The Hammerstone Podcast',
@@ -350,6 +366,14 @@ export const resources: Resource[] = [
         keywords: ['b2b influencer marketing', 'influencer discovery', 'influencer analytics', 'creator intelligence'],
     },
     {
+        name: 'Tool Kumar',
+        description:
+            'Free JSON viewer, formatter, validator, repair and comparison tools. Tree and table views, local processing and no account required.',
+        categories: ['Tooling', 'Editor'],
+        url: 'https://tools.vikasmaur.com/',
+        keywords: ['json', 'formatter', 'validator', 'repair', 'diff', 'tree view', 'client-side'],
+    },
+    {
         name: 'ToolKit',
         description:
             'ToolKit is a collection of free online utilities built for developers, designers, and everyday users. Every tool runs entirely in the browser using Web APIs — nothing is sent to a server.',
@@ -364,6 +388,31 @@ export const resources: Resource[] = [
             'base64',
             'free tools',
             'browser-based',
+            'no signup',
+        ],
+    },
+    {
+        name: 'Tools in a Tab',
+        description:
+            'Free browser tools for JSON, YAML, Base64, Unix timestamps and SHA-256. Local input processing, no account required; English and Spanish.',
+        categories: ['Tooling', 'Productivity'],
+        url: 'https://toolsinatab.com/',
+        keywords: ['json', 'yaml', 'base64', 'timestamp', 'sha256'],
+    },
+    {
+        name: 'ToolStack',
+        description:
+            '32 free browser-based developer tools: JSON formatter and validator, Base64, image compressor, color and unit converters, calculators, QR codes. No sign-up.',
+        categories: ['Tooling', 'Productivity'],
+        url: 'https://tools.mindutil.com/',
+        keywords: [
+            'json',
+            'base64',
+            'image compressor',
+            'color converter',
+            'unit converter',
+            'calculator',
+            'qr code',
             'no signup',
         ],
     },
@@ -411,6 +460,13 @@ export const resources: Resource[] = [
         url: 'https://www.toptal.com/',
     },
     {
+        name: 'Trackee',
+        description: 'SEO & AI visibility, in one API',
+        categories: ['SEO', 'Marketing', 'Analytics'],
+        url: 'https://www.trackee.dev/',
+        keywords: ['ai visibility api', 'seo api', 'ai search tracking', 'brand monitoring'],
+    },
+    {
         name: 'TrackingCoder',
         description: 'Set up website tracking in 2 minutes, not 2 hours.',
         categories: ['Analytics', 'Marketing', 'Tooling'],
@@ -432,7 +488,7 @@ export const resources: Resource[] = [
     {
         name: 'TranscriptFetch',
         description:
-            'Transcript API for YouTube, TikTok, Instagram and podcasts. Clean, timestamped JSON from one call, with AI fallback when there are no captions.',
+            'The transcript API for social media video. Get transcripts at scale from YouTube, TikTok or Instagram.',
         categories: ['Video'],
         url: 'https://transcriptfetch.com',
         keywords: [
@@ -532,6 +588,14 @@ export const resources: Resource[] = [
         url: 'https://teamtreehouse.com/',
     },
     {
+        name: 'Trends Monitor',
+        description:
+            'Trends Monitor tracks Google Trends, rising related queries, saved keywords, daily monitoring and historical snapshots for SEO and product research.',
+        categories: ['Analytics', 'SEO', 'Marketing'],
+        url: 'https://trendsmonitor.net/',
+        keywords: ['Google Trends', 'keyword research', 'rising keywords', 'SEO', 'search trends'],
+    },
+    {
         name: 'Trigger.dev',
         description:
             'Create long-running jobs directly in your codebase with features like API integrations, webhooks, scheduling and delays.',
@@ -591,6 +655,14 @@ export const resources: Resource[] = [
         categories: ['Marketing', 'Social Media'],
         url: 'https://tweethunter.io',
         keywords: ['twitter', 'growth', 'scheduling', 'social media'],
+    },
+    {
+        name: 'TwitterAPI.io',
+        description:
+            'X (Twitter) data API for developers: search tweets, profiles, followers and timelines, real-time streams and webhooks, with MCP and AI SDK tools.',
+        categories: ['Social Media', 'Scraping', 'AI'],
+        url: 'https://twitterapi.io',
+        keywords: ['twitter', 'x', 'twitter api', 'tweets', 'social media data', 'mcp', 'webhooks'],
     },
     {
         name: 'Type Think AI',

@@ -2,6 +2,35 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'MacMD Viewer',
+        description:
+            'Read-only Markdown viewer for macOS 14+ for READMEs, docs and agent-written plans, with Mermaid, syntax highlighting, live reload and Quick Look.',
+        categories: ['Documentation'],
+        url: 'https://macmdviewer.com',
+        keywords: ['markdown', 'markdown viewer', 'mermaid', 'macos', 'quick look'],
+    },
+    {
+        name: 'Macsmith',
+        description:
+            'A native Mac GUI for command-line developer tools. Manage Homebrew, local databases, runtimes, Docker, SSH keys and ports from one app.',
+        categories: ['Tooling', 'Terminal', 'Productivity'],
+        url: 'https://macsmith.app',
+        keywords: [
+            'macos',
+            'gui',
+            'cli',
+            'homebrew',
+            'postgresql',
+            'mysql',
+            'mongodb',
+            'mise',
+            'nvm',
+            'colima',
+            'docker',
+            'ssh keys',
+        ],
+    },
+    {
         name: 'Madza Quizzes',
         description: 'A great resource with 500 free interview questions',
         categories: ['Interview'],
@@ -62,6 +91,14 @@ export const resources: Resource[] = [
             'Powerful Transactional Email APIs that enable you to send, receive, and track emails, built with developers in mind.',
         categories: ['Email', 'Marketing'],
         url: 'https://www.mailgun.com/',
+    },
+    {
+        name: 'MailKite SaaS Starter',
+        description:
+            'MIT-licensed Next.js SaaS starter: self-contained auth (OAuth + email/password, no auth vendor), Stripe subscriptions, teams, Postgres/Drizzle, dark-first UI.',
+        categories: ['Template', 'Open Source', 'Startup'],
+        url: 'https://github.com/mailkite/saas-startup',
+        keywords: ['nextjs', 'saas', 'boilerplate', 'starter kit', 'stripe', 'drizzle', 'authentication', 'typescript'],
     },
     {
         name: 'Majestic',
@@ -203,6 +240,14 @@ export const resources: Resource[] = [
         url: 'https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free',
     },
     {
+        name: 'Materix',
+        description:
+            'Curated directory of AI tools for game developers, organized by task, asset type and engine, with guides and practical workflows.',
+        categories: ['AI', 'Learn', 'Tooling'],
+        url: 'https://materix.org/',
+        keywords: ['game development', 'ai tools directory', 'unity', 'godot', 'unreal'],
+    },
+    {
         name: 'Matomo',
         description: 'Matomo',
         categories: ['Analytics'],
@@ -248,6 +293,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Merlin',
+        description:
+            'Coordinate local Claude Code and Codex agents from Slack, Linear, and GitHub. Assign coding tasks, track progress, and guide agents as a team.',
+        categories: ['AI', 'Tooling', 'Productivity'],
+        url: 'https://usemerlin.ai',
+        keywords: ['claude code', 'codex', 'ai agents', 'coding', 'slack', 'linear', 'github', 'collaboration'],
+    },
+    {
         name: 'Meshr',
         description: 'AI-powered internal linking tool for better SEO & user experience',
         categories: ['SEO', 'Marketing', 'Productivity'],
@@ -287,6 +340,14 @@ export const resources: Resource[] = [
         categories: ['Design', 'UI', 'Inspiration'],
         url: 'https://minimal.gallery/',
         keywords: ['minimal', 'design', 'ui', 'inspiration'],
+    },
+    {
+        name: 'Mirage Cloud IA',
+        description:
+            'Mirage Cloud is an AI platform with 12 specialised agents that automate accounting, HR, finance and sales for French SMEs.',
+        categories: ['AI'],
+        url: 'https://mirage-cloud.com',
+        keywords: ['AI agents for SME', 'French AI SaaS', 'AI CFO tool'],
     },
     {
         name: 'Miruni',
@@ -412,6 +473,22 @@ export const resources: Resource[] = [
         description: 'Morris.js is the library that powers the graphs on http://howmanyleft.co.uk/. It',
         categories: ['Library', 'Programming'],
         url: 'https://morrisjs.github.io/morris.js/',
+    },
+    {
+        name: 'MotionVault.site',
+        description:
+            'Cinematic website templates with live previews, editable source, motion assets and build prompts, plus a read-only MCP toolkit for AI coding tools.',
+        categories: ['Template', 'Animation', 'Tooling'],
+        url: 'https://motionvault.site/',
+        keywords: ['cinematic websites', 'website templates', 'animation', 'motion', 'mcp', 'source code'],
+    },
+    {
+        name: 'Motomarks',
+        description:
+            'Image CDN for car manufacturer logos. One URL for badge, wordmark, or full logo, so app builders stop shipping a private asset folder.',
+        categories: ['CDN', 'Logo', 'Image'],
+        url: 'https://motomarks.io',
+        keywords: ['automotive', 'car', 'manufacturer', 'logo', 'cdn'],
     },
     {
         name: 'MyPerfectResume',

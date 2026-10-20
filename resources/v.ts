@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Vacato',
+        description:
+            'RDAP domain watchlist for developers — scheduled checks and Telegram/email when a taken name looks available. Free 10 domains; alerts only, not a drop-catcher.',
+        categories: ['Domain', 'Tooling'],
+        url: 'https://vacato.io',
+        keywords: ['domain', 'rdap', 'whois', 'watchlist', 'availability', 'telegram', 'dns'],
+    },
+    {
         name: 'Vaiz',
         description: 'One platform for Tasks & Documents',
         categories: ['Productivity', 'Tooling', 'Documentation'],
@@ -109,6 +117,14 @@ export const resources: Resource[] = [
             'Deploy web projects with the best frontend developer experience and highest end-user performance.',
         categories: ['Hosting'],
         url: 'https://vercel.com/',
+    },
+    {
+        name: 'Verva',
+        description:
+            'Verva humanizes AI-generated text into natural writing that bypasses AI detectors while preserving its meaning. For writers, marketers, and creators.',
+        categories: ['AI'],
+        url: 'https://verva.com/',
+        keywords: ['AI humanizer', 'humanize AI text', 'AI detector', 'AI writing', 'content creation', 'rewriting'],
     },
     {
         name: 'Vesta',
@@ -228,6 +244,14 @@ export const resources: Resource[] = [
         categories: ['API Building', 'Tooling'],
         url: 'https://voiden.md',
         keywords: ['api', 'api client', 'api documentation', 'api testing', 'api mocks'],
+    },
+    {
+        name: 'VPS Host Review',
+        description:
+            'Independent VPS hosting reviews from customers, with YABS benchmark comparisons and a provider network report.',
+        categories: ['Hosting', 'Cloud Computing', 'Performance'],
+        url: 'https://vpshostreview.com/',
+        keywords: ['vps', 'hosting', 'reviews', 'benchmark', 'yabs'],
     },
     {
         name: 'Vue Cheatsheet',

@@ -38,16 +38,29 @@ const sponsorsData = (() => {
     }
 })()
 
-const sponsorBlocks = sponsorsData.map(
-    (s) => `<div>
-    <p align="center"><a href="${s.link}"><picture><source media="(prefers-color-scheme: dark)" srcset="./${
-        s.logoDark
-    }" width="${s.width}px"><source media="(prefers-color-scheme: light)" srcset="./${s.logoLight}" width="${
+// `lockup` sponsors uploaded an app icon rather than a horizontal wordmark, so
+// the mark carries no name — the name is drawn beside it instead. GitHub strips
+// inline style, so the whole layout rides attributes its sanitizer keeps:
+// `absmiddle` is real vertical-align middle (plain `middle` is
+// -webkit-baseline-middle, which pins the mark's middle to the text baseline
+// and drops it 6px) and `hspace` is the gap. The line stays a <p>: a heading is
+// the only surviving way to enlarge the name (style/font/big are all stripped),
+// and it listed the sponsor at the top of GitHub's README outline panel.
+// The name is PLAIN TEXT outside the anchor, never a link: inside it rendered in
+// link blue, unlike every wordmark sponsor's mark. The logo keeps the click, and
+// the caption line below already links the same name. No whitespace between the
+// mark and the name either — the gap is hspace alone, so a space would double it.
+const sponsorBlocks = sponsorsData.map((s) => {
+    const picture = `<picture><source media="(prefers-color-scheme: dark)" srcset="./${s.logoDark}" width="${
         s.width
-    }px"><img alt="${s.name} logo" src="./${s.logoDark}" width="${s.width}px"></picture></a></p>
+    }px"><source media="(prefers-color-scheme: light)" srcset="./${s.logoLight}" width="${s.width}px"><img alt="${
+        s.name
+    } logo" src="./${s.logoDark}" width="${s.width}px"${s.lockup ? ' align="absmiddle" hspace="8"' : ''}></picture>`
+    return `<div>
+    <p align="center"><a href="${s.link}">${picture}</a>${s.lockup ? `<b>${s.name}</b>` : ''}</p>
     <p align="center"><a href="${s.link}">${s.name}</a>${s.blurb ? ': ' + s.blurb : ''}</p>
-</div>`,
-)
+</div>`
+})
 
 const sponsors = sponsorBlocks.length
     ? `<div align="center">Sponsored by</div><br/>\n\n${sponsorBlocks.join('<br/>\n\n\n\n')}<br/>\n\n\n\n`

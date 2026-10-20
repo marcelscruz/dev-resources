@@ -170,6 +170,14 @@ export const resources: Resource[] = [
         keywords: ['image to ascii', 'ascii art', 'braille art', 'client-side', 'local-first', 'privacy'],
     },
     {
+        name: 'Sengi Runners',
+        description:
+            'Managed Ubuntu x64 runners for GitHub Actions. Fresh VM per job, 2/4/8 vCPU, execution-minute billing, and a cardless monthly free allowance.',
+        categories: ['Cloud Computing', 'Testing', 'Tooling'],
+        url: 'https://sengi.run/',
+        keywords: ['github actions', 'ci', 'cicd', 'runners', 'linux', 'ubuntu'],
+    },
+    {
         name: 'SEO Blueprint',
         description: 'Cutting-edge SEO tactics that are actually ranking websites.',
         categories: ['SEO'],
@@ -269,6 +277,14 @@ export const resources: Resource[] = [
         keywords: ['Performance', 'Uptime', 'Monitoring', 'Status Page', 'Web Vitals', 'SSL', 'HTTP(s)', 'DNS'],
     },
     {
+        name: 'SFXMint',
+        description:
+            'CC0 AI-generated and synthesized sound effects for apps and games, with a free library, API, MCP server, CLI, and optional paid generation.',
+        categories: ['Audio', 'UI', 'Tooling'],
+        url: 'https://sfxmint.com/',
+        keywords: ['sound effects', 'web audio', 'game audio', 'api', 'mcp', 'cli'],
+    },
+    {
         name: 'Shadcn Templates',
         categories: ['Template', 'UI', 'Design'],
         description: 'A collection of Shadcn UI templates, components, boilerplates, and more.',
@@ -313,6 +329,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'ShareScan',
+        description:
+            'Check Open Graph tags and image URLs across up to 10 pages at once, for free and without an account. Optional monitoring and paid plans are available.',
+        categories: ['SEO', 'Testing', 'Tooling'],
+        url: 'https://sharescan.io/',
+        keywords: ['open graph', 'meta tags', 'link previews', 'social sharing', 'website testing'],
+    },
+    {
         name: 'Sheets 2 API',
         description:
             'Convert Google Sheets to JSON API - Speed up your prototyping by skipping API development and using Google Sheets instead.',
@@ -343,6 +367,14 @@ export const resources: Resource[] = [
         url: 'https://shipped.club',
     },
     {
+        name: 'Shipvela',
+        description:
+            'Host static websites and React/Vite frontends from GitHub or the CLI, with custom domains and managed HTTPS.',
+        categories: ['Hosting', 'Cloud Computing'],
+        url: 'https://shipvela.com/',
+        keywords: ['static hosting', 'react', 'vite', 'github', 'cli', 'deployment', 'https'],
+    },
+    {
         name: 'ShopTalkShow',
         description: 'A weekly podcast about just building websites from Dave Rupert and Chris Coyier.',
         categories: ['Podcast', 'Programming'],
@@ -356,14 +388,6 @@ export const resources: Resource[] = [
         categories: ['Marketing', 'Social Media'],
         url: 'https://shortimize.com',
         keywords: ['tiktok', 'instagram', 'track videos', 'discover viral content', 'viral shorts'],
-    },
-    {
-        name: 'ShotLab',
-        description:
-            'Make your screenshots stand out with stunning backgrounds, frames, cool stickers, emojis, and more. No design skills required.',
-        categories: ['Prototyping', 'Screenshot'],
-        url: 'https://shotlab.pro/',
-        keywords: ['mockup', 'design', 'social', 'marketing'],
     },
     {
         name: 'Shots',
@@ -579,6 +603,13 @@ export const resources: Resource[] = [
         url: 'https://snappify.io/',
     },
     {
+        name: 'SnappyKit',
+        description:
+            '40+ free browser-based image tools with a developer focus: favicon/ICO generation, image-to-Base64, image-to-PDF, plus 40+ conversion pairs (incl. HEIC), compression, resizing and EXIF cleanup. All processing runs client-side; files never leave the device.',
+        categories: ['Image', 'Design', 'Productivity'],
+        url: 'https://snappykit.site',
+    },
+    {
         name: 'Snipit',
         description: 'Save and organize your code snippets in the cloud. Share and collaborate with your team members.',
         categories: ['Code Snippet'],
@@ -632,6 +663,14 @@ export const resources: Resource[] = [
         description: 'Random data generator supports CSV, JSON, SQL, and XML formats.',
         categories: ['Tooling'],
         url: 'https://softwium.com/mockium/',
+    },
+    {
+        name: 'SolidPing',
+        description:
+            'Open-source uptime monitoring: 40+ check types, status pages, incidents and alerts. Self-host it or use the hosted free plan.',
+        categories: ['Open Source', 'Performance', 'Tooling'],
+        url: 'https://www.solidping.io/',
+        keywords: ['uptime monitoring', 'status page', 'synthetic monitoring', 'self-hosted'],
     },
     {
         name: 'SoloLearn',
@@ -839,14 +878,6 @@ export const resources: Resource[] = [
             'A gallery of outstanding early-stage companies, fresh jobs and funding news curated in one place.',
         categories: ['Learn', 'Job', 'Remote'],
         url: 'https://startups.gallery/',
-    },
-    {
-        name: 'Statable',
-        description:
-            'Cookieless web analytics built and hosted in the European Union. Reports visitors, traffic sources, campaigns, goals and funnels without setting cookies or storing persistent identifiers, so there is no consent gate to configure. The tracking script ranges from 504 to 1,855 bytes compressed depending on which features a site enables, and the data is queryable through a documented REST API with an OpenAPI spec.',
-        categories: ['Analytics'],
-        url: 'https://statable.com',
-        keywords: ['web analytics', 'cookieless', 'privacy', 'eu hosted', 'api'],
     },
     {
         name: 'Stormkit',

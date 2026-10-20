@@ -29,6 +29,14 @@ export const resources: Resource[] = [
         url: 'https://usefathom.com/',
     },
     {
+        name: 'favicondl',
+        description:
+            "Find and download any website's favicon in its best available size (SVG, PNG, ICO), bulk-download up to 100 sites, or call the free no-key favicon API.",
+        categories: ['Icon', 'Image', 'Tooling'],
+        url: 'https://favicondl.com',
+        keywords: ['favicon', 'favicon downloader', 'favicon extractor', 'favicon api', 'website icon', 'mcp'],
+    },
+    {
         name: 'Feather',
         description:
             'Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.',
@@ -317,9 +325,7 @@ export const resources: Resource[] = [
             'webfont',
             'icon font',
             'font generator',
-            'SVG to WOFF2',
             'color glyphs',
-            'monochrome icons',
             'custom icons',
         ],
     },
@@ -386,6 +392,14 @@ export const resources: Resource[] = [
         url: 'https://fontspark.com/',
     },
     {
+        name: 'ForgeSprite',
+        description:
+            'AI game art workspace for static 2D sprites, props and icons, with reference-image editing and browser tools to pack, cut and resize sprite sheets.',
+        categories: ['AI', 'Image', 'Tooling'],
+        url: 'https://forgesprite.com/',
+        keywords: ['game development', '2d sprites', 'game assets', 'sprite sheets'],
+    },
+    {
         name: 'Format JSON Online',
         description: 'A Complete Toolkit for JSON & Data Processing.',
         categories: ['Productivity', 'Tooling'],
@@ -397,6 +411,24 @@ export const resources: Resource[] = [
         description: 'Easily build single- and multi-step forms with auto-generated client- and server-side code.',
         categories: ['Code Snippet'],
         url: 'https://formcn.dev/',
+    },
+    {
+        name: 'Formfeed',
+        description:
+            'PDF and image generation API. HTML templates in Jinja2, Liquid or Handlebars, or your own Word files, rendered by one API call. EU-hosted, free plan.',
+        categories: ['Tooling', 'Template', 'Image'],
+        url: 'https://formfeed.dev',
+        keywords: [
+            'pdf',
+            'html to pdf',
+            'pdf api',
+            'document generation',
+            'invoice',
+            'jinja2',
+            'liquid',
+            'handlebars',
+            'mcp',
+        ],
     },
     {
         name: 'FoundRole',

@@ -237,6 +237,14 @@ export const resources: Resource[] = [
         url: 'https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm',
     },
     {
+        name: 'wheretosubmit',
+        description:
+            'A curated directory of 500+ launch platforms and backlink sites, tagged with pricing, DR, traffic, and first-hand submission tips.track what you submitted',
+        categories: ['SEO'],
+        url: 'https://wheretosubmit.org',
+        keywords: ['seo'],
+    },
+    {
         name: 'Widget.video',
         description: 'Embed interactive video widgets to your landing page',
         categories: ['Video', 'Marketing', 'Analytics'],

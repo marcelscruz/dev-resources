@@ -174,21 +174,12 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'DepthFeed',
+        name: 'DeepZero',
         description:
-            'Historical and live prediction-market order-book data APIs and MCP for backtesting Polymarket, Kalshi, Limitless, and Predict.fun.',
-        categories: ['Analytics', 'AI', 'Web3'],
-        url: 'https://depthfeed.com',
-        keywords: [
-            'prediction markets',
-            'order book',
-            'backtesting',
-            'market data',
-            'api',
-            'mcp',
-            'polymarket',
-            'kalshi',
-        ],
+            'MIT-licensed Python engine for building resumable security-analysis pipelines with custom processors, Ghidra, Semgrep, and optional LLM assessment.',
+        categories: ['Security', 'Open Source', 'Tooling'],
+        url: 'https://blog.ahmadz.ai/DeepZero/en/',
+        keywords: ['python', 'pipeline', 'reverse engineering', 'windows drivers', 'ghidra', 'semgrep'],
     },
     {
         name: 'Design Resources',
@@ -280,6 +271,24 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Dev Tools',
+        description:
+            '600+ free developer tools in the browser: JSON, Base64, regex, JWT, cron, subnet, SQL, PDF and image utilities. Most run client-side, no sign-up.',
+        categories: ['Tooling', 'Productivity', 'Programming'],
+        url: 'https://tools.bubble.ro/',
+        keywords: [
+            'json formatter',
+            'base64',
+            'regex tester',
+            'jwt decoder',
+            'cron',
+            'subnet calculator',
+            'developer tools',
+            'online tools',
+            'privacy',
+        ],
+    },
+    {
         name: 'devChallenges',
         description:
             'devChallenges.io is a community and a platform for anyone who wants to become a Software Engineer by building real-life projects and solving practical tasks. devChallenges.io is built with the goal of enabling you to build an outstanding portfolio.',
@@ -348,6 +357,14 @@ export const resources: Resource[] = [
         categories: ['AI', 'Code Generator', 'Productivity'],
         url: 'https://dhiwise.com/',
         keywords: ['android', 'kotlin', 'node.js', 'sql', 'no-sql', 'design to code'],
+    },
+    {
+        name: 'dif',
+        description:
+            'Feature flags and A/B tests as Markdown files in your git repo. A CLI validates them and compiles a typed TypeScript client. Open source, no signup.',
+        categories: ['Open Source', 'Testing', 'Tooling'],
+        url: 'https://www.dif.sh',
+        keywords: ['feature flags', 'ab testing', 'experimentation', 'cli', 'typescript'],
     },
     {
         name: 'Diploi',
@@ -510,6 +527,14 @@ export const resources: Resource[] = [
         categories: ['Website Builder'],
         url: 'https://www.drupal.org/',
         keywords: ['website builder', 'content management system', 'CMS', 'open source'],
+    },
+    {
+        name: 'DSH Plugins',
+        description:
+            'An independent, human-reviewed directory for discovering DeepSeek Harness plugins, comparing installation paths, and inspecting public source and README notes.',
+        categories: ['AI', 'Open Source', 'Programming'],
+        url: 'https://dshplugins.com/',
+        keywords: ['DeepSeek Harness', 'plugins', 'plugin directory', 'AI agents', 'developer tools'],
     },
     {
         name: 'dygraphs',

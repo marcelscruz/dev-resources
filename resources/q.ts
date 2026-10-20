@@ -17,11 +17,10 @@ export const resources: Resource[] = [
     },
     {
         name: 'Quicklisting',
-        description:
-            'Done-for-you growth marketing for tech startups. From content and SEO to backlinks and design, Quicklisting helps you scale without hiring full-time.',
-        categories: ['Marketing', 'SEO', 'Design'],
-        url: 'https://quicklist.ing',
-        keywords: ['fractional marketing', 'directory submissions'],
+        description: 'Auto-submit to 50+ directories',
+        categories: ['Marketing'],
+        url: 'https://quicklisting.tech',
+        keywords: ['marketing', 'SEO', 'directories'],
     },
     {
         name: 'Quokka.js',

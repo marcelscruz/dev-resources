@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Jaabz',
+        description:
+            'Tech job board with filters for remote, visa sponsorship, and relocation roles for international candidates.',
+        categories: ['Job', 'Remote'],
+        url: 'https://jaabz.com/',
+        keywords: ['remote jobs', 'visa sponsorship', 'relocation', 'tech jobs'],
+    },
+    {
         name: 'Jam',
         description: '890+ handcrafted SVG icons to make your web app awesome.',
         categories: ['Icon'],
@@ -36,6 +44,14 @@ export const resources: Resource[] = [
         url: 'https://iq.js.org/',
     },
     {
+        name: 'JavaScript Tools',
+        description:
+            'JSTools.Space is a growing collection of privacy-first online developer tools for everyday programming, testing, debugging, writing, and data work.',
+        categories: ['Productivity'],
+        url: 'https://www.jstools.space/',
+        keywords: ['javascript', 'tool', 'json', 'jwt', 'security'],
+    },
+    {
         name: 'JavaScript Tutorial',
         categories: ['Learn'],
         description:
@@ -62,6 +78,14 @@ export const resources: Resource[] = [
         url: 'https://jestjs.io/',
     },
     {
+        name: 'JFmt',
+        description:
+            'Free JSON formatter, validator and viewer that runs in the browser. Repair, diff, JSONPath and conversion to CSV, XML, YAML and TOML. Nothing is uploaded.',
+        categories: ['Tooling'],
+        url: 'https://jfmt.dev',
+        keywords: ['JSON', 'formatter', 'validator', 'converter'],
+    },
+    {
         name: 'JobBoardSearch 🔎',
         categories: ['Job'],
         description:
@@ -78,12 +102,12 @@ export const resources: Resource[] = [
         keywords: ['remote jobs', 'remote work', 'jobs', 'employment'],
     },
     {
-        name: 'JobsPipe',
+        name: 'Jobs in Javascript',
         description:
-            'Job postings from 30+ ATS and job boards, deduplicated into one JSON schema with salary, seniority and tech stack fields. REST API, CLI and Python/Go SDKs.',
-        categories: ['Job', 'Scraping'],
-        url: 'https://jobspipe.dev',
-        keywords: ['jobs api', 'job postings', 'job data', 'ats', 'tech stack'],
+            'A job board for the Javascript industry. Filter by experience level or location. 100% free, no sign-up required.',
+        categories: ['Job'],
+        url: 'https://jobsinjs.com/',
+        keywords: ['javascript', 'jobs', 'job board'],
     },
     {
         name: 'Jobspresso',

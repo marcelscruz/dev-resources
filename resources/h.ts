@@ -240,14 +240,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'HorizonX',
-        description:
-            'Premium UI and code library for vibe coders, designers, and developers, with Figma assets, components, coded templates, and interactive tools.',
-        categories: ['Library', 'UI', 'Design'],
-        url: 'https://horizonx.so',
-        keywords: ['ui components', 'design system', 'figma', 'react', 'tailwind css', 'vibe coding'],
-    },
-    {
         name: 'Hostinger Website Builder',
         description:
             'Create a website or an online store easily with Hostinger Website Builder (formerly Zyro). Choose from hundreds of designer-made templates and launch your website in minutes.',

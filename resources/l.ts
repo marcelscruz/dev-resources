@@ -2,22 +2,6 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
-        name: 'LabEx',
-        description:
-            'Hands-on online learning platform for Linux, DevOps, cybersecurity, programming, data science, and more through interactive labs.',
-        categories: ['Learn', 'Programming'],
-        url: 'https://labex.io',
-        keywords: ['hands-on labs', 'linux', 'devops', 'cybersecurity', 'programming'],
-    },
-    {
-        name: 'Lacuna',
-        description:
-            'AI music platform with a developer API: generate full songs with vocals and lyrics, or instrumentals, plus stem separation and mastering. Official TypeScript SDK, CLI, and MCP server on npm.',
-        categories: ['Audio', 'AI'],
-        url: 'https://lacuna.fm',
-        keywords: ['music', 'audio', 'generation', 'api'],
-    },
-    {
         name: 'Ladybug',
         description: 'We’re debugging the tech industry. Every Monday.',
         categories: ['Podcast', 'Programming'],
@@ -326,14 +310,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'Live Tennis API',
-        description:
-            'Tennis data API with live scores (serving and break-point state), player rankings, fixtures, and match history; free keyed tier available.',
-        categories: ['Analytics', 'Tooling'],
-        url: 'https://livetennisapi.com',
-        keywords: ['tennis', 'live scores', 'sports data', 'rankings', 'fixtures', 'api'],
-    },
-    {
         name: 'Lobsters',
         description: 'Lobsters is a computing-focused community centered around link aggregation and discussion.',
         categories: ['Forum'],
@@ -361,13 +337,6 @@ export const resources: Resource[] = [
             'cloud emulator',
             'serverless',
         ],
-    },
-    {
-        name: 'Loggd',
-        description: 'Habit tracker and planner that helps you actually stick with it',
-        categories: ['Productivity', 'Tooling', 'Startup'],
-        url: 'https://loggd.life/',
-        keywords: ['habit tracker', 'planner', 'task management', 'goal tracking'],
     },
     {
         name: 'LogoInspo',

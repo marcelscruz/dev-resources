@@ -53,6 +53,24 @@ export const resources: Resource[] = [
         keywords: ['video editor'],
     },
     {
+        name: 'Caprock',
+        description:
+            'Open-source local dashboard for Claude Code, Codex, OpenCode and Gemini CLI: live activity, cost per repo, loop alerts, searchable history. No telemetry.',
+        categories: ['AI', 'Analytics', 'Open Source'],
+        url: 'https://caprock.dev',
+        keywords: [
+            'claude code',
+            'codex',
+            'opencode',
+            'gemini cli',
+            'ai coding agents',
+            'token usage',
+            'cost tracking',
+            'dashboard',
+            'local-first',
+        ],
+    },
+    {
         name: 'Carbon',
         description: 'Carbon is the easiest way to create and share beautiful images of your source code.',
         categories: ['Code Snippet', 'Screenshot'],
@@ -169,6 +187,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'prompts'],
     },
     {
+        name: 'ChatGpt Resume builder',
+        description:
+            '> ResumUp is an all-in-one AI career platform designed to help job seekers land more interviews with less effort. The platform enables users to create professio',
+        categories: ['Resume'],
+        url: 'https://chatgptresume.com/',
+        keywords: ['Tailor to any job description', 'optimize for ATS', 'and write compelling cover letters'],
+    },
+    {
         name: 'Chatim',
         description:
             'Chatim is a live chat with a chatbot automation platform that lets you connect with customers anywhere, anytime',
@@ -240,6 +266,14 @@ export const resources: Resource[] = [
             'Choc UI is a set of accessible and reusable components that are commonly used in web applications.',
         categories: ['Library', 'Programming', 'UI'],
         url: 'https://choc-ui.com/',
+    },
+    {
+        name: 'Chord',
+        description:
+            'DEX aggregator API: best-route swap quotes split across DEXs and unsigned swap transactions on Base, Arbitrum, BNB Chain, Avalanche, Monad and more.',
+        categories: ['Web3'],
+        url: 'https://getchord.xyz',
+        keywords: ['dex aggregator', 'swap api', 'defi', 'evm', 'base', 'arbitrum', 'web3'],
     },
     {
         name: 'Chrome',
@@ -371,6 +405,24 @@ export const resources: Resource[] = [
         description: 'Learn the command line.',
         categories: ['Terminal'],
         url: 'https://cmdchallenge.com/',
+    },
+    {
+        name: 'Coddy',
+        description:
+            'Learn to code with free interactive courses, in-browser playgrounds and coding challenges in Python, JavaScript, SQL, C++, Java and 20+ more.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://coddy.tech',
+        keywords: [
+            'learn to code',
+            'coding courses',
+            'interactive',
+            'python',
+            'javascript',
+            'sql',
+            'online compiler',
+            'playground',
+            'beginner',
+        ],
     },
     {
         name: 'Code to go',
@@ -626,6 +678,14 @@ export const resources: Resource[] = [
             'Share code in real-time with developers in your browser. An online code editor for interviews, troubleshooting, teaching.',
         categories: ['Editor', 'Programming'],
         url: 'https://codeshare.io/',
+    },
+    {
+        name: 'CodeToPDF',
+        description:
+            'Fast, free, and modern online utilities. Format JSON, convert code to PDF, decode JWTs, generate UUIDs, test regex — and much more.',
+        categories: ['Programming'],
+        url: 'https://www.codetopdf.com',
+        keywords: ['codetopdf', 'htmltopdf', 'mdtopdf'],
     },
     {
         name: 'CodeTriage',
@@ -1060,6 +1120,14 @@ export const resources: Resource[] = [
         url: 'https://coreui.io/',
     },
     {
+        name: 'Cortex',
+        description:
+            'Generate interactive API documentation, typed SDKs, and MCP servers from API specifications and Markdown.',
+        categories: ['API Building', 'Documentation', 'Tooling'],
+        url: 'https://cortexdocs.dev',
+        keywords: ['openapi', 'asyncapi', 'graphql', 'grpc', 'openrpc', 'sdk', 'mcp'],
+    },
+    {
         name: 'CouchDB',
         description:
             'CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice.',
@@ -1241,6 +1309,14 @@ export const resources: Resource[] = [
         categories: ['AI', 'Programming', 'Testing'],
         url: 'https://cubic.dev/',
         keywords: ['dev tools', 'developer tools', 'artificial intelligence', 'code review', 'ai code reviewer'],
+    },
+    {
+        name: 'CurlShot',
+        description:
+            'Screenshot API that turns any URL, HTML or Markdown into a PNG, JPEG, WebP, PDF or scrolling video, rendered in a real browser. Free plan, no card.',
+        categories: ['Screenshot', 'Image', 'AI'],
+        url: 'https://curlshot.com',
+        keywords: ['screenshot api', 'website screenshot', 'html to pdf', 'html to image', 'og image', 'mcp server'],
     },
     {
         name: 'Customer.io',

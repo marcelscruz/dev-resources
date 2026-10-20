@@ -45,6 +45,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'barcodegen.net',
+        description:
+            'Free online barcode generator and image API for 35 symbologies: Code 128, EAN-13, UPC-A, QR Code, Data Matrix, PDF417. No API key, signup or watermark.',
+        categories: ['API Building', 'Image', 'Tooling'],
+        url: 'https://www.barcodegen.net/',
+        keywords: ['barcode', 'qr code', 'ean-13', 'upc-a', 'code 128', 'image api', 'svg'],
+    },
+    {
         name: 'Barra',
         description: 'Website Toolbar Built to Improve Conversion rate by simplifying UX',
         categories: ['Marketing', 'UX', 'Analytics'],
@@ -52,12 +60,19 @@ export const resources: Resource[] = [
         keywords: ['navigation bar', 'action bar', 'offer bar', 'floating action bar'],
     },
     {
-        name: 'Base Converter',
+        name: 'BatchSet',
         description:
-            'Convert numbers between binary, octal, decimal and hexadecimal instantly, with input validation and prefix support. 100% client-side, no signup required.',
-        categories: ['Programming', 'Tooling'],
-        url: 'https://nutilz.com/base-converter',
-        keywords: ['base converter', 'binary to decimal', 'hex converter', 'octal converter', 'number base conversion'],
+            'Bulk image converter in the browser: WebP, AVIF, HEIC, JPG and PNG, compress to an exact KB, resize. Includes a website image auditor. No upload.',
+        categories: ['Image', 'Performance'],
+        url: 'https://batchset.com',
+        keywords: [
+            'webp converter',
+            'avif',
+            'heic to jpg',
+            'image compression',
+            'bulk image converter',
+            'image optimization',
+        ],
     },
     {
         name: 'Bazzly',

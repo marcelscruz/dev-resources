@@ -75,6 +75,14 @@ export const resources: Resource[] = [
         url: 'https://www.raycast.com',
     },
     {
+        name: 'REA',
+        description:
+            'Local CLI and MCP tools for agents to inspect binaries and JavaScript/Electron apps with evidence. Deep native analysis needs Hopper, Ghidra, or IDA.',
+        categories: ['AI', 'Security', 'Tooling'],
+        url: 'https://rea.tools',
+        keywords: ['reverse engineering', 'binary analysis', 'electron', 'mcp', 'cli'],
+    },
+    {
         name: 'React Bits',
         description:
             'A large collection of animated React components made to spice up your web creations. Animations, components, backgrounds, and awesome stuff with customization options as props.',
@@ -313,6 +321,23 @@ export const resources: Resource[] = [
         keywords: ['github', 'repo', 'repository', 'traffic'],
     },
     {
+        name: 'ReqKey',
+        description:
+            'ReqKey validates API keys, meters credits, enforces rate limits, and logs every request — from a single SDK call inside your own middleware.',
+        categories: ['API Building'],
+        url: 'https://www.reqkey.com',
+        keywords: [
+            'api keys',
+            'authentication',
+            'rate limits',
+            'usage metering',
+            'api analytics',
+            'developer tools',
+            'sdk',
+            'saas',
+        ],
+    },
+    {
         name: 'Requestly',
         categories: ['API Building', 'Tooling'],
         description: 'Build and test APIs faster. Lightweight Git-friendly API client built for modern developers.',
@@ -389,6 +414,14 @@ export const resources: Resource[] = [
         url: 'https://resume.io',
     },
     {
+        name: 'ResumeAI',
+        description:
+            'Free ATS resume checker (3/day anonymous, 10/day free account) plus the open State of ATS 2026 employer dataset.',
+        categories: ['Resume', 'Job'],
+        url: 'https://withresumeai.com/',
+        keywords: ['ats', 'resume checker', 'job search', 'ats score'],
+    },
+    {
         name: 'ResumeBoostAI',
         description: 'Create a professional resume using AI.',
         categories: ['Resume', 'AI'],
@@ -454,6 +487,14 @@ export const resources: Resource[] = [
         categories: ['AI', 'API Building', 'Tooling'],
         url: 'https://routerbase.com',
         keywords: ['ai', 'api', 'llm', 'openai-compatible', 'ai gateway', 'model routing', 'developer tools'],
+    },
+    {
+        name: 'RowSafe',
+        description:
+            'PostgreSQL backups, point-in-time recovery and scheduled restore tests for developers, with an open-source agent and CLI.',
+        categories: ['Database', 'Storage', 'Tooling'],
+        url: 'https://rowsafe.sh',
+        keywords: ['postgresql', 'backup', 'recovery', 'restore testing', 'database'],
     },
     {
         name: 'RubyMine',

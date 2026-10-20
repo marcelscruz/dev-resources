@@ -52,19 +52,27 @@ export const resources: Resource[] = [
         keywords: ['cro', 'conversion rate optimization', 'landing pages', 'cro audit'],
     },
     {
-        name: 'ParlayAPI',
-        description:
-            'Sports odds REST API for private research tools. Each user supplies their own API key. Free tier: 1,000 credits/month. No public data redistribution.',
-        categories: ['Programming', 'Tooling'],
-        url: 'https://parlay-api.com',
-        keywords: ['sports odds', 'REST API', 'Python', 'private research'],
-    },
-    {
         name: 'PassVult',
         description: 'Most private password manager',
         categories: ['Productivity', 'Security', 'Startup'],
         url: 'https://passvult.com',
         keywords: ['cybersecurity', 'password manager', 'privacy', 'loyalty card'],
+    },
+    {
+        name: 'PastAGI',
+        description:
+            'Practical AI engineering publication: LLM inference cost audits, serving math, eval methodology, and tool reviews with verifiable numbers.',
+        categories: ['Blog', 'AI'],
+        url: 'https://pastagi.com',
+        keywords: ['ai engineering', 'llm', 'inference cost', 'evals', 'tutorials'],
+    },
+    {
+        name: 'Patronus Protect',
+        description:
+            'Hosted API to detect prompt injection in text, public webpages and documents for AI agents and RAG pipelines. Free tier available.',
+        categories: ['AI', 'Security'],
+        url: 'https://api.patronus.studio',
+        keywords: ['prompt injection', 'agent security', 'RAG', 'API'],
     },
     {
         name: 'Patterninja',
@@ -155,6 +163,14 @@ export const resources: Resource[] = [
         keywords: ['image generation', 'professional photos'],
     },
     {
+        name: 'PhotonConsole',
+        description:
+            'PhotonConsole is a cloud-based SMTP Relay and Email API platform built for developers, startups, SaaS businesses, and enterprises.',
+        categories: ['Blog'],
+        url: 'https://www.photonconsole.com/',
+        keywords: ['email relay'],
+    },
+    {
         name: 'Photopea',
         description:
             'Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures.',
@@ -184,6 +200,22 @@ export const resources: Resource[] = [
         url: 'https://www.jetbrains.com/phpstorm/',
     },
     {
+        name: 'pic2svg',
+        description:
+            'Hosted raster-to-vector converter that turns PNG/JPG images into editable SVG paths and exports PDF, EPS, AI, and DXF for design and CNC workflows.',
+        categories: ['Image', 'Design', 'Logo'],
+        url: 'https://pic2svg.com',
+        keywords: ['image to svg', 'raster to vector', 'png to svg', 'DXF export'],
+    },
+    {
+        name: 'PicPrepper',
+        description:
+            'Browser-based image preparation for web projects: compress, resize, and convert JPG, PNG, and WebP locally without uploading.',
+        categories: ['Image', 'Performance', 'Tooling'],
+        url: 'https://picprepper.com',
+        keywords: ['image compression', 'image resize', 'webp', 'frontend', 'browser-based'],
+    },
+    {
         name: 'Pictify',
         description: 'Pictify.io provides API to convert HTML into image',
         categories: ['Image', 'Programming'],
@@ -196,6 +228,14 @@ export const resources: Resource[] = [
         categories: ['AI', 'Programming', 'Productivity'],
         url: 'https://pieces.app/',
         keywords: ['Productivity', 'Copilot', 'easy snippet search'],
+    },
+    {
+        name: 'Pilot Protocol',
+        description:
+            'Overlay network for AI agents: permanent virtual addresses, encrypted UDP tunnels, NAT traversal, and a trust model — plus an app store of agent-native apps.',
+        categories: ['AI'],
+        url: 'https://pilotprotocol.network',
+        keywords: ['agent networking', 'overlay network', 'NAT traversal', 'p2p', 'app store'],
     },
     {
         name: 'PimpMySnap',
@@ -259,6 +299,14 @@ export const resources: Resource[] = [
         keywords: ['image hosting', 'AI agents', 'screenshot hosting', 'image CDN', 'image transforms'],
     },
     {
+        name: 'PixVibe',
+        description:
+            'Image toolkit for developers and AI agents: compress, convert (HEIC, WebP, AVIF), resize, crop, upscale and remove backgrounds. Free tools run in the browser.',
+        categories: ['Image', 'Performance', 'AI'],
+        url: 'https://pixvibe.ai',
+        keywords: ['image compression', 'image converter', 'webp', 'avif', 'heic', 'background removal', 'AI agents'],
+    },
+    {
         name: 'Planet Cert',
         description:
             'PlanetCert offers professional certification training and exam preparation. Get certified in IT, Project Management, and more with our comprehensive courses.',
@@ -272,14 +320,6 @@ export const resources: Resource[] = [
             'AI exam prep',
             'network associate',
         ],
-    },
-    {
-        name: 'Planomy Tax Data',
-        description:
-            '2026 US federal tax brackets, retirement contribution limits, Social Security, Medicare IRMAA and RMD ages as JSON, each figure cited to its IRS/SSA/CMS source',
-        categories: ['Library', 'Open Source'],
-        url: 'https://github.com/demorphed6-lgtm/planomy-tax-data',
-        keywords: ['tax', 'irs', 'tax brackets', 'dataset', 'open data', 'retirement', '401k', 'ira', 'hsa'],
     },
     {
         name: 'Plausible',
@@ -379,6 +419,22 @@ export const resources: Resource[] = [
         description: 'Ultimate UI Framework.',
         categories: ['UI'],
         url: 'https://www.primefaces.org/',
+    },
+    {
+        name: 'PrintSocket',
+        description:
+            'Send PDFs, ZPL labels and ESC/POS receipts to printers you control, from any language, over a REST API.',
+        categories: ['API Building'],
+        url: 'https://www.printsocket.com',
+        keywords: ['printing', 'cloud printing', 'escpos', 'zpl', 'receipt printer', 'label printer', 'rest api'],
+    },
+    {
+        name: 'Prisma',
+        description:
+            'Prisma ORM, Prisma Postgres (managed PostgreSQL with a free plan, no credit card, zero cold starts) and Prisma Compute hosting for TypeScript apps.',
+        categories: ['Database', 'Hosting', 'Serverless'],
+        url: 'https://www.prisma.io',
+        keywords: ['orm', 'postgres', 'postgresql', 'database', 'hosting', 'typescript', 'serverless', 'free tier'],
     },
     {
         name: 'Prismix',

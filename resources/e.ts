@@ -159,6 +159,25 @@ export const resources: Resource[] = [
         url: 'https://epicreact.dev/',
     },
     {
+        name: 'EveryInfra',
+        description:
+            'One API key for structured data from 90 platforms (RedNote, Douyin, TikTok, Amazon and more), web search and CAPTCHA solving via REST, MCP or SDK.',
+        categories: ['Scraping', 'AI', 'Tooling'],
+        url: 'https://everyinfra.com/en',
+        keywords: [
+            'scraper api',
+            'mcp server',
+            'xiaohongshu',
+            'rednote',
+            'douyin',
+            'tiktok',
+            'amazon',
+            'captcha',
+            'web search',
+            'ai agents',
+        ],
+    },
+    {
         name: 'Everyone Hates Marketers',
         description:
             "It's the antidote to marketing bullshit. Receive a free, 8-lesson video course + a super practical, no-bullshit essay in your inbox every Tuesday.",

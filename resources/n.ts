@@ -52,6 +52,13 @@ export const resources: Resource[] = [
         keywords: ['mobile app testing', 'mobile emulator', 'app testing', 'iOS testing'],
     },
     {
+        name: 'Navarch',
+        description: 'Command a fleet of AI coding agents across every project.',
+        categories: ['AI', 'Tooling', 'Productivity'],
+        url: 'https://sagentlab.com/navarch',
+        keywords: ['coding agents', 'ai agents', 'agent orchestration', 'developer tools', 'claude code'],
+    },
+    {
         name: 'Nearbase',
         description: 'Affordable managed Postgres in Asia',
         categories: ['Database', 'Hosting', 'Cloud Computing'],
@@ -135,20 +142,31 @@ export const resources: Resource[] = [
         keywords: ['developer tool', 'boilerplate', 'starter kit', 'next.js boilerplate'],
     },
     {
-        name: 'Nexus Shell',
-        description:
-            'Native macOS SSH workspace with terminal sessions, two-pane SFTP, server monitoring, Docker tools, encrypted logs, and optional local agent access.',
-        categories: ['Terminal', 'Tooling', 'Remote'],
-        url: 'https://nexusshell.app',
-        keywords: ['ssh', 'sftp', 'macos', 'server monitoring', 'docker', 'mcp', 'remote development'],
-    },
-    {
         name: 'Niche Tools',
         description:
             'Ditch the endless market research and unlock instant access to over 1200+ web tools you can build today',
         categories: ['SEO', 'Marketing'],
         url: 'https://nichetools.net',
         keywords: ['SEO', 'Marketing'],
+    },
+    {
+        name: 'Nick Launches',
+        description:
+            'Launch your product to thousands of builders and earn a permanent dofollow backlink. A no-fluff launch platform for builders and AI startups.',
+        categories: ['Startup'],
+        url: 'https://nicklaunches.com/',
+        keywords: [
+            'launch-platform',
+            'product-discovery',
+            'indie-hackers',
+            'saas',
+            'ai-tools',
+            'developer-tools',
+            'backlinks',
+            'seo',
+            'startup-marketing',
+            'builders',
+        ],
     },
     {
         name: 'Nitric',
@@ -200,6 +218,24 @@ export const resources: Resource[] = [
         url: 'https://notepad-plus-plus.org/',
     },
     {
+        name: 'NotFair',
+        description:
+            'Open-source SEO, GEO, and marketing skills for AI agents like Claude Code and Codex, with a hosted MCP for GA4, Search Console, and ad accounts.',
+        categories: ['SEO', 'Marketing', 'AI'],
+        url: 'https://notfair.co',
+        keywords: [
+            'agent skills',
+            'claude code',
+            'codex',
+            'mcp',
+            'geo',
+            'google ads',
+            'search console',
+            'ga4',
+            'open source',
+        ],
+    },
+    {
         name: 'Noun Project',
         description:
             'Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.',
@@ -213,13 +249,5 @@ export const resources: Resource[] = [
         categories: ['Resume'],
         url: 'https://novoresume.com/',
         keywords: ['professional resume builder'],
-    },
-    {
-        name: 'Nutilz',
-        description:
-            'Free browser-based developer tools including regex tester, JSON formatter, converters, and calculators. No sign-up required.',
-        categories: ['Tooling', 'Productivity', 'Code Generator'],
-        url: 'https://nutilz.com',
-        keywords: ['regex', 'json', 'developer tools', 'converters', 'calculators'],
     },
 ]

@@ -36,6 +36,14 @@ export const resources: Resource[] = [
         url: 'https://www.offen.dev/',
     },
     {
+        name: 'Oh My Android',
+        description:
+            'Free, open-source macOS control panel for the Android Emulator and phones: dark mode, font scale, RTL, TalkBack, Layout Inspector in dp, plus an MCP server.',
+        categories: ['Testing', 'Tooling', 'Accessibility'],
+        url: 'https://royan.se/work/oh-my-android/',
+        keywords: ['android', 'android emulator', 'adb', 'macos', 'mcp', 'layout inspector', 'talkback', 'rtl'],
+    },
+    {
         name: 'Omnara',
         description: 'Command Center for AI Coding Agents',
         categories: ['AI', 'Programming', 'Tooling'],
@@ -61,6 +69,13 @@ export const resources: Resource[] = [
         categories: ['Productivity', 'Security', 'Startup'],
         url: 'https://onlime.app/',
         keywords: ['cloud storage', 'cloud backup', 'file synchronization', 'Privacy and Security'],
+    },
+    {
+        name: 'Online Mini Tools',
+        description:
+            'Free catalog of 2,300+ browser-based utilities for developers and designers, covering JSON and XML formatting, encoders and decoders, validators, CSS and color generators, converters and calculators. Most tools run client-side with no account required.',
+        categories: ['Tooling', 'Productivity'],
+        url: 'https://onlineminitools.com/',
     },
     {
         name: 'OnlineWebFonts',
@@ -152,6 +167,22 @@ export const resources: Resource[] = [
         url: 'https://openchakra.app/',
     },
     {
+        name: 'Openhook',
+        description:
+            'Open-source callback inbox for testing HTTP, email and DNS integrations, with API, MCP and browser inspection; hosted or self-hosted.',
+        categories: ['API Building', 'Testing', 'Open Source'],
+        url: 'https://openhook.dev',
+        keywords: ['webhooks', 'callback testing', 'mcp', 'http', 'email', 'dns'],
+    },
+    {
+        name: 'OpenKline',
+        description:
+            'MIT-licensed TypeScript library for Canvas candlestick charts, indicators and drawing tools, with React and Vue wrappers.',
+        categories: ['Library', 'Open Source', 'UI'],
+        url: 'https://openkline.tech/',
+        keywords: ['typescript', 'canvas', 'candlestick', 'ohlcv', 'react', 'vue'],
+    },
+    {
         name: 'Opensource.Builders',
         description: 'Find open-source alternatives to popular software.',
         categories: ['Open Source'],
@@ -180,6 +211,13 @@ export const resources: Resource[] = [
         url: 'https://www.optimizeimages.com',
     },
     {
+        name: 'Orbi',
+        description:
+            'Takes a labeled GitHub Issue through implementation, an independent review that can block the merge, and a tagged release, with no human in the loop.',
+        categories: ['AI', 'Programming', 'Tooling'],
+        url: 'https://orbi.build/',
+    },
+    {
         name: 'OrcaSheets',
         description:
             'Local-first spreadsheet analytics that processes billions of rows on your PC and adds AI insights while keeping sensitive data under your control.',
@@ -204,6 +242,14 @@ export const resources: Resource[] = [
             'The best Icon Tool. 8613 Free SVG & PNG Icons. Search, organize, edit and download our highly flexible Icons.',
         categories: ['Icon'],
         url: 'https://orioniconlibrary.com/',
+    },
+    {
+        name: 'Orkas',
+        description:
+            'Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. Coordinates Claude Code, Codex and OpenCode.',
+        categories: ['AI', 'Programming', 'Tooling'],
+        url: 'https://orkas.ai/',
+        keywords: ['ai agents', 'coding agents', 'claude code', 'codex', 'opencode', 'open source'],
     },
     {
         name: 'OSINT Researcher',

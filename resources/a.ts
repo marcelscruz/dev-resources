@@ -80,6 +80,14 @@ export const resources: Resource[] = [
         keywords: ['e-commerce', 'advertising', 'ai', 'design'],
     },
     {
+        name: 'Adeli',
+        description:
+            'Unified API to publish to Instagram, TikTok, X, YouTube, and Facebook, with comments, DMs, analytics, and an MCP server for AI agents.',
+        categories: ['Social Media'],
+        url: 'https://www.tryadeli.com',
+        keywords: ['social media api', 'instagram api', 'tiktok api', 'x api', 'youtube api', 'mcp'],
+    },
+    {
         name: 'Adligator',
         description:
             'Adligator - first of all is AI powered aggregator of ads from Facebook, Instagram, fb Messenger and the audience network.',
@@ -131,6 +139,14 @@ export const resources: Resource[] = [
         categories: ['AI', 'Testing', 'Tooling'],
         url: 'https://github.com/vostride/agent-qa',
         keywords: ['ai', 'testing', 'qa', 'web', 'mobile', 'regression testing', 'natural language tests'],
+    },
+    {
+        name: 'AgileHero',
+        description:
+            'Agile project management for software teams: boards, epics, roadmaps, retrospectives, whiteboards and wiki pages, plus a remote MCP server for coding agents.',
+        categories: ['Productivity', 'AI', 'Tooling'],
+        url: 'https://agilehero.io',
+        keywords: ['project management', 'agile', 'kanban', 'scrum', 'tasks tracking', 'mcp', 'ai agents'],
     },
     {
         name: 'Ahrefs',
@@ -213,10 +229,44 @@ export const resources: Resource[] = [
         keywords: ['one pager generator', 'ai one pager generator', 'create one pager', 'one pager template'],
     },
     {
+        name: 'AI Website Prompt Generator',
+        description:
+            'AI Website Prompt Generator is an all-in-one AI platform that helps designers, developers, agencies, and businesses create  professional, SEO-friendly  websites',
+        categories: ['AI'],
+        url: 'https://aiwebsitepromptgenerator.com/',
+        keywords: [
+            'AI web design',
+            'Web design prompt',
+            'website to prompt',
+            'prompt generator',
+            'AI prompt maker',
+            'AI Logo Maker',
+            'AI thumbnail generator',
+        ],
+    },
+    {
         name: 'AI-Text-Humanizer',
         description: 'Transform dull AI-generated text into easy-to-read copy and sound like a real person',
         categories: ['AI', 'Productivity'],
         url: 'https://ai-text-humanizer.com/',
+    },
+    {
+        name: 'Aident Loadout',
+        description:
+            'Hosted MCP server and CLI that connects AI agents like Claude Code, Codex and Cursor to your apps, with 400+ Skills, a credential vault and audit logs.',
+        categories: ['AI', 'Tooling', 'Productivity'],
+        url: 'https://aident.ai',
+        keywords: [
+            'mcp',
+            'mcp server',
+            'ai agents',
+            'claude code',
+            'codex',
+            'cursor',
+            'cli',
+            'integrations',
+            'agent skills',
+        ],
     },
     {
         name: 'Aigazine',
@@ -365,11 +415,27 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'APIClaw',
+        description:
+            'OpenAI-compatible API gateway for coding agents: one key for Claude, GPT, DeepSeek, Qwen, Kimi and GLM on flat monthly plans, no per-token billing.',
+        categories: ['AI', 'API Building'],
+        url: 'https://apiclaw.biz',
+        keywords: ['openai compatible', 'llm gateway', 'ai api', 'claude', 'coding agents', 'flat rate'],
+    },
+    {
         name: 'Apigee',
         description:
             'Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.',
         categories: ['API Building'],
         url: 'https://cloud.google.com/apigee',
+    },
+    {
+        name: 'APISign',
+        description:
+            'E-signature for AI agents: an MCP server, REST API and CLI that send legally binding contracts. $0.25 per contract, 20 free to start, no monthly fee.',
+        categories: ['Legal', 'AI', 'Tooling'],
+        url: 'https://apisign.io',
+        keywords: ['e-signature', 'esign', 'contracts', 'mcp', 'pdf', 'webhooks', 'docusign alternative'],
     },
     {
         name: 'APIVerve',
@@ -405,6 +471,14 @@ export const resources: Resource[] = [
         url: 'https://www.jetbrains.com/objc/',
     },
     {
+        name: 'APPLORE',
+        description:
+            'App icon and store asset tools for app developers: export every iOS, Android and web icon size, generate App Store screenshots, animate a logo into Lottie or SVG, with an archive of 18,000+ real app icons for reference.',
+        categories: ['Icon', 'Design', 'Image'],
+        url: 'https://applore.app',
+        keywords: ['app icon', 'app icon generator', 'app store screenshots', 'lottie', 'ios', 'android', 'icon sizes'],
+    },
+    {
         name: 'AppMockUp',
         description:
             "Use AppMockUp, the world's most powerful screenshot builder to create the most compelling screenshots for your app.",
@@ -426,14 +500,6 @@ export const resources: Resource[] = [
         url: 'https://appwrite.io/',
     },
     {
-        name: 'Apstal',
-        description:
-            'AI-first web analytics with session replay, heatmaps, and conversational AI queries. Free tier available.',
-        categories: ['Analytics', 'AI'],
-        url: 'https://apstal.com',
-        keywords: ['web analytics', 'session replay', 'heatmaps', 'ai analytics', 'privacy analytics'],
-    },
-    {
         name: 'Aptabase',
         description:
             'Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web apps. Get simple and actionable insights without compromising user privacy.',
@@ -448,6 +514,13 @@ export const resources: Resource[] = [
         categories: ['Cloud Computing', 'Productivity'],
         url: 'https://aptakube.com',
         keywords: ['kubernetes'],
+    },
+    {
+        name: 'Archcore',
+        description: 'Git-native context engineering and spec-driven development for AI coding agents.',
+        categories: ['AI', 'Tooling'],
+        url: 'https://archcore.ai',
+        keywords: ['context engineering', 'spec-driven development', 'mcp', 'ai coding agents', 'cli'],
     },
     {
         name: 'ArtboardLab',

@@ -9,6 +9,14 @@ export const resources: Resource[] = [
         url: 'https://neilpatel.com/ubersuggest',
     },
     {
+        name: 'uChecker',
+        description:
+            'Email list verification (Good/Bad/Unknown) plus free SPF/DKIM/DMARC DNS checkers. No signup on the DNS tools.',
+        categories: ['Email', 'Domain', 'Tooling'],
+        url: 'https://uchecker.net',
+        keywords: ['email verification', 'dkim', 'spf', 'dmarc'],
+    },
+    {
         name: 'Udemy',
         description:
             'Udemy is an online learning and teaching marketplace with over 130,000 courses and 35 million students. Learn programming, marketing, data science and more.',
@@ -137,6 +145,14 @@ export const resources: Resource[] = [
         url: 'https://undraw.co/',
     },
     {
+        name: 'Universal Modder Field Guide',
+        description:
+            'Free, independent documentation for Universal Modder: coding-agent setup, game modding routes, and installation troubleshooting.',
+        categories: ['Documentation', 'Learn', 'Programming'],
+        url: 'https://universalmodder.dev/',
+        keywords: ['universal modder', 'game modding', 'claude code', 'codex', 'installation', 'troubleshooting'],
+    },
+    {
         name: 'unlearn.dev',
         description:
             'Unlearn.dev is developer education for the AI era and beyond. It helps engineers turn AI into a 24/7 execution team while strengthening the judgment, architecture, and evaluation skills that make developers irreplaceable.',
@@ -220,6 +236,14 @@ export const resources: Resource[] = [
         categories: ['SEO', 'Tooling', 'Startup'],
         url: 'https://utilportal.com/',
         keywords: ['directory', 'tools', 'development', 'seo'],
+    },
+    {
+        name: 'Uwarp',
+        description:
+            'Free browser UI design tools for developers and designers—SVG, color, icons, mockups, image and audio converters. No signup required.',
+        categories: ['Design', 'UI', 'Tooling'],
+        url: 'https://www.uwarp.design/',
+        keywords: ['design tools', 'svg', 'color', 'icons', 'mockups', 'ui tools'],
     },
     {
         name: 'UXfolio',

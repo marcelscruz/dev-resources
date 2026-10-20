@@ -96,6 +96,27 @@ export const resources: Resource[] = [
         url: 'https://www.designbombs.com/iconsweets2/',
     },
     {
+        name: 'IconVectors',
+        description:
+            'Desktop SVG icon editor for developers with visual editing, icon management, batch processing, code export, and MCP automation.',
+        categories: ['Icon', 'Editor', 'Tooling'],
+        url: 'https://iconvectors.io/',
+        keywords: [
+            'svg',
+            'svg icons',
+            'icon editor',
+            'vector editor',
+            'icon management',
+            'developer tools',
+            'code export',
+            'react',
+            'vue',
+            'xaml',
+            'vectordrawable',
+            'swiftui',
+        ],
+    },
+    {
         name: 'Icônes',
         description: 'Icon Explorer with Instant searching, powered by Iconify',
         categories: ['Icon'],
@@ -109,10 +130,35 @@ export const resources: Resource[] = [
         url: 'https://www.artify.co/illustrations-figma',
     },
     {
+        name: 'Image to ASCII',
+        description:
+            'Convert images locally into ASCII art for READMEs and terminals. Copy text or Markdown; export TXT, PNG, SVG, HTML, or ANSI. Free, no signup.',
+        categories: ['Image', 'Terminal', 'Tooling'],
+        url: 'https://imagetoascii.art/',
+        keywords: ['ascii art', 'image to ascii', 'readme', 'ansi', 'markdown', 'local processing'],
+    },
+    {
         name: 'Img.Upscaler',
         description: 'Upscale and enhance your image by using the latest AI technology. Support batch process.',
         categories: ['AI', 'Image'],
         url: 'https://imgupscaler.com',
+    },
+    {
+        name: 'inboxsink',
+        description:
+            'Disposable email inboxes for end-to-end tests. A wait endpoint blocks until the email arrives and returns the verification code or confirmation link already extracted.',
+        categories: ['Testing'],
+        url: 'https://inboxsink.com',
+        keywords: [
+            'email testing',
+            'disposable email',
+            'otp',
+            'magic link',
+            'playwright',
+            'cypress',
+            'selenium',
+            'e2e',
+        ],
     },
     {
         name: 'IncidentHub',
@@ -176,6 +222,27 @@ export const resources: Resource[] = [
         url: 'https://insomnia.rest/',
     },
     {
+        name: 'inspo ai',
+        description:
+            'AI design intelligence for builders to research UI patterns, explore screens, create moodboards, and generate production-ready interface ideas.',
+        categories: ['Design'],
+        url: 'https://inspoai.io/',
+        keywords: [
+            'AI design',
+            'UI inspiration',
+            'UX research',
+            'design intelligence',
+            'UI patterns',
+            'moodboards',
+            'web design',
+            'app design',
+            'product design',
+            'design system',
+            'AI UI',
+            'frontend',
+        ],
+    },
+    {
         name: 'IntelliJ IDEA',
         description: 'A Capable and Ergonomic Java IDE for Enterprise Java, Scala, Kotlin and much more...',
         categories: ['Editor', 'Programming'],
@@ -202,6 +269,14 @@ export const resources: Resource[] = [
         categories: ['Interview', 'AI'],
         url: 'https://interviewsolver.com',
         keywords: ['interview helper', 'interview solver', 'ai copilot', 'career'],
+    },
+    {
+        name: 'Interview VIP',
+        description:
+            'AI interview coach with realistic practice sessions, voice interaction, and actionable feedback for job candidates.',
+        categories: ['Interview'],
+        url: 'https://interviewvip.com',
+        keywords: ['interview', 'AI', 'career', 'interview coach', 'job search'],
     },
     {
         name: 'InterviewPal',
@@ -241,6 +316,14 @@ export const resources: Resource[] = [
             '2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency.',
         url: 'https://www.ipwho.org',
         keywords: ['ip geolocation api', 'ip location api', 'ip lookup api'],
+    },
+    {
+        name: 'Is It Disposable',
+        description:
+            'Is It Disposable provides disposable email detection to protect your signups and sender reputation.',
+        categories: ['Email'],
+        url: 'https://isitdisposable.com/',
+        keywords: ['Security', 'Developer Tools', 'Productivity'],
     },
     {
         name: 'isecjobs.com',
