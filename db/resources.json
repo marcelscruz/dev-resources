@@ -1,5 +1,5 @@
 {
-"count": 1278,
+"count": 1279,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11895,6 +11895,22 @@
             "Marketing"
         ],
         "url": "https://resend.com/"
+    },
+    {
+        "name": "Reserp",
+        "description": "Google Search API with flat results and structured SERP blocks.",
+        "categories": [
+            "Scraping"
+        ],
+        "url": "https://reserp.ai",
+        "keywords": [
+            "google",
+            "search",
+            "serp",
+            "api",
+            "search results",
+            "structured data"
+        ]
     },
     {
         "name": "Resmume",
