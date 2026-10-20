@@ -227,6 +227,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Binary Backtrace',
+        description:
+            'Browser workbenches for binary analysis: PE disassembly with Win32 emulation, a hex editor with structure templates, a disc image reader.',
+        categories: ['Security', 'Tooling'],
+        url: 'https://binarybacktrace.com',
+        keywords: ['reverse engineering', 'binary analysis', 'hex editor', 'disassembler', 'pe', 'disc image'],
+    },
+    {
         name: 'Biteable',
         description:
             'Make standout videos in a snap with the Biteable video maker. Sparkle with studio-quality animation, footage, and effects. Start now, share in minutes.',
