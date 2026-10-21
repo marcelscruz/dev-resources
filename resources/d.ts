@@ -114,6 +114,14 @@ export const resources: Resource[] = [
         keywords: ['Digital Marketing & SEO Reporting Tool', 'Rank Tracking Software'],
     },
     {
+        name: 'DC Hub',
+        description:
+            'Live data center, power and grid data for AI agents and apps, via 94 MCP tools and a REST API. Free tier needs no key.',
+        categories: ['AI', 'Database'],
+        url: 'https://dchub.cloud',
+        keywords: ['mcp', 'mcp server', 'api', 'data center', 'energy', 'power grid', 'site selection', 'ai agents'],
+    },
+    {
         name: 'DDEV',
         description: 'Docker-based local PHP+Node.js web development environments',
         categories: ['Tooling', 'Open Source', 'Programming'],
