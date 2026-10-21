@@ -23,7 +23,9 @@ jobs:
           import sys
 
           path = 'resources/s.ts'
-          src = open(path, encoding='utf-8').read()
+          raw = open(path, 'rb').read().decode('utf-8')
+          newline = '\r\n' if '\r\n' in raw else '\n'
+          src = raw.replace('\r\n', '\n')
 
           if 'screensize.net' in src:
               print('ScreenSize entry already present; nothing to do.')
@@ -36,9 +38,10 @@ jobs:
           lines = src.split('\n')
           anchor_idx = next(i for i, l in enumerate(lines) if anchor in l)
           name_indent = lines[anchor_idx][:len(lines[anchor_idx]) - len(lines[anchor_idx].lstrip())]
-          brace_indent = name_indent[:-2]
-          close_line = brace_indent + '},'
-          close_idx = next(i for i in range(anchor_idx, len(lines)) if lines[i] == close_line)
+          brace_indent = name_indent[:-2] if len(name_indent) >= 2 else name_indent
+          close_idx = next(i for i in range(anchor_idx, len(lines)) if lines[i].strip() == '},')
+          print('anchor line:', repr(lines[anchor_idx]))
+          print('close line:', repr(lines[close_idx]))
 
           ni = name_indent
           di = name_indent + '  '
@@ -58,7 +61,7 @@ jobs:
               brace_indent + '},',
           ]
           lines[close_idx + 1:close_idx + 1] = entry
-          open(path, 'w', encoding='utf-8').write('\n'.join(lines))
+          open(path, 'w', encoding='utf-8', newline='').write(newline.join(lines))
           print('inserted ScreenSize entry after Screenshot Scout')
           PYEOF
       - name: Verify and push
