@@ -1,5 +1,5 @@
 {
-"count": 1281,
+"count": 1279,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1028,24 +1028,6 @@
         ]
     },
     {
-        "name": "ArtboardLab",
-        "description": "Free browser-based tools that convert Adobe Illustrator .ai files to SVG, PNG or PDF and compress images. Files are processed locally, never uploaded.",
-        "categories": [
-            "Design",
-            "Image",
-            "Tooling"
-        ],
-        "url": "https://artboardlab.com",
-        "keywords": [
-            "illustrator",
-            "ai to svg",
-            "svg",
-            "image compression",
-            "webassembly",
-            "converter"
-        ]
-    },
-    {
         "name": "Artify",
         "description": "Artify is an online and easy-to-use design editor that features thousands of customizable illustrations and template packs.",
         "categories": [
@@ -1562,6 +1544,23 @@
             "bilingual talent",
             "jobs",
             "job"
+        ]
+    },
+    {
+        "name": "Binary Backtrace",
+        "description": "Browser workbenches for binary analysis: PE disassembly with Win32 emulation, a hex editor with structure templates, a disc image reader.",
+        "categories": [
+            "Security",
+            "Tooling"
+        ],
+        "url": "https://binarybacktrace.com",
+        "keywords": [
+            "reverse engineering",
+            "binary analysis",
+            "hex editor",
+            "disassembler",
+            "pe",
+            "disc image"
         ]
     },
     {
@@ -5359,24 +5358,6 @@
             "ui components",
             "ui kits",
             "icon"
-        ]
-    },
-    {
-        "name": "FluentEDI",
-        "description": "Deterministic tools for AI agents over HTTP and MCP, with no API key or signup. Parse, generate and validate X12 EDI (850, 856, 810, 997), compute GS1 and IBAN check digits, do timezone and delivery-window arithmetic, resolve cron schedules, repair malformed JSON with the line and column where it broke, verify Ed25519 signatures, and scan text for leaked credentials.",
-        "categories": [
-            "AI",
-            "Tooling",
-            "Programming"
-        ],
-        "url": "https://fluentedi.com",
-        "keywords": [
-            "edi",
-            "x12",
-            "ai agents",
-            "mcp",
-            "api",
-            "developer tools"
         ]
     },
     {
@@ -11917,22 +11898,6 @@
             "Marketing"
         ],
         "url": "https://resend.com/"
-    },
-    {
-        "name": "Reserp",
-        "description": "Google Search API with flat results and structured SERP blocks.",
-        "categories": [
-            "Scraping"
-        ],
-        "url": "https://reserp.ai",
-        "keywords": [
-            "google",
-            "search",
-            "serp",
-            "api",
-            "search results",
-            "structured data"
-        ]
     },
     {
         "name": "Resmume",
