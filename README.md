@@ -845,6 +845,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://code.visualstudio.com/&sz=128" width="16" /> | [Visual Studio Code](https://code.visualstudio.com/) | Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, ma... |  |
  <img src="https://www.google.com/s2/favicons?domain=https://wallabyjs.com/&sz=128" width="16" /> | [Wallaby.js](https://wallabyjs.com/) | Wallaby.js runs your JavaScript and TypeScript tests immediately as you type in VS Code, WebStorm and other editors, highlighting results next to your code. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.jetbrains.com/webstorm/&sz=128" width="16" /> | [WebStorm](https://www.jetbrains.com/webstorm/) | A powerful IDE for modern JavaScript development with code completion and refactoring for JavaScript, TypeScript, and the most popular web frameworks. |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://wordcraftapp.com/&sz=128" width="16" /> | [WordCraftApp](https://wordcraftapp.com/) | A free, open-source word processor for Windows, macOS, Linux, FreeBSD, and browsers with offline editing and DOCX support. | word processor, document editor, open source, offline writing |
 
 **[⬆ Back to Index](#index)**
 
@@ -1825,6 +1826,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://getvurge.com/&sz=128" width="16" /> | [Vurge](https://getvurge.com/) | It's like Clay but in Google Sheets | google sheets, ai, web scraping, data enrichment, sales |
  <img src="https://www.google.com/s2/favicons?domain=https://webacus.dev&sz=128" width="16" /> | [Webacus](https://webacus.dev) | Webacus is a versatile tool designed specifically for developers. It combines numerous operations that developers frequently need into a single, consistent interface. Instead of Googling and learning ... |  |
  <img src="https://www.google.com/s2/favicons?domain=https://webcurate.co/c/developer&sz=128" width="16" /> | [WebCurate Developer Tools](https://webcurate.co/c/developer) | A hand-curated collection of 380+ best developer tools and resources with detailed descriptions and features. | html, css, javascript, development |
+ <img src="https://www.google.com/s2/favicons?domain=https://wordcraftapp.com/&sz=128" width="16" /> | [WordCraftApp](https://wordcraftapp.com/) | A free, open-source word processor for Windows, macOS, Linux, FreeBSD, and browsers with offline editing and DOCX support. | word processor, document editor, open source, offline writing |
  <img src="https://www.google.com/s2/favicons?domain=https://worktypefocus.com/&sz=128" width="16" /> | [Work Type Focus](https://worktypefocus.com/) | Classify and visualize Jira work to stay focused and foster innovation | agile, sprint planning, work classification, team focus |
 
 **[⬆ Back to Index](#index)**
@@ -2849,6 +2851,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://www.vesta-app.com/&sz=128" width="16" /> | [Vesta](https://www.vesta-app.com/) | Vesta generates content in your style across any of your marketing channels. | ai writing assistant, content marketing, content automation, content creation |
  <img src="https://www.google.com/s2/favicons?domain=https://www.getvoibe.com&sz=128" width="16" /> | [Voibe](https://www.getvoibe.com) | Fast, private, on device AI voice dictation app for Mac | mac dictation, voice to text, speech to text, voice typing |
  <img src="https://www.google.com/s2/favicons?domain=https://websiteheadlines.com/&sz=128" width="16" /> | [Website Headlines (dotcom)](https://websiteheadlines.com/) | Website headline inspiration, categorized. | marketing, copy, copywriting, examples, conversion, cta, title, hero |
+ <img src="https://www.google.com/s2/favicons?domain=https://wordcraftapp.com/&sz=128" width="16" /> | [WordCraftApp](https://wordcraftapp.com/) | A free, open-source word processor for Windows, macOS, Linux, FreeBSD, and browsers with offline editing and DOCX support. | word processor, document editor, open source, offline writing |
  <img src="https://www.google.com/s2/favicons?domain=https://writtyapp.com/&sz=128" width="16" /> | [Writty](https://writtyapp.com/) | A simple writing app and text editor to help you focus on what matters. | writing app, text editor, wysiwyg |
 
 **[⬆ Back to Index](#index)**
