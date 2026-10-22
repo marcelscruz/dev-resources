@@ -398,6 +398,25 @@ export const resources: Resource[] = [
         keywords: ['mockup', 'design', 'social', 'marketing'],
     },
     {
+        name: 'ShubHQ',
+        description:
+            'ShubHQ is an AI growth operator that turns SEO, content, backlinks, rankings, AI visibility and social into one self-running monthly workflow.',
+        categories: ['SEO'],
+        url: 'https://shubhq.com',
+        keywords: [
+            'AI SEO',
+            'growth automation',
+            'AI growth operator',
+            'SEO automation',
+            'content marketing',
+            'backlink analysis',
+            'rank tracking',
+            'AI visibility',
+            'SaaS tools',
+            'ecommerce tools',
+        ],
+    },
+    {
         name: 'Sidebar',
         description: 'The five best design links, every weekday.',
         categories: ['Newsletter', 'Programming'],
