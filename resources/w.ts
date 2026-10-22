@@ -267,6 +267,14 @@ export const resources: Resource[] = [
         url: 'https://www.wix.com/',
     },
     {
+        name: 'WordCraftApp',
+        description:
+            'A free, open-source word processor for Windows, macOS, Linux, FreeBSD, and browsers with offline editing and DOCX support.',
+        categories: ['Editor', 'Productivity', 'Writing'],
+        url: 'https://wordcraftapp.com/',
+        keywords: ['word processor', 'document editor', 'open source', 'offline writing'],
+    },
+    {
         name: 'WordPress',
         description:
             'Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.',
