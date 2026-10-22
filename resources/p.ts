@@ -163,6 +163,19 @@ export const resources: Resource[] = [
         keywords: ['image generation', 'professional photos'],
     },
     {
+        name: 'PhotoCraft',
+        description:
+            'Free, open-source Photoshop alternative built in Rust with layers, masks, smart objects, live type, over 70 live-preview filters and real PSD support. Runs natively on macOS, Windows, Linux and the web.',
+        categories: ['Image', 'Editor', 'Open Source'],
+        url: 'https://photocraftartcraft.com',
+        keywords: [
+            'image editor',
+            'Photoshop alternative',
+            'PSD editor',
+            'open source',
+        ],
+    },
+    {
         name: 'PhotonConsole',
         description:
             'PhotonConsole is a cloud-based SMTP Relay and Email API platform built for developers, startups, SaaS businesses, and enterprises.',
