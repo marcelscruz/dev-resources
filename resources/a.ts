@@ -430,6 +430,22 @@ export const resources: Resource[] = [
         url: 'https://cloud.google.com/apigee',
     },
     {
+        name: 'apimodels.app',
+        description:
+            'OpenAI-compatible API for 150+ image, video, audio and LLM models: automatic channel failover, failed calls not billed, most prices below official rates.',
+        categories: ['AI', 'Image', 'Video'],
+        url: 'https://apimodels.app',
+        keywords: [
+            'openai compatible',
+            'ai api gateway',
+            'llm api',
+            'image generation api',
+            'video generation api',
+            'text to speech api',
+            'mcp',
+        ],
+    },
+    {
         name: 'APISign',
         description:
             'E-signature for AI agents: an MCP server, REST API and CLI that send legally binding contracts. $0.25 per contract, 20 free to start, no monthly fee.',
