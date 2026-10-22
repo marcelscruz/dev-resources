@@ -312,6 +312,14 @@ export const resources: Resource[] = [
         keywords: ['React', 'Angular', 'Admin template', 'bootstrap', 'Vuejs', 'NextJs', 'NuxtJs'],
     },
     {
+        name: 'WordCraftApp',
+        description:
+            'A free, open-source word processor for Windows, macOS, Linux, FreeBSD, and browsers with offline editing and DOCX support.',
+        categories: ['Editor', 'Productivity', 'Writing'],
+        url: 'https://wordcraftapp.com/',
+        keywords: ['word processor', 'document editor', 'open source', 'offline writing'],
+    },
+    {
         name: 'Writty',
         description: 'A simple writing app and text editor to help you focus on what matters.',
         categories: ['Writing'],
