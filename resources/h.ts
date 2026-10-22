@@ -64,6 +64,14 @@ export const resources: Resource[] = [
         url: 'https://app.haikei.app',
     },
     {
+        name: 'Hail',
+        description:
+            'Build with phone numbers in 120 countries. Handle registration, US A2P 10DLC, calls, texts, and email through Hail API or MCP.',
+        categories: ['AI', 'Email', 'Tooling'],
+        url: 'https://hail.so',
+        keywords: ['phone numbers', 'registration', 'voice', 'sms', 'email', 'mcp', 'api', 'cli', 'python', 'sdk'],
+    },
+    {
         name: 'Hanzilla Jobs',
         description:
             'Daily-updated Canadian student and recent-grad software engineering jobs board with internships, co-ops, new grad, junior, and entry-level developer roles.',
