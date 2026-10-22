@@ -1,5 +1,5 @@
 {
-"count": 1282,
+"count": 1283,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11774,6 +11774,23 @@
             "dependency health",
             "version tracking",
             "release monitoring"
+        ]
+    },
+    {
+        "name": "Relomote",
+        "description": "Free remote, hybrid and relocation jobs from company career pages, filtered by the countries each job hires from. Has an MCP server for AI assistants.",
+        "categories": [
+            "Job",
+            "Remote"
+        ],
+        "url": "https://relomote.com",
+        "keywords": [
+            "remote jobs",
+            "relocation jobs",
+            "visa sponsorship",
+            "developer jobs",
+            "job search",
+            "mcp"
         ]
     },
     {
