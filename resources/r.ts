@@ -254,6 +254,14 @@ export const resources: Resource[] = [
         keywords: ['kubernetes', 'devops', 'dependency health', 'version tracking', 'release monitoring'],
     },
     {
+        name: 'Relomote',
+        description:
+            'Free remote, hybrid and relocation jobs from company career pages, filtered by the countries each job hires from. Has an MCP server for AI assistants.',
+        categories: ['Job', 'Remote'],
+        url: 'https://relomote.com',
+        keywords: ['remote jobs', 'relocation jobs', 'visa sponsorship', 'developer jobs', 'job search', 'mcp'],
+    },
+    {
         name: 'Remix Icon',
         description:
             'Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.',
