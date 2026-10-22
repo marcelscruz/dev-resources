@@ -407,6 +407,24 @@ export const resources: Resource[] = [
         url: 'https://cmdchallenge.com/',
     },
     {
+        name: 'Coddy',
+        description:
+            'Learn to code with free interactive courses, in-browser playgrounds and coding challenges in Python, JavaScript, SQL, C++, Java and 20+ more.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://coddy.tech',
+        keywords: [
+            'learn to code',
+            'coding courses',
+            'interactive',
+            'python',
+            'javascript',
+            'sql',
+            'online compiler',
+            'playground',
+            'beginner',
+        ],
+    },
+    {
         name: 'Code to go',
         description: 'Javascript code to go: Find updated snippets for common JavaScript use cases.',
         categories: ['Code Snippet', 'Programming'],
