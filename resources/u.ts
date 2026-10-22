@@ -174,6 +174,13 @@ export const resources: Resource[] = [
         url: 'https://unsplash.com/',
     },
     {
+        name: 'Untitled UI',
+        description:
+            "Untitled UI is the world's largest Figma UI kit and React component library. Kickstart any project with everything you need to design and develop—fast.",
+        categories: ['UI'],
+        url: 'https://www.untitledui.com',
+    },
+    {
         name: 'Untools',
         description:
             'Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.',
