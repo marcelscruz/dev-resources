@@ -360,13 +360,6 @@ export const resources: Resource[] = [
         url: 'https://resend.com/',
     },
     {
-        name: 'Reserp',
-        description: 'Google Search API with flat results and structured SERP blocks.',
-        categories: ['Scraping'],
-        url: 'https://reserp.ai',
-        keywords: ['google', 'search', 'serp', 'api', 'search results', 'structured data'],
-    },
-    {
         name: 'Resmume',
         description: 'Craft the Perfect Resume with AI-Powered Resume Builder.',
         categories: ['Resume'],
