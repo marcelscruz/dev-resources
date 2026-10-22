@@ -55,6 +55,14 @@ export const resources: Resource[] = [
         url: 'https://vectoralix.com',
     },
     {
+        name: 'Vectoree',
+        description:
+            'Give your coding agent a backend: models, auth, Postgres and storage behind one key. Skill + CLI + OpenAI-compatible gateway. Pay-as-you-go.',
+        categories: ['AI', 'Database', 'Authentication'],
+        url: 'https://vectoree.ai',
+        keywords: ['ai agents', 'llm gateway', 'openai-compatible', 'postgres', 'storage', 'cli'],
+    },
+    {
         name: 'VectorElements',
         description:
             'VectorElements offers free and premium vector illustrations, icons, UI kits, textures, and design assets for websites, apps, print, and digital projects.',
@@ -94,8 +102,7 @@ export const resources: Resource[] = [
         name: 'Velocity',
         description: 'On-demand feedback for Figma prototypes',
         categories: ['UX', 'Prototyping', 'Testing'],
-        url:
-            'https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min',
+        url: 'https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min',
         keywords: ['feedback', 'figma', 'plugin', 'design review'],
     },
     {
