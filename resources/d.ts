@@ -154,6 +154,14 @@ export const resources: Resource[] = [
         keywords: ['Angular', 'GraphQL', 'Web Development', 'tutorials'],
     },
     {
+        name: 'deed.page',
+        description:
+            'Static hosting with a REST API and remote MCP server: one PUT publishes HTML or a folder to a permanent HTTPS subdomain, no account needed.',
+        categories: ['Hosting', 'AI', 'Tooling'],
+        url: 'https://deed.page',
+        keywords: ['static hosting', 'deploy', 'mcp', 'ai agents', 'html', 'api', 'claude code', 'cursor', 'codex'],
+    },
+    {
         name: 'DeelFlows',
         description:
             "Deel Flows is a WhatsApp First Marketing Platform that allows businesses to create broadcasts, design customer journeys, and segment users on WhatsApp. It's designed to make WhatsApp marketing more efficient and effective.",
