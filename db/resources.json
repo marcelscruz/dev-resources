@@ -1,5 +1,5 @@
 {
-"count": 1285,
+"count": 1286,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4627,6 +4627,14 @@
             "white label domains",
             "saas infrastructure"
         ]
+    },
+    {
+        "name": "Doodle Icons",
+        "description": "400+ handcrafted icons free for your next project",
+        "categories": [
+            "Icon"
+        ],
+        "url": "https://khushmeen.com/icons.html"
     },
     {
         "name": "Dotnet Gig",
