@@ -456,11 +456,11 @@ export const resources: Resource[] = [
         url: 'https://github.com/antfu/retypewriter',
     },
     {
-        name: 'Reverse Engineering Anything',
+        name: 'Reverse Engineering Anything: Installation Guide',
         description:
-            'Independent REA learning guide with installation help, coding-client setup, CLI reference, troubleshooting, and links to official case studies.',
+            'Independent REA installation walkthrough: prerequisites, MCP client setup, provider selection, first static inspection, and readiness checks.',
         categories: ['Learn', 'Documentation', 'Programming'],
-        url: 'https://reverseengineeringanything.com/',
+        url: 'https://reverseengineeringanything.com/guides/installation/',
         keywords: ['reverse engineering', 'rea', 'learning guide', 'cli', 'coding clients'],
     },
     {
