@@ -1,5 +1,5 @@
 {
-"count": 1286,
+"count": 1287,
 "data": [
     {
         "name": "1001 Fonts",
@@ -12110,6 +12110,23 @@
             "Typing"
         ],
         "url": "https://github.com/antfu/retypewriter"
+    },
+    {
+        "name": "Reverse Engineering Anything: Installation Guide",
+        "description": "Independent REA installation walkthrough: prerequisites, MCP client setup, provider selection, first static inspection, and readiness checks.",
+        "categories": [
+            "Learn",
+            "Documentation",
+            "Programming"
+        ],
+        "url": "https://reverseengineeringanything.com/guides/installation/",
+        "keywords": [
+            "reverse engineering",
+            "rea",
+            "learning guide",
+            "cli",
+            "coding clients"
+        ]
     },
     {
         "name": "Rider",
