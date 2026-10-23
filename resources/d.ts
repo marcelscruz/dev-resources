@@ -470,6 +470,12 @@ export const resources: Resource[] = [
         keywords: ['developer tool', 'custom domains api', 'white label domains', 'saas infrastructure'],
     },
     {
+        name: 'Doodle Icons',
+        description: '400+ handcrafted icons free for your next project',
+        categories: ['Icon'],
+        url: 'https://khushmeen.com/icons.html',
+    },
+    {
         name: 'Dotnet Gig',
         description: 'Find .NET developer jobs',
         categories: ['Job'],
