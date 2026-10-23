@@ -69,6 +69,24 @@ export const resources: Resource[] = [
         keywords: ['ai agents', 'claude code', 'codex', 'multi-agent', 'self-hosted', 'agent orchestration'],
     },
     {
+    name: '8080.ai',
+    description:
+        'Build production-ready software with an AI-native engineering platform. 12+ specialized AI agents collaborate on architecture, coding, testing, and verification to deliver reliable, production-ready applications.',
+    categories: ['AI', 'Developer Tools', 'Software Development'],
+    url: 'https://8080.ai',
+    keywords: [
+        'ai coding agents',
+        'multi-agent system',
+        'ai software development',
+        'ai coding platform',
+        'agentic coding',
+        'automated software engineering',
+        'production-ready code',
+        'spec-driven development',
+        'ai development platform',
+    ],
+},
+    {
         name: '99designs',
         description:
             'The global creative platform for custom graphic design: logos, websites and more. Hire a talented designer or start a design contest. 500k+ happy customers have used 99designs to grow their business.',
