@@ -1,5 +1,5 @@
 {
-"count": 1287,
+"count": 1288,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4137,6 +4137,27 @@
             "GraphQL",
             "Web Development",
             "tutorials"
+        ]
+    },
+    {
+        "name": "deed.page",
+        "description": "Static hosting with a REST API and remote MCP server: one PUT publishes HTML or a folder to a permanent HTTPS subdomain, no account needed.",
+        "categories": [
+            "Hosting",
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://deed.page",
+        "keywords": [
+            "static hosting",
+            "deploy",
+            "mcp",
+            "ai agents",
+            "html",
+            "api",
+            "claude code",
+            "cursor",
+            "codex"
         ]
     },
     {
