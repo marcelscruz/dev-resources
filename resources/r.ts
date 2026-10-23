@@ -457,6 +457,14 @@ export const resources: Resource[] = [
         url: 'https://github.com/antfu/retypewriter',
     },
     {
+        name: 'Reverse Engineering Anything: Installation Guide',
+        description:
+            'Independent REA installation walkthrough: prerequisites, MCP client setup, provider selection, first static inspection, and readiness checks.',
+        categories: ['Learn', 'Documentation', 'Programming'],
+        url: 'https://reverseengineeringanything.com/guides/installation/',
+        keywords: ['reverse engineering', 'rea', 'learning guide', 'cli', 'coding clients'],
+    },
+    {
         name: 'Rider',
         description: 'Develop .NET, ASP.NET, .NET Core, Xamarin or Unity applications on Windows, Mac, Linux.',
         categories: ['Editor', 'Programming'],
