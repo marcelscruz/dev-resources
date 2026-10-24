@@ -10,6 +10,25 @@ export const resources: Resource[] = [
         keywords: ['ai chatbot', 'ai research', 'ai learning', 'education'],
     },
     {
+        name: 'Radian UI',
+        description:
+            'Open-source React components and Figma design system for Designers and Developers building modern web applications.',
+        categories: ['UI'],
+        url: 'https://radianui.com/',
+        keywords: [
+            'React',
+            'Tailwindcss',
+            'design-system',
+            'UI Components',
+            'Enterprise',
+            'SaaS',
+            'Components',
+            'Nextjs',
+            'Radix',
+            'component-library',
+        ],
+    },
+    {
         name: 'Radix',
         description: 'Components, icons, and colors for building high‑quality, accessible UI. Free and open-source.',
         categories: ['Icon', 'UI', 'Design'],
