@@ -1,5 +1,5 @@
 {
-"count": 1290,
+"count": 1291,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11423,6 +11423,26 @@
             "ai research",
             "ai learning",
             "education"
+        ]
+    },
+    {
+        "name": "Radian UI",
+        "description": "Open-source React components and Figma design system for Designers and Developers building modern web applications.",
+        "categories": [
+            "UI"
+        ],
+        "url": "https://radianui.com/",
+        "keywords": [
+            "React",
+            "Tailwindcss",
+            "design-system",
+            "UI Components",
+            "Enterprise",
+            "SaaS",
+            "Components",
+            "Nextjs",
+            "Radix",
+            "component-library"
         ]
     },
     {
