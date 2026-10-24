@@ -16,7 +16,6 @@ export const resources: Resource[] = [
         url: 'https://www.a1.gallery/',
         keywords: ['website design', 'inspiration', 'web', 'gallery'],
     },
-
     {
         name: 'A11y Coffee',
         description: 'The introduction on web accessibility for every single web developer.',
