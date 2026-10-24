@@ -16,6 +16,8 @@ export const resources: Resource[] = [
         url: 'https://www.a1.gallery/',
         keywords: ['website design', 'inspiration', 'web', 'gallery'],
     },
+
+
     {
         name: 'A11y Coffee',
         description: 'The introduction on web accessibility for every single web developer.',
@@ -29,6 +31,13 @@ export const resources: Resource[] = [
         categories: ['Accessibility'],
         url: 'https://a11y-style-guide.com/style-guide/',
     },
+        {
+  name: 'AKCLNT Free APIs',
+  categories: ['API Building'],
+  description: 'Directory of 1,600+ free APIs, re-tested weekly, with status history, health scores and an open JSON catalog.',
+  url: 'https://freeapis.akclnt.com/',
+  keywords: ['api', 'public apis', 'free apis', 'api directory', 'api list'],
+},
     {
         name: 'A11ygator',
         description:
