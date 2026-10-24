@@ -17,7 +17,6 @@ export const resources: Resource[] = [
         keywords: ['website design', 'inspiration', 'web', 'gallery'],
     },
 
-
     {
         name: 'A11y Coffee',
         description: 'The introduction on web accessibility for every single web developer.',
@@ -31,13 +30,6 @@ export const resources: Resource[] = [
         categories: ['Accessibility'],
         url: 'https://a11y-style-guide.com/style-guide/',
     },
-        {
-  name: 'AKCLNT Free APIs',
-  categories: ['API Building'],
-  description: 'Directory of 1,600+ free APIs, re-tested weekly, with status history, health scores and an open JSON catalog.',
-  url: 'https://freeapis.akclnt.com/',
-  keywords: ['api', 'public apis', 'free apis', 'api directory', 'api list'],
-},
     {
         name: 'A11ygator',
         description:
@@ -314,6 +306,14 @@ export const resources: Resource[] = [
         categories: ['AI', 'Tooling'],
         url: 'https://aiwget.com',
         keywords: ['AI', 'tools', 'directory'],
+    },
+    {
+        name: 'AKCLNT Free APIs',
+        description:
+            'Directory of 1,600+ free APIs, re-tested weekly, with status history, health scores and an open JSON catalog.',
+        categories: ['API Building'],
+        url: 'https://freeapis.akclnt.com/',
+        keywords: ['api', 'public apis', 'free apis', 'api directory', 'api list'],
     },
     {
         name: 'All SVG Icons',
