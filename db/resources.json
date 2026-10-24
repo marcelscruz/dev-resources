@@ -1,5 +1,5 @@
 {
-"count": 1289,
+"count": 1290,
 "data": [
     {
         "name": "1001 Fonts",
@@ -12766,6 +12766,23 @@
             "api",
             "mcp",
             "cli"
+        ]
+    },
+    {
+        "name": "Shadcn Dashboard",
+        "description": "ShadcnDashboard.dev combines reusable dashboard components with AI-ready prompts that help developers build faster without sacrificing code quality.",
+        "categories": [
+            "Code Snippet"
+        ],
+        "url": "https://shadcndashboard.dev",
+        "keywords": [
+            "shadcn",
+            "shadcnui",
+            "react",
+            "nextjs",
+            "tailwindcss",
+            "shadcndashboard",
+            "admindashboard"
         ]
     },
     {
