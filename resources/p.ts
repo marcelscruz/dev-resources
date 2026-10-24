@@ -186,6 +186,14 @@ export const resources: Resource[] = [
         url: 'https://www.photoroom.com',
     },
     {
+        name: 'PHP Upgrade Risk Audit',
+        description:
+            'Free WordPress plugin that checks plugins and themes for potential PHP upgrade compatibility risks without uploading source files.',
+        categories: ['CMS', 'Testing', 'Tooling'],
+        url: 'https://modelgain.com/products/php-upgrade-risk-audit/',
+        keywords: ['WordPress', 'PHP upgrade', 'PHP compatibility', 'static analysis'],
+    },
+    {
         name: 'PHPhub',
         description:
             'PHPhub is an online PHP toolbox featuring a code checker, formatter, code fixer, regex tester, and sandbox.',
