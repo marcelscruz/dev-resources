@@ -307,6 +307,14 @@ export const resources: Resource[] = [
         keywords: ['AI', 'tools', 'directory'],
     },
     {
+        name: 'AKCLNT Free APIs',
+        description:
+            'Directory of 1,600+ free APIs, re-tested weekly, with status history, health scores and an open JSON catalog.',
+        categories: ['API Building'],
+        url: 'https://freeapis.akclnt.com/',
+        keywords: ['api', 'public apis', 'free apis', 'api directory', 'api list'],
+    },
+    {
         name: 'All SVG Icons',
         description: 'Browse and download 250,000+ free SVG icons from 220 carefully curated icon libraries.',
         categories: ['Icon'],
