@@ -285,6 +285,14 @@ export const resources: Resource[] = [
         keywords: ['sound effects', 'web audio', 'game audio', 'api', 'mcp', 'cli'],
     },
     {
+        name: 'Shadcn Dashboard',
+        description:
+            'ShadcnDashboard.dev combines reusable dashboard components with AI-ready prompts that help developers build faster without sacrificing code quality.',
+        categories: ['Code Snippet'],
+        url: 'https://shadcndashboard.dev',
+        keywords: ['shadcn', 'shadcnui', 'react', 'nextjs', 'tailwindcss', 'shadcndashboard', 'admindashboard'],
+    },
+    {
         name: 'Shadcn Templates',
         categories: ['Template', 'UI', 'Design'],
         description: 'A collection of Shadcn UI templates, components, boilerplates, and more.',
