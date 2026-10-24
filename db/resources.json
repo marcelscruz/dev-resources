@@ -1,5 +1,5 @@
 {
-"count": 1291,
+"count": 1292,
 "data": [
     {
         "name": "1001 Fonts",
@@ -676,6 +676,21 @@
             "AI",
             "tools",
             "directory"
+        ]
+    },
+    {
+        "name": "AKCLNT Free APIs",
+        "description": "Directory of 1,600+ free APIs, re-tested weekly, with status history, health scores and an open JSON catalog.",
+        "categories": [
+            "API Building"
+        ],
+        "url": "https://freeapis.akclnt.com/",
+        "keywords": [
+            "api",
+            "public apis",
+            "free apis",
+            "api directory",
+            "api list"
         ]
     },
     {
