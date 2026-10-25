@@ -479,6 +479,22 @@ export const resources: Resource[] = [
         url: 'https://www.jetbrains.com/objc/',
     },
     {
+        name: 'AppGoat',
+        description:
+            'App Store + Google Play data API and remote MCP server: apps, reviews, keywords, rankings, top charts and competitors for Claude, ChatGPT and Cursor.',
+        categories: ['AI', 'Analytics', 'Marketing'],
+        url: 'https://appgoat.ai',
+        keywords: [
+            'aso',
+            'app store optimization',
+            'app store api',
+            'google play api',
+            'app reviews',
+            'keyword rankings',
+            'mcp',
+        ],
+    },
+    {
         name: 'APPLORE',
         description:
             'App icon and store asset tools for app developers: export every iOS, Android and web icon size, generate App Store screenshots, animate a logo into Lottie or SVG, with an archive of 18,000+ real app icons for reference.',
