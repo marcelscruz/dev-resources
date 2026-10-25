@@ -1,5 +1,5 @@
 {
-"count": 1292,
+"count": 1293,
 "data": [
     {
         "name": "1001 Fonts",
@@ -947,6 +947,25 @@
             "Programming"
         ],
         "url": "https://www.jetbrains.com/objc/"
+    },
+    {
+        "name": "AppGoat",
+        "description": "App Store + Google Play data API and remote MCP server: apps, reviews, keywords, rankings, top charts and competitors for Claude, ChatGPT and Cursor.",
+        "categories": [
+            "AI",
+            "Analytics",
+            "Marketing"
+        ],
+        "url": "https://appgoat.ai",
+        "keywords": [
+            "aso",
+            "app store optimization",
+            "app store api",
+            "google play api",
+            "app reviews",
+            "keyword rankings",
+            "mcp"
+        ]
     },
     {
         "name": "APPLORE",
