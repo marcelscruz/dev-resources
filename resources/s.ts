@@ -431,6 +431,24 @@ export const resources: Resource[] = [
         url: 'https://sidebar.io/',
     },
     {
+        name: 'SiftingIO',
+        description:
+            'Real-time and historical US stocks, ETFs, forex, commodities and crypto via REST and WebSocket. Free API-key plan with usage limits.',
+        categories: ['API Building', 'Tooling'],
+        url: 'https://sifting.io',
+        keywords: [
+            'market data',
+            'stocks',
+            'ETFs',
+            'forex',
+            'commodities',
+            'crypto',
+            'REST API',
+            'WebSocket',
+            'historical data',
+        ],
+    },
+    {
         name: 'sigma.js',
         description:
             'Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.',
