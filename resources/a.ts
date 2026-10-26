@@ -2,14 +2,6 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
-        name: 'A Box of Tools',
-        description:
-            'Client-side file tools for developers: format JSON, diff text, base64, hashes, favicons, image to data URI, compress images. No upload.',
-        categories: ['Image', 'Tooling', 'Open Source'],
-        url: 'https://abox.tools',
-        keywords: ['json formatter', 'base64', 'favicon', 'image compression', 'client-side', 'no upload'],
-    },
-    {
         name: 'A1',
         description: 'A collection of the best websites found on the web',
         categories: ['Design', 'Inspiration', 'UI'],
@@ -381,14 +373,6 @@ export const resources: Resource[] = [
         categories: ['AI'],
         url: 'https://anvevoice.app',
         keywords: ['voice ai', 'ai agent', 'chatbot', 'voice assistant', 'website widget'],
-    },
-    {
-        name: 'AnyAPI',
-        description:
-            'Hundreds of scraping and data APIs behind one key and one normalized JSON schema, priced per request in USD with no subscription.',
-        categories: ['Scraping', 'Social Media', 'Tooling'],
-        url: 'https://getanyapi.com',
-        keywords: ['scraping', 'data api', 'serp', 'social media data', 'api marketplace', 'mcp'],
     },
     {
         name: 'AnyGradient',
