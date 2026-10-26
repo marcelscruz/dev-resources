@@ -1,5 +1,5 @@
 {
-"count": 1295,
+"count": 1296,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6416,6 +6416,22 @@
             "terminal",
             "commit",
             "golang"
+        ]
+    },
+    {
+        "name": "Gleam Audio",
+        "description": "On-device AI cleanup, enhance, editor for voice and audio",
+        "categories": [
+            "Audio",
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://gleamaudio.com/",
+        "keywords": [
+            "noise removal",
+            "audio editor",
+            "speech enhancement",
+            "podcast editing"
         ]
     },
     {
