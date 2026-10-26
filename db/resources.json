@@ -1,5 +1,5 @@
 {
-"count": 1297,
+"count": 1298,
 "data": [
     {
         "name": "1001 Fonts",
@@ -15324,6 +15324,25 @@
             "blocks",
             "components",
             "sections"
+        ]
+    },
+    {
+        "name": "UI Verify",
+        "description": "Visual testing for coding agents: screenshots your Storybook, Playwright or Vitest tests and shows the agent every UI change it makes.",
+        "categories": [
+            "Testing",
+            "UI",
+            "AI"
+        ],
+        "url": "https://uiverify.ai",
+        "keywords": [
+            "visual regression testing",
+            "screenshot testing",
+            "storybook",
+            "playwright",
+            "vitest",
+            "mcp",
+            "claude code"
         ]
     },
     {
