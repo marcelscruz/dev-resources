@@ -67,6 +67,14 @@ export const resources: Resource[] = [
         url: 'https://www.wappalyzer.com/',
     },
     {
+        name: 'WarpNav',
+        description:
+            'Chinese-language directory of AI coding assistants, GitHub open-source projects, developer software, UI libraries and icon sets, with short usage notes.',
+        categories: ['AI', 'Open Source', 'Tooling'],
+        url: 'https://warpnav.com/',
+        keywords: ['chinese', 'tools directory', 'ai tools', 'github projects', 'developer tools'],
+    },
+    {
         name: 'Warrant',
         description: 'Hosted enterprise-grade authorization and access control service for your apps.',
         categories: ['Authentication'],
