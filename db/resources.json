@@ -1,5 +1,5 @@
 {
-"count": 1298,
+"count": 1292,
 "data": [
     {
         "name": "1001 Fonts",
@@ -98,24 +98,6 @@
             "crowdsource",
             "graphic design",
             "design"
-        ]
-    },
-    {
-        "name": "A Box of Tools",
-        "description": "Client-side file tools for developers: format JSON, diff text, base64, hashes, favicons, image to data URI, compress images. No upload.",
-        "categories": [
-            "Image",
-            "Tooling",
-            "Open Source"
-        ],
-        "url": "https://abox.tools",
-        "keywords": [
-            "json formatter",
-            "base64",
-            "favicon",
-            "image compression",
-            "client-side",
-            "no upload"
         ]
     },
     {
@@ -792,24 +774,6 @@
             "chatbot",
             "voice assistant",
             "website widget"
-        ]
-    },
-    {
-        "name": "AnyAPI",
-        "description": "Hundreds of scraping and data APIs behind one key and one normalized JSON schema, priced per request in USD with no subscription.",
-        "categories": [
-            "Scraping",
-            "Social Media",
-            "Tooling"
-        ],
-        "url": "https://getanyapi.com",
-        "keywords": [
-            "scraping",
-            "data api",
-            "serp",
-            "social media data",
-            "api marketplace",
-            "mcp"
         ]
     },
     {
@@ -7999,22 +7963,6 @@
         ]
     },
     {
-        "name": "Keeping",
-        "description": "Turns Google Workspace Into Your Team’s Help Desk",
-        "categories": [
-            "Email",
-            "Productivity",
-            "Tooling"
-        ],
-        "url": "https://www.keeping.com/",
-        "keywords": [
-            "help desk",
-            "shared inbox for gmail",
-            "team email management",
-            "collaborative Email platform"
-        ]
-    },
-    {
         "name": "Kempo",
         "description": "Customized code playgrounds powered by CodeSandbox’s Sandpack.",
         "categories": [
@@ -9620,23 +9568,6 @@
         ]
     },
     {
-        "name": "Naratake",
-        "description": "Drag-and-drop website builder for local businesses. 111 components, 15 design styles, publishes a real Next.js app with full source-code export.",
-        "categories": [
-            "Website Builder",
-            "CMS",
-            "Template"
-        ],
-        "url": "https://naratake.com",
-        "keywords": [
-            "website builder",
-            "no-code",
-            "next.js",
-            "small business",
-            "source code export"
-        ]
-    },
-    {
         "name": "Narrow AI",
         "description": "Automated Prompt Engineering and Optimization platform that can autonomously write, monitor, and optimize prompts for any model",
         "categories": [
@@ -10237,21 +10168,6 @@
             "Typing"
         ],
         "url": "https://openvim.com/"
-    },
-    {
-        "name": "open-banking.io",
-        "description": "Unified REST API for European bank accounts. PSD2 open-banking data — connect to thousands of EU banks without your own banking certificates.",
-        "categories": [
-            "API Building"
-        ],
-        "url": "https://open-banking.io",
-        "keywords": [
-            "open banking",
-            "psd2",
-            "bank api",
-            "fintech",
-            "payments"
-        ]
     },
     {
         "name": "OpenChakra",
@@ -14730,23 +14646,6 @@
             "calculator",
             "qr code",
             "no signup"
-        ]
-    },
-    {
-        "name": "ToolSuite",
-        "description": "ToolSuite provides free in-browser developer utilities including Base64 encoder, Unix timestamp converter, JSON formatter, and image optimization tools.",
-        "categories": [
-            "Tooling",
-            "Productivity"
-        ],
-        "url": "https://toolsuite.fit",
-        "keywords": [
-            "developer tools",
-            "base64 encoder",
-            "unix timestamp",
-            "json formatter",
-            "image compressor",
-            "browser-based"
         ]
     },
     {
