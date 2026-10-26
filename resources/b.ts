@@ -45,6 +45,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Bankday',
+        description:
+            'API for business days, bank holidays and settlement dates: ACH, Fedwire, TARGET2, Bacs, Payments Canada, 28 stock exchanges and 247 countries.',
+        categories: ['Tooling'],
+        url: 'https://bankday.dev',
+        keywords: ['api', 'business days', 'bank holidays', 'ach', 'payments', 'fintech', 'payroll', 'mcp'],
+    },
+    {
         name: 'barcodegen.net',
         description:
             'Free online barcode generator and image API for 35 symbologies: Code 128, EAN-13, UPC-A, QR Code, Data Matrix, PDF417. No API key, signup or watermark.',
