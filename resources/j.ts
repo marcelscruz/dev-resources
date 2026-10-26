@@ -110,6 +110,14 @@ export const resources: Resource[] = [
         keywords: ['javascript', 'jobs', 'job board'],
     },
     {
+        name: 'Jobs-database.de',
+        description:
+            "Read-only HTTP API for 4.4M+ job postings collected from employers' own ATS and career sites. API key access.",
+        categories: ['Job', 'Database'],
+        url: 'https://jobs-database.de/en',
+        keywords: ['jobs api', 'job postings', 'ats', 'workday', 'greenhouse', 'lever'],
+    },
+    {
         name: 'Jobspresso',
         description:
             'Jobspresso is the easiest way to find remote jobs and careers at interesting and innovative companies.',
