@@ -164,6 +164,27 @@ export const resources: Resource[] = [
         keywords: ['JSON', 'JSON Schema'],
     },
     {
+        name: 'JustClock — Automatic IDE Time Tracker',
+        description:
+            'Automatic Project Time Tracking Plugin for JetBrains IDEs, Android Studio, VS Code, Devin, Cursor and Visual Studio.',
+        categories: ['Performance'],
+        url: 'https://justclock.dev',
+        keywords: [
+            'time tracking',
+            'automatic time tracker',
+            'developer tools',
+            'jetbrains plugin',
+            'vscode extension',
+            'cursor ide',
+            'devin',
+            'visual studio',
+            'billable hours',
+            'timesheet automation',
+            'productivity tools',
+            'cross-ide',
+        ],
+    },
+    {
         name: 'JustRemote',
         description:
             'Discover Remote Jobs from around the world. Give up the commute, work remotely and do what you love, daily, from anywhere. Find your perfect remote development, design, sales or marketing job today.',
