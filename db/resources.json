@@ -1,5 +1,5 @@
 {
-"count": 1293,
+"count": 1294,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7918,6 +7918,28 @@
         "keywords": [
             "JSON",
             "JSON Schema"
+        ]
+    },
+    {
+        "name": "JustClock — Automatic IDE Time Tracker",
+        "description": "Automatic Project Time Tracking Plugin for JetBrains IDEs, Android Studio, VS Code, Devin, Cursor and Visual Studio.",
+        "categories": [
+            "Performance"
+        ],
+        "url": "https://justclock.dev",
+        "keywords": [
+            "time tracking",
+            "automatic time tracker",
+            "developer tools",
+            "jetbrains plugin",
+            "vscode extension",
+            "cursor ide",
+            "devin",
+            "visual studio",
+            "billable hours",
+            "timesheet automation",
+            "productivity tools",
+            "cross-ide"
         ]
     },
     {
