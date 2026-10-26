@@ -1,5 +1,5 @@
 {
-"count": 1294,
+"count": 1295,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5227,6 +5227,21 @@
             "rss",
             "json",
             "graphql"
+        ]
+    },
+    {
+        "name": "FeedLog",
+        "description": "Open-source feedback board, roadmap, and changelog you self-host on Cloudflare, Vercel, or Docker.",
+        "categories": [
+            "Tooling"
+        ],
+        "url": "https://feedlog.ai",
+        "keywords": [
+            "feedback",
+            "roadmap",
+            "changelog",
+            "open source",
+            "AI"
         ]
     },
     {
