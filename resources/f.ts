@@ -52,6 +52,14 @@ export const resources: Resource[] = [
         keywords: ['instagram', 'api', 'feed', 'rss', 'json', 'graphql'],
     },
     {
+        name: 'FeedLog',
+        description:
+            'Open-source feedback board, roadmap, and changelog you self-host on Cloudflare, Vercel, or Docker.',
+        categories: ['Tooling'],
+        url: 'https://feedlog.ai',
+        keywords: ['feedback', 'roadmap', 'changelog', 'open source', 'AI'],
+    },
+    {
         name: 'Figma',
         description:
             'Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.',
