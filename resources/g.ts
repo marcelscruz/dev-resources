@@ -138,6 +138,13 @@ export const resources: Resource[] = [
         keywords: ['git', 'cli', 'workflow', 'terminal', 'commit', 'golang'],
     },
     {
+        name: 'Gleam Audio',
+        description: 'On-device AI cleanup, enhance, editor for voice and audio',
+        categories: ['Audio', 'AI', 'Tooling'],
+        url: 'https://gleamaudio.com/',
+        keywords: ['noise removal', 'audio editor', 'speech enhancement', 'podcast editing'],
+    },
+    {
         name: 'GoatCounter',
         description:
             'GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app.',
