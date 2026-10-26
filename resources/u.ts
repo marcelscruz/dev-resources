@@ -55,6 +55,22 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'UI Verify',
+        description:
+            'Visual testing for coding agents: screenshots your Storybook, Playwright or Vitest tests and shows the agent every UI change it makes.',
+        categories: ['Testing', 'UI', 'AI'],
+        url: 'https://uiverify.ai',
+        keywords: [
+            'visual regression testing',
+            'screenshot testing',
+            'storybook',
+            'playwright',
+            'vitest',
+            'mcp',
+            'claude code',
+        ],
+    },
+    {
         name: 'ui.dev',
         description: 'Comprehensive learning resources for mastering the JavaScript ecosystem.',
         categories: ['Newsletter', 'Programming', 'Learn'],
