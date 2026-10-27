@@ -432,9 +432,10 @@ export const resources: Resource[] = [
     {
         name: 'APIVerve',
         description:
-            'Unleash the potential of your applications and accelerate development with a single API Key and access to 100s of APIs. Start for free.',
-        categories: ['API Building'],
-        url: 'https://apiverve.com/',
+            'About 380 APIs behind one key: email and phone validation, IP, DNS and SSL lookups, exchange and VAT rates, VIN decoding. REST, SDKs and a remote MCP server.',
+        categories: ['API Building', 'AI'],
+        url: 'https://apiverve.com',
+        keywords: ['api marketplace', 'email validation', 'ip geolocation', 'dns lookup', 'vat rates', 'mcp', 'sdk'],
     },
     {
         name: 'ApparenceKit',
