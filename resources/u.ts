@@ -176,13 +176,6 @@ export const resources: Resource[] = [
         url: 'https://unlearn.dev/',
     },
     {
-        name: 'Unscreen',
-        description:
-            'Remove the background of any video - 100% automatically, online & free! Goodbye Greenscreen. Hello Unscreen.',
-        categories: ['Editor', 'Video'],
-        url: 'https://www.unscreen.com/',
-    },
-    {
         name: 'Unsplash',
         description:
             'Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.',
