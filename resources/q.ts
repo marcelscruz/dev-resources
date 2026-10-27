@@ -9,6 +9,14 @@ export const resources: Resource[] = [
         url: 'https://qoddi.com',
     },
     {
+        name: 'qodesign',
+        description:
+            'Animated React components and dashboards (Framer Motion). Free and MIT on GitHub: Toast Stack, Pricing Switch, Upload Dropzone, Day/Night Toggle, Orbit, Ledger',
+        categories: ['Animation', 'UI', 'Library'],
+        url: 'https://qodesign.dev',
+        keywords: ['react', 'animated components', 'shadcn', 'framer motion', 'tailwind', 'dashboard'],
+    },
+    {
         name: 'QoQo AI',
         description:
             'QoQo.ai helps Product Designers and UX Researchers overcome limited resources for research by providing quick and efficient access to research insights.',
