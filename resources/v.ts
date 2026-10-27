@@ -142,6 +142,13 @@ export const resources: Resource[] = [
         keywords: ['ai writing assistant', 'content marketing', 'content automation', 'content creation'],
     },
     {
+        name: 'VibeReady',
+        description: 'AI-native SaaS starter kit optimized for vibe coding',
+        categories: ['Template'],
+        url: 'https://vibeready.sh/',
+        keywords: ['boilerplate'],
+    },
+    {
         name: 'VibeStack',
         description: 'Curated directory of AI, design, and development products and tools.',
         categories: ['Tooling', 'AI', 'Design'],
