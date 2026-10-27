@@ -1,5 +1,5 @@
 {
-"count": 1296,
+"count": 1297,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8651,6 +8651,23 @@
             "local & open source",
             "cloud emulator",
             "serverless"
+        ]
+    },
+    {
+        "name": "logoapi.sh",
+        "description": "Free company logo API. SVG logo by domain, no API key or signup. A free alternative to the Clearbit Logo API.",
+        "categories": [
+            "Logo",
+            "Image",
+            "CDN"
+        ],
+        "url": "https://logoapi.sh",
+        "keywords": [
+            "logo",
+            "svg",
+            "clearbit alternative",
+            "brand",
+            "domain"
         ]
     },
     {
