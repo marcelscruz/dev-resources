@@ -216,6 +216,14 @@ export const resources: Resource[] = [
         keywords: ['image to svg', 'raster to vector', 'png to svg', 'DXF export'],
     },
     {
+        name: 'Pic2Vector',
+        description:
+            'Free in-browser PNG/JPG/WebP to SVG converter using vtracer compiled to WebAssembly. Images never leave your device; no signup, no watermark.',
+        categories: ['Image', 'Design', 'Tooling'],
+        url: 'https://pic2vector.com',
+        keywords: ['image to svg', 'png to svg', 'raster to vector', 'webassembly', 'vtracer', 'browser-based'],
+    },
+    {
         name: 'PicPrepper',
         description:
             'Browser-based image preparation for web projects: compress, resize, and convert JPG, PNG, and WebP locally without uploading.',
