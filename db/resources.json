@@ -1,5 +1,5 @@
 {
-"count": 1294,
+"count": 1295,
 "data": [
     {
         "name": "1001 Fonts",
@@ -15834,6 +15834,17 @@
             "content marketing",
             "content automation",
             "content creation"
+        ]
+    },
+    {
+        "name": "VibeReady",
+        "description": "AI-native SaaS starter kit optimized for vibe coding",
+        "categories": [
+            "Template"
+        ],
+        "url": "https://vibeready.sh/",
+        "keywords": [
+            "boilerplate"
         ]
     },
     {
