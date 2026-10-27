@@ -69,6 +69,14 @@ export const resources: Resource[] = [
         keywords: ['threads', 'marketing', 'instagram'],
     },
     {
+        name: 'SchoolWhool',
+        description:
+            'AI learning platform with Python and machine learning courses, quizzes, public cheat sheets and free opening-module samples.',
+        categories: ['Learn', 'Programming', 'AI'],
+        url: 'https://www.schoolwhool.com/',
+        keywords: ['python', 'machine learning', 'ai', 'courses', 'quizzes', 'cheat sheets'],
+    },
+    {
         name: 'Scopebird',
         description: 'Product scoping in minutes, not weeks.',
         categories: ['AI', 'Productivity'],
