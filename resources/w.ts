@@ -153,6 +153,14 @@ export const resources: Resource[] = [
         keywords: ['html', 'css', 'javascript', 'development'],
     },
     {
+        name: 'WebExtract',
+        description:
+            'API and hosted MCP server that turn a web page into clean Markdown or structured JSON (product, price, tables, metadata). 20 free calls/day per IP.',
+        categories: ['Scraping', 'AI'],
+        url: 'https://webextract.dev',
+        keywords: ['web scraping api', 'html to markdown', 'structured data extraction', 'mcp server', 'x402'],
+    },
+    {
         name: 'Webflow',
         description:
             'Build responsive websites in your browser, then launch with our world-class hosting or export your code. Discover the professional website platform built for your business.',
