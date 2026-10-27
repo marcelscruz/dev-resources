@@ -339,6 +339,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'logoapi.sh',
+        description:
+            'Free company logo API. SVG logo by domain, no API key or signup. A free alternative to the Clearbit Logo API.',
+        categories: ['Logo', 'Image', 'CDN'],
+        url: 'https://logoapi.sh',
+        keywords: ['logo', 'svg', 'clearbit alternative', 'brand', 'domain'],
+    },
+    {
         name: 'LogoInspo',
         description:
             'The ultimate logo design inspiration library with 1,200+ hand-picked real and fictional logos searchable by style, industry, and color.',
