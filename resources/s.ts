@@ -797,6 +797,14 @@ export const resources: Resource[] = [
         keywords: ['marketing'],
     },
     {
+        name: 'Spaceora',
+        description:
+            'AI home design. Upload a photo of a room, exterior, or garden and get a realistic redesign in seconds.',
+        categories: ['AI', 'Design', 'Image'],
+        url: 'https://spaceora.app',
+        keywords: ['interior design', 'home design', 'virtual staging', 'landscape'],
+    },
+    {
         name: 'SpeedUp AI',
         description: 'End-to-End AI Circuit Schematic Design',
         categories: ['AI', 'Design', 'Prototyping'],
