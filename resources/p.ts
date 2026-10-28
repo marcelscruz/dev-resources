@@ -239,6 +239,22 @@ export const resources: Resource[] = [
         keywords: ['image generation', 'HTML to image'],
     },
     {
+        name: 'Pictograph',
+        description:
+            'Real-time computer vision API: label images with SAM3, train RF-DETR and YOLOX detectors, and stream live RTSP or WebRTC video to GPU endpoints.',
+        categories: ['AI', 'Image', 'Video'],
+        url: 'https://pictograph.io',
+        keywords: [
+            'computer vision',
+            'object detection',
+            'image annotation',
+            'SAM3',
+            'RF-DETR',
+            'model deployment',
+            'video analytics',
+        ],
+    },
+    {
         name: 'Pieces',
         description: 'On-device copilot to capture, enrich, and reuse useful materials, streamline collaboration.',
         categories: ['AI', 'Programming', 'Productivity'],
