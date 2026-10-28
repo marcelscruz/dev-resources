@@ -293,6 +293,14 @@ export const resources: Resource[] = [
         keywords: ['sound effects', 'web audio', 'game audio', 'api', 'mcp', 'cli'],
     },
     {
+        name: 'Shadcn Dashboard',
+        description:
+            'ShadcnDashboard.dev combines reusable dashboard components with AI-ready prompts that help developers build faster without sacrificing code quality.',
+        categories: ['Code Snippet'],
+        url: 'https://shadcndashboard.dev',
+        keywords: ['shadcn', 'shadcnui', 'react', 'nextjs', 'tailwindcss', 'shadcndashboard', 'admindashboard'],
+    },
+    {
         name: 'Shadcn Templates',
         categories: ['Template', 'UI', 'Design'],
         description: 'A collection of Shadcn UI templates, components, boilerplates, and more.',
@@ -404,6 +412,25 @@ export const resources: Resource[] = [
         categories: ['Prototyping', 'Screenshot'],
         url: 'https://shots.so/',
         keywords: ['mockup', 'design', 'social', 'marketing'],
+    },
+    {
+        name: 'ShubHQ',
+        description:
+            'ShubHQ is an AI growth operator that turns SEO, content, backlinks, rankings, AI visibility and social into one self-running monthly workflow.',
+        categories: ['SEO'],
+        url: 'https://shubhq.com',
+        keywords: [
+            'AI SEO',
+            'growth automation',
+            'AI growth operator',
+            'SEO automation',
+            'content marketing',
+            'backlink analysis',
+            'rank tracking',
+            'AI visibility',
+            'SaaS tools',
+            'ecommerce tools',
+        ],
     },
     {
         name: 'Sidebar',
