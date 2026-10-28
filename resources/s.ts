@@ -114,6 +114,14 @@ export const resources: Resource[] = [
         keywords: ['screenshot api', 'screenshot automation', 'screenshot service'],
     },
     {
+        name: 'ScreenSize',
+        description:
+            'Check your screen size, viewport, resolution and device pixel ratio in real time, with device screen specs and Tailwind/Bootstrap breakpoint references.',
+        categories: ['Browser', 'Design'],
+        url: 'https://screensize.net',
+        keywords: ['screen size', 'viewport', 'resolution', 'responsive design', 'breakpoints'],
+    },
+    {
         name: 'Screenstab',
         description: 'Turn ordinary screenshots into beautiful image assets in no time',
         categories: ['Screenshot'],
