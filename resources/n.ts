@@ -134,6 +134,14 @@ export const resources: Resource[] = [
         keywords: ['developer tool', 'boilerplate', 'starter kit', 'next.js boilerplate'],
     },
     {
+        name: 'Nhost',
+        description:
+            'Managed backend for agentic apps. Postgres database, GraphQL API, authentication, storage, functions and an MCP server for AI agents.',
+        categories: ['Serverless', 'Database'],
+        url: 'https://nhost.io/',
+        keywords: ['backend', 'postgres', 'graphql', 'mcp', 'ai agents'],
+    },
+    {
         name: 'Niche Tools',
         description:
             'Ditch the endless market research and unlock instant access to over 1200+ web tools you can build today',
