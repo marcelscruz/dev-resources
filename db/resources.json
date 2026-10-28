@@ -1,5 +1,5 @@
 {
-"count": 1298,
+"count": 1299,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9819,6 +9819,22 @@
             "boilerplate",
             "starter kit",
             "next.js boilerplate"
+        ]
+    },
+    {
+        "name": "Nhost",
+        "description": "Managed backend for agentic apps. Postgres database, GraphQL API, authentication, storage, functions and an MCP server for AI agents.",
+        "categories": [
+            "Serverless",
+            "Database"
+        ],
+        "url": "https://nhost.io/",
+        "keywords": [
+            "backend",
+            "postgres",
+            "graphql",
+            "mcp",
+            "ai agents"
         ]
     },
     {
