@@ -191,4 +191,11 @@ export const resources: Resource[] = [
         categories: ['Job', 'Remote'],
         url: 'https://justremote.co/',
     },
+    {
+        name: 'Jvlang AI',
+        description:
+            'Chinese-language lookup for AI model and API-provider public prices, original sources, and integration guides. Free to query; not an inference service.',
+        categories: ['AI', 'Tooling'],
+        url: 'https://jvlangai.com',
+    },
 ]
