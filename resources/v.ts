@@ -304,4 +304,12 @@ export const resources: Resource[] = [
         url: 'https://getvurge.com/',
         keywords: ['google sheets', 'ai', 'web scraping', 'data enrichment', 'sales'],
     },
+    {
+        name: 'Vynyo',
+        description:
+            'Browser-based AI creative studio for hairstyle try-on, image generation and editing, product photography, photo translation, and text and image to video.',
+        categories: ['AI', 'Image', 'Video'],
+        url: 'https://vynyo.com',
+        keywords: ['ai hairstyle', 'hair color preview', 'image generation', 'product photography', 'image translation', 'text to video'],
+    },
 ]
