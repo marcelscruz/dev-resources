@@ -1,5 +1,5 @@
 {
-"count": 1301,
+"count": 1302,
 "data": [
     {
         "name": "1001 Fonts",
@@ -16789,6 +16789,23 @@
             "anthropic",
             "gemini",
             "model routing"
+        ]
+    },
+    {
+        "name": "xmcp",
+        "description": "Free, open-source TypeScript framework for building and deploying MCP servers with file-based tools, resources, prompts, hot reload, and middleware.",
+        "categories": [
+            "AI",
+            "Library",
+            "Open Source"
+        ],
+        "url": "https://xmcp.dev",
+        "keywords": [
+            "typescript",
+            "mcp",
+            "model context protocol",
+            "framework",
+            "developer tools"
         ]
     },
     {
