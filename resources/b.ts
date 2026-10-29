@@ -289,6 +289,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'BlockVectra',
+        description:
+            'Multi-chain EVM RPC and indexed blockchain data APIs for developers and AI agents, with MCP tools and JavaScript SDKs.',
+        categories: ['Web3', 'Tooling'],
+        url: 'https://blockvectra.com/',
+        keywords: ['evm', 'rpc', 'blockchain', 'mcp', 'javascript', 'robinhood', 'hyperevm'],
+    },
+    {
         name: 'BlogFox',
         description: 'Generate impressive blogs from a Youtube video or SEO keywords at scale.',
         categories: ['SEO', 'Writing', 'Blog'],
