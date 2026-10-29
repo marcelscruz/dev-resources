@@ -17,6 +17,14 @@ export const resources: Resource[] = [
         keywords: ['llm api', 'ai gateway', 'openai', 'anthropic', 'gemini', 'model routing'],
     },
     {
+        name: 'xmcp',
+        description:
+            'Free, open-source TypeScript framework for building and deploying MCP servers with file-based tools, resources, prompts, hot reload, and middleware.',
+        categories: ['AI', 'Library', 'Open Source'],
+        url: 'https://xmcp.dev',
+        keywords: ['typescript', 'mcp', 'model context protocol', 'framework', 'developer tools'],
+    },
+    {
         name: 'Xora',
         description: 'Cloud FFmpeg API for media jobs',
         categories: ['Video', 'Cloud Computing', 'Tooling'],
