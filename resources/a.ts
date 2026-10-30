@@ -532,7 +532,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'Aria Icons',
-        description: 'Search 1.4M open-source SVG icons and add them to your project via CLI or an MCP server for AI coding agents.',
+        description:
+            'Search 1.4M open-source SVG icons and add them to your project via CLI or an MCP server for AI coding agents.',
         categories: ['Icon', 'Design', 'Tooling'],
         url: 'https://icons.leularia.com',
         keywords: ['icons', 'svg', 'mcp', 'cli', 'open source'],
