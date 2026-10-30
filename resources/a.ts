@@ -536,13 +536,6 @@ export const resources: Resource[] = [
         categories: ['Icon', 'Design', 'Tooling'],
         url: 'https://icons.leularia.com',
         keywords: ['icons', 'svg', 'mcp', 'cli', 'open source'],
-    },
-
-
-
-
-
-
 
     {
         name: 'Artify',
