@@ -59,6 +59,23 @@ export const resources: Resource[] = [
         keywords: ['tips', 'programming', 'daily', 'product thinking', 'software development'],
     },
     {
+        name: 'Dev Launch Pack',
+        description:
+            'Free, browser-based generators for developer writing — commit messages, pull requests, bug reports, release notes, README intros, API docs, changelogs and docstrings. Includes tested prompt packs for product launches.',
+        categories: ['Code Generator', 'Documentation', 'Writing'],
+        url: 'https://draftkit.co/dev-launch-pack/',
+        keywords: [
+            'documentation',
+            'readme',
+            'changelog',
+            'commit message',
+            'pull request',
+            'release notes',
+            'prompt',
+            'developer tools',
+        ],
+    },
+    {
         name: 'daisyUI',
         description: 'Tailwind CSS Components plugin — daisyUI tailwind component library',
         categories: ['Library', 'Programming', 'UI'],
