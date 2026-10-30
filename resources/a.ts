@@ -531,6 +531,14 @@ export const resources: Resource[] = [
         keywords: ['context engineering', 'spec-driven development', 'mcp', 'ai coding agents', 'cli'],
     },
     {
+        name: 'Aria Icons',
+        description:
+            'Search 1.4M open-source SVG icons and add them to your project via CLI or an MCP server for AI coding agents.',
+        categories: ['Icon', 'Design', 'Tooling'],
+        url: 'https://icons.leularia.com',
+        keywords: ['icons', 'svg', 'mcp', 'cli', 'open source'],
+    },
+    {
         name: 'Artify',
         description:
             'Artify is an online and easy-to-use design editor that features thousands of customizable illustrations and template packs.',
