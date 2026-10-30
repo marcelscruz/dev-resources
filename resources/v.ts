@@ -142,6 +142,14 @@ export const resources: Resource[] = [
         keywords: ['ai writing assistant', 'content marketing', 'content automation', 'content creation'],
     },
     {
+        name: 'Vibe Code Pipeline',
+        description:
+            'Vibe Code Pipeline is an interactive encyclopedia for AI agents, prompts, and vibe coding pipelines. Watch how agents loop, learn the patterns behind them, and build your own with confidence. Explore the catalog of 1006 agents and 1032 prompt templates, all designed to help you understand and create AI agents effectively.',
+        categories: ['Learn'],
+        url: 'https://vibecodepipeline.com/',
+        keywords: ['Ai agents', 'Prompts', 'education', 'SAAS', 'API'],
+    },
+    {
         name: 'VibeReady',
         description: 'AI-native SaaS starter kit optimized for vibe coding',
         categories: ['Template'],
