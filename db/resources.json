@@ -1,5 +1,5 @@
 {
-"count": 1303,
+"count": 1304,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1023,6 +1023,23 @@
             "mcp",
             "ai coding agents",
             "cli"
+        ]
+    },
+    {
+        "name": "Aria Icons",
+        "description": "Search 1.4M open-source SVG icons and add them to your project via CLI or an MCP server for AI coding agents.",
+        "categories": [
+            "Icon",
+            "Design",
+            "Tooling"
+        ],
+        "url": "https://icons.leularia.com",
+        "keywords": [
+            "icons",
+            "svg",
+            "mcp",
+            "cli",
+            "open source"
         ]
     },
     {
