@@ -176,6 +176,14 @@ export const resources: Resource[] = [
         url: 'https://unlearn.dev/',
     },
     {
+        name: 'Unprofane',
+        description:
+            'API that checks user text for profanity and toxicity in 17 languages, including leetspeak, look-alike letters and spacing, with a Perspective API compatible endpoint.',
+        categories: ['AI', 'Security'],
+        url: 'https://unprofane.com',
+        keywords: ['profanity', 'moderation', 'toxicity', 'perspective api'],
+    },
+    {
         name: 'Unsplash',
         description:
             'Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.',
