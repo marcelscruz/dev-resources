@@ -1026,6 +1026,14 @@ export const resources: Resource[] = [
         url: 'https://supastarter.dev',
     },
     {
+        name: 'Super Resolution',
+        description:
+            'Online AI image upscaler based on Real-ESRGAN. Upscale portraits, anime, and old photos up to 10×; free to try, no signup.',
+        categories: ['AI', 'Image'],
+        url: 'https://superresolution.app/',
+        keywords: ['ai upscaler', 'super resolution', 'real-esrgan', 'image enhancement', 'photo upscale'],
+    },
+    {
         name: 'Supercamp',
         description: 'A managed AI interface that connects everything — LLM providers, MCP tools, your workflows.',
         categories: ['Productivity', 'AI', 'Analytics'],
