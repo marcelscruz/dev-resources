@@ -24,6 +24,14 @@ export const resources: Resource[] = [
         url: 'https://qoqo.ai/',
     },
     {
+        name: 'Queue Health for Action Scheduler',
+        description:
+            'Free WordPress plugin for inspecting Action Scheduler backlogs, failed jobs, overdue actions, and WP-Cron queue signals without changing tasks.',
+        categories: ['CMS', 'Tooling', 'Performance'],
+        url: 'https://modelgain.com/products/queue-health/',
+        keywords: ['WordPress', 'Action Scheduler', 'WP-Cron', 'background jobs'],
+    },
+    {
         name: 'Quicklisting',
         description: 'Auto-submit to 50+ directories',
         categories: ['Marketing'],
