@@ -398,6 +398,14 @@ export const resources: Resource[] = [
         keywords: ['product', 'apps'],
     },
     {
+        name: 'ShortDramaKit',
+        description:
+            'Short-drama metadata API with quoted tasks and saved CSV/JSON exports for supported platforms. API key and prepaid credits required.',
+        categories: ['Scraping', 'Tooling'],
+        url: 'https://shortdramakit.com',
+        keywords: ['short drama', 'metadata', 'api', 'csv', 'json'],
+    },
+    {
         name: 'Shortimize',
         description:
             'Simplify content management: all your data, metrics, and reports for scalable strategies in one place.',
