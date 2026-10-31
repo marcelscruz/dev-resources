@@ -184,6 +184,14 @@ export const resources: Resource[] = [
         keywords: ['no-code', 'templates', 'webflow', 'framer', 'bubble'],
     },
     {
+        name: 'noattributionicons',
+        description:
+            'Free library of 3,700+ flat color icons in 216 themed packs. SVG and PNG downloads, free for commercial use, no attribution or sign-up.',
+        categories: ['Icon', 'Design'],
+        url: 'https://noattributionicons.com',
+        keywords: ['icons', 'svg', 'png', 'free icons', 'no attribution'],
+    },
+    {
         name: 'Nomad List',
         description: 'Best places to live for a digital nomad',
         categories: ['Job', 'Job', 'Remote'],
