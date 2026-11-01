@@ -417,6 +417,24 @@ export const resources: Resource[] = [
         keywords: ['python', 'lucene', 'elasticsearch', 'query parser', 'search', 'dsl', 'developer tools'],
     },
     {
+        name: 'LurkAPI',
+        description:
+            'Social media data API and MCP server: public posts, profiles, comments, ads and video transcripts from 16 platforms as JSON, one GET request each.',
+        categories: ['Social Media', 'Scraping', 'AI'],
+        url: 'https://lurkapi.com',
+        keywords: [
+            'social media api',
+            'tiktok',
+            'instagram',
+            'youtube',
+            'reddit',
+            'ad library',
+            'transcripts',
+            'mcp',
+            'rest api',
+        ],
+    },
+    {
         name: 'Luthor',
         description: 'Grow organic traffic with programmatic SEO at scale.',
         categories: ['Marketing', 'SEO', 'AI'],
