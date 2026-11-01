@@ -297,6 +297,14 @@ export const resources: Resource[] = [
         url: 'https://www.google.com/chrome/dev/',
     },
     {
+        name: 'Chrome Extension Downloader',
+        description:
+            'Download available Chrome extension CRX/ZIP packages, inspect source files and manifest permissions, and query extension data through REST or MCP.',
+        categories: ['Tooling', 'Extension'],
+        url: 'https://extensiondownloader.com',
+        keywords: ['chrome', 'crx', 'zip', 'source code', 'manifest', 'permissions', 'rest api', 'mcp'],
+    },
+    {
         name: 'Chrome Reader Mode',
         description: 'Transform page to simple reading mode',
         categories: ['Extension', 'Productivity', 'Browser'],
