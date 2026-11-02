@@ -326,6 +326,13 @@ export const resources: Resource[] = [
         url: 'https://gtmetrix.com/',
     },
     {
+        name: 'GTMExchange',
+        description: 'The GTM Exchange is a free, curated library of 500+ go-to-market tools',
+        categories: ['Marketing', 'AI', 'Tooling'],
+        url: 'https://www.thegtmexchange.com/',
+        keywords: ['gtm tools', 'sales tools', 'tool directory', 'marketing automation'],
+    },
+    {
         name: 'Guru',
         description:
             'Guru is one of the best freelance websites to find & hire Freelancers online and get work done. Freelancers can also search jobs for freelance work and get hired.',
