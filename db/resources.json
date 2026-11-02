@@ -1,5 +1,5 @@
 {
-"count": 1307,
+"count": 1308,
 "data": [
     {
         "name": "1001 Fonts",
@@ -13744,6 +13744,23 @@
             "Analytics"
         ],
         "url": "https://splitbee.io"
+    },
+    {
+        "name": "Spoof Me",
+        "description": "Chrome and Firefox extension that switches User-Agent, language, timezone and screen signals to test how a site behaves for other devices and locales.",
+        "categories": [
+            "Extension",
+            "Testing",
+            "Browser"
+        ],
+        "url": "https://spoof-me.com",
+        "keywords": [
+            "user agent",
+            "localization testing",
+            "timezone",
+            "device emulation",
+            "browser extension"
+        ]
     },
     {
         "name": "Spyder",
