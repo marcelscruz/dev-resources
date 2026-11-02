@@ -475,6 +475,13 @@ export const resources: Resource[] = [
         url: 'https://morrisjs.github.io/morris.js/',
     },
     {
+        name: 'MotionSites',
+        description:
+            'Beautiful Website Prompts for Lovable, Bolt, Cursor, and Claude. Build Stunning 3d Websites With AI.',
+        categories: ['Inspiration'],
+        url: 'https://motionsites.ai',
+    },
+    {
         name: 'MotionVault.site',
         description:
             'Cinematic website templates with live previews, editable source, motion assets and build prompts, plus a read-only MCP toolkit for AI coding tools.',
