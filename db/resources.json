@@ -1,5 +1,5 @@
 {
-"count": 1306,
+"count": 1307,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7659,6 +7659,25 @@
             "vpn detection",
             "proxy detection",
             "api security"
+        ]
+    },
+    {
+        "name": "IPKit",
+        "description": "Free IP lookup with location, ASN/ISP and VPN/proxy/Tor signals, plus the caller\\'s own IP, as JSON. No API key for basic use.",
+        "categories": [
+            "Tooling",
+            "Security",
+            "API Building"
+        ],
+        "url": "https://ipkit.dev",
+        "keywords": [
+            "ip lookup",
+            "ip geolocation",
+            "asn",
+            "vpn detection",
+            "proxy detection",
+            "tor",
+            "json api"
         ]
     },
     {
