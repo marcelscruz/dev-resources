@@ -810,6 +810,14 @@ export const resources: Resource[] = [
         url: 'https://splitbee.io',
     },
     {
+        name: 'Spoof Me',
+        description:
+            'Chrome and Firefox extension that switches User-Agent, language, timezone and screen signals to test how a site behaves for other devices and locales.',
+        categories: ['Extension', 'Testing', 'Browser'],
+        url: 'https://spoof-me.com',
+        keywords: ['user agent', 'localization testing', 'timezone', 'device emulation', 'browser extension'],
+    },
+    {
         name: 'Spyder',
         description:
             'Spyder is a free and open source scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It features a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package.',
