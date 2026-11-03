@@ -406,6 +406,14 @@ export const resources: Resource[] = [
         keywords: ['freelance marketplace', 'marketplace', 'hiring', 'llm developer'],
     },
     {
+        name: 'Bowmark',
+        description:
+            'Typed functions for live websites (LinkedIn, Amazon, YouTube, Reddit and more) that an AI agent or a cron job can call, for recurring jobs like daily price checks. Free $10 to start.',
+        categories: ['AI', 'Tooling', 'Scraping'],
+        url: 'https://bowmark.ai',
+        keywords: ['mcp', 'ai agents', 'web data', 'data extraction', 'automation', 'monitoring', 'api'],
+    },
+    {
         name: 'Boxicons',
         description:
             'Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.',
