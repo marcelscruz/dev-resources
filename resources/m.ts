@@ -114,6 +114,25 @@ export const resources: Resource[] = [
         url: 'https://makebook.io/',
     },
     {
+        name: 'Makernice',
+        description:
+            'AI video and image API and MCP server: text to video, image to video and images with 17 models, including Seedance, Kling and Wan, priced before each run.',
+        categories: ['AI', 'Video', 'Image'],
+        url: 'https://makernice.com',
+        keywords: [
+            'ai video generator',
+            'text to video',
+            'image to video',
+            'ai image generator',
+            'video generation api',
+            'mcp server',
+            'mcp',
+            'seedance',
+            'kling',
+            'wan',
+        ],
+    },
+    {
         name: 'Mantine',
         description:
             'React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience.',
