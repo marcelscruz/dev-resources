@@ -439,6 +439,14 @@ export const resources: Resource[] = [
         url: 'https://sidebar.io/',
     },
     {
+        name: 'Siebly',
+        description:
+            'Typed JS/TS SDKs for major crypto exchange REST and WebSocket APIs.',
+        categories: ['Library', 'API Building', 'Web3'],
+        url: 'https://siebly.io',
+        keywords: ['typescript', 'javascript', 'sdk', 'crypto', 'exchange', 'websocket', 'api'],
+    },
+    {
         name: 'sigma.js',
         description:
             'Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.',
