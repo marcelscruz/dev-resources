@@ -1,5 +1,5 @@
 {
-"count": 1309,
+"count": 1310,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8169,6 +8169,24 @@
             "ml",
             "productivity",
             "devops"
+        ]
+    },
+    {
+        "name": "Klaruvo",
+        "description": "Local AI image editor for Windows and macOS: remove watermarks, cut out objects, erase backgrounds and upscale photos fully offline. No upload, one-time purchase.",
+        "categories": [
+            "Image",
+            "AI",
+            "Productivity"
+        ],
+        "url": "https://www.powersoftware.app/en-US/product/detail/klaruvo",
+        "keywords": [
+            "ai image editor",
+            "remove watermark",
+            "background remover",
+            "image upscaler",
+            "offline ai",
+            "batch image"
         ]
     },
     {
