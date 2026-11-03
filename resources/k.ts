@@ -82,6 +82,21 @@ export const resources: Resource[] = [
         keywords: ['ai', 'ml', 'productivity', 'devops'],
     },
     {
+        name: 'Klaruvo',
+        description:
+            'Local AI image editor for Windows and macOS: remove watermarks, cut out objects, erase backgrounds and upscale photos fully offline. No upload, one-time purchase.',
+        categories: ['Image', 'AI', 'Productivity'],
+        url: 'https://www.powersoftware.app/en-US/product/detail/klaruvo',
+        keywords: [
+            'ai image editor',
+            'remove watermark',
+            'background remover',
+            'image upscaler',
+            'offline ai',
+            'batch image',
+        ],
+    },
+    {
         name: 'Kometa UI Kit',
         description:
             'A marketplace of fully responsive, multi-purpose UI kits, built with Tailwind CSS, for start-ups and products of any kind.',
