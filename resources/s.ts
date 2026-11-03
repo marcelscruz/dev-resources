@@ -313,6 +313,25 @@ export const resources: Resource[] = [
         url: 'https://shadcnblocks.com',
     },
     {
+        name: 'ShadcnStore',
+        description:
+            'Shadcn UI blocks and templates for React, Base UI and Tailwind CSS. Free blocks in every section, shadcn CLI registry install and a Figma kit.',
+        categories: ['UI', 'Template', 'Library'],
+        url: 'https://shadcnstore.com',
+        keywords: [
+            'shadcn',
+            'shadcn ui',
+            'shadcn blocks',
+            'base ui',
+            'react',
+            'tailwindcss',
+            'nextjs',
+            'templates',
+            'shadcn cli',
+            'figma',
+        ],
+    },
+    {
         name: 'Shape',
         description:
             '26000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.',
