@@ -1,5 +1,5 @@
 {
-"count": 1310,
+"count": 1311,
 "data": [
     {
         "name": "1001 Fonts",
@@ -13053,6 +13053,28 @@
         ],
         "description": "Hundreds of extra blocks and components for shadcn/ui, Tailwind & React.",
         "url": "https://shadcnblocks.com"
+    },
+    {
+        "name": "ShadcnStore",
+        "description": "Shadcn UI blocks and templates for React, Base UI and Tailwind CSS. Free blocks in every section, shadcn CLI registry install and a Figma kit.",
+        "categories": [
+            "UI",
+            "Template",
+            "Library"
+        ],
+        "url": "https://shadcnstore.com",
+        "keywords": [
+            "shadcn",
+            "shadcn ui",
+            "shadcn blocks",
+            "base ui",
+            "react",
+            "tailwindcss",
+            "nextjs",
+            "templates",
+            "shadcn cli",
+            "figma"
+        ]
     },
     {
         "name": "Shape",
