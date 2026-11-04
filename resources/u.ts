@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'UberLLM',
+        description:
+            'One OpenAI- and Anthropic-compatible API key for GPT, Claude, Gemini, DeepSeek and uncensored models plus image, video and music, billed at provider cost.',
+        categories: ['AI', 'Tooling'],
+        url: 'https://uberllm.dev',
+        keywords: ['llm api', 'openai compatible', 'anthropic compatible', 'ai gateway', 'mcp', 'video generation api'],
+    },
+    {
         name: 'Ubersuggest',
         description:
             'Ubersuggest allows you to get insight into the strategies that are working for others in your market so you can adopt them, improve them, and gain an edge.',
