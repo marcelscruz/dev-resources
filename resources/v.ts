@@ -269,6 +269,14 @@ export const resources: Resource[] = [
         keywords: ['api', 'api client', 'api documentation', 'api testing', 'api mocks'],
     },
     {
+        name: 'Volume→Mockups',
+        description:
+            'Library of free and premium device mockups for web and app presentation. Static 8K mockups and animated 4K & 60fps mockups.',
+        categories: ['Design'],
+        url: 'https://volumemockups.com',
+        keywords: ['mockup', 'mockups', 'animated mockups', 'video mockups'],
+    },
+    {
         name: 'VPS Host Review',
         description:
             'Independent VPS hosting reviews from customers, with YABS benchmark comparisons and a provider network report.',
