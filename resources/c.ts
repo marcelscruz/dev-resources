@@ -438,14 +438,7 @@ export const resources: Resource[] = [
             'Unified API gateway for AI coding agents: one API key and balance for Claude, GPT/Codex and Gemini in Claude Code, Codex CLI and Gemini CLI. Pay per token.',
         categories: ['AI', 'Tooling'],
         url: 'https://www.codebyai.net',
-        keywords: [
-            'api gateway',
-            'llm api',
-            'claude code',
-            'codex',
-            'gemini cli',
-            'ai coding',
-        ],
+        keywords: ['api gateway', 'llm api', 'claude code', 'codex', 'gemini cli', 'ai coding'],
     },
     {
         name: 'Code to go',
