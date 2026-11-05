@@ -133,6 +133,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'testing', 'qa', 'web', 'mobile', 'regression testing', 'natural language tests'],
     },
     {
+        name: 'AgentSEO',
+        description:
+            'SEO API for AI agents and developer workflows, with structured SERP analysis, keyword research, rank tracking, content gaps, and AI visibility.',
+        categories: ['AI', 'SEO', 'Tooling'],
+        url: 'https://www.agentseo.dev/',
+        keywords: ['seo api', 'ai agents', 'serp api', 'rank tracking', 'keyword research', 'aeo', 'geo'],
+    },
+    {
         name: 'AgileHero',
         description:
             'Agile project management for software teams: boards, epics, roadmaps, retrospectives, whiteboards and wiki pages, plus a remote MCP server for coding agents.',
