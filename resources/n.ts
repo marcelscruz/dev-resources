@@ -21,6 +21,14 @@ export const resources: Resource[] = [
         keywords: ['domain name', 'dev tools', 'AI', 'CLI'],
     },
     {
+        name: 'Nano Banana Live',
+        description:
+            'Independent developer guide to Google Nano Banana (Gemini image API): Python quickstart, API error fixes, benchmarks and open-weight local alternatives.',
+        categories: ['AI', 'Learn', 'Documentation'],
+        url: 'https://www.nano-banana.live',
+        keywords: ['nano banana', 'gemini image api', 'image generation', 'image editing', 'python'],
+    },
+    {
         name: 'Narrow AI',
         description:
             'Automated Prompt Engineering and Optimization platform that can autonomously write, monitor, and optimize prompts for any model',
