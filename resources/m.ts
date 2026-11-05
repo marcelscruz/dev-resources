@@ -359,8 +359,8 @@ export const resources: Resource[] = [
     {
         name: 'Mobbin',
         description:
-            'Check out the hand-picked collection of latest mobile design patterns from apps that reflect the best in design.',
-        categories: ['Design', 'Inspiration', 'UI'],
+            'Library of real iOS and web app screens and user flows for UI reference, with an MCP server that lets AI coding agents search it.',
+        categories: ['AI', 'Design', 'Inspiration', 'UI'],
         url: 'https://mobbin.com/',
         keywords: [
             'apps',
@@ -373,8 +373,10 @@ export const resources: Resource[] = [
             'inspiration',
             'mobile',
             'ipad',
-            'android',
             'patterns',
+            'web',
+            'flows',
+            'mcp',
         ],
     },
     {
