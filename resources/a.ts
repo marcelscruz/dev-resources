@@ -566,6 +566,14 @@ export const resources: Resource[] = [
         url: 'https://authenticjobs.com/',
     },
     {
+        name: 'AUTOMATER.ai',
+        description:
+            'Tray app that tracks every AI coding agent you run: searchable past sessions, alerts when one is waiting on you, and usage across 9 providers.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://automater.ai',
+        keywords: ['ai coding', 'coding agents', 'session history', 'usage tracking', 'desktop app'],
+    },
+    {
         name: 'Automation Tools Directory',
         description: 'Handpicked Automation Tools to Boost Your Productivity',
         categories: ['Productivity', 'Tooling', 'Marketing'],
