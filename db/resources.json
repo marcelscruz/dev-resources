@@ -1,5 +1,5 @@
 {
-"count": 1312,
+"count": 1313,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1738,6 +1738,24 @@
             "frameworks",
             "development",
             "low code"
+        ]
+    },
+    {
+        "name": "Boilerplates Directory",
+        "description": "Compare SaaS starter kits and boilerplates by stack, pricing model and included features.",
+        "categories": [
+            "Productivity",
+            "Template",
+            "Startup"
+        ],
+        "url": "https://boilerplates.directory",
+        "keywords": [
+            "boilerplates",
+            "starter kits",
+            "saas",
+            "next.js",
+            "react",
+            "templates"
         ]
     },
     {
