@@ -327,8 +327,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Boilerplates Directory',
-        description:
-            'Compare SaaS starter kits and boilerplates by stack, pricing model and included features.',
+        description: 'Compare SaaS starter kits and boilerplates by stack, pricing model and included features.',
         categories: ['Productivity', 'Template', 'Startup'],
         url: 'https://boilerplates.directory',
         keywords: ['boilerplates', 'starter kits', 'saas', 'next.js', 'react', 'templates'],
