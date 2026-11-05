@@ -326,6 +326,13 @@ export const resources: Resource[] = [
         keywords: ['boilerplates', 'starter kits', 'frameworks', 'development', 'low code'],
     },
     {
+        name: 'Boilerplates Directory',
+        description: 'Compare SaaS starter kits and boilerplates by stack, pricing model and included features.',
+        categories: ['Productivity', 'Template', 'Startup'],
+        url: 'https://boilerplates.directory',
+        keywords: ['boilerplates', 'starter kits', 'saas', 'next.js', 'react', 'templates'],
+    },
+    {
         name: 'Bootify',
         description:
             'Generate Spring Boot prototypes in your browser - with custom database, REST API and best practices applied.',
