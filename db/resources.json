@@ -1,5 +1,5 @@
 {
-"count": 1322,
+"count": 1323,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8891,6 +8891,24 @@
             "local & open source",
             "cloud emulator",
             "serverless"
+        ]
+    },
+    {
+        "name": "LogBrew",
+        "description": "Hosted error tracking, logs, traces, and metrics with native OpenTelemetry ingest and an MCP server so coding agents can read production data.",
+        "categories": [
+            "Logging",
+            "Performance",
+            "Tooling"
+        ],
+        "url": "https://logbrew.co",
+        "keywords": [
+            "error tracking",
+            "logs",
+            "tracing",
+            "opentelemetry",
+            "mcp",
+            "observability"
         ]
     },
     {
