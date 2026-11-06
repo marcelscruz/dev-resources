@@ -501,6 +501,21 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'CodeI Lab',
+        description:
+            'GPT API gateway for coding agents: one key for GPT-6/5.6 via OpenAI or Anthropic protocols in Claude Code, Codex CLI, Cursor and OpenCode.',
+        categories: ['AI', 'Tooling'],
+        url: 'https://www.codeilab.com',
+        keywords: [
+            'gpt api',
+            'api gateway',
+            'claude code',
+            'codex cli',
+            'opencode',
+            'ai coding',
+        ],
+    },
+    {
         name: 'Codecademy',
         description:
             'Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more.',
