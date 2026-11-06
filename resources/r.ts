@@ -484,6 +484,14 @@ export const resources: Resource[] = [
         keywords: ['reverse engineering', 'rea', 'learning guide', 'cli', 'coding clients'],
     },
     {
+        name: 'Revolte',
+        description:
+            "Revolte's AI agents run development, testing, deployment, and production operations end to end. Not a coding assistant.",
+        categories: ['AI'],
+        url: 'https://revolte.ai/',
+        keywords: ['AI SDLC'],
+    },
+    {
         name: 'Rider',
         description: 'Develop .NET, ASP.NET, .NET Core, Xamarin or Unity applications on Windows, Mac, Linux.',
         categories: ['Editor', 'Programming'],
