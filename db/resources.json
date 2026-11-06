@@ -1,5 +1,5 @@
 {
-"count": 1319,
+"count": 1320,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7493,6 +7493,22 @@
             "Icon"
         ],
         "url": "https://icones.netlify.app/"
+    },
+    {
+        "name": "Illos",
+        "description": "Animated SVG illustrations for product sites in four themes, light and dark, 65 free. Skills and an MCP server let coding agents add them.",
+        "categories": [
+            "Illustration"
+        ],
+        "url": "https://illos.dev",
+        "keywords": [
+            "svg",
+            "animated illustrations",
+            "react",
+            "claude code",
+            "cursor",
+            "mcp"
+        ]
     },
     {
         "name": "Illustrations-figma",
