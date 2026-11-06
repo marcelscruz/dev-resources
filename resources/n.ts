@@ -95,6 +95,14 @@ export const resources: Resource[] = [
         url: 'https://nextjs.org/',
     },
     {
+        name: 'NextJSON',
+        description:
+            'Free online nested JSON parser, viewer and formatter with a JSON diff, schema generator, minifier and JSON to TOON converter that runs in the browser.',
+        categories: ['Tooling'],
+        url: 'https://nextjson.com',
+        keywords: ['json', 'json parser', 'json formatter', 'json diff', 'json schema'],
+    },
+    {
         name: 'Nextjsshop',
         description:
             'Premium Next.js UI components and templates for SaaS, landing pages, and product websites, designed to accelerate modern storefront and marketing sites.',
