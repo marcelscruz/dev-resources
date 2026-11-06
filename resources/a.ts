@@ -138,7 +138,15 @@ export const resources: Resource[] = [
             'Free library of 5,101 Claude Code skills and 353 coding-agent system prompts, plus 2,444 AI image and video prompts shown with their real outputs.',
         categories: ['AI', 'Tooling', 'Learn'],
         url: 'https://agentcraft.dev',
-        keywords: ['claude code', 'agent skills', 'system prompts', 'coding agents', 'prompt library', 'gpt image', 'seedance'],
+        keywords: [
+            'claude code',
+            'agent skills',
+            'system prompts',
+            'coding agents',
+            'prompt library',
+            'gpt image',
+            'seedance',
+        ],
     },
     {
         name: 'AgileHero',
