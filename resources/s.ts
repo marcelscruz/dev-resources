@@ -496,6 +496,24 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'SinoGate',
+        description:
+            'OpenAI-compatible API gateway for Chinese LLMs (Qwen, DeepSeek, Kimi, GLM, MiniMax). One key, USD Stripe billing, change your base URL.',
+        categories: ['AI', 'API Building'],
+        url: 'https://sinogate.ai/',
+        keywords: [
+            'api gateway',
+            'openai compatible',
+            'llm',
+            'qwen',
+            'deepseek',
+            'kimi',
+            'glm',
+            'minimax',
+            'chinese llm',
+        ],
+    },
+    {
         name: 'Site Punchlist',
         description:
             'Crawls a whole site with axe-core, groups repeated findings by the component causing them, and returns a prioritised fix list as HTML, PDF and CSV.',
