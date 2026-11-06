@@ -508,6 +508,14 @@ export const resources: Resource[] = [
         url: 'https://appwrite.io/',
     },
     {
+        name: 'Appy',
+        description:
+            'Mobile deep linking and attribution SDKs, smart links, REST API and MCP tools for app developers. Hosted SDK access requires Enterprise.',
+        categories: ['Library', 'Analytics', 'Tooling'],
+        url: 'https://appy.to',
+        keywords: ['mobile', 'deep linking', 'attribution', 'sdk', 'rest api', 'mcp'],
+    },
+    {
         name: 'Aptabase',
         description:
             'Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web apps. Get simple and actionable insights without compromising user privacy.',
