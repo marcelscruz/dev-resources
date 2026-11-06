@@ -1079,6 +1079,14 @@ export const resources: Resource[] = [
         keywords: ['privacy', 'cookie', 'policy'],
     },
     {
+        name: 'CoolColor Space',
+        description:
+            'Free browser color tools: nearest Tailwind v4 or v3.4 class for a HEX, 46 converters with OKLCH, a WCAG 2 contrast checker and a color blindness simulator.',
+        categories: ['Color', 'Accessibility', 'Design'],
+        url: 'https://coolcolor.space',
+        keywords: ['hex to tailwind', 'tailwind colors', 'oklch', 'color converter', 'contrast checker', 'wcag', 'color blindness simulator', 'css gradient', 'color palette'],
+    },
+    {
         name: 'Coolors',
         description: 'Generate or browse beautiful color combinations for your designs.',
         categories: ['Color'],
