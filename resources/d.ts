@@ -190,6 +190,14 @@ export const resources: Resource[] = [
         keywords: ['python', 'pipeline', 'reverse engineering', 'windows drivers', 'ghidra', 'semgrep'],
     },
     {
+        name: 'Denpex',
+        description:
+            'GPU log diagnostics for training and inference failures across CUDA, PyTorch, NCCL, and vLLM workloads.',
+        categories: ['Logging', 'Tooling', 'AI'],
+        url: 'https://denpex.com',
+        keywords: ['gpu', 'cuda', 'pytorch', 'nccl', 'vllm', 'diagnostics', 'debugging'],
+    },
+    {
         name: 'Design Resources',
         description: 'A curated list of the best design resources handpicked from around the web.',
         categories: ['Design', 'UI'],
