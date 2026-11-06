@@ -133,6 +133,22 @@ export const resources: Resource[] = [
         keywords: ['ai', 'testing', 'qa', 'web', 'mobile', 'regression testing', 'natural language tests'],
     },
     {
+        name: 'AgentCraft',
+        description:
+            'Free library of 5,101 Claude Code skills and 353 coding-agent system prompts, plus 2,444 AI image and video prompts shown with their real outputs.',
+        categories: ['AI', 'Tooling', 'Learn'],
+        url: 'https://agentcraft.dev',
+        keywords: [
+            'claude code',
+            'agent skills',
+            'system prompts',
+            'coding agents',
+            'prompt library',
+            'gpt image',
+            'seedance',
+        ],
+    },
+    {
         name: 'AgileHero',
         description:
             'Agile project management for software teams: boards, epics, roadmaps, retrospectives, whiteboards and wiki pages, plus a remote MCP server for coding agents.',
