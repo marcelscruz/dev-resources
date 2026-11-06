@@ -200,6 +200,13 @@ export const resources: Resource[] = [
         keywords: ['icons', 'svg', 'png', 'free icons', 'no attribution'],
     },
     {
+        name: 'NoCert',
+        description: 'Discovers public and internal TLS certificates, tracks expiry dates and sends alerts.',
+        categories: ['Security', 'Tooling'],
+        url: 'https://nocert.io',
+        keywords: ['tls', 'ssl', 'certificates', 'monitoring', 'expiry alerts'],
+    },
+    {
         name: 'Nomad List',
         description: 'Best places to live for a digital nomad',
         categories: ['Job', 'Job', 'Remote'],
