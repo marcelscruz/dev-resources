@@ -1,5 +1,5 @@
 {
-"count": 1314,
+"count": 1315,
 "data": [
     {
         "name": "1001 Fonts",
@@ -12462,6 +12462,17 @@
             "learning guide",
             "cli",
             "coding clients"
+        ]
+    },
+    {
+        "name": "Revolte",
+        "description": "Revolte's AI agents run development, testing, deployment, and production operations end to end. Not a coding assistant.",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://revolte.ai/",
+        "keywords": [
+            "AI SDLC"
         ]
     },
     {
