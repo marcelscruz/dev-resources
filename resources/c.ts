@@ -318,6 +318,21 @@ export const resources: Resource[] = [
         url: 'https://circumicons.com/',
     },
     {
+        name: 'Ciyo',
+        description:
+            'AI design workspace with a conversational design agent and an infinite canvas for creating and editing images and videos.',
+        categories: ['AI', 'Design', 'Image'],
+        url: 'https://ciyo.ai',
+        keywords: [
+            'ai design',
+            'design agent',
+            'infinite canvas',
+            'image generation',
+            'video generation',
+            'creative tools',
+        ],
+    },
+    {
         name: 'CleanSnap',
         description:
             'CleanSnap is a free AI Images maker. Create a beautiful image from a screenshot in seconds. Without any watermark.',
