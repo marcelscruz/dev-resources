@@ -123,6 +123,14 @@ export const resources: Resource[] = [
         url: 'https://icones.netlify.app/',
     },
     {
+        name: 'Illos',
+        description:
+            'Animated SVG illustrations for product sites in four themes, light and dark, 65 free. Skills and an MCP server let coding agents add them.',
+        categories: ['Illustration'],
+        url: 'https://illos.dev',
+        keywords: ['svg', 'animated illustrations', 'react', 'claude code', 'cursor', 'mcp'],
+    },
+    {
         name: 'Illustrations-figma',
         description:
             'More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.',
