@@ -388,6 +388,14 @@ export const resources: Resource[] = [
         url: 'https://polypane.app/',
     },
     {
+        name: 'Portproof',
+        description:
+            'Shared mobile 4G/5G and residential proxies priced per GB, with one balance for both pools. HTTP or SOCKS5, country chosen in the username, plus an HTTP API and an MCP server for AI agents.',
+        categories: ['Scraping', 'Testing'],
+        url: 'https://portproof.org/',
+        keywords: ['proxy', 'mobile proxy', 'residential proxy', 'socks5', 'mcp'],
+    },
+    {
         name: 'PostgreSQL',
         description:
             'PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.',
