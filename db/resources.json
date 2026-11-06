@@ -1,5 +1,5 @@
 {
-"count": 1313,
+"count": 1314,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2540,6 +2540,24 @@
             "Icon"
         ],
         "url": "https://circumicons.com/"
+    },
+    {
+        "name": "Ciyo",
+        "description": "AI design workspace with a conversational design agent and an infinite canvas for creating and editing images and videos.",
+        "categories": [
+            "AI",
+            "Design",
+            "Image"
+        ],
+        "url": "https://ciyo.ai",
+        "keywords": [
+            "ai design",
+            "design agent",
+            "infinite canvas",
+            "image generation",
+            "video generation",
+            "creative tools"
+        ]
     },
     {
         "name": "CleanSnap",
