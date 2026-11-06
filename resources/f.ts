@@ -408,6 +408,14 @@ export const resources: Resource[] = [
         keywords: ['game development', '2d sprites', 'game assets', 'sprite sheets'],
     },
     {
+        name: 'Formable',
+        description:
+            'Formable is a e-signing API and SDK for developers to integrate e-signing service into their software. Formable supports 10+ languages and frameworks.',
+        categories: ['Library'],
+        url: 'https://www.formabledocs.com/developers',
+        keywords: ['e-signing', 'redlining', 'e-signing api', 'e-signing sdk', 'contract api'],
+    },
+    {
         name: 'Format JSON Online',
         description: 'A Complete Toolkit for JSON & Data Processing.',
         categories: ['Productivity', 'Tooling'],
