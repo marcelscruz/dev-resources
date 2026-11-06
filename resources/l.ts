@@ -339,6 +339,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'LogBrew',
+        description:
+            'Hosted error tracking, logs, traces, and metrics with native OpenTelemetry ingest and an MCP server so coding agents can read production data.',
+        categories: ['Logging', 'Performance', 'Tooling'],
+        url: 'https://logbrew.co',
+        keywords: ['error tracking', 'logs', 'tracing', 'opentelemetry', 'mcp', 'observability'],
+    },
+    {
         name: 'logoapi.sh',
         description:
             'Free company logo API. SVG logo by domain, no API key or signup. A free alternative to the Clearbit Logo API.',
