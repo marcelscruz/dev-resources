@@ -146,6 +146,22 @@ export const resources: Resource[] = [
         keywords: ['ascii art', 'image to ascii', 'readme', 'ansi', 'markdown', 'local processing'],
     },
     {
+        name: 'imagetoolbox',
+        description:
+            'Converts images to WebP or AVIF and compresses JPG or WebP to fit a size you pick, in the browser. Also makes favicons. Nothing is uploaded.',
+        categories: ['Image', 'Performance'],
+        url: 'https://imagetoolbox.org',
+        keywords: [
+            'image converter',
+            'heic to jpg',
+            'webp',
+            'avif',
+            'image compressor',
+            'favicon generator',
+            'image to base64',
+        ],
+    },
+    {
         name: 'Img.Upscaler',
         description: 'Upscale and enhance your image by using the latest AI technology. Support batch process.',
         categories: ['AI', 'Image'],
