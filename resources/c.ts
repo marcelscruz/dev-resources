@@ -1177,6 +1177,27 @@ export const resources: Resource[] = [
         url: 'https://coreui.io/',
     },
     {
+        name: 'Corsair',
+        description:
+            'Corsair is an open source integration layer connecting AI agents to 200+ APIs through one syntax, handling OAuth, tokens, and webhooks',
+        categories: ['Open Source'],
+        url: 'https://corsair.dev/',
+        keywords: [
+            'open source',
+            'MCP',
+            'Model Context Protocol',
+            'AI agents',
+            'API integration',
+            'OAuth',
+            'developer tools',
+            'TypeScript',
+            'webhooks',
+            'integration platform',
+            'SaaS',
+            'automation',
+        ],
+    },
+    {
         name: 'Cortex',
         description:
             'Generate interactive API documentation, typed SDKs, and MCP servers from API specifications and Markdown.',
