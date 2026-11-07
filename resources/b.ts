@@ -464,6 +464,24 @@ export const resources: Resource[] = [
         url: 'https://brave.com/',
     },
     {
+        name: 'BrewPage',
+        description:
+            'Free hosting for HTML and Markdown pages, static sites, files, JSON and KV: one API call or MCP tool returns an HTTPS link. No signup; content expires.',
+        categories: ['Hosting', 'AI', 'Tooling'],
+        url: 'https://brewpage.app',
+        keywords: [
+            'static hosting',
+            'html hosting',
+            'markdown',
+            'mcp',
+            'ai agents',
+            'api',
+            'json',
+            'kv',
+            'file sharing',
+        ],
+    },
+    {
         name: 'Briks',
         description: 'The AI Spreadsheet to Create Reports, Presentations, Charts, and Visuals',
         categories: ['AI', 'Productivity'],
