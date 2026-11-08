@@ -93,6 +93,22 @@ export const resources: Resource[] = [
         url: 'https://www.mailgun.com/',
     },
     {
+        name: 'MailVeri',
+        description:
+            'MailVeri cleans email lists in bulk and in real time: deep SMTP, catch-all, disposable and role detection. $59 per 100K, credits never expire, 1,000 free credits.',
+        categories: ['Email'],
+        url: 'https://mailveri.com',
+        keywords: [
+            'email verification',
+            'email validation',
+            'list cleaning',
+            'disposable email',
+            'catch-all',
+            'api',
+            'mcp',
+        ],
+    },
+    {
         name: 'Majestic',
         description:
             '⚡ Zero config GUI for Jest. Contribute to Raathigesh/majestic development by creating an account on GitHub.',
