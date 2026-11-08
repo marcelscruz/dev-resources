@@ -1,5 +1,5 @@
 {
-"count": 1326,
+"count": 1327,
 "data": [
     {
         "name": "1001 Fonts",
@@ -739,6 +739,24 @@
             "Icon"
         ],
         "url": "https://animatedicons.co/"
+    },
+    {
+        "name": "AnimatedWebs",
+        "description": "Animated website templates with live demos and AI build prompts for Claude Code, Cursor, v0 and Lovable, plus an MCP server for coding agents.",
+        "categories": [
+            "Template",
+            "Animation",
+            "Tooling"
+        ],
+        "url": "https://animatedwebs.com/",
+        "keywords": [
+            "animated websites",
+            "website templates",
+            "webgl",
+            "three.js",
+            "mcp",
+            "ai prompts"
+        ]
     },
     {
         "name": "Animista",
