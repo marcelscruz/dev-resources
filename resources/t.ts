@@ -324,6 +324,14 @@ export const resources: Resource[] = [
         url: 'https://www.youtube.com/channel/UCDQTzZ871T7uJpx9yeMPhAw',
     },
     {
+        name: 'Thordata',
+        description:
+            'Reliable residential proxies for web scraping and automation: over 100 million real residential IPs across 190+ countries, plus a SERP API, Web Scraper API and Web Unlocker.',
+        categories: ['Scraping'],
+        url: 'https://www.thordata.com/',
+        keywords: ['scraping', 'proxy', 'residential proxy', 'serp api', 'web scraper api', 'web unlocker', 'search'],
+    },
+    {
         name: 'Thridy',
         description:
             'Free library of 13,000+ 3D icons rendered in one consistent style. Icons download as HD transparent PNGs, free for personal and commercial use with no attribution or signup.',
