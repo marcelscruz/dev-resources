@@ -1,5 +1,5 @@
 {
-"count": 1328,
+"count": 1329,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7616,6 +7616,25 @@
             "ansi",
             "markdown",
             "local processing"
+        ]
+    },
+    {
+        "name": "Imagera Code",
+        "description": "AI coding agent for the terminal: reads and edits your project, runs commands and tests, and works with Claude, GPT, Gemini and hundreds of other models on one paid plan.",
+        "categories": [
+            "AI",
+            "Terminal",
+            "Code Generator"
+        ],
+        "url": "https://imagera.ai/code",
+        "keywords": [
+            "ai coding agent",
+            "cli",
+            "terminal",
+            "claude",
+            "gpt",
+            "gemini",
+            "mcp"
         ]
     },
     {
