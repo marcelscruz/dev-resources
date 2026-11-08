@@ -146,6 +146,14 @@ export const resources: Resource[] = [
         keywords: ['ascii art', 'image to ascii', 'readme', 'ansi', 'markdown', 'local processing'],
     },
     {
+        name: 'Imagera Code',
+        description:
+            'AI coding agent for the terminal: reads and edits your project, runs commands and tests, and works with Claude, GPT, Gemini and hundreds of other models on one paid plan.',
+        categories: ['AI', 'Terminal', 'Code Generator'],
+        url: 'https://imagera.ai/code',
+        keywords: ['ai coding agent', 'cli', 'terminal', 'claude', 'gpt', 'gemini', 'mcp'],
+    },
+    {
         name: 'imagetoolbox',
         description:
             'Converts images to WebP or AVIF and compresses JPG or WebP to fit a size you pick, in the browser. Also makes favicons. Nothing is uploaded.',
