@@ -352,6 +352,14 @@ export const resources: Resource[] = [
         url: 'https://animatedicons.co/',
     },
     {
+        name: 'AnimatedWebs',
+        description:
+            'Animated website templates with live demos and AI build prompts for Claude Code, Cursor, v0 and Lovable, plus an MCP server for coding agents.',
+        categories: ['Template', 'Animation', 'Tooling'],
+        url: 'https://animatedwebs.com/',
+        keywords: ['animated websites', 'website templates', 'webgl', 'three.js', 'mcp', 'ai prompts'],
+    },
+    {
         name: 'Animista',
         description:
             'Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use.',
