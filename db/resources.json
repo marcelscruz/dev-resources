@@ -1,5 +1,5 @@
 {
-"count": 1329,
+"count": 1330,
 "data": [
     {
         "name": "1001 Fonts",
@@ -15112,6 +15112,23 @@
             "YouTube Channel"
         ],
         "url": "https://www.youtube.com/channel/UCDQTzZ871T7uJpx9yeMPhAw"
+    },
+    {
+        "name": "Thordata",
+        "description": "Reliable residential proxies for web scraping and automation: over 100 million real residential IPs across 190+ countries, plus a SERP API, Web Scraper API and Web Unlocker.",
+        "categories": [
+            "Scraping"
+        ],
+        "url": "https://www.thordata.com/",
+        "keywords": [
+            "scraping",
+            "proxy",
+            "residential proxy",
+            "serp api",
+            "web scraper api",
+            "web unlocker",
+            "search"
+        ]
     },
     {
         "name": "Thridy",
