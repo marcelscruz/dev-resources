@@ -9,6 +9,15 @@
         "lockup": false
     },
     {
+        "name": "Thordata",
+        "link": "https://www.thordata.com/products/serp-api?op=rhea&from=dev&ref=dr-pa&utm_source=dev-resources-repo-readme&utm_medium=referral&utm_content=sponsored",
+        "blurb": "SERP API for real-time results from Google, Bing and more, backed by over 100 million residential IPs.",
+        "logoDark": "assets/thordata-2-dark-mode.svg",
+        "logoLight": "assets/thordata-2-light-mode.svg",
+        "width": 131,
+        "lockup": false
+    },
+    {
         "name": "TranscriptFetch",
         "link": "https://transcriptfetch.com?ref=dr-pa&utm_source=dev-resources-repo-readme&utm_medium=referral&utm_content=sponsored",
         "blurb": "The transcript API for social media video. Get transcripts at scale from YouTube, TikTok or Instagram.",

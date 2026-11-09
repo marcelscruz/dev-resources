@@ -10,6 +10,13 @@
 
 
 <div>
+    <p align="center"><a href="https://www.thordata.com/products/serp-api?op=rhea&from=dev&ref=dr-pa&utm_source=dev-resources-repo-readme&utm_medium=referral&utm_content=sponsored"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/thordata-2-dark-mode.svg" width="131px"><source media="(prefers-color-scheme: light)" srcset="./assets/thordata-2-light-mode.svg" width="131px"><img alt="Thordata logo" src="./assets/thordata-2-dark-mode.svg" width="131px"></picture></a></p>
+    <p align="center"><a href="https://www.thordata.com/products/serp-api?op=rhea&from=dev&ref=dr-pa&utm_source=dev-resources-repo-readme&utm_medium=referral&utm_content=sponsored">Thordata</a>: SERP API for real-time results from Google, Bing and more, backed by over 100 million residential IPs.</p>
+</div><br/>
+
+
+
+<div>
     <p align="center"><a href="https://transcriptfetch.com?ref=dr-pa&utm_source=dev-resources-repo-readme&utm_medium=referral&utm_content=sponsored"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/transcriptfetch-dark-mode.png" width="28px"><source media="(prefers-color-scheme: light)" srcset="./assets/transcriptfetch-light-mode.png" width="28px"><img alt="TranscriptFetch logo" src="./assets/transcriptfetch-dark-mode.png" width="28px" align="absmiddle" hspace="8"></picture></a><b>TranscriptFetch</b></p>
     <p align="center"><a href="https://transcriptfetch.com?ref=dr-pa&utm_source=dev-resources-repo-readme&utm_medium=referral&utm_content=sponsored">TranscriptFetch</a>: The transcript API for social media video. Get transcripts at scale from YouTube, TikTok or Instagram.</p>
 </div><br/>
