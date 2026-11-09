@@ -53,6 +53,14 @@ export const resources: Resource[] = [
         keywords: ['AI', 'photo editing', 'image editing', 'background remover'],
     },
     {
+        name: 'Magic Layers',
+        description:
+            'Separates a flat PNG or JPEG into layers: text, subject, decorations and background come back as named transparent PNG layers you can download and edit.',
+        categories: ['Image', 'AI'],
+        url: 'https://magiclayers.net/',
+        keywords: ['image to layers', 'separate image layers', 'layer decomposition', 'design'],
+    },
+    {
         name: 'Magic Potion',
         description: 'Visual AI Prompt Editor',
         categories: ['Productivity', 'AI', 'Editor'],
