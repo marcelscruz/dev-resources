@@ -1389,6 +1389,14 @@ export const resources: Resource[] = [
         keywords: ['dev tools', 'developer tools', 'artificial intelligence', 'code review', 'ai code reviewer'],
     },
     {
+        name: 'CurateClick',
+        description:
+            'CurateClick is a human-curated product discovery platform: a hand-reviewed catalog of software, creative tools, and independent launches.',
+        categories: ['Startup', 'Marketing', 'Productivity'],
+        url: 'https://curateclick.com/',
+        keywords: ['developer tools', 'product discovery', 'curation', 'directory', 'software', 'launch'],
+    },
+    {
         name: 'CurlShot',
         description:
             'Screenshot API that turns any URL, HTML or Markdown into a PNG, JPEG, WebP, PDF or scrolling video, rendered in a real browser. Free plan, no card.',
