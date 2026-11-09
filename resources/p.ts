@@ -224,14 +224,6 @@ export const resources: Resource[] = [
         keywords: ['image to svg', 'png to svg', 'raster to vector', 'webassembly', 'vtracer', 'browser-based'],
     },
     {
-        name: 'PicPrepper',
-        description:
-            'Browser-based image preparation for web projects: compress, resize, and convert JPG, PNG, and WebP locally without uploading.',
-        categories: ['Image', 'Performance', 'Tooling'],
-        url: 'https://picprepper.com',
-        keywords: ['image compression', 'image resize', 'webp', 'frontend', 'browser-based'],
-    },
-    {
         name: 'Pictify',
         description: 'Pictify.io provides API to convert HTML into image',
         categories: ['Image', 'Programming'],
@@ -451,14 +443,6 @@ export const resources: Resource[] = [
         description: 'Ultimate UI Framework.',
         categories: ['UI'],
         url: 'https://www.primefaces.org/',
-    },
-    {
-        name: 'PrintSocket',
-        description:
-            'Send PDFs, ZPL labels and ESC/POS receipts to printers you control, from any language, over a REST API.',
-        categories: ['API Building'],
-        url: 'https://www.printsocket.com',
-        keywords: ['printing', 'cloud printing', 'escpos', 'zpl', 'receipt printer', 'label printer', 'rest api'],
     },
     {
         name: 'Prisma',
