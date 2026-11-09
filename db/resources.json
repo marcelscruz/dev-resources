@@ -1,5 +1,5 @@
 {
-"count": 1330,
+"count": 1331,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9226,6 +9226,21 @@
             "photo editing",
             "image editing",
             "background remover"
+        ]
+    },
+    {
+        "name": "Magic Layers",
+        "description": "Separates a flat PNG or JPEG into layers: text, subject, decorations and background come back as named transparent PNG layers you can download and edit.",
+        "categories": [
+            "Image",
+            "AI"
+        ],
+        "url": "https://magiclayers.net/",
+        "keywords": [
+            "image to layers",
+            "separate image layers",
+            "layer decomposition",
+            "design"
         ]
     },
     {
