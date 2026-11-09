@@ -1,5 +1,5 @@
 {
-"count": 1329,
+"count": 1330,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4878,6 +4878,22 @@
             "Icon"
         ],
         "url": "https://khushmeen.com/icons.html"
+    },
+    {
+        "name": "Dotdat.AI",
+        "description": "All-in-one AI marketing platform. Rank, publish, and get cited.",
+        "categories": [
+            "Marketing",
+            "AI",
+            "SEO"
+        ],
+        "url": "https://dotdat.ai/",
+        "keywords": [
+            "ai marketing",
+            "seo",
+            "ai seo",
+            "content marketing"
+        ]
     },
     {
         "name": "Dotnet Gig",
