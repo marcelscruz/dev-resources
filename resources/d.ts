@@ -484,6 +484,13 @@ export const resources: Resource[] = [
         url: 'https://khushmeen.com/icons.html',
     },
     {
+        name: 'Dotdat.AI',
+        description: 'All-in-one AI marketing platform. Rank, publish, and get cited.',
+        categories: ['Marketing', 'AI', 'SEO'],
+        url: 'https://dotdat.ai/',
+        keywords: ['ai marketing', 'seo', 'ai seo', 'content marketing'],
+    },
+    {
         name: 'Dotnet Gig',
         description: 'Find .NET developer jobs',
         categories: ['Job'],
