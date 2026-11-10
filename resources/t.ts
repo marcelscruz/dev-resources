@@ -471,6 +471,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Transcript Dock',
+        description:
+            'Video transcript API for YouTube, TikTok and Instagram links and uploaded media, with timed segments, SRT, VTT and JSON exports and an MCP server.',
+        categories: ['AI', 'Video', 'Tooling'],
+        url: 'https://www.transcriptdock.com/',
+        keywords: ['transcript api', 'youtube transcript', 'tiktok transcript', 'speech to text', 'subtitles', 'mcp'],
+    },
+    {
         name: 'TranscriptFetch',
         description:
             'The transcript API for social media video. Get transcripts at scale from YouTube, TikTok or Instagram.',
