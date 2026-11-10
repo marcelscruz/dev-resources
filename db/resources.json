@@ -1,5 +1,5 @@
 {
-"count": 1331,
+"count": 1332,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8297,6 +8297,23 @@
             "Tooling"
         ],
         "url": "https://jvlangai.com"
+    },
+    {
+        "name": "Kaeso",
+        "description": "MIT-licensed, self-hosted AI gateway in Rust, with OpenAI- and Anthropic-compatible APIs, SSO, budgets and request logs.",
+        "categories": [
+            "AI",
+            "Open Source",
+            "Tooling"
+        ],
+        "url": "https://kaeso.app",
+        "keywords": [
+            "ai gateway",
+            "llm",
+            "self-hosted",
+            "rust",
+            "openai"
+        ]
     },
     {
         "name": "KarmaLinks",
