@@ -262,6 +262,14 @@ export const resources: Resource[] = [
         keywords: ['agent networking', 'overlay network', 'NAT traversal', 'p2p', 'app store'],
     },
     {
+        name: 'Piloterr',
+        description:
+            'Web scraping API: parsed JSON from 300+ websites (Amazon, LinkedIn, Google, Zillow...), plus headless rendering and an AI web unblocker.',
+        categories: ['Scraping'],
+        url: 'https://www.piloterr.com/',
+        keywords: ['web scraping api', 'data extraction', 'headless browser', 'web unblocker', 'json'],
+    },
+    {
         name: 'PimpMySnap',
         description:
             'PimpMySnap is a powerful screenshot editor capable of transforming your screenshots into eye-catching visuals.',
