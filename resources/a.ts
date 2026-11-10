@@ -598,6 +598,14 @@ export const resources: Resource[] = [
         url: 'https://authenticjobs.com/',
     },
     {
+        name: 'Autom',
+        description:
+            'SERP API: Google, Bing, Brave, Yahoo and DuckDuckGo results as structured JSON, 1 credit per request on every engine.',
+        categories: ['Scraping', 'SEO'],
+        url: 'https://www.autom.dev/',
+        keywords: ['serp api', 'google search api', 'search api', 'web search', 'mcp'],
+    },
+    {
         name: 'AUTOMATER.ai',
         description:
             'Tray app that tracks every AI coding agent you run: searchable past sessions, alerts when one is waiting on you, and usage across 9 providers.',
