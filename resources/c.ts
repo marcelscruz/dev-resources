@@ -71,6 +71,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'CaptureKit',
+        description: 'Screenshot API (PNG, JPEG, WebP, PDF) plus page content as Markdown and AI page analysis.',
+        categories: ['Screenshot', 'Scraping'],
+        url: 'https://www.capturekit.dev/',
+        keywords: ['screenshot api', 'website screenshot', 'html to pdf', 'markdown', 'web scraping'],
+    },
+    {
         name: 'Carbon',
         description: 'Carbon is the easiest way to create and share beautiful images of your source code.',
         categories: ['Code Snippet', 'Screenshot'],
