@@ -154,6 +154,14 @@ export const resources: Resource[] = [
         keywords: ['ai coding agent', 'cli', 'terminal', 'claude', 'gpt', 'gemini', 'mcp'],
     },
     {
+        name: 'Imagera LLM API',
+        description:
+            'One OpenAI-compatible endpoint for 320+ language models from 48 labs (GPT, Claude, Gemini, DeepSeek, Qwen and more), billed per token from a prepaid balance, with a public price list.',
+        categories: ['AI', 'API Building'],
+        url: 'https://imagera.ai/llm-api',
+        keywords: ['llm api', 'openai compatible', 'model router', 'claude', 'gpt', 'gemini', 'deepseek'],
+    },
+    {
         name: 'imagetoolbox',
         description:
             'Converts images to WebP or AVIF and compresses JPG or WebP to fit a size you pick, in the browser. Also makes favicons. Nothing is uploaded.',
