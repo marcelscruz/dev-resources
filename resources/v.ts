@@ -91,6 +91,14 @@ export const resources: Resource[] = [
         url: 'https://vectr.com/',
     },
     {
+        name: 'Veille',
+        description:
+            'API to validate emails, domains, IPs, phone numbers, VAT numbers and IBANs and block fake sign-ups and fraud.',
+        categories: ['Security', 'Email'],
+        url: 'https://www.veille.io/',
+        keywords: ['email validation', 'fraud prevention', 'disposable email', 'ip intelligence', 'vat validation'],
+    },
+    {
         name: 'VeilStrat',
         url: 'https://veilstrat.com',
         description:
