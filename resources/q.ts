@@ -24,6 +24,14 @@ export const resources: Resource[] = [
         url: 'https://qoqo.ai/',
     },
     {
+        name: 'Quick Image Kit',
+        description:
+            'Browser-side image toolkit for web assets: compress to an exact KB target, convert JPG/PNG/WebP, resize, crop and generate multi-size favicons. Files never leave the tab.',
+        categories: ['Image', 'Performance', 'Tooling'],
+        url: 'https://quickimagekit.com/',
+        keywords: ['image compression', 'image converter', 'webp', 'favicon', 'resize', 'client-side'],
+    },
+    {
         name: 'Quicklisting',
         description: 'Auto-submit to 50+ directories',
         categories: ['Marketing'],
