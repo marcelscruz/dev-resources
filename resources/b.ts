@@ -504,6 +504,14 @@ export const resources: Resource[] = [
         url: 'https://www.browserling.com/',
     },
     {
+        name: 'BrowserSolver',
+        description:
+            'Web unlocker API that fetches pages behind Cloudflare and DataDome, with JS rendering, crawling and screenshots.',
+        categories: ['Scraping', 'Browser'],
+        url: 'https://www.browsersolver.com/',
+        keywords: ['web unlocker', 'anti-bot', 'cloudflare', 'headless browser', 'web scraping api'],
+    },
+    {
         name: 'BrowserStack',
         description:
             'Instant access to 2000+ browsers and real iOS and Android devices for cross browser testing. Ship apps and websites that work for everyone, every time. Get Free Trial.',
