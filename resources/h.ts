@@ -213,6 +213,14 @@ export const resources: Resource[] = [
         url: 'https://www.hloom.com/',
     },
     {
+        name: 'HopBase',
+        description:
+            'API for text, image and video AI models such as Claude, GPT, Gemini and DeepSeek, compatible with OpenAI, Anthropic and Gemini SDKs and coding agents.',
+        categories: ['AI'],
+        url: 'https://hop-base.com',
+        keywords: ['llm', 'ai-gateway', 'openai-compatible', 'anthropic', 'claude-code'],
+    },
+    {
         name: 'Hoppscotch',
         description: 'Helps you create requests faster, saving precious time on development.',
         categories: ['API Building'],
