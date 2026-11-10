@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Kaeso',
+        description:
+            'MIT-licensed, self-hosted AI gateway in Rust, with OpenAI- and Anthropic-compatible APIs, SSO, budgets and request logs.',
+        categories: ['AI', 'Open Source', 'Tooling'],
+        url: 'https://kaeso.app',
+        keywords: ['ai gateway', 'llm', 'self-hosted', 'rust', 'openai'],
+    },
+    {
         name: 'KarmaLinks',
         description:
             'KarmaLinks is an AI powered backlink exchange platform. Users are able receive backlinks from others and must give backlinks in exchange.',
