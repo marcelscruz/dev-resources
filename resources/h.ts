@@ -334,6 +334,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'writing', 'human', 'text'],
     },
     {
+        name: 'HuntAPI',
+        description:
+            'API to download video and audio from public media URLs, or extract their metadata, through async jobs.',
+        categories: ['Video', 'Audio'],
+        url: 'https://www.huntapi.com/',
+        keywords: ['video download api', 'audio download', 'media metadata', 'youtube', 'tiktok'],
+    },
+    {
         name: 'Hypertune',
         description:
             'Type-safe feature flags, A/B testing, analytics and app configuration, with Git-style version control and local, synchronous, in-memory flag evaluation.',
