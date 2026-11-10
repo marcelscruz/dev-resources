@@ -171,6 +171,14 @@ export const resources: Resource[] = [
         url: 'https://gionkunz.github.io/chartist-js/',
     },
     {
+        name: 'ChartQuery',
+        description:
+            'Generate charts, diagrams, QR codes, barcodes and shipping labels as PNG, SVG or PDF through one API.',
+        categories: ['Image', 'Tooling'],
+        url: 'https://www.chartquery.com/',
+        keywords: ['chart api', 'qr code api', 'barcode api', 'diagram', 'zpl'],
+    },
+    {
         name: 'Chatclient AI',
         description:
             'Build Custom AI Chatbot for Your Website. Chatclient helps you with creating your own custom AI Chatbot based on your website and company data, just like ChatGPT. Seamlessly integrate it as a widget on your website.',
