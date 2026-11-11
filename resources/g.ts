@@ -189,6 +189,14 @@ export const resources: Resource[] = [
         url: 'https://www.jetbrains.com/go/',
     },
     {
+        name: 'Google AI Studio',
+        description:
+            'Browser playground and API for Gemini models with a free tier. Per-project rate limits, no credit card required to start building.',
+        categories: ['AI'],
+        url: 'https://aistudio.google.com',
+        keywords: ['ai', 'gemini', 'api', 'playground'],
+    },
+    {
         name: 'Google Chrome Developers',
         description: 'Making the web more awesome.',
         categories: ['Programming', 'YouTube Channel'],
