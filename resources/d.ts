@@ -512,14 +512,6 @@ export const resources: Resource[] = [
         url: 'https://www.dreamhost.com/website-builder/',
     },
     {
-        name: 'DreamStudio',
-        description:
-            "DreamStudio is an online creative tool to generate images with AI. Made by the world's leading open source generative AI company, Stability.ai.",
-        categories: ['AI', 'Image'],
-        url: 'https://dreamstudio.ai',
-        keywords: ['ai', 'image'],
-    },
-    {
         name: 'Dribbble',
         description:
             'Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.',

@@ -148,13 +148,6 @@ export const resources: Resource[] = [
         keywords: ['free stock videos', 'pexels', 'videos', 'design resource', 'footage', 'hd'],
     },
     {
-        name: 'Phind',
-        description: 'The AI search engine for developers.',
-        categories: ['AI'],
-        url: 'https://www.phind.com',
-        keywords: ['ai', 'search engine'],
-    },
-    {
         name: 'Photo Rush',
         description:
             'Generate professional images of products with AI. Save money and use AI to do a photo shoot from your laptop or phone instead of hiring an expensive photographer.Get your product images in minutes',
