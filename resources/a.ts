@@ -88,6 +88,14 @@ export const resources: Resource[] = [
         keywords: ['ads', 'ads aggregator', 'analyzing competitors', 'creatives'],
     },
     {
+        name: 'AdminKit',
+        description:
+            'Free, MIT-licensed Bootstrap 5 admin dashboard template in plain JavaScript, no jQuery. HTML, React and Next.js versions, light and dark mode.',
+        categories: ['Template', 'UI', 'Open Source'],
+        url: 'https://adminkit.io/',
+        keywords: ['bootstrap', 'admin template', 'dashboard', 'react', 'nextjs', 'html'],
+    },
+    {
         name: 'AdminMart',
         description: 'The Best Free and Premium Admin Templates by AdminMart.',
         categories: ['Template'],
