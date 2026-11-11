@@ -145,6 +145,14 @@ export const resources: Resource[] = [
         keywords: ['ChatGPT Chatbot', 'AI Chatbot', 'Customer Support', 'Chatbot'],
     },
     {
+        name: 'chainjobs',
+        description:
+            'Free Web3 and freelance job board where clients and freelancers chat directly; payment in crypto or bank transfer, 0% platform commission.',
+        categories: ['Freelance', 'Job', 'Web3'],
+        url: 'https://chainjobs.app/',
+        keywords: ['web3 jobs', 'freelance', 'crypto jobs', 'remote jobs'],
+    },
+    {
         name: 'Chakra',
         description: 'Simple, Modular and Accessible UI Components for your React Applications.',
         categories: ['Library', 'Programming', 'UI'],
