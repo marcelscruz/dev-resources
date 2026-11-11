@@ -76,6 +76,14 @@ export const resources: Resource[] = [
         keywords: ['product', 'scoping', 'ai', 'product management'],
     },
     {
+        name: 'Scrape.ly',
+        description:
+            'Cloud platform of ready-made web scrapers with a REST API, Python and JavaScript SDKs, a CLI and an MCP server for AI agents.',
+        categories: ['Scraping', 'AI'],
+        url: 'https://scrape.ly',
+        keywords: ['scraping', 'web scraping', 'api', 'mcp', 'ai agents', 'data extraction'],
+    },
+    {
         name: 'Scrapfly',
         description:
             'Scrapfly is an enterprise-grade solution providing Web Scraping API that aims to simplify the scraping process by managing everything: real browser rendering, rotating proxies, and fingerprints (TLS, HTTP, browser) to bypass all major anti-bots.',
