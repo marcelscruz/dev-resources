@@ -1,5 +1,5 @@
 {
-"count": 1335,
+"count": 1336,
 "data": [
     {
         "name": "1001 Fonts",
@@ -12654,6 +12654,23 @@
             "builder",
             "creator",
             "templates"
+        ]
+    },
+    {
+        "name": "Resume Claim Guard",
+        "description": "Open-source agent skill that writes job-tailored resumes from confirmed facts only, then audits claims before an interview.",
+        "categories": [
+            "Resume",
+            "AI",
+            "Open Source"
+        ],
+        "url": "https://github.com/korey2028-prog/resume-claim-guard",
+        "keywords": [
+            "resume",
+            "agent skill",
+            "claude",
+            "codex",
+            "open source"
         ]
     },
     {
