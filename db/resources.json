@@ -1,5 +1,5 @@
 {
-"count": 1339,
+"count": 1340,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6789,6 +6789,20 @@
             "Programming"
         ],
         "url": "https://www.jetbrains.com/go/"
+    },
+    {
+        "name": "Google AI Studio",
+        "description": "Browser playground and API for Gemini models with a free tier. Per-project rate limits, no credit card required to start building.",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://aistudio.google.com",
+        "keywords": [
+            "ai",
+            "gemini",
+            "api",
+            "playground"
+        ]
     },
     {
         "name": "Google Chrome Developers",
