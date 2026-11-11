@@ -1,5 +1,5 @@
 {
-"count": 1334,
+"count": 1335,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2360,6 +2360,22 @@
             "AI Chatbot",
             "Customer Support",
             "Chatbot"
+        ]
+    },
+    {
+        "name": "chainjobs",
+        "description": "Free Web3 and freelance job board where clients and freelancers chat directly; payment in crypto or bank transfer, 0% platform commission.",
+        "categories": [
+            "Freelance",
+            "Job",
+            "Web3"
+        ],
+        "url": "https://chainjobs.app/",
+        "keywords": [
+            "web3 jobs",
+            "freelance",
+            "crypto jobs",
+            "remote jobs"
         ]
     },
     {
