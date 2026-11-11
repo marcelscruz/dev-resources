@@ -1,5 +1,5 @@
 {
-"count": 1337,
+"count": 1338,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6659,6 +6659,21 @@
             "Documentation"
         ],
         "url": "https://gitbook.com"
+    },
+    {
+        "name": "GitHub Copilot",
+        "description": "AI coding assistant with a free plan for individual developers: 2,000 code completions and 50 chat messages per month, plus limited agent mode.",
+        "categories": [
+            "AI",
+            "Editor"
+        ],
+        "url": "https://github.com/features/copilot",
+        "keywords": [
+            "ai",
+            "code completion",
+            "coding assistant",
+            "free tier"
+        ]
     },
     {
         "name": "GitHub Pages",
