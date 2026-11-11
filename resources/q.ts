@@ -24,6 +24,14 @@ export const resources: Resource[] = [
         url: 'https://qoqo.ai/',
     },
     {
+        name: 'Quady3D',
+        description:
+            'AI 3D workspace and developer platform for generating, inspecting, and exporting game asset drafts through web tools, APIs, SDKs, and MCP.',
+        categories: ['AI', 'Tooling', 'API Building'],
+        url: 'https://quady3d.com',
+        keywords: ['3d', 'game assets', 'api', 'sdk', 'mcp', 'blender'],
+    },
+    {
         name: 'Quick Image Kit',
         description:
             'Browser-side image toolkit for web assets: compress to an exact KB target, convert JPG/PNG/WebP, resize, crop and generate multi-size favicons. Files never leave the tab.',
