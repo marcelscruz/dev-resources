@@ -408,6 +408,14 @@ export const resources: Resource[] = [
         keywords: ['resume', 'builder', 'creator', 'templates'],
     },
     {
+        name: 'Resume Claim Guard',
+        description:
+            'Open-source agent skill that writes job-tailored resumes from confirmed facts only, then audits claims before an interview.',
+        categories: ['Resume', 'AI', 'Open Source'],
+        url: 'https://github.com/korey2028-prog/resume-claim-guard',
+        keywords: ['resume', 'agent skill', 'claude', 'codex', 'open source'],
+    },
+    {
         name: 'Resume Genius',
         description:
             'The only online resume builder that’ll land you interviews. Create a professional resume in minutes, download, and print. Join 10 million happy job seekers.',
