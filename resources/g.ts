@@ -116,6 +116,14 @@ export const resources: Resource[] = [
         url: 'https://gitbook.com',
     },
     {
+        name: 'GitHub Copilot',
+        description:
+            'AI coding assistant with a free plan for individual developers: 2,000 code completions and 50 chat messages per month, plus limited agent mode.',
+        categories: ['AI', 'Editor'],
+        url: 'https://github.com/features/copilot',
+        keywords: ['ai', 'code completion', 'coding assistant', 'free tier'],
+    },
+    {
         name: 'GitHub Pages',
         description:
             'Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.',
