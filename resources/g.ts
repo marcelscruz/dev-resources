@@ -61,19 +61,19 @@ export const resources: Resource[] = [
         keywords: ['gcore', 'speed test', 'internet speed', 'bandwidth'],
     },
     {
-        name: 'GenDesigns',
-        description: 'AI Mobile App Design Generator',
-        categories: ['Design', 'AI', 'UI'],
-        url: 'https://gendesigns.ai/',
-        keywords: ['ai app designer', 'mobile app mockup generator', 'ai ui design tool', 'ai prototype generator'],
-    },
-    {
         name: 'Gemini CLI',
         description:
             'Open-source AI agent for the terminal. Free with a personal Google account: 60 requests per minute and 1,000 requests per day on Gemini models.',
         categories: ['AI', 'Terminal'],
         url: 'https://github.com/google-gemini/gemini-cli',
         keywords: ['ai', 'cli', 'terminal', 'coding agent'],
+    },
+    {
+        name: 'GenDesigns',
+        description: 'AI Mobile App Design Generator',
+        categories: ['Design', 'AI', 'UI'],
+        url: 'https://gendesigns.ai/',
+        keywords: ['ai app designer', 'mobile app mockup generator', 'ai ui design tool', 'ai prototype generator'],
     },
     {
         name: 'Get The Audience',
