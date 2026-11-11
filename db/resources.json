@@ -1,5 +1,5 @@
 {
-"count": 1336,
+"count": 1337,
 "data": [
     {
         "name": "1001 Fonts",
@@ -263,6 +263,24 @@
             "ads aggregator",
             "analyzing competitors",
             "creatives"
+        ]
+    },
+    {
+        "name": "AdminKit",
+        "description": "Free, MIT-licensed Bootstrap 5 admin dashboard template in plain JavaScript, no jQuery. HTML, React and Next.js versions, light and dark mode.",
+        "categories": [
+            "Template",
+            "UI",
+            "Open Source"
+        ],
+        "url": "https://adminkit.io/",
+        "keywords": [
+            "bootstrap",
+            "admin template",
+            "dashboard",
+            "react",
+            "nextjs",
+            "html"
         ]
     },
     {
