@@ -1,5 +1,5 @@
 {
-"count": 1340,
+"count": 1341,
 "data": [
     {
         "name": "1001 Fonts",
@@ -13127,6 +13127,23 @@
             "scoping",
             "ai",
             "product management"
+        ]
+    },
+    {
+        "name": "Scrape.ly",
+        "description": "Cloud platform of ready-made web scrapers with a REST API, Python and JavaScript SDKs, a CLI and an MCP server for AI agents.",
+        "categories": [
+            "Scraping",
+            "AI"
+        ],
+        "url": "https://scrape.ly",
+        "keywords": [
+            "scraping",
+            "web scraping",
+            "api",
+            "mcp",
+            "ai agents",
+            "data extraction"
         ]
     },
     {
