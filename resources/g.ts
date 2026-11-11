@@ -68,6 +68,14 @@ export const resources: Resource[] = [
         keywords: ['ai app designer', 'mobile app mockup generator', 'ai ui design tool', 'ai prototype generator'],
     },
     {
+        name: 'Gemini CLI',
+        description:
+            'Open-source AI agent for the terminal. Free with a personal Google account: 60 requests per minute and 1,000 requests per day on Gemini models.',
+        categories: ['AI', 'Terminal'],
+        url: 'https://github.com/google-gemini/gemini-cli',
+        keywords: ['ai', 'cli', 'terminal', 'coding agent'],
+    },
+    {
         name: 'Get The Audience',
         description:
             'Get The Audience helps you grow your Twitter audience by analyzing what they care about, who they are, and when they can be reached.',
