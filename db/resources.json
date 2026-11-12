@@ -1,5 +1,5 @@
 {
-"count": 1341,
+"count": 1342,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8720,6 +8720,19 @@
             "ai directory",
             "developer productivity",
             "generative ai"
+        ]
+    },
+    {
+        "name": "Latchkey",
+        "description": "Run one command on a fresh ephemeral Linux machine that is destroyed after. Create a job, stream logs, poll status. For coding agents and CI systems.",
+        "categories": [
+            "Cloud Computing"
+        ],
+        "url": "https://latchkey.dev",
+        "keywords": [
+            "GitHub Runner",
+            "DevOps",
+            "CI/CD"
         ]
     },
     {
