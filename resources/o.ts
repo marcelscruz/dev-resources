@@ -14,6 +14,14 @@ export const resources: Resource[] = [
         url: 'https://www.octotree.io/',
     },
     {
+        name: 'Odds-API.io',
+        description:
+            'Sports odds API with pre-match and live odds from 450+ bookmakers over REST and WebSocket, with SDKs for Node.js, Python, R, PHP and Go and an MCP server.',
+        categories: ['API Building', 'Programming'],
+        url: 'https://odds-api.io',
+        keywords: ['api', 'sports', 'odds', 'websocket', 'sdk', 'mcp'],
+    },
+    {
         name: 'Odin A',
         description:
             'Odin AI is a versatile AI tool designed to streamline workflows, enhance productivity, and simplify complex tasks through automation and AI-driven features',
