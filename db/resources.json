@@ -1,5 +1,5 @@
 {
-"count": 1342,
+"count": 1343,
 "data": [
     {
         "name": "1001 Fonts",
@@ -12909,6 +12909,22 @@
             "Job"
         ],
         "url": "https://rocketcrew.space/"
+    },
+    {
+        "name": "RoleWeek",
+        "description": "Developer jobs in the US and Canada posted in the last 7 days, read daily from employers' own career pages. Free, no account. Has a read-only MCP connector.",
+        "categories": [
+            "Job"
+        ],
+        "url": "https://roleweek.com",
+        "keywords": [
+            "developer jobs",
+            "software engineer jobs",
+            "job search",
+            "us",
+            "canada",
+            "mcp"
+        ]
     },
     {
         "name": "Rosie",
