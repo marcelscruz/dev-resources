@@ -518,6 +518,14 @@ export const resources: Resource[] = [
         url: 'https://rocketcrew.space/',
     },
     {
+        name: 'RoleWeek',
+        description:
+            "Developer jobs in the US and Canada posted in the last 7 days, read daily from employers' own career pages. Free, no account. Has a read-only MCP connector.",
+        categories: ['Job'],
+        url: 'https://roleweek.com',
+        keywords: ['developer jobs', 'software engineer jobs', 'job search', 'us', 'canada', 'mcp'],
+    },
+    {
         name: 'Rosie',
         description: 'AI Phone Answering Service',
         categories: ['AI', 'Startup', 'Marketing'],
