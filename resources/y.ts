@@ -35,6 +35,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'YTAPI',
+        description:
+            'API for YouTube transcripts, metadata, playlists, channels and search, with word-level timestamps in Markdown, SRT and VTT, via REST or an MCP server.',
+        categories: ['API Building', 'Video'],
+        url: 'https://ytapi.dev',
+        keywords: ['youtube', 'transcripts', 'api', 'mcp', 'metadata', 'developer tools'],
+    },
+    {
         name: 'YunCMS',
         description:
             'Open-source, self-hosted MySQL CMS with a React admin studio, REST API, role-based permissions, file storage and built-in MCP tools.',
