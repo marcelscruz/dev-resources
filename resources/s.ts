@@ -659,6 +659,14 @@ export const resources: Resource[] = [
         url: 'https://www.smashingmagazine.com/the-smashing-newsletter/',
     },
     {
+        name: 'SmartBizCalc',
+        description:
+            'SmartBizCalc is a collection of business and finance calculators for entrepreneurs and developers — cost estimators, pricing tools, ROI calculators, and financial planning tools for small business owners.',
+        categories: ['Finance', 'Productivity', 'Startup'],
+        url: 'https://smartbizcalc.com',
+        keywords: ['business calculator', 'finance tools', 'cost estimator', 'pricing', 'ROI', 'small business'],
+    },
+    {
         name: 'snappify',
         description: 'Snappify helps you to create beautiful code snippets with ease.',
         categories: ['Code Snippet'],
