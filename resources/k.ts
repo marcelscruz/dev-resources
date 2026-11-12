@@ -90,6 +90,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'ml', 'productivity', 'devops'],
     },
     {
+        name: 'KitVerse',
+        description:
+            'Free, local-first browser tools for AI builders and developers, including a skill security scanner, API playground and tokenizer. No signup required.',
+        categories: ['AI', 'Tooling'],
+        url: 'https://kitverse.dev/',
+        keywords: ['ai tools', 'developer tools', 'local-first', 'skill security scanner', 'api playground'],
+    },
+    {
         name: 'Klaruvo',
         description:
             'Local AI image editor for Windows and macOS: remove watermarks, cut out objects, erase backgrounds and upscale photos fully offline. No upload, one-time purchase.',
