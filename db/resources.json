@@ -1,5 +1,5 @@
 {
-"count": 1346,
+"count": 1349,
 "data": [
     {
         "name": "1001 Fonts",
@@ -638,6 +638,21 @@
             "cli",
             "integrations",
             "agent skills"
+        ]
+    },
+    {
+        "name": "Aider",
+        "description": "Open-source AI pair programmer for the terminal. Free with your own API keys or local models, with git-friendly commits.",
+        "categories": [
+            "AI",
+            "Terminal"
+        ],
+        "url": "https://aider.chat",
+        "keywords": [
+            "ai",
+            "pair programming",
+            "terminal",
+            "open source"
         ]
     },
     {
@@ -2766,6 +2781,21 @@
             "facebook cover",
             "clip",
             "mac"
+        ]
+    },
+    {
+        "name": "Cline",
+        "description": "Open-source AI coding agent for VS Code, JetBrains and the CLI. Free and unlimited with bring-your-own API keys or local models.",
+        "categories": [
+            "AI",
+            "Extension"
+        ],
+        "url": "https://cline.bot",
+        "keywords": [
+            "ai",
+            "coding agent",
+            "vs code",
+            "open source"
         ]
     },
     {
@@ -7044,6 +7074,20 @@
             "Grommet",
             "Grommet Design",
             "UI/UX Framework"
+        ]
+    },
+    {
+        "name": "Groq",
+        "description": "Ultra-fast LLM inference on LPU hardware. Free tier: about 30 requests per minute and 1,000 requests per day on supported open models, no card.",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://groq.com",
+        "keywords": [
+            "ai",
+            "inference",
+            "llm",
+            "api"
         ]
     },
     {
