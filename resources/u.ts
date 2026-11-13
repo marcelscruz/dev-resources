@@ -196,6 +196,12 @@ export const resources: Resource[] = [
         url: 'https://up-for-grabs.net/#/',
     },
     {
+        name: 'UpSearch',
+        description: 'SEO software, web design and managed SEO services for measurable organic growth.',
+        categories: ['SEO'],
+        url: 'https://upsearch.io',
+    },
+    {
         name: 'Upstash',
         description:
             'Serverless database with Redis API and durable storage. Low latency data. Durable storage. Ease of use.',
