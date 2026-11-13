@@ -175,6 +175,14 @@ export const resources: Resource[] = [
         keywords: ['programming web development javascript react node.js'],
     },
     {
+        name: 'Betterloop',
+        description:
+            'One script tag finds rage clicks, dead buttons, JS errors and slow pages, then returns one ranked list of fixes, readable by coding agents through MCP.',
+        categories: ['Analytics', 'Performance', 'Testing'],
+        url: 'https://betterloopai.com',
+        keywords: ['hotjar alternative ux analytics rage clicks web vitals mcp'],
+    },
+    {
         name: 'BigDevSoon',
         description: 'Build real-world projects with Figma designs and an AI copilot in a zero-config browser IDE.',
         categories: ['Code Challenge'],
