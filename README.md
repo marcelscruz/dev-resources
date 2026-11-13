@@ -292,6 +292,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://xmcp.dev&sz=128" width="16" /> | [xmcp](https://xmcp.dev) | Free, open-source TypeScript framework for building and deploying MCP servers with file-based tools, resources, prompts, hot reload, and middleware. | typescript, mcp, model context protocol, framework, developer tools |
  <img src="https://www.google.com/s2/favicons?domain=https://github.com/founden-bot/yap-mcp&sz=128" width="16" /> | [Yap MCP](https://github.com/founden-bot/yap-mcp) | Open-source MCP server and CLI that transcribes audio files on your own computer for Claude, Cursor and other MCP clients. No upload or API key. | mcp, speech to text, transcription, claude code, cursor, on-device, cli, local-first |
  <img src="https://www.google.com/s2/favicons?domain=https://github.com/yylo-dev/yylo&sz=128" width="16" /> | [YYLO](https://github.com/yylo-dev/yylo) | Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries. | ai, coding agents, cli, orchestration, terminal, workflows, developer tools |
+ <img src="https://www.google.com/s2/favicons?domain=https://github.com/zai-org/ZCode&sz=128" width="16" /> | [ZCode](https://github.com/zai-org/ZCode) | Open-source AI coding workspace by Z.ai (Apache-2.0): desktop, browser and terminal agents for the GLM models, with its agent CLI runtime. | ai, coding agent, electron, glm, open source |
  <img src="https://www.google.com/s2/favicons?domain=https://zuzia.app&sz=128" width="16" /> | [Zuzia.app](https://zuzia.app) | AI-powered server monitoring and task automation for Linux and VPS. | ai task monitoring, server cron tracking, linux automation, laravel forge tools |
 
 **[⬆ Back to Index](#index)**
@@ -912,6 +913,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://wallabyjs.com/&sz=128" width="16" /> | [Wallaby.js](https://wallabyjs.com/) | Wallaby.js runs your JavaScript and TypeScript tests immediately as you type in VS Code, WebStorm and other editors, highlighting results next to your code. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.jetbrains.com/webstorm/&sz=128" width="16" /> | [WebStorm](https://www.jetbrains.com/webstorm/) | A powerful IDE for modern JavaScript development with code completion and refactoring for JavaScript, TypeScript, and the most popular web frameworks. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://wordcraftapp.com/&sz=128" width="16" /> | [WordCraftApp](https://wordcraftapp.com/) | A free, open-source word processor for Windows, macOS, Linux, FreeBSD, and browsers with offline editing and DOCX support. | word processor, document editor, open source, offline writing |
+ <img src="https://www.google.com/s2/favicons?domain=https://github.com/zai-org/ZCode&sz=128" width="16" /> | [ZCode](https://github.com/zai-org/ZCode) | Open-source AI coding workspace by Z.ai (Apache-2.0): desktop, browser and terminal agents for the GLM models, with its agent CLI runtime. | ai, coding agent, electron, glm, open source |
 
 **[⬆ Back to Index](#index)**
 
@@ -1713,6 +1715,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://github.com/founden-bot/yap-mcp&sz=128" width="16" /> | [Yap MCP](https://github.com/founden-bot/yap-mcp) | Open-source MCP server and CLI that transcribes audio files on your own computer for Claude, Cursor and other MCP clients. No upload or API key. | mcp, speech to text, transcription, claude code, cursor, on-device, cli, local-first |
  <img src="https://www.google.com/s2/favicons?domain=https://yunsoft.com/case-study/yuncms-programmable-cms-backend&sz=128" width="16" /> | [YunCMS](https://yunsoft.com/case-study/yuncms-programmable-cms-backend) | Open-source, self-hosted MySQL CMS with a React admin studio, REST API, role-based permissions, file storage and built-in MCP tools. | mysql, headless cms, node.js, react, rest api, mcp, self-hosted |
  <img src="https://www.google.com/s2/favicons?domain=https://github.com/yylo-dev/yylo&sz=128" width="16" /> | [YYLO](https://github.com/yylo-dev/yylo) | Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries. | ai, coding agents, cli, orchestration, terminal, workflows, developer tools |
+ <img src="https://www.google.com/s2/favicons?domain=https://github.com/zai-org/ZCode&sz=128" width="16" /> | [ZCode](https://github.com/zai-org/ZCode) | Open-source AI coding workspace by Z.ai (Apache-2.0): desktop, browser and terminal agents for the GLM models, with its agent CLI runtime. | ai, coding agent, electron, glm, open source |
 
 **[⬆ Back to Index](#index)**
 
