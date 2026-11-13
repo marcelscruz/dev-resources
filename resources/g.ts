@@ -338,19 +338,19 @@ export const resources: Resource[] = [
         keywords: ['sales', 'automation', 'lead generation', 'marketing'],
     },
     {
+        name: 'Grommet',
+        description: 'Grommet documentation.',
+        categories: ['Library', 'Programming'],
+        url: 'https://v2.grommet.io/',
+        keywords: ['React', 'UI Kit', 'Grommet', 'Grommet Design', 'UI/UX Framework'],
+    },
+    {
         name: 'Groq',
         description:
             'Ultra-fast LLM inference on LPU hardware. Free tier: about 30 requests per minute and 1,000 requests per day on supported open models, no card.',
         categories: ['AI'],
         url: 'https://groq.com',
         keywords: ['ai', 'inference', 'llm', 'api'],
-    },
-    {
-        name: 'Grommet',
-        description: 'Grommet documentation.',
-        categories: ['Library', 'Programming'],
-        url: 'https://v2.grommet.io/',
-        keywords: ['React', 'UI Kit', 'Grommet', 'Grommet Design', 'UI/UX Framework'],
     },
     {
         name: 'Growth List',
