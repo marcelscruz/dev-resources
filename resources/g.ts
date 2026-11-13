@@ -345,6 +345,14 @@ export const resources: Resource[] = [
         keywords: ['React', 'UI Kit', 'Grommet', 'Grommet Design', 'UI/UX Framework'],
     },
     {
+        name: 'Groq',
+        description:
+            'Ultra-fast LLM inference on LPU hardware. Free tier: about 30 requests per minute and 1,000 requests per day on supported open models, no card.',
+        categories: ['AI'],
+        url: 'https://groq.com',
+        keywords: ['ai', 'inference', 'llm', 'api'],
+    },
+    {
         name: 'Growth List',
         description:
             'GrowthList is the go-to resource hub for tech-savvy marketers in fast-growing companies. Find hundred of Growth Hacks to boost your startup !',
