@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'ZCode',
+        description:
+            'Open-source AI coding workspace by Z.ai (Apache-2.0): desktop, browser and terminal agents for the GLM models, with its agent CLI runtime.',
+        categories: ['AI', 'Editor', 'Open Source'],
+        url: 'https://github.com/zai-org/ZCode',
+        keywords: ['ai', 'coding agent', 'electron', 'glm', 'open source'],
+    },
+    {
         name: 'Zenlogin',
         description:
             'Security API which uses user agent, geolocation and AI and Machine Learning signals to notify your users when a suspicious login occurs. Sends out those familiar',
