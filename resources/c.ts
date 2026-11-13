@@ -403,6 +403,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Cline',
+        description:
+            'Open-source AI coding agent for VS Code, JetBrains and the CLI. Free and unlimited with bring-your-own API keys or local models.',
+        categories: ['AI', 'Extension'],
+        url: 'https://cline.bot',
+        keywords: ['ai', 'coding agent', 'vs code', 'open source'],
+    },
+    {
         name: 'CLion',
         description: 'A powerful IDE from JetBrains helps you develop in C and C++ on Linux, macOS and Windows.',
         categories: ['Editor', 'Programming'],
