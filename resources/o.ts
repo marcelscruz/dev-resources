@@ -251,6 +251,14 @@ export const resources: Resource[] = [
         keywords: ['gitHub', 'osint', 'open source', 'repo search'],
     },
     {
+        name: 'Out Plane',
+        description:
+            'A cloud for AI coding agents and the apps they build: free Hangars for agents, app hosting in Germany, managed PostgreSQL and S3 compatible buckets.',
+        categories: ['Hosting', 'Cloud Computing', 'Database'],
+        url: 'https://outplane.com',
+        keywords: ['paas', 'app hosting', 'managed postgresql', 'coding agents', 'sandbox', 'docker', 'germany'],
+    },
+    {
         name: 'Outlier Kit',
         description: 'Discover Youtube niches, trends & Keywords',
         categories: ['Marketing', 'Video', 'AI'],
