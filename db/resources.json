@@ -1,5 +1,5 @@
 {
-"count": 1349,
+"count": 1350,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10902,6 +10902,20 @@
             "ohlcv",
             "react",
             "vue"
+        ]
+    },
+    {
+        "name": "OpenRouter",
+        "description": "Unified API for hundreds of LLMs with a rotating catalog of free models. Free tier: 20 requests per minute, 50 requests per day without credits.",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://openrouter.ai",
+        "keywords": [
+            "ai",
+            "llm",
+            "api",
+            "models"
         ]
     },
     {
