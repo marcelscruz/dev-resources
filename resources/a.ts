@@ -285,6 +285,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Aider',
+        description:
+            'Open-source AI pair programmer for the terminal. Free with your own API keys or local models, with git-friendly commits.',
+        categories: ['AI', 'Terminal'],
+        url: 'https://aider.chat',
+        keywords: ['ai', 'pair programming', 'terminal', 'open source'],
+    },
+    {
         name: 'Aigazine',
         description: 'The Go-To Source for AI Benchmarks, News, Research & Industry Insights',
         categories: ['AI', 'Newsletter', 'Startup'],
