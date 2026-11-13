@@ -1,5 +1,5 @@
 {
-"count": 1343,
+"count": 1344,
 "data": [
     {
         "name": "1001 Fonts",
@@ -16232,6 +16232,14 @@
             "Open Source"
         ],
         "url": "https://up-for-grabs.net/#/"
+    },
+    {
+        "name": "UpSearch",
+        "description": "SEO software, web design and managed SEO services for measurable organic growth.",
+        "categories": [
+            "SEO"
+        ],
+        "url": "https://upsearch.io"
     },
     {
         "name": "Upstash",
