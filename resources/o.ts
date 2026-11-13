@@ -175,6 +175,14 @@ export const resources: Resource[] = [
         keywords: ['typescript', 'canvas', 'candlestick', 'ohlcv', 'react', 'vue'],
     },
     {
+        name: 'OpenRouter',
+        description:
+            'Unified API for hundreds of LLMs with a rotating catalog of free models. Free tier: 20 requests per minute, 50 requests per day without credits.',
+        categories: ['AI'],
+        url: 'https://openrouter.ai',
+        keywords: ['ai', 'llm', 'api', 'models'],
+    },
+    {
         name: 'Opensource.Builders',
         description: 'Find open-source alternatives to popular software.',
         categories: ['Open Source'],
