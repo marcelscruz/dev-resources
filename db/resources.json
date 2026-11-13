@@ -1,5 +1,5 @@
 {
-"count": 1344,
+"count": 1345,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6891,6 +6891,23 @@
             "how to write a resume",
             "how to make a resume",
             "sample resumes"
+        ]
+    },
+    {
+        "name": "GPTSVG Studio",
+        "description": "Generate editable SVG logos and JSX UI icons from prompts, or vectorize PNGs and optimize SVG paths in the browser.",
+        "categories": [
+            "AI",
+            "Icon",
+            "Logo"
+        ],
+        "url": "https://gptsvg.com",
+        "keywords": [
+            "svg",
+            "vector",
+            "svg-optimizer",
+            "jsx",
+            "icons"
         ]
     },
     {
