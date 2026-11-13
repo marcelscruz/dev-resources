@@ -432,6 +432,14 @@ export const resources: Resource[] = [
         url: 'https://workers.cloudflare.com/',
     },
     {
+        name: 'Cloudflare Workers AI',
+        description:
+            'Serverless inference for LLMs, embeddings, image and speech models at the edge. Free tier includes 10,000 Neurons per day, no card required.',
+        categories: ['AI', 'Serverless'],
+        url: 'https://developers.cloudflare.com/workers-ai/',
+        keywords: ['ai', 'inference', 'llm', 'serverless', 'edge'],
+    },
+    {
         name: 'cmd challenge',
         description: 'Learn the command line.',
         categories: ['Terminal'],
