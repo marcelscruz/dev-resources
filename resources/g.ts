@@ -262,6 +262,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'GPTSVG Studio',
+        description:
+            'Generate editable SVG logos and JSX UI icons from prompts, or vectorize PNGs and optimize SVG paths in the browser.',
+        categories: ['AI', 'Icon', 'Logo'],
+        url: 'https://gptsvg.com',
+        keywords: ['svg', 'vector', 'svg-optimizer', 'jsx', 'icons'],
+    },
+    {
         name: 'Gradient',
         description:
             'Thousands of trendy color gradients in a curated collection that is updated daily. Get a fresh color gradient for your next design project and save all the gradients you like.',
