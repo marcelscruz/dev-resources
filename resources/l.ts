@@ -91,6 +91,14 @@ export const resources: Resource[] = [
         url: 'https://grid.layoutit.com/',
     },
     {
+        name: 'LeadSets',
+        description:
+            'Unlimited B2B Contact Data for AI Agents, Starting from $29/mo. Search, enrich and verify work emails from your code or agents over REST or MCP.',
+        categories: ['AI', 'Email', 'Tooling'],
+        url: 'https://www.leadsets.ai',
+        keywords: ['b2b data', 'email verification', 'enrichment', 'mcp', 'lead generation'],
+    },
+    {
         name: 'Learn CSS',
         description: 'An evergreen CSS course and reference to level up your web styling expertise.',
         categories: ['Learn', 'Programming'],
