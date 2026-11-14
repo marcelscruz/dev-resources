@@ -160,6 +160,14 @@ export const resources: Resource[] = [
         keywords: ['directory', 'tools', 'development'],
     },
     {
+        name: 'BestJSON',
+        description:
+            'Free browser-based tools to format, validate, repair, compare, query, and convert JSON locally without uploading input.',
+        categories: ['Tooling'],
+        url: 'https://bestjson.com/',
+        keywords: ['json', 'formatter', 'validator', 'repair', 'diff', 'converter'],
+    },
+    {
         name: 'BetaList',
         description:
             'BetaList provides an overview of upcoming internet startups. Discover and get early access to the future.',
