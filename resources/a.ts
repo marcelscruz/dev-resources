@@ -629,6 +629,14 @@ export const resources: Resource[] = [
         keywords: ['marketing', 'tools', 'workflow automation', 'business'],
     },
     {
+        name: 'AVIF Crate',
+        description:
+            'Convert AVIF assets to JPG locally in the browser, with quality preview and ZIP export for batches.',
+        categories: ['Image'],
+        url: 'https://avifcrate.com/',
+        keywords: ['avif', 'jpg', 'image converter', 'batch conversion'],
+    },
+    {
         name: 'Awesome a11y',
         description:
             'A curate list about A11Y. Contribute to brunopulis/awesome-a11y development by creating an account on GitHub.',
