@@ -221,6 +221,14 @@ export const resources: Resource[] = [
         url: 'https://nomadlist.com/',
     },
     {
+        name: 'NoncePay',
+        description:
+            'Non-custodial crypto payment API: accept USDT, USDC, BTC, ETH, SOL and more with a deposit address per payment, forwarded to your wallet, with signed callbacks. No account, no API key.',
+        categories: ['Web3', 'Tooling'],
+        url: 'https://noncepay.app',
+        keywords: ['crypto payments', 'payment gateway', 'usdt', 'bitcoin', 'webhooks', 'non-custodial'],
+    },
+    {
         name: 'Nord',
         description: 'A arctic, north-bluish color palette',
         categories: ['Color'],
