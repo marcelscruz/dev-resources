@@ -137,6 +137,14 @@ export const resources: Resource[] = [
         url: 'https://certificates.dev/',
     },
     {
+        name: 'Chain.Love',
+        description:
+            'Discover and compare Web3 infrastructure services, including RPCs, APIs, explorers, wallets, and developer tools across blockchain networks.',
+        categories: ['Web3'],
+        url: 'https://www.chain.love/',
+        keywords: ['web3', 'blockchain', 'rpc', 'infrastructure'],
+    },
+    {
         name: 'Chaindesk',
         description:
             'Chaindesk is a complete support ecosystem to help you spend less time supporting your users - and more time growing your business.',
