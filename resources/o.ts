@@ -36,6 +36,14 @@ export const resources: Resource[] = [
         url: 'https://www.offen.dev/',
     },
     {
+        name: 'OffSeq Threat Radar',
+        description:
+            'Scan SBOMs and lockfiles for known vulnerabilities, ranked by CISA KEV, EPSS and exploit data, with SARIF output, a GitHub Action, REST API and MCP server.',
+        categories: ['Security', 'Tooling'],
+        url: 'https://radar.offseq.com',
+        keywords: ['cve', 'sbom', 'sarif', 'vulnerability', 'github action', 'mcp', 'devsecops'],
+    },
+    {
         name: 'Oh My Android',
         description:
             'Free, open-source macOS control panel for the Android Emulator and phones: dark mode, font scale, RTL, TalkBack, Layout Inspector in dp, plus an MCP server.',
