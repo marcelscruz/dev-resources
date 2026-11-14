@@ -43,6 +43,14 @@ export const resources: Resource[] = [
         keywords: ['random color', 'color generator'],
     },
     {
+        name: 'Random Topic Generator',
+        description:
+            'Generate random topics for impromptu speaking. Practice with the built-in timer. Free impromptu topic generator.',
+        categories: ['Productivity', 'Interview'],
+        url: 'https://randomtopicgenerator.net/',
+        keywords: ['impromptu speaking', 'impromptu speech topics', 'speaking practice', 'lightning talk', 'public speaking'],
+    },
+    {
         name: 'RankWizard',
         description:
             'RankWizard is a programmatic SEO writer that writes your content for you. All you need is keywords and we will deliver your content in minutes.',
