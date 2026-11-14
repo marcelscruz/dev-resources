@@ -95,6 +95,14 @@ export const resources: Resource[] = [
         url: 'https://getterms.io/',
     },
     {
+        name: 'GetYouTubeTranscript API',
+        description:
+            'YouTube transcript API with timestamps, plus video search, channel and playlist endpoints, Python and Node SDKs, an OpenAPI spec and a remote MCP server.',
+        categories: ['AI', 'Video', 'Tooling'],
+        url: 'https://getyoutubetranscript.com/youtube-transcript-api',
+        keywords: ['youtube transcript api', 'youtube api', 'transcript', 'captions', 'subtitles', 'mcp', 'python sdk', 'node sdk'],
+    },
+    {
         name: 'GifSnap API',
         description:
             'GIF search API and native/web SDKs for adding animated media to apps with JavaScript, React, Angular, Swift and Kotlin.',
