@@ -1,5 +1,5 @@
 {
-"count": 1354,
+"count": 1355,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10721,6 +10721,24 @@
             "Analytics"
         ],
         "url": "https://www.offen.dev/"
+    },
+    {
+        "name": "OffSeq Threat Radar",
+        "description": "Scan SBOMs and lockfiles for known vulnerabilities, ranked by CISA KEV, EPSS and exploit data, with SARIF output, a GitHub Action, REST API and MCP server.",
+        "categories": [
+            "Security",
+            "Tooling"
+        ],
+        "url": "https://radar.offseq.com",
+        "keywords": [
+            "cve",
+            "sbom",
+            "sarif",
+            "vulnerability",
+            "github action",
+            "mcp",
+            "devsecops"
+        ]
     },
     {
         "name": "Oh My Android",
