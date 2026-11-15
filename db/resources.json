@@ -1,5 +1,5 @@
 {
-"count": 1355,
+"count": 1356,
 "data": [
     {
         "name": "1001 Fonts",
@@ -13752,6 +13752,23 @@
             "templates",
             "shadcn cli",
             "figma"
+        ]
+    },
+    {
+        "name": "Shader Learn",
+        "description": "Learn GLSL with English and Chinese lessons, editable examples, a function reference, and a browser-based shader playground.",
+        "categories": [
+            "Learn",
+            "Editor",
+            "Programming"
+        ],
+        "url": "https://shader-learn.com/",
+        "keywords": [
+            "glsl",
+            "shaders",
+            "webgl",
+            "graphics programming",
+            "creative coding"
         ]
     },
     {
