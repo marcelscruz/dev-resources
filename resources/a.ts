@@ -664,6 +664,14 @@ export const resources: Resource[] = [
         url: 'https://github.com/mungell/awesome-for-beginners',
     },
     {
+        name: 'Awesome UI/UX Tools',
+        description:
+            'Community-maintained directory of UI/UX tools, design systems, accessibility resources, and developer handoff workflows.',
+        categories: ['Accessibility', 'Design', 'UI'],
+        url: 'https://github.com/aasavchauhan/awesome-design-tools',
+        keywords: ['ui/ux', 'design tools', 'design systems', 'accessibility', 'developer handoff'],
+    },
+    {
         name: 'AWS',
         description:
             'Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.',
