@@ -16,13 +16,6 @@
 
 
 
-<div>
-    <p align="center"><a href="https://transcriptfetch.com?ref=dr-pa&utm_source=dev-resources-repo-readme&utm_medium=referral&utm_content=sponsored"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/transcriptfetch-dark-mode.png" width="28px"><source media="(prefers-color-scheme: light)" srcset="./assets/transcriptfetch-light-mode.png" width="28px"><img alt="TranscriptFetch logo" src="./assets/transcriptfetch-dark-mode.png" width="28px" align="absmiddle" hspace="8"></picture></a><b>TranscriptFetch</b></p>
-    <p align="center"><a href="https://transcriptfetch.com?ref=dr-pa&utm_source=dev-resources-repo-readme&utm_medium=referral&utm_content=sponsored">TranscriptFetch</a>: The transcript API for social media video. Get transcripts at scale from YouTube, TikTok or Instagram.</p>
-</div><br/>
-
-
-
  <br/><hr/><br/><br/> <div align="center">
     <a href="API.md">API</a> •
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
