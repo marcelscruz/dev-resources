@@ -340,6 +340,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Shader Learn',
+        description:
+            'Learn GLSL with English and Chinese lessons, editable examples, a function reference, and a browser-based shader playground.',
+        categories: ['Learn', 'Editor', 'Programming'],
+        url: 'https://shader-learn.com/',
+        keywords: ['glsl', 'shaders', 'webgl', 'graphics programming', 'creative coding'],
+    },
+    {
         name: 'Shape',
         description:
             '26000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.',
