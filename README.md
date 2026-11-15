@@ -287,6 +287,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://github.com/yylo-dev/yylo&sz=128" width="16" /> | [YYLO](https://github.com/yylo-dev/yylo) | Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries. | ai, coding agents, cli, orchestration, terminal, workflows, developer tools |
  <img src="https://www.google.com/s2/favicons?domain=https://github.com/zai-org/ZCode&sz=128" width="16" /> | [ZCode](https://github.com/zai-org/ZCode) | Open-source AI coding workspace by Z.ai (Apache-2.0): desktop, browser and terminal agents for the GLM models, with its agent CLI runtime. | ai, coding agent, electron, glm, open source |
  <img src="https://www.google.com/s2/favicons?domain=https://zuzia.app&sz=128" width="16" /> | [Zuzia.app](https://zuzia.app) | AI-powered server monitoring and task automation for Linux and VPS. | ai task monitoring, server cron tracking, linux automation, laravel forge tools |
+ <img src="https://www.google.com/s2/favicons?domain=https://nostairsplease.com/&sz=128" width="16" /> | [No Stairs Please MCP](https://nostairsplease.com/mcp) | Hosted Model Context Protocol (MCP) server and directory of 6,500+ independent live-music venues across the US and Canada with accessibility and route-planning tools. | mcp, model context protocol, live music, venues, accessibility, directory |
 
 **[⬆ Back to Index](#index)**
 
