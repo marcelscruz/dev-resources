@@ -112,6 +112,14 @@ export const resources: Resource[] = [
         keywords: ['DeFi', 'liquidity pools', 'Solana', 'EVM', 'API', 'MCP'],
     },
     {
+        name: 'Weave Router',
+        description:
+            'Model-routing proxy for coding agents with streaming and tool calls. Self-host the Apache-2.0 proxy or use the hosted service.',
+        categories: ['AI', 'Open Source', 'Tooling'],
+        url: 'https://weaveos.com/products/router',
+        keywords: ['llm routing', 'coding agents', 'claude code', 'codex', 'self-hosted'],
+    },
+    {
         name: 'Web Code Tools',
         description:
             'Web Code Tools is a suite of code generators for HTML, CSS, Meta Tags, Open Graph, Structured Data, Twitter Cards and more.',
