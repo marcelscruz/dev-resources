@@ -83,6 +83,22 @@ export const resources: Resource[] = [
         url: 'https://gettheaudience.com/',
     },
     {
+        name: 'getdataengineeringjobs.com',
+        description:
+            'Job board with only data engineering roles, collected from across the web and updated several times a day.',
+        categories: ['Job'],
+        url: 'https://getdataengineeringjobs.com/',
+        keywords: [
+            'data engineering',
+            'data engineer',
+            'jobs',
+            'remote jobs',
+            'etl',
+            'analytics engineering',
+            'hiring',
+        ],
+    },
+    {
         name: 'Getillustrations',
         description: 'Download stock illustration packs for websites, application and web design.',
         categories: ['Illustration'],
