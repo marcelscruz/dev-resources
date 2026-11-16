@@ -1,5 +1,5 @@
 {
-"count": 1357,
+"count": 1358,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6681,6 +6681,23 @@
             "Social Media"
         ],
         "url": "https://gettheaudience.com/"
+    },
+    {
+        "name": "getdataengineeringjobs.com",
+        "description": "Job board with only data engineering roles, collected from across the web and updated several times a day.",
+        "categories": [
+            "Job"
+        ],
+        "url": "https://getdataengineeringjobs.com/",
+        "keywords": [
+            "data engineering",
+            "data engineer",
+            "jobs",
+            "remote jobs",
+            "etl",
+            "analytics engineering",
+            "hiring"
+        ]
     },
     {
         "name": "Getillustrations",
