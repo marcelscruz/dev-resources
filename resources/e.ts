@@ -159,6 +159,14 @@ export const resources: Resource[] = [
         url: 'https://epicreact.dev/',
     },
     {
+        name: 'EraseNoise',
+        description:
+            'Clean noisy speech in the browser and preview a short before-and-after before exporting the full file.',
+        categories: ['Audio', 'AI', 'Tooling'],
+        url: 'https://erasenoise.com/',
+        keywords: ['noise removal', 'audio editor', 'speech enhancement', 'podcast editing'],
+    },
+    {
         name: 'EveryInfra',
         description:
             'One API key for structured data from 90 platforms (RedNote, Douyin, TikTok, Amazon and more), web search and CAPTCHA solving via REST, MCP or SDK.',
