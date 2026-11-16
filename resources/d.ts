@@ -94,7 +94,7 @@ export const resources: Resource[] = [
         url: 'https://dart.dev/codelabs/dart-cheatsheet',
     },
     {
-        name: 'Data Viz Color Picker',
+        name: 'Data Dev Lab', description: 'Free online Base64, file hash and XML tools for developers — no signup, runs in your browser.', categories: ['Tooling', 'Programming', 'Security'], url: 'https://datadevlab.top', }, { name: 'Data Viz Color Picker',
         description: 'A color palette generator for data visualizations.',
         categories: ['Color'],
         url: 'https://learnui.design/tools/data-color-picker.html',
