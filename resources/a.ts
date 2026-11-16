@@ -534,6 +534,14 @@ export const resources: Resource[] = [
         url: 'https://app-mockup.com/',
     },
     {
+        name: 'AppScreen',
+        description:
+            'Browser editor for App Store and Google Play screenshots, with iPhone and Android device frames. Free to use, no sign-up needed.',
+        categories: ['Design', 'Screenshot', 'Marketing'],
+        url: 'https://appscreen.pro',
+        keywords: ['app store screenshots', 'google play screenshots', 'ios', 'android', 'device frames', 'aso'],
+    },
+    {
         name: 'AppStore Tracker',
         description: 'An open AppStore Explorer',
         categories: ['Analytics', 'Marketing'],
