@@ -157,14 +157,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'AgileHero',
-        description:
-            'Agile project management for software teams: boards, epics, roadmaps, retrospectives, whiteboards and wiki pages, plus a remote MCP server for coding agents.',
-        categories: ['Productivity', 'AI', 'Tooling'],
-        url: 'https://agilehero.io',
-        keywords: ['project management', 'agile', 'kanban', 'scrum', 'tasks tracking', 'mcp', 'ai agents'],
-    },
-    {
         name: 'Ahrefs',
         description:
             "You don't have to be an SEO pro to rank higher and get more traffic. Join Ahrefs – we're a powerful but easy to learn SEO toolset with a passionate community.",

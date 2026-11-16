@@ -182,14 +182,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'DeepZero',
-        description:
-            'MIT-licensed Python engine for building resumable security-analysis pipelines with custom processors, Ghidra, Semgrep, and optional LLM assessment.',
-        categories: ['Security', 'Open Source', 'Tooling'],
-        url: 'https://blog.ahmadz.ai/DeepZero/en/',
-        keywords: ['python', 'pipeline', 'reverse engineering', 'windows drivers', 'ghidra', 'semgrep'],
-    },
-    {
         name: 'Design Resources',
         description: 'A curated list of the best design resources handpicked from around the web.',
         categories: ['Design', 'UI'],
@@ -276,24 +268,6 @@ export const resources: Resource[] = [
             'Ruby',
             'Security',
             'iOS',
-        ],
-    },
-    {
-        name: 'Dev Tools',
-        description:
-            '600+ free developer tools in the browser: JSON, Base64, regex, JWT, cron, subnet, SQL, PDF and image utilities. Most run client-side, no sign-up.',
-        categories: ['Tooling', 'Productivity', 'Programming'],
-        url: 'https://tools.bubble.ro/',
-        keywords: [
-            'json formatter',
-            'base64',
-            'regex tester',
-            'jwt decoder',
-            'cron',
-            'subnet calculator',
-            'developer tools',
-            'online tools',
-            'privacy',
         ],
     },
     {
