@@ -1,5 +1,5 @@
 {
-"count": 1359,
+"count": 1355,
 "data": [
     {
         "name": "1001 Fonts",
@@ -396,25 +396,6 @@
             "prompt library",
             "gpt image",
             "seedance"
-        ]
-    },
-    {
-        "name": "AgileHero",
-        "description": "Agile project management for software teams: boards, epics, roadmaps, retrospectives, whiteboards and wiki pages, plus a remote MCP server for coding agents.",
-        "categories": [
-            "Productivity",
-            "AI",
-            "Tooling"
-        ],
-        "url": "https://agilehero.io",
-        "keywords": [
-            "project management",
-            "agile",
-            "kanban",
-            "scrum",
-            "tasks tracking",
-            "mcp",
-            "ai agents"
         ]
     },
     {
@@ -4558,24 +4539,6 @@
         ]
     },
     {
-        "name": "DeepZero",
-        "description": "MIT-licensed Python engine for building resumable security-analysis pipelines with custom processors, Ghidra, Semgrep, and optional LLM assessment.",
-        "categories": [
-            "Security",
-            "Open Source",
-            "Tooling"
-        ],
-        "url": "https://blog.ahmadz.ai/DeepZero/en/",
-        "keywords": [
-            "python",
-            "pipeline",
-            "reverse engineering",
-            "windows drivers",
-            "ghidra",
-            "semgrep"
-        ]
-    },
-    {
         "name": "Design Resources",
         "description": "A curated list of the best design resources handpicked from around the web.",
         "categories": [
@@ -4698,27 +4661,6 @@
             "Ruby",
             "Security",
             "iOS"
-        ]
-    },
-    {
-        "name": "Dev Tools",
-        "description": "600+ free developer tools in the browser: JSON, Base64, regex, JWT, cron, subnet, SQL, PDF and image utilities. Most run client-side, no sign-up.",
-        "categories": [
-            "Tooling",
-            "Productivity",
-            "Programming"
-        ],
-        "url": "https://tools.bubble.ro/",
-        "keywords": [
-            "json formatter",
-            "base64",
-            "regex tester",
-            "jwt decoder",
-            "cron",
-            "subnet calculator",
-            "developer tools",
-            "online tools",
-            "privacy"
         ]
     },
     {
@@ -11307,21 +11249,6 @@
             "inference cost",
             "evals",
             "tutorials"
-        ]
-    },
-    {
-        "name": "Patronus Protect",
-        "description": "Hosted API to detect prompt injection in text, public webpages and documents for AI agents and RAG pipelines. Free tier available.",
-        "categories": [
-            "AI",
-            "Security"
-        ],
-        "url": "https://api.patronus.studio",
-        "keywords": [
-            "prompt injection",
-            "agent security",
-            "RAG",
-            "API"
         ]
     },
     {
