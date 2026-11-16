@@ -88,7 +88,15 @@ export const resources: Resource[] = [
             'Job board with only data engineering roles, collected from across the web and updated several times a day.',
         categories: ['Job'],
         url: 'https://getdataengineeringjobs.com/',
-        keywords: ['data engineering', 'data engineer', 'jobs', 'remote jobs', 'etl', 'analytics engineering', 'hiring'],
+        keywords: [
+            'data engineering',
+            'data engineer',
+            'jobs',
+            'remote jobs',
+            'etl',
+            'analytics engineering',
+            'hiring',
+        ],
     },
     {
         name: 'Getillustrations',
