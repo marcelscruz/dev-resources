@@ -1,5 +1,5 @@
 {
-"count": 1357,
+"count": 1358,
 "data": [
     {
         "name": "1001 Fonts",
@@ -17905,6 +17905,23 @@
             "API",
             "testing",
             "qa"
+        ]
+    },
+    {
+        "name": "Vove",
+        "description": "A creative workspace for images, videos and reusable workflows. Bring your references, explore models, and keep your work together, with AI image and video generation, text to video, AI music and speech, background removal and image upscaling.",
+        "categories": [
+            "AI",
+            "Image",
+            "Video"
+        ],
+        "url": "https://vove.io/",
+        "keywords": [
+            "ai",
+            "image generation",
+            "video generation",
+            "creative workspace",
+            "background remover"
         ]
     }
 ]}
