@@ -1,5 +1,5 @@
 {
-"count": 1356,
+"count": 1357,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2425,6 +2425,20 @@
             "Code Challenge"
         ],
         "url": "https://certificates.dev/"
+    },
+    {
+        "name": "Chain.Love",
+        "description": "Discover and compare Web3 infrastructure services, including RPCs, APIs, explorers, wallets, and developer tools across blockchain networks.",
+        "categories": [
+            "Web3"
+        ],
+        "url": "https://www.chain.love/",
+        "keywords": [
+            "web3",
+            "blockchain",
+            "rpc",
+            "infrastructure"
+        ]
     },
     {
         "name": "Chaindesk",
