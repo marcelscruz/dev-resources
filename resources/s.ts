@@ -686,6 +686,14 @@ export const resources: Resource[] = [
         url: 'https://snipit.io/',
     },
     {
+        name: 'Social Fetch',
+        description:
+            'API for public profiles, posts, comments, transcripts and search from TikTok, Instagram, YouTube, X, Reddit and LinkedIn, with a hosted MCP server.',
+        categories: ['Social Media', 'Scraping', 'AI'],
+        url: 'https://www.socialfetch.dev',
+        keywords: ['social media api', 'tiktok', 'instagram', 'youtube', 'reddit', 'mcp', 'transcripts'],
+    },
+    {
         name: 'Social Growth Engineers',
         description: 'Social Growth Engineers is the #1 source for organic social marketing strategies and resources.',
         categories: ['Marketing', 'Blog', 'Productivity'],
