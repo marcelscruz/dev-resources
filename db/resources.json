@@ -1,5 +1,5 @@
 {
-"count": 1360,
+"count": 1361,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6346,6 +6346,22 @@
             "Tooling"
         ],
         "url": "https://freeter.io/"
+    },
+    {
+        "name": "FreshRemoteRoles",
+        "description": "Fully remote jobs straight from companies' career pages, updated daily, with filters for engineering, DevOps, data, QA and security roles. Free, no account.",
+        "categories": [
+            "Job",
+            "Remote"
+        ],
+        "url": "https://freshremoteroles.com",
+        "keywords": [
+            "remote jobs",
+            "developer jobs",
+            "software engineer jobs",
+            "worldwide",
+            "job search"
+        ]
     },
     {
         "name": "FridayGPT",
