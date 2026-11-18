@@ -24,6 +24,14 @@ export const resources: Resource[] = [
         url: 'https://qoqo.ai/',
     },
     {
+        name: 'QRdx',
+        description:
+            'Open-source QR code platform: a free browser generator, a React library, a CLI, a keyless image API and a remote MCP server.',
+        categories: ['Image', 'Library', 'Tooling'],
+        url: 'https://qrdx.dev',
+        keywords: ['qr code', 'qr code generator', 'react', 'cli', 'image api', 'mcp', 'barcode', 'open source'],
+    },
+    {
         name: 'Quick Image Kit',
         description:
             'Browser-side image toolkit for web assets: compress to an exact KB target, convert JPG/PNG/WebP, resize, crop and generate multi-size favicons. Files never leave the tab.',
