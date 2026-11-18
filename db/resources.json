@@ -1,5 +1,5 @@
 {
-"count": 1358,
+"count": 1359,
 "data": [
     {
         "name": "1001 Fonts",
@@ -14464,6 +14464,23 @@
             "Advertising Integration (Google Ads)",
             "Interactive Visualizations",
             "No Signup Required for CSV Analysis"
+        ]
+    },
+    {
+        "name": "Spare Mailbox",
+        "description": "Disposable inboxes with OTP extraction, a REST API and hosted MCP server for testing signup flows in your own applications.",
+        "categories": [
+            "Email",
+            "Testing",
+            "AI"
+        ],
+        "url": "https://sparemailbox.com",
+        "keywords": [
+            "email",
+            "testing",
+            "otp",
+            "mcp",
+            "api"
         ]
     },
     {
