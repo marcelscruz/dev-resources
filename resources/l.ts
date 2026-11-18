@@ -318,6 +318,13 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Little Cups of Claude',
+        description: 'Short, focused tips for Claude Code, the Claude API, the Agent SDK and MCP, one per weekday.',
+        categories: ['Blog', 'Learn', 'AI'],
+        url: 'https://littlecupsofclaude.com',
+        keywords: ['claude', 'claude code', 'anthropic', 'agent sdk', 'mcp', 'ai coding'],
+    },
+    {
         name: 'Lobsters',
         description: 'Lobsters is a computing-focused community centered around link aggregation and discussion.',
         categories: ['Forum'],
