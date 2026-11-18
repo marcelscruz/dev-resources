@@ -1,5 +1,5 @@
 {
-"count": 1361,
+"count": 1362,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8600,6 +8600,22 @@
             "Typing"
         ],
         "url": "https://www.keybr.com/"
+    },
+    {
+        "name": "Keybrum",
+        "description": "Automated penetration test for live web apps built with Lovable, Bolt, Cursor, Replit or v0: Supabase, Firebase, APIs, exposed files and leaked keys.",
+        "categories": [
+            "Security",
+            "Testing"
+        ],
+        "url": "https://keybrum.com",
+        "keywords": [
+            "pentest",
+            "security testing",
+            "supabase rls",
+            "firebase rules",
+            "vibe coding"
+        ]
     },
     {
         "name": "Keysearch",
