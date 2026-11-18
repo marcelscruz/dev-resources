@@ -1,5 +1,5 @@
 {
-"count": 1359,
+"count": 1360,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9185,6 +9185,24 @@
             "SaaS",
             "AI-driven solutions",
             "cloud platforms"
+        ]
+    },
+    {
+        "name": "Little Cups of Claude",
+        "description": "Short, focused tips for Claude Code, the Claude API, the Agent SDK and MCP, one per weekday.",
+        "categories": [
+            "Blog",
+            "Learn",
+            "AI"
+        ],
+        "url": "https://littlecupsofclaude.com",
+        "keywords": [
+            "claude",
+            "claude code",
+            "anthropic",
+            "agent sdk",
+            "mcp",
+            "ai coding"
         ]
     },
     {
