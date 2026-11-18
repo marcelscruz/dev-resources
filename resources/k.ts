@@ -53,6 +53,14 @@ export const resources: Resource[] = [
         url: 'https://www.keybr.com/',
     },
     {
+        name: 'Keybrum',
+        description:
+            'Automated penetration test for live web apps built with Lovable, Bolt, Cursor, Replit or v0: Supabase, Firebase, APIs, exposed files and leaked keys.',
+        categories: ['Security', 'Testing'],
+        url: 'https://keybrum.com',
+        keywords: ['pentest', 'security testing', 'supabase rls', 'firebase rules', 'vibe coding'],
+    },
+    {
         name: 'Keysearch',
         description:
             'An easy-to-use web-based keyword research tool with in-depth competition analysis, keyword difficulty checker, keyword suggestions and more.',
