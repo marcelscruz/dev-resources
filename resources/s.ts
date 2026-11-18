@@ -824,6 +824,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Spare Mailbox',
+        description:
+            'Disposable inboxes with OTP extraction, a REST API and hosted MCP server for testing signup flows in your own applications.',
+        categories: ['Email', 'Testing', 'AI'],
+        url: 'https://sparemailbox.com',
+        keywords: ['email', 'testing', 'otp', 'mcp', 'api'],
+    },
+    {
         name: 'Sparqo AI',
         description:
             'Sparqo is an AI CMO platform that helps founders and small teams grow through content, SEO, and Reddit.',
