@@ -1,5 +1,5 @@
 {
-"count": 1357,
+"count": 1358,
 "data": [
     {
         "name": "1001 Fonts",
@@ -12192,6 +12192,26 @@
             "UX"
         ],
         "url": "https://qoqo.ai/"
+    },
+    {
+        "name": "QRdx",
+        "description": "Open-source QR code platform: a free browser generator, a React library, a CLI, a keyless image API and a remote MCP server.",
+        "categories": [
+            "Image",
+            "Library",
+            "Tooling"
+        ],
+        "url": "https://qrdx.dev",
+        "keywords": [
+            "qr code",
+            "qr code generator",
+            "react",
+            "cli",
+            "image api",
+            "mcp",
+            "barcode",
+            "open source"
+        ]
     },
     {
         "name": "Quick Image Kit",
