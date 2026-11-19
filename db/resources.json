@@ -1,5 +1,5 @@
 {
-"count": 1362,
+"count": 1363,
 "data": [
     {
         "name": "1001 Fonts",
@@ -11091,6 +11091,27 @@
             "Tooling"
         ],
         "url": "https://orbi.build/"
+    },
+    {
+        "name": "Orbit by Noveum",
+        "description": "Free, open-source task management for teams and AI agents: issues, projects, sprints, docs and files, with realtime collaboration, self-hosting and OAuth MCP.",
+        "categories": [
+            "Productivity"
+        ],
+        "url": "https://orbit.noveum.ai",
+        "keywords": [
+            "open source",
+            "task management",
+            "project management",
+            "issues",
+            "sprints",
+            "kanban",
+            "collaboration",
+            "self hosted",
+            "MCP",
+            "OAuth",
+            "docs"
+        ]
     },
     {
         "name": "OrcaSheets",
