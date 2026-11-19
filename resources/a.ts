@@ -118,6 +118,14 @@ export const resources: Resource[] = [
         keywords: ['ftp', 'sftp', 'webdav', 's3', 'file transfer', 'cloud storage', 'encryption', 'tauri', 'rust'],
     },
     {
+        name: 'Aethel',
+        description:
+            'Free AI interview practice for developers, no account. Then a free AI interview of about 15 minutes: every score quotes your own words.',
+        categories: ['Interview'],
+        url: 'https://aethel.pro',
+        keywords: ['interview practice', 'mock interview', 'ai interview', 'technical interview', 'spanish'],
+    },
+    {
         name: 'Agent Island',
         description:
             'Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok and Cursor, with local session status, alerts and provider usage views.',
