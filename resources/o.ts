@@ -14,6 +14,14 @@ export const resources: Resource[] = [
         url: 'https://www.octotree.io/',
     },
     {
+        name: 'Octuo',
+        description:
+                'The one place to run the agents you already use — Octuo coordinates Claude Code, Codex, MCP tools, browser and files, following up until done.',
+        categories: ['AI', 'Programming', 'Productivity'],
+        url: 'https://www.tutuo.ai/en/octuo',
+        keywords: ['ai agents', 'coding agents', 'claude code', 'codex', 'mcp', 'orchestration'],
+    },
+    {
         name: 'Odin A',
         description:
             'Odin AI is a versatile AI tool designed to streamline workflows, enhance productivity, and simplify complex tasks through automation and AI-driven features',
