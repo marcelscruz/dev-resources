@@ -1,5 +1,5 @@
 {
-"count": 1364,
+"count": 1365,
 "data": [
     {
         "name": "1001 Fonts",
@@ -396,6 +396,25 @@
             "prompt library",
             "gpt image",
             "seedance"
+        ]
+    },
+    {
+        "name": "Agentik",
+        "description": "Hosted MCP gateway and REST API giving AI coding agents one connection to 3,500+ pay-per-call tools from 165 providers, price shown before each call.",
+        "categories": [
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://www.agentik.cc",
+        "keywords": [
+            "mcp",
+            "mcp gateway",
+            "claude code",
+            "codex",
+            "cursor",
+            "ai agents",
+            "tool calling",
+            "api"
         ]
     },
     {
