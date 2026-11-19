@@ -1,5 +1,5 @@
 {
-"count": 1365,
+"count": 1367,
 "data": [
     {
         "name": "1001 Fonts",
@@ -323,6 +323,21 @@
             "encryption",
             "tauri",
             "rust"
+        ]
+    },
+    {
+        "name": "Aethel",
+        "description": "Free AI interview practice for developers, no account. Then a free AI interview of about 15 minutes: every score quotes your own words.",
+        "categories": [
+            "Interview"
+        ],
+        "url": "https://aethel.pro",
+        "keywords": [
+            "interview practice",
+            "mock interview",
+            "ai interview",
+            "technical interview",
+            "spanish"
         ]
     },
     {
@@ -8828,6 +8843,23 @@
             "UX"
         ],
         "url": "https://gumroad.com/a/124908659"
+    },
+    {
+        "name": "Lantern Works",
+        "description": "GPU cloud rental prices compared across tracked providers, with source links and check dates. Free JSON API and a free, read-only MCP server for agents.",
+        "categories": [
+            "AI",
+            "Cloud Computing"
+        ],
+        "url": "https://thelanternworks.com",
+        "keywords": [
+            "gpu",
+            "gpu cloud",
+            "gpu pricing",
+            "mcp",
+            "ai agents",
+            "h100"
+        ]
     },
     {
         "name": "Lapa Ninja",
