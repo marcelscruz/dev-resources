@@ -226,6 +226,26 @@ export const resources: Resource[] = [
         url: 'https://orbi.build/',
     },
     {
+        name: 'Orbit by Noveum',
+        description:
+            'Free, open-source task management for teams and AI agents: issues, projects, sprints, docs and files, with realtime collaboration, self-hosting and OAuth MCP.',
+        categories: ['Productivity'],
+        url: 'https://orbit.noveum.ai',
+        keywords: [
+            'open source',
+            'task management',
+            'project management',
+            'issues',
+            'sprints',
+            'kanban',
+            'collaboration',
+            'self hosted',
+            'MCP',
+            'OAuth',
+            'docs',
+        ],
+    },
+    {
         name: 'OrcaSheets',
         description:
             'Local-first spreadsheet analytics that processes billions of rows on your PC and adds AI insights while keeping sensitive data under your control.',
