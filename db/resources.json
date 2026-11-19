@@ -1,5 +1,5 @@
 {
-"count": 1363,
+"count": 1364,
 "data": [
     {
         "name": "1001 Fonts",
@@ -13664,6 +13664,20 @@
             "meta tags",
             "schema",
             "performance"
+        ]
+    },
+    {
+        "name": "seo-console-mcp",
+        "description": "An MIT MCP server and CLI with 43 tools for Search Console, the App Store, Google Play and WordPress.org. A missing row is reported as unknown, never as zero.",
+        "categories": [
+            "SEO"
+        ],
+        "url": "https://seo-console.verdelic.com/",
+        "keywords": [
+            "SEO",
+            "MCP",
+            "CLI",
+            "Open Source"
         ]
     },
     {
