@@ -241,6 +241,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'seo-console-mcp',
+        description:
+            'An MIT MCP server and CLI with 43 tools for Search Console, the App Store, Google Play and WordPress.org. A missing row is reported as unknown, never as zero.',
+        categories: ['SEO'],
+        url: 'https://seo-console.verdelic.com/',
+        keywords: ['SEO', 'MCP', 'CLI', 'Open Source'],
+    },
+    {
         name: 'Seotisfy',
         description:
             'Stop wasting time with clunky, siloed SEO work. Get every campaign on the same page with a tool that helps you work better, faster, and based on results.',
