@@ -157,6 +157,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Agentik',
+        description:
+            'Hosted MCP gateway and REST API giving AI coding agents one connection to 3,500+ pay-per-call tools from 165 providers, price shown before each call.',
+        categories: ['AI', 'Tooling'],
+        url: 'https://www.agentik.cc',
+        keywords: ['mcp', 'mcp gateway', 'claude code', 'codex', 'cursor', 'ai agents', 'tool calling', 'api'],
+    },
+    {
         name: 'Ahrefs',
         description:
             "You don't have to be an SEO pro to rank higher and get more traffic. Join Ahrefs – we're a powerful but easy to learn SEO toolset with a passionate community.",
