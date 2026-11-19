@@ -45,6 +45,14 @@ export const resources: Resource[] = [
         url: 'https://gumroad.com/a/124908659',
     },
     {
+        name: 'Lantern Works',
+        description:
+            'GPU cloud rental prices compared across tracked providers, with source links and check dates. Free JSON API and a free, read-only MCP server for agents.',
+        categories: ['AI', 'Cloud Computing'],
+        url: 'https://thelanternworks.com',
+        keywords: ['gpu', 'gpu cloud', 'gpu pricing', 'mcp', 'ai agents', 'h100'],
+    },
+    {
         name: 'Lapa Ninja',
         description:
             'The best landing page design inspiration from around the web. Lapa Ninja is created to help designers find inspiration, learn and improve design skills. The contents are selected from the best designs, and daily updated.',
