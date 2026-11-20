@@ -543,6 +543,14 @@ export const resources: Resource[] = [
         url: 'https://www.siteinspire.com/',
     },
     {
+        name: 'Sitepeel',
+        description:
+            'Website cloner to copy pages or elements, export HTML/CSS, and extract design details and assets.',
+        categories: ['Extension'],
+        url: 'https://sitepeel.dev/',
+        keywords: ['developer tools', 'design tools', 'browser extension', 'web design', 'website cloner'],
+    },
+    {
         name: 'SiteSee',
         description: 'A curated gallery of beautiful, modern websites meant to inspire web developers and designers.',
         categories: ['Design', 'Inspiration', 'UI'],
