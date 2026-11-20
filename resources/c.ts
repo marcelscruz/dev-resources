@@ -1413,6 +1413,14 @@ export const resources: Resource[] = [
         keywords: ['dev tools', 'developer tools', 'artificial intelligence', 'code review', 'ai code reviewer'],
     },
     {
+        name: 'CueCheck',
+        description:
+            'Free browser-based SRT and WebVTT subtitle QC checker for developers and accessibility teams. Audits reading speed (CPS/WPM), line length, duration, frame gaps, and overlaps against Netflix, BBC, and DCMP specs with zero file uploads.',
+        categories: ['Accessibility', 'Video', 'Tooling'],
+        url: 'https://cuecheck.app',
+        keywords: ['subtitles', 'srt', 'webvtt', 'accessibility', 'captions', 'video qc'],
+    },
+    {
         name: 'CurlShot',
         description:
             'Screenshot API that turns any URL, HTML or Markdown into a PNG, JPEG, WebP, PDF or scrolling video, rendered in a real browser. Free plan, no card.',
