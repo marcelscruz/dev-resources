@@ -1200,4 +1200,12 @@ export const resources: Resource[] = [
         categories: ['Podcast', 'Programming'],
         url: 'https://syntax.fm',
     },
+    {
+        name: 'System Designer',
+        description:
+            'Free open-source browser game for practising system design. Simulate a day of traffic and read the debrief. No account or email needed to play.',
+        categories: ['Interview', 'Learn'],
+        url: 'https://systemdesigner.io/',
+        keywords: ['system design', 'architecture', 'interview preparation'],
+    },
 ]
