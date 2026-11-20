@@ -1195,7 +1195,7 @@ export const resources: Resource[] = [
     {
         name: 'System Designer',
         description:
-            'Free open-source browser game for practising system design. Simulate traffic and read the debrief. Playing on the site needs Google or GitHub sign-in.',
+            'Free open-source browser game for practising system design. Simulate a day of traffic and read the debrief. No account or email needed to play.',
         categories: ['Interview', 'Learn'],
         url: 'https://systemdesigner.io/',
         keywords: ['system design', 'architecture', 'interview preparation'],
