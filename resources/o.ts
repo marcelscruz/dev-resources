@@ -106,6 +106,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Only Frontend Jobs',
+        description:
+            'Handpicked frontend developer roles from LinkedIn, career pages, and referrals. Verified listings only — remote, high-comp, and email-direct tags. No spam.',
+        categories: ['Job'],
+        url: 'https://onlyfrontendjobs.com',
+        keywords: ['frontend', 'jobs', 'remote', 'hiring'],
+    },
+    {
         name: 'Onsen UI',
         description:
             'Make beautiful hybrid mobile apps using HTML5, CSS and JavaScript. Works with or without any framework including Angular, Meteor, React and Vue. iOS and Android.',
