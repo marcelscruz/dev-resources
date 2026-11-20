@@ -1,5 +1,5 @@
 {
-"count": 1371,
+"count": 1372,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4219,6 +4219,24 @@
             "artificial intelligence",
             "code review",
             "ai code reviewer"
+        ]
+    },
+    {
+        "name": "CueCheck",
+        "description": "Free browser-based SRT and WebVTT subtitle QC checker for developers and accessibility teams. Audits reading speed (CPS/WPM), line length, duration, frame gaps, and overlaps against Netflix, BBC, and DCMP specs with zero file uploads.",
+        "categories": [
+            "Accessibility",
+            "Video",
+            "Tooling"
+        ],
+        "url": "https://cuecheck.app",
+        "keywords": [
+            "subtitles",
+            "srt",
+            "webvtt",
+            "accessibility",
+            "captions",
+            "video qc"
         ]
     },
     {
