@@ -46,4 +46,12 @@ export const resources: Resource[] = [
         categories: ['Testing'],
         url: 'https://www.getxray.app/',
     },
+    {
+        name: 'XShots',
+        description:
+            'Native Mac app for designing, localizing, and batch-exporting app store screenshot sets. Three-day full trial, then paid access.',
+        categories: ['Screenshot', 'Design'],
+        url: 'https://selfark.com/xshots',
+        keywords: ['app store screenshots', 'google play', 'localization', 'batch export'],
+    },
 ]
