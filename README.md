@@ -823,6 +823,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://webframe.xyz/&sz=128" width="16" /> | [Webframe](https://webframe.xyz/) | A showcase of beautiful and well designed web app screens for design inspiration. Including screens from behind signup/paywalls! 😱. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://webinspoo.com&sz=128" width="16" /> | [Webinspoo](https://webinspoo.com) | A curated SaaS web design inspiration gallery featuring the best landing pages, UI patterns, and product pages for designers, developers, and founders. | web design inspiration, website gallery, landing page ideas, UI inspiration |
  <img src="https://www.google.com/s2/favicons?domain=https://websitevice.com&sz=128" width="16" /> | [Websitevice](https://websitevice.com) | Website design examples to get inspiration for business, real estate, product, agency, education, ecommerce, personal and more |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://selfark.com/xshots&sz=128" width="16" /> | [XShots](https://selfark.com/xshots) | Native Mac app for designing, localizing, and batch-exporting app store screenshot sets. Three-day full trial, then paid access. | app store screenshots, google play, localization, batch export |
  <img src="https://www.google.com/s2/favicons?domain=https://zensite.co/subscription/&sz=128" width="16" /> | [Zensite Subscription](https://zensite.co/subscription/) | Design subscription service providing unlimited design request for SAAS companies |  |
 
 **[⬆ Back to Index](#index)**
@@ -2292,6 +2293,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://screenshotscout.com/&sz=128" width="16" /> | [Screenshot Scout](https://screenshotscout.com/) | Screenshot Scout is a screenshot API for developers that delivers clean, production-ready screenshots of any URL with a single HTTP request. | screenshot api, screenshot automation, screenshot service |
  <img src="https://www.google.com/s2/favicons?domain=https://www.screenstab.com/&sz=128" width="16" /> | [Screenstab](https://www.screenstab.com/) | Turn ordinary screenshots into beautiful image assets in no time |  |
  <img src="https://www.google.com/s2/favicons?domain=https://shots.so/&sz=128" width="16" /> | [Shots](https://shots.so/) | Create amazing mockups with an image, from a website to a product, personalize any aspect of the outcome. | mockup, design, social, marketing |
+ <img src="https://www.google.com/s2/favicons?domain=https://selfark.com/xshots&sz=128" width="16" /> | [XShots](https://selfark.com/xshots) | Native Mac app for designing, localizing, and batch-exporting app store screenshot sets. Three-day full trial, then paid access. | app store screenshots, google play, localization, batch export |
 
 **[⬆ Back to Index](#index)**
 
