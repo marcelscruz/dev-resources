@@ -163,6 +163,21 @@ export const resources: Resource[] = [
         url: 'https://www.fiverr.com/',
     },
     {
+        name: 'FlashData',
+        description:
+            'Start with a free trial (no credit card) — real-time Google Search SERP, YouTube Data & transcripts, and cloud video download APIs, CLI, and hosted MCP.',
+        categories: ['AI', 'Scraping', 'Tooling'],
+        url: 'https://flashdata.dev',
+        keywords: [
+            'google search api',
+            'serp api',
+            'youtube data api',
+            'youtube transcripts',
+            'mcp server',
+            'web scraping',
+        ],
+    },
+    {
         name: 'Flaticon',
         description: 'Download all icons in SVG, PSD, PNG, EPS format or as webfonts.',
         categories: ['Icon'],
