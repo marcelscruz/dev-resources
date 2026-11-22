@@ -119,6 +119,13 @@ export const resources: Resource[] = [
         url: 'https://pdforge.com/',
     },
     {
+        name: 'PennyCompute',
+        description: 'Pay-per-job API for FFmpeg, Remotion rendering and MiniMax H3 video',
+        categories: ['Video', 'Cloud Computing', 'Tooling'],
+        url: 'https://pennycompute.com/',
+        keywords: ['ffmpeg', 'remotion', 'video api', 'media processing', 'minimax h3'],
+    },
+    {
         name: 'PeoplePerHour',
         description:
             'Get any project done on PeoplePerHour - the #1 freelancing community. Post a project for free to find professional freelancers and find freelance jobs in minutes!',
