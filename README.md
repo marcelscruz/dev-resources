@@ -863,6 +863,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://one.com&sz=128" width="16" /> | [One.com](https://one.com) | Web hosting, Domain, Hosting & E-mail |  |
  <img src="https://www.google.com/s2/favicons?domain=https://vacato.io&sz=128" width="16" /> | [Vacato](https://vacato.io) | RDAP domain watchlist for developers — scheduled checks and Telegram/email when a taken name looks available. Free 10 domains; alerts only, not a drop-catcher. | domain, rdap, whois, watchlist, availability, telegram, dns |
  <img src="https://www.google.com/s2/favicons?domain=https://watchmyssl.com/&sz=128" width="16" /> | [Watch my SSL](https://watchmyssl.com/) | A service to monitor the expiration date of your SSL certificates so that your websites never go unexpectedly down. | ssl, monitoring, certificate, expiration, dns |
+ <img src="https://www.google.com/s2/favicons?domain=https://zonebi.com&sz=128" width="16" /> | [ZoneBI](https://zonebi.com) | Outside-in monitoring for domain expiry, DNS, SSL certificates, uptime, SPF/DKIM/DMARC and Spamhaus blocklists, with status pages. Free plan for 3 domains. | monitoring, uptime, ssl, dns, domain expiry, dmarc, spf, dkim, status page |
 
 **[⬆ Back to Index](#index)**
 
@@ -938,6 +939,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://sparemailbox.com&sz=128" width="16" /> | [Spare Mailbox](https://sparemailbox.com) | Disposable inboxes with OTP extraction, a REST API and hosted MCP server for testing signup flows in your own applications. | email, testing, otp, mcp, api |
  <img src="https://www.google.com/s2/favicons?domain=https://truelist.io/&sz=128" width="16" /> | [Truelist](https://truelist.io/) | Truelist is a subscription-based email verification platform that provides unlimited email validation for sales and marketing lists. | developer tool, email validation, sales prospecting, email deliverability |
  <img src="https://www.google.com/s2/favicons?domain=https://zenlogin.co&sz=128" width="16" /> | [Zenlogin](https://zenlogin.co) | Security API which uses user agent, geolocation and AI and Machine Learning signals to notify your users when a suspicious login occurs. Sends out those familiar | threat detection, suspicious login detection, email notifications, emails, ai, legal |
+ <img src="https://www.google.com/s2/favicons?domain=https://zonebi.com&sz=128" width="16" /> | [ZoneBI](https://zonebi.com) | Outside-in monitoring for domain expiry, DNS, SSL certificates, uptime, SPF/DKIM/DMARC and Spamhaus blocklists, with status pages. Free plan for 3 domains. | monitoring, uptime, ssl, dns, domain expiry, dmarc, spf, dkim, status page |
  <img src="https://www.google.com/s2/favicons?domain=https://zyntra.app/&sz=128" width="16" /> | [Zyntra](https://zyntra.app/) | Unlimited e-mail inboxes with API/UI access. Catch OTPs, reset links, and sign-up emails in your test flows. | email, API, testing, qa |
 
 **[⬆ Back to Index](#index)**
@@ -2326,6 +2328,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://releaserun.com&sz=128" width="16" /> | [ReleaseRun](https://releaserun.com) | Track software releases across the dev ecosystem. Get real-time version monitoring for Node.js, Python, Go, Rust, Kubernetes, PostgreSQL, and more — with free tools for dependency health checks, K8s s... | kubernetes, devops, dependency health, version tracking, release monitoring |
  <img src="https://www.google.com/s2/favicons?domain=https://watchmyssl.com/&sz=128" width="16" /> | [Watch my SSL](https://watchmyssl.com/) | A service to monitor the expiration date of your SSL certificates so that your websites never go unexpectedly down. | ssl, monitoring, certificate, expiration, dns |
  <img src="https://www.google.com/s2/favicons?domain=https://zenlogin.co&sz=128" width="16" /> | [Zenlogin](https://zenlogin.co) | Security API which uses user agent, geolocation and AI and Machine Learning signals to notify your users when a suspicious login occurs. Sends out those familiar | threat detection, suspicious login detection, email notifications, emails, ai, legal |
+ <img src="https://www.google.com/s2/favicons?domain=https://zonebi.com&sz=128" width="16" /> | [ZoneBI](https://zonebi.com) | Outside-in monitoring for domain expiry, DNS, SSL certificates, uptime, SPF/DKIM/DMARC and Spamhaus blocklists, with status pages. Free plan for 3 domains. | monitoring, uptime, ssl, dns, domain expiry, dmarc, spf, dkim, status page |
 
 **[⬆ Back to Index](#index)**
 
