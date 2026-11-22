@@ -38,6 +38,14 @@ export const resources: Resource[] = [
         url: 'https://zety.com/',
     },
     {
+        name: 'ZoneBI',
+        description:
+            'Outside-in monitoring for domain expiry, DNS, SSL certificates, uptime, SPF/DKIM/DMARC and Spamhaus blocklists, with status pages. Free plan for 3 domains.',
+        categories: ['Domain', 'Security', 'Email'],
+        url: 'https://zonebi.com',
+        keywords: ['monitoring', 'uptime', 'ssl', 'dns', 'domain expiry', 'dmarc', 'spf', 'dkim', 'status page'],
+    },
+    {
         name: 'Zuzia.app',
         description: 'AI-powered server monitoring and task automation for Linux and VPS.',
         categories: ['Tooling', 'Performance', 'AI'],
