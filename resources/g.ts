@@ -177,6 +177,14 @@ export const resources: Resource[] = [
         keywords: ['noise removal', 'audio editor', 'speech enhancement', 'podcast editing'],
     },
     {
+        name: 'GlobalEntity API',
+        description:
+            'One REST API for official company data from 50+ countries and 66 business registries: verification, UBO, directors, corporate structure, sanctions, VAT and LEI.',
+        categories: ['Legal', 'Security', 'Tooling'],
+        url: 'https://www.globalentityapi.com',
+        keywords: ['company data', 'kyb', 'business verification', 'company registry', 'ubo', 'compliance', 'api'],
+    },
+    {
         name: 'GoatCounter',
         description:
             'GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app.',
