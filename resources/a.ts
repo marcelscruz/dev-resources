@@ -610,6 +610,14 @@ export const resources: Resource[] = [
         url: 'https://www.artify.co/',
     },
     {
+        name: 'AsianScore',
+        description:
+            'Free open JSON API, Shadow DOM live widget, and Go/Python SDKs for real-time football and NBA scores with a SHA-256 verifiable xG prediction ledger.',
+        categories: ['API Building'],
+        url: 'https://asianscore.com/',
+        keywords: ['sports', 'football', 'nba', 'api', 'dataset', 'live scores'],
+    },
+    {
         name: 'AskTube',
         description: 'Save time by summarizing and chatting with long educational YouTube videos.',
         categories: ['AI', 'Productivity'],
