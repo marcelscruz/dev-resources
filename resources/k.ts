@@ -91,6 +91,14 @@ export const resources: Resource[] = [
         keywords: ['hosting', 'cloud', 'javascript', 'php'],
     },
     {
+        name: 'Kite',
+        description:
+            'Design tool your AI agents and your team share. Agents connect through a hosted MCP server and draw editable layers; export frames as HTML, React or Tailwind.',
+        categories: ['Design', 'AI', 'Prototyping'],
+        url: 'https://kite.new',
+        keywords: ['design', 'mcp', 'figma alternative', 'ui design', 'ai agents'],
+    },
+    {
         name: 'KitOps',
         description: 'Simple, secure, and reproducible packaging for AI/ML projects',
         categories: ['AI', 'Productivity'],
