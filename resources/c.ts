@@ -1436,6 +1436,14 @@ export const resources: Resource[] = [
         url: 'https://customer.io/',
     },
     {
+        name: 'CVfy',
+        description:
+            'Turn a PDF or DOCX resume into a hosted developer portfolio with VS Code, terminal and bento themes and a GitHub contribution graph. Free.',
+        categories: ['Resume', 'Personal Website', 'Website Builder'],
+        url: 'https://cvfy.dev/',
+        keywords: ['portfolio', 'resume', 'personal website', 'github', 'developer'],
+    },
+    {
         name: 'Cynagon',
         description: 'Cynagon is the ultimate tool for creating viral and engaging short-form videos.',
         categories: ['AI', 'Video'],
