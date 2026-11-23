@@ -425,6 +425,14 @@ export const resources: Resource[] = [
         url: 'https://www.jetbrains.com/clion/',
     },
     {
+        name: 'Cloudbrowser',
+        description:
+            'Persistent cloud Chrome for browser automation and AI agents. Connect over CDP, preserve the browser profile, and watch the desktop in Live View.',
+        categories: ['Browser', 'Cloud Computing', 'Tooling'],
+        url: 'https://cloudbrowser.tv',
+        keywords: ['browser automation', 'cdp', 'chrome', 'playwright', 'ai agents'],
+    },
+    {
         name: 'CloudCannon',
         description:
             'The Git-based CMS that lets your team edit Jamstack sites. Sync your files from GitHub, Bitbucket, or GitLab to CloudCannon and edit content visually with your team.',
