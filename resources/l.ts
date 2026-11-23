@@ -99,6 +99,13 @@ export const resources: Resource[] = [
         url: 'https://grid.layoutit.com/',
     },
     {
+        name: 'Learn Arduino',
+        description:
+            'Interactive Arduino learning with a 3D Uno, circuit simulations, and example code.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://learnarduino.org/',
+    },
+    {
         name: 'Learn CSS',
         description: 'An evergreen CSS course and reference to level up your web styling expertise.',
         categories: ['Learn', 'Programming'],
