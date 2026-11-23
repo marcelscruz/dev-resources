@@ -98,6 +98,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'ml', 'productivity', 'devops'],
     },
     {
+        name: 'Kite',
+        description:
+            'Design tool your AI agents and your team share. Agents connect through a hosted MCP server and draw editable layers; export frames as HTML, React or Tailwind.',
+        categories: ['Design', 'AI', 'Prototyping'],
+        url: 'https://kite.new',
+        keywords: ['design', 'mcp', 'figma alternative', 'ui design', 'ai agents'],
+    },
+    {
         name: 'Klaruvo',
         description:
             'Local AI image editor for Windows and macOS: remove watermarks, cut out objects, erase backgrounds and upscale photos fully offline. No upload, one-time purchase.',
