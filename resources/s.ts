@@ -625,6 +625,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'SkillXP',
+        description:
+            'Practice SQL, Python, Rust, and TypeScript in the browser with hands-on coding exercises and immediate feedback. Beginner lessons are free.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://skill-xp.com',
+        keywords: ['sql', 'python', 'rust', 'typescript', 'data engineering'],
+    },
+    {
         name: 'SkimAI',
         description: 'The ultimate AI copilot for your email inbox',
         categories: ['Email', 'AI', 'Startup'],
