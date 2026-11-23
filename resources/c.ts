@@ -13,7 +13,1493 @@ export const resources: Resource[] = [
         name: 'Cactro',
         description: 'India’s Fairest Technical Test | Trusted by 300+ Companies',
         categories: ['Job', 'Interview', 'Code Challenge'],
+        url: 'https://cactro.com/',import { Resource } from 'types'
+
+export const resources: Resource[] = [
+    {
+        name: 'Cactal',
+        description:
+            'Cactal is the website platform for AI agents. Connect Claude, Cursor, or your own agent and build, host, and operate production websites from one API.',
+        categories: ['Website Builder', 'AI', 'Tooling'],
+        url: 'https://cactal.ai',
+        keywords: ['AI agents', 'MCP', 'website builder', 'AI website builder', 'developer tools', 'headless CMS'],
+    },
+    {
+        name: 'Cactro',
+        description: 'India’s Fairest Technical Test | Trusted by 300+ Companies',
+        categories: ['Job', 'Interview', 'Code Challenge'],
         url: 'https://cactro.com/',
+        keywords: ['hiring', 'hr', 'marketplace', 'jobs', 'career'],
+    },
+    {
+        name: 'CakeResume',
+        description:
+            'Build an impressive resume and land that dream job. View online or download the PDF for FREE! CakeResume provides more than 50 resume templates and 1,000+ resume samples to help you make a professional resume in 10 minutes.',
+        categories: ['Resume'],
+        url: 'https://www.cakeresume.com/',
+    },
+    {
+        name: 'CandyIcons',
+        description:
+            'CandyIcons offers thousands of unique and amazing app icons that have not yet appeared elsewhere, saving you time in spotting the perfect icon for your product.',
+        categories: ['Icon'],
+        url: 'https://www.candyicons.com',
+    },
+    {
+        name: 'Canva',
+        description:
+            'Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.',
+        categories: ['Design', 'UI', 'Template'],
+        url: 'https://www.canva.com/',
+    },
+    {
+        name: 'CanvasJs',
+        description:
+            'HTML5 JavaScript Charts built on top of HTML5 Canvas Element. Renders across devices & is 10x faster than JavaScript Charting libraries based on SVG.',
+        categories: ['Library', 'Programming'],
+        url: 'https://canvasjs.com/',
+    },
+    {
+        name: 'CapCut',
+        description:
+            'CapCut is an all-in-one online video editing software which makes creation, upload & share easier, with frame by frame track editor, cloud drive etc.',
+        categories: ['Image', 'Editor', 'Video'],
+        url: 'https://www.capcut.com',
+        keywords: ['video editor'],
+    },
+    {
+        name: 'Caprock',
+        description:
+            'Open-source local dashboard for Claude Code, Codex, OpenCode and Gemini CLI: live activity, cost per repo, loop alerts, searchable history. No telemetry.',
+        categories: ['AI', 'Analytics', 'Open Source'],
+        url: 'https://caprock.dev',
+        keywords: [
+            'claude code',
+            'codex',
+            'opencode',
+            'gemini cli',
+            'ai coding agents',
+            'token usage',
+            'cost tracking',
+            'dashboard',
+            'local-first',
+        ],
+    },
+    {
+        name: 'Carbon',
+        description: 'Carbon is the easiest way to create and share beautiful images of your source code.',
+        categories: ['Code Snippet', 'Screenshot'],
+        url: 'https://carbon.now.sh',
+    },
+    {
+        name: 'Carrd',
+        description: 'A free platform for building simple, fully responsive one-page sites for pretty much anything.',
+        categories: ['Website Builder'],
+        url: 'https://carrd.co',
+    },
+    {
+        name: 'Cassandra',
+        description:
+            'Cassandra is a free tool which is designed to manage a large amount of data across a wide range of servers. The tool offers support for replicating across multiple datacenters.',
+        categories: ['Database'],
+        url: 'https://cassandra.apache.org/',
+    },
+    {
+        name: 'Catalog by Thesys',
+        description: `Catalog by Thesys is a curated collection of AI agents designed to help you find the right agent for your needs. Whether you're exploring AI for automation, decision-making, or creative tasks, it simplifies your search with the categorization and listing of all the AI agents.`,
+        categories: ['Database', 'AI'],
+        url: 'https://catalog.thesys.dev/',
+    },
+    {
+        name: 'CatchDoms',
+        description:
+            'Expired and auction domain finder aggregating 100k+ domains from 17 marketplaces, enriched with SEO metrics (Trust Flow, backlinks, age, historical tech stack). Ships a public REST API and an open-source MCP server so AI assistants like Claude can query the catalog in natural language.',
+        categories: ['Domain', 'SEO', 'AI'],
+        url: 'https://catchdoms.com',
+        keywords: [
+            'expired-domains',
+            'domain-finder',
+            'seo',
+            'backlinks',
+            'trust-flow',
+            'mcp',
+            'api',
+            'wayback',
+            'domainer',
+        ],
+    },
+    {
+        name: 'Causeway',
+        description:
+            'Give your AI a real Chromium browser: Causeway exposes 52 MCP tools to navigate, read, click, type, screenshot, and run JavaScript through CDP.',
+        categories: ['Browser', 'Tooling', 'AI'],
+        url: 'https://wildernessinteractive.com/causeway',
+        keywords: ['mcp', 'browser automation', 'chromium', 'chrome devtools protocol', 'rust', 'ai agents'],
+    },
+    {
+        name: 'Cert Decoder',
+        description:
+            'Cert Decoder is a free online tool for decoding X.509 SSL/TLS certificates in PEM format directly in your browser.',
+        categories: ['Security', 'Testing', 'Tooling'],
+        url: 'https://certdecoder.com/',
+    },
+    {
+        name: 'Certificates.dev',
+        description:
+            'Recognized certification exams for Vue (official certification endorsed by Evan You), React, Angular, Nuxt, and JS. We’ve helped developers from 680+ companies worldwide validate their frontend skills.',
+        keywords: ['frontend', 'Javascript', 'Vue', 'React', 'Angular', 'Certification', 'coding challenge'],
+        categories: ['Programming', 'Resume', 'Code Challenge'],
+        url: 'https://certificates.dev/',
+    },
+    {
+        name: 'Chain.Love',
+        description:
+            'Discover and compare Web3 infrastructure services, including RPCs, APIs, explorers, wallets, and developer tools across blockchain networks.',
+        categories: ['Web3'],
+        url: 'https://www.chain.love/',
+        keywords: ['web3', 'blockchain', 'rpc', 'infrastructure'],
+    },
+    {
+        name: 'Chaindesk',
+        description:
+            'Chaindesk is a complete support ecosystem to help you spend less time supporting your users - and more time growing your business.',
+        categories: ['AI', 'Productivity'],
+        url: 'https://www.chaindesk.ai/',
+        keywords: ['ChatGPT Chatbot', 'AI Chatbot', 'Customer Support', 'Chatbot'],
+    },
+    {
+        name: 'chainjobs',
+        description:
+            'Free Web3 and freelance job board where clients and freelancers chat directly; payment in crypto or bank transfer, 0% platform commission.',
+        categories: ['Freelance', 'Job', 'Web3'],
+        url: 'https://chainjobs.app/',
+        keywords: ['web3 jobs', 'freelance', 'crypto jobs', 'remote jobs'],
+    },
+    {
+        name: 'Chakra',
+        description: 'Simple, Modular and Accessible UI Components for your React Applications.',
+        categories: ['Library', 'Programming', 'UI'],
+        url: 'https://chakra-ui.com/',
+    },
+    {
+        name: 'Chargeblast',
+        description: 'Chargeblast helps developers simplify their payment stack and not worry about blocking disputes',
+        categories: ['Analytics', 'Library'],
+        url: 'https://www.chargeblast.com/',
+        keywords: ['payments', 'chargeback', 'stripe integration'],
+    },
+    {
+        name: 'Chart.js',
+        description:
+            'Simple, clean and engaging HTML5 based JavaScript charts. Chart.js is an easy way to include animated, interactive graphs on your website for free.',
+        categories: ['Library', 'Programming'],
+        url: 'https://www.chartjs.org/',
+    },
+    {
+        name: 'Chartist',
+        description: 'Create responsive, scalable and good looking charts with chartist.js.',
+        categories: ['Library', 'Programming'],
+        url: 'https://gionkunz.github.io/chartist-js/',
+    },
+    {
+        name: 'Chatclient AI',
+        description:
+            'Build Custom AI Chatbot for Your Website. Chatclient helps you with creating your own custom AI Chatbot based on your website and company data, just like ChatGPT. Seamlessly integrate it as a widget on your website.',
+        categories: ['AI'],
+        url: 'https://chatclient.ai',
+        keywords: ['ai', 'chatbots', 'custom chatgpt', 'ai agents'],
+    },
+    {
+        name: 'ChatGPT Prompts by Keywords Everywhere',
+        description:
+            'Rewrite business rules with an arsenal of Supercharged ChatGPT prompts at your fingertips. Shape remarkable strategies, captivate your audience, & make your business truly shine.',
+        categories: ['AI'],
+        url: 'https://keywordseverywhere.com/ctl/chatgpt-prompts',
+        keywords: ['ai', 'prompts'],
+    },
+    {
+        name: 'ChatGpt Resume builder',
+        description:
+            '> ResumUp is an all-in-one AI career platform designed to help job seekers land more interviews with less effort. The platform enables users to create professio',
+        categories: ['Resume'],
+        url: 'https://chatgptresume.com/',
+        keywords: ['Tailor to any job description', 'optimize for ATS', 'and write compelling cover letters'],
+    },
+    {
+        name: 'Chatim',
+        description:
+            'Chatim is a live chat with a chatbot automation platform that lets you connect with customers anywhere, anytime',
+        categories: ['AI', 'Productivity'],
+        url: 'https://chatim.app/',
+        keywords: ['Live Chat', 'Lead Generation', 'Sales', 'Chatbot'],
+    },
+    {
+        name: 'Chatmoat',
+        description:
+            'Chatmoat helps you build an AI chatbot for your website in just 2 minutes, delivering instant AI-generated answers, 24/7 support, and happier visitors.',
+        categories: ['AI'],
+        url: 'https://chatmoat.com',
+        keywords: ['ai', 'Customer Support', 'Chatbot'],
+    },
+    {
+        name: 'ChatWithCloud',
+        description:
+            'CLI allowing you to interact with AWS Cloud using human language inside your Terminal thanks to generative AI.',
+        categories: ['AI'],
+        url: 'https://chatwithcloud.ai',
+        keywords: ['ai', 'cloud', 'aws'],
+    },
+    {
+        name: 'CheatGrid',
+        description:
+            'Developer cheat sheets covering web development, programming languages, DevOps, AI, and more. Free cheat sheets available with no account needed.',
+        categories: ['Cheatsheet', 'Learn', 'Programming'],
+        url: 'https://cheatgrid.com',
+        keywords: [
+            'react',
+            'cheat sheet',
+            'reference',
+            'web development',
+            'javascript',
+            'frontend',
+            'python',
+            'devops',
+        ],
+    },
+    {
+        name: 'Cheatography',
+        description: 'Find thousands of incredible, original programming cheat sheets, all free to download.',
+        categories: ['Cheatsheet'],
+        url: 'https://cheatography.com/',
+    },
+    {
+        name: 'Check My Links',
+        description: 'Check My Links is a link checker that crawls through your webpage and looks for broken links.',
+        categories: ['Browser', 'Extension'],
+        url: 'https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf',
+    },
+    {
+        name: 'Checka11y.css',
+        description: 'A CSS stylesheet to quickly highlight a11y concerns. - jackdomleo7/Checka11y.css.',
+        categories: ['Accessibility', 'Programming'],
+        url: 'https://github.com/jackdomleo7/Checka11y.css',
+    },
+    {
+        name: 'Checklist Design',
+        description:
+            'Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets.',
+        categories: ['Design', 'UI'],
+        url: 'https://www.checklist.design/',
+    },
+    {
+        name: 'Choc UI',
+        description:
+            'Choc UI is a set of accessible and reusable components that are commonly used in web applications.',
+        categories: ['Library', 'Programming', 'UI'],
+        url: 'https://choc-ui.com/',
+    },
+    {
+        name: 'Chord',
+        description:
+            'DEX aggregator API: best-route swap quotes split across DEXs and unsigned swap transactions on Base, Arbitrum, BNB Chain, Avalanche, Monad and more.',
+        categories: ['Web3'],
+        url: 'https://getchord.xyz',
+        keywords: ['dex aggregator', 'swap api', 'defi', 'evm', 'base', 'arbitrum', 'web3'],
+    },
+    {
+        name: 'Chrome',
+        description:
+            'Get more done with the new Google Chrome. A more simple, secure, and faster web browser than ever, with Google’s smarts built-in. Download now.',
+        categories: ['Browser'],
+        url: 'https://www.google.com/chrome/',
+    },
+    {
+        name: 'Chrome Canary',
+        description:
+            'Get on the bleeding edge of the web with Chrome Canary designed for experienced developers and updated nightly.',
+        categories: ['Browser'],
+        url: 'https://www.google.com/chrome/canary/',
+    },
+    {
+        name: 'Chrome Dev',
+        description:
+            'Google Chrome for developers was built for the open web. Test cutting-edge web platform APIs and developer tools that are updated weekly.',
+        categories: ['Browser'],
+        url: 'https://www.google.com/chrome/dev/',
+    },
+    {
+        name: 'Chrome Extension Downloader',
+        description:
+            'Download available Chrome extension CRX/ZIP packages, inspect source files and manifest permissions, and query extension data through REST or MCP.',
+        categories: ['Tooling', 'Extension'],
+        url: 'https://extensiondownloader.com',
+        keywords: ['chrome', 'crx', 'zip', 'source code', 'manifest', 'permissions', 'rest api', 'mcp'],
+    },
+    {
+        name: 'Chrome Reader Mode',
+        description: 'Transform page to simple reading mode',
+        categories: ['Extension', 'Productivity', 'Browser'],
+        url: 'https://chromewebstore.google.com/detail/chrome-reader-mode/opfflfgjinednmneaiplkponjphblmmc',
+        keywords: ['chrome reader mode', 'reader mode chrome', 'chrome reading mode', 'reader mode in chrome'],
+    },
+    {
+        name: 'Circum Icons',
+        description: 'Consistent open source icons as SVG for React, Vue and Svelte.',
+        categories: ['Icon'],
+        url: 'https://circumicons.com/',
+    },
+    {
+        name: 'Ciyo',
+        description:
+            'AI design workspace with a conversational design agent and an infinite canvas for creating and editing images and videos.',
+        categories: ['AI', 'Design', 'Image'],
+        url: 'https://ciyo.ai',
+        keywords: [
+            'ai design',
+            'design agent',
+            'infinite canvas',
+            'image generation',
+            'video generation',
+            'creative tools',
+        ],
+    },
+    {
+        name: 'CleanSnap',
+        description:
+            'CleanSnap is a free AI Images maker. Create a beautiful image from a screenshot in seconds. Without any watermark.',
+        categories: ['Image', 'Screenshot', 'AI'],
+        url: 'https://www.cleansnap.co/',
+        keywords: [
+            'image generation',
+            'beautiful screenshots',
+            'screenshots creator',
+            'how to make generate image',
+            'image',
+            'screenshot',
+            'download',
+            'easy',
+            'photo',
+            'gif',
+            'picture',
+            'instagram',
+            'facebook',
+        ],
+    },
+    {
+        name: 'Clearbit',
+        description:
+            "Easily embed any company's logo in your project with this simple & free API. Quickly lookup company logos using their domain. It's as easy as typing in a URL.",
+        categories: ['Logo'],
+        url: 'https://clearbit.com/logo',
+        keywords: ['company logos'],
+    },
+    {
+        name: 'Clerk',
+        description: 'Drop-in React components for authentication and authorization.',
+        categories: ['Authentication', 'Library', 'Programming'],
+        url: 'https://clerk.com',
+        keywords: ['react', 'next.js', 'auth', 'user management', 'react auth', 'next.js auth', 'javascript auth'],
+    },
+    {
+        name: 'Clideo',
+        description: 'Make a video by combining photos, videos, GIFs and music together — it',
+        categories: ['Editor', 'Video'],
+        url: 'https://clideo.com',
+        keywords: [
+            'free video maker',
+            'youtube',
+            'video creator',
+            'how to make a video',
+            'online video maker',
+            'music',
+            'windows',
+            'download',
+            'easy',
+            'photo',
+            'create a video',
+            'gif',
+            'picture',
+            'instagram',
+            'facebook cover',
+            'clip',
+            'mac',
+        ],
+    },
+    {
+        name: 'Cline',
+        description:
+            'Open-source AI coding agent for VS Code, JetBrains and the CLI. Free and unlimited with bring-your-own API keys or local models.',
+        categories: ['AI', 'Extension'],
+        url: 'https://cline.bot',
+        keywords: ['ai', 'coding agent', 'vs code', 'open source'],
+    },
+    {
+        name: 'CLion',
+        description: 'A powerful IDE from JetBrains helps you develop in C and C++ on Linux, macOS and Windows.',
+        categories: ['Editor', 'Programming'],
+        url: 'https://www.jetbrains.com/clion/',
+    },
+    {
+        name: 'Cloudbrowser',
+        description:
+            'Persistent cloud Chrome for browser automation and AI agents. Connect over CDP, preserve the browser profile, and watch the desktop in Live View.',
+        categories: ['Browser', 'Cloud Computing', 'Tooling'],
+        url: 'https://cloudbrowser.tv',
+        keywords: ['browser automation', 'cdp', 'chrome', 'playwright', 'ai agents'],
+    },
+    {
+        name: 'CloudCannon',
+        description:
+            'The Git-based CMS that lets your team edit Jamstack sites. Sync your files from GitHub, Bitbucket, or GitLab to CloudCannon and edit content visually with your team.',
+        categories: ['CMS'],
+        url: 'https://cloudcannon.com',
+        keywords: ['cms', 'static site', 'git', 'visual editor', 'jamstack'],
+    },
+    {
+        name: 'Cloudflare Pages',
+        description:
+            'Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.',
+        categories: ['Hosting', 'Serverless'],
+        url: 'https://pages.cloudflare.com/',
+        keywords: ['jamstack', 'serverless', 'hosting', 'development'],
+    },
+    {
+        name: 'Cloudflare Workers',
+        description:
+            'Cloudflare workers allow you to host serverless code. The free plan is also ideal for static site hosting',
+        categories: ['Serverless'],
+        url: 'https://workers.cloudflare.com/',
+    },
+    {
+        name: 'cmd challenge',
+        description: 'Learn the command line.',
+        categories: ['Terminal'],
+        url: 'https://cmdchallenge.com/',
+    },
+    {
+        name: 'Coddy',
+        description:
+            'Learn to code with free interactive courses, in-browser playgrounds and coding challenges in Python, JavaScript, SQL, C++, Java and 20+ more.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://coddy.tech',
+        keywords: [
+            'learn to code',
+            'coding courses',
+            'interactive',
+            'python',
+            'javascript',
+            'sql',
+            'online compiler',
+            'playground',
+            'beginner',
+        ],
+    },
+    {
+        name: 'Code By AI',
+        description:
+            'Unified API gateway for AI coding agents: one API key and balance for Claude, GPT/Codex and Gemini in Claude Code, Codex CLI and Gemini CLI. Pay per token.',
+        categories: ['AI', 'Tooling'],
+        url: 'https://www.codebyai.net',
+        keywords: ['api gateway', 'llm api', 'claude code', 'codex', 'gemini cli', 'ai coding'],
+    },
+    {
+        name: 'Code to go',
+        description: 'Javascript code to go: Find updated snippets for common JavaScript use cases.',
+        categories: ['Code Snippet', 'Programming'],
+        url: 'https://codetogo.io/',
+    },
+    {
+        name: 'Code Winds',
+        description:
+            'CodeWinds - Leading edge live and online developer training - in-person, public or private classes, webinars, video courses, resources, tutorials for fullstack web developers. Featuring javascript, React.js, Node.js, Redux, Functional programming, Reactive programming, RxJS, and related topics.',
+        categories: ['Podcast', 'Programming'],
+        url: 'https://codewinds.com/podcast.html',
+        keywords: [
+            'web',
+            'developer',
+            'training',
+            'fullstack',
+            'live classes',
+            'private classes',
+            'custom classes',
+            'webinars',
+            'screencasts',
+            'video',
+            'audio',
+            'online training',
+            'tutorials',
+            'video tutorials',
+            'classes',
+            'react.js',
+            'reactjs',
+            'javascript',
+            'js',
+            'es6',
+            'es7',
+            'node.js',
+            'nodejs',
+            'iojs',
+            'html',
+            'html5',
+            'functional programming',
+            'reactive programming',
+            'rxjs',
+            'redux',
+        ],
+    },
+    {
+        name: 'Codecademy',
+        description:
+            'Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://www.codecademy.com/',
+    },
+    {
+        name: 'CodeChef',
+        description: 'Learn competitive programming with the help of CodeChef',
+        categories: ['Code Challenge'],
+        url: 'https://www.codechef.com/',
+        keywords: [
+            'programming competition',
+            'programming contest',
+            'online programming',
+            'online computer programming',
+        ],
+    },
+    {
+        name: 'CodeCombat',
+        description:
+            'Learn programming languages by playing the Role Playing Game. Different languages, beginner-friendly learning curve.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://www.codecombat.com/',
+        keywords: ['Python', 'JavaScript', 'CoffeeScript', 'Lua', 'C++', 'Java'],
+    },
+    {
+        name: 'Codeconia',
+        description: 'Learn programming with Codeconia.',
+        categories: ['Blog', 'Programming'],
+        url: 'https://codeconia.com/',
+    },
+    {
+        name: 'CodedThemes',
+        description:
+            'Download free and pro developer-first admin templates in React, MUI, Vue, Next.js, Tailwind, and more. Loved by 400K+ developers worldwide.',
+        categories: ['Template', 'UI'],
+        url: 'https://codedthemes.com/',
+    },
+    {
+        name: 'CodeIntuition',
+        description:
+            'Pattern-based data structures and algorithms courses for coding interviews: 450+ problems, 75+ patterns and a timed Interview Mode.',
+        categories: ['Learn', 'Interview'],
+        url: 'https://www.codeintuition.io',
+        keywords: ['dsa', 'data structures', 'algorithms', 'coding interview', 'leetcode', 'python', 'java', 'c++'],
+    },
+    {
+        name: 'CodeKit',
+        description:
+            'CodeKit is a Mac app that makes it easy to use modern web development tools like npm, Babel, Sass, JavaScript bundling, image optimization, and ESLint.',
+        categories: ['Programming', 'Tooling'],
+        url: 'https://codekitapp.com/',
+    },
+    {
+        name: 'Codementor',
+        description:
+            'Codementor is the largest community for developer mentorship and an on-demand marketplace for software developers. Get instant coding help, build projects faster, and read programming tutorials from our community of developers.',
+        categories: ['Freelance'],
+        url: 'https://www.codementor.io/',
+    },
+    {
+        name: 'CodeMyUI',
+        description:
+            'Handpicked collection of Web Design & UI Inspiration with Code Snippets. ✅ GIF preview ✅ HTML CSS copy paste code.',
+        categories: ['Code Snippet', 'UI'],
+        url: 'https://codemyui.com/',
+    },
+    {
+        name: 'CodeNewbie',
+        description: 'Stories from people on their coding journey.',
+        categories: ['Podcast', 'Programming'],
+        url: 'https://www.codenewbie.org/podcast/',
+        keywords: ['careers', 'development', 'jobs'],
+    },
+    {
+        name: 'CodePen',
+        description:
+            'An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets, projects, and web applications.',
+        categories: ['Editor', 'Programming'],
+        url: 'https://codepen.io/',
+        keywords: [
+            'javascript',
+            'css',
+            'editor',
+            'code',
+            'community',
+            'social',
+            'frontend',
+            'front',
+            'end',
+            'developer',
+            'designer',
+            'jobs',
+            'hiring',
+            'deploy',
+            'test',
+            'demo',
+            'spa',
+            'single',
+            'page',
+            'application',
+            'web',
+            'html',
+            'modern',
+            'ide',
+            'browser',
+            'pen',
+            'codepen',
+        ],
+    },
+    {
+        name: 'CodePen Radio',
+        description:
+            "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+        categories: ['Podcast', 'Programming'],
+        url: 'https://blog.codepen.io/radio/',
+    },
+    {
+        name: 'Codepip',
+        description: 'Learn to code by playing games.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://codepip.com',
+    },
+    {
+        name: 'Coderbyte',
+        description:
+            'Improve your coding skills with our library of 300+ challenges and prepare for coding interviews with content from leading technology companies.',
+        categories: ['Code Challenge'],
+        url: 'https://coderbyte.com/',
+        keywords: [
+            'coderbyte',
+            'coder byte',
+            'coding',
+            'coding',
+            'bootcamp',
+            'code school',
+            'programming challenges',
+            'practice coding',
+            'algorithm',
+            'math',
+            'puzzles',
+            'test you programming skills',
+            'codetbytes',
+        ],
+    },
+    {
+        name: 'CoderScren',
+        description: 'A modern, open-source technical hiring platform',
+        categories: ['Interview', 'Open Source'],
+        url: 'https://www.coderscreen.com/',
+        keywords: [
+            'cloudflare',
+            'open-source',
+            'react',
+            'tanstack',
+            'hono',
+            'screen',
+            'jobs',
+            'hiring',
+            'test',
+            'challenge',
+        ],
+    },
+    {
+        name: 'CoderTools',
+        description:
+            'Free, secure, and offline-capable developer tools. Features Formatter, Encoder/Decoder, Encryption/Decryption, and so on. 100% client-side processing for privacy.',
+        categories: ['Programming'],
+        url: 'https://www.codertools.net/',
+        keywords: [
+            'formatter',
+            'minifier',
+            'encoder',
+            'decoder',
+            'encryption',
+            'decryption',
+            'hash',
+            'protobuf',
+            'hardware access tools',
+        ],
+    },
+    {
+        name: 'CodeSandbox',
+        description:
+            'CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.',
+        categories: ['Editor', 'Programming'],
+        url: 'https://codesandbox.io/',
+        keywords: [
+            'react',
+            'codesandbox',
+            'editor',
+            'vue',
+            'angular',
+            'ide',
+            'code',
+            'javascript',
+            'playground',
+            'sharing',
+            'spa',
+            'single',
+            'page',
+            'application',
+            'web',
+            'application',
+            'frontend',
+            'front',
+            'end',
+        ],
+    },
+    {
+        name: 'Codeshare',
+        description:
+            'Share code in real-time with developers in your browser. An online code editor for interviews, troubleshooting, teaching.',
+        categories: ['Editor', 'Programming'],
+        url: 'https://codeshare.io/',
+    },
+    {
+        name: 'CodeToPDF',
+        description:
+            'Fast, free, and modern online utilities. Format JSON, convert code to PDF, decode JWTs, generate UUIDs, test regex — and much more.',
+        categories: ['Programming'],
+        url: 'https://www.codetopdf.com',
+        keywords: ['codetopdf', 'htmltopdf', 'mdtopdf'],
+    },
+    {
+        name: 'CodeTriage',
+        description:
+            'Discover the easiest way to get started contributing to open source. Over 62,317 devs are helping 6,584 projects with our free, community developed tools',
+        categories: ['Hacktoberfest', 'Open Source'],
+        url: 'https://www.codetriage.com/',
+    },
+    {
+        name: 'Codewars',
+        description:
+            'Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.',
+        categories: ['Code Challenge'],
+        url: 'https://www.codewars.com/',
+        keywords: [
+            'codewars',
+            'code kata',
+            'kata',
+            'code gym',
+            'coding',
+            'code practice',
+            'ruby',
+            'javascript',
+            'coffeescript',
+            'web development',
+            'software development',
+            'dojo',
+        ],
+    },
+    {
+        name: 'Codiga',
+        description: 'Codiga is a Coding Assistant that lets you create, share and import code snippets from your IDE.',
+        categories: ['Editor', 'Extension'],
+        url: 'https://www.codiga.io',
+    },
+    {
+        name: 'Coding Tech',
+        description:
+            "Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here's the list of Conferences that provided Coding Tech with EXPLICIT written publication permissions: PyData, MLConf, Build Stuff, Code::dive, PolyConf, AmsterdamJS, React Amsterdam, ReactiveConf, Jazoon Tech Days, SFNode, CppCon, Infinite Red, GDG Lviv, Mibuso.com, You Gotta Love Frontend, React Native EU, Node Summit, NodeConfEU, ConFoo, Pixels Camp, JavaScriptLA, The Linux Foundation, Oredev Conference, Techlahoma, fitcevents. Coding Tech also re-posts content which was originally published with the Creative Commons Attribution license (reuse allowed).",
+        categories: ['Programming', 'YouTube Channel'],
+        url: 'https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ',
+        keywords: [
+            'javascript python css html machine learning artificial intelligence software development programming',
+        ],
+    },
+    {
+        name: 'CodinGame',
+        description:
+            'CodinGame is a challenge-based training platform for programmers where you can improve your coding skills with fun exercises (25+ languages supported).',
+        categories: ['Code Challenge'],
+        url: 'https://www.codingame.com/',
+    },
+    {
+        name: 'Codinn',
+        description:
+            '30 Days of ReactJs challenge is a step by step tutorial to level up your React skills in 30 days by developing 30 projects.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://www.codinn.dev/',
+        keywords: ['frontend', 'html', 'css', 'reactjs', 'react', 'javascript', 'react projects', 'reactjs projects'],
+    },
+    {
+        name: 'Codrops',
+        description:
+            'Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.',
+        categories: ['Inspiration', 'UI'],
+        url: 'https://tympanus.net/codrops/',
+    },
+    {
+        name: 'Collect UI',
+        description:
+            'Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.',
+        categories: ['Inspiration', 'UI'],
+        url: 'https://collectui.com/',
+        keywords: ['dailyui', 'daily ui', 'ui challenge', 'daily inspiration', 'ui inspiration'],
+    },
+    {
+        name: 'Color Contrast Checker',
+        description: 'Make sure your website has accessible colors.',
+        categories: ['Accessibility'],
+        url: 'https://zarhasan.github.io/color-contrast-checker/',
+    },
+    {
+        name: 'Color Hunt',
+        description:
+            'Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.',
+        categories: ['Color'],
+        url: 'https://colorhunt.co/',
+    },
+    {
+        name: 'Color-hex',
+        description:
+            'Color hex is a easy to use tool to get the color codes information including color models (RGB,HSL,HSV and CMYK), css and html color codes.',
+        categories: ['Color'],
+        url: 'https://www.color-hex.com/',
+    },
+    {
+        name: 'Color.review',
+        description:
+            'A modern tool for exploring and finding accessible colors. Make sure that everyone can see your creations.',
+        categories: ['Accessibility', 'Color'],
+        url: 'https://color.review/',
+    },
+    {
+        name: 'Colorffy',
+        description:
+            'Create many gradients and palettes or save one of many color schemes, for everyone who needs colors.',
+        categories: ['Color'],
+        url: 'https://colorffy.com/',
+    },
+    {
+        name: 'Colorlib',
+        description:
+            "Colorlib is the ONLY resource you'll need to start a blog using WordPress! We offer comprehensive yet easy to follow guides well suited for beginner bloggers.",
+        categories: ['Template'],
+        url: 'https://colorlib.com/',
+    },
+    {
+        name: 'ColorMagic',
+        description:
+            'Instantly generate stunning color palettes and schemes from a name, image, hex code, word, or one color with AI',
+        categories: ['Color'],
+        url: 'https://colormagic.app/',
+        keywords: [
+            'color palette',
+            'color palette generator',
+            'color themes',
+            'color palettes',
+            'ai color palette generator',
+        ],
+    },
+    {
+        name: 'Colormind',
+        description:
+            'Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.',
+        categories: ['Color'],
+        url: 'https://colormind.io/',
+    },
+    {
+        name: 'colors.lol',
+        description: 'A fun way to discover interesting color combinations.',
+        categories: ['Color'],
+        url: 'https://colors.lol/',
+    },
+    {
+        name: 'Colorsinspo',
+        description:
+            'Colorsinspo is all in one resource to find everything about colors with extreme ease. Also, you will get Freebies, Inspirations, Color Tools, Gradients, and thousands of trendy hand-picked color palettes.',
+        categories: ['Color'],
+        url: 'https://colorsinspo.com/',
+    },
+    {
+        name: 'ColorSpace',
+        description:
+            'Here you can find the perfect matching color scheme for your next project! Generate nice color palettes, color gradients and much more! Your space for everything that has to do with color!',
+        categories: ['Color'],
+        url: 'https://mycolor.space/',
+    },
+    {
+        name: 'ColorZilla',
+        description: 'Advanced Eyedropper, Color Picker, Gradient Generator and more.',
+        categories: ['Color', 'Editor', 'Extension'],
+        url: 'https://www.colorzilla.com/',
+    },
+    {
+        name: 'Commit Your Code!',
+        description:
+            'Commit Your Code is about motivating and inspiring developers of all levels to reach their goals in tech. We will be sharing stories and interviewing developers that have gone through this and made it to their dream jobs!',
+        categories: ['Podcast', 'Programming'],
+        url: 'https://anchor.fm/commityourcode',
+        keywords: [
+            'podcast hosting',
+            'free podcast hosting',
+            'make a podcast',
+            'making a podcast',
+            'create a podcast',
+            'creating a podcast',
+            'podcast sponsorships',
+            'sponsor a podcast',
+            'free',
+            'audio',
+            'recording',
+            'audio clip',
+            'anchor',
+            'podcasts',
+            'voice',
+            'microphone',
+            'podcast',
+            'podcast creation',
+            'record',
+            'conversation',
+            'discussion',
+            'talk',
+            'talking',
+            'radio',
+            'public radio',
+            'npr',
+            'startup',
+            'talk radio',
+        ],
+    },
+    {
+        name: 'Compare pixels',
+        description: 'Use this tool to quickly check differences between design mockups and the live website.',
+        categories: ['Design', 'UI'],
+        url: 'https://usepastel.com/compare-pixels',
+        keywords: [
+            'feedback',
+            'website',
+            'share',
+            'link',
+            'live',
+            'visual',
+            'comment',
+            'sticky',
+            'note',
+            'pin',
+            'server',
+            'web',
+        ],
+    },
+    {
+        name: 'Compot',
+        description:
+            'Design and develop SwiftUI apps faster with Compot – a growing library of crafted SwiftUI components and templates ready to copy and use in your iOS apps.',
+        categories: ['Prototyping', 'UI'],
+        url: 'https://www.compotui.com',
+        keywords: ['ios', 'swift', 'swiftui', 'development', 'components', 'xcode', 'apple', 'iphone', 'app'],
+    },
+    {
+        name: 'Compressor',
+        description:
+            'Optimize and compress your jpeg and png images online. Compressor is a lossy and lossless photo compression tool.',
+        categories: ['Image', 'Tooling'],
+        url: 'https://compressor.io/',
+    },
+    {
+        name: 'Computer Science courses with video lectures',
+        description: 'List of Computer Science courses with video lectures.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://github.com/Developer-Y/cs-video-courses',
+    },
+    {
+        name: 'Confetti Trigger',
+        description:
+            'A cross-platform background service that generates celebratory confetti animations triggered via HTTP API, enabling developers to add visual celebrations to automated workflows.',
+        categories: ['Tooling'],
+        url: 'https://confetti-trigger.dev/',
+        keywords: ['confetti', 'celebration', 'automation', 'api', 'ci/cd', 'background service'],
+    },
+    {
+        name: 'Confs.Tech',
+        description:
+            'Open-Source project that lists upcoming tech conferences. Everything is free and will stay free. It is a technical conferences finder.',
+        categories: ['Conference'],
+        url: 'https://confs.tech/',
+        keywords: [
+            '.Net',
+            'Accessibility',
+            'Android',
+            'CSS',
+            'Data - AI',
+            'Design - UX',
+            'DevOps',
+            'Elixir',
+            'IoT',
+            'Java',
+            'JavaScript',
+            'PHP',
+            'Python',
+            'Ruby',
+            'Security',
+            'iOS',
+        ],
+    },
+    {
+        name: 'Console Ninja',
+        description:
+            'Console Ninja is a VS Code extension that allows you to see console.log output and runtime errors right next to your code.',
+        categories: ['Editor', 'Extension'],
+        url: 'https://console-ninja.com',
+    },
+    {
+        name: 'ContentKing',
+        description:
+            'ContentKing keeps track of your website 24/7 so that you can catch unexpected changes and issues before search engines and visitors do.',
+        categories: ['SEO'],
+        url: 'https://www.contentkingapp.com/',
+        keywords: ['seo', 'content', 'monitoring', 'website', 'audit'],
+    },
+    {
+        name: 'Context Data',
+        description: 'Data Processing & ETL infrastructure for Generative AI applications',
+        categories: ['AI', 'Database'],
+        url: 'https://contextdata.ai',
+        keywords: [
+            'ai infrastructure',
+            'generative ai',
+            'vector database',
+            'rag',
+            'data engineering',
+            'retrieval augmented generation',
+        ],
+    },
+    {
+        name: 'Contrast Ratio',
+        description: 'Easily calculate color contrast ratios.',
+        categories: ['Accessibility', 'Color'],
+        url: 'https://contrast-ratio.com/',
+    },
+    {
+        name: 'Control',
+        description: 'Combo set of 108 customizable illustrations.',
+        categories: ['Illustration'],
+        url: 'https://control.rocks/',
+    },
+    {
+        name: 'Conversion Strategies Database',
+        description:
+            'Join 881 smart founders and SaaS companies who are growing their sales with Swipe conversion strategies database.',
+        categories: ['Marketing'],
+        url: 'https://gumroad.com/a/399283315/WCKkj',
+    },
+    {
+        name: 'Convert.ai',
+        description: 'Generates quality B2B sales meetings with personalized AI outreach.',
+        categories: ['AI', 'Marketing', 'Startup'],
+        url: 'https://convert.ai/',
+        keywords: ['ai sdr', 'sales', 'ai sales outreach', 'b2b lead generation'],
+    },
+    {
+        name: 'ConvertImage.tools',
+        description:
+            'Free browser-based image tools including converter, compressor, background remover, and more. All processing happens client-side with no signup required.',
+        categories: ['Image', 'Tooling'],
+        url: 'https://convertimage.tools',
+        keywords: ['image converter', 'image compressor', 'background remover', 'client-side', 'image tools'],
+    },
+    {
+        name: 'Convertyard',
+        description:
+            'ConvertYard converts images, PDFs, audio, and video files locally using WebAssembly — your files never leave your device.',
+        categories: ['Image'],
+        url: 'https://convertyard.com/',
+        keywords: ['JPG to WebP', 'JPG to AVIF', 'Image Compressor', 'Image Resizer', 'Image Cropper'],
+    },
+    {
+        name: 'CookieYes',
+        description:
+            'CookieYes is a cookie consent solution that helps your website achieve GDPR and CCPA compliance easily. Create a lifetime free account!',
+        categories: ['Legal'],
+        url: 'https://www.cookieyes.com/',
+        keywords: ['privacy', 'cookie', 'policy'],
+    },
+    {
+        name: 'CoolColor Space',
+        description:
+            'Free browser color tools: nearest Tailwind v4 or v3.4 class for a HEX, 46 converters with OKLCH, a WCAG 2 contrast checker and a color blindness simulator.',
+        categories: ['Color', 'Accessibility', 'Design'],
+        url: 'https://coolcolor.space',
+        keywords: [
+            'hex to tailwind',
+            'tailwind colors',
+            'oklch',
+            'color converter',
+            'contrast checker',
+            'wcag',
+            'color blindness simulator',
+            'css gradient',
+            'color palette',
+        ],
+    },
+    {
+        name: 'Coolors',
+        description: 'Generate or browse beautiful color combinations for your designs.',
+        categories: ['Color'],
+        url: 'https://coolors.co/',
+        keywords: [
+            'color scheme',
+            'scheme color',
+            'color schemes',
+            'color theme',
+            'color palette',
+            'color themes',
+            'color palettes',
+            'color combinations',
+            'color',
+            'colors',
+            'palettes',
+            'hex color wheel',
+            'pastel color palette',
+            'color wheel',
+            'color combination',
+            'color pallete',
+            'color names',
+            'web color schemes',
+            'color wheel generator',
+            'extract color palette from image',
+            'random color palette generator',
+            'color schemes generator',
+            'ui color palette generator',
+            'pretty colors',
+            'vintage color',
+            'color palette from image',
+        ],
+    },
+    {
+        name: 'Copy Paste CSS',
+        description:
+            'Find inspiration with a collection of simple CSS elements to copy and paste ( button, box-shadow, text-input, color palette )',
+        categories: ['Code Snippet', 'Programming'],
+        url: 'https://copy-paste-css.com/',
+    },
+    {
+        name: 'CopyAI',
+        description:
+            "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds!",
+        categories: ['AI', 'Writing'],
+        url: 'https://www.copy.ai/',
+    },
+    {
+        name: 'Corbado',
+        description: 'Passkey-first authentication for developers',
+        categories: ['Authentication', 'Library', 'Programming'],
+        url: 'https://www.corbado.com',
+        keywords: [
+            'passkeys',
+            'php',
+            'react',
+            'next.js',
+            'auth',
+            'user management',
+            'react auth',
+            'next.js auth',
+            'javascript auth',
+        ],
+    },
+    {
+        name: 'Core Web Vitals History Checker',
+        description:
+            'Know if the core web vitals for a url or an origin have improved, degraded or remained stable for the last six months.',
+        categories: ['Performance'],
+        url: 'https://punits.dev/core-web-vitals-historical/',
+        keywords: ['web performance', 'performance', 'crux', 'core web vitals'],
+    },
+    {
+        name: 'CoreUI',
+        description:
+            'Time is our most valuable asset, that’s why we want to help you save it by creating simple, customizable, easy to learn UI components and Admin Templates which significantly cut development time. CoreUI lets you save thousands of priceless hours because it offers everything you need to create modern, beautiful, and responsive applications.',
+        categories: ['Template'],
+        url: 'https://coreui.io/',
+    },
+    {
+        name: 'Corsair',
+        description:
+            'Corsair is an open source integration layer connecting AI agents to 200+ APIs through one syntax, handling OAuth, tokens, and webhooks',
+        categories: ['Open Source'],
+        url: 'https://corsair.dev/',
+        keywords: [
+            'open source',
+            'MCP',
+            'Model Context Protocol',
+            'AI agents',
+            'API integration',
+            'OAuth',
+            'developer tools',
+            'TypeScript',
+            'webhooks',
+            'integration platform',
+            'SaaS',
+            'automation',
+        ],
+    },
+    {
+        name: 'Cortex',
+        description:
+            'Generate interactive API documentation, typed SDKs, and MCP servers from API specifications and Markdown.',
+        categories: ['API Building', 'Documentation', 'Tooling'],
+        url: 'https://cortexdocs.dev',
+        keywords: ['openapi', 'asyncapi', 'graphql', 'grpc', 'openrpc', 'sdk', 'mcp'],
+    },
+    {
+        name: 'CouchDB',
+        description:
+            'CouchDB is open-source software that is based on the common standards to access your important data. It stores data on your server or with a leading service provider of your choice.',
+        categories: ['Database'],
+        url: 'https://couchdb.apache.org/',
+    },
+    {
+        name: 'Coursera',
+        description:
+            'Join Coursera for free and learn online. Build skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM. Advance your career with degrees, certificates, Specializations, &amp; MOOCs in data science, computer science, business, and dozens of other topics.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://www.coursera.org/',
+    },
+    {
+        name: 'Cozytypes',
+        description:
+            'A simple and aesthetic typing website to help improve your typing speed and accuracy. a simple typing website for keyboard enthusiasts. Practice in different different modes, personalize your settings and preferences, and improve your skills.',
+        categories: ['Typing'],
+        url: 'https://cozytypes.com',
+        keywords: [
+            'typing',
+            'typing-test',
+            'cozytypes',
+            'words per minute',
+            'simple typing website',
+            'improve typing',
+            'practice typing',
+        ],
+    },
+    {
+        name: 'Craftwork',
+        description:
+            'Design resources for everyone. Freebies and premium web design products, custom illustrations and graphics on one marketplace.',
+        categories: ['Font', 'Icon', 'Illustration'],
+        url: 'https://craftwork.design',
+        keywords: ['ui', 'ux', 'vector', 'graphics', '3d'],
+    },
+    {
+        name: 'CrawlRaven',
+        description: 'Professional SEO audits with 200+ checks and prioritized fixes',
+        categories: ['SEO', 'Marketing', 'Scraping'],
+        url: 'https://www.crawlraven.com/',
+        keywords: ['marketing', 'seo audit', 'technical seo', 'site crawler'],
+    },
+    {
+        name: 'CreativesFeed',
+        description:
+            'CreativesFeed works to share the best free code snippets and web development resources online. We create free, downloadable code snippets and provide tutorials on web design and development to help agencies and individuals learn and grow!',
+        categories: ['Code Snippet'],
+        url: 'https://creativesfeed.com/topics/code-snippets/',
+    },
+    {
+        name: 'Creduse',
+        description:
+            'Creduse is a plug-and-play solution that lets developers integrate credits into their platforms via API without a lot of hassle. It’s aimed at startups and businesses that want to boost sales, user engagement, and retention.',
+        categories: ['API Building', 'Analytics', 'Startup'],
+        url: 'https://creduse.com/',
+        keywords: [
+            'api',
+            'credits',
+            'payments',
+            'subscriptions',
+            'credit-based system',
+            'saas',
+            'startup',
+            'pay-as-you-go',
+        ],
+    },
+    {
+        name: 'Cruip',
+        description:
+            'Cruip is a gallery of premium and free HTML, Vue.js and React landing page templates for startups and SaaS.',
+        categories: ['Programming', 'Template'],
+        url: 'https://cruip.com/',
+    },
+    {
+        name: 'CS50',
+        description:
+            "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard (and Yale!) course.",
+        categories: ['Programming', 'YouTube Channel'],
+        url: 'https://www.youtube.com/user/cs50tv',
+        keywords: ['cs50 harvard computer science david j. malan'],
+    },
+    {
+        name: 'CSS Diner',
+        description: 'A fun game to help you learn and practice CSS selectors.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://flukeout.github.io/',
+    },
+    {
+        name: 'CSS Gradient',
+        description:
+            'As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.',
+        categories: ['Code Challenge', 'Color', 'Programming'],
+        url: 'https://cssgradient.io/',
+    },
+    {
+        name: 'CSS Layout News',
+        description: 'A weekly collection of tutorials, news and information on all things CSS Layout.',
+        categories: ['Newsletter', 'Programming'],
+        url: 'https://csslayout.news/',
+    },
+    {
+        name: 'CSS Nectar',
+        description:
+            'CSS Nectar is a css website design showcase for web designers and developers. Every day we select the best of the web design and add it to our gallery. Submit or suggest a website.',
+        categories: ['Inspiration', 'UI'],
+        url: 'https://cssnectar.com//',
+    },
+    {
+        name: 'CSS Reference',
+        description:
+            'CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.',
+        categories: ['Cheatsheet'],
+        url: 'https://cssreference.io/',
+    },
+    {
+        name: 'CSS Scan',
+        description:
+            'Goodbye to "Inspect Element" — Visualize the CSS of any element you hover over, instantly, and copy its entire rules with a single click.',
+        categories: ['Browser', 'Extension', 'Programming'],
+        url: 'https://getcssscan.com/',
+    },
+    {
+        name: 'CSS Weekly',
+        description: 'Weekly e-mail roundup of latest css articles, tutorials, tools and experiments.',
+        categories: ['Newsletter', 'Programming'],
+        url: 'https://css-weekly.com/',
+    },
+    {
+        name: 'CSS-Tricks',
+        description: 'CSS-Tricks is a website about websites.',
+        categories: ['Blog', 'Code Snippet', 'Newsletter'],
+        url: 'https://css-tricks.com',
+    },
+    {
+        name: 'css.gg',
+        description:
+            'Pure CSS icons library, Customizable & Retina-Ready built 100% in pure CSS, SVG, SVG Sprite, styled-components, Figma and Adobe XD. Easy integration: Embed, NPM & API.',
+        categories: ['Icon', 'Programming'],
+        url: 'https://css.gg/',
+    },
+    {
+        name: 'CSSBattle',
+        description: 'CSS Code Golfing is Here!',
+        categories: ['Code Challenge', 'Learn', 'Programming'],
+        url: 'https://cssbattle.dev/',
+    },
+    {
+        name: 'CSSButtonMaker',
+        description: 'Create stunning buttons in just a few clicks!',
+        categories: ['Programming', 'Open Source', 'UI'],
+        url: 'https://axorax.github.io/css-button-maker/',
+    },
+    {
+        name: 'CSSnippets',
+        description:
+            'CSSnippets is a collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more.',
+        categories: ['Code Snippet', 'Programming', 'Animation'],
+        url: 'https://cssnippets.shefali.dev/',
+        keywords: [
+            'css snippets',
+            'react snippets',
+            'tailwind css snippets',
+            'css code snippets',
+            'FREE Tailwind Components',
+        ],
+    },
+    {
+        name: 'CSSViewer',
+        description: 'A simple CSS property viewer.',
+        categories: ['Browser', 'Extension'],
+        url: 'https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce',
+    },
+    {
+        name: 'cubic',
+        description:
+            'cubic is an AI code reviewer for complex codebases, used by teams at n8n, Cal.com, Resend, and more to catch bugs, suggest fixes, and merge PRs 48% faster.',
+        categories: ['AI', 'Programming', 'Testing'],
+        url: 'https://cubic.dev/',
+        keywords: ['dev tools', 'developer tools', 'artificial intelligence', 'code review', 'ai code reviewer'],
+    },
+    {
+        name: 'CueCheck',
+        description:
+            'Free browser-based SRT and WebVTT subtitle QC checker for developers and accessibility teams. Audits reading speed (CPS/WPM), line length, duration, frame gaps, and overlaps against Netflix, BBC, and DCMP specs with zero file uploads.',
+        categories: ['Accessibility', 'Video', 'Tooling'],
+        url: 'https://cuecheck.app',
+        keywords: ['subtitles', 'srt', 'webvtt', 'accessibility', 'captions', 'video qc'],
+    },
+    {
+        name: 'CurlShot',
+        description:
+            'Screenshot API that turns any URL, HTML or Markdown into a PNG, JPEG, WebP, PDF or scrolling video, rendered in a real browser. Free plan, no card.',
+        categories: ['Screenshot', 'Image', 'AI'],
+        url: 'https://curlshot.com',
+        keywords: ['screenshot api', 'website screenshot', 'html to pdf', 'html to image', 'og image', 'mcp server'],
+    },
+    {
+        name: 'Customer.io',
+        description:
+            'With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions.',
+        categories: ['Marketing'],
+        url: 'https://customer.io/',
+    },
+    {
+        name: 'Cynagon',
+        description: 'Cynagon is the ultimate tool for creating viral and engaging short-form videos.',
+        categories: ['AI', 'Video'],
+        url: 'https://www.cynagon.com/',
+        keywords: ['ai', 'ai video', 'video generator', 'shorts generator', 'ai shorts', 'shorts content'],
+    },
+    {
+        name: 'Cypress',
+        description:
+            'Fast, easy and reliable testing for anything that runs in a browser. Install Cypress in seconds and take the pain out of front-end testing.',
+        categories: ['Testing'],
+        url: 'https://www.cypress.io/',
+    },
+    {
+        name: 'Cytoscape.js',
+        description:
+            'Graph theory / network library for analysis and visualisation - compatible with CommonJS/Node.js/Browserify/Webpack, AMD/Require.js, npm, Bower, jspm, Meteor/Atmosphere, jQuery, and plain JS/JavaScript.',
+        categories: ['Library', 'Programming'],
+        url: 'https://js.cytoscape.org/',
+    },
+    {
+        name: 'Código ao Ponto',
+        description:
+            'Free browser-based developer tools with no signup: Brazilian test data generators and validators (CPF, CNPJ, RG, CNH), JWT, hash, Base64, UUID and JSON tools.',
+        categories: ['Testing', 'Tooling', 'Programming'],
+        url: 'https://codigoaoponto.com/en',
+        keywords: [
+            'test data',
+            'cpf generator',
+            'cnpj generator',
+            'brazilian documents',
+            'jwt decoder',
+            'hash generator',
+            'base64',
+            'uuid generator',
+            'json formatter',
+            'unix timestamp',
+        ],
+    },
+]
+
         keywords: ['hiring', 'hr', 'marketplace', 'jobs', 'career'],
     },
     {
