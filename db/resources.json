@@ -1,5 +1,5 @@
 {
-"count": 1375,
+"count": 1376,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8720,6 +8720,23 @@
             "cloud",
             "javascript",
             "php"
+        ]
+    },
+    {
+        "name": "Kite",
+        "description": "Design tool your AI agents and your team share. Agents connect through a hosted MCP server and draw editable layers; export frames as HTML, React or Tailwind.",
+        "categories": [
+            "Design",
+            "AI",
+            "Prototyping"
+        ],
+        "url": "https://kite.new",
+        "keywords": [
+            "design",
+            "mcp",
+            "figma alternative",
+            "ui design",
+            "ai agents"
         ]
     },
     {
