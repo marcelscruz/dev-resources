@@ -215,6 +215,14 @@ export const resources: Resource[] = [
         keywords: ['tls', 'ssl', 'certificates', 'monitoring', 'expiry alerts'],
     },
     {
+        name: 'NoctHost',
+        description:
+            'Hourly-billed VPS, GPU and bare metal on Hetzner, Vultr, DigitalOcean, Linode and OVHcloud from one prepaid balance, with an API.',
+        categories: ['Cloud Computing', 'Hosting'],
+        url: 'https://nocthost.com',
+        keywords: ['vps', 'cloud servers', 'gpu', 'hourly billing', 'api', 'terraform'],
+    },
+    {
         name: 'Nomad List',
         description: 'Best places to live for a digital nomad',
         categories: ['Job', 'Job', 'Remote'],
