@@ -216,7 +216,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'NoctHost',
-        description: 'Hourly-billed VPS, GPU and bare metal on Hetzner, Vultr, DigitalOcean, Linode and OVHcloud from one prepaid balance, with an API.',
+        description:
+            'Hourly-billed VPS, GPU and bare metal on Hetzner, Vultr, DigitalOcean, Linode and OVHcloud from one prepaid balance, with an API.',
         categories: ['Cloud Computing', 'Hosting'],
         url: 'https://nocthost.com',
         keywords: ['vps', 'cloud servers', 'gpu', 'hourly billing', 'api', 'terraform'],
