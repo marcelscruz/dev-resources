@@ -1,5 +1,5 @@
 {
-"count": 1376,
+"count": 1377,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2900,6 +2900,23 @@
             "Programming"
         ],
         "url": "https://www.jetbrains.com/clion/"
+    },
+    {
+        "name": "Cloudbrowser",
+        "description": "Persistent cloud Chrome for browser automation and AI agents. Connect over CDP, preserve the browser profile, and watch the desktop in Live View.",
+        "categories": [
+            "Browser",
+            "Cloud Computing",
+            "Tooling"
+        ],
+        "url": "https://cloudbrowser.tv",
+        "keywords": [
+            "browser automation",
+            "cdp",
+            "chrome",
+            "playwright",
+            "ai agents"
+        ]
     },
     {
         "name": "CloudCannon",
