@@ -1,5 +1,5 @@
 {
-"count": 1381,
+"count": 1382,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6289,6 +6289,29 @@
             "tutorial",
             "programming",
             "open source"
+        ]
+    },
+    {
+        "name": "Free LLM API Hub",
+        "description": "Compare free LLM and AI-model API tiers: no-card, no-phone and commercial-use filters, each entry dated and sourced to the provider docs.",
+        "categories": [
+            "AI",
+            "Open Source"
+        ],
+        "url": "https://freellmapihub.com/",
+        "keywords": [
+            "free",
+            "llm",
+            "ai",
+            "api",
+            "free tier",
+            "openai compatible",
+            "gemini",
+            "groq",
+            "openrouter",
+            "embeddings",
+            "speech to text",
+            "ocr"
         ]
     },
     {
