@@ -513,6 +513,27 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Free LLM API Hub',
+        description:
+            'Compare free LLM and AI-model API tiers: no-card, no-phone and commercial-use filters, each entry dated and sourced to the provider docs.',
+        categories: ['AI', 'Open Source'],
+        url: 'https://freellmapihub.com/',
+        keywords: [
+            'free',
+            'llm',
+            'ai',
+            'api',
+            'free tier',
+            'openai compatible',
+            'gemini',
+            'groq',
+            'openrouter',
+            'embeddings',
+            'speech to text',
+            'ocr',
+        ],
+    },
+    {
         name: 'freeCodeCamp',
         description:
             'Learn to code at home. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including Google, Apple, Amazon, and Microsoft.',
