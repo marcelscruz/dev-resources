@@ -324,6 +324,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'AIRewards',
+        description:
+            'AI-native ad network for developers. Earn from one sponsored line inside ChatGPT, Claude, Gemini, Grok and coding tools like Claude Code and Cursor.',
+        categories: ['AI', 'Extension', 'Marketing'],
+        url: 'https://www.airewards.tech',
+        keywords: ['ai', 'ads', 'monetization', 'claude code', 'chatgpt', 'developer tools'],
+    },
+    {
         name: 'Airtable',
         description:
             'Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.',
