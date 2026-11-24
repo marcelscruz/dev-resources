@@ -759,6 +759,14 @@ export const resources: Resource[] = [
         url: 'https://softwium.com/mockium/',
     },
     {
+        name: 'SoldFetch',
+        description:
+            'REST API and MCP server for eBay sold and active listings, categories, and item details. Not affiliated with eBay.',
+        categories: ['Scraping', 'Tooling'],
+        url: 'https://soldfetch.com',
+        keywords: ['ebay', 'ecommerce', 'listing data', 'rest api', 'mcp'],
+    },
+    {
         name: 'SolidPing',
         description:
             'Open-source uptime monitoring: 40+ check types, status pages, incidents and alerts. Self-host it or use the hosted free plan.',
