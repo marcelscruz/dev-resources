@@ -331,7 +331,7 @@ export const resources: Resource[] = [
         url: 'https://www.airewards.tech',
         keywords: ['ai', 'ads', 'monetization', 'claude code', 'chatgpt', 'developer tools'],
     },
-            {
+    {
         name: 'Airtable',
         description:
             'Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.',
