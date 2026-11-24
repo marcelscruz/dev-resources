@@ -347,7 +347,8 @@ export const resources: Resource[] = [
     },
     {
         name: 'LocalDevTools',
-        description: 'Free client-side developer utilities running in browser RAM: JSON/SQL formatters, Myers diff, regex AST tester, JWT decoder, CSS studio, and SEO tools.',
+        description:
+            'Free client-side developer utilities running in browser RAM: JSON/SQL formatters, Myers diff, regex AST tester, JWT decoder, CSS studio, and SEO tools.',
         categories: ['Tooling', 'Browser', 'SEO'],
         url: 'https://localdevtools.dev/',
         keywords: ['developer tools', 'json', 'regex', 'diff', 'jwt', 'sql', 'seo', 'client-side'],
