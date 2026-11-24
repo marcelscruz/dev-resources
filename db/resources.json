@@ -1,5 +1,5 @@
 {
-"count": 1380,
+"count": 1381,
 "data": [
     {
         "name": "1001 Fonts",
@@ -703,6 +703,24 @@
             "remote",
             "jobs",
             "developer"
+        ]
+    },
+    {
+        "name": "AIRewards",
+        "description": "AI-native ad network for developers. Earn from one sponsored line inside ChatGPT, Claude, Gemini, Grok and coding tools like Claude Code and Cursor.",
+        "categories": [
+            "AI",
+            "Extension",
+            "Marketing"
+        ],
+        "url": "https://www.airewards.tech",
+        "keywords": [
+            "ai",
+            "ads",
+            "monetization",
+            "claude code",
+            "chatgpt",
+            "developer tools"
         ]
     },
     {
