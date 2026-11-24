@@ -1,5 +1,5 @@
 {
-"count": 1381,
+"count": 1380,
 "data": [
     {
         "name": "1001 Fonts",
@@ -18163,25 +18163,6 @@
             "on-device",
             "cli",
             "local-first"
-        ]
-    },
-    {
-        "name": "YunCMS",
-        "description": "Open-source, self-hosted MySQL CMS with a React admin studio, REST API, role-based permissions, file storage and built-in MCP tools.",
-        "categories": [
-            "CMS",
-            "API Building",
-            "Open Source"
-        ],
-        "url": "https://yunsoft.com/case-study/yuncms-programmable-cms-backend",
-        "keywords": [
-            "mysql",
-            "headless cms",
-            "node.js",
-            "react",
-            "rest api",
-            "mcp",
-            "self-hosted"
         ]
     },
     {
