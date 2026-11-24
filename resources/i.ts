@@ -123,6 +123,14 @@ export const resources: Resource[] = [
         url: 'https://icones.netlify.app/',
     },
     {
+        name: 'Idol Max',
+        description:
+            'Turn a single image into a game-ready 3D GLB model with UVs and 2K textures. Add a rig, export a 360° GIF or MP4, and share it.',
+        categories: ['AI', 'Design'],
+        url: 'https://idolmax.net/',
+        keywords: ['image to 3d', '3d model', 'glb', 'game-ready assets', 'rigging'],
+    },
+    {
         name: 'Illos',
         description:
             'Animated SVG illustrations for product sites in four themes, light and dark, 65 free. Skills and an MCP server let coding agents add them.',
