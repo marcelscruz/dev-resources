@@ -177,10 +177,10 @@ export const resources: Resource[] = [
     {
         name: 'Betterloop',
         description:
-            'One script tag finds rage clicks, dead buttons, JS errors and slow pages, then returns one ranked list of fixes, readable by coding agents through MCP.',
+            'Free website check with a ranked list of fixes. Connect a site to monitor dead clicks, JavaScript errors, and page performance.',
         categories: ['Analytics', 'Performance', 'Testing'],
         url: 'https://betterloopai.com',
-        keywords: ['hotjar alternative ux analytics rage clicks web vitals mcp'],
+        keywords: ['website audit', 'web analytics', 'web vitals', 'mcp'],
     },
     {
         name: 'BigDevSoon',
