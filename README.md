@@ -544,6 +544,7 @@
 ### <a name="cloud-computing">Cloud Computing</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://apidly.com/&sz=128" width="16" /> | [Apidly Cloud](https://apidly.com/) | Managed GPU servers and serverless GPU endpoints for AI workloads, billed by the second, with a REST API, CLI and SDKs. | gpu, gpu cloud, ai, machine learning, serverless |
  <img src="https://www.google.com/s2/favicons?domain=https://aptakube.com&sz=128" width="16" /> | [Aptakube](https://aptakube.com) | Modern, lightweight and multi-cluster Kubernetes desktop client. Available on Windows, macOS and Linux. | kubernetes |
  <img src="https://www.google.com/s2/favicons?domain=https://aws.amazon.com/&sz=128" width="16" /> | [AWS](https://aws.amazon.com/) | Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://scaletozeroaws.com/&sz=128" width="16" /> | [AWS Serverless kit (best practices)](https://scaletozeroaws.com/) | AWS has never been easier with the Scale to Zero Kit. The kit comes with everything you need. Deploy fast, scale, and pay only for what you use |  |
@@ -1058,6 +1059,7 @@
 ### <a name="hosting">Hosting</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://apidly.com/&sz=128" width="16" /> | [Apidly Cloud](https://apidly.com/) | Managed GPU servers and serverless GPU endpoints for AI workloads, billed by the second, with a REST API, CLI and SDKs. | gpu, gpu cloud, ai, machine learning, serverless |
  <img src="https://www.google.com/s2/favicons?domain=https://aws.amazon.com/&sz=128" width="16" /> | [AWS](https://aws.amazon.com/) | Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://azure.microsoft.com/&sz=128" width="16" /> | [Azure](https://azure.microsoft.com/) | Invent with purpose, realise cost savings and make your organisation more efficient with Microsoft Azure’s open and flexible cloud computing platform. | Azuesss, Windows Azure, Cloud Service, Cloud Computing Companies |
  <img src="https://www.google.com/s2/favicons?domain=https://brewpage.app&sz=128" width="16" /> | [BrewPage](https://brewpage.app) | Free hosting for HTML and Markdown pages, static sites, files, JSON and KV: one API call or MCP tool returns an HTTPS link. No signup; content expires. | static hosting, html hosting, markdown, mcp, ai agents, api, json, kv, file sharing |
@@ -2412,6 +2414,7 @@
 ### <a name="serverless">Serverless</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://apidly.com/&sz=128" width="16" /> | [Apidly Cloud](https://apidly.com/) | Managed GPU servers and serverless GPU endpoints for AI workloads, billed by the second, with a REST API, CLI and SDKs. | gpu, gpu cloud, ai, machine learning, serverless |
  <img src="https://www.google.com/s2/favicons?domain=https://aws.amazon.com/&sz=128" width="16" /> | [AWS](https://aws.amazon.com/) | Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://scaletozeroaws.com/&sz=128" width="16" /> | [AWS Serverless kit (best practices)](https://scaletozeroaws.com/) | AWS has never been easier with the Scale to Zero Kit. The kit comes with everything you need. Deploy fast, scale, and pay only for what you use |  |
  <img src="https://www.google.com/s2/favicons?domain=https://axiom.co/&sz=128" width="16" /> | [Axiom](https://axiom.co/) | Serverless log management solution. | logging, logs |

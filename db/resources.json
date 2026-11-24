@@ -1,5 +1,5 @@
 {
-"count": 1378,
+"count": 1379,
 "data": [
     {
         "name": "1001 Fonts",
@@ -925,6 +925,23 @@
             "claude",
             "coding agents",
             "flat rate"
+        ]
+    },
+    {
+        "name": "Apidly Cloud",
+        "description": "Managed GPU servers and serverless GPU endpoints for AI workloads, billed by the second, with a REST API, CLI and SDKs.",
+        "categories": [
+            "Cloud Computing",
+            "Hosting",
+            "Serverless"
+        ],
+        "url": "https://apidly.com/",
+        "keywords": [
+            "gpu",
+            "gpu cloud",
+            "ai",
+            "machine learning",
+            "serverless"
         ]
     },
     {
