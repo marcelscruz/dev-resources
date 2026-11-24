@@ -484,6 +484,14 @@ export const resources: Resource[] = [
         url: 'https://github.com/antfu/retypewriter',
     },
     {
+        name: 'ReUI',
+        description:
+            'Free Shadcn UI components and pro blocks for React and Tailwind CSS, plus hand-crafted icons, templates and a hosted MCP server for coding agents.',
+        categories: ['UI', 'Library', 'Template'],
+        url: 'https://reui.io',
+        keywords: ['shadcn', 'react', 'tailwind css', 'components', 'blocks', 'mcp'],
+    },
+    {
         name: 'Reverse Engineering Anything: Installation Guide',
         description:
             'Independent REA installation walkthrough: prerequisites, MCP client setup, provider selection, first static inspection, and readiness checks.',
