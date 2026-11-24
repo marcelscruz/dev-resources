@@ -105,6 +105,14 @@ export const resources: Resource[] = [
         keywords: ['payload cms', 'next.js', 'typescript', 'shadcn', 'component registry', 'open source'],
     },
     {
+        name: 'Paymos',
+        description:
+            'Stablecoin (USDT, USDC, USD1, DAI) and gold-backed XAUT payment infrastructure for developers: REST API, 8 SDKs, 12 CMS plugins, n8n node, and MCP server.',
+        categories: ['Blockchain', 'Web3', 'Tooling'],
+        url: 'https://paymos.io',
+        keywords: ['stablecoin payments', 'usdt', 'usdc', 'payment api', 'mcp', 'webhooks', 'sdk'],
+    },
+    {
         name: 'pCloudy',
         description:
             'Continuous testing platform that helps to speed up the app testing by enabling end to end continuous testing for enterprises.',
