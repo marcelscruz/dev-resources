@@ -35,14 +35,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'YunCMS',
-        description:
-            'Open-source, self-hosted MySQL CMS with a React admin studio, REST API, role-based permissions, file storage and built-in MCP tools.',
-        categories: ['CMS', 'API Building', 'Open Source'],
-        url: 'https://yunsoft.com/case-study/yuncms-programmable-cms-backend',
-        keywords: ['mysql', 'headless cms', 'node.js', 'react', 'rest api', 'mcp', 'self-hosted'],
-    },
-    {
         name: 'YYLO',
         description:
             'Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries.',
