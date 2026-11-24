@@ -531,7 +531,6 @@ export const resources: Resource[] = [
             'embeddings',
             'speech to text',
             'ocr',
-            'open source',
         ],
     },
     {
