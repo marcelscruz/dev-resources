@@ -346,6 +346,14 @@ export const resources: Resource[] = [
         keywords: ['ai chat', 'private', 'productivity tool', 'ollama alternative'],
     },
     {
+        name: 'LocalDevTools',
+        description:
+            'Free client-side developer utilities running in browser RAM: JSON/SQL formatters, Myers diff, regex AST tester, JWT decoder, CSS studio, and SEO tools.',
+        categories: ['Tooling', 'Browser', 'SEO'],
+        url: 'https://localdevtools.dev/',
+        keywords: ['developer tools', 'json', 'regex', 'diff', 'jwt', 'sql', 'seo', 'client-side'],
+    },
+    {
         name: 'LocalStack',
         description:
             'LocalStack is a cloud service emulator that runs in a single container on your laptop or in your CI environment. With LocalStack, you can run your AWS applications or Lambdas entirely on your local machine without connecting to a remote cloud provider!',
