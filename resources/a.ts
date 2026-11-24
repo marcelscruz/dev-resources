@@ -463,6 +463,14 @@ export const resources: Resource[] = [
         keywords: ['openai compatible', 'llm gateway', 'ai api', 'claude', 'coding agents', 'flat rate'],
     },
     {
+        name: 'Apidly Cloud',
+        description:
+            'Managed GPU servers and serverless GPU endpoints for AI workloads, billed by the second, with a REST API, CLI and SDKs.',
+        categories: ['Cloud Computing', 'Hosting', 'Serverless'],
+        url: 'https://apidly.com/',
+        keywords: ['gpu', 'gpu cloud', 'ai', 'machine learning', 'serverless'],
+    },
+    {
         name: 'Apigee',
         description:
             'Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.',
