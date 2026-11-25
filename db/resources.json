@@ -1,5 +1,5 @@
 {
-"count": 1385,
+"count": 1381,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6539,22 +6539,6 @@
         "url": "https://freeter.io/"
     },
     {
-        "name": "FreshRemoteRoles",
-        "description": "Fully remote jobs straight from companies' career pages, updated daily, with filters for engineering, DevOps, data, QA and security roles. Free, no account.",
-        "categories": [
-            "Job",
-            "Remote"
-        ],
-        "url": "https://freshremoteroles.com",
-        "keywords": [
-            "remote jobs",
-            "developer jobs",
-            "software engineer jobs",
-            "worldwide",
-            "job search"
-        ]
-    },
-    {
         "name": "FridayGPT",
         "description": "Fast and Native ChatGPT mac app. Access ChatGPT instantly on top of any app or website.",
         "categories": [
@@ -7006,22 +6990,6 @@
             "terminal",
             "commit",
             "golang"
-        ]
-    },
-    {
-        "name": "Gleam Audio",
-        "description": "On-device AI cleanup, enhance, editor for voice and audio",
-        "categories": [
-            "Audio",
-            "AI",
-            "Tooling"
-        ],
-        "url": "https://gleamaudio.com/",
-        "keywords": [
-            "noise removal",
-            "audio editor",
-            "speech enhancement",
-            "podcast editing"
         ]
     },
     {
@@ -8894,24 +8862,6 @@
         ]
     },
     {
-        "name": "Klaruvo",
-        "description": "Local AI image editor for Windows and macOS: remove watermarks, cut out objects, erase backgrounds and upscale photos fully offline. No upload, one-time purchase.",
-        "categories": [
-            "Image",
-            "AI",
-            "Productivity"
-        ],
-        "url": "https://www.powersoftware.app/en-US/product/detail/klaruvo",
-        "keywords": [
-            "ai image editor",
-            "remove watermark",
-            "background remover",
-            "image upscaler",
-            "offline ai",
-            "batch image"
-        ]
-    },
-    {
         "name": "Kometa UI Kit",
         "description": "A marketplace of fully responsive, multi-purpose UI kits, built with Tailwind CSS, for start-ups and products of any kind.",
         "categories": [
@@ -10508,23 +10458,6 @@
             "dev tools",
             "AI",
             "CLI"
-        ]
-    },
-    {
-        "name": "Nano Banana Live",
-        "description": "Independent developer guide to Google Nano Banana (Gemini image API): Python quickstart, API error fixes, benchmarks and open-weight local alternatives.",
-        "categories": [
-            "AI",
-            "Learn",
-            "Documentation"
-        ],
-        "url": "https://www.nano-banana.live",
-        "keywords": [
-            "nano banana",
-            "gemini image api",
-            "image generation",
-            "image editing",
-            "python"
         ]
     },
     {
@@ -15778,6 +15711,23 @@
         ]
     },
     {
+        "name": "TextCompareLab",
+        "description": "Compare two texts, Word documents or PDFs and see added, removed and changed words side by side. Runs in your browser, with no sign-up and no file upload.",
+        "categories": [
+            "Tooling",
+            "Productivity"
+        ],
+        "url": "https://textcomparelab.com/",
+        "keywords": [
+            "diff",
+            "text-compare",
+            "yaml",
+            "sql",
+            "pdf-compare",
+            "word-compare"
+        ]
+    },
+    {
         "name": "The A11Y Project",
         "description": "The A11Y Project is a community-driven effort to make digital accessibility easier.",
         "categories": [
@@ -17631,23 +17581,6 @@
             "Extension"
         ],
         "url": "https://www.wappalyzer.com/"
-    },
-    {
-        "name": "WarpNav",
-        "description": "Chinese-language directory of AI coding assistants, GitHub open-source projects, developer software, UI libraries and icon sets, with short usage notes.",
-        "categories": [
-            "AI",
-            "Open Source",
-            "Tooling"
-        ],
-        "url": "https://warpnav.com/",
-        "keywords": [
-            "chinese",
-            "tools directory",
-            "ai tools",
-            "github projects",
-            "developer tools"
-        ]
     },
     {
         "name": "Warrant",
