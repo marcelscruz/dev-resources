@@ -1,5 +1,5 @@
 {
-"count": 1383,
+"count": 1384,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5446,6 +5446,20 @@
             "Terminal"
         ],
         "url": "https://www.gnu.org/software/emacs/"
+    },
+    {
+        "name": "EmailFig",
+        "description": "Campaigns, automations, signup forms and segments, on every plan including the free one.",
+        "categories": [
+            "Email"
+        ],
+        "url": "https://emailfig.com",
+        "keywords": [
+            "email marketing",
+            "newsletters",
+            "automation",
+            "amazon ses"
+        ]
     },
     {
         "name": "EMBERWORK",

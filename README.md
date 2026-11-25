@@ -934,6 +934,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
  <img src="https://www.google.com/s2/favicons?domain=https://designmodo.com&sz=128" width="16" /> | [Designmodo](https://designmodo.com) | Create incredible websites and email newsletters with simple tools. |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://emailfig.com&sz=128" width="16" /> | [EmailFig](https://emailfig.com) | Campaigns, automations, signup forms and segments, on every plan including the free one. | email marketing, newsletters, automation, amazon ses |
  <img src="https://www.google.com/s2/favicons?domain=https://hail.so&sz=128" width="16" /> | [Hail](https://hail.so) | Build with phone numbers in 120 countries. Handle registration, US A2P 10DLC, calls, texts, and email through Hail API or MCP. | phone numbers, registration, voice, sms, email, mcp, api, cli, python, sdk |
  <img src="https://www.google.com/s2/favicons?domain=https://www.heybounce.io/&sz=128" width="16" /> | [Heybounce](https://www.heybounce.io/) | Fast, Accurate & Secure Email Validation Service | email validation, email verification, disposable email detection, email validation api |
  <img src="https://www.google.com/s2/favicons?domain=https://isitdisposable.com/&sz=128" width="16" /> | [Is It Disposable](https://isitdisposable.com/) | Is It Disposable provides disposable email detection to protect your signups and sender reputation. | Security, Developer Tools, Productivity |
