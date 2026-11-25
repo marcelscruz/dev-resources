@@ -67,6 +67,14 @@ export const resources: Resource[] = [
         url: 'https://www.wappalyzer.com/',
     },
     {
+        name: 'WarpImage',
+        description:
+            'Browser-based SVG, text, and image warper with 17 geometric presets, CSS/SVG textPath code export, and developer generators. Runs locally without sign-up.',
+        categories: ['Design', 'Code Generator', 'Image'],
+        url: 'https://warpimage.com',
+        keywords: ['svg', 'textpath', 'css', 'warp', 'typography', 'image-processing', 'design-tools'],
+    },
+    {
         name: 'WarpNav',
         description:
             'Chinese-language directory of AI coding assistants, GitHub open-source projects, developer software, UI libraries and icon sets, with short usage notes.',
