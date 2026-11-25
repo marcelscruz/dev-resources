@@ -220,6 +220,14 @@ export const resources: Resource[] = [
         keywords: ['text compare', 'text differ', 'compare', 'productivity', 'devtool', 'json formatter'],
     },
     {
+        name: 'TextCompareLab',
+        description:
+            'Compare two texts, Word documents or PDFs and see added, removed and changed words side by side. Runs in your browser, with no sign-up and no file upload.',
+        categories: ['Tooling', 'Productivity'],
+        url: 'https://textcomparelab.com/',
+        keywords: ['diff', 'text-compare', 'yaml', 'sql', 'pdf-compare', 'word-compare'],
+    },
+    {
         name: 'The A11Y Project',
         description: 'The A11Y Project is a community-driven effort to make digital accessibility easier.',
         categories: ['Accessibility'],
