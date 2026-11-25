@@ -168,6 +168,14 @@ export const resources: Resource[] = [
         keywords: ['json', 'formatter', 'validator', 'repair', 'diff', 'converter'],
     },
     {
+        name: 'BestWebsiteTemplate.com',
+        description:
+            'Free library of 1,000+ hand-reviewed Webflow, Framer and Shopify website templates, each scored for design and build quality.',
+        categories: ['Template', 'Website Builder', 'Inspiration'],
+        url: 'https://bestwebsitetemplate.com/',
+        keywords: ['webflow templates', 'framer templates', 'shopify themes', 'website templates', 'no-code'],
+    },
+    {
         name: 'BetaList',
         description:
             'BetaList provides an overview of upcoming internet startups. Discover and get early access to the future.',
