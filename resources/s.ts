@@ -1187,6 +1187,13 @@ export const resources: Resource[] = [
         url: 'https://swagger.io/',
     },
     {
+        name: 'Swavent Guides',
+        description: 'Free Shopify, ecommerce, SEO and web development guides',
+        categories: ['Learn'],
+        url: 'https://swavent.com/en/guides',
+        keywords: ['shopify', 'ecommerce', 'seo', 'web development'],
+    },
+    {
         name: 'Swetrix',
         description:
             'Swetrix is a privacy-focused, fully cookieless and opensource web analytics service with a free tier for small websites.',
