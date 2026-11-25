@@ -106,6 +106,14 @@ export const resources: Resource[] = [
         url: 'https://www.eggradients.com/',
     },
     {
+        name: 'Egmatic',
+        description:
+            'No-code editor for 2D games: visual node logic, drag-and-drop scenes, real-time preview, exports to six platforms. Free during early access.',
+        categories: ['Editor'],
+        url: 'https://egmatic.com',
+        keywords: ['no-code', 'game editor', '2d games', 'game engine', 'indie dev', 'visual programming'],
+    },
+    {
         name: 'Eleventy High Performance Blog',
         description:
             "I'm excited to announce the beta-release of eleventy-high-performance-blog–a high-performance blog template for 11ty based on this very...",
