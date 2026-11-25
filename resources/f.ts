@@ -683,14 +683,6 @@ export const resources: Resource[] = [
         url: 'https://freeter.io/',
     },
     {
-        name: 'FreshRemoteRoles',
-        description:
-            "Fully remote jobs straight from companies' career pages, updated daily, with filters for engineering, DevOps, data, QA and security roles. Free, no account.",
-        categories: ['Job', 'Remote'],
-        url: 'https://freshremoteroles.com',
-        keywords: ['remote jobs', 'developer jobs', 'software engineer jobs', 'worldwide', 'job search'],
-    },
-    {
         name: 'FridayGPT',
         description: 'Fast and Native ChatGPT mac app. Access ChatGPT instantly on top of any app or website.',
         categories: ['AI', 'Productivity'],
