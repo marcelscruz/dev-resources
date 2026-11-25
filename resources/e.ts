@@ -134,6 +134,13 @@ export const resources: Resource[] = [
         url: 'https://www.gnu.org/software/emacs/',
     },
     {
+        name: 'EmailFig',
+        description: 'Campaigns, automations, signup forms and segments, on every plan including the free one.',
+        categories: ['Email'],
+        url: 'https://emailfig.com',
+        keywords: ['email marketing', 'newsletters', 'automation', 'amazon ses'],
+    },
+    {
         name: 'EMBERWORK',
         description:
             "Whether you're actively looking for a new job or just always open to new opportunities you'll always have access to the best Ember.js jobs- here at EMBERWORK.",
