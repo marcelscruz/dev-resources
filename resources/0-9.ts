@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: '01Router',
+        description:
+            'Access leading AI video and image models with one 01Router API key, plus text and audio. Choose models and providers to match your budget and quality needs.',
+        categories: ['AI', 'API Building', 'Video'],
+        url: 'https://01router.com/',
+        keywords: ['ai video', 'ai image', 'api gateway', 'text to video', 'text to image', 'ai audio'],
+    },
+    {
         name: '1001 Fonts',
         description:
             '24,262 free fonts in 13,112 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux.',
