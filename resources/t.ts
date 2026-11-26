@@ -609,7 +609,7 @@ export const resources: Resource[] = [
         categories: ['Productivity', 'Programming', 'Tooling'],
         description: '450+ free online tools for PDF, images, text, JSON, Base64, UUID, QR codes and calculators — no signup, most run in your browser.',
         keywords: ['pdf', 'json', 'base64', 'uuid', 'qr code', 'calculator', 'image', 'converter'],
-        url: 'https://trencada.com/'
+        url: 'https://trencada.com/',
     },
     {
         name: 'Trends Monitor',
