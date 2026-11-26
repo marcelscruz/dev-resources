@@ -1,5 +1,5 @@
 {
-"count": 1381,
+"count": 1382,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8551,6 +8551,20 @@
         "keywords": [
             "javascript",
             "jobs",
+            "job board"
+        ]
+    },
+    {
+        "name": "JobsInCrypto",
+        "description": "1,000+ manually checked crypto and web3 jobs, plus a talent pool: create an anonymous profile and companies message you first. Free.",
+        "categories": [
+            "Job",
+            "Web3"
+        ],
+        "url": "https://jobsincrypto.net/",
+        "keywords": [
+            "crypto jobs",
+            "web3 jobs",
             "job board"
         ]
     },
