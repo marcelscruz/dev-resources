@@ -102,8 +102,7 @@ export const resources: Resource[] = [
         name: 'Velocity',
         description: 'On-demand feedback for Figma prototypes',
         categories: ['UX', 'Prototyping', 'Testing'],
-        url:
-            'https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min',
+        url: 'https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min',
         keywords: ['feedback', 'figma', 'plugin', 'design review'],
     },
     {
@@ -155,6 +154,14 @@ export const resources: Resource[] = [
         categories: ['Template'],
         url: 'https://vibeready.sh/',
         keywords: ['boilerplate'],
+    },
+    {
+        name: 'VibeShield',
+        description:
+            'Pre-launch web security scanner and MIT CLI for Next.js, Supabase, Firebase, and AI-built web apps. Audits live client JS bundles for 52 secret patterns, checks read-only PostgREST RLS & public storage buckets, scores 10 Observatory headers, and detects exposed .env/.git/.map files.',
+        categories: ['Security', 'Testing', 'Tooling'],
+        url: 'https://shipbastion.com/',
+        keywords: ['security', 'devsecops', 'supabase', 'nextjs', 'csp', 'vulnerability scanner'],
     },
     {
         name: 'VibeStack',
