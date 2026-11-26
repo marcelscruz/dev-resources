@@ -880,6 +880,14 @@ export const resources: Resource[] = [
         keywords: ['marketing'],
     },
     {
+        name: 'SpecQuill',
+        description:
+            'Chrome and Edge side-panel UI inspector that extracts OKLCH design tokens, checks WCAG 2.1 contrast, and exports clean Tailwind CSS v4 and React JSX.',
+        categories: ['Extension', 'UI', 'Tooling'],
+        url: 'https://apps.orzi.me/specquill/',
+        keywords: ['chrome extension', 'edge extension', 'css inspector', 'tailwind css', 'design tokens', 'oklch'],
+    },
+    {
         name: 'SpeedUp AI',
         description: 'End-to-End AI Circuit Schematic Design',
         categories: ['AI', 'Design', 'Prototyping'],
