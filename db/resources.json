@@ -1,5 +1,5 @@
 {
-"count": 1387,
+"count": 1388,
 "data": [
     {
         "name": "1001 Fonts",
@@ -24,6 +24,24 @@
             "fastest fingers",
             "10 fast fingers",
             "typing competition"
+        ]
+    },
+    {
+        "name": "12happy",
+        "description": "Uptime monitoring and status pages for websites and APIs, with a public API and an open-source MCP server. Free plan with 50 monitors.",
+        "categories": [
+            "Tooling",
+            "Performance"
+        ],
+        "url": "https://www.12hpy.com",
+        "keywords": [
+            "uptime",
+            "monitoring",
+            "status page",
+            "heartbeat",
+            "cron",
+            "mcp",
+            "api"
         ]
     },
     {

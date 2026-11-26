@@ -1755,6 +1755,7 @@
 ### <a name="performance">Performance</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://www.12hpy.com&sz=128" width="16" /> | [12happy](https://www.12hpy.com) | Uptime monitoring and status pages for websites and APIs, with a public API and an open-source MCP server. Free plan with 50 monitors. | uptime, monitoring, status page, heartbeat, cron, mcp, api |
  <img src="https://www.google.com/s2/favicons?domain=https://batchset.com&sz=128" width="16" /> | [BatchSet](https://batchset.com) | Bulk image converter in the browser: WebP, AVIF, HEIC, JPG and PNG, compress to an exact KB, resize. Includes a website image auditor. No upload. | webp converter, avif, heic to jpg, image compression, bulk image converter, image optimization |
  <img src="https://www.google.com/s2/favicons?domain=https://punits.dev/core-web-vitals-historical/&sz=128" width="16" /> | [Core Web Vitals History Checker](https://punits.dev/core-web-vitals-historical/) | Know if the core web vitals for a url or an origin have improved, degraded or remained stable for the last six months. | web performance, performance, crux, core web vitals |
  <img src="https://www.google.com/s2/favicons?domain=https://www.debugbear.com/test/website-speed&sz=128" width="16" /> | [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) | Test the speed of your website and get recommendations on how to make it faster. |  |
@@ -2676,6 +2677,7 @@
 ### <a name="tooling">Tooling</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
+ <img src="https://www.google.com/s2/favicons?domain=https://www.12hpy.com&sz=128" width="16" /> | [12happy](https://www.12hpy.com) | Uptime monitoring and status pages for websites and APIs, with a public API and an open-source MCP server. Free plan with 50 monitors. | uptime, monitoring, status page, heartbeat, cron, mcp, api |
  <img src="https://www.google.com/s2/favicons?domain=https://www.3stf.com/&sz=128" width="16" /> | [3STF Tools](https://www.3stf.com/) | A clean collection of free browser tools for developers, writers, and creators. No accounts. No ads. No data collected. | json formatter, image converter, password generator, word counter, developer tools, free tools, priv... |
  <img src="https://www.google.com/s2/favicons?domain=https://5dive.ai&sz=128" width="16" /> | [5dive](https://5dive.ai) | Open-source runtime that runs Claude Code, Codex and other coding CLIs as persistent agents on your own server, with a shared task queue and an org chart. | ai agents, claude code, codex, multi-agent, self-hosted, agent orchestration |
  <img src="https://www.google.com/s2/favicons?domain=https://actvt.io&sz=128" width="16" /> | [Actvt](https://actvt.io) | macOS menu bar app that monitors your Mac and your AI coding agents, with Claude Code and Codex session history, cost and token analytics, and an embedded MCP server. | macos, menu bar, system monitor, claude code, codex, mcp, ai agents, cost tracking |
