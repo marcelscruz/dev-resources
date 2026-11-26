@@ -142,4 +142,12 @@ export const resources: Resource[] = [
         url: 'https://kube-dc.cloud/',
         keywords: ['kubernetes', 'cloud hosting', 'kubevirt', 'vps', 'devops'],
     },
+    {
+        name: 'Kunavo',
+        description:
+            'OpenAI-compatible AI gateway with prepaid usage, grouped API keys and usage exports for developers.',
+        categories: ['AI', 'Tooling'],
+        url: 'https://kunavo.com',
+        keywords: ['ai gateway', 'llm', 'api', 'usage tracking', 'api keys'],
+    },
 ]
