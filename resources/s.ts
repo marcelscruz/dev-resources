@@ -603,6 +603,14 @@ export const resources: Resource[] = [
         url: 'https://sizzy.co/',
     },
     {
+        name: 'SkaleAgents',
+        description:
+            'Control plane for AI DevOps agents. Sign in with Google, publish specialist agents, connect MCP from your IDE.',
+        categories: ['AI'],
+        url: 'https://skaleagents.com',
+        keywords: ['ai agents', 'devops', 'mcp', 'developer tools', 'ai devops', 'automation'],
+    },
+    {
         name: 'Skelementor',
         description: 'The largest ready-to-use, free Elementor component library',
         categories: ['Template', 'UI', 'Design'],
