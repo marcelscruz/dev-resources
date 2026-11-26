@@ -1,5 +1,5 @@
 {
-"count": 1384,
+"count": 1385,
 "data": [
     {
         "name": "1001 Fonts",
@@ -14477,6 +14477,22 @@
             "Testing"
         ],
         "url": "https://sizzy.co/"
+    },
+    {
+        "name": "SkaleAgents",
+        "description": "Control plane for AI DevOps agents. Sign in with Google, publish specialist agents, connect MCP from your IDE.",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://skaleagents.com",
+        "keywords": [
+            "ai agents",
+            "devops",
+            "mcp",
+            "developer tools",
+            "ai devops",
+            "automation"
+        ]
     },
     {
         "name": "Skelementor",
