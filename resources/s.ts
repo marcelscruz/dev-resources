@@ -61,6 +61,14 @@ export const resources: Resource[] = [
         url: 'https://2.flexiple.com/scale/all-illustrations',
     },
     {
+        name: 'Scalekit',
+        description:
+            'Auth for AI agents: agents call 55,000+ tools across 1,100+ apps with per-user OAuth, scoped tool access and audit logs. Also MCP auth, SSO and SCIM.',
+        categories: ['Authentication', 'AI', 'Security'],
+        url: 'https://www.scalekit.com',
+        keywords: ['agent auth', 'ai agents', 'oauth', 'tool calling', 'mcp', 'sso', 'scim'],
+    },
+    {
         name: 'Schedul',
         description:
             'The content publishing & scheduling platform the most exclusive content creators use for Threads: a SaaS to Build and monetize your content on Threads.',
