@@ -110,6 +110,14 @@ export const resources: Resource[] = [
         keywords: ['javascript', 'jobs', 'job board'],
     },
     {
+        name: 'JobsInCrypto',
+        description:
+            '1,000+ manually checked crypto and web3 jobs, plus a talent pool: create an anonymous profile and companies message you first. Free.',
+        categories: ['Job', 'Web3'],
+        url: 'https://jobsincrypto.net/',
+        keywords: ['crypto jobs', 'web3 jobs', 'job board'],
+    },
+    {
         name: 'Jobspresso',
         description:
             'Jobspresso is the easiest way to find remote jobs and careers at interesting and innovative companies.',
