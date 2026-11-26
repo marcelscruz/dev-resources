@@ -1,5 +1,5 @@
 {
-"count": 1386,
+"count": 1387,
 "data": [
     {
         "name": "1001 Fonts",
@@ -15905,6 +15905,26 @@
         "url": "https://www.thenetninja.co.uk/",
         "keywords": [
             "html css javascript tutorials web design web development development front-end development wordpress mvc responsive design beginner html beginner ..."
+        ]
+    },
+    {
+        "name": "The Network Tools",
+        "description": "Ad-free DNS, SSL, SPF/DKIM/DMARC email security, BGP/IP, and domain diagnostics suite with REST API docs and a public Streamable HTTP MCP server.",
+        "categories": [
+            "Domain",
+            "Security",
+            "Tooling"
+        ],
+        "url": "https://thenetworktools.com",
+        "keywords": [
+            "dns",
+            "ssl",
+            "dmarc",
+            "spf",
+            "whois",
+            "ip",
+            "network",
+            "mcp"
         ]
     },
     {
