@@ -1,5 +1,5 @@
 {
-"count": 1388,
+"count": 1389,
 "data": [
     {
         "name": "1001 Fonts",
@@ -17314,6 +17314,24 @@
         "url": "https://vibeready.sh/",
         "keywords": [
             "boilerplate"
+        ]
+    },
+    {
+        "name": "VibeShield",
+        "description": "Pre-launch web security scanner and MIT CLI for Next.js, Supabase, Firebase, and AI-built web apps. Audits live client JS bundles for 52 secret patterns, checks read-only PostgREST RLS & public storage buckets, scores 10 Observatory headers, and detects exposed .env/.git/.map files.",
+        "categories": [
+            "Security",
+            "Testing",
+            "Tooling"
+        ],
+        "url": "https://shipbastion.com/",
+        "keywords": [
+            "security",
+            "devsecops",
+            "supabase",
+            "nextjs",
+            "csp",
+            "vulnerability scanner"
         ]
     },
     {
