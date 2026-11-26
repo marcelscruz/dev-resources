@@ -375,6 +375,14 @@ export const resources: Resource[] = [
         url: 'https://toastlog.com/',
     },
     {
+        name: 'TokenCalc AI',
+        description:
+            'Free cross-provider LLM API token cost calculator, $20/mo subscription vs API break-even checker, live latency radar, and GitHub SVG price badges.',
+        categories: ['AI', 'Programming', 'Tooling'],
+        url: 'https://tokencalcai.com',
+        keywords: ['llm pricing', 'token calculator', 'ai api', 'cost comparison', 'latency monitor'],
+    },
+    {
         name: 'Toksta',
         description: 'B2B Influencer Marketing Platform',
         categories: ['Marketing', 'Social Media', 'AI'],
