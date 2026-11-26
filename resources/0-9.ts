@@ -25,6 +25,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: '12happy',
+        description:
+            'Uptime monitoring and status pages for websites and APIs, with a public API and an open-source MCP server. Free plan with 50 monitors.',
+        categories: ['Tooling', 'Performance'],
+        url: 'https://www.12hpy.com',
+        keywords: ['uptime', 'monitoring', 'status page', 'heartbeat', 'cron', 'mcp', 'api'],
+    },
+    {
         name: '30 seconds of code',
         description: 'Browse 1078 short code snippets for all your development needs on 30 seconds of code.',
         categories: ['Code Snippet'],
