@@ -310,6 +310,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'The Network Tools',
+        description:
+            'Ad-free DNS, SSL, SPF/DKIM/DMARC email security, BGP/IP, and domain diagnostics suite with REST API docs and a public Streamable HTTP MCP server.',
+        categories: ['Domain', 'Security', 'Tooling'],
+        url: 'https://thenetworktools.com',
+        keywords: ['dns', 'ssl', 'dmarc', 'spf', 'whois', 'ip', 'network', 'mcp'],
+    },
+    {
         name: 'Themeselection',
         description:
             'Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster.',
