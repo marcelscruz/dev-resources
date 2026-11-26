@@ -157,6 +157,14 @@ export const resources: Resource[] = [
         keywords: ['boilerplate'],
     },
     {
+        name: 'VibeShield',
+        description:
+            'Pre-launch web security scanner and MIT CLI for Next.js, Supabase, Firebase, and AI-built web apps. Audits live client JS bundles for 52 secret patterns, checks read-only PostgREST RLS & public storage buckets, scores 10 Observatory headers, and detects exposed .env/.git/.map files.',
+        categories: ['Security', 'Testing', 'Tooling'],
+        url: 'https://shipbastion.com/',
+        keywords: ['security', 'devsecops', 'supabase', 'nextjs', 'csp', 'vulnerability scanner'],
+    },
+    {
         name: 'VibeStack',
         description: 'Curated directory of AI, design, and development products and tools.',
         categories: ['Tooling', 'AI', 'Design'],
