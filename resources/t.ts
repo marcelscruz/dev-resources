@@ -605,6 +605,13 @@ export const resources: Resource[] = [
         url: 'https://teamtreehouse.com/',
     },
     {
+        name: 'Trencada',
+        categories: ['Productivity', 'Programming', 'Tooling'],
+        description: '450+ free online tools for PDF, images, text, JSON, Base64, UUID, QR codes and calculators — no signup, most run in your browser.',
+        keywords: ['pdf', 'json', 'base64', 'uuid', 'qr code', 'calculator', 'image', 'converter'],
+        url: 'https://trencada.com/'
+    },
+    {
         name: 'Trends Monitor',
         description:
             'Trends Monitor tracks Google Trends, rising related queries, saved keywords, daily monitoring and historical snapshots for SEO and product research.',
