@@ -106,6 +106,14 @@ export const resources: Resource[] = [
         keywords: ['career', 'recruitment', 'it team sourcing', 'software development agencies'],
     },
     {
+        name: 'Temp Mail Agency',
+        description:
+            'Free disposable email service for QA and AI agents with automatic OTP extraction, zero-signup REST API, hosted MCP server, and 8 free DNS/SPF/DMARC email tools.',
+        categories: ['Email', 'Testing', 'API Building'],
+        url: 'https://temp-mail.agency/',
+        keywords: ['temp mail', 'disposable email', 'otp', 'email testing', 'rest api', 'mcp', 'playwright'],
+    },
+    {
         name: 'Templated',
         description:
             'Automate your images and PDFs with a simple API. Generate social media visuals, banners, PDFs and more with our API and no-code integrations.',
