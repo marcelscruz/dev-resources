@@ -52,6 +52,13 @@ export const resources: Resource[] = [
         keywords: ['cro', 'conversion rate optimization', 'landing pages', 'cro audit'],
     },
     {
+        name: 'Panoply',
+        description: 'Independent directory of data tools',
+        categories: ['Analytics', 'Database', 'Tooling'],
+        url: 'https://panoply.io/',
+        keywords: ['data tools directory', 'data stack', 'data warehouse', 'etl tools'],
+    },
+    {
         name: 'PassVult',
         description: 'Most private password manager',
         categories: ['Productivity', 'Security', 'Startup'],
