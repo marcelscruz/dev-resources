@@ -764,6 +764,14 @@ export const resources: Resource[] = [
         keywords: ['technology', 'software', 'web', 'development', 'product', 'startup'],
     },
     {
+        name: 'FullCastBook',
+        description:
+            'Turn a manuscript into a full-cast AI audiobook, with a distinct voice per character plus a narrator. Signup and samples are free; generating audio is paid.',
+        categories: ['AI', 'Audio', 'Writing'],
+        url: 'https://fullcastbook.com',
+        keywords: ['audiobook', 'text-to-speech', 'ai-voice'],
+    },
+    {
         name: 'Fun Fun Function',
         description:
             'I’m Mattias Petter Johansson, mpj for short. I’ve been a full-time programmer for over twenty (!) years. Among others, I',
