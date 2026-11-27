@@ -1,5 +1,5 @@
 {
-"count": 1391,
+"count": 1392,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2845,6 +2845,19 @@
             "Icon"
         ],
         "url": "https://circumicons.com/"
+    },
+    {
+        "name": "Citevant",
+        "description": "Track your brand in AI search answers and reach out to publishers cited by ChatGPT, Gemini, Google AI Overviews, Perplexity and Claude.",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://citevant.com",
+        "keywords": [
+            "AI search",
+            "brand visibility",
+            "outreach"
+        ]
     },
     {
         "name": "Ciyo",
