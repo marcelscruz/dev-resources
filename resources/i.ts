@@ -176,6 +176,14 @@ export const resources: Resource[] = [
         url: 'https://imgupscaler.com',
     },
     {
+        name: 'InboxShield',
+        description:
+            'Zero-signup email deliverability & DNS auth workbench and MIT CLI. Audits recursive SPF 10-lookup trees (with online SPF flattener), 24 DKIM selectors, RFC 7489 DMARC policies, MTA-STS, TLS-RPT, DANE, BIMI, and 5 DNSBL blacklists in 3 seconds.',
+        categories: ['Email', 'Security', 'Tooling'],
+        url: 'https://inbox.shipbastion.com/',
+        keywords: ['email deliverability', 'spf flattener', 'dmarc', 'dkim', 'mta-sts', 'bimi', 'dnsbl'],
+    },
+    {
         name: 'inboxsink',
         description:
             'Disposable email inboxes for end-to-end tests. A wait endpoint blocks until the email arrives and returns the verification code or confirmation link already extracted.',
