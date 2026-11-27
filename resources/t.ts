@@ -114,6 +114,14 @@ export const resources: Resource[] = [
         keywords: ['temp mail', 'disposable email', 'otp', 'email testing', 'rest api', 'mcp', 'playwright'],
     },
     {
+        name: 'Tempboxy',
+        description:
+            'Free disposable .com and .edu.pl email inboxes, keyless JSON REST API, remote MCP server, and 8 email/DNS utilities for QA and automated OTP testing.',
+        categories: ['Email', 'Testing', 'Tooling'],
+        url: 'https://tempboxy.com',
+        keywords: ['temp mail', 'disposable email', 'otp', 'email testing', 'email api', 'mcp server', 'dns'],
+    },
+    {
         name: 'Templated',
         description:
             'Automate your images and PDFs with a simple API. Generate social media visuals, banners, PDFs and more with our API and no-code integrations.',
