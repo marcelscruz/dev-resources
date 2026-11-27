@@ -334,6 +334,14 @@ export const resources: Resource[] = [
         url: 'https://circumicons.com/',
     },
     {
+        name: 'CiteReady',
+        description:
+            'AI search readiness (GEO) auditor checking 10 AI crawlers, /llms.txt compliance, and Schema.org JSON-LD entity graphs.',
+        categories: ['AI', 'SEO', 'Tooling'],
+        url: 'https://cite.shipbastion.com/',
+        keywords: ['ai search', 'geo', 'llms.txt', 'schema.org', 'robots.txt', 'seo'],
+    },
+    {
         name: 'Citevant',
         description:
             'Track your brand in AI search answers and reach out to publishers cited by ChatGPT, Gemini, Google AI Overviews, Perplexity and Claude.',
