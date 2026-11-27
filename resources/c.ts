@@ -334,6 +334,14 @@ export const resources: Resource[] = [
         url: 'https://circumicons.com/',
     },
     {
+        name: 'Citevant',
+        description:
+            'Track your brand in AI search answers and reach out to publishers cited by ChatGPT, Gemini, Google AI Overviews, Perplexity and Claude.',
+        categories: ['AI'],
+        url: 'https://citevant.com',
+        keywords: ['AI search', 'brand visibility', 'outreach'],
+    },
+    {
         name: 'Ciyo',
         description:
             'AI design workspace with a conversational design agent and an infinite canvas for creating and editing images and videos.',
