@@ -47,6 +47,13 @@ export const resources: Resource[] = [
         url: 'https://www.kevinpowell.co/',
     },
     {
+        name: 'Key Input Lab',
+        description: 'Free online keyboard and mouse input testing tools that run in the browser. Test keys, check ghosting and key rollover, view key events, test mouse buttons and scroll wheel, and check keyboard delay.',
+        categories: ['Testing'],
+        url: 'https://keyinputlab.top/',
+        keywords: ['keyboard tester', 'keyboard test', 'key event viewer', 'ghosting test', 'scroll wheel test'],
+    },
+    {
         name: 'Keybr',
         description: 'Teaching the world to type at the speed of thought! Typing lessons that work.',
         categories: ['Typing'],
