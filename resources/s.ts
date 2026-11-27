@@ -888,6 +888,14 @@ export const resources: Resource[] = [
         keywords: ['chrome extension', 'edge extension', 'css inspector', 'tailwind css', 'design tokens', 'oklch'],
     },
     {
+        name: 'SpeedPainter',
+        description:
+            'Browser-based AI speed painting and whiteboard doodle video generator with a hosted MCP server and OpenAPI specification for turning static diagrams and UI screenshots into animated explainer videos.',
+        categories: ['AI', 'Animation', 'Video'],
+        url: 'https://www.speedpainter.org/',
+        keywords: ['ai', 'animation', 'video', 'whiteboard', 'doodle', 'mcp', 'api'],
+    },
+    {
         name: 'SpeedUp AI',
         description: 'End-to-End AI Circuit Schematic Design',
         categories: ['AI', 'Design', 'Prototyping'],
