@@ -66,6 +66,14 @@ export const resources: Resource[] = [
         keywords: ['AI Interview Assistance', 'Assessments', 'AI'],
     },
     {
+        name: 'NerdKit',
+        description:
+            'Zero-upload browser developer tools for inspecting Parquet files, visualizing PostgreSQL EXPLAIN plans, redacting HAR secrets, and debugging JWT/WebAuthn payloads locally.',
+        categories: ['Tooling', 'Security', 'Database'],
+        url: 'https://global-utils.com/en',
+        keywords: ['developer tools', 'parquet', 'postgresql', 'har', 'jwt', 'offline'],
+    },
+    {
         name: 'Netlify',
         description:
             'Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.',
