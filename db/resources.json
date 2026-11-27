@@ -1,5 +1,5 @@
 {
-"count": 1390,
+"count": 1391,
 "data": [
     {
         "name": "1001 Fonts",
@@ -10581,6 +10581,24 @@
             "AI Interview Assistance",
             "Assessments",
             "AI"
+        ]
+    },
+    {
+        "name": "NerdKit",
+        "description": "Zero-upload browser developer tools for inspecting Parquet files, visualizing PostgreSQL EXPLAIN plans, redacting HAR secrets, and debugging JWT/WebAuthn payloads locally.",
+        "categories": [
+            "Tooling",
+            "Security",
+            "Database"
+        ],
+        "url": "https://global-utils.com/en",
+        "keywords": [
+            "developer tools",
+            "parquet",
+            "postgresql",
+            "har",
+            "jwt",
+            "offline"
         ]
     },
     {
