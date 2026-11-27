@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Qelka',
+        description:
+            'Validation and data API for developers: phone, email and IP checks plus domain, SSL, company, IBAN and VAT lookups, with a remote MCP server and free tools.',
+        categories: ['Tooling', 'Email', 'Security'],
+        url: 'https://qelka.com',
+        keywords: ['email verification', 'phone validation', 'ip geolocation', 'vpn detection', 'iban', 'vat', 'mcp', 'api'],
+    },
+    {
         name: 'Qoddi.com',
         description:
             'Hosting Qoddi.com is a PaaS service similar to Heroku with a developer-centric approach and a free tier for developers and micro-services.',
