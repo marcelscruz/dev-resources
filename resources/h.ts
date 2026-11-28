@@ -66,10 +66,10 @@ export const resources: Resource[] = [
     {
         name: 'Hail',
         description:
-            'Build with phone numbers in 120 countries. Handle registration, US A2P 10DLC, calls, texts, and email through Hail API or MCP.',
+            'Give your AI assistant a phone number and an email inbox. Let it handle calls, texts, and email. Build with one API, MCP, CLI, or Python SDK.',
         categories: ['AI', 'Email', 'Tooling'],
         url: 'https://hail.so',
-        keywords: ['phone numbers', 'registration', 'voice', 'sms', 'email', 'mcp', 'api', 'cli', 'python', 'sdk'],
+        keywords: ['ai agents', 'voice', 'sms', 'email', 'mcp', 'api', 'cli', 'python', 'sdk', 'phone numbers'],
     },
     {
         name: 'Hanzilla Jobs',
