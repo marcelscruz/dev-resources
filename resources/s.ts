@@ -63,10 +63,10 @@ export const resources: Resource[] = [
     {
         name: 'Scalekit',
         description:
-            'Auth for AI agents: agents call 55,000+ tools across 1,100+ apps with per-user OAuth, scoped tool access and audit logs. Also MCP auth, SSO and SCIM.',
-        categories: ['Authentication', 'AI', 'Security'],
+            'AI agent integrations platform and MCP gateway: connect agents to 1,100+ apps and 55,000+ tools with per-user credentials, scoped tool calls and audit logs.',
+        categories: ['AI', 'Tooling'],
         url: 'https://www.scalekit.com',
-        keywords: ['agent auth', 'ai agents', 'oauth', 'tool calling', 'mcp', 'sso', 'scim'],
+        keywords: ['ai agents', 'agent integrations', 'mcp gateway', 'mcp', 'tool calling', 'connectors', 'llm tools'],
     },
     {
         name: 'Schedul',
