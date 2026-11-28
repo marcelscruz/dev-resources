@@ -193,13 +193,6 @@ export const resources: Resource[] = [
         keywords: ['himalayas', 'remote', 'jobs', 'developer', 'sales'],
     },
     {
-        name: 'Hired',
-        description:
-            'With Hired your job search has never been easier! Simply create a profile & vetted companies compete for you, reaching out with salary & equity upfront.',
-        categories: ['Job'],
-        url: 'https://hired.com/',
-    },
-    {
         name: 'Hive Index',
         description: 'Find online communities, across all platforms, for any topic.',
         categories: ['Marketing'],

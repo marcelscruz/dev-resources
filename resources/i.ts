@@ -319,13 +319,6 @@ export const resources: Resource[] = [
         keywords: ['Interview Prep', 'Job AI', 'Resume AI', 'interview question', 'interview practice'],
     },
     {
-        name: 'iOS Dev Jobs',
-        description:
-            'Browse the very best iOS development jobs available, or sign up and get a weekly digest delivered by email every Monday.',
-        categories: ['Job'],
-        url: 'https://iosdevjobs.com/',
-    },
-    {
         name: 'IPASIS',
         description:
             'Real-time bot detection and fraud prevention API. Combines IP reputation, VPN/proxy detection, and email validation in a single call. Free tier: 100 requests/day.',
