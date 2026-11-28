@@ -110,6 +110,14 @@ export const resources: Resource[] = [
         keywords: ['react', 'components', 'animated', 'backgrounds', 'customizable', 'free', 'props'],
     },
     {
+        name: 'React Bits Pro',
+        description:
+            'Paid React and Next.js components, marketing blocks, app UI and downloadable templates. Install components and blocks with the shadcn CLI.',
+        categories: ['Programming', 'UI', 'Animation'],
+        url: 'https://pro.reactbits.dev/',
+        keywords: ['react', 'nextjs', 'components', 'blocks', 'templates', 'shadcn', 'tailwind'],
+    },
+    {
         name: 'React Bootstrap',
         description:
             'React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built from scratch as a true React component, without unneeded dependencies like jQuery.',
