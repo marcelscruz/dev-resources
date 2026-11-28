@@ -131,6 +131,13 @@ export const resources: Resource[] = [
         keywords: ['market research', 'customer insights', 'research automation', 'voice of customer'],
     },
     {
+        name: 'Beiluo API',
+        description: 'OpenAI-compatible gateway for GPT, Claude, Gemini, Grok and DeepSeek, with usage-based pricing for developers.',
+        categories: ['AI'],
+        url: 'https://beiluoxi.xyz/',
+        keywords: ['llm', 'api', 'openai compatible', '北洛API'],
+    },
+    {
         name: 'Ben Awad',
         description:
             "I'm a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding.",
