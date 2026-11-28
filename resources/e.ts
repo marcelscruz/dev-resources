@@ -174,6 +174,14 @@ export const resources: Resource[] = [
         url: 'https://epicreact.dev/',
     },
     {
+        name: 'EuroJobs.ai',
+        description:
+            'Aggregates 28,000+ IT jobs across Europe from 21,000 employer career pages (Greenhouse, Lever, Ashby, Workable and others), rechecked hourly. Filters for country, remote, visa sponsorship and English-speaking teams.',
+        categories: ['Jobs', 'Tools'],
+        url: 'https://eurojobs.ai/',
+        keywords: ['europe', 'jobs', 'remote', 'visa sponsorship', 'it jobs', 'tech jobs'],
+    },
+    {
         name: 'EveryInfra',
         description:
             'One API key for structured data from 90 platforms (RedNote, Douyin, TikTok, Amazon and more), web search and CAPTCHA solving via REST, MCP or SDK.',
