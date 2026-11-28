@@ -18,6 +18,14 @@ export const resources: Resource[] = [
         keywords: ['design', 'ui', 'figma', 'free-figma-templates', 'uiKitsAndLibraries'],
     },
     {
+        name: 'SaaSCity',
+        description:
+            'Launch directory for SaaS and AI tools rendered as an isometric city, with free founder and SEO tools plus a keyless remote MCP server.',
+        categories: ['Marketing', 'SEO', 'Startup'],
+        url: 'https://saascity.io',
+        keywords: ['saas', 'directory', 'launch', 'seo', 'mcp', 'startup'],
+    },
+    {
         name: 'SaaSCurate',
         description: 'SaaSCurate is a community-driven platform where SaaS founders launch and grow their products.',
         categories: ['Marketing', 'Startup'],
