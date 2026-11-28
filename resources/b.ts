@@ -191,6 +191,14 @@ export const resources: Resource[] = [
         keywords: ['programming web development javascript react node.js'],
     },
     {
+        name: 'Betterloop',
+        description:
+            'Free website check with a ranked list of fixes. Connect a site to monitor dead clicks, JavaScript errors, and page performance.',
+        categories: ['Analytics', 'Performance', 'Testing'],
+        url: 'https://betterloopai.com',
+        keywords: ['website audit', 'web analytics', 'web vitals', 'mcp'],
+    },
+    {
         name: 'BigDevSoon',
         description: 'Build real-world projects with Figma designs and an AI copilot in a zero-config browser IDE.',
         categories: ['Code Challenge'],
