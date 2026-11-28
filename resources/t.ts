@@ -334,6 +334,14 @@ export const resources: Resource[] = [
         keywords: ['dns', 'ssl', 'dmarc', 'spf', 'whois', 'ip', 'network', 'mcp'],
     },
     {
+        name: 'The SEO Agent',
+        description:
+            'Autonomous SEO platform for developers and SaaS teams with a REST API and open-source MCP server for technical site audits, keyword planning, and CMS publishing.',
+        categories: ['SEO', 'AI', 'Tooling'],
+        url: 'https://www.theseoagent.ai/',
+        keywords: ['seo', 'technical seo', 'site audit', 'mcp', 'seo api', 'keyword research'],
+    },
+    {
         name: 'Themeselection',
         description:
             'Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster.',
