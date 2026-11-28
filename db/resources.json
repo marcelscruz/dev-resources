@@ -1,5 +1,5 @@
 {
-"count": 1395,
+"count": 1396,
 "data": [
     {
         "name": "1001 Fonts",
@@ -16036,6 +16036,24 @@
             "ip",
             "network",
             "mcp"
+        ]
+    },
+    {
+        "name": "The SEO Agent",
+        "description": "Autonomous SEO platform for developers and SaaS teams with a REST API and open-source MCP server for technical site audits, keyword planning, and CMS publishing.",
+        "categories": [
+            "SEO",
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://www.theseoagent.ai/",
+        "keywords": [
+            "seo",
+            "technical seo",
+            "site audit",
+            "mcp",
+            "seo api",
+            "keyword research"
         ]
     },
     {
