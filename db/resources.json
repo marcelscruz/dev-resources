@@ -1,5 +1,5 @@
 {
-"count": 1393,
+"count": 1394,
 "data": [
     {
         "name": "1001 Fonts",
@@ -15670,6 +15670,25 @@
             "rest api",
             "mcp",
             "playwright"
+        ]
+    },
+    {
+        "name": "Tempboxy",
+        "description": "Free disposable .com and .edu.pl email inboxes, keyless JSON REST API, remote MCP server, and 8 email/DNS utilities for QA and automated OTP testing.",
+        "categories": [
+            "Email",
+            "Testing",
+            "Tooling"
+        ],
+        "url": "https://tempboxy.com",
+        "keywords": [
+            "temp mail",
+            "disposable email",
+            "otp",
+            "email testing",
+            "email api",
+            "mcp server",
+            "dns"
         ]
     },
     {
