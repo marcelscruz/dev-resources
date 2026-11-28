@@ -707,6 +707,13 @@ export const resources: Resource[] = [
         url: 'https://www.smashingmagazine.com/the-smashing-newsletter/',
     },
     {
+        name: 'SMSala',
+        description:
+            'SMSala is a global business messaging platform providing reliable SMS, Voice, WhatsApp, and communication solutions for businesses worldwide.',
+        categories: ['Marketing'],
+        url: 'https://smsala.com/en/',
+    },
+    {
         name: 'snappify',
         description: 'Snappify helps you to create beautiful code snippets with ease.',
         categories: ['Code Snippet'],
