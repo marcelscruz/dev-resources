@@ -1,5 +1,5 @@
 {
-"count": 1394,
+"count": 1395,
 "data": [
     {
         "name": "1001 Fonts",
@@ -14692,6 +14692,14 @@
             "Programming"
         ],
         "url": "https://www.smashingmagazine.com/the-smashing-newsletter/"
+    },
+    {
+        "name": "SMSala",
+        "description": "SMSala is a global business messaging platform providing reliable SMS, Voice, WhatsApp, and communication solutions for businesses worldwide.",
+        "categories": [
+            "Marketing"
+        ],
+        "url": "https://smsala.com/en/"
     },
     {
         "name": "snappify",
